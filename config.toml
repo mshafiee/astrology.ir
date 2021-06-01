@@ -33,7 +33,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
+holder = "astrology.ir"
 startYear = "2021"
 suffix = ""
 
@@ -97,7 +97,7 @@ dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author=
 enable = true
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
-username = "MunifTanjim"
+username = "astrology.ir"
 repository = "minimo"
 
 # Utterances: https://utteranc.es
@@ -108,7 +108,7 @@ label = ""
 theme = "github-light"
 
 [params.comments.utterances.github]
-username = "MunifTanjim"
+username = "astrology.ir"
 repository = "minimo"
 
 [params.search]
