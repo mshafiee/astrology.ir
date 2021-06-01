@@ -73,16 +73,11 @@ titleSeparator = "•"
 
 [params.social]
 codepen = "astrology.ir"
-email = "contact@example.com"
+email = "irastrology@gmail.com"
 facebook = "astrology.ir"
-github = "astrology.ir"
-gitlab = "astrology.ir"
-instagram = "astrology.ir"
-linkedin = "astrology.ir"
-twitter = "astrology.ir"
-telegram = "astrology.ir"
-google_scholar = "qc6CJjYAAAAJ"
-youtube = "UCT-U0rNerYxItGcuoPX-WYA"
+instagram = "ir_astrology"
+twitter = "AstrologyIr"
+telegram = "AstrologyIr"
 
 [params.comments]
 enable = false
@@ -109,7 +104,7 @@ theme = "github-light"
 
 [params.comments.utterances.github]
 username = "astrology.ir"
-repository = "minimo"
+repository = ""
 
 [params.search]
 client = "fuse" # algolia / fuse / lunr
@@ -129,7 +124,7 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
+name = "Home"
 weight = -10
 identifier = "repository"
 url = "https://astrology.ir"
