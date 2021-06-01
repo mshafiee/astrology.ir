@@ -1,12 +1,12 @@
-baseURL = "http://www.example.com"
-title = "Minimo"
+baseURL = "https://astrology.ir"
+title = "Astrology - اختربینی (آسترولوژی)"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
 theme = "minimo"
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-RQL06NV6ED"
 
 Paginate = 5
 preserveTaxonomyNames = true
@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = "Astrology - اختربینی (آسترولوژی)"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -34,7 +34,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 [params.copyright]
 prefix = ""
 holder = "MunifTanjim"
-startYear = "2017"
+startYear = "2021"
 suffix = ""
 
 [params.settings]
@@ -72,15 +72,15 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
+codepen = "astrology.ir"
 email = "contact@example.com"
-facebook = "MunifTanjim"
-github = "MunifTanjim"
-gitlab = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
-telegram = "MunifTanjim"
+facebook = "astrology.ir"
+github = "astrology.ir"
+gitlab = "astrology.ir"
+instagram = "astrology.ir"
+linkedin = "astrology.ir"
+twitter = "astrology.ir"
+telegram = "astrology.ir"
 google_scholar = "qc6CJjYAAAAJ"
 youtube = "UCT-U0rNerYxItGcuoPX-WYA"
 
@@ -132,7 +132,7 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+url = "https://astrology.ir"
 
 [blackfriday]
 hrefTargetBlank = true
