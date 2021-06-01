@@ -72,7 +72,6 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "astrology.ir"
 email = "irastrology@gmail.com"
 facebook = "astrology.ir"
 instagram = "ir_astrology"
