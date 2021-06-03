@@ -1,0 +1,12 @@
+  <style>.widget-breadcrumbs </style>
+  <section class='widget widget-breadcrumbs sep-after'>
+    <nav id='breadcrumbs'>
+      <ol>
+        {{ range $.Site.Home.AllTranslations }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+        </li>
+        {{- end -}}
+      </ol>
+    </nav>
+  </section>
