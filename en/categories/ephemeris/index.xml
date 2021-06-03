@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ephemeris on Astrology</title><link>https://astrology.ir/en/categories/ephemeris/</link><description>Recent content in ephemeris on Astrology</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://astrology.ir/en/categories/ephemeris/index.xml" rel="self" type="application/rss+xml"/><item><title>Today’s Ephemeris</title><link>https://astrology.ir/en/ephemeris/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://astrology.ir/en/ephemeris/</guid><description>:toc:
+Minimo supports the following clients for the search feature:
+Algolia Fuse.js Lunr.js Follow the following steps for enabling search in your site.
+Create Search Page First of all, you&amp;rsquo;ll need to create a search page.
+Create a markdown file under /content/page/ directory with the filename search. If your site is multilingual, you can include language code in the filename. For example:
+/content/page/search.md /content/page/search.en.md Add the following options in the frontmatter:</description></item></channel></rss>
