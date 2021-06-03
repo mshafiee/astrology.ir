@@ -1,0 +1,67 @@
+---
+title: Today’s Ephemeris
+linkTitle: Today’s Ephemeris
+menu:
+  main:
+  sidebar:
+    identifier: todays-Ephemeris
+weight: -250
+slug: today-s-Ephemeris
+categories:
+  - ephemeris
+tags:
+  - ephemeris
+toc: true
+---
+
+:toc:
+
+Minimo supports the following clients for the search feature:
+
+- [Algolia](https://www.algolia.com)
+- [Fuse.js](http://fusejs.io)
+- [Lunr.js](https://lunrjs.com)
+
+Follow the following steps for enabling search in your site.
+
+## Create Search Page
+
+First of all, you'll need to create a search page.
+
+Create a markdown file under `/content/page/` directory with the filename `search`. If your site is multilingual, you can include language code in the filename. For example:
+
+- `/content/page/search.md`
+- `/content/page/search.en.md`
+
+Add the following options in the frontmatter:
+
+```yaml
+type: page
+layout: search
+outputs:
+  - html
+  - json
+```
+
+## Select Search Client
+
+For selecting the client for search feature, use the following options in your `config.toml` file:
+
+```toml
+[params.search]
+client = ""
+```
+
+- `params.search` [`Map`]:
+  - `client` [`String`]: Name of the Search Client (_supported values:_ `algolia`,`fuse`,`lunr`)
+
+## Client Specific Steps
+
+The next steps are different for each search client:
+
+
+After you complete those steps, you are good to go!
+
+## Add Search Widget
+
+
