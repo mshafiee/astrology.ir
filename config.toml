@@ -16,7 +16,7 @@ pygmentsCodefences = true
 enableEmoji = true
 
 # Missing translations will default to this content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "fa"
 
 
 [params.assets]
@@ -142,5 +142,5 @@ languageName = "پارسی"
 weight = 2
 title = "آسترولوژی"
 [languages.fa.params.info]
-description = "تحلیل داده و پژوهش در اختربینی با گرایش به سبک ایرانی"
+description = "تحلیل داده و پژوهش در باب اختربینی با گرایش به سبک ایرانی"
 title404 = "Nothing's here!"
