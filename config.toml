@@ -1,6 +1,6 @@
 baseURL = "https://astrology.ir"
 
-theme = "minimo"
+theme = ["minimo"]
 
 disqusShortname = ""
 googleAnalytics = "G-RQL06NV6ED"

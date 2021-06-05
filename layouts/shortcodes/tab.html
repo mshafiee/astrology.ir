@@ -1,0 +1,10 @@
+{{ $tabName := .Get "tabName" }}
+{{ .Parent.Scratch.Add "tabName" (slice $tabName) }}
+{{ $tabTitle := .Get "tabTitle" }}
+{{ .Parent.Scratch.Add "tabTitle" (slice $tabTitle) }}
+
+<div class="tab-pane fade show {{ if eq .Ordinal 0 }}active {{ end }}" id="{{ lower (replaceRE "(\\s)" "" $tabName) }}" role="tabpanel" aria-labelledby="nav-{{ (replaceRE "(\\s)" "" $tabName) }}">
+
+	{{ $.Inner | markdownify }}
+
+</div>

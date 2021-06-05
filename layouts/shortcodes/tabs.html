@@ -1,0 +1,23 @@
+<nav>
+	<div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		{{ $tabTotal := .Get "tabTotal" }}
+		{{ $tabName := $.Scratch.Get "tabName" }}
+		{{ $tabTitle := $.Scratch.Get "tabTitle" }}
+		{{ $tabID := delimit (shuffle (seq 1 5)) "" }}
+
+		{{ range $i, $sequence := (seq $tabTotal) }}
+
+		<a class="nav-item nav-link {{ if eq $i 0 }} active {{ end }}" id="nav-{{ $tabID }}" data-toggle="tab" href="#{{ lower (replaceRE "(\\s)" "" (index $tabName $i)) }}"
+		role="tab" aria-controls="nav-home" aria-selected="true">{{ index $tabTitle $i }}</a>
+
+		{{ end }}
+
+	</div>
+</nav>
+
+<div class="tab-content" id="{{ $tabID }}">
+
+{{ .Inner }}
+
+</div>
