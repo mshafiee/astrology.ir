@@ -5,7 +5,7 @@ theme = ["minimo"]
 disqusShortname = ""
 googleAnalytics = "G-RQL06NV6ED"
 
-Paginate = 7
+Paginate = 10
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
