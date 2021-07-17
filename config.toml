@@ -18,6 +18,7 @@ enableEmoji = true
 # Missing translations will default to this content language
 defaultContentLanguage = "fa"
 
+buildFuture=true
 
 [params.assets]
 favicon = "favicon.ico"
