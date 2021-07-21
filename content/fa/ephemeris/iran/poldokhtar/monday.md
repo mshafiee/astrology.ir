@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Pol Dokhtar, Pol-e Dokhtar, Poldokhtar, Pul-i-Dukhtar, pl dkhtr, pldkhtr, پل دختر, پلدختر
+
+---

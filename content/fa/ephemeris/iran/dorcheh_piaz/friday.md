@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Darcheh Piaz, Darcheh Pīāz, Dorcheh Peyaz, Dorcheh Peyāz, Dorcheh Piaz, Dorcheh Pīāz
+
+---

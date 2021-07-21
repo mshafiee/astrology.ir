@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Emamshahr, Emāmshahr, RUD, Shahrud, Sharud, Shāhrūd, Shārūd, aimamshahr, shahrwd, sharwd, اِمامشَهر, شارود, شاهرود
+
+---

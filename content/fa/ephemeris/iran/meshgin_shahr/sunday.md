@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Kheyav, Kheyāv, Khiav, Khiov, Khiyav, Khiyov, Khīyāv, Khīāv, Meshgin Shahr, Meshgīn Shahr, Meshkin Shahr, Meshkīn Shahr, Mishgin, mshgyn shhr, مشگين شهر
+
+---

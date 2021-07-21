@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: LRR, Lar, Larestan, Lār, Shahr-e Qadim-e Lar, Shahr-e Qadīm-e Lār, lar, shhr qdym lar, شهر قدیم لار, لار
+
+---

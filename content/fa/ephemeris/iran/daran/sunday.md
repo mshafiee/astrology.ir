@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Daran, Darun, Dārān, Dārūn, Fareydan, Faridan, Farīdān, daran, frydn, داران, فریدن
+
+---

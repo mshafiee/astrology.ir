@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Naranj Bagh, Neka, Neka', Nekā, Nekā’, Nika, Nāranj Bāgh, Nīkā, naranj bagh, nka, nyka, Нека, نارَنج باغ, نکا, نکاء, نيکا
+
+---

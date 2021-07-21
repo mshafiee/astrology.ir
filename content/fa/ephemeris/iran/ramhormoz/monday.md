@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Ram Hormuz, Ramhormoz, Ramuz, Rām Hormuz, Rāmhormoz, Rāmuz, ramhrmz, رامهرمز
+
+---

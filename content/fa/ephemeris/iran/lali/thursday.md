@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Dasht-e Lali, Dasht-e Lati, Dasht-e Lālī, Lali, Lali Pelayen, Lālī, Lālī Pelāyen, dsht laly, laly, دشت لالی, لالی
+
+---

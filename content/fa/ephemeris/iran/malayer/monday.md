@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Daulatabad, Daūlatābād, Dowlatabad, Dowlatābād, Malayer, Malāyer, mlayr, ملایر
+
+---

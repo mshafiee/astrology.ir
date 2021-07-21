@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Amrujan, Amrūjān, Beroojen, Borujan, Borujen, Borūjen, Borūjān, Burujan, Burūjān, Urujan, Urūjān, aamrwjan, birujin, brwjn, burwjan, اَمروجان, بروجن, بُروجان, بِرُّجِن
+
+---

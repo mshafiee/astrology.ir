@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Fariab, Fariyab, Faryab, Fāryāb, Fārīāb, Pariab, Paryab, Paryāb, Pay Ab, Pārīāb, Pāy Āb, Shahmoradi-ye Faryab, Shahmorādi-ye Fāryāb, faryab, فاریاب
+
+---

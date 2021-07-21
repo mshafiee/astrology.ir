@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Abrisham, Abrīsham, Bagh Abrisham, Bagh-e Abrisham, Bāgh Abrīsham, Bāgh-e Abrīsham, abryshm, bagh abryshm, ابریشم, باغ ابریشم
+
+---

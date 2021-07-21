@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Malar, Malard, Malār, Malārd, Melard, Melārd, malar, mlard, ملارد, مَلار
+
+---

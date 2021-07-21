@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Fahrej, Fehruj, IHR, Iranshahr, Qal`eh-ye Naseri, Qal‘eh-ye Nāşerī, ayranshhr, Īrānshahr, ايرانشهر
+
+---

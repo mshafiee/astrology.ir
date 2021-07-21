@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Gonabad, Gonābād, Gunabad, Gūnābād, Juymand, Jūymand, gnabad, گناباد
+
+---

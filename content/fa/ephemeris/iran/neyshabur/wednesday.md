@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Nejsaburo, Nejŝaburo, Neyshabur, Neyshābūr, Nichapur, Nisabur, Nischapur, Nishabur, Nishapur, Nishopur, Nişabur, Nīshābūr, Nīshāpūr, nishapu, nysabwr, nyshabwr, nyshapwr, Нишапур, Нишопур, نيسابور, نیشابور, نیشاپور, ニシャプー
+
+---

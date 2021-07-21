@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Kord Ku, Kord Kuy, Kord Kū, Kord Kūy, Kurd Kui, Kurd Kūi, krd kwy, krdkwy, kurd kw, کردکوی, کُرد کو, کرد کوی
+
+---

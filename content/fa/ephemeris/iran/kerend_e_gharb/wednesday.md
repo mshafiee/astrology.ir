@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Karand, Karind, Karīnd, Kerend, Kerend-e Gharb, krnd ghrb, کرند غرب
+
+---

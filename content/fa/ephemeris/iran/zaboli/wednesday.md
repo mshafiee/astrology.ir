@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Magas, Mehrestan, Mehrestān, Qal`eh-ye Zaboli, Qal‘eh-ye Zābolī, Zaboli, Zābolī, mhrstan, zably, زابلی, مهرستان
+
+---

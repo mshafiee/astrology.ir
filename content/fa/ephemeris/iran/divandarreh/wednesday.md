@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Divan Darra, Divandarreh, Diwan Darreh, Dīvan Darra, Dīvāndarreh, Dīwān Darreh, dywandrh, ديواندره
+
+---

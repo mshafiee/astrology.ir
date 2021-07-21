@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Langarood, Langarud, Langarūd, Langerud, Langerūd, Shahr-e Langarud, Shahr-e Langarūd, lngrwd, لنگرود
+
+---

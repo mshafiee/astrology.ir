@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Deh Gulan, Deh-i-Gulan, Deh-ī-Gūlān, Dehgolan, Dehgolān, dhglan, دهگلان
+
+---

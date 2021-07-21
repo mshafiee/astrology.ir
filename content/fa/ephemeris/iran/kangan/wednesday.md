@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bandar-e Kangan, Bandar-e Kangān, KNR, Kangan, Kangun, Kangān, bndri kngan, kngan, بندرِ کنگان, کنگان
+
+---

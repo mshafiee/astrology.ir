@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Shahsavar, Shahsavār, Shahsawar, Shahsawār, Tonekabon, Tonekābon, tnkabn, Тонекабон, تنکابن
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Deh Bozorg-e Sisakht, Deh Bozorg-e Sīsakht, Deh Bozorg-e Sīsākht, Deh-e Bozorg Sisakht, Deh-e Bozorg Sīsakht, Sisakht, Sīsakht, dih buzurgi sysakht, sy skht, دِه بُزُرگِ سيساخت, دِه بُزُرگِ سيسَخت, سی سخت
+
+---

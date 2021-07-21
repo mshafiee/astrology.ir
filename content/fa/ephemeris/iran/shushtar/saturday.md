@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Shooshtar, Shushtar, Shushtehr, Shustar, Shūshtar, Shūstar, shwshtr, Шуштэр, شوشتر
+
+---

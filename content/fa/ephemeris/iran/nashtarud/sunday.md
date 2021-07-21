@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Nashta Rud, Nashtarood, Nashtarud, Nashtā Rūd, Nashtārūd, Neshta Rud, Neshtā Rūd, nshtarwd, نشتارود
+
+---

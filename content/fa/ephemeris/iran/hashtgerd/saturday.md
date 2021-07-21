@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Ashjird, Hashtgerd, Hashtjerd, Hashtjird, hashtjird, hshtgrd, هشتگرد, هَشتجِرد
+
+---

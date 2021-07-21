@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Arzoo'eyeh, Arzoo’eyeh, Arzu, Arzu'iyeh, Arzū’īyeh, Orzu'iyeh, Orzū’īyeh, Ozu'iyeh, Ozū’īyeh, `Orsu'iyeh, arzwyyh, Ārzū, ارزوئیه, ‘Orsū’īyeh
+
+---

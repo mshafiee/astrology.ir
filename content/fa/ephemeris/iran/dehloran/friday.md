@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Deh Lovan, Deh Lovān, Deh Luran, Deh Lūrān, Dehloran, Dehlorān, Dekhlorana, dhlran, dih luan, dih lwran, Дехлорана, دهلران, دِه لوران, دِه لُوان
+
+---

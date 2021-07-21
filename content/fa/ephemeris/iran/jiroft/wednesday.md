@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: JYR, Jiroft, Jīroft, Sabzawaran, Sabzevaran, Sabzevaran-e Jiroft, Sabzevārān, Sabzevārān-e Jiroft, Sabzvaran, Sabzvārān, Sabzāwārān, jyrft, جیرفت
+
+---

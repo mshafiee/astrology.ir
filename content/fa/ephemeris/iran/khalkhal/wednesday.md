@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Harau, Harowabad, Herau, Herauabad, Heroabad, Herow, Herowabad, Herowābād, Heroābād, Hirabad, Hirābād, Khalkhal, Khalkhāl, hrw abad, khlkhal, خلخال, هرو آباد
+
+---

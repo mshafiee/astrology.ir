@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Shahrak, Shahrak-e Taleqan, Shahrak-e Ţāleqān, Taleqan, Tāleqān, shhrk, shhrk talqan, taliqan, talqan, Ţāleqān, تالِقان, شهرک, شهرک طالقان, طالقان
+
+---

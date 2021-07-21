@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Rahnan, Rehnan, Rehnān, Renan, Renān, Rohanan, Rohnan, rhnan, rnan, رنان, رهنان
+
+---

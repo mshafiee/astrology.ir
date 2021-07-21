@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Eklid, Eklīd, Eqlid, Eqlīd, Iqlid, Iqlīd, Shahrestan-e Eqlid, Shahrestān-e Eqlīd, aqlyd, اقلید
+
+---

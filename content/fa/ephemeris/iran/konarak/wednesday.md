@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Kenarak, Kenārak, Konarak, Konārak, Kumarak, Kunarak, Kunark, Kunārak, Kūmārak, knark, کنارک
+
+---

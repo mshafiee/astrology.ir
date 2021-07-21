@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Badar Askan, Badar Askān, Badr Eshkand, Bardaskan, Bardaskand, Bardeshkand, Bardeskan, Bardāskan, Bardāskand, Berdesken, Budraskan, Būdraskān, Bərdəskən, ba er da si kan, baradaskana, brdaskn, brdskn, Бардаскан, Բարդասքան, برداسکن, بردسکن, بردسکن, বারদাস্কান, 巴爾達斯坎
+
+---

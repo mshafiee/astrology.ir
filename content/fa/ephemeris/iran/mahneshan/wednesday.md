@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Mah Neshan, Mahneshan, Māh Neshān, Māhneshān, mah nshan, mahnshan, ماه نشان, ماهنشان
+
+---

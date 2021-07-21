@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Jam, Jam-e Jam, Jamm, Jām-e Jam, Velayat, Velāyat, jami jam, jm, wlayt, جامِ جَم, جم, ولایت
+
+---

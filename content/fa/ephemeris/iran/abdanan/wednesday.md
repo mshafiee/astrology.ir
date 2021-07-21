@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Abdanan, Awdanan, Qal`a Ab-i-Danan, Qal`eh Ab-i-Danan, Qal`eh-ye Ab Danan, Qal`eh-ye Abdaran, Qal‘a Ab-ī-Danan, Qal‘eh Āb-ī-Dānān, Qal‘eh-ye Āb Dānān, Qal‘eh-ye Ābdārān, a bo da nan, abadanana, abdanan, Ābdānān, Абданан, آبدانان, ابدانان, قَلعِۀ آب دانان, قَلعِۀ آبداران, अबदानन, 阿卜达南, 阿卜達南
+
+---

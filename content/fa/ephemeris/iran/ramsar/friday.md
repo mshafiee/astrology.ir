@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: RZR, Ramsar, Ransar, Rāmsar, Rānsar, Sakht Sar, ramsr, ramusaru, رامسر, ラームサル
+
+---

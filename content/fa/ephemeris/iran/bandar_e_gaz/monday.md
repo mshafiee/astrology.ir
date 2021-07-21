@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bandar Gaz, Bandar-e Gaz, Bandar-i-Gaz, Bandar-i-Jaz, Bander Gaz, bndr gz, بندر گز
+
+---

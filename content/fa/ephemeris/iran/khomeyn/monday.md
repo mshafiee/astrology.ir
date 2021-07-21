@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Khomein, Khomeyn, Khomeīn, Khowmeyn, Khumain, Khūmaīn, khmyn, خمين
+
+---

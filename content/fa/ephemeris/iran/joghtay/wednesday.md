@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Jaghatai, Jaghatāi, Joghatay, Joghatāy, Joghtay, Joghtāy, jghtay, جغتای
+
+---

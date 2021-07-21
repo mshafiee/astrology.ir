@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bajestan, Bajestān, Bejestan, Bejestān, Bijestan, Bijistan, Bījestān, Bījistān, bjstan, بجستان
+
+---

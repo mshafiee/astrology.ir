@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bandar Shah, Bandar Shāh, Bandar-e Shah, Bandar-e Shāh, Bandar-e Torkaman, Bandar-e Torkeman, Bandar-e Torkman, bandari shah, bandari turkman, bndr trkmn, بندر ترکمن, بَندَرِ تُرکمَن, بَندَرِ شاه
+
+---

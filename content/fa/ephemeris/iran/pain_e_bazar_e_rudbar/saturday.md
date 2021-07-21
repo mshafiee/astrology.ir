@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Pa'in-e Bazar-e Rudbar, Pā’īn-e Bāzār-e Rūdbār, Rudbar, Rudbar-e Kuhpayeh-ye Pa'in, Rūdbār, Rūdbār-e Kūhpāyeh-ye Pā’īn, payyn bazar rwdbar, rwdbar, rwdbar kwhpayh payyn, رودبار, رودبار کوهپایه پائین, پائین بازار رودبار
+
+---

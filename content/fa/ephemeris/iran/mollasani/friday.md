@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Molla Sany, Mollasani, Mollā Sāny, Mollās̄ānī, Mulla Sani, Mulla Sāni, Ramin, Rāmīn, mla thany, ramyn, رامین, ملا ثانی
+
+---

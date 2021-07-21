@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Omidiyeh, Omidiyeh Sherkat-e Naft, Omīdīyeh, Omīdīyeh Sherkat-e Naft, Sherkat-e Naft, amydyh, amydyh shrkt nft, امیدیه, امیدیه شرکت نفت
+
+---

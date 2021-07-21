@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Astane, Astaneh, Astaneh-ye Ashrafiyeh, astanh ashrfyh, Āstāneh, Āstāneh-ye Ashrafīyeh, آستانه اشرفیه
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Azaran, Hashtrud, Hashtrūd, Sar Eskand, Sar Eskand Khan, Sar Eskand Khān, Sar Eskandar, Saraskand, Sarāskand, hshtrwd, Āz̄arān, هشترود
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Masjed Soleiman, Masjed Soleyman, Masjed Soleymān, Masjed-e Soleyman, Masjed-e Soleymān, Masjid-i-Sulaiman, msjd slyman, مسجد سلیمان
+
+---

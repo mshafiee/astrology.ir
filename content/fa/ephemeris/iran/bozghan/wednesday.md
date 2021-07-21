@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Barghan, Barghān, Bozghan, Bozghān, Firuzeh, Fīrūzeh, bzghan, fyrwzh, بزغان, فيروزه
+
+---

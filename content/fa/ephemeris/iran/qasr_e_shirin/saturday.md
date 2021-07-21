@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Ghasr-i-shirin, Ghasr-shirin, Ghasr-shīrīn, Ghasr-ī-shīrīn, Qasr-e Shirin, Qasr-i-Shirin, Qasr-ī-Shīrīn, Qaşr-e Shīrīn, qsr shyryn, قصر شيرين
+
+---

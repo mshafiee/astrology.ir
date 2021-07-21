@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Golpayagan, Golpayegan, Golpāyagān, Golpāyegān, Gulpaigan, Gulpāīgān, Shahr-e Golpayegan, Shahr-e Golpāyegān, glpaygan, گلپایگان
+
+---

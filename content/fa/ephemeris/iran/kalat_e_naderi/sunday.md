@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Kalat, Kalat-e Naderi, Kalāt, Kalāt-e Nāderī, klat, klat nadry, کلات, کلات نادری
+
+---

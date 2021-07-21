@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bandar-e Deyyer, Daiyir, Dayer, Dayir, Dayyer, Deyr, Qal'eh Dir, Qal’eh Dīr, bndr dyr, dyr, qalyih dyr, بندر دیر, دير, قَلئِه دير
+
+---

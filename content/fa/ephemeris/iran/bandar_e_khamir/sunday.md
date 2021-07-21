@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bandar-e Khamir, Bandar-e Khamīr, Khamir, Khamīr, Xamir, bandari khamyr, bndr khmyr, bndrkhmyr, khamyr, بندر خمير, بندرخمير, بَندَرِ خَمير, خَمير
+
+---

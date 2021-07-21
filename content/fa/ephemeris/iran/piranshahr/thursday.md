@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: KHA, Khaneh, Khāneh, Okrug Peronsahr, Okrug Peronšahr, PIran Shahr, PIransaher, PIransahr, PIransar, PIransara, PIranschahr, PIransehr, PIranshahr, PIranshekhr, PIransherkh, PIransjahr, PIranszahr, PIranxahr, PIranşehr, PIranşəhr, PIranšaher, PIranšahr, PIranšāra, Pîranşar, Pīrān Shahr, Pīrānshahr, byranshhr, pi lan sha he er, pIranshafuru, pyranshar, pyranshhr, Пероншаҳр, Пираншехр, Піраншерх, بیرانشهر, پیرانشار, پیرانشهر, پیرانشھر, پیرانشہر, ピーラーンシャフル, 皮兰沙赫尔
+
+---

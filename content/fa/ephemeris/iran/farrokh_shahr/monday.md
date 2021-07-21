@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Farrokh Shahr, Qahferokh, Qahofrokh, Qatarokh, Qehfarukh, frkh shhr, qahfirukh, qahufrukh, qatarukh, فرّخ شهر, قَتَرُخ, قَهفِرُخ, قَهُفرُخ
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Golshan, Gulshan, TCX, Tabas, Tabas Gilaki, Tebes, Təbəs, ta ba si, tbs, Ţabas, Табас, Тебес, شہرستان طبس, طبس, 塔巴斯
+
+---

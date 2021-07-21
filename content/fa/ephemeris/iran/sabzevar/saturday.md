@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: AFZ, Sabzawar, Sabzawār, Sabzevar, Sabzevār, Sabzewar, Sabzivor, Sebzevar, Səbzivar, sa bo ze wa er, sab si war, sabzevara, sbzwar, Сабзевар, Сабзивор, Себзевар, سبزوار, सब्ज़ेवार, ซับซีวาร์, 薩卜澤瓦爾
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Azadshahr, Shah Pasand, Shāh Pasand, azad shhr, shah psnd, Āzādshahr, آزاد شهر, شاه پسند
+
+---

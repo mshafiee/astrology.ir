@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Homayoon Shahr, Homayunshahr, Homāyūnshahr, Khomeyni Shahr, Khomeynishahr, Khomeynī Shahr, Khomeynīshahr, Sedeh, khmyny shhr, خمینی شهر
+
+---

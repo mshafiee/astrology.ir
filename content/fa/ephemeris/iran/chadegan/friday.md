@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Chadegan, Chadgan, Chadgun, Chadgūn, Chadugan, Chadūgān, Chādegān, Chādgān, chadgan, چادگان
+
+---

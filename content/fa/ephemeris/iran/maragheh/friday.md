@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: ACP, Maragheh, Maraghen, Marāgheh, Marāghen, mraghh, مراغه
+
+---

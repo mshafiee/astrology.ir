@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Dalijan, Dalijān, Delijan, Delījān, Dilijan, Dilījān, dlyjan, دليجان
+
+---

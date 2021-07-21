@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bandar Imam, Bandar Imam Khomeini, Bandar Jomeiny, Bandar Sahpur, Bandar Šâhpur, Bandar-e Chomejni, Bandar-e Emam Khomeyni, Bandar-e Homeini, Bandar-e Imam Chomeini, Bandare Chomeinis, Bandare Emm Xomeyni, Bender Imam Humeyni, Bender İmam Humeyni, Bender-Imam-Khomejni, Bender-Khomejni, Bəndər İmam Xomeyni, QBR, bandaleueemamhomeini, bandara-e-imama khumeyani, bandare・emamu・homeini, bndr amam khmyny, bndramam khmyny, huo mei ni gang, mynaʾ alamam alkhmyny, Бендер-Імам-Хомейні, Бендер-Хомейни, بندر امام خمينى, بندر امام خمینی, بندرامام خمینی, ميناء الإمام الخميني, बंदर-ए-इमाम खुमेयनी, バンダレ・エマーム・ホメイニー, 霍梅尼港, 반다르에에맘호메이니
+
+---

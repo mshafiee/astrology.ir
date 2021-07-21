@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Gish Dafeh, Gomesh Tappeh, Gomish Tappeh, Gomish Tappeh Jik, Gomishan, Gomīsh Tappeh, Gomīsh Tappeh Jīk, Gomīshān, Gumish Tepe, Gumshan, Gumshān, Gīsh Dafeh, gmysh tph, gmyshan, گميش تپه, گميشان
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Babolsar, Babul Sar, Bābolsar, Bābul Sar, Mashhad-i-Sar, Mashhadsar, Meshed-i-Sar, bablsr, بابلسر
+
+---

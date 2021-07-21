@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Dargaz, Darreh Gaz, Mohammadabad, Mohammadabad Arbab, Moḩammadābād, Moḩammadābād Arbāb, Muhammadabad, Muhammadābād, drgz, drh gz, دره گز, درگز
+
+---

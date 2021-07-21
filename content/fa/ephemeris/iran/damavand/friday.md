@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Damavand, Damāvand, Demavend, Demāvend, Qasabeh-e Damavand, Qaşabeh-e Damāvand, dmawnd, qasabihi damawand, Дамаванд, دماوند, قَصَبِهِ دَماوَند
+
+---

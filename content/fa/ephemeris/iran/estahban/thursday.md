@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Estahban, Estahbanat, Estahbān, Estehbanat, Eşţahbān, Eşţahbānāt, Istehbanat, Istehbānāt, Savanat, Savānāt, Shahr-e Estahbanat, Shahr-e Eşţahbānāt, asthban, استهبان
+
+---

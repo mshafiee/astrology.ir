@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Jazireh Khark, Jazireh-ye Khark, Jazīreh-ye Khārk, Khark, Khārk, khark, Харк, جَزيرِۀ خارک, خارک
+
+---

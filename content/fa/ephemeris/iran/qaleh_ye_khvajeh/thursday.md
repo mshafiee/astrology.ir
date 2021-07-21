@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Qal'eh Khajeh, Qal`eh Khvajeh, Qal`eh-ye Khvajeh, Qal`eh-ye Khvajeh Bala, Qal‘eh Khvājeh, Qal‘eh-ye Khvājeh, Qal‘eh-ye Khvājeh Bālā, Qal’eh Khājeh, qlʿh khwajh, قلعه خواجه, قلعه خواجه بالا
+
+---

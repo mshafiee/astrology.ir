@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Torbat-e Heydariyeh, Torbat-e Ḩeydarīyeh, Torbat-e-Heydari, Turbat-i-Haidari, Turbet-i-Haidari, trbt hydryh, تربت حیدریه
+
+---

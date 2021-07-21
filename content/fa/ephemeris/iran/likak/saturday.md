@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Lak Lak, Lakak, Likak, Likak-e Bahmani, Lirkak, Līkak, Līkak-e Bahmanī, Līrkak, Qal`eh-i-Likak, Qal`eh-ye Likak, Qal‘eh-i-Likak, Qal‘eh-ye Līkak, Seh Laklak, lykk, lykk bhmny, ليکک, لیکک بهمنی
+
+---

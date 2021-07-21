@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bagh Malek, Bagh-e Malek, Bagh-i-Malik, Bāgh-e Malek, bagh mlk, باغ ملک
+
+---

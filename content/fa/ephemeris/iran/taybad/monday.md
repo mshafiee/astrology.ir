@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Taiabad, Taybad, Tayebad, Tayebat, Tayyebat, Taīabad, Tāybād, Tāyebāt, taybad, Ţayyebāt, تايباد
+
+---

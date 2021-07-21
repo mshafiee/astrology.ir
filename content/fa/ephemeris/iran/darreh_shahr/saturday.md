@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Dareh sahr, Darre Szahr, Darreh Shahr, Darreh-ye Shahr, Darrehshahr, Darreshekhr, Deresehr, Dereşehr, Dərəşəhr, Madakto, drh shhr, Даррашаҳр, Даррешехр, Դարեհ շահր, دره شهر, دره‌شهر, دەڕەشار, شهرستان دره‌شهر
+
+---

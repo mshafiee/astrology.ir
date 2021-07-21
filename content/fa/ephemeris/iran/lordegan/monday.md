@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Lord Jan, Lordagan, Lordagān, Lordajan, Lordajān, Lordakan, Lordakān, Lordegan, Lordegān, Lordgan, Lordgān, Lurdagan, Lurdagān, lrdgan, lurd jan, لردگان, لُرد جَن
+
+---

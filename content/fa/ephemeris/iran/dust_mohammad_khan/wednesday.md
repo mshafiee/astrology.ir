@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Dust Mohammad Khan, Dūst Moḩammad Khān, dwst mhmd khan, دوست محمد خان
+
+---

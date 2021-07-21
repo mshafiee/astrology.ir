@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Koobanan, Kuh Banan, Kuh Baneh, Kuhbanan, Kuhbonan, Kūh Baneh, Kūh Banān, Kūhbanān, Kūhbonān, kwhbnan, کوهبنان
+
+---

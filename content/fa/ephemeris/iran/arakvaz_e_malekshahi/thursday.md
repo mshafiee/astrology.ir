@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Arakvaz, Arakvaz-e Malekshahi, Arakvāz, Arakvāz-e Malekshāhī, Arkavazi, Arkavāzī, Arkvaz, Arkvāz, Arkwaz, Arkwāz, Qal`eh Darreh, Qal‘eh Darreh, arkwaz, arkwaz mlkshahy, ارکواز, ارکواز ملکشاهی, قَلعِه دَرِّه
+
+---

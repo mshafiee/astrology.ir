@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Dezh Shahpur, Dezh Shapoor, Dezh Shāhpūr, Marivan, Marīvān, Qal`eh-ye Marivan, Qal‘eh-ye Marīvān, dizh shahpwr, mrywan, دِژ شاهپور, قَلعِۀ مَريوان, مریوان
+
+---

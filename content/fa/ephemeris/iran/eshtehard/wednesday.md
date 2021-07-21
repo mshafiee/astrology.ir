@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Eshtehard, Eshtehārd, Ishtahabad, Ishtahard, ashthard, Īshtahard, Īshtahābād, اشتهارد
+
+---

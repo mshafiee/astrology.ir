@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Narmashir, Narmāshīr, Rostamabad, Rostamābād, nrmashyr, rstm abad, رستم آباد, نرماشير
+
+---

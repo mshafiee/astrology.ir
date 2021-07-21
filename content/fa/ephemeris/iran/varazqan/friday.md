@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Varazqan, Varazqān, Varezqan, Varezqān, Varzagan, Varzaghan Dezmar, Varzagān, Varzaqan, Varzaqān, Verazgan, Verazqan, Verazqān, warzagan, warzaghan dizmar, wirazgan, wrzqan, ورزقان, وَرزَغَن دِزمَر, وَرزَگان, وِرَزگَن
+
+---

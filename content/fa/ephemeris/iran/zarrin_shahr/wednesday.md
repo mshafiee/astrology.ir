@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Qal`eh Riz, Qal‘eh Rīz, Riz, Riz-e Lanjan, Rīz, Rīz-e Lanjān, Zarrin Shahr, Zarrīn Shahr, zryn shhr, زرّین شهر
+
+---

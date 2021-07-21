@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Nir, Nīr, Shahrestan-e Nir, Shahrestān-e Nīr, nyr, shhrstan nyr, شهرستان نير, نير
+
+---

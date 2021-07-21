@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Gaskar, Zeyabar, Zeyābar, Zia' Bar, Ziabar, Ziabera, Ziya' Bar, Zīyā’ Bar, dyabr, ضیابر, Ẕīābar, Ẕīā’ Bar
+
+---

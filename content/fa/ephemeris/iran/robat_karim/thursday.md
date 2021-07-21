@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Robat Karim, Robāţ Karīm, Shahriar, Shahryar, Shahryār, rbat krym, رباط کريم
+
+---

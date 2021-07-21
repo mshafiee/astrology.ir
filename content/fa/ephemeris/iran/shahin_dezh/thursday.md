@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Sa'in Dezh, Sa'in Qal`eh, Sahin Dazh, Sain Kaleh, Shahin Dezh, Shāhīn Dezh, Sāīn Kaleh, shahyn dzh, Şā’īn Dezh, Şā’īn Qal‘eh, شاهین دژ
+
+---

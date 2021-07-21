@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Karaj, Qal`eh Hasan, Qal`eh-ye Hasan Khan, Qal‘eh Hasan, Qal‘eh-ye Ḩasan Khān, Qods, Shahr-e Qods, Shahrak-e Qods, karaj, qds, shhr qds, shhrk qds, شهر قدس, شهرک قدس, قدس, قلعه حسن خان, قَلعِه هَسَن, کَرَج
+
+---

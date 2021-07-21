@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Esfarayen, Esfarāyen, Meyanabad, Meyanābād, Mianabad, Miyanabad, Mīyānābād, Mīānābād, asfrayn, اسفراین
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Dorood Garan, Dorud, Dorūd, Dow Rud, Dow Rūd, Durud, Dūrūd, dwrwd, دورود
+
+---

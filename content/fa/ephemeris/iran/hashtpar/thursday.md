@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Gashpar, Hashtpar, Hashtpar-e Tavalesh, Hashtpar-e Tavālesh, Otak Saray, Otaq Sarai, Otaq Saray, Otāq Sarai, Oţāq Sarāy, Talesh, Tālesh, hshtpr, hshtpr twalsh, هشتپر, هشتپر توالش
+
+---

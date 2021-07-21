@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Seyadahan, Seyādahan, Siadehan, Siahdehan, Siakh-Degen, Siakhdekhan, Sīahdehān, Sīādehan, Takestan, Takistan, Tākestān, Tākistān, takstan, تاکستان
+
+---

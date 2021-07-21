@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Shoosh, Shush, Shūsh, Susa, Suse, Susy, Suza, Suzo, Suzy, Súsy, Sūsa, shwsh, susa, Сузы, شوش, スーサ
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bardesir, Bardesīr, Bardsir, Bardsīr, Deh-e Now-e Mashiz, Deh-e Now-e Mashīz, Mashiz, Mashīz, Mshiz, Qal`eh-ye Mashiz, Qal‘eh-ye Mashīz, brdsyr, بردسیر
+
+---

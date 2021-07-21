@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Ali Shah `Iwaz, Ali Shāh ‘Iwaz, Shahreyar, Shahreyār, Shahriar, Shahriyar, Shahriyār, Shahrīār, Shakhrijar, `Ali Shah `Avaz, shhryar, Шахрияр, شهريار, ‘Alī Shāh ‘Avaẕ
+
+---

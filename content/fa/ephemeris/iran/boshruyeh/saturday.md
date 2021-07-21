@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bocruye, Boshruiyeh, Boshruyeh, Boshrūyeh, Boshrūīyeh, Bushruieh, Bushruiyeh, Bushrūīeh, Bushrūīyeh, bshrwyh, بشرویه
+
+---

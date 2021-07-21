@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Mahallat, Mahallat Bala, Mahallat-e Bala, Mahallāt Bāla, Maḩallāt, Maḩallāt-e Bālā, mhlat, محلات
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Aran, Aran Bidgol, Aran va Bidgol, Arun, Arūn, Gol Ara, Gol Ārā, aran, aran byd gl, aran w bydgl, gl ara, Ārān, Ārān Bīdgol, Ārān va Bīdgol, آران, آران بيد گل, آران و بيدگل, گل آرا
+
+---

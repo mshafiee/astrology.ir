@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Barqan, Barqān, Borgan, Qasr Qand, Qasr-e Qand, Qasr-e-Qand, Qaşr Qand, Qaşr-e Qand
+
+---

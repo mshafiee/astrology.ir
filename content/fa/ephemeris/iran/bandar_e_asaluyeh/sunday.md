@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Asalu, Bandar-e `Asalu, Bandar-e `Asaluyeh, Bandar-e ‘Asalū, Bandar-e ‘Asalūyeh, PGU, `Asaluyeh, بندر عسلویه, بَندَرِ عَسَلو, عسلويه, ‘Asalūyeh
+
+---

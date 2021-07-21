@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Dilmagan, Dilman, Dīlmagān, Dīlman, Salmas, Salmās, Shahpoor, Shahpur, Shapur, Shāhpūr, slmas, Салмас, سلماس
+
+---

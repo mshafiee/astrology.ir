@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Arsanjan, Arsanjān, Arsenjan, Arsenjān, Arsinjan, Arsinjān, arsnjan, ارسنجان
+
+---

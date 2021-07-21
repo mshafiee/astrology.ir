@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Meyandoab, Meyāndoāb, Miandoab, Miandow Ab, Miandowab, Mianduab, Miyandoab, Miyanduab, Miyāndūāb, Mīyāndoāb, Mīāndow Āb, Mīāndowāb, Mīāndoāb, Mīāndūāb, myandwab, Миандоаб, میاندوآب
+
+---

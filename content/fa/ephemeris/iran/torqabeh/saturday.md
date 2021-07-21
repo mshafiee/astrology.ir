@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Targhobeh, Toroqbeh, Torqabeh, Torqebeh, trqbh, Ţoroqbeh, Ţorqabeh, طرقبه
+
+---

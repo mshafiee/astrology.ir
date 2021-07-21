@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: AKW, Agha Jari, Aghajari, Aqa Jari, aghajary, Āghā Jārī, Āghājārī, Āqā Jarī, آغاجاری
+
+---

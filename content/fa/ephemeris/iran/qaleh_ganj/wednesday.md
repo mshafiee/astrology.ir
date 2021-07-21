@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Ghal`eh Ganj, Ghal‘eh Ganj, Kalat-i-Ganj, Kalateh-ye Ganj, Kalāt-i-Ganj, Kalāteh-ye Ganj, Mohammadabad, Moḩammadābād, Qal`eh Ganj, Qal`eh-ye Ganj, Qal‘eh Ganj, Qal‘eh-ye Ganj, قلعه گنج
+
+---

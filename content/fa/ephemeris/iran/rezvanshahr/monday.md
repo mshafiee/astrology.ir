@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Razvand, Rezvandeh, Rezvanshahr, Rezvāndeh, Rezvānshahr, Reẕvāndeh, Reẕvānshahr, Rizvand, Rizwand, rdwandh, rdwanshhr, رضوانده, رضوانشهر
+
+---

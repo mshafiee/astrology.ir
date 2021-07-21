@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Firuzkuh, Fīrūzkūh, Qasabeh-ye Firuz Kuh, Qaşabeh-ye Fīrūz Kūh, fyrwzkwh, فيروزکوه
+
+---

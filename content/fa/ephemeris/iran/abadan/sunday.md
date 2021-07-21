@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: ABD, Abadan, Abadana, Abadanas, Abadano, Abadán, Ampantan, Obodon, a ba dan, abadan, abadana, abadani, Ábádán, Ābadāna, Ābādān, ʿbadan, Αμπαντάν, Абадан, Ободон, Աբադան, אבאדאן, آبادان, ابادان, عبادان, अबादान, ਆਬਾਦਾਨ, აბადანი, アバダーン, アーバーダーン, 阿巴丹, 아바단
+
+---

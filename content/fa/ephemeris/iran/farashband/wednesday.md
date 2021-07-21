@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Farash, Farashband, Farrash, Farrashband, Farrāsh, Farrāshband, Farāsh, Farāshband, frashbnd, فراشبند
+
+---

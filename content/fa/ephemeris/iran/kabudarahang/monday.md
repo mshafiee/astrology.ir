@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Kaboodrahang, Kabud Rahang, Kabudarahang, Kabutarahang, Kabūd Rāhang, Kabūdarāhang, Kabūtarāhang, kbwdr ahng, کبودر آهنگ
+
+---

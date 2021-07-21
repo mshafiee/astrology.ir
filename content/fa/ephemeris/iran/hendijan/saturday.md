@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Hendeyan, Hendeyān, Hendian, Hendijan, Hendijan Kuchek, Hendijar, Hendījān, Hendījān Kūchek, Hendījār, Hendīān, Hindian, Hindijan, Hindīān, hndyjan, هندیجان
+
+---

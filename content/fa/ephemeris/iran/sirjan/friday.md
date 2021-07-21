@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: SYJ, Sa'idabad, Sa‘īdābād, Sircan, Sirdschan, Sirdzan, Sirdzhan, Sirdżan, Sirdžan, Sirjan, Sīrjān, sirajana, syrjan, xi er zhan, Серҷон, Сирджан, سيرجان, سیرجان, सीरजान, 錫爾詹
+
+---

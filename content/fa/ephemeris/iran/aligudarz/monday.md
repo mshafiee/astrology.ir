@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Aligoodarz, Aligudarz, Alīgūdarz, `Ali Gudar, alygwdrz, Алигударз, الیگودرز, ‘Ali Gudār
+
+---

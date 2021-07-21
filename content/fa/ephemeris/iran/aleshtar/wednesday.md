@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Alashtar, Aleshtar, Alishtar, Alishtār, Qal`eh Mozaffari, Qal`eh `Alishtar, Qal‘eh Moz̧affari, Qal‘eh ‘Alishtār, alshtr, الشتر
+
+---

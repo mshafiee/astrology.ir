@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Andimeshg, Andimeshk, Andimishk, Andremeshl, Andīmeshg, Andīmeshk, Andīmīshk, Salehabad, Salehābād, andymshk, اندیمشک
+
+---

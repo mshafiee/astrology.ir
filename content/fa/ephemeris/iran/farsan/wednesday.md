@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Farsa, Farsan, Farsian, Farsun, Farsūn, Fārsā, Fārsān, Fārsīān, farsan, فارسان
+
+---

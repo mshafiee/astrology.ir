@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Eslamabad, Eslamabad-e Gharb, Eslāmābād, Eslāmābād-e Gharb, Harunabad, Hārūnābād, Shahabad, Shahabad-e Gharb, Shāhābād, Shāhābād-e Gharb, aslam abad ghrb, اسلام آباد غرب
+
+---

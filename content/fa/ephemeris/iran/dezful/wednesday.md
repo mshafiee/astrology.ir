@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: DEF, Dezfoul, Dezful, Dezfūl, Dizful, Dizful', Dīzfūl, des ful, dezaphula, di zi fu lei, dyzfwl, dzfwl, Дизфуль, دزفول, ديزفول, देज़फूल, เดซฟูล, 迪茲富勒
+
+---

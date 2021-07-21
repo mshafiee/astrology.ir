@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Araplar, Pol Dasht, Pol'desht, Pol-e Dasht, Poldasht, Pol’desht, Pul Dasht, aaraplar, pldsht, اَرَپلَر, پلدشت
+
+---

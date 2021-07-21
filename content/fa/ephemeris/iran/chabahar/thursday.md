@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Cabahar, Cahbahar, Chabahar, Chabakhar, Chah Bahar, Chakhbekhar, Chāh Bahār, Czabahar, Tschahbahar, ZBR, bndr chabhar, cabahara, chabhar, chah bhar, qia he ba ha er, tshabhar, Çabahar, Čabahar, Čáhbahár, Чабахар, Чахбехар, Чҳобаҳор, بندر چابهار, تشابهار, چابهار, چابہار, چاه بهار, چاہ بہار, चाबहार, ਚਾਬਹਾਰ, 恰赫巴哈爾
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Faridun Kinar, Fereidun Kenar, Fereydun Kenar, Fereydunkenar, Fereydūn Kenār, Fereydūnkenār, Fāridūn Kinār, Qasabeh, Qaşabeh, frydwn knar, frydwnknar, فريدون کنار, فريدونکنار
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Kashmar, Soltanabad, Solţānābād, Sultanabad, Sultānābād, Turshiz, sltan abad, سلطان آباد
+
+---

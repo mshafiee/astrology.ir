@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: BDH, Bandar Langeh, Bandar-e Lengeh, Bandar-e-Langeh, Linja, Linjah, bndr lngh, بندر لنگه
+
+---

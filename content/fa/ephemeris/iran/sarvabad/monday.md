@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Sarrabad, Sarrābād, Sarvabad, Sarvābād, Saulawa, Saulāwa, Sulaveh, Sūlāveh, srw abad, سرو آباد
+
+---

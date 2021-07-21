@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Abar Qu, Abar Qū, Abarghoo, Abarku, Abarkuh, Abarkū, Abarkūh, Abarquh, Abarqūh, aabarghu, aabarkw, aabarqwh, abr qw, abrkwh, ابر قو, ابرکوه, اَبَرغُّ, اَبَرقوه, اَبَرکو
+
+---

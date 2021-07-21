@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Rash Khar, Rashkhvan, Rashkhvān, Rashtkhvar, Rashtkhvār, Roshkhvar, Roshkhvār, Roshtehkhvar, Roshtehkhvār, Roshtkhar, Roshtkhvar, Roshtkhvār, Roshtkhār, Rushkar, Rūshkār, rshtkhwar, رشتخوار
+
+---

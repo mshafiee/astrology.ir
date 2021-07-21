@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Saggiz, Saggız, Saghez, Saghghez, Sakez, Sakezo, Sakiz, Sakkiz, Sakīz, Saqez, Saqqez, Saqqez (2), Saqqiz, Saqqız, Sekkez, Seqiz, sa gai zi, saghiz, sakkeja, sakyz, saqiz, sqz, sqz (1), sqz (2), Саққиз, Секкез, سقز, سقّز (1), سقّز (٢), سَغِز, سَقِّز, سَکيز, سەقز, सक्केज, 薩蓋茲
+
+---

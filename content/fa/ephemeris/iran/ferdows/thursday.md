@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Ferdous, Ferdows, Firdaus, Firdavs, Firdevs, Firdovs, Tun, Tūn, fei er dao si, ferudo~usu, frdws, Фердоус, Фирдавс, فردوس, フェルドゥース, 費爾道斯
+
+---

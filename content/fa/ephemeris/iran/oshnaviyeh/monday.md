@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Ashnooyeh, Oshnaviyeh, Oshnavīyeh, Oshnovie, Oshnovieh, Oshnoviyeh, Oshnovīeh, Oshnovīyeh, Oshnuje, Ushnu, Ushnuiyeh, Ushnū, Ushnūīyeh, ashnwyh, Ошновіє, Ошнуйе, اشنويه
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bandar-e Now Shahr, NSH, Nau Shahr, Nowshahr, nwshhr, نوشهر
+
+---

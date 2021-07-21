@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Khalafabad, Khalafābād, Khalas Abad, Ram Shahr, Ramshir, Rāmshīr, khlf abad, ramshyr, خلف آباد, رامشیر
+
+---

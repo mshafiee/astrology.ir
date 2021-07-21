@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Seyah Kal, Seyāh Kal, Siah Kal, Siahkal, Siahkal Mahalleh, Siyah Kal, Sīyāh Kal, Sīāh Kal, Sīāhkal, Sīāhkal Maḩalleh, syahkl, سیاهکل
+
+---

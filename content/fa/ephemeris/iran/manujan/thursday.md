@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Jarian, Jārīān, Manujan, Manūjān, Posht Qalat, Posht Qalāt, Qal`eh-ye Manujan, Qal‘eh-ye Manūjān, jaryan, mnwjan, جاریان, منوجان
+
+---

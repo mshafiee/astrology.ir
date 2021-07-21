@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bazar-e Masal, Bāzār-e Māsāl, Masal, Masal-Bazar, Māsāl, Sar-i-Bazar, Sar-i-Bāzar, Sari Bazar Musar, Sārī Bāzār Mūsār, bazar masal, masal, بازار ماسال, ماسال
+
+---

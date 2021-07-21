@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Esfandabad, Esfandābād, Varamin, Varāmīn, Veramin, Verāmin, varamin, wramyn, Варамин, ورامين
+
+---

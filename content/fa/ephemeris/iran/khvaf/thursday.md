@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Khaf, Khvaf, Khvāf, Khāf, Qasabeh-ye Rud, Qaşabeh-ye Rūd, Rud, Rui Khaf, Ruy, Rūd, Rūi Khāf, Rūy, khwaf, خواف
+
+---

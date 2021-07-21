@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bandar Deylam, Bandar Dilam, Bandar Dīlam, Bandar-e Delam, Bandar-e Deylam, Dilam, Dīlam, bndr dylm, بندر ديلم
+
+---

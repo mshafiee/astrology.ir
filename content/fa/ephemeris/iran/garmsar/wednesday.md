@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Garmsar, Garmsār, Qeshlaq, Qeshlāq, Qishlaq, Shahr-e Qeshlaq, Shahr-e Qeshlāq, grmsar, qishlaq, shahri qishlaq, شَهرِ قِشلاق, قِشلاق, گرمسار
+
+---

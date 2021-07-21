@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Somee Sara, Sowma`eh Sara, Sowme`eh Sara, Sume`eh Sara, Sumehsara, Sumesera, Şowma‘eh Sarā, Şowme‘eh Sarā, Şūme‘eh Sarā, صومعه سرا
+
+---

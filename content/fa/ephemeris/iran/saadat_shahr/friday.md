@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Sa'adat Abad, Sa`adat Shahr, Sa`adatabad, Sa‘ādat Shahr, Sa‘ādatābād, Sa’ādat Ābād, سعادت شهر
+
+---

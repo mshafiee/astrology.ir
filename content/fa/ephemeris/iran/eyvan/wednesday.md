@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Aiwan, Aīwān, Bagh-e Shah, Bagh-i-Shah, Bāgh-e Shāh, Bāgh-ī-Shāh, Eyvan, Eyvan-e Gharb, Eyvān, Eyvān-e Gharb, Juy Zar, Jūy Zar, aywan, aywan ghrb, baghi shah, jwy zar, ايوان, ایوان غرب, باغِ شاه, جوی زَر
+
+---

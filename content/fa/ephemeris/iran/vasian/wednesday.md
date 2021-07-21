@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Cham Bagh-e Veysian, Cham Bāgh-e Veysīān, Vaisiyan, Vaisyan, Vasian, Vasīān, Veseyan, Veseyān, Veysian, Veysiyan, Veysīyān, Veysīān, Voisiyan, cham baghi wisyan, wasyan, wisian, wisyan, وَسيان, وِسِيان, وِيسيان, وِيسيّان, چَم باغِ وِيسيان
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Burd Harat, Burd Herat, Būrd Harāt, Būrd Herāt, Harat Khowreh, Harāt Khowreh, Herat, Herat-i-Khurreh, Herāt, Herāt-i-Khurreh, Shahr-e Herat, Shahr-e Herāt, Tajabad, Tajabad-e Harat, Tājābād, Tājābād-e Harāt, hrat, shhr hrat, شهر هرات, هرات
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Qomisheh, Qomsheh, Qomīsheh, Qowmsheh, Qumisheh, Shahreza, Shahreẕā, Shahriza, qmshh, shhrda, شهرضا, قمشه
+
+---

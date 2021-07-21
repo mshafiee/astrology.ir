@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Mehr, Mohr, Mohur, Mohur-i- Saiyidan, Mohur-i- Saiyidān, Mur, Mūr, mhr, muhr, shhrstan muhr, شهرستان مُهر, مهر, مُهر
+
+---

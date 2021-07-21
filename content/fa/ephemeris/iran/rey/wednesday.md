@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Raj, Ray, Rayy, Rehj, Rei, Rej, Rejus, Rey, Rhagae, Rėjus, Shahr-e Rey, alry, lei yi, ry, shhr ry, Ρέι, Рей, Рэй, الري, رى, ری, رے, شهر ری, 雷伊
+
+---

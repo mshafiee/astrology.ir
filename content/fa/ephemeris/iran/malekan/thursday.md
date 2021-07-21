@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Malek Kandi, Malek Kandī, Malekan, Malekān, Malik Kandi, Malikkand, malik kandy, mlkan, ملکان, مَلِک کَندی
+
+---

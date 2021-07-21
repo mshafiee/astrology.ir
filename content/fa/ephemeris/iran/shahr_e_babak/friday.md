@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Shahr Babak, Shahr Bābak, Shahr-e Babak, Shahr-e Bābak, Shahr-i-Babak, Shahr-i-Bābak, shhr babk, شهر بابک
+
+---

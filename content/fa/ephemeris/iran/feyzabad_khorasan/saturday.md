@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Faizabad, Faizābād, Feyzabad, Feyzābād, Feyẕābād, fyd abad, فیض آباد
+
+---

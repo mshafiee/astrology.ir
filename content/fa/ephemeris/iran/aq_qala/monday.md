@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Aq Qal`eh, Aq Qala, Pahlavi Dezh, Pahlavi-dej, Pahlavī Dezh, Pahlevi Diz, aq qla, Āq Qalā, Āq Qal‘eh, آق قلا
+
+---

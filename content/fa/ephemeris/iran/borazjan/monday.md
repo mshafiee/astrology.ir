@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Borazdjan, Borazjan, Borazjun, Borāzjān, Borāzjūn, brazjan, burazdjan, برازجان, بُرَزدجَن
+
+---

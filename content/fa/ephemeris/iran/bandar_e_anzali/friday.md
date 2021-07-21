@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bandar Anzali, Bandar Pahlavi, Bandar Pahlevi, Bandar-e Anzali, Bandar-e Anzalī, Bandar-e Pahlavi, Bandar-e Pahlavī, Enceli, Enzeli, Pahlavi, Pahlavī, Pahlevi, Pahlevī, Pehlevi, bndr anzly, بندر انزلی
+
+---

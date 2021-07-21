@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Nachavant, Nagavande, Nahavand, Nahāvand, Nehavend, Nehāvend, Nihavand, Nīhāvand, nhawnd, nihavu~ando, Ναχαβάντ, Нагаванде, نهاوند, ニハーヴァンド
+
+---

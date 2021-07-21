@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Nazarabad, Nazarabad-e Bozorg, Naz̧arābād, Naz̧arābād-e Bozorg, nazarabadi buzurg, nzr abad, نظر آباد, نَظَرابادِ بُزُرگ
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Pichva, Pishva, Pishyan, Pīchvā, Pīshvā, Pīshyān, pychwa, pyshwa, pyshyan, پيشوا, پيشيان, پيچوا
+
+---

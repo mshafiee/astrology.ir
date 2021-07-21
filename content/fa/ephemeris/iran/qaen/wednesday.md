@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Qa'en, Qain, Qayen, Qaīn, Qāyen, Qā’en, Shahr-e Qayen, Shahr-e Qāyen, qayn, قائن, قاین
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Khormoj, Khormuj, Khormūj, Khowr Muj, Khowr Mūj, Khowrmuj, Khowrmūj, Khurmoj, Khurmudj, Khurmuj, Khūrmūj, khwrmwj, خورموج
+
+---

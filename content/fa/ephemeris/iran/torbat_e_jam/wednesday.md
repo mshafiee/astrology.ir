@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Torbat-e Jam, Torbat-e Jām, Torbat-e Sheykh Jam, Torbat-e Sheykh Jām, Turbat-i-Shaikh Jam, trbt jam, تربت جام
+
+---

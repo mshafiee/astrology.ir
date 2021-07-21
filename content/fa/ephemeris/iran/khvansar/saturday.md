@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Khansar, Khavansar, Khonsar, Khunsar, Khvansar, Khvonsar, Khvonsār, Khvānsār, Khūnsār, Shahr-e Khvonsar, Shahr-e Khvonsār, khwansar, خوانسار
+
+---

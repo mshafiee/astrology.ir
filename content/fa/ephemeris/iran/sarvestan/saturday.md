@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Sarvestan, Sarvestān, Sarvistan, Sarvistān, srwstan, سروستان
+
+---

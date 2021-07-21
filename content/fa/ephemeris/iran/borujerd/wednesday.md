@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Borudzherd, Borujerd, Borūjerd, Burujird, Būrūjīrd, brwjrd, bwrwjyrd, Боруджерд, بروجرد, بوروجيرد
+
+---

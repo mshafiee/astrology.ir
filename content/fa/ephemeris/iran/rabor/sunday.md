@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Raber, Rabor, Rabur, Rahbur, Rābor, Rābur, Rāhbur, rabr, رابر
+
+---

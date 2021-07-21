@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Shahrak-e Andisheh, Shahrak-e Andīsheh, shhr jdyd andyshh, شهر جدید اندیشه
+
+---

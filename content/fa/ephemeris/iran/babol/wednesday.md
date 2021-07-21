@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Babol, Babol', Babul, Balfrush, Barfarush, Barfrush, Barfurush, Bābol, Bābul, Bārfurush, babl, Баболь, بابل
+
+---

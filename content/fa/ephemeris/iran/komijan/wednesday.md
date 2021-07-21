@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Khumajan, Khūmajān, Komazan, Komejan, Komejān, Komeyjan, Komeyjān, Komijan, Komizan, Komāzān, Komījān, Komīzān, Kumizan, Kūmīzān, kmyjan, کميجان
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Fahraj, Fahrej, Iranshahr, Irānshahr, Narmashir, Narmāshīr, fhrj, فهرج
+
+---

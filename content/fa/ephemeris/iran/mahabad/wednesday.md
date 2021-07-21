@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Mahabad, Mahābād, Makhabad, Mehabad, Mehābād, Saujbulagh, Sāūjbulāgh, mah abad, mhabad, mih abad, Махабад, مهاباد, مَه آباد, مِه آباد
+
+---

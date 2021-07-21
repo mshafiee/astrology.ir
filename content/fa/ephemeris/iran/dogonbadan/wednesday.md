@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Do Gonbadan, Do Gonbadān, Dogonbadan, Dow Gonbadan, Dow Gonbadān, Du Gunbadan, Du Gunbadān, GCH, Gachsaran, Gachsārān, du gunbadan, gchsaran, دُو گُنبَدان, گچساران
+
+---

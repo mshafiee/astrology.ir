@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Maraveh, Maraveh Tappeh, Maravehtepe, Marveh Tappeh, Marāveh, Marāveh Tappeh, Moraveh Tappeh, Morāveh Tappeh, mrawh tph, مراوه تپه
+
+---

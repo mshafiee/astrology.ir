@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Baba `Abdollah, Bābā ‘Abdollāh, Gulshad, Gulshād, Kalushad, Kalūshād, Kelishad, Kelishad va Sudarjan, Kelishad-e Sofla, Kelīshād, Kelīshād va Sūdarjān, Kelīshād-e Soflá, klyshad, klyshad w swdrjan, کلیشاد, کلیشاد و سودرجان
+
+---

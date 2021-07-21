@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Kasrun, Kazarun, Kazeroun, Kazerun, Kazeruna, Kāzarūn, Kāzerūn, kazrwn, Казеруна, کازرون
+
+---

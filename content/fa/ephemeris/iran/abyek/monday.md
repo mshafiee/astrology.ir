@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Abiak, Abiak Sarai, Abiak Sarāi, Abyek, Abyek Sofla, Abyek-e Pa'in, aabyik sufla, abyiki payyn, abyk, Ābyek, Ābyek-e Pā’īn, آبيِکِ پائين, آبيک, اَبيِک سُفلَ
+
+---

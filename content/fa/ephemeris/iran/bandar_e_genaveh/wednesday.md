@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Bandar Ganaveh, Bandar Ganāveh, Bandar-e Ganaveh, Bandar-e Ganāveh, Bandar-e Genaveh, Bandar-e Genāveh, Bandar-e-Gonaveh, Bandar-e-Gonāveh, Ganaveh, Ganāveh, Genaveh, Genāveh, Gonaveh, Gonāveh, Kenareh, Kenâreh, bndr gnawh, بندر گناوه
+
+---

@@ -364,3 +364,8 @@ __محاسبه به روش دانشگاه ام‌القرای مکه__
 {{< /tab >}}
 
 {{< /tabs >}}
+
+---
+نام‌های دیگر: Kashmar, Khashmar, Kāshmar, Soultanabad, Torshiz, Torshīz, Turshiz, Turshīz, kashmr, کاشمر
+
+---
