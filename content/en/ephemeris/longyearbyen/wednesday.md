@@ -1,6 +1,6 @@
 ---
-date: 2021-07-21T00:00:00+02:00
-lastmod: 2021-07-21T00:00:00+02:00
+date: 2021-07-28T00:00:00+02:00
+lastmod: 2021-07-28T00:00:00+02:00
 title: Longyearbyen (Wednesday)
 slug: wednesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Wednesday, 21 Jul 2021
+description: 🗓 Wednesday, 28 Jul 2021
 
 toc: false
 ---
@@ -36,13 +36,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 14:31:43 |
-| Medium Coeli | 14:31:43 |
+| Dhuhr | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 17:21:49 |
+| Isha | 14:39:05 |
 | Sharia Midnight | 00:00:00 |
-| Imum Coeli | 02:31:56 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -52,13 +52,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 14:31:43 |
-| Medium Coeli | 14:31:43 |
+| Dhuhr | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 17:21:49 |
+| Isha | 14:39:05 |
 | Sharia Midnight | 00:00:00 |
-| Imum Coeli | 02:31:56 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -68,13 +68,13 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 14:31:43 |
-| Medium Coeli | 14:31:43 |
+| Dhuhr | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 18:40:07 |
+| Isha | 15:57:23 |
 | Sharia Midnight | 00:00:00 |
-| Imum Coeli | 02:31:56 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -84,13 +84,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 14:31:43 |
-| Medium Coeli | 14:31:43 |
+| Dhuhr | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 17:50:30 |
+| Isha | 15:07:46 |
 | Sharia Midnight | 00:00:00 |
-| Imum Coeli | 02:31:56 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -100,13 +100,13 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 14:31:43 |
-| Medium Coeli | 14:31:43 |
+| Dhuhr | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 18:51:29 |
+| Isha | 16:08:45 |
 | Sharia Midnight | 00:00:00 |
-| Imum Coeli | 02:31:56 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -116,13 +116,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 14:31:43 |
-| Medium Coeli | 14:31:43 |
+| Dhuhr | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 19:02:35 |
+| Isha | 16:19:51 |
 | Sharia Midnight | 00:00:00 |
-| Imum Coeli | 02:31:56 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -132,13 +132,13 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 14:31:43 |
-| Medium Coeli | 14:31:43 |
+| Dhuhr | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
 | Isha | 01:30:00 |
 | Sharia Midnight | 00:00:00 |
-| Imum Coeli | 02:31:56 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
-|♒ Aquarius|02:30:00|02:29:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
-|♓ Pisces|02:30:00|02:29:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
 
 
 {{< /tab >}}
