@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|10°34'7.76" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Retrograde|0°2'52.05" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|28°53'13.90" |Cancer|Jabhah|Moon|
-|☉ Sun|Prograde|5°13'59.92" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|7°15'40.11" |Leo|Jabhah|Saturn|
-|☿ Mercury|Prograde|0°3'58.96" |Cancer|Nathrah|Venus|
-|☾ Moon|Prograde|25°20'59.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|0°2'54.94" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|28°53'9.23" |Cancer|Jabhah|Moon|
+|☉ Sun|Prograde|5°13'49.09" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|7°15'31.34" |Leo|Jabhah|Saturn|
+|☿ Mercury|Prograde|0°3'50.88" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|26°29'13.34" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Sun|Mercury|Moon|Moon|
 |♀ Venus|Venus|Mercury|Venus|Sun|Sun|
 |☿ Mercury|Moon|Moon|Moon|Moon|Moon|
-|☾ Moon|Mercury|Venus|Jupiter|Moon|Mars|
+|☾ Moon|Moon|Venus|Jupiter|Moon|Mars|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|10°34'7.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°2'52.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|28°53'13.90" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|5°13'59.92" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|7°15'40.11" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|0°3'58.96" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|25°20'59.53" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|10°34'7.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°2'52.07" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|28°53'13.87" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|5°13'59.88" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|7°15'40.01" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|0°3'58.95" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|25°20'59.88" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
