@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:28:58|Night duration: 11:31:10|
+|Duration of the day: 12:28:58|Night duration: 11:31:11|
 |Every hour of day duration: 01:02:25|Every hour of night duration: 00:57:36|
 
  
@@ -232,12 +232,12 @@ Timetable of twelve day and night planetary hours
 |4|Venus|Servant|21:15:16|22:12:51|Evil and repel good|
 |5|Mercury|Servant|22:12:52|23:10:27|Separation and grudges and hostilities|
 |6|Moon|Servant|23:10:28|00:08:03|It's good for all good deeds|
-|7|Saturn|Servant|00:08:04|01:05:38|Do not do anything, it causes misery|
-|8|Jupiter|Ruler|01:05:39|02:03:14|It is very auspicious and attracts happiness|
-|9|Mars|Servant|02:03:15|03:00:50|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Sun|Servant|03:00:51|03:58:26|Attracting happiness, solving financial problems|
-|11|Venus|Servant|03:58:27|04:56:02|Doing marriage|
-|12|Mercury|Servant|04:56:03|05:53:38|Discover the Fugitive and Find the Thief|
+|7|Saturn|Servant|00:08:04|01:05:39|Do not do anything, it causes misery|
+|8|Jupiter|Ruler|01:05:40|02:03:15|It is very auspicious and attracts happiness|
+|9|Mars|Servant|02:03:16|03:00:51|Summoning the desired person, attracting hearts, compassion of hearts|
+|10|Sun|Servant|03:00:52|03:58:27|Attracting happiness, solving financial problems|
+|11|Venus|Servant|03:58:28|04:56:03|Doing marriage|
+|12|Mercury|Servant|04:56:04|05:53:39|Discover the Fugitive and Find the Thief|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:28:58|Night duration: 11:31:10|
+|Duration of the day: 12:28:58|Night duration: 11:31:11|
 |Every hour duration: 01:47:00|Every hour duration: 01:38:44|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Jupiter|Ruler|18:22:29|20:01:12|
 |Late evening|Mars|Servant|20:01:13|21:39:56|
-|Midnight|Sun|Servant|21:39:57|23:18:40|
-|Late at night|Venus|Servant|23:18:41|00:57:25|
-|Rooster song|Mercury|Servant|00:57:26|02:36:09|
-|False Dawn|Moon|Servant|02:36:10|04:14:53|
-|Dawn|Saturn|Servant|04:14:54|05:53:38|
+|Midnight|Sun|Servant|21:39:57|23:18:41|
+|Late at night|Venus|Servant|23:18:42|00:57:25|
+|Rooster song|Mercury|Servant|00:57:26|02:36:10|
+|False Dawn|Moon|Servant|02:36:11|04:14:54|
+|Dawn|Saturn|Servant|04:14:55|05:53:39|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|10°48'16.12" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Retrograde|0°22'45.89" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|26°52'36.54" |Cancer|Jabhah|Moon|
-|☉ Sun|Prograde|2°10'5.55" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|3°24'56.60" |Leo|Jabhah|Saturn|
-|☿ Mercury|Prograde|23°21'10.91" |Gemini|Dhira|Sun|
-|☾ Moon|Prograde|11°18'24.30" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Retrograde|10°48'16.30" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Retrograde|0°22'45.85" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|26°52'36.57" |Cancer|Jabhah|Moon|
+|☉ Sun|Prograde|2°10'5.60" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|3°24'56.70" |Leo|Jabhah|Saturn|
+|☿ Mercury|Prograde|23°21'10.93" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|11°18'24.80" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|10°48'16.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°22'45.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|26°52'36.54" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|2°10'5.55" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|3°24'56.60" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Prograde|23°21'10.91" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|11°18'24.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|10°48'16.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°22'45.85" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|26°52'36.57" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|2°10'5.60" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|3°24'56.70" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Prograde|23°21'10.93" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|11°18'24.80" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
