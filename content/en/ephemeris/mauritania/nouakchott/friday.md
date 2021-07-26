@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:23:09 |
+| Dawn | 05:23:08 |
 | Sunrise | 06:41:27 |
 | Dhuhr | 13:10:20 |
 | Medium Coeli | 13:10:20 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|10°24'21.19" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Retrograde|29°48'29.33" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|0°15'58.26" |Leo|Jabhah|Saturn|
-|☉ Sun|Prograde|7°20'6.58" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|9°53'28.69" |Leo|Zubrah|Saturn|
-|☿ Mercury|Prograde|4°42'6.17" |Cancer|Nathrah|Venus|
-|☾ Moon|Prograde|23°0'18.50" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|10°24'21.01" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Retrograde|29°48'29.35" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|0°15'58.23" |Leo|Jabhah|Saturn|
+|☉ Sun|Prograde|7°20'6.54" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|9°53'28.60" |Leo|Zubrah|Saturn|
+|☿ Mercury|Prograde|4°42'6.16" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|23°0'19.04" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|10°24'21.19" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°48'29.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|0°15'58.26" |Virgo|Sarfrah|Sun|
-|☉ Sun|Prograde|7°20'6.58" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|9°53'28.69" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|4°42'6.17" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|23°0'18.50" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|10°24'21.01" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°48'29.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|0°15'58.23" |Virgo|Sarfrah|Sun|
+|☉ Sun|Prograde|7°20'6.54" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|9°53'28.60" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|4°42'6.16" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|23°0'19.04" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

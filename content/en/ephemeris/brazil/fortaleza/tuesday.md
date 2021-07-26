@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Prograde|28°26'14.94" |Leo|Sarfrah|Mars|
 |☉ Sun|Prograde|4°32'53.34" |Leo|Jabhah|Saturn|
 |♀ Venus|Prograde|6°24'7.16" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|28°33'18.98" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|15°39'59.95" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Prograde|28°33'18.09" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|16°6'1.79" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Saturn|Saturn|Jupiter|Mercury|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Mercury|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
