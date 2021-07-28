@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 13:44:45|Night duration: 10:15:54|
-|Every hour of day duration: 01:08:44|Every hour of night duration: 00:51:20|
+|Every hour of day duration: 01:08:44|Every hour of night duration: 00:51:19|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|10°29'30.57" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Retrograde|29°56'8.03" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|29°32'21.30" |Cancer|Jabhah|Moon|
-|☉ Sun|Prograde|6°13'38.88" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|8°30'20.02" |Leo|Jabhah|Saturn|
-|☿ Mercury|Prograde|2°15'32.74" |Cancer|Nathrah|Venus|
-|☾ Moon|Prograde|8°31'23.39" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|10°29'30.39" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Retrograde|29°56'8.05" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|29°32'21.26" |Cancer|Jabhah|Moon|
+|☉ Sun|Prograde|6°13'38.84" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|8°30'19.93" |Leo|Jabhah|Saturn|
+|☿ Mercury|Prograde|2°15'32.72" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|8°31'23.72" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|10°29'30.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°56'8.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|29°32'21.30" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|6°13'38.88" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|8°30'20.02" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|2°15'32.74" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|8°31'23.39" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|10°29'30.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°56'8.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|29°32'21.26" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|6°13'38.84" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|8°30'19.93" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|2°15'32.72" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|8°31'23.72" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
