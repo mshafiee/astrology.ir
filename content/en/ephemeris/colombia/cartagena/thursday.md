@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:32:43|Night duration: 11:27:25|
+|Duration of the day: 12:32:43|Night duration: 11:27:24|
 |Every hour of day duration: 01:02:44|Every hour of night duration: 00:57:17|
 
  
@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |9|Saturn|Servant|02:02:34|02:59:50|Achieving status and creating rank growth|
 |10|Jupiter|Servant|02:59:51|03:57:07|Catching needs|
 |11|Mars|Servant|03:57:08|04:54:24|Attracting love and affection and attracting hearts|
-|12|Sun|Servant|04:54:25|05:51:42|Absorption of badness, nothing to do|
+|12|Sun|Servant|04:54:25|05:51:41|Absorption of badness, nothing to do|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:32:43|Night duration: 11:27:25|
+|Duration of the day: 12:32:43|Night duration: 11:27:24|
 |Every hour duration: 01:47:32|Every hour duration: 01:38:12|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Mars|Servant|23:18:54|00:57:05|
 |Rooster song|Sun|Servant|00:57:06|02:35:17|
 |False Dawn|Venus|Servant|02:35:18|04:13:29|
-|Dawn|Mercury|Servant|04:13:30|05:51:42|
+|Dawn|Mercury|Servant|04:13:30|05:51:41|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°56'48.71" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|29°5'23.88" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|4°8'50.70" |Leo|Jabhah|Saturn|
-|☉ Sun|Prograde|13°14'37.84" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|17°15'35.56" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Prograde|17°28'16.44" |Cancer|Tarf|Mercury|
-|☾ Moon|Prograde|7°36'54.75" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|9°56'48.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|29°5'23.89" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|4°8'50.66" |Leo|Jabhah|Saturn|
+|☉ Sun|Prograde|13°14'37.79" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|17°15'35.46" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Prograde|17°28'16.41" |Cancer|Tarf|Mercury|
+|☾ Moon|Prograde|7°36'54.00" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°56'48.71" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Retrograde|29°5'23.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|4°8'50.70" |Virgo|Sarfrah|Sun|
-|☉ Sun|Prograde|13°14'37.84" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|17°15'35.56" |Virgo|Simak|Venus|
-|☿ Mercury|Prograde|17°28'16.44" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|7°36'54.75" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|9°56'48.53" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Retrograde|29°5'23.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|4°8'50.66" |Virgo|Sarfrah|Sun|
+|☉ Sun|Prograde|13°14'37.79" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|17°15'35.46" |Virgo|Simak|Venus|
+|☿ Mercury|Prograde|17°28'16.41" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|7°36'54.00" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

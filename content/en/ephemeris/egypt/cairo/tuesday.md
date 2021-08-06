@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 04:01:16 |
 | Sunrise | 05:19:09 |
-| Dhuhr | 12:00:21 |
-| Medium Coeli | 12:00:21 |
+| Dhuhr | 12:00:20 |
+| Medium Coeli | 12:00:20 |
 | Sunset | 18:41:07 |
 | Maghrib | 18:57:43 |
 | Isha | 19:48:16 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 03:52:11 |
 | Sunrise | 05:19:09 |
-| Dhuhr | 12:00:21 |
-| Medium Coeli | 12:00:21 |
+| Dhuhr | 12:00:20 |
+| Medium Coeli | 12:00:20 |
 | Sunset | 18:41:07 |
 | Maghrib | 19:00:11 |
 | Isha | 19:48:16 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 03:50:34 |
 | Sunrise | 05:19:09 |
-| Dhuhr | 12:00:21 |
-| Medium Coeli | 12:00:21 |
+| Dhuhr | 12:00:20 |
+| Medium Coeli | 12:00:20 |
 | Sunset | 18:41:07 |
 | Maghrib | 18:42:12 |
 | Isha | 20:04:04 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 04:06:34 |
 | Sunrise | 05:19:09 |
-| Dhuhr | 12:00:21 |
-| Medium Coeli | 12:00:21 |
+| Dhuhr | 12:00:20 |
+| Medium Coeli | 12:00:20 |
 | Sunset | 18:41:07 |
 | Maghrib | 18:42:12 |
 | Isha | 19:53:30 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 03:42:24 |
 | Sunrise | 05:19:09 |
-| Dhuhr | 12:00:21 |
-| Medium Coeli | 12:00:21 |
+| Dhuhr | 12:00:20 |
+| Medium Coeli | 12:00:20 |
 | Sunset | 18:41:07 |
 | Maghrib | 18:42:12 |
 | Isha | 20:06:45 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 03:50:34 |
 | Sunrise | 05:19:09 |
-| Dhuhr | 12:00:21 |
-| Medium Coeli | 12:00:21 |
+| Dhuhr | 12:00:20 |
+| Medium Coeli | 12:00:20 |
 | Sunset | 18:41:07 |
 | Maghrib | 18:42:12 |
 | Isha | 20:09:26 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 03:47:51 |
 | Sunrise | 05:19:09 |
-| Dhuhr | 12:00:21 |
-| Medium Coeli | 12:00:21 |
+| Dhuhr | 12:00:20 |
+| Medium Coeli | 12:00:20 |
 | Sunset | 18:41:07 |
 | Maghrib | 18:42:12 |
 | Isha | 20:12:12 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°36'3.29" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|28°30'31.66" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|7°6'8.37" |Leo|Jabhah|Saturn|
-|☉ Sun|Prograde|17°44'11.02" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°50'4.23" |Leo|Sarfrah|Mars|
-|☿ Mercury|Prograde|26°39'31.06" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|7°46'0.75" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|9°36'3.11" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|28°30'31.67" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|7°6'8.32" |Leo|Jabhah|Saturn|
+|☉ Sun|Prograde|17°44'10.96" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|22°50'4.13" |Leo|Sarfrah|Mars|
+|☿ Mercury|Prograde|26°39'31.01" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|7°46'1.82" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°36'3.29" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Retrograde|28°30'31.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|7°6'8.37" |Virgo|Awwa|Sun|
-|☉ Sun|Prograde|17°44'11.02" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°50'4.23" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|26°39'31.06" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|7°46'0.75" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|9°36'3.11" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Retrograde|28°30'31.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|7°6'8.32" |Virgo|Awwa|Sun|
+|☉ Sun|Prograde|17°44'10.96" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|22°50'4.13" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|26°39'31.01" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|7°46'1.82" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

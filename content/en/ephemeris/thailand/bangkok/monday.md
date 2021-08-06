@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:23:31 |
 | Sunset | 18:43:00 |
 | Maghrib | 18:43:57 |
-| Isha | 19:45:28 |
+| Isha | 19:45:29 |
 | Sharia Midnight | 23:52:17 |
 | Imum Coeli | 00:23:26 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°41'14.40" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|28°39'25.77" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|6°21'33.16" |Leo|Jabhah|Saturn|
-|☉ Sun|Prograde|16°36'25.57" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|21°26'7.83" |Leo|Sarfrah|Mars|
-|☿ Mercury|Prograde|24°23'58.67" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|22°12'25.40" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|9°41'14.58" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|28°39'25.76" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|6°21'33.21" |Leo|Jabhah|Saturn|
+|☉ Sun|Prograde|16°36'25.63" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|21°26'7.93" |Leo|Sarfrah|Mars|
+|☿ Mercury|Prograde|24°23'58.72" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|22°12'24.61" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°41'14.40" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Retrograde|28°39'25.77" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|6°21'33.16" |Virgo|Awwa|Sun|
-|☉ Sun|Prograde|16°36'25.57" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°26'7.83" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|24°23'58.67" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|22°12'25.40" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|9°41'14.58" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Retrograde|28°39'25.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|6°21'33.21" |Virgo|Awwa|Sun|
+|☉ Sun|Prograde|16°36'25.63" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°26'7.93" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|24°23'58.72" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|22°12'24.61" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
