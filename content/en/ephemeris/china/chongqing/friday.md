@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:08:44 |
+| Dawn | 05:08:45 |
 | Sunrise | 06:20:24 |
 | Dhuhr | 12:58:39 |
 | Medium Coeli | 12:58:39 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°23'50.85" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|9°23'51.03" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|28°9'6.59" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|8°52'0.83" |Leo|Zubrah|Saturn|
-|☉ Sun|Prograde|20°25'0.06" |Cancer|Tarf|Moon|
-|♀ Venus|Prograde|26°8'54.04" |Leo|Sarfrah|Mars|
-|☿ Mercury|Prograde|1°52'46.23" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|15°37'3.83" |Virgo|Awwa|Venus|
+|♂ Mars|Prograde|8°52'0.88" |Leo|Zubrah|Saturn|
+|☉ Sun|Prograde|20°25'0.11" |Cancer|Tarf|Moon|
+|♀ Venus|Prograde|26°8'54.13" |Leo|Sarfrah|Mars|
+|☿ Mercury|Prograde|1°52'46.27" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|15°37'5.02" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°23'50.85" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|9°23'51.03" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|28°9'6.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|8°52'0.83" |Virgo|Awwa|Sun|
-|☉ Sun|Prograde|20°25'0.06" |Leo|Zubrah|Mars|
-|♀ Venus|Prograde|26°8'54.04" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|1°52'46.23" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|15°37'3.83" |Libra|Jubana|Saturn|
+|♂ Mars|Prograde|8°52'0.88" |Virgo|Awwa|Sun|
+|☉ Sun|Prograde|20°25'0.11" |Leo|Zubrah|Mars|
+|♀ Venus|Prograde|26°8'54.13" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|1°52'46.27" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|15°37'5.02" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
