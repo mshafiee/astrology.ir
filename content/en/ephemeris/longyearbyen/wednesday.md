@@ -1,6 +1,6 @@
 ---
-date: 2021-08-11T00:00:00+02:00
-lastmod: 2021-08-11T00:00:00+02:00
+date: 2021-08-18T00:00:00+02:00
+lastmod: 2021-08-18T00:00:00+02:00
 title: Longyearbyen (Wednesday)
 slug: wednesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Wednesday, 11 Aug 2021
+description: 🗓 Wednesday, 18 Aug 2021
 
 toc: false
 ---
