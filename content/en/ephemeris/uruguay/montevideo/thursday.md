@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:17:06 |
 | Maghrib | 18:18:14 |
 | Isha | 19:48:14 |
-| Sharia Midnight | 00:03:46 |
+| Sharia Midnight | 00:03:45 |
 | Imum Coeli | 00:48:10 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°56'17.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°56'17.35" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|27°18'17.51" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|12°59'2.93" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|26°39'44.49" |Cancer|Jabhah|Moon|
-|♀ Venus|Prograde|3°49'59.53" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Prograde|13°17'1.38" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|16°20'5.66" |Sagittarius|NaAaem|Moon|
+|♂ Mars|Prograde|12°59'2.88" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|26°39'44.45" |Cancer|Jabhah|Moon|
+|♀ Venus|Prograde|3°49'59.45" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Prograde|13°17'1.35" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|16°20'5.92" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°56'17.53" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|8°56'17.35" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|27°18'17.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|12°59'2.93" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|26°39'44.49" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|3°49'59.53" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|13°17'1.38" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|16°20'5.66" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Prograde|12°59'2.88" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|26°39'44.45" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|3°49'59.45" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|13°17'1.35" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|16°20'5.92" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
