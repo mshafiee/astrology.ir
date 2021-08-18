@@ -34,7 +34,7 @@ Altitude: 767 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:35:38 |
+| Dawn | 04:35:39 |
 | Sunrise | 06:11:00 |
 | Dhuhr | 13:05:29 |
 | Medium Coeli | 13:05:29 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°2'11.87" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|9°2'12.05" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|27°29'28.23" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|12°4'54.36" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|25°17'40.74" |Cancer|Tarf|Moon|
-|♀ Venus|Prograde|2°9'17.34" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Prograde|10°52'31.82" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|26°6'20.14" |Scorpio|Shaulah|Venus|
+|♂ Mars|Prograde|12°4'54.41" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|25°17'40.78" |Cancer|Tarf|Moon|
+|♀ Venus|Prograde|2°9'17.43" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Prograde|10°52'31.85" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|26°6'20.53" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°2'11.87" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|9°2'12.05" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|27°29'28.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|12°4'54.36" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|25°17'40.74" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|2°9'17.34" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|10°52'31.82" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|26°6'20.14" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Prograde|12°4'54.41" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|25°17'40.78" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|2°9'17.43" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|10°52'31.85" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|26°6'20.53" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:58:51 |
 | Maghrib | 19:15:03 |
 | Isha | 19:54:39 |
-| Sharia Midnight | 00:12:40 |
+| Sharia Midnight | 00:12:41 |
 | Imum Coeli | 00:48:17 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°5'26.30" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|9°5'26.48" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|27°35'32.30" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|11°35'30.23" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|24°33'5.76" |Cancer|Tarf|Moon|
-|♀ Venus|Prograde|1°14'30.96" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Prograde|9°32'47.61" |Leo|Zubrah|Saturn|
-|☾ Moon|Prograde|15°14'49.18" |Scorpio|Qalb|Sun|
+|♂ Mars|Prograde|11°35'30.28" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|24°33'5.80" |Cancer|Tarf|Moon|
+|♀ Venus|Prograde|1°14'31.04" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Prograde|9°32'47.65" |Leo|Zubrah|Saturn|
+|☾ Moon|Prograde|15°14'50.13" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|9°5'26.30" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|9°5'26.48" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|27°35'32.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|11°35'30.23" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|24°33'5.76" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|1°14'30.96" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|9°32'47.61" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|15°14'49.18" |Sagittarius|NaAaem|Moon|
+|♂ Mars|Prograde|11°35'30.28" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|24°33'5.80" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|1°14'31.04" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|9°32'47.65" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|15°14'50.13" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
