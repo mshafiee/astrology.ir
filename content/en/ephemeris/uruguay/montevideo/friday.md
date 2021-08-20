@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:50:25 |
+| Dawn | 05:50:26 |
 | Sunrise | 07:18:42 |
 | Dhuhr | 12:48:02 |
 | Medium Coeli | 12:48:02 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°52'10.98" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°52'11.16" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|27°10'25.77" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|13°37'6.30" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|27°37'25.35" |Cancer|Jabhah|Moon|
-|♀ Venus|Prograde|5°0'39.19" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|14°56'47.07" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|0°22'40.77" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Prograde|13°37'6.36" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|27°37'25.40" |Cancer|Jabhah|Moon|
+|♀ Venus|Prograde|5°0'39.27" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|14°56'47.10" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|0°22'40.46" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°52'10.98" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|8°52'11.16" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|27°10'25.77" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|13°37'6.30" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|27°37'25.35" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|5°0'39.19" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|14°56'47.07" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|0°22'40.77" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|13°37'6.36" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|27°37'25.40" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|5°0'39.27" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|14°56'47.10" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|0°22'40.46" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
