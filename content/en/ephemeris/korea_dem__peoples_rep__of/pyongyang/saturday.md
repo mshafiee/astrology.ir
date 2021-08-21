@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:06:55 |
+| Dawn | 04:06:54 |
 | Sunrise | 05:55:20 |
 | Dhuhr | 12:40:09 |
 | Medium Coeli | 12:40:09 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°50'22.63" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°50'22.45" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|27°6'56.31" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|13°53'58.26" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|28°3'0.31" |Cancer|Jabhah|Moon|
-|♀ Venus|Prograde|5°31'56.17" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|15°40'30.92" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|6°13'16.52" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Prograde|13°53'58.20" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|28°3'0.27" |Cancer|Jabhah|Moon|
+|♀ Venus|Prograde|5°31'56.09" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|15°40'30.89" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|6°13'16.79" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°50'22.63" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|8°50'22.45" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|27°6'56.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|13°53'58.26" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|28°3'0.31" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|5°31'56.17" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|15°40'30.92" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|6°13'16.52" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|13°53'58.20" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|28°3'0.27" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|5°31'56.09" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|15°40'30.89" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|6°13'16.79" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

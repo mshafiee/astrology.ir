@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:04:10 |
 | Sunset | 18:35:30 |
 | Maghrib | 18:36:36 |
-| Isha | 20:03:47 |
+| Isha | 20:03:48 |
 | Sharia Midnight | 23:20:04 |
 | Imum Coeli | 00:04:01 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°29'39.38" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°29'39.56" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°25'56.96" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|17°13'44.46" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|3°5'35.01" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|11°40'53.46" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|23°56'59.66" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|16°2'53.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|17°13'44.52" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|3°5'35.05" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|11°40'53.52" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|23°56'59.69" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|16°2'54.34" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°29'39.38" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°29'39.56" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°25'56.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|17°13'44.46" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|3°5'35.01" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|11°40'53.46" |Libra|Ghafr|Saturn|
-|☿ Mercury|Prograde|23°56'59.66" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|16°2'53.38" |Aries|Butain|Sun|
+|♂ Mars|Prograde|17°13'44.52" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|3°5'35.05" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|11°40'53.52" |Libra|Ghafr|Saturn|
+|☿ Mercury|Prograde|23°56'59.69" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|16°2'54.34" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

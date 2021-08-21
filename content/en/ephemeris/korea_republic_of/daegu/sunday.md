@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:28:33 |
 | Sunset | 19:07:10 |
 | Maghrib | 19:08:20 |
-| Isha | 20:34:26 |
+| Isha | 20:34:27 |
 | Sharia Midnight | 23:42:10 |
 | Imum Coeli | 00:28:25 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°46'20.30" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°46'20.47" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°59'6.34" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|14°31'55.94" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|29°0'31.62" |Cancer|Jabhah|Moon|
-|♀ Venus|Prograde|6°42'16.38" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|17°17'55.32" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|20°0'6.89" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|14°31'56.00" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|29°0'31.67" |Cancer|Jabhah|Moon|
+|♀ Venus|Prograde|6°42'16.46" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|17°17'55.35" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|20°0'6.63" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°46'20.30" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|8°46'20.47" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|26°59'6.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|14°31'55.94" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|29°0'31.62" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|6°42'16.38" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|17°17'55.32" |Virgo|Simak|Venus|
-|☾ Moon|Prograde|20°0'6.89" |Aquarius|SaadAlAkhbia|Moon|
+|♂ Mars|Prograde|14°31'56.00" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|29°0'31.67" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|6°42'16.46" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|17°17'55.35" |Virgo|Simak|Venus|
+|☾ Moon|Prograde|20°0'6.63" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:44:56 |
+| Dawn | 04:44:55 |
 | Sunrise | 05:56:56 |
 | Dhuhr | 12:10:17 |
 | Medium Coeli | 12:10:17 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°45'18.74" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°45'18.56" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°57'5.87" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|14°41'40.13" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|29°15'16.77" |Cancer|Jabhah|Moon|
-|♀ Venus|Prograde|7°0'17.72" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|17°42'40.11" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|23°28'52.99" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|14°41'40.07" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|29°15'16.72" |Cancer|Jabhah|Moon|
+|♀ Venus|Prograde|7°0'17.64" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|17°42'40.07" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|23°28'53.27" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°45'18.74" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|8°45'18.56" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|26°57'5.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|14°41'40.13" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|29°15'16.77" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|7°0'17.72" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|17°42'40.11" |Virgo|Simak|Venus|
-|☾ Moon|Prograde|23°28'52.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|14°41'40.07" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|29°15'16.72" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|7°0'17.64" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|17°42'40.07" |Virgo|Simak|Venus|
+|☾ Moon|Prograde|23°28'53.27" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

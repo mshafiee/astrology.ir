@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:51:12 |
 | Sunset | 18:21:18 |
 | Maghrib | 18:22:21 |
-| Isha | 19:44:10 |
+| Isha | 19:44:11 |
 | Sharia Midnight | 23:04:40 |
 | Imum Coeli | 23:51:04 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°37'27.32" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°37'27.50" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°41'36.54" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|15°57'1.29" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|1°9'25.06" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|9°19'32.92" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|20°51'1.04" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|20°6'54.25" |Aquarius|SaadAlAkhbia|Moon|
+|♂ Mars|Prograde|15°57'1.34" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|1°9'25.10" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|9°19'33.00" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|20°51'1.07" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|20°6'54.15" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°37'27.32" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|8°37'27.50" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|26°41'36.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|15°57'1.29" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|1°9'25.06" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|9°19'32.92" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|20°51'1.04" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|20°6'54.25" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|15°57'1.34" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|1°9'25.10" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|9°19'33.00" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|20°51'1.07" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|20°6'54.15" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
