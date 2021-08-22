@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:14:01 |
+| Dawn | 05:14:00 |
 | Sunrise | 07:04:40 |
 | Dhuhr | 12:20:55 |
 | Medium Coeli | 12:20:55 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°29'44.52" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°29'44.34" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°26'7.26" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|17°12'58.43" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|3°4'22.76" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|11°39'28.71" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|23°55'10.26" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|16°15'3.65" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|17°12'58.38" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|3°4'22.73" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|11°39'28.64" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|23°55'10.23" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|16°15'2.69" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°29'44.52" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°29'44.34" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°26'7.26" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|17°12'58.43" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|3°4'22.76" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|11°39'28.71" |Libra|Ghafr|Saturn|
-|☿ Mercury|Prograde|23°55'10.26" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|16°15'3.65" |Aries|Butain|Sun|
+|♂ Mars|Prograde|17°12'58.38" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|3°4'22.73" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|11°39'28.64" |Libra|Ghafr|Saturn|
+|☿ Mercury|Prograde|23°55'10.23" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|16°15'2.69" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

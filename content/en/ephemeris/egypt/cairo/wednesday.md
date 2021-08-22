@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 11:57:02 |
 | Sunset | 18:25:46 |
 | Maghrib | 18:41:53 |
-| Isha | 19:30:27 |
+| Isha | 19:30:28 |
 | Sharia Midnight | 23:19:45 |
 | Imum Coeli | 23:56:54 |
 {{< /tab >}}
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 11:57:02 |
 | Sunset | 18:25:46 |
 | Maghrib | 18:44:16 |
-| Isha | 19:30:27 |
+| Isha | 19:30:28 |
 | Sharia Midnight | 23:15:28 |
 | Imum Coeli | 23:56:54 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°33'21.92" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°33'22.10" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°33'25.92" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|16°36'59.86" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|2°9'57.23" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|10°33'15.21" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|22°28'39.06" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|3°46'44.86" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|16°36'59.92" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|2°9'57.27" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|10°33'15.28" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|22°28'39.09" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|3°46'45.37" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°33'21.92" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°33'22.10" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°33'25.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|16°36'59.86" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|2°9'57.23" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|10°33'15.21" |Libra|Ghafr|Saturn|
-|☿ Mercury|Prograde|22°28'39.06" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|3°46'44.86" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°36'59.92" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|2°9'57.27" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|10°33'15.28" |Libra|Ghafr|Saturn|
+|☿ Mercury|Prograde|22°28'39.09" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|3°46'45.37" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

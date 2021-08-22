@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 17:36:29 |
 | Maghrib | 17:37:54 |
 | Isha | 19:07:54 |
-| Sharia Midnight | 23:25:15 |
+| Sharia Midnight | 23:25:14 |
 | Imum Coeli | 00:21:03 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°33'35.80" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°33'35.63" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°33'53.70" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|16°34'48.53" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|2°6'35.78" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|10°29'13.21" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|22°23'21.32" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|3°35'3.26" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|16°34'48.48" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|2°6'35.74" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|10°29'13.14" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|22°23'21.29" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|3°35'2.78" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°33'35.80" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°33'35.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°33'53.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|16°34'48.53" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|2°6'35.78" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|10°29'13.21" |Libra|Ghafr|Saturn|
-|☿ Mercury|Prograde|22°23'21.32" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|3°35'3.26" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°34'48.48" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|2°6'35.74" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|10°29'13.14" |Libra|Ghafr|Saturn|
+|☿ Mercury|Prograde|22°23'21.29" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|3°35'2.78" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

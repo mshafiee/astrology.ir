@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:27:03 |
 | Sunset | 18:36:39 |
 | Maghrib | 18:40:52 |
-| Isha | 19:45:16 |
+| Isha | 19:45:17 |
 | Sharia Midnight | 23:50:35 |
 | Imum Coeli | 00:26:55 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°33'23.60" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°33'23.77" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°33'29.33" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|16°36'43.09" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|2°9'31.82" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|10°32'44.30" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|22°27'58.41" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|3°41'14.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|16°36'43.15" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|2°9'31.85" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|10°32'44.37" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|22°27'58.44" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|3°41'15.25" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°33'23.60" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°33'23.77" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°33'29.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|16°36'43.09" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|2°9'31.82" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|10°32'44.30" |Libra|Ghafr|Saturn|
-|☿ Mercury|Prograde|22°27'58.41" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|3°41'14.75" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°36'43.15" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|2°9'31.85" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|10°32'44.37" |Libra|Ghafr|Saturn|
+|☿ Mercury|Prograde|22°27'58.44" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|3°41'15.25" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
