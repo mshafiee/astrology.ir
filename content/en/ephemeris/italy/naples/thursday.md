@@ -34,7 +34,7 @@ Altitude: 14 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:55:31 |
+| Dawn | 04:55:32 |
 | Sunrise | 06:23:40 |
 | Dhuhr | 13:04:40 |
 | Medium Coeli | 13:04:40 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°29'21.66" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°29'21.83" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°25'21.02" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|17°16'41.71" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|3°10'3.20" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|11°46'19.48" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|24°4'2.39" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°2'56.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|17°16'41.77" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|3°10'3.23" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|11°46'19.55" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|24°4'2.42" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|17°2'57.31" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°29'21.66" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°29'21.83" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°25'21.02" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|17°16'41.71" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|3°10'3.20" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|11°46'19.48" |Libra|Ghafr|Saturn|
-|☿ Mercury|Prograde|24°4'2.39" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|17°2'56.34" |Aries|Butain|Sun|
+|♂ Mars|Prograde|17°16'41.77" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|3°10'3.23" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|11°46'19.55" |Libra|Ghafr|Saturn|
+|☿ Mercury|Prograde|24°4'2.42" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|17°2'57.31" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:14:22 |
+| Dawn | 06:14:23 |
 | Sunrise | 07:17:35 |
 | Dhuhr | 13:33:53 |
 | Medium Coeli | 13:33:53 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°20'35.03" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°20'35.20" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°7'22.11" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|18°45'49.08" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|5°24'57.02" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°29'55.65" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|27°32'30.08" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|15°40'41.86" |Aries|Butain|Sun|
+|♂ Mars|Prograde|18°45'49.13" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|5°24'57.04" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°29'55.70" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|27°32'30.10" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|15°40'42.01" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°20'35.03" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°20'35.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°7'22.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|18°45'49.08" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|5°24'57.02" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|14°29'55.65" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|27°32'30.08" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|15°40'41.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Prograde|18°45'49.13" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|5°24'57.04" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|14°29'55.70" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|27°32'30.10" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|15°40'42.01" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

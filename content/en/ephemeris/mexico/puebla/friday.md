@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 19:50:43 |
 | Maghrib | 19:55:09 |
 | Isha | 20:53:55 |
-| Sharia Midnight | 01:02:32 |
+| Sharia Midnight | 01:02:33 |
 | Imum Coeli | 01:34:02 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°24'18.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°24'19.14" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°15'3.66" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|18°7'31.88" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|4°27'0.48" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|13°19'43.23" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|26°3'54.80" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|3°30'31.45" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°7'31.94" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|4°27'0.51" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|13°19'43.29" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|26°3'54.82" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|3°30'32.13" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°24'18.97" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°24'19.14" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°15'3.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|18°7'31.88" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|4°27'0.48" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|13°19'43.23" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|26°3'54.80" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|3°30'31.45" |Taurus|Thurayya|Mercury|
+|♂ Mars|Prograde|18°7'31.94" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|4°27'0.51" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|13°19'43.29" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|26°3'54.82" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|3°30'32.13" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

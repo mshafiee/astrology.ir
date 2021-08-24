@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 17:50:55 |
 | Maghrib | 18:07:26 |
 | Isha | 18:47:37 |
-| Sharia Midnight | 23:23:13 |
+| Sharia Midnight | 23:23:12 |
 | Imum Coeli | 23:59:26 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°23'43.14" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°23'42.97" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°13'49.86" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|18°13'39.77" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|4°36'16.38" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|13°30'58.22" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|26°18'11.94" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|5°34'31.47" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°13'39.72" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|4°36'16.35" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|13°30'58.16" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|26°18'11.91" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|5°34'30.88" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°23'43.14" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°23'42.97" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°13'49.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|18°13'39.77" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|4°36'16.38" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|13°30'58.22" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|26°18'11.94" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|5°34'31.47" |Taurus|Thurayya|Mercury|
+|♂ Mars|Prograde|18°13'39.72" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|4°36'16.35" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|13°30'58.16" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|26°18'11.91" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|5°34'30.88" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

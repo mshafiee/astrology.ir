@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:22:08 |
+| Dawn | 04:22:09 |
 | Sunrise | 05:59:46 |
 | Dhuhr | 12:54:50 |
 | Medium Coeli | 12:54:50 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°38'10.25" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°38'10.43" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°43'1.87" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|15°50'5.94" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|0°58'55.62" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|9°6'46.45" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|20°33'57.14" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|17°48'42.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|15°50'6.00" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|0°58'55.66" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|9°6'46.52" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|20°33'57.17" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|17°48'42.39" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°38'10.25" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|8°38'10.43" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|26°43'1.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|15°50'5.94" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|0°58'55.62" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|9°6'46.45" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|20°33'57.14" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|17°48'42.56" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|15°50'6.00" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|0°58'55.66" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|9°6'46.52" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|20°33'57.17" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|17°48'42.39" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

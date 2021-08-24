@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:51:57 |
 | Sunset | 17:49:52 |
 | Maghrib | 17:53:44 |
-| Isha | 19:01:14 |
+| Isha | 19:01:13 |
 | Sharia Midnight | 23:16:06 |
 | Imum Coeli | 23:51:48 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°38'1.40" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°38'1.23" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°42'44.06" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|15°51'32.51" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|1°1'6.72" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|9°9'26.12" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|20°37'30.64" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|18°18'15.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|15°51'32.45" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|1°1'6.68" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|9°9'26.05" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|20°37'30.61" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|18°18'16.05" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°38'1.40" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|8°38'1.23" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|26°42'44.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|15°51'32.51" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|1°1'6.72" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|9°9'26.12" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|20°37'30.64" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|18°18'15.90" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|15°51'32.45" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|1°1'6.68" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|9°9'26.05" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|20°37'30.61" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|18°18'16.05" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

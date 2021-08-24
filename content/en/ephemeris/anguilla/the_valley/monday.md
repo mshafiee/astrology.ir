@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:14:45 |
 | Sunset | 18:33:16 |
 | Maghrib | 18:34:13 |
-| Isha | 19:49:10 |
+| Isha | 19:49:09 |
 | Sharia Midnight | 23:36:46 |
 | Imum Coeli | 00:14:37 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°40'9.45" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°40'9.28" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°46'57.83" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|15°30'55.27" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|0°29'53.29" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|8°31'21.70" |Virgo|Awwa|Sun|
-|☿ Mercury|Prograde|19°46'24.94" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|10°59'45.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|15°30'55.21" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|0°29'53.24" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|8°31'21.62" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|19°46'24.90" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|10°59'45.37" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°40'9.45" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Retrograde|8°40'9.28" |Aquarius|SaadAlAkhbia|Venus|
 |♃ Jupiter|Retrograde|26°46'57.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|15°30'55.27" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|0°29'53.29" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|8°31'21.70" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|19°46'24.94" |Virgo|Simak|Venus|
-|☾ Moon|Prograde|10°59'45.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|15°30'55.21" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|0°29'53.24" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|8°31'21.62" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|19°46'24.90" |Virgo|Simak|Venus|
+|☾ Moon|Prograde|10°59'45.37" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
