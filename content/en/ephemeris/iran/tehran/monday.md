@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:04:54 |
 | Sunset | 19:34:13 |
 | Maghrib | 19:39:31 |
-| Isha | 20:48:50 |
+| Isha | 20:48:51 |
 | Sharia Midnight | 00:27:39 |
 | Imum Coeli | 01:04:45 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°14'49.42" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°14'49.59" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°55'21.57" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|19°46'8.89" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|6°56'13.80" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°20'19.25" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|29°49'7.12" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°35'36.71" |Taurus|Thurayya|Mercury|
+|♂ Mars|Prograde|19°46'8.94" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|6°56'13.83" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°20'19.30" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|29°49'7.14" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°35'36.85" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°14'49.42" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°14'49.59" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°55'21.57" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|19°46'8.89" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|6°56'13.80" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|16°20'19.25" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|29°49'7.12" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|4°35'36.71" |Gemini|HanAh|Jupiter|
+|♂ Mars|Prograde|19°46'8.94" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|6°56'13.83" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|16°20'19.30" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|29°49'7.14" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|4°35'36.85" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

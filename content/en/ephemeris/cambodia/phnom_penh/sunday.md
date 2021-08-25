@@ -34,7 +34,7 @@ Altitude: 20 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:45:52 |
+| Dawn | 04:45:51 |
 | Sunrise | 05:50:00 |
 | Dhuhr | 12:01:16 |
 | Medium Coeli | 12:01:16 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°18'57.93" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°18'57.75" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°4'0.36" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|19°2'38.33" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|5°50'24.10" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°0'44.07" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|28°10'57.46" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|20°58'45.83" |Aries|Butain|Venus|
+|♂ Mars|Prograde|19°2'38.27" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|5°50'24.08" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°0'44.02" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|28°10'57.44" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|20°58'45.81" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°18'57.93" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°18'57.75" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°4'0.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|19°2'38.33" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|5°50'24.10" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|15°0'44.07" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|28°10'57.46" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|20°58'45.83" |Taurus|Dabaran|Saturn|
+|♂ Mars|Prograde|19°2'38.27" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|5°50'24.08" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|15°0'44.02" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|28°10'57.44" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|20°58'45.81" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

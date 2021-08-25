@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:36:06 |
+| Dawn | 04:36:07 |
 | Sunrise | 06:21:23 |
 | Dhuhr | 13:02:09 |
 | Medium Coeli | 13:02:09 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°25'52.71" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°25'52.88" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°18'15.61" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|17°51'41.51" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|4°3'1.75" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|12°50'38.52" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|25°26'50.31" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°27'13.80" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|17°51'41.56" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|4°3'1.78" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|12°50'38.58" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|25°26'50.33" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|28°27'14.67" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°25'52.71" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°25'52.88" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°18'15.61" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|17°51'41.51" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|4°3'1.75" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|12°50'38.52" |Libra|Ghafr|Saturn|
-|☿ Mercury|Prograde|25°26'50.31" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|28°27'13.80" |Aries|Thurayya|Venus|
+|♂ Mars|Prograde|17°51'41.56" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|4°3'1.78" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|12°50'38.58" |Libra|Ghafr|Saturn|
+|☿ Mercury|Prograde|25°26'50.33" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|28°27'14.67" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
