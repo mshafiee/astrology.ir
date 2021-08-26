@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:12:07 |
 | Sunset | 18:06:30 |
 | Maghrib | 18:10:53 |
-| Isha | 19:16:44 |
+| Isha | 19:16:43 |
 | Sharia Midnight | 23:32:42 |
 | Imum Coeli | 00:11:59 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°33'14.08" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°33'13.91" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°33'9.94" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|16°38'19.11" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|2°11'56.63" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|10°35'41.13" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|22°31'51.00" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°20'23.87" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°38'19.05" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|2°11'56.59" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|10°35'41.07" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|22°31'50.97" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°20'23.34" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°33'14.08" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°33'13.91" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°33'9.94" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|16°38'19.11" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|2°11'56.63" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|10°35'41.13" |Libra|Ghafr|Saturn|
-|☿ Mercury|Prograde|22°31'51.00" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|4°20'23.87" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°38'19.05" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|2°11'56.59" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|10°35'41.07" |Libra|Ghafr|Saturn|
+|☿ Mercury|Prograde|22°31'50.97" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|4°20'23.34" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
