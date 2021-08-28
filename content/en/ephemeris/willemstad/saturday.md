@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:13:29 |
+| Dawn | 05:13:30 |
 | Sunrise | 06:25:00 |
 | Dhuhr | 12:36:49 |
 | Medium Coeli | 12:36:49 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°20'52.41" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°20'52.59" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°7'58.11" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|18°42'49.41" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|5°20'25.09" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°24'26.41" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|27°25'37.52" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|14°44'20.74" |Aries|Butain|Sun|
+|♂ Mars|Prograde|18°42'49.46" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|5°20'25.11" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°24'26.46" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|27°25'37.54" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|14°44'20.93" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°20'52.41" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°20'52.59" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°7'58.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|18°42'49.41" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|5°20'25.09" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|14°24'26.41" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|27°25'37.52" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|14°44'20.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Prograde|18°42'49.46" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|5°20'25.11" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|14°24'26.46" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|27°25'37.54" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|14°44'20.93" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

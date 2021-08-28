@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:55:07 |
 | Sunset | 18:21:44 |
 | Maghrib | 18:22:47 |
-| Isha | 19:46:56 |
+| Isha | 19:46:55 |
 | Sharia Midnight | 23:12:33 |
 | Imum Coeli | 23:54:58 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°19'10.54" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°19'10.36" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°4'26.51" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|19°0'27.46" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|5°47'6.07" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°56'44.48" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|28°5'59.23" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|20°17'42.35" |Aries|Butain|Venus|
+|♂ Mars|Prograde|19°0'27.41" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|5°47'6.05" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°56'44.43" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|28°5'59.21" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|20°17'42.32" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°19'10.54" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°19'10.36" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°4'26.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|19°0'27.46" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|5°47'6.07" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|14°56'44.48" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|28°5'59.23" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|20°17'42.35" |Taurus|Dabaran|Saturn|
+|♂ Mars|Prograde|19°0'27.41" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|5°47'6.05" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|14°56'44.43" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|28°5'59.21" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|20°17'42.32" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

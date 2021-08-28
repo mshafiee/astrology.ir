@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:57:16 |
 | Sunset | 18:14:40 |
 | Maghrib | 18:15:38 |
-| Isha | 19:29:03 |
+| Isha | 19:29:04 |
 | Sharia Midnight | 23:15:33 |
 | Imum Coeli | 23:57:07 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°15'20.32" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°15'20.50" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°56'26.44" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|19°40'40.85" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|6°47'57.67" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°10'19.70" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|29°36'53.33" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|2°53'7.51" |Taurus|Thurayya|Mercury|
+|♂ Mars|Prograde|19°40'40.91" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|6°47'57.69" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°10'19.75" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|29°36'53.34" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|2°53'7.61" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°15'20.32" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°15'20.50" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°56'26.44" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|19°40'40.85" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|6°47'57.67" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|16°10'19.70" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|29°36'53.33" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|2°53'7.51" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Prograde|19°40'40.91" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|6°47'57.69" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|16°10'19.75" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|29°36'53.34" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|2°53'7.61" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

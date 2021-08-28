@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 12:21:20 |
 | Medium Coeli | 12:21:20 |
 | Sunset | 18:28:46 |
-| Maghrib | 18:42:38 |
+| Maghrib | 18:42:39 |
 | Isha | 19:23:30 |
 | Sharia Midnight | 23:49:46 |
 | Imum Coeli | 00:21:10 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°10'37.61" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°10'37.78" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°46'30.25" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|20°31'7.72" |Leo|Zubrah|Mars|
-|☉ Sun|Prograde|8°4'16.25" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|17°42'26.18" |Virgo|Simak|Venus|
-|☿ Mercury|Prograde|1°28'34.74" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|18°38'59.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Prograde|20°31'7.77" |Leo|Zubrah|Mars|
+|☉ Sun|Prograde|8°4'16.27" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|17°42'26.23" |Virgo|Simak|Venus|
+|☿ Mercury|Prograde|1°28'34.76" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|18°39'0.27" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°10'37.61" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°10'37.78" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°46'30.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|20°31'7.72" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|8°4'16.25" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|17°42'26.18" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|1°28'34.74" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|18°38'59.78" |Gemini|Dhira|Mars|
+|♂ Mars|Prograde|20°31'7.77" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|8°4'16.27" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|17°42'26.23" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|1°28'34.76" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|18°39'0.27" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
