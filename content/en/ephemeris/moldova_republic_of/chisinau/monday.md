@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:05:08 |
 | Sunset | 19:48:17 |
 | Maghrib | 19:49:49 |
-| Isha | 21:33:52 |
+| Isha | 21:33:51 |
 | Sharia Midnight | 00:08:55 |
 | Imum Coeli | 01:04:59 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°14'38.23" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°14'38.06" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°54'57.70" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|19°48'10.25" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|6°59'17.07" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°24'0.97" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|29°53'38.05" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|5°13'45.52" |Taurus|Thurayya|Mercury|
+|♂ Mars|Prograde|19°48'10.19" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|6°59'17.04" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°24'0.92" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|29°53'38.03" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|5°13'45.36" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°14'38.23" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°14'38.06" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°54'57.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|19°48'10.25" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|6°59'17.07" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|16°24'0.97" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|29°53'38.05" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|5°13'45.52" |Gemini|HanAh|Jupiter|
+|♂ Mars|Prograde|19°48'10.19" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|6°59'17.04" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|16°24'0.92" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|29°53'38.03" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|5°13'45.36" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

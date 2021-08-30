@@ -34,7 +34,7 @@ Altitude: 924 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:22:13 |
+| Dawn | 05:22:14 |
 | Sunrise | 06:31:02 |
 | Dhuhr | 12:17:35 |
 | Medium Coeli | 12:17:35 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°13'42.63" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°13'42.81" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°53'1.33" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|19°58'0.55" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|7°14'9.30" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°41'59.33" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|0°15'32.80" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|8°17'41.36" |Taurus|Thurayya|Mercury|
+|♂ Mars|Prograde|19°58'0.61" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|7°14'9.32" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°41'59.38" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|0°15'32.82" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|8°17'41.61" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°13'42.63" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°13'42.81" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°53'1.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|19°58'0.55" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|7°14'9.30" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|16°41'59.33" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|0°15'32.80" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|8°17'41.36" |Gemini|HanAh|Jupiter|
+|♂ Mars|Prograde|19°58'0.61" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|7°14'9.32" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|16°41'59.38" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|0°15'32.82" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|8°17'41.61" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

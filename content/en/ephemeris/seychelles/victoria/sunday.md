@@ -1,6 +1,6 @@
 ---
-date: 2021-08-29T00:00:00+04:00
-lastmod: 2021-08-29T00:00:00+04:00
+date: 2021-09-05T00:00:00+04:00
+lastmod: 2021-09-05T00:00:00+04:00
 title: Victoria (Sunday)
 slug: sunday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Sunday, 29 Aug 2021
+description: 🗓 Sunday, 05 Sep 2021
 
 toc: false
 ---

@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:52:32 |
 | Sunset | 18:40:30 |
 | Maghrib | 18:45:04 |
-| Isha | 19:54:39 |
+| Isha | 19:54:38 |
 | Sharia Midnight | 00:10:51 |
 | Imum Coeli | 00:52:23 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°18'0.80" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°18'0.63" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|26°2'1.59" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|19°12'35.84" |Leo|Zubrah|Jupiter|
-|☉ Sun|Prograde|6°5'27.15" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°18'57.76" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|28°33'35.65" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°9'23.53" |Aries|Butain|Venus|
+|♂ Mars|Prograde|19°12'35.78" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|6°5'27.13" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°18'57.71" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|28°33'35.63" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°9'23.54" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°18'0.80" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°18'0.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|26°2'1.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|19°12'35.84" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|6°5'27.15" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|15°18'57.76" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|28°33'35.65" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|24°9'23.53" |Taurus|HaqAh|Saturn|
+|♂ Mars|Prograde|19°12'35.78" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|6°5'27.13" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|15°18'57.71" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|28°33'35.63" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|24°9'23.54" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

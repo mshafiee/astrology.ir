@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:35:36 |
+| Dawn | 05:35:35 |
 | Sunrise | 06:49:15 |
 | Dhuhr | 13:04:08 |
 | Medium Coeli | 13:04:08 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°10'32.54" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°10'32.37" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°46'19.09" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|20°32'4.55" |Leo|Zubrah|Mars|
-|☉ Sun|Prograde|8°5'42.26" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|17°44'9.78" |Virgo|Simak|Venus|
-|☿ Mercury|Prograde|1°30'38.97" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|18°57'7.21" |Taurus|Dabaran|Moon|
+|♂ Mars|Prograde|20°32'4.49" |Leo|Zubrah|Mars|
+|☉ Sun|Prograde|8°5'42.24" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|17°44'9.74" |Virgo|Simak|Venus|
+|☿ Mercury|Prograde|1°30'38.94" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|18°57'6.72" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°10'32.54" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°10'32.37" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°46'19.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|20°32'4.55" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|8°5'42.26" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|17°44'9.78" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|1°30'38.97" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|18°57'7.21" |Gemini|Dhira|Mars|
+|♂ Mars|Prograde|20°32'4.49" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|8°5'42.24" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|17°44'9.74" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|1°30'38.94" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|18°57'6.72" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
