@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:31:16 |
 | Sunset | 19:53:09 |
 | Maghrib | 19:56:43 |
-| Isha | 21:17:55 |
+| Isha | 21:17:56 |
 | Sharia Midnight | 00:48:54 |
 | Imum Coeli | 01:31:06 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°0'17.64" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°0'17.81" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°24'17.78" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|22°26'13.93" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|10°58'19.29" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°11'49.20" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|5°33'30.71" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|25°29'53.90" |Gemini|Dhira|Sun|
+|♂ Mars|Prograde|22°26'13.99" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|10°58'19.31" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°11'49.24" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|5°33'30.74" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|25°29'54.11" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°0'17.64" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°0'17.81" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°24'17.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|22°26'13.93" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|10°58'19.29" |Virgo|Awwa|Venus|
-|♀ Venus|Prograde|21°11'49.20" |Libra|Jubana|Jupiter|
-|☿ Mercury|Prograde|5°33'30.71" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|25°29'53.90" |Cancer|Tarf|Moon|
+|♂ Mars|Prograde|22°26'13.99" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|10°58'19.31" |Virgo|Awwa|Venus|
+|♀ Venus|Prograde|21°11'49.24" |Libra|Jubana|Jupiter|
+|☿ Mercury|Prograde|5°33'30.74" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|25°29'54.11" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

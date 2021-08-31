@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:34:51 |
 | Sunset | 18:42:37 |
 | Maghrib | 18:43:31 |
-| Isha | 19:51:42 |
+| Isha | 19:51:43 |
 | Sharia Midnight | 23:56:05 |
 | Imum Coeli | 00:34:42 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°12'22.37" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°12'22.54" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°50'11.99" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|20°12'17.93" |Leo|Zubrah|Mars|
-|☉ Sun|Prograde|7°35'47.36" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|17°8'4.83" |Virgo|Awwa|Venus|
-|☿ Mercury|Prograde|0°47'11.63" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|12°45'32.51" |Taurus|Dabaran|Moon|
+|♂ Mars|Prograde|20°12'17.98" |Leo|Zubrah|Mars|
+|☉ Sun|Prograde|7°35'47.38" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|17°8'4.88" |Virgo|Awwa|Venus|
+|☿ Mercury|Prograde|0°47'11.65" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|12°45'32.89" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°12'22.37" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°12'22.54" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°50'11.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|20°12'17.93" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|7°35'47.36" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|17°8'4.83" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|0°47'11.63" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|12°45'32.51" |Gemini|HanAh|Mars|
+|♂ Mars|Prograde|20°12'17.98" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|7°35'47.38" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|17°8'4.88" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|0°47'11.65" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|12°45'32.89" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

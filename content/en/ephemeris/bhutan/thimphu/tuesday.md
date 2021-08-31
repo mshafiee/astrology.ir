@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:01:44 |
 | Sunset | 18:22:38 |
 | Maghrib | 18:27:19 |
-| Isha | 19:44:32 |
+| Isha | 19:44:33 |
 | Sharia Midnight | 23:20:47 |
 | Imum Coeli | 00:01:35 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°11'35.81" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°11'35.98" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°48'33.51" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|20°20'39.00" |Leo|Zubrah|Mars|
-|☉ Sun|Prograde|7°48'25.38" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|17°23'19.30" |Virgo|Simak|Venus|
-|☿ Mercury|Prograde|1°5'35.61" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|15°22'13.23" |Taurus|Dabaran|Moon|
+|♂ Mars|Prograde|20°20'39.05" |Leo|Zubrah|Mars|
+|☉ Sun|Prograde|7°48'25.40" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|17°23'19.35" |Virgo|Simak|Venus|
+|☿ Mercury|Prograde|1°5'35.63" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|15°22'13.67" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°11'35.81" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°11'35.98" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°48'33.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|20°20'39.00" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|7°48'25.38" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|17°23'19.30" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|1°5'35.61" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|15°22'13.23" |Gemini|HanAh|Mars|
+|♂ Mars|Prograde|20°20'39.05" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|7°48'25.40" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|17°23'19.35" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|1°5'35.63" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|15°22'13.67" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:14:56 |
 | Sunset | 18:20:58 |
 | Maghrib | 18:22:11 |
-| Isha | 19:29:29 |
+| Isha | 19:29:28 |
 | Sharia Midnight | 23:36:29 |
 | Imum Coeli | 00:14:46 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°56'58.67" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|7°56'58.50" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°17'2.27" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|23°4'41.83" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|11°56'27.67" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°21'32.74" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|6°52'10.83" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|8°17'47.74" |Cancer|Nathrah|Venus|
+|♂ Mars|Prograde|23°4'41.78" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|11°56'27.65" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|22°21'32.70" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|6°52'10.80" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|8°17'47.16" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°56'58.67" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|7°56'58.50" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°17'2.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|23°4'41.83" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|11°56'27.67" |Virgo|Awwa|Venus|
-|♀ Venus|Prograde|22°21'32.74" |Libra|Jubana|Jupiter|
-|☿ Mercury|Prograde|6°52'10.83" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|8°17'47.74" |Leo|Jabhah|Saturn|
+|♂ Mars|Prograde|23°4'41.78" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|11°56'27.65" |Virgo|Awwa|Venus|
+|♀ Venus|Prograde|22°21'32.70" |Libra|Jubana|Jupiter|
+|☿ Mercury|Prograde|6°52'10.80" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|8°17'47.16" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
