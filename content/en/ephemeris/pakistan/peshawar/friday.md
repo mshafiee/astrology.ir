@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 12:13:01 |
 | Medium Coeli | 12:13:01 |
 | Sunset | 18:37:01 |
-| Maghrib | 18:53:46 |
+| Maghrib | 18:53:45 |
 | Isha | 19:43:49 |
 | Sharia Midnight | 23:34:32 |
 | Imum Coeli | 00:12:51 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°1'2.67" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°1'2.50" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°25'55.36" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|22°17'40.69" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|10°45'23.30" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°56'17.75" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|5°15'47.62" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|22°40'57.98" |Gemini|Dhira|Sun|
+|♂ Mars|Prograde|22°17'40.63" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|10°45'23.28" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°56'17.70" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|5°15'47.60" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|22°40'57.81" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°1'2.67" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°1'2.50" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°25'55.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|22°17'40.69" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|10°45'23.30" |Virgo|Awwa|Venus|
-|♀ Venus|Prograde|20°56'17.75" |Libra|Jubana|Jupiter|
-|☿ Mercury|Prograde|5°15'47.62" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|22°40'57.98" |Cancer|Tarf|Moon|
+|♂ Mars|Prograde|22°17'40.63" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|10°45'23.28" |Virgo|Awwa|Venus|
+|♀ Venus|Prograde|20°56'17.70" |Libra|Jubana|Jupiter|
+|☿ Mercury|Prograde|5°15'47.60" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|22°40'57.81" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:59:48 |
+| Dawn | 04:59:49 |
 | Sunrise | 06:13:42 |
 | Dhuhr | 12:10:01 |
 | Medium Coeli | 12:10:01 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°7'24.45" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°7'24.62" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°39'38.91" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|21°6'18.18" |Leo|Zubrah|Mars|
-|☉ Sun|Prograde|8°57'27.59" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°46'32.17" |Virgo|Simak|Venus|
-|☿ Mercury|Prograde|2°44'54.45" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°40'44.82" |Taurus|HaqAh|Saturn|
+|♂ Mars|Prograde|21°6'18.24" |Leo|Zubrah|Mars|
+|☉ Sun|Prograde|8°57'27.61" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°46'32.22" |Virgo|Simak|Venus|
+|☿ Mercury|Prograde|2°44'54.47" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°40'45.27" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°7'24.45" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°7'24.62" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°39'38.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|21°6'18.18" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|8°57'27.59" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|18°46'32.17" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|2°44'54.45" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|29°40'44.82" |Gemini|Dhira|Sun|
+|♂ Mars|Prograde|21°6'18.24" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|8°57'27.61" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|18°46'32.22" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|2°44'54.47" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|29°40'45.27" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
