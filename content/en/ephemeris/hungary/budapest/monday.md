@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:42:07 |
 | Sunset | 19:14:20 |
 | Maghrib | 19:16:08 |
-| Isha | 21:01:27 |
+| Isha | 21:01:26 |
 | Sharia Midnight | 23:41:42 |
 | Imum Coeli | 00:41:57 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°50'48.48" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|7°50'48.32" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°3'22.10" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|24°18'30.08" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|13°47'59.26" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°34'59.24" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|9°18'25.82" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°42'10.67" |Leo|Jabhah|Saturn|
+|♂ Mars|Prograde|24°18'30.02" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|13°47'59.24" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|24°34'59.20" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|9°18'25.78" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|3°42'10.10" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°50'48.48" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|7°50'48.32" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°3'22.10" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|24°18'30.08" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|13°47'59.26" |Virgo|Awwa|Venus|
-|♀ Venus|Prograde|24°34'59.24" |Libra|Jubana|Jupiter|
-|☿ Mercury|Prograde|9°18'25.82" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|3°42'10.67" |Virgo|Sarfrah|Sun|
+|♂ Mars|Prograde|24°18'30.02" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|13°47'59.24" |Virgo|Awwa|Venus|
+|♀ Venus|Prograde|24°34'59.20" |Libra|Jubana|Jupiter|
+|☿ Mercury|Prograde|9°18'25.78" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|3°42'10.10" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
