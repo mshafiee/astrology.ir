@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 01:35:04 |
+| Dawn | 01:35:03 |
 | Sunrise | 06:13:00 |
 | Dhuhr | 13:27:09 |
 | Medium Coeli | 13:27:09 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°3'40.44" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|8°3'40.61" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°31'37.43" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|21°47'53.37" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|10°0'20.19" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°2'11.53" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|4°13'28.87" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|12°52'51.74" |Gemini|HanAh|Mars|
+|♂ Mars|Prograde|21°47'53.42" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|10°0'20.21" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°2'11.58" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|4°13'28.90" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|12°52'51.93" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|8°3'40.44" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|8°3'40.61" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°31'37.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|21°47'53.37" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|10°0'20.19" |Virgo|Awwa|Venus|
-|♀ Venus|Prograde|20°2'11.53" |Libra|Jubana|Jupiter|
-|☿ Mercury|Prograde|4°13'28.87" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|12°52'51.74" |Cancer|Tarf|Mercury|
+|♂ Mars|Prograde|21°47'53.42" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|10°0'20.21" |Virgo|Awwa|Venus|
+|♀ Venus|Prograde|20°2'11.58" |Libra|Jubana|Jupiter|
+|☿ Mercury|Prograde|4°13'28.90" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|12°52'51.93" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
