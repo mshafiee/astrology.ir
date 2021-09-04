@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°59'54.01" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°23'26.06" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|22°30'48.59" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|11°5'13.35" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°20'7.30" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|5°42'57.33" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|26°49'25.65" |Gemini|Dhira|Sun|
+|♂ Mars|Prograde|22°30'47.26" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|11°5'7.73" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°20'8.51" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|5°42'56.01" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|25°44'37.13" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Jupiter|Sun|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Jupiter|Sun|Sun|
 |♀ Venus|Mars|Moon|Venus|Sun|Moon|
 |☿ Mercury|Moon|Saturn|Mars|Moon|Venus|
-|☾ Moon|Venus|Mercury|Mars|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Mars|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°59'54.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|25°23'26.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|22°30'48.59" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|11°5'13.35" |Virgo|Awwa|Venus|
-|♀ Venus|Prograde|21°20'7.30" |Libra|Jubana|Jupiter|
-|☿ Mercury|Prograde|5°42'57.33" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|26°49'25.65" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|7°59'53.84" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|25°23'26.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|22°30'48.53" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|11°5'13.33" |Virgo|Awwa|Venus|
+|♀ Venus|Prograde|21°20'7.26" |Libra|Jubana|Jupiter|
+|☿ Mercury|Prograde|5°42'57.31" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|26°49'25.39" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

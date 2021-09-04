@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:32:27 |
 | Sunset | 18:06:27 |
 | Maghrib | 18:08:50 |
-| Isha | 19:53:42 |
+| Isha | 19:53:41 |
 | Sharia Midnight | 22:38:58 |
 | Imum Coeli | 23:32:17 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°58'14.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|7°58'14.37" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|25°19'48.56" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|22°49'57.99" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|11°34'11.58" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°54'51.48" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|6°22'14.78" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°19'14.56" |Cancer|Nathrah|Venus|
+|♂ Mars|Prograde|22°49'57.93" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|11°34'11.56" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°54'51.43" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|6°22'14.75" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|3°19'14.14" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°58'14.53" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|7°58'14.37" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|25°19'48.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|22°49'57.99" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|11°34'11.58" |Virgo|Awwa|Venus|
-|♀ Venus|Prograde|21°54'51.48" |Libra|Jubana|Jupiter|
-|☿ Mercury|Prograde|6°22'14.78" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|3°19'14.56" |Leo|Jabhah|Saturn|
+|♂ Mars|Prograde|22°49'57.93" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|11°34'11.56" |Virgo|Awwa|Venus|
+|♀ Venus|Prograde|21°54'51.43" |Libra|Jubana|Jupiter|
+|☿ Mercury|Prograde|6°22'14.75" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|3°19'14.14" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
