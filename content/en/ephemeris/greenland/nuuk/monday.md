@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 20:24:16 |
 | Maghrib | 20:26:23 |
 | Isha | 23:54:22 |
-| Sharia Midnight | 23:01:30 |
+| Sharia Midnight | 23:01:31 |
 | Imum Coeli | 01:24:56 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°50'15.22" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|25°2'7.69" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|24°25'19.05" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|13°58'16.50" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°47'17.25" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|9°31'36.73" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|5°57'5.36" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|7°50'15.06" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|25°2'7.70" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|24°25'18.98" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|13°58'16.48" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|24°47'17.21" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|9°31'36.70" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|5°57'4.87" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°50'15.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|25°2'7.69" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|24°25'19.05" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|13°58'16.50" |Virgo|Awwa|Venus|
-|♀ Venus|Prograde|24°47'17.25" |Libra|Jubana|Jupiter|
-|☿ Mercury|Prograde|9°31'36.73" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|5°57'5.36" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|7°50'15.06" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|25°2'7.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|24°25'18.98" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|13°58'16.48" |Virgo|Awwa|Venus|
+|♀ Venus|Prograde|24°47'17.21" |Libra|Jubana|Jupiter|
+|☿ Mercury|Prograde|9°31'36.70" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|5°57'4.87" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

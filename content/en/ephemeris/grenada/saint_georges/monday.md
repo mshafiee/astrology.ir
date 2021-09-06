@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:56:51 |
+| Dawn | 04:56:50 |
 | Sunrise | 05:56:20 |
 | Dhuhr | 12:05:13 |
 | Medium Coeli | 12:05:13 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°50'2.83" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|25°1'40.09" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|24°27'48.03" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|14°2'2.56" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°51'46.05" |Virgo|Simak|Mercury|
-|☿ Mercury|Prograde|9°36'24.31" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|7°3'40.75" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|7°50'2.67" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|25°1'40.10" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|24°27'47.97" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|14°2'2.54" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|24°51'46.00" |Virgo|Simak|Mercury|
+|☿ Mercury|Prograde|9°36'24.28" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|7°3'40.30" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°50'2.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|25°1'40.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|24°27'48.03" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|14°2'2.56" |Virgo|Awwa|Venus|
-|♀ Venus|Prograde|24°51'46.05" |Libra|Jubana|Jupiter|
-|☿ Mercury|Prograde|9°36'24.31" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|7°3'40.75" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|7°50'2.67" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|25°1'40.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|24°27'47.97" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|14°2'2.54" |Virgo|Awwa|Venus|
+|♀ Venus|Prograde|24°51'46.00" |Libra|Jubana|Jupiter|
+|☿ Mercury|Prograde|9°36'24.28" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|7°3'40.30" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
