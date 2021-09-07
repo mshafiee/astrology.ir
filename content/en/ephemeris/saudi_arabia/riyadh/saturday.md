@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:19:52 |
+| Dawn | 04:19:53 |
 | Sunrise | 05:37:49 |
 | Dhuhr | 11:49:42 |
 | Medium Coeli | 11:49:42 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:19:52 |
+| Dawn | 04:19:53 |
 | Sunrise | 05:37:49 |
 | Dhuhr | 11:49:42 |
 | Medium Coeli | 11:49:42 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°36'8.14" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|24°29'51.50" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|27°29'3.07" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|18°35'44.56" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|0°17'19.58" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|15°4'32.40" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|12°47'36.52" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|7°36'8.30" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|24°29'51.48" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|27°29'3.13" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|18°35'44.58" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|0°17'19.62" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|15°4'32.43" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|12°47'36.78" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°36'8.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|24°29'51.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|27°29'3.07" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|18°35'44.56" |Virgo|Simak|Venus|
-|♀ Venus|Prograde|0°17'19.58" |Scorpio|Akleel|Mars|
-|☿ Mercury|Prograde|15°4'32.40" |Libra|Jubana|Saturn|
-|☾ Moon|Prograde|12°47'36.52" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|7°36'8.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|24°29'51.48" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|27°29'3.13" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|18°35'44.58" |Virgo|Simak|Venus|
+|♀ Venus|Prograde|0°17'19.62" |Scorpio|Akleel|Mars|
+|☿ Mercury|Prograde|15°4'32.43" |Libra|Jubana|Saturn|
+|☾ Moon|Prograde|12°47'36.78" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
