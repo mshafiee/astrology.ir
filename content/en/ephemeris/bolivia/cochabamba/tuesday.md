@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|06:21:16|07:21:03|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Sun|Servant|07:21:04|08:20:52|Absorption of badness, nothing to do|
+|2|Sun|Servant|07:21:04|08:20:52|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Venus|Servant|08:20:53|09:20:41|Attracting relationship and courtship|
 |4|Mercury|Servant|09:20:42|10:20:30|Attracting material things and earning a living and prosperity|
 |5|Moon|Servant|10:20:31|11:20:19|Absorption of body, nothing to do|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°27'21.11" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|24°8'57.06" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|29°37'37.70" |Leo|Sarfrah|Mars|
-|☉ Sun|Prograde|21°49'41.95" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|4°6'26.09" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|18°27'55.66" |Virgo|Simak|Venus|
-|☾ Moon|Prograde|29°10'59.75" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|7°27'20.96" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|24°8'57.08" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|29°37'37.64" |Leo|Sarfrah|Mars|
+|☉ Sun|Prograde|21°49'41.92" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|4°6'26.04" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|18°27'55.62" |Virgo|Simak|Venus|
+|☾ Moon|Prograde|29°10'58.45" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°27'21.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|24°8'57.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|29°37'37.70" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|21°49'41.95" |Virgo|Simak|Mercury|
-|♀ Venus|Prograde|4°6'26.09" |Scorpio|Akleel|Mars|
-|☿ Mercury|Prograde|18°27'55.66" |Libra|Jubana|Saturn|
-|☾ Moon|Prograde|29°10'59.75" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|7°27'20.96" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|24°8'57.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|29°37'37.64" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|21°49'41.92" |Virgo|Simak|Mercury|
+|♀ Venus|Prograde|4°6'26.04" |Scorpio|Akleel|Mars|
+|☿ Mercury|Prograde|18°27'55.62" |Libra|Jubana|Saturn|
+|☾ Moon|Prograde|29°10'58.45" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
