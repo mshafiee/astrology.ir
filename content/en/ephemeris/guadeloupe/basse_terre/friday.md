@@ -1,6 +1,6 @@
 ---
-date: 2021-09-10T00:00:00-04:00
-lastmod: 2021-09-10T00:00:00-04:00
+date: 2021-09-17T00:00:00-04:00
+lastmod: 2021-09-17T00:00:00-04:00
 title: Basse-Terre (Friday)
 slug: friday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Friday, 10 Sep 2021
+description: 🗓 Friday, 17 Sep 2021
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
 
 
 {{< /tab >}}
