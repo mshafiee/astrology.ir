@@ -1,6 +1,6 @@
 ---
-date: 2021-09-14T00:00:00+04:00
-lastmod: 2021-09-14T00:00:00+04:00
+date: 2021-09-21T00:00:00+04:00
+lastmod: 2021-09-21T00:00:00+04:00
 title: Victoria (Tuesday)
 slug: tuesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Tuesday, 14 Sep 2021
+description: 🗓 Tuesday, 21 Sep 2021
 
 toc: false
 ---
