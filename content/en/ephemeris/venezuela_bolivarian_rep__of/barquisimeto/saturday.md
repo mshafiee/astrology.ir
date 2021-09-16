@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°17'58.59" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|7°17'58.44" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Retrograde|23°45'43.83" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|2°13'1.35" |Virgo|Sarfrah|Sun|
 |☉ Sun|Prograde|25°43'56.25" |Leo|Sarfrah|Mars|
