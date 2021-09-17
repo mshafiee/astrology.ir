@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 19:07:02 |
 | Maghrib | 19:10:06 |
 | Isha | 20:40:06 |
-| Sharia Midnight | 23:58:19 |
+| Sharia Midnight | 23:58:18 |
 | Imum Coeli | 00:55:50 |
 {{< /tab >}}
 
@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°16'20.98" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|23°41'34.81" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|2°42'38.04" |Virgo|Sarfrah|Sun|
-|☉ Sun|Prograde|26°28'32.54" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|9°33'12.77" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|22°25'24.25" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|7°16'20.84" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|23°41'34.84" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|2°42'37.97" |Virgo|Sarfrah|Sun|
+|☉ Sun|Prograde|26°28'32.50" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|9°33'12.72" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|22°25'24.20" |Virgo|Simak|Mercury|
 |☾ Moon|Prograde|3°51'29.11" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°16'20.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|23°41'34.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|2°42'38.04" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|26°28'32.54" |Virgo|Simak|Mercury|
-|♀ Venus|Prograde|9°33'12.77" |Scorpio|Qalb|Mars|
-|☿ Mercury|Prograde|22°25'24.25" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|7°16'20.84" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|23°41'34.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|2°42'37.97" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|26°28'32.50" |Virgo|Simak|Mercury|
+|♀ Venus|Prograde|9°33'12.72" |Scorpio|Qalb|Mars|
+|☿ Mercury|Prograde|22°25'24.20" |Libra|Jubana|Jupiter|
 |☾ Moon|Prograde|3°51'29.11" |Pisces|FarghAlMuqaddam|Saturn|
 
 

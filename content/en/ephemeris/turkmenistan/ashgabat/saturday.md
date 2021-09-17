@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 19:27:15 |
 | Isha | 20:18:39 |
 | Sharia Midnight | 00:21:03 |
-| Imum Coeli | 01:00:24 |
+| Imum Coeli | 01:00:23 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:29:47 |
 | Isha | 20:18:39 |
 | Sharia Midnight | 00:16:34 |
-| Imum Coeli | 01:00:24 |
+| Imum Coeli | 01:00:23 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 19:12:33 |
 | Isha | 20:34:23 |
 | Sharia Midnight | 00:15:46 |
-| Imum Coeli | 01:00:24 |
+| Imum Coeli | 01:00:23 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 19:12:33 |
 | Isha | 20:23:53 |
 | Sharia Midnight | 00:23:41 |
-| Imum Coeli | 01:00:24 |
+| Imum Coeli | 01:00:23 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 19:12:33 |
 | Isha | 20:37:02 |
 | Sharia Midnight | 00:11:46 |
-| Imum Coeli | 01:00:24 |
+| Imum Coeli | 01:00:23 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 19:12:33 |
 | Isha | 20:39:41 |
 | Sharia Midnight | 00:15:46 |
-| Imum Coeli | 01:00:24 |
+| Imum Coeli | 01:00:23 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 19:12:33 |
 | Isha | 20:42:33 |
 | Sharia Midnight | 00:14:26 |
-| Imum Coeli | 01:00:24 |
+| Imum Coeli | 01:00:23 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°18'45.68" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|23°47'42.96" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|1°59'5.39" |Virgo|Sarfrah|Sun|
-|☉ Sun|Prograde|25°22'56.70" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|8°16'37.23" |Libra|Ghafr|Moon|
-|☿ Mercury|Prograde|21°36'20.60" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|18°50'45.52" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|7°18'45.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|23°47'42.99" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|1°59'5.32" |Virgo|Sarfrah|Sun|
+|☉ Sun|Prograde|25°22'56.66" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|8°16'37.18" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|21°36'20.55" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|18°50'45.06" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°18'45.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|23°47'42.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|1°59'5.39" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|25°22'56.70" |Virgo|Simak|Mercury|
-|♀ Venus|Prograde|8°16'37.23" |Scorpio|Akleel|Mars|
-|☿ Mercury|Prograde|21°36'20.60" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|18°50'45.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|7°18'45.53" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|23°47'42.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|1°59'5.32" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|25°22'56.66" |Virgo|Simak|Mercury|
+|♀ Venus|Prograde|8°16'37.18" |Scorpio|Akleel|Mars|
+|☿ Mercury|Prograde|21°36'20.55" |Libra|Jubana|Jupiter|
+|☾ Moon|Prograde|18°50'45.06" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
