@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:48:16 |
+| Dawn | 04:48:17 |
 | Sunrise | 05:46:50 |
 | Dhuhr | 11:50:01 |
 | Medium Coeli | 11:50:01 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°10'53.22" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|23°27'19.31" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|4°29'44.25" |Virgo|Awwa|Sun|
-|☉ Sun|Prograde|29°9'49.93" |Leo|Sarfrah|Mars|
-|♀ Venus|Prograde|12°40'43.60" |Libra|Ghafr|Saturn|
-|☿ Mercury|Prograde|24°4'41.61" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|9°37'49.93" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|7°10'53.37" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|23°27'19.27" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|4°29'44.33" |Virgo|Awwa|Sun|
+|☉ Sun|Prograde|29°9'49.97" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|12°40'43.65" |Libra|Ghafr|Saturn|
+|☿ Mercury|Prograde|24°4'41.66" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|9°37'49.54" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°10'53.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|23°27'19.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|4°29'44.25" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|29°9'49.93" |Virgo|Simak|Mercury|
-|♀ Venus|Prograde|12°40'43.60" |Scorpio|Qalb|Sun|
-|☿ Mercury|Prograde|24°4'41.61" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|9°37'49.93" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|7°10'53.37" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|23°27'19.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|4°29'44.33" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|29°9'49.97" |Virgo|Simak|Mercury|
+|♀ Venus|Prograde|12°40'43.65" |Scorpio|Qalb|Sun|
+|☿ Mercury|Prograde|24°4'41.66" |Libra|Jubana|Jupiter|
+|☾ Moon|Prograde|9°37'49.54" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
