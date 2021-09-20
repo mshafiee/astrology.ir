@@ -1,6 +1,6 @@
 ---
-date: 2021-09-17T00:00:00-04:00
-lastmod: 2021-09-17T00:00:00-04:00
+date: 2021-09-24T00:00:00-04:00
+lastmod: 2021-09-24T00:00:00-04:00
 title: Basse-Terre (Friday)
 slug: friday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Friday, 17 Sep 2021
+description: 🗓 Friday, 24 Sep 2021
 
 toc: false
 ---
