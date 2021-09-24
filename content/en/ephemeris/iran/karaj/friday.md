@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:58:00 |
 | Sunset | 17:59:43 |
 | Maghrib | 18:04:54 |
-| Isha | 19:24:04 |
+| Isha | 19:24:05 |
 | Sharia Midnight | 23:10:48 |
 | Imum Coeli | 23:57:50 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°7'5.55" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|23°17'0.80" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|5°53'39.78" |Virgo|Awwa|Sun|
-|☉ Sun|Prograde|1°16'9.87" |Virgo|Sarfrah|Sun|
-|♀ Venus|Prograde|15°6'45.65" |Libra|Jubana|Saturn|
-|☿ Mercury|Prograde|24°57'53.19" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|6°16'35.52" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|7°7'5.69" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|23°17'0.76" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|5°53'39.85" |Virgo|Awwa|Sun|
+|☉ Sun|Prograde|1°16'9.91" |Virgo|Sarfrah|Sun|
+|♀ Venus|Prograde|15°6'45.70" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|24°57'53.23" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|6°16'35.90" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°7'5.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|23°17'0.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|5°53'39.78" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|1°16'9.87" |Libra|Ghafr|Moon|
-|♀ Venus|Prograde|15°6'45.65" |Scorpio|Qalb|Sun|
-|☿ Mercury|Prograde|24°57'53.19" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|6°16'35.52" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|7°7'5.69" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|23°17'0.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|5°53'39.85" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|1°16'9.91" |Libra|Ghafr|Moon|
+|♀ Venus|Prograde|15°6'45.70" |Scorpio|Qalb|Sun|
+|☿ Mercury|Prograde|24°57'53.23" |Libra|Jubana|Jupiter|
+|☾ Moon|Prograde|6°16'35.90" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
