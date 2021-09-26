@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Prograde|8°11'8.38" |Virgo|Awwa|Sun|
 |♀ Venus|Prograde|23°0'58.30" |Libra|Jubana|Jupiter|
 |☿ Mercury|Retrograde|24°33'8.40" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|1°43'11.57" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|1°47'23.56" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
