@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 05:41:48 |
 | Sunrise | 07:01:19 |
-| Dhuhr | 12:58:38 |
-| Medium Coeli | 12:58:38 |
+| Dhuhr | 12:58:37 |
+| Medium Coeli | 12:58:37 |
 | Sunset | 18:55:19 |
 | Maghrib | 19:12:43 |
 | Isha | 20:04:15 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 05:32:53 |
 | Sunrise | 07:01:19 |
-| Dhuhr | 12:58:38 |
-| Medium Coeli | 12:58:38 |
+| Dhuhr | 12:58:37 |
+| Medium Coeli | 12:58:37 |
 | Sunset | 18:55:19 |
 | Maghrib | 19:15:17 |
 | Isha | 20:04:15 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 05:31:18 |
 | Sunrise | 07:01:19 |
-| Dhuhr | 12:58:38 |
-| Medium Coeli | 12:58:38 |
+| Dhuhr | 12:58:37 |
+| Medium Coeli | 12:58:37 |
 | Sunset | 18:55:19 |
 | Maghrib | 18:56:27 |
 | Isha | 20:19:53 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:47:01 |
 | Sunrise | 07:01:19 |
-| Dhuhr | 12:58:38 |
-| Medium Coeli | 12:58:38 |
+| Dhuhr | 12:58:37 |
+| Medium Coeli | 12:58:37 |
 | Sunset | 18:55:19 |
 | Maghrib | 18:56:27 |
 | Isha | 20:09:27 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 05:23:23 |
 | Sunrise | 07:01:19 |
-| Dhuhr | 12:58:38 |
-| Medium Coeli | 12:58:38 |
+| Dhuhr | 12:58:37 |
+| Medium Coeli | 12:58:37 |
 | Sunset | 18:55:19 |
 | Maghrib | 18:56:27 |
 | Isha | 20:22:30 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 05:31:18 |
 | Sunrise | 07:01:19 |
-| Dhuhr | 12:58:38 |
-| Medium Coeli | 12:58:38 |
+| Dhuhr | 12:58:37 |
+| Medium Coeli | 12:58:37 |
 | Sunset | 18:55:19 |
 | Maghrib | 18:56:27 |
 | Isha | 20:25:08 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 05:28:40 |
 | Sunrise | 07:01:19 |
-| Dhuhr | 12:58:38 |
-| Medium Coeli | 12:58:38 |
+| Dhuhr | 12:58:37 |
+| Medium Coeli | 12:58:37 |
 | Sunset | 18:55:19 |
 | Maghrib | 18:56:27 |
 | Isha | 20:26:27 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°0'44.04" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|22°58'33.17" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|8°44'3.79" |Virgo|Awwa|Sun|
-|☉ Sun|Prograde|5°32'28.55" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|20°0'41.35" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|25°23'16.66" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|28°38'50.40" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|7°0'43.90" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|22°58'33.22" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|8°44'3.72" |Virgo|Awwa|Sun|
+|☉ Sun|Prograde|5°32'28.51" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|20°0'41.30" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|25°23'16.63" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|28°38'48.98" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°0'44.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|22°58'33.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|8°44'3.79" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|5°32'28.55" |Libra|Ghafr|Moon|
-|♀ Venus|Prograde|20°0'41.35" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|25°23'16.66" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|28°38'50.40" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|7°0'43.90" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°58'33.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|8°44'3.72" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|5°32'28.51" |Libra|Ghafr|Moon|
+|♀ Venus|Prograde|20°0'41.30" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|25°23'16.63" |Libra|Jubana|Jupiter|
+|☾ Moon|Prograde|28°38'48.98" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
