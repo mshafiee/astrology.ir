@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 05:13:36 |
 | Sunrise | 06:16:28 |
-| Dhuhr | 12:18:20 |
-| Medium Coeli | 12:18:20 |
+| Dhuhr | 12:18:21 |
+| Medium Coeli | 12:18:21 |
 | Sunset | 18:20:04 |
 | Maghrib | 18:34:07 |
 | Isha | 19:14:47 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 05:06:41 |
 | Sunrise | 06:16:28 |
-| Dhuhr | 12:18:20 |
-| Medium Coeli | 12:18:20 |
+| Dhuhr | 12:18:21 |
+| Medium Coeli | 12:18:21 |
 | Sunset | 18:20:04 |
 | Maghrib | 18:36:09 |
 | Isha | 19:14:47 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 05:05:27 |
 | Sunrise | 06:16:28 |
-| Dhuhr | 12:18:20 |
-| Medium Coeli | 12:18:20 |
+| Dhuhr | 12:18:21 |
+| Medium Coeli | 12:18:21 |
 | Sunset | 18:20:04 |
 | Maghrib | 18:24:22 |
 | Isha | 19:26:59 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:17:40 |
 | Sunrise | 06:16:28 |
-| Dhuhr | 12:18:20 |
-| Medium Coeli | 12:18:20 |
+| Dhuhr | 12:18:21 |
+| Medium Coeli | 12:18:21 |
 | Sunset | 18:20:04 |
 | Maghrib | 18:24:22 |
 | Isha | 19:18:51 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 04:59:21 |
 | Sunrise | 06:16:28 |
-| Dhuhr | 12:18:20 |
-| Medium Coeli | 12:18:20 |
+| Dhuhr | 12:18:21 |
+| Medium Coeli | 12:18:21 |
 | Sunset | 18:20:04 |
 | Maghrib | 18:24:22 |
 | Isha | 19:29:01 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 05:05:27 |
 | Sunrise | 06:16:28 |
-| Dhuhr | 12:18:20 |
-| Medium Coeli | 12:18:20 |
+| Dhuhr | 12:18:21 |
+| Medium Coeli | 12:18:21 |
 | Sunset | 18:20:04 |
 | Maghrib | 18:24:22 |
 | Isha | 19:31:03 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 05:03:25 |
 | Sunrise | 06:16:28 |
-| Dhuhr | 12:18:20 |
-| Medium Coeli | 12:18:20 |
+| Dhuhr | 12:18:21 |
+| Medium Coeli | 12:18:21 |
 | Sunset | 18:20:04 |
 | Maghrib | 18:24:22 |
 | Isha | 19:54:22 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°2'4.42" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|23°2'37.25" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|8°3'41.30" |Virgo|Awwa|Sun|
-|☉ Sun|Prograde|4°31'46.02" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|18°51'21.94" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|25°28'26.76" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|16°17'4.12" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|7°2'4.55" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|23°2'37.20" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|8°3'41.37" |Virgo|Awwa|Sun|
+|☉ Sun|Prograde|4°31'46.05" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|18°51'21.99" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|25°28'26.80" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|16°17'5.64" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°2'4.42" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|23°2'37.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|8°3'41.30" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|4°31'46.02" |Libra|Ghafr|Moon|
-|♀ Venus|Prograde|18°51'21.94" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|25°28'26.76" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|16°17'4.12" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|7°2'4.55" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|23°2'37.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|8°3'41.37" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|4°31'46.05" |Libra|Ghafr|Moon|
+|♀ Venus|Prograde|18°51'21.99" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|25°28'26.80" |Libra|Jubana|Jupiter|
+|☾ Moon|Prograde|16°17'5.64" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

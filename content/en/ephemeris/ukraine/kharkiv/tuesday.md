@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:25:34 |
 | Medium Coeli | 12:25:34 |
 | Sunset | 18:20:04 |
-| Maghrib | 18:22:20 |
+| Maghrib | 18:22:21 |
 | Isha | 20:03:19 |
 | Sharia Midnight | 23:30:52 |
 | Imum Coeli | 00:25:24 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:25:34 |
 | Medium Coeli | 12:25:34 |
 | Sunset | 18:20:04 |
-| Maghrib | 18:22:20 |
+| Maghrib | 18:22:21 |
 | Isha | 19:50:22 |
 | Sharia Midnight | 23:40:38 |
 | Imum Coeli | 00:25:24 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:25:34 |
 | Medium Coeli | 12:25:34 |
 | Sunset | 18:20:04 |
-| Maghrib | 18:22:20 |
+| Maghrib | 18:22:21 |
 | Isha | 20:06:35 |
 | Sharia Midnight | 23:25:54 |
 | Imum Coeli | 00:25:24 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:25:34 |
 | Medium Coeli | 12:25:34 |
 | Sunset | 18:20:04 |
-| Maghrib | 18:22:20 |
+| Maghrib | 18:22:21 |
 | Isha | 20:09:52 |
 | Sharia Midnight | 23:30:52 |
 | Imum Coeli | 00:25:24 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:25:34 |
 | Medium Coeli | 12:25:34 |
 | Sunset | 18:20:04 |
-| Maghrib | 18:22:20 |
-| Isha | 19:52:20 |
+| Maghrib | 18:22:21 |
+| Isha | 19:52:21 |
 | Sharia Midnight | 23:29:13 |
 | Imum Coeli | 00:25:24 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°1'7.81" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|22°59'46.31" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|8°31'47.24" |Virgo|Awwa|Sun|
-|☉ Sun|Prograde|5°14'0.90" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|19°39'37.98" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|25°25'37.42" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|24°53'35.18" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|7°1'7.94" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|22°59'46.27" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|8°31'47.31" |Virgo|Awwa|Sun|
+|☉ Sun|Prograde|5°14'0.94" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|19°39'38.03" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|25°25'37.45" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|24°53'36.71" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°1'7.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|22°59'46.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|8°31'47.24" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|5°14'0.90" |Libra|Ghafr|Moon|
-|♀ Venus|Prograde|19°39'37.98" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|25°25'37.42" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|24°53'35.18" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|7°1'7.94" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°59'46.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|8°31'47.31" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|5°14'0.94" |Libra|Ghafr|Moon|
+|♀ Venus|Prograde|19°39'38.03" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|25°25'37.45" |Libra|Jubana|Jupiter|
+|☾ Moon|Prograde|24°53'36.71" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
