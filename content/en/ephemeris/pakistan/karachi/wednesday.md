@@ -291,18 +291,18 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°0'0.02" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|22°56'16.67" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|9°7'30.60" |Virgo|Awwa|Sun|
-|☉ Sun|Prograde|6°7'43.74" |Virgo|Awwa|Sun|
-|♀ Venus|Prograde|20°40'51.31" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|25°16'48.99" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|5°52'33.68" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|6°59'59.89" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|22°56'16.72" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|9°7'30.54" |Virgo|Awwa|Sun|
+|☉ Sun|Prograde|6°7'43.71" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|20°40'51.26" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|25°16'48.96" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|5°52'32.63" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
-|♄ Saturn|Jupiter|Mercury|Saturn|Sun|
+|♄ Saturn|Mercury|Mercury|Saturn|Sun|
 |♃ Jupiter|Saturn|Saturn|Mercury|Jupiter|
 |♂ Mars|Venus|Venus|Mercury|Jupiter|
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
@@ -330,18 +330,18 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°0'0.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|22°56'16.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|9°7'30.60" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|6°7'43.74" |Libra|Ghafr|Moon|
-|♀ Venus|Prograde|20°40'51.31" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|25°16'48.99" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|5°52'33.68" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|6°59'59.89" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°56'16.72" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|9°7'30.54" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|6°7'43.71" |Libra|Ghafr|Moon|
+|♀ Venus|Prograde|20°40'51.26" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|25°16'48.96" |Libra|Jubana|Jupiter|
+|☾ Moon|Prograde|5°52'32.63" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
-|♄ Saturn|Venus|Mercury|Saturn|Saturn|
+|♄ Saturn|Mercury|Mercury|Saturn|Saturn|
 |♃ Jupiter|Mars|Jupiter|Venus|Mercury|
 |♂ Mars|Mercury|Venus|Venus|Mercury|
 |☉ Sun|Mercury|Venus|Venus|Mercury|
