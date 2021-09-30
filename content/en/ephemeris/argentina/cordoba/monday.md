@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Prograde|11°23'33.36" |Libra|Ghafr|Saturn|
 |♀ Venus|Prograde|26°37'46.92" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Retrograde|22°19'14.06" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|13°59'33.31" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|14°48'46.02" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
