@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:51:39|Night duration: 12:08:35|
+|Duration of the day: 11:51:39|Night duration: 12:08:34|
 |Every hour of day duration: 00:59:18|Every hour of night duration: 01:00:43|
 
  
@@ -232,12 +232,12 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|20:54:59|21:55:41|Bad Hour|
 |5|Moon|Servant|21:55:42|22:56:24|Gaining status and attracting happiness in work|
 |6|Saturn|Servant|22:56:25|23:57:07|Creating attraction and acceptance among the elders|
-|7|Jupiter|Servant|23:57:08|00:57:50|Promotion and attraction of wealth|
-|8|Mars|Ruler|00:57:51|01:58:33|Happy Yemen and ultimate bliss and happiness|
-|9|Sun|Servant|01:58:34|02:59:16|Separation and Displacement|
-|10|Venus|Servant|02:59:17|03:59:59|Extremely ugly|
-|11|Mercury|Servant|04:00:00|05:00:42|Creating a bad omen for every person|
-|12|Moon|Servant|05:00:43|06:01:25|It is good and good to ask for help|
+|7|Jupiter|Servant|23:57:08|00:57:49|Promotion and attraction of wealth|
+|8|Mars|Ruler|00:57:50|01:58:32|Happy Yemen and ultimate bliss and happiness|
+|9|Sun|Servant|01:58:33|02:59:15|Separation and Displacement|
+|10|Venus|Servant|02:59:16|03:59:58|Extremely ugly|
+|11|Mercury|Servant|03:59:59|05:00:41|Creating a bad omen for every person|
+|12|Moon|Servant|05:00:42|06:01:24|It is good and good to ask for help|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:51:39|Night duration: 12:08:35|
+|Duration of the day: 11:51:39|Night duration: 12:08:34|
 |Every hour duration: 01:41:40|Every hour duration: 01:44:05|
 
  
@@ -269,13 +269,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|17:52:51|19:36:55|
-|Late evening|Sun|Servant|19:36:56|21:21:00|
-|Midnight|Venus|Servant|21:21:01|23:05:05|
-|Late at night|Mercury|Servant|23:05:06|00:49:10|
-|Rooster song|Moon|Servant|00:49:11|02:33:15|
-|False Dawn|Saturn|Servant|02:33:16|04:17:20|
-|Dawn|Jupiter|Servant|04:17:21|06:01:25|
+|Evening|Mars|Ruler|17:52:51|19:36:54|
+|Late evening|Sun|Servant|19:36:55|21:20:59|
+|Midnight|Venus|Servant|21:21:00|23:05:04|
+|Late at night|Mercury|Servant|23:05:05|00:49:09|
+|Rooster song|Moon|Servant|00:49:10|02:33:14|
+|False Dawn|Saturn|Servant|02:33:15|04:17:19|
+|Dawn|Jupiter|Servant|04:17:20|06:01:24|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°53'12.82" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|22°30'19.19" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|14°57'40.60" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|14°53'39.18" |Virgo|Awwa|Venus|
-|♀ Venus|Prograde|0°32'5.15" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|18°37'19.12" |Virgo|Simak|Venus|
-|☾ Moon|Prograde|6°13'19.22" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|6°53'12.70" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|22°30'19.26" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|14°57'40.54" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|14°53'39.16" |Virgo|Awwa|Venus|
+|♀ Venus|Prograde|0°32'5.12" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|18°37'19.08" |Virgo|Simak|Venus|
+|☾ Moon|Prograde|6°13'17.14" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°53'12.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|22°30'19.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|14°57'40.60" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|14°53'39.18" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|0°32'5.15" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|18°37'19.12" |Libra|Jubana|Saturn|
-|☾ Moon|Prograde|6°13'19.22" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|6°53'12.70" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°30'19.26" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|14°57'40.54" |Libra|Jubana|Saturn|
+|☉ Sun|Prograde|14°53'39.16" |Libra|Jubana|Saturn|
+|♀ Venus|Prograde|0°32'5.12" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|18°37'19.08" |Libra|Jubana|Saturn|
+|☾ Moon|Prograde|6°13'17.14" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
