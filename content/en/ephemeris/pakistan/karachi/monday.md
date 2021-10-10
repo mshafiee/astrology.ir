@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:18:41 |
 | Sunset | 18:09:02 |
 | Maghrib | 18:10:01 |
-| Isha | 19:25:51 |
+| Isha | 19:25:52 |
 | Sharia Midnight | 23:40:16 |
 | Imum Coeli | 00:18:33 |
 {{< /tab >}}
@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°52'42.65" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|22°24'53.76" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|17°0'18.43" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|17°57'33.73" |Virgo|Simak|Venus|
-|♀ Venus|Prograde|3°54'59.86" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|14°59'36.91" |Virgo|Awwa|Venus|
+|♄ Saturn|Prograde|6°52'42.76" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|22°24'53.69" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|17°0'18.48" |Virgo|Awwa|Venus|
+|☉ Sun|Prograde|17°57'33.76" |Virgo|Simak|Venus|
+|♀ Venus|Prograde|3°54'59.90" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|14°59'36.96" |Virgo|Awwa|Venus|
 |☾ Moon|Prograde|21°1'50.37" |Scorpio|Qalb|Venus|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°52'42.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|22°24'53.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|17°0'18.43" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|17°57'33.73" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|3°54'59.86" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|14°59'36.91" |Libra|Jubana|Saturn|
+|♄ Saturn|Prograde|6°52'42.76" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°24'53.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|17°0'18.48" |Libra|Jubana|Saturn|
+|☉ Sun|Prograde|17°57'33.76" |Libra|Jubana|Saturn|
+|♀ Venus|Prograde|3°54'59.90" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|14°59'36.96" |Libra|Jubana|Saturn|
 |☾ Moon|Prograde|21°1'50.37" |Sagittarius|Baldah|Saturn|
 
 
