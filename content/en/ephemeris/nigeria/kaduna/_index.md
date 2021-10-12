@@ -1,6 +1,6 @@
 ---
-date: 2021-10-11T00:00:00+01:00
-lastmod: 2021-10-11T00:00:00+01:00
+date: 2021-10-12T00:00:00+01:00
+lastmod: 2021-10-12T00:00:00+01:00
 title: Kaduna
 slug: kaduna
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Nigeria
   - Kaduna
-description: 🗓 Monday, 11 Oct 2021
+description: 🗓 Tuesday, 12 Oct 2021
 
 toc: false
 ---
@@ -35,14 +35,14 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:15:46 |
-| Sunrise | 06:18:54 |
-| Dhuhr | 12:16:55 |
-| Medium Coeli | 12:16:55 |
-| Sunset | 18:14:48 |
-| Maghrib | 18:28:53 |
-| Isha | 19:09:46 |
-| Sharia Midnight | 23:45:17 |
-| Imum Coeli | 00:16:48 |
+| Sunrise | 06:18:55 |
+| Dhuhr | 12:16:40 |
+| Medium Coeli | 12:16:40 |
+| Sunset | 18:14:17 |
+| Maghrib | 18:28:22 |
+| Isha | 19:09:17 |
+| Sharia Midnight | 23:45:01 |
+| Imum Coeli | 00:16:33 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -50,15 +50,15 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:08:50 |
-| Sunrise | 06:18:54 |
-| Dhuhr | 12:16:55 |
-| Medium Coeli | 12:16:55 |
-| Sunset | 18:14:48 |
-| Maghrib | 18:30:56 |
-| Isha | 19:09:46 |
-| Sharia Midnight | 23:41:48 |
-| Imum Coeli | 00:16:48 |
+| Dawn | 05:08:49 |
+| Sunrise | 06:18:55 |
+| Dhuhr | 12:16:40 |
+| Medium Coeli | 12:16:40 |
+| Sunset | 18:14:17 |
+| Maghrib | 18:30:25 |
+| Isha | 19:09:17 |
+| Sharia Midnight | 23:41:32 |
+| Imum Coeli | 00:16:33 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -66,15 +66,15 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:07:37 |
-| Sunrise | 06:18:54 |
-| Dhuhr | 12:16:55 |
-| Medium Coeli | 12:16:55 |
-| Sunset | 18:14:48 |
-| Maghrib | 18:18:25 |
-| Isha | 19:22:00 |
-| Sharia Midnight | 23:41:12 |
-| Imum Coeli | 00:16:48 |
+| Dawn | 05:07:36 |
+| Sunrise | 06:18:55 |
+| Dhuhr | 12:16:40 |
+| Medium Coeli | 12:16:40 |
+| Sunset | 18:14:17 |
+| Maghrib | 18:17:54 |
+| Isha | 19:21:32 |
+| Sharia Midnight | 23:40:56 |
+| Imum Coeli | 00:16:33 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -83,14 +83,14 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:19:51 |
-| Sunrise | 06:18:54 |
-| Dhuhr | 12:16:55 |
-| Medium Coeli | 12:16:55 |
-| Sunset | 18:14:48 |
-| Maghrib | 18:18:25 |
-| Isha | 19:13:51 |
-| Sharia Midnight | 23:47:19 |
-| Imum Coeli | 00:16:48 |
+| Sunrise | 06:18:55 |
+| Dhuhr | 12:16:40 |
+| Medium Coeli | 12:16:40 |
+| Sunset | 18:14:17 |
+| Maghrib | 18:17:54 |
+| Isha | 19:13:22 |
+| Sharia Midnight | 23:47:03 |
+| Imum Coeli | 00:16:33 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -98,15 +98,15 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:01:30 |
-| Sunrise | 06:18:54 |
-| Dhuhr | 12:16:55 |
-| Medium Coeli | 12:16:55 |
-| Sunset | 18:14:48 |
-| Maghrib | 18:18:25 |
-| Isha | 19:24:03 |
-| Sharia Midnight | 23:38:08 |
-| Imum Coeli | 00:16:48 |
+| Dawn | 05:01:28 |
+| Sunrise | 06:18:55 |
+| Dhuhr | 12:16:40 |
+| Medium Coeli | 12:16:40 |
+| Sunset | 18:14:17 |
+| Maghrib | 18:17:54 |
+| Isha | 19:23:34 |
+| Sharia Midnight | 23:37:52 |
+| Imum Coeli | 00:16:33 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -114,15 +114,15 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:07:37 |
-| Sunrise | 06:18:54 |
-| Dhuhr | 12:16:55 |
-| Medium Coeli | 12:16:55 |
-| Sunset | 18:14:48 |
-| Maghrib | 18:18:25 |
-| Isha | 19:26:05 |
-| Sharia Midnight | 23:41:12 |
-| Imum Coeli | 00:16:48 |
+| Dawn | 05:07:36 |
+| Sunrise | 06:18:55 |
+| Dhuhr | 12:16:40 |
+| Medium Coeli | 12:16:40 |
+| Sunset | 18:14:17 |
+| Maghrib | 18:17:54 |
+| Isha | 19:25:36 |
+| Sharia Midnight | 23:40:56 |
+| Imum Coeli | 00:16:33 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -130,15 +130,15 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:05:35 |
-| Sunrise | 06:18:54 |
-| Dhuhr | 12:16:55 |
-| Medium Coeli | 12:16:55 |
-| Sunset | 18:14:48 |
-| Maghrib | 18:18:25 |
-| Isha | 19:48:25 |
-| Sharia Midnight | 23:40:10 |
-| Imum Coeli | 00:16:48 |
+| Dawn | 05:05:33 |
+| Sunrise | 06:18:55 |
+| Dhuhr | 12:16:40 |
+| Medium Coeli | 12:16:40 |
+| Sunset | 18:14:17 |
+| Maghrib | 18:17:54 |
+| Isha | 19:47:54 |
+| Sharia Midnight | 23:39:54 |
+| Imum Coeli | 00:16:33 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♍ Virgo|05:10:20|07:10:17|
-|♎ Libra|07:10:18|09:16:34|
-|♏ Scorpio|09:16:35|11:27:46|
-|♐ Sagittarius|11:27:47|13:33:19|
-|♑ Capricorn|13:33:20|15:25:38|
-|♒ Aquarius|15:25:39|17:08:22|
-|♓ Pisces|17:08:23|18:51:05|
-|♈ Aries|18:51:06|20:43:25|
-|♉ Taurus|20:43:26|22:48:57|
-|♊ Gemini|22:48:58|01:00:09|
-|♋ Cancer|01:00:10|03:06:26|
-|♌ Leo|03:06:27|05:06:24|
+|♍ Virgo|05:06:25|07:06:21|
+|♎ Libra|07:06:22|09:12:38|
+|♏ Scorpio|09:12:39|11:23:50|
+|♐ Sagittarius|11:23:51|13:29:23|
+|♑ Capricorn|13:29:24|15:21:43|
+|♒ Aquarius|15:21:44|17:04:26|
+|♓ Pisces|17:04:27|18:47:09|
+|♈ Aries|18:47:10|20:39:29|
+|♉ Taurus|20:39:30|22:45:01|
+|♊ Gemini|22:45:02|00:56:13|
+|♋ Cancer|00:56:14|03:02:30|
+|♌ Leo|03:02:31|05:02:28|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♎ Libra|05:10:20|07:10:17|
-|♏ Scorpio|07:10:18|09:16:34|
-|♐ Sagittarius|09:16:35|11:27:46|
-|♑ Capricorn|11:27:47|13:33:19|
-|♒ Aquarius|13:33:20|15:25:38|
-|♓ Pisces|15:25:39|17:08:22|
-|♈ Aries|17:08:23|18:51:05|
-|♉ Taurus|18:51:06|20:43:25|
-|♊ Gemini|20:43:26|22:48:57|
-|♋ Cancer|22:48:58|01:00:09|
-|♌ Leo|01:00:10|03:06:26|
-|♍ Virgo|03:06:27|05:06:24|
+|♎ Libra|05:06:25|07:06:21|
+|♏ Scorpio|07:06:22|09:12:38|
+|♐ Sagittarius|09:12:39|11:23:50|
+|♑ Capricorn|11:23:51|13:29:23|
+|♒ Aquarius|13:29:24|15:21:43|
+|♓ Pisces|15:21:44|17:04:26|
+|♈ Aries|17:04:27|18:47:09|
+|♉ Taurus|18:47:10|20:39:29|
+|♊ Gemini|20:39:30|22:45:01|
+|♋ Cancer|22:45:02|00:56:13|
+|♌ Leo|00:56:14|03:02:30|
+|♍ Virgo|03:02:31|05:02:28|
 
 
 {{< /tab >}}
@@ -203,41 +203,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:55:54|Night duration: 12:04:07|
-|Every hour of day duration: 00:59:40|Every hour of night duration: 01:00:21|
+|The ruler of the day: Mars|The ruler of the night: Saturn|
+|Duration of the day: 11:55:22|Night duration: 12:04:40|
+|Every hour of day duration: 00:59:37|Every hour of night duration: 01:00:23|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:18:54|07:18:32|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Saturn|Servant|07:18:33|08:18:12|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Jupiter|Servant|08:18:13|09:17:51|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Mars|Servant|09:17:52|10:17:31|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Sun|Servant|10:17:32|11:17:10|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Venus|Servant|11:17:11|12:16:50|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Mercury|Servant|12:16:51|13:16:29|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Moon|Ruler|13:16:30|14:16:09|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Saturn|Servant|14:16:10|15:15:48|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Jupiter|Servant|15:15:49|16:15:28|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Mars|Servant|16:15:29|17:15:07|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Sun|Servant|17:15:08|18:14:47|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Mars|Ruler|06:18:55|07:18:30|Creating corruption, hatred and enmity|
+|2|Sun|Servant|07:18:31|08:18:07|Absorption of badness, nothing to do|
+|3|Venus|Servant|08:18:08|09:17:44|Attracting relationship and courtship|
+|4|Mercury|Servant|09:17:45|10:17:21|Attracting material things and earning a living and prosperity|
+|5|Moon|Servant|10:17:22|11:16:58|Absorption of body, nothing to do|
+|6|Saturn|Servant|11:16:59|12:16:35|Disposal of negative energy of sore eyes|
+|7|Jupiter|Servant|12:16:36|13:16:11|Attracting love and affection and attracting hearts|
+|8|Mars|Ruler|13:16:12|14:15:48|Creating corruption and destroying the enemy and making the enemy sick|
+|9|Sun|Servant|14:15:49|15:15:25|Heart Compassion|
+|10|Venus|Servant|15:15:26|16:15:02|Absorption of badness, nothing to do|
+|11|Mercury|Servant|16:15:03|17:14:39|Attracting bonds and courtship|
+|12|Moon|Servant|17:14:40|18:14:16|Hatred and corruption and creating negative energy to disrupt|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|18:14:48|19:15:07|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mercury|Servant|19:15:08|20:15:28|The journey of the appearance and the interior|
-|3|Moon|Servant|20:15:29|21:15:48|Marriage is a good marriage|
-|4|Saturn|Servant|21:15:49|22:16:09|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Jupiter|Servant|22:16:10|23:16:29|Defecation, attracting love and wealth|
-|6|Mars|Servant|23:16:30|00:16:50|Summoning the desired person, love and conquest|
-|7|Sun|Servant|00:16:51|01:17:11|Aqdalsan|
-|8|Venus|Ruler|01:17:12|02:17:31|Correction of two people, attraction of love|
-|9|Mercury|Servant|02:17:32|03:17:52|Attracting and repelling the enemy and separating|
-|10|Moon|Servant|03:17:53|04:18:12|It is good for every action|
-|11|Saturn|Servant|04:18:13|05:18:33|Creating Enmity and Negative Energy|
-|12|Jupiter|Servant|05:18:34|06:18:54|Heart Compassion|
+|1|Saturn|Ruler|18:14:17|19:14:39|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|19:14:40|20:15:02|Absorption of badness, nothing to do|
+|3|Mars|Servant|20:15:03|21:15:26|Attracting relationship and courtship|
+|4|Sun|Servant|21:15:27|22:15:49|Attracting material things and earning a living and prosperity|
+|5|Venus|Servant|22:15:50|23:16:12|Absorption of body, nothing to do|
+|6|Mercury|Servant|23:16:13|00:16:36|Disposal of negative energy of sore eyes|
+|7|Moon|Servant|00:16:37|01:16:59|Attracting love and affection and attracting hearts|
+|8|Saturn|Ruler|01:17:00|02:17:22|Creating corruption and destroying the enemy and making the enemy sick|
+|9|Jupiter|Servant|02:17:23|03:17:46|Heart Compassion|
+|10|Mars|Servant|03:17:47|04:18:09|Absorption of badness, nothing to do|
+|11|Sun|Servant|04:18:10|05:18:32|Attracting bonds and courtship|
+|12|Venus|Servant|05:18:33|06:18:56|Hatred and corruption and creating negative energy to disrupt|
 
  
  
@@ -249,33 +249,33 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:55:54|Night duration: 12:04:07|
-|Every hour duration: 01:42:16|Every hour duration: 01:43:27|
+|The ruler of the day: Mars|The ruler of the night: Saturn|
+|Duration of the day: 11:55:22|Night duration: 12:04:40|
+|Every hour duration: 01:42:12|Every hour duration: 01:43:31|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:18:54|08:01:09|
-|Mid-morning|Saturn|Servant|08:01:10|09:43:25|
-|Late morning|Jupiter|Servant|09:43:26|11:25:41|
-|Noon|Mars|Servant|11:25:42|13:07:58|
-|Early afternoon|Sun|Servant|13:07:59|14:50:14|
-|Mid-afternoon|Venus|Servant|14:50:15|16:32:30|
-|Late afternoon|Mercury|Servant|16:32:31|18:14:47|
+|Early morning|Mars|Ruler|06:18:55|08:01:05|
+|Mid-morning|Sun|Servant|08:01:06|09:43:17|
+|Late morning|Venus|Servant|09:43:18|11:25:29|
+|Noon|Mercury|Servant|11:25:30|13:07:40|
+|Early afternoon|Moon|Servant|13:07:41|14:49:52|
+|Mid-afternoon|Saturn|Servant|14:49:53|16:32:04|
+|Late afternoon|Jupiter|Servant|16:32:05|18:14:16|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|18:14:48|19:58:13|
-|Late evening|Mercury|Servant|19:58:14|21:41:40|
-|Midnight|Moon|Servant|21:41:41|23:25:07|
-|Late at night|Saturn|Servant|23:25:08|01:08:33|
-|Rooster song|Jupiter|Servant|01:08:34|02:52:00|
-|False Dawn|Mars|Servant|02:52:01|04:35:27|
-|Dawn|Sun|Servant|04:35:28|06:18:54|
+|Evening|Saturn|Ruler|18:14:17|19:57:47|
+|Late evening|Jupiter|Servant|19:57:48|21:41:18|
+|Midnight|Mars|Servant|21:41:19|23:24:50|
+|Late at night|Sun|Servant|23:24:51|01:08:21|
+|Rooster song|Venus|Servant|01:08:22|02:51:53|
+|False Dawn|Mercury|Servant|02:51:54|04:35:24|
+|Dawn|Moon|Servant|04:35:25|06:18:56|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°52'42.80" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|22°24'40.01" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|17°6'39.34" |Virgo|Awwa|Venus|
-|☉ Sun|Prograde|18°7'4.54" |Virgo|Simak|Venus|
-|♀ Venus|Prograde|4°5'26.14" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|14°48'49.44" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|23°17'31.31" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Prograde|6°52'46.51" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|22°23'21.76" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|17°46'15.73" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|19°6'25.90" |Virgo|Simak|Venus|
+|♀ Venus|Prograde|5°10'25.11" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|13°44'12.99" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|7°18'29.60" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -308,18 +308,18 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Saturn|Saturn|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Venus|Jupiter|Saturn|Saturn|
-|☾ Moon|Jupiter|Mercury|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Jupiter|Jupiter|Jupiter|Moon|Saturn|
 |♃ Jupiter|Mercury|Moon|Mercury|Sun|Venus|
-|♂ Mars|Jupiter|Mercury|Jupiter|Sun|Moon|
+|♂ Mars|Mars|Mercury|Mars|Sun|Moon|
 |☉ Sun|Mars|Mercury|Mars|Sun|Moon|
-|♀ Venus|Mars|Sun|Jupiter|Moon|Mars|
+|♀ Venus|Sun|Sun|Saturn|Moon|Mars|
 |☿ Mercury|Jupiter|Venus|Saturn|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Sun|Sun|Sun|
+|☾ Moon|Mars|Mercury|Saturn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°52'42.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|22°24'40.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|17°6'39.34" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|18°7'4.54" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|4°5'26.14" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|14°48'49.44" |Libra|Jubana|Saturn|
-|☾ Moon|Prograde|23°17'31.31" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|6°52'46.51" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°23'21.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|17°46'15.73" |Libra|Jubana|Saturn|
+|☉ Sun|Prograde|19°6'25.90" |Libra|Jubana|Saturn|
+|♀ Venus|Prograde|5°10'25.11" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|13°44'12.99" |Libra|Jubana|Saturn|
+|☾ Moon|Prograde|7°18'29.60" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -344,21 +344,21 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Mercury|Mercury|Saturn|Saturn|
 |♃ Jupiter|Mars|Jupiter|Venus|Mercury|
 |♂ Mars|Jupiter|Jupiter|Saturn|Venus|
-|☉ Sun|Jupiter|Jupiter|Saturn|Venus|
+|☉ Sun|Jupiter|Mercury|Saturn|Venus|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
-|☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☿ Mercury|Mercury|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Jupiter|Jupiter|Mars|Sun|Saturn|
 |♃ Jupiter|Mercury|Mars|Venus|Moon|Mars|
-|♂ Mars|Saturn|Jupiter|Mars|Moon|Moon|
+|♂ Mars|Jupiter|Jupiter|Venus|Moon|Moon|
 |☉ Sun|Jupiter|Jupiter|Venus|Moon|Moon|
-|♀ Venus|Jupiter|Venus|Saturn|Sun|Jupiter|
+|♀ Venus|Mars|Venus|Saturn|Sun|Jupiter|
 |☿ Mercury|Saturn|Saturn|Jupiter|Sun|Venus|
-|☾ Moon|Moon|Venus|Mercury|Moon|Mercury|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|Saturn|
 
 
 {{< /tab >}}

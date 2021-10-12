@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°52'45.15" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|22°23'39.52" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|17°36'40.57" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|18°52'4.07" |Virgo|Simak|Venus|
-|♀ Venus|Prograde|4°54'42.86" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|13°59'23.01" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|3°56'34.46" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Prograde|6°52'45.03" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|22°23'39.60" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|17°36'40.51" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|18°52'4.04" |Virgo|Simak|Venus|
+|♀ Venus|Prograde|4°54'42.82" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|13°59'22.96" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|3°56'34.75" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°52'45.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|22°23'39.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|17°36'40.57" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|18°52'4.07" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|4°54'42.86" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|13°59'23.01" |Libra|Jubana|Saturn|
-|☾ Moon|Prograde|3°56'34.46" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|6°52'45.03" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°23'39.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|17°36'40.51" |Libra|Jubana|Saturn|
+|☉ Sun|Prograde|18°52'4.04" |Libra|Jubana|Saturn|
+|♀ Venus|Prograde|4°54'42.82" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|13°59'22.96" |Libra|Jubana|Saturn|
+|☾ Moon|Prograde|3°56'34.75" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
