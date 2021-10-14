@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 04:43:05 |
 | Sunrise | 05:58:49 |
-| Dhuhr | 11:37:57 |
-| Medium Coeli | 11:37:57 |
+| Dhuhr | 11:37:58 |
+| Medium Coeli | 11:37:58 |
 | Sunset | 17:16:36 |
 | Maghrib | 17:33:23 |
 | Isha | 18:22:28 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 04:34:46 |
 | Sunrise | 05:58:49 |
-| Dhuhr | 11:37:57 |
-| Medium Coeli | 11:37:57 |
+| Dhuhr | 11:37:58 |
+| Medium Coeli | 11:37:58 |
 | Sunset | 17:16:36 |
 | Maghrib | 17:35:51 |
 | Isha | 18:22:28 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 04:33:17 |
 | Sunrise | 05:58:49 |
-| Dhuhr | 11:37:57 |
-| Medium Coeli | 11:37:57 |
+| Dhuhr | 11:37:58 |
+| Medium Coeli | 11:37:58 |
 | Sunset | 17:16:36 |
 | Maghrib | 17:17:42 |
 | Isha | 18:37:08 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 04:47:59 |
 | Sunrise | 05:58:49 |
-| Dhuhr | 11:37:57 |
-| Medium Coeli | 11:37:57 |
+| Dhuhr | 11:37:58 |
+| Medium Coeli | 11:37:58 |
 | Sunset | 17:16:36 |
 | Maghrib | 17:17:42 |
 | Isha | 18:27:22 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 04:25:56 |
 | Sunrise | 05:58:49 |
-| Dhuhr | 11:37:57 |
-| Medium Coeli | 11:37:57 |
+| Dhuhr | 11:37:58 |
+| Medium Coeli | 11:37:58 |
 | Sunset | 17:16:36 |
 | Maghrib | 17:17:42 |
 | Isha | 18:39:35 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 04:33:17 |
 | Sunrise | 05:58:49 |
-| Dhuhr | 11:37:57 |
-| Medium Coeli | 11:37:57 |
+| Dhuhr | 11:37:58 |
+| Medium Coeli | 11:37:58 |
 | Sunset | 17:16:36 |
 | Maghrib | 17:17:42 |
 | Isha | 18:42:02 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 04:30:50 |
 | Sunrise | 05:58:49 |
-| Dhuhr | 11:37:57 |
-| Medium Coeli | 11:37:57 |
+| Dhuhr | 11:37:58 |
+| Medium Coeli | 11:37:58 |
 | Sunset | 17:16:36 |
 | Maghrib | 17:17:42 |
 | Isha | 18:47:42 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°53'51.87" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|22°20'17.98" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|20°11'11.95" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|22°43'28.83" |Virgo|Simak|Mercury|
-|♀ Venus|Prograde|9°5'56.08" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|10°50'11.55" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|26°30'39.81" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Prograde|6°53'51.98" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|22°20'17.89" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|20°11'12.01" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|22°43'28.87" |Virgo|Simak|Mercury|
+|♀ Venus|Prograde|9°5'56.13" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|10°50'11.61" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|26°30'40.67" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°53'51.87" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|22°20'17.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|20°11'11.95" |Libra|Jubana|Jupiter|
-|☉ Sun|Prograde|22°43'28.83" |Libra|Jubana|Jupiter|
-|♀ Venus|Prograde|9°5'56.08" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|10°50'11.55" |Libra|Ghafr|Saturn|
-|☾ Moon|Prograde|26°30'39.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|6°53'51.98" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°20'17.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|20°11'12.01" |Libra|Jubana|Jupiter|
+|☉ Sun|Prograde|22°43'28.87" |Libra|Jubana|Jupiter|
+|♀ Venus|Prograde|9°5'56.13" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|10°50'11.61" |Libra|Ghafr|Saturn|
+|☾ Moon|Prograde|26°30'40.67" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

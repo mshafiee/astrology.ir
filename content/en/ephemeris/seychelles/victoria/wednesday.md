@@ -1,6 +1,6 @@
 ---
-date: 2021-10-13T00:00:00+04:00
-lastmod: 2021-10-13T00:00:00+04:00
+date: 2021-10-20T00:00:00+04:00
+lastmod: 2021-10-20T00:00:00+04:00
 title: Victoria (Wednesday)
 slug: wednesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Wednesday, 13 Oct 2021
+description: 🗓 Wednesday, 20 Oct 2021
 
 toc: false
 ---

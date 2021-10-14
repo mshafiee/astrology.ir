@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 12:22:09 |
 | Medium Coeli | 12:22:09 |
 | Sunset | 17:54:41 |
-| Maghrib | 18:15:01 |
+| Maghrib | 18:15:02 |
 | Isha | 19:04:07 |
 | Sharia Midnight | 23:38:03 |
 | Imum Coeli | 00:22:03 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°55'3.06" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|22°19'45.25" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|21°32'7.42" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|24°44'33.62" |Virgo|Simak|Mercury|
-|♀ Venus|Prograde|11°15'46.57" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|10°10'41.79" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|22°44'23.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|6°55'3.16" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|22°19'45.16" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|21°32'7.48" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|24°44'33.66" |Virgo|Simak|Mercury|
+|♀ Venus|Prograde|11°15'46.62" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|10°10'41.85" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|22°44'24.73" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°55'3.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|22°19'45.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|21°32'7.42" |Libra|Jubana|Jupiter|
-|☉ Sun|Prograde|24°44'33.62" |Libra|Jubana|Jupiter|
-|♀ Venus|Prograde|11°15'46.57" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|10°10'41.79" |Libra|Ghafr|Saturn|
-|☾ Moon|Prograde|22°44'23.67" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|6°55'3.16" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|22°19'45.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|21°32'7.48" |Libra|Jubana|Jupiter|
+|☉ Sun|Prograde|24°44'33.66" |Libra|Jubana|Jupiter|
+|♀ Venus|Prograde|11°15'46.62" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|10°10'41.85" |Libra|Ghafr|Saturn|
+|☾ Moon|Prograde|22°44'24.73" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
