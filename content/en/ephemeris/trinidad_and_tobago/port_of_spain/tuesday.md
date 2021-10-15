@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
 |Duration of the day: 11:51:35|Night duration: 12:08:30|
-|Every hour of day duration: 00:59:18|Every hour of night duration: 01:00:43|
+|Every hour of day duration: 00:59:18|Every hour of night duration: 01:00:42|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°56'11.63" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|22°19'53.07" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|22°32'1.99" |Virgo|Simak|Mercury|
-|☉ Sun|Prograde|26°14'9.02" |Virgo|Simak|Mercury|
-|♀ Venus|Prograde|12°51'5.05" |Scorpio|Qalb|Sun|
-|☿ Mercury|Prograde|10°11'4.13" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|11°36'42.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Prograde|6°56'11.74" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|22°19'52.97" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|22°32'2.05" |Virgo|Simak|Mercury|
+|☉ Sun|Prograde|26°14'9.07" |Virgo|Simak|Mercury|
+|♀ Venus|Prograde|12°51'5.10" |Scorpio|Qalb|Sun|
+|☿ Mercury|Prograde|10°11'4.17" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|11°36'43.55" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°56'11.63" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|22°19'53.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|22°32'1.99" |Libra|Jubana|Jupiter|
-|☉ Sun|Prograde|26°14'9.02" |Libra|Akleel|Jupiter|
-|♀ Venus|Prograde|12°51'5.05" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|10°11'4.13" |Libra|Ghafr|Saturn|
-|☾ Moon|Prograde|11°36'42.58" |Aries|Sharatain|Sun|
+|♄ Saturn|Prograde|6°56'11.74" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|22°19'52.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|22°32'2.05" |Libra|Jubana|Jupiter|
+|☉ Sun|Prograde|26°14'9.07" |Libra|Akleel|Jupiter|
+|♀ Venus|Prograde|12°51'5.10" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|10°11'4.17" |Libra|Ghafr|Saturn|
+|☾ Moon|Prograde|11°36'43.55" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

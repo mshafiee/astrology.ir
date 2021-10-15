@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:54:45 |
 | Sunset | 17:48:07 |
 | Maghrib | 17:49:23 |
-| Isha | 18:48:36 |
+| Isha | 18:48:37 |
 | Sharia Midnight | 23:24:29 |
 | Imum Coeli | 23:54:39 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°53'16.15" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Retrograde|22°21'11.99" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|19°13'20.98" |Virgo|Simak|Venus|
-|☉ Sun|Prograde|21°16'52.76" |Virgo|Simak|Mercury|
-|♀ Venus|Prograde|7°32'22.47" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|11°45'25.87" |Virgo|Awwa|Venus|
-|☾ Moon|Prograde|7°14'23.37" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|6°53'16.26" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|22°21'11.91" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|19°13'21.04" |Virgo|Simak|Venus|
+|☉ Sun|Prograde|21°16'52.80" |Virgo|Simak|Mercury|
+|♀ Venus|Prograde|7°32'22.51" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|11°45'25.93" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|7°14'24.15" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|6°53'16.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|22°21'11.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|19°13'20.98" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|21°16'52.76" |Libra|Jubana|Jupiter|
-|♀ Venus|Prograde|7°32'22.47" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Retrograde|11°45'25.87" |Libra|Ghafr|Saturn|
-|☾ Moon|Prograde|7°14'23.37" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|6°53'16.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°21'11.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|19°13'21.04" |Libra|Jubana|Saturn|
+|☉ Sun|Prograde|21°16'52.80" |Libra|Jubana|Jupiter|
+|♀ Venus|Prograde|7°32'22.51" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|11°45'25.93" |Libra|Ghafr|Saturn|
+|☾ Moon|Prograde|7°14'24.15" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
