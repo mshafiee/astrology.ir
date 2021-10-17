@@ -1,6 +1,6 @@
 ---
-date: 2021-10-16T00:00:00+04:00
-lastmod: 2021-10-16T00:00:00+04:00
+date: 2021-10-23T00:00:00+04:00
+lastmod: 2021-10-23T00:00:00+04:00
 title: Victoria (Saturday)
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Saturday, 16 Oct 2021
+description: 🗓 Saturday, 23 Oct 2021
 
 toc: false
 ---
