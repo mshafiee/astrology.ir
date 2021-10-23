@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:01:24 |
+| Dawn | 04:01:23 |
 | Sunrise | 05:02:32 |
 | Dhuhr | 11:17:57 |
 | Medium Coeli | 11:17:57 |
