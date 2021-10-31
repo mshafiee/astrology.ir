@@ -14,7 +14,7 @@ description: 🗓 Sunday, 31 Oct 2021
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: +03:00
+TimeZone: +02:00
 \-
 Longitude: 35.2163
 \-
