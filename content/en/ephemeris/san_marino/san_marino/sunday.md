@@ -14,7 +14,7 @@ description: 🗓 Sunday, 31 Oct 2021
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: +02:00
+TimeZone: +01:00
 \-
 Longitude: 12.4464
 \-
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°13'5.00" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|22°36'42.40" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|0°25'54.06" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|8°1'14.50" |Libra|Ghafr|Moon|
-|♀ Venus|Prograde|24°56'51.22" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Prograde|21°16'55.92" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|6°47'49.04" |Leo|Jabhah|Saturn|
+|♄ Saturn|Prograde|7°13'4.91" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|22°36'42.50" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|0°25'54.02" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|8°1'14.47" |Libra|Ghafr|Moon|
+|♀ Venus|Prograde|24°56'51.20" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Prograde|21°16'55.91" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|6°47'48.83" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°13'5.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|22°36'42.40" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|0°25'54.06" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|8°1'14.50" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|24°56'51.22" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|21°16'55.92" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|6°47'49.04" |Virgo|Awwa|Sun|
+|♄ Saturn|Prograde|7°13'4.91" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|22°36'42.50" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|0°25'54.02" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|8°1'14.47" |Scorpio|Akleel|Mars|
+|♀ Venus|Prograde|24°56'51.20" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|21°16'55.91" |Libra|Jubana|Jupiter|
+|☾ Moon|Prograde|6°47'48.83" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
