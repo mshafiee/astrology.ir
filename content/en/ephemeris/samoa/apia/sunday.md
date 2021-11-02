@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:10:43 |
 | Sunset | 19:31:04 |
 | Maghrib | 19:32:01 |
-| Isha | 20:42:46 |
+| Isha | 20:42:45 |
 | Sharia Midnight | 00:32:34 |
 | Imum Coeli | 01:10:44 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°28'5.93" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|22°57'31.30" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|4°47'1.06" |Libra|Ghafr|Moon|
+|♄ Saturn|Prograde|7°28'6.02" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|22°57'31.19" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|4°47'1.08" |Libra|Ghafr|Moon|
 |☉ Sun|Prograde|14°29'40.22" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|1°11'21.76" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Prograde|1°12'44.42" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|10°46'43.48" |Scorpio|Qalb|Sun|
+|♀ Venus|Prograde|1°11'21.72" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Prograde|1°12'44.43" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|10°46'44.10" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°28'5.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|22°57'31.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|4°47'1.06" |Scorpio|Akleel|Mars|
+|♄ Saturn|Prograde|7°28'6.02" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|22°57'31.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|4°47'1.08" |Scorpio|Akleel|Mars|
 |☉ Sun|Prograde|14°29'40.22" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|1°11'21.76" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|1°12'44.42" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|10°46'43.48" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|1°11'21.72" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Prograde|1°12'44.43" |Scorpio|Akleel|Mars|
+|☾ Moon|Prograde|10°46'44.10" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

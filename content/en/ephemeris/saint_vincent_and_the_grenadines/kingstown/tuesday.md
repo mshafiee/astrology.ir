@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:48:27 |
 | Sunset | 17:37:48 |
 | Maghrib | 17:38:44 |
-| Isha | 18:38:37 |
+| Isha | 18:38:38 |
 | Sharia Midnight | 23:18:05 |
 | Imum Coeli | 23:48:27 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°17'41.16" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|22°42'48.63" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|1°53'39.96" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|10°11'54.65" |Libra|Ghafr|Saturn|
+|♄ Saturn|Prograde|7°17'41.25" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|22°42'48.52" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|1°53'39.99" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|10°11'54.67" |Libra|Ghafr|Saturn|
 |♀ Venus|Prograde|27°5'1.48" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Prograde|24°30'41.43" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|7°12'58.47" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|24°30'41.44" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|7°12'57.61" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°17'41.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|22°42'48.63" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|1°53'39.96" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|10°11'54.65" |Scorpio|Qalb|Sun|
+|♄ Saturn|Prograde|7°17'41.25" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|22°42'48.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|1°53'39.99" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|10°11'54.67" |Scorpio|Qalb|Sun|
 |♀ Venus|Prograde|27°5'1.48" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|24°30'41.43" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|7°12'58.47" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|24°30'41.44" |Libra|Jubana|Jupiter|
+|☾ Moon|Prograde|7°12'57.61" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

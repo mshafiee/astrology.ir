@@ -1,6 +1,6 @@
 ---
-date: 2021-11-01T00:00:00+04:00
-lastmod: 2021-11-01T00:00:00+04:00
+date: 2021-11-08T00:00:00+04:00
+lastmod: 2021-11-08T00:00:00+04:00
 title: Victoria (Monday)
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Monday, 01 Nov 2021
+description: 🗓 Monday, 08 Nov 2021
 
 toc: false
 ---

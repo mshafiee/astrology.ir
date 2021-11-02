@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 08:57:39|Night duration: 15:04:30|
-|Every hour of day duration: 00:44:48|Every hour of night duration: 01:15:23|
+|Every hour of day duration: 00:44:48|Every hour of night duration: 01:15:22|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°21'45.43" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|22°48'26.18" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|3°4'54.02" |Libra|Ghafr|Moon|
+|♄ Saturn|Prograde|7°21'45.52" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|22°48'26.08" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|3°4'54.05" |Libra|Ghafr|Moon|
 |☉ Sun|Prograde|11°57'52.29" |Libra|Ghafr|Saturn|
-|♀ Venus|Prograde|28°47'22.54" |Scorpio|Shaulah|Venus|
+|♀ Venus|Prograde|28°47'22.51" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Prograde|27°13'41.85" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|2°52'29.80" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|2°52'29.18" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°21'45.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|22°48'26.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|3°4'54.02" |Scorpio|Akleel|Mars|
+|♄ Saturn|Prograde|7°21'45.52" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|22°48'26.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|3°4'54.05" |Scorpio|Akleel|Mars|
 |☉ Sun|Prograde|11°57'52.29" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|28°47'22.54" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Prograde|28°47'22.51" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Prograde|27°13'41.85" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|2°52'29.80" |Scorpio|Akleel|Mars|
+|☾ Moon|Prograde|2°52'29.18" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -34,7 +34,7 @@ Altitude: 113 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:53:52 |
+| Dawn | 04:53:51 |
 | Sunrise | 06:38:35 |
 | Dhuhr | 11:19:32 |
 | Medium Coeli | 11:19:32 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°24'20.24" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|22°52'5.42" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|3°47'36.80" |Libra|Ghafr|Moon|
+|♄ Saturn|Prograde|7°24'20.33" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|22°52'5.31" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|3°47'36.83" |Libra|Ghafr|Moon|
 |☉ Sun|Prograde|13°1'23.07" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|29°48'0.69" |Scorpio|Shaulah|Venus|
+|♀ Venus|Prograde|29°48'0.65" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Prograde|28°53'5.76" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|18°44'3.39" |Libra|Jubana|Saturn|
+|☾ Moon|Prograde|18°44'3.40" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°24'20.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|22°52'5.42" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|3°47'36.80" |Scorpio|Akleel|Mars|
+|♄ Saturn|Prograde|7°24'20.33" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|22°52'5.31" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|3°47'36.83" |Scorpio|Akleel|Mars|
 |☉ Sun|Prograde|13°1'23.07" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|29°48'0.69" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Prograde|29°48'0.65" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Prograde|28°53'5.76" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|18°44'3.39" |Scorpio|Qalb|Sun|
+|☾ Moon|Prograde|18°44'3.40" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

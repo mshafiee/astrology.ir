@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 12:45:29 |
 | Medium Coeli | 12:45:29 |
 | Sunset | 17:56:45 |
-| Maghrib | 18:15:48 |
+| Maghrib | 18:15:47 |
 | Isha | 19:09:22 |
 | Sharia Midnight | 00:04:08 |
 | Imum Coeli | 00:45:29 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°19'20.52" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|22°45'4.33" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|2°23'14.53" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|10°55'54.87" |Libra|Ghafr|Saturn|
-|♀ Venus|Prograde|27°47'42.42" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Prograde|7°19'20.43" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|22°45'4.44" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|2°23'14.50" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|10°55'54.86" |Libra|Ghafr|Saturn|
+|♀ Venus|Prograde|27°47'42.43" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Prograde|25°37'52.33" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|17°47'26.71" |Virgo|Simak|Venus|
+|☾ Moon|Prograde|17°47'27.67" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°19'20.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|22°45'4.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|2°23'14.53" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|10°55'54.87" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|27°47'42.42" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|7°19'20.43" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|22°45'4.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|2°23'14.50" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|10°55'54.86" |Scorpio|Qalb|Sun|
+|♀ Venus|Prograde|27°47'42.43" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Prograde|25°37'52.33" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|17°47'26.71" |Libra|Jubana|Saturn|
+|☾ Moon|Prograde|17°47'27.67" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
