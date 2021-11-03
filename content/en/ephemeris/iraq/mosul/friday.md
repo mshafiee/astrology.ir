@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:51:06 |
 | Sunset | 17:07:25 |
 | Maghrib | 17:10:10 |
-| Isha | 18:21:10 |
+| Isha | 18:21:09 |
 | Sharia Midnight | 23:14:26 |
 | Imum Coeli | 23:51:07 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°24'7.38" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|22°51'46.80" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|3°44'7.79" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|12°56'12.85" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|29°43'5.87" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Prograde|7°24'7.29" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|22°51'46.91" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|3°44'7.77" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|12°56'12.86" |Libra|Jubana|Saturn|
+|♀ Venus|Prograde|29°43'5.91" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Prograde|28°44'57.00" |Virgo|Simak|Mercury|
-|☾ Moon|Prograde|17°34'57.22" |Libra|Jubana|Saturn|
+|☾ Moon|Prograde|17°34'57.26" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°24'7.38" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|22°51'46.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|3°44'7.79" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|12°56'12.85" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|29°43'5.87" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|7°24'7.29" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|22°51'46.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|3°44'7.77" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|12°56'12.86" |Scorpio|Qalb|Sun|
+|♀ Venus|Prograde|29°43'5.91" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Prograde|28°44'57.00" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|17°34'57.22" |Scorpio|Qalb|Sun|
+|☾ Moon|Prograde|17°34'57.26" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
