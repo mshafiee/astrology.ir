@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:48:53 |
+| Dawn | 05:48:54 |
 | Sunrise | 07:25:36 |
 | Dhuhr | 12:32:19 |
 | Medium Coeli | 12:32:19 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°32'6.91" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|23°3'25.81" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|5°47'9.30" |Libra|Ghafr|Moon|
+|♄ Saturn|Prograde|7°32'6.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|23°3'25.93" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|5°47'9.28" |Libra|Ghafr|Moon|
 |☉ Sun|Prograde|15°58'59.28" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|2°34'31.79" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Prograde|3°35'11.43" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|2°41'2.37" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Prograde|2°34'31.83" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Prograde|3°35'11.42" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|2°41'1.62" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°32'6.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|23°3'25.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|5°47'9.30" |Scorpio|Akleel|Mars|
+|♄ Saturn|Prograde|7°32'6.82" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|23°3'25.93" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|5°47'9.28" |Scorpio|Akleel|Mars|
 |☉ Sun|Prograde|15°58'59.28" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|2°34'31.79" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|3°35'11.43" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|2°41'2.37" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Prograde|2°34'31.83" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Prograde|3°35'11.42" |Scorpio|Akleel|Mars|
+|☾ Moon|Prograde|2°41'1.62" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
