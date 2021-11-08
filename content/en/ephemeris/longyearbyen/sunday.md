@@ -1,6 +1,6 @@
 ---
-date: 2021-11-07T00:00:00+01:00
-lastmod: 2021-11-07T00:00:00+01:00
+date: 2021-11-14T00:00:00+01:00
+lastmod: 2021-11-14T00:00:00+01:00
 title: Longyearbyen (Sunday)
 slug: sunday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Sunday, 07 Nov 2021
+description: 🗓 Sunday, 14 Nov 2021
 
 toc: false
 ---
@@ -34,7 +34,7 @@ Altitude: 1 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:35:24 |
+| Dawn | 06:13:45 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:01:53 |
+| Dawn | 05:40:00 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:55:57 |
+| Dawn | 05:34:05 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:55:08 |
+| Dawn | 06:34:02 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:25:49 |
+| Dawn | 05:04:33 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:55:57 |
+| Dawn | 05:34:05 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:45:59 |
+| Dawn | 05:24:15 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
