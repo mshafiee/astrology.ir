@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 13:11:31 |
 | Medium Coeli | 13:11:31 |
 | Sunset | 16:42:02 |
-| Maghrib | 17:25:57 |
+| Maghrib | 17:25:58 |
 | Isha | 18:59:24 |
 | Sharia Midnight | 23:46:20 |
 | Imum Coeli | 01:11:34 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°38'30.11" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|23°13'2.68" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|7°17'15.07" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|18°12'39.99" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|4°36'39.73" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Prograde|7°38'30.19" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|23°13'2.57" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|7°17'15.08" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|18°12'40.00" |Libra|Jubana|Saturn|
+|♀ Venus|Prograde|4°36'39.69" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Prograde|7°9'36.80" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|3°59'4.45" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|3°59'5.27" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°38'30.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|23°13'2.68" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|7°17'15.07" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|18°12'39.99" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|4°36'39.73" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|7°38'30.19" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|23°13'2.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|7°17'15.08" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|18°12'40.00" |Scorpio|Qalb|Sun|
+|♀ Venus|Prograde|4°36'39.69" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Prograde|7°9'36.80" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|3°59'4.45" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|3°59'5.27" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

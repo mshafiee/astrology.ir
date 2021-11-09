@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:15:11 |
 | Sunset | 17:27:19 |
 | Maghrib | 17:32:44 |
-| Isha | 18:55:20 |
+| Isha | 18:55:21 |
 | Sharia Midnight | 23:31:24 |
 | Imum Coeli | 00:15:16 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°50'0.90" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|23°30'51.88" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|9°46'22.71" |Libra|Ghafr|Moon|
-|☉ Sun|Prograde|21°53'40.80" |Libra|Jubana|Jupiter|
-|♀ Venus|Prograde|7°51'52.84" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Prograde|7°50'0.98" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|23°30'51.77" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|9°46'22.73" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|21°53'40.81" |Libra|Jubana|Jupiter|
+|♀ Venus|Prograde|7°51'52.82" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Prograde|13°4'30.29" |Libra|Jubana|Saturn|
-|☾ Moon|Prograde|22°2'42.24" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|22°2'42.29" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°50'0.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|23°30'51.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|9°46'22.71" |Scorpio|Qalb|Mars|
-|☉ Sun|Prograde|21°53'40.80" |Scorpio|Shaulah|Venus|
-|♀ Venus|Prograde|7°51'52.84" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|7°50'0.98" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|23°30'51.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|9°46'22.73" |Scorpio|Qalb|Mars|
+|☉ Sun|Prograde|21°53'40.81" |Scorpio|Shaulah|Venus|
+|♀ Venus|Prograde|7°51'52.82" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Prograde|13°4'30.29" |Scorpio|Qalb|Sun|
-|☾ Moon|Prograde|22°2'42.24" |Pisces|Rescha|Mars|
+|☾ Moon|Prograde|22°2'42.29" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
