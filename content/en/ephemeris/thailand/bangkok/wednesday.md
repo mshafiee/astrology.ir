@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 12:01:53 |
 | Medium Coeli | 12:01:53 |
 | Sunset | 17:48:15 |
-| Maghrib | 18:05:00 |
+| Maghrib | 18:05:01 |
 | Isha | 18:45:38 |
 | Sharia Midnight | 23:25:25 |
 | Imum Coeli | 00:01:56 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°37'12.91" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|23°11'5.39" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|6°59'38.28" |Libra|Ghafr|Moon|
+|♄ Saturn|Prograde|7°37'12.99" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|23°11'5.28" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|6°59'38.29" |Libra|Ghafr|Moon|
 |☉ Sun|Prograde|17°46'33.97" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|4°13'3.40" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Prograde|4°13'3.36" |Sagittarius|Shaulah|Mercury|
 |☿ Mercury|Prograde|6°27'38.63" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|28°5'40.99" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|28°5'41.81" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°37'12.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|23°11'5.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|6°59'38.28" |Scorpio|Akleel|Mars|
+|♄ Saturn|Prograde|7°37'12.99" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|23°11'5.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|6°59'38.29" |Scorpio|Akleel|Mars|
 |☉ Sun|Prograde|17°46'33.97" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|4°13'3.40" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Prograde|4°13'3.36" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Prograde|6°27'38.63" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|28°5'40.99" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|28°5'41.81" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
