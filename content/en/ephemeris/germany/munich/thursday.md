@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 09:26:00|Night duration: 14:35:31|
+|Duration of the day: 09:26:00|Night duration: 14:35:32|
 |Every hour of day duration: 00:47:10|Every hour of night duration: 01:12:58|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|16:40:27|17:53:23|Attracting material things, earning sustenance and ample living|
 |2|Saturn|Servant|17:53:24|19:06:21|Destruction of the enemy|
-|3|Jupiter|Servant|19:06:22|20:19:18|Attracting financial and heartfelt love|
-|4|Mars|Servant|20:19:19|21:32:16|Creating love, bond and marriage|
-|5|Sun|Servant|21:32:17|22:45:13|The obstruction of lust|
-|6|Venus|Servant|22:45:14|23:58:11|The journey of the appearance and the interior|
-|7|Mercury|Servant|23:58:12|01:11:09|Acquiring status and attracting capability|
-|8|Moon|Ruler|01:11:10|02:24:06|Attracting happiness and bliss|
-|9|Saturn|Servant|02:24:07|03:37:04|Achieving status and creating rank growth|
-|10|Jupiter|Servant|03:37:05|04:50:01|Catching needs|
-|11|Mars|Servant|04:50:02|06:02:59|Attracting love and affection and attracting hearts|
-|12|Sun|Servant|06:03:00|07:15:57|Absorption of badness, nothing to do|
+|3|Jupiter|Servant|19:06:22|20:19:19|Attracting financial and heartfelt love|
+|4|Mars|Servant|20:19:20|21:32:16|Creating love, bond and marriage|
+|5|Sun|Servant|21:32:17|22:45:14|The obstruction of lust|
+|6|Venus|Servant|22:45:15|23:58:12|The journey of the appearance and the interior|
+|7|Mercury|Servant|23:58:13|01:11:09|Acquiring status and attracting capability|
+|8|Moon|Ruler|01:11:10|02:24:07|Attracting happiness and bliss|
+|9|Saturn|Servant|02:24:08|03:37:05|Achieving status and creating rank growth|
+|10|Jupiter|Servant|03:37:06|04:50:02|Catching needs|
+|11|Mars|Servant|04:50:03|06:03:00|Attracting love and affection and attracting hearts|
+|12|Sun|Servant|06:03:01|07:15:58|Absorption of badness, nothing to do|
 
  
  
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 09:26:00|Night duration: 14:35:31|
-|Every hour duration: 01:20:51|Every hour duration: 02:05:04|
+|Duration of the day: 09:26:00|Night duration: 14:35:32|
+|Every hour duration: 01:20:51|Every hour duration: 02:05:05|
 
  
  
@@ -270,12 +270,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Moon|Ruler|16:40:27|18:45:30|
-|Late evening|Saturn|Servant|18:45:31|20:50:34|
-|Midnight|Jupiter|Servant|20:50:35|22:55:39|
-|Late at night|Mars|Servant|22:55:40|01:00:43|
-|Rooster song|Sun|Servant|01:00:44|03:05:48|
-|False Dawn|Venus|Servant|03:05:49|05:10:52|
-|Dawn|Mercury|Servant|05:10:53|07:15:57|
+|Late evening|Saturn|Servant|18:45:31|20:50:35|
+|Midnight|Jupiter|Servant|20:50:36|22:55:39|
+|Late at night|Mars|Servant|22:55:40|01:00:44|
+|Rooster song|Sun|Servant|01:00:45|03:05:48|
+|False Dawn|Venus|Servant|03:05:49|05:10:53|
+|Dawn|Mercury|Servant|05:10:54|07:15:58|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°41'5.43" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|23°16'59.79" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|7°52'7.81" |Libra|Ghafr|Moon|
+|♄ Saturn|Prograde|7°41'5.35" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|23°16'59.90" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|7°52'7.80" |Libra|Ghafr|Moon|
 |☉ Sun|Prograde|19°4'24.15" |Libra|Jubana|Saturn|
-|♀ Venus|Prograde|5°23'8.82" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Prograde|5°23'8.85" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Prograde|8°32'42.60" |Libra|Ghafr|Moon|
-|☾ Moon|Prograde|15°41'28.71" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|15°41'28.00" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°41'5.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|23°16'59.79" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|7°52'7.81" |Scorpio|Akleel|Mars|
+|♄ Saturn|Prograde|7°41'5.35" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|23°16'59.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|7°52'7.80" |Scorpio|Akleel|Mars|
 |☉ Sun|Prograde|19°4'24.15" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|5°23'8.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Prograde|5°23'8.85" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Prograde|8°32'42.60" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|15°41'28.71" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|15°41'28.00" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

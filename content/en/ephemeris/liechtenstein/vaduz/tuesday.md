@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:06:42 |
 | Sunset | 16:45:46 |
 | Maghrib | 16:50:45 |
-| Isha | 18:33:50 |
+| Isha | 18:33:49 |
 | Sharia Midnight | 23:13:00 |
 | Imum Coeli | 00:06:47 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°57'31.33" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|23°42'44.70" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|11°16'22.40" |Libra|Ghafr|Saturn|
-|☉ Sun|Prograde|24°6'50.52" |Libra|Jubana|Jupiter|
-|♀ Venus|Prograde|9°44'59.19" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Prograde|7°57'31.25" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|23°42'44.81" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|11°16'22.39" |Libra|Ghafr|Saturn|
+|☉ Sun|Prograde|24°6'50.50" |Libra|Jubana|Jupiter|
+|♀ Venus|Prograde|9°44'59.21" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Prograde|16°37'37.32" |Libra|Jubana|Saturn|
-|☾ Moon|Prograde|19°19'45.75" |Pisces|Rescha|Jupiter|
+|☾ Moon|Prograde|19°19'45.18" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°57'31.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|23°42'44.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|11°16'22.40" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|24°6'50.52" |Scorpio|Shaulah|Venus|
-|♀ Venus|Prograde|9°44'59.19" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|7°57'31.25" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|23°42'44.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|11°16'22.39" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|24°6'50.50" |Scorpio|Shaulah|Venus|
+|♀ Venus|Prograde|9°44'59.21" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Prograde|16°37'37.32" |Scorpio|Qalb|Sun|
-|☾ Moon|Prograde|19°19'45.75" |Aries|Butain|Sun|
+|☾ Moon|Prograde|19°19'45.18" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

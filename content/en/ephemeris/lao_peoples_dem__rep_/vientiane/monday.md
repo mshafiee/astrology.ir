@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 11:54:10 |
 | Medium Coeli | 11:54:10 |
 | Sunset | 17:33:01 |
-| Maghrib | 17:50:20 |
+| Maghrib | 17:50:19 |
 | Isha | 18:32:01 |
 | Sharia Midnight | 23:16:45 |
 | Imum Coeli | 23:54:15 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°53'2.61" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|23°35'38.01" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|10°23'17.20" |Libra|Ghafr|Saturn|
-|☉ Sun|Prograde|22°48'19.01" |Libra|Jubana|Jupiter|
-|♀ Venus|Prograde|8°38'43.68" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Prograde|7°53'2.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|23°35'38.12" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|10°23'17.19" |Libra|Ghafr|Saturn|
+|☉ Sun|Prograde|22°48'19.00" |Libra|Jubana|Jupiter|
+|♀ Venus|Prograde|8°38'43.69" |Sagittarius|NaAaem|Mercury|
 |☿ Mercury|Prograde|14°32'2.17" |Libra|Jubana|Saturn|
-|☾ Moon|Prograde|3°16'35.33" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Prograde|3°16'35.14" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|7°53'2.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|23°35'38.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|10°23'17.20" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|22°48'19.01" |Scorpio|Shaulah|Venus|
-|♀ Venus|Prograde|8°38'43.68" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|7°53'2.53" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|23°35'38.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|10°23'17.19" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|22°48'19.00" |Scorpio|Shaulah|Venus|
+|♀ Venus|Prograde|8°38'43.69" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Prograde|14°32'2.17" |Scorpio|Qalb|Sun|
-|☾ Moon|Prograde|3°16'35.33" |Aries|Sharatain|Mars|
+|☾ Moon|Prograde|3°16'35.14" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
