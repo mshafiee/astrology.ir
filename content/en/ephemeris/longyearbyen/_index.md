@@ -1,6 +1,6 @@
 ---
-date: 2021-11-12T00:00:00+01:00
-lastmod: 2021-11-12T00:00:00+01:00
+date: 2021-11-14T00:00:00+01:00
+lastmod: 2021-11-14T00:00:00+01:00
 title: Longyearbyen
 slug: longyearbyen
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Friday, 12 Nov 2021
+description: 🗓 Sunday, 14 Nov 2021
 
 toc: false
 ---
@@ -34,7 +34,7 @@ Altitude: 1 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:03:08 |
+| Dawn | 06:13:45 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:29:32 |
+| Dawn | 05:40:00 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:23:38 |
+| Dawn | 05:34:05 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:23:12 |
+| Dawn | 06:34:02 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:54:02 |
+| Dawn | 05:04:33 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:23:38 |
+| Dawn | 05:34:05 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:13:48 |
+| Dawn | 05:24:15 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -203,41 +203,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Venus|The ruler of the night: Mars|
+|The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
-|2|Mercury|Servant|00:00:00|23:59:59|Attracting good faith|
-|3|Moon|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|4|Saturn|Servant|00:00:00|23:59:59|Bad Hour|
-|5|Jupiter|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
-|6|Mars|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
-|7|Sun|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
-|8|Venus|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
-|9|Mercury|Servant|00:00:00|23:59:59|Separation and Displacement|
-|10|Moon|Servant|00:00:00|23:59:59|Extremely ugly|
-|11|Saturn|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
-|12|Jupiter|Servant|00:00:00|23:59:59|It is good and good to ask for help|
+|1|Sun|Ruler|00:00:00|23:59:59|Love and attracting capital|
+|2|Venus|Servant|00:00:00|23:59:59|It's ugly, nothing to do|
+|3|Mercury|Servant|00:00:00|23:59:59|Operation of Compassion and Attraction of Love|
+|4|Moon|Servant|00:00:00|23:59:59|Evil and repel good|
+|5|Saturn|Servant|00:00:00|23:59:59|Separation and grudges and hostilities|
+|6|Jupiter|Servant|00:00:00|23:59:59|It's good for all good deeds|
+|7|Mars|Servant|00:00:00|23:59:59|Do not do anything, it causes misery|
+|8|Sun|Ruler|00:00:00|23:59:59|It is very auspicious and attracts happiness|
+|9|Venus|Servant|00:00:00|23:59:59|Summoning the desired person, attracting hearts, compassion of hearts|
+|10|Mercury|Servant|00:00:00|23:59:59|Attracting happiness, solving financial problems|
+|11|Moon|Servant|00:00:00|23:59:59|Doing marriage|
+|12|Saturn|Servant|00:00:00|23:59:59|Discover the Fugitive and Find the Thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
-|2|Sun|Servant|00:00:00|23:59:59|Attracting good faith|
-|3|Venus|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|4|Mercury|Servant|00:00:00|23:59:59|Bad Hour|
-|5|Moon|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
-|6|Saturn|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
-|7|Jupiter|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
-|8|Mars|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
-|9|Sun|Servant|00:00:00|23:59:59|Separation and Displacement|
-|10|Venus|Servant|00:00:00|23:59:59|Extremely ugly|
-|11|Mercury|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
-|12|Moon|Servant|00:00:00|23:59:59|It is good and good to ask for help|
+|1|Jupiter|Ruler|00:00:00|23:59:59|Love and attracting capital|
+|2|Mars|Servant|00:00:00|23:59:59|It's ugly, nothing to do|
+|3|Sun|Servant|00:00:00|23:59:59|Operation of Compassion and Attraction of Love|
+|4|Venus|Servant|00:00:00|23:59:59|Evil and repel good|
+|5|Mercury|Servant|00:00:00|23:59:59|Separation and grudges and hostilities|
+|6|Moon|Servant|00:00:00|23:59:59|It's good for all good deeds|
+|7|Saturn|Servant|00:00:00|23:59:59|Do not do anything, it causes misery|
+|8|Jupiter|Ruler|00:00:00|23:59:59|It is very auspicious and attracts happiness|
+|9|Mars|Servant|00:00:00|23:59:59|Summoning the desired person, attracting hearts, compassion of hearts|
+|10|Sun|Servant|00:00:00|23:59:59|Attracting happiness, solving financial problems|
+|11|Venus|Servant|00:00:00|23:59:59|Doing marriage|
+|12|Mercury|Servant|00:00:00|23:59:59|Discover the Fugitive and Find the Thief|
 
  
  
@@ -249,7 +249,7 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Venus|The ruler of the night: Mars|
+|The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour duration: 00:00:00|Every hour duration: 00:00:00|
 
@@ -258,24 +258,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|00:00:00|23:59:59|
-|Mid-morning|Mercury|Servant|00:00:00|23:59:59|
-|Late morning|Moon|Servant|00:00:00|23:59:59|
-|Noon|Saturn|Servant|00:00:00|23:59:59|
-|Early afternoon|Jupiter|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Mars|Servant|00:00:00|23:59:59|
-|Late afternoon|Sun|Servant|00:00:00|23:59:59|
+|Early morning|Sun|Ruler|00:00:00|23:59:59|
+|Mid-morning|Venus|Servant|00:00:00|23:59:59|
+|Late morning|Mercury|Servant|00:00:00|23:59:59|
+|Noon|Moon|Servant|00:00:00|23:59:59|
+|Early afternoon|Saturn|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Jupiter|Servant|00:00:00|23:59:59|
+|Late afternoon|Mars|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|00:00:00|23:59:59|
-|Late evening|Sun|Servant|00:00:00|23:59:59|
-|Midnight|Venus|Servant|00:00:00|23:59:59|
-|Late at night|Mercury|Servant|00:00:00|23:59:59|
-|Rooster song|Moon|Servant|00:00:00|23:59:59|
-|False Dawn|Saturn|Servant|00:00:00|23:59:59|
-|Dawn|Jupiter|Servant|00:00:00|23:59:59|
+|Evening|Jupiter|Ruler|00:00:00|23:59:59|
+|Late evening|Mars|Servant|00:00:00|23:59:59|
+|Midnight|Sun|Servant|00:00:00|23:59:59|
+|Late at night|Venus|Servant|00:00:00|23:59:59|
+|Rooster song|Mercury|Servant|00:00:00|23:59:59|
+|False Dawn|Moon|Servant|00:00:00|23:59:59|
+|Dawn|Saturn|Servant|00:00:00|23:59:59|
 
 {{< /tab >}}
 

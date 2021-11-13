@@ -118,7 +118,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:50:40 |
 | Dhuhr | 13:04:18 |
 | Medium Coeli | 13:04:18 |
-| Sunset | 18:17:34 |
+| Sunset | 18:17:35 |
 | Maghrib | 18:21:13 |
 | Isha | 19:45:00 |
 | Sharia Midnight | 00:20:48 |
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:26:54|Night duration: 13:34:03|
-|Every hour duration: 01:29:33|Every hour duration: 01:56:18|
+|Duration of the day: 10:26:55|Night duration: 13:34:02|
+|Every hour duration: 01:29:34|Every hour duration: 01:56:17|
 
  
  
@@ -259,22 +259,22 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Saturn|Ruler|07:50:40|09:20:12|
-|Mid-morning|Jupiter|Servant|09:20:13|10:49:45|
-|Late morning|Mars|Servant|10:49:46|12:19:19|
-|Noon|Sun|Servant|12:19:20|13:48:52|
-|Early afternoon|Venus|Servant|13:48:53|15:18:26|
-|Mid-afternoon|Mercury|Servant|15:18:27|16:47:59|
-|Late afternoon|Moon|Servant|16:48:00|18:17:33|
+|Mid-morning|Jupiter|Servant|09:20:13|10:49:46|
+|Late morning|Mars|Servant|10:49:47|12:19:19|
+|Noon|Sun|Servant|12:19:20|13:48:53|
+|Early afternoon|Venus|Servant|13:48:54|15:18:26|
+|Mid-afternoon|Mercury|Servant|15:18:27|16:48:00|
+|Late afternoon|Moon|Servant|16:48:01|18:17:34|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|18:17:34|20:13:50|
-|Late evening|Moon|Servant|20:13:51|22:10:08|
-|Midnight|Saturn|Servant|22:10:09|00:06:25|
-|Late at night|Jupiter|Servant|00:06:26|02:02:43|
-|Rooster song|Mars|Servant|02:02:44|03:59:00|
-|False Dawn|Sun|Servant|03:59:01|05:55:18|
+|Evening|Mercury|Ruler|18:17:35|20:13:51|
+|Late evening|Moon|Servant|20:13:52|22:10:08|
+|Midnight|Saturn|Servant|22:10:09|00:06:26|
+|Late at night|Jupiter|Servant|00:06:27|02:02:43|
+|Rooster song|Mars|Servant|02:02:44|03:59:01|
+|False Dawn|Sun|Servant|03:59:02|05:55:18|
 |Dawn|Venus|Servant|05:55:19|07:51:36|
 
 {{< /tab >}}
