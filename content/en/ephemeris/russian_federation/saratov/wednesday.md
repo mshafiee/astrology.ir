@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:40:55 |
 | Sunset | 17:04:04 |
 | Maghrib | 17:06:14 |
-| Isha | 18:59:55 |
+| Isha | 18:59:56 |
 | Sharia Midnight | 23:36:52 |
 | Imum Coeli | 00:41:01 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°0'44.54" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|23°47'53.90" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|11°53'34.00" |Libra|Ghafr|Saturn|
-|☉ Sun|Prograde|25°1'49.89" |Libra|Jubana|Jupiter|
-|♀ Venus|Prograde|10°30'37.07" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Prograde|8°0'44.61" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|23°47'53.79" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|11°53'34.01" |Libra|Ghafr|Saturn|
+|☉ Sun|Prograde|25°1'49.91" |Libra|Jubana|Jupiter|
+|♀ Venus|Prograde|10°30'37.05" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|18°5'21.42" |Libra|Jubana|Saturn|
-|☾ Moon|Prograde|0°22'35.44" |Aries|Sharatain|Mars|
+|☾ Moon|Prograde|0°22'36.18" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°0'44.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|23°47'53.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|11°53'34.00" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|25°1'49.89" |Scorpio|Shaulah|Venus|
-|♀ Venus|Prograde|10°30'37.07" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Prograde|8°0'44.61" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|23°47'53.79" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|11°53'34.01" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|25°1'49.91" |Scorpio|Shaulah|Venus|
+|♀ Venus|Prograde|10°30'37.05" |Capricorn|SaadAlDhabib|Mars|
 |☿ Mercury|Prograde|18°5'21.42" |Scorpio|Qalb|Sun|
-|☾ Moon|Prograde|0°22'35.44" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|0°22'36.18" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
