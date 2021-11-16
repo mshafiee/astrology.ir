@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:04:51 |
+| Dawn | 04:04:52 |
 | Sunrise | 05:45:27 |
 | Dhuhr | 12:49:16 |
 | Medium Coeli | 12:49:16 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°14'11.75" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°9'41.38" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|14°21'10.58" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|28°39'49.25" |Libra|Akleel|Jupiter|
-|♀ Venus|Prograde|13°24'46.48" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Prograde|8°14'11.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°9'41.27" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|14°21'10.59" |Libra|Jubana|Saturn|
+|☉ Sun|Prograde|28°39'49.26" |Libra|Akleel|Jupiter|
+|♀ Venus|Prograde|13°24'46.43" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|23°51'18.39" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|13°20'21.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Prograde|13°20'22.40" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°14'11.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°9'41.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|14°21'10.58" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|28°39'49.25" |Scorpio|Shaulah|Venus|
-|♀ Venus|Prograde|13°24'46.48" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|8°14'11.82" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°9'41.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|14°21'10.59" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|28°39'49.26" |Scorpio|Shaulah|Venus|
+|♀ Venus|Prograde|13°24'46.43" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|23°51'18.39" |Scorpio|Shaulah|Venus|
-|☾ Moon|Prograde|13°20'21.99" |Gemini|HanAh|Mars|
+|☾ Moon|Prograde|13°20'22.40" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

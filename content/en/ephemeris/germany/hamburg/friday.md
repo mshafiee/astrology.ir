@@ -38,7 +38,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:53:02 |
 | Dhuhr | 12:05:26 |
 | Medium Coeli | 12:05:26 |
-| Sunset | 16:17:16 |
+| Sunset | 16:17:17 |
 | Maghrib | 16:43:41 |
 | Isha | 17:55:49 |
 | Sharia Midnight | 23:09:41 |
@@ -54,7 +54,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 07:53:02 |
 | Dhuhr | 12:05:26 |
 | Medium Coeli | 12:05:26 |
-| Sunset | 16:17:16 |
+| Sunset | 16:17:17 |
 | Maghrib | 16:47:29 |
 | Isha | 17:55:49 |
 | Sharia Midnight | 23:03:52 |
@@ -70,10 +70,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:53:02 |
 | Dhuhr | 12:05:26 |
 | Medium Coeli | 12:05:26 |
-| Sunset | 16:17:16 |
+| Sunset | 16:17:17 |
 | Maghrib | 16:19:03 |
 | Isha | 18:16:26 |
-| Sharia Midnight | 23:02:50 |
+| Sharia Midnight | 23:02:51 |
 | Imum Coeli | 00:05:33 |
 {{< /tab >}}
 
@@ -86,7 +86,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 07:53:02 |
 | Dhuhr | 12:05:26 |
 | Medium Coeli | 12:05:26 |
-| Sunset | 16:17:16 |
+| Sunset | 16:17:17 |
 | Maghrib | 16:19:03 |
 | Isha | 18:02:43 |
 | Sharia Midnight | 23:13:08 |
@@ -102,10 +102,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:53:02 |
 | Dhuhr | 12:05:26 |
 | Medium Coeli | 12:05:26 |
-| Sunset | 16:17:16 |
+| Sunset | 16:17:17 |
 | Maghrib | 16:19:03 |
 | Isha | 18:19:51 |
-| Sharia Midnight | 22:57:44 |
+| Sharia Midnight | 22:57:45 |
 | Imum Coeli | 00:05:33 |
 {{< /tab >}}
 
@@ -118,10 +118,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:53:02 |
 | Dhuhr | 12:05:26 |
 | Medium Coeli | 12:05:26 |
-| Sunset | 16:17:16 |
+| Sunset | 16:17:17 |
 | Maghrib | 16:19:03 |
 | Isha | 18:23:15 |
-| Sharia Midnight | 23:02:50 |
+| Sharia Midnight | 23:02:51 |
 | Imum Coeli | 00:05:33 |
 {{< /tab >}}
 
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 08:24:14|Night duration: 15:37:33|
+|Duration of the day: 08:24:15|Night duration: 15:37:32|
 |Every hour duration: 01:12:02|Every hour duration: 02:13:56|
 
  
@@ -264,18 +264,18 @@ Timetable of septet day and night planetary hours
 |Noon|Saturn|Servant|11:29:08|12:41:09|
 |Early afternoon|Jupiter|Servant|12:41:10|13:53:11|
 |Mid-afternoon|Mars|Servant|13:53:12|15:05:13|
-|Late afternoon|Sun|Servant|15:05:14|16:17:15|
+|Late afternoon|Sun|Servant|15:05:14|16:17:16|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|16:17:16|18:31:11|
-|Late evening|Sun|Servant|18:31:12|20:45:07|
-|Midnight|Venus|Servant|20:45:08|22:59:03|
-|Late at night|Mercury|Servant|22:59:04|01:12:59|
-|Rooster song|Moon|Servant|01:13:00|03:26:55|
-|False Dawn|Saturn|Servant|03:26:56|05:40:51|
-|Dawn|Jupiter|Servant|05:40:52|07:54:48|
+|Evening|Mars|Ruler|16:17:17|18:31:12|
+|Late evening|Sun|Servant|18:31:13|20:45:08|
+|Midnight|Venus|Servant|20:45:09|22:59:04|
+|Late at night|Mercury|Servant|22:59:05|01:13:00|
+|Rooster song|Moon|Servant|01:13:01|03:26:56|
+|False Dawn|Saturn|Servant|03:26:57|05:40:52|
+|Dawn|Jupiter|Servant|05:40:53|07:54:48|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°8'28.90" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°0'22.97" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|13°19'52.78" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|27°9'20.98" |Libra|Akleel|Jupiter|
-|♀ Venus|Prograde|12°13'51.30" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Prograde|8°8'28.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°0'22.85" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|13°19'52.79" |Libra|Jubana|Saturn|
+|☉ Sun|Prograde|27°9'20.99" |Libra|Akleel|Jupiter|
+|♀ Venus|Prograde|12°13'51.26" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|21°28'5.41" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|25°34'33.44" |Aries|Butain|Venus|
+|☾ Moon|Prograde|25°34'34.15" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
