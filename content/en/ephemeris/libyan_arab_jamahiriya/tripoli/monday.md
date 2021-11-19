@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 12:53:23 |
 | Medium Coeli | 12:53:23 |
 | Sunset | 18:02:47 |
-| Maghrib | 18:22:48 |
+| Maghrib | 18:22:49 |
 | Isha | 19:10:26 |
 | Sharia Midnight | 00:10:44 |
 | Imum Coeli | 00:53:32 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°19'57.05" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°19'7.42" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|8°19'57.12" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°19'7.31" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|15°21'2.46" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|0°8'7.95" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|14°32'3.69" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|0°8'7.96" |Scorpio|Akleel|Mars|
+|♀ Venus|Prograde|14°32'3.63" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|26°10'33.00" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|0°21'40.01" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|0°21'39.83" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°19'57.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°19'7.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|8°19'57.12" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°19'7.31" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|15°21'2.46" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|0°8'7.95" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|14°32'3.69" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|0°8'7.96" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Prograde|14°32'3.63" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|26°10'33.00" |Scorpio|Shaulah|Venus|
-|☾ Moon|Prograde|0°21'40.01" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|0°21'39.83" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

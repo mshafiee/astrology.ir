@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:23:26 |
+| Dawn | 03:23:27 |
 | Sunrise | 04:50:07 |
 | Dhuhr | 11:36:04 |
 | Medium Coeli | 11:36:04 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°23'30.34" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°24'59.10" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|15°57'11.43" |Libra|Jubana|Saturn|
+|♄ Saturn|Prograde|8°23'30.41" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°24'58.99" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|15°57'11.42" |Libra|Jubana|Saturn|
 |☉ Sun|Prograde|1°1'24.38" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|15°11'37.64" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|15°11'37.58" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|27°34'21.57" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|10°57'46.24" |Gemini|HanAh|Mars|
+|☾ Moon|Prograde|10°57'45.73" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°23'30.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°24'59.10" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|15°57'11.43" |Scorpio|Qalb|Sun|
+|♄ Saturn|Prograde|8°23'30.41" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°24'58.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|15°57'11.42" |Scorpio|Qalb|Sun|
 |☉ Sun|Prograde|1°1'24.38" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|15°11'37.64" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|15°11'37.58" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|27°34'21.57" |Scorpio|Shaulah|Venus|
-|☾ Moon|Prograde|10°57'46.24" |Cancer|Nathrah|Mercury|
+|☾ Moon|Prograde|10°57'45.73" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

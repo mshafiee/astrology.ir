@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:14:12 |
 | Maghrib | 18:15:09 |
 | Isha | 19:45:09 |
-| Sharia Midnight | 23:42:51 |
+| Sharia Midnight | 23:42:52 |
 | Imum Coeli | 00:21:12 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°26'10.86" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°29'24.44" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|8°26'10.93" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°29'24.33" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|16°23'60.00" |Libra|Jubana|Saturn|
 |☉ Sun|Prograde|1°40'55.30" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|15°40'30.77" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|15°40'30.71" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|28°36'22.05" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|18°37'47.55" |Gemini|Dhira|Mars|
+|☾ Moon|Prograde|18°37'46.90" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°26'10.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°29'24.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|8°26'10.93" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°29'24.33" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|16°23'60.00" |Scorpio|Qalb|Sun|
 |☉ Sun|Prograde|1°40'55.30" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|15°40'30.77" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|15°40'30.71" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|28°36'22.05" |Scorpio|Shaulah|Venus|
-|☾ Moon|Prograde|18°37'47.55" |Cancer|Tarf|Mercury|
+|☾ Moon|Prograde|18°37'46.90" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

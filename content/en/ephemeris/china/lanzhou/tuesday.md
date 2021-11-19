@@ -34,7 +34,7 @@ Altitude: 1,521 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:27:59 |
+| Dawn | 06:28:00 |
 | Sunrise | 07:49:21 |
 | Dhuhr | 12:50:59 |
 | Medium Coeli | 12:50:59 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°22'59.84" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°24'8.39" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|8°22'59.76" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°24'8.50" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|15°52'2.16" |Libra|Jubana|Saturn|
 |☉ Sun|Prograde|0°53'49.09" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|15°6'3.00" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|15°6'3.06" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|27°22'25.04" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|9°22'7.34" |Gemini|HanAh|Jupiter|
+|☾ Moon|Prograde|9°22'7.82" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°22'59.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°24'8.39" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|8°22'59.76" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°24'8.50" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|15°52'2.16" |Scorpio|Qalb|Sun|
 |☉ Sun|Prograde|0°53'49.09" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|15°6'3.00" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|15°6'3.06" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|27°22'25.04" |Scorpio|Shaulah|Venus|
-|☾ Moon|Prograde|9°22'7.34" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|9°22'7.82" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

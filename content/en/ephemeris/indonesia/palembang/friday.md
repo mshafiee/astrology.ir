@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:25:27 |
+| Dawn | 04:25:26 |
 | Sunrise | 05:38:27 |
 | Dhuhr | 11:46:22 |
 | Medium Coeli | 11:46:22 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°7'11.66" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|23°58'17.59" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|13°5'49.12" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|26°48'36.07" |Libra|Akleel|Jupiter|
-|♀ Venus|Prograde|11°57'19.74" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Prograde|8°7'11.59" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|23°58'17.70" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|13°5'49.11" |Libra|Jubana|Saturn|
+|☉ Sun|Prograde|26°48'36.06" |Libra|Akleel|Jupiter|
+|♀ Venus|Prograde|11°57'19.77" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|20°55'8.54" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|21°16'36.59" |Aries|Butain|Venus|
+|☾ Moon|Prograde|21°16'35.85" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°7'11.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|23°58'17.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|13°5'49.12" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|26°48'36.07" |Scorpio|Shaulah|Venus|
-|♀ Venus|Prograde|11°57'19.74" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Prograde|8°7'11.59" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|23°58'17.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|13°5'49.11" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|26°48'36.06" |Scorpio|Shaulah|Venus|
+|♀ Venus|Prograde|11°57'19.77" |Capricorn|SaadAlDhabib|Mars|
 |☿ Mercury|Prograde|20°55'8.54" |Scorpio|Qalb|Venus|
-|☾ Moon|Prograde|21°16'36.59" |Taurus|Dabaran|Saturn|
+|☾ Moon|Prograde|21°16'35.85" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

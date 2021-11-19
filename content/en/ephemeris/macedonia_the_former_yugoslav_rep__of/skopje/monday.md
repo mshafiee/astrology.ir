@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:44:51 |
+| Dawn | 04:44:50 |
 | Sunrise | 06:32:25 |
 | Dhuhr | 11:20:25 |
 | Medium Coeli | 11:20:25 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°19'55.17" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°19'4.34" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|8°19'55.24" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°19'4.22" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|15°20'42.82" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|0°7'38.67" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|14°31'41.25" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|0°7'38.68" |Scorpio|Akleel|Mars|
+|♀ Venus|Prograde|14°31'41.20" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|26°9'47.53" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|0°19'53.16" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|0°19'52.99" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°19'55.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°19'4.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|8°19'55.24" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°19'4.22" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|15°20'42.82" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|0°7'38.67" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|14°31'41.25" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|0°7'38.68" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Prograde|14°31'41.20" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|26°9'47.53" |Scorpio|Shaulah|Venus|
-|☾ Moon|Prograde|0°19'53.16" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|0°19'52.99" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

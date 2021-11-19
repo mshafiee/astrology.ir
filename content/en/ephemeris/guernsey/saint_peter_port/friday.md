@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 11:55:33 |
 | Medium Coeli | 11:55:33 |
 | Sunset | 16:23:23 |
-| Maghrib | 16:46:56 |
+| Maghrib | 16:46:55 |
 | Isha | 17:52:18 |
 | Sharia Midnight | 23:05:09 |
 | Imum Coeli | 23:55:40 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°8'34.33" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°0'31.54" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|13°20'51.38" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|27°10'47.72" |Libra|Akleel|Jupiter|
-|♀ Venus|Prograde|12°15'0.46" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Prograde|8°8'34.26" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°0'31.65" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|13°20'51.37" |Libra|Jubana|Saturn|
+|☉ Sun|Prograde|27°10'47.71" |Libra|Akleel|Jupiter|
+|♀ Venus|Prograde|12°15'0.50" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|21°30'22.50" |Libra|Jubana|Jupiter|
-|☾ Moon|Prograde|25°48'26.01" |Aries|Thurayya|Venus|
+|☾ Moon|Prograde|25°48'25.30" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°8'34.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°0'31.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|13°20'51.38" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|27°10'47.72" |Scorpio|Shaulah|Venus|
-|♀ Venus|Prograde|12°15'0.46" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Prograde|8°8'34.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°0'31.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|13°20'51.37" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|27°10'47.71" |Scorpio|Shaulah|Venus|
+|♀ Venus|Prograde|12°15'0.50" |Capricorn|SaadAlDhabib|Mars|
 |☿ Mercury|Prograde|21°30'22.50" |Scorpio|Shaulah|Venus|
-|☾ Moon|Prograde|25°48'26.01" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|25°48'25.30" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
