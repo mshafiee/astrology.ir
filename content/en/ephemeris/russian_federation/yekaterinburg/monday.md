@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 12:43:39 |
 | Medium Coeli | 12:43:39 |
 | Sunset | 16:34:20 |
-| Maghrib | 17:08:48 |
+| Maghrib | 17:08:47 |
 | Isha | 18:24:22 |
 | Sharia Midnight | 23:35:13 |
 | Imum Coeli | 00:43:47 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°19'38.57" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°18'36.82" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|8°19'38.50" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°18'36.94" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|15°17'50.93" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|0°3'24.49" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|14°28'29.18" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|0°3'24.48" |Scorpio|Akleel|Mars|
+|♀ Venus|Prograde|14°28'29.24" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|26°3'8.85" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|29°39'51.39" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|29°39'51.54" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°19'38.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°18'36.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|8°19'38.50" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°18'36.94" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|15°17'50.93" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|0°3'24.49" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|14°28'29.18" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|0°3'24.48" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Prograde|14°28'29.24" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|26°3'8.85" |Scorpio|Shaulah|Venus|
-|☾ Moon|Prograde|29°39'51.39" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|29°39'51.54" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

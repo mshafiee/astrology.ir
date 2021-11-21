@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:14:14 |
 | Sunset | 19:39:53 |
 | Maghrib | 19:54:59 |
-| Isha | 20:40:16 |
+| Isha | 20:40:17 |
 | Sharia Midnight | 00:39:31 |
 | Imum Coeli | 01:14:23 |
 {{< /tab >}}
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 13:14:14 |
 | Sunset | 19:39:53 |
 | Maghrib | 19:57:13 |
-| Isha | 20:40:16 |
+| Isha | 20:40:17 |
 | Sharia Midnight | 00:35:34 |
 | Imum Coeli | 01:14:23 |
 {{< /tab >}}
@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Prograde|24°42'55.13" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|17°43'33.24" |Libra|Jubana|Saturn|
 |☉ Sun|Prograde|3°38'2.97" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|17°3'26.01" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|17°3'26.07" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|1°39'44.98" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|12°19'25.71" |Cancer|Nathrah|Mercury|
+|☾ Moon|Prograde|12°19'26.14" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°34'18.69" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Prograde|24°42'55.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|8°34'18.62" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Prograde|24°42'55.24" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|17°43'33.24" |Scorpio|Qalb|Sun|
 |☉ Sun|Prograde|3°38'2.97" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|17°3'26.01" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|17°3'26.07" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|1°39'44.98" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Prograde|12°19'25.71" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|12°19'26.14" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
