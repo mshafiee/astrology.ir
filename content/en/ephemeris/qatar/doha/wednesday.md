@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°27'38.89" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°31'50.28" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|8°27'38.96" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°31'50.17" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|16°38'33.44" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|2°2'21.74" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|15°55'59.22" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|29°9'59.70" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|22°55'33.45" |Gemini|Dhira|Sun|
+|☉ Sun|Prograde|2°2'21.75" |Scorpio|Akleel|Mars|
+|♀ Venus|Prograde|15°55'44.08" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|29°9'57.36" |Libra|Akleel|Jupiter|
+|☾ Moon|Prograde|23°42'18.21" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Mars|Moon|Mars|
 |♀ Venus|Venus|Sun|Mercury|Moon|Mercury|
 |☿ Mercury|Sun|Mercury|Mercury|Moon|Moon|
-|☾ Moon|Sun|Mars|Jupiter|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Jupiter|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°27'38.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°31'50.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|8°27'38.96" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°31'50.17" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|16°38'33.44" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|2°2'21.74" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|15°55'59.22" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|2°2'21.75" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Prograde|15°55'59.16" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|29°9'59.70" |Scorpio|Shaulah|Venus|
-|☾ Moon|Prograde|22°55'33.45" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|22°55'32.77" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
