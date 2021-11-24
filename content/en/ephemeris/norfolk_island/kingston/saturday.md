@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 13:48:09|Night duration: 10:11:42|
-|Every hour of day duration: 01:09:01|Every hour of night duration: 00:50:58|
+|Every hour of day duration: 01:09:01|Every hour of night duration: 00:50:59|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°38'47.76" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°50'25.17" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|18°26'19.27" |Libra|Jubana|Saturn|
+|♄ Saturn|Prograde|8°38'47.83" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°50'25.06" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|18°26'19.26" |Libra|Jubana|Saturn|
 |☉ Sun|Prograde|4°40'57.58" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|17°46'16.20" |Sagittarius|Baldah|Moon|
+|♀ Venus|Prograde|17°46'16.14" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Prograde|3°17'57.59" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|25°25'12.58" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|25°25'12.48" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°38'47.76" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Prograde|24°50'25.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|18°26'19.27" |Scorpio|Qalb|Sun|
+|♄ Saturn|Prograde|8°38'47.83" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Prograde|24°50'25.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|18°26'19.26" |Scorpio|Qalb|Sun|
 |☉ Sun|Prograde|4°40'57.58" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Prograde|17°46'16.20" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|17°46'16.14" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|3°17'57.59" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Prograde|25°25'12.58" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°25'12.48" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

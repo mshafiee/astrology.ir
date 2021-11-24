@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:06:59 |
+| Dawn | 05:06:58 |
 | Sunrise | 06:32:01 |
 | Dhuhr | 11:45:58 |
 | Medium Coeli | 11:45:58 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:06:59 |
+| Dawn | 05:06:58 |
 | Sunrise | 06:32:01 |
 | Dhuhr | 11:45:58 |
 | Medium Coeli | 11:45:58 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°26'53.01" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°30'34.24" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|8°26'53.09" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°30'34.13" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|16°30'58.61" |Libra|Jubana|Saturn|
 |☉ Sun|Prograde|1°51'11.70" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|15°47'56.33" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|15°47'56.27" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|28°52'29.35" |Libra|Akleel|Jupiter|
-|☾ Moon|Prograde|20°42'52.89" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|20°42'52.22" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°26'53.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°30'34.24" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|8°26'53.09" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°30'34.13" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|16°30'58.61" |Scorpio|Qalb|Sun|
 |☉ Sun|Prograde|1°51'11.70" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|15°47'56.33" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|15°47'56.27" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|28°52'29.35" |Scorpio|Shaulah|Venus|
-|☾ Moon|Prograde|20°42'52.89" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|20°42'52.22" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

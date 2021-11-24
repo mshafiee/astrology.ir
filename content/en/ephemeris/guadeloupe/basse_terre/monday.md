@@ -1,6 +1,6 @@
 ---
-date: 2021-11-22T00:00:00-04:00
-lastmod: 2021-11-22T00:00:00-04:00
+date: 2021-11-29T00:00:00-04:00
+lastmod: 2021-11-29T00:00:00-04:00
 title: Basse-Terre (Monday)
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Monday, 22 Nov 2021
+description: 🗓 Monday, 29 Nov 2021
 
 toc: false
 ---

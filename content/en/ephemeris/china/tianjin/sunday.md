@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 11:59:10 |
 | Medium Coeli | 11:59:10 |
 | Sunset | 16:50:06 |
-| Maghrib | 17:09:29 |
+| Maghrib | 17:09:30 |
 | Isha | 18:04:28 |
 | Sharia Midnight | 23:16:56 |
 | Imum Coeli | 23:59:20 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°44'12.81" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°59'30.57" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|8°44'12.88" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°59'30.46" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|19°16'59.38" |Libra|Jubana|Saturn|
-|☉ Sun|Prograde|5°55'27.94" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|18°35'26.02" |Sagittarius|Baldah|Moon|
+|☉ Sun|Prograde|5°55'27.95" |Scorpio|Akleel|Mars|
+|♀ Venus|Prograde|18°35'25.95" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Prograde|5°13'59.38" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|11°19'17.06" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|11°19'17.31" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°44'12.81" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Prograde|24°59'30.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|8°44'12.88" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Prograde|24°59'30.46" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|19°16'59.38" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|5°55'27.94" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Prograde|18°35'26.02" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|5°55'27.95" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Prograde|18°35'25.95" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|5°13'59.38" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Prograde|11°19'17.06" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|11°19'17.31" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
