@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:30:24 |
+| Dawn | 03:30:23 |
 | Sunrise | 05:44:55 |
 | Dhuhr | 13:07:46 |
 | Medium Coeli | 13:07:46 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°30'3.14" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°35'49.69" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|8°30'3.07" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°35'49.80" |Capricorn|SaadAlBula|Sun|
 |♂ Mars|Prograde|17°2'12.51" |Libra|Jubana|Saturn|
 |☉ Sun|Prograde|2°37'9.97" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|16°20'46.91" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|16°20'46.97" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Prograde|0°4'34.45" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|0°7'53.01" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|0°7'53.65" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°30'3.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Prograde|24°35'49.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|8°30'3.07" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Prograde|24°35'49.80" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|17°2'12.51" |Scorpio|Qalb|Sun|
 |☉ Sun|Prograde|2°37'9.97" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|16°20'46.91" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|16°20'46.97" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|0°4'34.45" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Prograde|0°7'53.01" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|0°7'53.65" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
