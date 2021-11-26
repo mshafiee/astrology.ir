@@ -1,6 +1,6 @@
 ---
-date: 2021-11-24T00:00:00-04:00
-lastmod: 2021-11-24T00:00:00-04:00
+date: 2021-12-01T00:00:00-04:00
+lastmod: 2021-12-01T00:00:00-04:00
 title: Basse-Terre (Wednesday)
 slug: wednesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Wednesday, 24 Nov 2021
+description: 🗓 Wednesday, 01 Dec 2021
 
 toc: false
 ---

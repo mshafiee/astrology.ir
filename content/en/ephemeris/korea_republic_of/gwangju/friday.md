@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:19:33 |
 | Sunset | 17:21:38 |
 | Maghrib | 17:22:54 |
-| Isha | 18:51:53 |
+| Isha | 18:51:52 |
 | Sharia Midnight | 23:34:42 |
 | Imum Coeli | 00:19:43 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°35'17.57" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|24°44'33.33" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|17°52'57.82" |Libra|Jubana|Saturn|
+|♄ Saturn|Prograde|8°35'17.50" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|24°44'33.44" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|17°52'57.83" |Libra|Jubana|Saturn|
 |☉ Sun|Prograde|3°51'53.74" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|17°12'58.21" |Sagittarius|Baldah|Moon|
+|♀ Venus|Prograde|17°12'58.27" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Prograde|2°1'22.64" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|15°10'22.09" |Cancer|Tarf|Mercury|
+|☾ Moon|Prograde|15°10'22.45" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°35'17.57" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Prograde|24°44'33.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|17°52'57.82" |Scorpio|Qalb|Sun|
+|♄ Saturn|Prograde|8°35'17.50" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Prograde|24°44'33.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|17°52'57.83" |Scorpio|Qalb|Sun|
 |☉ Sun|Prograde|3°51'53.74" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Prograde|17°12'58.21" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|17°12'58.27" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|2°1'22.64" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Prograde|15°10'22.09" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|15°10'22.45" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
