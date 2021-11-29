@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 15:47:09 |
 | Maghrib | 16:23:26 |
 | Isha | 17:41:36 |
-| Sharia Midnight | 23:02:28 |
+| Sharia Midnight | 23:02:27 |
 | Imum Coeli | 00:13:36 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|9°8'59.74" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|25°41'32.09" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|22°57'7.67" |Libra|Jubana|Jupiter|
-|☉ Sun|Prograde|11°18'32.33" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|21°46'18.83" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|9°8'59.80" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|25°41'31.98" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|22°57'7.65" |Libra|Jubana|Jupiter|
+|☉ Sun|Prograde|11°18'32.32" |Scorpio|Qalb|Sun|
+|♀ Venus|Prograde|21°46'18.68" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Prograde|13°34'51.44" |Scorpio|Qalb|Sun|
-|☾ Moon|Prograde|27°2'56.44" |Libra|Akleel|Jupiter|
+|☾ Moon|Prograde|27°2'54.66" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|9°8'59.74" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Prograde|25°41'32.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|22°57'7.67" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|11°18'32.33" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Prograde|21°46'18.83" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|9°8'59.80" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Prograde|25°41'31.98" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|22°57'7.65" |Scorpio|Shaulah|Venus|
+|☉ Sun|Prograde|11°18'32.32" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|21°46'18.68" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Prograde|13°34'51.44" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Prograde|27°2'56.44" |Scorpio|Shaulah|Venus|
+|☾ Moon|Prograde|27°2'54.66" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

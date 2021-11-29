@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 16:28:18 |
 | Maghrib | 16:29:33 |
 | Isha | 17:44:22 |
-| Sharia Midnight | 22:52:02 |
+| Sharia Midnight | 22:52:03 |
 | Imum Coeli | 23:29:58 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°52'58.91" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|25°14'17.93" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|20°36'56.28" |Libra|Jubana|Jupiter|
+|♄ Saturn|Prograde|8°52'58.84" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|25°14'18.04" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|20°36'56.29" |Libra|Jubana|Jupiter|
 |☉ Sun|Prograde|7°52'55.09" |Scorpio|Akleel|Mars|
-|♀ Venus|Prograde|19°49'11.14" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Prograde|8°16'27.21" |Scorpio|Akleel|Mars|
-|☾ Moon|Prograde|7°39'43.10" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|19°49'11.22" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Prograde|8°16'27.20" |Scorpio|Akleel|Mars|
+|☾ Moon|Prograde|7°39'42.80" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|8°52'58.91" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Prograde|25°14'17.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|20°36'56.28" |Scorpio|Qalb|Venus|
+|♄ Saturn|Prograde|8°52'58.84" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Prograde|25°14'18.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|20°36'56.29" |Scorpio|Qalb|Venus|
 |☉ Sun|Prograde|7°52'55.09" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Prograde|19°49'11.14" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|8°16'27.21" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Prograde|7°39'43.10" |Libra|Ghafr|Moon|
+|♀ Venus|Prograde|19°49'11.22" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|8°16'27.20" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Prograde|7°39'42.80" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

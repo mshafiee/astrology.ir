@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|9°4'52.07" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|25°34'29.48" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|22°21'40.71" |Libra|Jubana|Jupiter|
-|☉ Sun|Prograde|10°26'36.35" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|21°18'18.69" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|12°14'29.69" |Scorpio|Qalb|Sun|
-|☾ Moon|Prograde|14°34'31.36" |Libra|Jubana|Saturn|
+|♄ Saturn|Prograde|9°4'52.13" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|25°34'29.37" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|22°21'40.69" |Libra|Jubana|Jupiter|
+|☉ Sun|Prograde|10°26'36.34" |Scorpio|Qalb|Sun|
+|♀ Venus|Prograde|21°18'18.57" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|12°14'29.70" |Scorpio|Qalb|Sun|
+|☾ Moon|Prograde|14°34'30.40" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|9°4'52.07" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Prograde|25°34'29.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|22°21'40.71" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|10°26'36.35" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Prograde|21°18'18.69" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|12°14'29.69" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Prograde|14°34'31.36" |Scorpio|Qalb|Sun|
+|♄ Saturn|Prograde|9°4'52.13" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Prograde|25°34'29.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|22°21'40.69" |Scorpio|Shaulah|Venus|
+|☉ Sun|Prograde|10°26'36.34" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|21°18'18.57" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|12°14'29.70" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Prograde|14°34'30.40" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
