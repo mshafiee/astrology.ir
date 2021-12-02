@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 16:56:46 |
 | Maghrib | 16:57:56 |
 | Isha | 18:09:59 |
-| Sharia Midnight | 23:15:24 |
+| Sharia Midnight | 23:15:23 |
 | Imum Coeli | 23:51:55 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|9°3'35.72" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|25°32'19.38" |Capricorn|SaadAlBula|Sun|
-|♂ Mars|Prograde|22°10'38.82" |Libra|Jubana|Jupiter|
+|♄ Saturn|Prograde|9°3'35.79" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|25°32'19.27" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|22°10'38.80" |Libra|Jubana|Jupiter|
 |☉ Sun|Prograde|10°10'25.42" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|21°9'19.68" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|11°49'28.35" |Scorpio|Qalb|Sun|
-|☾ Moon|Prograde|10°30'6.62" |Libra|Ghafr|Saturn|
+|♀ Venus|Prograde|21°9'19.56" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|11°49'28.36" |Scorpio|Qalb|Sun|
+|☾ Moon|Prograde|10°30'5.89" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|9°3'35.72" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Prograde|25°32'19.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|22°10'38.82" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Prograde|9°3'35.79" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Prograde|25°32'19.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|22°10'38.80" |Scorpio|Shaulah|Venus|
 |☉ Sun|Prograde|10°10'25.42" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Prograde|21°9'19.68" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|11°49'28.35" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Prograde|10°30'6.62" |Scorpio|Qalb|Sun|
+|♀ Venus|Prograde|21°9'19.56" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|11°49'28.36" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Prograde|10°30'5.89" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

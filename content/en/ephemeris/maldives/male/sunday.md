@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Prograde|9°17'41.41" |Capricorn|SaadAlDhabib|Jupiter|
 |♃ Jupiter|Prograde|25°56'25.05" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|24°10'27.79" |Libra|Jubana|Jupiter|
-|☉ Sun|Prograde|13°5'57.49" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|22°41'0.65" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|16°20'49.03" |Scorpio|Qalb|Sun|
-|☾ Moon|Prograde|23°58'20.67" |Scorpio|Shaulah|Venus|
+|♂ Mars|Prograde|24°10'29.56" |Libra|Jubana|Jupiter|
+|☉ Sun|Prograde|13°6'1.18" |Scorpio|Qalb|Sun|
+|♀ Venus|Prograde|22°41'2.46" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|16°20'51.34" |Scorpio|Qalb|Sun|
+|☾ Moon|Prograde|24°20'14.92" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Jupiter|Jupiter|
 |♀ Venus|Saturn|Saturn|Sun|Venus|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Jupiter|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
