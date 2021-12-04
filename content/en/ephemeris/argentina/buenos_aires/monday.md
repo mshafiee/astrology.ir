@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 12:44:40 |
 | Medium Coeli | 12:44:40 |
 | Sunset | 19:56:25 |
-| Maghrib | 20:18:18 |
+| Maghrib | 20:18:17 |
 | Isha | 21:15:41 |
 | Sharia Midnight | 23:52:47 |
 | Imum Coeli | 00:44:53 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|9°24'18.71" |Capricorn|SaadAlDhabib|Jupiter|
-|♃ Jupiter|Prograde|26°7'48.23" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|25°5'13.52" |Libra|Jubana|Jupiter|
-|☉ Sun|Prograde|14°26'5.18" |Scorpio|Qalb|Sun|
-|♀ Venus|Prograde|23°18'29.13" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|9°24'18.77" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Prograde|26°7'48.12" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|25°5'13.49" |Libra|Jubana|Jupiter|
+|☉ Sun|Prograde|14°26'5.15" |Scorpio|Qalb|Sun|
+|♀ Venus|Prograde|23°18'28.93" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Prograde|18°24'30.42" |Scorpio|Qalb|Sun|
-|☾ Moon|Prograde|13°50'10.65" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Prograde|13°50'8.22" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|9°24'18.71" |Aquarius|SaadAlAkhbia|Venus|
-|♃ Jupiter|Prograde|26°7'48.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|25°5'13.52" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|14°26'5.18" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Prograde|23°18'29.13" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|9°24'18.77" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Prograde|26°7'48.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|25°5'13.49" |Scorpio|Shaulah|Venus|
+|☉ Sun|Prograde|14°26'5.15" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|23°18'28.93" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Prograde|18°24'30.42" |Sagittarius|Baldah|Moon|
-|☾ Moon|Prograde|13°50'10.65" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|13°50'8.22" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
