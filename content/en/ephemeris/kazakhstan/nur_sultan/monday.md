@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 07:53:23|Night duration: 16:07:10|
+|Duration of the day: 07:53:23|Night duration: 16:07:09|
 |Every hour of day duration: 00:39:27|Every hour of night duration: 01:20:36|
 
  
@@ -230,14 +230,14 @@ Timetable of twelve day and night planetary hours
 |2|Mercury|Servant|18:29:02|19:49:37|The journey of the appearance and the interior|
 |3|Moon|Servant|19:49:38|21:10:13|Marriage is a good marriage|
 |4|Saturn|Servant|21:10:14|22:30:49|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Jupiter|Servant|22:30:50|23:51:25|Defecation, attracting love and wealth|
-|6|Mars|Servant|23:51:26|01:12:01|Summoning the desired person, love and conquest|
-|7|Sun|Servant|01:12:02|02:32:36|Aqdalsan|
+|5|Jupiter|Servant|22:30:50|23:51:24|Defecation, attracting love and wealth|
+|6|Mars|Servant|23:51:25|01:12:00|Summoning the desired person, love and conquest|
+|7|Sun|Servant|01:12:01|02:32:36|Aqdalsan|
 |8|Venus|Ruler|02:32:37|03:53:12|Correction of two people, attraction of love|
-|9|Mercury|Servant|03:53:13|05:13:48|Attracting and repelling the enemy and separating|
-|10|Moon|Servant|05:13:49|06:34:24|It is good for every action|
-|11|Saturn|Servant|06:34:25|07:55:00|Creating Enmity and Negative Energy|
-|12|Jupiter|Servant|07:55:01|09:15:36|Heart Compassion|
+|9|Mercury|Servant|03:53:13|05:13:47|Attracting and repelling the enemy and separating|
+|10|Moon|Servant|05:13:48|06:34:23|It is good for every action|
+|11|Saturn|Servant|06:34:24|07:54:59|Creating Enmity and Negative Energy|
+|12|Jupiter|Servant|07:55:00|09:15:35|Heart Compassion|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 07:53:23|Night duration: 16:07:10|
+|Duration of the day: 07:53:23|Night duration: 16:07:09|
 |Every hour duration: 01:07:38|Every hour duration: 02:18:10|
 
  
@@ -269,13 +269,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|17:08:27|19:26:36|
-|Late evening|Mercury|Servant|19:26:37|21:44:46|
-|Midnight|Moon|Servant|21:44:47|00:02:56|
-|Late at night|Saturn|Servant|00:02:57|02:21:06|
-|Rooster song|Jupiter|Servant|02:21:07|04:39:16|
-|False Dawn|Mars|Servant|04:39:17|06:57:26|
-|Dawn|Sun|Servant|06:57:27|09:15:36|
+|Evening|Venus|Ruler|17:08:27|19:26:35|
+|Late evening|Mercury|Servant|19:26:36|21:44:45|
+|Midnight|Moon|Servant|21:44:46|00:02:55|
+|Late at night|Saturn|Servant|00:02:56|02:21:05|
+|Rooster song|Jupiter|Servant|02:21:06|04:39:15|
+|False Dawn|Mars|Servant|04:39:16|06:57:25|
+|Dawn|Sun|Servant|06:57:26|09:15:35|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|10°40'22.76" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|28°20'46.28" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|4°42'44.12" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|28°26'35.68" |Scorpio|Shaulah|Venus|
-|♀ Venus|Retrograde|26°29'3.14" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|10°3'13.10" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Prograde|8°11'58.98" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Prograde|10°40'22.82" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|28°20'46.18" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|4°42'44.08" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|28°26'35.65" |Scorpio|Shaulah|Venus|
+|♀ Venus|Retrograde|26°29'2.79" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|10°3'13.06" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Prograde|8°11'59.55" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|10°40'22.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|28°20'46.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|4°42'44.12" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|28°26'35.68" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Retrograde|26°29'3.14" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|10°3'13.10" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Prograde|8°11'58.98" |Cancer|Nathrah|Venus|
+|♄ Saturn|Prograde|10°40'22.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|28°20'46.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|4°42'44.08" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|28°26'35.65" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Retrograde|26°29'2.79" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|10°3'13.06" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|8°11'59.55" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

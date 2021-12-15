@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|10°6'10.88" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|27°20'32.60" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|0°32'59.74" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|22°24'12.35" |Scorpio|Shaulah|Venus|
-|♀ Venus|Prograde|25°57'1.12" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|0°42'48.58" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Prograde|27°43'50.14" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|10°6'10.82" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|27°20'32.70" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|0°32'59.77" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|22°24'12.38" |Scorpio|Shaulah|Venus|
+|♀ Venus|Prograde|25°57'1.36" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|0°42'48.60" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Prograde|27°43'50.08" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|10°6'10.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|27°20'32.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|0°32'59.74" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Prograde|22°24'12.35" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Prograde|25°57'1.12" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|0°42'48.58" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|27°43'50.14" |Aries|Thurayya|Venus|
+|♄ Saturn|Prograde|10°6'10.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|27°20'32.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|0°32'59.77" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Prograde|22°24'12.38" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Prograde|25°57'1.36" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|0°42'48.60" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|27°43'50.08" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
