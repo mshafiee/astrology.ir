@@ -1,6 +1,6 @@
 ---
-date: 2021-12-16T00:00:00+01:00
-lastmod: 2021-12-16T00:00:00+01:00
+date: 2021-12-23T00:00:00+01:00
+lastmod: 2021-12-23T00:00:00+01:00
 title: Longyearbyen (Thursday)
 slug: thursday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Thursday, 16 Dec 2021
+description: 🗓 Thursday, 23 Dec 2021
 
 toc: false
 ---
@@ -34,7 +34,7 @@ Altitude: 1 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 08:12:58 |
+| Dawn | 08:18:56 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 07:32:51 |
+| Dawn | 07:38:34 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 07:26:10 |
+| Dawn | 07:31:52 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 08:39:10 |
+| Dawn | 08:45:22 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:54:03 |
+| Dawn | 06:59:38 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 07:26:10 |
+| Dawn | 07:31:52 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 07:15:15 |
+| Dawn | 07:20:54 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
-|♌ Leo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
+|♍ Virgo|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
 
 
 {{< /tab >}}
