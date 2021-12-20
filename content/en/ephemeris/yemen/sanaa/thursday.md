@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|10°58'26.67" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|28°52'49.92" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|6°49'47.83" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|1°30'22.33" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Retrograde|26°12'49.30" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|14°46'18.09" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Prograde|14°22'27.21" |Cancer|Tarf|Mercury|
+|♄ Saturn|Prograde|10°58'26.61" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|28°52'50.01" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|6°49'47.87" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|1°30'22.37" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Retrograde|26°12'49.68" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|14°46'18.10" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Prograde|14°22'26.69" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|10°58'26.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|28°52'49.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|6°49'47.83" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|1°30'22.33" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|26°12'49.30" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|14°46'18.09" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|14°22'27.21" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Prograde|10°58'26.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|28°52'50.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|6°49'47.87" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|1°30'22.37" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|26°12'49.68" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|14°46'18.10" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|14°22'26.69" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

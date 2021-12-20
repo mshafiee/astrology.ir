@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:54:34 |
 | Sunset | 18:48:08 |
 | Maghrib | 18:53:25 |
-| Isha | 20:15:10 |
+| Isha | 20:15:11 |
 | Sharia Midnight | 23:08:26 |
 | Imum Coeli | 23:54:49 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|10°58'20.17" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|28°52'38.44" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|6°49'3.03" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|1°29'17.34" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Retrograde|26°12'56.78" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|14°44'38.92" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Prograde|14°12'43.94" |Cancer|Tarf|Mercury|
+|♄ Saturn|Prograde|10°58'20.11" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|28°52'38.53" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|6°49'3.08" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|1°29'17.38" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Retrograde|26°12'57.15" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|14°44'38.94" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Prograde|14°12'43.42" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|10°58'20.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|28°52'38.44" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|6°49'3.03" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|1°29'17.34" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|26°12'56.78" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|14°44'38.92" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|14°12'43.94" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Prograde|10°58'20.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|28°52'38.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|6°49'3.08" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|1°29'17.38" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|26°12'57.15" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|14°44'38.94" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|14°12'43.42" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

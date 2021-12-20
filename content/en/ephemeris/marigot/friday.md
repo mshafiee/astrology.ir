@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:12:03 |
 | Sunset | 17:43:47 |
 | Maghrib | 17:44:48 |
-| Isha | 19:02:35 |
+| Isha | 19:02:36 |
 | Sharia Midnight | 23:32:53 |
 | Imum Coeli | 00:12:18 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|11°6'24.15" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|29°7'0.59" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|7°44'52.85" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|2°49'53.75" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Retrograde|25°58'42.50" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|11°6'24.09" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|29°7'0.68" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|7°44'52.89" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|2°49'53.78" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Retrograde|25°58'42.87" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Prograde|16°48'6.85" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Prograde|0°44'1.98" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|0°44'1.62" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|11°6'24.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|29°7'0.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|7°44'52.85" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|2°49'53.75" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|25°58'42.50" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Prograde|11°6'24.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|29°7'0.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|7°44'52.89" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|2°49'53.78" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|25°58'42.87" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Prograde|16°48'6.85" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|0°44'1.98" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|0°44'1.62" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
