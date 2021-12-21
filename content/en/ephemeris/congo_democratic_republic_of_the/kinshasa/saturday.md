@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:58:51 |
 | Sunset | 18:10:14 |
 | Maghrib | 18:12:47 |
-| Isha | 19:22:41 |
+| Isha | 19:22:40 |
 | Sharia Midnight | 23:20:39 |
 | Imum Coeli | 23:59:06 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|11°11'3.32" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|29°15'19.08" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|8°16'52.04" |Scorpio|Akleel|Mars|
-|☉ Sun|Prograde|3°36'2.51" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Retrograde|25°48'38.04" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|11°11'3.38" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|29°15'18.99" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|8°16'52.00" |Scorpio|Akleel|Mars|
+|☉ Sun|Prograde|3°36'2.49" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Retrograde|25°48'37.68" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Prograde|17°58'28.97" |Sagittarius|Baldah|Moon|
-|☾ Moon|Prograde|10°23'18.93" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|10°23'19.06" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|11°11'3.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|29°15'19.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|8°16'52.04" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|3°36'2.51" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|25°48'38.04" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Prograde|11°11'3.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|29°15'18.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|8°16'52.00" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|3°36'2.49" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|25°48'37.68" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Prograde|17°58'28.97" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|10°23'18.93" |Virgo|Awwa|Venus|
+|☾ Moon|Prograde|10°23'19.06" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
