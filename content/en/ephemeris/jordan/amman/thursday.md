@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|10°58'43.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|10°58'43.71" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Prograde|28°53'20.24" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|6°51'46.11" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Prograde|1°33'12.61" |Capricorn|SaadAlDhabib|Jupiter|
