@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:45:03 |
 | Sunset | 15:16:57 |
 | Maghrib | 15:19:32 |
-| Isha | 17:32:02 |
+| Isha | 17:32:03 |
 | Sharia Midnight | 22:33:58 |
 | Imum Coeli | 23:45:18 |
 {{< /tab >}}
@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|11°29'55.71" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|29°49'6.44" |Capricorn|SaadAlSaud|Sun|
-|♂ Mars|Prograde|10°24'55.13" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|6°40'26.93" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Retrograde|24°54'12.17" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|22°36'19.46" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|11°29'55.64" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|29°49'6.52" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Prograde|10°24'55.16" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|6°40'26.94" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Retrograde|24°54'12.50" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|22°36'19.44" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Prograde|20°48'21.86" |Virgo|Simak|Mercury|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|11°29'55.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|29°49'6.44" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|10°24'55.13" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Prograde|6°40'26.93" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|24°54'12.17" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|22°36'19.46" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|11°29'55.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|29°49'6.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|10°24'55.16" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|6°40'26.94" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|24°54'12.50" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|22°36'19.44" |Capricorn|SaadAlBula|Sun|
 |☾ Moon|Prograde|20°48'21.86" |Libra|Jubana|Jupiter|
 
 
