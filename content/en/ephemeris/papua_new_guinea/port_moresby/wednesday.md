@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°19'20.35" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|1°18'21.82" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|15°49'41.50" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|14°26'16.14" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Retrograde|21°15'11.42" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|3°19'20.31" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|13°55'1.40" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|12°19'20.28" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|1°18'21.88" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|15°49'41.53" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|14°26'16.15" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Retrograde|21°15'11.74" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|3°19'20.30" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|13°55'3.04" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°19'20.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|1°18'21.82" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|15°49'41.50" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Prograde|14°26'16.14" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Retrograde|21°15'11.42" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|3°19'20.31" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|13°55'1.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|12°19'20.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|1°18'21.88" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|15°49'41.53" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|14°26'16.15" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Retrograde|21°15'11.74" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|3°19'20.30" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|13°55'3.04" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
