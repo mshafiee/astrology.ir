@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°28'19.46" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|1°34'43.46" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|16°47'26.62" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|15°48'45.38" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Retrograde|20°27'31.13" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|4°55'44.91" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|2°49'21.79" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|12°28'19.53" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|1°34'43.40" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|16°47'26.58" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|15°48'45.37" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Retrograde|20°27'30.82" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|4°55'44.92" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|2°49'20.77" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°28'19.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|1°34'43.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|16°47'26.62" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Prograde|15°48'45.38" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Retrograde|20°27'31.13" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|4°55'44.91" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|2°49'21.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Prograde|12°28'19.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|1°34'43.40" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|16°47'26.58" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|15°48'45.37" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Retrograde|20°27'30.82" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|4°55'44.92" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|2°49'20.77" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

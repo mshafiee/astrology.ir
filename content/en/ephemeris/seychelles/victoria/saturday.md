@@ -1,6 +1,6 @@
 ---
-date: 2022-01-01T00:00:00+04:00
-lastmod: 2022-01-01T00:00:00+04:00
+date: 2022-01-08T00:00:00+04:00
+lastmod: 2022-01-08T00:00:00+04:00
 title: Victoria (Saturday)
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Saturday, 01 Jan 2022
+description: 🗓 Saturday, 08 Jan 2022
 
 toc: false
 ---
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'37.72" |Taurus|Dabaran|Moon|
-|♃ Jupiter|Prograde|9°16'1.30" |Virgo|Awwa|Sun|
-|♂ Mars|Prograde|12°2'36.31" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|11°25'18.03" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Prograde|27°22'59.79" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|17°58'36.20" |Sagittarius|Baldah|Moon|
-|☾ Moon|Prograde|12°9'58.76" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|11°10'37.78" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Prograde|9°15'57.50" |Virgo|Awwa|Sun|
+|♂ Mars|Prograde|12°2'34.74" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|11°25'13.01" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|27°22'54.43" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|17°58'27.69" |Sagittarius|Baldah|Moon|
+|☾ Moon|Prograde|12°9'48.25" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'37.72" |Gemini|HanAh|Mars|
-|♃ Jupiter|Prograde|9°16'1.30" |Libra|Ghafr|Moon|
-|♂ Mars|Prograde|12°2'36.31" |Aries|Sharatain|Sun|
-|☉ Sun|Prograde|11°25'18.03" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Prograde|27°22'59.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Prograde|17°58'36.20" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|12°9'58.76" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|11°10'37.78" |Gemini|HanAh|Mars|
+|♃ Jupiter|Prograde|9°15'57.50" |Libra|Ghafr|Moon|
+|♂ Mars|Prograde|12°2'34.74" |Aries|Sharatain|Sun|
+|☉ Sun|Prograde|11°25'13.01" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Prograde|27°22'54.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Prograde|17°58'27.69" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|12°9'48.25" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
