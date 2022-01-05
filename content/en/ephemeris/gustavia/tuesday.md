@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°16'47.38" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|1°13'43.92" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|15°33'14.81" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|14°2'44.97" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Retrograde|21°28'21.70" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|2°50'29.23" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|8°14'25.69" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|12°16'47.44" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|1°13'43.85" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|15°33'14.77" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|14°2'44.96" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Retrograde|21°28'21.38" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|2°50'29.24" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|8°14'23.92" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°16'47.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|1°13'43.92" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|15°33'14.81" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Prograde|14°2'44.97" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Retrograde|21°28'21.70" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|2°50'29.23" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|8°14'25.69" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|12°16'47.44" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|1°13'43.85" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|15°33'14.77" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|14°2'44.96" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Retrograde|21°28'21.38" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|2°50'29.24" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|8°14'23.92" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
