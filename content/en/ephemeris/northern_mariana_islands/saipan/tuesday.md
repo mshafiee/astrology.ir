@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°59'59.93" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|2°32'42.49" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|20°8'33.87" |Scorpio|Qalb|Venus|
-|☉ Sun|Prograde|20°35'17.85" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Retrograde|17°36'31.46" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Prograde|9°10'15.33" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|2°50'0.82" |Aries|Sharatain|Mars|
+|♄ Saturn|Prograde|13°0'0.00" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|2°32'42.44" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|20°8'33.85" |Scorpio|Qalb|Venus|
+|☉ Sun|Prograde|20°35'17.87" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Retrograde|17°36'31.26" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Prograde|9°10'15.36" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|2°50'1.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,18 +330,18 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°59'59.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|2°32'42.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|20°8'33.87" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|20°35'17.85" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Retrograde|17°36'31.46" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|9°10'15.33" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Prograde|2°50'0.82" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|13°0'0.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|2°32'42.44" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|20°8'33.85" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|20°35'17.87" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Retrograde|17°36'31.26" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|9°10'15.36" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Prograde|2°50'1.94" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
-|♄ Saturn|Venus|Venus|Mercury|Moon|
+|♄ Saturn|Jupiter|Venus|Mercury|Moon|
 |♃ Jupiter|Venus|Venus|Jupiter|Venus|
 |♂ Mars|Mercury|Saturn|Sun|Venus|
 |☉ Sun|Venus|Saturn|Mercury|Jupiter|
