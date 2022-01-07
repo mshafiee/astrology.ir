@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°35'11.82" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|1°47'15.89" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|17°31'23.79" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|16°51'27.34" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Retrograde|19°50'16.02" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Prograde|6°3'16.25" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|16°36'33.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|12°35'11.89" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|1°47'15.84" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|17°31'23.76" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|16°51'27.35" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Retrograde|19°50'15.73" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Prograde|6°3'16.26" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|16°36'33.44" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°35'11.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|1°47'15.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|17°31'23.79" |Sagittarius|Baldah|Moon|
-|☉ Sun|Prograde|16°51'27.34" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Retrograde|19°50'16.02" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|6°3'16.25" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|16°36'33.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Prograde|12°35'11.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|1°47'15.84" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|17°31'23.76" |Sagittarius|Baldah|Moon|
+|☉ Sun|Prograde|16°51'27.35" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Retrograde|19°50'15.73" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|6°3'16.26" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|16°36'33.44" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
