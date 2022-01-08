@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|13°15'37.50" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|3°1'29.43" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|21°46'33.18" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|22°54'24.71" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Retrograde|16°15'26.62" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|10°10'12.93" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Prograde|29°43'39.04" |Aries|Thurayya|Venus|
+|♄ Saturn|Prograde|13°15'37.43" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|3°1'29.47" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|21°46'33.19" |Scorpio|Shaulah|Venus|
+|☉ Sun|Prograde|22°54'24.68" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Retrograde|16°15'26.79" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|10°10'12.90" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|29°43'38.38" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|13°15'37.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|3°1'29.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|21°46'33.18" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|22°54'24.71" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Retrograde|16°15'26.62" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|10°10'12.93" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|29°43'39.04" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Prograde|13°15'37.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|3°1'29.47" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|21°46'33.19" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|22°54'24.68" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Retrograde|16°15'26.79" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|10°10'12.90" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|29°43'38.38" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

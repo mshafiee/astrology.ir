@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°48'29.43" |Capricorn|SaadAlDhabib|Mars|
-|♃ Jupiter|Prograde|2°11'34.90" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|18°55'53.75" |Scorpio|Qalb|Sun|
-|☉ Sun|Prograde|18°51'54.14" |Sagittarius|Baldah|Moon|
-|♀ Venus|Retrograde|18°38'17.22" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Prograde|7°55'46.72" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|12°12'59.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Prograde|12°48'29.37" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Prograde|2°11'34.95" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|18°55'53.78" |Scorpio|Qalb|Sun|
+|☉ Sun|Prograde|18°51'54.13" |Sagittarius|Baldah|Moon|
+|♀ Venus|Retrograde|18°38'17.46" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Prograde|7°55'46.69" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|12°12'58.48" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°48'29.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|2°11'34.90" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|18°55'53.75" |Sagittarius|Baldah|Moon|
-|☉ Sun|Prograde|18°51'54.14" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Retrograde|18°38'17.22" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|7°55'46.72" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|12°12'59.42" |Aries|Sharatain|Sun|
+|♄ Saturn|Prograde|12°48'29.37" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|2°11'34.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|18°55'53.78" |Sagittarius|Baldah|Moon|
+|☉ Sun|Prograde|18°51'54.13" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Retrograde|18°38'17.46" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|7°55'46.69" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|12°12'58.48" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

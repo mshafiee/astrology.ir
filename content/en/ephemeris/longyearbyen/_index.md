@@ -1,6 +1,6 @@
 ---
-date: 2022-01-08T00:00:00+01:00
-lastmod: 2022-01-08T00:00:00+01:00
+date: 2022-01-09T00:00:00+01:00
+lastmod: 2022-01-09T00:00:00+01:00
 title: Longyearbyen
 slug: longyearbyen
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Saturday, 08 Jan 2022
+description: 🗓 Sunday, 09 Jan 2022
 
 toc: false
 ---
@@ -34,7 +34,7 @@ Altitude: 1 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 07:58:09 |
+| Dawn | 07:55:27 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 07:20:34 |
+| Dawn | 07:18:07 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 07:14:13 |
+| Dawn | 07:11:48 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 08:22:01 |
+| Dawn | 08:19:05 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:43:21 |
+| Dawn | 06:41:02 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 07:14:13 |
+| Dawn | 07:11:48 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 07:03:47 |
+| Dawn | 07:01:24 |
 | Sunrise | 00:00:00 |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -203,41 +203,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Saturn|The ruler of the night: Mercury|
+|The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|00:00:00|23:59:59|Works related to amulet, amulet and compliance|
-|2|Jupiter|Servant|00:00:00|23:59:59|Peace among the people|
-|3|Mars|Servant|00:00:00|23:59:59|Malicious deeds and evil deeds|
-|4|Sun|Servant|00:00:00|23:59:59|Conquest, Judgment and Judgment|
-|5|Venus|Servant|00:00:00|23:59:59|It's auspicious|
-|6|Mercury|Servant|00:00:00|23:59:59|Writing, Swapping and Marriage|
-|7|Moon|Servant|00:00:00|23:59:59|For nothing|
-|8|Saturn|Ruler|00:00:00|23:59:59|Destruction of the enemy|
-|9|Jupiter|Servant|00:00:00|23:59:59|All good deeds|
-|10|Mars|Servant|00:00:00|23:59:59|Doing evil deeds|
-|11|Sun|Servant|00:00:00|23:59:59|Acceptance of correction between couples|
-|12|Venus|Servant|00:00:00|23:59:59|To be honored|
+|1|Sun|Ruler|00:00:00|23:59:59|Love and attracting capital|
+|2|Venus|Servant|00:00:00|23:59:59|It's ugly, nothing to do|
+|3|Mercury|Servant|00:00:00|23:59:59|Operation of Compassion and Attraction of Love|
+|4|Moon|Servant|00:00:00|23:59:59|Evil and repel good|
+|5|Saturn|Servant|00:00:00|23:59:59|Separation and grudges and hostilities|
+|6|Jupiter|Servant|00:00:00|23:59:59|It's good for all good deeds|
+|7|Mars|Servant|00:00:00|23:59:59|Do not do anything, it causes misery|
+|8|Sun|Ruler|00:00:00|23:59:59|It is very auspicious and attracts happiness|
+|9|Venus|Servant|00:00:00|23:59:59|Summoning the desired person, attracting hearts, compassion of hearts|
+|10|Mercury|Servant|00:00:00|23:59:59|Attracting happiness, solving financial problems|
+|11|Moon|Servant|00:00:00|23:59:59|Doing marriage|
+|12|Saturn|Servant|00:00:00|23:59:59|Discover the Fugitive and Find the Thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|00:00:00|23:59:59|Works related to amulet, amulet and compliance|
-|2|Moon|Servant|00:00:00|23:59:59|Peace among the people|
-|3|Saturn|Servant|00:00:00|23:59:59|Malicious deeds and evil deeds|
-|4|Jupiter|Servant|00:00:00|23:59:59|Conquest, Judgment and Judgment|
-|5|Mars|Servant|00:00:00|23:59:59|It's auspicious|
-|6|Sun|Servant|00:00:00|23:59:59|Writing, Swapping and Marriage|
-|7|Venus|Servant|00:00:00|23:59:59|For nothing|
-|8|Mercury|Ruler|00:00:00|23:59:59|Destruction of the enemy|
-|9|Moon|Servant|00:00:00|23:59:59|All good deeds|
-|10|Saturn|Servant|00:00:00|23:59:59|Doing evil deeds|
-|11|Jupiter|Servant|00:00:00|23:59:59|Acceptance of correction between couples|
-|12|Mars|Servant|00:00:00|23:59:59|To be honored|
+|1|Jupiter|Ruler|00:00:00|23:59:59|Love and attracting capital|
+|2|Mars|Servant|00:00:00|23:59:59|It's ugly, nothing to do|
+|3|Sun|Servant|00:00:00|23:59:59|Operation of Compassion and Attraction of Love|
+|4|Venus|Servant|00:00:00|23:59:59|Evil and repel good|
+|5|Mercury|Servant|00:00:00|23:59:59|Separation and grudges and hostilities|
+|6|Moon|Servant|00:00:00|23:59:59|It's good for all good deeds|
+|7|Saturn|Servant|00:00:00|23:59:59|Do not do anything, it causes misery|
+|8|Jupiter|Ruler|00:00:00|23:59:59|It is very auspicious and attracts happiness|
+|9|Mars|Servant|00:00:00|23:59:59|Summoning the desired person, attracting hearts, compassion of hearts|
+|10|Sun|Servant|00:00:00|23:59:59|Attracting happiness, solving financial problems|
+|11|Venus|Servant|00:00:00|23:59:59|Doing marriage|
+|12|Mercury|Servant|00:00:00|23:59:59|Discover the Fugitive and Find the Thief|
 
  
  
@@ -249,7 +249,7 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Saturn|The ruler of the night: Mercury|
+|The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour duration: 00:00:00|Every hour duration: 00:00:00|
 
@@ -258,24 +258,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|00:00:00|23:59:59|
-|Mid-morning|Jupiter|Servant|00:00:00|23:59:59|
-|Late morning|Mars|Servant|00:00:00|23:59:59|
-|Noon|Sun|Servant|00:00:00|23:59:59|
-|Early afternoon|Venus|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Mercury|Servant|00:00:00|23:59:59|
-|Late afternoon|Moon|Servant|00:00:00|23:59:59|
+|Early morning|Sun|Ruler|00:00:00|23:59:59|
+|Mid-morning|Venus|Servant|00:00:00|23:59:59|
+|Late morning|Mercury|Servant|00:00:00|23:59:59|
+|Noon|Moon|Servant|00:00:00|23:59:59|
+|Early afternoon|Saturn|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Jupiter|Servant|00:00:00|23:59:59|
+|Late afternoon|Mars|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|00:00:00|23:59:59|
-|Late evening|Moon|Servant|00:00:00|23:59:59|
-|Midnight|Saturn|Servant|00:00:00|23:59:59|
-|Late at night|Jupiter|Servant|00:00:00|23:59:59|
-|Rooster song|Mars|Servant|00:00:00|23:59:59|
-|False Dawn|Sun|Servant|00:00:00|23:59:59|
-|Dawn|Venus|Servant|00:00:00|23:59:59|
+|Evening|Jupiter|Ruler|00:00:00|23:59:59|
+|Late evening|Mars|Servant|00:00:00|23:59:59|
+|Midnight|Sun|Servant|00:00:00|23:59:59|
+|Late at night|Venus|Servant|00:00:00|23:59:59|
+|Rooster song|Mercury|Servant|00:00:00|23:59:59|
+|False Dawn|Moon|Servant|00:00:00|23:59:59|
+|Dawn|Saturn|Servant|00:00:00|23:59:59|
 
 {{< /tab >}}
 
