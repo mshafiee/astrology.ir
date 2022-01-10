@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|13°24'46.29" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|3°18'23.69" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|22°43'35.95" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|24°15'16.51" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Retrograde|15°30'47.24" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|10°20'24.39" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Prograde|15°2'29.53" |Taurus|Dabaran|Moon|
+|♄ Saturn|Prograde|13°24'46.22" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|3°18'23.73" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|22°43'35.96" |Scorpio|Shaulah|Venus|
+|☉ Sun|Prograde|24°15'16.49" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Retrograde|15°30'47.39" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|10°20'24.36" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|15°2'29.13" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|13°24'46.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|3°18'23.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|22°43'35.95" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|24°15'16.51" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Retrograde|15°30'47.24" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|10°20'24.39" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|15°2'29.53" |Gemini|HanAh|Mars|
+|♄ Saturn|Prograde|13°24'46.22" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|3°18'23.73" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|22°43'35.96" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|24°15'16.49" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Retrograde|15°30'47.39" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|10°20'24.36" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|15°2'29.13" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

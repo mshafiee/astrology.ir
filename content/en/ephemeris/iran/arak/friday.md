@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 17:23:17 |
 | Maghrib | 17:28:50 |
 | Isha | 18:58:50 |
-| Sharia Midnight | 23:34:04 |
+| Sharia Midnight | 23:34:03 |
 | Imum Coeli | 00:20:22 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|13°22'38.85" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|3°14'27.96" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|13°22'38.79" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|3°14'28.00" |Aquarius|SaadAlSaud|Venus|
 |♂ Mars|Prograde|22°30'22.29" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|23°56'31.26" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Retrograde|15°40'50.12" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|10°19'44.91" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Prograde|11°37'39.29" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|23°56'31.24" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Retrograde|15°40'50.27" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|10°19'44.88" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|11°37'38.79" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|13°22'38.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|3°14'27.96" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Prograde|13°22'38.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|3°14'28.00" |Pisces|FarghAlMuqaddam|Saturn|
 |♂ Mars|Prograde|22°30'22.29" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|23°56'31.26" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Retrograde|15°40'50.12" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|10°19'44.91" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|11°37'39.29" |Gemini|HanAh|Mars|
+|☉ Sun|Prograde|23°56'31.24" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Retrograde|15°40'50.27" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|10°19'44.88" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|11°37'38.79" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
