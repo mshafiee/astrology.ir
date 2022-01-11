@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°59'10.82" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|2°31'12.24" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|20°3'24.77" |Scorpio|Qalb|Venus|
-|☉ Sun|Prograde|20°27'58.86" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Retrograde|17°40'56.00" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Prograde|9°5'45.71" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|1°22'57.54" |Aries|Sharatain|Mars|
+|♄ Saturn|Prograde|12°59'10.88" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|2°31'12.19" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|20°3'24.75" |Scorpio|Qalb|Venus|
+|☉ Sun|Prograde|20°27'58.88" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Retrograde|17°40'55.80" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Prograde|9°5'45.74" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|1°22'58.68" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|12°59'10.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|2°31'12.24" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|20°3'24.77" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|20°27'58.86" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Retrograde|17°40'56.00" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|9°5'45.71" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Prograde|1°22'57.54" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|12°59'10.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|2°31'12.19" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|20°3'24.75" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|20°27'58.88" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Retrograde|17°40'55.80" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|9°5'45.74" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Prograde|1°22'58.68" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
