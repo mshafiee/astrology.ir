@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|13°33'28.15" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|3°34'30.74" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|23°37'39.87" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|25°31'48.18" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Retrograde|14°50'33.52" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|10°11'39.39" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Prograde|29°42'19.44" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Prograde|13°33'28.22" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|3°34'30.70" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|23°37'39.86" |Scorpio|Shaulah|Venus|
+|☉ Sun|Prograde|25°31'48.21" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Retrograde|14°50'33.39" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|10°11'39.42" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|29°42'19.20" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|13°33'28.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|3°34'30.74" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|23°37'39.87" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|25°31'48.18" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Retrograde|14°50'33.52" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|10°11'39.39" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|29°42'19.44" |Gemini|Dhira|Sun|
+|♄ Saturn|Prograde|13°33'28.22" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|3°34'30.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|23°37'39.86" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|25°31'48.21" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Retrograde|14°50'33.39" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|10°11'39.42" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|29°42'19.20" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
