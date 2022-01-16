@@ -1,6 +1,6 @@
 ---
-date: 2022-01-15T00:00:00+04:00
-lastmod: 2022-01-15T00:00:00+04:00
+date: 2022-01-22T00:00:00+04:00
+lastmod: 2022-01-22T00:00:00+04:00
 title: Victoria (Saturday)
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Saturday, 15 Jan 2022
+description: 🗓 Saturday, 22 Jan 2022
 
 toc: false
 ---
