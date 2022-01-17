@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°12'28.40" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|4°47'15.80" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|27°38'15.17" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|1°11'7.37" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|12°26'6.11" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|6°3'19.48" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|8°26'31.57" |Leo|Jabhah|Saturn|
+|♄ Saturn|Prograde|14°12'28.32" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|4°47'15.83" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|27°38'15.16" |Scorpio|Shaulah|Venus|
+|☉ Sun|Prograde|1°11'7.33" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|12°26'6.15" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|6°3'19.46" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|8°26'30.65" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

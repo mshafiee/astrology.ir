@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|13°40'26.67" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|3°47'27.80" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|24°20'53.61" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|26°32'55.22" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Retrograde|14°20'10.32" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|9°51'25.52" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|11°34'44.80" |Gemini|HanAh|Mars|
+|♄ Saturn|Prograde|13°40'26.74" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|3°47'27.77" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|24°20'53.60" |Scorpio|Shaulah|Venus|
+|☉ Sun|Prograde|26°32'55.24" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Retrograde|14°20'10.20" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|9°51'25.54" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|11°34'44.05" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|13°40'26.67" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|3°47'27.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|24°20'53.61" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|26°32'55.22" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Retrograde|14°20'10.32" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|9°51'25.52" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Prograde|11°34'44.80" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Prograde|13°40'26.74" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|3°47'27.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|24°20'53.60" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|26°32'55.24" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Retrograde|14°20'10.20" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|9°51'25.54" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Prograde|11°34'44.05" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
