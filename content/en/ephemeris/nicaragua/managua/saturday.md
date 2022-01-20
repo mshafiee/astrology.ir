@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°21'12.28" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|5°3'40.03" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|28°31'48.22" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|2°26'25.84" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|12°3'29.39" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|4°33'57.50" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|24°6'52.92" |Leo|Sarfrah|Mars|
+|♄ Saturn|Prograde|14°21'12.36" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|5°3'40.00" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|28°31'48.23" |Scorpio|Shaulah|Venus|
+|☉ Sun|Prograde|2°26'25.89" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|12°3'29.37" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|4°33'57.52" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|24°6'54.02" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°21'12.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|5°3'40.03" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|28°31'48.22" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|2°26'25.84" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Retrograde|12°3'29.39" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|4°33'57.50" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|24°6'52.92" |Virgo|Simak|Mercury|
+|♄ Saturn|Prograde|14°21'12.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|5°3'40.00" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|28°31'48.23" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|2°26'25.89" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|12°3'29.37" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|4°33'57.52" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|24°6'54.02" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

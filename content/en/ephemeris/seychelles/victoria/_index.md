@@ -1,6 +1,6 @@
 ---
-date: 2022-01-20T00:00:00+04:00
-lastmod: 2022-01-20T00:00:00+04:00
+date: 2022-01-21T00:00:00+04:00
+lastmod: 2022-01-21T00:00:00+04:00
 title: Victoria
 slug: victoria
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Thursday, 20 Jan 2022
+description: 🗓 Friday, 21 Jan 2022
 
 toc: false
 ---
@@ -203,41 +203,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Jupiter|The ruler of the night: Moon|
+|The ruler of the day: Venus|The ruler of the night: Mars|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|00:00:00|23:59:59|Attracting material things, earning sustenance and ample living|
-|2|Mars|Servant|00:00:00|23:59:59|Destruction of the enemy|
-|3|Sun|Servant|00:00:00|23:59:59|Attracting financial and heartfelt love|
-|4|Venus|Servant|00:00:00|23:59:59|Creating love, bond and marriage|
-|5|Mercury|Servant|00:00:00|23:59:59|The obstruction of lust|
-|6|Moon|Servant|00:00:00|23:59:59|The journey of the appearance and the interior|
-|7|Saturn|Servant|00:00:00|23:59:59|Acquiring status and attracting capability|
-|8|Jupiter|Ruler|00:00:00|23:59:59|Attracting happiness and bliss|
-|9|Mars|Servant|00:00:00|23:59:59|Achieving status and creating rank growth|
-|10|Sun|Servant|00:00:00|23:59:59|Catching needs|
-|11|Venus|Servant|00:00:00|23:59:59|Attracting love and affection and attracting hearts|
-|12|Mercury|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
+|1|Venus|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
+|2|Mercury|Servant|00:00:00|23:59:59|Attracting good faith|
+|3|Moon|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
+|4|Saturn|Servant|00:00:00|23:59:59|Bad Hour|
+|5|Jupiter|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
+|6|Mars|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
+|7|Sun|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
+|8|Venus|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
+|9|Mercury|Servant|00:00:00|23:59:59|Separation and Displacement|
+|10|Moon|Servant|00:00:00|23:59:59|Extremely ugly|
+|11|Saturn|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
+|12|Jupiter|Servant|00:00:00|23:59:59|It is good and good to ask for help|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|00:00:00|23:59:59|Attracting material things, earning sustenance and ample living|
-|2|Saturn|Servant|00:00:00|23:59:59|Destruction of the enemy|
-|3|Jupiter|Servant|00:00:00|23:59:59|Attracting financial and heartfelt love|
-|4|Mars|Servant|00:00:00|23:59:59|Creating love, bond and marriage|
-|5|Sun|Servant|00:00:00|23:59:59|The obstruction of lust|
-|6|Venus|Servant|00:00:00|23:59:59|The journey of the appearance and the interior|
-|7|Mercury|Servant|00:00:00|23:59:59|Acquiring status and attracting capability|
-|8|Moon|Ruler|00:00:00|23:59:59|Attracting happiness and bliss|
-|9|Saturn|Servant|00:00:00|23:59:59|Achieving status and creating rank growth|
-|10|Jupiter|Servant|00:00:00|23:59:59|Catching needs|
-|11|Mars|Servant|00:00:00|23:59:59|Attracting love and affection and attracting hearts|
-|12|Sun|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
+|1|Mars|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
+|2|Sun|Servant|00:00:00|23:59:59|Attracting good faith|
+|3|Venus|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
+|4|Mercury|Servant|00:00:00|23:59:59|Bad Hour|
+|5|Moon|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
+|6|Saturn|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
+|7|Jupiter|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
+|8|Mars|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
+|9|Sun|Servant|00:00:00|23:59:59|Separation and Displacement|
+|10|Venus|Servant|00:00:00|23:59:59|Extremely ugly|
+|11|Mercury|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
+|12|Moon|Servant|00:00:00|23:59:59|It is good and good to ask for help|
 
  
  
@@ -249,7 +249,7 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Jupiter|The ruler of the night: Moon|
+|The ruler of the day: Venus|The ruler of the night: Mars|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour duration: 00:00:00|Every hour duration: 00:00:00|
 
@@ -258,24 +258,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|00:00:00|23:59:59|
-|Mid-morning|Mars|Servant|00:00:00|23:59:59|
-|Late morning|Sun|Servant|00:00:00|23:59:59|
-|Noon|Venus|Servant|00:00:00|23:59:59|
-|Early afternoon|Mercury|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Moon|Servant|00:00:00|23:59:59|
-|Late afternoon|Saturn|Servant|00:00:00|23:59:59|
+|Early morning|Venus|Ruler|00:00:00|23:59:59|
+|Mid-morning|Mercury|Servant|00:00:00|23:59:59|
+|Late morning|Moon|Servant|00:00:00|23:59:59|
+|Noon|Saturn|Servant|00:00:00|23:59:59|
+|Early afternoon|Jupiter|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Mars|Servant|00:00:00|23:59:59|
+|Late afternoon|Sun|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Moon|Ruler|00:00:00|23:59:59|
-|Late evening|Saturn|Servant|00:00:00|23:59:59|
-|Midnight|Jupiter|Servant|00:00:00|23:59:59|
-|Late at night|Mars|Servant|00:00:00|23:59:59|
-|Rooster song|Sun|Servant|00:00:00|23:59:59|
-|False Dawn|Venus|Servant|00:00:00|23:59:59|
-|Dawn|Mercury|Servant|00:00:00|23:59:59|
+|Evening|Mars|Ruler|00:00:00|23:59:59|
+|Late evening|Sun|Servant|00:00:00|23:59:59|
+|Midnight|Venus|Servant|00:00:00|23:59:59|
+|Late at night|Mercury|Servant|00:00:00|23:59:59|
+|Rooster song|Moon|Servant|00:00:00|23:59:59|
+|False Dawn|Saturn|Servant|00:00:00|23:59:59|
+|Dawn|Jupiter|Servant|00:00:00|23:59:59|
 
 {{< /tab >}}
 
