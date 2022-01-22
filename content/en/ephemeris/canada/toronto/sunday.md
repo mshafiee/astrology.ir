@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Prograde|14°28'27.53" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Prograde|5°17'19.52" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|29°16'11.60" |Scorpio|Shaulah|Venus|
-|☉ Sun|Prograde|3°28'46.69" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|11°47'1.02" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|3°15'55.61" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|7°5'36.58" |Virgo|Awwa|Sun|
+|♂ Mars|Prograde|29°16'13.26" |Scorpio|Shaulah|Venus|
+|☉ Sun|Prograde|3°28'46.16" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|11°47'8.94" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|3°15'54.90" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|7°50'51.39" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Sun|Moon|Mars|Sun|Jupiter|
 |☿ Mercury|Saturn|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Moon|Jupiter|Mars|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Jupiter|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°28'27.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|5°17'19.54" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|29°16'13.24" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|3°28'46.11" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Retrograde|11°47'8.93" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|3°15'54.87" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|7°50'50.40" |Libra|Ghafr|Moon|
+|♄ Saturn|Prograde|14°28'27.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|5°17'19.52" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|29°16'13.26" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|3°28'46.16" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|11°47'8.94" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|3°15'54.90" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|7°50'51.39" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

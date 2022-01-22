@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°40'33.96" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|5°40'11.60" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|0°30'14.49" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Prograde|5°12'35.46" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|11°26'13.63" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|1°5'59.11" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|0°50'6.83" |Libra|Ghafr|Moon|
+|♄ Saturn|Prograde|14°40'34.03" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|5°40'11.58" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|0°30'14.52" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Prograde|5°12'35.51" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|11°26'13.67" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|1°5'59.16" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|0°50'8.02" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°40'33.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|5°40'11.60" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|0°30'14.49" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|5°12'35.46" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Retrograde|11°26'13.63" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|1°5'59.11" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|0°50'6.83" |Scorpio|Akleel|Mars|
+|♄ Saturn|Prograde|14°40'34.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|5°40'11.58" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|0°30'14.52" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|5°12'35.51" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|11°26'13.67" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|1°5'59.16" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|0°50'8.02" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
