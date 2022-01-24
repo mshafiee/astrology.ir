@@ -1,6 +1,6 @@
 ---
-date: 2022-01-21T00:00:00-04:00
-lastmod: 2022-01-21T00:00:00-04:00
+date: 2022-01-24T00:00:00-04:00
+lastmod: 2022-01-24T00:00:00-04:00
 title: Basse-Terre
 slug: basse_terre
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Friday, 21 Jan 2022
+description: 🗓 Monday, 24 Jan 2022
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
-|♍ Virgo|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
+|♎ Libra|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -203,41 +203,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Venus|The ruler of the night: Mars|
+|The ruler of the day: Moon|The ruler of the night: Venus|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
-|2|Mercury|Servant|00:00:00|23:59:59|Attracting good faith|
-|3|Moon|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|4|Saturn|Servant|00:00:00|23:59:59|Bad Hour|
-|5|Jupiter|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
-|6|Mars|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
-|7|Sun|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
-|8|Venus|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
-|9|Mercury|Servant|00:00:00|23:59:59|Separation and Displacement|
-|10|Moon|Servant|00:00:00|23:59:59|Extremely ugly|
-|11|Saturn|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
-|12|Jupiter|Servant|00:00:00|23:59:59|It is good and good to ask for help|
+|1|Moon|Ruler|00:00:00|23:59:59|Dawn repulsion, depleted energy absorption|
+|2|Saturn|Servant|00:00:00|23:59:59|The journey of the appearance and the interior|
+|3|Jupiter|Servant|00:00:00|23:59:59|Marriage is a good marriage|
+|4|Mars|Servant|00:00:00|23:59:59|Repelling and destroying the enemy and draining the energy of the enemy|
+|5|Sun|Servant|00:00:00|23:59:59|Defecation, attracting love and wealth|
+|6|Venus|Servant|00:00:00|23:59:59|Summoning the desired person, love and conquest|
+|7|Mercury|Servant|00:00:00|23:59:59|Aqdalsan|
+|8|Moon|Ruler|00:00:00|23:59:59|Correction of two people, attraction of love|
+|9|Saturn|Servant|00:00:00|23:59:59|Attracting and repelling the enemy and separating|
+|10|Jupiter|Servant|00:00:00|23:59:59|It is good for every action|
+|11|Mars|Servant|00:00:00|23:59:59|Creating Enmity and Negative Energy|
+|12|Sun|Servant|00:00:00|23:59:59|Heart Compassion|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
-|2|Sun|Servant|00:00:00|23:59:59|Attracting good faith|
-|3|Venus|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|4|Mercury|Servant|00:00:00|23:59:59|Bad Hour|
-|5|Moon|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
-|6|Saturn|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
-|7|Jupiter|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
-|8|Mars|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
-|9|Sun|Servant|00:00:00|23:59:59|Separation and Displacement|
-|10|Venus|Servant|00:00:00|23:59:59|Extremely ugly|
-|11|Mercury|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
-|12|Moon|Servant|00:00:00|23:59:59|It is good and good to ask for help|
+|1|Venus|Ruler|00:00:00|23:59:59|Dawn repulsion, depleted energy absorption|
+|2|Mercury|Servant|00:00:00|23:59:59|The journey of the appearance and the interior|
+|3|Moon|Servant|00:00:00|23:59:59|Marriage is a good marriage|
+|4|Saturn|Servant|00:00:00|23:59:59|Repelling and destroying the enemy and draining the energy of the enemy|
+|5|Jupiter|Servant|00:00:00|23:59:59|Defecation, attracting love and wealth|
+|6|Mars|Servant|00:00:00|23:59:59|Summoning the desired person, love and conquest|
+|7|Sun|Servant|00:00:00|23:59:59|Aqdalsan|
+|8|Venus|Ruler|00:00:00|23:59:59|Correction of two people, attraction of love|
+|9|Mercury|Servant|00:00:00|23:59:59|Attracting and repelling the enemy and separating|
+|10|Moon|Servant|00:00:00|23:59:59|It is good for every action|
+|11|Saturn|Servant|00:00:00|23:59:59|Creating Enmity and Negative Energy|
+|12|Jupiter|Servant|00:00:00|23:59:59|Heart Compassion|
 
  
  
@@ -249,7 +249,7 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Venus|The ruler of the night: Mars|
+|The ruler of the day: Moon|The ruler of the night: Venus|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour duration: 00:00:00|Every hour duration: 00:00:00|
 
@@ -258,24 +258,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|00:00:00|23:59:59|
-|Mid-morning|Mercury|Servant|00:00:00|23:59:59|
-|Late morning|Moon|Servant|00:00:00|23:59:59|
-|Noon|Saturn|Servant|00:00:00|23:59:59|
-|Early afternoon|Jupiter|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Mars|Servant|00:00:00|23:59:59|
-|Late afternoon|Sun|Servant|00:00:00|23:59:59|
+|Early morning|Moon|Ruler|00:00:00|23:59:59|
+|Mid-morning|Saturn|Servant|00:00:00|23:59:59|
+|Late morning|Jupiter|Servant|00:00:00|23:59:59|
+|Noon|Mars|Servant|00:00:00|23:59:59|
+|Early afternoon|Sun|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Venus|Servant|00:00:00|23:59:59|
+|Late afternoon|Mercury|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|00:00:00|23:59:59|
-|Late evening|Sun|Servant|00:00:00|23:59:59|
-|Midnight|Venus|Servant|00:00:00|23:59:59|
-|Late at night|Mercury|Servant|00:00:00|23:59:59|
-|Rooster song|Moon|Servant|00:00:00|23:59:59|
-|False Dawn|Saturn|Servant|00:00:00|23:59:59|
-|Dawn|Jupiter|Servant|00:00:00|23:59:59|
+|Evening|Venus|Ruler|00:00:00|23:59:59|
+|Late evening|Mercury|Servant|00:00:00|23:59:59|
+|Midnight|Moon|Servant|00:00:00|23:59:59|
+|Late at night|Saturn|Servant|00:00:00|23:59:59|
+|Rooster song|Jupiter|Servant|00:00:00|23:59:59|
+|False Dawn|Mars|Servant|00:00:00|23:59:59|
+|Dawn|Sun|Servant|00:00:00|23:59:59|
 
 {{< /tab >}}
 
