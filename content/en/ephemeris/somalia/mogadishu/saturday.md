@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°8'29.15" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|6°33'15.02" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|3°20'28.51" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Prograde|9°10'36.88" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|11°5'4.54" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|26°54'1.02" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|27°3'32.43" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Prograde|15°8'29.07" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|6°33'15.03" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|3°20'28.47" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Prograde|9°10'36.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|11°5'4.42" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|26°54'0.94" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|27°3'32.89" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°8'29.15" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|6°33'15.02" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|3°20'28.51" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|9°10'36.88" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Retrograde|11°5'4.54" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|26°54'1.02" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|27°3'32.43" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|15°8'29.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|6°33'15.03" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|3°20'28.47" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|9°10'36.82" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Retrograde|11°5'4.42" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|26°54'0.94" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|27°3'32.89" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

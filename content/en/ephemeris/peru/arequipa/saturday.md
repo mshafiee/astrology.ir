@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°10'41.83" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|6°37'28.43" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|3°33'56.56" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Prograde|9°29'24.53" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|11°5'1.80" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|26°38'43.75" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|1°40'41.52" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Prograde|15°10'41.76" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|6°37'28.44" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|3°33'56.51" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Prograde|9°29'24.47" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|11°5'1.68" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|26°38'43.67" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|1°40'42.03" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°10'41.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|6°37'28.43" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|3°33'56.56" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|9°29'24.53" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Retrograde|11°5'1.80" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|26°38'43.75" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|1°40'41.52" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|15°10'41.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|6°37'28.44" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|3°33'56.51" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|9°29'24.47" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Retrograde|11°5'1.68" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|26°38'43.67" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|1°40'42.03" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

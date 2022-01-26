@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°47'43.45" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|5°53'45.06" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|1°13'56.33" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Prograde|6°13'44.48" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|11°16'55.16" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|29°52'36.71" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|14°49'10.39" |Libra|Jubana|Saturn|
+|♄ Saturn|Prograde|14°47'43.37" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|5°53'45.07" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|1°13'56.30" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Prograde|6°13'44.42" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|11°16'55.10" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|29°52'36.65" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|14°49'9.12" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°47'43.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|5°53'45.06" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|1°13'56.33" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|6°13'44.48" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Retrograde|11°16'55.16" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|29°52'36.71" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|14°49'10.39" |Scorpio|Qalb|Sun|
+|♄ Saturn|Prograde|14°47'43.37" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|5°53'45.07" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|1°13'56.30" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|6°13'44.42" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|11°16'55.10" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|29°52'36.65" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|14°49'9.12" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

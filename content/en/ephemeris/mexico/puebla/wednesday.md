@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°49'58.39" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|5°58'0.97" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|1°27'39.26" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Prograde|6°32'57.69" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|11°14'46.13" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|29°30'42.61" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|19°19'44.24" |Libra|Jubana|Saturn|
+|♄ Saturn|Prograde|14°49'58.31" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|5°58'0.99" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|1°27'39.23" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Prograde|6°32'57.63" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|11°14'46.05" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|29°30'42.55" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|19°19'43.03" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°49'58.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|5°58'0.97" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|1°27'39.26" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|6°32'57.69" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Retrograde|11°14'46.13" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|29°30'42.61" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|19°19'44.24" |Scorpio|Qalb|Sun|
+|♄ Saturn|Prograde|14°49'58.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|5°58'0.99" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|1°27'39.23" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|6°32'57.63" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|11°14'46.05" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|29°30'42.55" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|19°19'43.03" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

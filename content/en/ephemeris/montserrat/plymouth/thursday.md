@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°56'23.42" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|6°10'12.36" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|2°6'47.09" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Prograde|7°27'41.16" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Retrograde|11°9'30.76" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|28°31'2.60" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|2°12'40.88" |Scorpio|Akleel|Mars|
+|♄ Saturn|Prograde|14°56'23.34" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|6°10'12.37" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|2°6'47.05" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Prograde|7°27'41.10" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Retrograde|11°9'30.67" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|28°31'2.53" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|2°12'40.19" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|14°56'23.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|6°10'12.36" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|2°6'47.09" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|7°27'41.16" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Retrograde|11°9'30.76" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|28°31'2.60" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|2°12'40.88" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Prograde|14°56'23.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|6°10'12.37" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|2°6'47.05" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|7°27'41.10" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|11°9'30.67" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|28°31'2.53" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|2°12'40.19" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
