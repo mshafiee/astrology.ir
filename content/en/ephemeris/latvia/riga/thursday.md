@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:26:27 |
+| Dawn | 06:26:28 |
 | Sunrise | 08:18:15 |
 | Dhuhr | 12:37:21 |
 | Medium Coeli | 12:37:21 |
@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°45'21.76" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|15°45'21.83" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Prograde|7°44'6.62" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|7°5'3.16" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|14°23'8.55" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Prograde|11°32'57.80" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|24°25'50.16" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Prograde|7°5'3.20" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|14°23'8.59" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|11°32'57.87" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|24°25'50.21" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Prograde|11°34'37.58" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°45'21.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|15°45'21.83" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Prograde|7°44'6.62" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|7°5'3.16" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|14°23'8.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|11°32'57.80" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|24°25'50.16" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Prograde|7°5'3.20" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|14°23'8.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|11°32'57.87" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|24°25'50.21" |Capricorn|SaadAlBula|Sun|
 |☾ Moon|Prograde|11°34'37.58" |Pisces|FarghAlMuakhar|Jupiter|
 
 

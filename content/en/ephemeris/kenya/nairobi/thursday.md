@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°44'35.36" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|15°44'35.44" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Prograde|7°42'36.76" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|7°0'19.66" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|14°16'38.13" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Prograde|11°32'0.52" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|24°26'47.54" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|10°42'37.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|7°0'19.70" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|14°16'38.17" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|11°32'0.58" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|24°26'47.59" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|10°42'37.25" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°44'35.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|15°44'35.44" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Prograde|7°42'36.76" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|7°0'19.66" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|14°16'38.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|11°32'0.52" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|24°26'47.54" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|10°42'37.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|7°0'19.70" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|14°16'38.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|11°32'0.58" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|24°26'47.59" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|10°42'37.25" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
