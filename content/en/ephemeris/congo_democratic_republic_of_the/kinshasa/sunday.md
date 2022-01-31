@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:35:29 |
 | Isha | 19:17:48 |
 | Sharia Midnight | 23:39:30 |
-| Imum Coeli | 00:12:03 |
+| Imum Coeli | 00:12:04 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:37:35 |
 | Isha | 19:17:48 |
 | Sharia Midnight | 23:35:53 |
-| Imum Coeli | 00:12:03 |
+| Imum Coeli | 00:12:04 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:23:34 |
 | Isha | 19:30:34 |
 | Sharia Midnight | 23:35:14 |
-| Imum Coeli | 00:12:03 |
+| Imum Coeli | 00:12:04 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:23:34 |
 | Isha | 19:22:03 |
 | Sharia Midnight | 23:41:38 |
-| Imum Coeli | 00:12:03 |
+| Imum Coeli | 00:12:04 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:23:34 |
 | Isha | 19:32:42 |
 | Sharia Midnight | 23:32:02 |
-| Imum Coeli | 00:12:03 |
+| Imum Coeli | 00:12:04 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:23:34 |
 | Isha | 19:34:50 |
 | Sharia Midnight | 23:35:14 |
-| Imum Coeli | 00:12:03 |
+| Imum Coeli | 00:12:04 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:23:34 |
 | Isha | 19:53:34 |
 | Sharia Midnight | 23:34:10 |
-| Imum Coeli | 00:12:03 |
+| Imum Coeli | 00:12:04 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°16'13.44" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|6°48'2.66" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|4°7'35.90" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Prograde|10°16'20.44" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Prograde|11°5'52.37" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Retrograde|26°4'0.95" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|13°9'38.46" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Prograde|15°16'13.52" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|6°48'2.65" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|4°7'35.95" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Prograde|10°16'20.50" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Prograde|11°5'52.48" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|26°4'1.03" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|13°9'38.12" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°16'13.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|6°48'2.66" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|4°7'35.90" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|10°16'20.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|11°5'52.37" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|26°4'0.95" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|13°9'38.46" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|15°16'13.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|6°48'2.65" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|4°7'35.95" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|10°16'20.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|11°5'52.48" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|26°4'1.03" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|13°9'38.12" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
