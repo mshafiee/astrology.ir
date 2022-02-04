@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|16°13'25.63" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|8°38'42.50" |Aquarius|SaadAlAkhbia|Venus|
-|♂ Mars|Prograde|9°56'22.80" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|18°20'28.39" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Prograde|12°33'5.11" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|24°54'10.68" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|2°39'5.72" |Aries|Sharatain|Mars|
+|♄ Saturn|Prograde|16°13'25.55" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|8°38'42.49" |Aquarius|SaadAlAkhbia|Venus|
+|♂ Mars|Prograde|9°56'22.76" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|18°20'28.36" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|12°33'5.06" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|24°54'10.64" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|2°39'5.71" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|16°13'25.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|8°38'42.50" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|9°56'22.80" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|18°20'28.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|12°33'5.11" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|24°54'10.68" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|2°39'5.72" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|16°13'25.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|8°38'42.49" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|9°56'22.76" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|18°20'28.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|12°33'5.06" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|24°54'10.64" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|2°39'5.71" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|16°14'16.60" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|8°40'22.25" |Aquarius|SaadAlAkhbia|Venus|
-|♂ Mars|Prograde|10°1'34.43" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Prograde|18°27'40.44" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Prograde|12°35'28.32" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|24°56'40.08" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|4°9'58.79" |Aries|Sharatain|Mars|
+|♄ Saturn|Prograde|16°14'16.68" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|8°40'22.26" |Aquarius|SaadAlAkhbia|Venus|
+|♂ Mars|Prograde|10°1'34.47" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|18°27'40.47" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|12°35'28.36" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|24°56'40.12" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|4°9'58.77" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|16°14'16.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|8°40'22.25" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|10°1'34.43" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Prograde|18°27'40.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|12°35'28.32" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|24°56'40.08" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|4°9'58.79" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|16°14'16.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|8°40'22.26" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|10°1'34.47" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Prograde|18°27'40.47" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|12°35'28.36" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|24°56'40.12" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|4°9'58.77" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

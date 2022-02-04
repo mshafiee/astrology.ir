@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°58'55.91" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|8°10'26.48" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|8°27'50.34" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|16°17'58.37" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Prograde|11°58'14.28" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|24°26'11.26" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|7°18'30.15" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Prograde|15°58'55.99" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|8°10'26.49" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|8°27'50.38" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|16°17'58.41" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|11°58'14.33" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|24°26'11.30" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|7°18'30.08" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°58'55.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|8°10'26.48" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|8°27'50.34" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|16°17'58.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|11°58'14.28" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|24°26'11.26" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|7°18'30.15" |Aries|Sharatain|Mars|
+|♄ Saturn|Prograde|15°58'55.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|8°10'26.49" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|8°27'50.38" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|16°17'58.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|11°58'14.33" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|24°26'11.30" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|7°18'30.08" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

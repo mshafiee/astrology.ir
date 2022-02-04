@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°58'53.66" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|8°10'22.09" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|8°27'36.58" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|16°17'39.26" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Prograde|11°58'9.30" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|24°26'8.93" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|7°13'58.40" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Prograde|15°58'53.73" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|8°10'22.10" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|8°27'36.62" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|16°17'39.29" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|11°58'9.35" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|24°26'8.97" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|7°13'58.33" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°58'53.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|8°10'22.09" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|8°27'36.58" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|16°17'39.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|11°58'9.30" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|24°26'8.93" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|7°13'58.40" |Aries|Sharatain|Mars|
+|♄ Saturn|Prograde|15°58'53.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|8°10'22.10" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|8°27'36.62" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|16°17'39.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|11°58'9.35" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|24°26'8.97" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|7°13'58.33" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

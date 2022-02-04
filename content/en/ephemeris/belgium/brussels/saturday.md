@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|16°0'1.30" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|8°12'33.81" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|8°34'30.02" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|16°27'10.97" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Prograde|12°0'30.34" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|24°27'18.50" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|9°8'29.24" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Prograde|16°0'1.38" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|8°12'33.82" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|8°34'30.06" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|16°27'11.00" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|12°0'30.39" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|24°27'18.54" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|9°8'29.20" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|16°0'1.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|8°12'33.81" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|8°34'30.02" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|16°27'10.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|12°0'30.34" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|24°27'18.50" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|9°8'29.24" |Aries|Sharatain|Mars|
+|♄ Saturn|Prograde|16°0'1.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|8°12'33.82" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|8°34'30.06" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|16°27'11.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|12°0'30.39" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|24°27'18.54" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|9°8'29.20" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
