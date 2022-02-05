@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|16°5'53.75" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|8°24'0.36" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|9°10'22.26" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|17°16'50.39" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Prograde|12°13'55.06" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|24°36'16.61" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|19°35'17.48" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Prograde|16°5'53.83" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|8°24'0.37" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|9°10'22.30" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|17°16'50.43" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|12°13'55.10" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|24°36'16.65" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|19°35'17.56" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|16°5'53.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|8°24'0.36" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|9°10'22.26" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|17°16'50.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|12°13'55.06" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|24°36'16.61" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|19°35'17.48" |Aries|Butain|Sun|
+|♄ Saturn|Prograde|16°5'53.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|8°24'0.37" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|9°10'22.30" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|17°16'50.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|12°13'55.10" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|24°36'16.65" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|19°35'17.56" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

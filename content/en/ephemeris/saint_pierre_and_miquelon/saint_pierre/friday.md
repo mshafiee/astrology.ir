@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°53'59.60" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|8°0'50.20" |Aquarius|SaadAlSaud|Venus|
-|♂ Mars|Prograde|7°57'40.74" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|15°36'9.77" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Prograde|11°48'9.11" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|24°22'57.71" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|28°7'18.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|15°53'59.68" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|8°0'50.21" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Prograde|7°57'40.78" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|15°36'9.80" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|11°48'9.16" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|24°22'57.76" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|28°7'17.97" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|15°53'59.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|8°0'50.20" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|7°57'40.74" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|15°36'9.77" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|11°48'9.11" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|24°22'57.71" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|28°7'18.13" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|15°53'59.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|8°0'50.21" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|7°57'40.78" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|15°36'9.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|11°48'9.16" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|24°22'57.76" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|28°7'17.97" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
