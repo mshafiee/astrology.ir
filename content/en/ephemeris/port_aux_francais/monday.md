@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|16°12'19.33" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|8°36'32.91" |Aquarius|SaadAlAkhbia|Venus|
-|♂ Mars|Prograde|9°49'37.28" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Prograde|18°11'10.33" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Prograde|12°30'18.31" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|24°51'11.98" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Prograde|0°54'10.77" |Aries|Sharatain|Mars|
+|♄ Saturn|Prograde|16°12'19.26" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|8°36'32.90" |Aquarius|SaadAlAkhbia|Venus|
+|♂ Mars|Prograde|9°49'37.24" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Prograde|18°11'10.29" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|12°30'18.27" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|24°51'11.94" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Prograde|0°54'10.73" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|16°12'19.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|8°36'32.91" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|9°49'37.28" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|18°11'10.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|12°30'18.31" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|24°51'11.98" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|0°54'10.77" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|16°12'19.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|8°36'32.90" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|9°49'37.24" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|18°11'10.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|12°30'18.27" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|24°51'11.94" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|0°54'10.73" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
