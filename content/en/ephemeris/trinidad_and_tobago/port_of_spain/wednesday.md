@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°19'52.49" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|10°50'28.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|16°45'36.45" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Prograde|27°43'12.04" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Prograde|16°47'23.41" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|1°26'58.25" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|23°43'53.77" |Cancer|Tarf|Moon|
+|♄ Saturn|Prograde|17°19'52.41" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|10°50'28.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|16°45'36.41" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|27°43'12.03" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Prograde|16°47'23.40" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|1°26'58.24" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|23°43'54.78" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°19'52.49" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|10°50'28.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|16°45'36.45" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|27°43'12.04" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|16°47'23.41" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|1°26'58.25" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|23°43'53.77" |Leo|Sarfrah|Mars|
+|♄ Saturn|Prograde|17°19'52.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|10°50'28.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|16°45'36.41" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|27°43'12.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Prograde|16°47'23.40" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|1°26'58.24" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|23°43'54.78" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

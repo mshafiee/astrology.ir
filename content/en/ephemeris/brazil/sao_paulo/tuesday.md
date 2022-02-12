@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°12'17.88" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|10°35'14.81" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|15°58'32.61" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Prograde|26°38'48.08" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Prograde|16°11'23.87" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|0°25'36.09" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|10°15'9.04" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Prograde|17°12'17.80" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|10°35'14.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|15°58'32.57" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|26°38'48.07" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Prograde|16°11'23.86" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|0°25'36.08" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|10°15'9.88" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°12'17.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|10°35'14.81" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|15°58'32.61" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|26°38'48.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|16°11'23.87" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|0°25'36.09" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|10°15'9.04" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Prograde|17°12'17.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|10°35'14.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|15°58'32.57" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|26°38'48.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Prograde|16°11'23.86" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|0°25'36.08" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|10°15'9.88" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

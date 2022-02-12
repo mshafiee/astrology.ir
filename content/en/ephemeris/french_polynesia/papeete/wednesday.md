@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°21'29.47" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|10°53'43.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|16°55'40.20" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Prograde|27°56'58.39" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Prograde|16°55'19.38" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|1°40'30.73" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|26°29'31.09" |Cancer|Jabhah|Moon|
+|♄ Saturn|Prograde|17°21'29.54" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|10°53'43.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|16°55'40.24" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|27°56'58.40" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Prograde|16°55'19.39" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|1°40'30.75" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|26°29'30.07" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°21'29.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|10°53'43.53" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|16°55'40.20" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|27°56'58.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|16°55'19.38" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|1°40'30.73" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|26°29'31.09" |Leo|Sarfrah|Mars|
+|♄ Saturn|Prograde|17°21'29.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|10°53'43.56" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|16°55'40.24" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|27°56'58.40" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Prograde|16°55'19.39" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|1°40'30.75" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|26°29'30.07" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
