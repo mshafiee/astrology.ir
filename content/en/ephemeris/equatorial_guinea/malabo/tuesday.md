@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°11'19.66" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|10°33'18.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|15°52'31.52" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Prograde|26°30'33.19" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Prograde|16°6'53.30" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Prograde|0°17'59.01" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|8°38'14.43" |Cancer|Nathrah|Venus|
+|♄ Saturn|Prograde|17°11'19.59" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|10°33'18.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|15°52'31.48" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Prograde|26°30'33.18" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Prograde|16°6'53.28" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|0°17'58.99" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|8°38'15.22" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°11'19.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|10°33'18.05" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|15°52'31.52" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|26°30'33.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|16°6'53.30" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|0°17'59.01" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|8°38'14.43" |Leo|Zubrah|Saturn|
+|♄ Saturn|Prograde|17°11'19.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|10°33'18.03" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|15°52'31.48" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|26°30'33.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Prograde|16°6'53.28" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|0°17'58.99" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|8°38'15.22" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
