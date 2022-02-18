@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 17:30:22 |
 | Maghrib | 17:32:52 |
 | Isha | 19:02:52 |
-| Sharia Midnight | 23:29:26 |
+| Sharia Midnight | 23:29:25 |
 | Imum Coeli | 00:32:48 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°25'32.95" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|11°1'54.46" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|17°20'57.40" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Prograde|17°25'32.87" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|11°1'54.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|17°20'57.36" |Sagittarius|Baldah|Moon|
 |☉ Sun|Prograde|28°31'28.94" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Prograde|17°15'19.70" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Prograde|2°15'4.48" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|4°32'42.77" |Leo|Jabhah|Saturn|
+|☿ Mercury|Prograde|2°15'4.47" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|4°32'43.79" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°25'32.95" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|11°1'54.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|17°20'57.40" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|17°25'32.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|11°1'54.43" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|17°20'57.36" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Prograde|28°31'28.94" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Prograde|17°15'19.70" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|2°15'4.48" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|4°32'42.77" |Virgo|Awwa|Sun|
+|☿ Mercury|Prograde|2°15'4.47" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|4°32'43.79" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
