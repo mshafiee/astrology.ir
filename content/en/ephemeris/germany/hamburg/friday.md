@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°32'55.48" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|11°16'49.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|18°7'0.42" |Sagittarius|Baldah|Moon|
-|☉ Sun|Prograde|29°34'22.52" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Prograde|17°53'9.10" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Prograde|3°20'13.09" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|18°3'17.60" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Prograde|17°32'55.55" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|11°16'49.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|18°7'0.46" |Sagittarius|Baldah|Moon|
+|☉ Sun|Prograde|29°34'22.53" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Prograde|17°53'9.11" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Prograde|3°20'13.10" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|18°3'16.75" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°32'55.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|11°16'49.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|18°7'0.42" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|29°34'22.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|17°53'9.10" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|3°20'13.09" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|18°3'17.60" |Virgo|Simak|Venus|
+|♄ Saturn|Prograde|17°32'55.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|11°16'49.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|18°7'0.46" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|29°34'22.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Prograde|17°53'9.11" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|3°20'13.10" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|18°3'16.75" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
