@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°21'54.83" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|12°57'19.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|23°16'39.62" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|6°35'25.02" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|22°39'57.47" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|11°36'1.36" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Prograde|23°46'28.87" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Prograde|18°21'54.76" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|12°57'19.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|23°16'39.58" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|6°35'25.01" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|22°39'57.45" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|11°36'1.35" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|23°46'26.87" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°21'54.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|12°57'19.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|23°16'39.62" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|6°35'25.02" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|22°39'57.47" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|11°36'1.36" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|23°46'28.87" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|18°21'54.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|12°57'19.12" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|23°16'39.58" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|6°35'25.01" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|22°39'57.45" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|11°36'1.35" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|23°46'26.87" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
