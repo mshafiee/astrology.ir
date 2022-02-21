@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°53'5.69" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|11°57'53.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|20°13'38.12" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|2°26'59.37" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|19°44'6.39" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Prograde|6°31'55.70" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|25°50'52.27" |Virgo|Simak|Mercury|
+|♄ Saturn|Prograde|17°53'5.76" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|11°57'53.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|20°13'38.16" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|2°26'59.38" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|19°44'6.40" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Prograde|6°31'55.71" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|25°50'52.69" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°53'5.69" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|11°57'53.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|20°13'38.12" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|2°26'59.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Prograde|19°44'6.39" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|6°31'55.70" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|25°50'52.27" |Libra|Akleel|Jupiter|
+|♄ Saturn|Prograde|17°53'5.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|11°57'53.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|20°13'38.16" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|2°26'59.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Prograde|19°44'6.40" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|6°31'55.71" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|25°50'52.69" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

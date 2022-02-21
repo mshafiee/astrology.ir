@@ -1,6 +1,6 @@
 ---
-date: 2022-02-20T00:00:00+04:00
-lastmod: 2022-02-20T00:00:00+04:00
+date: 2022-02-27T00:00:00+04:00
+lastmod: 2022-02-27T00:00:00+04:00
 title: Victoria (Sunday)
 slug: sunday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Sunday, 20 Feb 2022
+description: 🗓 Sunday, 27 Feb 2022
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
+|♏ Scorpio|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|00:00:00|23:59:59|
 
 
 {{< /tab >}}

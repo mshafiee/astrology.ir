@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°53'40.83" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|11°59'5.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|20°17'19.81" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|2°32'0.58" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|19°47'27.96" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Prograde|6°37'46.07" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|27°2'35.60" |Virgo|Simak|Mercury|
+|♄ Saturn|Prograde|17°53'40.90" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|11°59'5.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|20°17'19.85" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|2°32'0.60" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|19°47'27.97" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Prograde|6°37'46.08" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|27°2'36.06" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|17°53'40.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|11°59'5.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|20°17'19.81" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|2°32'0.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Prograde|19°47'27.96" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|6°37'46.07" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|27°2'35.60" |Libra|Akleel|Jupiter|
+|♄ Saturn|Prograde|17°53'40.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|11°59'5.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|20°17'19.85" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|2°32'0.60" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Prograde|19°47'27.97" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|6°37'46.08" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|27°2'36.06" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

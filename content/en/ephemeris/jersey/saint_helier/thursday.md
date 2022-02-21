@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°15'18.62" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|12°43'37.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|22°34'29.95" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|5°38'16.09" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|21°57'53.67" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|10°23'28.35" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Prograde|10°16'45.82" |Scorpio|Qalb|Sun|
+|♄ Saturn|Prograde|18°15'18.69" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|12°43'37.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|22°34'29.99" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|5°38'16.11" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|21°57'53.68" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|10°23'28.37" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|10°16'47.97" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°15'18.62" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|12°43'37.22" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|22°34'29.95" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|5°38'16.09" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|21°57'53.67" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|10°23'28.35" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|10°16'45.82" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Prograde|18°15'18.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|12°43'37.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|22°34'29.99" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|5°38'16.11" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|21°57'53.68" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|10°23'28.37" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|10°16'47.97" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

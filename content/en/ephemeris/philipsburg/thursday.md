@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°16'21.09" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|12°45'46.53" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|22°41'7.52" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|5°47'17.11" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|22°4'31.10" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|10°34'47.69" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Prograde|12°25'50.79" |Scorpio|Qalb|Sun|
+|♄ Saturn|Prograde|18°16'21.17" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|12°45'46.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|22°41'7.56" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|5°47'17.12" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|22°4'31.11" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|10°34'47.71" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|12°25'52.97" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°16'21.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|12°45'46.53" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|22°41'7.52" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|5°47'17.11" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|22°4'31.10" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|10°34'47.69" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|12°25'50.79" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Prograde|18°16'21.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|12°45'46.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|22°41'7.56" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|5°47'17.12" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|22°4'31.11" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|10°34'47.71" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|12°25'52.97" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
