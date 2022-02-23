@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:02:01 |
 | Isha | 19:21:14 |
 | Sharia Midnight | 23:32:20 |
-| Imum Coeli | 00:34:14 |
+| Imum Coeli | 00:34:13 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:06:02 |
 | Isha | 19:21:14 |
 | Sharia Midnight | 23:25:33 |
-| Imum Coeli | 00:34:14 |
+| Imum Coeli | 00:34:13 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:36:13 |
 | Isha | 19:45:06 |
 | Sharia Midnight | 23:24:20 |
-| Imum Coeli | 00:34:14 |
+| Imum Coeli | 00:34:13 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:36:13 |
 | Isha | 19:29:10 |
 | Sharia Midnight | 23:36:18 |
-| Imum Coeli | 00:34:14 |
+| Imum Coeli | 00:34:13 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 17:36:13 |
 | Isha | 19:49:07 |
 | Sharia Midnight | 23:18:16 |
-| Imum Coeli | 00:34:14 |
+| Imum Coeli | 00:34:13 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:36:13 |
 | Isha | 19:53:09 |
 | Sharia Midnight | 23:24:20 |
-| Imum Coeli | 00:34:14 |
+| Imum Coeli | 00:34:13 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:36:13 |
 | Isha | 19:06:13 |
 | Sharia Midnight | 23:22:20 |
-| Imum Coeli | 00:34:14 |
+| Imum Coeli | 00:34:13 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°7'53.93" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|12°28'18.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|21°47'20.35" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|4°34'16.34" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|21°11'52.45" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|9°4'0.68" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|25°24'20.83" |Libra|Jubana|Jupiter|
+|♄ Saturn|Prograde|18°7'53.86" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|12°28'18.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|21°47'20.31" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|4°34'16.33" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|21°11'52.44" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|9°4'0.67" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|25°24'19.11" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°7'53.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|12°28'18.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|21°47'20.35" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|4°34'16.34" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|21°11'52.45" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|9°4'0.68" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Prograde|25°24'20.83" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Prograde|18°7'53.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|12°28'18.06" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|21°47'20.31" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|4°34'16.33" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|21°11'52.44" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|9°4'0.67" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Prograde|25°24'19.11" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

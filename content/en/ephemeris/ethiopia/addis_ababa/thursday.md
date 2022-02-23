@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°14'21.16" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|12°41'38.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|22°28'22.36" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|5°29'59.97" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|21°51'56.71" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|10°13'3.78" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Prograde|8°20'58.08" |Scorpio|Akleel|Mars|
+|♄ Saturn|Prograde|18°14'21.09" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|12°41'37.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|22°28'22.32" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|5°29'59.96" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|21°51'56.69" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|10°13'3.77" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|8°20'55.93" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°14'21.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|12°41'38.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|22°28'22.36" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|5°29'59.97" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|21°51'56.71" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|10°13'3.78" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|8°20'58.08" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Prograde|18°14'21.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|12°41'37.98" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|22°28'22.32" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|5°29'59.96" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|21°51'56.69" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|10°13'3.77" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|8°20'55.93" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°7'15.28" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|12°26'58.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|21°43'14.03" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|4°28'44.01" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|21°8'0.27" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|8°57'11.89" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|24°1'38.99" |Libra|Jubana|Jupiter|
+|♄ Saturn|Prograde|18°7'15.21" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|12°26'58.22" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|21°43'13.99" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|4°28'43.99" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|21°8'0.25" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|8°57'11.88" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|24°1'37.31" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°7'15.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|12°26'58.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|21°43'14.03" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|4°28'44.01" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|21°8'0.27" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|8°57'11.89" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Prograde|24°1'38.99" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Prograde|18°7'15.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|12°26'58.22" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|21°43'13.99" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|4°28'43.99" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|21°8'0.25" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|8°57'11.88" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Prograde|24°1'37.31" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
