@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°13'3.66" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|12°38'57.64" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|22°20'8.59" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|5°18'50.55" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|21°43'52.54" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|9°59'6.58" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Prograde|5°43'12.29" |Scorpio|Akleel|Mars|
+|♄ Saturn|Prograde|18°13'3.58" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|12°38'57.60" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|22°20'8.55" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|5°18'50.54" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|21°43'52.53" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|9°59'6.56" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|5°43'10.19" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°13'3.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|12°38'57.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|22°20'8.59" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|5°18'50.55" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|21°43'52.54" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|9°59'6.58" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Prograde|5°43'12.29" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Prograde|18°13'3.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|12°38'57.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|22°20'8.55" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|5°18'50.54" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|21°43'52.53" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|9°59'6.56" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Prograde|5°43'10.19" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
