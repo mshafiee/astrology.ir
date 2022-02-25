@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°49'40.04" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|13°55'30.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|26°15'43.48" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|10°37'27.98" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|25°47'24.86" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|16°58'34.82" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|21°31'52.25" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|18°49'40.12" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|13°55'30.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|26°15'43.52" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|10°37'27.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|25°47'24.88" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|16°58'34.84" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|21°31'52.53" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°49'40.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|13°55'30.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|26°15'43.48" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Prograde|10°37'27.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|25°47'24.86" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|16°58'34.82" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|21°31'52.25" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|18°49'40.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|13°55'30.12" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|26°15'43.52" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Prograde|10°37'27.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|25°47'24.88" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|16°58'34.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|21°31'52.53" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

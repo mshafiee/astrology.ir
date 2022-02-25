@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°55'41.82" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|14°8'16.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|26°55'2.48" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|11°30'31.32" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|26°30'25.36" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|18°12'17.71" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|4°34'8.54" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|18°55'41.90" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|14°8'16.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|26°55'2.52" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|11°30'31.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|26°30'25.38" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|18°12'17.72" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|4°34'8.78" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°55'41.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|14°8'16.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|26°55'2.48" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Prograde|11°30'31.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|26°30'25.36" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|18°12'17.71" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|4°34'8.54" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Prograde|18°55'41.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|14°8'16.57" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|26°55'2.52" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Prograde|11°30'31.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|26°30'25.38" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|18°12'17.72" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|4°34'8.78" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

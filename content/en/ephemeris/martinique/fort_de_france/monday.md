@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°44'2.21" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|13°43'36.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|25°39'7.62" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|9°48'6.51" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Prograde|25°8'3.68" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|15°50'52.47" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|10°9'6.85" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Prograde|18°44'2.28" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|13°43'36.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|25°39'7.66" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|9°48'6.53" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Prograde|25°8'3.70" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|15°50'52.49" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|10°9'7.18" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°44'2.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|13°43'36.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|25°39'7.62" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|9°48'6.51" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|25°8'3.68" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|15°50'52.47" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|10°9'6.85" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|18°44'2.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|13°43'36.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|25°39'7.66" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|9°48'6.53" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|25°8'3.70" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|15°50'52.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|10°9'7.18" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
