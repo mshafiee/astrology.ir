@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°33'32.05" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|13°21'33.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|24°31'14.46" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|8°16'23.20" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|23°56'25.11" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|13°47'38.98" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|18°7'35.44" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Prograde|18°33'31.98" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|13°21'33.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|24°31'14.42" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|8°16'23.19" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|23°56'25.08" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|13°47'38.96" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|18°7'34.56" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°33'32.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|13°21'33.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|24°31'14.46" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|8°16'23.20" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|23°56'25.11" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|13°47'38.98" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|18°7'35.44" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|18°33'31.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|13°21'33.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|24°31'14.42" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|8°16'23.19" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|23°56'25.08" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|13°47'38.96" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|18°7'34.56" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

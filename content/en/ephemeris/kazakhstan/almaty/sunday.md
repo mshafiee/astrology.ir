@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°34'35.50" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|13°23'46.45" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|24°38'4.57" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|8°25'35.73" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Prograde|24°3'28.52" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|13°59'54.22" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|20°3'11.48" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Prograde|18°34'35.57" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|13°23'46.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|24°38'4.61" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|8°25'35.74" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|24°3'28.55" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|13°59'54.24" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|20°3'12.27" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|18°34'35.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|13°23'46.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|24°38'4.57" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|8°25'35.73" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|24°3'28.52" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|13°59'54.22" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|20°3'11.48" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|18°34'35.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|13°23'46.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|24°38'4.61" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|8°25'35.74" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|24°3'28.55" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|13°59'54.24" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|20°3'12.27" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
