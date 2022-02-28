@@ -1,6 +1,6 @@
 ---
-date: 2022-02-26T00:00:00-04:00
-lastmod: 2022-02-26T00:00:00-04:00
+date: 2022-03-05T00:00:00-04:00
+lastmod: 2022-03-05T00:00:00-04:00
 title: Basse-Terre (Saturday)
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Saturday, 26 Feb 2022
+description: 🗓 Saturday, 05 Mar 2022
 
 toc: false
 ---
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'39.52" |Taurus|Dabaran|Moon|
-|♃ Jupiter|Prograde|9°16'0.88" |Virgo|Awwa|Sun|
-|♂ Mars|Prograde|12°2'37.06" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|11°25'3.00" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Prograde|27°22'47.64" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|17°58'25.35" |Sagittarius|Baldah|Moon|
-|☾ Moon|Prograde|12°57'27.81" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|11°10'39.58" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Prograde|9°15'57.08" |Virgo|Awwa|Sun|
+|♂ Mars|Prograde|12°2'35.49" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|11°24'57.98" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|27°22'42.29" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|17°58'16.84" |Sagittarius|Baldah|Moon|
+|☾ Moon|Prograde|12°57'17.56" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'39.52" |Gemini|HanAh|Mars|
-|♃ Jupiter|Prograde|9°16'0.88" |Libra|Ghafr|Moon|
-|♂ Mars|Prograde|12°2'37.06" |Aries|Sharatain|Sun|
-|☉ Sun|Prograde|11°25'3.00" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Prograde|27°22'47.64" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Prograde|17°58'25.35" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|12°57'27.81" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|11°10'39.58" |Gemini|HanAh|Mars|
+|♃ Jupiter|Prograde|9°15'57.08" |Libra|Ghafr|Moon|
+|♂ Mars|Prograde|12°2'35.49" |Aries|Sharatain|Sun|
+|☉ Sun|Prograde|11°24'57.98" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Prograde|27°22'42.29" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Prograde|17°58'16.84" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|12°57'17.56" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

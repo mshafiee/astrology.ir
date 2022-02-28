@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°4'41.27" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|14°27'25.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|27°53'59.91" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|12°49'56.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|27°35'53.71" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|20°4'37.84" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|22°57'51.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|19°4'41.19" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|14°27'25.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|27°53'59.88" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|12°49'56.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|27°35'53.70" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|20°4'37.83" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|22°57'50.88" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°4'41.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|14°27'25.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|27°53'59.91" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Prograde|12°49'56.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|27°35'53.71" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|20°4'37.84" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Prograde|22°57'51.16" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|19°4'41.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|14°27'25.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|27°53'59.88" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Prograde|12°49'56.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|27°35'53.70" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|20°4'37.83" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Prograde|22°57'50.88" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
