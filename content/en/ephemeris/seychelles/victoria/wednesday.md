@@ -1,6 +1,6 @@
 ---
-date: 2022-03-02T00:00:00+04:00
-lastmod: 2022-03-02T00:00:00+04:00
+date: 2022-03-09T00:00:00+04:00
+lastmod: 2022-03-09T00:00:00+04:00
 title: Victoria (Wednesday)
 slug: wednesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Wednesday, 02 Mar 2022
+description: 🗓 Wednesday, 09 Mar 2022
 
 toc: false
 ---

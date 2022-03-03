@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°23'38.91" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|15°8'11.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|29°59'40.56" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|15°38'49.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|29°59'28.63" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|24°11'2.21" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|29°37'25.20" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|19°23'38.98" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|15°8'11.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|29°59'40.59" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|15°38'49.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|29°59'28.64" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|24°11'2.22" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|29°37'26.37" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°23'38.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|15°8'11.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|29°59'40.56" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Prograde|15°38'49.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|29°59'28.63" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|24°11'2.21" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|29°37'25.20" |Aries|Thurayya|Venus|
+|♄ Saturn|Prograde|19°23'38.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|15°8'11.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|29°59'40.59" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Prograde|15°38'49.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|29°59'28.64" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|24°11'2.22" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|29°37'26.37" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
