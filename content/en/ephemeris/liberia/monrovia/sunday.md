@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°23'50.91" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|15°8'36.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|0°1'0.23" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|15°40'36.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|0°1'1.25" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|24°13'41.30" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|29°59'29.12" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|19°23'50.84" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|15°8'36.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|0°1'0.20" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|15°40'36.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|0°1'1.24" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Prograde|24°13'41.29" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|29°59'27.95" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°23'50.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|15°8'36.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|0°1'0.23" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|15°40'36.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|0°1'1.25" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|24°13'41.30" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|29°59'29.12" |Aries|Thurayya|Venus|
+|♄ Saturn|Prograde|19°23'50.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|15°8'36.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|0°1'0.20" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|15°40'36.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|0°1'1.24" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Prograde|24°13'41.29" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|29°59'27.95" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

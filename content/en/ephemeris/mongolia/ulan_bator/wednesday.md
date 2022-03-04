@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°41'43.36" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|15°47'34.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|2°1'17.29" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|18°21'44.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|2°23'8.22" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|28°18'6.28" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|2°23'25.30" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|19°41'43.29" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|15°47'34.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|2°1'17.28" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|18°21'44.74" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|2°23'8.21" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Prograde|28°18'6.27" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|2°23'25.59" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°41'43.36" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|15°47'34.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|2°1'17.29" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|18°21'44.75" |Pisces|Rescha|Jupiter|
-|♀ Venus|Prograde|2°23'8.22" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|28°18'6.28" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|2°23'25.30" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Prograde|19°41'43.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|15°47'34.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|2°1'17.28" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|18°21'44.74" |Pisces|Rescha|Jupiter|
+|♀ Venus|Prograde|2°23'8.21" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Prograde|28°18'6.27" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|2°23'25.59" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

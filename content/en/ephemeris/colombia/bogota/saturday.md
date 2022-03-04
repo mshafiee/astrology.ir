@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°18'18.60" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|14°56'39.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|29°24'6.35" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Prograde|14°51'4.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|29°18'18.16" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Prograde|23°0'21.62" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Prograde|19°33'4.98" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Prograde|19°18'18.67" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|14°56'39.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|29°24'6.37" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Prograde|14°51'4.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|29°18'18.17" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Prograde|23°0'21.63" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Prograde|19°33'6.01" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°18'18.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|14°56'39.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|29°24'6.35" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Prograde|14°51'4.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|29°18'18.16" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|23°0'21.62" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|19°33'4.98" |Aries|Butain|Sun|
+|♄ Saturn|Prograde|19°18'18.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|14°56'39.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|29°24'6.37" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Prograde|14°51'4.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|29°18'18.17" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|23°0'21.63" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|19°33'6.01" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
