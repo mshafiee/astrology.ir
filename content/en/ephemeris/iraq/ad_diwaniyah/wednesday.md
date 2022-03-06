@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°42'49.41" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|15°49'59.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|2°8'45.25" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|18°31'45.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|2°32'7.76" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|28°33'32.60" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|4°25'1.54" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|19°42'49.48" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|15°49'59.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|2°8'45.27" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|18°31'45.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|2°32'7.77" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Prograde|28°33'32.61" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|4°25'1.18" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°42'49.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|15°49'59.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|2°8'45.25" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|18°31'45.18" |Pisces|Rescha|Jupiter|
-|♀ Venus|Prograde|2°32'7.76" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|28°33'32.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|4°25'1.54" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Prograde|19°42'49.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|15°49'59.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|2°8'45.27" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|18°31'45.19" |Pisces|Rescha|Jupiter|
+|♀ Venus|Prograde|2°32'7.77" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Prograde|28°33'32.61" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|4°25'1.18" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
