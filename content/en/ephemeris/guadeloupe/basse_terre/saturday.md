@@ -1,6 +1,6 @@
 ---
-date: 2022-03-05T00:00:00-04:00
-lastmod: 2022-03-05T00:00:00-04:00
+date: 2022-03-12T00:00:00-04:00
+lastmod: 2022-03-12T00:00:00-04:00
 title: Basse-Terre (Saturday)
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Saturday, 05 Mar 2022
+description: 🗓 Saturday, 12 Mar 2022
 
 toc: false
 ---
