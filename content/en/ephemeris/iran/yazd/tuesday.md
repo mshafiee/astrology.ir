@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°36'1.89" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|15°35'6.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|1°22'47.14" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|17°30'13.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|1°37'11.14" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|26°58'58.91" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|22°12'19.65" |Aries|Butain|Venus|
+|♄ Saturn|Prograde|19°36'1.81" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|15°35'6.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|1°22'47.12" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|17°30'13.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|1°37'11.13" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Prograde|26°58'58.90" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|22°12'19.41" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°36'1.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|15°35'6.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|1°22'47.14" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|17°30'13.40" |Pisces|Rescha|Jupiter|
-|♀ Venus|Prograde|1°37'11.14" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|26°58'58.91" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|22°12'19.65" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Prograde|19°36'1.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|15°35'6.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|1°22'47.12" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|17°30'13.39" |Pisces|Rescha|Jupiter|
+|♀ Venus|Prograde|1°37'11.13" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Prograde|26°58'58.90" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|22°12'19.41" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

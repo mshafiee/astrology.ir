@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:19:13 |
 | Sunset | 19:09:52 |
 | Maghrib | 19:13:23 |
-| Isha | 21:06:55 |
+| Isha | 21:06:56 |
 | Sharia Midnight | 00:12:47 |
 | Imum Coeli | 01:19:04 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°9'16.38" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|16°48'41.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|5°10'33.65" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|20°9'16.31" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|16°48'41.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|5°10'33.64" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Prograde|22°34'24.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|6°14'59.90" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Prograde|6°14'59.89" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Prograde|4°59'2.62" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|22°17'7.58" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|22°17'7.78" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°9'16.38" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|16°48'41.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|5°10'33.65" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|20°9'16.31" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|16°48'41.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|5°10'33.64" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Prograde|22°34'24.65" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|6°14'59.90" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|6°14'59.89" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Prograde|4°59'2.62" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Prograde|22°17'7.58" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|22°17'7.78" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

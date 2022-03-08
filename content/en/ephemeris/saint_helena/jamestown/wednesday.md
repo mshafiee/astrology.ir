@@ -34,7 +34,7 @@ Altitude: 426 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:20:05 |
+| Dawn | 05:20:04 |
 | Sunrise | 06:24:46 |
 | Dhuhr | 12:33:22 |
 | Medium Coeli | 12:33:22 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°43'41.16" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|15°51'52.69" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|2°14'35.44" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|19°43'41.09" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|15°51'52.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|2°14'35.42" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Prograde|18°39'35.52" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Prograde|2°39'11.63" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|28°45'38.05" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|6°1'50.41" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Prograde|28°45'38.04" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|6°1'50.81" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°43'41.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|15°51'52.69" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|2°14'35.44" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|19°43'41.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|15°51'52.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|2°14'35.42" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Prograde|18°39'35.52" |Pisces|Rescha|Jupiter|
 |♀ Venus|Prograde|2°39'11.63" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|28°45'38.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|6°1'50.41" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Prograde|28°45'38.04" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|6°1'50.81" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

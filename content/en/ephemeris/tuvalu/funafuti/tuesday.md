@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°33'39.61" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|15°29'55.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|1°6'47.51" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|17°8'49.74" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|1°18'15.50" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|26°26'21.61" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|18°4'3.30" |Aries|Butain|Sun|
+|♄ Saturn|Prograde|19°33'39.54" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|15°29'55.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|1°6'47.49" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|17°8'49.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|1°18'15.49" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Prograde|26°26'21.60" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|18°4'2.80" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°33'39.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|15°29'55.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|1°6'47.51" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|17°8'49.74" |Pisces|Rescha|Jupiter|
-|♀ Venus|Prograde|1°18'15.50" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|26°26'21.61" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|18°4'3.30" |Taurus|Dabaran|Moon|
+|♄ Saturn|Prograde|19°33'39.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|15°29'55.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|1°6'47.49" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|17°8'49.73" |Pisces|Rescha|Jupiter|
+|♀ Venus|Prograde|1°18'15.49" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Prograde|26°26'21.60" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|18°4'2.80" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
