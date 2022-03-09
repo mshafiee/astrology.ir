@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:15:33 |
 | Maghrib | 18:16:40 |
 | Isha | 19:40:05 |
-| Sharia Midnight | 23:34:23 |
+| Sharia Midnight | 23:34:24 |
 | Imum Coeli | 00:21:57 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°54'39.26" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|16°16'5.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|3°29'29.79" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|19°54'39.33" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|16°16'5.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|3°29'29.81" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Prograde|20°19'39.47" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Prograde|4°10'3.19" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Prograde|4°10'3.20" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Prograde|1°22'29.04" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|25°33'15.08" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|25°33'14.73" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°54'39.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|16°16'5.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|3°29'29.79" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|19°54'39.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|16°16'5.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|3°29'29.81" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Prograde|20°19'39.47" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|4°10'3.19" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Prograde|4°10'3.20" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Prograde|1°22'29.04" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Prograde|25°33'15.08" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|25°33'14.73" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

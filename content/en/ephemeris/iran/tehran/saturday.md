@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°2'21.22" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|16°33'12.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|4°22'32.13" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|21°30'25.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|5°15'19.29" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|3°15'25.64" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|9°26'20.48" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Prograde|20°2'21.29" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|16°33'12.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|4°22'32.14" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|21°30'25.79" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Prograde|5°15'19.30" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Prograde|3°15'25.63" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|9°26'20.28" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°2'21.22" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|16°33'12.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|4°22'32.13" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|21°30'25.78" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|5°15'19.29" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|3°15'25.64" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Prograde|9°26'20.48" |Cancer|Nathrah|Venus|
+|♄ Saturn|Prograde|20°2'21.29" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|16°33'12.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|4°22'32.14" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|21°30'25.79" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|5°15'19.30" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Prograde|3°15'25.63" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Prograde|9°26'20.28" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

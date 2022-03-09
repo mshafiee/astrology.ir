@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°40'57.82" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|15°45'54.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|1°56'8.00" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|18°14'53.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|2°17'0.58" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|28°7'27.83" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Prograde|1°8'28.77" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|19°40'57.89" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|15°45'54.32" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|1°56'8.02" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|18°14'53.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|2°17'0.59" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Prograde|28°7'27.84" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Prograde|1°8'28.54" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°40'57.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|15°45'54.25" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|1°56'8.00" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|18°14'53.03" |Pisces|Rescha|Jupiter|
-|♀ Venus|Prograde|2°17'0.58" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|28°7'27.83" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|1°8'28.77" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Prograde|19°40'57.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|15°45'54.32" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|1°56'8.02" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|18°14'53.04" |Pisces|Rescha|Jupiter|
+|♀ Venus|Prograde|2°17'0.59" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Prograde|28°7'27.84" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|1°8'28.54" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
