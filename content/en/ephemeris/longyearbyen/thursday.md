@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°50'11.24" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Prograde|16°6'12.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|2°58'56.09" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|19°38'47.13" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Prograde|3°32'42.17" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Prograde|0°18'6.93" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Prograde|17°33'31.04" |Taurus|Dabaran|Moon|
+|♄ Saturn|Prograde|19°50'11.31" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Prograde|16°6'12.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|2°58'56.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|19°38'47.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|3°32'42.18" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Prograde|0°18'6.92" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|17°33'30.56" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|19°50'11.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Prograde|16°6'12.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Prograde|2°58'56.09" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|19°38'47.13" |Pisces|Rescha|Jupiter|
-|♀ Venus|Prograde|3°32'42.17" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|0°18'6.93" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Prograde|17°33'31.04" |Gemini|Dhira|Mars|
+|♄ Saturn|Prograde|19°50'11.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Prograde|16°6'12.48" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Prograde|2°58'56.11" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|19°38'47.14" |Pisces|Rescha|Jupiter|
+|♀ Venus|Prograde|3°32'42.18" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Prograde|0°18'6.92" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Prograde|17°33'30.56" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
