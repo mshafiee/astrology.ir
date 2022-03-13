@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°34'49.40" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|17°46'41.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|8°11'4.35" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|26°34'23.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|10°4'15.15" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|11°40'3.36" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|12°1'17.73" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Prograde|20°34'49.47" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|17°46'41.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|8°11'4.34" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|26°34'23.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Prograde|10°4'15.14" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|11°40'3.34" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|12°1'18.17" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°34'49.40" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|17°46'41.22" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|8°11'4.35" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|26°34'23.07" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|10°4'15.15" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Prograde|11°40'3.36" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Prograde|12°1'17.73" |Virgo|Awwa|Venus|
+|♄ Saturn|Prograde|20°34'49.47" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|17°46'41.30" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|8°11'4.34" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|26°34'23.06" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|10°4'15.14" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Prograde|11°40'3.34" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Prograde|12°1'18.17" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
