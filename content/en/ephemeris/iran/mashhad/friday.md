@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°40'23.34" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|17°59'30.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|8°51'8.26" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|27°27'27.58" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|10°56'1.58" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|13°11'34.87" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|24°17'43.69" |Leo|Sarfrah|Mars|
+|♄ Saturn|Prograde|20°40'23.41" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|17°59'30.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|8°51'8.25" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|27°27'27.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Prograde|10°56'1.57" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|13°11'34.85" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|24°17'43.74" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°40'23.34" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|17°59'30.59" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|8°51'8.26" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Prograde|27°27'27.58" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|10°56'1.58" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Prograde|13°11'34.87" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Prograde|24°17'43.69" |Virgo|Simak|Mercury|
+|♄ Saturn|Prograde|20°40'23.41" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|17°59'30.67" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|8°51'8.25" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Prograde|27°27'27.57" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|10°56'1.57" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Prograde|13°11'34.85" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Prograde|24°17'43.74" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

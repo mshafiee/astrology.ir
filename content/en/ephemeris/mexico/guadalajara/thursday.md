@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°36'58.30" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|17°51'37.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|8°26'29.73" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Prograde|26°54'48.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|10°24'8.20" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|12°15'10.73" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|16°47'19.52" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Prograde|20°36'58.23" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|17°51'37.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|8°26'29.74" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Prograde|26°54'48.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Prograde|10°24'8.21" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|12°15'10.75" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|16°47'19.23" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°36'58.30" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|17°51'37.56" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|8°26'29.73" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|26°54'48.88" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|10°24'8.20" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Prograde|12°15'10.73" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Prograde|16°47'19.52" |Virgo|Awwa|Venus|
+|♄ Saturn|Prograde|20°36'58.23" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|17°51'37.48" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|8°26'29.74" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|26°54'48.90" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|10°24'8.21" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Prograde|12°15'10.75" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Prograde|16°47'19.23" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
