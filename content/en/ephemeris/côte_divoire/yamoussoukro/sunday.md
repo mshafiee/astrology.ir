@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Prograde|29°37'26.10" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Prograde|13°4'21.68" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|16°59'47.35" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|24°49'50.95" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|23°49'41.27" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Mercury|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mars|Mars|Venus|Moon|
+|☾ Moon|Mars|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Prograde|10°29'19.06" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Prograde|29°37'26.10" |Pisces|Rescha|Mars|
 |♀ Venus|Prograde|13°4'21.68" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Prograde|16°59'36.98" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Prograde|24°49'50.95" |Libra|Jubana|Jupiter|
+|☿ Mercury|Prograde|16°59'47.35" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Prograde|23°49'41.27" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
