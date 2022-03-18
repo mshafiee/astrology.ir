@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°52'8.35" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|18°26'48.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|10°16'36.92" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Prograde|29°20'37.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Prograde|12°47'38.88" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Prograde|16°29'56.84" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|20°1'29.73" |Virgo|Simak|Mercury|
+|♄ Saturn|Prograde|20°52'8.42" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|18°26'48.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|10°16'36.91" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Prograde|29°20'37.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Prograde|12°47'38.86" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Prograde|16°29'56.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|20°1'29.40" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°52'8.35" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|18°26'48.88" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|10°16'36.92" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|29°20'37.70" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|12°47'38.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Prograde|16°29'56.84" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Prograde|20°1'29.73" |Libra|Jubana|Jupiter|
+|♄ Saturn|Prograde|20°52'8.42" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|18°26'48.96" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|10°16'36.91" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|29°20'37.69" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|12°47'38.86" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Prograde|16°29'56.83" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Prograde|20°1'29.40" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
