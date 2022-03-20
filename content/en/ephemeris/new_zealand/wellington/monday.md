@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:28:12 |
 | Sunset | 19:31:55 |
 | Maghrib | 19:33:06 |
-| Isha | 21:02:54 |
+| Isha | 21:02:53 |
 | Sharia Midnight | 00:37:16 |
 | Imum Coeli | 01:28:03 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°56'55.63" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|18°38'2.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|10°51'49.43" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Prograde|0°7'11.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Prograde|13°34'2.10" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|20°56'55.69" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|18°38'2.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|10°51'49.41" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Prograde|0°7'11.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Prograde|13°34'2.09" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|17°52'54.09" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|0°44'55.54" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|0°44'55.29" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°56'55.63" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|18°38'2.25" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|10°51'49.43" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|0°7'11.49" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|13°34'2.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|20°56'55.69" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|18°38'2.33" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|10°51'49.41" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|0°7'11.48" |Aries|Sharatain|Mars|
+|♀ Venus|Prograde|13°34'2.09" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Prograde|17°52'54.09" |Pisces|Rescha|Jupiter|
-|☾ Moon|Prograde|0°44'55.54" |Scorpio|Akleel|Mars|
+|☾ Moon|Prograde|0°44'55.29" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
