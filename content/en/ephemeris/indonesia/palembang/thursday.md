@@ -34,7 +34,7 @@ Altitude: 5 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:02:34 |
+| Dawn | 05:02:33 |
 | Sunrise | 06:04:11 |
 | Dhuhr | 12:07:22 |
 | Medium Coeli | 12:07:22 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°16'12.78" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|19°23'49.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|13°16'1.15" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|21°16'12.84" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|19°23'49.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|13°16'1.13" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Prograde|3°17'26.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Prograde|16°46'11.70" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|16°46'11.68" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|23°40'22.00" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|16°17'17.63" |Scorpio|Qalb|Sun|
+|☾ Moon|Prograde|16°17'17.89" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°16'12.78" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|19°23'49.87" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|13°16'1.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|21°16'12.84" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|19°23'49.96" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|13°16'1.13" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Prograde|3°17'26.75" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|16°46'11.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|16°46'11.68" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Prograde|23°40'22.00" |Pisces|Rescha|Mars|
-|☾ Moon|Prograde|16°17'17.63" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Prograde|16°17'17.89" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

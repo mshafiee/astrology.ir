@@ -34,7 +34,7 @@ Altitude: 665 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:54:54 |
+| Dawn | 05:54:55 |
 | Sunrise | 07:16:52 |
 | Dhuhr | 13:21:58 |
 | Medium Coeli | 13:21:58 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°59'56.66" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|18°45'8.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|11°14'8.05" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Prograde|20°59'56.60" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|18°45'8.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|11°14'8.07" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Prograde|0°36'37.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Prograde|14°3'29.56" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|14°3'29.58" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|18°45'51.32" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Prograde|8°8'8.85" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|8°8'9.03" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|20°59'56.66" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|18°45'8.26" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|11°14'8.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|20°59'56.60" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|18°45'8.17" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|11°14'8.07" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Prograde|0°36'37.59" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|14°3'29.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|14°3'29.58" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Prograde|18°45'51.32" |Pisces|Rescha|Jupiter|
-|☾ Moon|Prograde|8°8'8.85" |Scorpio|Akleel|Mars|
+|☾ Moon|Prograde|8°8'9.03" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
