@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:07:42 |
 | Maghrib | 18:09:03 |
 | Isha | 19:39:03 |
-| Sharia Midnight | 23:28:55 |
+| Sharia Midnight | 23:28:56 |
 | Imum Coeli | 00:04:51 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°22'8.30" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|19°38'6.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|14°1'8.15" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|4°16'51.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Prograde|17°47'1.28" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|21°22'8.24" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|19°38'6.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|14°1'8.18" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|4°16'51.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Prograde|17°47'1.29" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|25°31'40.01" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|0°37'36.07" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Prograde|0°37'35.47" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°22'8.30" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|19°38'6.25" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|14°1'8.15" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|4°16'51.65" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|17°47'1.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|21°22'8.24" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|19°38'6.16" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|14°1'8.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|4°16'51.66" |Aries|Sharatain|Mars|
+|♀ Venus|Prograde|17°47'1.29" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Prograde|25°31'40.01" |Pisces|Rescha|Mars|
-|☾ Moon|Prograde|0°37'36.07" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Prograde|0°37'35.47" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

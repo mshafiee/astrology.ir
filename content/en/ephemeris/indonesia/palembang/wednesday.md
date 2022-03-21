@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:10:52 |
 | Maghrib | 18:24:26 |
 | Isha | 19:04:29 |
-| Sharia Midnight | 23:36:42 |
+| Sharia Midnight | 23:36:43 |
 | Imum Coeli | 00:07:31 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°10'13.92" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|19°9'31.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|12°30'52.06" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Prograde|21°10'13.86" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|19°9'31.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|12°30'52.08" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Prograde|2°17'55.99" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Prograde|15°45'38.88" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Prograde|15°45'38.90" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Prograde|21°50'13.20" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|1°57'13.42" |Scorpio|Akleel|Mars|
+|☾ Moon|Prograde|1°57'13.43" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°10'13.92" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|19°9'31.34" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|12°30'52.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|21°10'13.86" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|19°9'31.26" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|12°30'52.08" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Prograde|2°17'55.99" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|15°45'38.88" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Prograde|15°45'38.90" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Prograde|21°50'13.20" |Pisces|Rescha|Mars|
-|☾ Moon|Prograde|1°57'13.42" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Prograde|1°57'13.43" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
