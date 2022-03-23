@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
 |Duration of the day: 12:18:40|Night duration: 11:40:18|
-|Every hour of day duration: 01:01:33|Every hour of night duration: 00:58:22|
+|Every hour of day duration: 01:01:33|Every hour of night duration: 00:58:21|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°39'19.36" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|20°20'6.45" |Aquarius|SaadAlAkhbia|Moon|
-|♂ Mars|Prograde|16°14'29.07" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|7°12'8.67" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|20°48'33.76" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|21°39'19.30" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|20°20'6.36" |Aquarius|SaadAlAkhbia|Moon|
+|♂ Mars|Prograde|16°14'29.10" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|7°12'8.68" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|20°48'33.78" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Prograde|1°7'52.63" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Prograde|12°36'33.59" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|12°36'32.48" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°39'19.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|20°20'6.45" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|16°14'29.07" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|7°12'8.67" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|20°48'33.76" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Prograde|21°39'19.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|20°20'6.36" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|16°14'29.10" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|7°12'8.68" |Aries|Sharatain|Mars|
+|♀ Venus|Prograde|20°48'33.78" |Aquarius|SaadAlAkhbia|Moon|
 |☿ Mercury|Prograde|1°7'52.63" |Aries|Sharatain|Mars|
-|☾ Moon|Prograde|12°36'33.59" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|12°36'32.48" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

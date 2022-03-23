@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°24'47.80" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|19°44'32.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|14°21'31.19" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|4°43'41.41" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|18°14'36.47" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|26°22'21.61" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|7°6'13.64" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Prograde|21°24'47.74" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|19°44'32.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|14°21'31.21" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|4°43'41.42" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|18°14'36.49" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|26°22'21.62" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|7°6'12.91" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°24'47.80" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Prograde|19°44'32.57" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|14°21'31.19" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|4°43'41.41" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|18°14'36.47" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Prograde|26°22'21.61" |Pisces|Rescha|Mars|
-|☾ Moon|Prograde|7°6'13.64" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Prograde|21°24'47.74" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Prograde|19°44'32.48" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|14°21'31.21" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|4°43'41.42" |Aries|Sharatain|Mars|
+|♀ Venus|Prograde|18°14'36.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Prograde|26°22'21.62" |Pisces|Rescha|Mars|
+|☾ Moon|Prograde|7°6'12.91" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
