@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°29'28.91" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|19°55'56.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♂ Mars|Prograde|14°57'40.52" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|5°31'11.67" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|19°3'38.52" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Prograde|27°52'54.74" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Prograde|18°26'20.99" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Prograde|21°29'28.85" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|19°55'56.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Prograde|14°57'40.55" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|5°31'11.68" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|19°3'38.54" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Prograde|27°52'54.75" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|18°26'20.13" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°29'28.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|19°55'56.55" |Pisces|Rescha|Jupiter|
-|♂ Mars|Prograde|14°57'40.52" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|5°31'11.67" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|19°3'38.52" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Prograde|27°52'54.74" |Pisces|Rescha|Mars|
-|☾ Moon|Prograde|18°26'20.99" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Prograde|21°29'28.85" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|19°55'56.45" |Pisces|Rescha|Jupiter|
+|♂ Mars|Prograde|14°57'40.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|5°31'11.68" |Aries|Sharatain|Mars|
+|♀ Venus|Prograde|19°3'38.54" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Prograde|27°52'54.75" |Pisces|Rescha|Mars|
+|☾ Moon|Prograde|18°26'20.13" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
