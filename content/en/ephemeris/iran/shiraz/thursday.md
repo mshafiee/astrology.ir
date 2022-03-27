@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:04:04 |
 | Sunset | 19:17:19 |
 | Maghrib | 19:22:09 |
-| Isha | 20:34:37 |
+| Isha | 20:34:38 |
 | Sharia Midnight | 00:22:41 |
 | Imum Coeli | 01:03:56 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°57'20.73" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|21°5'14.10" |Aquarius|SaadAlAkhbia|Moon|
-|♂ Mars|Prograde|18°38'46.15" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|10°21'20.85" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|24°7'45.58" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|7°23'33.45" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Prograde|26°34'59.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|21°57'20.67" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|21°5'14.00" |Aquarius|SaadAlAkhbia|Moon|
+|♂ Mars|Prograde|18°38'46.19" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|10°21'20.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|24°7'45.60" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|7°23'33.46" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Prograde|26°34'58.93" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°57'20.73" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|21°5'14.10" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|18°38'46.15" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|10°21'20.85" |Aries|Sharatain|Sun|
-|♀ Venus|Prograde|24°7'45.58" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Prograde|7°23'33.45" |Aries|Sharatain|Mars|
-|☾ Moon|Prograde|26°34'59.65" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|21°57'20.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|21°5'14.00" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|18°38'46.19" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|10°21'20.87" |Aries|Sharatain|Sun|
+|♀ Venus|Prograde|24°7'45.60" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Prograde|7°23'33.46" |Aries|Sharatain|Mars|
+|☾ Moon|Prograde|26°34'58.93" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
