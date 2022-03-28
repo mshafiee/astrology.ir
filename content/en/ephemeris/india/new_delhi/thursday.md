@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:38:32 |
 | Maghrib | 18:56:27 |
 | Isha | 19:40:29 |
-| Sharia Midnight | 23:45:19 |
+| Sharia Midnight | 23:45:18 |
 | Imum Coeli | 00:25:10 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°56'57.80" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|21°4'16.00" |Aquarius|SaadAlAkhbia|Moon|
-|♂ Mars|Prograde|18°35'40.00" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|10°17'17.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|24°3'26.93" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|21°56'57.86" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|21°4'16.09" |Aquarius|SaadAlAkhbia|Moon|
+|♂ Mars|Prograde|18°35'39.96" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|10°17'17.05" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|24°3'26.90" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Prograde|7°15'21.20" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Prograde|25°40'26.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|25°40'27.65" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°56'57.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|21°4'16.00" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|18°35'40.00" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|10°17'17.07" |Aries|Sharatain|Sun|
-|♀ Venus|Prograde|24°3'26.93" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|21°56'57.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|21°4'16.09" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|18°35'39.96" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|10°17'17.05" |Aries|Sharatain|Sun|
+|♀ Venus|Prograde|24°3'26.90" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Prograde|7°15'21.20" |Aries|Sharatain|Mars|
-|☾ Moon|Prograde|25°40'26.88" |Pisces|Rescha|Mars|
+|☾ Moon|Prograde|25°40'27.65" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

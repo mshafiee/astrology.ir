@@ -34,7 +34,7 @@ Altitude: 9 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:08:46 |
+| Dawn | 05:08:47 |
 | Sunrise | 06:14:08 |
 | Dhuhr | 12:22:53 |
 | Medium Coeli | 12:22:53 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°53'36.01" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|20°55'45.52" |Aquarius|SaadAlAkhbia|Moon|
-|♂ Mars|Prograde|18°8'22.43" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|9°41'32.36" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Prograde|23°25'34.96" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Prograde|21°53'35.95" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|20°55'45.43" |Aquarius|SaadAlAkhbia|Moon|
+|♂ Mars|Prograde|18°8'22.46" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|9°41'32.38" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Prograde|23°25'34.98" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Prograde|6°3'25.57" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Prograde|17°37'46.82" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Prograde|17°37'45.74" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|21°53'36.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|20°55'45.52" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|18°8'22.43" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|9°41'32.36" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|23°25'34.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|21°53'35.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|20°55'45.43" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|18°8'22.46" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|9°41'32.38" |Aries|Sharatain|Mars|
+|♀ Venus|Prograde|23°25'34.98" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Prograde|6°3'25.57" |Aries|Sharatain|Mars|
-|☾ Moon|Prograde|17°37'46.82" |Pisces|Rescha|Jupiter|
+|☾ Moon|Prograde|17°37'45.74" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
