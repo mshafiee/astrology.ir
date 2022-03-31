@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°3'4.46" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|21°19'50.03" |Aquarius|SaadAlAkhbia|Moon|
-|♂ Mars|Prograde|19°25'41.74" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Prograde|11°22'47.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|25°13'6.86" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Prograde|9°28'13.65" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Prograde|10°24'45.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Prograde|22°3'4.51" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|21°19'50.13" |Aquarius|SaadAlAkhbia|Moon|
+|♂ Mars|Prograde|19°25'41.70" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Prograde|11°22'47.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|25°13'6.84" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Prograde|9°28'13.64" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Prograde|10°24'45.37" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°3'4.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|21°19'50.03" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|19°25'41.74" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|11°22'47.20" |Aries|Sharatain|Sun|
-|♀ Venus|Prograde|25°13'6.86" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Prograde|9°28'13.65" |Aries|Sharatain|Mars|
-|☾ Moon|Prograde|10°24'45.17" |Aries|Sharatain|Sun|
+|♄ Saturn|Prograde|22°3'4.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|21°19'50.13" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|19°25'41.70" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|11°22'47.18" |Aries|Sharatain|Sun|
+|♀ Venus|Prograde|25°13'6.84" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Prograde|9°28'13.64" |Aries|Sharatain|Mars|
+|☾ Moon|Prograde|10°24'45.37" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
