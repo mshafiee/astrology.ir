@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Prograde|22°24'0.52" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Prograde|15°15'46.10" |Aries|Butain|Sun|
 |♀ Venus|Prograde|29°23'43.73" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Prograde|17°31'3.59" |Aries|Butain|Sun|
-|☾ Moon|Prograde|29°42'4.28" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Prograde|17°30'59.51" |Aries|Butain|Sun|
+|☾ Moon|Prograde|29°4'47.06" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
