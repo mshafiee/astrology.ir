@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:12:45|Night duration: 11:46:46|
+|Duration of the day: 12:12:45|Night duration: 11:46:47|
 |Every hour of day duration: 01:01:04|Every hour of night duration: 00:58:54|
 
  
@@ -232,12 +232,12 @@ Timetable of twelve day and night planetary hours
 |4|Sun|Servant|21:33:17|22:32:10|Attracting material things and earning a living and prosperity|
 |5|Venus|Servant|22:32:11|23:31:04|Absorption of body, nothing to do|
 |6|Mercury|Servant|23:31:05|00:29:58|Disposal of negative energy of sore eyes|
-|7|Moon|Servant|00:29:59|01:28:51|Attracting love and affection and attracting hearts|
-|8|Saturn|Ruler|01:28:52|02:27:45|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Jupiter|Servant|02:27:46|03:26:39|Heart Compassion|
-|10|Mars|Servant|03:26:40|04:25:33|Absorption of badness, nothing to do|
-|11|Sun|Servant|04:25:34|05:24:27|Attracting bonds and courtship|
-|12|Venus|Servant|05:24:28|06:23:21|Hatred and corruption and creating negative energy to disrupt|
+|7|Moon|Servant|00:29:59|01:28:52|Attracting love and affection and attracting hearts|
+|8|Saturn|Ruler|01:28:53|02:27:46|Creating corruption and destroying the enemy and making the enemy sick|
+|9|Jupiter|Servant|02:27:47|03:26:40|Heart Compassion|
+|10|Mars|Servant|03:26:41|04:25:34|Absorption of badness, nothing to do|
+|11|Sun|Servant|04:25:35|05:24:28|Attracting bonds and courtship|
+|12|Venus|Servant|05:24:29|06:23:22|Hatred and corruption and creating negative energy to disrupt|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:12:45|Night duration: 11:46:46|
+|Duration of the day: 12:12:45|Night duration: 11:46:47|
 |Every hour duration: 01:44:41|Every hour duration: 01:40:58|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Sun|Servant|23:39:30|01:20:27|
 |Rooster song|Venus|Servant|01:20:28|03:01:25|
 |False Dawn|Mercury|Servant|03:01:26|04:42:23|
-|Dawn|Moon|Servant|04:42:24|06:23:21|
+|Dawn|Moon|Servant|04:42:24|06:23:22|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°22'51.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|22°11'17.44" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|22°12'7.10" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|15°0'16.49" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|29°6'55.46" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Prograde|22°22'51.45" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|22°11'17.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|22°12'7.14" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|15°0'16.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|29°6'55.48" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Prograde|16°58'29.87" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Prograde|26°42'40.75" |Aries|Thurayya|Venus|
+|☾ Moon|Prograde|26°42'40.57" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°22'51.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|22°11'17.44" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|22°12'7.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|15°0'16.49" |Aries|Butain|Sun|
-|♀ Venus|Prograde|29°6'55.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|22°22'51.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|22°11'17.34" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|22°12'7.14" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|15°0'16.50" |Aries|Butain|Sun|
+|♀ Venus|Prograde|29°6'55.48" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Prograde|16°58'29.87" |Aries|Butain|Sun|
-|☾ Moon|Prograde|26°42'40.75" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|26°42'40.57" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
