@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 13:19:02 |
 | Medium Coeli | 13:19:02 |
 | Sunset | 19:40:15 |
-| Maghrib | 20:00:32 |
+| Maghrib | 20:00:31 |
 | Isha | 20:49:36 |
 | Sharia Midnight | 00:34:08 |
 | Imum Coeli | 01:18:54 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°19'7.29" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|22°1'26.57" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|21°40'9.00" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|14°18'31.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Prograde|28°21'45.41" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Prograde|22°19'7.35" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|22°1'26.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|21°40'8.96" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|14°18'31.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Prograde|28°21'45.39" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Prograde|15°31'11.35" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Prograde|17°53'14.69" |Aries|Butain|Sun|
+|☾ Moon|Prograde|17°53'14.94" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°19'7.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|22°1'26.57" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|21°40'9.00" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|14°18'31.17" |Aries|Butain|Sun|
-|♀ Venus|Prograde|28°21'45.41" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|22°19'7.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|22°1'26.67" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|21°40'8.96" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|14°18'31.16" |Aries|Butain|Sun|
+|♀ Venus|Prograde|28°21'45.39" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Prograde|15°31'11.35" |Aries|Butain|Sun|
-|☾ Moon|Prograde|17°53'14.69" |Taurus|Dabaran|Moon|
+|☾ Moon|Prograde|17°53'14.94" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
