@@ -1,6 +1,6 @@
 ---
-date: 2022-04-03T00:00:00+04:00
-lastmod: 2022-04-03T00:00:00+04:00
+date: 2022-04-10T00:00:00+04:00
+lastmod: 2022-04-10T00:00:00+04:00
 title: Victoria (Sunday)
 slug: sunday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Sunday, 03 Apr 2022
+description: 🗓 Sunday, 10 Apr 2022
 
 toc: false
 ---
