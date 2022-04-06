@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:51:48 |
 | Maghrib | 18:52:43 |
 | Isha | 20:22:43 |
-| Sharia Midnight | 00:08:26 |
+| Sharia Midnight | 00:08:25 |
 | Imum Coeli | 00:44:54 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°40'44.78" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|22°59'23.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|24°49'19.25" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|18°25'7.93" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Prograde|22°40'44.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|22°59'23.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|24°49'19.22" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|18°25'7.92" |Pisces|Rescha|Jupiter|
 |♀ Venus|Prograde|2°50'26.57" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Prograde|24°10'44.56" |Pisces|Rescha|Mars|
-|☾ Moon|Prograde|7°35'34.08" |Gemini|HanAh|Jupiter|
+|☾ Moon|Prograde|7°35'34.58" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°40'44.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|22°59'23.35" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|24°49'19.25" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|18°25'7.93" |Aries|Butain|Sun|
+|♄ Saturn|Prograde|22°40'44.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|22°59'23.46" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|24°49'19.22" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|18°25'7.92" |Aries|Butain|Sun|
 |♀ Venus|Prograde|2°50'26.57" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Prograde|24°10'44.56" |Aries|Butain|Venus|
-|☾ Moon|Prograde|7°35'34.08" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|7°35'34.58" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
