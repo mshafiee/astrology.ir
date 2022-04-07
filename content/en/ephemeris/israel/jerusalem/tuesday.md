@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:39:57 |
 | Sunset | 19:05:54 |
 | Maghrib | 19:10:40 |
-| Isha | 20:31:55 |
+| Isha | 20:31:54 |
 | Sharia Midnight | 23:56:37 |
 | Imum Coeli | 00:39:49 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°59'41.38" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|23°52'16.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|27°44'15.18" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Prograde|22°12'26.71" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|7°1'54.08" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|22°59'41.42" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|23°52'16.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|27°44'15.14" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Prograde|22°12'26.69" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|7°1'54.07" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Prograde|2°8'8.23" |Aries|Sharatain|Mars|
-|☾ Moon|Prograde|23°56'57.90" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|23°56'57.86" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°59'41.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|23°52'16.41" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|27°44'15.18" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|22°12'26.71" |Aries|Butain|Venus|
-|♀ Venus|Prograde|7°1'54.08" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Prograde|22°59'41.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|23°52'16.52" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|27°44'15.14" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|22°12'26.69" |Aries|Butain|Venus|
+|♀ Venus|Prograde|7°1'54.07" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Prograde|2°8'8.23" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|23°56'57.90" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|23°56'57.86" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

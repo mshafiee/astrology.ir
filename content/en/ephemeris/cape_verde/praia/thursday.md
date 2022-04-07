@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 12:36:10 |
 | Medium Coeli | 12:36:10 |
 | Sunset | 18:47:18 |
-| Maghrib | 19:01:29 |
+| Maghrib | 19:01:28 |
 | Isha | 19:43:31 |
 | Sharia Midnight | 00:03:35 |
 | Imum Coeli | 00:36:02 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°35'50.11" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|22°46'1.24" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|24°5'27.68" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|17°28'1.48" |Pisces|Rescha|Jupiter|
-|♀ Venus|Prograde|1°47'49.87" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|22°35'50.17" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|22°46'1.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|24°5'27.64" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|17°28'1.47" |Pisces|Rescha|Jupiter|
+|♀ Venus|Prograde|1°47'49.86" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Prograde|22°9'56.40" |Pisces|Rescha|Mars|
-|☾ Moon|Prograde|26°15'49.80" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|26°15'50.13" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°35'50.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|22°46'1.24" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|24°5'27.68" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|17°28'1.48" |Aries|Butain|Sun|
-|♀ Venus|Prograde|1°47'49.87" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Prograde|22°35'50.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|22°46'1.34" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|24°5'27.64" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|17°28'1.47" |Aries|Butain|Sun|
+|♀ Venus|Prograde|1°47'49.86" |Pisces|FarghAlMuqaddam|Saturn|
 |☿ Mercury|Prograde|22°9'56.40" |Aries|Butain|Venus|
-|☾ Moon|Prograde|26°15'49.80" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|26°15'50.13" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

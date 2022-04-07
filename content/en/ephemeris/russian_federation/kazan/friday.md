@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:35:31 |
 | Maghrib | 18:37:29 |
 | Isha | 20:07:29 |
-| Sharia Midnight | 22:29:39 |
+| Sharia Midnight | 22:29:38 |
 | Imum Coeli | 23:45:16 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°39'45.09" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|22°56'40.45" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|24°40'24.87" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Prograde|18°13'29.24" |Pisces|Rescha|Jupiter|
-|♀ Venus|Prograde|2°37'40.78" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|23°46'14.49" |Pisces|Rescha|Mars|
-|☾ Moon|Prograde|5°10'5.59" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Prograde|22°39'45.05" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|22°56'40.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|24°40'24.91" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Prograde|18°13'29.25" |Pisces|Rescha|Jupiter|
+|♀ Venus|Prograde|2°37'40.79" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Prograde|23°46'14.50" |Pisces|Rescha|Mars|
+|☾ Moon|Prograde|5°10'5.10" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°39'45.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|22°56'40.45" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|24°40'24.87" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|18°13'29.24" |Aries|Butain|Sun|
-|♀ Venus|Prograde|2°37'40.78" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Prograde|23°46'14.49" |Aries|Butain|Venus|
-|☾ Moon|Prograde|5°10'5.59" |Cancer|Nathrah|Venus|
+|♄ Saturn|Prograde|22°39'45.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|22°56'40.34" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|24°40'24.91" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|18°13'29.25" |Aries|Butain|Sun|
+|♀ Venus|Prograde|2°37'40.79" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Prograde|23°46'14.50" |Aries|Butain|Venus|
+|☾ Moon|Prograde|5°10'5.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
