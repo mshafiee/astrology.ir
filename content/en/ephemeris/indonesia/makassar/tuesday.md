@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°58'39.52" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|23°49'20.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|27°34'27.26" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Prograde|21°59'45.51" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|6°47'45.76" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Prograde|1°41'45.93" |Aries|Sharatain|Mars|
-|☾ Moon|Prograde|21°4'56.75" |Cancer|Tarf|Moon|
+|♄ Saturn|Prograde|22°58'39.47" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|23°49'20.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|27°34'27.30" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Prograde|21°59'45.52" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|6°47'45.77" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Prograde|1°41'45.94" |Aries|Sharatain|Mars|
+|☾ Moon|Prograde|21°4'56.88" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°58'39.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|23°49'20.12" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|27°34'27.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|21°59'45.51" |Aries|Butain|Venus|
-|♀ Venus|Prograde|6°47'45.76" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Prograde|1°41'45.93" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|21°4'56.75" |Leo|Zubrah|Mars|
+|♄ Saturn|Prograde|22°58'39.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|23°49'20.01" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|27°34'27.30" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|21°59'45.52" |Aries|Butain|Venus|
+|♀ Venus|Prograde|6°47'45.77" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Prograde|1°41'45.94" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|21°4'56.88" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

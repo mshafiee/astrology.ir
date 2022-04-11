@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 12:31:38 |
 | Medium Coeli | 12:31:38 |
 | Sunset | 18:40:59 |
-| Maghrib | 18:57:07 |
+| Maghrib | 18:57:08 |
 | Isha | 19:36:22 |
 | Sharia Midnight | 23:56:03 |
 | Imum Coeli | 00:31:30 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°51'27.55" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|23°29'1.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|26°27'2.99" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Prograde|20°32'12.89" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|5°10'35.59" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|22°51'27.50" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|23°29'1.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|26°27'3.03" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Prograde|20°32'12.90" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|5°10'35.60" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Prograde|28°38'53.89" |Pisces|Rescha|Mars|
-|☾ Moon|Prograde|3°2'6.55" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|3°2'6.72" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|22°51'27.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|23°29'1.46" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|26°27'2.99" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|20°32'12.89" |Aries|Butain|Venus|
-|♀ Venus|Prograde|5°10'35.59" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Prograde|22°51'27.50" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|23°29'1.35" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|26°27'3.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|20°32'12.90" |Aries|Butain|Venus|
+|♀ Venus|Prograde|5°10'35.60" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Prograde|28°38'53.89" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|3°2'6.55" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|3°2'6.72" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
