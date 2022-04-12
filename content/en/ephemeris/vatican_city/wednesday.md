@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 13:10:44 |
 | Medium Coeli | 13:10:44 |
 | Sunset | 19:49:00 |
-| Maghrib | 20:07:53 |
+| Maghrib | 20:07:52 |
 | Isha | 21:05:47 |
 | Sharia Midnight | 00:25:51 |
 | Imum Coeli | 01:10:36 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|23°4'41.07" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|24°6'36.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|28°32'4.40" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Prograde|23°14'28.08" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|8°11'6.29" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Prograde|23°4'41.11" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|24°6'36.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|28°32'4.35" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Prograde|23°14'28.07" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|8°11'6.28" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Prograde|4°15'48.30" |Aries|Sharatain|Mars|
-|☾ Moon|Prograde|7°26'23.29" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|7°26'23.76" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|23°4'41.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|24°6'36.22" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|28°32'4.40" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|23°14'28.08" |Aries|Butain|Venus|
-|♀ Venus|Prograde|8°11'6.29" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Prograde|23°4'41.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|24°6'36.33" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|28°32'4.35" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|23°14'28.07" |Aries|Butain|Venus|
+|♀ Venus|Prograde|8°11'6.28" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Prograde|4°15'48.30" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|7°26'23.29" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|7°26'23.76" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
