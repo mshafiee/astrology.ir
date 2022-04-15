@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:02:59 |
 | Sunset | 19:42:33 |
 | Maghrib | 19:43:46 |
-| Isha | 21:16:27 |
+| Isha | 21:16:28 |
 | Sharia Midnight | 00:12:33 |
 | Imum Coeli | 01:02:51 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|23°13'54.67" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|24°33'33.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|0°2'29.77" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|25°11'38.87" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|10°22'29.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|23°13'54.63" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|24°33'32.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|0°2'29.82" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|25°11'38.89" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|10°22'29.60" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Prograde|8°11'29.24" |Aries|Sharatain|Mars|
-|☾ Moon|Prograde|3°55'49.32" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|3°55'48.59" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|23°13'54.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|24°33'33.01" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|0°2'29.77" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Prograde|25°11'38.87" |Aries|Butain|Venus|
-|♀ Venus|Prograde|10°22'29.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Prograde|23°13'54.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|24°33'32.91" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|0°2'29.82" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Prograde|25°11'38.89" |Aries|Butain|Venus|
+|♀ Venus|Prograde|10°22'29.60" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Prograde|8°11'29.24" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|3°55'49.32" |Libra|Ghafr|Moon|
+|☾ Moon|Prograde|3°55'48.59" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
