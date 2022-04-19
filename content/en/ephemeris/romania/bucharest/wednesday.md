@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Prograde|3°47'25.07" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Prograde|0°2'28.06" |Taurus|Thurayya|Mercury|
 |♀ Venus|Prograde|15°52'3.10" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Prograde|17°9'59.97" |Taurus|Dabaran|Moon|
-|☾ Moon|Prograde|15°55'19.93" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Prograde|17°10'5.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Prograde|14°56'44.30" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Venus|Moon|Venus|
 |♀ Venus|Venus|Mars|Mercury|Sun|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Mars|Sun|Saturn|
-|☾ Moon|Venus|Sun|Mercury|Moon|Mercury|
+|☾ Moon|Venus|Sun|Venus|Sun|Jupiter|
 
 
 {{< /tab >}}

@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 04:23:59 |
 | Sunrise | 05:34:10 |
-| Dhuhr | 11:59:56 |
-| Medium Coeli | 11:59:56 |
+| Dhuhr | 11:59:55 |
+| Medium Coeli | 11:59:55 |
 | Sunset | 18:26:00 |
 | Maghrib | 18:41:15 |
 | Isha | 19:27:01 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 04:16:00 |
 | Sunrise | 05:34:10 |
-| Dhuhr | 11:59:56 |
-| Medium Coeli | 11:59:56 |
+| Dhuhr | 11:59:55 |
+| Medium Coeli | 11:59:55 |
 | Sunset | 18:26:00 |
 | Maghrib | 18:43:30 |
 | Isha | 19:27:01 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 04:14:36 |
 | Sunrise | 05:34:10 |
-| Dhuhr | 11:59:56 |
-| Medium Coeli | 11:59:56 |
+| Dhuhr | 11:59:55 |
+| Medium Coeli | 11:59:55 |
 | Sunset | 18:26:00 |
 | Maghrib | 18:27:00 |
 | Isha | 19:41:02 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 04:28:38 |
 | Sunrise | 05:34:10 |
-| Dhuhr | 11:59:56 |
-| Medium Coeli | 11:59:56 |
+| Dhuhr | 11:59:55 |
+| Medium Coeli | 11:59:55 |
 | Sunset | 18:26:00 |
 | Maghrib | 18:27:00 |
 | Isha | 19:31:40 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 04:07:30 |
 | Sunrise | 05:34:10 |
-| Dhuhr | 11:59:56 |
-| Medium Coeli | 11:59:56 |
+| Dhuhr | 11:59:55 |
+| Medium Coeli | 11:59:55 |
 | Sunset | 18:26:00 |
 | Maghrib | 18:27:00 |
 | Isha | 19:43:24 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 04:14:36 |
 | Sunrise | 05:34:10 |
-| Dhuhr | 11:59:56 |
-| Medium Coeli | 11:59:56 |
+| Dhuhr | 11:59:55 |
+| Medium Coeli | 11:59:55 |
 | Sunset | 18:26:00 |
 | Maghrib | 18:27:00 |
 | Isha | 19:45:45 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 04:12:14 |
 | Sunrise | 05:34:10 |
-| Dhuhr | 11:59:56 |
-| Medium Coeli | 11:59:56 |
+| Dhuhr | 11:59:55 |
+| Medium Coeli | 11:59:55 |
 | Sunset | 18:26:00 |
 | Maghrib | 18:27:00 |
 | Isha | 19:57:00 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|23°51'6.13" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|26°29'55.63" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|6°41'42.26" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|3°47'19.69" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|20°9'55.36" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Prograde|23°4'24.99" |Aries|Butain|Venus|
-|☾ Moon|Prograde|10°11'23.05" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Prograde|23°51'6.16" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|26°29'55.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|6°41'42.22" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|3°47'19.68" |Aries|Sharatain|Mars|
+|♀ Venus|Prograde|20°9'55.34" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Prograde|23°4'25.00" |Aries|Butain|Venus|
+|☾ Moon|Prograde|10°11'22.36" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|23°51'6.13" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|26°29'55.63" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|6°41'42.26" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Prograde|3°47'19.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Prograde|20°9'55.36" |Pisces|Rescha|Mars|
-|☿ Mercury|Prograde|23°4'24.99" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|10°11'23.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Prograde|23°51'6.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|26°29'55.74" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|6°41'42.22" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Prograde|3°47'19.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Prograde|20°9'55.34" |Pisces|Rescha|Mars|
+|☿ Mercury|Prograde|23°4'25.00" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|10°11'22.36" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

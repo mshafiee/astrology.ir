@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|23°35'8.72" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|25°38'15.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|3°42'36.44" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|29°56'14.24" |Pisces|Rescha|Mars|
-|♀ Venus|Prograde|15°44'57.26" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Prograde|16°59'27.27" |Aries|Butain|Sun|
-|☾ Moon|Prograde|13°34'38.36" |Scorpio|Qalb|Sun|
+|♄ Saturn|Prograde|23°35'8.69" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|25°38'15.23" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|3°42'36.48" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|29°56'14.25" |Pisces|Rescha|Mars|
+|♀ Venus|Prograde|15°44'57.28" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Prograde|16°59'27.25" |Aries|Butain|Sun|
+|☾ Moon|Prograde|13°34'37.90" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|23°35'8.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|25°38'15.34" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|3°42'36.44" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Prograde|29°56'14.24" |Aries|Thurayya|Venus|
-|♀ Venus|Prograde|15°44'57.26" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Prograde|16°59'27.27" |Taurus|Dabaran|Moon|
-|☾ Moon|Prograde|13°34'38.36" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Prograde|23°35'8.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|25°38'15.23" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|3°42'36.48" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Prograde|29°56'14.25" |Aries|Thurayya|Venus|
+|♀ Venus|Prograde|15°44'57.28" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Prograde|16°59'27.25" |Taurus|Dabaran|Moon|
+|☾ Moon|Prograde|13°34'37.90" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
