@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:42:27 |
+| Dawn | 04:42:26 |
 | Sunrise | 06:09:56 |
 | Dhuhr | 11:46:44 |
 | Medium Coeli | 11:46:44 |
@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|23°42'25.78" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|26°1'27.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|5°2'38.73" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Prograde|1°39'36.46" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|17°43'7.21" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Prograde|19°50'38.74" |Aries|Butain|Sun|
+|♄ Saturn|Prograde|23°42'25.81" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|26°1'28.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|5°2'38.69" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Prograde|1°39'36.45" |Aries|Sharatain|Mars|
+|♀ Venus|Prograde|17°43'7.20" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Prograde|19°50'38.76" |Aries|Butain|Sun|
 |☾ Moon|Prograde|8°48'38.13" |Sagittarius|NaAaem|Mercury|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|23°42'25.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|26°1'27.95" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|5°2'38.73" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Prograde|1°39'36.46" |Taurus|Thurayya|Mercury|
-|♀ Venus|Prograde|17°43'7.21" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Prograde|19°50'38.74" |Taurus|Dabaran|Moon|
+|♄ Saturn|Prograde|23°42'25.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|26°1'28.07" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|5°2'38.69" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Prograde|1°39'36.45" |Taurus|Thurayya|Mercury|
+|♀ Venus|Prograde|17°43'7.20" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Prograde|19°50'38.76" |Taurus|Dabaran|Moon|
 |☾ Moon|Prograde|8°48'38.13" |Capricorn|SaadAlDhabib|Jupiter|
 
 
