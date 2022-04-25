@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Prograde|7°10'26.69" |Aries|Sharatain|Mars|
 |♀ Venus|Prograde|24°4'55.08" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Prograde|27°28'6.06" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|27°33'31.97" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Prograde|27°45'10.15" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
