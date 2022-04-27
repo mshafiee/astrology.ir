@@ -1,6 +1,6 @@
 ---
-date: 2022-04-26T00:00:00+04:00
-lastmod: 2022-04-26T00:00:00+04:00
+date: 2022-05-03T00:00:00+04:00
+lastmod: 2022-05-03T00:00:00+04:00
 title: Victoria (Tuesday)
 slug: tuesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Tuesday, 26 Apr 2022
+description: 🗓 Tuesday, 03 May 2022
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
 
 
 {{< /tab >}}

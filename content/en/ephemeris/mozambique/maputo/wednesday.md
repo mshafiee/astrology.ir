@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 05:00:57 |
 | Sunrise | 06:10:52 |
-| Dhuhr | 11:47:19 |
-| Medium Coeli | 11:47:19 |
+| Dhuhr | 11:47:20 |
+| Medium Coeli | 11:47:20 |
 | Sunset | 17:23:29 |
 | Maghrib | 17:39:03 |
 | Isha | 18:24:23 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 04:53:20 |
 | Sunrise | 06:10:52 |
-| Dhuhr | 11:47:19 |
-| Medium Coeli | 11:47:19 |
+| Dhuhr | 11:47:20 |
+| Medium Coeli | 11:47:20 |
 | Sunset | 17:23:29 |
 | Maghrib | 17:41:20 |
 | Isha | 18:24:23 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 04:51:59 |
 | Sunrise | 06:10:52 |
-| Dhuhr | 11:47:19 |
-| Medium Coeli | 11:47:19 |
+| Dhuhr | 11:47:20 |
+| Medium Coeli | 11:47:20 |
 | Sunset | 17:23:29 |
 | Maghrib | 17:24:48 |
 | Isha | 18:37:52 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:05:27 |
 | Sunrise | 06:10:52 |
-| Dhuhr | 11:47:19 |
-| Medium Coeli | 11:47:19 |
+| Dhuhr | 11:47:20 |
+| Medium Coeli | 11:47:20 |
 | Sunset | 17:23:29 |
 | Maghrib | 17:24:48 |
 | Isha | 18:28:53 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 04:45:16 |
 | Sunrise | 06:10:52 |
-| Dhuhr | 11:47:19 |
-| Medium Coeli | 11:47:19 |
+| Dhuhr | 11:47:20 |
+| Medium Coeli | 11:47:20 |
 | Sunset | 17:23:29 |
 | Maghrib | 17:24:48 |
 | Isha | 18:40:06 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 04:51:59 |
 | Sunrise | 06:10:52 |
-| Dhuhr | 11:47:19 |
-| Medium Coeli | 11:47:19 |
+| Dhuhr | 11:47:20 |
+| Medium Coeli | 11:47:20 |
 | Sunset | 17:23:29 |
 | Maghrib | 17:24:48 |
 | Isha | 18:42:21 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 04:49:45 |
 | Sunrise | 06:10:52 |
-| Dhuhr | 11:47:19 |
-| Medium Coeli | 11:47:19 |
+| Dhuhr | 11:47:20 |
+| Medium Coeli | 11:47:20 |
 | Sunset | 17:23:29 |
 | Maghrib | 17:24:48 |
 | Isha | 18:54:48 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°3'5.01" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|27°11'0.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|9°6'30.50" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Prograde|6°53'54.61" |Aries|Sharatain|Mars|
-|♀ Venus|Prograde|23°45'42.39" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Prograde|27°8'46.19" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|24°8'19.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|24°3'4.99" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|27°11'0.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|9°6'30.53" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Prograde|6°53'54.64" |Aries|Sharatain|Mars|
+|♀ Venus|Prograde|23°45'42.42" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Prograde|27°8'46.20" |Aries|Thurayya|Venus|
+|☾ Moon|Prograde|24°8'18.34" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°3'5.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|27°11'0.28" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|9°6'30.50" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Prograde|6°53'54.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Prograde|23°45'42.39" |Pisces|Rescha|Mars|
-|☿ Mercury|Prograde|27°8'46.19" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|24°8'19.43" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|24°3'4.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|27°11'0.17" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|9°6'30.53" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Prograde|6°53'54.64" |Taurus|Thurayya|Mercury|
+|♀ Venus|Prograde|23°45'42.42" |Pisces|Rescha|Mars|
+|☿ Mercury|Prograde|27°8'46.20" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|24°8'18.34" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
