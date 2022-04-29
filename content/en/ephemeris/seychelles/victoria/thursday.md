@@ -1,6 +1,6 @@
 ---
-date: 2022-04-28T00:00:00+04:00
-lastmod: 2022-04-28T00:00:00+04:00
+date: 2022-05-05T00:00:00+04:00
+lastmod: 2022-05-05T00:00:00+04:00
 title: Victoria (Thursday)
 slug: thursday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Thursday, 28 Apr 2022
+description: 🗓 Thursday, 05 May 2022
 
 toc: false
 ---

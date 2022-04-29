@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°22'16.96" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|28°22'21.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|13°23'55.29" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|12°25'7.92" |Aries|Sharatain|Sun|
-|♀ Venus|Prograde|0°12'27.73" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Prograde|2°19'30.38" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|5°22'12.57" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|24°22'16.94" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|28°22'21.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|13°23'55.30" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|12°25'7.94" |Aries|Sharatain|Sun|
+|♀ Venus|Prograde|0°12'27.74" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Prograde|2°19'30.40" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|5°22'13.59" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°22'16.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|28°22'21.23" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|13°23'55.29" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|12°25'7.92" |Taurus|Dabaran|Moon|
-|♀ Venus|Prograde|0°12'27.73" |Aries|Sharatain|Mars|
-|☿ Mercury|Prograde|2°19'30.38" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|5°22'12.57" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Prograde|24°22'16.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|28°22'21.11" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|13°23'55.30" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|12°25'7.94" |Taurus|Dabaran|Moon|
+|♀ Venus|Prograde|0°12'27.74" |Aries|Sharatain|Mars|
+|☿ Mercury|Prograde|2°19'30.40" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|5°22'13.59" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -34,7 +34,7 @@ Altitude: 428 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:42:00 |
+| Dawn | 03:42:01 |
 | Sunrise | 05:08:10 |
 | Dhuhr | 12:00:46 |
 | Medium Coeli | 12:00:46 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°26'5.14" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|28°37'32.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|24°26'5.13" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|28°37'32.17" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|14°19'46.21" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|13°36'57.15" |Aries|Butain|Sun|
+|☉ Sun|Prograde|13°36'57.17" |Aries|Butain|Sun|
 |♀ Venus|Prograde|1°36'53.54" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Prograde|3°4'58.86" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|20°3'13.93" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Prograde|3°4'58.89" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|20°3'15.31" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°26'5.14" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|28°37'32.28" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|24°26'5.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|28°37'32.17" |Pisces|Rescha|Mars|
 |♂ Mars|Prograde|14°19'46.21" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|13°36'57.15" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|13°36'57.17" |Taurus|Dabaran|Moon|
 |♀ Venus|Prograde|1°36'53.54" |Aries|Sharatain|Mars|
-|☿ Mercury|Prograde|3°4'58.86" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|20°3'13.93" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°4'58.89" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|20°3'15.31" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
