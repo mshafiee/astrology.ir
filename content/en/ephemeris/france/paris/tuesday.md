@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 13:47:30 |
 | Medium Coeli | 13:47:30 |
 | Sunset | 21:09:06 |
-| Maghrib | 21:35:58 |
+| Maghrib | 21:35:59 |
 | Isha | 22:49:50 |
 | Sharia Midnight | 00:39:18 |
 | Imum Coeli | 01:47:27 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°23'18.70" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|28°26'25.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|24°23'18.68" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|28°26'25.24" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|13°38'51.23" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|12°44'19.11" |Aries|Sharatain|Sun|
-|♀ Venus|Prograde|0°35'0.68" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Prograde|2°32'25.16" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|9°8'38.23" |Taurus|Dabaran|Mercury|
+|☉ Sun|Prograde|12°44'19.13" |Aries|Sharatain|Sun|
+|♀ Venus|Prograde|0°35'0.69" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Prograde|2°32'25.18" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|9°8'39.37" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°23'18.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|28°26'25.35" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|24°23'18.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|28°26'25.24" |Pisces|Rescha|Mars|
 |♂ Mars|Prograde|13°38'51.23" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|12°44'19.11" |Taurus|Dabaran|Moon|
-|♀ Venus|Prograde|0°35'0.68" |Aries|Sharatain|Mars|
-|☿ Mercury|Prograde|2°32'25.16" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|9°8'38.23" |Gemini|HanAh|Jupiter|
+|☉ Sun|Prograde|12°44'19.13" |Taurus|Dabaran|Moon|
+|♀ Venus|Prograde|0°35'0.69" |Aries|Sharatain|Mars|
+|☿ Mercury|Prograde|2°32'25.18" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|9°8'39.37" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

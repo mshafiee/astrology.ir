@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 02:49:10 |
 | Sunrise | 05:24:45 |
-| Dhuhr | 13:03:32 |
-| Medium Coeli | 13:03:32 |
+| Dhuhr | 13:03:33 |
+| Medium Coeli | 13:03:33 |
 | Sunset | 20:43:38 |
 | Maghrib | 21:11:37 |
 | Isha | 22:52:57 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 02:18:41 |
 | Sunrise | 05:24:45 |
-| Dhuhr | 13:03:32 |
-| Medium Coeli | 13:03:32 |
+| Dhuhr | 13:03:33 |
+| Medium Coeli | 13:03:33 |
 | Sunset | 20:43:38 |
 | Maghrib | 21:15:54 |
 | Isha | 22:52:57 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 02:12:02 |
 | Sunrise | 05:24:45 |
-| Dhuhr | 13:03:32 |
-| Medium Coeli | 13:03:32 |
+| Dhuhr | 13:03:33 |
+| Medium Coeli | 13:03:33 |
 | Sunset | 20:43:38 |
 | Maghrib | 20:46:14 |
 | Isha | 23:39:28 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 03:03:50 |
 | Sunrise | 05:24:45 |
-| Dhuhr | 13:03:32 |
-| Medium Coeli | 13:03:32 |
+| Dhuhr | 13:03:33 |
+| Medium Coeli | 13:03:33 |
 | Sunset | 20:43:38 |
 | Maghrib | 20:46:14 |
 | Isha | 23:06:36 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 00:00:00 |
 | Sunrise | 05:24:45 |
-| Dhuhr | 13:03:32 |
-| Medium Coeli | 13:03:32 |
+| Dhuhr | 13:03:33 |
+| Medium Coeli | 13:03:33 |
 | Sunset | 20:43:38 |
 | Maghrib | 20:46:14 |
 | Isha | 23:49:44 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 02:12:02 |
 | Sunrise | 05:24:45 |
-| Dhuhr | 13:03:32 |
-| Medium Coeli | 13:03:32 |
+| Dhuhr | 13:03:33 |
+| Medium Coeli | 13:03:33 |
 | Sunset | 20:43:38 |
 | Maghrib | 20:46:14 |
 | Isha | 00:01:36 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 01:59:17 |
 | Sunrise | 05:24:45 |
-| Dhuhr | 13:03:32 |
-| Medium Coeli | 13:03:32 |
+| Dhuhr | 13:03:33 |
+| Medium Coeli | 13:03:33 |
 | Sunset | 20:43:38 |
 | Maghrib | 20:46:14 |
 | Isha | 22:16:14 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°19'29.24" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|28°11'26.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|12°44'4.06" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|11°33'50.64" |Aries|Sharatain|Sun|
-|♀ Venus|Prograde|29°12'18.68" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Prograde|1°42'8.37" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|24°27'39.82" |Aries|Butain|Venus|
+|♄ Saturn|Prograde|24°19'29.22" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|28°11'26.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|12°44'4.07" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|11°33'50.66" |Aries|Sharatain|Sun|
+|♀ Venus|Prograde|29°12'18.69" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Prograde|1°42'8.39" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|24°27'40.48" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°19'29.24" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|28°11'26.93" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|12°44'4.06" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|11°33'50.64" |Taurus|Dabaran|Moon|
-|♀ Venus|Prograde|29°12'18.68" |Pisces|Rescha|Mars|
-|☿ Mercury|Prograde|1°42'8.37" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|24°27'39.82" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Prograde|24°19'29.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|28°11'26.82" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|12°44'4.07" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|11°33'50.66" |Taurus|Dabaran|Moon|
+|♀ Venus|Prograde|29°12'18.69" |Pisces|Rescha|Mars|
+|☿ Mercury|Prograde|1°42'8.39" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|24°27'40.48" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

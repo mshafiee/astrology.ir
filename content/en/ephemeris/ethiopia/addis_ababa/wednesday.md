@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:21:49 |
 | Sunset | 18:35:16 |
 | Maghrib | 18:39:35 |
-| Isha | 19:45:50 |
+| Isha | 19:45:51 |
 | Sharia Midnight | 23:44:16 |
 | Imum Coeli | 00:21:46 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°26'12.87" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|28°38'3.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Prograde|24°26'12.85" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|28°38'3.39" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Prograde|14°21'40.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|13°39'26.23" |Aries|Butain|Sun|
-|♀ Venus|Prograde|1°39'47.75" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Prograde|3°6'26.63" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|20°47'1.91" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°39'26.25" |Aries|Butain|Sun|
+|♀ Venus|Prograde|1°39'47.76" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Prograde|3°6'26.65" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|20°47'3.29" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°26'12.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|28°38'3.51" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|24°26'12.85" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|28°38'3.39" |Pisces|Rescha|Mars|
 |♂ Mars|Prograde|14°21'40.88" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|13°39'26.23" |Taurus|Dabaran|Moon|
-|♀ Venus|Prograde|1°39'47.75" |Aries|Sharatain|Mars|
-|☿ Mercury|Prograde|3°6'26.63" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|20°47'1.91" |Gemini|Dhira|Sun|
+|☉ Sun|Prograde|13°39'26.25" |Taurus|Dabaran|Moon|
+|♀ Venus|Prograde|1°39'47.76" |Aries|Sharatain|Mars|
+|☿ Mercury|Prograde|3°6'26.65" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|20°47'3.29" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
