@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 05:42:04 |
 | Sunrise | 06:54:09 |
-| Dhuhr | 13:26:19 |
-| Medium Coeli | 13:26:19 |
+| Dhuhr | 13:26:18 |
+| Medium Coeli | 13:26:18 |
 | Sunset | 19:58:46 |
 | Maghrib | 20:14:21 |
 | Isha | 21:01:22 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 05:33:48 |
 | Sunrise | 06:54:09 |
-| Dhuhr | 13:26:19 |
-| Medium Coeli | 13:26:19 |
+| Dhuhr | 13:26:18 |
+| Medium Coeli | 13:26:18 |
 | Sunset | 19:58:46 |
 | Maghrib | 20:16:40 |
 | Isha | 21:01:22 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 05:32:21 |
 | Sunrise | 06:54:09 |
-| Dhuhr | 13:26:19 |
-| Medium Coeli | 13:26:19 |
+| Dhuhr | 13:26:18 |
+| Medium Coeli | 13:26:18 |
 | Sunset | 19:58:46 |
 | Maghrib | 19:59:47 |
 | Isha | 21:15:52 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:46:53 |
 | Sunrise | 06:54:09 |
-| Dhuhr | 13:26:19 |
-| Medium Coeli | 13:26:19 |
+| Dhuhr | 13:26:18 |
+| Medium Coeli | 13:26:18 |
 | Sunset | 19:58:46 |
 | Maghrib | 19:59:47 |
 | Isha | 21:06:11 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 05:24:59 |
 | Sunrise | 06:54:09 |
-| Dhuhr | 13:26:19 |
-| Medium Coeli | 13:26:19 |
+| Dhuhr | 13:26:18 |
+| Medium Coeli | 13:26:18 |
 | Sunset | 19:58:46 |
 | Maghrib | 19:59:47 |
 | Isha | 21:18:19 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 05:32:21 |
 | Sunrise | 06:54:09 |
-| Dhuhr | 13:26:19 |
-| Medium Coeli | 13:26:19 |
+| Dhuhr | 13:26:18 |
+| Medium Coeli | 13:26:18 |
 | Sunset | 19:58:46 |
 | Maghrib | 19:59:47 |
 | Isha | 21:20:46 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 05:29:54 |
 | Sunrise | 06:54:09 |
-| Dhuhr | 13:26:19 |
-| Medium Coeli | 13:26:19 |
+| Dhuhr | 13:26:18 |
+| Medium Coeli | 13:26:18 |
 | Sunset | 19:58:46 |
 | Maghrib | 19:59:47 |
 | Isha | 21:29:47 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°27'11.21" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|28°42'0.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|14°36'18.53" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|13°58'14.01" |Aries|Butain|Sun|
+|♄ Saturn|Prograde|24°27'11.23" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|28°42'0.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|14°36'18.54" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|13°58'13.99" |Aries|Butain|Sun|
 |♀ Venus|Prograde|2°1'56.13" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Prograde|3°16'56.08" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|24°29'29.60" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Prograde|3°16'56.06" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|24°29'28.21" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°27'11.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|28°42'0.78" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|14°36'18.53" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|13°58'14.01" |Taurus|Dabaran|Moon|
+|♄ Saturn|Prograde|24°27'11.23" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|28°42'0.90" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|14°36'18.54" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|13°58'13.99" |Taurus|Dabaran|Moon|
 |♀ Venus|Prograde|2°1'56.13" |Aries|Sharatain|Mars|
-|☿ Mercury|Prograde|3°16'56.08" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|24°29'29.60" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°16'56.06" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|24°29'28.21" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

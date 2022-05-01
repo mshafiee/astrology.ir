@@ -34,7 +34,7 @@ Altitude: 1,178 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:42:44 |
+| Dawn | 04:42:43 |
 | Sunrise | 06:08:43 |
 | Dhuhr | 13:01:02 |
 | Medium Coeli | 13:01:02 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°29'0.57" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|28°49'30.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Prograde|15°4'5.61" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Prograde|14°33'56.59" |Aries|Butain|Sun|
+|♄ Saturn|Prograde|24°29'0.59" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|28°49'30.59" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Prograde|15°4'5.62" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Prograde|14°33'56.57" |Aries|Butain|Sun|
 |♀ Venus|Prograde|2°44'1.60" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Prograde|3°35'21.12" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|1°36'27.80" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Prograde|3°35'21.10" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|1°36'26.52" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|24°29'0.57" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|28°49'30.47" |Pisces|Rescha|Mars|
-|♂ Mars|Prograde|15°4'5.61" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|14°33'56.59" |Taurus|Dabaran|Moon|
+|♄ Saturn|Prograde|24°29'0.59" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|28°49'30.59" |Pisces|Rescha|Mars|
+|♂ Mars|Prograde|15°4'5.62" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|14°33'56.57" |Taurus|Dabaran|Moon|
 |♀ Venus|Prograde|2°44'1.60" |Aries|Sharatain|Mars|
-|☿ Mercury|Prograde|3°35'21.12" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|1°36'27.80" |Cancer|Nathrah|Venus|
+|☿ Mercury|Prograde|3°35'21.10" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|1°36'26.52" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
