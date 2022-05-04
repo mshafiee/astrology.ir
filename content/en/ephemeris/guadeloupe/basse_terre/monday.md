@@ -1,6 +1,6 @@
 ---
-date: 2022-05-02T00:00:00-04:00
-lastmod: 2022-05-02T00:00:00-04:00
+date: 2022-05-09T00:00:00-04:00
+lastmod: 2022-05-09T00:00:00-04:00
 title: Basse-Terre (Monday)
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Monday, 02 May 2022
+description: 🗓 Monday, 09 May 2022
 
 toc: false
 ---
