@@ -1,6 +1,6 @@
 ---
-date: 2022-05-05T00:00:00+02:00
-lastmod: 2022-05-05T00:00:00+02:00
+date: 2022-05-12T00:00:00+02:00
+lastmod: 2022-05-12T00:00:00+02:00
 title: Longyearbyen (Thursday)
 slug: thursday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Thursday, 05 May 2022
+description: 🗓 Thursday, 12 May 2022
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
-|♎ Libra|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
-|♏ Scorpio|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
 
 
 {{< /tab >}}
