@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:48:47 |
+| Dawn | 04:48:48 |
 | Sunrise | 05:52:16 |
 | Dhuhr | 12:14:22 |
 | Medium Coeli | 12:14:22 |
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Prograde|24°47'6.86" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|0°11'25.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|20°15'4.66" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Prograde|21°13'38.74" |Aries|Butain|Venus|
+|♃ Jupiter|Prograde|0°11'25.26" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|20°15'4.62" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Prograde|21°13'38.76" |Aries|Butain|Venus|
 |♀ Venus|Prograde|10°38'9.85" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|4°46'26.98" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|25°14'51.38" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|4°46'27.02" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|25°14'50.61" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Prograde|24°47'6.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|0°11'25.38" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°15'4.66" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|21°13'38.74" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Prograde|0°11'25.26" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°15'4.62" |Pisces|Rescha|Mars|
+|☉ Sun|Prograde|21°13'38.76" |Taurus|Dabaran|Saturn|
 |♀ Venus|Prograde|10°38'9.85" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|4°46'26.98" |Gemini|HanAh|Jupiter|
-|☾ Moon|Prograde|25°14'51.38" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|4°46'27.02" |Gemini|HanAh|Jupiter|
+|☾ Moon|Prograde|25°14'50.61" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
