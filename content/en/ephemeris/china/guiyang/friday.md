@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 12:49:30 |
 | Medium Coeli | 12:49:30 |
 | Sunset | 19:31:43 |
-| Maghrib | 19:48:29 |
+| Maghrib | 19:48:28 |
 | Isha | 20:38:23 |
 | Sharia Midnight | 00:10:51 |
 | Imum Coeli | 00:49:30 |
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Prograde|24°49'18.71" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|0°22'37.03" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|20°58'45.34" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Prograde|22°9'45.44" |Aries|Butain|Venus|
+|♃ Jupiter|Prograde|0°22'37.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|20°58'45.38" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Prograde|22°9'45.42" |Aries|Butain|Venus|
 |♀ Venus|Prograde|11°45'10.80" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|4°37'19.98" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|8°14'53.58" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|4°37'19.94" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|8°14'54.13" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Prograde|24°49'18.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|0°22'37.03" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°58'45.34" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|22°9'45.44" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Prograde|0°22'37.15" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°58'45.38" |Pisces|Rescha|Mars|
+|☉ Sun|Prograde|22°9'45.42" |Taurus|HaqAh|Saturn|
 |♀ Venus|Prograde|11°45'10.80" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|4°37'19.98" |Gemini|HanAh|Jupiter|
-|☾ Moon|Prograde|8°14'53.58" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|4°37'19.94" |Gemini|HanAh|Jupiter|
+|☾ Moon|Prograde|8°14'54.13" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
