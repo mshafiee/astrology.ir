@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:58:25 |
 | Sunset | 18:16:18 |
 | Maghrib | 18:17:16 |
-| Isha | 19:32:11 |
+| Isha | 19:32:10 |
 | Sharia Midnight | 23:20:25 |
 | Imum Coeli | 23:58:25 |
 {{< /tab >}}
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Prograde|24°50'27.76" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|0°28'37.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|21°22'19.97" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Prograde|22°40'3.94" |Aries|Butain|Venus|
+|♃ Jupiter|Prograde|0°28'37.92" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|21°22'20.01" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Prograde|22°40'3.93" |Aries|Butain|Venus|
 |♀ Venus|Prograde|12°21'24.30" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|4°30'42.30" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|15°15'57.17" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|4°30'42.26" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|15°15'57.52" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Prograde|24°50'27.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|0°28'37.80" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°22'19.97" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|22°40'3.94" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Prograde|0°28'37.92" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°22'20.01" |Pisces|Rescha|Mars|
+|☉ Sun|Prograde|22°40'3.93" |Taurus|HaqAh|Saturn|
 |♀ Venus|Prograde|12°21'24.30" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|4°30'42.30" |Gemini|HanAh|Jupiter|
-|☾ Moon|Prograde|15°15'57.17" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°30'42.26" |Gemini|HanAh|Jupiter|
+|☾ Moon|Prograde|15°15'57.52" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
