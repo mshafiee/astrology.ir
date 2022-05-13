@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Prograde|22°8'13.89" |Aries|Butain|Venus|
 |♀ Venus|Prograde|11°43'21.64" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Retrograde|4°37'37.30" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|7°55'46.28" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|7°53'2.06" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Prograde|24°49'15.20" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Prograde|0°22'18.98" |Aries|Sharatain|Mars|
 |♂ Mars|Prograde|20°57'34.36" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|22°8'13.89" |Taurus|HaqAh|Saturn|
-|♀ Venus|Prograde|11°43'21.64" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|4°37'37.30" |Gemini|HanAh|Jupiter|
-|☾ Moon|Prograde|7°55'46.28" |Libra|Ghafr|Moon|
+|☉ Sun|Prograde|22°8'8.73" |Taurus|HaqAh|Saturn|
+|♀ Venus|Prograde|11°43'20.98" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|4°37'22.18" |Gemini|HanAh|Jupiter|
+|☾ Moon|Prograde|7°53'2.06" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
