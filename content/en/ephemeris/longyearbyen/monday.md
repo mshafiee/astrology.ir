@@ -1,6 +1,6 @@
 ---
-date: 2022-05-16T00:00:00+02:00
-lastmod: 2022-05-16T00:00:00+02:00
+date: 2022-05-23T00:00:00+02:00
+lastmod: 2022-05-23T00:00:00+02:00
 title: Longyearbyen (Monday)
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Monday, 16 May 2022
+description: 🗓 Monday, 23 May 2022
 
 toc: false
 ---
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:48:59 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 16:08:46 |
+| Isha | 16:08:45 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 23:49:12 |
 {{< /tab >}}
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'38.49" |Taurus|Dabaran|Moon|
-|♃ Jupiter|Prograde|9°16'1.21" |Virgo|Awwa|Sun|
-|♂ Mars|Prograde|12°2'36.21" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|11°25'10.60" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Prograde|27°22'53.28" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|17°58'30.82" |Sagittarius|Baldah|Moon|
-|☾ Moon|Prograde|12°37'16.09" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|11°10'38.55" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Prograde|9°15'57.41" |Virgo|Awwa|Sun|
+|♂ Mars|Prograde|12°2'34.64" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|11°25'5.58" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|27°22'47.92" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|17°58'22.30" |Sagittarius|Baldah|Moon|
+|☾ Moon|Prograde|12°37'5.70" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'38.49" |Gemini|HanAh|Mars|
-|♃ Jupiter|Prograde|9°16'1.21" |Libra|Ghafr|Moon|
-|♂ Mars|Prograde|12°2'36.21" |Aries|Sharatain|Sun|
-|☉ Sun|Prograde|11°25'10.60" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Prograde|27°22'53.28" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Prograde|17°58'30.82" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|12°37'16.09" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|11°10'38.55" |Gemini|HanAh|Mars|
+|♃ Jupiter|Prograde|9°15'57.41" |Libra|Ghafr|Moon|
+|♂ Mars|Prograde|12°2'34.64" |Aries|Sharatain|Sun|
+|☉ Sun|Prograde|11°25'5.58" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Prograde|27°22'47.92" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Prograde|17°58'22.30" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|12°37'5.70" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 02:51:38 |
+| Dawn | 02:51:37 |
 | Sunrise | 04:34:08 |
 | Dhuhr | 11:37:40 |
 | Medium Coeli | 11:37:40 |
