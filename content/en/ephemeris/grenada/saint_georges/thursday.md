@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 12:03:30 |
 | Medium Coeli | 12:03:30 |
 | Sunset | 18:25:04 |
-| Maghrib | 18:39:55 |
+| Maghrib | 18:39:56 |
 | Isha | 19:24:20 |
 | Sharia Midnight | 23:29:20 |
 | Imum Coeli | 00:03:32 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°1'46.67" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|1°35'20.14" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|25°50'28.32" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|28°24'40.13" |Aries|Thurayya|Venus|
+|♄ Saturn|Prograde|25°1'46.68" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|1°35'20.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|25°50'28.26" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|28°24'40.14" |Aries|Thurayya|Venus|
 |♀ Venus|Prograde|19°15'26.30" |Pisces|Rescha|Jupiter|
 |☿ Mercury|Retrograde|2°4'29.08" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|12°46'44.40" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Prograde|12°46'43.49" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°1'46.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|1°35'20.14" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|25°50'28.32" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|28°24'40.13" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Prograde|25°1'46.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|1°35'20.02" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|25°50'28.26" |Pisces|Rescha|Mars|
+|☉ Sun|Prograde|28°24'40.14" |Taurus|HaqAh|Saturn|
 |♀ Venus|Prograde|19°15'26.30" |Aries|Butain|Sun|
 |☿ Mercury|Retrograde|2°4'29.08" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|12°46'44.40" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Prograde|12°46'43.49" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

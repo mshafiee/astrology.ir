@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 13:11:45 |
 | Medium Coeli | 13:11:45 |
 | Sunset | 21:49:14 |
-| Maghrib | 22:27:32 |
+| Maghrib | 22:27:31 |
 | Isha | 00:00:00 |
 | Sharia Midnight | 20:58:08 |
 | Imum Coeli | 01:11:47 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°6'56.93" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|2°13'42.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|28°31'1.15" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|1°51'9.81" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|25°6'56.91" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|2°13'43.06" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|28°31'1.21" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|1°51'9.79" |Taurus|Thurayya|Mercury|
 |♀ Venus|Prograde|23°25'13.06" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|0°2'25.92" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|4°27'42.95" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|4°27'43.66" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°6'56.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|2°13'42.94" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|28°31'1.15" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|1°51'9.81" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Prograde|25°6'56.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|2°13'43.06" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|28°31'1.21" |Pisces|Rescha|Mars|
+|☉ Sun|Prograde|1°51'9.79" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Prograde|23°25'13.06" |Aries|Butain|Venus|
 |☿ Mercury|Retrograde|0°2'25.92" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|4°27'42.95" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Prograde|4°27'43.66" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
