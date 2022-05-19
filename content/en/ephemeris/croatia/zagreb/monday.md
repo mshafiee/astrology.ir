@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:52:51 |
 | Sunset | 20:30:03 |
 | Maghrib | 20:32:46 |
-| Isha | 22:22:31 |
+| Isha | 22:22:30 |
 | Sharia Midnight | 23:56:29 |
 | Imum Coeli | 00:52:53 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°7'8.58" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|2°15'20.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|28°37'53.93" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|2°0'2.51" |Taurus|Thurayya|Mercury|
-|♀ Venus|Prograde|23°35'57.70" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|25°7'8.57" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|2°15'20.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|28°37'54.00" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|2°0'2.50" |Taurus|Thurayya|Mercury|
+|♀ Venus|Prograde|23°35'57.69" |Pisces|Rescha|Mars|
 |☿ Mercury|Retrograde|29°57'14.23" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|6°34'31.66" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Prograde|6°34'32.28" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°7'8.58" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|2°15'20.09" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|28°37'53.93" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|2°0'2.51" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Prograde|23°35'57.70" |Aries|Butain|Venus|
+|♄ Saturn|Prograde|25°7'8.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|2°15'20.20" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|28°37'54.00" |Pisces|Rescha|Mars|
+|☉ Sun|Prograde|2°0'2.50" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Prograde|23°35'57.69" |Aries|Butain|Venus|
 |☿ Mercury|Retrograde|29°57'14.23" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|6°34'31.66" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Prograde|6°34'32.28" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
