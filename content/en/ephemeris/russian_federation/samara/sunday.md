@@ -34,7 +34,7 @@ Altitude: 117 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 01:02:35 |
+| Dawn | 01:02:34 |
 | Sunrise | 04:30:03 |
 | Dhuhr | 12:36:04 |
 | Medium Coeli | 12:36:04 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°5'40.86" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|2°3'31.62" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|27°47'53.57" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|0°55'39.57" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|25°5'40.87" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|2°3'31.51" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|27°47'53.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|0°55'39.58" |Taurus|Thurayya|Mercury|
 |♀ Venus|Prograde|22°17'58.49" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|0°35'41.53" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|21°6'13.41" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|0°35'41.52" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|21°6'12.21" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°5'40.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|2°3'31.62" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|27°47'53.57" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|0°55'39.57" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Prograde|25°5'40.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|2°3'31.51" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|27°47'53.51" |Pisces|Rescha|Mars|
+|☉ Sun|Prograde|0°55'39.58" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Prograde|22°17'58.49" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|0°35'41.53" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|21°6'13.41" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Retrograde|0°35'41.52" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|21°6'12.21" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

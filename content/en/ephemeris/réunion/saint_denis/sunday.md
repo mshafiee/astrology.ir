@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:46:10 |
 | Maghrib | 18:01:43 |
 | Isha | 18:46:52 |
-| Sharia Midnight | 23:40:08 |
+| Sharia Midnight | 23:40:09 |
 | Imum Coeli | 00:14:54 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°5'48.46" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|2°4'31.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|27°52'4.62" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Prograde|1°1'6.08" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Prograde|25°5'48.47" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|2°4'31.34" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|27°52'4.56" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Prograde|1°1'6.09" |Taurus|Thurayya|Mercury|
 |♀ Venus|Prograde|22°24'30.82" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|0°32'39.87" |Taurus|Thurayya|Mercury|
-|☾ Moon|Prograde|22°18'10.86" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|0°32'39.86" |Taurus|Thurayya|Mercury|
+|☾ Moon|Prograde|22°18'9.68" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°5'48.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|2°4'31.45" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|27°52'4.62" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|1°1'6.08" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Prograde|25°5'48.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|2°4'31.34" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|27°52'4.56" |Pisces|Rescha|Mars|
+|☉ Sun|Prograde|1°1'6.09" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Prograde|22°24'30.82" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|0°32'39.87" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Prograde|22°18'10.86" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|0°32'39.86" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Prograde|22°18'9.68" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
