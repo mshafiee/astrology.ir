@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 19:16:28 |
 | Isha | 20:11:51 |
 | Sharia Midnight | 23:16:56 |
-| Imum Coeli | 23:59:35 |
+| Imum Coeli | 23:59:34 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:19:08 |
 | Isha | 20:11:51 |
 | Sharia Midnight | 23:11:48 |
-| Imum Coeli | 23:59:35 |
+| Imum Coeli | 23:59:34 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 19:01:14 |
 | Isha | 20:29:39 |
 | Sharia Midnight | 23:10:52 |
-| Imum Coeli | 23:59:35 |
+| Imum Coeli | 23:59:34 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 19:01:14 |
 | Isha | 20:17:43 |
 | Sharia Midnight | 23:19:54 |
-| Imum Coeli | 23:59:35 |
+| Imum Coeli | 23:59:34 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 19:01:14 |
 | Isha | 20:32:42 |
 | Sharia Midnight | 23:06:12 |
-| Imum Coeli | 23:59:35 |
+| Imum Coeli | 23:59:34 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 19:01:14 |
 | Isha | 20:35:46 |
 | Sharia Midnight | 23:10:52 |
-| Imum Coeli | 23:59:35 |
+| Imum Coeli | 23:59:34 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 19:01:14 |
 | Isha | 20:31:14 |
 | Sharia Midnight | 23:09:20 |
-| Imum Coeli | 23:59:35 |
+| Imum Coeli | 23:59:34 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:57:48|Night duration: 10:01:47|
+|Duration of the day: 13:57:48|Night duration: 10:01:46|
 |Every hour of day duration: 01:09:49|Every hour of night duration: 00:50:09|
 
  
@@ -232,12 +232,12 @@ Timetable of twelve day and night planetary hours
 |4|Moon|Servant|21:29:01|22:19:09|For all things, Saadin's goal|
 |5|Saturn|Servant|22:19:10|23:09:18|Creating negative energy and disturbing the peace|
 |6|Jupiter|Servant|23:09:19|23:59:27|The journey of the appearance and the interior|
-|7|Mars|Servant|23:59:28|00:49:36|Attracting love and attracting hearts and hearts|
-|8|Sun|Ruler|00:49:37|01:39:45|Covering the eyes of the creators|
-|9|Venus|Servant|01:39:46|02:29:54|Separation and Enmity|
-|10|Mercury|Servant|02:29:55|03:20:03|Conquest of the Great|
-|11|Moon|Servant|03:20:04|04:10:12|Creating financial attraction and love and conquest|
-|12|Saturn|Servant|04:10:13|05:00:21|Creating Evil and Hatred|
+|7|Mars|Servant|23:59:28|00:49:35|Attracting love and attracting hearts and hearts|
+|8|Sun|Ruler|00:49:36|01:39:44|Covering the eyes of the creators|
+|9|Venus|Servant|01:39:45|02:29:53|Separation and Enmity|
+|10|Mercury|Servant|02:29:54|03:20:02|Conquest of the Great|
+|11|Moon|Servant|03:20:03|04:10:11|Creating financial attraction and love and conquest|
+|12|Saturn|Servant|04:10:12|05:00:20|Creating Evil and Hatred|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:57:48|Night duration: 10:01:47|
+|Duration of the day: 13:57:48|Night duration: 10:01:46|
 |Every hour duration: 01:59:41|Every hour duration: 01:25:58|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Moon|Servant|23:16:29|00:42:26|
 |Rooster song|Saturn|Servant|00:42:27|02:08:24|
 |False Dawn|Jupiter|Servant|02:08:25|03:34:22|
-|Dawn|Mars|Servant|03:34:23|05:00:21|
+|Dawn|Mars|Servant|03:34:23|05:00:20|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°9'18.84" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|2°34'46.67" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|0°1'22.94" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Prograde|3°47'35.86" |Taurus|Thurayya|Mercury|
-|♀ Venus|Prograde|25°46'28.53" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|28°55'6.60" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|1°36'2.96" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Prograde|25°9'18.82" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|2°34'46.78" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|0°1'23.01" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Prograde|3°47'35.83" |Taurus|Thurayya|Mercury|
+|♀ Venus|Prograde|25°46'28.52" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|28°55'6.57" |Aries|Thurayya|Venus|
+|☾ Moon|Prograde|1°36'2.91" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°9'18.84" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|2°34'46.67" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|0°1'22.94" |Aries|Sharatain|Mars|
-|☉ Sun|Prograde|3°47'35.86" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Prograde|25°46'28.53" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|28°55'6.60" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|1°36'2.96" |Aries|Sharatain|Mars|
+|♄ Saturn|Prograde|25°9'18.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|2°34'46.78" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|0°1'23.01" |Aries|Sharatain|Mars|
+|☉ Sun|Prograde|3°47'35.83" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Prograde|25°46'28.52" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|28°55'6.57" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|1°36'2.91" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

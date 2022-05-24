@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 15:07:07|Night duration: 08:52:12|
+|Duration of the day: 15:07:07|Night duration: 08:52:11|
 |Every hour of day duration: 01:15:36|Every hour of night duration: 00:44:21|
 
  
@@ -226,18 +226,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|19:09:39|19:53:59|Love and creating love and attracting hearts|
-|2|Sun|Servant|19:54:00|20:38:20|Attracting good faith|
-|3|Venus|Servant|20:38:21|21:22:41|Absorption of badness, nothing to do|
-|4|Mercury|Servant|21:22:42|22:07:02|Bad Hour|
-|5|Moon|Servant|22:07:03|22:51:23|Gaining status and attracting happiness in work|
-|6|Saturn|Servant|22:51:24|23:35:44|Creating attraction and acceptance among the elders|
-|7|Jupiter|Servant|23:35:45|00:20:05|Promotion and attraction of wealth|
-|8|Mars|Ruler|00:20:06|01:04:26|Happy Yemen and ultimate bliss and happiness|
-|9|Sun|Servant|01:04:27|01:48:47|Separation and Displacement|
-|10|Venus|Servant|01:48:48|02:33:08|Extremely ugly|
-|11|Mercury|Servant|02:33:09|03:17:29|Creating a bad omen for every person|
-|12|Moon|Servant|03:17:30|04:01:50|It is good and good to ask for help|
+|1|Mars|Ruler|19:09:39|19:53:58|Love and creating love and attracting hearts|
+|2|Sun|Servant|19:53:59|20:38:19|Attracting good faith|
+|3|Venus|Servant|20:38:20|21:22:40|Absorption of badness, nothing to do|
+|4|Mercury|Servant|21:22:41|22:07:01|Bad Hour|
+|5|Moon|Servant|22:07:02|22:51:22|Gaining status and attracting happiness in work|
+|6|Saturn|Servant|22:51:23|23:35:43|Creating attraction and acceptance among the elders|
+|7|Jupiter|Servant|23:35:44|00:20:04|Promotion and attraction of wealth|
+|8|Mars|Ruler|00:20:05|01:04:25|Happy Yemen and ultimate bliss and happiness|
+|9|Sun|Servant|01:04:26|01:48:46|Separation and Displacement|
+|10|Venus|Servant|01:48:47|02:33:07|Extremely ugly|
+|11|Mercury|Servant|02:33:08|03:17:28|Creating a bad omen for every person|
+|12|Moon|Servant|03:17:29|04:01:49|It is good and good to ask for help|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 15:07:07|Night duration: 08:52:12|
+|Duration of the day: 15:07:07|Night duration: 08:52:11|
 |Every hour duration: 02:09:35|Every hour duration: 01:16:02|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mars|Ruler|19:09:39|20:25:39|
 |Late evening|Sun|Servant|20:25:40|21:41:41|
-|Midnight|Venus|Servant|21:41:42|22:57:43|
-|Late at night|Mercury|Servant|22:57:44|00:13:44|
-|Rooster song|Moon|Servant|00:13:45|01:29:46|
-|False Dawn|Saturn|Servant|01:29:47|02:45:48|
-|Dawn|Jupiter|Servant|02:45:49|04:01:50|
+|Midnight|Venus|Servant|21:41:42|22:57:42|
+|Late at night|Mercury|Servant|22:57:43|00:13:44|
+|Rooster song|Moon|Servant|00:13:45|01:29:45|
+|False Dawn|Saturn|Servant|01:29:46|02:45:47|
+|Dawn|Jupiter|Servant|02:45:48|04:01:49|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°11'7.06" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|2°53'32.16" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|1°23'23.45" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Prograde|5°33'19.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Prograde|27°55'4.11" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|27°59'31.26" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|25°0'47.20" |Pisces|Rescha|Mars|
+|♄ Saturn|Prograde|25°11'7.03" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|2°53'32.27" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|1°23'23.52" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Prograde|5°33'19.29" |Taurus|Thurayya|Mercury|
+|♀ Venus|Prograde|27°55'4.09" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|27°59'31.20" |Aries|Thurayya|Venus|
+|☾ Moon|Prograde|25°0'47.08" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°11'7.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|2°53'32.16" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|1°23'23.45" |Aries|Sharatain|Mars|
-|☉ Sun|Prograde|5°33'19.32" |Gemini|HanAh|Jupiter|
-|♀ Venus|Prograde|27°55'4.11" |Aries|Thurayya|Venus|
-|☿ Mercury|Retrograde|27°59'31.26" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|25°0'47.20" |Aries|Butain|Venus|
+|♄ Saturn|Prograde|25°11'7.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|2°53'32.27" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|1°23'23.52" |Aries|Sharatain|Mars|
+|☉ Sun|Prograde|5°33'19.29" |Gemini|HanAh|Jupiter|
+|♀ Venus|Prograde|27°55'4.09" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|27°59'31.20" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|25°0'47.08" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
