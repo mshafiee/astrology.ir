@@ -1,6 +1,6 @@
 ---
-date: 2022-05-30T00:00:00+04:00
-lastmod: 2022-05-30T00:00:00+04:00
+date: 2022-06-06T00:00:00+04:00
+lastmod: 2022-06-06T00:00:00+04:00
 title: Victoria (Monday)
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Monday, 30 May 2022
+description: 🗓 Monday, 06 Jun 2022
 
 toc: false
 ---
