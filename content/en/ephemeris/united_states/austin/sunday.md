@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 20:30:24 |
 | Maghrib | 20:32:42 |
 | Isha | 22:04:40 |
-| Sharia Midnight | 00:36:13 |
+| Sharia Midnight | 00:36:12 |
 | Imum Coeli | 01:29:39 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°15'9.87" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|4°25'45.15" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|8°32'5.86" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Prograde|14°48'15.84" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|25°15'9.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|4°25'45.26" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|8°32'5.94" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Prograde|14°48'15.82" |Taurus|Dabaran|Moon|
 |♀ Venus|Prograde|9°14'2.07" |Aries|Sharatain|Mars|
-|☿ Mercury|Prograde|26°15'40.42" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|20°40'42.91" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|26°15'40.39" |Aries|Thurayya|Venus|
+|☾ Moon|Prograde|20°40'42.20" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°15'9.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|4°25'45.15" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|8°32'5.86" |Aries|Sharatain|Mars|
-|☉ Sun|Prograde|14°48'15.84" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|25°15'9.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|4°25'45.26" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|8°32'5.94" |Aries|Sharatain|Mars|
+|☉ Sun|Prograde|14°48'15.82" |Gemini|HanAh|Mars|
 |♀ Venus|Prograde|9°14'2.07" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Prograde|26°15'40.42" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|20°40'42.91" |Leo|Zubrah|Mars|
+|☿ Mercury|Prograde|26°15'40.39" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|20°40'42.20" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
