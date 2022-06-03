@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 13:18:55 |
 | Medium Coeli | 13:18:55 |
 | Sunset | 21:45:39 |
-| Maghrib | 22:23:31 |
+| Maghrib | 22:23:32 |
 | Isha | 00:00:00 |
 | Sharia Midnight | 20:45:28 |
 | Imum Coeli | 01:19:01 |
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Prograde|16°22'29.32" |Taurus|Dabaran|Moon|
 |♀ Venus|Prograde|11°10'0.08" |Aries|Sharatain|Sun|
 |☿ Mercury|Prograde|26°37'23.11" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|10°38'54.17" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|10°36'47.13" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:21:51 |
+| Dawn | 04:21:52 |
 | Sunrise | 05:49:32 |
 | Dhuhr | 13:02:29 |
 | Medium Coeli | 13:02:29 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°15'0.64" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|4°3'38.57" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Prograde|6°44'47.97" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Prograde|12°28'58.88" |Taurus|Dabaran|Moon|
+|♄ Saturn|Prograde|25°15'0.67" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|4°3'38.47" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Prograde|6°44'47.89" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Prograde|12°28'58.90" |Taurus|Dabaran|Moon|
 |♀ Venus|Prograde|6°23'0.24" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|26°5'33.92" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|21°54'42.23" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|26°5'33.97" |Aries|Thurayya|Venus|
+|☾ Moon|Prograde|21°54'43.36" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Prograde|25°15'0.64" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|4°3'38.57" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|6°44'47.97" |Aries|Sharatain|Mars|
-|☉ Sun|Prograde|12°28'58.88" |Gemini|HanAh|Mars|
+|♄ Saturn|Prograde|25°15'0.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|4°3'38.47" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|6°44'47.89" |Aries|Sharatain|Mars|
+|☉ Sun|Prograde|12°28'58.90" |Gemini|HanAh|Mars|
 |♀ Venus|Prograde|6°23'0.24" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Retrograde|26°5'33.92" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|21°54'42.23" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|26°5'33.97" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|21°54'43.36" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
