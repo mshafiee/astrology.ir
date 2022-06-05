@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:58:34 |
 | Sunset | 19:57:31 |
 | Maghrib | 20:02:55 |
-| Isha | 21:34:21 |
+| Isha | 21:34:22 |
 | Sharia Midnight | 00:10:10 |
 | Imum Coeli | 00:58:39 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°15'6.83" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|4°30'58.25" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|8°57'54.55" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Prograde|15°21'48.58" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|25°15'6.87" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|4°30'58.14" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|8°57'54.46" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Prograde|15°21'48.59" |Taurus|Dabaran|Moon|
 |♀ Venus|Prograde|9°55'17.28" |Aries|Sharatain|Mars|
-|☿ Mercury|Prograde|26°22'2.59" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|27°43'5.48" |Cancer|Jabhah|Moon|
+|☿ Mercury|Prograde|26°22'2.63" |Aries|Thurayya|Venus|
+|☾ Moon|Prograde|27°43'5.95" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°15'6.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|4°30'58.25" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|8°57'54.55" |Aries|Sharatain|Mars|
-|☉ Sun|Prograde|15°21'48.58" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|25°15'6.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|4°30'58.14" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|8°57'54.46" |Aries|Sharatain|Mars|
+|☉ Sun|Prograde|15°21'48.59" |Gemini|HanAh|Mars|
 |♀ Venus|Prograde|9°55'17.28" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Prograde|26°22'2.59" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|27°43'5.48" |Leo|Sarfrah|Mars|
+|☿ Mercury|Prograde|26°22'2.63" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|27°43'5.95" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
