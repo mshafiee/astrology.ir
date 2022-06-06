@@ -34,7 +34,7 @@ Altitude: 26 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:07:27 |
+| Dawn | 05:07:26 |
 | Sunrise | 06:15:00 |
 | Dhuhr | 12:24:58 |
 | Medium Coeli | 12:24:58 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°13'22.41" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|5°13'2.09" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|12°34'1.52" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|20°3'25.40" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Retrograde|25°13'22.36" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|5°13'2.18" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|12°34'1.59" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|20°3'25.37" |Taurus|Dabaran|Saturn|
 |♀ Venus|Prograde|15°42'29.90" |Aries|Butain|Sun|
-|☿ Mercury|Prograde|28°15'14.74" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|0°51'5.28" |Libra|Ghafr|Moon|
+|☿ Mercury|Prograde|28°15'14.70" |Aries|Thurayya|Venus|
+|☾ Moon|Prograde|0°51'6.20" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°13'22.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|5°13'2.09" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|12°34'1.52" |Aries|Sharatain|Sun|
-|☉ Sun|Prograde|20°3'25.40" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|25°13'22.36" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|5°13'2.18" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|12°34'1.59" |Aries|Sharatain|Sun|
+|☉ Sun|Prograde|20°3'25.37" |Gemini|Dhira|Sun|
 |♀ Venus|Prograde|15°42'29.90" |Taurus|Dabaran|Moon|
-|☿ Mercury|Prograde|28°15'14.74" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|0°51'5.28" |Scorpio|Akleel|Mars|
+|☿ Mercury|Prograde|28°15'14.70" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|0°51'6.20" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
