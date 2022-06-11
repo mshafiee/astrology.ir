@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 11:48:08 |
 | Medium Coeli | 11:48:08 |
 | Sunset | 16:57:29 |
-| Maghrib | 17:17:10 |
+| Maghrib | 17:17:09 |
 | Isha | 18:03:52 |
 | Sharia Midnight | 23:06:10 |
 | Imum Coeli | 23:48:14 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°12'6.90" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|5°28'3.37" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|13°55'8.71" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|21°49'27.82" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|25°12'6.85" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|5°28'3.46" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|13°55'8.78" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|21°49'27.79" |Taurus|HaqAh|Saturn|
 |♀ Venus|Prograde|17°53'39.55" |Aries|Butain|Sun|
-|☿ Mercury|Prograde|29°24'40.11" |Aries|Thurayya|Venus|
-|☾ Moon|Prograde|27°24'9.06" |Libra|Akleel|Jupiter|
+|☿ Mercury|Prograde|29°24'40.06" |Aries|Thurayya|Venus|
+|☾ Moon|Prograde|27°24'9.35" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°12'6.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|5°28'3.37" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|13°55'8.71" |Aries|Butain|Sun|
-|☉ Sun|Prograde|21°49'27.82" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|25°12'6.85" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|5°28'3.46" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|13°55'8.78" |Aries|Butain|Sun|
+|☉ Sun|Prograde|21°49'27.79" |Gemini|Dhira|Sun|
 |♀ Venus|Prograde|17°53'39.55" |Taurus|Dabaran|Moon|
-|☿ Mercury|Prograde|29°24'40.11" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|27°24'9.06" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Prograde|29°24'40.06" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|27°24'9.35" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
