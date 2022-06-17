@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:59:39 |
-| Sunrise | 06:02:22 |
+| Sunrise | 06:02:23 |
 | Dhuhr | 12:00:52 |
 | Medium Coeli | 12:00:52 |
 | Sunset | 17:59:21 |
