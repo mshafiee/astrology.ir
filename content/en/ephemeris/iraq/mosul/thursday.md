@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 14:38:34|Night duration: 09:21:42|
-|Every hour of day duration: 01:13:13|Every hour of night duration: 00:46:48|
+|Every hour of day duration: 01:13:13|Every hour of night duration: 00:46:49|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°59'16.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|6°42'29.41" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°21'11.11" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|1°36'59.16" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Prograde|0°3'50.71" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Prograde|9°49'48.17" |Taurus|Dabaran|Mercury|
-|☾ Moon|Prograde|25°2'25.29" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|24°59'16.10" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|6°42'29.33" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°21'11.06" |Pisces|Rescha|Mars|
+|☉ Sun|Prograde|1°36'59.18" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Prograde|0°3'50.70" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Prograde|9°49'48.21" |Taurus|Dabaran|Mercury|
+|☾ Moon|Prograde|25°2'24.68" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°59'16.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|6°42'29.41" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°21'11.11" |Aries|Butain|Venus|
-|☉ Sun|Prograde|1°36'59.16" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|0°3'50.71" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Prograde|9°49'48.17" |Gemini|HanAh|Jupiter|
-|☾ Moon|Prograde|25°2'25.29" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|24°59'16.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|6°42'29.33" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°21'11.06" |Aries|Butain|Venus|
+|☉ Sun|Prograde|1°36'59.18" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|0°3'50.70" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Prograde|9°49'48.21" |Gemini|HanAh|Jupiter|
+|☾ Moon|Prograde|25°2'24.68" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:48:41 |
+| Dawn | 04:48:42 |
 | Sunrise | 06:14:15 |
 | Dhuhr | 11:48:13 |
 | Medium Coeli | 11:48:13 |
