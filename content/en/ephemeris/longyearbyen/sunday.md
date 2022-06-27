@@ -1,6 +1,6 @@
 ---
-date: 2022-06-26T00:00:00+02:00
-lastmod: 2022-06-26T00:00:00+02:00
+date: 2022-07-03T00:00:00+02:00
+lastmod: 2022-07-03T00:00:00+02:00
 title: Longyearbyen (Sunday)
 slug: sunday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Sunday, 26 Jun 2022
+description: 🗓 Sunday, 03 Jul 2022
 
 toc: false
 ---
