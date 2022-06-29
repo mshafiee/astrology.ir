@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:12:31 |
 | Sunset | 21:16:59 |
 | Maghrib | 21:18:42 |
-| Isha | 00:31:42 |
+| Isha | 00:31:41 |
 | Sharia Midnight | 20:23:20 |
 | Imum Coeli | 01:12:37 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°39'53.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|7°34'46.87" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|27°50'1.49" |Pisces|Rescha|Mars|
-|☉ Sun|Prograde|10°17'35.37" |Gemini|HanAh|Mars|
-|♀ Venus|Prograde|10°54'57.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Prograde|24°9'35.71" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|14°8'28.36" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|24°39'53.12" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|7°34'46.81" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|27°50'1.48" |Pisces|Rescha|Mars|
+|☉ Sun|Prograde|10°17'35.36" |Gemini|HanAh|Mars|
+|♀ Venus|Prograde|10°54'57.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Prograde|24°9'35.72" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|14°8'28.15" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°39'53.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|7°34'46.87" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|27°50'1.49" |Aries|Thurayya|Venus|
-|☉ Sun|Prograde|10°17'35.37" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|10°54'57.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°9'35.71" |Gemini|Dhira|Sun|
-|☾ Moon|Prograde|14°8'28.36" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|24°39'53.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|7°34'46.81" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|27°50'1.48" |Aries|Thurayya|Venus|
+|☉ Sun|Prograde|10°17'35.36" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|10°54'57.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°9'35.72" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|14°8'28.15" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:13:19 |
 | Sunset | 20:03:33 |
 | Maghrib | 20:04:39 |
-| Isha | 21:28:11 |
+| Isha | 21:28:12 |
 | Sharia Midnight | 00:28:22 |
 | Imum Coeli | 01:13:25 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°41'43.39" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|7°31'2.71" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|27°18'41.96" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|24°41'43.31" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|7°31'2.77" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|27°18'41.97" |Pisces|Rescha|Mars|
 |☉ Sun|Prograde|9°35'19.16" |Gemini|HanAh|Jupiter|
-|♀ Venus|Prograde|10°1'56.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Prograde|22°49'55.28" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|5°34'7.88" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|10°1'56.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Prograde|22°49'55.26" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|5°34'8.11" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°41'43.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|7°31'2.71" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|27°18'41.96" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|24°41'43.31" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|7°31'2.77" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|27°18'41.97" |Aries|Thurayya|Venus|
 |☉ Sun|Prograde|9°35'19.16" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|10°1'56.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°49'55.28" |Gemini|Dhira|Sun|
-|☾ Moon|Prograde|5°34'7.88" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|10°1'56.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°49'55.26" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|5°34'8.11" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

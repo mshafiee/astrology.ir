@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 01:48:03 |
+| Dawn | 01:48:02 |
 | Sunrise | 04:59:08 |
 | Dhuhr | 12:58:47 |
 | Medium Coeli | 12:58:47 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°37'26.86" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|7°39'27.22" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|28°30'18.69" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|24°37'26.78" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|7°39'27.28" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|28°30'18.70" |Pisces|Rescha|Mars|
 |☉ Sun|Prograde|11°12'5.35" |Gemini|HanAh|Mars|
-|♀ Venus|Prograde|12°3'19.40" |Taurus|Dabaran|Moon|
-|☿ Mercury|Prograde|25°54'37.31" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|25°34'47.88" |Cancer|Tarf|Moon|
+|♀ Venus|Prograde|12°3'19.44" |Taurus|Dabaran|Moon|
+|☿ Mercury|Prograde|25°54'37.30" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|25°34'48.17" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°37'26.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|7°39'27.22" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|28°30'18.69" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|24°37'26.78" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|7°39'27.28" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|28°30'18.70" |Aries|Thurayya|Venus|
 |☉ Sun|Prograde|11°12'5.35" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|12°3'19.40" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|25°54'37.31" |Gemini|Dhira|Sun|
-|☾ Moon|Prograde|25°34'47.88" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|12°3'19.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|25°54'37.30" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|25°34'48.17" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
