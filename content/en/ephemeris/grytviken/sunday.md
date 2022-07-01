@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:30:20 |
 | Sunset | 16:14:16 |
 | Maghrib | 16:16:15 |
-| Isha | 18:22:10 |
+| Isha | 18:22:09 |
 | Sharia Midnight | 23:22:49 |
 | Imum Coeli | 00:30:26 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°36'35.98" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|7°41'0.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|28°44'0.98" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|24°36'35.90" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|7°41'0.69" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|28°44'0.99" |Pisces|Rescha|Mars|
 |☉ Sun|Prograde|11°30'38.05" |Gemini|HanAh|Mars|
-|♀ Venus|Prograde|12°26'36.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Prograde|26°30'59.13" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|29°21'22.29" |Cancer|Jabhah|Moon|
+|♀ Venus|Prograde|12°26'36.88" |Taurus|Dabaran|Moon|
+|☿ Mercury|Prograde|26°30'59.12" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|29°21'22.61" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°36'35.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|7°41'0.63" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|28°44'0.98" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|24°36'35.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|7°41'0.69" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|28°44'0.99" |Aries|Thurayya|Venus|
 |☉ Sun|Prograde|11°30'38.05" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|12°26'36.84" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|26°30'59.13" |Gemini|Dhira|Sun|
-|☾ Moon|Prograde|29°21'22.29" |Leo|Sarfrah|Mars|
+|♀ Venus|Prograde|12°26'36.88" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|26°30'59.12" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|29°21'22.61" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
