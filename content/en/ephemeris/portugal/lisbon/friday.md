@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:40:27 |
 | Sunset | 21:05:30 |
 | Maghrib | 21:06:53 |
-| Isha | 23:04:43 |
+| Isha | 23:04:42 |
 | Sharia Midnight | 00:40:59 |
 | Imum Coeli | 01:40:32 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°42'14.81" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|7°29'56.88" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|27°9'37.53" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|24°42'14.89" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|7°29'56.82" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|27°9'37.52" |Pisces|Rescha|Mars|
 |☉ Sun|Prograde|9°23'3.99" |Gemini|HanAh|Jupiter|
-|♀ Venus|Prograde|9°46'35.74" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Prograde|22°27'9.90" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|2°55'0.07" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|9°46'35.70" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Prograde|22°27'9.92" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|2°54'59.82" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°42'14.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|7°29'56.88" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|27°9'37.53" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|24°42'14.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|7°29'56.82" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|27°9'37.52" |Aries|Thurayya|Venus|
 |☉ Sun|Prograde|9°23'3.99" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|9°46'35.74" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Prograde|22°27'9.90" |Gemini|Dhira|Sun|
-|☾ Moon|Prograde|2°55'0.07" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|9°46'35.70" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Prograde|22°27'9.92" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|2°54'59.82" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
