@@ -1,6 +1,6 @@
 ---
-date: 2022-06-30T00:00:00+02:00
-lastmod: 2022-06-30T00:00:00+02:00
+date: 2022-07-07T00:00:00+02:00
+lastmod: 2022-07-07T00:00:00+02:00
 title: Longyearbyen (Thursday)
 slug: thursday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Thursday, 30 Jun 2022
+description: 🗓 Thursday, 07 Jul 2022
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
+|♒ Aquarius|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
+|♓ Pisces|00:00:00|23:59:59|
 
 
 {{< /tab >}}

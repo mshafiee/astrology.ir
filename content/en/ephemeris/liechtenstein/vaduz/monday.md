@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:26:23 |
 | Sunset | 21:20:20 |
 | Maghrib | 21:25:51 |
-| Isha | 23:58:02 |
+| Isha | 23:58:03 |
 | Sharia Midnight | 23:58:46 |
 | Imum Coeli | 01:26:28 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°34'44.84" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|7°44'17.87" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|24°34'44.76" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|7°44'17.92" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Prograde|29°13'28.99" |Pisces|Rescha|Mars|
 |☉ Sun|Prograde|12°10'37.12" |Gemini|HanAh|Mars|
-|♀ Venus|Prograde|13°16'46.86" |Taurus|Dabaran|Moon|
+|♀ Venus|Prograde|13°16'46.90" |Taurus|Dabaran|Moon|
 |☿ Mercury|Prograde|27°50'15.67" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|7°59'32.90" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|7°59'33.24" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°34'44.84" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|7°44'17.87" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|24°34'44.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|7°44'17.92" |Aries|Sharatain|Mars|
 |♂ Mars|Prograde|29°13'28.99" |Aries|Thurayya|Venus|
 |☉ Sun|Prograde|12°10'37.12" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|13°16'46.86" |Gemini|HanAh|Mars|
+|♀ Venus|Prograde|13°16'46.90" |Gemini|HanAh|Mars|
 |☿ Mercury|Prograde|27°50'15.67" |Gemini|Dhira|Sun|
-|☾ Moon|Prograde|7°59'32.90" |Virgo|Awwa|Sun|
+|☾ Moon|Prograde|7°59'33.24" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

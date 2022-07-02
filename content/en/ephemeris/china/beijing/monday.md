@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 19:46:42 |
 | Maghrib | 19:48:09 |
 | Isha | 21:45:20 |
-| Sharia Midnight | 23:10:35 |
+| Sharia Midnight | 23:10:34 |
 | Imum Coeli | 00:18:55 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°35'29.43" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|7°42'59.78" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|29°1'44.04" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|24°35'29.34" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|7°42'59.83" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|29°1'44.05" |Pisces|Rescha|Mars|
 |☉ Sun|Prograde|11°54'41.21" |Gemini|HanAh|Mars|
-|♀ Venus|Prograde|12°56'46.30" |Taurus|Dabaran|Moon|
-|☿ Mercury|Prograde|27°18'28.91" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|4°39'17.31" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|12°56'46.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Prograde|27°18'28.90" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|4°39'17.65" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°35'29.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|7°42'59.78" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|29°1'44.04" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|24°35'29.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|7°42'59.83" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|29°1'44.05" |Aries|Thurayya|Venus|
 |☉ Sun|Prograde|11°54'41.21" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|12°56'46.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|27°18'28.91" |Gemini|Dhira|Sun|
-|☾ Moon|Prograde|4°39'17.31" |Virgo|Awwa|Sun|
+|♀ Venus|Prograde|12°56'46.34" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|27°18'28.90" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|4°39'17.65" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
