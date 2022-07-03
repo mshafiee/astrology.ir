@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:06:15 |
 | Sunset | 21:08:02 |
 | Maghrib | 21:10:09 |
-| Isha | 00:48:06 |
+| Isha | 00:48:07 |
 | Sharia Midnight | 23:16:23 |
 | Imum Coeli | 01:06:21 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°37'39.30" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|7°39'4.07" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|24°37'39.22" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|7°39'4.13" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Prograde|28°26'56.18" |Pisces|Rescha|Mars|
 |☉ Sun|Prograde|11°7'31.09" |Gemini|HanAh|Mars|
-|♀ Venus|Prograde|11°57'35.34" |Taurus|Dabaran|Moon|
+|♀ Venus|Prograde|11°57'35.38" |Taurus|Dabaran|Moon|
 |☿ Mercury|Prograde|25°45'42.85" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|24°36'43.19" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|24°36'43.47" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°37'39.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|7°39'4.07" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|24°37'39.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|7°39'4.13" |Aries|Sharatain|Mars|
 |♂ Mars|Prograde|28°26'56.18" |Aries|Thurayya|Venus|
 |☉ Sun|Prograde|11°7'31.09" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|11°57'35.34" |Gemini|HanAh|Mars|
+|♀ Venus|Prograde|11°57'35.38" |Gemini|HanAh|Mars|
 |☿ Mercury|Prograde|25°45'42.85" |Gemini|Dhira|Sun|
-|☾ Moon|Prograde|24°36'43.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°36'43.47" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

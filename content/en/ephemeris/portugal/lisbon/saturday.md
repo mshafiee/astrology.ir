@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 13:40:38 |
 | Medium Coeli | 13:40:38 |
 | Sunset | 21:05:23 |
-| Maghrib | 21:29:06 |
+| Maghrib | 21:29:07 |
 | Isha | 22:33:00 |
 | Sharia Midnight | 00:42:33 |
 | Imum Coeli | 01:40:44 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°39'45.89" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|7°35'0.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|27°52'1.77" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|24°39'45.80" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|7°35'1.02" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|27°52'1.78" |Pisces|Rescha|Mars|
 |☉ Sun|Prograde|10°20'18.80" |Gemini|HanAh|Mars|
-|♀ Venus|Prograde|10°58'21.87" |Taurus|Dabaran|Moon|
-|☿ Mercury|Prograde|24°14'45.50" |Taurus|HaqAh|Saturn|
-|☾ Moon|Prograde|14°49'19.62" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|10°58'21.91" |Taurus|Dabaran|Moon|
+|☿ Mercury|Prograde|24°14'45.49" |Taurus|HaqAh|Saturn|
+|☾ Moon|Prograde|14°49'19.82" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°39'45.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|7°35'0.96" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|27°52'1.77" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|24°39'45.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|7°35'1.02" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|27°52'1.78" |Aries|Thurayya|Venus|
 |☉ Sun|Prograde|10°20'18.80" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|10°58'21.87" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°14'45.50" |Gemini|Dhira|Sun|
-|☾ Moon|Prograde|14°49'19.62" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|10°58'21.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°14'45.49" |Gemini|Dhira|Sun|
+|☾ Moon|Prograde|14°49'19.82" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
