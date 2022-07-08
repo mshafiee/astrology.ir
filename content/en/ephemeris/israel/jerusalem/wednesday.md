@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 14:03:18|Night duration: 09:57:15|
-|Every hour of day duration: 01:10:16|Every hour of night duration: 00:49:46|
+|Every hour of day duration: 01:10:17|Every hour of night duration: 00:49:46|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°7'41.78" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|8°18'49.37" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|5°27'24.07" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|24°7'41.69" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|8°18'49.41" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|5°27'24.05" |Aries|Sharatain|Mars|
 |☉ Sun|Prograde|20°43'30.86" |Gemini|Dhira|Sun|
-|♀ Venus|Prograde|24°2'18.64" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Prograde|16°17'26.12" |Gemini|HanAh|Mars|
-|☾ Moon|Prograde|10°19'4.17" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|24°2'18.69" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Prograde|16°17'26.14" |Gemini|HanAh|Mars|
+|☾ Moon|Prograde|10°19'5.62" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°7'41.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|8°18'49.37" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|5°27'24.07" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|24°7'41.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|8°18'49.41" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|5°27'24.05" |Taurus|Thurayya|Mercury|
 |☉ Sun|Prograde|20°43'30.86" |Cancer|Tarf|Moon|
-|♀ Venus|Prograde|24°2'18.64" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|16°17'26.12" |Cancer|Tarf|Mercury|
-|☾ Moon|Prograde|10°19'4.17" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Prograde|24°2'18.69" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|16°17'26.14" |Cancer|Tarf|Mercury|
+|☾ Moon|Prograde|10°19'5.62" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

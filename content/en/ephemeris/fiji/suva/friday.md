@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Prograde|15°38'17.04" |Gemini|HanAh|Mars|
 |♀ Venus|Prograde|17°37'44.86" |Taurus|Dabaran|Moon|
 |☿ Mercury|Prograde|5°1'43.71" |Gemini|HanAh|Jupiter|
-|☾ Moon|Prograde|23°54'18.63" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|23°54'18.60" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|24°24'29.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|8°0'0.18" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|24°24'29.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|8°0'0.23" |Aries|Sharatain|Mars|
 |♂ Mars|Prograde|1°45'50.34" |Taurus|Thurayya|Mercury|
 |☉ Sun|Prograde|15°38'17.04" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|17°37'44.82" |Gemini|Dhira|Mars|
+|♀ Venus|Prograde|17°37'44.86" |Gemini|Dhira|Mars|
 |☿ Mercury|Prograde|5°1'43.71" |Cancer|Nathrah|Venus|
-|☾ Moon|Prograde|23°54'18.63" |Libra|Jubana|Jupiter|
+|☾ Moon|Prograde|23°54'18.60" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
