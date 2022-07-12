@@ -1,6 +1,6 @@
 ---
-date: 2022-07-10T00:00:00-04:00
-lastmod: 2022-07-10T00:00:00-04:00
+date: 2022-07-17T00:00:00-04:00
+lastmod: 2022-07-17T00:00:00-04:00
 title: Basse-Terre (Sunday)
 slug: sunday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Sunday, 10 Jul 2022
+description: 🗓 Sunday, 17 Jul 2022
 
 toc: false
 ---
