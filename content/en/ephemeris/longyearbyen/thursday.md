@@ -1,6 +1,6 @@
 ---
-date: 2022-07-14T00:00:00+02:00
-lastmod: 2022-07-14T00:00:00+02:00
+date: 2022-07-21T00:00:00+02:00
+lastmod: 2022-07-21T00:00:00+02:00
 title: Longyearbyen (Thursday)
 slug: thursday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Thursday, 14 Jul 2022
+description: 🗓 Thursday, 21 Jul 2022
 
 toc: false
 ---
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|11°10'38.55" |Taurus|Dabaran|Moon|
 |♃ Jupiter|Prograde|9°15'57.41" |Virgo|Awwa|Sun|
-|♂ Mars|Prograde|12°2'34.64" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|11°25'5.58" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Prograde|27°22'47.92" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|17°58'22.30" |Sagittarius|Baldah|Moon|
-|☾ Moon|Prograde|12°37'5.70" |Leo|Zubrah|Jupiter|
+|♂ Mars|Prograde|12°2'34.45" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|11°25'9.68" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|27°22'51.26" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|17°58'25.21" |Sagittarius|Baldah|Moon|
+|☾ Moon|Prograde|12°23'36.39" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Mars|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Mars|Sun|Venus|
 |☿ Mercury|Mercury|Mercury|Moon|Moon|Mercury|
-|☾ Moon|Mercury|Moon|Saturn|Sun|Sun|
+|☾ Moon|Mercury|Moon|Jupiter|Sun|Sun|
 
 
 {{< /tab >}}
