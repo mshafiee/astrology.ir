@@ -34,14 +34,14 @@ Altitude: 6 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:08:33 |
 | Dhuhr | 13:30:08 |
 | Medium Coeli | 13:30:08 |
 | Sunset | 21:50:26 |
 | Maghrib | 22:24:28 |
-| Isha | 00:00:00 |
-| Sharia Midnight | 20:33:21 |
+| Isha | Circumpolar Angle |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:30:08 |
 {{< /tab >}}
 
@@ -50,14 +50,14 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:08:33 |
 | Dhuhr | 13:30:08 |
 | Medium Coeli | 13:30:08 |
 | Sunset | 21:50:26 |
 | Maghrib | 22:29:52 |
-| Isha | 00:00:00 |
-| Sharia Midnight | 20:33:21 |
+| Isha | Circumpolar Angle |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:30:08 |
 {{< /tab >}}
 
@@ -66,14 +66,14 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:08:33 |
 | Dhuhr | 13:30:08 |
 | Medium Coeli | 13:30:08 |
 | Sunset | 21:50:26 |
 | Maghrib | 21:52:33 |
-| Isha | 00:00:00 |
-| Sharia Midnight | 20:33:21 |
+| Isha | Circumpolar Angle |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:30:08 |
 {{< /tab >}}
 
@@ -82,14 +82,14 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:08:33 |
 | Dhuhr | 13:30:08 |
 | Medium Coeli | 13:30:08 |
 | Sunset | 21:50:26 |
 | Maghrib | 21:52:33 |
-| Isha | 00:00:00 |
-| Sharia Midnight | 20:33:21 |
+| Isha | Circumpolar Angle |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:30:08 |
 {{< /tab >}}
 
@@ -98,14 +98,14 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:08:33 |
 | Dhuhr | 13:30:08 |
 | Medium Coeli | 13:30:08 |
 | Sunset | 21:50:26 |
 | Maghrib | 21:52:33 |
-| Isha | 00:00:00 |
-| Sharia Midnight | 20:33:21 |
+| Isha | Circumpolar Angle |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:30:08 |
 {{< /tab >}}
 
@@ -114,14 +114,14 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:08:33 |
 | Dhuhr | 13:30:08 |
 | Medium Coeli | 13:30:08 |
 | Sunset | 21:50:26 |
 | Maghrib | 21:52:33 |
-| Isha | 00:00:00 |
-| Sharia Midnight | 20:33:21 |
+| Isha | Circumpolar Angle |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:30:08 |
 {{< /tab >}}
 
@@ -130,14 +130,14 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:08:33 |
 | Dhuhr | 13:30:08 |
 | Medium Coeli | 13:30:08 |
 | Sunset | 21:50:26 |
 | Maghrib | 21:52:33 |
 | Isha | 23:22:33 |
-| Sharia Midnight | 20:33:21 |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:30:08 |
 {{< /tab >}}
 

@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:49:37 |
 | Dhuhr | 13:47:00 |
 | Medium Coeli | 13:47:00 |
@@ -66,14 +66,14 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:49:37 |
 | Dhuhr | 13:47:00 |
 | Medium Coeli | 13:47:00 |
 | Sunset | 21:43:25 |
 | Maghrib | 21:45:11 |
 | Isha | 00:55:24 |
-| Sharia Midnight | 20:09:18 |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:47:00 |
 {{< /tab >}}
 
@@ -98,14 +98,14 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:49:37 |
 | Dhuhr | 13:47:00 |
 | Medium Coeli | 13:47:00 |
 | Sunset | 21:43:25 |
 | Maghrib | 21:45:11 |
 | Isha | 01:13:11 |
-| Sharia Midnight | 20:09:18 |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:47:00 |
 {{< /tab >}}
 
@@ -114,14 +114,14 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:49:37 |
 | Dhuhr | 13:47:00 |
 | Medium Coeli | 13:47:00 |
 | Sunset | 21:43:25 |
 | Maghrib | 21:45:11 |
-| Isha | 00:00:00 |
-| Sharia Midnight | 20:09:18 |
+| Isha | Circumpolar Angle |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:47:00 |
 {{< /tab >}}
 
@@ -130,14 +130,14 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:49:37 |
 | Dhuhr | 13:47:00 |
 | Medium Coeli | 13:47:00 |
 | Sunset | 21:43:25 |
 | Maghrib | 21:45:11 |
 | Isha | 23:15:11 |
-| Sharia Midnight | 20:09:18 |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:47:00 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°23'9.20" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|8°41'41.74" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|13°35'38.53" |Aries|Butain|Sun|
-|☉ Sun|Prograde|2°13'7.91" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|8°34'35.79" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Prograde|11°29'10.73" |Cancer|Nathrah|Mercury|
-|☾ Moon|Prograde|23°35'14.58" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|23°23'9.11" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|8°41'41.76" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|13°35'38.49" |Aries|Butain|Sun|
+|☉ Sun|Prograde|2°13'7.93" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|8°34'35.85" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Prograde|11°29'10.78" |Cancer|Nathrah|Mercury|
+|☾ Moon|Prograde|23°35'14.35" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°23'9.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|8°41'41.74" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|13°35'38.53" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|2°13'7.91" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|8°34'35.79" |Cancer|Nathrah|Venus|
-|☿ Mercury|Prograde|11°29'10.73" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|23°35'14.58" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|23°23'9.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|8°41'41.76" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|13°35'38.49" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|2°13'7.93" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|8°34'35.85" |Cancer|Nathrah|Venus|
+|☿ Mercury|Prograde|11°29'10.78" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|23°35'14.35" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|

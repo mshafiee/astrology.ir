@@ -98,14 +98,14 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Dawn | Circumpolar Angle |
 | Sunrise | 05:30:00 |
 | Dhuhr | 13:20:47 |
 | Medium Coeli | 13:20:47 |
 | Sunset | 21:10:38 |
 | Maghrib | 21:15:41 |
 | Isha | 00:08:53 |
-| Sharia Midnight | 20:24:47 |
+| Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:20:47 |
 {{< /tab >}}
 

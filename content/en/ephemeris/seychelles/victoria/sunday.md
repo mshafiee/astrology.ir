@@ -1,6 +1,6 @@
 ---
-date: 2022-07-24T00:00:00+04:00
-lastmod: 2022-07-24T00:00:00+04:00
+date: 2022-07-31T00:00:00+04:00
+lastmod: 2022-07-31T00:00:00+04:00
 title: Victoria (Sunday)
 slug: sunday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Sunday, 24 Jul 2022
+description: 🗓 Sunday, 31 Jul 2022
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
-|♓ Pisces|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
+|♈ Aries|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
 
 
 {{< /tab >}}
