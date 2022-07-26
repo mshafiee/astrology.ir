@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Prograde|5°48'19.85" |Cancer|Nathrah|Venus|
 |♀ Venus|Prograde|13°7'30.63" |Gemini|HanAh|Mars|
 |☿ Mercury|Prograde|18°40'35.36" |Cancer|Tarf|Mercury|
-|☾ Moon|Prograde|8°27'27.17" |Cancer|Nathrah|Venus|
+|☾ Moon|Prograde|7°43'34.88" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
