@@ -313,13 +313,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Mercury|Moon|Venus|Sun|Venus|
-|♃ Jupiter|Sun|Mercury|Mercury|Moon|Jupiter|
-|♂ Mars|Mercury|Mercury|Venus|Moon|Saturn|
-|☉ Sun|Saturn|Mercury|Mercury|Moon|Moon|
-|♀ Venus|Jupiter|Saturn|Mars|Sun|Mercury|
-|☿ Mercury|Sun|Saturn|Jupiter|Sun|Mars|
-|☾ Moon|Sun|Jupiter|Saturn|Sun|Mars|
+|♄ Saturn|Mercury|Moon|Libra|Sun|Venus|
+|♃ Jupiter|Sun|Mercury|Gemini|Moon|Jupiter|
+|♂ Mars|Mercury|Mercury|Libra|Moon|Saturn|
+|☉ Sun|Saturn|Mercury|Virgo|Moon|Moon|
+|♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
+|☿ Mercury|Sun|Saturn|Pisces|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|23°3'48.79" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'57.16" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°40'39.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°42'22.53" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°16'6.21" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°25'12.17" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|19°48'38.31" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|8°42'58.90" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°40'42.95" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°42'14.74" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°16'2.62" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°25'5.23" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|18°55'1.50" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -347,18 +347,18 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
+|☾ Moon|Mercury|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Mercury|Mars|Mars|Moon|Mars|
-|♃ Jupiter|Venus|Mercury|Moon|Sun|Mars|
-|♂ Mars|Saturn|Mercury|Mars|Sun|Saturn|
-|☉ Sun|Venus|Mercury|Venus|Sun|Sun|
-|♀ Venus|Mars|Mars|Jupiter|Moon|Moon|
-|☿ Mercury|Saturn|Venus|Mars|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Jupiter|Moon|Venus|
+|♄ Saturn|Mercury|Mars|Scorpio|Moon|Mars|
+|♃ Jupiter|Venus|Mercury|Cancer|Sun|Mars|
+|♂ Mars|Saturn|Mercury|Scorpio|Sun|Saturn|
+|☉ Sun|Venus|Mercury|Libra|Sun|Sun|
+|♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
+|☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}

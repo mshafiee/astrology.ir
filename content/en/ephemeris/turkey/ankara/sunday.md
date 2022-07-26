@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 14:17:05|Night duration: 09:43:50|
+|Duration of the day: 14:17:05|Night duration: 09:43:51|
 |Every hour of day duration: 01:11:25|Every hour of night duration: 00:48:39|
 
  
@@ -229,15 +229,15 @@ Timetable of twelve day and night planetary hours
 |1|Jupiter|Ruler|20:03:16|20:51:54|Love and attracting capital|
 |2|Mars|Servant|20:51:55|21:40:33|It's ugly, nothing to do|
 |3|Sun|Servant|21:40:34|22:29:12|Operation of Compassion and Attraction of Love|
-|4|Venus|Servant|22:29:13|23:17:51|Evil and repel good|
-|5|Mercury|Servant|23:17:52|00:06:30|Separation and grudges and hostilities|
-|6|Moon|Servant|00:06:31|00:55:10|It's good for all good deeds|
+|4|Venus|Servant|22:29:13|23:17:52|Evil and repel good|
+|5|Mercury|Servant|23:17:53|00:06:31|Separation and grudges and hostilities|
+|6|Moon|Servant|00:06:32|00:55:10|It's good for all good deeds|
 |7|Saturn|Servant|00:55:11|01:43:49|Do not do anything, it causes misery|
-|8|Jupiter|Ruler|01:43:50|02:32:28|It is very auspicious and attracts happiness|
-|9|Mars|Servant|02:32:29|03:21:07|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Sun|Servant|03:21:08|04:09:46|Attracting happiness, solving financial problems|
-|11|Venus|Servant|04:09:47|04:58:25|Doing marriage|
-|12|Mercury|Servant|04:58:26|05:47:05|Discover the Fugitive and Find the Thief|
+|8|Jupiter|Ruler|01:43:50|02:32:29|It is very auspicious and attracts happiness|
+|9|Mars|Servant|02:32:30|03:21:08|Summoning the desired person, attracting hearts, compassion of hearts|
+|10|Sun|Servant|03:21:09|04:09:47|Attracting happiness, solving financial problems|
+|11|Venus|Servant|04:09:48|04:58:26|Doing marriage|
+|12|Mercury|Servant|04:58:27|05:47:06|Discover the Fugitive and Find the Thief|
 
  
  
@@ -313,13 +313,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Mercury|Moon|Venus|Sun|Venus|
-|♃ Jupiter|Sun|Mercury|Mercury|Moon|Jupiter|
-|♂ Mars|Moon|Mercury|Venus|Moon|Saturn|
-|☉ Sun|Saturn|Mercury|Venus|Moon|Moon|
-|♀ Venus|Jupiter|Saturn|Jupiter|Moon|Jupiter|
-|☿ Mercury|Venus|Saturn|Mars|Sun|Mars|
-|☾ Moon|Venus|Venus|Venus|Sun|Sun|
+|♄ Saturn|Mercury|Moon|Libra|Sun|Venus|
+|♃ Jupiter|Sun|Mercury|Gemini|Moon|Jupiter|
+|♂ Mars|Moon|Mercury|Libra|Moon|Saturn|
+|☉ Sun|Saturn|Mercury|Libra|Moon|Moon|
+|♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
+|☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -352,13 +352,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Mercury|Mars|Mars|Moon|Mars|
-|♃ Jupiter|Venus|Mercury|Moon|Sun|Mars|
-|♂ Mars|Jupiter|Mercury|Mars|Sun|Saturn|
-|☉ Sun|Venus|Mercury|Mars|Sun|Sun|
-|♀ Venus|Mars|Mars|Saturn|Sun|Mars|
-|☿ Mercury|Jupiter|Venus|Venus|Moon|Venus|
-|☾ Moon|Moon|Saturn|Mars|Moon|Venus|
+|♄ Saturn|Mercury|Mars|Scorpio|Moon|Mars|
+|♃ Jupiter|Venus|Mercury|Cancer|Sun|Mars|
+|♂ Mars|Jupiter|Mercury|Scorpio|Sun|Saturn|
+|☉ Sun|Venus|Mercury|Scorpio|Sun|Sun|
+|♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
+|☿ Mercury|Jupiter|Venus|Taurus|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

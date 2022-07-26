@@ -313,13 +313,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Moon|Mars|Mercury|Moon|Venus|
-|♃ Jupiter|Saturn|Jupiter|Jupiter|Moon|Venus|
-|♂ Mars|Sun|Venus|Moon|Moon|Jupiter|
-|☉ Sun|Sun|Moon|Mars|Sun|Jupiter|
-|♀ Venus|Moon|Mercury|Mars|Sun|Venus|
-|☿ Mercury|Mercury|Mercury|Moon|Moon|Mercury|
-|☾ Moon|Mercury|Moon|Saturn|Sun|Sun|
+|♄ Saturn|Moon|Mars|Virgo|Moon|Venus|
+|♃ Jupiter|Saturn|Jupiter|Sagittarius|Moon|Venus|
+|♂ Mars|Sun|Venus|Cancer|Moon|Jupiter|
+|☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
+|♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
+|☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Mercury|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -352,13 +352,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Saturn|Saturn|Venus|Sun|Mercury|
-|♃ Jupiter|Moon|Jupiter|Saturn|Sun|Venus|
-|♂ Mars|Venus|Moon|Sun|Sun|Mars|
-|☉ Sun|Mars|Mars|Venus|Moon|Saturn|
-|♀ Venus|Moon|Mercury|Jupiter|Moon|Mars|
-|☿ Mercury|Venus|Mercury|Sun|Sun|Venus|
-|☾ Moon|Saturn|Mars|Saturn|Moon|Venus|
+|♄ Saturn|Saturn|Saturn|Libra|Sun|Mercury|
+|♃ Jupiter|Moon|Jupiter|Capricorn|Sun|Venus|
+|♂ Mars|Venus|Moon|Leo|Sun|Mars|
+|☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
+|♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
+|☿ Mercury|Venus|Mercury|Leo|Sun|Venus|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}

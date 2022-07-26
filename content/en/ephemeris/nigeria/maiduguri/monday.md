@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°22'58.19" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Prograde|8°41'43.55" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|13°37'24.13" |Aries|Butain|Sun|
-|☉ Sun|Prograde|2°15'42.03" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|8°37'49.56" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Prograde|11°34'24.70" |Cancer|Nathrah|Mercury|
-|☾ Moon|Prograde|24°19'3.99" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|23°22'58.29" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Prograde|8°41'43.52" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|13°37'24.17" |Aries|Butain|Sun|
+|☉ Sun|Prograde|2°15'42.01" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|8°37'49.49" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Prograde|11°34'24.65" |Cancer|Nathrah|Mercury|
+|☾ Moon|Prograde|24°19'4.24" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -313,13 +313,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Mercury|Sun|Venus|Sun|Venus|
-|♃ Jupiter|Sun|Mercury|Mercury|Moon|Jupiter|
-|♂ Mars|Mercury|Sun|Mercury|Sun|Mars|
-|☉ Sun|Moon|Moon|Moon|Moon|Moon|
-|♀ Venus|Saturn|Jupiter|Mercury|Sun|Mercury|
-|☿ Mercury|Jupiter|Venus|Mars|Moon|Moon|
-|☾ Moon|Mars|Sun|Saturn|Sun|Saturn|
+|♄ Saturn|Mercury|Sun|Libra|Sun|Venus|
+|♃ Jupiter|Sun|Mercury|Gemini|Moon|Jupiter|
+|♂ Mars|Mercury|Sun|Virgo|Sun|Mars|
+|☉ Sun|Moon|Moon|Cancer|Moon|Moon|
+|♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°22'58.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Prograde|8°41'43.55" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|13°37'24.13" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|2°15'42.03" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|8°37'49.56" |Cancer|Nathrah|Venus|
-|☿ Mercury|Prograde|11°34'24.70" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|24°19'3.99" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|23°22'58.29" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Prograde|8°41'43.52" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|13°37'24.17" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|2°15'42.01" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|8°37'49.49" |Cancer|Nathrah|Venus|
+|☿ Mercury|Prograde|11°34'24.65" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|24°19'4.24" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -352,13 +352,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Mercury|Venus|Mars|Moon|Mars|
-|♃ Jupiter|Venus|Mercury|Moon|Sun|Mars|
-|♂ Mars|Saturn|Venus|Venus|Moon|Venus|
-|☉ Sun|Sun|Mars|Sun|Sun|Sun|
-|♀ Venus|Jupiter|Mercury|Venus|Moon|Moon|
-|☿ Mercury|Mercury|Moon|Jupiter|Sun|Sun|
-|☾ Moon|Sun|Venus|Jupiter|Moon|Jupiter|
+|♄ Saturn|Mercury|Venus|Scorpio|Moon|Mars|
+|♃ Jupiter|Venus|Mercury|Cancer|Sun|Mars|
+|♂ Mars|Saturn|Venus|Libra|Moon|Venus|
+|☉ Sun|Sun|Mars|Leo|Sun|Sun|
+|♀ Venus|Jupiter|Mercury|Libra|Moon|Moon|
+|☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
+|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
