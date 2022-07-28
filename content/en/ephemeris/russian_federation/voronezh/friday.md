@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 02:23:40 |
+| Dawn | 02:23:39 |
 | Sunrise | 04:41:20 |
 | Dhuhr | 12:29:47 |
 | Medium Coeli | 12:29:47 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°7'6.17" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°43'2.94" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°10'1.80" |Aries|Butain|Sun|
-|☉ Sun|Prograde|5°57'25.77" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|13°19'4.46" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|18°58'20.41" |Cancer|Tarf|Mercury|
-|☾ Moon|Prograde|10°12'19.85" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|23°7'6.27" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°43'2.92" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°10'1.84" |Aries|Butain|Sun|
+|☉ Sun|Prograde|5°57'25.73" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|13°19'4.39" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|18°58'20.35" |Cancer|Tarf|Mercury|
+|☾ Moon|Prograde|10°12'20.64" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°7'6.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°43'2.94" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°10'1.80" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|5°57'25.77" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|13°19'4.46" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|18°58'20.41" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|10°12'19.85" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|23°7'6.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°43'2.92" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°10'1.84" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|5°57'25.73" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|13°19'4.39" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|18°58'20.35" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|10°12'20.64" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
