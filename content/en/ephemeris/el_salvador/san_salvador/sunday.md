@@ -34,7 +34,7 @@ Altitude: 653 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:32:59 |
+| Dawn | 04:32:58 |
 | Sunrise | 05:41:14 |
 | Dhuhr | 12:03:10 |
 | Medium Coeli | 12:03:10 |
