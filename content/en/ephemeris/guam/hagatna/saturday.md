@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'52.91" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'57.29" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°40'1.89" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°41'27.14" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°14'55.48" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°23'24.99" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|19°40'34.19" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|23°3'52.81" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'57.31" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°40'1.85" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°41'27.18" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°14'55.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°23'25.05" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|19°40'33.68" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'52.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'57.29" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°40'1.89" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°41'27.14" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°14'55.48" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°23'24.99" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|19°40'34.19" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|23°3'52.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'57.31" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°40'1.85" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°41'27.18" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°14'55.56" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°23'25.05" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|19°40'33.68" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Agadna, Agana, Agana -1998, Agania, Aganija, Aganja, Agano, Agaña, Aguana, Akashi, Akashi - JP renamed WW2, Ankana, City of Ignacio de Agana, City of Saint Ignacio de Agana, Ciudad de San Ignacio de Agana, Hagadna, Hagatna, Hagåtña, Haqatna, Jagatna, Khagatna, San Ignacio de Agana *, Ville d'Agana, Vjoska Agan'ja, a jia ni ya, akatna, ha katya, hagania, hagasnya, hagatna, hagatnya, haghatnya, hegatn'ya, Αγκάνα, Вёска Аганья, Хагатна, Хагатња, Հագատնա, هاغاتنيا, هاگاتنا, هاگاتنیا, हेगात्न्या, அகாத்ன, ฮากาตญา, ჰაგატნა, ハガニア, 阿加尼亚, 하갓냐

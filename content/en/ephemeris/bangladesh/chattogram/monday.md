@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'47.75" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'4.93" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°3'12.32" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°44'10.37" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°50'45.35" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°15'26.08" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|15°44'14.48" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'47.65" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'4.94" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°3'12.28" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°44'10.41" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°50'45.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°15'26.15" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|15°44'15.26" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'47.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'4.93" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°3'12.32" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°44'10.37" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°50'45.35" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°15'26.08" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|15°44'14.48" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°54'47.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'4.94" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°3'12.28" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°44'10.41" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°50'45.43" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°15'26.15" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|15°44'15.26" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CGP, Cattagram, Caṭṭagrām, Cetagons, Chattogram, Chitagong, Chittagong, Chittagong Ghat, Chottogram, Chôţţogram, Citagaon, Citagong, Citagonga, Citagongas, Citagongo, Cittaqonq, Cottogram, Csittagong, Islamabad, Tsitankon'nk, catagamva, cattagrama, chitagong, chittagon, chytagwng, cirragean, cit ta kxng, citagonga, cittagang, cittagonga, cittakon, ji da gang, ji da gang shi, shytaghwngh, shytajwnj, zytgwng, Çitagong, Çittaqonq, Ćottogram, Ĉitagongo, Čattagrám, Čitagonga, Čitagongas, Čitágáon, Čėtagons, Τσιταγκόνγκ, Читагонг, Читтагонг, Читтаґонґ, טשיטאגאנג, ציטגונג, شيتاجونج, شيتاغونغ, چٹاگانگ, چیتاگونگ, चटगाँव, चट्टग्राम, चिटागोंग, চট্টগ্রাম, ચિત્તાગોંગ, சிட்டகொங், చిట్టగాంగ్, ಚಿತ್ತಗಾಂಗ್, ചിറ്റഗോങ്, จิตตะกอง, စစ်တကောင်းမြို့, ჩიტაგონგი, チッタゴン, 吉大港, 吉大港市, 치타공

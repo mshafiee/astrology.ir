@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'48.29" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'13.50" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°54'3.81" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°30'37.07" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°33'33.03" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°50'12.34" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|12°44'41.97" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°55'48.39" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'13.48" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°54'3.84" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°30'37.03" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°33'32.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°50'12.28" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|12°44'41.35" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'48.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'13.50" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°54'3.81" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°30'37.07" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°33'33.03" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°50'12.34" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|12°44'41.97" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°55'48.39" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'13.48" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°54'3.84" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°30'37.03" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°33'32.95" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°50'12.28" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|12°44'41.35" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

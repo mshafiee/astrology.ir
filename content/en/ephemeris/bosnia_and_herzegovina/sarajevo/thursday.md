@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'2.52" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'6.81" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°5'23.95" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°46'33.16" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°42'32.47" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°46'2.67" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°44'3.19" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'2.42" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'6.82" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°5'23.92" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°46'33.20" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°42'32.55" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°46'2.73" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°44'3.93" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'2.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'6.81" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°5'23.95" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°46'33.16" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°42'32.47" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°46'2.67" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°44'3.19" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°41'2.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'6.82" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°5'23.92" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°46'33.20" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°42'32.55" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°46'2.73" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°44'3.93" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bosna-Sarai, SJJ, Saarayego, Saireavo, Sairéavó, Saraeva, Saraevo, Saraevo osh, Saragebo, Saragiebo, Saragievo, Sarajeva, Sarajevas, Sarajevo, Sarajevs, Sarajevu, Sarajevó, Sarajewo, Sarajèvo, Saraxevo, Saraybosna, Sarayevo, Sarayevu, Seraium, Serayevo, Szarajevo, Szarajevó, Vrh Bosna, carayevo, sa la re wo, sai la ye fu, salayebo, saraevo, saraevu~o, sarajyww, sarayavea, sarayebho, sarayevho, sarayevo, sarayewo, sarayh ww, sarayww, sarayyfw, srayyfw, srayyww, sryybw, Σαράγεβο, Σαράγιεβο, Σαραγιεβο, Сараева, Сараево, Сараево ош, Сараєво, Сарајево, Сараѥво, Սարաևո, סאראיעווא, סרייבו, ساراجیوو, ساراييفو, سارايېۋو, سارایه وو, سارایوو, سارایێڤۆ, سرائیوو, سراييفو, सारायेव्हो, সারায়েভো, ਸਾਰਾਯੇਵੋ, சாரயேவோ, സരയാവോ, ซาราเยโว, ས་ར་ཇི་བོ།, სარაევო, ሳራዬቮ, サラエヴォ, 塞拉耶佛, 薩拉熱窩, 사라예보

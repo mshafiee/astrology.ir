@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'49.56" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'3.09" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°7'17.04" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°49'23.29" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°46'8.70" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°51'2.96" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|26°22'43.93" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'49.47" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'3.10" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°7'17.01" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°49'23.33" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°46'8.78" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°51'3.02" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|26°22'44.63" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'49.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'3.09" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°7'17.04" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°49'23.29" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°46'8.70" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°51'2.96" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°22'43.93" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'49.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'3.10" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°7'17.01" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°49'23.33" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°46'8.78" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°51'3.02" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°22'44.63" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ALV, Ando-la-Vyey, Andora, Andora la Vela, Andora la Velja, Andora lja Vehl'ja, Andoro Malnova, Andorra, Andorra Tuan, Andorra a Vella, Andorra la Biella, Andorra la Vella, Andorra la Vielha, Andorra-a-Velha, Andorra-la-Vel'ja, Andorra-la-Vielye, Andorre-la-Vieille, Andò-la-Vyèy, Andòrra la Vièlha, an dao er cheng, andolalabeya, andwra la fyla, Ανδόρρα, Андора ла Веля, Андора ла Веља, Андора ля Вэлья, Андорра-ла-Велья, אנדורה לה וולה, أندورا لا فيلا, አንዶራ ላ ቬላ, アンドラ・ラ・ヴェリャ, 安道爾城, 안도라라베야

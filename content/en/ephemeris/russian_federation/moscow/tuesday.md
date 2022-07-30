@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'6.23" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'17.40" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'22.37" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°46'47.75" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°10'20.46" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°10'53.90" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°6'12.90" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'6.33" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'17.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°45'22.41" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°46'47.71" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°10'20.39" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°10'53.83" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|29°6'11.55" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'6.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'17.40" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'22.37" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°46'47.75" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°10'20.46" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°10'53.90" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°6'12.90" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'6.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'17.39" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°45'22.41" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°46'47.71" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°10'20.39" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°10'53.83" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|29°6'11.55" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MOW, Maeskuy, Maskav, Maskava, Maskva, Mat-xco-va, Matxcova, Matxcơva, Mosca, Moscfa, Moscha, Mosco, Moscou, Moscova, Moscovo, Moscow, Moscoƿ, Moscu, Moscua, Moscòu, Moscó, Moscù, Moscú, Moskva, Moska, Moskau, Mosko, Moskokh, Moskou, Moskov, Moskova, Moskovu, Moskow, Moskowa, Mosku, Moskuas, Moskva, Moskvo, Moskwa, Moszkva, Muskav, Musko, Mát-xcơ-va, Mòskwa, Məskeu, Məskəү, masko, maskw, mo si ke, moseukeuba, mosko, mosukuwa, mskw, mwskva, mwskw, mwsqbh, mx s ko, Μόσχα, Мæскуы, Маскав, Масква, Москва, Москова, Москох, Москъва, Мускав, Муско, Мәскеу, Мәскәү, Մոսկվա, מאָסקװע, מאסקווע, מוסקבה, ماسکو, مسکو, موسكو, موسكۋا, ܡܘܣܩܒܐ, मास्को, मॉस्को, মস্কো, மாஸ்கோ, มอสโก, མོ་སི་ཁོ།, მოსკოვი, ሞስኮ, モスクワ, 莫斯科, 모스크바

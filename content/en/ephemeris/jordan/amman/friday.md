@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°6'54.07" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°43'2.68" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°11'53.62" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°0'10.77" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|13°22'32.73" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|19°3'39.12" |Cancer|Tarf|Mercury|
-|☾ Moon|Prograde|10°57'19.23" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|23°6'54.17" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°43'2.66" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°11'53.66" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°0'10.73" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|13°22'32.66" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|19°3'39.06" |Cancer|Tarf|Mercury|
+|☾ Moon|Prograde|10°57'20.01" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°6'54.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°43'2.68" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°11'53.62" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°0'10.77" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|13°22'32.73" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|19°3'39.12" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|10°57'19.23" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|23°6'54.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°43'2.66" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°11'53.66" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°0'10.73" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|13°22'32.66" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|19°3'39.06" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|10°57'20.01" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: 'Amman, AMM, Ama, Aman, Amanas, Amani, Amano, Amans, Amman, Ammana, Ammon, Ammán, Ammān, Ammāna, Amàn, Amán, Amã, Philadelphia, Rabbah, Rabbath Ammon, am'man, am'mana, aman, amana, amani, amman, an man, anman, xam man, yamman, ʻmʼn, ʿman, ʿmʾn, Αμμάν, Аман, Амман, Аммон, Ամման, אמאן, עמאן, ئاممان, امان, عمان, عمان شہر, عمّان, عَمّان, عەممان, ܥܡܐܢ, अम्मान, আম্মান, ਅਮਾਨ, அம்மான், ಅಮ್ಮಾನ್, അമ്മാൻ, อัมมาน, ཨམ་མན།, ამანი, አማን, ‘Ammān, アンマン, 安曼, 암만

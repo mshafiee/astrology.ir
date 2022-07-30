@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|23°2'29.29" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'52.10" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°52'53.07" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°0'24.54" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°38'59.20" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°59'47.64" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|23°39'56.56" |Cancer|Tarf|Moon|
+|♃ Jupiter|Retrograde|8°42'52.87" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°52'56.09" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°0'24.34" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°38'59.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°59'46.79" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|23°33'16.97" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|23°2'29.29" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°42'52.87" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°52'52.23" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°0'24.52" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°38'58.97" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°59'47.82" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|23°41'17.58" |Leo|Sarfrah|Mars|
+|♂ Mars|Prograde|16°52'56.09" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°0'24.34" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°38'59.91" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°59'46.79" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|23°33'16.97" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: An Roimh, An Ròimh, An Róimh, Erroma, Hrom, Lungsod ng Roma, Mji wa Roma, ROM, Ramma, Rhufain, Rim, Rim, Roeme, Rom, Roma, Rome, Romma, Romo, Romë, Rooma, Roum, Rym, Rzym, Råmma, Rím, Róm, Róma, Urbs, loma, luo ma shi, rm, rom, roma, romi, rwm, rwma, rym, Řím, Ρώμη, Рим, Римъ, Ром, Рым, Հռոմ, רומא, رم, روم, روما, رىم, ܪܘܡܐ, रोम, रोमा, রোম, โรม, რომი, ሮማ, ローマ, 罗马市, 로마

@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'44.35" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'18.58" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°59'16.26" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°37'21.46" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°30'50.37" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°29'45.73" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|23°41'26.96" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'44.44" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'18.57" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°59'16.29" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°37'21.42" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°30'50.30" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°29'45.67" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|23°41'26.11" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'44.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'18.58" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°59'16.26" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°37'21.46" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°30'50.37" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°29'45.73" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|23°41'26.96" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'44.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'18.57" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°59'16.29" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°37'21.42" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°30'50.30" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°29'45.67" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|23°41'26.11" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: 'Azimabad, New Patna, PAT, Patna, Patna New City, Patnao, ba te na, batna, pat na, patana, pateuna, patna, patona, ptnh, ʿAẓīmābād, Πάτνα, Патна, Պատնա, פטנה, باتنا, پتنه, پٹنہ, پټنا, पटना, पाटणा, पाट्ना, পাটনা, ਪਟਨਾ, પટના, ପାଟଣା, பட்னா, பாட்னா, పాట్నా, ಪಟ್ನಾ, പട്ന, ปัฏนา, პატნა, パトナ, パトナー, 巴特那, 파트나

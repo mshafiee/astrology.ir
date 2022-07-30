@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°37'59.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'11.62" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°32'1.67" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°26'39.42" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°33'31.74" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°56'28.33" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|4°52'25.96" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°37'58.93" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'11.64" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°32'1.64" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°26'39.45" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°33'31.82" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°56'28.38" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|4°52'26.18" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°37'59.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'11.62" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°32'1.67" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°26'39.42" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°33'31.74" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°56'28.33" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|4°52'25.96" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°37'58.93" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'11.64" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°32'1.64" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°26'39.45" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°33'31.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°56'28.38" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|4°52'26.18" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Chirosima, HIJ, Hiroshima, Hiroshima-shi, Hiroshimashi, Hirosima, Hirosimo, Hiroszima, Hiroxima, Hiroxima - guang dao shi, Hiroxima - 広島市, Hiroŝimo, Hiroşima, Hirošima, Hiroșima, Khiroshima, Khirosima, canghwad hi roa chi ma, guang dao, guang dao shi, hi ro chi ma, hilosima si, hiroshima, hiroshimashi, hirosima, hyrwshyma, hyrwsymh, Χιροσίμα, Хиросима, Хирошима, Хіросіма, הירושימה, هيروشيما, هیروشیما, हिरोशिमा, จังหวัดฮิโระชิมะ, ฮิโรชิมา, ჰიროსიმა, ჰიროშიმა, ひろしま, ひろしまし, ヒロシマ, ヒロシマシ, 広島, 広島市, 廣島市, 히로시마 시

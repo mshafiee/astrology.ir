@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'9.08" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'59.25" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°9'2.33" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°52'48.69" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°1'44.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°31'29.56" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|17°31'16.91" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'8.99" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'59.26" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°9'2.30" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°52'48.73" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°1'44.42" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°31'29.62" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|17°31'17.79" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'9.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'59.25" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°9'2.33" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°52'48.69" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°1'44.34" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°31'29.56" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°31'16.91" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|22°54'8.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'59.26" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°9'2.30" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°52'48.73" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°1'44.42" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°31'29.62" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|17°31'17.79" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Boursa, Brossa, Broussa, Brousse, Brusa, Brussa, Burs, Bursa, Bursae, Burso, Prousa, YEI, bu er sa, buleusa, bur sa, bursa, burusa, bwrsa, bwrsh, bwrst, Προύσα, Бурсæ, Бурса, Бурсо, בורסה, برصہ, بورسا, بورصة, بورصه, بورصہ, بۇرسا, बुर्सा, บูร์ซา, ბურსა, ブルサ, 布尔萨, 부르사

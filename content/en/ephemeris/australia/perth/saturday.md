@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:23:03 |
 | Sunset | 17:39:22 |
 | Maghrib | 17:40:32 |
-| Isha | 19:02:23 |
+| Isha | 19:02:24 |
 | Sharia Midnight | 23:36:35 |
 | Imum Coeli | 00:23:01 |
 {{< /tab >}}
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'21.21" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'55.95" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°44'57.30" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°48'39.07" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°24'5.63" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°37'17.69" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|20°54'39.04" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°3'21.12" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'55.97" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°44'57.26" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°48'39.11" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°24'5.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°37'17.75" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|20°54'38.58" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'21.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'55.95" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°44'57.30" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°48'39.07" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°24'5.63" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°37'17.69" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|20°54'39.04" |Leo|Zubrah|Mars|
+|♄ Saturn|Retrograde|23°3'21.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'55.97" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°44'57.26" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°48'39.11" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°24'5.71" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°37'17.75" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|20°54'38.58" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: PER, Peairt, Pert, Perta, Pertas, Perth, Perth City, Perthia, Perto, Perþ, Pirth, Purt, Pērta, byrth, part, partha, pasu, peoseu, pert, pheirth, po si, prt, prt', prtھ  asٹrylya, Περθ, Перт, Пертһ, Пърт, Պերթ, פרת', بيرث, پرت, پرتھ، آسٹریلیا, पर्थ, பேர்த், ಪರ್ತ್, പെർത്ത്, เพิร์ท, ပါ့သ်မြို့, პერთი, パース, 珀斯, 퍼스

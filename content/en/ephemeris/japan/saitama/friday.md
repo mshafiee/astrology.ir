@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°38'4.85" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'13.46" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°31'11.20" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°25'23.25" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°31'54.93" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°54'15.37" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|4°34'54.75" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°38'4.75" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'13.48" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°31'11.18" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°25'23.28" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°31'55.01" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°54'15.43" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|4°34'54.99" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°38'4.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'13.46" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°31'11.20" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°25'23.25" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°31'54.93" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°54'15.37" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|4°34'54.75" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°38'4.75" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'13.48" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°31'11.18" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°25'23.28" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°31'55.01" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°54'15.43" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|4°34'54.99" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Saitama, saitama, Саитама, さいたま

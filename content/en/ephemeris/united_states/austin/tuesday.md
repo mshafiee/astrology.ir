@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'15.32" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'54.71" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°1'48.42" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°11'19.32" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|18°41'28.97" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°55'31.04" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|4°36'10.65" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°48'15.42" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'54.69" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°1'48.46" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°11'19.28" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|18°41'28.90" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°55'30.98" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|4°36'9.24" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'15.32" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'54.71" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°1'48.42" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°11'19.32" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|18°41'28.97" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°55'31.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°36'10.65" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°48'15.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'54.69" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°1'48.46" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°11'19.28" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|18°41'28.90" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°55'30.98" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°36'9.24" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: AUS, Austin, Austino, Austinopolis, Aŭstino, Montopolis, Oscin, Ostin, Ostina, Ostinas, Ostins, Waterloo, ao si ting, asatina, astin, astina, astyn  tgzas, awstn, ke shi dian, oseutin, ostina, ostʼini, osutin, xxstin, Ώστιν, Остин, Остін, Осцін, Օստին, אוסטין, אסטין, آستین، تگزاس, آسٹن, آسٹن، ٹیکساس, أوستن, अस्टिन, अस्तिन, आस्टिन्, ऑस्टिन, অস্টিন, ਆਸਟਿਨ, ஆஸ்டின், ഓസ്റ്റിൻ, ออสติน, ოსტინი, ኦስቲን፣ ቴክሳስ, ᎠᏍᏘᏂ, オースティン, 奧斯汀, 柯士甸, 오스틴

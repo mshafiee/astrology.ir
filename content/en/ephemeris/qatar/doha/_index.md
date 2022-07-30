@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'50.55" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'54.07" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°49'38.70" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°55'34.77" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°32'51.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°50'31.47" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|22°37'58.62" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°2'50.65" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'54.06" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°49'38.74" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°55'34.73" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°32'51.57" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°50'31.40" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|22°37'59.02" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'50.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'54.07" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°49'38.70" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°55'34.77" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°32'51.65" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°50'31.47" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|22°37'58.62" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°2'50.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'54.06" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°49'38.74" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°55'34.73" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°32'51.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°50'31.40" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|22°37'59.02" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ad Dawha, Ad Dawhah, Ad Dawḩa, Ad Dawḩah, Ad Doha, Ad Dowhah, Ad-Dauha, Ad-Dawhah, Ad-Dawḩah, DOH, Daeuha, Dauha, Dauhá, Dawha, Dawhat al Qatar, Dawḥa, Dawḩat al Qaţar, Dewhe, Do'ha, Doh, Doha, Doho, Dokha, Dokhae, Dokho, Dooxa, Doʻha, Doḥa, Duoha, Däuha, Ntocha, aaldawhat, aldwhh, aldwht, deaha, do ha, doha, dohara, duo ha, dwhh, toka, Ντόχα, Дохæ, Доха, Дохо, Доҳа, Доһа, Դոհա, דאכא, דוחא, דוחה, الدوحة, الدوحه, اَلدَّوْحَة, دوحه, دوحہ, دوحە, دوھا, دەوحە, दोहा, দোহা, দোহার, ਦੋਹਾ, தோகா, ದೊಹಾ, ദോഹ, โดฮา, དྷོ་ཧ།, ဒိုဟာမြို့, დოჰა, ዶሃ, ドーハ, 多哈, 도하

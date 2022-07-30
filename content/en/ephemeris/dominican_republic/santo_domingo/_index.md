@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'23.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'48.29" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°3'5.99" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°15'22.76" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°57'59.74" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°28'20.10" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|26°49'53.55" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|23°1'23.13" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'48.28" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°3'6.03" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°15'22.71" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°57'59.66" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°28'20.03" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|26°49'53.78" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'23.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'48.29" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°3'5.99" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°15'22.76" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°57'59.74" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°28'20.10" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°49'53.55" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°1'23.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'48.28" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°3'6.03" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°15'22.71" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°57'59.66" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°28'20.03" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°49'53.78" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ciudad Trujillo, SDQ, Saint Domingue, Santo Domingo, Santo Domingo City, Santo Domingo de Guzman, Santo Domingo de Guzmán, Santo Ntomin'nko, Santo-Domingo, santodoming-go, Σάντο Ντομίνγκο, Санто-Доминго, 산토도밍고

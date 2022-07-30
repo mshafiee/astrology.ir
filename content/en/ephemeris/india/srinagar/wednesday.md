@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'0.98" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'24.59" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°21'39.34" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°40'58.29" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°19'9.98" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°49'6.02" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|11°6'53.08" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°46'1.07" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'24.57" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°21'39.37" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°40'58.25" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°19'9.90" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°49'5.96" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|11°6'51.73" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'0.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'24.59" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°21'39.34" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°40'58.29" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°19'9.98" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°49'6.02" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|11°6'53.08" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°46'1.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'24.57" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°21'39.37" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°40'58.25" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°19'9.90" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°49'5.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|11°6'51.73" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Caspira, SXR, Shrinagar, Srinagar, Srinagaras, Srinagaro, Srinankar, Srinigar, Srynagar, Srīnagar, Suryanagar, Szrinagar, cirinakar, seulinagaleu, shurinagaru, si li na jia, sirinagara, siry nagar, srinagar, srinagara, srinagaram, srinagari, srinkhr, sry nghr, sry ngr, srynaghar, srynghr, sryngr, Śrinagar, Šrinagaras, Šrínagar, Σριναγκάρ, Сринагар, Срынагар, Срінагар, Шринагар, Սրինագար, סרינגאר, جموں, سري نغر, سري نگر, سريناغار, سرينغر, سری نگر, سرینگر, سِری نَگَر, श्रीनगर, श्रीनगरम्, सिरीनगर, শ্রীনগর, ਸ੍ਰੀਨਗਰ, શ્રીનગર, ଶ୍ରୀନଗର, சிறிநகர், శ్రీనగర్, ಶ್ರೀನಗರ, ശ്രീനഗർ, ศรีนคร, სრინაგარი, シュリーナガル, 斯利那加, 스리나가르

@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'55.41" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'35.41" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°25'40.54" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°48'39.56" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°40'15.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°31'26.66" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|3°51'40.17" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'55.51" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'35.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°25'40.58" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°48'39.51" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°40'15.23" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°31'26.59" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|3°51'40.05" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'55.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'35.41" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°25'40.54" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°48'39.56" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°40'15.31" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°31'26.66" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|3°51'40.17" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°58'55.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'35.39" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°25'40.58" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°48'39.51" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°40'15.23" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°31'26.59" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|3°51'40.05" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: DEL, Daehli, Dehli, Dehlī, Delchi, Delhi, Delhio, Delhí, Delhî, Deli, Delis, Delkhi, Dellium, Delí, Dilhi, Dilli, Dillí, Dillī, Dähli, Déhli, Faritani Delhi, New Delhi, Old Delhi, Sahdzahanabad, Stare Deli, de li, dehali, deli, delli, deri, dhilli, dhly, dhly qdym, dil'hi, dili, dilli, dlhy, dly, dlھy, dylhy, na'i dilli, prany dہly, tilli, Šáhdžahanabád, Δελχί, Дели, Делхи, Делі, Деҳли, Дэлі, Старе Делі, Դելի, דלהי, דעלהי, دلهي, دلھی, دلی, دهلي, دهلی قدیم, ديلهى, دہلی, دێھلی, پرانی دہلی, ډېلي, ދިއްލީ, दिल्ली, देहली, नई दिल्ली, দিল্লি, দিল্লী, ਦਿੱਲੀ, દિલ્હી, ଦିଲ୍ଲୀ, தில்லி, ఢిల్లీ, ದೆಹಲಿ, ഡെൽഹി, เดลี, დელი, デリー, 德里, 델리

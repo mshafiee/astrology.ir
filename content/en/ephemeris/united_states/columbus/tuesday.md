@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'29.60" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'57.76" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°59'42.05" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°8'10.34" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|18°37'29.20" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°49'48.59" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|3°52'41.85" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°48'29.69" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'57.75" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°59'42.08" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°8'10.30" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|18°37'29.12" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°49'48.53" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|3°52'40.44" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'29.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'57.76" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°59'42.05" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°8'10.34" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|18°37'29.20" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°49'48.59" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|3°52'41.85" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°48'29.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'57.75" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°59'42.08" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°8'10.30" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|18°37'29.12" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°49'48.53" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|3°52'40.44" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: CMH, Columbopolis, Columbus, Columbus i Ohio, Franklin, Franklinton, Kalumbus, Kolambus, Kolompous, Kolumbas, Kolumbs, Kolumbu, Kolumbus, Kolumbusa, Kulumbus, ge lun bu, kalabasa, kalambasa, kholambas, klmbws  awhayw, kolambas, kolambasa, kolampas, kolleombeoseu, koronbasu, kwlwmbws, qwlwmbws, Κολόμπους, Калумбус, Коламбус, Колумбус, Кълъмбъс, Կոլումբուս, קאלומבוס, קולומבוס, كولومبوس, کلمبوس، اوهایو, کولمبس، اوہائیو, कोलंबस, कोलम्बस, कोलम्बस्, কলম্বাস, ਕਲੰਬਸ, கொலம்பஸ், โคลัมบัส, კოლუმბუსი, コロンバス, 哥伦布, 哥倫布, 콜럼버스

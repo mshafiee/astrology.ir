@@ -29,7 +29,7 @@ toc: false
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="لواء" >}}
+{{< tab tabName="" tabActive=true tabTitle="لواء" >}}
  \
 __محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)__
 | وقت | ساعت |
@@ -45,7 +45,7 @@ __محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط �
 | پاسو (سمت القدم-نظير) | ۰۱:۰۹:۲۴ |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="ژئوفیزیک" >}}
+{{< tab tabName="" tabActive=false tabTitle="ژئوفیزیک" >}}
  \
 __محاسبه به شیوه مؤسسه ژئوفیزیک دانشگاه تهران__
 | وقت | ساعت |
@@ -61,7 +61,7 @@ __محاسبه به شیوه مؤسسه ژئوفیزیک دانشگاه تهرا
 | پاسو (سمت القدم-نظير) | ۰۱:۰۹:۲۴ |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="مجمع‌جهانی" >}}
+{{< tab tabName="" tabActive=false tabTitle="مجمع‌جهانی" >}}
  \
 __محاسبه به شیوه مجمع جهانی اسلامی__
 | وقت | ساعت |
@@ -77,7 +77,7 @@ __محاسبه به شیوه مجمع جهانی اسلامی__
 | پاسو (سمت القدم-نظير) | ۰۱:۰۹:۲۴ |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="آمریکا" >}}
+{{< tab tabName="" tabActive=false tabTitle="آمریکا" >}}
  \
 __محاسبه به شیوه جامعه اسلامی آمریکای شمالی__
 | وقت | ساعت |
@@ -93,7 +93,7 @@ __محاسبه به شیوه جامعه اسلامی آمریکای شمالی__
 | پاسو (سمت القدم-نظير) | ۰۱:۰۹:۲۴ |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="مصر" >}}
+{{< tab tabName="" tabActive=false tabTitle="مصر" >}}
  \
 __محاسبه به شیوه مرجع عمومی ممیزی مصر__
 | وقت | ساعت |
@@ -109,7 +109,7 @@ __محاسبه به شیوه مرجع عمومی ممیزی مصر__
 | پاسو (سمت القدم-نظير) | ۰۱:۰۹:۲۴ |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="کراچی" >}}
+{{< tab tabName="" tabActive=false tabTitle="کراچی" >}}
  \
 __محاسبه به شیوه دانشگاه علوم اسلامی کراچی__
 | وقت | ساعت |
@@ -125,9 +125,9 @@ __محاسبه به شیوه دانشگاه علوم اسلامی کراچی__
 | پاسو (سمت القدم-نظير) | ۰۱:۰۹:۲۴ |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="ام‌القرا" >}}
+{{< tab tabName="دانشگاه ام‌القرای مکه" tabActive=false tabTitle="ام‌القرا" >}}
  \
-__محاسبه به شیوه دانشگاه ام‌القرای مکه__
+__محاسبه به شیوه __
 | وقت | ساعت |
 |-|:-:|
 | سپیده‌دم (طلوع فجر) | ۰۴:۴۲:۰۷ |
@@ -373,8 +373,8 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**♂ بهرام**|△ تثلیث|✱ تسدیس|||||
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
-|**☿ تیر**| | | |✱ تسدیس|□ تربیع||
-|**☾ ماه**|△ تثلیث| |☍ مقابله|△ تثلیث| |□ تربیع|
+|**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Aspadana, Dakbayan sa Esfahan, Dakbayan sa Esfahān, Esfahan, Esfahano, Esfahān, Esfehan, Eşfahān, Eşfehān, IFN, Isfachan, Isfahan, Isfahana, Isfahanas, Isfahanum, Isfahon, Isfahán, Isfahāna, Isfakhan, Isfehan, Ispahan, Iszfahan, Iszfahán, Kota Isfahan, Spahan, Yspyhan, asfhan, aysfahan, esaphahana, esufahan, icupakan, isafahana, iseupahan, isfahana, isphahana, xis fa han, yi si fa han, Îsfehan, İsfahan, İsfehan, Ισφαχάν, Ісфахан, Исфахан, Исфаҳон, Исфаһан, Սպահան, אספהאן, أصفهان, ئسفأھان, ئەسفەھان, اصفهان, اصفہان, ایصفاهان, इस्फहान, इस्फ़हान, এসফাহন, ਇਸਫ਼ਹਾਨ, இசுபகான், อิสฟาฮาน, ისპაანი, エスファハーン, 伊斯法罕, 이스파한

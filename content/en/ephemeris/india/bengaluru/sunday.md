@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'51.20" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'34.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°26'18.58" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°49'35.95" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°41'26.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°33'12.70" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|4°5'27.74" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'51.30" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'34.95" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°26'18.62" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°49'35.91" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°41'26.63" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°33'12.63" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|4°5'27.61" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'51.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'34.96" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°26'18.58" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°49'35.95" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°41'26.71" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°33'12.70" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°5'27.74" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°58'51.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'34.95" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°26'18.62" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°49'35.91" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°41'26.63" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°33'12.63" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°5'27.61" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BLR, Ban'nkalor, Bangalor, Bangalora, Bangalore, Bangalore - bengaluru, Bangalore - ಬೆಂಗಳೂರು, Bangalore City, Bangalur, Bangaluri, Bangalúr, Bengalour, Bengaluras, Bengaluro, Bengaluru, Bengalurus, Bengalúru, Bengalūras, Bengalūru, baeng-geollo, bagalaura, ban jia luo er, bang kha l xr, bang-galloleu, bangalaura, bangalora, bangalura, bangaroru, beng-gallulu, bengalora, bengaluru, benguluru, bnghalwr, bnglwr, bynglwr, penkalur, Μπανγκαλόρ, Бангалор, Бенгалуру, Бенґалуру, בנגלור, بنغالور, بنگلور, بینگلور, बंगलौर, बंगळूर, बेङ्गलूरु, बेङ्गलोर, बेङ्गळूरु, বাঙ্গালোর, বেঙ্গালুরু, ਬੰਗਲੌਰ, બેંગલોર, ବେଙ୍ଗାଳୁରୁ, பெங்களூர், బెంగుళూరు, ಬೆಂಗಳೂರು, ബെംഗളൂരു, බැංගලෝර්, บังคาลอร์, ဘန်ဂလိုမြို့, ბენგალურუ, バンガロール, 班加罗尔, 班加羅爾, 방갈로르, 뱅걸로, 벵갈루루

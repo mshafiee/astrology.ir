@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'12.76" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'31.02" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°32'11.09" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°58'15.44" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°52'27.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°49'33.55" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|5°48'7.81" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'12.86" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'31.01" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°32'11.13" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°58'15.39" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°52'27.26" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°49'33.49" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|5°48'7.58" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'12.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'31.02" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°32'11.09" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°58'15.44" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°52'27.34" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°49'33.55" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|5°48'7.81" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'12.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'31.01" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°32'11.13" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°58'15.39" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°52'27.26" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°49'33.49" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|5°48'7.58" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Augusta Taurinorum, Julia Augusta Taurinorum, Lungsod ng Turino, TRN, Tori, Torin, Torino, Torinu, Torí, Tueri, Turen, Turijn, Turim, Turin, Turina, Turinas, Turino, Turinu, Turyn, Turén, Turìn, Turín, Turīna, Tórínó, Türì, dou ling, tolino, torino, tu rin, tulin, turin, turina, twryn, twrynw, Τορίνο, Торино, Турин, Турын, Թուրին, טורין, טורינו, تورينو, تورین, टोरीनो, तोरिनो, তুরিন, துரின், ตูริน, ཊུ་རིན།, ტურინი, トリノ, 都灵, 토리노, 투린

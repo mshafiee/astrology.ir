@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:25:54 |
+| Dawn | 03:25:53 |
 | Sunrise | 05:43:23 |
 | Dhuhr | 13:09:18 |
 | Medium Coeli | 13:09:18 |
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°5'41.94" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°43'1.36" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°23'8.47" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°16'38.90" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|13°43'27.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|19°35'36.61" |Cancer|Tarf|Mercury|
-|☾ Moon|Prograde|14°18'23.43" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|23°5'42.04" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°43'1.35" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°23'8.51" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°16'38.86" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|13°43'27.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|19°35'36.55" |Cancer|Tarf|Mercury|
+|☾ Moon|Prograde|14°18'24.12" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°5'41.94" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°43'1.36" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°23'8.47" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°16'38.90" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|13°43'27.50" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|19°35'36.61" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|14°18'23.43" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|23°5'42.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°43'1.35" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°23'8.51" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°16'38.86" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|13°43'27.43" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|19°35'36.55" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|14°18'24.12" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, AA¬²±, Οττάβα, Οτταβα, Атава, Отава, Оттавæ, Оттава, Օտտավա, אוטווה, אטאווא, أوتاوا, ئۆتاوا, اتاوا, اوتآوآ, اوٹاوا, اٹاوہ, ओटावा, অটোয়া, ਓਟਾਵਾ, ଓଟାୱା, ஒட்டாவா, ಆಟ್ಟಾವಾ, ഓട്ടവ, ออตตาวา, ཨོ་ཏ་ཝ།, အော့တဝမြို့, ოტავა, ኦታዋ, ᎠᏔᏩ, ᐊᑐᕚ/atavaa, オタワ, 渥太華, 오타와

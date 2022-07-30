@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:42:12 |
 | Sunset | 19:02:16 |
 | Maghrib | 19:03:13 |
-| Isha | 20:16:24 |
+| Isha | 20:16:25 |
 | Sharia Midnight | 00:00:41 |
 | Imum Coeli | 00:42:11 |
 {{< /tab >}}
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'22.15" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'48.20" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°3'14.95" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°15'35.87" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°58'16.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°28'45.04" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|26°52'51.47" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|23°1'22.05" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'48.22" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°3'14.91" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°15'35.91" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°58'16.42" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°28'45.10" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|26°52'51.24" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'22.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'48.20" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°3'14.95" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°15'35.87" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°58'16.34" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°28'45.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°52'51.47" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°1'22.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'48.22" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°3'14.91" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°15'35.91" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°58'16.42" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°28'45.10" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°52'51.24" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Vilemstad, Vilemstadas, Vilemstade, Vilemstado, Villemstad, Villemstant, Villemştad, Willemstad, Willemsted, Willemstêd, billemseutateu, u~iremusutatto, vilemastada, villemstatu, wei lian si ta de, willems tad, wylmstad, Βίλλεμσταντ, Вилемстад, Виллемстад, Вілемстад, Віллемстад, וילמסטאד, ويلمستاد, ویلمستاد, ویلمسٹیڈ, विलेमश्टाड, வில்லெம்ஸ்டாடு, วิลเลมสตัด, ვილემსტადი, ウィレムスタット, 威廉斯塔德, 빌렘스타트

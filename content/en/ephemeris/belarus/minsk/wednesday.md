@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'37.23" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'19.02" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°25'11.55" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°46'14.33" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°25'52.79" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°58'36.17" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|12°11'39.20" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°45'37.14" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'19.03" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°25'11.51" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°46'14.37" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°25'52.86" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°58'36.24" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|12°11'40.54" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'37.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'19.02" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°25'11.55" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°46'14.33" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°25'52.79" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°58'36.17" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|12°11'39.20" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°45'37.14" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'19.03" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°25'11.51" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°46'14.37" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°25'52.86" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°58'36.24" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|12°11'40.54" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MSQ, Mins'k, Minsc, Minscum, Minsk, Minsk - Minsk, Minsk - Мінск, Minsk osh, Minska, Minskaj, Minskas, Minsko, Minszk, Mińsk, Myensk, Myenyesk, Mînsk, ming si ke, ming si ke shi, minseukeu, minsk, minsuku, mnsk, mynsk, mynsq, mynysky, Μινσκ, Минск, Минск ош, Минскай, Мінск, Мінськ, Мѣньскъ, Մինսկ, מינסק, منسک, مىنىسكى, مينسك, مینسک, मिन्‍स्‍क, மின்ஸ்க், ಮಿನ್ಸ್ಕ್, മിൻസ്ക്, มินสก์, མིན་སིཀ།, მინსკი, ミンスク, 明斯克, 明斯克市, 민스크

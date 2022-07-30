@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'25.26" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'38.37" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°21'8.05" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°41'57.02" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°31'44.53" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°18'46.79" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|2°23'5.35" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°59'25.35" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'38.36" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°21'8.09" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°41'56.98" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°31'44.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°18'46.73" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|2°23'5.30" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'25.26" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'38.37" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°21'8.05" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°41'57.02" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°31'44.53" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°18'46.79" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|2°23'5.35" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°59'25.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'38.36" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°21'8.09" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°41'56.98" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°31'44.45" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°18'46.73" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|2°23'5.30" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chen-t'ou, Chen-t’ou, Chentow, Chioh-ka-chng-chhi, Chio̍h-ka-chng-chhī, S'-tia-cuang, SJW, Shiczjachzhuan, Shih-chia-chuang, Shih-chia-chuang-shih, Shih-chuang-shih, Shih-men, Shih-men-shih, Shihjiazhuang, Shihkiachwan, Shihkiachwang, Shijiazhuang, Shijiazhuang Shi, Shitszyachzhuan, Shizhjazhuan, Shudzjadzhuan, Sicsiacsuang, Sidziadzuangas, Sidzjadzuana, Sigjaguango, Sioh-ga-cong, Sitziazouank, Siŏh-gă-cŏng, Swzgyahcuengh, Thach Gia Trang, Thạch Gia Trang, chux ceiy cwng, sa-cyacvanga, seujajwang si, sh-gyʼgwwʼng, shi jia zhuang, shi jia zhuang shi, shidziajuani, shyjyatshwangh, shyjyazhwang, sijiyajhu'anga, sizi'azu'anga, Ŝiĝjaĝŭango, Šidziadžuangas, Šidzjadžuana, Š’-ťia-čuang, Σιτζιαζουάγκ, Шижяжуан, Шицзячжуан, Шиђаџуанг, Шъдзяджуан, Շիցզյաչժուան, שה-גיאגוואנג, شىجياجۇاڭ شەھىرى, شيجياتشوانغ, شیجیاژوانگ, शिजियाझुआंग, ष-च्याच्वांग, ਸ਼ੀਜ਼ੀਆਜ਼ੂਆਂਗ, ฉือเจียจวง, შიძიაჯუანი, 石家庄, 石家庄市, 石家荘, 石家荘市, 石家莊, 石家莊市, 스자좡 시

@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'49.12" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'57.18" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°40'37.32" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°42'18.63" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°16'1.33" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°25'4.78" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|19°46'55.33" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|23°3'49.03" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'57.19" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°40'37.28" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°42'18.67" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°16'1.40" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°25'4.84" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|19°46'54.82" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'49.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'57.18" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°40'37.32" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°42'18.63" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°16'1.33" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°25'4.78" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|19°46'55.33" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|23°3'49.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'57.19" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°40'37.28" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°42'18.67" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°16'1.40" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°25'4.84" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|19°46'54.82" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: POM, Po Moresbi, Port Moresby, Port Moresmpi, Port Morsbi, Port Morsbis, Port-Moresbo, Port-Morsbi, Portmorsbi, Portus Moresbiensis, Pot Mosbi, Puerto Moresby, Pò Moresbi, bwrt mwrsby, mo er ci bi gang, mo er zi bi gang, phxrt mxr sbi, porata moraisabi, porta moresbi, poteumoleujeubi, potomoresubi, pwrt mwrsby, Πορτ Μόρεσμπι, Порт Морсби, Порт-Морсби, Порт-Морсбі, Պորտ Մորսբի, פורט מורסבי, بورت مورسبي, صوبہ پورٹ مورسبائی, مورېسبى پورتى, پورت مورسبی, پورٹ مورسبی, پۆرت مۆرسبی, पोर्ट मॉरेस्बी, पोर्ट मोरेस्बी, ਪੋਰਟ ਮੋਰੈਸਬੀ, พอร์ตมอร์สบี, པོ་རོ་ཊི་མོ་རེ་སི་བི།, პორტ-მორზბი, ፖርት ሞርስቢ, ポートモレスビー, 莫尔兹比港, 포트모르즈비

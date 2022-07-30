@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'39.93" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'12.22" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°49'16.72" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°52'37.16" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°17'44.16" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°21'31.32" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|0°24'8.46" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°49'40.03" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'12.20" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°49'16.75" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°52'37.11" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°17'44.08" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°21'31.25" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|0°24'7.08" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'39.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'12.22" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°49'16.72" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°52'37.16" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°17'44.16" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°21'31.32" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|0°24'8.46" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°49'40.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'12.20" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°49'16.75" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°52'37.11" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°17'44.08" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°21'31.25" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|0°24'7.08" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: AMS, Aemstelredamme, Aemsterdam, Amestelledamme, Amesterda, Amesterdam, Amesterdao, Amesterdã, Amesterdão, Amistardam, Amseutereudam, Amstardam, Amstardām, Amstedam, Amstehrdam, Amsteladamum, Amstelodamum, Amstelodhamon, Amstelodhámon, Amsterda, Amsterdam, Amsterdama, Amsterdamas, Amsterdame, Amsterdami, Amsterdamo, Amsterdams, Amsterdamu, Amsterdan, Amsterdã, Amsterntam, Amsterodam, Amstyerdam, Amstèdam, Amstèrdame, Amstérdam, Amstɛrɩdam, Amsut'erudam, Amszterdam, Amsŭt'erŭdam, Amusitedan, Amusuterudamu, Damsko, I-Amsterdami, Mokum, Mokum Aleph, a mu si te dan, aimstardaima, amasataradama, amastaradama, amastararyama, amseuteleudam, amstardama, amstartam, amstrdam, amusuterudamu, anstardyam, emstaradyama, xamstexrdam, yەmstەrdam, Àmsterdam, Ámsterdam, Ámsterdan, Âmesterdâm, Āmǔsītèdān, Άμστερνταμ, Амстердам, Амстэрдам, Ամստերդամ, אמסטערדאם, אמסטרדם, آمستردام, أمستردام, ئامستېردام, ئەمستەردام, امستردام, امسټرډام, ایمسٹرڈیم, ܐܡܣܛܪܕܐܡ, अ‍ॅम्स्टरडॅम, आम्स्टर्डम, एम्स्तरद्याम, ऐम्स्टर्डैम, আমস্টারডাম, ਅਮਸਤਰਦਮ, ଆମଷ୍ଟରଡ଼୍ୟାମ, ஆம்ஸ்டர்டம், ಆಂಸ್ಟರ್ಡ್ಯಾಮ್, ആംസ്റ്റർഡാം, ඈම්ස්ටර්ඩෑම්, อัมสเตอร์ดัม, ཨེམ་སི་ཊར་ཌམ།, အမ်စတာဒမ်မြို့, ამსტერდამი, አምስተርዳም, アムステルダム, 阿姆斯特丹, 암스테르담

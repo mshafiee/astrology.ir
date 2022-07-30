@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'46.67" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'40.37" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°17'53.25" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°37'9.27" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°25'39.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°9'42.79" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|22°59'46.57" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'40.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°17'53.21" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°37'9.32" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°25'39.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°9'42.85" |Cancer|Tarf|Moon|
 |☾ Moon|Prograde|1°19'43.07" |Leo|Jabhah|Saturn|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'46.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'40.37" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°17'53.25" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°37'9.27" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°25'39.39" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°9'42.79" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°59'46.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'40.39" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°17'53.21" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°37'9.32" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°25'39.47" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°9'42.85" |Leo|Sarfrah|Mars|
 |☾ Moon|Prograde|1°19'43.07" |Virgo|Sarfrah|Sun|
 
 
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: SPK, Sapara, Saporas, Saporo, Sapporo, Sapporo-chhi, Sapporo-chhī, Sapporo-shi, Sapporoshi, Sapporum, Szapporo, capporo, sabwrw, sap poa roa, sapporo, sapporoshi, sapwrw, saspolo si, sypwrw, zha huang, zha huang shi, Σαππόρο, Сапара, Сапоро, Саппоро, Սապորո, סאפורו, سابورو, ساپورو, سیپورو, सप्पोरो, சப்போரோ, ซัปโปะโระ, საპორო, さっぽろ, さっぽろし, サッポロ, サッポロシ, 札幌, 札幌市, 삿포로 시

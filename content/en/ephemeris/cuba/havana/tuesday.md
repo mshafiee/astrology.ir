@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'24.23" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'56.58" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°0'28.92" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°9'20.88" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|18°38'58.29" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°51'55.76" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|4°11'8.81" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°48'24.33" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'56.57" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°0'28.95" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°9'20.84" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|18°38'58.21" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°51'55.70" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|4°11'7.40" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'24.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'56.58" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°0'28.92" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°9'20.88" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|18°38'58.29" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°51'55.76" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°11'8.81" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°48'24.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'56.57" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°0'28.95" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°9'20.84" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|18°38'58.21" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°51'55.70" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°11'7.40" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: A Habana, Abana, Gavana, Gavanae, Gavane, HAV, Habana, Hafana, Hahvaxnaz, Havan, Havana, Havanna, Havano, Hawana, Khavana, L'Avana, LAvan-a, LAvana, LAvann-a, LHabana, LHavana, La Ahuana, La Avan, La Avàn, La Habana, La Havana, La Havane, abana, avana, ha wa na, habana, habhana, hafana, havana, hawana, xia wan na, Ħavana, ŁAvana, Αβάνα, Гaванa, Гаванæ, Гавана, Гаване, Хавана, Ҳавана, Հավանա, האוואנע, הוואנה, هافانا, هاوانا, ہوانا, हवाना, হাভানা, ਹਵਾਨਾ, ହାଭାନା, அவானா, ഹവാന, ฮาวานา, ཧ་ཝན, ဟာဗားနားမြို့, ჰავანა, ሀቫና, ሀኖይ, ハバナ, 哈瓦那, 夏灣拿, 아바나

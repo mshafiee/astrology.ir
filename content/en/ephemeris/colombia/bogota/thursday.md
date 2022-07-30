@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'42.93" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'43.52" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°16'57.25" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°3'56.96" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°4'38.95" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°16'40.83" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|29°42'8.08" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°39'42.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'43.53" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°16'57.23" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°3'56.99" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°4'39.02" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°16'40.89" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|29°42'8.59" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'42.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'43.52" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°16'57.25" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°3'56.96" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°4'38.95" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°16'40.83" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°42'8.08" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°39'42.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'43.53" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°16'57.23" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°3'56.99" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°4'39.02" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°16'40.89" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°42'8.59" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BOG, Bagata, Bogot, Bogota, Bogoto, Bogotà, Bogotá, Boqota, Buoguota, Bógóta, Mponkota, Santa-Fe-de-Bogota, Santafe de Bogota, Santafe de Bogotá, Santafé de Bogotá, Wukuta, beageatta, bo ge da, bogota, bokota, bwghwta, bwgwta, bwgwth, bwjwta, pokotta, Μπογκοτά, Багата, Богота, Боґота, Санта-Фе-де-Богота, Բոգոտա, באגאטא, בוגוטה, بوجوتا, بوغوتا, بوگوتا, بگوٹا, بۆگۆتا, बोगोटा, बोगोता, বোগোতা, ਬੋਗੋਤਾ, ବୋଗୋଟା, பொகோட்டா, ಬೊಗೋಟ, ബൊഗോട്ട, โบโกตา, པོ་གོ་ཏ, ဘိုဂိုတာမြို့, ბოგოტა, ቦጎታ, ទីក្រុងបូកូតា, ボゴタ, 波哥大, 보고타

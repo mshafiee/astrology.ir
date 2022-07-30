@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:08:20 |
 | Sunset | 18:30:36 |
 | Maghrib | 18:35:09 |
-| Isha | 19:48:12 |
+| Isha | 19:48:13 |
 | Sharia Midnight | 23:29:34 |
 | Imum Coeli | 00:08:18 |
 {{< /tab >}}
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'16.11" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'54.82" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°1'41.82" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°11'9.67" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|18°41'16.43" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°55'13.12" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|4°35'25.11" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°48'16.01" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'54.83" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°1'41.79" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°11'9.71" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|18°41'16.51" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°55'13.18" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|4°35'26.53" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'16.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'54.82" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°1'41.82" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°11'9.67" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|18°41'16.43" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°55'13.12" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°35'25.11" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°48'16.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'54.83" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°1'41.79" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°11'9.71" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|18°41'16.51" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°55'13.18" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°35'26.53" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Cidade da Guatemala, Citta del Guatemala, Città del Guatemala, Ciudad Guatemala, Ciudad de Guatemala, Ciutat de Guatemala, GUA, Guate, Guatemala, Guatemala City, Guatemala Hiria, Guatemala by, Guatemala la Nueva, Guatemala-Stadt, Guatemala-Urbo, Guatemala-stad, Gvatemala, Gvatemalurbo, Gwatemala, New Guatemala, Nueva Guatemala, Nueva Guatemala de la Asuncion, Nueva Guatemala de la Asunción, Pole tes Gouatemalas, Santiago de Guatimala, gua de ma la shi, guatemarashiti, gwatemalla si, gwatemallasiti, kawtemalasiti, mdynt ghwatymala, shhr gwatmala, Πόλη της Γουατεμάλας, Гватемала, גואטמלה סיטי, גוואטמלה סיטי, شهر گواتمالا, مدينة غواتيمالا, กัวเตมาลาซิตี, グアテマラシティ, 瓜地馬拉市, 과테말라 시, 과테말라시티

@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'20.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'52.35" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°54'22.48" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°2'30.69" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°41'40.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°3'49.23" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|23°55'1.60" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°2'19.93" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'52.36" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°54'22.44" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°2'30.73" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°41'40.90" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°3'49.30" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|23°55'1.26" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'20.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'52.35" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°54'22.48" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°2'30.69" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°41'40.82" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°3'49.23" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|23°55'1.60" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°2'19.93" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'52.36" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°54'22.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°2'30.73" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°41'40.90" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°3'49.30" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|23°55'1.26" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: GBE, Gabaroneh, Gaberones, Gaberones Village, Gaberono, Gaboron, Gaboronas, Gaborone, Gaboròn, Gaboróne, IGaborone, Nkamporone, Qaborone, gabolone, gaborone, gaboroni, gabwrwn, gbrwn, gebaroni, goborni, haborone, jabwrwn, jia bai long li, jia bo long li, ka bo rone, kaparoni, Γκαμπορόνε, Габаронэ, Габороне, Գաբորոնե, גאבאראן, גאבורון, جابورون, گابورون, گابۆرۆن, گبرون, गॅबारोनी, गोबोर्नी, ਗਾਬੋਰੋਨੀ, காபரோனி, กาโบโรเน, ག་བོ་རོ་ནི།, გაბორონე, ጋበሮኔ, ጋቦሮን, ハボローネ, 嘉柏隆里, 嘉波隆里, 가보로네

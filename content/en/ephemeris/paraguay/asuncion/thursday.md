@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'48.15" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'45.24" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°16'13.14" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°2'48.92" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°3'13.82" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°14'43.24" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|29°24'2.91" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°39'48.05" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'45.25" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°16'13.11" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°2'48.95" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°3'13.89" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°14'43.30" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|29°24'3.44" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'48.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'45.24" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°16'13.14" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°2'48.92" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°3'13.82" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°14'43.24" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°24'2.91" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°39'48.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'45.25" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°16'13.11" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°2'48.95" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°3'13.89" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°14'43.30" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°24'3.44" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ASU, Asounsion, Asounsyon, Asounsyòn, Asounthion, Assumptio, Assuncao, Assuncion, Assunção, Asuncion, Asunciono, Asunción, Asuns'jon, Asuns'on, Asunsaun, Asunsion, Asunsjon, Asunsjona, Asunsjonas, Asunson, Asunsyon, Asunsyun, Asúnsjón, Gunung Berapi Asuncion, La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion, La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción, Nuestra Senora Santa Maria de la Asuncion, Nuestra Señora Santa María de la Asunción, Paraguay, acunciyon, asnshn, asunshion, asunsion, asunsioni, asunsiyona, asusi'ona, aswnsywn, xa sun si xxng, ya song sen, Ασουνθιόν, Ασουνσιόν, Асунсион, Асунсьйон, Асунсьон, Асунсьён, Ասունսյոն, אסונסיאן, אסונסיון, آسونسیون, أسونسيون, ئاسۇنسىئون, اسنشن, اسونسیون, आसुन्सियोन, ਅਸੂੰਸੀਓਨ, அசுன்சியோன், ಅಸೂನ್‌ಸಿಯಾನ್, อะซุนซิออง, ཨ་སུན་སི་འན།, ასუნსიონი, አሱንሲዮን, アスンシオン, 亞松森, 아순시온

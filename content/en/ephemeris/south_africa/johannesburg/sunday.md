@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'6.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'30.42" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°33'7.99" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°59'38.91" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°54'13.84" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°52'11.43" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|6°1'43.72" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'6.60" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'30.41" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°33'8.03" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°59'38.86" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°54'13.76" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°52'11.36" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|6°1'43.47" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'6.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'30.42" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°33'7.99" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°59'38.91" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°54'13.84" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°52'11.43" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|6°1'43.72" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'6.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'30.41" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°33'8.03" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°59'38.86" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°54'13.76" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°52'11.36" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|6°1'43.47" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: EGoli, Giochanesmpournk, IGoli, IJohannesburg, Ioannesburgum, JNB, Jo'anna, Joanesburgo, Joburg, Jog'annesburg, Joganesburg, Jogannesburg, Johanesburgas, Johanesburgo, Johannesarborg, Johannesbourg, Johannesburg, Johannesburga, Johannesburgo, Johannesburgu, Jokhanesburg, Jokhanezburg, Jokhannesburg, J·ohanesbôrg, Jóhannesarborg, Xohanesburgo, Yohannesburg, Yohannesburq, Yohannésburg, Yok-hon-ni-su-pau, Yok-hon-nì-sṳ̂-páu, Yoxannesburg, cohannes beirk, iohanesburgi, johanisabaraga, johannesbarga, johansabarga, jokanasperk, jwhansbrgh, yohaneseubeogeu, yohanesuburugu, yue han nei si bao, yue han ni si bao, ywhnsbwrg, zhwhansbwrg, Γιοχάνεσμπουργκ, Ёганесбург, Јоханезбург, Јоханесбург, Йоганнесбург, Йогьаннесбург, Йоханесбург, Йоханнесбург, Յոհաննեսբուրգ, יאהאנעסבורג, יוהנסבורג, جوهانسبرغ, جوہانسبرگ, جۆھانسبێرگ, ژوهانسبورگ, یوہانس برگ, जोहन्नेस्बर्ग, जोहान्सबर्ग, ਜੋਹਾਨਿਸਬਰਗ, ஜோகானஸ்பேர்க், ജൊഹാനസ്‌ബർഗ്, โจฮันเนสเบิร์ก, ဂျိုဟန္နက်စဗတ်မြို့, იოჰანესბურგი, ጆሃንስበርግ, ヨハネスブルグ, 約翰尼斯堡, 约翰内斯堡, 요하네스버그

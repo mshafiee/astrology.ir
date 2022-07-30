@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:31:41 |
 | Maghrib | 18:36:15 |
 | Isha | 19:45:10 |
-| Sharia Midnight | 23:29:32 |
+| Sharia Midnight | 23:29:33 |
 | Imum Coeli | 00:08:30 |
 {{< /tab >}}
 
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 18:31:41 |
 | Maghrib | 18:36:15 |
 | Isha | 19:49:44 |
-| Sharia Midnight | 23:29:32 |
+| Sharia Midnight | 23:29:33 |
 | Imum Coeli | 00:08:30 |
 {{< /tab >}}
 
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'7.47" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'47.09" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°5'30.00" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°18'54.78" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°2'28.87" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°35'3.72" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|27°34'59.94" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|23°1'7.38" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'47.11" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°5'29.96" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°18'54.83" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°2'28.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°35'3.78" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|27°34'59.74" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'7.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'47.09" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°5'30.00" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°18'54.78" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°2'28.87" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°35'3.72" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°34'59.94" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°1'7.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'47.11" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°5'29.96" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°18'54.83" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°2'28.95" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°35'3.78" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°34'59.74" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Cidade da Guatemala, Citta del Guatemala, Città del Guatemala, Ciudad Guatemala, Ciudad de Guatemala, Ciutat de Guatemala, GUA, Guate, Guatemala, Guatemala City, Guatemala Hiria, Guatemala by, Guatemala la Nueva, Guatemala-Stadt, Guatemala-Urbo, Guatemala-stad, Gvatemala, Gvatemalurbo, Gwatemala, New Guatemala, Nueva Guatemala, Nueva Guatemala de la Asuncion, Nueva Guatemala de la Asunción, Pole tes Gouatemalas, Santiago de Guatimala, gua de ma la shi, guatemarashiti, gwatemalla si, gwatemallasiti, kawtemalasiti, mdynt ghwatymala, shhr gwatmala, Πόλη της Γουατεμάλας, Гватемала, גואטמלה סיטי, גוואטמלה סיטי, شهر گواتمالا, مدينة غواتيمالا, กัวเตมาลาซิตี, グアテマラシティ, 瓜地馬拉市, 과테말라 시, 과테말라시티

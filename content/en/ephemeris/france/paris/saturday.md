@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'26.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'52.69" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°53'27.78" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°1'10.36" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°39'58.74" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°1'15.60" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|23°39'5.44" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°2'25.93" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'52.70" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°53'27.74" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°1'10.41" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°39'58.82" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°1'15.66" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|23°39'5.08" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'26.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'52.69" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°53'27.78" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°1'10.36" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°39'58.74" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°1'15.60" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|23°39'5.44" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°2'25.93" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'52.70" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°53'27.74" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°1'10.41" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°39'58.82" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°1'15.66" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|23°39'5.08" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Baariis, Bahliz, Ile-de-France, Lungsod ng Paris, Lutece, Lutetia, Lutetia Parisorum, Lutèce, PAR, Pa-ri, Paarys, Palika, Paname, Pantruche, Paraeis, Paras, Pari, Paries, Parigge, Pariggi, Parighji, Parigi, Pariis, Pariisi, Pariizu, Pariižu, Parij, Parijs, Paris, Parisi, Parixe, Pariz, Parize, Parizh, Parizh osh, Parizh', Parizo, Parizs, Pariž, Parys, Paryz, Paryzh, Paryzius, Paryż, Paryžius, Paräis, París, Paríž, Parîs, Parĩ, Parī, Parīze, Paříž, Páras, Párizs, Ville-Lumiere, Ville-Lumière, ba li, barys, pairisa, pali, pari, paris, parys, paryzh, perisa, pryz, pyaris, pyarisa, pyrs, Île-de-France, Παρίσι, Париж, Париж ош, Парижь, Париз, Парис, Парыж, Паріж, Փարիզ, פאריז, פריז, باريس, پارىژ, پاريس, پاریس, پیرس, ܦܐܪܝܣ, पॅरिस, पेरिस, पैरिस, প্যারিস, ਪੈਰਿਸ, પૅરિસ, பாரிஸ், పారిస్, ಪ್ಯಾರಿಸ್, പാരിസ്, ปารีส, ཕ་རི།, ပါရီမြို့, პარიზი, ፓሪስ, ប៉ារីស, パリ, 巴黎, 파리

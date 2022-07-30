@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'21.45" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'9.83" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°58'7.87" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°36'38.30" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°41'12.08" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°1'26.35" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|14°0'22.05" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°55'21.55" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'9.81" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°58'7.90" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°36'38.26" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°41'12.00" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°1'26.28" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|14°0'21.36" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'21.45" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'9.83" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°58'7.87" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°36'38.30" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°41'12.08" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°1'26.35" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|14°0'22.05" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°55'21.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'9.81" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°58'7.90" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°36'38.26" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°41'12.00" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°1'26.28" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|14°0'21.36" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Cap Nhi Tan, Charbin, Charbinas, Charmpin, Cáp Nhĩ Tân, HRB, Ha'erbin, Ha-erh-pin, Ha-erh-pin-shih, Harbin, Harbin Shi, Harbin-chhi, Harbin-chhī, Harbina, Harbino, Ha’erbin, Kharbin, Lungsod ng Harbin, Pin-chiang, Pin-chiang-hsien, Pinkiang, Xarbin, ha er bin, ha er bin shi, ha-eolbin si, har bin, harabina, harbn, harbyn, harpina, harubin, harubin shi, hrbyn, kharbini, Χαρμπίν, Харбин, Харбін, Խարբին, חרבין, خاربىن شەھىرى, هاربن, هاربین, ہاربن, हारबिन, हार्पिन, ਹਾਰਬਿਨ, ฮาร์บิน, ဟာရ်ပင်းမြို့, ხარბინი, ハルビン, ハルビン市, 哈尔滨, 哈尔滨市, 哈爾濱, 하얼빈 시

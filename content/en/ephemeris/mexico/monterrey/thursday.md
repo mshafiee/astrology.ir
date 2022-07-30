@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'29.18" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'39.39" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°18'57.27" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°6'57.63" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°8'28.69" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°21'58.31" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|0°23'1.09" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°39'29.09" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'39.40" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°18'57.24" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°6'57.67" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°8'28.77" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°21'58.36" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|0°23'1.56" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'29.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'39.39" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°18'57.27" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°6'57.63" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°8'28.69" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°21'58.31" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|0°23'1.09" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°39'29.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'39.40" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°18'57.24" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°6'57.67" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°8'28.77" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°21'58.36" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|0°23'1.56" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MTY, Mantehrehj, Mons Regis, Monterej, Monterejo, Monterejus, Monterey, Monterrei, Monterrej, Monterreja, Monterrey, Monterrey City, Monterrey i Nuevo Leon, Monterrey i Nuevo León, Monterėjus, Tlahtoantepec, Tlahtoāntepēc, mamtere, meng te lei, montelei, montere'i, monterei, mwntry, mwntryy, mwntyry, mxn terrey, Μοντερρέι, Мантэрэй, Монтерей, Монтереј, Монтеррей, Մոնտերեյ, מונטריי, مونتری, مونتيري, مونتےرئی, माँतेरे, ਮੋਂਤੇਰੇਈ, มอนเตร์เรย์, མཱོན་ཊི་རེ།, მონტერეი, モンテレイ, 蒙特雷, 몬테레이

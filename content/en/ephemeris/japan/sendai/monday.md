@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'28.16" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'10.69" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°57'7.45" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°35'9.16" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°39'18.43" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°58'39.56" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|13°44'21.26" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°55'28.07" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'10.70" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°57'7.41" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°35'9.21" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°39'18.51" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°58'39.63" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|13°44'21.93" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'28.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'10.69" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°57'7.45" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°35'9.16" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°39'18.43" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°58'39.56" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|13°44'21.26" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°55'28.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'10.70" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°57'7.41" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°35'9.21" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°39'18.51" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°58'39.63" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|13°44'21.93" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: SDJ, Sendai, Sendai-shi, Sendaishi, Sendaj, sendai, sendaishi, xian tai, xian tai shi, Сендай, せんだい, せんだいし, センダイ, センダイシ, 仙台, 仙台市

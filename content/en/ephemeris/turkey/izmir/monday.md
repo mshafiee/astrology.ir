@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'6.95" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'58.92" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°9'21.50" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°53'17.21" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°2'20.48" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°32'22.30" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|17°38'3.35" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'6.85" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'58.93" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°9'21.46" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°53'17.26" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°2'20.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°32'22.37" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|17°38'4.24" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'6.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'58.92" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°9'21.50" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°53'17.21" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°2'20.48" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°32'22.30" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°38'3.35" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|22°54'6.85" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'58.93" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°9'21.46" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°53'17.26" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°2'20.56" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°32'22.37" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|17°38'4.24" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Azmir, Esmirna, IZM, Ismir, Izmir, Izmira, Izmiras, Izmiro, Smirne, Smyrna, Smyrne, Yazmir, azmyr, izmiri, izumiru, yi zi mi er, İzmir, Σμύρνη, Измир, איזמיר, إزمير, იზმირი, イズミル, 伊兹密尔

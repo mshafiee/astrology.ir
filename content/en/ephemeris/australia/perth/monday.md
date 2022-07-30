@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'51.30" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'5.67" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°2'41.73" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°43'22.94" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°49'46.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°14'0.91" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|15°20'19.44" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'51.20" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'5.68" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°2'41.70" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°43'22.99" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°49'47.03" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°14'0.98" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|15°20'20.22" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'51.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'5.67" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°2'41.73" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°43'22.94" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°49'46.95" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°14'0.91" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|15°20'19.44" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°54'51.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'5.68" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°2'41.70" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°43'22.99" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°49'47.03" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°14'0.98" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|15°20'20.22" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PER, Peairt, Pert, Perta, Pertas, Perth, Perth City, Perthia, Perto, Perþ, Pirth, Purt, Pērta, byrth, part, partha, pasu, peoseu, pert, pheirth, po si, prt, prt', prtھ  asٹrylya, Περθ, Перт, Пертһ, Пърт, Պերթ, פרת', بيرث, پرت, پرتھ، آسٹریلیا, पर्थ, பேர்த், ಪರ್ತ್, പെർത്ത്, เพิร์ท, ပါ့သ်မြို့, პერთი, パース, 珀斯, 퍼스

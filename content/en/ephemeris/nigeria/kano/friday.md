@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°6'29.20" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°43'2.26" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°15'46.64" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°5'52.35" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|13°29'45.87" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|19°14'41.85" |Cancer|Tarf|Mercury|
-|☾ Moon|Prograde|12°12'4.18" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|23°6'29.10" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°43'2.28" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°15'46.59" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°5'52.39" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|13°29'45.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|19°14'41.91" |Cancer|Tarf|Mercury|
+|☾ Moon|Prograde|12°12'3.43" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°6'29.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°43'2.26" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°15'46.64" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°5'52.35" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|13°29'45.87" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|19°14'41.85" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|12°12'4.18" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|23°6'29.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°43'2.28" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°15'46.59" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°5'52.39" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|13°29'45.95" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|19°14'41.91" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|12°12'3.43" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Byen Kano, Cano, KAN, Kanas, Kano, Kánò, ka nuo, kano, kanw, kanw  nyjryh, qnw, Кано, קנו, كانو, کانو, کانو، نیجریه, कानो, ਕਾਨੋ, கனோ, カノ, 卡諾, 카노

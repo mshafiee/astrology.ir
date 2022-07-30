@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 14:15:08|Night duration: 09:45:48|
+|Duration of the day: 14:15:07|Night duration: 09:45:48|
 |Every hour duration: 02:02:10|Every hour duration: 01:23:41|
 
  
@@ -258,11 +258,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|05:47:06|07:49:14|
-|Mid-morning|Saturn|Servant|07:49:15|09:51:24|
-|Late morning|Jupiter|Servant|09:51:25|11:53:34|
-|Noon|Mars|Servant|11:53:35|13:55:43|
-|Early afternoon|Sun|Servant|13:55:44|15:57:53|
+|Early morning|Moon|Ruler|05:47:07|07:49:15|
+|Mid-morning|Saturn|Servant|07:49:16|09:51:25|
+|Late morning|Jupiter|Servant|09:51:26|11:53:34|
+|Noon|Mars|Servant|11:53:35|13:55:44|
+|Early afternoon|Sun|Servant|13:55:45|15:57:53|
 |Mid-afternoon|Venus|Servant|15:57:54|18:00:03|
 |Late afternoon|Mercury|Servant|18:00:04|20:02:13|
 
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'11.62" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'59.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°8'39.40" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°52'14.71" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°1'1.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°30'26.50" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|17°24'6.89" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'11.52" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'59.64" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°8'39.39" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°52'14.79" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°1'1.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°30'26.64" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|17°24'8.41" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'11.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'59.63" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°8'39.40" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°52'14.71" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°1'1.15" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°30'26.50" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°24'6.89" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|22°54'11.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'59.64" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°8'39.39" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°52'14.79" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°1'1.28" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°30'26.64" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|17°24'8.41" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ANK, Anakara, Ancara, Ancyra, Ang-ka-la, Angkara, Angora, Anguriyah, Ankar, Ankara, Ankara khot, Ankaro, Ankuara, Ankura, Ankyra, Ankyra (Ankyra), Anqara, Enguri, Engüri, Enqere, akara, an ka la, angkala, ankara, anqrh, anqrt, xangkara, Ăng-kā-lá, Άγκυρα (Ankyra), Анкара, Анкара хот, Анкъара, Әнкара, Անկարա, אנקארא, אנקרה, آنکارا, أنقرة, ئەنقەرە, انقره, انقرہ, انکرہ, ܐܢܩܪܐ, अंकारा, আঙ্কারা, ਅੰਕਾਰਾ, ଆଙ୍କାରା, அங்காரா, అంకారా, ಅಂಕಾರಾ, അങ്കാറ, อังการา, ཨན་ཁ་ར།, ანკარა, አንካራ, アンカラ, 安卡拉, 앙카라

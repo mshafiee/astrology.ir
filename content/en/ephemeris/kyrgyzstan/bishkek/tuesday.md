@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'24.57" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'20.81" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°42'38.25" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°42'44.28" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°5'10.18" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°3'27.33" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°18'39.00" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'24.48" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'20.82" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°42'38.21" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°42'44.32" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°5'10.26" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°3'27.40" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|28°18'40.32" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'24.57" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'20.81" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°42'38.25" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°42'44.28" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°5'10.18" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°3'27.33" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°18'39.00" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'24.48" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'20.82" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°42'38.21" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°42'44.32" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°5'10.26" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°3'27.40" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|28°18'40.32" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bichkek, Biscecum, Bischkek, Bishkek, Bishkek osh, Bisjkek, Biskek, Biskeka, Biskekas, Biskeko, Biskekʻ, Bisqeq, Bisqueque, Biszkek, Bixkek, Biŝkeko, Bişkek, Bişqeq, Biškek, Biškeka, Biškekas, Bișkek, Bîşkek, FRU, Frunze, Mpiskek, Pishkek, Pishpek, bi shen kai ke, bichkhek, bisakeka, bishukeku, biskek, biskeka, biskekk, bisyukekeu, bshkyk, byshkk, byshkyk, bysqq, picukkek, Μπισκέκ, Бишкек, Бишкек ош, Бішкек, Բիշկեք, בישקעק, בישקק, بشکیک, بيشكك, بيشكيك, بيشکک, بیشکک, بیشکێک, बिश्केक, বিশকেক, ਬਿਸ਼ਕੇਕ, பிசுக்கெக், ಬಿಷ್ಕೆಕ್, ബിഷ്കെക്ക്, บิชเคก, པི་སི་ཁེག, ბიშკეკი, ቢሽኬክ, ビシュケク, 比什凯克, 비슈케크

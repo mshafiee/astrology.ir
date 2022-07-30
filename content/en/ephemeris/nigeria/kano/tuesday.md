@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'26.93" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'9.46" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°51'11.51" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°55'29.70" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°21'21.99" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°26'43.62" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|1°10'0.74" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°49'26.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'9.47" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°51'11.48" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°55'29.75" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°21'22.07" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°26'43.68" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|1°10'2.12" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'26.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'9.46" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°51'11.51" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°55'29.70" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°21'21.99" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°26'43.62" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|1°10'0.74" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°49'26.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'9.47" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°51'11.48" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°55'29.75" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°21'22.07" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°26'43.68" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|1°10'2.12" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Byen Kano, Cano, KAN, Kanas, Kano, Kánò, ka nuo, kano, kanw, kanw  nyjryh, qnw, Кано, קנו, كانو, کانو, کانو، نیجریه, कानो, ਕਾਨੋ, கனோ, カノ, 卡諾, 카노

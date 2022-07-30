@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'29.36" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'31.41" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°17'30.66" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°34'44.23" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°11'16.36" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°37'55.07" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|9°35'38.91" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°46'29.26" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'31.42" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°17'30.63" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°34'44.27" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°11'16.43" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°37'55.13" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|9°35'40.30" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'29.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'31.41" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°17'30.66" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°34'44.23" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°11'16.36" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°37'55.07" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|9°35'38.91" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°46'29.26" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'31.42" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°17'30.63" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°34'44.27" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°11'16.43" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°37'55.13" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|9°35'40.30" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ADL, Adehlaida, Adelaida, Adelaidae, Adelaide, Adelaidis, Adelaidė, Adelajda, Adelajdo, Adelaïda, Adelaïde, Adelejd, Adelàida, Adélaïde, Edelaid, Tarndanya, Tarndarnya, a de lai de, adelaida, aderedo, adilaid, adiled, adlayd, adylyd, aedeulleideu, atileyit, edile'ida, edileda, Αδελαΐδα, Аделаидæ, Аделаида, Аделаїда, Аделейд, Аделејд, Адэлаіда, Ադելաիդա, אדלייד, آدلاید, أديليد, ئادېلايدې, ایڈیلیڈ, एडिलेड, ॲdaleda, ॲडलेड, એડિલેઇડ, அடிலெயிட், అడిలైడ్, ಅಡಿಲೇಡ್, അഡിലെയ്‌ഡ്, แอดิเลด, အက်ဒလိတ်မြို့, ადელაიდა, アデレード, 阿德来得, 阿德莱德, 애들레이드

@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°47'3.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'38.94" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°12'26.21" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°27'11.69" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°1'39.08" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°24'15.07" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|8°6'4.80" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°47'3.41" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'38.95" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°12'26.18" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°27'11.73" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°1'39.16" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°24'15.13" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|8°6'6.20" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°47'3.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'38.94" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°12'26.21" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°27'11.69" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°1'39.08" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°24'15.07" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|8°6'4.80" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°47'3.41" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'38.95" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°12'26.18" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°27'11.73" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°1'39.16" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°24'15.13" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|8°6'6.20" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

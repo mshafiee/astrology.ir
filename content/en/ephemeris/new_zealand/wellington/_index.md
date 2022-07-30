@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'45.58" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'40.54" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°18'3.52" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°37'22.45" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°25'57.97" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°10'10.77" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|1°6'43.74" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°59'45.68" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'40.52" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°18'3.56" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°37'22.40" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°25'57.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°10'10.70" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|1°6'43.73" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'45.58" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'40.54" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°18'3.52" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°37'22.45" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°25'57.97" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°10'10.77" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|1°6'43.74" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°59'45.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'40.52" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°18'3.56" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°37'22.40" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°25'57.89" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°10'10.70" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|1°6'43.73" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Hie-ling-dong, Hiê-lìng-dóng, Ouellin'nkton, Ouellinkton, Te Whanga-nui-a-Tara, Ueligitone, Uelingtun, Velingtan, Velington, Velingtona, Velingtonas, Velingtono, Vellington, Vellingtonia, Vellinqton, WLG, Welinton, Welintòn, Wellington, Wellinton, Weolingtun, Weolingtūn, Whanga-nui-a-Tara, hui ling dun, oyelintana, raelintana, uelingtʼoni, u~erinton, vailigatana, velingatana, velingtana, velingtoni, velintan, vellingtan, wei ling dun, wellingtan, wellingteon, wlyngtwn, wylynghtwn, wylynjtwn, Ουέλλιγκτον, Ουέλλινγκτον, Велингтон, Веллингтон, Веллінгтон, Велінгтан, Уелингтън, Վելինգտոն, ולינגטון, װעלינגטאן, ولینگتون, ويلينجتون, ويلينغتون, ویلنگٹن, ۋېللىنگتون, वेलिंगटन, वेलिंग्टन, वेलिङ्गटन, ওয়েলিংটন, ৱেলিংটন, ਵੈਲਿੰਗਟਨ, વેલિંગ્ટન, வெலிங்டன், ವೆಲ್ಲಿಂಗ್ಟನ್, വെല്ലിംഗ്ടൺ, เวลลิงตัน, ཝེ་ལིང་ཐོན།, ဝယ်လင်တန်မြို့, ველინგთონი, უელინგტონი, ዌሊንግተን, ウェリントン, 威靈頓, 惠灵顿, 웰링턴

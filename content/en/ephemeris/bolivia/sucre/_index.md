@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'17.06" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'47.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°4'1.58" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°16'43.56" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°59'43.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°30'55.60" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|26°58'34.03" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|23°1'17.16" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'47.95" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°4'1.62" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°16'43.52" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°59'43.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°30'55.54" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|26°58'34.25" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'17.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'47.96" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°4'1.58" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°16'43.56" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°59'43.27" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°30'55.60" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°58'34.03" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°1'17.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'47.95" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°4'1.62" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°16'43.52" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°59'43.20" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°30'55.54" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°58'34.25" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chuqichaka, Ciudad Sucre, Ijoloti Sukre, SRE, Sik, Soukre, Sucre, Sucre toertenelmi ovarosa, Sucre történelmi óvárosa, Sukre, Sukreh, Sukri, Sukro, Sukrė, Súkre, su ke lei, su ker, sukare, sukeule, sukre, sukure, swkrh, swkry, swqrh, Σούκρε, Иёлоти Сукре, Сукре, Сукрэ, Սուկրե, סוקרה, سوكري, سوکره, سکرے, سۇكرې, सुक्रे, ਸੂਕਰੇ, ซูเกร, སུ་ཁུ་རེ།, სუკრე, スクレ, 苏克雷, 蘇克雷, 수크레

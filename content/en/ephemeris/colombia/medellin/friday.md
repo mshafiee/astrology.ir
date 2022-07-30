@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°5'28.96" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°43'0.89" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°25'8.91" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°19'36.49" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|13°47'11.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|19°41'18.32" |Cancer|Tarf|Mercury|
-|☾ Moon|Prograde|15°4'34.63" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|23°5'28.86" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°43'0.91" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°25'8.87" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°19'36.53" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|13°47'11.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|19°41'18.38" |Cancer|Tarf|Mercury|
+|☾ Moon|Prograde|15°4'33.97" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°5'28.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°43'0.89" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°25'8.91" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°19'36.49" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|13°47'11.90" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|19°41'18.32" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|15°4'34.63" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|23°5'28.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°43'0.91" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°25'8.87" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°19'36.53" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|13°47'11.98" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|19°41'18.38" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|15°4'33.97" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: MDE, Medegin, Medehl'in, Medel'in, Medelim, Medelin, Medeljina, Medeljinas, Medeljino, Medellin, Medellín, mai de lin, mdlyn, mdyyn, me de yin, medein, medejin, medelini, medeyina, meteyin, mydyllyn, mydylyn, Μεδεγίν, Меделин, Медельин, Медельїн, Медељин, Медэльін, מדיין, مدلین, ميديللين, ميديلين, میڈیلن, मेदेयीन, মেদেয়িন, ਮੇਦੇਯੀਨ, மெதெயின், เมเดยิน, მედელინი, ទីក្រុងមេឌេយីណ, メデジン, 麦德林, 메데인

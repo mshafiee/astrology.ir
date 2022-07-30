@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'42.32" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'4.31" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°4'3.73" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°45'24.62" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°52'21.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°17'47.09" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|15°47'13.99" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'42.22" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'4.33" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°4'3.69" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°45'24.67" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°52'21.50" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°17'47.16" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|15°47'14.79" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'42.32" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'4.31" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°4'3.73" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°45'24.62" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°52'21.42" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°17'47.09" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|15°47'13.99" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°54'42.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'4.33" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°4'3.69" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°45'24.67" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°52'21.50" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°17'47.16" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|15°47'14.79" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Catharinoburgum, Ekaterimburgo, Ekaterinbourg, Ekaterinburg, Ekaterinburgo, Ekatěrinburg, Jekaterinburg, Jekaterinburga, Jekaterinburgas, Jekaterinenburg, Jekaterynburg, Jekatyerinburg, SVX, Sverdlovsk, Sverolovsk, Yekaterinburg, ekaterinburuku, ye ka jie lin bao, yekatelinbuleukeu, yqtrynbwrg, Екатеринбург, Свердловск, יקטרינבורג, エカテリンブルク, 葉卡捷琳堡, 예카테린부르크

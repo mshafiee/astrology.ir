@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°56'59.53" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'22.50" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°43'17.53" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°14'41.32" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°13'18.49" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°20'23.94" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|9°25'18.76" |Leo|Zubrah|Saturn|
+|♄ Saturn|Retrograde|22°56'59.43" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'22.51" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°43'17.49" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°14'41.36" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°13'18.57" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°20'24.00" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|9°25'19.18" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°56'59.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'22.50" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°43'17.53" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°14'41.32" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°13'18.49" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°20'23.94" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|9°25'18.76" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°56'59.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'22.51" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°43'17.49" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°14'41.36" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°13'18.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°20'24.00" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|9°25'19.18" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CLO, Cali, Calium, Cáli, Kali, Kalis, Santiago de Cali, ka li, kali, kalli, kaly, santiago・de・kari, Кали, Калі, סנטיאגו דה קאלי, كالي, کالی, กาลี, サンティアゴ・デ・カリ, 卡利, 칼리

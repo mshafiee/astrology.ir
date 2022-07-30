@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'23.84" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'38.19" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°21'20.05" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°42'15.31" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°32'7.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°19'20.39" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|2°31'27.02" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°59'23.94" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'38.17" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°21'20.08" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°42'15.26" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°32'7.13" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°19'20.32" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|2°31'26.98" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'23.84" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'38.19" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°21'20.05" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°42'15.31" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°32'7.21" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°19'20.39" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|2°31'27.02" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°59'23.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'38.17" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°21'20.08" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°42'15.26" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°32'7.13" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°19'20.32" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|2°31'26.98" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오

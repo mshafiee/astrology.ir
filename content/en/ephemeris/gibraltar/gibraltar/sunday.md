@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°57'59.56" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'29.50" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°34'11.75" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°1'14.10" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°56'13.73" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°55'8.97" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|6°30'3.02" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°57'59.46" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'29.52" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°34'11.71" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°1'14.14" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°56'13.81" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°55'9.03" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|6°30'3.29" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°57'59.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'29.50" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°34'11.75" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°1'14.10" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°56'13.73" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°55'8.97" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|6°30'3.02" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°57'59.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'29.52" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°34'11.71" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°1'14.14" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°56'13.81" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°55'9.03" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|6°30'3.29" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Calpe, Cebelitarik, Cebelitarık, Djibraltar, GIB, Gibbilterra, Gibilterra, Gibraltar, Gibraltaras, Gibraltaro, Gibraltár, Gíbraltar, Kamaka, Xibraltar, Xibraltar - Gibraltar, gybrltr, jbl tarq, jibeulolteo, jiburarutaru, mhmyt jbl tarq, zhi bu luo tuo, Ĝibraltaro, Γιβραλτάρ, Гибралтар, Ґібралтар, גיברלטר, جبل طارق, جبل‌الطارق, محمية جبل طارق, ジブラルタル, 直布罗陀, 지브롤터

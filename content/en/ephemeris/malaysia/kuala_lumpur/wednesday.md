@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'12.08" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'27.19" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°20'0.61" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°38'30.86" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°16'2.36" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°44'40.19" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|10°35'19.70" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°46'12.17" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'27.17" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°20'0.64" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°38'30.82" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°16'2.29" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°44'40.13" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|10°35'18.34" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'12.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'27.19" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°20'0.61" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°38'30.86" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°16'2.36" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°44'40.19" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|10°35'19.70" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°46'12.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'27.17" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°20'0.64" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°38'30.82" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°16'2.29" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°44'40.13" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|10°35'18.34" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Gizlungzpoh, KUL, Kouala Loumpou, Kouala Loumpour, Kuala Lumpor, Kuala Lumpur, Kuala-Lumpur, Kuala-Lumpuro, Kualae-Lumpur, Kualalumpura, Kualalumpūra, Kvala Lumpuras, Kvala Lumpūras, Kúala Lúmpúr, ji long po, kaulalampur, kawlalampexr, kolalampur, ku'a lalampura, ku'ala lupura, ku'alalampura, ku'alalumpura, kuallalumpuleu, kuararunpuru, kuyalalamapura, kvalalampura, kwala lambwr, kwala lmpwr, kwalalampwr, kwalalmbwr, kwalalmpwr, kwalalwmpwr, kۇyalalۇmpۇr, Κουάλα Λουμπούρ, Куалæ-Лумпур, Куала Лумпур, Куала-Лумпур, Կուալա Լումպուր, קואלה לומפור, كوالا لامبور, كوالالمبور, كۇئالالۇمپۇر, کوالا لمپور, کوالالامپور, کوالالمپور, کوالالومپور, कुआ लालम्पुर, कुआलालम्पुर, क्वालालंपूर, কুয়ালালামপুর, ਕੁਆਲਾ ਲੁੰਪੁਰ, କୁଆଲାଲୁମ୍ପୁର, கோலாலம்பூர், ಕೌಲಾಲಂಪುರ್, കോലാലമ്പൂർ, กัวลาลัมเปอร์, ཁལ་ལུང་ཕུ།, ကွာလာလမ်ပူမြို့, კუალა-ლუმპური, ኩዋላ ሉምፑር, クアラルンプール, 吉隆坡, 쿠알라룸푸르

@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'23.54" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'15.70" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°27'10.86" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°49'13.59" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°29'40.10" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|28°3'57.25" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|12°53'51.96" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°45'23.63" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'15.69" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°27'10.89" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°49'13.56" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°29'40.03" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|28°3'57.19" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|12°53'50.64" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'23.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'15.70" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°27'10.86" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°49'13.59" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°29'40.10" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|28°3'57.25" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|12°53'51.96" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|22°45'23.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'15.69" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°27'10.89" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°49'13.56" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°29'40.03" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|28°3'57.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|12°53'50.64" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Agram, Andautonia, Lungsod ng Zagreb, Sagrab, Sagreb, Sagwzlwgbouh, Sakreb, Ságrab, ZAG, Zabrag, Zabreg, Zagabbria, Zagabria, Zagavria, Zagrab, Zagrabia, Zagreb, Zagreba, Zagrebas, Zagrebi, Zagrebo, Zagrebs, Zagrep, Zagrev, Zagrzeb, Zagrèb, Zagréb, Zagrėbs, Zagàbria, Zahreb, Zankremp, Zaqreb, Zágráb, Záhreb, Záhřeb, cakirep, jagareba, jageulebeu, jagriba, jhagreba, sa ge lei bu, sa kerb, sagreb, zagaraba, zaghrb, zagrb, zagrebi, zagurebu, zajryb, zghrb, Żagreb, Ζάγκρεμπ, Заграб, Загреб, Զագրեբ, זאגרב, זאגרעב, زاجريب, زاغرب, زاگرب, زاگرێب, زغرب, जग्रिब, झाग्रेब, জাগরেব, ਜ਼ਾਗਰਬ, சாகிரேப், സാഗ്രെബ്, ซาเกร็บ, ཛག་རེབ།, ზაგრები, ዛግሬብ, ザグレブ, 萨格勒布, 薩格勒布, Ꙁагрєбъ, 자그레브

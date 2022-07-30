@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'44.17" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'53.73" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°50'38.25" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°57'1.95" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°34'42.68" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°53'19.03" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|22°53'6.46" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°2'44.27" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'53.72" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°50'38.29" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°57'1.90" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°34'42.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°53'18.97" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|22°53'6.85" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'44.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'53.73" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°50'38.25" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°57'1.95" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°34'42.68" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°53'19.03" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|22°53'6.46" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°2'44.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'53.72" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°50'38.29" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°57'1.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°34'42.60" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°53'18.97" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|22°53'6.85" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포

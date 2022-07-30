@@ -34,7 +34,7 @@ Altitude: 3 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:09:22 |
+| Dawn | 04:09:21 |
 | Sunrise | 05:32:52 |
 | Dhuhr | 12:24:24 |
 | Medium Coeli | 12:24:24 |
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°37'57.16" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'11.08" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°32'16.94" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°27'2.56" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°34'1.17" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°57'8.68" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|4°57'45.57" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°37'57.26" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'11.06" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°32'16.97" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°27'2.53" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°34'1.10" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°57'8.63" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|4°57'45.35" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°37'57.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'11.08" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°32'16.94" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°27'2.56" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°34'1.17" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°57'8.68" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|4°57'45.57" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°37'57.26" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'11.06" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°32'16.97" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°27'2.53" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°34'1.10" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°57'8.63" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|4°57'45.35" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: FUK, Fucuoca, Fukuoka, Fukuoka-shi, Fukuokashi, Hukuoka, fu gang, fu gang shi, fukuoka, fukuokashi, fwkwka, hukuoka si, Фукуока, فوكوكا, ふくおか, ふくおかし, フクオカ, フクオカシ, 福岡, 福岡市, 후쿠오카 시

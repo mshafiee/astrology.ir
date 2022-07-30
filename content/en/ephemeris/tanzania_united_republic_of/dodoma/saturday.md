@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'31.52" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'52.95" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°52'35.45" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°59'54.34" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°38'21.37" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°58'48.60" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|23°30'42.18" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°2'31.42" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'52.97" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°52'35.41" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°59'54.38" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°38'21.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°58'48.66" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|23°30'41.81" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'31.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'52.95" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°52'35.45" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°59'54.34" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°38'21.37" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°58'48.60" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|23°30'42.18" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°2'31.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'52.97" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°52'35.41" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°59'54.38" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°38'21.44" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°58'48.66" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|23°30'41.81" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: DOD, Dadoma, Dodom, Dodoma, Dodomao, Dódóma, Idodoma, Ntontoma, do do ma, dodoma, du du ma, duo duo ma, dwdwma, dwdwmh, totoma, Ντοντόμα, Дадома, Додома, Դոդոմա, דאדאמא, דודומה, دودوما, دۆدۆما, ڈوڈوما, डोडोमा, दोदोमा, ਦੋਦੋਮਾ, டொடோமா, โดโดมา, დოდომა, ዶዶማ, ドドマ, 多多马, 杜篤瑪, 도도마

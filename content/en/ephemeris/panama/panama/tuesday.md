@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'22.75" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'56.24" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°0'42.80" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°9'41.54" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|18°39'24.48" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°52'33.20" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|4°15'53.25" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°48'22.65" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'56.25" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°0'42.77" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°9'41.58" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|18°39'24.55" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°52'33.26" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|4°15'54.67" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'22.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'56.24" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°0'42.80" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°9'41.54" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|18°39'24.48" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°52'33.20" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°15'53.25" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°48'22.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'56.25" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°0'42.77" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°9'41.58" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|18°39'24.55" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°52'33.26" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°15'54.67" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ciudad de Panama, Ciudad de Panamá, Ciutat de Panama, Ciutat de Panamà, PTY, Panama, Panama City, Panama Hiria, Panama by, Panama-Stadt, Panama-Urbo, Panama-stad, Panamurbo, Panamá, Pole tou Panama, Ziuda de Panama, Ziudá de Panamá, ba na ma cheng, panama si, panama siti, panamashiti, panamasiti, pnmh syty, shhr panama, Πόλη του Παναμά, Панама, פנמה סיטי, شهر پاناما, पनामा सिटी, ปานามาซิตี, ፓናማ ከተማ, パナマシティ, 巴拿馬城, 파나마 시, 파나마시티

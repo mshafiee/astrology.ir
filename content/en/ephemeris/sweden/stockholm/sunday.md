@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'31.24" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'33.11" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°29'23.87" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°54'7.20" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°47'13.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°41'47.91" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|4°45'52.21" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'31.33" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'33.10" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°29'23.91" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°54'7.16" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°47'13.15" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°41'47.85" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|4°45'52.03" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'31.24" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'33.11" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°29'23.87" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°54'7.20" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°47'13.23" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°41'47.91" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°45'52.21" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'31.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'33.10" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°29'23.91" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°54'7.16" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°47'13.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°41'47.85" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°45'52.03" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Estocolm, Estocolme, Estocolmo, Estocolmu, Estocòlme, Estokolma, Estokolmo, Holmia, STO, Stakgol'm, Stjokolna, Stoccholm, Stoccolma, Stockholbma, Stockholm, Stockolm, Stocolm, Stocolma, Stocòlma, Stocólma, Stokcholme, Stokgol'm, Stokgol'm osh, Stokgolm, Stokhol'm, Stokholm, Stokholma, Stokholmas, Stokholmi, Stokholmo, Stokkholm, Stokkholmur, Stokkhólmur, Stokkolma, Stokol'ma, Stokolm, Stuculma, Stuokhuolms, Stócólm, Sztokholm, Sztokhòlm, Tukholma, astkhlm, satakahoma, seutogholleum, si de ge er mo, stak'hom, stakahoma, stokahoma, stwkhwlm, stwqhwlm, stxkholm, sutokkuhorumu, Štokholm, Στοκχόλμη, Стакгольм, Стокhольм, Стокгольм, Стокгольм ош, Стокольма, Стокхолм, Стокҳолм, Стёколна, Ստոկհոլմ, סטוקהולם, שטאקהאלם, استکهلم, ستوكهولم, ستۆکھۆڵم, سٹاکہوم, ܣܛܘܩܗܘܠܡ, स्टकहोम, स्टॉकहोम, स्तकहोम, স্টকহোম, ਸਟਾਕਹੋਮ, ஸ்டாக்ஹோம், స్టాక్‌హోమ్, ಸ್ಟಾಕ್‍ಹೋಮ್, സ്റ്റോക്ക്‌ഹോം, สตอกโฮล์ม, སི་ཏོག་ཧོ་ལིམ།, စတော့ဟုမ်းမြို့, სტოკჰოლმი, ስቶኮልም, ᔅᑑᒃᓱᓪᒻ/stuukhulm, ストックホルム, 斯德哥尔摩, 斯德哥爾摩, 스톡홀름, 𐍃𐍄𐌿𐌺𐌺𐌰𐌷𐌿𐌻𐌼𐍃

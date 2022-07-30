@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'41.17" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'33.92" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°15'43.71" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°32'6.59" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°7'54.19" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°33'7.96" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|9°9'33.65" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°46'41.27" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'33.91" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°15'43.74" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°32'6.55" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°7'54.11" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°33'7.89" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|9°9'32.26" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'41.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'33.92" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°15'43.71" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°32'6.59" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°7'54.19" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°33'7.96" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|9°9'33.65" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°46'41.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'33.91" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°15'43.74" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°32'6.55" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°7'54.11" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°33'7.89" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|9°9'32.26" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: FUK, Fucuoca, Fukuoka, Fukuoka-shi, Fukuokashi, Hukuoka, fu gang, fu gang shi, fukuoka, fukuokashi, fwkwka, hukuoka si, Фукуока, فوكوكا, ふくおか, ふくおかし, フクオカ, フクオカシ, 福岡, 福岡市, 후쿠오카 시

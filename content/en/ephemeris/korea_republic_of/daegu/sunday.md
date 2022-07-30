@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Prograde|17°19'44.32" |Aries|Butain|Sun|
 |☉ Sun|Prograde|7°39'53.62" |Cancer|Nathrah|Venus|
 |♀ Venus|Prograde|15°29'7.73" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°14'53.13" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|1°57'42.26" |Leo|Jabhah|Saturn|
+|☿ Mercury|Prograde|22°14'53.19" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|1°57'42.29" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'34.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'39.21" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°19'44.36" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°39'53.57" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°29'7.65" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°14'53.13" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|1°57'42.26" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°59'34.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'39.22" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°19'44.32" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°39'53.62" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°29'7.73" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°14'53.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|1°57'42.29" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Daegu, Daegu Kong-hek-chhi, Daegu Kóng-he̍k-chhī, Daegu-si, Daikyu, Daikyū, GJai Khau, Ntenkou, TAE, Taegu, Taikando, Taikandō, Taiku, Taikyu, Taikyū, Tegu, Teguo, Tehgu, Tägu, da qiu guang yu shi, daegu, daegugwang-yeogsi, daegusi, daigu, dayjw, degu, dyghw, tgw, Đại Khâu, Ντέγκου, Тегу, Тэгу, Тэгү, טגו, دائجو, ديغو, ڈیگو, दैगू, ദേഗു, แทกู, 大邱广域市, 大邱広域市, 大邱廣域市, 대구, 대구광역시, 대구시

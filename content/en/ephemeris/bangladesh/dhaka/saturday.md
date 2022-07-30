@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'17.53" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'55.54" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°45'30.03" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°49'29.15" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°25'7.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°38'50.71" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|21°21'11.67" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°3'17.43" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'55.56" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°45'29.99" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°49'29.19" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°25'7.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°38'50.78" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|21°21'11.22" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'17.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'55.54" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°45'30.03" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°49'29.15" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°25'7.45" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°38'50.71" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|21°21'11.67" |Leo|Zubrah|Mars|
+|♄ Saturn|Retrograde|23°3'17.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'55.56" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°45'29.99" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°49'29.19" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°25'7.53" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°38'50.78" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|21°21'11.22" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: DAC, Daaka, Daca, Dacca, Dacca - dhaka, Dacca - ঢাকা, Daka, Dakah, Dakk, Dakka, Dakkae, Dakke, Dako, Deka, Dgaka, Dhaka, Dháka, Dhâkâ, Dəkkə, Mujib City, Ntaka, Ntakka, da ka, daka, dakka, dhaka, dhakka, dka, takka, thaka, Ντάκα, Ντάκκα, Даака, Дака, Даккæ, Дакка, Дакке, Дгака, Դաքքա, דאקא, דאקה, داكا, داکا, دكا, ڈھاکہ, ޑާކާ, ढाका, ঢাকা, ਢਾਕਾ, ઢાકા, ଢାକା, டாக்கா, ఢాకా, ಢಾಕಾ, ഢാക്ക, ඩකා, ธากา, དྷ་ཁ།, ဒါကာမြို့, დაკა, ዳካ, ダッカ, 达卡, 達卡, 다카

@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'35.96" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'33.52" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°28'39.73" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°53'2.91" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°45'50.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°39'45.33" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|4°38'47.28" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'36.06" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'33.51" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°28'39.76" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°53'2.86" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°45'50.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°39'45.26" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|4°38'47.11" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'35.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'33.52" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°28'39.73" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°53'2.91" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°45'50.79" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°39'45.33" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°38'47.28" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'36.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'33.51" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°28'39.76" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°53'2.86" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°45'50.71" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°39'45.26" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°38'47.11" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Carcovia, Carcóvia, Charcovia, Charkiv, Charkiw, Charkov, Charkovas, Charkow, Charków, HRK, Harkiv, Harkiva, Harkivo, Harkov, Harkova, Jarkov, Khar'kov, Kharkiv, Kharkov, Khar’kov, ha er ke fu, haleukiu, harikofu, hrqwb, kaleukipeu, kalipeu, kharkwf, Ĥarkivo, Ĥarkov, Харков, Харків, Харьков, חרקוב, خاركوف, ხარკოვი, ハリコフ, 哈爾科夫, 카르키프, 카리프, 하르키우

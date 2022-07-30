@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'9.62" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'51.54" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°55'56.45" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°4'50.53" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°44'37.05" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°8'14.12" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|24°36'28.26" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°2'9.72" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'51.52" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°55'56.49" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°4'50.49" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°44'36.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°8'14.06" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|24°36'28.59" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'9.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'51.54" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°55'56.45" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°4'50.53" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°44'37.05" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°8'14.12" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|24°36'28.26" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°2'9.72" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'51.52" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°55'56.49" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°4'50.49" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°44'36.98" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°8'14.06" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|24°36'28.59" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구

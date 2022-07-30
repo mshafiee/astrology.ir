@@ -34,7 +34,7 @@ Altitude: 2,355 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:03:23 |
+| Dawn | 05:03:24 |
 | Sunrise | 06:10:54 |
 | Dhuhr | 11:52:26 |
 | Medium Coeli | 11:52:26 |
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'22.53" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'56.29" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°0'45.47" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°9'44.58" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|18°39'29.19" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°52'40.05" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|4°12'4.44" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°48'22.43" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'56.31" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°0'45.44" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°9'44.62" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|18°39'29.26" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°52'40.11" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|4°12'5.86" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'22.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'56.29" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°0'45.47" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°9'44.58" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|18°39'29.19" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°52'40.05" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°12'4.44" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°48'22.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'56.31" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°0'45.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°9'44.62" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|18°39'29.26" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°52'40.11" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°12'5.86" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: AQP, Arecipa, Arehkipa, Arekip, Arekipa, Arekipo, Arequipa, Arikipa, Ariqipa, a lei ji pa, alekipa, arekipa, arekkippa, arkypa, arykyba, arykypa, xareki pa, Αρεκίπα, Арекипа, Арекіпа, Арэкіпа, ארקיפה, أريكيبا, ارکیپا, اریکیپا, अरेकिपा, அரேக்கிப்பா, อาเรกีปา, არეკიპა, アレキパ, 阿雷基帕, 아레키파

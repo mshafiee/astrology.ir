@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'33.95" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'11.08" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°50'9.34" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°53'55.43" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°19'23.72" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°23'54.12" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|0°40'45.24" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°49'34.04" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'11.07" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°50'9.37" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°53'55.39" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°19'23.64" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°23'54.05" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|0°40'43.85" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'33.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'11.08" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°50'9.34" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°53'55.43" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°19'23.72" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°23'54.12" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|0°40'45.24" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°49'34.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'11.07" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°50'9.37" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°53'55.39" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°19'23.64" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°23'54.05" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|0°40'43.85" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Embabane, Mabane, Mbaban, Mbabane, Mbabaneh, Mbabano, Mbabanė, Mbabàn, Mpampane, QMN, ababane, ambabane, ambabany, eumbabane, impapan, mbaban, mbabane, mbabanh, mbabyn, mbbnh, mo ba ben, mubabane, xam ba bane, Μπαμπάνε, Мбабане, Мбабанэ, Մբաբանե, מבאבאנע, מבבנה, امبابانی, مبابان, مبابانه, مبابانێ, مبابین, अंबाबाने, ਅੰਬਾਬਾਨੇ, இம்பபான், อัมบาบาเน, མ་པ་པན།, მბაბანე, ምባባኔ, ムババーネ, 墨巴本, 음바바네

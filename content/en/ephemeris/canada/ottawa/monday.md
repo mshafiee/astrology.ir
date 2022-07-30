@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°52'56.48" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'47.83" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°19'55.78" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°8'58.27" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°22'16.33" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°1'24.25" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|20°58'17.29" |Leo|Zubrah|Mars|
+|♄ Saturn|Retrograde|22°52'56.58" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'47.82" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°19'55.82" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°8'58.22" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°22'16.25" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°1'24.18" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|20°58'16.23" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°52'56.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'47.83" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°19'55.78" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°8'58.27" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°22'16.33" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°1'24.25" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|20°58'17.29" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°52'56.58" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'47.82" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°19'55.82" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°8'58.22" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°22'16.25" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°1'24.18" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|20°58'16.23" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, AA¬²±, Οττάβα, Οτταβα, Атава, Отава, Оттавæ, Оттава, Օտտավա, אוטווה, אטאווא, أوتاوا, ئۆتاوا, اتاوا, اوتآوآ, اوٹاوا, اٹاوہ, ओटावा, অটোয়া, ਓਟਾਵਾ, ଓଟାୱା, ஒட்டாவா, ಆಟ್ಟಾವಾ, ഓട്ടവ, ออตตาวา, ཨོ་ཏ་ཝ།, အော့တဝမြို့, ოტავა, ኦታዋ, ᎠᏔᏩ, ᐊᑐᕚ/atavaa, オタワ, 渥太華, 오타와

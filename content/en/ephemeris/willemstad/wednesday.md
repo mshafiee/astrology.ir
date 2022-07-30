@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°44'10.61" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'57.50" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°37'53.12" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°5'16.33" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°50'2.89" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|28°32'40.35" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|16°31'21.72" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°44'10.51" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'57.51" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°37'53.09" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°5'16.36" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°50'2.96" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|28°32'40.41" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|16°31'22.91" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°44'10.61" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'57.50" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°37'53.12" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°5'16.33" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°50'2.89" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|28°32'40.35" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|16°31'21.72" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|22°44'10.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'57.51" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°37'53.09" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°5'16.36" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°50'2.96" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|28°32'40.41" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|16°31'22.91" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Vilemstad, Vilemstadas, Vilemstade, Vilemstado, Villemstad, Villemstant, Villemştad, Willemstad, Willemsted, Willemstêd, billemseutateu, u~iremusutatto, vilemastada, villemstatu, wei lian si ta de, willems tad, wylmstad, Βίλλεμσταντ, Вилемстад, Виллемстад, Вілемстад, Віллемстад, וילמסטאד, ويلمستاد, ویلمستاد, ویلمسٹیڈ, विलेमश्टाड, வில்லெம்ஸ்டாடு, วิลเลมสตัด, ვილემსტადი, ウィレムスタット, 威廉斯塔德, 빌렘스타트

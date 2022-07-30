@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'11.46" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'59.61" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°8'39.56" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°52'15.35" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°1'1.72" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°30'27.20" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|17°26'17.83" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'11.56" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'59.59" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°8'39.60" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°52'15.31" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°1'1.64" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°30'27.13" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|17°26'16.95" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'11.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'59.61" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°8'39.56" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°52'15.35" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°1'1.72" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°30'27.20" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°26'17.83" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|22°54'11.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'59.59" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°8'39.60" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°52'15.31" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°1'1.64" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°30'27.13" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|17°26'16.95" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al-Sham, Al-Shām, An Damaisc, Cham, DAM, Damas, Damasc, Damasch, Damasco, Damascu, Damascus, Damasek, Damashq, Damasiko, Damask, Damask, Damaska, Damaskas, Damasko, Damaskos, Damaskosy, Damasku, Damaskus, Damaszek, Damaszkusz, Damašek, Dameski, Dammeseq, Damsyik, Dimaejk, Dimaesq, Dimashk, Dimashk al-Sham, Dimashk al-Shām, Dimashku, Dimashq, Dimeshki esh Sham, Dimishiq, Dimishku, Dimishq, Dimäjk, Dimäşq, Domas, Domás, Dàmáskù, Dəməşq, Esh Sham, Esh Shām, Kamakeko, Ndamako, Ndamáko, Sam, d mshq, da ma shi ge, damasaka, damasakasa, damaseukuseu, damaskas, damaskasa, damasukasu, dameska, damiska, dimisqu, dmshq, dmsq, drmswq, timisku, Şam, Δαμασκός, Дамаск, Дамаскус, Дамаскъ, Димашкъ, Димишкъ, Димишқ, Դամասկոս, דמשק, د مشق, دمشق, دیمەشق, دەمەشىق, ܕܪܡܣܘܩ, ދިމިޝްޤު, दमास्कस, दमिश्क, দামেস্ক, ਦਮਸ਼ਕ, ଡାମାସକସ, திமிஷ்கு, ಡಮಾಸ್ಕಸ್, ദമാസ്കസ്, ดามัสกัส, དྷ་མ་སི་ཁོ་སི།, ဒမားစကပ်မြို့, დამასკი, ደማስቆ, ダマスカス, 大馬士革, 大马士革, 다마스쿠스, 𐌳𐌰𐌼𐌰𐍃𐌺𐍉/Damasko

@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'41.86" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'24.02" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°40'2.56" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°38'53.27" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°0'15.96" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°56'23.34" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|27°32'42.98" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'41.76" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'24.04" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°40'2.52" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°38'53.31" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°0'16.04" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°56'23.41" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|27°32'44.28" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'41.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'24.02" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°40'2.56" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°38'53.27" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°0'15.96" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°56'23.34" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°32'42.98" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'41.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'24.04" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°40'2.52" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°38'53.31" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°0'16.04" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°56'23.41" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°32'44.28" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BWN, Banda Seri, Bandar Seri Begauan, Bandar Seri Begavan, Bandar Seri Begavanas, Bandar Seri Begawan, Bandar Sery Begawan, Bandar-Seri-Begavan, Bandar-Seri-Begavano, Bandar-Sery-Begavan, Bandarseribegavana, Brunei, Brunei Town, Bruni, Mpantar Seri Mpenkaban, badara seri begavana, ban dar se ribe ka wan, bandaleuseulibeugawan, bandar seri bagevan, bandar-seri-begavani, bandara seri bega'oyana, bandara seri begavana, bandara sri bagavana, bandarusuribugawan, bndr sry bgawan, bndr sry bkawan, bndr sry bygwan, pantar ceri pekavan, si li ba jia wan, si li ba jia wan shi, sry bgawan, Μπαντάρ Σερί Μπεγκαβάν, Бандар Сери Бегаван, Бандар-Сери-Бегаван, Бандар-Серы-Бегаван, Бандар-Сері-Бегаван, Բանդար Սերի Բեգավան, בנדר סרי בגוואן, باندار سەرى بەگاۋان, بندر سري بكاوان, بندر سری بگاوان, بندر سری بیگوان, بەندەر سێری بێگاوان, سری بگاوان, बंदर स्री बगवान, बन्दर सेरी बेगवान, बन्दर सेरी बेगावान, বন্দর সেরি বেগাওয়ান, ਬੰਦਰ ਸੇਰੀ ਬੇਗਵਾਨ, பண்டர் செரி பெகாவான், ಬಂದರ್ ಸೆರಿ ಬಗೆವನ್, ബന്ദർ സെരി ബെഗവൻ, บันดาร์เสรีเบกาวัน, སི་རི་པེ་ཀ་མཚོ་ཁུགས་གྲོང་ཁྱེར།, ဘန်ဒါဆရီဘဂါဝမ်မြို့, ბანდარ-სერი-ბეგავანი, ባንዳር ሰሪ ቤጋዋን, バンダルスリブガワン, 斯里巴加湾市, 斯里巴加灣, 斯里巴加灣市, 반다르스리브가완

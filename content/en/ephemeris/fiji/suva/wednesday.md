@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°47'2.80" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'38.90" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°12'33.26" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°27'21.15" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°1'52.03" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°24'33.60" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|8°3'35.52" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°47'2.70" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'38.91" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°12'33.23" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°27'21.19" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°1'52.11" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°24'33.66" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|8°3'36.93" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°47'2.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'38.90" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°12'33.26" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°27'21.15" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°1'52.03" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°24'33.60" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|8°3'35.52" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°47'2.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'38.91" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°12'33.23" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°27'21.19" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°1'52.11" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°24'33.66" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|8°3'36.93" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

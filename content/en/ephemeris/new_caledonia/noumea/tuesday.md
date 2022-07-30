@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°51'12.39" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'29.85" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°35'29.45" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°32'5.67" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°51'39.24" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°43'58.08" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°57'0.50" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°51'12.49" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'29.83" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°35'29.49" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°32'5.62" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°51'39.16" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°43'58.01" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°56'59.24" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°51'12.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'29.85" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°35'29.45" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°32'5.67" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°51'39.24" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°43'58.08" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°57'0.50" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°51'12.49" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'29.83" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°35'29.49" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°32'5.62" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°51'39.16" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°43'58.01" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°56'59.24" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아

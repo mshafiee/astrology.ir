@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°52'35.09" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'44.16" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°23'7.54" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°13'44.07" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°28'18.44" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°10'10.00" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|22°6'35.05" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°52'35.00" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'44.17" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°23'7.51" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°13'44.11" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°28'18.51" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°10'10.07" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|22°6'36.15" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°52'35.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'44.16" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°23'7.54" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°13'44.07" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°28'18.44" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°10'10.00" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|22°6'35.05" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°52'35.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'44.17" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°23'7.51" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°13'44.11" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°28'18.51" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°10'10.07" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|22°6'36.15" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Cidade da Guatemala, Citta del Guatemala, Città del Guatemala, Ciudad Guatemala, Ciudad de Guatemala, Ciutat de Guatemala, GUA, Guate, Guatemala, Guatemala City, Guatemala Hiria, Guatemala by, Guatemala la Nueva, Guatemala-Stadt, Guatemala-Urbo, Guatemala-stad, Gvatemala, Gvatemalurbo, Gwatemala, New Guatemala, Nueva Guatemala, Nueva Guatemala de la Asuncion, Nueva Guatemala de la Asunción, Pole tes Gouatemalas, Santiago de Guatimala, gua de ma la shi, guatemarashiti, gwatemalla si, gwatemallasiti, kawtemalasiti, mdynt ghwatymala, shhr gwatmala, Πόλη της Γουατεμάλας, Гватемала, גואטמלה סיטי, גוואטמלה סיטי, شهر گواتمالا, مدينة غواتيمالا, กัวเตมาลาซิตี, グアテマラシティ, 瓜地馬拉市, 과테말라 시, 과테말라시티

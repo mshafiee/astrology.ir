@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'33.01" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'17.92" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°25'47.69" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°47'9.43" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°27'1.93" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|28°0'13.75" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|12°27'47.24" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°45'32.91" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'17.93" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°25'47.66" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°47'9.47" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°27'2.01" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|28°0'13.82" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|12°27'48.56" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'33.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'17.92" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°25'47.69" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°47'9.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°27'1.93" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|28°0'13.75" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|12°27'47.24" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°45'32.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'17.93" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°25'47.66" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°47'9.47" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°27'2.01" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|28°0'13.82" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|12°27'48.56" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ANK, Anakara, Ancara, Ancyra, Ang-ka-la, Angkara, Angora, Anguriyah, Ankar, Ankara, Ankara khot, Ankaro, Ankuara, Ankura, Ankyra, Ankyra (Ankyra), Anqara, Enguri, Engüri, Enqere, akara, an ka la, angkala, ankara, anqrh, anqrt, xangkara, Ăng-kā-lá, Άγκυρα (Ankyra), Анкара, Анкара хот, Анкъара, Әнкара, Անկարա, אנקארא, אנקרה, آنکارا, أنقرة, ئەنقەرە, انقره, انقرہ, انکرہ, ܐܢܩܪܐ, अंकारा, আঙ্কারা, ਅੰਕਾਰਾ, ଆଙ୍କାରା, அங்காரா, అంకారా, ಅಂಕಾರಾ, അങ്കാറ, อังการา, ཨན་ཁ་ར།, ანკარა, አንካራ, アンカラ, 安卡拉, 앙카라

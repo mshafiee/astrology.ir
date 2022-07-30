@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°37'56.74" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'10.90" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°32'21.62" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°27'9.45" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°34'9.99" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°57'20.85" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|4°59'15.86" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°37'56.64" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'10.92" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°32'21.60" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°27'9.49" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°34'10.07" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°57'20.91" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|4°59'16.08" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°37'56.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'10.90" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°32'21.62" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°27'9.45" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°34'9.99" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°57'20.85" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|4°59'15.86" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°37'56.64" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'10.92" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°32'21.60" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°27'9.49" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°34'10.07" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°57'20.91" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|4°59'16.08" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Daegu, Daegu Kong-hek-chhi, Daegu Kóng-he̍k-chhī, Daegu-si, Daikyu, Daikyū, GJai Khau, Ntenkou, TAE, Taegu, Taikando, Taikandō, Taiku, Taikyu, Taikyū, Tegu, Teguo, Tehgu, Tägu, da qiu guang yu shi, daegu, daegugwang-yeogsi, daegusi, daigu, dayjw, degu, dyghw, tgw, Đại Khâu, Ντέγκου, Тегу, Тэгу, Тэгү, טגו, دائجو, ديغو, ڈیگو, दैगू, ദേഗു, แทกู, 大邱广域市, 大邱広域市, 大邱廣域市, 대구, 대구광역시, 대구시

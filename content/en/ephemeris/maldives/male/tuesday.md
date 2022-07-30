@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'11.79" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'18.34" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°44'30.31" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°45'31.98" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°8'42.61" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°8'32.77" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°59'17.65" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'11.89" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'18.32" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°44'30.34" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°45'31.94" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°8'42.53" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°8'32.71" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|28°59'16.31" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'11.79" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'18.34" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°44'30.31" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°45'31.98" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°8'42.61" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°8'32.77" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°59'17.65" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'11.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'18.32" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°44'30.34" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°45'31.94" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°8'42.53" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°8'32.71" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|28°59'16.31" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레

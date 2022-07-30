@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'4.00" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'7.22" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°5'10.89" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°46'13.60" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°42'7.53" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°45'28.00" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°39'47.63" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'3.91" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'7.24" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°5'10.86" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°46'13.63" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°42'7.61" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°45'28.06" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°39'48.38" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'4.00" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'7.22" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°5'10.89" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°46'13.60" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°42'7.53" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°45'28.00" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°39'47.63" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'3.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'7.24" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°5'10.86" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°46'13.63" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°42'7.61" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°45'28.06" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°39'48.38" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: PRN, Prestena, Prishhina, Prishtina, Prishtinae, Prishtine, Prishtinë, Prisjtina, Pristin, Pristina, Pristine, Pristino, Pristína, Prisztina, Prixtina, Priŝtino, Priştina, Priştine, Prištin, Priština, Priștina, Pryshcina, Prìstina, Prėštėna, bryshtyna, peulisyutina, phrich ti na, piristina, prisatina, pristina, pryshtyna, prystynh, prysٹyna, pu li shen di na, purishutina, Πρίστινα, Приштинæ, Приштина, Прищина, Прышціна, Պրիշտինա, פרישטינה, بريشتينا, پریسٹینا, پریشتینا, प्रिस्टिना, ਪ੍ਰਿਸ਼ਤੀਨਾ, பிரிஸ்டினா, พริชตีนา, པི་རི་སི་ཊི་ན།, პრიშტინა, プリシュティナ, 普里什蒂納, 普里什蒂纳, 프리슈티나

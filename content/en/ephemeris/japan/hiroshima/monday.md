@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'20.64" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'9.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°58'15.29" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°36'49.84" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°41'26.14" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°1'46.87" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|14°7'13.07" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°55'20.55" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'9.64" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°58'15.25" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°36'49.89" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°41'26.22" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°1'46.94" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|14°7'13.77" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'20.64" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'9.63" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°58'15.29" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°36'49.84" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°41'26.14" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°1'46.87" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|14°7'13.07" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°55'20.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'9.64" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°58'15.25" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°36'49.89" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°41'26.22" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°1'46.94" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|14°7'13.77" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chirosima, HIJ, Hiroshima, Hiroshima-shi, Hiroshimashi, Hirosima, Hirosimo, Hiroszima, Hiroxima, Hiroxima - guang dao shi, Hiroxima - 広島市, Hiroŝimo, Hiroşima, Hirošima, Hiroșima, Khiroshima, Khirosima, canghwad hi roa chi ma, guang dao, guang dao shi, hi ro chi ma, hilosima si, hiroshima, hiroshimashi, hirosima, hyrwshyma, hyrwsymh, Χιροσίμα, Хиросима, Хирошима, Хіросіма, הירושימה, هيروشيما, هیروشیما, हिरोशिमा, จังหวัดฮิโระชิมะ, ฮิโรชิมา, ჰიროსიმა, ჰიროშიმა, ひろしま, ひろしまし, ヒロシマ, ヒロシマシ, 広島, 広島市, 廣島市, 히로시마 시

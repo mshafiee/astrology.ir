@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'15.57" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'0.32" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°8'3.75" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°51'21.20" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°59'53.86" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°28'48.32" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|17°7'50.66" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'15.66" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'0.31" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°8'3.79" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°51'21.15" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°59'53.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°28'48.25" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|17°7'49.79" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'15.57" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'0.32" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°8'3.75" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°51'21.20" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°59'53.86" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°28'48.32" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°7'50.66" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°54'15.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'0.31" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°8'3.79" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°51'21.15" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°59'53.78" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°28'48.25" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|17°7'49.79" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chijv, Civ, Cív, IEV, Kaenugardur, Keju, Kiebo, Kief, Kieu, Kiev, Kiev osh, Kievi, Kievo, Kiew, Kiiev, Kiiv, Kijev, Kijeva, Kijevas, Kijew, Kijow, Kijuw, Kijv, Kijów, Kijůw, Kiova, Kiovia, Kiyev, Kiyiw, Kiëf, Kjiv, Kueyiv, Kyev, Kyiiv, Kyiv, Kyiw, Kyjev, Kyjiv, Kyjiw, Kyèv, Kænugarður, Kíev, Kîev, Küyiv, ji fu, kheiyf, kiefu, kiv, kiva, kiyebha, kiyepeu, kyf, kyiva, kyyf, qyyb, Κίεβο, Кейӳ, Киев, Киев ош, Київ, Кијев, Кыив, Кыйив, Кіеў, Кꙑѥвъ, Կիև, קייב, קיעוו, كىيېۋ, كييف, کیف, کیێڤ, کی‌یف, कीव, क्यीव, কিয়েভ, கீவ், കീവ്, เคียฟ, ཀིབ།, ကီးယက်မြို့, კიევი, ኪየቭ, キエフ, 基輔, 키예프

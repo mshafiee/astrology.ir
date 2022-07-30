@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 11:51:30 |
 | Medium Coeli | 11:51:30 |
 | Sunset | 18:11:48 |
-| Maghrib | 18:13:21 |
+| Maghrib | 18:13:20 |
 | Isha | 19:23:52 |
 | Sharia Midnight | 23:13:16 |
 | Imum Coeli | 23:51:29 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 11:51:30 |
 | Medium Coeli | 11:51:30 |
 | Sunset | 18:11:48 |
-| Maghrib | 18:13:21 |
+| Maghrib | 18:13:20 |
 | Isha | 19:14:56 |
 | Sharia Midnight | 23:19:59 |
 | Imum Coeli | 23:51:29 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 11:51:30 |
 | Medium Coeli | 11:51:30 |
 | Sunset | 18:11:48 |
-| Maghrib | 18:13:21 |
+| Maghrib | 18:13:20 |
 | Isha | 19:26:07 |
 | Sharia Midnight | 23:09:54 |
 | Imum Coeli | 23:51:29 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 11:51:30 |
 | Medium Coeli | 11:51:30 |
 | Sunset | 18:11:48 |
-| Maghrib | 18:13:21 |
+| Maghrib | 18:13:20 |
 | Isha | 19:28:21 |
 | Sharia Midnight | 23:13:16 |
 | Imum Coeli | 23:51:29 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 11:51:30 |
 | Medium Coeli | 11:51:30 |
 | Sunset | 18:11:48 |
-| Maghrib | 18:13:21 |
-| Isha | 19:43:21 |
+| Maghrib | 18:13:20 |
+| Isha | 19:43:20 |
 | Sharia Midnight | 23:12:09 |
 | Imum Coeli | 23:51:29 |
 {{< /tab >}}
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°5'22.90" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°43'0.73" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°26'4.42" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°20'58.04" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|13°48'55.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|19°43'55.87" |Cancer|Tarf|Mercury|
-|☾ Moon|Prograde|15°22'5.37" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|23°5'23.00" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°43'0.71" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°26'4.46" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°20'57.99" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|13°48'55.31" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|19°43'55.80" |Cancer|Tarf|Mercury|
+|☾ Moon|Prograde|15°22'6.02" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°5'22.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°43'0.73" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°26'4.42" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°20'58.04" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|13°48'55.39" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|19°43'55.87" |Leo|Zubrah|Jupiter|
-|☾ Moon|Prograde|15°22'5.37" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|23°5'23.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°43'0.71" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°26'4.46" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°20'57.99" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|13°48'55.31" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|19°43'55.80" |Leo|Zubrah|Jupiter|
+|☾ Moon|Prograde|15°22'6.02" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과

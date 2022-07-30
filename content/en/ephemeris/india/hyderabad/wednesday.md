@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'58.66" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'24.01" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°21'59.23" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°41'28.41" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°19'47.91" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°49'59.63" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|11°15'4.14" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°45'58.76" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'24.00" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°21'59.26" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°41'28.37" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°19'47.83" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°49'59.57" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|11°15'2.79" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'58.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'24.01" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°21'59.23" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°41'28.41" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°19'47.91" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°49'59.63" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|11°15'4.14" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°45'58.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'24.00" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°21'59.26" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°41'28.37" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°19'47.83" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°49'59.57" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|11°15'2.79" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bhaganagar, HYD, Haidarabadas, Haiderabad, Hajdarabad, Hajdarábád, Hyderabad, Hyderabad-Deccan, Hyderābād, Khajdarabad, Khajderabad, hai de la ba, haidarabada, haidarabadu, haiderabado, haitarapat, hayadarabada ema. karporesana, hayadrabada, hydr abad, hydr abad dkn, hydrabad, Хайдарабад, Хајдерабад, حیدر آباد, حیدر آباد دکن, حیدرآباد, हैदराबाद, হায়দরাবাদ এম. কর্পোরেশন, হায়দ্রাবাদ, ஹைதராபாத், హైదరాబాదు, ハイデラバード, 海得拉巴

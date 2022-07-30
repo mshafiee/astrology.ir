@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'14.35" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'27.77" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°19'41.69" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°38'1.82" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°15'26.15" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°43'49.05" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|10°25'45.48" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°46'14.45" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'27.75" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°19'41.72" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°38'1.78" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°15'26.07" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°43'48.99" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|10°25'44.11" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'14.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'27.77" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°19'41.69" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°38'1.82" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°15'26.15" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°43'49.05" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|10°25'45.48" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°46'14.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'27.75" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°19'41.72" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°38'1.78" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°15'26.07" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°43'48.99" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|10°25'44.11" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Dikhua, OEremce, Ouroumtchi, Ouroumtsi, Ti-hua, Ti-hua-ch'eng, Ti-hua-ch’eng, Ti-hua-hsien, Ti-hua-shih, Tihwa, Tihwafu, Tikhua, Tikhva, UEruemchi-su, UEruemcsi, UEruemqi, UEruemqi-chhi, URC, Urumchi, Urumci, Urumcio, Urumcis, Urumczi, Urumptsi, Urumqi, Urumqi Shi, Urumtschi, Urumtsi, Urumutsi, Urumçi, Urumĉio, Urumči, Urumčis, Urunchi, Wu-lu-mu-ch'i, Wu-lu-mu-ch'i-shih, Wu-lu-mu-ch’i, Wu-lu-mu-ch’i-shih, Wulumuqi, Wurumch'ih, Wurumch’ih, arwmchy, awrwmchy, awrwmtshy, ulumuchi si, urumaci, urumaki, urumchi, urumucci, urumuchi, urumuchi shi, wu lu mu qi, wu lu mu qi shi, xu rum chi, Öremçe, Ürümchi, Ürümchi-sṳ, Ürümcsi, Ürümqi, Ürümqi Shi, Ürümqi-chhī, Ουρούμτσι, Урумчи, Урумчі, Урумћи, Үрімжі, Үрүмчи, Үрүмчү, Өрөмч хот, Ուրումչի, אורומצי, أورومتشي, ئۈرۈمچى, ئۈرۈمچى شەھىرى, ئۈرۈمچی, ارومچی, اورومچی, उरुमची, उरुम्छी, ਉਰੂਮਕੀ, உருமுச்சி, อุรุมชี, ཨུ་རུམ་ཆི་གྲོང་ཁྱེར།, ウルムチ, ウルムチ市, 乌鲁木齐, 乌鲁木齐市, 烏魯木齊, 烏魯木齊市, 우루무치 시

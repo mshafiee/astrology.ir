@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'32.98" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'32.27" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°16'58.83" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°33'56.35" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°10'15.76" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°36'29.15" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|9°23'52.66" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°46'32.89" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'32.29" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°16'58.79" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°33'56.39" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°10'15.84" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°36'29.21" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|9°23'54.05" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'32.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'32.27" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°16'58.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°33'56.35" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°10'15.76" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°36'29.15" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|9°23'52.66" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°46'32.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'32.29" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°16'58.79" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°33'56.39" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°10'15.84" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°36'29.21" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|9°23'54.05" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MEL, Mel'burn, Melbourne, Melbourne City, Melbournum, Melburn, Melburna, Melburnas, Melburno, Melvourni, mel beirn, melaborna, melbeoleun, melbeon, melporn, meruborun, mlbwrn, mo er ben, Μελβούρνη, Мелбурн, Мелбърн, Мельбурн, מלבורן, ملبورن, مېلبۇرن, मेलबोर्न, மெல்போர்ன், เมลเบิร์น, མེར་བུན, メルボルン, 墨尔本, 墨爾本, 멜버른, 멜번

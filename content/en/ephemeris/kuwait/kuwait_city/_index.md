@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'49.45" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'54.00" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°49'50.06" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°55'51.25" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°33'12.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°51'3.24" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|22°40'29.28" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°2'49.35" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'54.01" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°49'50.02" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°55'51.29" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°33'12.73" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°51'3.31" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|22°40'28.87" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'49.45" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'54.00" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°49'50.06" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°55'51.25" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°33'12.65" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°51'3.24" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|22°40'29.28" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°2'49.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'54.01" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°49'50.02" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°55'51.29" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°33'12.73" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°51'3.31" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|22°40'28.87" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al Kuwait, Al Kuwayt, Al-Kuwait, Ciudad de Kuwait, Ehl'-Kuvejt, KWI, Koeweit, Kota Kuwait, Koveyit, Koweit, Koweït, Kuvaeyt, Kuvajt, Kuvajto, Kuvajturbo, Kuveitas, Kuväyt, Kuwait, Kuwait City, Kuwait Stad, Kuwait by, Kuwait-Stadt, Kuwait-Urbo, Kuwayt, Kuweit, Kuwejt, Madinat al Kuwayt, Madinat al-Kuwait, Madīnat al Kuwayt, Pole tou Koubeit, aalkuayt, ke wei te shi, khuwet si ti, kuu~eto shi, kuweiteu, kuweiteusiti, kwwyt syty, mdynt alkwyt, Πόλη του Κουβέιτ, Эль-Кувейт, כווית סיטי, اَلْكُوَيْت, مدينة الكويت, คูเวตซิตี, クウェート市, 科威特市, 쿠웨이트, 쿠웨이트시티

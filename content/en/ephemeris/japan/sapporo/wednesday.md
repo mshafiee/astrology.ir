@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'53.08" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'36.64" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°13'59.78" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°29'30.69" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°4'36.47" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°28'27.33" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|8°33'5.63" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°46'52.98" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'36.65" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°13'59.75" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°29'30.73" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°4'36.55" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°28'27.39" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|8°33'7.03" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'53.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'36.64" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°13'59.78" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°29'30.69" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°4'36.47" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°28'27.33" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|8°33'5.63" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°46'52.98" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'36.65" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°13'59.75" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°29'30.73" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°4'36.55" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°28'27.39" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|8°33'7.03" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: SPK, Sapara, Saporas, Saporo, Sapporo, Sapporo-chhi, Sapporo-chhī, Sapporo-shi, Sapporoshi, Sapporum, Szapporo, capporo, sabwrw, sap poa roa, sapporo, sapporoshi, sapwrw, saspolo si, sypwrw, zha huang, zha huang shi, Σαππόρο, Сапара, Сапоро, Саппоро, Սապորո, סאפורו, سابورو, ساپورو, سیپورو, सप्पोरो, சப்போரோ, ซัปโปะโระ, საპორო, さっぽろ, さっぽろし, サッポロ, サッポロシ, 札幌, 札幌市, 삿포로 시

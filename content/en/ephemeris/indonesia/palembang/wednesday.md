@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'12.92" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'27.41" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°19'53.26" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°38'19.69" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°15'48.33" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°44'20.32" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|10°32'6.62" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°46'13.02" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'27.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°19'53.29" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°38'19.65" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°15'48.25" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°44'20.26" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|10°32'5.25" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'12.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'27.41" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°19'53.26" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°38'19.69" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°15'48.33" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°44'20.32" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|10°32'6.62" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°46'13.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'27.39" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°19'53.29" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°38'19.65" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°15'48.25" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°44'20.26" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|10°32'5.25" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Kota Palembang, Kutha Palembang, PLM, Palembang, Palembangas, Palempan'nk, Palimbao, Palimbão, Palèmbang, balymbanj, ju gang, pa lem bang, palembanga, pallembang, palmbang, palymbang, parenban, Παλεμπάνγκ, Палембанг, باليمبانج, پالمبانگ, پالم‌بانگ, پالیمبانگ, पालेंबांग, ปาเล็มบัง, パレンバン, 巨港, 팔렘방

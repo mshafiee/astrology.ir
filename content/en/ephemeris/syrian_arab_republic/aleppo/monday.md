@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'13.11" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'59.87" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°8'24.83" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°51'53.37" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°0'33.91" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°29'46.62" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|17°20'45.81" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'13.21" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'59.85" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°8'24.86" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°51'53.33" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°0'33.83" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°29'46.55" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|17°20'44.94" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'13.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'59.87" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°8'24.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°51'53.37" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°0'33.91" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°29'46.62" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°20'45.81" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|22°54'13.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'59.85" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°8'24.86" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°51'53.33" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°0'33.83" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°29'46.55" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|17°20'44.94" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포

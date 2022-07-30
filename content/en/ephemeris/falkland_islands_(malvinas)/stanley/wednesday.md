@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°43'59.86" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'55.19" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°39'31.57" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°7'39.52" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°53'8.69" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|28°37'1.98" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|16°49'13.52" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°43'59.76" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'55.20" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°39'31.54" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°7'39.56" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°53'8.76" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|28°37'2.04" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|16°49'14.70" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°43'59.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'55.19" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°39'31.57" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°7'39.52" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°53'8.69" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|28°37'1.98" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|16°49'13.52" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|22°43'59.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'55.20" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°39'31.54" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°7'39.56" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°53'8.76" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|28°37'2.04" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|16°49'14.70" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: PSY, Port Stanley, Port Stenli, Port Stenlis, Port-Stehnli, Port-Stenli, Porto Arxentino/Stanley, Puerto Archentinas/Stenlis, Puerto Argentino, Stanlef, Stanlejo, Stanley, Stanley Harbour, Stehnli, Stenli, Stenlis, astnly  jzayr falklnd, asٹynlے  jzayr faklynڈ, icutanli, porta stenli, seutaenli, si tan li, si tan li gang, stanly, stnly, sutanre, sutanri, Στάνλεϋ, Порт Стенли, Порт-Стенлі, Порт-Стэнли, Стенли, Стэнлі, Պորտ Սթենլի, סטאנלי, סטנלי, استنلی، جزایر فالکلند, اسٹینلے، جزائر فاکلینڈ, ستانلي, سٹینلے, पोर्ट स्टॅन्ली, இசுடான்லி, സ്റ്റാൻലി, สแตนลีย์, スタンリー, スタンレー, 斯坦利, 斯坦利港, 스탠리

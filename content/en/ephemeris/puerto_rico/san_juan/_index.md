@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'25.70" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'48.49" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°2'41.41" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°14'46.57" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°57'13.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°27'11.16" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|26°42'14.40" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|23°1'25.80" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'48.47" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°2'41.45" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°14'46.53" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°57'13.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°27'11.10" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|26°42'14.63" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'25.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'48.49" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°2'41.41" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°14'46.57" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°57'13.79" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°27'11.16" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°42'14.40" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°1'25.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'48.47" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°2'41.45" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°14'46.53" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°57'13.71" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°27'11.10" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°42'14.63" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환

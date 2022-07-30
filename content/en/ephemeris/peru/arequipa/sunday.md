@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°56'58.37" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'22.44" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°43'28.74" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°14'57.06" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°13'39.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°20'54.69" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|9°22'44.87" |Leo|Zubrah|Saturn|
+|♄ Saturn|Retrograde|22°56'58.27" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'22.46" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°43'28.70" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°14'57.11" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°13'39.31" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°20'54.76" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|9°22'45.31" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°56'58.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'22.44" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°43'28.74" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°14'57.06" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°13'39.23" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°20'54.69" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|9°22'44.87" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°56'58.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'22.46" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°43'28.70" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°14'57.11" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°13'39.31" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°20'54.76" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|9°22'45.31" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: AQP, Arecipa, Arehkipa, Arekip, Arekipa, Arekipo, Arequipa, Arikipa, Ariqipa, a lei ji pa, alekipa, arekipa, arekkippa, arkypa, arykyba, arykypa, xareki pa, Αρεκίπα, Арекипа, Арекіпа, Арэкіпа, ארקיפה, أريكيبا, ارکیپا, اریکیپا, अरेकिपा, அரேக்கிப்பா, อาเรกีปา, არეკიპა, アレキパ, 阿雷基帕, 아레키파

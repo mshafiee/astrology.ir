@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'43.92" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'20.64" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°24'11.37" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°44'44.58" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°23'58.57" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°55'54.59" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|11°52'30.57" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°45'44.02" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'20.63" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°24'11.40" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°44'44.54" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°23'58.49" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°55'54.53" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|11°52'29.23" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'43.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'20.64" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°24'11.37" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°44'44.58" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°23'58.57" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°55'54.59" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|11°52'30.57" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°45'44.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'20.63" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°24'11.40" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°44'44.54" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°23'58.49" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°55'54.53" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|11°52'29.23" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: VOZ, Voronej, Voronez, Voroneza, Voronezas, Voronezh, Voronezhskaja oblast', Voronezj, Voroneĵ, Voronež, Voronežas, Voroněž, Voroņeža, Woronesch, Woronesh, Woronez, Woroneż, bolonesi, vu~oroneji, Воронеж, Воронежская область, ヴォロネジ, 보로네시

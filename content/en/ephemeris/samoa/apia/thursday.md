@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'49.89" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'36.57" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°49'42.20" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°22'58.79" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°12'34.29" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°4'15.66" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|20°25'55.42" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'49.99" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'36.56" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°49'42.23" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°22'58.75" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°12'34.22" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°4'15.60" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|20°25'54.40" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'49.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'36.57" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°49'42.20" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°22'58.79" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°12'34.29" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°4'15.66" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|20°25'55.42" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'49.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'36.56" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°49'42.23" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°22'58.75" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°12'34.22" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°4'15.60" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|20°25'54.40" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°53'44.28" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'55.38" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°12'44.92" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°58'19.63" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°8'44.08" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|24°41'41.74" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|18°47'11.03" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°53'44.18" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'55.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°12'44.89" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°58'19.67" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°8'44.16" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|24°41'41.80" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|18°47'11.97" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°53'44.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'55.38" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°12'44.92" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°58'19.63" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°8'44.08" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°41'41.74" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|18°47'11.03" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|22°53'44.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'55.39" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°12'44.89" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°58'19.67" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°8'44.16" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°41'41.80" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|18°47'11.97" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: KAD, Kadun, Kaduna, Kaduno, Kàdúná, ka du na, kado~una, kaduna, kadwna, qdwnh, Кадуна, קדונה, كادونا, کادونا, ਕਾਦੂਨਾ, カドゥナ, 卡杜納, 카두나

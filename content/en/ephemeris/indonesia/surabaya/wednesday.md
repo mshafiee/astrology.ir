@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 
 {{< /tabs >}}
 
-## The position of the planets  at sunrise
+## The position of the planets at sunrise
 
 {{< tabs tabTotal="2" >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'17.74" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'28.55" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°19'10.82" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°37'16.04" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°14'27.60" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°42'25.93" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|10°17'20.47" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°46'17.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'28.54" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°19'10.85" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°37'16.00" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°14'27.52" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°42'25.87" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|10°17'19.10" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'17.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'28.55" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°19'10.82" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°37'16.04" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°14'27.60" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°42'25.93" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|10°17'20.47" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°46'17.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'28.54" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°19'10.85" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°37'16.00" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°14'27.52" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°42'25.87" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|10°17'19.10" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,6 +364,17 @@ Position of planets based on tropical calculations at sunrise
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Kota Surabaya, Kutha Surabaya, SUB, Soerabaja, Soerabaya, Sourabaya, Sourampagia, Surabaia, Surabaja, Surabajo, Surabaya, si shui, sulabaya, sura ba ya, surabaia, surabaya, swrabaya, swrbyh, Σουραμπάγια, Сурабайа, Сурабая, Сурабаја, סורביה, سورابايا, سورابایا, สุราบายา, სურაბაია, スラバヤ, 泗水, 수라바야
