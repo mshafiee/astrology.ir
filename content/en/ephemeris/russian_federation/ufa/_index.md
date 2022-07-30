@@ -291,16 +291,16 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'8.02" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'55.22" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°46'59.18" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°51'38.54" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°27'53.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°43'1.66" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|21°34'10.14" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°3'8.12" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'55.20" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°46'59.22" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°51'38.49" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°27'53.23" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°43'1.60" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|21°34'10.57" |Cancer|Tarf|Moon|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Saturn|Mercury|Jupiter|
 |♃ Jupiter|Venus|Jupiter|Jupiter|Venus|
@@ -330,16 +330,16 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'8.02" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'55.22" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°46'59.18" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°51'38.54" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°27'53.30" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°43'1.66" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|21°34'10.14" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°3'8.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'55.20" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°46'59.22" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°51'38.49" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°27'53.23" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°43'1.60" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|21°34'10.57" |Leo|Sarfrah|Mars|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mars|Jupiter|Venus|Mercury|
 |♃ Jupiter|Venus|Venus|Mars|Mars|

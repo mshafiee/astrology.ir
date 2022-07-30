@@ -291,16 +291,16 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'0.20" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'57.85" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°10'21.39" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°54'46.60" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°4'13.54" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°35'7.16" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|18°0'50.98" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'0.10" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'57.86" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°10'21.36" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°54'46.64" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°4'13.62" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°35'7.22" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|18°0'51.88" |Leo|Zubrah|Jupiter|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Saturn|Mercury|Jupiter|
 |♃ Jupiter|Venus|Jupiter|Jupiter|Venus|
@@ -330,16 +330,16 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'0.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'57.85" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°10'21.39" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°54'46.60" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°4'13.54" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°35'7.16" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|18°0'50.98" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|22°54'0.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'57.86" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°10'21.36" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°54'46.64" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°4'13.62" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°35'7.22" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|18°0'51.88" |Virgo|Simak|Venus|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mars|Jupiter|Venus|Mercury|
 |♃ Jupiter|Venus|Venus|Mars|Mars|

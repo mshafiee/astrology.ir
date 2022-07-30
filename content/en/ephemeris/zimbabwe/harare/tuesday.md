@@ -291,16 +291,16 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'36.16" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'11.42" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°49'49.97" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°53'27.11" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°18'47.16" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°23'1.61" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|0°37'46.83" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°49'36.06" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'11.44" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°49'49.94" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°53'27.15" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°18'47.24" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°23'1.67" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|0°37'48.20" |Virgo|Sarfrah|Sun|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Saturn|Mercury|Jupiter|
 |♃ Jupiter|Venus|Jupiter|Jupiter|Venus|
@@ -330,16 +330,16 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'36.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'11.42" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°49'49.97" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°53'27.11" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°18'47.16" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°23'1.61" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|0°37'46.83" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°49'36.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'11.44" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°49'49.94" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°53'27.15" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°18'47.24" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°23'1.67" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|0°37'48.20" |Libra|Ghafr|Moon|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mars|Jupiter|Venus|Mercury|
 |♃ Jupiter|Venus|Venus|Mars|Mars|

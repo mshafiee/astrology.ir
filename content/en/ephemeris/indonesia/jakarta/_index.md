@@ -294,13 +294,13 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|23°3'21.48" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°42'55.81" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Prograde|16°44'52.42" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°48'26.94" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°23'51.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°37'0.91" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|20°34'20.63" |Cancer|Tarf|Moon|
+|☉ Sun|Prograde|6°48'33.69" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°23'57.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°37'4.71" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|21°7'5.47" |Cancer|Tarf|Moon|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Saturn|Mercury|Jupiter|
 |♃ Jupiter|Venus|Jupiter|Jupiter|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |☾ Moon|Prograde|21°7'5.47" |Leo|Zubrah|Mars|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mars|Jupiter|Venus|Mercury|
 |♃ Jupiter|Venus|Venus|Mars|Mars|

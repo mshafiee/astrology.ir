@@ -291,16 +291,16 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'46.57" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'40.39" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°17'53.21" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°37'9.32" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°25'39.47" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°9'42.85" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|22°59'46.67" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'40.37" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°17'53.25" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°37'9.27" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°25'39.39" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°9'42.79" |Cancer|Tarf|Moon|
 |☾ Moon|Prograde|1°19'43.07" |Leo|Jabhah|Saturn|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Saturn|Mercury|Jupiter|
 |♃ Jupiter|Venus|Jupiter|Jupiter|Venus|
@@ -330,16 +330,16 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'46.57" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'40.39" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°17'53.21" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°37'9.32" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°25'39.47" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°9'42.85" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°59'46.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'40.37" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°17'53.25" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°37'9.27" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°25'39.39" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°9'42.79" |Leo|Sarfrah|Mars|
 |☾ Moon|Prograde|1°19'43.07" |Virgo|Sarfrah|Sun|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mars|Jupiter|Venus|Mercury|
 |♃ Jupiter|Venus|Venus|Mars|Mars|

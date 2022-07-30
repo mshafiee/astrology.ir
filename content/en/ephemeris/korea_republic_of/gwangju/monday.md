@@ -293,14 +293,14 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°55'16.87" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°42'9.14" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°58'52.10" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°37'32.61" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°42'26.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°3'12.57" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|13°25'4.42" |Leo|Zubrah|Jupiter|
+|♂ Mars|Prograde|17°58'48.53" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°37'39.16" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°42'28.83" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°3'18.75" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|14°17'34.14" |Leo|Zubrah|Jupiter|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Saturn|Mercury|Jupiter|
 |♃ Jupiter|Venus|Jupiter|Jupiter|Venus|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |☾ Moon|Prograde|14°17'34.14" |Virgo|Awwa|Venus|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mars|Jupiter|Venus|Mercury|
 |♃ Jupiter|Venus|Venus|Mars|Mars|

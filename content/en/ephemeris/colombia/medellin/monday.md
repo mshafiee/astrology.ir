@@ -291,16 +291,16 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°52'43.67" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'45.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°21'49.54" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°11'48.21" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°25'51.34" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°6'36.38" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|21°41'10.25" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°52'43.77" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'45.62" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°21'49.57" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°11'48.17" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°25'51.26" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°6'36.31" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|21°41'9.17" |Leo|Sarfrah|Mars|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Saturn|Mercury|Jupiter|
 |♃ Jupiter|Venus|Jupiter|Jupiter|Venus|
@@ -330,16 +330,16 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°52'43.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'45.63" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°21'49.54" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°11'48.21" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°25'51.34" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°6'36.38" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|21°41'10.25" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°52'43.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'45.62" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°21'49.57" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°11'48.17" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°25'51.26" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°6'36.31" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|21°41'9.17" |Virgo|Simak|Mercury|
 
 
-|Planet|Egyptian Term|Ptolomeic Term|Darigan|Ardagan|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mars|Jupiter|Venus|Mercury|
 |♃ Jupiter|Venus|Venus|Mars|Mars|
