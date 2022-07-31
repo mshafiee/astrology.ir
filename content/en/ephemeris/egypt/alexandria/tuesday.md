@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +02:00
 \-
-Longitude: 29.9158
-\-
 Latitude: 31.2018
+\-
+Longitude: 29.9158
 \-
 Altitude: 9 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'47.80" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'13.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°48'5.87" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°50'52.78" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°15'30.37" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°18'19.01" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|0°8'4.22" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°49'47.70" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'13.64" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°48'5.83" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°50'52.82" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°15'30.45" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°18'19.07" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|0°8'5.59" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: -05:00
 \-
-Longitude: -100.3185
-\-
 Latitude: 25.6751
+\-
+Longitude: -100.3185
 \-
 Altitude: 543 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°43'51.29" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'52.60" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°40'42.48" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°9'30.13" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°55'25.64" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|28°40'13.94" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|16°19'26.98" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°43'51.38" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'52.58" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°40'42.51" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°9'30.09" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°55'25.57" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|28°40'13.81" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|17°27'28.33" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Mars|Venus|Venus|Mars|
 |☿ Mercury|Saturn|Saturn|Jupiter|Mercury|
-|☾ Moon|Venus|Jupiter|Saturn|Saturn|
+|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Jupiter|Venus|Pisces|Sun|Moon|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°43'51.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'52.60" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°40'42.48" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°9'30.13" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°55'25.64" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|28°40'13.88" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°27'29.48" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|22°43'51.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'52.58" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°40'42.51" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°9'30.09" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°55'25.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|28°40'13.81" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|17°27'28.33" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

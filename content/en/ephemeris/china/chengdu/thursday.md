@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +08:00
 \-
-Longitude: 104.0667
-\-
 Latitude: 30.6667
+\-
+Longitude: 104.0667
 \-
 Altitude: 499 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'59.77" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'22.83" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°57'2.30" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°34'0.02" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°26'34.37" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°23'49.00" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|22°55'50.70" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'59.67" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'22.84" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°57'2.27" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°34'0.06" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°26'34.45" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°23'49.06" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|22°55'51.59" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'59.77" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'22.83" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°57'2.30" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°34'0.02" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°26'34.37" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°23'49.00" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|22°55'50.70" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'59.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'22.84" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°57'2.27" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°34'0.06" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°26'34.45" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°23'49.06" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|22°55'51.59" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CTU, Ccheng-tu, Cendu, Cengdu, Cengduo, Ch'eng-tu, Ch'eng-tu-hsien, Ch'eng-tu-shih, Chehndu, Chendu, Chengdu, Chengdu Shi, Chengdú, Chundu, Chөndү, Ch’eng-tu, Ch’eng-tu-hsien, Ch’eng-tu-shih, Csengtu, Cwngzduh, Hua-yang, Sang-tu-su, Seng-to-chhi, Sing-du, Sàng-tû-sṳ, Sêng-to͘-chhī, Sìng-dŭ, Thanh Do, Thành Đô, Tsen'nkntou, Txengdu, cengadu, centu, chantu, cheing tu, cheng dou, cheng dou shi, cheongdu si, chngdw, chyngdw, chېngdۇ shەھyr, tshnghdw, zngdw, Çengdu, Ĉengduo, Čcheng-tu, Čendu, Čengdu, Τσενγκντού, Ченгду, Ченду, Чънду, Чыңду, Чэнду, Чөндү, Չենդու, צנגדו, تشنغدو, چنگدو, چینگدو, چېڭدۇ شەھىر, चेंगदू, छंतू, ਚੇਂਗਦੂ, செங்டூ, เฉิงตู, ချင်းဒူမြို့, 成都, 成都市, 청두 시

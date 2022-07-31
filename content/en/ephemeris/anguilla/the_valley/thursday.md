@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: -04:00
 \-
-Longitude: -63.0578
-\-
 Latitude: 18.2170
+\-
+Longitude: -63.0578
 \-
 Altitude: 19 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'54.28" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'46.92" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°15'17.55" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°1'27.04" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°1'28.26" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°12'17.09" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|29°8'5.87" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°39'54.37" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'46.91" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°15'17.58" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°1'27.00" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°1'28.19" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°12'17.03" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|29°8'5.32" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'54.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'46.92" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°15'17.55" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°1'27.04" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°1'28.26" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°12'17.09" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°8'5.87" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°39'54.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'46.91" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°15'17.58" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°1'27.00" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°1'28.19" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°12'17.03" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°8'5.32" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: De Balei, El Valle, La-Valo, The Valley, Vali, Valis, Valley, Valli, bare, d wly, deobaelli, dy wyly, hwwʼly, ti velli, vali, wa li, Δε Βάλεϊ, Вали, Валли, Валлі, Валі, הוואלי, د ولی, دی ویلی, தி வேல்லி, เดอะแวลลีย์, ვალი, バレー, 瓦利, 더밸리

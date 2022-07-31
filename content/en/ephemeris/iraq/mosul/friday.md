@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +03:00
 \-
-Longitude: 43.1189
-\-
 Latitude: 36.3350
+\-
+Longitude: 43.1189
 \-
 Altitude: 228 meters
 
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|8°37'50.88" |Aries|Sharatain|Mars|
 |♂ Mars|Prograde|20°41'22.88" |Taurus|Dabaran|Saturn|
 |☉ Sun|Prograde|12°40'46.30" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°51'28.86" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|1°21'4.37" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|8°7'8.09" |Scorpio|Akleel|Mars|
+|♀ Venus|Prograde|21°51'27.60" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|1°21'2.70" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|8°4'35.34" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

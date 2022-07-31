@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +06:30
 \-
-Longitude: 96.8225
-\-
 Latitude: -12.1568
+\-
+Longitude: 96.8225
 \-
 Altitude: 12 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'24.92" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'20.89" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°42'34.43" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°42'38.70" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°5'2.96" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°3'16.83" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°18'12.68" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'24.82" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'20.91" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°42'34.40" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°42'38.75" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°5'3.04" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°3'16.89" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|28°18'14.01" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

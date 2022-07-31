@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +08:00
 \-
-Longitude: 115.8531
-\-
 Latitude: 28.6840
+\-
+Longitude: 115.8531
 \-
 Altitude: 20 meters
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°55'6.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'7.91" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°0'19.10" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°39'51.61" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°45'19.01" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°7'28.81" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|14°32'4.24" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|8°42'7.69" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°0'20.05" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°39'55.01" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°45'21.16" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°7'31.30" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|14°48'24.09" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

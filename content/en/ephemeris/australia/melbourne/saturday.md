@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +10:00
 \-
-Longitude: 144.9633
-\-
 Latitude: -37.8140
+\-
+Longitude: 144.9633
 \-
 Altitude: 58 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°3'39.66" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'56.94" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°42'6.87" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°44'28.12" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°18'47.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°29'16.82" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|19°57'19.39" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|23°3'39.57" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'56.96" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°42'6.83" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°44'28.16" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°18'47.62" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°29'16.89" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|19°57'18.90" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

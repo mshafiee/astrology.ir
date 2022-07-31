@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: -05:00
 \-
-Longitude: -78.5250
-\-
 Latitude: -0.2298
+\-
+Longitude: -78.5250
 \-
 Altitude: 2,854 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'38.59" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'42.24" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°17'35.12" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°4'53.83" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°5'51.38" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°18'20.96" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|29°54'51.88" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°39'38.50" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'42.25" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°17'35.09" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°4'53.87" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°5'51.46" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°18'21.01" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|29°54'52.38" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'38.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'42.24" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°17'35.12" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°4'53.83" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°5'51.38" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°18'20.96" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°54'51.88" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°39'38.50" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'42.25" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°17'35.09" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°4'53.87" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°5'51.46" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°18'21.01" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°54'52.38" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

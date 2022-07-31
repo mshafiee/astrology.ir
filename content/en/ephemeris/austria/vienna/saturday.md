@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +02:00
 \-
-Longitude: 16.3721
-\-
 Latitude: 48.2085
+\-
+Longitude: 16.3721
 \-
 Altitude: 193 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'35.40" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'53.28" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°52'0.24" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°59'1.75" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°37'15.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°57'9.53" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|23°12'18.78" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°2'35.49" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'53.27" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°52'0.28" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°59'1.71" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°37'15.37" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°57'9.46" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|23°12'19.15" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'35.40" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'53.28" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°52'0.24" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°59'1.75" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°37'15.45" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°57'9.53" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|23°12'18.78" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°2'35.49" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'53.27" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°52'0.28" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°59'1.71" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°37'15.37" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°57'9.46" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|23°12'19.15" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

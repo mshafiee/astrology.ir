@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +04:30
 \-
-Longitude: 57.3290
-\-
 Latitude: 37.4747
+\-
+Longitude: 57.3290
 \-
 Altitude: 1,069 meters
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Prograde|11°40'56.55" |Cancer|Nathrah|Mercury|
 |♀ Venus|Prograde|20°35'24.20" |Gemini|Dhira|Sun|
 |☿ Mercury|Prograde|29°36'7.07" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°28'55.73" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|24°3'11.78" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

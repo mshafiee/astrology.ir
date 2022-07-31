@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +09:00
 \-
-Longitude: 129.3167
-\-
 Latitude: 35.5372
+\-
+Longitude: 129.3167
 \-
 Altitude: 10 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'41.09" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'33.91" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°15'44.60" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°32'7.82" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°7'55.84" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°33'10.31" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|9°9'28.62" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°46'41.18" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'33.90" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°15'44.63" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°32'7.78" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°7'55.76" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°33'10.25" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|9°9'27.23" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'41.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'33.91" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°15'44.60" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°32'7.82" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°7'55.84" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°33'10.31" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|9°9'28.62" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°46'41.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'33.90" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°15'44.63" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°32'7.78" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°7'55.76" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°33'10.25" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|9°9'27.23" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

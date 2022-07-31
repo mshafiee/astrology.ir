@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: -06:00
 \-
-Longitude: -86.2504
-\-
 Latitude: 12.1328
+\-
+Longitude: -86.2504
 \-
 Altitude: 108 meters
 
@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:17:23 |
+| Dawn | 04:17:22 |
 | Sunrise | 05:32:02 |
 | Dhuhr | 11:51:12 |
 | Medium Coeli | 11:51:12 |
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Prograde|19°39'43.72" |Taurus|Dabaran|Moon|
 |☉ Sun|Prograde|11°8'2.16" |Leo|Zubrah|Jupiter|
 |♀ Venus|Prograde|19°53'33.72" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|28°37'36.63" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°8'16.44" |Libra|Jubana|Saturn|
+|☿ Mercury|Prograde|28°37'36.07" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|16°59'37.41" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

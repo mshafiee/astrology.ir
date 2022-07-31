@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +04:30
 \-
-Longitude: 46.4227
-\-
 Latitude: 33.6374
+\-
+Longitude: 46.4227
 \-
 Altitude: 1,403 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'55.59" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°37'51.32" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°41'10.88" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°40'28.31" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°51'5.88" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|1°20'32.93" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|8°3'7.14" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°36'55.69" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°37'51.30" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°41'10.91" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°40'28.28" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°51'5.80" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|1°20'32.87" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|8°3'7.09" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'55.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°37'51.32" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°41'10.88" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°40'28.31" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°51'5.88" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|1°20'32.93" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|8°3'7.14" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°36'55.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°37'51.30" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°41'10.91" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°40'28.28" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°51'5.80" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|1°20'32.87" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|8°3'7.09" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

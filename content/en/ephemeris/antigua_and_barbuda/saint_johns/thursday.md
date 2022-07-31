@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: -04:00
 \-
-Longitude: -61.8433
-\-
 Latitude: 17.1210
+\-
+Longitude: -61.8433
 \-
 Altitude: 12 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'54.98" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'47.09" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°15'12.26" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°1'19.00" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°1'18.00" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°12'2.94" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|29°6'16.79" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°39'54.89" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'47.10" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°15'12.23" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°1'19.03" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°1'18.07" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°12'2.99" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|29°6'17.34" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'54.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'47.09" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°15'12.26" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°1'19.00" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°1'18.00" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°12'2.94" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°6'16.79" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°39'54.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'47.10" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°15'12.23" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°1'19.03" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°1'18.07" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°12'2.99" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°6'17.34" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Saint John, Saint John's, Saint John’s, Sent Dzonsas, Sent Džonsas, Sent Tzons, Sent-Dzhons, St John's, St Johns, St. John's, St.John.s, seinteujonseu, sentojonzu, sheng yue han, sheng yue han shi, snt g'wns, Σεντ Τζονς, Сент-Джонс, סנט ג'ונס, ሴንት ጆንስ፥ አንቲጋ እና ባርቡዳ, セントジョンズ, 圣约翰, 圣约翰市, 세인트존스

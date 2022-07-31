@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +08:00
 \-
-Longitude: 123.4328
-\-
 Latitude: 41.7922
+\-
+Longitude: 123.4328
 \-
 Altitude: 53 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'18.16" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'27.91" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°54'21.84" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°29'58.54" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°21'27.83" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°16'41.38" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|22°0'14.06" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'18.06" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'27.93" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°54'21.81" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°29'58.58" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°21'27.91" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°16'41.44" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|22°0'15.00" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'18.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'27.91" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°54'21.84" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°29'58.54" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°21'27.83" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°16'41.38" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|22°0'14.06" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'18.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'27.93" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°54'21.81" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°29'58.58" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°21'27.91" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°16'41.44" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|22°0'15.00" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Feng-t'ien, Feng-t’ien, Moukden, Mukden, SHE, Sen'gian'nk, Sen-jang, Senjana, Senjang, Senjangas, Senjango, Shehn'jan, Shehn'jan khot, Shen'jan, Shen-yang-hsien, Shen-yang-shih, Shengking, Shenjang, Shenyan, Shenyang, Shenyang Shi, Shunjan, Sim-iong-chhi, Sing-iong, Sjenyang, Swnjyangh, Sím-iông-chhī, Sīng-iòng, Tham Duong, Thẩm Dương, cenyan, chen yang, chen yang shi, san'yanga, sein hyang, sen'yan, senayanga, seon-yang, seon-yang si, shen yang, shen yang shi, shnyang, shnyangh, shynyang, sim-yang, Ŝenjango, Šen-jang, Šenjangas, Šeņjana, Σενγιάνγκ, Шеньян, Шеньяң, Шенјанг, Шънян, Шэньян, Шэньян хот, שן-יאנג, شنيانغ, شنیانگ, شن‌یانگ, شینیانگ, شېنياڭ شەھىرى, शेनयांग, षन्यांग, ਸ਼ੇਨਯਾਂਗ, சென்யாங், ഷെന്യാങ്, เสิ่นหยาง, 沈阳, 沈阳市, 沉阳市, 瀋陽, 瀋陽市, 선양, 선양 시, 심양

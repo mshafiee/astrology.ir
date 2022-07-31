@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: -04:00
 \-
-Longitude: -75.6981
-\-
 Latitude: 45.4112
+\-
+Longitude: -75.6981
 \-
 Altitude: 71 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'54.61" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'47.09" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°15'15.97" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°1'23.66" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°1'24.85" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°12'12.52" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|29°5'39.48" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°39'54.71" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'47.08" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°15'16.00" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°1'23.63" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°1'24.78" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°12'12.46" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|29°5'38.93" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'54.61" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'47.09" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°15'15.97" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°1'23.66" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°1'24.85" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°12'12.52" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°5'39.48" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°39'54.71" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'47.08" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°15'16.00" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°1'23.63" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°1'24.78" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°12'12.46" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°5'38.93" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, AA¬²±, Οττάβα, Οτταβα, Атава, Отава, Оттавæ, Оттава, Օտտավա, אוטווה, אטאווא, أوتاوا, ئۆتاوا, اتاوا, اوتآوآ, اوٹاوا, اٹاوہ, ओटावा, অটোয়া, ਓਟਾਵਾ, ଓଟାୱା, ஒட்டாவா, ಆಟ್ಟಾವಾ, ഓട്ടവ, ออตตาวา, ཨོ་ཏ་ཝ།, အော့တဝမြို့, ოტავა, ኦታዋ, ᎠᏔᏩ, ᐊᑐᕚ/atavaa, オタワ, 渥太華, 오타와

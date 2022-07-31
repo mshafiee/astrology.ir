@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +03:00
 \-
-Longitude: 32.5822
-\-
 Latitude: 0.3163
+\-
+Longitude: 32.5822
 \-
 Altitude: 1,223 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'59.82" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'6.00" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°5'46.37" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°47'7.53" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°43'15.57" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°47'2.39" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°53'19.99" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'59.73" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'6.01" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°5'46.34" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°47'7.56" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°43'15.64" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°47'2.45" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°53'20.72" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'59.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'6.00" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°5'46.37" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°47'7.53" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°43'15.57" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°47'2.39" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°53'19.99" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'59.73" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'6.01" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°5'46.34" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°47'7.56" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°43'15.64" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°47'2.45" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°53'20.72" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Campala, IKampala, KLA, Kaempaala, Kambaala, Kampal, Kampala, Kampalo, Kanpala, kam pa la, kambala, kampala, kampalla, kan pa la, kanpara, kapala, kmbala, kmpala, qmplh, Καμπάλα, Кампала, Կամպալա, קאמפאלא, קמפלה, كامبالا, كامپالا, كمبالا, کامپالا, کمپالا, کمپالہ, कंपाला, कम्पाला, ਕੰਪਾਲਾ, କାମ୍ପାଲା, கம்பாலா, กัมปาลา, ཀམ་པ་ལ།, კამპალა, ካምፓላ, カンパラ, 坎帕拉, 캄팔라

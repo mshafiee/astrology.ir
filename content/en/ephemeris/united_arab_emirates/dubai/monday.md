@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +04:00
 \-
-Longitude: 55.3093
-\-
 Latitude: 25.0772
+\-
+Longitude: 55.3093
 \-
 Altitude: 24 meters
 

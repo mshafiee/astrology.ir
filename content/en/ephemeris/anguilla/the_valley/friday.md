@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: -04:00
 \-
-Longitude: -63.0578
-\-
 Latitude: 18.2170
+\-
+Longitude: -63.0578
 \-
 Altitude: 19 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°35'30.91" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°37'23.12" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°53'22.92" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°58'54.72" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°14'32.75" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|1°52'31.83" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|12°19'3.74" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°35'31.00" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°37'23.11" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°53'22.94" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°58'54.69" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|22°14'32.68" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|1°52'31.77" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|12°19'3.88" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°35'30.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°37'23.12" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°53'22.92" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°58'54.72" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°14'32.75" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|1°52'31.83" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|12°19'3.74" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|22°35'31.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°37'23.11" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°53'22.94" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°58'54.69" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|22°14'32.68" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|1°52'31.77" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|12°19'3.88" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

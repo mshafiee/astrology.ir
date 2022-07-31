@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +03:00
 \-
-Longitude: 47.9783
-\-
 Latitude: 29.3697
+\-
+Longitude: 47.9783
 \-
 Altitude: 16 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'49.35" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'54.01" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°49'50.02" |Aries|Butain|Sun|
-|☉ Sun|Prograde|6°55'51.29" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°33'12.73" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|20°51'3.31" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|22°40'28.87" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°2'49.45" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'54.00" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°49'50.06" |Aries|Butain|Sun|
+|☉ Sun|Prograde|6°55'51.25" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°33'12.65" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|20°51'3.24" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|22°40'29.28" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'49.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'54.01" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°49'50.02" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|6°55'51.29" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°33'12.73" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|20°51'3.31" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|22°40'28.87" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°2'49.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'54.00" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°49'50.06" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|6°55'51.25" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°33'12.65" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|20°51'3.24" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|22°40'29.28" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

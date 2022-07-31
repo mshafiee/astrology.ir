@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +02:00
 \-
-Longitude: 6.1300
-\-
 Latitude: 49.6117
+\-
+Longitude: 6.1300
 \-
 Altitude: 316 meters
 
@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'33.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°37'44.11" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°44'24.14" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°45'19.14" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°57'16.54" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|1°28'59.67" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°36'33.41" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°37'44.12" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°44'24.11" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°45'19.18" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°57'16.62" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|1°28'59.72" |Leo|Jabhah|Saturn|
 |☾ Moon|Prograde|9°9'55.76" |Libra|Ghafr|Moon|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'33.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°37'44.11" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°44'24.14" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°45'19.14" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°57'16.54" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|1°28'59.67" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°36'33.41" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°37'44.12" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°44'24.11" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°45'19.18" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°57'16.62" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|1°28'59.72" |Virgo|Sarfrah|Sun|
 |☾ Moon|Prograde|9°9'55.76" |Scorpio|Qalb|Mars|
 
 

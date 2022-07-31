@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +02:00
 \-
-Longitude: 4.3488
-\-
 Latitude: 50.8505
+\-
+Longitude: 4.3488
 \-
 Altitude: 28 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'13.89" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'31.19" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°32'1.24" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°58'0.44" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°52'8.68" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°49'5.99" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|5°41'40.59" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'13.99" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'31.17" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°32'1.27" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°58'0.39" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°52'8.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°49'5.93" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|5°41'40.36" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'13.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'31.19" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°32'1.24" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°58'0.44" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°52'8.68" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°49'5.99" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|5°41'40.59" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'13.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'31.17" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°32'1.27" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°58'0.39" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°52'8.60" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°49'5.93" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|5°41'40.36" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

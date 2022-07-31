@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +03:00
 \-
-Longitude: 25.2798
-\-
 Latitude: 54.6892
+\-
+Longitude: 25.2798
 \-
 Altitude: 98 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'14.27" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'10.26" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°3'41.32" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°43'58.12" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°39'16.12" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°41'29.83" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°7'9.71" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'14.37" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'10.25" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°3'41.35" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°43'58.09" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°39'16.05" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°41'29.77" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°7'8.94" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'14.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'10.26" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°3'41.32" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°43'58.12" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°39'16.12" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°41'29.83" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°7'9.71" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'14.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'10.25" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°3'41.35" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°43'58.09" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°39'16.05" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°41'29.77" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°7'8.94" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: IVilnyusi, VNO, Vil'njus, Vil'no, Vil'nyus, Viln', Vilna, Vilnia, Vilnias, Vilniaus miestas, Vilnious, Vilnis, Vilnius, Vilnjus, Vilnjûs, Vilnues, Vilnus, Vilnyus, Vilníus, Vilnüs, Viļņa, Vílnius, Wilna, Wilnius, Wilno, Wilnus, Wilñus, bhilani'usa, bilnyuseu, fylnyws, vhilniyasa, vilniusi, vilniyas, vu~irinyusu, vylnyws, wei er niu si, wi lni xus, wlnys, wylnh, wylnyws, Βίλνα, Βίλνιους, Βιλνιους, Вилниус, Вилнус, Вилнюс, Вилн҄ь, Вильнюс, Вилњус, Виљнус, Вільнюс, Վիլնյուս, ווילנע, וילנה, فيلنيوس, ولنیس, ویلنیوس, ڤیلنیوس, व्हिल्नियस, ভিলনিউস, வில்னியஸ், วิลนีอุส, ལྦེ་ནི་སུ་ནི།, ვილნიუსი, ቪልኒውስ, ᕕᓪᓂᐅᔅ/vilnius, ヴィリニュス, 维尔纽斯, 빌뉴스

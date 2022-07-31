@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: -04:00
 \-
-Longitude: -61.5189
-\-
 Latitude: 10.6667
+\-
+Longitude: -61.5189
 \-
 Altitude: 21 meters
 
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:28:48 |
 | Maghrib | 18:29:45 |
 | Isha | 19:41:37 |
-| Sharia Midnight | 23:31:18 |
+| Sharia Midnight | 23:31:19 |
 | Imum Coeli | 00:12:02 |
 {{< /tab >}}
 

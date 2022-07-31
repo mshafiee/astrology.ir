@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +03:00
 \-
-Longitude: 45.3438
-\-
 Latitude: 2.0371
+\-
+Longitude: 45.3438
 \-
 Altitude: 12 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'9.57" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'8.78" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°4'21.10" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°44'59.39" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°40'32.60" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°43'15.93" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°24'26.68" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'9.48" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'8.79" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°4'21.08" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°44'59.42" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°40'32.68" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°43'15.99" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°24'27.44" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'9.57" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'8.78" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°4'21.10" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°44'59.39" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°40'32.60" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°43'15.93" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°24'26.68" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'9.48" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'8.79" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°4'21.08" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°44'59.42" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°40'32.68" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°43'15.99" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°24'27.44" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MGQ, Magadiscio, Magadysha, Maqdishu, Mogadiisho, Mogadis, Mogadisas, Mogadischu, Mogadiscio, Mogadish, Mogadisho, Mogadishu, Mogadisjoe, Mogadisju, Mogadisjû, Mogadiso, Mogadiss, Mogadisu, Mogadisxo, Mogadiszu, Mogadixo, Mogadiŝo, Mogadişu, Mogadiš, Mogadišas, Mogadišo, Mogadišu, Mogadíscio, Mogadīšo, Mogaidisiu, Mogaidisiú, Monkantisou, Moqadiso, Moqadişo, Moukdicho, Moukntiso, Mugadiccu, Mugadishu, Mugadiss, Muqdisho, Muqdishow, Muqdishu, Mógadisjú, Xamar, makadisu, meagadisu, mo jia di sha, mo jia di xiu, mo kadi chu, mogadisho, mogadishu, mogadisu, mogadisyu, mogarisu, mqdyshw, mqdyshyw, mukticu, mwgadyshw, mwgdysw, mwghadyshw, mۆgadyshۆ, Μογκαντίσου, Μουκντίσο, Магадыша, Могадишо, Могадишу, Могадішо, Մոգադիշո, מאגאדישו, מוגדישו, مقديشو, مقديشيو, موغادیشو, موگادیشو, مۆگادیشۆ, मोगादिशू, मोगादीशू, মোগাদিশু, ਮਕਦੀਸ਼ੂ, ମୋଗାଡ଼ିସୁ, முக்தீசூ, മൊഗാദിഷു, โมกาดิชู, མོ་ག་དི་ཤུ།, მოგადიშო, ሞቃዲሾ, モガディシュ, 摩加迪休, 摩加迪沙, 모가디슈

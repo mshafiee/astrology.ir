@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +03:00
 \-
-Longitude: 27.1384
-\-
 Latitude: 38.4127
+\-
+Longitude: 27.1384
 \-
 Altitude: 122 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'6.46" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'7.95" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°4'48.29" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°45'39.93" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°41'24.55" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°44'28.20" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°32'40.22" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'6.55" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'7.93" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°4'48.32" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°45'39.90" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°41'24.48" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°44'28.14" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°32'39.47" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'6.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'7.95" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°4'48.29" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°45'39.93" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°41'24.55" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°44'28.20" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°32'40.22" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'6.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'7.93" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°4'48.32" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°45'39.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°41'24.48" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°44'28.14" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°32'39.47" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Azmir, Esmirna, IZM, Ismir, Izmir, Izmira, Izmiras, Izmiro, Smirne, Smyrna, Smyrne, Yazmir, azmyr, izmiri, izumiru, yi zi mi er, İzmir, Σμύρνη, Измир, איזמיר, إزمير, იზმირი, イズミル, 伊兹密尔

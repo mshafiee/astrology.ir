@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: +02:00
 \-
-Longitude: 6.1300
-\-
 Latitude: 49.6117
+\-
+Longitude: 6.1300
 \-
 Altitude: 316 meters
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'56.78" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'5.20" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°6'14.61" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°47'48.92" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°44'9.15" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°48'17.01" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|26°0'18.83" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'56.68" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'5.21" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°6'14.58" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°47'48.95" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°44'9.22" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°48'17.07" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|26°0'19.55" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'56.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'5.20" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°6'14.61" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°47'48.92" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°44'9.15" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°48'17.01" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°0'18.83" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'56.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'5.21" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°6'14.58" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°47'48.95" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°44'9.22" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°48'17.07" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°0'19.55" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bandar Luxembourg, Ciudad de Luxemburgo, Ciutat de Luxemburg, Dinas Lwcsembwrg, LUX, Letzebuerg, Letzeburg, Liksanbou, Liuksemburgas, Ljuksemburg, Louxemvourgo, Lucemburk, Lucilinburhuc, Lucsamburg, Lucsemburg, Lueksemburg, Lueksemburq, Luessemburgh, Luksambuur, Luksemboarch, Luksembourg, Luksemburg, Luksemburga, Luksemburgo, Luksemburgu, Luksembùrg, Luksimbur, Lungsod ng Luksemburgo, Lusenburgo, Lussemborgh, Lussemburgo, Lussemburgu, Lussimbork veye, Luxemboerg, Luxemborg, Luxemborj, Luxembourg, Luxembourg by, Luxemburg, Luxemburgo, Luxemburgum, Luxembuurich, Luxembôrg, Luxembörg, Luxenburgo, Lëtzebuerg, Lúksemboarch, Lúxemborg, Lüksemburg, Lüksemburq, Lüssemburgh, Rakapuo, Rakapuō, Stad Letzebuerg, Stad Lëtzebuerg, Stadt Luxemburg, Ville de Luxembourg, lak sem beirk, lakcampark, lakjhembarga, lksmbrg, lu sen bao cheng, lu sen bao shi, lugsembuleukeu, luksemaburga, luksemburgi, lwksmbwrgh, lwkzambwrg, lwqsmbwrg, rukusenburuku, Λουξεμβούργο, Луксембург, Люксембург, Лүксембург, Լյուքսեմբուրգ, לוקסמבורג, لوكسمبورغ, لوکزامبورگ, لوکسەمبورگ, ليۇكسېمبۇرگ شەھىرى, لکسمبرگ, लक्झेंबर्ग, লুক্সেমবুর্গ, லக்சம்பர்க், ลักเซมเบิร์ก, ལུ་སེམ་བའུརག, ლუქსემბურგი, ሉክሰምበርግ, ルクセンブルク, 盧森堡城, 盧森堡市, 룩셈부르크

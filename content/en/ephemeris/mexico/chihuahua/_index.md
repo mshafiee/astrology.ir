@@ -16,9 +16,9 @@ toc: false
 ## Geographic coordinates
 TimeZone: -06:00
 \-
-Longitude: -106.0889
-\-
 Latitude: 28.6353
+\-
+Longitude: -106.0889
 \-
 Altitude: 1,437 meters
 
@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|22°56'45.06" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°42'20.74" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Prograde|17°45'28.53" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°17'55.26" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°17'24.69" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°26'27.40" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|10°8'36.71" |Leo|Zubrah|Jupiter|
+|☉ Sun|Prograde|8°17'55.09" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°17'24.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°26'27.15" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|10°5'54.18" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
