@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'54.79" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'15.02" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°47'3.73" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°49'20.02" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°13'32.69" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°15'29.99" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°46'46.70" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°49'54.70" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'15.03" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°47'3.70" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°49'20.06" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°13'32.77" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°15'30.06" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|29°46'48.06" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'54.79" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'15.02" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°47'3.73" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°49'20.02" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°13'32.69" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°15'29.99" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°46'46.70" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°49'54.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'15.03" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°47'3.70" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°49'20.06" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°13'32.77" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°15'30.06" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|29°46'48.06" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포

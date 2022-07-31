@@ -374,7 +374,7 @@ __محاسبه به شیوه __
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
 |**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Rash Khar, Rashkhvan, Rashkhvān, Rashtkhvar, Rashtkhvār, Roshkhvar, Roshkhvār, Roshtehkhvar, Roshtehkhvār, Roshtkhar, Roshtkhvar, Roshtkhvār, Roshtkhār, Rushkar, Rūshkār, rshtkhwar, رشتخوار

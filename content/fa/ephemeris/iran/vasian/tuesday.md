@@ -374,7 +374,7 @@ __محاسبه به شیوه __
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
 |**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Cham Bagh-e Veysian, Cham Bāgh-e Veysīān, Vaisiyan, Vaisyan, Vasian, Vasīān, Veseyan, Veseyān, Veysian, Veysiyan, Veysīyān, Veysīān, Voisiyan, cham baghi wisyan, wasyan, wisian, wisyan, وَسيان, وِسِيان, وِيسيان, وِيسيّان, چَم باغِ وِيسيان

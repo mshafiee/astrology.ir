@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'40.31" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'49.61" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°0'27.05" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°11'28.20" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°53'2.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°20'53.90" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|25°56'0.65" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|23°1'40.41" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'49.59" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°0'27.09" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°11'28.16" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°53'2.35" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°20'53.83" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|25°56'0.91" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'40.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'49.61" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°0'27.05" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°11'28.20" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°53'2.42" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°20'53.90" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|25°56'0.65" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°1'40.41" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'49.59" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°0'27.09" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°11'28.16" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°53'2.35" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°20'53.83" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|25°56'0.91" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: MCZ, Macayo, Maceio, Maceió, Masejas, Masejo, Maseyo, Maçayó, ma sai yue, ma se xo, masayw, mase'i'o, maseio, masyyw, msyyʼw, Масейо, Масејо, מסייאו, ماسئیو, ماسايو, মাসেইও, มาเซโอ, მასეიო, マセイオ, 马塞约, 마세이오

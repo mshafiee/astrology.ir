@@ -374,7 +374,7 @@ __محاسبه به شیوه __
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
 |**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Dasht-e Azadegan, Dasht-e Āzādegān, Dasht-i-Mishan, Dasht-i-Mishān, Dashte' Mishan, Dashte’ Mishan, Khafajiyah, Khafajiyaz, Khafajiyeh, Susangerd, Susangird, Susangurd, Sūsangerd, Sūsangird, Sūsangurd, swsngrd, سوسنگرد

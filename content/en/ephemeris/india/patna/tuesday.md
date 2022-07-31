@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'25.77" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'20.97" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°42'26.62" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°42'27.70" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°4'48.45" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°2'55.89" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°19'4.44" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'25.67" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'20.99" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°42'26.58" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°42'27.74" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°4'48.53" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°2'55.95" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|28°19'5.76" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'25.77" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'20.97" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°42'26.62" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°42'27.70" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°4'48.45" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°2'55.89" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°19'4.44" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'25.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'20.99" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°42'26.58" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°42'27.74" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°4'48.53" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°2'55.95" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|28°19'5.76" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: 'Azimabad, New Patna, PAT, Patna, Patna New City, Patnao, ba te na, batna, pat na, patana, pateuna, patna, patona, ptnh, ʿAẓīmābād, Πάτνα, Патна, Պատնա, פטנה, باتنا, پتنه, پٹنہ, پټنا, पटना, पाटणा, पाट्ना, পাটনা, ਪਟਨਾ, પટના, ପାଟଣା, பட்னா, பாட்னா, పాట్నా, ಪಟ್ನಾ, പട്ന, ปัฏนา, პატნა, パトナ, パトナー, 巴特那, 파트나

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'32.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'40.39" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°18'28.60" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°6'14.33" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°7'33.74" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°20'42.42" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|0°12'56.99" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°39'32.40" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'40.41" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°18'28.57" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°6'14.36" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°7'33.82" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°20'42.48" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|0°12'57.47" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'32.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'40.39" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°18'28.60" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°6'14.33" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°7'33.74" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°20'42.42" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|0°12'56.99" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°39'32.40" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'40.41" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°18'28.57" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°6'14.36" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°7'33.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°20'42.48" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|0°12'57.47" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: AUS, Austin, Austino, Austinopolis, Aŭstino, Montopolis, Oscin, Ostin, Ostina, Ostinas, Ostins, Waterloo, ao si ting, asatina, astin, astina, astyn  tgzas, awstn, ke shi dian, oseutin, ostina, ostʼini, osutin, xxstin, Ώστιν, Остин, Остін, Осцін, Օստին, אוסטין, אסטין, آستین، تگزاس, آسٹن, آسٹن، ٹیکساس, أوستن, अस्टिन, अस्तिन, आस्टिन्, ऑस्टिन, অস্টিন, ਆਸਟਿਨ, ஆஸ்டின், ഓസ്റ്റിൻ, ออสติน, ოსტინი, ኦስቲን፣ ቴክሳስ, ᎠᏍᏘᏂ, オースティン, 奧斯汀, 柯士甸, 오스틴

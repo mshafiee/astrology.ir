@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'41.54" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'23.98" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°40'4.70" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°38'56.58" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°0'20.17" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°56'29.39" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|27°33'32.77" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'41.63" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'23.97" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°40'4.73" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°38'56.53" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°0'20.09" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°56'29.33" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|27°33'31.46" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'41.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'23.98" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°40'4.70" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°38'56.58" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°0'20.17" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°56'29.39" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°33'32.77" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'41.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'23.97" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°40'4.73" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°38'56.53" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°0'20.09" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°56'29.33" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°33'31.46" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시

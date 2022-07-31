@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'20.00" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'11.77" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°2'49.63" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°42'41.82" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°37'37.89" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°39'13.04" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°53'4.22" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'20.09" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'11.75" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°2'49.65" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°42'41.78" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°37'37.82" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°39'12.98" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|24°53'3.43" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'20.00" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'11.77" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°2'49.63" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°42'41.82" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°37'37.89" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°39'13.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°53'4.22" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'20.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'11.75" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°2'49.65" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°42'41.78" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°37'37.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°39'12.98" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°53'3.43" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: KHD, Khorramabad, Khorramābād, Khur Ramabad, Khur Ramābād, Khurramobod, khrm abad, Хуррамобод, خرم آباد

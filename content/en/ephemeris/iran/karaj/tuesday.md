@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:12:21 |
 | Sunset | 20:09:35 |
 | Maghrib | 20:15:12 |
-| Isha | 21:46:51 |
+| Isha | 21:46:50 |
 | Sharia Midnight | 00:17:26 |
 | Imum Coeli | 01:12:19 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'4.45" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'16.93" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'36.61" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'10.38" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°10'47.97" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°11'33.18" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°18'42.48" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'4.55" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'16.92" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°45'36.65" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°47'10.33" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°10'47.89" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°11'33.12" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|29°18'41.14" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'4.45" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'16.93" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'36.61" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'10.38" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°10'47.97" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°11'33.18" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°18'42.48" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'4.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'16.92" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°45'36.65" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°47'10.33" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°10'47.89" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°11'33.12" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|29°18'41.14" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Heredi, Karadj, Karadje, Karadsch, Karadz, Karadzs, Karadż, Karadž, Karag, Karaj, Karatz, Karaĝ, Karej, Kerec, Keredi, Keredzas, Keredzh, Keredžas, Kerezh, Kərəc, Leredi, PYK, QKC, Qasabeh-e Karaj, Qaşabeh-e Karaj, ka la ji, kairaija, kalaji, karaj, karaji, kha rac, krj, kyaraji, qasabihi karaj, Καράτζ, Карай, Караџ, Караҷ, Кередж, Кереж, כאראג, قَصَبِهِ كَرَج, كرج, کرج, کەرەج, कैरैज, கராஜ், คาราจ, ქარაჯი, キャラジ, 卡拉季, 카라지

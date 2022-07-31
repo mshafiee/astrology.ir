@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'57.15" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'15.56" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°46'43.83" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°48'49.45" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°12'54.66" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°14'35.52" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°35'16.14" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°49'57.05" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'15.58" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°46'43.79" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°48'49.49" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°12'54.74" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°14'35.58" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|29°35'17.50" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'57.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'15.56" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°46'43.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°48'49.45" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°12'54.66" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°14'35.52" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°35'16.14" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°49'57.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'15.58" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°46'43.79" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°48'49.49" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°12'54.74" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°14'35.58" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|29°35'17.50" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Chijv, Civ, Cív, IEV, Kaenugardur, Keju, Kiebo, Kief, Kieu, Kiev, Kiev osh, Kievi, Kievo, Kiew, Kiiev, Kiiv, Kijev, Kijeva, Kijevas, Kijew, Kijow, Kijuw, Kijv, Kijów, Kijůw, Kiova, Kiovia, Kiyev, Kiyiw, Kiëf, Kjiv, Kueyiv, Kyev, Kyiiv, Kyiv, Kyiw, Kyjev, Kyjiv, Kyjiw, Kyèv, Kænugarður, Kíev, Kîev, Küyiv, ji fu, kheiyf, kiefu, kiv, kiva, kiyebha, kiyepeu, kyf, kyiva, kyyf, qyyb, Κίεβο, Кейӳ, Киев, Киев ош, Київ, Кијев, Кыив, Кыйив, Кіеў, Кꙑѥвъ, Կիև, קייב, קיעוו, كىيېۋ, كييف, کیف, کیێڤ, کی‌یف, कीव, क्यीव, কিয়েভ, கீவ், കീവ്, เคียฟ, ཀིབ།, ကီးယက်မြို့, კიევი, ኪየቭ, キエフ, 基輔, 키예프

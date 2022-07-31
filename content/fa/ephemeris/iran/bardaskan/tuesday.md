@@ -374,7 +374,7 @@ __محاسبه به شیوه __
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
 |**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Badar Askan, Badar Askān, Badr Eshkand, Bardaskan, Bardaskand, Bardeshkand, Bardeskan, Bardāskan, Bardāskand, Berdesken, Budraskan, Būdraskān, Bərdəskən, ba er da si kan, baradaskana, brdaskn, brdskn, Бардаскан, Բարդասքան, برداسکن, بردسکن, بردسکن, বারদাস্কান, 巴爾達斯坎

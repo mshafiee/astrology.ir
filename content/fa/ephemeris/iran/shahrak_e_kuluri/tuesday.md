@@ -374,7 +374,7 @@ __محاسبه به شیوه __
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
 |**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Boneh Hoseinkalooli, Boneh Hoseyn Koluli, Boneh Ḩoseyn Kolūlī, Boneh-ye Hoseyn Kaluli, Boneh-ye Ḩoseyn Kalūlī, Shahrak-e Kaluli, Shahrak-e Kalūlī, Shahrak-e Kuluri, Shahrak-e Kūlūrī, bnh hsyn klwly, shhrk klwly, shhrk kwlwry, بنه حسين کلولی, شهرک کلولی, شهرک کولوری

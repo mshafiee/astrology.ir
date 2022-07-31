@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'27.55" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'30.44" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°52'59.18" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°27'54.76" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°18'50.19" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°13'1.19" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|21°33'16.34" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'27.45" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'30.46" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°52'59.15" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°27'54.79" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°18'50.26" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°13'1.25" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|21°33'17.30" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'27.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'30.44" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°52'59.18" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°27'54.76" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°18'50.19" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°13'1.19" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|21°33'16.34" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'27.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'30.46" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°52'59.15" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°27'54.79" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°18'50.26" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°13'1.25" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|21°33'17.30" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Saitama, saitama, Саитама, さいたま

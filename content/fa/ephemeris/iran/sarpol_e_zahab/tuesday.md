@@ -374,7 +374,7 @@ __محاسبه به شیوه __
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
 |**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Pol-e Zahab, Pol-e Zohab, Pol-e Z̄ahāb, Pol-e Z̄ohāb, Sar-e Pol-e Zahab, Sar-e Pol-e Z̄ahāb, Sar-i-Pul Zuhab, Sar-ī-Pūl Zūhāb, Sari-Pul, Sarpol, Sarpol-e Zahab, Sarpol-e Z̄ahāb, Sarī-Pūl, sr pl dhhab, سر پل ذهاب

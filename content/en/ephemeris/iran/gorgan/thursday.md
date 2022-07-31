@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'25.74" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'13.40" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°1'59.59" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°41'26.46" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°36'2.22" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°36'59.96" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°35'40.20" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'25.84" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'13.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°1'59.62" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°41'26.43" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°36'2.14" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°36'59.90" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|24°35'39.39" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'25.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'13.40" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°1'59.59" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°41'26.46" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°36'2.22" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°36'59.96" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°35'40.20" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'25.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'13.39" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°1'59.62" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°41'26.43" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°36'2.14" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°36'59.90" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°35'39.39" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Asterabad, Asterābād, GBT, Gorgan, Gorgān, Gurgan, Gurgon, Gūrgān, Hirkanio, aastir abad, grgan, gwrgan, Горган, Гургон, اَستِر آباد, گرگان, گورگان

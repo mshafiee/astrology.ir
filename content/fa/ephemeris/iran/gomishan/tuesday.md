@@ -374,7 +374,7 @@ __محاسبه به شیوه __
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
 |**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Gish Dafeh, Gomesh Tappeh, Gomish Tappeh, Gomish Tappeh Jik, Gomishan, Gomīsh Tappeh, Gomīsh Tappeh Jīk, Gomīshān, Gumish Tepe, Gumshan, Gumshān, Gīsh Dafeh, gmysh tph, gmyshan, گميش تپه, گميشان

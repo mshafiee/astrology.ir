@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'27.14" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'13.83" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°1'49.33" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°41'10.01" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°35'42.10" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°36'32.15" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°29'46.17" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'27.04" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'13.85" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°1'49.30" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°41'10.04" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°35'42.18" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°36'32.21" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|24°29'46.97" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'27.14" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'13.83" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°1'49.33" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°41'10.01" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°35'42.10" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°36'32.15" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°29'46.17" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'27.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'13.85" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°1'49.30" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°41'10.04" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°35'42.18" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°36'32.21" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°29'46.97" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ISaratov, RTW, Saratau, Saratof, Saratov, Saratov osh, Saratova, Saratovas, Saratovia, Saratovu, Saratow, Saratu, Saratuovs, Saratów, Saretow, Sarytau, Saràtov, Sarátov, Szaratov, sa la tuo fu, salatopeu, saratofu, saratova, saratwf, srʼtwb, Σαράτοφ, Сарăту, Саратаў, Саратов, Саратов балһсн, Саратов ош, Саратовъ, Сарытау, Һарытау, Սարատով, סראטוב, ساراتوف, ساراٹوف, सारातोव, სარატოვი, サラトフ, 薩拉托夫, 사라토프

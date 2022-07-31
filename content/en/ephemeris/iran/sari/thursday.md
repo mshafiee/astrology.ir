@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'24.63" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'13.09" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°2'9.28" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°41'41.04" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°36'20.74" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°37'25.73" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°38'58.80" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'24.73" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'13.07" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°2'9.31" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°41'41.00" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°36'20.66" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°37'25.67" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|24°38'58.00" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'24.63" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'13.09" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°2'9.28" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°41'41.04" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°36'20.74" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°37'25.73" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°38'58.80" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'24.73" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'13.07" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°2'9.31" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°41'41.00" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°36'20.66" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°37'25.67" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°38'58.00" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: SRY, Sari, Sari i Iran, Saris, Sariyo, Sarí, Sarî, Shahr-i-Tajan, Shari-i-Tajan, Sori, Szari, Szári, Sárí, Sārī, sa li shi, sali, sari, sary, sary  ayran, Σάρι, Сари, Сарі, Сорӣ, Սարի, سارى, ساري, ساری, ساری، ایران, सारी, სარი, サーリー, 薩里市, 사리

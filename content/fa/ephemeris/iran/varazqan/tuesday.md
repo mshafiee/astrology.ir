@@ -374,7 +374,7 @@ __محاسبه به شیوه __
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
 |**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Varazqan, Varazqān, Varezqan, Varezqān, Varzagan, Varzaghan Dezmar, Varzagān, Varzaqan, Varzaqān, Verazgan, Verazqan, Verazqān, warzagan, warzaghan dizmar, wirazgan, wrzqan, ورزقان, وَرزَغَن دِزمَر, وَرزَگان, وِرَزگَن

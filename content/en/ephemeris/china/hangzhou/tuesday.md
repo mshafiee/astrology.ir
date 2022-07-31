@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'52.35" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'26.02" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°38'28.27" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°36'32.87" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°57'17.76" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°52'6.47" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|27°1'14.36" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'52.45" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'26.01" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°38'28.31" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°36'32.83" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°57'17.68" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°52'6.41" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|27°1'13.08" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'52.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'26.02" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°38'28.27" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°36'32.87" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°57'17.76" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°52'6.47" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°1'14.36" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'52.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'26.01" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°38'28.31" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°36'32.83" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°57'17.68" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°52'6.41" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°1'13.08" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Chan'nktsoou, Chang-cou, Chang-čou, HGH, Hancheum, Hanchow-fu, Hanczou, Handzou, Handžou, Hang, Hang Chau, Hang-chiu-chhi, Hang-chou, Hang-chou-shih, Hang-hsien, Hangchow, Hangcsou, Hangdzou, Hangdžou, Hanggouo, Hangtsjou, Hangzcouh, Hangzhou, Hangzhou Shi, Hangĝoŭo, Hančžou, Hong-chu-su, Hong-ciu, Hàng Châu, Hâng-chiu-chhī, Hòng-chû-sṳ, Hòng-ciŭ, Khanchzhou, Khandzhou, Khangdzou, Khanzhou, Xanchjou, hang cow, hang zhou, hang zhou shi, hangacau, hangajho'u, hanghtshw, hangjeou, hangjeou si, hangju, hangzhw, hanjha, hannaco, hʼnggwʼw, kancu, Χανγκτσόου, Хангџоу, Ханджоу, Ханжоу, Ханчжоу, האנגגואו, خاڭجۇ شەھىر, هانغتشو, هانگژو, ہانگژو, हांगचौ, हांगझोऊ, ਹਾਂਙਚੋ, காங்சூ, ഹാങ്ഝൗ, หางโจว, ཧང་ཀྲོའུ།, 杭州, 杭州市, 항저우, 항저우 시, 항주

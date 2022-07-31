@@ -374,7 +374,7 @@ __محاسبه به شیوه __
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
 |**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Sedeyyen-e Bala, Sedeyyen-e Bālā, Sedeyyen-e Yek, Sedin-e Yek, Sedīn-e Yek, Seyyedin-e Bala, Seyyedin-e Yek, Seyyedīn-e Bālā, Seyyedīn-e Yek, S̄edīn-e Yek, Tadayyon-e Yek, sdyn yk, tdyn yk, thdyn yk, تدین یک, ثدین یک, سدین یک

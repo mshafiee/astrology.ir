@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'32.12" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'31.81" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°52'19.45" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°26'54.13" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°17'33.95" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°11'14.71" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|21°17'10.20" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'32.02" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'31.82" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°52'19.42" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°26'54.17" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°17'34.03" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°11'14.77" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|21°17'11.17" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'32.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'31.81" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°52'19.45" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°26'54.13" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°17'33.95" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°11'14.71" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|21°17'10.20" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'32.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'31.82" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°52'19.42" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°26'54.17" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°17'34.03" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°11'14.77" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|21°17'11.17" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아

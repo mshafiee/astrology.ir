@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'32.36" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'32.04" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°52'18.95" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°26'51.65" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°17'32.31" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°11'12.60" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|21°11'58.98" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'32.26" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'32.06" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°52'18.92" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°26'51.69" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°17'32.38" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°11'12.66" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|21°11'59.96" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'32.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'32.04" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°52'18.95" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°26'51.65" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°17'32.31" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°11'12.60" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|21°11'58.98" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'32.26" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'32.06" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°52'18.92" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°26'51.69" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°17'32.38" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°11'12.66" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|21°11'59.96" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Hie-ling-dong, Hiê-lìng-dóng, Ouellin'nkton, Ouellinkton, Te Whanga-nui-a-Tara, Ueligitone, Uelingtun, Velingtan, Velington, Velingtona, Velingtonas, Velingtono, Vellington, Vellingtonia, Vellinqton, WLG, Welinton, Welintòn, Wellington, Wellinton, Weolingtun, Weolingtūn, Whanga-nui-a-Tara, hui ling dun, oyelintana, raelintana, uelingtʼoni, u~erinton, vailigatana, velingatana, velingtana, velingtoni, velintan, vellingtan, wei ling dun, wellingtan, wellingteon, wlyngtwn, wylynghtwn, wylynjtwn, Ουέλλιγκτον, Ουέλλινγκτον, Велингтон, Веллингтон, Веллінгтон, Велінгтан, Уелингтън, Վելինգտոն, ולינגטון, װעלינגטאן, ولینگتون, ويلينجتون, ويلينغتون, ویلنگٹن, ۋېللىنگتون, वेलिंगटन, वेलिंग्टन, वेलिङ्गटन, ওয়েলিংটন, ৱেলিংটন, ਵੈਲਿੰਗਟਨ, વેલિંગ્ટન, வெலிங்டன், ವೆಲ್ಲಿಂಗ್ಟನ್, വെല്ലിംഗ്ടൺ, เวลลิงตัน, ཝེ་ལིང་ཐོན།, ဝယ်လင်တန်မြို့, ველინგთონი, უელინგტონი, ዌሊንግተን, ウェリントン, 威靈頓, 惠灵顿, 웰링턴

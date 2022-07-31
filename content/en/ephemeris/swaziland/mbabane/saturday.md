@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'23.23" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'52.56" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|16°53'53.00" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°1'47.19" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°40'45.72" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°2'26.29" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|23°44'48.83" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|23°2'23.14" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'52.58" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|16°53'52.96" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°1'47.24" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°40'45.80" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°2'26.36" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|23°44'48.49" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°2'23.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'52.56" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|16°53'53.00" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°1'47.19" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°40'45.72" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°2'26.29" |Leo|Zubrah|Mars|
-|☾ Moon|Prograde|23°44'48.83" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°2'23.14" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'52.58" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|16°53'52.96" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°1'47.24" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°40'45.80" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°2'26.36" |Leo|Zubrah|Mars|
+|☾ Moon|Prograde|23°44'48.49" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Embabane, Mabane, Mbaban, Mbabane, Mbabaneh, Mbabano, Mbabanė, Mbabàn, Mpampane, QMN, ababane, ambabane, ambabany, eumbabane, impapan, mbaban, mbabane, mbabanh, mbabyn, mbbnh, mo ba ben, mubabane, xam ba bane, Μπαμπάνε, Мбабане, Мбабанэ, Մբաբանե, מבאבאנע, מבבנה, امبابانی, مبابان, مبابانه, مبابانێ, مبابین, अंबाबाने, ਅੰਬਾਬਾਨੇ, இம்பபான், อัมบาบาเน, མ་པ་པན།, მბაბანე, ምባባኔ, ムババーネ, 墨巴本, 음바바네

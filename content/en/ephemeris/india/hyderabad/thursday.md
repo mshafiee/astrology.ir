@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'37.30" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'16.57" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°0'18.56" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°38'55.09" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°32'49.28" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°32'31.36" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°2'48.97" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'37.21" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'16.58" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°0'18.53" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°38'55.13" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°32'49.36" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°32'31.42" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|24°2'49.80" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'37.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'16.57" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°0'18.56" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°38'55.09" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°32'49.28" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°32'31.36" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°2'48.97" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'37.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'16.58" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°0'18.53" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°38'55.13" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°32'49.36" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°32'31.42" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°2'49.80" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bhaganagar, HYD, Haidarabadas, Haiderabad, Hajdarabad, Hajdarábád, Hyderabad, Hyderabad-Deccan, Hyderābād, Khajdarabad, Khajderabad, hai de la ba, haidarabada, haidarabadu, haiderabado, haitarapat, hayadarabada ema. karporesana, hayadrabada, hydr abad, hydr abad dkn, hydrabad, Хайдарабад, Хајдерабад, حیدر آباد, حیدر آباد دکن, حیدرآباد, हैदराबाद, হায়দরাবাদ এম. কর্পোরেশন, হায়দ্রাবাদ, ஹைதராபாத், హైదరాబాదు, ハイデラバード, 海得拉巴

@@ -374,7 +374,7 @@ __محاسبه به شیوه __
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
 |**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Ghal`eh Ganj, Ghal‘eh Ganj, Kalat-i-Ganj, Kalateh-ye Ganj, Kalāt-i-Ganj, Kalāteh-ye Ganj, Mohammadabad, Moḩammadābād, Qal`eh Ganj, Qal`eh-ye Ganj, Qal‘eh Ganj, Qal‘eh-ye Ganj, قلعه گنج

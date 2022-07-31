@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'18.68" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'28.07" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°54'16.01" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°29'50.16" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°21'16.95" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°16'26.10" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|21°59'7.07" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'18.78" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'28.06" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°54'16.04" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°29'50.12" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°21'16.87" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°16'26.04" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|21°59'6.13" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'18.68" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'28.07" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°54'16.01" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°29'50.16" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°21'16.95" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°16'26.10" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|21°59'7.07" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'18.78" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'28.06" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°54'16.04" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°29'50.12" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°21'16.87" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°16'26.04" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|21°59'6.13" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시

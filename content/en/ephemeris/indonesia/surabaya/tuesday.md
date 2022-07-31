@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'37.51" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'23.25" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°40'41.72" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°39'51.16" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°1'29.87" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°58'9.89" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|27°43'6.72" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'37.41" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'23.27" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°40'41.69" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°39'51.21" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°1'29.95" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°58'9.96" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|27°43'8.03" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'37.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'23.25" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°40'41.72" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°39'51.16" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°1'29.87" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°58'9.89" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°43'6.72" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'37.41" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'23.27" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°40'41.69" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°39'51.21" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°1'29.95" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°58'9.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°43'8.03" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Kota Surabaya, Kutha Surabaya, SUB, Soerabaja, Soerabaya, Sourabaya, Sourampagia, Surabaia, Surabaja, Surabajo, Surabaya, si shui, sulabaya, sura ba ya, surabaia, surabaya, swrabaya, swrbyh, Σουραμπάγια, Сурабайа, Сурабая, Сурабаја, סורביה, سورابايا, سورابایا, สุราบายา, სურაბაია, スラバヤ, 泗水, 수라바야

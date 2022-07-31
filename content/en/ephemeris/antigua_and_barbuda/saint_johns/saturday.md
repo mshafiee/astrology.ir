@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'28.35" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'48.68" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°2'17.01" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°14'10.64" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|14°56'28.17" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°26'2.69" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|26°34'44.17" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|23°1'28.45" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'48.67" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°2'17.04" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°14'10.60" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|14°56'28.09" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°26'2.63" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|26°34'44.41" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°1'28.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'48.68" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°2'17.01" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°14'10.64" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|14°56'28.17" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°26'2.69" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°34'44.17" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|23°1'28.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'48.67" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°2'17.04" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°14'10.60" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|14°56'28.09" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°26'2.63" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°34'44.41" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Saint John, Saint John's, Saint John’s, Sent Dzonsas, Sent Džonsas, Sent Tzons, Sent-Dzhons, St John's, St Johns, St. John's, St.John.s, seinteujonseu, sentojonzu, sheng yue han, sheng yue han shi, snt g'wns, Σεντ Τζονς, Сент-Джонс, סנט ג'ונס, ሴንት ጆንስ፥ አንቲጋ እና ባርቡዳ, セントジョンズ, 圣约翰, 圣约翰市, 세인트존스
