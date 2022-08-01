@@ -1,16 +1,16 @@
 ---
 date: 2018-03-29T09:00:00+06:00
 lastmod: 2020-08-10T22:00:00+06:00
-title: تقویم نجومی
-linkTitle: تقویم نجومی
+title: گاهشمار اختری
+linkTitle: گاهشمار اختری
 menu:
   main:
   sidebar:
-slug: تقویم-نجومی
+slug: گاهشمار-اختری
 categories:
-  - تقویم نجومی
+  - گاهشمار اختری
 tags:
-  - تقویم نجومی
+  - گاهشمار اختری
 weight: -200
 toc: false
 ---
