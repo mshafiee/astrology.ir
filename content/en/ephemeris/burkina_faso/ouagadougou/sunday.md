@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°57'54.93" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'28.97" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°34'52.26" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°2'14.59" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°57'30.09" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°57'1.86" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|6°46'51.94" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°57'55.03" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'28.95" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°34'52.30" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°2'14.54" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°57'30.01" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°57'1.79" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|6°46'51.67" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°57'54.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'28.97" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°34'52.26" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°2'14.59" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°57'30.09" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°57'1.86" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|6°46'51.94" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°57'55.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'28.95" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°34'52.30" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°2'14.54" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°57'30.01" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°57'1.79" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|6°46'51.67" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구

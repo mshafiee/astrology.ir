@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°52'55.70" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'47.62" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°20'1.40" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°9'7.66" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°22'27.32" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°1'39.97" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|21°6'51.42" |Leo|Zubrah|Mars|
+|♄ Saturn|Retrograde|22°52'55.80" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'47.60" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°20'1.44" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°9'7.61" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°22'27.24" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°1'39.90" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|21°6'50.37" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°52'55.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'47.62" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°20'1.40" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°9'7.66" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°22'27.32" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°1'39.97" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|21°6'51.42" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°52'55.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'47.60" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°20'1.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°9'7.61" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°22'27.24" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°1'39.90" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|21°6'50.37" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Kin'nkstaoun, Kingstaun, Kingstauna, Kingstaunas, Kingstauno, Kingstaŭno, Kingstown, Kinqstaun, SVD, jin si dui, khing s thawn, kigasata'una, kincutavun, kingsata'una, kingseutaun, kingusutaun, kynghstawn, kyngztawn, Κίνγκσταουν, Κινγκστάουν, Кингстаун, Киҥстаун, Кінгстаун, Кінгстаўн, קינגסטאון, كينغستاون, کنگز ٹاؤن, کینگزتاون, किंग्सटाउन, ਕਿੰਗਸਟਾਊਨ, கிங்சுடவுன், คิงส์ทาวน์, ཁིན་སི་ཐོན།, კინგსტაუნი, ኪንግስታውን, キングスタウン, 金斯敦, 킹스타운

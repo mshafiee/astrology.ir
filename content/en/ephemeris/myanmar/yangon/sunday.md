@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'5.40" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'36.39" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°24'8.83" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°46'24.41" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°37'23.49" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°27'11.11" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|3°24'39.09" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°59'5.50" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'36.37" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°24'8.87" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°46'24.37" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°37'23.41" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°27'11.04" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|3°24'39.00" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'5.40" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'36.39" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°24'8.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°46'24.41" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°37'23.49" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°27'11.11" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|3°24'39.09" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°59'5.50" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'36.37" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°24'8.87" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°46'24.37" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°37'23.41" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°27'11.04" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|3°24'39.00" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Dagon, Gian'nkon, Jangon, Jangon khot, Jangona, Jangono, Jangun, Jangún, Ngiong-kong, Ngióng-kông, RGN, Rangon, Rangoon, Rangoun, Rangum, Rangun, Rangunas, Rangún, Rangūnas, Yangjgvangh, Yangon, Yangôn, Yanqon, iangoni, iyanguna, raguna, ranguna, rngwn, yang guang, yang-gon, yanghwn, yangkung, yangon, yanguna, yangwn, yankon, Ýangon, Γιανγκόν, Јангон, Рангун, Янгон, Янгон хот, Յանգոն, יאנגון, رنگون, يانغون, یانگون, यांगून, रङ्गुन, रङ्गून, ইয়াংগুন, ਰੰਗੂਨ, யங்கோன், యాంగోన్, യംഗോൺ, ย่างกุ้ง, ཡང་ཀོང་།, ရန်ကုန်မြို့, იანგონი, ያንጎን, យ៉ាំងហ្គូន, ヤンゴン, 仰光, 양곤

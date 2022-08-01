@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'15.51" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'31.31" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°31'45.85" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°57'38.24" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°51'40.03" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°48'23.39" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|5°40'47.49" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'15.61" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'31.30" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°31'45.89" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°57'38.19" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°51'39.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°48'23.33" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|5°40'47.27" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'15.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'31.31" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°31'45.85" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°57'38.24" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°51'40.03" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°48'23.39" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|5°40'47.49" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'15.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'31.30" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°31'45.89" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°57'38.19" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°51'39.95" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°48'23.33" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|5°40'47.27" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Agios Marinos, Altepetl San Marino, Cathair San Mairine, Cathair San Mairíne, Ceety o San Marino, Cidade de San Marino, Cita e San Marino, Citad da San Marino, Citta di San Marino, Città di San Marino, City of San Marino, Cità e San Marino, Ciuda de San Marino, Ciudad de San Marino, Ciudá de San Marino, Ciutat de San Marino, Civitas Sancti Marini, Dinas San Marino, Ilu San Marino, Ker San Marino, Kêr San Marino, Orasul San Marino, Orașul San Marino, SAI, Saint-Marin, San Marinas, San Marino, San Marino Citta, San Marino Città, San Marino by, San Marino i San Marino, San Marino sehri, San Marino şehri, San Marins, San Maríno, San Marínó, San-Marino, San-Maryna, Sanmarino, Sanmarīno, Sant Marin, Sao Marino, Sen Maren, Sita de San Marin, Sita ed San Marin, Sità de San Marin, Sità ëd San Marin, Stadt San Marino, São Marino, Thanh pho San Marino, Thành phố San Marino, Ville de Saint-Marin, ceyint marino nakaram, san ma ri no, san marynw almdynt, san-marino, sanmalino, sanmarino, sanmarino shi, sheng ma li nuo, sheng ma lian nu cheng, sn marynw, sn mrynw, Ìlú San Màrínò, Άγιος Μαρίνος, Сан Марино, Сан-Марино, Сан-Марына, Սան Մարինո, סן מרינו, سان مارينو المدينة, سان مارینو شہر, سان مارینۆ, سان مرینو شہر, سن مارینو, செயின்ட் மரினோ நகரம், ซานมารีโน, སན་མ་རི་ནོ།, სან-მარინო, ሳን ማሪኖ, サンマリノ, サンマリノ市, 聖馬力諾, 聖馬連奴城, 산마리노

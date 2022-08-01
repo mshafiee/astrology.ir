@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°56'55.47" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'22.45" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°43'57.22" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°15'36.04" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°14'31.62" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°22'12.55" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|9°8'1.35" |Leo|Zubrah|Saturn|
+|♄ Saturn|Retrograde|22°56'55.56" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'22.44" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°43'57.26" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°15'35.99" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°14'31.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°22'12.48" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|9°8'0.90" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°56'55.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'22.45" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°43'57.22" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°15'36.04" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°14'31.62" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°22'12.55" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|9°8'1.35" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°56'55.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'22.44" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°43'57.26" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°15'35.99" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°14'31.54" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°22'12.48" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|9°8'0.90" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: PSY, Port Stanley, Port Stenli, Port Stenlis, Port-Stehnli, Port-Stenli, Porto Arxentino/Stanley, Puerto Archentinas/Stenlis, Puerto Argentino, Stanlef, Stanlejo, Stanley, Stanley Harbour, Stehnli, Stenli, Stenlis, astnly  jzayr falklnd, asٹynlے  jzayr faklynڈ, icutanli, porta stenli, seutaenli, si tan li, si tan li gang, stanly, stnly, sutanre, sutanri, Στάνλεϋ, Порт Стенли, Порт-Стенлі, Порт-Стэнли, Стенли, Стэнлі, Պորտ Սթենլի, סטאנלי, סטנלי, استنلی، جزایر فالکلند, اسٹینلے، جزائر فاکلینڈ, ستانلي, سٹینلے, पोर्ट स्टॅन्ली, இசுடான்லி, സ്റ്റാൻലി, สแตนลีย์, スタンリー, スタンレー, 斯坦利, 斯坦利港, 스탠리

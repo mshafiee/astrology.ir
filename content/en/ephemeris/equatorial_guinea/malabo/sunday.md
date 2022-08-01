@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'0.29" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'29.55" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°34'4.34" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°1'3.58" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°55'59.99" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°54'48.46" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|6°30'57.64" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'0.19" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'29.57" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°34'4.31" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°1'3.63" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°56'0.07" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°54'48.53" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|6°30'57.90" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'0.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'29.55" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°34'4.34" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°1'3.58" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°55'59.99" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°54'48.46" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|6°30'57.64" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'0.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'29.57" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°34'4.31" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°1'3.63" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°56'0.07" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°54'48.53" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|6°30'57.90" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Ciudad de Malabo, Malaba, Malabas, Malabo, Malabó, Malampo, Port Clarence, Rev Malebo, SSG, Santa Isabel, ma la bo, mala bo, malabo, malabw, malapo, mallabo, marabo, mlabw, Μαλάμπο, Малаба, Малабо, Մալաբո, מלאבו, مالابو, مالابۆ, ملابو, मलाबो, ਮਲਾਬੋ, மலாபோ, มาลาโบ, མ་ལ་བོ།, მალაბო, ማላቦ, マラボ, 馬拉博, 말라보

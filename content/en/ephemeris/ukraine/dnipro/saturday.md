@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'29.54" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'18.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°19'26.34" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°38'21.38" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°4'44.26" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°0'24.75" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°35'13.46" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°32'29.63" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'18.94" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°19'26.36" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°38'21.35" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°4'44.19" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°0'24.69" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|21°35'13.89" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'29.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'18.96" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°19'26.34" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°38'21.38" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°4'44.26" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°0'24.75" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°35'13.46" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°32'29.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'18.94" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°19'26.36" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°38'21.35" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°4'44.19" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°0'24.69" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|21°35'13.89" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: DNK, Dnepr, Dnepropetrovsk, Dniepr, Dniepropetrovskas, Dnipro, Dnipropetrovs'k, Dnipropetrovsk, Dnipropetrovsko, Dnipropetrowsk, Dniproslav, Dnipró, Dnjepropetrovsk, Dnjipropetrovsk, Dnyipro, Dněpropetrovsk, Dņipro, Ekaterinoslav, Katerinoslav, Katerynoslav, Novij Kodak, Novorosiynsk, Novyy Kodak, Ntnipro, Sicheslav, Sichoslav, d ni por pet rxfskh, deunipeulopeteulousikeu, dnepropetrovska, dnepʼri, dnybrw, dnyprwptrwbsq, dnyprwptrwfsk, dnyprwptrwwsk, dnyprʼ, donipuropetoroushiku, nie bo cheng, Ντνίπρο, Днепр, Днепропетровск, Днипро, Дніпро, Дніпропетровськ, Дніпрослав, Днїпро, Дњипро, Екатеринослав, Катеринослав, Новий Кодак, Січослав, Դնեպր, דניפרא, דניפרופטרובסק, دنيبرو, دنیپروپتروفسک, دنیپروپترووسک, द्नेप्रोपेत्रोव्स्क, ดนีโปรเปตรอฟสค์, დნეპრი, ドニプロペトロウシク, 聶伯城, 드니프로페트로우시크

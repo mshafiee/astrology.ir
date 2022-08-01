@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'48.17" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°37'48.90" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°42'15.15" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°42'5.35" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°53'9.28" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|1°23'21.66" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|8°25'27.18" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°36'48.27" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°37'48.88" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°42'15.17" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°42'5.31" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°53'9.21" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|1°23'21.61" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|8°25'27.15" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'48.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°37'48.90" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°42'15.15" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°42'5.35" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°53'9.28" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|1°23'21.66" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|8°25'27.18" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°36'48.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°37'48.88" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°42'15.17" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°42'5.31" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°53'9.21" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|1°23'21.61" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|8°25'27.15" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al-Sham, Al-Shām, An Damaisc, Cham, DAM, Damas, Damasc, Damasch, Damasco, Damascu, Damascus, Damasek, Damashq, Damasiko, Damask, Damask, Damaska, Damaskas, Damasko, Damaskos, Damaskosy, Damasku, Damaskus, Damaszek, Damaszkusz, Damašek, Dameski, Dammeseq, Damsyik, Dimaejk, Dimaesq, Dimashk, Dimashk al-Sham, Dimashk al-Shām, Dimashku, Dimashq, Dimeshki esh Sham, Dimishiq, Dimishku, Dimishq, Dimäjk, Dimäşq, Domas, Domás, Dàmáskù, Dəməşq, Esh Sham, Esh Shām, Kamakeko, Ndamako, Ndamáko, Sam, d mshq, da ma shi ge, damasaka, damasakasa, damaseukuseu, damaskas, damaskasa, damasukasu, dameska, damiska, dimisqu, dmshq, dmsq, drmswq, timisku, Şam, Δαμασκός, Дамаск, Дамаскус, Дамаскъ, Димашкъ, Димишкъ, Димишқ, Դամասկոս, דמשק, د مشق, دمشق, دیمەشق, دەمەشىق, ܕܪܡܣܘܩ, ދިމިޝްޤު, दमास्कस, दमिश्क, দামেস্ক, ਦਮਸ਼ਕ, ଡାମାସକସ, திமிஷ்கு, ಡಮಾಸ್ಕಸ್, ദമാസ്കസ്, ดามัสกัส, དྷ་མ་སི་ཁོ་སི།, ဒမားစကပ်မြို့, დამასკი, ደማስቆ, ダマスカス, 大馬士革, 大马士革, 다마스쿠스, 𐌳𐌰𐌼𐌰𐍃𐌺𐍉/Damasko

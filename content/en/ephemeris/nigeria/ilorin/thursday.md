@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'41.20" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'0.67" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°8'28.10" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°51'10.97" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°48'24.96" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°54'11.87" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|26°48'36.68" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'41.29" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'0.66" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°8'28.12" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°51'10.93" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°48'24.89" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°54'11.81" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|26°48'36.01" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'41.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'0.67" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°8'28.10" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°51'10.97" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°48'24.96" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°54'11.87" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°48'36.68" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'41.29" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'0.66" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°8'28.12" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°51'10.93" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°48'24.89" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°54'11.81" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°48'36.01" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: ILR, Illorin, Ilorin, Ilorinas, Iloryn, alwrn, illolin, irorin, yi luo lin, Ілорын, Илорин, אילורין, الورن, イロリン, 伊洛林, 일로린

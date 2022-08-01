@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'37.78" |Taurus|Dabaran|Moon|
-|♃ Jupiter|Prograde|9°15'57.50" |Virgo|Awwa|Sun|
-|♂ Mars|Prograde|12°2'34.74" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|11°25'13.01" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Prograde|27°22'54.43" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|17°58'27.69" |Sagittarius|Baldah|Moon|
-|☾ Moon|Prograde|12°9'48.25" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|11°10'37.72" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Prograde|9°16'1.30" |Virgo|Awwa|Sun|
+|♂ Mars|Prograde|12°2'36.31" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Prograde|11°25'18.03" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Prograde|27°22'59.79" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Prograde|17°58'36.20" |Sagittarius|Baldah|Moon|
+|☾ Moon|Prograde|12°9'58.76" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'37.78" |Gemini|HanAh|Mars|
-|♃ Jupiter|Prograde|9°15'57.50" |Libra|Ghafr|Moon|
-|♂ Mars|Prograde|12°2'34.74" |Aries|Sharatain|Sun|
-|☉ Sun|Prograde|11°25'13.01" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Prograde|27°22'54.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Prograde|17°58'27.69" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|12°9'48.25" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|11°10'37.72" |Gemini|HanAh|Mars|
+|♃ Jupiter|Prograde|9°16'1.30" |Libra|Ghafr|Moon|
+|♂ Mars|Prograde|12°2'36.31" |Aries|Sharatain|Sun|
+|☉ Sun|Prograde|11°25'18.03" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Prograde|27°22'59.79" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Prograde|17°58'36.20" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Prograde|12°9'58.76" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'32.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'22.28" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°41'25.46" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°40'56.82" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°2'52.93" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°0'9.48" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|27°59'44.56" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'32.60" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'22.27" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°41'25.50" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°40'56.77" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°2'52.85" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°0'9.41" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|27°59'43.25" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'32.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'22.28" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°41'25.46" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°40'56.82" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°2'52.93" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°0'9.48" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°59'44.56" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'32.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'22.27" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°41'25.50" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°40'56.77" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°2'52.85" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°0'9.41" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°59'43.25" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MDL, Mandalaj, Mandalaja, Mandalajo, Mandalajus, Mandalay, Mandalay piirkond, Mandale, Mandalej, man de lei, mandalay, mandale, mandallei, mandaly, mandare, mantalai, manth a ley, Мандалай, Мандалеј, ماندالاي, ماندالی, ماندالے, मांडले, माण्डले, மண்டலை, మాండలే, มัณฑะเลย์, မန္တလေးမြို့, マンダレー, 曼德勒, 만달레이

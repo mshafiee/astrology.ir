@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:51:19 |
 | Sunset | 19:34:18 |
 | Maghrib | 19:35:22 |
-| Isha | 20:59:07 |
+| Isha | 20:59:06 |
 | Sharia Midnight | 00:03:39 |
 | Imum Coeli | 00:51:17 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'40.10" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'33.84" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°28'0.41" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°52'6.09" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°44'37.53" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°37'56.25" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|4°35'55.03" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'40.20" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'33.83" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°28'0.45" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°52'6.04" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°44'37.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°37'56.18" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|4°35'54.87" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'40.10" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'33.84" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°28'0.41" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°52'6.09" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°44'37.53" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°37'56.25" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°35'55.03" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'40.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'33.83" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°28'0.45" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°52'6.04" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°44'37.45" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°37'56.18" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°35'54.87" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: BND, Bandar Abas, Bandar Abbas, Bandar Abbas - بندر عباس, Bandar Abbás, Bandar `Abbas, Bandar `Abbasi, Bandar ‘Abbās, Bandar ‘Abbāsī, Bandar-Abbas, Bandar-Abbasz, Bandar-Abbos, Bandar-Abbász, Bandar-e Abbas, Bandar-e `Abbas, Bandar-e ‘Abbās, Bandare Abasas, Bander Abbas, Bantar Ampas, Bendehr-Abas, Bender Abas, Bender Abbas, Bender Ebbas, Bender-Abbas, Bəndər Abbas, Cambarao, Cambarão, Gombroon, Gumrun, Port Comorao, Port Comorão, a ba si gang, ban dar xab bas, bandaleuabaseu, bandara abbasa, bandara-e-abbasa, bender-abasi, bndr ʻbʼs, bndr ʿbas, gumbrun, Μπαντάρ Αμπάς, Бандар-Аббос, Бендер Абас, Бендер-Аббас, Бендэр-Абас, Բանդեր Աբբաս, בנדר עבאס, بندر عباس, بندرعباس, بَندَر عَبّاسی, بَندَرِ عَبّاس, بەندەر عەباس, گُمبرُّن, बंदर-ए-अब्बास, বন্দর আব্বাস, บันดาร์อับบาส, ბენდერ-აბასი, バンダレ・アッバース, 阿巴斯港, 반다르아바스

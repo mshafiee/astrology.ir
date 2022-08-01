@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:44:51 |
 | Sunset | 19:14:26 |
 | Maghrib | 19:15:25 |
-| Isha | 20:34:26 |
+| Isha | 20:34:25 |
 | Sharia Midnight | 00:04:55 |
 | Imum Coeli | 00:44:49 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'33.20" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'2.83" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°5'22.73" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°47'23.83" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°54'51.08" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°21'25.49" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|16°26'5.47" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'33.30" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'2.81" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°5'22.76" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°47'23.79" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°54'51.00" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°21'25.43" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|16°26'4.65" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'33.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'2.83" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°5'22.73" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°47'23.83" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°54'51.08" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°21'25.49" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|16°26'5.47" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°54'33.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'2.81" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°5'22.76" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°47'23.79" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°54'51.00" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°21'25.43" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|16°26'4.65" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이

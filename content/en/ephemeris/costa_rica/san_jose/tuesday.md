@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'19.52" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'55.58" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°1'10.60" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°10'23.15" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|18°40'17.36" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°53'48.70" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|4°25'7.48" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°48'19.62" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'55.57" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°1'10.64" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°10'23.10" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|18°40'17.28" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°53'48.64" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|4°25'6.06" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'19.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'55.58" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°1'10.60" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°10'23.15" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|18°40'17.36" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°53'48.70" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°25'7.48" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°48'19.62" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'55.57" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°1'10.64" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°10'23.10" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|18°40'17.28" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°53'48.64" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°25'6.06" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: SJO, San Chose, San Chosė, San Hose, San Jose, San Jose de Costa Rica, San Jose i Costa Rica, San José, San José de Costa Rica, San José i Costa Rica, San Joze, San Jozé, San Jusiy, San Khose, San Khoze, San Xose, San Xosé, San-Joseo, San-Khaseh, San-Khose, San-Xose, Sanhose, Sanhosē, Urbs Sancti Iosephi in Costarica, can hoce, san jwz, san khwsyh, san khwzh, san khwzے  kwsٹaryka, san-khose, sana hoje, sana hose, sana hoze, sanhose, sheng he xi, sn hwsh, syana hose, Σαν Χοσέ, Сан Хозе, Сан Хосе, Сан-Хасэ, Сан-Хосе, Սան Խոսե, סאן חוסה, סן חוסה, سان جوز, سان خوزه, سان خوزے، کوسٹاریکا, سان خوسيه, سان خوسې, सान होज़े, सान होजे, স্যান হোসে, ਸਾਨ ਹੋਸੇ, சான் ஹொசே, ซันโฮเซ, སན་ཇོ་སེ།, სან-ხოსე, ሳን ሆዜ, サンホセ, 聖荷西, 산호세

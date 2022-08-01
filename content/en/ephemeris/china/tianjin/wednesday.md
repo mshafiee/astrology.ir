@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'33.73" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'32.24" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°16'49.95" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°33'45.32" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°9'59.91" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°36'6.42" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|9°30'12.83" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°46'33.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'32.22" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°16'49.98" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°33'45.28" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°9'59.84" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°36'6.36" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|9°30'11.45" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'33.73" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'32.24" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°16'49.95" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°33'45.32" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°9'59.91" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°36'6.42" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|9°30'12.83" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°46'33.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'32.22" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°16'49.98" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°33'45.28" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°9'59.84" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°36'6.36" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|9°30'11.45" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: T'ien-chin, T'ien-ching, T'ien-ching-shih, TSN, Tchien-tin, Tchien-ťin, Tehnd'iin, Thien Tan, Thien-tsin, Thiên Tân, Thiên-tsîn, Tiandzinas, Tianjin, Tianjin Shi, Tianjing, Tianjín, Tiantzin, Tiencin, Tiencsin, Tiendzin, Tientsin, Tiençin, Tjan'czin', Tjandzina, Tjangino, Tjanĝino, Tjaņdziņa, Tjencin, Tyantszin, T’ien-chin, T’ien-ching, T’ien-ching-shih, cheonjin, theiyn cin, ti'anjina, tian jin, tian jin shi, tiyanjin, tyanjina, tyanjn, tyanjyn, tyenjin si, tyyng'yn, Τιαντζίν, Тиендзин, Тэндьиин, Тяньцзинь, Тяньцзінь, Тјенцин, טיינג'ין, تيانجين, تيەنجىن شەھىرى, تیانجن, تیانجین, तिआंजिन, त्यांजिन, ਤਿਆਂਜਿਨ, தியான்ஜின், ടിയാൻജിൻ, เทียนจิน, ཐན་ཅིན ་གྲོང་ཁྱེར།, ထျန်းကျင်းမြို့, ტიანძინი, 天津, 天津市, 천진, 톈진 시

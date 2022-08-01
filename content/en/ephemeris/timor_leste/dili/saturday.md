@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°33'19.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'37.01" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°12'19.88" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°27'35.29" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°51'1.85" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°41'57.10" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|19°1'52.37" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|22°33'19.12" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'36.99" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°12'19.91" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°27'35.25" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|22°51'1.77" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|2°41'57.04" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|19°1'52.74" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°33'19.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'37.01" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°12'19.88" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°27'35.29" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°51'1.85" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°41'57.10" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|19°1'52.37" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|22°33'19.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'36.99" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°12'19.91" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°27'35.25" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|22°51'1.77" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|2°41'57.04" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|19°1'52.74" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: DIL, Delhi, Dilhi, Dili, Dili khot, Dilis, Dilli, Dilly, Dilo, Dily, Dyli, Díli, Nova Dili, Ntili, di li, dili, dilli, diri, dyly, tili, Ντίλι, Дили, Дили хот, Дылі, Ділі, Դիլի, דילי, دىلى, ديلي, دیلی, ڈلی, दिली, দিলি, ਦੀਲੀ, டிலி, ಡಿಲಿ, ദിലി, ดิลี, དྷི་ལི།, ဒီလီမြို့, დილი, ディリ, 帝力, 딜리

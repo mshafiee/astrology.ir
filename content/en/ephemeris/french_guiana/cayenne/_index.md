@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°53'0.09" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'48.35" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°19'21.92" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°8'8.94" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°21'12.80" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|24°59'51.66" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|20°53'38.34" |Leo|Zubrah|Mars|
+|♄ Saturn|Retrograde|22°53'0.19" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'48.34" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°19'21.96" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°8'8.90" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°21'12.72" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|24°59'51.60" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|20°53'37.30" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°53'0.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'48.35" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°19'21.92" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°8'8.94" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°21'12.80" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°59'51.66" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|20°53'38.34" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°53'0.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'48.34" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°19'21.96" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°8'8.90" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°21'12.72" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°59'51.60" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|20°53'37.30" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: CAY, Caiena, Caienna, Cajen-a, Cajena, Cayena, Cayene, Cayenne, Kaena, Kaenna, Kagien, Kajen, Kajena, Kajenna, Kajennae, Kajenneh, Kajeno, Kayen, Kayene, Kayenna, kai yun, kaien'nu, kaiyana, kayen, kayena, kayn, kayyn, Καγιέν, Каена, Кайен, Кайеннæ, Кайенна, Кайеннэ, Каєнна, Кајена, Կայեննա, קאיין, كايين, کائین, کاین, कायेन, ਕੈਯਨ, கயேன், กาแยน, კაიენა, カイエンヌ, 開雲, 카옌

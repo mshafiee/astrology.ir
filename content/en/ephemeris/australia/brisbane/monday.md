@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:09:11 |
+| Dawn | 05:09:12 |
 | Sunrise | 06:29:16 |
 | Dhuhr | 11:54:17 |
 | Medium Coeli | 11:54:17 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'19.14" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'9.58" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°58'29.56" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°37'9.65" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°41'52.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°2'25.61" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|14°2'38.34" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°55'19.05" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'9.59" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°58'29.52" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°37'9.69" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°41'52.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°2'25.68" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|14°2'39.05" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'19.14" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'9.58" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°58'29.56" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°37'9.65" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°41'52.45" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°2'25.61" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|14°2'38.34" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°55'19.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'9.59" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°58'29.52" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°37'9.69" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°41'52.53" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°2'25.68" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|14°2'39.05" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: BNE, Bresbens, Brisbane, Brisbane City, Brisbano, Brisbehn, Brisben, Brisbena, Brisbenas, Brisbin, Brismpein, Brizbejn, Brysben, Brėsbens, Pu-li-su-pan, Pu-lî-sṳ̂-pân, beulijeubeon, brisabena, brisben, brisbena, brizabana, brizbeni, brsbyn, brysban, bryzbn, bryzbyn, bryzbyyn, bu li si ban, bu li si ben, burisuben, pirispen, Μπρίσμπεϊν, Бризбейн, Бризбејн, Брисбен, Брисбэн, Брысбен, בריזביין, בריזבן, برسبین, برىسبان, بريزبن, بریزبن, بریزبین, بریزبێن, ब्रिसबेन, ब्रिस्बेन, ব্রিসবেন, ਬ੍ਰਿਜ਼ਬਨ, பிரிஸ்பேன், బ్రిస్బేన్, ಬ್ರಿಸ್ಬೇನ್‌, ബ്രിസ്ബെയ്ൻ, บริสเบน, ဘရစ်စဘိန်းမြို့, ბრიზბენი, ብርዝበን, ブリスベン, 布里司班, 布里斯本, 布里斯班, 브리즈번

@@ -369,12 +369,12 @@ __محاسبه به شیوه __
 
 |سیاره|♄ کیوان|♃ هرمز|♂ بهرام|☉ خورشید|♀ ناهید|☿ تیر|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|**♃ هرمز**|□ تربیع||||||
-|**♂ بهرام**|△ تثلیث|✱ تسدیس|||||
-|**☉ خورشید**|☍ مقابله| |△ تثلیث||||
-|**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
-|**☿ تیر**| | | |✱ تسدیس|□ تربیع||
-|**☾ ماه**|△ تثلیث| |☍ مقابله|△ تثلیث| |□ تربیع|
+|**♃ هرمز**|✱ تسدیس||||||
+|**♂ بهرام**|□ تربیع| |||||
+|**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
+|**♀ ناهید**| |□ تربیع|✱ تسدیس| |||
+|**☿ تیر**| | |△ تثلیث| |✱ تسدیس||
+|**☾ ماه**|□ تربیع| |☍ مقابله|□ تربیع|△ تثلیث|✱ تسدیس|
 
 ---
 نام‌های دیگر: KHA, Khaneh, Khāneh, Okrug Peronsahr, Okrug Peronšahr, PIran Shahr, PIransaher, PIransahr, PIransar, PIransara, PIranschahr, PIransehr, PIranshahr, PIranshekhr, PIransherkh, PIransjahr, PIranszahr, PIranxahr, PIranşehr, PIranşəhr, PIranšaher, PIranšahr, PIranšāra, Pîranşar, Pīrān Shahr, Pīrānshahr, byranshhr, pi lan sha he er, pIranshafuru, pyranshar, pyranshhr, Пероншаҳр, Пираншехр, Піраншерх, بیرانشهر, پیرانشار, پیرانشهر, پیرانشھر, پیرانشہر, ピーラーンシャフル, 皮兰沙赫尔

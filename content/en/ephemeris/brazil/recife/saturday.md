@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:12:16 |
+| Dawn | 04:12:15 |
 | Sunrise | 05:31:30 |
 | Dhuhr | 11:25:26 |
 | Medium Coeli | 11:25:26 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'21.16" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'53.36" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°29'11.60" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°53'10.30" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°23'34.63" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°25'41.10" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|25°5'31.05" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°31'21.25" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'53.34" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°29'11.62" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°53'10.27" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°23'34.56" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°25'41.05" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|25°5'31.53" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'21.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'53.36" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°29'11.60" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|13°53'10.30" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°23'34.63" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°25'41.10" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|25°5'31.05" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°31'21.25" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'53.34" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°29'11.62" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|13°53'10.27" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°23'34.56" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°25'41.05" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|25°5'31.53" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Arrecife, Fernambucum, Mauricea, Mauricéa, Pernambuco, REC, Recife, Rehsifi, Resife, Resifi, Resifė, hesiphi, hesipi, lei xi fei, li si fei, re sifi, recihpi, reshife, resiphe, resipi, risifi, rsyph, rysyf, rysyfy, Ρεσίφε, Ресифе, Ресифи, Ресіфі, Рэсіфі, Ռեսիֆի, רסיפה, ريسيفي, ریسیف, रिसीफ़ी, रेसिफे, রেসিফে, হেসিফি, ரெசிஃபி, เรซีฟี, რესიფი, レシフェ, 李斯腓, 累西腓, 헤시피

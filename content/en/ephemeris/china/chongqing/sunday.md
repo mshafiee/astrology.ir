@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'16.60" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'37.48" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°22'27.74" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°43'54.88" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°34'13.83" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°22'29.04" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|2°50'56.63" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°59'16.50" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'37.49" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°22'27.70" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°43'54.93" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°34'13.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°22'29.10" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|2°50'56.69" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'16.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'37.48" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°22'27.74" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°43'54.88" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°34'13.83" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°22'29.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|2°50'56.63" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°59'16.50" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'37.49" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°22'27.70" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°43'54.93" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°34'13.91" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°22'29.10" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|2°50'56.69" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: CKG, Cchung-cching, Ch'ung-ch'ing, Ch'ung-ch'ing-shih, Chongqing, Chongqing (Chongqing Shi), Chongqing - zhong qing, Chongqing - 重庆, Chongqing Shi, Chuncin, Chungking, Ch’ung-ch’ing, Ch’ung-ch’ing-shih, Congcing, Congcingas, Congcingo, Csungking, Cuncjina, Pa, Pa-hsien, Trung Khanh, Trùng Khánh, Tshung-khin, Tshùng-khin, Tsjoengking, Yu-chou, Yuzhou, Yü-chou, caungakiga, ceancin, chng ching, chungching si, chwng kyng, chwngchng, congachinga, congkinga, conkin, tshwnghtshyngh, z'wngz'yng, zhong qing, zhong qing shi, Çongçing, Ĉongĉingo, Čchung-čching, Čongčingas, Čuncjina, Чунгкинг, Чунцин, Чунцін, צ'ונגצ'ינג, تشونغتشينغ, چونگ کینگ, چونگچنگ, چونگ‌کینگ, چۇڭچىڭ شەھىرى, चोंगछिंग, चोंग्किंग, ਚੌਂਗਕਿੰਗ, சோங்கிங், ചോങ്ചിങ്, ฉงชิ่ง, ཁྲུང་ཆིན་གྲོང་ཁྱེར།, 重庆, 重庆市, 重慶, 重慶市, 충칭 시

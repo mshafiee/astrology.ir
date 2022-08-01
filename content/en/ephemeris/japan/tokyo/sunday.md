@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'42.18" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'39.95" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°18'32.91" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°38'8.29" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°26'53.98" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°11'33.84" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|22°59'42.28" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'39.93" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°18'32.95" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°38'8.24" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°26'53.90" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°11'33.77" |Cancer|Tarf|Moon|
 |☾ Moon|Prograde|1°35'24.02" |Leo|Jabhah|Saturn|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'42.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'39.95" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°18'32.91" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°38'8.29" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°26'53.98" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°11'33.84" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°59'42.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'39.93" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°18'32.95" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°38'8.24" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°26'53.90" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°11'33.77" |Leo|Sarfrah|Mars|
 |☾ Moon|Prograde|1°35'24.02" |Virgo|Sarfrah|Sun|
 
 
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Edo, TYO, Tochiu, Tocio, Tokija, Tokijas, Tokio, Tokió, Tokjo, Tokyo, Toquio, Toquio - dong jing, Toquio - 東京, Tòquio, Tókýó, Tóquio, Tōkyō, dokyo, dong jing, dong jing dou, dong-gyeong, tokeiyw, toki'o, tokkiyo, tokyo, twkyw, twqyw, Τόκιο, Токио, Токё, Токіо, Տոկիո, טוקיו, توكيو, توکیو, طوكيو, ܛܘܟܝܘ, ܜܘܟܝܘ, टोक्यो, টোকিও, டோக்கியோ, โตเกียว, ტოკიო, 东京, 東京, 東京都, 도쿄, 동경

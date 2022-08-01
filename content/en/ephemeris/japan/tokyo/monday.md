@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'26.20" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'10.43" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°57'24.16" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°35'34.14" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°39'50.06" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°59'25.90" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|13°50'35.33" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°55'26.30" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'10.42" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°57'24.20" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°35'34.10" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°39'49.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°59'25.84" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|13°50'34.65" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°55'26.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'10.43" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°57'24.16" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°35'34.14" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°39'50.06" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°59'25.90" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|13°50'35.33" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°55'26.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'10.42" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°57'24.20" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°35'34.10" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°39'49.98" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°59'25.84" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|13°50'34.65" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Edo, TYO, Tochiu, Tocio, Tokija, Tokijas, Tokio, Tokió, Tokjo, Tokyo, Toquio, Toquio - dong jing, Toquio - 東京, Tòquio, Tókýó, Tóquio, Tōkyō, dokyo, dong jing, dong jing dou, dong-gyeong, tokeiyw, toki'o, tokkiyo, tokyo, twkyw, twqyw, Τόκιο, Токио, Токё, Токіо, Տոկիո, טוקיו, توكيو, توکیو, طوكيو, ܛܘܟܝܘ, ܜܘܟܝܘ, टोक्यो, টোকিও, டோக்கியோ, โตเกียว, ტოკიო, 东京, 東京, 東京都, 도쿄, 동경

@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Sunset | 19:11:56 |
 | Maghrib | 19:12:55 |
 | Isha | 20:26:24 |
-| Sharia Midnight | 00:04:54 |
+| Sharia Midnight | 00:04:53 |
 | Imum Coeli | 00:44:22 |
 {{< /tab >}}
 
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 19:11:56 |
 | Maghrib | 19:12:55 |
 | Isha | 20:31:05 |
-| Sharia Midnight | 00:04:54 |
+| Sharia Midnight | 00:04:53 |
 | Imum Coeli | 00:44:22 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'46.59" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'25.14" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°16'58.34" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°34'38.08" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°59'59.16" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°54'1.09" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°40'43.00" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°32'46.69" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'25.13" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°16'58.37" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°34'38.05" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|22°59'59.09" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|2°54'1.04" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|20°40'43.42" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'46.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'25.14" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°16'58.34" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°34'38.08" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°59'59.16" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°54'1.09" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°40'43.00" |Scorpio|Qalb|Venus|
+|♄ Saturn|Retrograde|22°32'46.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'25.13" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°16'58.37" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°34'38.05" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|22°59'59.09" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|2°54'1.04" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|20°40'43.42" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이

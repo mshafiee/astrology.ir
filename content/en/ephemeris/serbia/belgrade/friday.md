@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'41.28" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°37'46.69" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°43'15.54" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°43'35.94" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°55'5.02" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|1°25'59.92" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|8°46'7.57" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°36'41.38" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°37'46.67" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°43'15.56" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°43'35.91" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°55'4.95" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|1°25'59.86" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|8°46'7.55" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'41.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°37'46.69" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°43'15.54" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°43'35.94" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°55'5.02" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|1°25'59.92" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|8°46'7.57" |Scorpio|Qalb|Mars|
+|♄ Saturn|Retrograde|22°36'41.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°37'46.67" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°43'15.56" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°43'35.91" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°55'4.95" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|1°25'59.86" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|8°46'7.55" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드

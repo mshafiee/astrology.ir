@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°35'9.79" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°37'15.91" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°56'25.19" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°3'30.41" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°20'23.40" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°0'28.49" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|13°23'15.15" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|22°35'9.88" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°37'15.90" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°56'25.21" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°3'30.38" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|22°20'23.32" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|2°0'28.44" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|13°23'15.33" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°35'9.79" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°37'15.91" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°56'25.19" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°3'30.41" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°20'23.40" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°0'28.49" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|13°23'15.15" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|22°35'9.88" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°37'15.90" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°56'25.21" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°3'30.38" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|22°20'23.32" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|2°0'28.44" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|13°23'15.33" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Cidade da Guatemala, Citta del Guatemala, Città del Guatemala, Ciudad Guatemala, Ciudad de Guatemala, Ciutat de Guatemala, GUA, Guate, Guatemala, Guatemala City, Guatemala Hiria, Guatemala by, Guatemala la Nueva, Guatemala-Stadt, Guatemala-Urbo, Guatemala-stad, Gvatemala, Gvatemalurbo, Gwatemala, New Guatemala, Nueva Guatemala, Nueva Guatemala de la Asuncion, Nueva Guatemala de la Asunción, Pole tes Gouatemalas, Santiago de Guatimala, gua de ma la shi, guatemarashiti, gwatemalla si, gwatemallasiti, kawtemalasiti, mdynt ghwatymala, shhr gwatmala, Πόλη της Γουατεμάλας, Гватемала, גואטמלה סיטי, גוואטמלה סיטי, شهر گواتمالا, مدينة غواتيمالا, กัวเตมาลาซิตี, グアテマラシティ, 瓜地馬拉市, 과테말라 시, 과테말라시티

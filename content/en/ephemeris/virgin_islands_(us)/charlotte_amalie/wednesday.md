@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°44'14.98" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'58.64" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°37'13.79" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°4'17.48" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°48'48.11" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|28°30'55.17" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|16°18'15.95" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°44'15.08" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'58.63" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°37'13.82" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°4'17.44" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°48'48.04" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|28°30'55.10" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|16°18'14.76" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°44'14.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'58.64" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°37'13.79" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°4'17.48" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°48'48.11" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|28°30'55.17" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|16°18'15.95" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|22°44'15.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'58.63" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°37'13.82" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°4'17.44" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°48'48.04" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|28°30'55.10" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|16°18'14.76" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Amalienborg, Amalienburg, Carlota Amalia, Carlotamalio, Charlotte Amalia, Charlotte Amalie, Charlotte Amalie pa Dei amerikanske Jomfruoyane, Charlotte Amalie på Dei amerikanske Jomfruøyane, Di Dorp, Dorp, Het Dorp, Saint Thomas, Saint Thomas City, Sanct Thomas, Sarlot Amali, Sarlote Amalija, Sarlotta Amaliya, Savan, Scharlotte Amelia, Sharlot Amali, Sharlota Amalija, Sharlota-Amalija, Sharlotta-Amalija, Tap House, Tap Hus, Taphuis, Taphus, Taphuus, Taphys, Tappus, Wirtshaus, Zapfhaus, charlxttxa mali, sarlata ameli, sharlwt amaly, srlwt ʼmʼly, syalleos-amallie, xia luo te a ma li ya, Ĉarlotamalio, Şarlotta Amaliya, Šarlotė Amalija, Σαρλότ Αμαλί, Шарлот Амали, Шарлота Амалия, Шарлота Амалија, Шарлота-Амалія, Шарлотта-Амалия, Шарлотта-Амалія, שרלוט אמאלי, شارلوت آمالی, شارلوت أمالي, شارلٹ ایملی, शार्लट आमेली, ชาร์ลอตต์อะมาลี, შარლოტა-ამალია, シャーロット・アマリー, 夏洛特阿马利亚, 샬럿아말리에

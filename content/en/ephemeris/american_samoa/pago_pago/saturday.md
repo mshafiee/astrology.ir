@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°0'3.90" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'41.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°15'13.53" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°33'13.95" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°20'40.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°2'16.65" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|0°30'40.72" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|23°0'4.00" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'41.94" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°15'13.57" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°33'13.90" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°20'40.42" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°2'16.59" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|0°30'40.77" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°0'3.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'41.96" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°15'13.53" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°33'13.95" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°20'40.50" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°2'16.65" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|0°30'40.72" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|23°0'4.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'41.94" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°15'13.57" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°33'13.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°20'40.42" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°2'16.59" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|0°30'40.77" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

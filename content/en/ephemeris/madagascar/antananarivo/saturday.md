@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 11:55:48 |
 | Medium Coeli | 11:55:48 |
 | Sunset | 17:35:47 |
-| Maghrib | 17:53:22 |
+| Maghrib | 17:53:21 |
 | Isha | 18:34:51 |
 | Sharia Midnight | 23:18:08 |
 | Imum Coeli | 23:55:44 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'19.27" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'15.22" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°20'53.82" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°40'34.01" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°7'33.04" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°4'11.50" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|22°6'57.65" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°32'19.36" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'15.20" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°20'53.84" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°40'33.98" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°7'32.96" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°4'11.45" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|22°6'58.09" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'19.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'15.22" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°20'53.82" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°40'34.01" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°7'33.04" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°4'11.50" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|22°6'57.65" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°32'19.36" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'15.20" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°20'53.84" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°40'33.98" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°7'32.96" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°4'11.45" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|22°6'58.09" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Antananarifo, Antananarivo, Antananarivu, Antananariwo, Antananaryvas, Antananaryvu, Antananarywa, Antananarívó, TNR, Tana, Tananaribe, Tananarive, an ta na na li fu, anatananaribho, anrananarivea, antananalibo, antananaribho, antananaribo, antananarivho, antananarivo, antananaryfw, antananaryww, antʼananarivu, atananarivo, ta na na li fu, xan ta nana ri wo, Ανταναναρίβο, Ταναναρίβη, Антананариво, Антананариву, Антананарыву, Антананаріву, Тананариве, Անտանանարիվու, אנטאנאנאריווא, אנטננריבו, آنتاناناریوو, أنتاناناريفو, ئانتاناناریڤۆ, انٹاناناریوو, اینٹانانیریو, अंतानानारिव्हो, अन्टाननरीवो, আনতানানারিভো, আন্তানানারিভো, ਅੰਤਾਨਾਨਾਰੀਵੋ, அண்டனானரீவோ, ആന്റനനറീവൊ, อันตานานาริโว, ཨེན་ཊ་ན་ན་རི་བོ།, ანტანანარივუ, አንታናናሪቮ, アンタナナリボ, 塔那那利佛, 安塔那那利佛, 안타나나리보

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'45.94" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'13.38" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°48'22.74" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°51'17.08" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°16'2.11" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°19'4.72" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|0°8'27.07" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°49'46.03" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'13.36" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°48'22.77" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°51'17.03" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°16'2.03" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°19'4.66" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|0°8'25.69" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'45.94" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'13.38" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°48'22.74" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°51'17.08" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°16'2.11" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°19'4.72" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|0°8'27.07" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°49'46.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'13.36" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°48'22.77" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°51'17.03" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°16'2.03" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°19'4.66" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|0°8'25.69" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: An Bhrataslaiv, An Bhratasláiv, BTS, Baratislawa, Bracislava, Bratislav, Bratislava, Bratislava osh, Bratislavae, Bratislavo, Bratislawa, Bratisllava, Bratisława, Bratyslawa, Bratysława, Bratîslava, Mpratislaba, Posonium, Pozsony, Presburg, Presporok, Prespurk, Pressburg, Preszburg, Preßburg, Prešporok, Prešpurk, beulatiseullaba, bra ti sla wa, bratisalava, bratislabha, bratislava, bratislavha, bratslawa, bratsylava, bratyslafa, bratyslava, bratyslaw, bratyslawa, bu la di si la fa, burachisuravu~a, pirattislava, Μπρατισλάβα, Братислав, Братиславæ, Братислава, Братислава ош, Братіслава, Братїслава, Браціслава, Բրատիսլավա, בראטיסלאווא, ברטיסלאבה, براتسلاوا, براتسیلاڤا, براتىسلاۋا, براتيسلافا, براتیسلاو, براتیسلاوا, براٹیسلاوا, ܒܪܛܝܣܠܐܒܐ, ब्रातिस्लाभा, ब्रातिस्लाव्हा, ব্রাতিস্লাভা, ਬ੍ਰਾਤਿਸਲਾਵਾ, பிராத்திஸ்லாவா, ಬ್ರಾಟಿಸ್ಲಾವಾ, ബ്രാട്ടിസ്‌ലാവ, บราติสลาวา, བ་ར་ཏིསི་ལ་བ།, ბრატისლავა, ብራቲስላቫ, ブラチスラヴァ, 布拉迪斯拉发, 布拉迪斯拉發, 브라티슬라바

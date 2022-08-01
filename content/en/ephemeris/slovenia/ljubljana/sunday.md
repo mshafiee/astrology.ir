@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'18.13" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'31.61" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°31'22.18" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°57'3.12" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°50'55.56" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°47'17.48" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|5°32'12.61" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'18.23" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'31.59" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°31'22.22" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°57'3.07" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°50'55.48" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°47'17.42" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|5°32'12.39" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'18.13" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'31.61" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°31'22.18" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°57'3.12" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°50'55.56" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°47'17.48" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|5°32'12.61" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'18.23" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'31.59" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°31'22.22" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°57'3.07" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°50'55.48" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°47'17.42" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|5°32'12.39" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Aemona, Jubaljana, LJU, Laibach, Laiboch, Lioumpliana, Liubliana, Liublianne, Liublijana, Liuibleana, Liúibleána, Ljubljan, Ljubljana, Ljubljana osh, Ljubljanae, Ljubljano, Lubian-a, Lubiana, Lubiane, Lubiann-a, Lubjana, Lublan, Lublana, Lublaň, Lubliano, Lubljana, Luebiana, Lueblaen, Lueblana, Lyoubyana, Lyublyana, Lübiana, Lüblâna, Lüblän, li'ubali'ana, li'ubliyana, liubliana, liyubliyana, liyupliyana, lu bu er ya na, lub li ya na, lyubeullyana, lywblyana, ryuburyana, Ļubļana, Ľubľana, Łubiana, Λιουμπλιάνα, Љубљана, Люблян, Люблянæ, Любляна, Любляна ош, Люблꙗна, Լյուբլյանա, ליובליאנה, ليوبليانا, ليۇبليانا, لیوبلیانا, लियुब्लियाना, লিউব্লিয়ানা, ਲਿਊਬਲਿਆਨਾ, லியுப்லியானா, ลูบลิยานา, ལི་པོ་ཡ་ན།, ლიუბლიანა, ልዩብልያና, リュブリャナ, 卢布尔雅那, 盧布爾雅那, 류블랴나

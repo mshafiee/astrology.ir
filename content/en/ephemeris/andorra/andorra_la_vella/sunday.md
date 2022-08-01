@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'7.02" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'30.38" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°33'3.23" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°59'32.65" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°54'5.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°51'58.61" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|6°5'52.63" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'7.12" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'30.36" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°33'3.27" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°59'32.60" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°54'5.15" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°51'58.55" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|6°5'52.38" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'7.02" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'30.38" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°33'3.23" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°59'32.65" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°54'5.23" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°51'58.61" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|6°5'52.63" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'7.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'30.36" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°33'3.27" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°59'32.60" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°54'5.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°51'58.55" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|6°5'52.38" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: ALV, Ando-la-Vyey, Andora, Andora la Vela, Andora la Velja, Andora lja Vehl'ja, Andoro Malnova, Andorra, Andorra Tuan, Andorra a Vella, Andorra la Biella, Andorra la Vella, Andorra la Vielha, Andorra-a-Velha, Andorra-la-Vel'ja, Andorra-la-Vielye, Andorre-la-Vieille, Andò-la-Vyèy, Andòrra la Vièlha, an dao er cheng, andolalabeya, andwra la fyla, Ανδόρρα, Андора ла Веля, Андора ла Веља, Андора ля Вэлья, Андорра-ла-Велья, אנדורה לה וולה, أندورا لا فيلا, አንዶራ ላ ቬላ, アンドラ・ラ・ヴェリャ, 安道爾城, 안도라라베야

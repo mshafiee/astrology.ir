@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'7.06" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'36.57" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°23'53.69" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°46'1.91" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°36'55.05" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°26'28.81" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|3°18'41.88" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°59'7.15" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'36.56" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°23'53.73" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°46'1.86" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°36'54.97" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°26'28.74" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|3°18'41.79" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'7.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'36.57" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°23'53.69" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°46'1.91" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°36'55.05" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°26'28.81" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|3°18'41.88" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°59'7.15" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'36.56" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°23'53.73" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°46'1.86" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°36'54.97" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°26'28.74" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|3°18'41.79" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴

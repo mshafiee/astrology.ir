@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'55.16" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'15.13" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°46'59.64" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°49'13.98" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°13'25.08" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°15'19.02" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°45'17.29" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°49'55.25" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'15.11" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°46'59.68" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°49'13.94" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°13'25.00" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°15'18.96" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|29°45'15.93" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'55.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'15.13" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°46'59.64" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°49'13.98" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°13'25.08" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°15'19.02" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°45'17.29" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°49'55.25" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'15.11" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°46'59.68" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°49'13.94" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°13'25.00" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°15'18.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|29°45'15.93" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Aintab, Antep, Ayintap, Ayntʻap, Ayıntap, Dilok, Dîlok, GZT, Gazi-Ayintap, Gaziantep, Gaziantepa, Gaziantepas, Gazijantehp, Gazijantep, Guaziantep, Nkaziantep, Qazianteb, Qaziantep, gaji'antepa, gajiantepeu, gaziantepi, gazu~iantepu, jia ji an tai pu, ka si xan tep, Γκαζιαντέπ, Газиантеп, Газијантеп, Газіянтэп, Гъазиантеп, Ґазіантеп, Այնթապ, Գազիանթեպ, גזיאנטפ, عنتاب, غازی عینتاب, گازی ئانتەپ, ਗਜਿਆਂਤੇਪ, กาซีอันเตป, გაზიანთეფი, ガズィアンテプ, 加濟安泰普, 가지안테프

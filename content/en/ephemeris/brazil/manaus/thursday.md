@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'51.51" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'46.15" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°15'41.81" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°2'3.19" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°2'14.54" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°13'21.10" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|29°15'45.99" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°39'51.61" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'46.13" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°15'41.84" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°2'3.16" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°2'14.46" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°13'21.04" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|29°15'45.45" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'51.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'46.15" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°15'41.81" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°2'3.19" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°2'14.54" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°13'21.10" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°15'45.99" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°39'51.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'46.13" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°15'41.84" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°2'3.16" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°2'14.46" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°13'21.04" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°15'45.45" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Barra do Rio Negro, MAO, Manaos, Manaus, Manos, Manáos, ma nao si, manausu, Манаус, Манаўс, מנאוס, マナウス, 马瑙斯

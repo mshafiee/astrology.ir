@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 11:08:50|Night duration: 12:50:42|
-|Every hour of day duration: 00:55:44|Every hour of night duration: 01:04:14|
+|Every hour of day duration: 00:55:44|Every hour of night duration: 01:04:13|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°0'9.91" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'42.53" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°14'18.79" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°31'52.81" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°18'57.86" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|21°59'43.49" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|0°10'4.41" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|23°0'10.01" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'42.52" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°14'18.83" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°31'52.76" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°18'57.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|21°59'43.43" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|0°10'4.47" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|23°0'9.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'42.53" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°14'18.79" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°31'52.81" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°18'57.86" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|21°59'43.49" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|0°10'4.41" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|23°0'10.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'42.52" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°14'18.83" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°31'52.76" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°18'57.78" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|21°59'43.43" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|0°10'4.47" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

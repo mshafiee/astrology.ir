@@ -369,12 +369,12 @@ __محاسبه به شیوه __
 
 |سیاره|♄ کیوان|♃ هرمز|♂ بهرام|☉ خورشید|♀ ناهید|☿ تیر|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|**♃ هرمز**|□ تربیع||||||
-|**♂ بهرام**|△ تثلیث|✱ تسدیس|||||
-|**☉ خورشید**|☍ مقابله| |△ تثلیث||||
-|**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
-|**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
+|**♃ هرمز**|✱ تسدیس||||||
+|**♂ بهرام**|□ تربیع| |||||
+|**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
+|**♀ ناهید**| |□ تربیع|✱ تسدیس| |||
+|**☿ تیر**| | |△ تثلیث| |✱ تسدیس||
+|**☾ ماه**|△ تثلیث|☍ مقابله| |✱ تسدیس|□ تربیع| |
 
 ---
 نام‌های دیگر: Bandar Ma`sbur, Bandar Ma`shur, Bandar Mah Shahr Terminal, Bandar Mah Sharh, Bandar Mah-Shahr, Bandar Mashur, Bandar Ma‘sbur, Bandar Ma‘shūr, Bandar-Mashour, Bandar-e Ma`shur, Bandar-e Mahshahr, Bandar-e Ma‘shūr, Bandar-e Māhshahr, Bandar-mashoor, Bar Andaz, Bār Andāz, MRX, Mah Shahr, Mahshahr, Markaz-e Bargiri-ye Bandar-e Mah Shahr, Markaz-e Bārgīrī-ye Bandar-e Māh Shahr, Mashur, Māhshahr, bndr mahshhr, بندر ماهشهر

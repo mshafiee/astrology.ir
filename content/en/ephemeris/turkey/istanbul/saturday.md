@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'21.37" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'15.90" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°20'35.84" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°40'7.30" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°6'58.59" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°3'25.27" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°59'34.52" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°32'21.47" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'15.89" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°20'35.86" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°40'7.27" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°6'58.52" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°3'25.22" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|21°59'34.96" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'21.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'15.90" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°20'35.84" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°40'7.30" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°6'58.59" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°3'25.27" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°59'34.52" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°32'21.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'15.89" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°20'35.86" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°40'7.27" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°6'58.52" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°3'25.22" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|21°59'34.96" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bizanc, Bizánc, Byzance, Byzantion, Byzantium, Byzanz, Constantinoble, Constantinopla, Constantinople, Constantinopolen, Constantinopoli, Constantinopolis, Costantinopoli, Estambul, IST, Istamboul, Istambul, Istambuł, Istampoul, Istanbul, Istanbúl, Isztambul, Konstantinapoly, Konstantinopel, Konstantinopolo, Konstantinoupoli, Konstantinoupolis, Konstantinápoly, Kustantiniyah, Micklagard, Micklagård, Mikligardur, Mikligarður, Stamboul, Stambul, Stambula, Stambuł, Tsarigrad, Vizantija (Vizantija), Vyzantio, astnbwl, bijantium, byuzantion, byzntywn, iseutanbul, istambula, isutanburu, stin Poli [stimˈboli], yi si tan bu er, İstanbul, Βυζάντιο, Βυζαντιο, Ισταμπουλ, Ισταμπούλ, Κωνσταντινουπολη, Κωνσταντινούπολη, Κωνσταντινούπολις, στην Πόλι [stimˈboli], Византија (Vizantija), Истанбул, Стамбул, ביזנטיון, اسطنبول, इस्तांबुल, ইস্তাম্বুল, イスタンブール, ビュザンティオン, 伊斯坦布尔, 비잔티움, 이스탄불

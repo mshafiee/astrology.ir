@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'49.71" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'3.12" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°7'13.77" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°49'19.24" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°46'2.87" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°50'54.67" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|26°23'26.79" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'49.80" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'3.10" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°7'13.80" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°49'19.20" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°46'2.80" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°50'54.61" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|26°23'26.09" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'49.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'3.12" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°7'13.77" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°49'19.24" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°46'2.87" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°50'54.67" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°23'26.79" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'49.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'3.10" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°7'13.80" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°49'19.20" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°46'2.80" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°50'54.61" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°23'26.09" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나

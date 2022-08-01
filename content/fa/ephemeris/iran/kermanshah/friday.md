@@ -369,12 +369,12 @@ __محاسبه به شیوه __
 
 |سیاره|♄ کیوان|♃ هرمز|♂ بهرام|☉ خورشید|♀ ناهید|☿ تیر|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|**♃ هرمز**|□ تربیع||||||
-|**♂ بهرام**|△ تثلیث|✱ تسدیس|||||
-|**☉ خورشید**|☍ مقابله| |△ تثلیث||||
-|**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
-|**☿ تیر**| | | |✱ تسدیس|□ تربیع||
-|**☾ ماه**|△ تثلیث| |☍ مقابله|△ تثلیث| |□ تربیع|
+|**♃ هرمز**|✱ تسدیس||||||
+|**♂ بهرام**|□ تربیع| |||||
+|**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
+|**♀ ناهید**| |□ تربیع|✱ تسدیس| |||
+|**☿ تیر**| | |△ تثلیث| |✱ تسدیس||
+|**☾ ماه**|□ تربیع| |☍ مقابله|□ تربیع|△ تثلیث|✱ تسدیس|
 
 ---
 نام‌های دیگر: Bahtaran, Bakhtaran, Bākhtarān, KSH, Kermansah, Kermansaho, Kermanschah, Kermanshah, Kermanshahan, Kermanshakh, Kermanŝaho, Kermânsâh, Kermānschāh, Kermānshāh, Kermānshāhān, Kirmansah, Kirmanşah, Kirmasan, Kirmaşan, Province de Kermanshah, Provincia de Kermanshah, Provinco Kermansah, Provinco Kermanŝah, Província de Kermanshah, Qahremanshahr, Qahremānshahr, astan krmanshah, ke er man sha he, kerumansha, krmanshah, Керманшах, Кирмоншоҳ, Устони Кирмоншоҳ, استان کرمانشاه, کرمانشاه, کرمانشاه, ケルマーンシャー, 克尔曼沙赫

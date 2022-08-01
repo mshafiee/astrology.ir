@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'43.34" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°37'47.31" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°42'56.88" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°43'8.48" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°54'29.46" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|1°25'11.24" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|8°40'0.82" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°36'43.43" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°37'47.29" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°42'56.90" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°43'8.45" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°54'29.39" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|1°25'11.18" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|8°40'0.80" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'43.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°37'47.31" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°42'56.88" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°43'8.48" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°54'29.46" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|1°25'11.24" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|8°40'0.82" |Scorpio|Qalb|Mars|
+|♄ Saturn|Retrograde|22°36'43.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°37'47.29" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°42'56.90" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°43'8.45" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°54'29.39" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|1°25'11.18" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|8°40'0.80" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'34.93" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'39.39" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°19'40.85" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°39'47.17" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°29'0.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°14'42.76" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|1°47'12.88" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°59'34.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'39.41" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°19'40.81" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°39'47.22" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°29'0.67" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°14'42.83" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|1°47'12.91" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'34.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'39.39" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°19'40.85" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°39'47.17" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°29'0.59" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°14'42.76" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|1°47'12.88" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°59'34.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'39.41" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°19'40.81" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°39'47.22" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°29'0.67" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°14'42.83" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|1°47'12.91" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: BNE, Bresbens, Brisbane, Brisbane City, Brisbano, Brisbehn, Brisben, Brisbena, Brisbenas, Brisbin, Brismpein, Brizbejn, Brysben, Brėsbens, Pu-li-su-pan, Pu-lî-sṳ̂-pân, beulijeubeon, brisabena, brisben, brisbena, brizabana, brizbeni, brsbyn, brysban, bryzbn, bryzbyn, bryzbyyn, bu li si ban, bu li si ben, burisuben, pirispen, Μπρίσμπεϊν, Бризбейн, Бризбејн, Брисбен, Брисбэн, Брысбен, בריזביין, בריזבן, برسبین, برىسبان, بريزبن, بریزبن, بریزبین, بریزبێن, ब्रिसबेन, ब्रिस्बेन, ব্রিসবেন, ਬ੍ਰਿਜ਼ਬਨ, பிரிஸ்பேன், బ్రిస్బేన్, ಬ್ರಿಸ್ಬೇನ್‌, ബ്രിസ്ബെയ്ൻ, บริสเบน, ဘရစ်စဘိန်းမြို့, ბრიზბენი, ብርዝበን, ブリスベン, 布里司班, 布里斯本, 布里斯班, 브리즈번

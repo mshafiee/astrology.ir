@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:39:40|Night duration: 11:20:32|
+|Duration of the day: 12:39:40|Night duration: 11:20:31|
 |Every hour of day duration: 01:03:18|Every hour of night duration: 00:56:43|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|18:26:01|19:22:42|Love and attracting capital|
 |2|Mars|Servant|19:22:43|20:19:25|It's ugly, nothing to do|
-|3|Sun|Servant|20:19:26|21:16:08|Operation of Compassion and Attraction of Love|
-|4|Venus|Servant|21:16:09|22:12:50|Evil and repel good|
-|5|Mercury|Servant|22:12:51|23:09:33|Separation and grudges and hostilities|
-|6|Moon|Servant|23:09:34|00:06:16|It's good for all good deeds|
-|7|Saturn|Servant|00:06:17|01:02:58|Do not do anything, it causes misery|
-|8|Jupiter|Ruler|01:02:59|01:59:41|It is very auspicious and attracts happiness|
-|9|Mars|Servant|01:59:42|02:56:24|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Sun|Servant|02:56:25|03:53:06|Attracting happiness, solving financial problems|
-|11|Venus|Servant|03:53:07|04:49:49|Doing marriage|
-|12|Mercury|Servant|04:49:50|05:46:32|Discover the Fugitive and Find the Thief|
+|3|Sun|Servant|20:19:26|21:16:07|Operation of Compassion and Attraction of Love|
+|4|Venus|Servant|21:16:08|22:12:50|Evil and repel good|
+|5|Mercury|Servant|22:12:51|23:09:32|Separation and grudges and hostilities|
+|6|Moon|Servant|23:09:33|00:06:15|It's good for all good deeds|
+|7|Saturn|Servant|00:06:16|01:02:58|Do not do anything, it causes misery|
+|8|Jupiter|Ruler|01:02:59|01:59:40|It is very auspicious and attracts happiness|
+|9|Mars|Servant|01:59:41|02:56:23|Summoning the desired person, attracting hearts, compassion of hearts|
+|10|Sun|Servant|02:56:24|03:53:05|Attracting happiness, solving financial problems|
+|11|Venus|Servant|03:53:06|04:49:48|Doing marriage|
+|12|Mercury|Servant|04:49:49|05:46:31|Discover the Fugitive and Find the Thief|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:39:40|Night duration: 11:20:32|
+|Duration of the day: 12:39:40|Night duration: 11:20:31|
 |Every hour duration: 01:48:31|Every hour duration: 01:37:13|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Venus|Servant|23:17:40|00:54:52|
 |Rooster song|Mercury|Servant|00:54:53|02:32:05|
 |False Dawn|Moon|Servant|02:32:06|04:09:18|
-|Dawn|Saturn|Servant|04:09:19|05:46:32|
+|Dawn|Saturn|Servant|04:09:19|05:46:31|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'6.64" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'30.26" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°33'5.48" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°59'36.82" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°54'9.74" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°52'5.06" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|6°13'15.51" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'6.74" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'30.25" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°33'5.51" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°59'36.78" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°54'9.66" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°52'4.99" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|6°13'15.26" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'6.64" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'30.26" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°33'5.48" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°59'36.82" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°54'9.74" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°52'5.06" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|6°13'15.51" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'6.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'30.25" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°33'5.51" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°59'36.78" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°54'9.66" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°52'4.99" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|6°13'15.26" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나

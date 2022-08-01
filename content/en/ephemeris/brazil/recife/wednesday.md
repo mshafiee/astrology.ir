@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°44'30.60" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'2.65" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°34'56.52" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°0'51.27" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°44'26.47" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|28°24'47.03" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|15°30'37.49" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°44'30.70" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'2.63" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°34'56.55" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°0'51.23" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°44'26.39" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|28°24'46.97" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|15°30'36.26" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°44'30.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'2.65" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°34'56.52" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°0'51.27" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°44'26.47" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|28°24'47.03" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|15°30'37.49" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|22°44'30.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'2.63" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°34'56.55" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°0'51.23" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°44'26.39" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|28°24'46.97" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|15°30'36.26" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Arrecife, Fernambucum, Mauricea, Mauricéa, Pernambuco, REC, Recife, Rehsifi, Resife, Resifi, Resifė, hesiphi, hesipi, lei xi fei, li si fei, re sifi, recihpi, reshife, resiphe, resipi, risifi, rsyph, rysyf, rysyfy, Ρεσίφε, Ресифе, Ресифи, Ресіфі, Рэсіфі, Ռեսիֆի, רסיפה, ريسيفي, ریسیف, रिसीफ़ी, रेसिफे, রেসিফে, হেসিফি, ரெசிஃபி, เรซีฟี, რესიფი, レシフェ, 李斯腓, 累西腓, 헤시피

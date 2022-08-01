@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'33.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'33.36" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°29'3.33" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°53'36.79" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°46'34.69" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°40'50.72" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|4°38'44.08" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'33.59" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'33.35" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°29'3.37" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°53'36.74" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°46'34.61" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°40'50.66" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|4°38'43.90" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'33.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'33.36" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°29'3.33" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°53'36.79" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°46'34.69" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°40'50.72" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°38'44.08" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°58'33.59" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'33.35" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°29'3.37" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°53'36.74" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°46'36.68" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°40'50.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°34'27.33" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'35.74" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'11.36" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°49'53.77" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°53'32.66" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°18'54.43" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°23'12.13" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|0°37'45.87" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°49'35.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'11.35" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°49'53.81" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°53'32.61" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°18'54.35" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°23'12.06" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|0°37'44.49" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'35.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'11.36" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°49'53.77" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°53'32.66" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°18'54.43" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°23'12.13" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|0°37'45.87" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°49'35.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'11.35" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°49'53.81" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°53'32.61" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°18'54.35" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°23'12.06" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|0°37'44.49" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Baariis, Bahliz, Ile-de-France, Lungsod ng Paris, Lutece, Lutetia, Lutetia Parisorum, Lutèce, PAR, Pa-ri, Paarys, Palika, Paname, Pantruche, Paraeis, Paras, Pari, Paries, Parigge, Pariggi, Parighji, Parigi, Pariis, Pariisi, Pariizu, Pariižu, Parij, Parijs, Paris, Parisi, Parixe, Pariz, Parize, Parizh, Parizh osh, Parizh', Parizo, Parizs, Pariž, Parys, Paryz, Paryzh, Paryzius, Paryż, Paryžius, Paräis, París, Paríž, Parîs, Parĩ, Parī, Parīze, Paříž, Páras, Párizs, Ville-Lumiere, Ville-Lumière, ba li, barys, pairisa, pali, pari, paris, parys, paryzh, perisa, pryz, pyaris, pyarisa, pyrs, Île-de-France, Παρίσι, Париж, Париж ош, Парижь, Париз, Парис, Парыж, Паріж, Փարիզ, פאריז, פריז, باريس, پارىژ, پاريس, پاریس, پیرس, ܦܐܪܝܣ, पॅरिस, पेरिस, पैरिस, প্যারিস, ਪੈਰਿਸ, પૅરિસ, பாரிஸ், పారిస్, ಪ್ಯಾರಿಸ್, പാരിസ്, ปารีส, ཕ་རི།, ပါရီမြို့, პარიზი, ፓሪስ, ប៉ារីស, パリ, 巴黎, 파리

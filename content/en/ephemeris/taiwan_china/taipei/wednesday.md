@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'31.99" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'31.79" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°17'4.69" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°34'7.89" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°10'28.11" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°36'46.33" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|9°37'26.34" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°46'32.08" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'31.78" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°17'4.72" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°34'7.84" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°10'28.04" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°36'46.27" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|9°37'24.96" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°46'31.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'31.79" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°17'4.69" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°34'7.89" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°10'28.11" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°36'46.33" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|9°37'26.34" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°46'32.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'31.78" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°17'4.72" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°34'7.84" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°10'28.04" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°36'46.27" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|9°37'24.96" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: GJai Bac, Kota Taipei, Pan Kiao, Pan-ch'iao, Pan-ch'iao-chen, Pan-ch'iao-chieh, Pan-ch’iao, Pan-ch’iao-chen, Pan-ch’iao-chieh, T'ai-pei, T'ai-pei Shih, T'ai-pei-hsien, TPE, Taibei Shi, Taibei Shih, Taibejus, Taibėjus, Taipe, Taipeh, Taipei, Taipeium, Taipejus, Taipé, Taipéi, Taipėjus, Tajbehj, Tajpej, Tajpeo, Tayipeh, Tayipèh, Tchaj-pej, T’ai-pei, T’ai-pei Shih, T’ai-pei-hsien, ta'ipe, ta'ipe'i, tai bei, tai bei shi, taibei, taibei si, taipei, taippei, thipe, Đài Bắc, Ταϊπέι, Тайбэй, Тайпей, Тајпеј, טאיפי, טאיפיי, تەيبېي, ताइपे, টাইপেই, ไทเป, ཐའེ་པེ, ታይፔ, 台北, 台北市, 臺北市, 타이베이, 타이베이 시, 타이뻬이, 타이페이

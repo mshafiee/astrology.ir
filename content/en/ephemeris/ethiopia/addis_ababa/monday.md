@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'6.12" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'58.77" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°9'27.06" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°53'26.20" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°2'31.36" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°32'37.99" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|17°44'3.87" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'6.22" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'58.76" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°9'27.10" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°53'26.15" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°2'31.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°32'37.92" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|17°44'2.98" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'6.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'58.77" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°9'27.06" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°53'26.20" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°2'31.36" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°32'37.99" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°44'3.87" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|22°54'6.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'58.76" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°9'27.10" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°53'26.15" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°2'31.28" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°32'37.92" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|17°44'2.98" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바

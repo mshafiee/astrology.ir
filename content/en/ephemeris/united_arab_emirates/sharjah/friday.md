@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'59.65" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°37'52.62" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°40'35.39" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°39'34.96" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°49'57.81" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|1°18'59.77" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|7°50'50.40" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°36'59.74" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°37'52.61" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°40'35.42" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°39'34.93" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°49'57.73" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|1°18'59.72" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|7°50'50.34" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'59.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°37'52.62" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°40'35.39" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°39'34.96" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°49'57.81" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|1°18'59.77" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|7°50'50.40" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°36'59.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°37'52.61" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°40'35.42" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°39'34.93" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°49'57.73" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|1°18'59.72" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|7°50'50.34" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al Sharjah, Ash 'Mariqah, Ash Shariqa, Ash Shariqah, Ash Shāriqa, Ash Shāriqah, Ash ’Mariqah, Ash-Shariqah emiraat, Ash-Shāriqah emiraat, Charjah, Ch·ardj·a, SHJ, Sardza, Sardzsa, Sarika, Sarja, Sarjo, Sarza, Schardscha, Shardza, Shardzha, Shardzha kuorat, Sharga, Sharijah, Shariqah, Sharja, Sharjah, Sharjah city, Shārijah, Shāriqah, Shārja, Szardza, Szardża, Xarja, Xarjah, alsharqt, amart alsharqt, carja, charc ah, mdynt alsharqt, saraja, sarajaha, sarja, sharja, sharjh, sharuja, syaleuja, sʼrgh, xia er jia, Ŝarĵo, Şarika, Şarja, Šardža, Šardžá, Шарджа, Шарджа куорат, Шарџа, Шарҗә, Շարժա, שארגה, إمارة الشارقة, الشارقة, شارجه, شارجہ, مدينة الشارقة, शारजा, शारजाह, ਸ਼ਾਰਜਾ, சார்ஜா, షార్జా, ಶಾರ್ಜ, ഷാർജ, ชาร์จาห์, შარჯა, シャールジャ, 夏尔迦, 샤르자

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'23.83" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'12.84" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°2'16.01" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°41'51.37" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°36'33.69" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°37'43.72" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°41'50.43" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'23.93" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'12.83" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°2'16.04" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°41'51.33" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°36'33.62" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°37'43.66" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|24°41'49.64" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'23.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'12.84" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°2'16.01" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°41'51.37" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°36'33.69" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°37'43.72" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°41'50.43" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'23.93" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'12.83" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°2'16.04" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°41'51.33" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°36'33.62" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°37'43.66" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°41'49.64" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: AZD, Dakbayan sa Yazd, Giaznt, Jazd, Jazdo, Jezd, Jezdas, Yasd, Yazd, Yezd, Yəzd, iezdi, ya ci de, yajeudeu, yazda, yazudo, yzd, Γιαζντ, Јазд, Йезд, Язд, Յազդ, יזד, يزد, یزد, यज़्द, იეზდი, ヤズド, 亚兹德, 야즈드

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'49.51" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'34.79" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°26'34.18" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°49'58.94" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°41'55.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°33'56.13" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|4°10'5.78" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°58'49.61" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'34.78" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°26'34.22" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°49'58.89" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°41'55.84" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°33'56.06" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|4°10'5.64" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°58'49.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'34.79" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°26'34.18" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°49'58.94" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°41'55.92" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°33'56.13" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°10'5.78" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°58'49.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'34.78" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°26'34.22" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°49'58.89" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°41'55.84" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°33'56.06" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°10'5.64" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이

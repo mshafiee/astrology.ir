@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°57'13.35" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'24.18" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°41'10.93" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°11'34.25" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°9'20.89" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°14'33.08" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|8°45'47.76" |Leo|Zubrah|Saturn|
+|♄ Saturn|Retrograde|22°57'13.44" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'24.17" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°41'10.97" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°11'34.21" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°9'20.81" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°14'33.01" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|8°45'47.38" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°57'13.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'24.18" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°41'10.93" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°11'34.25" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°9'20.89" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°14'33.08" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|8°45'47.76" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°57'13.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'24.17" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°41'10.97" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°11'34.21" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°9'20.81" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°14'33.01" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|8°45'47.38" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Demerara, Dzhordzhtaun, Dzordztaun, Dzordztauna, Dzordztaunas, Dzordztauns, Džordžtaun, Džordžtauna, Džordžtaunas, Džordžtauns, GEO, Georgetown, Georgetown i Guyana, Georgiopolis, Georgurbo, Jojton, Jòjtòn, Tzortztaoun, Zhorzhtaun, cxrc thawn, gwrgtʼwn, jarajata'una, jarj ٹawn  gyana, jarjata'una, jojitaun, jorjata'una, jorjtavun, jrj‌tawn, jwrj tawn, jwrj twghn, qiao zhi dui, qiao zhi dun, zuo zhi cheng, Τζορτζτάουν, Τζώρτζταουν, Џорџтаун, Джорджтаун, Джорджтаўн, Жоржтаун, Ջորջթաուն, גורגטאון, جارج ٹاؤن، گیانا, جرج‌تاون, جورج تاون, جورج توغن, جورج‌تاو, जॉर्जटाउन, ਜਾਰਜਟਾਊਨ, ଜର୍ଜଟାଉନ, ஜோர்ஜ்டவுண், ജോർജ്ജ് ടൗൺ, จอร์จทาวน์, ཅོར་ཅི་ཐོན།, ჯორჯტაუნი, ጆርጅታውን, ジョージタウン, 乔治敦, 佐治城, 조지타운

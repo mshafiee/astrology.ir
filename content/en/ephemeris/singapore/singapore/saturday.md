@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:15:43 |
 | Maghrib | 19:29:52 |
 | Isha | 20:11:43 |
-| Sharia Midnight | 00:38:20 |
+| Sharia Midnight | 00:38:19 |
 | Imum Coeli | 01:10:30 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°33'5.21" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'31.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°14'18.39" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°30'35.33" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°54'50.53" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°47'5.41" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|19°43'47.24" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|22°33'5.30" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'31.95" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°14'18.41" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°30'35.30" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|22°54'50.46" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|2°47'5.35" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|19°43'47.63" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°33'5.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'31.96" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°14'18.39" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°30'35.33" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°54'50.53" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°47'5.41" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|19°43'47.24" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|22°33'5.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'31.95" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°14'18.41" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°30'35.30" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|22°54'50.46" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|2°47'5.35" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|19°43'47.63" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴

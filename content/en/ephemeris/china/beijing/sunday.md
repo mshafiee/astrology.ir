@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'27.42" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'38.59" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°20'48.41" |Aries|Butain|Sun|
-|☉ Sun|Prograde|7°41'27.94" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|15°31'7.69" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|22°17'51.96" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|2°16'7.71" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°59'27.51" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'38.57" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°20'48.44" |Aries|Butain|Sun|
+|☉ Sun|Prograde|7°41'27.90" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|15°31'7.61" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|22°17'51.89" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|2°16'7.67" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°59'27.42" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'38.59" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°20'48.41" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|7°41'27.94" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|15°31'7.69" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|22°17'51.96" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|2°16'7.71" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°59'27.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'38.57" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°20'48.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|7°41'27.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|15°31'7.61" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|22°17'51.89" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|2°16'7.67" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: BJS, Bac Kinh, Baek-ging, Baekging, Behehzhin, Beijing, Beijing Shi, Beising, Beixin, Beixín, Bejdzing, Bejdżing, Bejing, Beyjing, Beȝcinȝ, Báe̤k-gĭng, Béising, Bắc Kinh, Pechin, Pechino, Pechinu, Pechinum, Pecinum, Pei-ching, Pei-ching-shih, Pei-p'ing, Pei-p'ing-shih, Peken, Pekin, Pekin', Pekina, Pekinas, Peking, Pekini, Pekino, Pekín, Pekîn, Peping, Pequim, Pequin, Pequín, Pet-kin, Pet-kîn, Peycing, Pikkin, Pèquin, Pékin, Péqùin, Péycing, be'ijim, be'ijina, be'ijinga, bei jing, bei jing shi, beidjin, beijing, bijiga, bijing, bijinga, bkyn, buggyeong, byjng, bykyn, byyg'yng, byyzsyng, pakking, peyjin, pkn, Πεκίνο, Бейжің, Бээжин, Бәәҗң балһсн, Пекин, Пекинг, Пекін, Пекінґ, Պեկին, בייג'ינג, בייזשינג, بكين, بيكين, بیجنگ, بېجینګ, بېيجىڭ, بېيجىڭ شەھىرى, پکن, پێکەن, ބީޖިންގ, बीजिंग, बेइजिङ, বেইজিং, ਬੀਜਿੰਗ, બેઇજિંગ, பெய்ஜிங், బీజింగ్, ಬೀಜಿಂಗ್, ബെയ്‌ജിങ്ങ്‌, බෙයිජිං, ปักกิ่ง, པེ་ཅིང་གྲོང་ཁྱེར།, ပေကျင်းမြို့, პეკინი, ቤዪጂንግ, ប៉េកាំង, 北京, 北京市, 베이징, 북경

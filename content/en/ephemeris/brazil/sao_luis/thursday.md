@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'3.11" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'49.58" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°14'0.70" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°59'31.03" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°59'1.04" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°8'53.38" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|28°41'16.72" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'3.20" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'49.56" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°14'0.73" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°59'31.00" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°59'0.97" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°8'53.32" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|28°41'16.15" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'3.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'49.58" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°14'0.70" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°59'31.03" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°59'1.04" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°8'53.38" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|28°41'16.72" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'3.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'49.56" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°14'0.73" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°59'31.00" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°59'0.97" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°8'53.32" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|28°41'16.15" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Maranham, Maranhao, Maranhão, SLZ, San Luisas, San-Luis, Sao Louis, Sao Luis, Sao Luis do Maranhao, Sao Luiz, Sao Luiz de Maranhao, Sao Luiz do Maranhao, Saun Luis, Saun Luís, São Luis, São Luiz, São Luiz de Maranhão, São Luiz do Maranhão, São Luís, São Luís do Maranhão, cavo luyicu, sa'o lu'isa, san-luisi, sanglu-iseu, saw lwyys, saw lwyz, sayw lwyys  maranhaw, sheng lu yi si, Σάο Λουίς, Сан-Луис, Сан-Луіс, Сан-Луїс, Сао Луис, סאו לואיס, ساؤ لوئیس, ساؤ لوئیس، مارانہاؤ, سائو لوئیس، مارانهاو, ساو لويز, साओ लुईस, সাও লুইস, சாவோ லூயிசு, სან-ლუისი, サン・ルイス, 圣路易斯, 상루이스

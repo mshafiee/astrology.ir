@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°56'59.65" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'22.72" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°43'18.14" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°14'40.24" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°13'18.87" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°20'24.84" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|9°11'4.44" |Leo|Zubrah|Saturn|
+|♄ Saturn|Retrograde|22°56'59.55" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'22.73" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°43'18.10" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°14'40.28" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°13'18.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°20'24.91" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|9°11'4.88" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°56'59.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'22.72" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°43'18.14" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°14'40.24" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°13'18.87" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°20'24.84" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|9°11'4.44" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°56'59.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'22.73" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°43'18.10" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°14'40.28" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°13'18.95" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°20'24.91" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|9°11'4.88" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: COR, Ciudad de Cordoba, Ciudad de Córdoba, Cordoba, Cordoba i Argentina, Cordova, Corduba, Còrdoba, Córdoba, Córdoba i Argentina, Córdova, Kordava, Kordoba, Kordobo, Kordov, Kordova, Kordova khot, Kordovae, Kuorduoba, Vila de Cordoba, Vila de Córdoba, kardwba, ke er duo wa, koleudoba, kordoba, korudoba, kwrdwba, kwrdwba  arzhantyn, kxr do ba, qwrdwbh, Κόρδοβα, Кордава, Кордоба, Кордовæ, Кордова, Кордова хот, Կորդովա, קארדאבע, קורדובה, قرطبہ، ارجنٹائن, كوردوبا, کاردوبا, کوردوبا، آرژانتین, कोर्दोबा, กอร์โดบา, კორდოვა, コルドバ, 科尔多瓦, 코르도바

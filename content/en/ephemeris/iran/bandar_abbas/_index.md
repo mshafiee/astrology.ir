@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'23.68" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'1.43" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°6'48.93" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°49'31.49" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°57'33.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°25'22.80" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|16°52'28.65" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'23.78" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'1.41" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°6'48.97" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°49'31.45" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°57'33.30" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°25'22.73" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|16°52'27.81" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'23.68" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'1.43" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°6'48.93" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°49'31.49" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|16°57'33.38" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°25'22.80" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|16°52'28.65" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°54'23.78" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'1.41" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°6'48.97" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°49'31.45" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|16°57'33.30" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°25'22.73" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|16°52'27.81" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: BND, Bandar Abas, Bandar Abbas, Bandar Abbas - بندر عباس, Bandar Abbás, Bandar `Abbas, Bandar `Abbasi, Bandar ‘Abbās, Bandar ‘Abbāsī, Bandar-Abbas, Bandar-Abbasz, Bandar-Abbos, Bandar-Abbász, Bandar-e Abbas, Bandar-e `Abbas, Bandar-e ‘Abbās, Bandare Abasas, Bander Abbas, Bantar Ampas, Bendehr-Abas, Bender Abas, Bender Abbas, Bender Ebbas, Bender-Abbas, Bəndər Abbas, Cambarao, Cambarão, Gombroon, Gumrun, Port Comorao, Port Comorão, a ba si gang, ban dar xab bas, bandaleuabaseu, bandara abbasa, bandara-e-abbasa, bender-abasi, bndr ʻbʼs, bndr ʿbas, gumbrun, Μπαντάρ Αμπάς, Бандар-Аббос, Бендер Абас, Бендер-Аббас, Бендэр-Абас, Բանդեր Աբբաս, בנדר עבאס, بندر عباس, بندرعباس, بَندَر عَبّاسی, بَندَرِ عَبّاس, بەندەر عەباس, گُمبرُّن, बंदर-ए-अब्बास, বন্দর আব্বাস, บันดาร์อับบาส, ბენდერ-აბასი, バンダレ・アッバース, 阿巴斯港, 반다르아바스

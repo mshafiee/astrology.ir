@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°33'11.33" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'34.15" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°13'25.78" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°29'15.78" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°53'9.17" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°44'48.80" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|19°24'47.07" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|22°33'11.43" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'34.14" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°13'25.80" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°29'15.75" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|22°53'9.10" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|2°44'48.75" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|19°24'47.46" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°33'11.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'34.15" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°13'25.78" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°29'15.78" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°53'9.17" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°44'48.80" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|19°24'47.07" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|22°33'11.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'34.14" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°13'25.80" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°29'15.75" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|22°53'9.10" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|2°44'48.75" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|19°24'47.46" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이

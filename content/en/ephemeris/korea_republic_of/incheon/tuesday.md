@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'59.66" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'27.40" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°37'23.27" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°34'55.84" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°55'14.74" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°49'9.08" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|26°38'27.80" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'59.76" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'27.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°37'23.30" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°34'55.79" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°55'14.66" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°49'9.02" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|26°38'26.52" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'59.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'27.40" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°37'23.27" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°34'55.84" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°55'14.74" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°49'9.08" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°38'27.80" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'59.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'27.39" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°37'23.30" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°34'55.79" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°55'14.66" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°49'9.02" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°38'26.52" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chemulpo, Incchon, Inch'on, Inch'ŏn, Incheon, Incheon-si, Inchkhon, Inchkhun, Inchon, Inchona, Incon, Inconas, Incshon, Intson, Inĉon, Inčchon, Inčhona, Inčonas, JCN, Nhan Xuyen, Nhân Xuyên, anchn, antshwn, aynchywn, incevona, incheon, incheongwang-yeogsi, incheonsi, inkiyon, ren chuan guang yu shi, xin chxn, İncheon, Ίντσον, Інчхон, Инчон, Инчхон, Инчхън, אינצ'ון, إنتشون, انچن, اینچئون, इंचेवॉन, இங்கியோன், อินช็อน, 仁川广域市, 仁川広域市, 仁川廣域市, 인천, 인천광역시, 인천시

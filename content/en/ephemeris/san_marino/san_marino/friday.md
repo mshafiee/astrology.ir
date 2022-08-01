@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'34.93" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°37'44.59" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°44'10.44" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°44'58.93" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°56'50.52" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|1°28'24.03" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|22°36'35.03" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°37'44.58" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°44'10.47" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°44'58.90" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°56'50.44" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|1°28'23.98" |Leo|Jabhah|Saturn|
 |☾ Moon|Prograde|9°5'22.51" |Libra|Ghafr|Moon|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°36'34.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°37'44.59" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°44'10.44" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°44'58.93" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°56'50.52" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|1°28'24.03" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°36'35.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°37'44.58" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°44'10.47" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°44'58.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°56'50.44" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|1°28'23.98" |Virgo|Sarfrah|Sun|
 |☾ Moon|Prograde|9°5'22.51" |Scorpio|Qalb|Mars|
 
 
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Agios Marinos, Altepetl San Marino, Cathair San Mairine, Cathair San Mairíne, Ceety o San Marino, Cidade de San Marino, Cita e San Marino, Citad da San Marino, Citta di San Marino, Città di San Marino, City of San Marino, Cità e San Marino, Ciuda de San Marino, Ciudad de San Marino, Ciudá de San Marino, Ciutat de San Marino, Civitas Sancti Marini, Dinas San Marino, Ilu San Marino, Ker San Marino, Kêr San Marino, Orasul San Marino, Orașul San Marino, SAI, Saint-Marin, San Marinas, San Marino, San Marino Citta, San Marino Città, San Marino by, San Marino i San Marino, San Marino sehri, San Marino şehri, San Marins, San Maríno, San Marínó, San-Marino, San-Maryna, Sanmarino, Sanmarīno, Sant Marin, Sao Marino, Sen Maren, Sita de San Marin, Sita ed San Marin, Sità de San Marin, Sità ëd San Marin, Stadt San Marino, São Marino, Thanh pho San Marino, Thành phố San Marino, Ville de Saint-Marin, ceyint marino nakaram, san ma ri no, san marynw almdynt, san-marino, sanmalino, sanmarino, sanmarino shi, sheng ma li nuo, sheng ma lian nu cheng, sn marynw, sn mrynw, Ìlú San Màrínò, Άγιος Μαρίνος, Сан Марино, Сан-Марино, Сан-Марына, Սան Մարինո, סן מרינו, سان مارينو المدينة, سان مارینو شہر, سان مارینۆ, سان مرینو شہر, سن مارینو, செயின்ட் மரினோ நகரம், ซานมารีโน, སན་མ་རི་ནོ།, სან-მარინო, ሳን ማሪኖ, サンマリノ, サンマリノ市, 聖馬力諾, 聖馬連奴城, 산마리노

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°56'44.60" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'20.67" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°45'32.44" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°18'1.06" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°17'32.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°26'38.03" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|10°8'29.05" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°56'44.70" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'20.66" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°45'32.48" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°18'1.01" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°17'32.05" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°26'37.96" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|10°8'28.59" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°56'44.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'20.67" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°45'32.44" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°18'1.06" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°17'32.13" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°26'38.03" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|10°8'29.05" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°56'44.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'20.66" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°45'32.48" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°18'1.01" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°17'32.05" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°26'37.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|10°8'28.59" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Atemaxac, GDL, Gouadalachara, Guadalajara, Guadalajara i Jalisco, Guadalakhara, Guadalaxara, Gvadalachara, Gvadalahara, Gvadalaharo, Gvadalakhara, Gvadalakharae, gatalajara, ghwadalakhara, gu'adalahara, gua da la ha la, guadarahara, gvadalahara, gvadalakhara, gwadalakhara  khalyskw, gwadallahala, gwwdlhrh, kwa da la ha ra, Ātemaxac, Γουαδαλαχάρα, Гвадалахарæ, Гвадалахара, Гуадалахара, גוודלחרה, غوادالاخارا, گوادالاخارا، خالیسکو, گواڈلہارا, ग्वादालाहारा, ਗੁਆਦਾਲਾਹਾਰਾ, ഗൗതലജാറ, กวาดาลาฮารา, გვადალახარა, グアダラハラ, 瓜达拉哈拉, 과달라하라

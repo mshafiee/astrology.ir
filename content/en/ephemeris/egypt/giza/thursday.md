@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:01:54 |
+| Dawn | 04:01:53 |
 | Sunrise | 05:15:42 |
 | Dhuhr | 12:01:19 |
 | Medium Coeli | 12:01:19 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'6.41" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'7.91" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°4'48.25" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°45'40.22" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°41'24.61" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°44'28.22" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°33'29.55" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'6.51" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'7.89" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°4'48.27" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°45'40.18" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°41'24.53" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°44'28.16" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°33'28.80" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'6.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'7.91" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°4'48.25" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°45'40.22" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°41'24.61" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°44'28.22" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°33'29.55" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'6.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'7.89" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°4'48.27" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°45'40.18" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°41'24.53" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°44'28.16" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°33'28.80" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ

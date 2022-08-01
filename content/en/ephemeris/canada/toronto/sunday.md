@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°57'10.12" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'23.87" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°41'41.62" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°12'18.74" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°10'18.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°15'57.98" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|8°48'46.11" |Leo|Zubrah|Saturn|
+|♄ Saturn|Retrograde|22°57'10.22" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'23.85" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°41'41.66" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°12'18.70" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°10'18.13" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°15'57.92" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|8°48'45.71" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°57'10.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'23.87" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°41'41.62" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°12'18.74" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°10'18.21" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°15'57.98" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|8°48'46.11" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°57'10.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'23.85" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°41'41.66" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°12'18.70" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°10'18.13" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°15'57.92" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|8°48'45.71" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Taronta, Torontas, Toronto, Torontu, Torontum, Torontó, YTO, duo lun duo, roranro, taronto, teareantea, tho rxn to, tolonto, toramto, toranto, toronto, twrntw, twrwntw, Τορόντο, Таронта, Торонто, Տորոնտո, טאראנטא, טורונטו, تورنتو, تورونتو, ٹورانٹو, ٹورنٹو, टोरण्टो, टोरन्टो, टोराँटो, तोरन्तो, টরোন্টো, ਟੋਰਾਂਟੋ, ரொறன்ரோ, టొరంటో, ಟೊರಾಂಟೋ, ടോറോണ്ടോ, โทรอนโต, တိုရွန်တိုမြို့, ტორონტო, トロント, 多伦多, 多倫多, 토론토

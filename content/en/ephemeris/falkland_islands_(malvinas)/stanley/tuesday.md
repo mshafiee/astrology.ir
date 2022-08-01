@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'20.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'56.13" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°1'9.91" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°10'17.81" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|18°40'14.33" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°53'44.95" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|4°3'34.46" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°48'20.12" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'56.11" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°1'9.94" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°10'17.77" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|18°40'14.25" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°53'44.88" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|4°3'33.02" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'20.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'56.13" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°1'9.91" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°10'17.81" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|18°40'14.33" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°53'44.95" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|4°3'34.46" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°48'20.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'56.11" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°1'9.94" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°10'17.77" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|18°40'14.25" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°53'44.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|4°3'33.02" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PSY, Port Stanley, Port Stenli, Port Stenlis, Port-Stehnli, Port-Stenli, Porto Arxentino/Stanley, Puerto Archentinas/Stenlis, Puerto Argentino, Stanlef, Stanlejo, Stanley, Stanley Harbour, Stehnli, Stenli, Stenlis, astnly  jzayr falklnd, asٹynlے  jzayr faklynڈ, icutanli, porta stenli, seutaenli, si tan li, si tan li gang, stanly, stnly, sutanre, sutanri, Στάνλεϋ, Порт Стенли, Порт-Стенлі, Порт-Стэнли, Стенли, Стэнлі, Պորտ Սթենլի, סטאנלי, סטנלי, استنلی، جزایر فالکلند, اسٹینلے، جزائر فاکلینڈ, ستانلي, سٹینلے, पोर्ट स्टॅन्ली, இசுடான்லி, സ്റ്റാൻലി, สแตนลีย์, スタンリー, スタンレー, 斯坦利, 斯坦利港, 스탠리

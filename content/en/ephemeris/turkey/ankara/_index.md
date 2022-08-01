@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:10:45 |
-| Sunrise | 05:47:07 |
+| Sunrise | 05:47:06 |
 | Dhuhr | 12:54:58 |
 | Medium Coeli | 12:54:58 |
 | Sunset | 20:02:14 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:58:38 |
-| Sunrise | 05:47:07 |
+| Sunrise | 05:47:06 |
 | Dhuhr | 12:54:58 |
 | Medium Coeli | 12:54:58 |
 | Sunset | 20:02:14 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:56:27 |
-| Sunrise | 05:47:07 |
+| Sunrise | 05:47:06 |
 | Dhuhr | 12:54:58 |
 | Medium Coeli | 12:54:58 |
 | Sunset | 20:02:14 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:17:40 |
-| Sunrise | 05:47:07 |
+| Sunrise | 05:47:06 |
 | Dhuhr | 12:54:58 |
 | Medium Coeli | 12:54:58 |
 | Sunset | 20:02:14 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:45:14 |
-| Sunrise | 05:47:07 |
+| Sunrise | 05:47:06 |
 | Dhuhr | 12:54:58 |
 | Medium Coeli | 12:54:58 |
 | Sunset | 20:02:14 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:56:27 |
-| Sunrise | 05:47:07 |
+| Sunrise | 05:47:06 |
 | Dhuhr | 12:54:58 |
 | Medium Coeli | 12:54:58 |
 | Sunset | 20:02:14 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:52:46 |
-| Sunrise | 05:47:07 |
+| Sunrise | 05:47:06 |
 | Dhuhr | 12:54:58 |
 | Medium Coeli | 12:54:58 |
 | Sunset | 20:02:14 |
@@ -204,20 +204,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 14:15:07|Night duration: 09:45:48|
+|Duration of the day: 14:15:08|Night duration: 09:45:48|
 |Every hour of day duration: 01:11:16|Every hour of night duration: 00:48:49|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:47:07|06:58:21|Dawn repulsion, depleted energy absorption|
-|2|Saturn|Servant|06:58:22|08:09:37|The journey of the appearance and the interior|
-|3|Jupiter|Servant|08:09:38|09:20:52|Marriage is a good marriage|
-|4|Mars|Servant|09:20:53|10:32:08|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Sun|Servant|10:32:09|11:43:23|Defecation, attracting love and wealth|
+|1|Moon|Ruler|05:47:06|06:58:20|Dawn repulsion, depleted energy absorption|
+|2|Saturn|Servant|06:58:21|08:09:36|The journey of the appearance and the interior|
+|3|Jupiter|Servant|08:09:37|09:20:52|Marriage is a good marriage|
+|4|Mars|Servant|09:20:53|10:32:07|Repelling and destroying the enemy and draining the energy of the enemy|
+|5|Sun|Servant|10:32:08|11:43:23|Defecation, attracting love and wealth|
 |6|Venus|Servant|11:43:24|12:54:39|Summoning the desired person, love and conquest|
-|7|Mercury|Servant|12:54:40|14:05:55|Aqdalsan|
-|8|Moon|Ruler|14:05:56|15:17:10|Correction of two people, attraction of love|
+|7|Mercury|Servant|12:54:40|14:05:54|Aqdalsan|
+|8|Moon|Ruler|14:05:55|15:17:10|Correction of two people, attraction of love|
 |9|Saturn|Servant|15:17:11|16:28:26|Attracting and repelling the enemy and separating|
 |10|Jupiter|Servant|16:28:27|17:39:41|It is good for every action|
 |11|Mars|Servant|17:39:42|18:50:57|Creating Enmity and Negative Energy|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 14:15:07|Night duration: 09:45:48|
+|Duration of the day: 14:15:08|Night duration: 09:45:48|
 |Every hour duration: 02:02:10|Every hour duration: 01:23:41|
 
  
@@ -258,11 +258,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|05:47:07|07:49:15|
-|Mid-morning|Saturn|Servant|07:49:16|09:51:25|
-|Late morning|Jupiter|Servant|09:51:26|11:53:34|
-|Noon|Mars|Servant|11:53:35|13:55:44|
-|Early afternoon|Sun|Servant|13:55:45|15:57:53|
+|Early morning|Moon|Ruler|05:47:06|07:49:14|
+|Mid-morning|Saturn|Servant|07:49:15|09:51:24|
+|Late morning|Jupiter|Servant|09:51:25|11:53:34|
+|Noon|Mars|Servant|11:53:35|13:55:43|
+|Early afternoon|Sun|Servant|13:55:44|15:57:53|
 |Mid-afternoon|Venus|Servant|15:57:54|18:00:03|
 |Late afternoon|Mercury|Servant|18:00:04|20:02:13|
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'11.52" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'59.64" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°8'39.39" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°52'14.79" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°1'1.28" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|24°30'26.64" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|17°24'8.41" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|22°54'11.62" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'59.63" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°8'39.40" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°52'14.71" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°1'1.15" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|24°30'26.50" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|17°24'6.89" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°54'11.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'59.64" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°8'39.39" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°52'14.79" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°1'1.28" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|24°30'26.64" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|17°24'8.41" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|22°54'11.62" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'59.63" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°8'39.40" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°52'14.71" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°1'1.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|24°30'26.50" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|17°24'6.89" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: ANK, Anakara, Ancara, Ancyra, Ang-ka-la, Angkara, Angora, Anguriyah, Ankar, Ankara, Ankara khot, Ankaro, Ankuara, Ankura, Ankyra, Ankyra (Ankyra), Anqara, Enguri, Engüri, Enqere, akara, an ka la, angkala, ankara, anqrh, anqrt, xangkara, Ăng-kā-lá, Άγκυρα (Ankyra), Анкара, Анкара хот, Анкъара, Әнкара, Անկարա, אנקארא, אנקרה, آنکارا, أنقرة, ئەنقەرە, انقره, انقرہ, انکرہ, ܐܢܩܪܐ, अंकारा, আঙ্কারা, ਅੰਕਾਰਾ, ଆଙ୍କାରା, அங்காரா, అంకారా, ಅಂಕಾರಾ, അങ്കാറ, อังการา, ཨན་ཁ་ར།, ანკარა, አንካራ, アンカラ, 安卡拉, 앙카라

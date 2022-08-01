@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'33.56" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'18.08" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°25'41.71" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°47'0.70" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|19°26'50.74" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|27°59'57.85" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|12°26'23.73" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|22°45'33.66" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'18.06" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°25'41.74" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°47'0.66" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|19°26'50.66" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|27°59'57.79" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|12°26'22.41" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°45'33.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'18.08" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°25'41.71" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°47'0.70" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|19°26'50.74" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|27°59'57.85" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|12°26'23.73" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|22°45'33.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'18.06" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°25'41.74" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°47'0.66" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|19°26'50.66" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|27°59'57.79" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|12°26'22.41" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -369,12 +369,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나
