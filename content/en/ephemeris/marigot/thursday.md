@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'54.22" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'46.91" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°15'18.03" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°1'27.76" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°1'29.18" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°12'18.36" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|29°8'15.64" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°39'54.32" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'46.89" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°15'18.06" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°1'27.72" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°1'29.10" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°12'18.30" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|29°8'15.10" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'54.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'46.91" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°15'18.03" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°1'27.76" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°1'29.18" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°12'18.36" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°8'15.64" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°39'54.32" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'46.89" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°15'18.06" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°1'27.72" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°1'29.10" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°12'18.30" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°8'15.10" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MSB, Marigo, Marigot, Marigoto, Marinko, Mariqo, Marygo, XCJ, ma li ge, ma ri ko, maligas, maligo, marigo, marikat, marygw, Μαριγκό, Мариго, Марыго, Маріго, ماریگاٹ, ماریگو, मारिगो, மரிகாட், มารีโก, მარიგო, マリゴ, 马里戈, 마리갓, 마리고

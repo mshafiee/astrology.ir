@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'8.09" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'25.17" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°55'48.77" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°32'9.51" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°24'14.04" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°20'33.24" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|22°30'35.65" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'8.18" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'25.15" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°55'48.79" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°32'9.47" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°24'13.97" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°20'33.19" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|22°30'34.73" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'8.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'25.17" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°55'48.77" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°32'9.51" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°24'14.04" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°20'33.24" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|22°30'35.65" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'8.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'25.15" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°55'48.79" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°32'9.47" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°24'13.97" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°20'33.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|22°30'34.73" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CGO, Cencou, Ceng-cou, Cengcou, Cheng, Cheng-chou, Cheng-chou-shih, Cheng-hsien, Chengchow, Chhiang-chu-su, Chhiáng-chû-sṳ, Chzhehnchzhou, Chzhenchzhou, Cjencjou, Csengcsou, Cwngcouh, Czengczou, Dang-ciu, Dzendzou, Dzengdzou, Dzhundzhou, Dâng-ciŭ, Džendžou, Džengdžou, Genggouo, Trinh Chau, Trịnh Châu, Tsentsoou, Tēⁿ-chiu-chhī, Zengzou, Zhengtsjou, Zhengzhou, Zhengzhou Shi, canaco, cancau, ceing cow, cencavu, jeongjeou si, jhengajho'u, tshnghtshw, zheng zhou, zheng zhou shi, zhngzhw, zhyngzhw, Çengçou, Çjençjou, Čeng-čou, Ĝengĝoŭo, Žengžou, Τσεντσόου, Џенгџоу, Джънджоу, Жөнжоу, Чженчжоу, Чжэнчжоу, Чжэнчжоў, تشنغتشو, جېڭجۇ شەھىرى, ژنگژو, ژینگژو, चंचौ, झेंगझोऊ, ਚੰਙਚੋ, செங்சவு, เจิ้งโจว, ကျင့်ကျိုးမြို့, 郑州, 郑州市, 鄭州, 鄭州市, 정저우 시

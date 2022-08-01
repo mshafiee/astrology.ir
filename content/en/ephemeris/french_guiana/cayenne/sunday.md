@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 19:00:13 |
 | Isha | 19:42:45 |
 | Sharia Midnight | 00:03:03 |
-| Imum Coeli | 00:35:43 |
+| Imum Coeli | 00:35:44 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:02:21 |
 | Isha | 19:42:45 |
 | Sharia Midnight | 23:59:24 |
-| Imum Coeli | 00:35:43 |
+| Imum Coeli | 00:35:44 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:46:49 |
 | Isha | 19:55:36 |
 | Sharia Midnight | 23:58:45 |
-| Imum Coeli | 00:35:43 |
+| Imum Coeli | 00:35:44 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:46:49 |
 | Isha | 19:47:02 |
 | Sharia Midnight | 00:05:11 |
-| Imum Coeli | 00:35:43 |
+| Imum Coeli | 00:35:44 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:46:49 |
 | Isha | 19:57:45 |
 | Sharia Midnight | 23:55:32 |
-| Imum Coeli | 00:35:43 |
+| Imum Coeli | 00:35:44 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:46:49 |
 | Isha | 19:59:54 |
 | Sharia Midnight | 23:58:45 |
-| Imum Coeli | 00:35:43 |
+| Imum Coeli | 00:35:44 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:46:49 |
 | Isha | 20:16:49 |
 | Sharia Midnight | 23:57:41 |
-| Imum Coeli | 00:35:43 |
+| Imum Coeli | 00:35:44 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°57'17.14" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°42'24.61" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|17°40'37.34" |Aries|Butain|Sun|
-|☉ Sun|Prograde|8°10'44.46" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|16°8'17.66" |Gemini|HanAh|Mars|
-|☿ Mercury|Prograde|23°12'59.73" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|8°34'56.84" |Leo|Zubrah|Saturn|
+|♄ Saturn|Retrograde|22°57'17.04" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°42'24.62" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|17°40'37.31" |Aries|Butain|Sun|
+|☉ Sun|Prograde|8°10'44.50" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|16°8'17.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Prograde|23°12'59.80" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|8°34'57.22" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°57'17.14" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°42'24.61" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|17°40'37.34" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|8°10'44.46" |Leo|Jabhah|Saturn|
-|♀ Venus|Prograde|16°8'17.66" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|23°12'59.73" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|8°34'56.84" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|22°57'17.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°42'24.62" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|17°40'32.90" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|8°10'40.98" |Leo|Jabhah|Saturn|
+|♀ Venus|Prograde|16°8'14.46" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|23°12'57.99" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|8°29'9.69" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Jupiter|Venus|Taurus|Moon|Venus|
-|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}

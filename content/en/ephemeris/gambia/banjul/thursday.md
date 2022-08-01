@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'26.99" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'56.54" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°10'32.12" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°54'17.55" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°52'22.15" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°59'40.83" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|27°30'50.68" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'27.09" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'56.53" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°10'32.14" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°54'17.51" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°52'22.08" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°59'40.77" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|27°30'50.04" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'26.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'56.54" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°10'32.12" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°54'17.55" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°52'22.15" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°59'40.83" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°30'50.68" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'27.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'56.53" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°10'32.14" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°54'17.51" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°52'22.08" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°59'40.77" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°30'50.04" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BJL, Bandzhul, Bandzul, Bandzula, Bandzulis, Bandżul, Bandžula, Bandžulis, Banjoul, Banjul, Banjulo, Banyul, Banzhul, Banĵulo, Bathurst, Bathurstopolis, Mpanzoul, bajula, ban cul, ban zhu, ban zhu er, banjul, banjula, banjuli, banjuru, banjwl, bngwl, pancul, Μπανζούλ, Банджул, Банжул, Банџул, Банҷул, Բանջուլ, באנזשול, בנגול, بانجول, बंजुल, बाञ्जुल, ਬੰਜੁਲ, பஞ்சுல், บันจูล, བཱན་ཇཱུ་ལ།, ბანჯული, ባንጁል, バンジュール, 班珠尔, 班竹, 반줄

@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Prograde|9°36'32.87" |Leo|Zubrah|Saturn|
 |♀ Venus|Prograde|17°57'17.76" |Cancer|Tarf|Mercury|
 |☿ Mercury|Prograde|25°52'6.47" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°59'48.34" |Virgo|Simak|Mercury|
+|☾ Moon|Prograde|27°1'14.36" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'37.78" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'59.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°8'58.82" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°51'57.13" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°49'23.59" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°55'33.26" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|26°59'6.59" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'37.68" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'59.65" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°8'58.79" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°51'57.17" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°49'23.67" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°55'33.32" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|26°59'7.26" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'37.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'59.63" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°8'58.82" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°51'57.13" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°49'23.59" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°55'33.26" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°59'6.59" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'37.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'59.65" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°8'58.79" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°51'57.17" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°49'23.67" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°55'33.32" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°59'7.26" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구

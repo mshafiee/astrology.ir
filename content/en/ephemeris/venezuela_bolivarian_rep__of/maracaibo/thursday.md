@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'46.17" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'44.52" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°16'28.14" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°3'13.27" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°3'43.35" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°15'23.90" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|29°32'11.47" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°39'46.27" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'44.50" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°16'28.17" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°3'13.23" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°3'43.27" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°15'23.85" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|29°32'10.95" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'46.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'44.52" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°16'28.14" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°3'13.27" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°3'43.35" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°15'23.90" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°32'11.47" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°39'46.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'44.50" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°16'28.17" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°3'13.23" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°3'43.27" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°15'23.85" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°32'10.95" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MAR, Maracaibo, Marakaibas, Marakaibo, Marakaimpo, Marakajba, Marakajbo, Marakaybo, Marakaypu, ma la kai bo, ma ra ki bo, malakaibo, maraka'ibo, marakaibo, marakaybw, Μαρακάιμπο, Маракаибо, Маракайба, Маракайбо, Մարակայբո, מרקאיבו, ماراكايبو, माराकाईबो, ਮਾਰਾਕਾਈਬੋ, มาราไกโบ, მარაკაიბო, マラカイボ, 马拉开波, 마라카이보

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°51'30.86" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'33.10" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°32'44.50" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°28'0.76" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°46'27.59" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°36'27.78" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|25°6'51.37" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°51'30.76" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'33.11" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°32'44.47" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°28'0.81" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°46'27.67" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°36'27.85" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|25°6'52.60" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°51'30.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'33.10" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°32'44.50" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°28'0.76" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°46'27.59" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°36'27.78" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°6'51.37" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°51'30.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'33.11" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°32'44.47" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°28'0.81" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°46'27.67" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°36'27.85" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°6'52.60" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

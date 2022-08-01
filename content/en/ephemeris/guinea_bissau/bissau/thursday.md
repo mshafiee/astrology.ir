@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°40'27.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'57.91" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°10'33.47" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°54'11.21" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°52'16.49" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°59'30.25" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°54'48.59" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Retrograde|8°38'56.64" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°10'29.20" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°54'13.15" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°52'16.57" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°59'33.09" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°29'50.04" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bisao, Bisau, Bisau - Bissau, Bisauo, Bisava, Bisaŭo, Biso, Bissa, Bissao, Bissau, Bissá, Bisáu, Mpissaou, OXB, Sao Jose de Bissau, São José de Bissáu, Wisaw, bi shao, bis sea, bis'sa'u, bisa'u, bisau, bsaw, bysaw, bysayw, picavu, Μπισσάου, Бисао, Бисау, Бісау, Բիսաու, ביסאו, بساؤ, بيساو, بیسائو, بیساو, बिसाउ, বিসাউ, বিস্সাউ, ਬਿਸਾਊ, பிசாவு, บิสเซา, བི་སའོ།, ბისაუ, ቢሳው, ビサウ, 比紹, 比绍, 비사우

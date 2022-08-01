@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:17:31 |
 | Sunset | 18:44:04 |
 | Maghrib | 18:45:03 |
-| Isha | 19:58:06 |
+| Isha | 19:58:05 |
 | Sharia Midnight | 23:38:14 |
 | Imum Coeli | 00:17:28 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'54.35" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'46.94" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°15'16.92" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°1'26.08" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°1'27.05" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°12'15.41" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|29°7'52.89" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°39'54.45" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'46.93" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°15'16.95" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°1'26.05" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°1'26.97" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°12'15.35" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|29°7'52.34" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'54.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'46.94" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°15'16.92" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°1'26.08" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°1'27.05" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°12'15.41" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|29°7'52.89" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°39'54.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'46.93" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°15'16.95" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°1'26.05" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°1'26.97" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°12'15.35" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|29°7'52.34" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Goustavia, Gustaf, Gustavi, Gustavia, Gustavija, Gustavio, Gustávia, Guthavia, Qustaviya, guseutabia, gustavhiya, gusutabia, gwiseutabia, gwstawya, ju si ta wei ya, ku s ta wi ya, kucutaviya, Γουσταβία, Густави, Густавия, Густавија, Густавія, گوستاویا, گوسٹاویا, गुस्ताव्हिया, குசுதாவியா, กุสตาวียา, გუსტავია, グスタビア, 居斯塔维亚, 구스타비아, 귀스타비아

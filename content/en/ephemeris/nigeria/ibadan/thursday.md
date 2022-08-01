@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'40.58" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'0.45" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°8'34.38" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°51'20.33" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°48'36.84" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°54'28.40" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|26°50'40.86" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'40.48" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'0.47" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°8'34.36" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°51'20.36" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°48'36.92" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°54'28.46" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|26°50'41.54" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'40.58" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'0.45" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°8'34.38" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°51'20.33" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°48'36.84" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°54'28.40" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°50'40.86" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'40.48" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'0.47" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°8'34.36" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°51'20.36" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°48'36.92" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°54'28.46" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°50'41.54" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: IBA, Ibadan, Ibadan shaary, Ibadana, Ibadanas, Ibadano, Ibadán, abadan, aybadan, ibadan, ibadana, yi ba dan, Ìbàdàn, İbadan, Ібадан, Ибадан, Ибадан шаары, איבדאן, إبادان, إيبادان, ابادان, ਇਬਾਦਾਨ, イバダン, 伊巴丹, 이바단

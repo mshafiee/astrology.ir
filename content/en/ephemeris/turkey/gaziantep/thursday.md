@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'13.43" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'9.88" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°3'48.11" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°44'9.48" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°39'29.46" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°41'48.25" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°12'27.42" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'13.33" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'9.89" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°3'48.08" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°44'9.52" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°39'29.53" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°41'48.31" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°12'28.19" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'13.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'9.88" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°3'48.11" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°44'9.48" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°39'29.46" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°41'48.25" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°12'27.42" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'13.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'9.89" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°3'48.08" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°44'9.52" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°39'29.53" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°41'48.31" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°12'28.19" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Aintab, Antep, Ayintap, Ayntʻap, Ayıntap, Dilok, Dîlok, GZT, Gazi-Ayintap, Gaziantep, Gaziantepa, Gaziantepas, Gazijantehp, Gazijantep, Guaziantep, Nkaziantep, Qazianteb, Qaziantep, gaji'antepa, gajiantepeu, gaziantepi, gazu~iantepu, jia ji an tai pu, ka si xan tep, Γκαζιαντέπ, Газиантеп, Газијантеп, Газіянтэп, Гъазиантеп, Ґазіантеп, Այնթապ, Գազիանթեպ, גזיאנטפ, عنتاب, غازی عینتاب, گازی ئانتەپ, ਗਜਿਆਂਤੇਪ, กาซีอันเตป, გაზიანთეფი, ガズィアンテプ, 加濟安泰普, 가지안테프

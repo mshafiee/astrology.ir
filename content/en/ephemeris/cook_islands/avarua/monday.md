@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°51'37.01" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'34.25" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°31'49.74" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°26'38.86" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°44'43.94" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°33'57.98" |Cancer|Tarf|Moon|
-|☾ Moon|Prograde|24°46'29.53" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°51'36.92" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'34.26" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°31'49.70" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°26'38.91" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°44'44.02" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°33'58.05" |Cancer|Tarf|Moon|
+|☾ Moon|Prograde|24°46'30.75" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°51'37.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'34.25" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°31'49.74" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°26'38.86" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°44'43.94" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°33'57.98" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°46'29.53" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°51'36.92" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'34.26" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°31'49.70" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°26'38.91" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°44'44.02" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°33'58.05" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°46'30.75" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'41.99" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'18.04" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°59'39.90" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°37'55.06" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°31'34.67" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°30'47.74" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|23°44'38.41" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'41.90" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'18.05" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°59'39.87" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°37'55.09" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°31'34.75" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°30'47.80" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|23°44'39.26" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'41.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'18.04" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°59'39.90" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°37'55.06" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°31'34.67" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°30'47.74" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|23°44'38.41" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'41.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'18.05" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°59'39.87" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°37'55.09" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°31'34.75" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°30'47.80" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|23°44'39.26" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Catharinoburgum, Ekaterimburgo, Ekaterinbourg, Ekaterinburg, Ekaterinburgo, Ekatěrinburg, Jekaterinburg, Jekaterinburga, Jekaterinburgas, Jekaterinenburg, Jekaterynburg, Jekatyerinburg, SVX, Sverdlovsk, Sverolovsk, Yekaterinburg, ekaterinburuku, ye ka jie lin bao, yekatelinbuleukeu, yqtrynbwrg, Екатеринбург, Свердловск, יקטרינבורג, エカテリンブルク, 葉卡捷琳堡, 예카테린부르크

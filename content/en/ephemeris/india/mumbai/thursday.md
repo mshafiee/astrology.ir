@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'33.71" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'15.56" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°0'50.02" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°39'42.34" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°33'49.37" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°33'55.02" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°13'22.75" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'33.62" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'15.58" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°0'49.99" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°39'42.38" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°33'49.44" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°33'55.07" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|24°13'23.57" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'33.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'15.56" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°0'50.02" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°39'42.34" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°33'49.37" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°33'55.02" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°13'22.75" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'33.62" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'15.58" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°0'49.99" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°39'42.38" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°33'49.44" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°33'55.07" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°13'23.57" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이
