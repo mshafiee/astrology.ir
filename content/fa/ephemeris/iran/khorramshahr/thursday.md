@@ -373,8 +373,8 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**♂ بهرام**|□ تربیع| |||||
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**| |□ تربیع|✱ تسدیس| |||
-|**☿ تیر**| | |△ تثلیث| |✱ تسدیس||
-|**☾ ماه**|□ تربیع| |☍ مقابله|□ تربیع|△ تثلیث|✱ تسدیس|
+|**☿ تیر**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه| ||
+|**☾ ماه**|△ تثلیث|☍ مقابله| |✱ تسدیس|□ تربیع|✱ تسدیس|
 
 ---
 نام‌های دیگر: Al-Muhammarah, Choremsehras, Choremšehras, Chorramsahr, Chorramschahr, Chorramszahr, Chorramšahr, Horamsaher, Horamšaher, Huerremsehr, Hürremşehr, Jorramchar, Khoramshahr, Khorram Shahr Abadan, Khorram Shahr Ābādān, Khorramchahre, Khorramshahr, Khorramxahr, Khorremshekhr, Khunin Shahr, Khurramshahr, Khūnīn Shahr, Koramshar, Koramsjar, Mohammerah, Muhammerah, Xürrəmşəhr, almhmrt, bndr khrmshhr, horramushafuru, huo la mu sha he er, khrmshhr, khurramasahara, Корамшар, Хорремшехр, Хуррамшаҳр, المحمرة, بندر خرمشهر, خرمشهر, خرمشھر, खुर्रमशहर, ホッラムシャフル, 霍拉姆沙赫尔

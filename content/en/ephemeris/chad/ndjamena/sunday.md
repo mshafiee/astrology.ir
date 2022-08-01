@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:39:40|Night duration: 11:20:32|
+|Duration of the day: 12:39:40|Night duration: 11:20:31|
 |Every hour of day duration: 01:03:18|Every hour of night duration: 00:56:43|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|18:26:01|19:22:42|Love and attracting capital|
 |2|Mars|Servant|19:22:43|20:19:25|It's ugly, nothing to do|
-|3|Sun|Servant|20:19:26|21:16:08|Operation of Compassion and Attraction of Love|
-|4|Venus|Servant|21:16:09|22:12:50|Evil and repel good|
-|5|Mercury|Servant|22:12:51|23:09:33|Separation and grudges and hostilities|
-|6|Moon|Servant|23:09:34|00:06:16|It's good for all good deeds|
-|7|Saturn|Servant|00:06:17|01:02:58|Do not do anything, it causes misery|
-|8|Jupiter|Ruler|01:02:59|01:59:41|It is very auspicious and attracts happiness|
-|9|Mars|Servant|01:59:42|02:56:24|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Sun|Servant|02:56:25|03:53:06|Attracting happiness, solving financial problems|
-|11|Venus|Servant|03:53:07|04:49:49|Doing marriage|
-|12|Mercury|Servant|04:49:50|05:46:32|Discover the Fugitive and Find the Thief|
+|3|Sun|Servant|20:19:26|21:16:07|Operation of Compassion and Attraction of Love|
+|4|Venus|Servant|21:16:08|22:12:50|Evil and repel good|
+|5|Mercury|Servant|22:12:51|23:09:32|Separation and grudges and hostilities|
+|6|Moon|Servant|23:09:33|00:06:15|It's good for all good deeds|
+|7|Saturn|Servant|00:06:16|01:02:58|Do not do anything, it causes misery|
+|8|Jupiter|Ruler|01:02:59|01:59:40|It is very auspicious and attracts happiness|
+|9|Mars|Servant|01:59:41|02:56:23|Summoning the desired person, attracting hearts, compassion of hearts|
+|10|Sun|Servant|02:56:24|03:53:05|Attracting happiness, solving financial problems|
+|11|Venus|Servant|03:53:06|04:49:48|Doing marriage|
+|12|Mercury|Servant|04:49:49|05:46:31|Discover the Fugitive and Find the Thief|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:39:40|Night duration: 11:20:32|
+|Duration of the day: 12:39:40|Night duration: 11:20:31|
 |Every hour duration: 01:48:31|Every hour duration: 01:37:13|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Venus|Servant|23:17:40|00:54:52|
 |Rooster song|Mercury|Servant|00:54:53|02:32:05|
 |False Dawn|Moon|Servant|02:32:06|04:09:18|
-|Dawn|Saturn|Servant|04:09:19|05:46:32|
+|Dawn|Saturn|Servant|04:09:19|05:46:31|
 
 {{< /tab >}}
 

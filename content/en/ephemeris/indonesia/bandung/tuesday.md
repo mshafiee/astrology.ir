@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'33.84" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'22.56" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°41'14.48" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°40'39.95" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°2'31.84" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°59'39.17" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|27°53'50.08" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'33.74" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'22.57" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°41'14.44" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°40'39.99" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°2'31.92" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°59'39.24" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|27°53'51.40" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'33.84" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'22.56" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°41'14.48" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°40'39.95" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°2'31.84" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°59'39.17" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°53'50.08" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'33.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'22.57" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°41'14.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°40'39.99" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°2'31.92" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°59'39.24" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°53'51.40" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: BDO, Bandoeng, Banduna, Bandung, Bandungas, Bandungo, Bantoun'nk, Kota Bandung, Kuta Bandung, Kutha Bandhung, ban dung, bandon, bandung, bandungi, bandwng, bandwnj, bndwng, pantun, wan long, Μπαντούνγκ, Бандунг, Бандуң, Բանդունգ, באנדונג, باندونج, باندونگ, بندونگ, بنڈونگ, பண்டுங், บันดุง, ဘန်ဒေါင်းမြို့, ბანდუნგი, バンドン, 万隆, 萬隆, 반둥

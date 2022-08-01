@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'27.67" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'30.52" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°52'57.18" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°27'51.86" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°18'46.52" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°12'56.02" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|21°32'39.96" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'27.77" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'30.50" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°52'57.21" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°27'51.82" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°18'46.45" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°12'55.96" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|21°32'39.00" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'27.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'30.52" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°52'57.18" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°27'51.86" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°18'46.52" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°12'56.02" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|21°32'39.96" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'27.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'30.50" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°52'57.21" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°27'51.82" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°18'46.45" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°12'55.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|21°32'39.00" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시

@@ -374,7 +374,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**| |□ تربیع|✱ تسدیس| |||
 |**☿ تیر**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه| ||
-|**☾ ماه**|△ تثلیث|☍ مقابله| |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| | |△ تثلیث| |✱ تسدیس| |
 
 ---
 نام‌های دیگر: Burd Harat, Burd Herat, Būrd Harāt, Būrd Herāt, Harat Khowreh, Harāt Khowreh, Herat, Herat-i-Khurreh, Herāt, Herāt-i-Khurreh, Shahr-e Herat, Shahr-e Herāt, Tajabad, Tajabad-e Harat, Tājābād, Tājābād-e Harāt, hrat, shhr hrat, شهر هرات, هرات

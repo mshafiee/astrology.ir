@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'4.64" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'24.15" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°56'19.34" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°32'55.70" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°25'12.41" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°21'54.65" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|22°41'54.17" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'4.54" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'24.17" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°56'19.31" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°32'55.74" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°25'12.49" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°21'54.71" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|22°41'55.07" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'4.64" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'24.15" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°56'19.34" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°32'55.70" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°25'12.41" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°21'54.65" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|22°41'54.17" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'4.54" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'24.17" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°56'19.31" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°32'55.74" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°25'12.49" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°21'54.71" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|22°41'55.07" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chon'nk Kon'nk, Gankong, Gon Kong, Gonkong, HKG, Hiong-geng, Hiŏng-gē̤ng, Hong Kong, Hongkong, Honkong, Hồng Kông, Khongkong, Khonkong, Victoria, ankan, hamga kamga, hanakana, hang kang, hang kang nagaram, hangakanga, hang‌kang, hankam, heankean, hng kng, hon'ga kon'ga, hong-kʼongi, hongakonga, hongkong, honkongu, hwng kwng, hwng qwng, hwngh kwngh, hwnj kwnj, hxngkng, hʼng qʼng, shyanggang, xiang gang, Χονγκ Κονγκ, Ганконг, Гонконг, Хонгконг, Хонконг, Һoң Koң, Һоң Коң, Հոնկոնգ, האנג קאנג, הונג קונג, شياڭگاڭ, هانگ کانگ, هنگ کنگ, هونج كونج, هونغ كونغ, هونگ کونگ, ھwng kwng, ھونگ کونگ, ھۆng kۆng, ھۆنگ کۆنگ, ہang kang, ہانگ کانگ, ހޮންކޮންގު, हङकङ, हाँग काँग, हांगकांग, हांग् कांग् नगरम्, हॉन्ग कॉन्ग, হংকং, ਹਾਂਗਕਾਂਗ, હોંગકોંગ, ହଂକଂ, ஆங்காங், హాంగ్‌కాంగ్, ಹಾಂಗ್ ಕಾಂಗ್, ഹോങ്കോങ്, හොංකොං, ฮ่องกง, ཧང་ཀང་།, ཧོང་ཀོང་།, ဟောငကောင, ဟောင်ကောင်, ჰონგ-კონგი, ሆንግ ኮንግ, ហងកង, ហុងកុង, 香港, 홍콩

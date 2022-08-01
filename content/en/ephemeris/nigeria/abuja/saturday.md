@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'56.15" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'6.44" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°24'12.05" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°45'35.99" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°13'56.13" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°12'45.87" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|23°16'28.41" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°31'56.06" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'6.45" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°24'12.02" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°45'36.02" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°13'56.21" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°12'45.92" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|23°16'27.95" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'56.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'6.44" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°24'12.05" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°45'35.99" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°13'56.13" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°12'45.87" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|23°16'28.41" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°31'56.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'6.45" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°24'12.02" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°45'36.02" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°13'56.21" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°12'45.92" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|23°16'27.95" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자

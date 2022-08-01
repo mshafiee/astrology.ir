@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'16.95" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'14.24" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°21'14.89" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°41'6.26" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°8'13.76" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°5'6.34" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|22°13'56.38" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°32'16.86" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'14.25" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°21'14.87" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°41'6.29" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°8'13.84" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°5'6.39" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|22°13'55.93" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'16.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'14.24" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°21'14.89" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°41'6.26" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°8'13.76" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°5'6.34" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|22°13'56.38" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°32'16.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'14.25" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°21'14.87" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°41'6.29" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°8'13.84" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°5'6.39" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|22°13'55.93" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드

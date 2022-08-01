@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:36:22 |
+| Dawn | 06:36:23 |
 | Sunrise | 08:00:31 |
 | Dhuhr | 13:22:38 |
 | Medium Coeli | 13:22:38 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:36:22 |
+| Dawn | 06:36:23 |
 | Sunrise | 08:00:31 |
 | Dhuhr | 13:22:38 |
 | Medium Coeli | 13:22:38 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'54.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'43.11" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°33'6.18" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°59'4.91" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°31'7.22" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°35'46.51" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|26°33'59.03" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°30'53.94" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'43.13" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°33'6.16" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°59'4.94" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°31'7.29" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°35'46.56" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|26°33'58.54" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'54.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'43.11" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°33'6.18" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|13°59'4.91" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°31'7.22" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°35'46.51" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|26°33'59.03" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°30'53.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'43.13" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°33'6.16" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|13°59'4.94" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°31'7.29" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°35'46.56" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|26°33'58.54" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: COR, Ciudad de Cordoba, Ciudad de Córdoba, Cordoba, Cordoba i Argentina, Cordova, Corduba, Còrdoba, Córdoba, Córdoba i Argentina, Córdova, Kordava, Kordoba, Kordobo, Kordov, Kordova, Kordova khot, Kordovae, Kuorduoba, Vila de Cordoba, Vila de Córdoba, kardwba, ke er duo wa, koleudoba, kordoba, korudoba, kwrdwba, kwrdwba  arzhantyn, kxr do ba, qwrdwbh, Κόρδοβα, Кордава, Кордоба, Кордовæ, Кордова, Кордова хот, Կորդովա, קארדאבע, קורדובה, قرطبہ، ارجنٹائن, كوردوبا, کاردوبا, کوردوبا، آرژانتین, कोर्दोबा, กอร์โดบา, კორდოვა, コルドバ, 科尔多瓦, 코르도바

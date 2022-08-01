@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'17.90" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'27.86" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°54'22.85" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°30'0.49" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°21'30.03" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°16'44.35" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|22°1'34.71" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'17.99" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'27.84" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°54'22.88" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°30'0.45" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°21'29.95" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°16'44.29" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|22°1'33.77" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'17.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'27.86" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°54'22.85" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°30'0.49" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°21'30.03" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°16'44.35" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|22°1'34.71" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'17.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'27.84" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°54'22.88" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°30'0.45" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°21'29.95" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°16'44.29" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|22°1'33.77" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Gouanjou, Gwangju, Gwangju Kong-hek-chhi, Gwangju Kóng-he̍k-chhī, Gwangju-si, KWJ, Koshu, Kosyu, Kuandzhu, Kuangju, Kuangjuo, Kvandzhu, Kvandzu, Kvandžu, Kvangdzsu, Kvangdzu, Kvanju, Kvanzhe, Kvaңdzhu, Kwang-choo, Kwang-dschu, Kwangdzu, Kwangdžu, Kwangju, Kōshū, Kōsyū, Kŭangĵuo, Quansua, ghwanghjw, guang zhou, guang zhou guang yu shi, guang zhou shi, gvangaju, gwang jw, gwangju, gwangjugwang-yeogsi, gwangjusi, gwangjw, kh wang cu, Квангџу, Кванджу, Кванже, Кваңджу, Куанджу, Куанжү, קוואנגגו, غوانغجو, گوانگ جو, گوانگجو, ग्वांगजू, ควังจู, 光州, 光州市, 光州广域市, 光州広域市, 光州廣域市, 광주, 광주광역시, 광주시

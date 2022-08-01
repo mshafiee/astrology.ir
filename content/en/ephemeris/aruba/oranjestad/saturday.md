@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:24:37 |
+| Dawn | 05:24:38 |
 | Sunrise | 06:27:05 |
 | Dhuhr | 12:46:01 |
 | Medium Coeli | 12:46:01 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'59.92" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'45.14" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°32'13.91" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°57'47.78" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°29'27.12" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°33'32.66" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|26°10'24.48" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°30'59.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'45.15" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°32'13.88" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°57'47.81" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°29'27.20" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°33'32.71" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|26°10'24.00" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'59.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'45.14" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°32'13.91" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|13°57'47.78" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°29'27.12" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°33'32.66" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|26°10'24.48" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°30'59.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'45.15" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°32'13.88" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|13°57'47.81" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°29'27.20" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°33'32.71" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|26°10'24.00" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Aran'estad, Oran'estad, Oranestad, Oraniestat, Oranjestad, Oranjestad pa Aruba, Oranjestad på Aruba, Oranjestadas, Oranjestade, Oranjestado, Oranjested, Oranjestêd, ao la nie si ta de, awrnjstad, olanyeseutateu, oraniesutaddo, oraniyecuttatu, oranjestada, xo ran yes tad, Οράνιεστατ, Араньестад, Оранестад, Ораньестад, Ораньєстад, Орањестад, אורנייסטאד, أورنجستاد, اورنجستاد, اورنجسٹیڈ، اروبا, ओरांजेश्टाड, ஒரானியெசுத்தாடு, โอรันเยสตัด, ორანესტადი, オラニエスタッド, 奥拉涅斯塔德, 오라녜스타트

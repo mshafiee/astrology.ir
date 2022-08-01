@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:50:52|Night duration: 12:08:53|
+|Duration of the day: 11:50:52|Night duration: 12:08:52|
 |Every hour of day duration: 00:59:14|Every hour of night duration: 01:00:44|
 
  
@@ -230,14 +230,14 @@ Timetable of twelve day and night planetary hours
 |2|Moon|Servant|19:25:04|20:25:47|Peace among the people|
 |3|Saturn|Servant|20:25:48|21:26:32|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Jupiter|Servant|21:26:33|22:27:16|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Mars|Servant|22:27:17|23:28:01|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Sun|Servant|23:28:02|00:28:45|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Mars|Servant|22:27:17|23:28:00|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Sun|Servant|23:28:01|00:28:45|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Venus|Servant|00:28:46|01:29:29|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Mercury|Ruler|01:29:30|02:30:14|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Moon|Servant|02:30:15|03:30:58|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Saturn|Servant|03:30:59|04:31:43|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Jupiter|Servant|04:31:44|05:32:27|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Mars|Servant|05:32:28|06:33:12|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Mercury|Ruler|01:29:30|02:30:13|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Moon|Servant|02:30:14|03:30:58|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Saturn|Servant|03:30:59|04:31:42|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Jupiter|Servant|04:31:43|05:32:26|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Mars|Servant|05:32:27|06:33:11|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:50:52|Night duration: 12:08:53|
-|Every hour duration: 01:41:33|Every hour duration: 01:44:08|
+|Duration of the day: 11:50:52|Night duration: 12:08:52|
+|Every hour duration: 01:41:33|Every hour duration: 01:44:07|
 
  
  
@@ -270,12 +270,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|18:24:20|20:08:26|
-|Late evening|Moon|Servant|20:08:27|21:52:34|
-|Midnight|Saturn|Servant|21:52:35|23:36:41|
-|Late at night|Jupiter|Servant|23:36:42|01:20:49|
-|Rooster song|Mars|Servant|01:20:50|03:04:56|
-|False Dawn|Sun|Servant|03:04:57|04:49:04|
-|Dawn|Venus|Servant|04:49:05|06:33:12|
+|Late evening|Moon|Servant|20:08:27|21:52:33|
+|Midnight|Saturn|Servant|21:52:34|23:36:41|
+|Late at night|Jupiter|Servant|23:36:42|01:20:48|
+|Rooster song|Mars|Servant|01:20:49|03:04:56|
+|False Dawn|Sun|Servant|03:04:57|04:49:03|
+|Dawn|Venus|Servant|04:49:04|06:33:11|
 
 {{< /tab >}}
 

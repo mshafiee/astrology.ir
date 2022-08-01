@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'6.34" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'7.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°4'50.19" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°45'42.09" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°41'27.79" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°44'32.72" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°32'0.77" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'6.24" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'7.98" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°4'50.16" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°45'42.12" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°41'27.86" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°44'32.78" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°32'1.52" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'6.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'7.96" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°4'50.19" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°45'42.09" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°41'27.79" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°44'32.72" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°32'0.77" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'6.24" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'7.98" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°4'50.16" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°45'42.12" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°41'27.86" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°44'32.78" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°32'1.52" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Antananarifo, Antananarivo, Antananarivu, Antananariwo, Antananaryvas, Antananaryvu, Antananarywa, Antananarívó, TNR, Tana, Tananaribe, Tananarive, an ta na na li fu, anatananaribho, anrananarivea, antananalibo, antananaribho, antananaribo, antananarivho, antananarivo, antananaryfw, antananaryww, antʼananarivu, atananarivo, ta na na li fu, xan ta nana ri wo, Ανταναναρίβο, Ταναναρίβη, Антананариво, Антананариву, Антананарыву, Антананаріву, Тананариве, Անտանանարիվու, אנטאנאנאריווא, אנטננריבו, آنتاناناریوو, أنتاناناريفو, ئانتاناناریڤۆ, انٹاناناریوو, اینٹانانیریو, अंतानानारिव्हो, अन्टाननरीवो, আনতানানারিভো, আন্তানানারিভো, ਅੰਤਾਨਾਨਾਰੀਵੋ, அண்டனானரீவோ, ആന്റനനറീവൊ, อันตานานาริโว, ཨེན་ཊ་ན་ན་རི་བོ།, ანტანანარივუ, አንታናናሪቮ, アンタナナリボ, 塔那那利佛, 安塔那那利佛, 안타나나리보

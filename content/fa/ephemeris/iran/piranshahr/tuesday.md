@@ -374,7 +374,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**| |□ تربیع|✱ تسدیس| |||
 |**☿ تیر**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه| ||
-|**☾ ماه**|△ تثلیث|☍ مقابله| |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| | |△ تثلیث| |✱ تسدیس| |
 
 ---
 نام‌های دیگر: KHA, Khaneh, Khāneh, Okrug Peronsahr, Okrug Peronšahr, PIran Shahr, PIransaher, PIransahr, PIransar, PIransara, PIranschahr, PIransehr, PIranshahr, PIranshekhr, PIransherkh, PIransjahr, PIranszahr, PIranxahr, PIranşehr, PIranşəhr, PIranšaher, PIranšahr, PIranšāra, Pîranşar, Pīrān Shahr, Pīrānshahr, byranshhr, pi lan sha he er, pIranshafuru, pyranshar, pyranshhr, Пероншаҳр, Пираншехр, Піраншерх, بیرانشهر, پیرانشار, پیرانشهر, پیرانشھر, پیرانشہر, ピーラーンシャフル, 皮兰沙赫尔

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'40.80" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'0.67" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°26'23.73" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°48'55.88" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°18'10.44" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°18'26.88" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|24°3'53.98" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°31'40.70" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'0.69" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°26'23.70" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°48'55.91" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°18'10.51" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°18'26.94" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|24°3'53.52" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'40.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'0.67" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°26'23.73" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|13°48'55.88" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°18'10.44" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°18'26.88" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|24°3'53.98" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°31'40.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'0.69" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°26'23.70" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|13°48'55.91" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°18'10.51" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°18'26.94" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|24°3'53.52" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: FNA, Freetown, Frijtaun, Fritaun, Fritauna, Fritaunas, Fritauno, Fritaŭno, Fritonn, Frytaun, Frītauna, Phritaoun, Saint George, Urbs Libera, farita'una, fri thawn, frita'una, frytawn, frytwn, fu li dun, furitaun, peulitaun, phrita'una, phritaun, piritavun, zi you shi, Φρίταουν, Фрийтаун, Фритаун, Фрытаўн, Фрітаун, Ֆրիթաուն, פריטאון, فريتاون, فريتون, فری ٹاؤن, فریتاون, فری‌تاون, फ़्रीटाउन, फ्रीटाउन, ਫ਼ਰੀਟਾਊਨ, பிரீடவுன், ಫ್ರೀಟೌನ್, ฟรีทาวน์, ཕིརི་ཊའུན།, ფრიტაუნი, ፍሪታውን, フリータウン, 弗里敦, 自由市, 프리타운

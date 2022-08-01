@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'6.34" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'47.64" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°31'18.16" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°56'23.16" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°27'39.49" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°31'8.72" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|25°50'11.91" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°31'6.43" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'47.62" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°31'18.18" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°56'23.13" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°27'39.42" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°31'8.67" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|25°50'12.40" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'6.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'47.64" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°31'18.16" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|13°56'23.16" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°27'39.49" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°31'8.72" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|25°50'11.91" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°31'6.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'47.62" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°31'18.18" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|13°56'23.13" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°27'39.42" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°31'8.67" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|25°50'12.40" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: De Balei, El Valle, La-Valo, The Valley, Vali, Valis, Valley, Valli, bare, d wly, deobaelli, dy wyly, hwwʼly, ti velli, vali, wa li, Δε Βάλεϊ, Вали, Валли, Валлі, Валі, הוואלי, د ولی, دی ویلی, தி வேல்லி, เดอะแวลลีย์, ვალი, バレー, 瓦利, 더밸리

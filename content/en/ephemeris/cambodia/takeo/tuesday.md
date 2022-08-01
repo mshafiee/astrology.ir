@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'35.91" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'22.93" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°40'54.82" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°40'11.25" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°1'54.99" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°58'45.98" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|27°50'7.16" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'36.01" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'22.91" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°40'54.86" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°40'11.20" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°1'54.91" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°58'45.92" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|27°50'5.85" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'35.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'22.93" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°40'54.82" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°40'11.25" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°1'54.99" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°58'45.98" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°50'7.16" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'36.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'22.91" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°40'54.86" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°40'11.20" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°1'54.91" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°58'45.92" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°50'5.85" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

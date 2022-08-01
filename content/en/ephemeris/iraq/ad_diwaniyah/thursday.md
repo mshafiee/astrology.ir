@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'17.06" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'10.94" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°3'15.21" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°43'20.31" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°38'26.78" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°40'21.02" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°1'47.36" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'17.16" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'10.92" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°3'15.24" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°43'20.27" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°38'26.71" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°40'20.96" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°1'46.59" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'17.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'10.94" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°3'15.21" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°43'20.31" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°38'26.78" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°40'21.02" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°1'47.36" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'17.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'10.92" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°3'15.24" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°43'20.27" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°38'26.71" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°40'20.96" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°1'46.59" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ad Diwania, Ad Diwaniya, Ad Diwaniyah, Ad Dīwānīya, Ad Dīwānīyah, Al-Diwaniya, Divanija, Diwanie, Diwaniya, Diwaniyan, Diwaniyeh, Dīwanīya, Hiska, aldywanyt, Дивания, الديوانية

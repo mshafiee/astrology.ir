@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°51'5.22" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'28.42" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°36'33.32" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°33'41.64" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|17°53'40.37" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°46'52.87" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|26°23'0.56" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°51'5.32" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'28.40" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°36'33.36" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°33'41.59" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|17°53'40.29" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°46'52.80" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|26°22'59.29" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°51'5.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'28.42" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°36'33.32" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°33'41.64" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|17°53'40.37" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°46'52.87" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°23'0.56" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°51'5.32" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'28.40" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°36'33.36" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°33'41.59" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|17°53'40.29" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°46'52.80" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°22'59.29" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Kejuots, Kiaⁿ-to͘-chhī, Kijota, Kiotas, Kioto, Kiotó, Kjoto, Kjóto, Kyoto, Kyoto-shi, Kyotu, Kyotum, Kyōto, Kyōto-shi, Kėjuots, Lungsod ng Kyoto, Quioto, UKY, gyoto si, jing dou, jing dou shi, kheiyw toa, ki'oto, kiyoto, kiyotto, kyeattea, kyoto, kyoutoshi, kywtw, qywtw, Κιότο, Киото, Кёто, Кіото, Кіёта, Кјото, Կիոտո, קיאטא, קיוטו, كيوتو, کیوتو, کیوٹو, ܩܝܘܛܘ, क्योटो, क्योतो, কিয়োটো, ਕਿਓਤੋ, கியோத்தோ, ക്യോത്തോ, ක්යෝතෝ, เคียวโตะ, ཁེཡོ་ཐྲོ།, ကျိုတိုမြို့, კიოტო, きょうとし, 京都, 京都市, 교토 시

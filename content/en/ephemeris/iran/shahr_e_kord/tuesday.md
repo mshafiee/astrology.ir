@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'3.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'16.64" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'49.04" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'29.05" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°11'11.56" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°12'7.07" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°23'37.18" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'3.13" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'16.63" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°45'49.08" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°47'29.01" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°11'11.48" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°12'7.01" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|29°23'35.83" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: CQD, QHK, Shahr Kord, Shahr Kurd, Shahr-e Kord, Shahrekord, Shakhre-Kord, shhr krd, Шахре-Корд, شهر كرد

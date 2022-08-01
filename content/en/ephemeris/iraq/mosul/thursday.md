@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'17.38" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'11.00" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°3'13.55" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°43'17.55" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°38'23.41" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°40'16.40" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°0'46.38" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'17.28" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'11.01" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°3'13.52" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°43'17.59" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°38'23.48" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°40'16.46" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|25°0'47.16" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'17.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'11.00" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°3'13.55" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°43'17.55" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°38'23.41" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°40'16.40" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°0'46.38" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'17.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'11.01" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°3'13.52" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°43'17.59" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°38'23.48" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°40'16.46" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|25°0'47.16" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al Mawsil, Al Mawşil, Al Mosul, Al Musil, Al Mūşil, Mosel, Mosoel, Mosouli, Mossoul, Mossul, Mosul, Mosul khot, Mosula, Mosulas, Mosulo, Moszul, Mousl, Moussoul, Musil, Musił, Musul, Musıl, Mûsil, OSM, almwsl, mo su er, mo sul, mocul, mosala, mosul, mosula, mosuli, mosuru, mwsl, mwswl, mwsڵ, Μοσούλη, Мосeл, Мосул, Мосул хот, Մոսուլ, מאסול, מוסול, الموصل, موسڵ, موصل, موصول, مووسڵ, ܡܘܨܠ, मोसुल, ਮੋਸਲ, மோசுல், മൊസൂൾ, โมซูล, მოსული, モースル, 摩苏尔, 摩蘇爾, 모술

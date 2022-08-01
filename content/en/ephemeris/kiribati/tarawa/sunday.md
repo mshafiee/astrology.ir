@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°29'31.21" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'10.55" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°44'52.43" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°17'0.96" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°53'54.55" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°6'8.66" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|0°47'19.84" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°29'31.11" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'10.56" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°44'52.40" |Aries|Butain|Venus|
+|☉ Sun|Prograde|14°17'0.99" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°53'54.62" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|4°6'8.71" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|0°47'19.36" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°29'31.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'10.55" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°44'52.43" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°17'0.96" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°53'54.55" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°6'8.66" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|0°47'19.84" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°29'31.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'10.56" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°44'52.40" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|14°17'0.99" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°53'54.62" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|4°6'8.71" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|0°47'19.36" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Juzhnaja Tarava, South Tarawa, Sued-Tarawa, Süd-Tarawa, TRW, Tarawa, Tarawa Sud, Tarawa do Sul, Tarawa-Sud, Zuid-Tarawa, namtalawa, sauseutalawa, talawa, Южная Тарава, דרום טאראווה, 남타라와, 사우스타라와, 타라와

@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:33:15 |
+| Dawn | 04:33:14 |
 | Sunrise | 05:47:50 |
 | Dhuhr | 12:06:40 |
 | Medium Coeli | 12:06:40 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'36.14" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'22.97" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°40'52.73" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°40'8.14" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°1'51.04" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°58'40.29" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|27°49'27.91" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'36.24" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'22.96" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°40'52.77" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°40'8.10" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°1'50.96" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|25°58'40.23" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|27°49'26.60" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'36.14" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'22.97" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°40'52.73" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°40'8.14" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°1'51.04" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°58'40.29" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°49'27.91" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'36.24" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'22.96" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°40'52.77" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°40'8.10" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°1'50.96" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|25°58'40.23" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|27°49'26.60" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Krong Chaktomuk, Nam Van, Nam-Vang, Nom Pen, PNH, Phnom Pen, Phnom Penh, Phnom Pénh, Phnom-Penh, Phnompen, Phnompenh, Phnum Penh, Phnum Peny, Phnum Pénh, Phnum Pény, Phnôm Pênh, Phon Phen, Pnampen', Pnom Pehn', Pnom Pen, Pnom Pen'ch, Pnom Pene, Pnom Penh, Pnom-Peno, Pnompen, Pnompen', Pnompena, Pnompenis, Pnompeņa, Ville de Phnom Penh, bnwm bnh, fnwm pn, fnwm pېn, jin bian, namapenha, panoma pena, peunompen, phnm pen, phnmpey, pnwm pn, punom pen, punonpen, Πνομ Πενχ, Пнампень, Пном Пен, Пном Пэнь, Пномпень, Պնոմպեն, פנום פן, بنوم بنه, فنوم پن, فنوم پېن, پنوم پن, پنوم‌پن, پنۆم پێن, नामपेन्ह, पनॉम पेन, প্‌নম পেন, புனோம் பென், พนมเปญ, พนมเปณ, ཕོམ་ཕེན།, ဖနွမ်းပင်မြို့, პნომპენი, ፕኖም ፔን, ភនកពងតរាច, ភនពេញ, ភ្នំកំពង់ត្រាច, ភ្នំពេញ, プノンペン, 金边, 프놈펜

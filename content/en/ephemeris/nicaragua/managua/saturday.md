@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'47.78" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'40.52" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°33'56.99" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°0'24.49" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°32'46.54" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°37'59.09" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|26°47'48.46" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°30'47.87" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'40.51" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°33'57.02" |Aries|Butain|Venus|
+|☉ Sun|Prograde|14°0'24.46" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°32'46.47" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°37'59.04" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|26°47'48.95" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'47.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'40.52" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°33'56.99" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°0'24.49" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°32'46.54" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°37'59.09" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|26°47'48.46" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°30'47.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'40.51" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°33'57.02" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|14°0'24.46" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°32'46.47" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°37'59.04" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|26°47'48.95" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과

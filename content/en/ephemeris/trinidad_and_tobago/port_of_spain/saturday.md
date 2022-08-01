@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:33:49 |
+| Dawn | 04:33:50 |
 | Sunrise | 05:55:24 |
 | Dhuhr | 12:11:59 |
 | Medium Coeli | 12:11:59 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'5.75" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'47.37" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°31'23.97" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°56'31.90" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°27'50.59" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°31'23.59" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|25°52'21.26" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°31'5.66" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'47.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°31'23.94" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°56'31.93" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°27'50.66" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°31'23.64" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|25°52'20.77" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'5.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'47.37" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°31'23.97" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|13°56'31.90" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°27'50.59" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°31'23.59" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|25°52'21.26" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°31'5.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'47.39" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°31'23.94" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|13°56'31.93" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°27'50.66" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°31'23.64" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|25°52'20.77" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Acalquixohuayan Caxtillan, City of Port-of-Spain, POS, Po of Espay, Port of Spain, Port of Spein, Port of Speinas, Port of Spejn, Port of Speyn, Port oph Spein, Port ov Spejn, Port uf Spejn, Port-Of-Spejn, Port-au-Spain, Port-d'Espagne, Port-of-Spain, Port-of-Spein, Port-of-Spejn, Port-of-speyn, Porto Espana, Porto España, Portofspeina, Portospeno, Portu de Spania, Puerto Espana, Puerto España, Pò of Espay, bwrt awf sbyn, phxrt-xxf-spen, porata afa sapena, port ahp speyn, porta aba spena, porta opha spena, poteu obeu seupein, poteuobeuseupein, potoobusupein, prt aw aspayn, xi ban ya gang, Πορτ οφ Σπέιν, Πορτ-οφ-Σπέιν, Порт ов Спејн, Порт оф Спейн, Порт оф Спејн, Порт ъф Спейн, Порт-Оф-Спейн, Порт-оф-Спейн, פורט אוף ספיין, بورت أوف سبين, پرت آو اسپاین, پورٹ آف اسپین, पोर्ट ऑफ स्पेन, পোর্ট অব স্পেন, ਪੋਰਟ ਆਫ਼ ਸਪੇਨ, போர்ட் ஆஃப் ஸ்பெய்ன், പോർട്ട് ഓഫ് സ്പെയിൻ, พอร์ต-ออฟ-สเปน, པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།, პორტ-ოვ-სპეინი, ፖርት ኦፍ ስፔን, ポートオブスペイン, 西班牙港, 포트 오브 스페인, 포트오브스페인

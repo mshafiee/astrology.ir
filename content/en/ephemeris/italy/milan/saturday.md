@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'8.89" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'11.29" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°22'23.31" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°42'50.11" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°10'25.95" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°8'3.84" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|22°38'38.17" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°32'8.98" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'11.28" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°22'23.34" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°42'50.08" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°10'25.88" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°8'3.78" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|22°38'38.62" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'8.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'11.29" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°22'23.31" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°42'50.11" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°10'25.95" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°8'3.84" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|22°38'38.17" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°32'8.98" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'11.28" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°22'23.34" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°42'50.08" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°10'25.88" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°8'3.78" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|22°38'38.62" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Lungsod ng Milano, MIL, Mailand, Mediolan, Mediolanum, Mila, Milaan, Milan, Milana, Milanas, Milano, Milanu, Milao, Milà, Milán, Miláno, Milánó, Milão, Milāna, Mílanó, Mилан, mi lan, milan, milana, milani, millano, mirano, mylan, mylanw, Милан, Милано, Мілан, מילאנו, مىلان, ميلانو, মিলান, மிலன், มิลาน, მილანი, ミラノ, 米蘭, 밀라노

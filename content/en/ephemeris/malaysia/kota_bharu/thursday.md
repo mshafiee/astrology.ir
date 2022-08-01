@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'51.94" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'20.66" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°58'10.42" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°35'42.50" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°28'44.50" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°26'50.34" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|23°19'18.65" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'51.84" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'20.67" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°58'10.39" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°35'42.54" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°28'44.57" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°26'50.40" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|23°19'19.52" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'51.94" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'20.66" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°58'10.42" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°35'42.50" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°28'44.50" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°26'50.34" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|23°19'18.65" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'51.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'20.67" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°58'10.39" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°35'42.54" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°28'44.57" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°26'50.40" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|23°19'19.52" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루

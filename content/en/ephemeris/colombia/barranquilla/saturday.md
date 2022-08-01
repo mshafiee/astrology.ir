@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'56.06" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'43.66" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°32'46.97" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°58'38.01" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°30'31.04" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°34'58.09" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|26°22'25.35" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°30'55.96" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'43.67" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°32'46.95" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°58'38.04" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°30'31.11" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°34'58.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|26°22'24.87" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'56.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'43.66" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°32'46.97" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|13°58'38.01" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°30'31.04" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°34'58.09" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|26°22'25.35" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°30'55.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'43.67" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°32'46.95" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|13°58'38.04" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°30'31.11" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°34'58.15" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|26°22'24.87" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BAQ, Barankil'ja, Barankila, Barankilija, Barankilja, Barran'kigia, Barrancas de San Nicolas, Barrancas de San Nicolás, Barrankil'ja, Barrankilya, Barranquilha, Barranquilla, Killa, La Arenosa, Quilla, ba lan ji ya, ba leng ji ye, balangkiya, bar rang ki ya, baranakiya, barankija, barankwla, barankwyla, brnqyyh, byarenkvila, Μπαρρανκίγια, Баранкиля, Баранкиља, Баранкілья, Барранкилья, Барранкілья, ברנקייה, بارانكويلا, بارانکولا, ब्यारेन्क्विला, ਬਾਰਾਙਕੀਯਾ, บาร์รังกียา, ბარანკილია, バランキージャ, 巴兰基亚, 巴冷基也, 바랑키야

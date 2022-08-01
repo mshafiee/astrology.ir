@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'41.74" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'17.82" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°59'39.99" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°37'57.00" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°31'35.56" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°30'48.72" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|23°49'22.08" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'41.64" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'17.83" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°59'39.97" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°37'57.04" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°31'35.63" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°30'48.78" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|23°49'22.92" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'41.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'17.82" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°59'39.99" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°37'57.00" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°31'35.56" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°30'48.72" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|23°49'22.08" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'41.64" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'17.83" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°59'39.97" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°37'57.04" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°31'35.63" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°30'48.78" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|23°49'22.92" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: LKO, Lakhnau, Lakkhnau, Lakkhnau shaary, Laknaou, Laknau, Laknauo, Laknava, Laknaú, Laknaŭo, Lucknow, Lucknow City, Luknow, ilakno, lakh nea, lakhana'u, lakhanau, laknau, lakno, laksnau, lei ke nao, leokeunau, lkhnw, lknaw, rakunau, Λάκναου, Лакнау, Лакхнау, Лакхнау шаары, לאקנאו, لكهنؤ, لكهنو, لکناو, لکهنو, لکھنؤ, लखनऊ, लखनौ, লক্ষ্ণৌ, লখনৌ, ਲਖਨਊ, લખનૌ, ଲକ୍ଷ୍ନୌ, இலக்னோ, లక్నో, ಲಕ್ನೋ, ലഖ്‌നൗ, ลัคเนา, ლაქნაუ, ラクナウ, ラクナウー, 勒克瑙, 러크나우

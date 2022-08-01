@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'46.05" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'39.80" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°34'12.66" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°0'48.26" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°33'16.74" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°38'39.47" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|26°53'30.76" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°30'45.95" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'39.82" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°34'12.64" |Aries|Butain|Venus|
+|☉ Sun|Prograde|14°0'48.29" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°33'16.81" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°38'39.52" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|26°53'30.27" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'46.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'39.80" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°34'12.66" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°0'48.26" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°33'16.74" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°38'39.47" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|26°53'30.76" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°30'45.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'39.82" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°34'12.64" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|14°0'48.29" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°33'16.81" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°38'39.52" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|26°53'30.27" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: SAL, Salvador, San Salbador, San Salvado, San Salvador, San Salvadoras, San Salvadori, San Salvadò, San Salwador, San-Sal'vador, San-Salvador, San-Salvadoro, Sansalvadora, Urbs Sancti Salvatoris, can calvator, san salvadwr, san salwadwr, san slfadwr, san-salvadori, sana salavadora, sana salvhadora, sana-salvadora, sansalbadoleu, sansalwadxr, sansarubadoru, sheng sa er wa duo, sn slwwdwr, Σαν Σαλβαδόρ, Сан Салвадор, Сан-Сальвадор, Սան Սալվադոր, סאן סאלוואדאר, סן סלוודור, سان سالوادور, سان سالۋادور, سان سلفادور, سان سلواڈور, सान साल्व्हाडोर, सान-साल्वाडोर, ਸਾਨ ਸਾਲਵਾਦੋਰ, சான் சல்வடோர், ซันซัลวาดอร์, སན་སལ་ཝ་ཌོར།, სან-სალვადორი, ሳን ሳልቫዶር, サンサルバドル, 聖薩爾瓦多, 산살바도르

@@ -374,7 +374,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**| |□ تربیع|✱ تسدیس| |||
 |**☿ تیر**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه| ||
-|**☾ ماه**|△ تثلیث|☍ مقابله| |✱ تسدیس|□ تربیع|✱ تسدیس|
+|**☾ ماه**| | |△ تثلیث| |✱ تسدیس| |
 
 ---
 نام‌های دیگر: Ghareh Ziya' Oddin, Ghareh Ziya’ Oddin, Qara Zia ud Din, Qara Zīa ud Dīn, Qarah Zia' od Din, Qarah Ẕīā’ od Dīn, Qaraziadin, Qareh Zeya ed Din, Qareh Zeyā ed Dīn, Qareh Zia' od Din, Qareh Ziya 'Eddin, Qareh Zīyā ’Eddīn, Qareh Ẕīā’ od Dīn, قره ضیاء الدین

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'53.86" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'5.58" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°24'31.69" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°46'5.79" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°14'34.05" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°13'36.74" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|23°23'32.67" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°31'53.77" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'5.59" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°24'31.66" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°46'5.82" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°14'34.13" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°13'36.79" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|23°23'32.21" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°31'53.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'5.58" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°24'31.69" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°46'5.79" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°14'34.05" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°13'36.74" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|23°23'32.67" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°31'53.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'5.59" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°24'31.66" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°46'5.82" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°14'34.13" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°13'36.79" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|23°23'32.21" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ILR, Illorin, Ilorin, Ilorinas, Iloryn, alwrn, illolin, irorin, yi luo lin, Ілорын, Илорин, אילורין, الورن, イロリン, 伊洛林, 일로린

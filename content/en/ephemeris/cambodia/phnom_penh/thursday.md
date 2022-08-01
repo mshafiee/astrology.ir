@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'55.06" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'21.56" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°57'42.20" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°35'0.26" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°27'50.77" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°25'35.40" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|23°9'59.99" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'55.16" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'21.54" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°57'42.23" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°35'0.23" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°27'50.69" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°25'35.34" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|23°9'59.11" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'55.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'21.56" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°57'42.20" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°35'0.26" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°27'50.77" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°25'35.40" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|23°9'59.99" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'55.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'21.54" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°57'42.23" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°35'0.23" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°27'50.69" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°25'35.34" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|23°9'59.11" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Krong Chaktomuk, Nam Van, Nam-Vang, Nom Pen, PNH, Phnom Pen, Phnom Penh, Phnom Pénh, Phnom-Penh, Phnompen, Phnompenh, Phnum Penh, Phnum Peny, Phnum Pénh, Phnum Pény, Phnôm Pênh, Phon Phen, Pnampen', Pnom Pehn', Pnom Pen, Pnom Pen'ch, Pnom Pene, Pnom Penh, Pnom-Peno, Pnompen, Pnompen', Pnompena, Pnompenis, Pnompeņa, Ville de Phnom Penh, bnwm bnh, fnwm pn, fnwm pېn, jin bian, namapenha, panoma pena, peunompen, phnm pen, phnmpey, pnwm pn, punom pen, punonpen, Πνομ Πενχ, Пнампень, Пном Пен, Пном Пэнь, Пномпень, Պնոմպեն, פנום פן, بنوم بنه, فنوم پن, فنوم پېن, پنوم پن, پنوم‌پن, پنۆم پێن, नामपेन्ह, पनॉम पेन, প্‌নম পেন, புனோம் பென், พนมเปญ, พนมเปณ, ཕོམ་ཕེན།, ဖနွမ်းပင်မြို့, პნომპენი, ፕኖም ፔን, ភនកពងតរាច, ភនពេញ, ភ្នំកំពង់ត្រាច, ភ្នំពេញ, プノンペン, 金边, 프놈펜

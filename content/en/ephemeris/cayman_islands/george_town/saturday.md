@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'53.12" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'42.57" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°33'11.34" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°59'15.12" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°31'18.28" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°36'1.18" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|26°31'13.47" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°30'53.22" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'42.56" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°33'11.36" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°59'15.09" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°31'18.21" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°36'1.13" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|26°31'13.96" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°30'53.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'42.57" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°33'11.34" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|13°59'15.12" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°31'18.28" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°36'1.18" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|26°31'13.47" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°30'53.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'42.56" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°33'11.36" |Taurus|HaqAh|Saturn|
+|☉ Sun|Prograde|13°59'15.09" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°31'18.21" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°36'1.13" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|26°31'13.96" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Corctaun, Dzhordzh Taun, Dzhordzhtaun, Dzordz Taun, Dzordztaun, Dzordztaunas, Džordžtaunas, GCM, George Town, George Town pa Caymanoyane, George Town på Caymanøyane, Georgetown, Georgurbo, Tzortz Taoun, cxrc thawn, gwrg tʼwn, jarj tavun, jojitaun, jorjata'una, jwrj tawn, qiao zhi dui, qiao zhi dun, Τζωρτζ Τάουν, Џорџ Таун, Џорџтаун, Джордж Таун, Джорджтаун, Джорджтаўн, גורג טאון, جارج ٹاؤن، جزائر کیمین, جرج‌تاون، جزایر کیمن, جورج تاون, जॉर्जटाउन, ஜார்ஜ் டவுன், จอร์จทาวน์, ჯორჯტაუნი, ジョージタウン, 喬治敦, 조지타운

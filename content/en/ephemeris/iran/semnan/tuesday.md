@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'6.19" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'17.24" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'21.95" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°46'48.46" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°10'20.08" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°10'53.14" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°13'58.44" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'6.09" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'17.25" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°45'21.92" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°46'48.50" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°10'20.16" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°10'53.20" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|29°13'59.78" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'6.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'17.24" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'21.95" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°46'48.46" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°10'20.08" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°10'53.14" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°13'58.44" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'6.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'17.25" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°45'21.92" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°46'48.50" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°10'20.16" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°10'53.20" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|29°13'59.78" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: SNX, Semnan, Semnān, smnan, Семнан, سمنان
