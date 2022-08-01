@@ -373,8 +373,8 @@ __محاسبه به شیوه __
 |**♂ بهرام**|△ تثلیث|✱ تسدیس|||||
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
-|**☿ تیر**| | | |✱ تسدیس|□ تربیع||
-|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|✱ تسدیس|
+|**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Sarab Darreh, Sarab Doreh, Sarab Dowrah, Sarab Dowreh, Sarab-e Do Rah, Sarab-e Dowreh, Sarab-e Dureh, Sarabdowreh, Sarāb Darreh, Sarāb Doreh, Sarāb Dowrah, Sarāb Dowreh, Sarāb-e Do Rah, Sarāb-e Dowreh, Sarāb-e Dūreh, Sarābdowreh, srab dwrh, سراب دوره

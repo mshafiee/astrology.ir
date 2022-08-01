@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'50.09" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'36.62" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°49'41.57" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°22'57.43" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°12'32.84" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°4'13.70" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|20°24'40.73" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°42'50.00" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'36.64" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°49'41.55" |Aries|Butain|Sun|
+|☉ Sun|Prograde|11°22'57.47" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°12'32.91" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°4'13.76" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|20°24'41.75" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°42'50.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'36.62" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°49'41.57" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°22'57.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°12'32.84" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°4'13.70" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|20°24'40.73" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°42'50.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'36.64" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°49'41.55" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|11°22'57.47" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°12'32.91" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°4'13.76" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|20°24'41.75" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Alofi, Alofis, Alofo, Pasjolak Alofi, a luo fei, alaphi, allopi, alophi, alopi, alwfy, arofi, xalofi, Αλόφι, Алофи, Алофі, Пасёлак Алофі, الوفی, अलोफी, അലാഫി, อาโลฟี, ალოფი, アロフィ, 阿洛菲, 알로피

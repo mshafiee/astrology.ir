@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'27.07" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'57.44" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°0'5.51" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°8'43.56" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|18°38'12.95" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°50'51.26" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|3°51'39.59" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°48'27.17" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'57.42" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|19°0'5.54" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°8'43.52" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|18°38'12.87" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°50'51.20" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|3°51'38.17" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'27.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'57.44" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°0'5.51" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°8'43.56" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|18°38'12.95" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°50'51.26" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|3°51'39.59" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°48'27.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'57.42" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|19°0'5.54" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°8'43.52" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|18°38'12.87" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°50'51.20" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|3°51'38.17" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BUE, Baires, Bonaero, Bonaeropolis, Bonaëropolis, Bos Aires, Bouenos Aires, Bouonezar, Bouonézâr, Buehnas-Ajrehs, Buehnos Ajres, Buehnos-Ajres, Buehnos-Ajres osh, Buenos Aires, Buenos Airės, Buenos Ajres, Buenos Ayres, Buenos-Aires, Buenos-Ajres, Buenos-Ayres, Buenos-Aýres, Buenosairesa, Buénos Ayrés, Bwenoze, Bwènozè, Búenos Aíres, Ciudad Autonoma de Buenos Aires, Ciudad Autónoma de Buenos Aires, Ciudad de La Santisima Trinidad y Puerto de Santa Maria del Buen Ayre, Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre, Lungsod ng Buenos Aires, Santa Maria del Buen Ayre, Santa María del Buen Ayre, bawnosxires, bu yi nuo si ai li si, bu'enosa a'iresa, buenos-airesi, buenosaires, buenoseuaileseu, buenosuairesu, buraenosa a'iresa, buyenosa a'iresa, bwyns ayrs, bwynws ayrs, bwynws ayrys, byu'enosa erisa, byunas airis, byunas ayels, bywns ayrs, puvenas airis, Μπουένος ΄Aιρες, Μπουένος Άιρες, Буенос Аирес, Буенос Айрес, Буенос Аірес, Буенос Ајрес, Буенос-Аирес, Буенос-Айрес, Буэнас-Айрэс, Буэнос Айрес, Буэнос-Айрес, Буэнос-Айрес ош, Բուենոս Այրես, בואנוס איירס, בוענאס איירעס, بوئنوس آیرس, بوينس آيرس, بوينوس ايريس, بۆینس ئایرس, بیونس آئرس, बुएनोस आइरेस, ब्युएनॉस एरीस, বুয়েনোস আইরেস, বুৱেনোস আইরেস, புவெனஸ் ஐரிஸ், ಬ್ಯೂನಸ್ ಐರಿಸ್, ബ്യൂണസ് അയേഴ്സ്, บัวโนสไอเรส, པུ་ཨེ་ནོ་སི་ཨས་རི་སི།, ဗျူနိုအေးရိစ်မြို့, ბუენოს-აირესი, ብዌኖስ አይሬስ, ブエノスアイレス, 布宜諾斯艾利斯, 布宜诺斯艾利斯, 부에노스아이레스

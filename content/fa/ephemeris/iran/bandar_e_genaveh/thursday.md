@@ -373,8 +373,8 @@ __محاسبه به شیوه __
 |**♂ بهرام**|△ تثلیث|✱ تسدیس|||||
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
-|**☿ تیر**| | | |✱ تسدیس|□ تربیع||
-|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|✱ تسدیس|
+|**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Bandar Ganaveh, Bandar Ganāveh, Bandar-e Ganaveh, Bandar-e Ganāveh, Bandar-e Genaveh, Bandar-e Genāveh, Bandar-e-Gonaveh, Bandar-e-Gonāveh, Ganaveh, Ganāveh, Genaveh, Genāveh, Gonaveh, Gonāveh, Kenareh, Kenâreh, bndr gnawh, بندر گناوه

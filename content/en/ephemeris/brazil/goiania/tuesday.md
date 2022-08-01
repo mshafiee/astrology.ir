@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'38.62" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°40'59.68" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°58'22.42" |Aries|Butain|Sun|
-|☉ Sun|Prograde|10°6'11.14" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|18°34'57.97" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°46'12.39" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|3°25'8.79" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°48'38.52" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°40'59.69" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°58'22.39" |Aries|Butain|Sun|
+|☉ Sun|Prograde|10°6'11.18" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|18°34'58.05" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°46'12.45" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|3°25'10.21" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°48'38.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°40'59.68" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°58'22.42" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|10°6'11.14" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|18°34'57.97" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°46'12.39" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|3°25'8.79" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°48'38.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°40'59.69" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°58'22.39" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|10°6'11.18" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|18°34'58.05" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°46'12.45" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|3°25'10.21" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ciutat de Goiania, Ciutat de Goiânia, GYN, Goiana, Goiania, Goianá, Goiânia, Gojani, Gojanija, Goyania, Goyaniya, ge ya ni ya, ghwyanya, go'iyaniya, goiania, gwyyanya, ko ya neiy, Гояни, Гояния, Гоянія, Гојанија, גואיאניה, غويانيا, گوئیانیا, গোইয়ানিয়া, โกยาเนีย, გოიანია, ゴイアニア, 戈亚尼亚, 고이아니아

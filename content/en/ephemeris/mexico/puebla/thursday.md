@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'28.81" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°38'39.27" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°19'0.33" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°7'2.37" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°8'34.62" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|0°22'6.49" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|0°24'21.99" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°39'28.71" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°38'39.28" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°19'0.30" |Aries|Butain|Venus|
+|☉ Sun|Prograde|12°7'2.41" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|21°8'34.70" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|0°22'6.54" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|0°24'22.46" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°39'28.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°38'39.27" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°19'0.33" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°7'2.37" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°8'34.62" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|0°22'6.49" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|0°24'21.99" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°39'28.71" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°38'39.28" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°19'0.30" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|12°7'2.41" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|21°8'34.70" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|0°22'6.54" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|0°24'22.46" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Angelopolis, Byen Puebla, Cuetlaxcoapan, Ehroika-Puehbla-deh-Saragosa, Heroica Puebla de Zaragoza, Heróica Puebla de Zaragoza, Lungsod ng Puebla, PBC, Pouempla, Puebl, Puebla, Puebla City, Puebla de Saragosa, Puebla de Zaragoza, Puebla de los Angeles, Puebla de los Ángeles, Puehbla-de-Saragosa, Puehblae-de-Saragosae, Yucha Nchu'u, bwybla, pu ai bu la, pu'aibala, pu'ebla, puebeulla, puebura, pwybla  pwybla, pwybla. pwybla, Πουέμπλα, Пуебла, Пуэблæ-де-Сарагосæ, Пуэбла-де-Сарагоса, Эроіка-Пуэбла-дэ-Сарагоса, פואבלה, بويبلا, پوئبلا، پوئبلا, پوئبلا٬ پوئبلا, पुएब्ला, ਪੁਐਬਲਾ, პუებლა, プエブラ, 普埃布拉, 푸에블라

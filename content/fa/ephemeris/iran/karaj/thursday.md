@@ -373,8 +373,8 @@ __محاسبه به شیوه __
 |**♂ بهرام**|△ تثلیث|✱ تسدیس|||||
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
-|**☿ تیر**| | | |✱ تسدیس|□ تربیع||
-|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|✱ تسدیس|
+|**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Heredi, Karadj, Karadje, Karadsch, Karadz, Karadzs, Karadż, Karadž, Karag, Karaj, Karatz, Karaĝ, Karej, Kerec, Keredi, Keredzas, Keredzh, Keredžas, Kerezh, Kərəc, Leredi, PYK, QKC, Qasabeh-e Karaj, Qaşabeh-e Karaj, ka la ji, kairaija, kalaji, karaj, karaji, kha rac, krj, kyaraji, qasabihi karaj, Καράτζ, Карай, Караџ, Караҷ, Кередж, Кереж, כאראג, قَصَبِهِ کَرَج, کرج, کرج, کەرەج, कैरैज, கராஜ், คาราจ, ქარაჯი, キャラジ, 卡拉季, 카라지

@@ -373,8 +373,8 @@ __محاسبه به شیوه __
 |**♂ بهرام**|△ تثلیث|✱ تسدیس|||||
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
-|**☿ تیر**| | | |✱ تسدیس|□ تربیع||
-|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|✱ تسدیس|
+|**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Ghareh Ziya' Oddin, Ghareh Ziya’ Oddin, Qara Zia ud Din, Qara Zīa ud Dīn, Qarah Zia' od Din, Qarah Ẕīā’ od Dīn, Qaraziadin, Qareh Zeya ed Din, Qareh Zeyā ed Dīn, Qareh Zia' od Din, Qareh Ziya 'Eddin, Qareh Zīyā ’Eddīn, Qareh Ẕīā’ od Dīn, قره ضیاء الدین

@@ -373,8 +373,8 @@ __محاسبه به شیوه __
 |**♂ بهرام**|△ تثلیث|✱ تسدیس|||||
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
-|**☿ تیر**| | | |✱ تسدیس|□ تربیع||
-|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|✱ تسدیس|
+|**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Dashte Gorgan, Gonbad Qabus, Gonbad Qavoos, Gonbad Qābūs, Gonbad-e Kavus, Gonbad-e Kāvūs, Gonbad-e Qabus, Gonbad-e Qābūs, Gunbad-i-Kawas, Gunbad-i-Kawus, Gunbad-i-Kāwās, Gunbad-i-Kāwūs, Gunbad-i-Qabus, Gunbad-i-Qābūs, gnbd kawws, gnbd qabws, گنبد قابوس, گنبد کاووس

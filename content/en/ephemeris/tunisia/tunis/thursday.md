@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'53.56" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'4.21" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°6'41.79" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°48'30.57" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°45'1.41" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°49'29.48" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|26°11'22.09" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'53.46" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'4.23" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°6'41.76" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°48'30.61" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°45'1.49" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°49'29.54" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|26°11'22.80" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'53.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'4.21" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°6'41.79" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°48'30.57" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°45'1.41" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°49'29.48" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°11'22.09" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'53.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'4.23" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°6'41.76" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°48'30.61" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°45'1.49" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°49'29.54" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°11'22.80" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: TUN, Tinis, Tiwnis, Tuenis, Tuinis, Tunes, Tunes tamaneɣt, Tunez, Tunis, Tunis khot, Tunis shaary, Tunis-Ville, Tunisa, Tunisas, Tunisi, Tunisin Orn, Tunisz, Tunixi, Tuniz, Tunizo, Tunus, Tynida, Tùnis, Tùnisi, Túinis, Túnez, Túnis, Túnixi, Túniz, Tûnis, Tünis, chunisu, tu ni si, tu ni si shi, tunis, tunis's, tunisa, twiniseu, twns, twnys, twwns, tyunisa, Τύνιδα, Тунис, Тунис хот, Тунис шаары, Тунисин Орн, Туніс, Թունիս, תוניס, تونس, تونس شہر, توونس, تۇنىس شەھىرى, ٹیونس نگر, ܬܘܢܣ, ट्युनिस, ट्यूनिस, ਤੂਨਿਸ, தூனிஸ், ടൂണിസ്സ്, ตูนิส, ཊུ་ནིསི།, ტუნისი, ቱኒስ, チュニス, 突尼斯, 突尼斯市, 튀니스

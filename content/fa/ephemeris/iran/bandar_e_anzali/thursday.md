@@ -373,8 +373,8 @@ __محاسبه به شیوه __
 |**♂ بهرام**|△ تثلیث|✱ تسدیس|||||
 |**☉ خورشید**|☍ مقابله| |△ تثلیث||||
 |**♀ ناهید**| |△ تثلیث|□ تربیع|✱ تسدیس|||
-|**☿ تیر**| | | |✱ تسدیس|□ تربیع||
-|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|✱ تسدیس|
+|**☿ تیر**|☍ مقابله| |△ تثلیث|☌ مقارنه|✱ تسدیس||
+|**☾ ماه**| |☍ مقابله| |□ تربیع|△ تثلیث|□ تربیع|
 
 ---
 نام‌های دیگر: Bandar Anzali, Bandar Pahlavi, Bandar Pahlevi, Bandar-e Anzali, Bandar-e Anzalī, Bandar-e Pahlavi, Bandar-e Pahlavī, Enceli, Enzeli, Pahlavi, Pahlavī, Pahlevi, Pahlevī, Pehlevi, bndr anzly, بندر انزلی

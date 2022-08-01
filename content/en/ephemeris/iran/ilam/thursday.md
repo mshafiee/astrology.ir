@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'18.72" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'11.36" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°3'1.65" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°42'59.81" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°38'0.74" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°39'44.86" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°57'7.30" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'18.63" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'11.38" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°3'1.62" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°42'59.84" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°38'0.81" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°39'44.92" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|24°57'8.08" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'18.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'11.36" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°3'1.65" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°42'59.81" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°38'0.74" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°39'44.86" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°57'7.30" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'18.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'11.38" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°3'1.62" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°42'59.84" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°38'0.81" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°39'44.92" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°57'8.08" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Elam, Elām, IIL, Ilam, ailam, aylam, ylam, Īlām, Илам, اِلام, ایلام, يلام

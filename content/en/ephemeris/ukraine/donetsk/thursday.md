@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'18.93" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'11.49" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°3'0.79" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°42'57.68" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°37'58.76" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°39'42.23" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°54'43.34" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'18.84" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'11.51" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°3'0.76" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°42'57.72" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°37'58.84" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°39'42.29" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|24°54'44.13" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'18.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'11.49" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°3'0.79" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°42'57.68" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°37'58.76" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°39'42.23" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°54'43.34" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'18.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'11.51" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°3'0.76" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°42'57.72" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°37'58.84" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°39'42.29" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|24°54'44.13" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: DOK, Daneck, Donec'k, Doneck, Doneck osh, Donecka, Doneckas, Donecko, Donesk, Donetk, Donetsk, Donetsk i Ukraina, Donezk, Donețk, Donieck, Donietsk, Donjeck, Doněck, Dońeck, Doņecka, Hughesovka, Jusowka, Juzivka, Juzovka, Ntonetsk, Stalin, Staline, Stalino, Yuzovka, Yuzovo, deanerrsk, do net skh, donecheukeu, donetska, donetsu~iku, dun nie ci ke, dwntsk, dwnytsk, dwnzq, tonetsk, Ντονέτσκ, Данецк, Донецк, Донецк ош, Донецьк, Доњецк, Сталино, Сталіне, Сталіно, Юзовка, Юзівка, Դոնեցկ, דונצק, دونتسک, دونيتسك, دونیتسک, دۆنێتسک, दोनेत्स्क, தோனெத்ஸ்க், ഡൊണെറ്റ്സ്ക്, โดเนตสค์, დონეცკი, ドネツィク, 頓涅茨克, 도네츠크

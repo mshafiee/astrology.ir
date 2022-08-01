@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'43.22" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'1.26" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°8'10.53" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°50'44.45" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°47'51.32" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°53'25.19" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|26°42'25.84" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°40'43.31" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'1.25" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|20°8'10.55" |Aries|Butain|Venus|
+|☉ Sun|Prograde|11°50'44.41" |Cancer|Nathrah|Mercury|
+|♀ Venus|Prograde|20°47'51.24" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|29°53'25.13" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|26°42'25.16" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°40'43.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'1.26" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°8'10.53" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°50'44.45" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°47'51.32" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°53'25.19" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|26°42'25.84" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|22°40'43.31" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'1.25" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|20°8'10.55" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|11°50'44.41" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|20°47'51.24" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|29°53'25.13" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|26°42'25.16" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub> |<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ciudad de Malabo, Malaba, Malabas, Malabo, Malabó, Malampo, Port Clarence, Rev Malebo, SSG, Santa Isabel, ma la bo, mala bo, malabo, malabw, malapo, mallabo, marabo, mlabw, Μαλάμπο, Малаба, Малабо, Մալաբո, מלאבו, مالابو, مالابۆ, ملابو, मलाबो, ਮਲਾਬੋ, மலாபோ, มาลาโบ, མ་ལ་བོ།, მალაბო, ማላቦ, マラボ, 馬拉博, 말라보
