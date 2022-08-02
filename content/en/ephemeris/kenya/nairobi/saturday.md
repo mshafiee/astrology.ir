@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'15.37" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'13.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°21'27.33" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°41'25.77" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°8'38.02" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°5'38.82" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|22°17'42.81" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°32'15.27" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'13.64" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|21°21'27.31" |Aries|Butain|Venus|
+|☉ Sun|Prograde|13°41'25.80" |Cancer|Tarf|Mercury|
+|♀ Venus|Prograde|23°8'38.10" |Gemini|Dhira|Sun|
+|☿ Mercury|Prograde|3°5'38.88" |Leo|Jabhah|Saturn|
+|☾ Moon|Prograde|22°17'42.36" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'15.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'13.63" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°21'27.33" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°41'25.77" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°8'38.02" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°5'38.82" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|22°17'42.81" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°32'15.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'13.64" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|21°21'27.31" |Taurus|Dabaran|Saturn|
+|☉ Sun|Prograde|13°41'25.80" |Leo|Zubrah|Jupiter|
+|♀ Venus|Prograde|23°8'38.10" |Cancer|Tarf|Moon|
+|☿ Mercury|Prograde|3°5'38.88" |Virgo|Sarfrah|Sun|
+|☾ Moon|Prograde|22°17'42.36" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: NBO, Nairoba, Nairobi, Nairobia, Nairobis, Nairobo, Nairoby, Nairobî, Nairompi, Nairòbi, Nairóbi, Najrobi, Najrobo, Nayrobi, Nayroobi, Naíróbí, Naýrobi, na'irobi, nai luo bi, nailobi, nairobi, nairopi, nayreabi, nayrwby, nei luo bi, nirobi, nyrwby, nyyrwby, Ναϊρόμπι, Найроби, Найробі, Најроби, Նայրոբի, נייראבי, ניירובי, نايروبى, نایروبی, نایرۆبی, نيروبي, نیروبی, नैरोबी, নাইরোবি, ਨੈਰੋਬੀ, நைரோபி, ನೈರೋಬಿ, നയ്റോബി, ไนโรบี, ནའི་རོ་བི།, နိုင်ရိုဘီမြို့, ნაირობი, ናይሮቢ, ナイロビ, 内罗毕, 奈洛比, 나이로비

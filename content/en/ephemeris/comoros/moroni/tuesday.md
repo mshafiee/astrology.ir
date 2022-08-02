@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:13:17 |
 | Sunset | 18:01:53 |
 | Maghrib | 18:02:51 |
-| Isha | 19:11:41 |
+| Isha | 19:11:40 |
 | Sharia Midnight | 23:36:13 |
 | Imum Coeli | 00:13:15 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'46.39" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'13.45" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°48'17.54" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°51'9.84" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°15'52.43" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°18'50.64" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|0°9'40.37" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|22°49'46.48" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'13.43" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Prograde|18°48'17.58" |Aries|Butain|Sun|
+|☉ Sun|Prograde|9°51'9.79" |Cancer|Nathrah|Venus|
+|♀ Venus|Prograde|18°15'52.35" |Gemini|Dhira|Mars|
+|☿ Mercury|Prograde|26°18'50.58" |Cancer|Jabhah|Moon|
+|☾ Moon|Prograde|0°9'39.00" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'46.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'13.45" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°48'17.54" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°51'9.84" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°15'52.43" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°18'50.64" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|0°9'40.37" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|22°49'46.48" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'13.43" |Aries|Sharatain|Mars|
+|♂ Mars|Prograde|18°48'17.58" |Taurus|Dabaran|Moon|
+|☉ Sun|Prograde|9°51'9.79" |Leo|Zubrah|Saturn|
+|♀ Venus|Prograde|18°15'52.35" |Cancer|Tarf|Mercury|
+|☿ Mercury|Prograde|26°18'50.58" |Leo|Sarfrah|Mars|
+|☾ Moon|Prograde|0°9'39.00" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
