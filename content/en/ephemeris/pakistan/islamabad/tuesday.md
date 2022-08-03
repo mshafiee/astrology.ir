@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'19.60" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'19.85" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°43'21.24" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°43'48.86" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°6'31.84" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°5'24.73" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°35'18.28" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°43'21.24" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°43'48.86" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°6'31.84" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°5'24.73" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°35'18.28" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'19.60" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'19.85" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°43'21.24" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°43'48.86" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°6'31.84" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°5'24.73" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°35'18.28" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°43'21.24" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°43'48.86" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°6'31.84" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°5'24.73" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°35'18.28" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ISB, Islamabad, Islamabada, Islamabadas, Islamabade, Islamabadi, Islamabado, Islamahbad, Islamampant, Islàmabad, Islámábád, Islāmābād, Islāmābāda, Iszlamabad, Iszlámábád, aslam abad, isalamabada, iseullamabadeu, islamabad, islamabada, islamabadi, islamapat, isuramabado, xislamabad, yi si lan bao, yyslamabad, yyslamyabad, Îslamabad, İslamabad, Ισλαμαμπάντ, Ісламабад, Исламабад, Իսլամաբադ, איסלאמאבאד, איסלמבאד, إسلام آباد, ئىسلامئاباد, ئیسلاماباد, اسلام آباد, اسلام اباد, اسلام‌آباد, އިސްލާމްއާބާދު, इस्लामाबाद, ইসলামাবাদ, ਇਸਲਾਮਾਬਾਦ, ઇસ્લામાબાદ, ଇସଲାମାବାଦ, இஸ்லாமாபாத், ಇಸ್ಲಾಮಾಬಾದ್, ഇസ്ലാമബാദ്, อิสลามาบัด, ཨི་སི་ལམ་བོ།, ისლამაბადი, ኢስላማባድ, イスラマバード, 伊斯兰堡, 伊斯蘭堡, 이슬라마바드

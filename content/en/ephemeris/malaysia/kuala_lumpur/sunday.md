@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'38.92" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'49.60" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°52'17.56" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°28'18.81" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°8'17.07" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°25'13.07" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°30'49.29" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°52'17.56" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°28'18.81" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°8'17.07" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°25'13.07" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°30'49.29" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'38.92" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'49.60" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°52'17.56" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°28'18.81" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°8'17.07" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°25'13.07" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°30'49.29" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°52'17.56" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°28'18.81" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°8'17.07" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°25'13.07" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°30'49.29" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Gizlungzpoh, KUL, Kouala Loumpou, Kouala Loumpour, Kuala Lumpor, Kuala Lumpur, Kuala-Lumpur, Kuala-Lumpuro, Kualae-Lumpur, Kualalumpura, Kualalumpūra, Kvala Lumpuras, Kvala Lumpūras, Kúala Lúmpúr, ji long po, kaulalampur, kawlalampexr, kolalampur, ku'a lalampura, ku'ala lupura, ku'alalampura, ku'alalumpura, kuallalumpuleu, kuararunpuru, kuyalalamapura, kvalalampura, kwala lambwr, kwala lmpwr, kwalalampwr, kwalalmbwr, kwalalmpwr, kwalalwmpwr, kۇyalalۇmpۇr, Κουάλα Λουμπούρ, Куалæ-Лумпур, Куала Лумпур, Куала-Лумпур, Կուալա Լումպուր, קואלה לומפור, كوالا لامبور, كوالالمبور, كۇئالالۇمپۇر, کوالا لمپور, کوالالامپور, کوالالمپور, کوالالومپور, कुआ लालम्पुर, कुआलालम्पुर, क्वालालंपूर, কুয়ালালামপুর, ਕੁਆਲਾ ਲੁੰਪੁਰ, କୁଆଲାଲୁମ୍ପୁର, கோலாலம்பூர், ಕೌಲಾಲಂಪುರ್, കോലാലമ്പൂർ, กัวลาลัมเปอร์, ཁལ་ལུང་ཕུ།, ကွာလာလမ်ပူမြို့, კუალა-ლუმპური, ኩዋላ ሉምፑር, クアラルンプール, 吉隆坡, 쿠알라룸푸르

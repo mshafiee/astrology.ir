@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'43.20" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'23.92" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°17'28.04" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°35'22.78" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°0'56.34" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°55'18.10" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°51'50.55" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°17'28.04" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°35'22.78" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°0'56.34" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°55'18.10" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°51'50.55" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'43.20" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'23.92" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°17'28.04" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°35'22.78" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°0'56.34" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°55'18.10" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°51'50.55" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°17'28.04" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°35'22.78" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°0'56.34" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°55'18.10" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°51'50.55" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特

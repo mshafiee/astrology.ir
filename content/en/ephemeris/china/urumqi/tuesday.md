@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'34.29" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'22.69" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°41'10.62" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°40'33.85" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°2'24.54" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|25°59'28.77" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|27°49'57.68" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°41'10.62" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°40'33.85" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°2'24.54" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|25°59'28.77" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|27°49'57.68" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'34.29" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'22.69" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°41'10.62" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°40'33.85" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°2'24.54" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|25°59'28.77" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|27°49'57.68" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°41'10.62" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°40'33.85" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°2'24.54" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°59'28.77" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|27°49'57.68" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Dikhua, OEremce, Ouroumtchi, Ouroumtsi, Ti-hua, Ti-hua-ch'eng, Ti-hua-ch’eng, Ti-hua-hsien, Ti-hua-shih, Tihwa, Tihwafu, Tikhua, Tikhva, UEruemchi-su, UEruemcsi, UEruemqi, UEruemqi-chhi, URC, Urumchi, Urumci, Urumcio, Urumcis, Urumczi, Urumptsi, Urumqi, Urumqi Shi, Urumtschi, Urumtsi, Urumutsi, Urumçi, Urumĉio, Urumči, Urumčis, Urunchi, Wu-lu-mu-ch'i, Wu-lu-mu-ch'i-shih, Wu-lu-mu-ch’i, Wu-lu-mu-ch’i-shih, Wulumuqi, Wurumch'ih, Wurumch’ih, arwmchy, awrwmchy, awrwmtshy, ulumuchi si, urumaci, urumaki, urumchi, urumucci, urumuchi, urumuchi shi, wu lu mu qi, wu lu mu qi shi, xu rum chi, Öremçe, Ürümchi, Ürümchi-sṳ, Ürümcsi, Ürümqi, Ürümqi Shi, Ürümqi-chhī, Ουρούμτσι, Урумчи, Урумчі, Урумћи, Үрімжі, Үрүмчи, Үрүмчү, Өрөмч хот, Ուրումչի, אורומצי, أورومتشي, ئۈرۈمچى, ئۈرۈمچى شەھىرى, ئۈرۈمچی, ارومچی, اورومچی, उरुमची, उरुम्छी, ਉਰੂਮਕੀ, உருமுச்சி, อุรุมชี, ཨུ་རུམ་ཆི་གྲོང་ཁྱེར།, ウルムチ, ウルムチ市, 乌鲁木齐, 乌鲁木齐市, 烏魯木齊, 烏魯木齊市, 우루무치 시

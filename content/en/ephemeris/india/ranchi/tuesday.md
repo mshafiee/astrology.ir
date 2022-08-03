@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'25.10" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'20.87" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°42'31.63" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°42'35.31" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°4'58.10" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°3'9.72" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°21'2.87" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°42'31.63" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°42'35.31" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°4'58.10" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°3'9.72" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°21'2.87" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'25.10" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'20.87" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°42'31.63" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°42'35.31" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°4'58.10" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°3'9.72" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°21'2.87" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°42'31.63" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°42'35.31" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°4'58.10" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°3'9.72" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°21'2.87" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: IXR, Ranchi, Ranci, Rancis, Rancsi, Ranĉi, Rančis, Ráncsí, Ráňčí, Rānchi, Rānchī, lan qi, lanchi, raci, ramci, ranchi, ranchy, ranci, ranci jilla, ranshy, rʼnzy, Ранчи, Ранчі, ראנצי, رانشي, رانچي, رانچی, राँची, रांची, रांची जिल्ला, রাঁচি, রাচি, ਰਾਂਚੀ, રાંચી, ରାଞ୍ଚି, ராஞ்சி, రాంచీ, ರಾಂಚಿ, റാഞ്ചി, რანჩი, ラーンチー, 蘭契, 란치

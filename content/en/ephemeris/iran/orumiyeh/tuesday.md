@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'0.86" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.24" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°46'8.77" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'58.19" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°11'48.79" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°13'0.65" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°28'40.61" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°46'8.77" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'58.19" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°11'48.79" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°13'0.65" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°28'40.61" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'0.86" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.24" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°46'8.77" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'58.19" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°11'48.79" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°13'0.65" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°28'40.61" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°46'8.77" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'58.19" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°11'48.79" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°13'0.65" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°28'40.61" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: OMH, Orumiyeh, Orūmīyeh, Ourmia, Reza'iyeh, Rezaeyeh, Rezaiyye, Rezâiyye, Rezā’īyeh, Rizaiyeh, Rizāiyeh, Urmia, Urmija, Urmiya, Urmiye, Urmía, Urumija, Urumiyeh, Urūmiyeh, arwmyh, arwmyt, shhrstan arwmyh, Úrmia, Ûrmiye, Урмия, Урумия, אורמיה, أرومية, ارومیه, ارومیّه, شهرستان ارومیه, ܐܘܪܡܝܐ

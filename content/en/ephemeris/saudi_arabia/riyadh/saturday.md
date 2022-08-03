@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'28.82" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'18.61" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°19'31.12" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°38'29.74" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°4'53.93" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°0'37.65" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°35'34.82" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°19'31.12" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°38'29.74" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°4'53.93" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°0'37.65" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°35'34.82" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'28.82" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'18.61" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°19'31.12" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°38'29.74" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°4'53.93" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°0'37.65" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°35'34.82" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°19'31.12" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°38'29.74" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°4'53.93" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°0'37.65" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°35'34.82" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Al-Riad, Al-Riyad, Ar Riyadh, Ar Riyādh, Ar-Riaad, Ar-Rijad, Ar-Riyad, Ar-Riyod, Ar-Riyāḑ, Ehr-Rijad, Ehr-Ryjad, Er-Rijad, Er-riyad, RUH, Riaad, Riad, Riade, Riadi, Riado, Riadum, Riant, Rihad, Rijad, Rijada, Rijadas, Rijád, Rijāda, Riyad, Riyadh, Riyaḍ, Ríad, alryad, er-riadi, li ya de, liyadeu, raiyadha, ri'ada, ri'adha, riyad, riyada, riyadh, riyadha, riyado, riyat, ryad, ryyad, Ər-Riyad, Ριάντ, Ар-Рияд, Ер-Ріяд, Рияд, Ријад, Эр-Рияд, Эр-Рыяд, Ալ-Ռիադ, ריאד, الرياض, رىياد, رياض, ریاض, ڕیاز, रियाद, रियाध, রিয়াদ, ৰিয়াধ, ਰਿਆਧ, ରିଆଦ, ரியாத், ರಿಯಾಧ್, റിയാദ്, ริยาด, རིས་ཡག, ერ-რიადი, ሪያድ, リヤド, 利雅得, 利雅德, 리야드

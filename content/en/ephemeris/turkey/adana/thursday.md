@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'11.87" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'9.48" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°4'0.91" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°44'28.79" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°39'54.03" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°42'22.37" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°16'45.74" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°4'0.91" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°44'28.79" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°39'54.03" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°42'22.37" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°16'45.74" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'11.87" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'9.48" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°4'0.91" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°44'28.79" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°39'54.03" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°42'22.37" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°16'45.74" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°4'0.91" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°44'28.79" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°39'54.03" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°42'22.37" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°16'45.74" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나

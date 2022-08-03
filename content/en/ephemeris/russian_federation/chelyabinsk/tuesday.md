@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'22.85" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'20.60" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°42'53.83" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°43'6.61" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°5'39.43" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°4'9.56" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°18'16.83" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°42'53.83" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°43'6.61" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°5'39.43" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°4'9.56" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°18'16.83" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'22.85" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'20.60" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°42'53.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°43'6.61" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°5'39.43" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°4'9.56" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°18'16.83" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°42'53.83" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°43'6.61" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°5'39.43" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°4'9.56" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°18'16.83" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CEK, Celabinsk, Celabinska, Celaebinsk, Celeabinsk, Celiabinsc, Celiabinsca, Celiabinskas, Celjabinsk, Celyabinsk, Chaljabinsk, Chelepi, Cheliabinsk, Cheliábinsk, Cheljaba, Cheljaba osh, Cheljabe, Cheljabi, Cheljabins'k, Cheljabinsk, Chelyabinsk, Cseljabinszk, Czelabinsk, Czelabińsk, Tcheliabinsk, Tchelyabinsk, Tchéliabïnsk, Tjeljabinsk, Tscheljabinsk, Tseliampinsk, Tseljabinsk, Tsjeljabinsk, Tsyelyabinsk, Txeliabinsk, Txeliàbinsk, Tšeljabinsk, celiyabinska, celyabinska, che li ya bin si ke, chellyabinseukeu, cheryabinsuku, chlyabnsk, chlyabynsk, chylyabnsk, tshylyabnsk, zlyʼbynsq, Çelyabinsk, Ĉeljabinsk, Čeliabinskas, Čeljabinsk, Čeläbinsk, Čeļabinska, Čeľabinsk, Τσελιάμπινσκ, Силәбе, Чалябінск, Челепи, Челяба, Челяба ош, Челябе, Челябинск, Челябі, Челябінськ, Чељабинск, Чиләбе, Чєлѣбиньскъ, Չելյաբինսկ, טשעליאבינסק, צליאבינסק, تشيليابنسك, چلیابنسک, چلیابینسک, چیلیابنسک, चेलियाबिन्स्क, चेल्याबिंस्क, চেলিয়াবিন্‌স্ক, ჩელიაბინსკი, チェリャビンスク, 車里雅賓斯克, 첼랴빈스크

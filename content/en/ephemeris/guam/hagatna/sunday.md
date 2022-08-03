@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°29'13.02" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°35'3.32" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°47'26.72" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°20'56.11" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°58'53.60" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°12'45.86" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|1°43'19.05" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°47'26.72" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°20'56.11" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°58'53.60" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°12'45.86" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°43'19.05" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°29'13.02" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°35'3.32" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°47'26.72" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°20'56.11" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°58'53.60" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°12'45.86" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|1°43'19.05" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°47'26.72" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°20'56.11" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°58'53.60" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°12'45.86" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|1°43'19.05" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Agadna, Agana, Agana -1998, Agania, Aganija, Aganja, Agano, Agaña, Aguana, Akashi, Akashi - JP renamed WW2, Ankana, City of Ignacio de Agana, City of Saint Ignacio de Agana, Ciudad de San Ignacio de Agana, Hagadna, Hagatna, Hagåtña, Haqatna, Jagatna, Khagatna, San Ignacio de Agana *, Ville d'Agana, Vjoska Agan'ja, a jia ni ya, akatna, ha katya, hagania, hagasnya, hagatna, hagatnya, haghatnya, hegatn'ya, Αγκάνα, Вёска Аганья, Хагатна, Хагатња, Հագատնա, هاغاتنيا, هاگاتنا, هاگاتنیا, हेगात्न्या, அகாத்ன, ฮากาตญา, ჰაგატნა, ハガニア, 阿加尼亚, 하갓냐

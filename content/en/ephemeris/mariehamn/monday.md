@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°23'35.32" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°32'39.30" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|22°35'15.90" |Aries|Butain|Venus|
-|☉ Sun|Prograde|15°33'55.03" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|25°31'48.35" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|6°14'45.88" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|19°49'6.82" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|22°35'15.90" |Aries|Butain|Venus|
+|☉ Sun|Direct|15°33'55.03" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|25°31'48.35" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|6°14'45.88" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|19°49'6.82" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°23'35.32" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°32'39.30" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|22°35'15.90" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|15°33'55.03" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|25°31'48.35" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|6°14'45.88" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|19°49'6.82" |Sagittarius|Baldah|Moon|
+|♂ Mars|Direct|22°35'15.90" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|15°33'55.03" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|25°31'48.35" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|6°14'45.88" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|19°49'6.82" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함

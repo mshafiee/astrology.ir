@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'40.09" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'50.08" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°52'7.65" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°28'3.66" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°7'57.83" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°24'47.59" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°27'18.74" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°52'7.65" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°28'3.66" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°7'57.83" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°24'47.59" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°27'18.74" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'40.09" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'50.08" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°52'7.65" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°28'3.66" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°7'57.83" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°24'47.59" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°27'18.74" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°52'7.65" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°28'3.66" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°7'57.83" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°24'47.59" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°27'18.74" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Baru, Bharu, Dzhokhor Bakhru, Dzhokhor-Baru, Dzohor Baru, Dzokhor Bakhru, Džohor Baru, JHB, Jahore Bahru, Johor, Johor Baharu, Johor Bahru, Johore, Johore Bahru, Johore Baru, Johore Bharu, Sin-san-su, Sîn-sân-sṳ, joholeubalu, johora baru, johorubaru, jokur paru, jwhr bhrw, jwhwr bhrw, xin shan, ya hor bah ru, Џохор Бахру, Джохор Бахру, Джохор-Бару, גוהור באהרו, جوهر بهرو, جوهور بهرو, جوھر بھرو, जोहोर बारू, ஜொகூர் பாரு, ยะโฮร์บาห์รู, ဂျဟိုးဘာရူးမြို့, ジョホールバル, 新山, 조호르바루

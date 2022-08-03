@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'4.10" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.87" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'39.87" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'15.14" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°10'54.09" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°11'41.99" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°19'17.06" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°45'39.87" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'15.14" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°10'54.09" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°11'41.99" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°19'17.06" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'4.10" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.87" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'39.87" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'15.14" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°10'54.09" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°11'41.99" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°19'17.06" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°45'39.87" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'15.14" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°10'54.09" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°11'41.99" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°19'17.06" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: RAS, Raixt, Rascht, Rasht, Rasjt, Rast, Rasto, Raszt, Raŝto, Rašt, Reshh, Resht, Rest, Restas, Reşt, Reštas, Rəşt, la shen te, lasyuteu, rashuto, rasta, reshti, rsht, Рашт, Решт, Рещ, Рәшт, Ռեշտ, ראשת, رشت, ڕەشت, रश्त, แรชต์, რეშთი, ラシュト, 拉什特, 라슈트

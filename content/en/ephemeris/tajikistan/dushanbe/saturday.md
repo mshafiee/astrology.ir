@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'49.60" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'26.28" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°16'33.27" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°33'59.51" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°59'10.59" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°52'55.77" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°32'25.74" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°16'33.27" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°33'59.51" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|22°59'10.59" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°52'55.77" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°32'25.74" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'49.60" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'26.28" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°16'33.27" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°33'59.51" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°59'10.59" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°52'55.77" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°32'25.74" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°16'33.27" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°33'59.51" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|22°59'10.59" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°52'55.77" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°32'25.74" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: DYU, Djuschambe, Doesjanbe, Douchanbe, Douchanbé, Dusanbe, Dusanbeo, Duschanbe, Dushambe, Dushanbe, Dusjanbe, Duszanbe, Duŝanbeo, Duşanbe, Dušanbe, Dušanbė, Dušhanbe, Dyushambe, Düşənbə, Jushambe, Ntousanmpe, Stalinabad, do~ushanbe, du shang bie, dusyanbe, dwshnbh, dwsnbh, Ντουσάνμπε, Душанбе, דושנבה, دوشنبه, ዱሻንቤ, ドゥシャンベ, 杜尚别, 두샨베

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'49.10" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'53.70" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°50'51.06" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°26'7.06" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°5'29.44" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°21'30.99" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°59'0.55" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°50'51.06" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°26'7.06" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°5'29.44" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°21'30.99" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°59'0.55" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'49.10" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'53.70" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°50'51.06" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°26'7.06" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°5'29.44" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°21'30.99" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|2°59'0.55" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°50'51.06" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°26'7.06" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°5'29.44" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°21'30.99" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°59'0.55" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CKG, Cchung-cching, Ch'ung-ch'ing, Ch'ung-ch'ing-shih, Chongqing, Chongqing (Chongqing Shi), Chongqing - zhong qing, Chongqing - 重庆, Chongqing Shi, Chuncin, Chungking, Ch’ung-ch’ing, Ch’ung-ch’ing-shih, Congcing, Congcingas, Congcingo, Csungking, Cuncjina, Pa, Pa-hsien, Trung Khanh, Trùng Khánh, Tshung-khin, Tshùng-khin, Tsjoengking, Yu-chou, Yuzhou, Yü-chou, caungakiga, ceancin, chng ching, chungching si, chwng kyng, chwngchng, congachinga, congkinga, conkin, tshwnghtshyngh, z'wngz'yng, zhong qing, zhong qing shi, Çongçing, Ĉongĉingo, Čchung-čching, Čongčingas, Čuncjina, Чунгкинг, Чунцин, Чунцін, צ'ונגצ'ינג, تشونغتشينغ, چونگ کینگ, چونگچنگ, چونگ‌کینگ, چۇڭچىڭ شەھىرى, चोंगछिंग, चोंग्किंग, ਚੌਂਗਕਿੰਗ, சோங்கிங், ചോങ്ചിങ്, ฉงชิ่ง, ཁྲུང་ཆིན་གྲོང་ཁྱེར།, 重庆, 重庆市, 重慶, 重慶市, 충칭 시

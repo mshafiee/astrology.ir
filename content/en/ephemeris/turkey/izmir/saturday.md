@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'19.06" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'14.99" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°20'56.36" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°40'38.51" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°7'38.13" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°4'18.43" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|22°6'46.24" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°32'18.97" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'15.00" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|21°20'56.33" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°40'38.54" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°7'38.20" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°4'18.49" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°6'45.80" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'19.06" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'14.99" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°20'56.36" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°40'38.51" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°7'38.13" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°4'18.43" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|22°6'46.24" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|22°32'18.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'15.00" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°20'56.33" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°40'38.54" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°7'38.20" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°4'18.49" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|22°6'45.80" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Azmir, Esmirna, IZM, Ismir, Izmir, Izmira, Izmiras, Izmiro, Smirne, Smyrna, Smyrne, Yazmir, azmyr, izmiri, izumiru, yi zi mi er, İzmir, Σμύρνη, Измир, איזמיר, إزمير, იზმირი, イズミル, 伊兹密尔

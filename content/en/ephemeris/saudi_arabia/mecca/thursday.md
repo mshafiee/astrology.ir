@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'10.14" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'8.95" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°4'15.34" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°44'50.96" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°40'21.80" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°43'0.89" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°22'50.68" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°4'15.34" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°44'50.96" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°40'21.80" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°43'0.89" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°22'50.68" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'10.14" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'8.95" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°4'15.34" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°44'50.96" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°40'21.80" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°43'0.89" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°22'50.68" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°4'15.34" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°44'50.96" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°40'21.80" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°43'0.89" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°22'50.68" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: A Meca, La Meca, La Mecca, La Mecque, Macoraba, Maekkae, Makka, Makkah, Makkah al Mukarramah, Makkah al Mukarraman, Makkah al-Mukarramah, Meca, Mecca, Mecka, Meice, Meka, Mekao, Meke, Mekka, Mekkah, Mekke, Mekko, Mäkkä, mai jia, mak kah, makka, meka, mekka, mkh, mkt, mkt almkrmt, Μέκκα, Мека, Мекка, מכה, مكة, مكة المكرمة, مکه, مکہ, মক্কা, มักกะฮ์, མ་ཁ།, მექა, メッカ, 麥加, 메카

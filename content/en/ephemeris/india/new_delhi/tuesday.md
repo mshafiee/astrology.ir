@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'20.91" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'20.08" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°43'9.27" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°43'31.22" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°6'9.26" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°4'52.19" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°32'27.05" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°43'9.27" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°43'31.22" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°6'9.26" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°4'52.19" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°32'27.05" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'20.91" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'20.08" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°43'9.27" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°43'31.22" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°6'9.26" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°4'52.19" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°32'27.05" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°43'9.27" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°43'31.22" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°6'9.26" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°4'52.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°32'27.05" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Dellium Novum, Dilli, Dillí, N'ju-Deli, Neo Delchi, Neu-Delhi, Nev Deli, New Delhi, New Dilli, Nju Delkhi, Nov-Delhio, Nova Delhi, Nova Deli, Nova Deli - na'i dilli, Nova Deli - नई दिल्ली, Nova-Delhi, Nove Dilli, Nové Dillí, Nueba Deli, Nueva Delhi, Nuova Delhi, Nyja Deli, Nyu Deli, Nòva Delhi, Nýja Delí, Yeni Delhi, dlhy aljdydt, na'i dilli, naya dilli, niu-deli, niwde li, nyudelli, nyuderi, nyw dlhy, nywdlhy, putu tilli, xin de li, Νέο Δελχί, Њу Делхи, Нев Дели, Нью-Дели, Նյու Դելի, ניו דלהי, دلهي الجديدة, نيودلهي, नई दिल्ली, নয়া দিল্লী, புது தில்லி, นิวเดลี, ནེའུ་དིལ་ལིའི, ნიუ-დელი, ኒው ዴሊ, ニューデリー, 新德里, 뉴델리

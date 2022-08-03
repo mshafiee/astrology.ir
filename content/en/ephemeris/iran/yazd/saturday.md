@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'36.59" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'21.48" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°18'24.69" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°36'48.78" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°2'45.67" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°57'45.19" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°12'2.98" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°18'24.69" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°36'48.78" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°2'45.67" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°57'45.19" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°12'2.98" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'36.59" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'21.48" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°18'24.69" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°36'48.78" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°2'45.67" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°57'45.19" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°12'2.98" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°18'24.69" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°36'48.78" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°2'45.67" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°57'45.19" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°12'2.98" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: AZD, Dakbayan sa Yazd, Giaznt, Jazd, Jazdo, Jezd, Jezdas, Yasd, Yazd, Yezd, Yəzd, iezdi, ya ci de, yajeudeu, yazda, yazudo, yzd, Γιαζντ, Јазд, Йезд, Язд, Յազդ, יזד, يزد, یزد, यज़्द, იეზდი, ヤズド, 亚兹德, 야즈드

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'6.03" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'17.31" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'23.46" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°46'49.98" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°10'22.76" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°10'57.08" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°9'56.42" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°45'23.46" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°46'49.98" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°10'22.76" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°10'57.08" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°9'56.42" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'6.03" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'17.31" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'23.46" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°46'49.98" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°10'22.76" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°10'57.08" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°9'56.42" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°45'23.46" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°46'49.98" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°10'22.76" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°10'57.08" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°9'56.42" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Caricyn, Estalingrado, Stalingrad, Stalingrado, Tsaritsyn, VOG, Valgagrad, Vl'gogradu, Volgograd, Volgograda, Volgogradas, Volgogrado, Volgogradum, Volgográd, Volnkonkrant, Volqoqrad, Wolgograd, Wołgograd, Zarizyn, bolgogeuladeu, fu er jia ge lei, fwlghwghrad, fwljwjrad, volagagarata, volgograda, volgogradi, volkokirat, vu~orugogurado, wlgwgrad, wwlgw grad, wwlgwgrad, wwlgwgrd, wxl kok rad, Βόλγκογκραντ, Аһш балһсн, Валгаград, Вльгоградъ, Волгоград, Сталинград, Царицын, Վոլգոգրադ, וולגוגרד, فولجوجراد, فولغوغراد, ولگوگراد, وولگو گراد, وولگوگراد, ڤۆڵگۆگراد, वोल्गोग्राद, ਵੋਲਗਾਗਰਾਤ, வோல்கோகிராட், වොල්ගාග්‍රාද්, วอลโกกราด, စတာလင်ဂရက်မြို့, ვოლგოგრადი, ヴォルゴグラード, 伏尔加格勒, 伏爾加格勒, 볼고그라드

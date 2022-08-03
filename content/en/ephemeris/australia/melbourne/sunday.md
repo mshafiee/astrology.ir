@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°29'0.89" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'58.74" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°49'12.69" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°23'34.47" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°2'17.63" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°17'16.68" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°30'32.49" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°49'12.69" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°23'34.47" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°2'17.63" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°17'16.68" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°30'32.49" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°29'0.89" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'58.74" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°49'12.69" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°23'34.47" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°2'17.63" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°17'16.68" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|2°30'32.49" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°49'12.69" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°23'34.47" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°2'17.63" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°17'16.68" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°30'32.49" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MEL, Mel'burn, Melbourne, Melbourne City, Melbournum, Melburn, Melburna, Melburnas, Melburno, Melvourni, mel beirn, melaborna, melbeoleun, melbeon, melporn, meruborun, mlbwrn, mo er ben, Μελβούρνη, Мелбурн, Мелбърн, Мельбурн, מלבורן, ملبورن, مېلبۇرن, मेलबोर्न, மெல்போர்ன், เมลเบิร์น, མེར་བུན, メルボルン, 墨尔本, 墨爾本, 멜버른, 멜번

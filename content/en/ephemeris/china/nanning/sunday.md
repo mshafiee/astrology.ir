@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'48.48" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'53.44" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°50'56.16" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°26'14.97" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°5'39.38" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°21'44.15" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°0'26.33" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°50'56.16" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°26'14.97" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°5'39.38" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°21'44.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°0'26.33" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'48.48" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'53.44" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°50'56.16" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°26'14.97" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°5'39.38" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°21'44.15" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°0'26.33" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°50'56.16" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°26'14.97" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°5'39.38" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°21'44.15" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°0'26.33" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시

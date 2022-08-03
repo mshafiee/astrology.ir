@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'41.98" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°36'23.48" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°17'38.57" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°35'38.66" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°1'16.63" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°55'45.41" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°55'43.23" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°32'42.08" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°36'23.46" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|21°17'38.60" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°35'38.63" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°1'16.56" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°55'45.36" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°55'43.65" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°32'41.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°36'23.48" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°17'38.57" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°35'38.66" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°1'16.63" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°55'45.41" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°55'43.23" |Scorpio|Qalb|Venus|
+|♄ Saturn|Retrograde|22°32'42.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°36'23.46" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°17'38.60" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°35'38.63" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°1'16.56" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°55'45.36" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°55'43.65" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MHD, Masant, Masat, Maschhad, Mashad, Mashado, Mashhad, Mashkhad, Masyhad, Maxhad, Maŝhado, Maşat, Mašhad, Mașhad, Meixad, Meshed, Mesheda, Meshedas, Meshkhed, MeshkhӀed, Meszhed, Mexed, Meşhed, Mešheda, Mešhedas, Məshəd, Məşhəd, ma shen ha de, mach had, macukat, masahada, mashuhado, masyuhadeu, meshhedi, mshd, mshhd, Μασάντ, Машхад, Машҳад, Мешхед, МешхӀед, Мешһед, Мәшһәд, Մաշհադ, משהד, مشهد, مشہد, مەشھەد, मशहद, মাশহাদ, ਮਸ਼ਹਦ, மசுகாத், മശ്‌ഹദ്, มัชฮัด, მეშჰედი, マシュハド, 馬什哈德, 마슈하드

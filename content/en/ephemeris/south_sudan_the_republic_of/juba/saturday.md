@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'12.83" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'12.71" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°21'48.15" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°41'57.60" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°9'18.39" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°6'32.99" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|22°24'50.59" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°21'48.15" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°41'57.60" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°9'18.39" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°6'32.99" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°24'50.59" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'12.83" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'12.71" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°21'48.15" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°41'57.60" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°9'18.39" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°6'32.99" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|22°24'50.59" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°21'48.15" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°41'57.60" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°9'18.39" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°6'32.99" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|22°24'50.59" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Djouba, Dschuba, Dzhuba, Goba, JUB, Juba, Uula, g'wbh, juba, jwba, Джуба, ג'ובה, جوبا, 주바

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'48.30" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'19.68" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°58'41.58" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°36'29.42" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°29'44.15" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°28'13.45" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|23°29'54.19" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|19°58'41.58" |Aries|Butain|Sun|
+|☉ Sun|Direct|11°36'29.42" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°29'44.15" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°28'13.45" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|23°29'54.19" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'48.30" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'19.68" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°58'41.58" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°36'29.42" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°29'44.15" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°28'13.45" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|23°29'54.19" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|19°58'41.58" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°36'29.42" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°29'44.15" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°28'13.45" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|23°29'54.19" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CGP, Cattagram, Caṭṭagrām, Cetagons, Chattogram, Chitagong, Chittagong, Chittagong Ghat, Chottogram, Chôţţogram, Citagaon, Citagong, Citagonga, Citagongas, Citagongo, Cittaqonq, Cottogram, Csittagong, Islamabad, Tsitankon'nk, catagamva, cattagrama, chitagong, chittagon, chytagwng, cirragean, cit ta kxng, citagonga, cittagang, cittagonga, cittakon, ji da gang, ji da gang shi, shytaghwngh, shytajwnj, zytgwng, Çitagong, Çittaqonq, Ćottogram, Ĉitagongo, Čattagrám, Čitagonga, Čitagongas, Čitágáon, Čėtagons, Τσιταγκόνγκ, Читагонг, Читтагонг, Читтаґонґ, טשיטאגאנג, ציטגונג, شيتاجونج, شيتاغونغ, چٹاگانگ, چیتاگونگ, चटगाँव, चट्टग्राम, चिटागोंग, চট্টগ্রাম, ચિત્તાગોંગ, சிட்டகொங், చిట్టగాంగ్, ಚಿತ್ತಗಾಂಗ್, ചിറ്റഗോങ്, จิตตะกอง, စစ်တကောင်းမြို့, ჩიტაგონგი, チッタゴン, 吉大港, 吉大港市, 치타공

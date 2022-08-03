@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'19.78" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'11.69" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°2'51.19" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°42'44.41" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°37'40.96" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°39'17.26" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°54'8.69" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°2'51.19" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°42'44.41" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°37'40.96" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°39'17.26" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°54'8.69" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'19.78" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'11.69" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°2'51.19" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°42'44.41" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°37'40.96" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°39'17.26" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°54'8.69" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°2'51.19" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°42'44.41" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°37'40.96" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°39'17.26" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°54'8.69" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ad Dawha, Ad Dawhah, Ad Dawḩa, Ad Dawḩah, Ad Doha, Ad Dowhah, Ad-Dauha, Ad-Dawhah, Ad-Dawḩah, DOH, Daeuha, Dauha, Dauhá, Dawha, Dawhat al Qatar, Dawḥa, Dawḩat al Qaţar, Dewhe, Do'ha, Doh, Doha, Doho, Dokha, Dokhae, Dokho, Dooxa, Doʻha, Doḥa, Duoha, Däuha, Ntocha, aaldawhat, aldwhh, aldwht, deaha, do ha, doha, dohara, duo ha, dwhh, toka, Ντόχα, Дохæ, Доха, Дохо, Доҳа, Доһа, Դոհա, דאכא, דוחא, דוחה, الدوحة, الدوحه, اَلدَّوْحَة, دوحه, دوحہ, دوحە, دوھا, دەوحە, दोहा, দোহা, দোহার, ਦੋਹਾ, தோகா, ದೊಹಾ, ദോഹ, โดฮา, དྷོ་ཧ།, ဒိုဟာမြို့, დოჰა, ዶሃ, ドーハ, 多哈, 도하

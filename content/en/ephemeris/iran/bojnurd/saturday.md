@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'40.74" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'23.03" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°17'49.27" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°35'54.83" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°1'37.24" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°56'13.15" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°59'37.41" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°17'49.27" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°35'54.83" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°1'37.24" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°56'13.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°59'37.41" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'40.74" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'23.03" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°17'49.27" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°35'54.83" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°1'37.24" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°56'13.15" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°59'37.41" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°17'49.27" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°35'54.83" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°1'37.24" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°56'13.15" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°59'37.41" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BJB, Bodzhnurd, Bojnord, Bojnourd, Bojnurd, Bojnūrd, Bujnurd, Bujnūrd, bjnwrd, Боджнурд, بجنورد

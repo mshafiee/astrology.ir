@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'36.46" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'21.56" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°18'27.58" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°36'51.65" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°2'50.64" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°57'52.01" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°14'52.09" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°18'27.58" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°36'51.65" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°2'50.64" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°57'52.01" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°14'52.09" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'36.46" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'21.56" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°18'27.58" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°36'51.65" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°2'50.64" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°57'52.01" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°14'52.09" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°18'27.58" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°36'51.65" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°2'50.64" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°57'52.01" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°14'52.09" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MOW, Maeskuy, Maskav, Maskava, Maskva, Mat-xco-va, Matxcova, Matxcơva, Mosca, Moscfa, Moscha, Mosco, Moscou, Moscova, Moscovo, Moscow, Moscoƿ, Moscu, Moscua, Moscòu, Moscó, Moscù, Moscú, Moskva, Moska, Moskau, Mosko, Moskokh, Moskou, Moskov, Moskova, Moskovu, Moskow, Moskowa, Mosku, Moskuas, Moskva, Moskvo, Moskwa, Moszkva, Muskav, Musko, Mát-xcơ-va, Mòskwa, Məskeu, Məskəү, masko, maskw, mo si ke, moseukeuba, mosko, mosukuwa, mskw, mwskva, mwskw, mwsqbh, mx s ko, Μόσχα, Мæскуы, Маскав, Масква, Москва, Москова, Москох, Москъва, Мускав, Муско, Мәскеу, Мәскәү, Մոսկվա, מאָסקװע, מאסקווע, מוסקבה, ماسکو, مسکو, موسكو, موسكۋا, ܡܘܣܩܒܐ, मास्को, मॉस्को, মস্কো, மாஸ்கோ, มอสโก, མོ་སི་ཁོ།, მოსკოვი, ሞስኮ, モスクワ, 莫斯科, 모스크바

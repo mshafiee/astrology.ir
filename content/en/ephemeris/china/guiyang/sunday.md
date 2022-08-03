@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'48.28" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'53.36" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°50'57.97" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°26'17.67" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°5'42.87" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°21'48.79" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°1'23.02" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°50'57.97" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°26'17.67" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°5'42.87" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°21'48.79" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°1'23.02" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'48.28" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'53.36" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°50'57.97" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°26'17.67" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°5'42.87" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°21'48.79" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°1'23.02" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°50'57.97" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°26'17.67" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°5'42.87" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°21'48.79" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°1'23.02" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Goi-iong, Guejang, Guejjan, Guijangas, Guijango, Guiyang, Guiyang Shi, Gujjan, Guyan, Guyyan, Gveiyangz, Gói-iòng, Gŭijango, KWE, Kuei-chu, Kuei-yang, Kuei-yang-shih, Kuej-jang, Kui-iong-chhi, Kweichu, Kweiyang, Kweiyangfu, Kùi-iông-chhī, Queiyanga, Quy Duong, Quý Dương, ghwyyangh, gu'iyanga, gu-iyang si, gui yang, gui yang shi, gwyyang, kuy hyang, Гуейян, Гуејанг, Гуйян, Ґуйян, Գույան, غوييانغ, گوئیانگ, گۇيياڭ شەھىرى, गुइयांग, ਗੁਈਯਾਂਗ, กุ้ยหยาง, ကွေ့ယန်မြို့, 貴陽, 貴陽市, 贵阳, 贵阳市, 구이양 시

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'57.76" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'57.20" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°49'37.35" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°24'14.72" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°3'6.56" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°18'21.56" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°32'4.12" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°49'37.35" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°24'14.72" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°3'6.56" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°18'21.56" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°32'4.12" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'57.76" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'57.20" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°49'37.35" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°24'14.72" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°3'6.56" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°18'21.56" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|2°32'4.12" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°49'37.35" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°24'14.72" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°3'6.56" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°18'21.56" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°32'4.12" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Che-fej, Chefei, HFE, Hak-bui, Hap-pui-chhi, Ha̍p-pûi-chhī, Hefei, Hefei Shi, Hefejo, Hefejus, Hefėjus, Heyfey, Ho-fei, Ho-fei-hsien, Ho-fei-shih, Hofej, Hop Phi, Hozfeiz, Hăk-bùi, Hợp Phì, Khefej, Khehfehj, Khufej, Lu-chou, Luchow, Luchowfu, Lunchow, haphai, he fei, he fei shi, hefe'i, heopei si, hexfey, hfyy, khfy, Χεφέι, Хефей, Хефеј, Хъфей, Хэфэй, Хөфэй, Հեյֆեյ, خفي, خېفېي شەھىر, هفئی, ہیفئی, ہیفیئی, हफै, हेफ़ेई, เหอเฝย์, 合肥, 合肥市, 허페이 시

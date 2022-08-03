@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'35.44" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'15.14" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°0'29.02" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°39'16.67" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°33'16.50" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°33'12.28" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°36'44.65" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'35.45" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'16.09" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|20°0'33.83" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°39'18.11" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°33'18.58" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°33'12.10" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°8'2.41" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'35.45" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'16.09" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°0'33.83" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°39'18.11" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°33'18.58" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°33'12.10" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°8'2.41" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°0'33.83" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°39'18.11" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°33'18.58" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°33'12.10" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°8'2.41" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BLR, Ban'nkalor, Bangalor, Bangalora, Bangalore, Bangalore - bengaluru, Bangalore - ಬೆಂಗಳೂರು, Bangalore City, Bangalur, Bangaluri, Bangalúr, Bengalour, Bengaluras, Bengaluro, Bengaluru, Bengalurus, Bengalúru, Bengalūras, Bengalūru, baeng-geollo, bagalaura, ban jia luo er, bang kha l xr, bang-galloleu, bangalaura, bangalora, bangalura, bangaroru, beng-gallulu, bengalora, bengaluru, benguluru, bnghalwr, bnglwr, bynglwr, penkalur, Μπανγκαλόρ, Бангалор, Бенгалуру, Бенґалуру, בנגלור, بنغالور, بنگلور, بینگلور, बंगलौर, बंगळूर, बेङ्गलूरु, बेङ्गलोर, बेङ्गळूरु, বাঙ্গালোর, বেঙ্গালুরু, ਬੰਗਲੌਰ, બેંગલોર, ବେଙ୍ଗାଳୁରୁ, பெங்களூர், బెంగుళూరు, ಬೆಂಗಳೂರು, ബെംഗളൂരു, බැංගලෝර්, บังคาลอร์, ဘန်ဂလိုမြို့, ბენგალურუ, バンガロール, 班加罗尔, 班加羅爾, 방갈로르, 뱅걸로, 벵갈루루

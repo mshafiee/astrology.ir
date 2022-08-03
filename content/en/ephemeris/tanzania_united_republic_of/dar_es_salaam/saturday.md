@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'15.97" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'13.93" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°21'21.53" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°41'16.76" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°8'26.80" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°5'23.70" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|22°15'49.86" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°21'21.53" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°41'16.76" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°8'26.80" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°5'23.70" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°15'49.86" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'15.97" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'13.93" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°21'21.53" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°41'16.76" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°8'26.80" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°5'23.70" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|22°15'49.86" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°21'21.53" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°41'16.76" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°8'26.80" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°5'23.70" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|22°15'49.86" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: DAR, Dar Es Salaam, Dar Es Salam, Dar es Salaam, Dar es Salam, Dar es Salamas, Dar es Salams, Dar es Salám, Dar es-Salaam, Dar es-Salam, Dar əs Salam, Dar-ehs-Salam, Dar-ehs-Salam shaary, Dar-es-Salaam, Dar-es-Salam, Darasalam, Daresalama, Daresalamo, Daressalaam, Daressalam, Daruesselam, Darüsselam, Dárasalám, Dār es Salām, Dāresalāma, Ntar es Salam, Ntontoma, da lei si sa la mu, daleueseusallam, dar alslam, dar-es-salami, dar-xes-salam, dara asa salama, dara esa salama, daralslam, daruesusaramu, san lan gang, tarus'salam, Νταρ ες Σαλάμ, Ντοντόμα, Дар ес Салам, Дар ес-Салаам, Дар-ес-Салам, Дар-эс-Салам, Дар-эс-Салам шаары, דאר א-סלאם, דאר עס סאלאאם, دار السلام, دارالسلام, دارېسسالام, दार अस सलाम, दार एस सलाम, ਦਾਰ ਅਸ ਸਲਾਮ, தாருஸ்ஸலாம், ดาร์-เอส-ซาลาม, ཏ་རེ་སི་ས་ལམ།, ဒါအက်စ် ဆယ်လန်းမြို့, დარ-ეს-სალამი, ダルエスサラーム, 三蘭港, 达累斯萨拉姆, 다르에스살람

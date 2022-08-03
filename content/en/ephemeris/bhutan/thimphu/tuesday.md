@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'29.35" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'21.69" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°41'53.80" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°41'38.91" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°3'46.52" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°1'26.69" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°8'21.07" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°41'53.80" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°41'38.91" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°3'46.52" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°1'26.69" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°8'21.07" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'29.35" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'21.69" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°41'53.80" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°41'38.91" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°3'46.52" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°1'26.69" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°8'21.07" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°41'53.80" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°41'38.91" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°3'46.52" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°1'26.69" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°8'21.07" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부

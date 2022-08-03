@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'13.33" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'9.89" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°3'48.08" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°44'9.52" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°39'29.53" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°41'48.31" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°12'28.19" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°3'48.08" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°44'9.52" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°39'29.53" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°41'48.31" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°12'28.19" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'13.33" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'9.89" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°3'48.08" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°44'9.52" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°39'29.53" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°41'48.31" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°12'28.19" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°3'48.08" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°44'9.52" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°39'29.53" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°41'48.31" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°12'28.19" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Aintab, Antep, Ayintap, Ayntʻap, Ayıntap, Dilok, Dîlok, GZT, Gazi-Ayintap, Gaziantep, Gaziantepa, Gaziantepas, Gazijantehp, Gazijantep, Guaziantep, Nkaziantep, Qazianteb, Qaziantep, gaji'antepa, gajiantepeu, gaziantepi, gazu~iantepu, jia ji an tai pu, ka si xan tep, Γκαζιαντέπ, Газиантеп, Газијантеп, Газіянтэп, Гъазиантеп, Ґазіантеп, Այնթապ, Գազիանթեպ, גזיאנטפ, عنتاب, غازی عینتاب, گازی ئانتەپ, ਗਜਿਆਂਤੇਪ, กาซีอันเตป, გაზიანთეფი, ガズィアンテプ, 加濟安泰普, 가지안테프

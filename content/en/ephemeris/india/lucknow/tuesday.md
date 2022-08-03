@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'23.02" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'20.48" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°42'50.38" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°43'3.14" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°5'33.54" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°4'0.76" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°26'37.35" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°42'50.38" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°43'3.14" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°5'33.54" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°4'0.76" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°26'37.35" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'23.02" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'20.48" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°42'50.38" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°43'3.14" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°5'33.54" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°4'0.76" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°26'37.35" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°42'50.38" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°43'3.14" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°5'33.54" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°4'0.76" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°26'37.35" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: LKO, Lakhnau, Lakkhnau, Lakkhnau shaary, Laknaou, Laknau, Laknauo, Laknava, Laknaú, Laknaŭo, Lucknow, Lucknow City, Luknow, ilakno, lakh nea, lakhana'u, lakhanau, laknau, lakno, laksnau, lei ke nao, leokeunau, lkhnw, lknaw, rakunau, Λάκναου, Лакнау, Лакхнау, Лакхнау шаары, לאקנאו, لكهنؤ, لكهنو, لکناو, لکهنو, لکھنؤ, लखनऊ, लखनौ, লক্ষ্ণৌ, লখনৌ, ਲਖਨਊ, લખનૌ, ଲକ୍ଷ୍ନୌ, இலக்னோ, లక్నో, ಲಕ್ನೋ, ലഖ്‌നൗ, ลัคเนา, ლაქნაუ, ラクナウ, ラクナウー, 勒克瑙, 러크나우

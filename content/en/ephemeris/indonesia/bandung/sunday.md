@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'41.09" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'50.52" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°51'59.36" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°27'50.70" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°7'41.63" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°24'26.13" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°25'18.12" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°51'59.36" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°27'50.70" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°7'41.63" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°24'26.13" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°25'18.12" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'41.09" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'50.52" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°51'59.36" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°27'50.70" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°7'41.63" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°24'26.13" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°25'18.12" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°51'59.36" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°27'50.70" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°7'41.63" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°24'26.13" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°25'18.12" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BDO, Bandoeng, Banduna, Bandung, Bandungas, Bandungo, Bantoun'nk, Kota Bandung, Kuta Bandung, Kutha Bandhung, ban dung, bandon, bandung, bandungi, bandwng, bandwnj, bndwng, pantun, wan long, Μπαντούνγκ, Бандунг, Бандуң, Բանդունգ, באנדונג, باندونج, باندونگ, بندونگ, بنڈونگ, பண்டுங், บันดุง, ဘန်ဒေါင်းမြို့, ბანდუნგი, バンドン, 万隆, 萬隆, 반둥

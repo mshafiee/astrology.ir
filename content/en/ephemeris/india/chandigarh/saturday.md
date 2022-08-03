@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'52.76" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'27.41" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°16'5.72" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°33'18.06" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°58'17.57" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°51'44.35" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°22'10.40" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°16'5.72" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°33'18.06" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|22°58'17.57" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°51'44.35" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°22'10.40" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'52.76" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'27.41" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°16'5.72" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°33'18.06" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°58'17.57" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°51'44.35" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°22'10.40" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°16'5.72" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°33'18.06" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|22°58'17.57" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°51'44.35" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°22'10.40" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Candigarchas, Candigarh, Chandigar, Chandigarh, Chandigarkh, Chandīgarh, Czandigarh, IXC, cadigarha, candhigad, candigadh, candigadha, candigara, candigarha, cantikar, chandigadh, chandigarhi, chandigaru, chang di jia er, Čandigarchas, Čandígarh, Чандигар, Чандигарх, צ'אנדיגאר, चंडीगढ़, চন্ডিগড়, চন্ডীগড়, ਚੰਡੀਗੜ੍ਹ, ચંડીગઢ, சண்டிகர், చండీగఢ్, ఛండీగఢ్, ചണ്ഢീഗഡ്, ჩანდიგარჰი, チャンディーガル, 昌迪加尔

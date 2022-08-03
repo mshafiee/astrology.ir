@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'36.52" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'21.49" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°18'25.76" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°36'50.01" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°2'47.58" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°57'47.78" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°12'48.64" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°18'25.76" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°36'50.01" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°2'47.58" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°57'47.78" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°12'48.64" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'36.52" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'21.49" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°18'25.76" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°36'50.01" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°2'47.58" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°57'47.78" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°12'48.64" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°18'25.76" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°36'50.01" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°2'47.58" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°57'47.78" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°12'48.64" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'9.33" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'17.86" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°44'52.69" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°46'5.22" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°9'24.95" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°9'33.75" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°5'52.54" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°44'52.69" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°46'5.22" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°9'24.95" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°9'33.75" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°5'52.54" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'9.33" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'17.86" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°44'52.69" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°46'5.22" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°9'24.95" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°9'33.75" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°5'52.54" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°44'52.69" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°46'5.22" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°9'24.95" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°9'33.75" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°5'52.54" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Dowzdab, Dowzdāb, Duzdab, Duzdap, Duzdāb, Duzdāp, ZAH, Zahedan, Zahedan-e (Yek), Zahedanas, Zahedano, Zahedán, Zahidan, Zaidan, Zaidān, Zakhedan, Záhedán, Zāhedān, Zāhedān-e (Yek), cakitan, jahedan, jahedana, zahdan, zahedan, zahedana, zahedani, zha hei dan, Захедан, Зоҳидон, Զահեդան, زاهدان, زاہدان, ज़ाहेदान, জহেদন, சாகிதன், ზაჰედანი, ザーヘダーン, 扎黑丹, 자헤단

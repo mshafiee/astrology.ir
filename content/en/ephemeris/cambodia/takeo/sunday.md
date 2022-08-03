@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'42.96" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'51.22" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°51'43.07" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°27'26.43" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°7'10.28" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°23'44.60" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°17'38.90" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°51'43.07" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°27'26.43" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°7'10.28" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°23'44.60" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°17'38.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'42.96" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'51.22" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°51'43.07" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°27'26.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°7'10.28" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°23'44.60" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°17'38.90" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°51'43.07" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°27'26.43" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°7'10.28" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°23'44.60" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°17'38.90" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

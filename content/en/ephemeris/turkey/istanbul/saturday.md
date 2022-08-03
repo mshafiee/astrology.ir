@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'21.37" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'15.90" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°20'35.84" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°40'7.30" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°6'58.59" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°3'25.27" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°59'34.52" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°20'35.84" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°40'7.30" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°6'58.59" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°3'25.27" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°59'34.52" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'21.37" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'15.90" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°20'35.84" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°40'7.30" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°6'58.59" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°3'25.27" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°59'34.52" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°20'35.84" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°40'7.30" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°6'58.59" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°3'25.27" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°59'34.52" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bizanc, Bizánc, Byzance, Byzantion, Byzantium, Byzanz, Constantinoble, Constantinopla, Constantinople, Constantinopolen, Constantinopoli, Constantinopolis, Costantinopoli, Estambul, IST, Istamboul, Istambul, Istambuł, Istampoul, Istanbul, Istanbúl, Isztambul, Konstantinapoly, Konstantinopel, Konstantinopolo, Konstantinoupoli, Konstantinoupolis, Konstantinápoly, Kustantiniyah, Micklagard, Micklagård, Mikligardur, Mikligarður, Stamboul, Stambul, Stambula, Stambuł, Tsarigrad, Vizantija (Vizantija), Vyzantio, astnbwl, bijantium, byuzantion, byzntywn, iseutanbul, istambula, isutanburu, stin Poli [stimˈboli], yi si tan bu er, İstanbul, Βυζάντιο, Βυζαντιο, Ισταμπουλ, Ισταμπούλ, Κωνσταντινουπολη, Κωνσταντινούπολη, Κωνσταντινούπολις, στην Πόλι [stimˈboli], Византија (Vizantija), Истанбул, Стамбул, ביזנטיון, اسطنبول, इस्तांबुल, ইস্তাম্বুল, イスタンブール, ビュザンティオン, 伊斯坦布尔, 비잔티움, 이스탄불

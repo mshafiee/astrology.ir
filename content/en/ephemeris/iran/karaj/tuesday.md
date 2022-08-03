@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'4.45" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.93" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'36.61" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'10.38" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°10'47.97" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°11'33.18" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°18'42.48" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°45'36.61" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'10.38" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°10'47.97" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°11'33.18" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°18'42.48" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'4.45" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.93" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'36.61" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'10.38" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°10'47.97" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°11'33.18" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°18'42.48" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°45'36.61" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'10.38" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°10'47.97" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°11'33.18" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°18'42.48" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Heredi, Karadj, Karadje, Karadsch, Karadz, Karadzs, Karadż, Karadž, Karag, Karaj, Karatz, Karaĝ, Karej, Kerec, Keredi, Keredzas, Keredzh, Keredžas, Kerezh, Kərəc, Leredi, PYK, QKC, Qasabeh-e Karaj, Qaşabeh-e Karaj, ka la ji, kairaija, kalaji, karaj, karaji, kha rac, krj, kyaraji, qasabihi karaj, Καράτζ, Карай, Караџ, Караҷ, Кередж, Кереж, כאראג, قَصَبِهِ كَرَج, كرج, کرج, کەرەج, कैरैज, கராஜ், คาราจ, ქარაჯი, キャラジ, 卡拉季, 카라지

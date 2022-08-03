@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'23.03" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'12.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°2'23.25" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°42'2.08" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°36'47.45" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°38'2.89" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°43'53.91" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°2'23.25" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°42'2.08" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°36'47.45" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°38'2.89" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°43'53.91" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'23.03" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'12.63" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°2'23.25" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°42'2.08" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°36'47.45" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°38'2.89" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°43'53.91" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°2'23.25" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°42'2.08" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°36'47.45" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°38'2.89" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°43'53.91" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: THR, Taekhran, Tahran, Techerane, Teera, Teerao, Teerã, Teerão, Tegeran, Teheran, Teherana, Teheranas, Teherano, Teherán, Teherāna, Tehran, Tehrano, Tekheran, Téhéran, de hei lan, teharan, teharana, tehelan, teheran, tehran, teirani, thran, thrn, thrwn, tihiran, tihran, Τεχεράνη, Тæхран, Тегеран, Техеран, Теҳрон, Թեհրան, טהראן, טהרן, تهران, تهرون, تِهران, تِهِرَن, تہران, طهران, ܛܗܪܐܢ, तेहरान, তেহরান, தெஹ்ரான், เตหะราน, ཏེ་ཧི་རན​།, თეირანი, ቴህራን, テヘラン, 德黑兰, 테헤란

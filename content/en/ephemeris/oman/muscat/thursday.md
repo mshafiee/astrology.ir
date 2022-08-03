@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'24.30" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'12.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°2'11.60" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°41'44.94" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°36'25.33" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°37'32.04" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°40'49.99" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°2'11.60" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°41'44.94" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°36'25.33" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°37'32.04" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°40'49.99" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'24.30" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'12.96" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°2'11.60" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°41'44.94" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°36'25.33" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°37'32.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°40'49.99" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°2'11.60" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°41'44.94" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°36'25.33" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°37'32.04" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°40'49.99" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MCT, Maeskat, Mascat, Mascate, Maskat, Maskata, Maskatas, Maskate, Maskato, Maskˌat, Masqat, Masqaţ, Masqaṭ, Masquat, Maszkat, Mouskat, Muscat, Muskat, Mäskat, Múskat, ma si ka te, ma si ke te, masakata, maskarr, maskat, maskata, masqata, masukatto, msqt, museukateu, Μουσκάτ, Маскат, Масқат, Мускат, Մասկատ, מסקט, مسقط, مسقط، عمان, مۇسكات, مەسقەت, मस्कत, मस्क़त, মাস্কাট, ਮਸਕਟ, ମସ୍କଟ, மஸ்கத், మస్కట్, മസ്കറ്റ്, มัสกัต, མི་སི་ཁ་ཁྲི།, მასკატი, መስከት, マスカット, 馬斯喀特, 马斯喀特, 무스카트

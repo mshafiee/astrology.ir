@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'4.21" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.86" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'38.31" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'13.24" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°10'51.29" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°11'37.87" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°21'13.10" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°45'38.31" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'13.24" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°10'51.29" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°11'37.87" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°21'13.10" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'4.21" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.86" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'38.31" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'13.24" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°10'51.29" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°11'37.87" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°21'13.10" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°45'38.31" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'13.24" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°10'51.29" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°11'37.87" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°21'13.10" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al Sharjah, Ash 'Mariqah, Ash Shariqa, Ash Shariqah, Ash Shāriqa, Ash Shāriqah, Ash ’Mariqah, Ash-Shariqah emiraat, Ash-Shāriqah emiraat, Charjah, Ch·ardj·a, SHJ, Sardza, Sardzsa, Sarika, Sarja, Sarjo, Sarza, Schardscha, Shardza, Shardzha, Shardzha kuorat, Sharga, Sharijah, Shariqah, Sharja, Sharjah, Sharjah city, Shārijah, Shāriqah, Shārja, Szardza, Szardża, Xarja, Xarjah, alsharqt, amart alsharqt, carja, charc ah, mdynt alsharqt, saraja, sarajaha, sarja, sharja, sharjh, sharuja, syaleuja, sʼrgh, xia er jia, Ŝarĵo, Şarika, Şarja, Šardža, Šardžá, Шарджа, Шарджа куорат, Шарџа, Шарҗә, Շարժա, שארגה, إمارة الشارقة, الشارقة, شارجه, شارجہ, مدينة الشارقة, शारजा, शारजाह, ਸ਼ਾਰਜਾ, சார்ஜா, షార్జా, ಶಾರ್ಜ, ഷാർജ, ชาร์จาห์, შარჯა, シャールジャ, 夏尔迦, 샤르자

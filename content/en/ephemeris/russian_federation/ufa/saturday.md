@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'49.14" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'26.20" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°16'38.51" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°34'6.33" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°59'20.25" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°53'8.88" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°35'33.06" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°16'38.51" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°34'6.33" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|22°59'20.25" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°53'8.88" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°35'33.06" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'49.14" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'26.20" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°16'38.51" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°34'6.33" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°59'20.25" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°53'8.88" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°35'33.06" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°16'38.51" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°34'6.33" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|22°59'20.25" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°53'8.88" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°35'33.06" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ephu, Oefa, Oufa, Ouffa, Owfa, UFA, Uf, Ufa, Uffa, Ufà, Ufá, Ufа, Upo, awfa, ufa, upa, wu fa, Ĕпхӳ, Оуфа, Уфа, Үфі, Өфө, Ӱпӧ, Ուֆա, אופה, أوفا, اوفا, ऊफ़ा, უფა, ウファ, 烏法, 우파

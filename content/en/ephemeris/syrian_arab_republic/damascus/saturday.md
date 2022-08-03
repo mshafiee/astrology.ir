@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'23.86" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'16.80" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°20'14.01" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°39'34.55" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°6'16.61" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°2'28.81" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°51'18.45" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°20'14.01" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°39'34.55" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°6'16.61" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°2'28.81" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°51'18.45" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'23.86" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'16.80" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°20'14.01" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°39'34.55" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°6'16.61" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°2'28.81" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°51'18.45" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°20'14.01" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°39'34.55" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°6'16.61" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°2'28.81" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°51'18.45" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Al-Sham, Al-Shām, An Damaisc, Cham, DAM, Damas, Damasc, Damasch, Damasco, Damascu, Damascus, Damasek, Damashq, Damasiko, Damask, Damask, Damaska, Damaskas, Damasko, Damaskos, Damaskosy, Damasku, Damaskus, Damaszek, Damaszkusz, Damašek, Dameski, Dammeseq, Damsyik, Dimaejk, Dimaesq, Dimashk, Dimashk al-Sham, Dimashk al-Shām, Dimashku, Dimashq, Dimeshki esh Sham, Dimishiq, Dimishku, Dimishq, Dimäjk, Dimäşq, Domas, Domás, Dàmáskù, Dəməşq, Esh Sham, Esh Shām, Kamakeko, Ndamako, Ndamáko, Sam, d mshq, da ma shi ge, damasaka, damasakasa, damaseukuseu, damaskas, damaskasa, damasukasu, dameska, damiska, dimisqu, dmshq, dmsq, drmswq, timisku, Şam, Δαμασκός, Дамаск, Дамаскус, Дамаскъ, Димашкъ, Димишкъ, Димишқ, Դամասկոս, דמשק, د مشق, دمشق, دیمەشق, دەمەشىق, ܕܪܡܣܘܩ, ދިމިޝްޤު, दमास्कस, दमिश्क, দামেস্ক, ਦਮਸ਼ਕ, ଡାମାସକସ, திமிஷ்கு, ಡಮಾಸ್ಕಸ್, ദമാസ്കസ്, ดามัสกัส, དྷ་མ་སི་ཁོ་སི།, ဒမားစကပ်မြို့, დამასკი, ደማስቆ, ダマスカス, 大馬士革, 大马士革, 다마스쿠스, 𐌳𐌰𐌼𐌰𐍃𐌺𐍉/Damasko

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'50.85" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'26.70" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°16'21.98" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°33'42.83" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°58'48.99" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°52'26.64" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°27'52.70" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°16'21.98" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°33'42.83" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|22°58'48.99" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°52'26.64" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°27'52.70" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'50.85" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'26.70" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°16'21.98" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°33'42.83" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°58'48.99" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°52'26.64" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°27'52.70" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°16'21.98" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°33'42.83" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|22°58'48.99" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°52'26.64" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°27'52.70" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Caypur, Dzaipur, Dzaipuras, Dzajpur, Dzajpura, Dzhajpur, Dzsaipur, Dźajpur, Džaipur, Džaipuras, Džajpur, Džajpura, Gajpuro, Iaipura, JAI, Jainagar, Jaipur, Jaipur City, Jayapur, Jaypur, Jeypore, Tzaipour, Zhajpur, ceyppur, chay pu ra, gʼypwr, jaipuleu, jaipura, jaipuru, jayapura, jayapuram, jaybwr, jaypwr, jypwr, zhai pu er, zhai pu ya, Ĝajpuro, Τζαϊπούρ, Џајпур, Джайпур, Жайпур, Ջայպուր, גאיפור, جايبور, جایپور, جيپور, جے پور, जयपुर, जयपुरम्, जयपूर, জয়পুর, জয়পুৰ, ਜੈਪੁਰ, જયપુર, ଜୟପୁର, செய்ப்பூர், ജയ്‌പൂർ, ชัยปุระ, ჯაიპური, ジャイプル, 齋浦爾, 齋葡亞, 자이푸르

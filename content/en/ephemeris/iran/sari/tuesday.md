@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'6.31" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'17.30" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'20.04" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°46'45.64" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°10'16.57" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°10'48.05" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°13'3.04" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°45'20.04" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°46'45.64" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°10'16.57" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°10'48.05" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°13'3.04" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'6.31" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'17.30" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'20.04" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°46'45.64" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°10'16.57" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°10'48.05" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°13'3.04" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°45'20.04" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°46'45.64" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°10'16.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°10'48.05" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°13'3.04" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: SRY, Sari, Sari i Iran, Saris, Sariyo, Sarí, Sarî, Shahr-i-Tajan, Shari-i-Tajan, Sori, Szari, Szári, Sárí, Sārī, sa li shi, sali, sari, sary, sary  ayran, Σάρι, Сари, Сарі, Сорӣ, Սարի, سارى, ساري, ساری, ساری، ایران, सारी, სარი, サーリー, 薩里市, 사리

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'31.30" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'19.61" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°19'11.14" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°37'58.36" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°4'14.94" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°59'45.33" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°29'43.84" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°19'11.14" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°37'58.36" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°4'14.94" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°59'45.33" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°29'43.84" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'31.30" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'19.61" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°19'11.14" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°37'58.36" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°4'14.94" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°59'45.33" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°29'43.84" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°19'11.14" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°37'58.36" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°4'14.94" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°59'45.33" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°29'43.84" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: DOK, Daneck, Donec'k, Doneck, Doneck osh, Donecka, Doneckas, Donecko, Donesk, Donetk, Donetsk, Donetsk i Ukraina, Donezk, Donețk, Donieck, Donietsk, Donjeck, Doněck, Dońeck, Doņecka, Hughesovka, Jusowka, Juzivka, Juzovka, Ntonetsk, Stalin, Staline, Stalino, Yuzovka, Yuzovo, deanerrsk, do net skh, donecheukeu, donetska, donetsu~iku, dun nie ci ke, dwntsk, dwnytsk, dwnzq, tonetsk, Ντονέτσκ, Данецк, Донецк, Донецк ош, Донецьк, Доњецк, Сталино, Сталіне, Сталіно, Юзовка, Юзівка, Դոնեցկ, דונצק, دونتسک, دونيتسك, دونیتسک, دۆنێتسک, दोनेत्स्क, தோனெத்ஸ்க், ഡൊണെറ്റ്സ്ക്, โดเนตสค์, დონეცკი, ドネツィク, 頓涅茨克, 도네츠크

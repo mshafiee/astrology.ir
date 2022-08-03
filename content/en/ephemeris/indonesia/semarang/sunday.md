@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'43.19" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'51.38" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°51'41.44" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°27'23.40" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°7'6.89" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°23'40.10" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°18'38.77" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°51'41.44" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°27'23.40" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°7'6.89" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°23'40.10" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°18'38.77" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'43.19" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'51.38" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°51'41.44" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°27'23.40" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°7'6.89" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°23'40.10" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°18'38.77" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°51'41.44" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°27'23.40" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°7'6.89" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°23'40.10" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°18'38.77" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Kota Semarang, Kutha Semarang, SRG, Samarang, Semaran'nk, Semarang, Semarangas, cemaran, san bao long, san ma leng, se ma rang, semarangi, seumalang, smarang, sumaran, symarang, symaranj, Σεμαράνγκ, Семаранг, سمارانگ, سيمارانج, سیمارانگ, செமாராங், เซมารัง, სემარანგი, スマラン, 三孖冷, 三宝垄, 三寶瓏, 스마랑

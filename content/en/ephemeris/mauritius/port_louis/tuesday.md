@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°49'54.61" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'15.12" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°47'4.63" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°49'20.68" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°13'34.20" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°15'32.14" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°43'7.43" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°47'4.63" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°49'20.68" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°13'34.20" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°15'32.14" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°43'7.43" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°49'54.61" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'15.12" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°47'4.63" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°49'20.68" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°13'34.20" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°15'32.14" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°43'7.43" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°47'4.63" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°49'20.68" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°13'34.20" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°15'32.14" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°43'7.43" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bort Lois, Po-Loui, Por Loui, Por-Loui, Port Lois, Port Louis, Port Louis Town, Port Lui, Port Luis, Port Luisas, Port Luiz, Port-Louis, Port-Lui, Port-Luiso, Port-lui, Portlui, Portluī, Portus Ludovici, Puerto Louis, Pò-Loui, bwr lwys, lu yi gang, phxrt hluys, porata lu'i, port luyis, porta lu'i, porta lu'isa, poteulu-iseu, potoruisu, pwr lwʼy, Πορ Λουί, Πορ-Λουί, Порт Луи, Порт Луис, Порт-Луи, Порт-Луі, Порт-Луї, Պորտ Լուի, פור לואי, بور لويس, پورت‌لوئیس, پورٹ لوئس, پورٹ لوئی, پۆرت لویس, पोर्ट लुई, पोर्ट लुईस, পোর্ট লুইস, ਪੋਰਟ ਲੂਈ, ପୋର୍ଟ ଲୁଇସ, போர்ட் லூயிஸ், പോർട്ട് ലൂയിസ്, พอร์ตหลุยส์, ལོ་ཡི་སི་གྲུ་ཁ།, პორტ-ლუი, ፖርት ሉዊስ, ポートルイス, 路易港, 포트루이스

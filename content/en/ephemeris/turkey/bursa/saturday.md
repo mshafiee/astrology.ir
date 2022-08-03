@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'21.10" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'15.80" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°20'38.14" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°40'10.84" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°7'3.04" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°3'31.25" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|22°0'21.01" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°20'38.14" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°40'10.84" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°7'3.04" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°3'31.25" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°0'21.01" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'21.10" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'15.80" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°20'38.14" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°40'10.84" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°7'3.04" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°3'31.25" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|22°0'21.01" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°20'38.14" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°40'10.84" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°7'3.04" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°3'31.25" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|22°0'21.01" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Boursa, Brossa, Broussa, Brousse, Brusa, Brussa, Burs, Bursa, Bursae, Burso, Prousa, YEI, bu er sa, buleusa, bur sa, bursa, burusa, bwrsa, bwrsh, bwrst, Προύσα, Бурсæ, Бурса, Бурсо, בורסה, برصہ, بورسا, بورصة, بورصه, بورصہ, بۇرسا, बुर्सा, บูร์ซา, ბურსა, ブルサ, 布尔萨, 부르사

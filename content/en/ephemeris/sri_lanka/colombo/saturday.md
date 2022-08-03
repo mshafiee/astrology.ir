@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'48.82" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'25.97" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°16'39.14" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°34'8.88" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°59'22.07" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°53'11.15" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°33'56.42" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°16'39.14" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°34'8.88" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|22°59'22.07" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°53'11.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°33'56.42" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'48.82" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'25.97" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°16'39.14" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°34'8.88" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°59'22.07" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°53'11.15" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°33'56.42" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°16'39.14" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°34'8.88" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|22°59'22.07" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°53'11.15" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°33'56.42" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보

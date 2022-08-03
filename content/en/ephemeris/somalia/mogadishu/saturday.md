@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'22.36" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'16.26" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°20'26.40" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°39'53.47" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°6'40.55" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°3'0.93" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°55'32.77" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°20'26.40" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°39'53.47" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°6'40.55" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°3'0.93" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°55'32.77" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'22.36" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'16.26" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°20'26.40" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°39'53.47" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°6'40.55" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°3'0.93" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°55'32.77" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°20'26.40" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°39'53.47" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°6'40.55" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°3'0.93" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°55'32.77" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MGQ, Magadiscio, Magadysha, Maqdishu, Mogadiisho, Mogadis, Mogadisas, Mogadischu, Mogadiscio, Mogadish, Mogadisho, Mogadishu, Mogadisjoe, Mogadisju, Mogadisjû, Mogadiso, Mogadiss, Mogadisu, Mogadisxo, Mogadiszu, Mogadixo, Mogadiŝo, Mogadişu, Mogadiš, Mogadišas, Mogadišo, Mogadišu, Mogadíscio, Mogadīšo, Mogaidisiu, Mogaidisiú, Monkantisou, Moqadiso, Moqadişo, Moukdicho, Moukntiso, Mugadiccu, Mugadishu, Mugadiss, Muqdisho, Muqdishow, Muqdishu, Mógadisjú, Xamar, makadisu, meagadisu, mo jia di sha, mo jia di xiu, mo kadi chu, mogadisho, mogadishu, mogadisu, mogadisyu, mogarisu, mqdyshw, mqdyshyw, mukticu, mwgadyshw, mwgdysw, mwghadyshw, mۆgadyshۆ, Μογκαντίσου, Μουκντίσο, Магадыша, Могадишо, Могадишу, Могадішо, Մոգադիշո, מאגאדישו, מוגדישו, مقديشو, مقديشيو, موغادیشو, موگادیشو, مۆگادیشۆ, मोगादिशू, मोगादीशू, মোগাদিশু, ਮਕਦੀਸ਼ੂ, ମୋଗାଡ଼ିସୁ, முக்தீசூ, മൊഗാദിഷു, โมกาดิชู, མོ་ག་དི་ཤུ།, მოგადიშო, ሞቃዲሾ, モガディシュ, 摩加迪休, 摩加迪沙, 모가디슈

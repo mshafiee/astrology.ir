@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'2.85" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.61" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'50.82" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'31.62" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°11'14.89" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°12'11.88" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°23'46.43" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°45'50.82" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'31.62" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°11'14.89" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°12'11.88" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°23'46.43" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'2.85" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.61" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'50.82" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'31.62" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°11'14.89" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°12'11.88" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°23'46.43" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°45'50.82" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'31.62" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°11'14.89" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°12'11.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°23'46.43" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Arak, Arak - sawh, Arak - ساوه, Arok, Arāk, Ehrak, Soltanabad, Solţānābād, Sultanabad, Sultānābād, `Iraq, arak, sawh, sultan abad, Арак, Арок, Эрак, اراک, ساوه, سُلطان آباد, ‘Irāq

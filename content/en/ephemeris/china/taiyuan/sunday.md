@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'56.33" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'56.64" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°49'49.83" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°24'33.50" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°3'30.67" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°18'53.56" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°37'25.83" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°49'49.83" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°24'33.50" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°3'30.67" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°18'53.56" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°37'25.83" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'56.33" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'56.64" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°49'49.83" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°24'33.50" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°3'30.67" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°18'53.56" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|2°37'25.83" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°49'49.83" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°24'33.50" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°3'30.67" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°18'53.56" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°37'25.83" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Daiyienz, T'ai-yuan-shih, TYN, Tai-nguong, Taigiouan, Taijuan, Taijuana, Taijuaņa, Taiyuan, Taiyuan Shi, Taiyuan-fu, Taiyuenum, Taiyüan-fu, Tajjuan', Tajjuean, Tajjuen, Tajjüan, Tajuanas, Tajuano, Tayyuan, Tchaj-juean, Tchaj-jüan, Thai Nguyen, Thai-goan-chhi, Thài-goân-chhī, Thái Nguyên, Tái-nguòng, T’ai-yüan-shih, Yang-ch'u, Yang-ch’ü, Yangku, Yangkü, Yanka, ta'iyu'ana, tai yuan, tai yuan shi, taiwian si, tay ywan, tayy ywan, tayywan, thayyu'ana, thi hywn, Ταϊγιουάν, Таијуан, Тайюань, Тайюен, טאי-יואן, تائی یوآن, تائی‌یوان, تاي يوان, تاییوان, تەييۈەن شەھىرى, ताइयुआन, थाय्युआन, ਤਾਈਯੂਆਨ, ไท่หยวน, 太原, 太原市, 타이위안 시

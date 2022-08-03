@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'34.83" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'20.84" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°18'39.78" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°37'11.65" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°3'14.79" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°58'24.36" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°17'31.09" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°18'39.78" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°37'11.65" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°3'14.79" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°58'24.36" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°17'31.09" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'34.83" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'20.84" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°18'39.78" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°37'11.65" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°3'14.79" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°58'24.36" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°17'31.09" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°18'39.78" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°37'11.65" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°3'14.79" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°58'24.36" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°17'31.09" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Aspadana, Dakbayan sa Esfahan, Dakbayan sa Esfahān, Esfahan, Esfahano, Esfahān, Esfehan, Eşfahān, Eşfehān, IFN, Isfachan, Isfahan, Isfahana, Isfahanas, Isfahanum, Isfahon, Isfahán, Isfahāna, Isfakhan, Isfehan, Ispahan, Iszfahan, Iszfahán, Kota Isfahan, Spahan, Yspyhan, asfhan, aysfahan, esaphahana, esufahan, icupakan, isafahana, iseupahan, isfahana, isphahana, xis fa han, yi si fa han, Îsfehan, İsfahan, İsfehan, Ισφαχάν, Ісфахан, Исфахан, Исфаҳон, Исфаһан, Սպահան, אספהאן, أصفهان, ئسفأھان, ئەسفەھان, اصفهان, اصفہان, ایصفاهان, इस्फहान, इस्फ़हान, এসফাহন, ਇਸਫ਼ਹਾਨ, இசுபகான், อิสฟาฮาน, ისპაანი, エスファハーン, 伊斯法罕, 이스파한

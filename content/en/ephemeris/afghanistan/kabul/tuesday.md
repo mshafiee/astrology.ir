@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'17.02" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'19.35" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°43'44.28" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°44'23.15" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°7'15.43" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°6'27.47" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°42'39.26" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°43'44.28" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°44'23.15" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°7'15.43" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°6'27.47" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°42'39.26" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'17.02" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'19.35" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°43'44.28" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°44'23.15" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°7'15.43" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°6'27.47" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°42'39.26" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°43'44.28" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°44'23.15" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°7'15.43" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°6'27.47" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°42'39.26" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Cabool, Caboul, Cabul, Cabul - kabl, Cabul - کابل, Cabura, Cabúl, Caubul, KBL, Kabil, Kaboel, Kabol, Kaboul, Kabul, Kabula, Kabulas, Kabuli, Kabulo, Kabura, Kabúl, Kabûl, Kampoul, Kobul, Kubha, Kábul, Kâbil, Kābol, ka bu er, kabl, kabul, kabula, kabuli, kaburu, kabwl, kapul, ke bu er, khabul, Καμπούλ, Кабул, Кобул, Քաբուլ, קאבול, كابل, كابۇل, کابل, کابول, काबुल, কাবুল, ਕਾਬੁਲ, କାବୁଲ, காபூல், ಕಾಬುಲ್, കാബൂൾ, කාබුල්, คาบูล, ཁ་པལ།, ཁ་པུལ།, ქაბული, ካቡል, ទីក្រុងកាបូល, カブール, カーブル, 喀布尔, 喀布爾, 카불

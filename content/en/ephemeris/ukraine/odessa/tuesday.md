@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°49'54.83" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'15.11" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°47'3.28" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°49'18.82" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°13'31.73" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°15'28.68" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°43'16.53" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°47'3.28" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°49'18.82" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°13'31.73" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°15'28.68" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°43'16.53" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°49'54.83" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'15.11" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°47'3.28" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°49'18.82" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°13'31.73" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°15'28.68" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°43'16.53" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°47'3.28" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°49'18.82" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°13'31.73" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°15'28.68" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°43'16.53" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Adehsa, Ades, ODS, Odesa, Odess, Odessa, Odessa osh, Odessae, Odesse, Odessos, Odessus, Odessza, Odissos, Oděsa, Udessa, ao de sa, awdsa, awdysa, odesa, odessa, Ódessa, ʼwdysʼ, Οδησσός, Адэса, Одеса, Одесс, Одессæ, Одесса, Одесса ош, Одессе, Օդեսա, אדעס, אודיסא, אודסה, أوديسا, اودسا, اوديسا, اودیسا, ओदेसा, အိုဒက်ဆာမြို့, ოდესა, オデッサ, 敖德薩, 오데사

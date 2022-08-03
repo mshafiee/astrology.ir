@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'12.88" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'9.76" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°3'52.03" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°44'15.48" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°39'37.07" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°41'58.79" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°13'52.17" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°3'52.03" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°44'15.48" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°39'37.07" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°41'58.79" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°13'52.17" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'12.88" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'9.76" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°3'52.03" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°44'15.48" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°39'37.07" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°41'58.79" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°13'52.17" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°3'52.03" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°44'15.48" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°39'37.07" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°41'58.79" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°13'52.17" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포

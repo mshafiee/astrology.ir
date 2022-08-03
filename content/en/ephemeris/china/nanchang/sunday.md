@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'55.71" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'56.37" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°49'54.67" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°24'41.20" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°3'40.17" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°19'6.12" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°38'9.51" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°49'54.67" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°24'41.20" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°3'40.17" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°19'6.12" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°38'9.51" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'55.71" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'56.37" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°49'54.67" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°24'41.20" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°3'40.17" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°19'6.12" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|2°38'9.51" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°49'54.67" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°24'41.20" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°3'40.17" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°19'6.12" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°38'9.51" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: KHN, Lam-chhiong-chhi, Lâm-chhiong-chhī, Nam Xuong, Nam Xương, Nam-chhong-su, Nan'chan, Nan-cchang, Nan-ch'ang-hsien, Nan-ch'ang-shih, Nan-ch’ang-hsien, Nan-ch’ang-shih, Nan-čchang, Nancana, Nancangas, Nancano, Nanchan, Nanchang, Nanchang-fu, Nancianga, Nancsang, Nang-chiong, Nanzcangh, Nanĉano, Nančangas, Naņčana, Nàm-chhông-sṳ, Nàng-chiŏng, nan chang, nan chang shi, nanacanga, nanacham, nanachanna, nanchang, nanchang si, nantshangh, nʼnzʼng, Нанчан, Нанчанг, Наньчан, נאנצאנג, نانتشانغ, نانچانگ, نەنچاڭ شەھىرى, नानचांग, নানছাং, ਨਾਨਛਾਂਙ, နန်ချောင့်မြို့, 南昌, 南昌市, 난창 시

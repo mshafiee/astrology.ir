@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°49'42.18" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'12.59" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°48'54.82" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°52'5.66" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°17'3.12" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°20'32.12" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|0°23'17.96" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|18°48'54.82" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°52'5.66" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°17'3.12" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°20'32.12" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°23'17.96" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°49'42.18" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'12.59" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°48'54.82" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°52'5.66" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°17'3.12" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°20'32.12" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|0°23'17.96" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|18°48'54.82" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°52'5.66" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°17'3.12" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°20'32.12" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|0°23'17.96" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: DOD, Dadoma, Dodom, Dodoma, Dodomao, Dódóma, Idodoma, Ntontoma, do do ma, dodoma, du du ma, duo duo ma, dwdwma, dwdwmh, totoma, Ντοντόμα, Дадома, Додома, Դոդոմա, דאדאמא, דודומה, دودوما, دۆدۆما, ڈوڈوما, डोडोमा, दोदोमा, ਦੋਦੋਮਾ, டொடோமா, โดโดมา, დოდომა, ዶዶማ, ドドマ, 多多马, 杜篤瑪, 도도마

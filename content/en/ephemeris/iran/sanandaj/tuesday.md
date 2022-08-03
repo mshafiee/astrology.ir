@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'1.37" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.33" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°46'4.09" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'51.32" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°11'39.97" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°12'47.94" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°27'45.70" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°46'4.09" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'51.32" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°11'39.97" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°12'47.94" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°27'45.70" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'1.37" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.33" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°46'4.09" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'51.32" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°11'39.97" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°12'47.94" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°27'45.70" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°46'4.09" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'51.32" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°11'39.97" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°12'47.94" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°27'45.70" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: SDG, Sanandadsch, Sanandadz, Sanandadż, Sanandadž, Sanandago, Sanandaj, Sanandaĝo, Sanandij, Senendec, Senendedzas, Senendedzh, Senendedžas, Senendehdzh, Senna, Senneh, Sinandij, Sine, Sinneh, Sənəndəc, sa nan da ji, sanandaja, sanandaji, sina, sinih, snndj, Санандаџ, Санандаҷ, Сенендедж, Сенендэдж, Сәнәндәҗ, Սանանդաջ, سنندج, سنە, سِنَّ, سِنِّه, सनंदज, सनंदाज, 萨南达季, 사난다지

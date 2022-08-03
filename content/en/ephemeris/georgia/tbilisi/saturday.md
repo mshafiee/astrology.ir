@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'33.32" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'20.32" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°18'53.31" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°37'31.74" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°3'40.72" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°58'59.27" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°22'49.70" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°18'53.31" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°37'31.74" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°3'40.72" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°58'59.27" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°22'49.70" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'33.32" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'20.32" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°18'53.31" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°37'31.74" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°3'40.72" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°58'59.27" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°22'49.70" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°18'53.31" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°37'31.74" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°3'40.72" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°58'59.27" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°22'49.70" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: TBS, Tbilis, Tbilisi, Tbilisi - tbilisi, Tbilisi - თბილისი, Tbilisi osh, Tbilisis, Tbiliso, Tbilissi, Tbilisy, Tbiliszi, Tbilsi, Tblisi, Thbilisi, Tibilisi, Tiblisi, Tiblissi, Tiblíssi, Tibîlîsî, Tiflis, Tiphlida, Tpilisi, Triphelis, Ttuplis, Tíblisi, Tíflis, Tıflis, di bi li si, karti, tbilisi, tblys, tblysy, tbylysy, teubillisi, tfls, tflys, thbi li si, thbilisi, tipilici, tobirishi, Τιφλίδα, Тбилис, Тбилиси, Тбилиси ош, Тбилисӣ, Тбілісі, Ттуплис, Қарҭ, Թբիլիսի, טביליסי, تبليسي, تبلیس, تبلیسی, تبىلىسى, تفلیس, طفلس, ܛܒܝܠܝܣܝ, त्बिलिसी, थ्बिलीसी, তিবি‌লিসি, திபிலீசி, ทบิลิซิ, ཁྲེ་བྷི་ལི་སི།, თბილისი, ქართი, ትብሊሲ, トビリシ, 第比利斯, 트빌리시

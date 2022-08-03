@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'37.49" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'16.67" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°0'16.00" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°38'51.31" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°32'44.50" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°32'24.64" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°1'56.63" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°0'16.00" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°38'51.31" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°32'44.50" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°32'24.64" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°1'56.63" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'37.49" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'16.67" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°0'16.00" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°38'51.31" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°32'44.50" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°32'24.64" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°1'56.63" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°0'16.00" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°38'51.31" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°32'44.50" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°32'24.64" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°1'56.63" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Cenaj, Cenajo, Cenajus, Cenay, Cennai, Cennaj, Chehnai, Chenaj, Chennai, Chennai - cennai, Chennai - சென்னை, Chennaj, Csennai, MAA, Maderaspatanum, Madras, Madrás, Tamizhagam, Tamulinadu, Tsennai, cen ni, cena'i, cenna'i, cennai, chen'nai, chenai, chennai, chnay, chnayy, chynay, chynayy, jin nai, qing nai, tshynay, znʼy, Çenay, Çennai, Ćennaj, Ĉenajo, Čenaj, Čenajus, Čennai, Čennaí, Τσεννάι, Ченай, Ченај, Ченнаи, Ченнай, Ченнаї, Чэнаі, Չեննայ, צנאי, تشيناي, چنائی, چنای, چينای, چینائی, चेन्नई, चेन्नै, চেন্নাই, ਚੇਨਈ, ચેન્નઈ, ଚେନ୍ନାଇ, சென்னை, చెన్నై, ಚೆನ್ನೈ, ചെന്നൈ, චෙන්නායි, เจนไน, ချန်နိုင်းမြို့, ჩენაი, チェンナイ, 清奈, 金奈, 첸나이

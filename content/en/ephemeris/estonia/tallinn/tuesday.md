@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'0.71" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.37" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°46'12.02" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°48'1.32" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°11'54.28" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°13'8.84" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°20'14.57" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°46'12.02" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°48'1.32" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°11'54.28" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°13'8.84" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°20'14.57" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'0.71" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.37" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°46'12.02" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°48'1.32" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°11'54.28" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°13'8.84" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°20'14.57" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°46'12.02" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°48'1.32" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°11'54.28" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°13'8.84" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°20'14.57" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Castrum Danorum, Kallinn, Kolyvan, Lindanaes, Lindanäs, Raeaeveli, Reval, Revel, Revel', Rääveli, TLL, Taillinn, Talin, Talinas, Talini, Talino, Talins, Tallidn, Tallin, Tallin osh, Tallina, Tallinn, Tallinna, Talín, Tàllin, ta lin, talin, talina, tallin, tallina, tallyn, talyn, tarin, thallin n, Ταλίν, Ταλιν, Ταλλίν, Талин, Таллин, Таллин ош, Таллинн, Таллінн, Талін, Տալլին, טאלין, تاللىن, تالين, تالین, تاڵین, ٹالن, तालिन, ताल्लिन, তাল্লিন, ਤਾਲਿਨ, தாலின், ടാലിൻ, ทาลลินน์, ཏཱལ་་ལིན།, ტალინი, ታሊን, タリン, 塔林, 탈린

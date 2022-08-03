@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'52.44" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'27.29" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°16'8.34" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°33'22.10" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°58'22.65" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°51'51.19" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°23'1.85" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°16'8.34" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°33'22.10" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|22°58'22.65" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°51'51.19" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°23'1.85" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'52.44" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'27.29" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°16'8.34" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°33'22.10" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°58'22.65" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°51'51.19" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°23'1.85" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°16'8.34" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°33'22.10" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|22°58'22.65" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°51'51.19" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°23'1.85" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: DEL, Daehli, Dehli, Dehlī, Delchi, Delhi, Delhio, Delhí, Delhî, Deli, Delis, Delkhi, Dellium, Delí, Dilhi, Dilli, Dillí, Dillī, Dähli, Déhli, Faritani Delhi, New Delhi, Old Delhi, Sahdzahanabad, Stare Deli, de li, dehali, deli, delli, deri, dhilli, dhly, dhly qdym, dil'hi, dili, dilli, dlhy, dly, dlھy, dylhy, na'i dilli, prany dہly, tilli, Šáhdžahanabád, Δελχί, Дели, Делхи, Делі, Деҳли, Дэлі, Старе Делі, Դելի, דלהי, דעלהי, دلهي, دلھی, دلی, دهلي, دهلی قدیم, ديلهى, دہلی, دێھلی, پرانی دہلی, ډېلي, ދިއްލީ, दिल्ली, देहली, नई दिल्ली, দিল্লি, দিল্লী, ਦਿੱਲੀ, દિલ્હી, ଦିଲ୍ଲୀ, தில்லி, ఢిల్లీ, ದೆಹಲಿ, ഡെൽഹി, เดลี, დელი, デリー, 德里, 델리

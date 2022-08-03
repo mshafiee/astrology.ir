@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'34.09" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'20.56" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°18'46.12" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°37'21.29" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°3'27.03" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°58'40.83" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°19'48.59" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°18'46.12" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°37'21.29" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°3'27.03" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°58'40.83" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°19'48.59" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'34.09" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'20.56" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°18'46.12" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°37'21.29" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°3'27.03" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°58'40.83" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°19'48.59" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°18'46.12" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°37'21.29" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°3'27.03" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°58'40.83" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°19'48.59" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: CQD, QHK, Shahr Kord, Shahr Kurd, Shahr-e Kord, Shahrekord, Shakhre-Kord, shhr krd, Шахре-Корд, شهر كرد

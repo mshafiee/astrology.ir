@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°29'4.74" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°35'0.26" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°48'39.65" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°22'44.43" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°1'13.73" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°15'51.91" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°17'38.63" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°48'39.65" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°22'44.43" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°1'13.73" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°15'51.91" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°17'38.63" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°29'4.74" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°35'0.26" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°48'39.65" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°22'44.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°1'13.73" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°15'51.91" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|2°17'38.63" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°48'39.65" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°22'44.43" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°1'13.73" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°15'51.91" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°17'38.63" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CBR, Camberra, Canberra, Canberrah, Kamberra, Kambra, Kampera, Kanapera, Kanbera, Kanbero, Kanberr, Kanberra, Kanberrae, Kanberre, Kanbérra, Kham-phi-la, Khâm-phì-là, Kānapera, kaenbeola, kainabara, kainberra, kan pei la, kanabera, kanbra, kanpara, kenabera, kyanabara, kyanabera, kyanbera, kynbra, kʼanbera, qnbrh, Καμπέρα, Канбера, Канберрæ, Канберра, Канберре, Канбєра, Կանբերրա, קאנבערא, קנברה, كانبرا, کانبرا, کانبێرا, کینبرا, कॅनबेरा, कैनबरा, कैन्बेर्रा, क्यानबरा, ক্যানবেরা, ਕੈਨਬਰਾ, କାନବେରା, கான்பரா, കാൻബറ, කැන්බරා, แคนเบอร์รา, ཁན་པེ་ར།, კანბერა, ካንበራ, キャンベラ, 坎培拉, 堪培拉, 캔버라

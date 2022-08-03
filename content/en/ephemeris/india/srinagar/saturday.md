@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'52.33" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'27.26" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°16'9.52" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°33'23.72" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°58'24.87" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°51'54.21" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°23'45.41" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°16'9.52" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°33'23.72" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|22°58'24.87" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°51'54.21" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°23'45.41" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'52.33" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'27.26" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°16'9.52" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°33'23.72" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°58'24.87" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°51'54.21" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°23'45.41" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°16'9.52" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°33'23.72" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|22°58'24.87" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°51'54.21" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°23'45.41" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Caspira, SXR, Shrinagar, Srinagar, Srinagaras, Srinagaro, Srinankar, Srinigar, Srynagar, Srīnagar, Suryanagar, Szrinagar, cirinakar, seulinagaleu, shurinagaru, si li na jia, sirinagara, siry nagar, srinagar, srinagara, srinagaram, srinagari, srinkhr, sry nghr, sry ngr, srynaghar, srynghr, sryngr, Śrinagar, Šrinagaras, Šrínagar, Σριναγκάρ, Сринагар, Срынагар, Срінагар, Шринагар, Սրինագար, סרינגאר, جموں, سري نغر, سري نگر, سريناغار, سرينغر, سری نگر, سرینگر, سِری نَگَر, श्रीनगर, श्रीनगरम्, सिरीनगर, শ্রীনগর, ਸ੍ਰੀਨਗਰ, શ્રીનગર, ଶ୍ରୀନଗର, சிறிநகர், శ్రీనగర్, ಶ್ರೀನಗರ, ശ്രീനഗർ, ศรีนคร, სრინაგარი, シュリーナガル, 斯利那加, 스리나가르

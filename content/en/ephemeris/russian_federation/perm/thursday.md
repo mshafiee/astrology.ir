@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'39.86" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'17.49" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°59'57.87" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°38'22.02" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°32'9.08" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°31'35.64" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|23°50'26.98" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|19°59'57.87" |Aries|Butain|Sun|
+|☉ Sun|Direct|11°38'22.02" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°32'9.08" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°31'35.64" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|23°50'26.98" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'39.86" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'17.49" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°59'57.87" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°38'22.02" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°32'9.08" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°31'35.64" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|23°50'26.98" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|19°59'57.87" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°38'22.02" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°32'9.08" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°31'35.64" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|23°50'26.98" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Molotov, PEE, Perem, Perm, Perm', Perma, Perme, Permia, Permjo, Permė, Perym, bi er mu, byrm, parma, peiy rm, peleum, perumi, prm, pyrm, Περμ, Молотов, Перĕм, Перем, Перм, Пермь, Перым, Пєрмь, Պերմ, פרם, بيرم, پرم, پیرم, पर्म, เปียร์ม, პერმი, ペルミ, 彼尔姆, 페름

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'46.78" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'19.25" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|19°58'54.91" |Aries|Butain|Sun|
-|☉ Sun|Prograde|11°36'49.43" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°30'9.60" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°28'48.91" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|23°34'22.98" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|19°58'54.91" |Aries|Butain|Sun|
+|☉ Sun|Direct|11°36'49.43" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°30'9.60" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°28'48.91" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|23°34'22.98" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'46.78" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'19.25" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|19°58'54.91" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|11°36'49.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°30'9.60" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°28'48.91" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|23°34'22.98" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|19°58'54.91" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°36'49.43" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°30'9.60" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°28'48.91" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|23°34'22.98" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'33.23" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'20.26" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°18'53.64" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°37'32.61" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°3'41.52" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°59'0.32" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°22'36.72" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°18'53.64" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°37'32.61" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°3'41.52" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°59'0.32" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°22'36.72" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'33.23" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'20.26" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°18'53.64" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°37'32.61" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°3'41.52" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°59'0.32" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°22'36.72" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°18'53.64" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°37'32.61" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°3'41.52" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°59'0.32" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°22'36.72" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ecbatana, HDM, Hamadan, Hamadān, Hamedan, Hamedān, Khamadan, hmdan, Хамадан, همدان

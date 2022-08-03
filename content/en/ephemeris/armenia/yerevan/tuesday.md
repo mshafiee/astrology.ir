@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'1.58" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.39" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°46'2.55" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'48.78" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°11'36.97" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°12'43.67" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°25'51.35" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°46'2.55" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'48.78" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°11'36.97" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°12'43.67" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°25'51.35" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'1.58" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.39" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°46'2.55" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'48.78" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°11'36.97" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°12'43.67" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°25'51.35" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°46'2.55" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'48.78" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°11'36.97" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°12'43.67" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°25'51.35" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ayrivan, Djerevan, EVN, Eireavan, Eireaván, Ereban, Erehvan, Ereun, Erevan, Erevan osh, Erevana, Erevano, Erevanum, Erevàn, Ereván, Erevāna, Erewan, Erivan, Eriwan, Erywan, Erywań, Gierevan, Ierevan, Iereván, Iravan, Jerevan, Jerevanas, Jerevani, Jereván, Jerewan, Jerjewan, Revan, Yerevan, Yervandavan, Yerêvan, Yiriwan, Yèrèvan, Yérévan, ayrwan, ereban, erevani, iyerebhana, shhr ayrwan, ye li wen, yeleban, yeravana pranta, yere wan, yerevan, yerevana, yerevhana, yryfan, yrywan, Èrevan, Êrîvan, İrəvan, Γιερεβάν, Ερεβάν, Єреван, Јереван, Ереван, Ереван ош, Ерэван, Երեվան, Երևան, יערעוואן, ירוואן, ایروان, شهر ایروان, يريفان, يېرېۋان, یریوان, یەریڤان, येरवान प्रान्त, येरेवान, येरेव्हान, ইয়েরেভান, யெரெவான், เยเรวาน, ཡེ་རེ་ཝན།, ერევანი, ዬሬቫን, エレバン, 葉里溫, 예레반

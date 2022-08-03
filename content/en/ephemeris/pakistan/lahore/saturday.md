@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'51.24" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'26.86" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°16'18.79" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°33'37.85" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°58'42.77" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°52'18.29" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°26'52.23" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°16'18.79" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°33'37.85" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|22°58'42.77" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°52'18.29" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°26'52.23" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'51.24" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'26.86" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°16'18.79" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°33'37.85" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°58'42.77" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°52'18.29" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°26'52.23" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°16'18.79" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°33'37.85" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|22°58'42.77" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°52'18.29" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°26'52.23" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: LHE, Lachori, Lahaur, Lahor, Lahora, Lahoras, Lahore, Lahorium, Lakhor, Lohur, Láhaur, Lâhore, Lāhaur, la h xr, la he er, lahaura, laholeu, lahor, lahora, lahori, lahwr, lakur, lwہwr, rahoru, Λαχόρη, Лахор, Լահոր, לאהור, لاهور, لاھور, لاھۆر, لاہور, لوہوٗر, لہور, लाहोर, लाहौर, লাহোর, ਲਹੌਰ, લાહોર, லாகூர், లాహోర్, ಲಾಹೋರ್, ലാഹോർ, ลาฮอร์, ლაჰორი, ラホール, ラーホール, 拉合尔, 拉合爾, 라호르

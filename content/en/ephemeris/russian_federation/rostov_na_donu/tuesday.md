@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'1.71" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.46" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°46'1.94" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'47.39" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°11'35.61" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°12'41.80" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°23'3.45" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°46'1.94" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'47.39" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°11'35.61" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°12'41.80" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°23'3.45" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'1.71" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.46" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°46'1.94" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'47.39" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°11'35.61" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°12'41.80" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°23'3.45" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°46'1.94" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'47.39" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°11'35.61" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°12'41.80" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°23'3.45" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Don umbalne Rostov, Dondaguy Rostov, Dondagy Rostov, Dondokhi Rostov, Doni Rostov, Donyn Rostov, ROV, Rastou-na-Done, Rostof aan die Don, Rostof epi tou Nton, Rostov, Rostov Don, Rostov Donal, Rostov Doni aeaeres, Rostov Doni ääres, Rostov aan de Don, Rostov de Don, Rostov del Don, Rostov do Don, Rostov na Don, Rostov na Donu, Rostov nad Donom, Rostov sopra-u-Donu, Rostov sul Don, Rostov tren song GJong, Rostov trên sông Đông, Rostov ved Don, Rostov-Don, Rostov-Donyl, Rostov-Tan-cinchi, Rostov-an-Don, Rostov-ar-Ddon, Rostov-na-Donu, Rostov-on-Don, Rostov-pe-Don, Rostov-sur-le-Don, Rostova pie Donas, Rostovas prie Dono, Rostovia ad Tanaim, Rostow, Rostow Am Don, Rostow am Don, Rostow na Donu, Rostow nad Donem, Rostow nad Donom, Rostòv de Dòn, Rostóv na Donú, Rostów nad Donem, Rosztov-na-Donu, Tyndagy Rostov, dun he pan luo si tuo fu, loseutopeunadonu, rastov-an-dan, rostova dona, rwstwf-na-dwnw, rwstww na danw, Ροστόφ επί του Ντον, Дон ӱмбалне Ростов, Дон-тӀера-Ростов, Дондагъы Ростов, Дондағы Ростов, Дондохи Ростов, Донын Ростов, Растовъ на Донѣ, Растоў-на-Доне, Ростов, Ростов на Дон, Ростов на Дону, Ростов-Доныл, Ростов-Тан-çинчи, Ростов-на-Дону, Ростов-на-Дону балһсн, Тындагы Ростов, Դոնի Ռոստով, רוסטוב על הדון, روستوف-نا-دونو, روستوو نا دانو, रोस्तोव दॉन, ರಾಸ್ಟೊವ್-ಆನ್-ಡಾನ್, დონის როსტოვი, დონიშ როსტოვი, ロストフ・ナ・ドヌ, 顿河畔罗斯托夫, 로스토프나도누

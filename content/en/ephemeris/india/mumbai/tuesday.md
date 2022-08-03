@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'15.01" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'18.94" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°44'1.63" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°44'49.37" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°7'48.39" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°7'14.79" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°50'29.71" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°44'1.63" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°44'49.37" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°7'48.39" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°7'14.79" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°50'29.71" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'15.01" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'18.94" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°44'1.63" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°44'49.37" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°7'48.39" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°7'14.79" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°50'29.71" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°44'1.63" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°44'49.37" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°7'48.39" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°7'14.79" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°50'29.71" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이

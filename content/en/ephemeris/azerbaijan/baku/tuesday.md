@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'5.71" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'17.17" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'26.56" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°46'55.05" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°10'28.68" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°11'5.54" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°14'0.37" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°50'5.61" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'17.18" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|18°45'26.52" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°46'55.09" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°10'28.76" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°11'5.61" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°14'1.72" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°50'5.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'17.17" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'26.56" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°46'55.05" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°10'28.68" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°11'5.54" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°14'0.37" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°50'5.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'17.18" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°45'26.52" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°46'55.09" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°10'28.76" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°11'5.61" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°14'1.72" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'24.69" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'17.24" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°20'7.40" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°39'23.43" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°6'3.37" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°2'11.01" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°50'21.18" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°20'7.40" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°39'23.43" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°6'3.37" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°2'11.01" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°50'21.18" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'24.69" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'17.24" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°20'7.40" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°39'23.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°6'3.37" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°2'11.01" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°50'21.18" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°20'7.40" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°39'23.43" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°6'3.37" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°2'11.01" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°50'21.18" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: RUN, Saint-Denis, Saint-Denis (Reunion), Saint-Denis (Réunion), Saint-Denis de la Reunion, Saint-Denis de la Réunion, Sen-Deni, St. Denis, saengdeuni, snt dnys, Сен-Дени, סנט דניס, サン・ドゥニ, 생드니

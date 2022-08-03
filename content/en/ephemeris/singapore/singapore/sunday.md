@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'40.12" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'50.10" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°52'7.39" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°28'3.26" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°7'57.32" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°24'46.91" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°27'13.83" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°52'7.39" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°28'3.26" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°7'57.32" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°24'46.91" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°27'13.83" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'40.12" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'50.10" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°52'7.39" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°28'3.26" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°7'57.32" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°24'46.91" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°27'13.83" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°52'7.39" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°28'3.26" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°7'57.32" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°24'46.91" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°27'13.83" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴

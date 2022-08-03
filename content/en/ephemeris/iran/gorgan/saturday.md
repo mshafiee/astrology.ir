@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'38.45" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'22.19" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°18'8.94" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°36'24.68" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°2'15.19" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°57'4.20" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°6'34.25" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°18'8.94" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°36'24.68" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°2'15.19" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°57'4.20" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°6'34.25" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'38.45" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'22.19" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°18'8.94" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°36'24.68" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°2'15.19" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°57'4.20" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°6'34.25" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°18'8.94" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°36'24.68" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°2'15.19" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°57'4.20" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°6'34.25" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Asterabad, Asterābād, GBT, Gorgan, Gorgān, Gurgan, Gurgon, Gūrgān, Hirkanio, aastir abad, grgan, gwrgan, Горган, Гургон, اَستِر آباد, گرگان, گورگان

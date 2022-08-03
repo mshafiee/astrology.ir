@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'49.17" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'53.74" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°50'50.78" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°26'6.41" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°5'28.82" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°21'30.21" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°59'41.33" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°50'50.78" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°26'6.41" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°5'28.82" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°21'30.21" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°59'41.33" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'49.17" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'53.74" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°50'50.78" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°26'6.41" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°5'28.82" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°21'30.21" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|2°59'41.33" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°50'50.78" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°26'6.41" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°5'28.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°21'30.21" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°59'41.33" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Kao-lan-hsien, Kaolan, LHW, Lan Chau, Lan Châu, Lan'chzhou, Lan'chzhou shaary, Lan'zhou, Lan-chiu-chhi, Lan-chou, Lan-chou-shih, Lan-cou, Lan-čou, Lanchjou, Lanchow, Lanchowfu, Lancsou, Landzhou, Landzou, Landžou, Lang-ciu, Langouo, Lantsjou, Lantsoou, Lanzcouh, Lanzhou, Lanzhou Shi, Lanĝoŭo, Laņdžou, Làng-ciŭ, Lân-chiu-chhī, hlan cow, lan zhou, lan zhou shi, lanazu, lanjeou si, lanjhu, lantshw, lanzhw, Λαντσόου, Ланджоу, Ланьжоу, Ланьчжоу, Ланьчжоу шаары, Ланџоу, لانتشو, لانزہو, لانژو, لەنجۇ شەھىرى, लान्झू, ਲਾਨਜ਼ੂ, หลานโจว, ལན་ཀྲོའུ།, 兰州, 兰州市, 蘭州, 蘭州市, 란저우 시

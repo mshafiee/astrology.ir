@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'8.96" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'17.90" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°44'57.57" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°46'11.19" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°9'33.67" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°9'46.53" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°0'15.95" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°44'57.57" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°46'11.19" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°9'33.67" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°9'46.53" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°0'15.95" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'8.96" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'17.90" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°44'57.57" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°46'11.19" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°9'33.67" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°9'46.53" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°0'15.95" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°44'57.57" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°46'11.19" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°9'33.67" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°9'46.53" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°0'15.95" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ISaratov, RTW, Saratau, Saratof, Saratov, Saratov osh, Saratova, Saratovas, Saratovia, Saratovu, Saratow, Saratu, Saratuovs, Saratów, Saretow, Sarytau, Saràtov, Sarátov, Szaratov, sa la tuo fu, salatopeu, saratofu, saratova, saratwf, srʼtwb, Σαράτοφ, Сарăту, Саратаў, Саратов, Саратов балһсн, Саратов ош, Саратовъ, Сарытау, Һарытау, Սարատով, סראטוב, ساراتوف, ساراٹوف, सारातोव, სარატოვი, サラトフ, 薩拉托夫, 사라토프

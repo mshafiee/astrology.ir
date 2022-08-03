@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'8.40" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'8.53" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°4'31.75" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°45'14.72" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°40'52.81" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°43'44.12" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°26'13.14" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°4'31.75" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°45'14.72" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°40'52.81" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°43'44.12" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°26'13.14" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'8.40" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'8.53" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°4'31.75" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°45'14.72" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°40'52.81" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°43'44.12" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°26'13.14" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°4'31.75" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°45'14.72" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°40'52.81" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°43'44.12" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°26'13.14" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BUH, Boekarest, Boukouresti, Bucarest, Bucaresta, Bucareste, Bucarèst, Bucharest, Bucuresti, Bucureşti, București, Buekres, Bukarest, Bukarestas, Bukareste, Bukaresto, Bukareszt, Bukareŝto, Bukareštas, Bukharest, Bukureshh, Bukuresht, Bukureshta, Bukureshti, Bukurest, Bukurešt, Bukurešť, Buxarest, Búkarest, Bûkarest, Bükreş, bkharst, bu jia lei si te, bukaresuto, bukulesyuti, bwkharst, bwqrst, Βουκουρέστι, Букурешт, Букурещ, Бухарест, Բուխարեստ, בוקאַרעשט, בוקרשט, بخارست, بوخارست, بۇخارېست, པུ་ཁ་རེ་སིད, ბუქარესტი, ቡካረስት, ブカレスト, 布加勒斯特, 부쿠레슈티

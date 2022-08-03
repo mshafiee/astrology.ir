@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'47.59" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'53.09" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°51'4.00" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°26'26.73" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°5'54.50" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°22'4.21" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°3'53.51" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°51'4.00" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°26'26.73" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°5'54.50" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°22'4.21" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°3'53.51" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'47.59" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'53.09" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°51'4.00" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°26'26.73" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°5'54.50" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°22'4.21" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°3'53.51" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°51'4.00" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°26'26.73" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°5'54.50" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°22'4.21" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°3'53.51" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CTU, Ccheng-tu, Cendu, Cengdu, Cengduo, Ch'eng-tu, Ch'eng-tu-hsien, Ch'eng-tu-shih, Chehndu, Chendu, Chengdu, Chengdu Shi, Chengdú, Chundu, Chөndү, Ch’eng-tu, Ch’eng-tu-hsien, Ch’eng-tu-shih, Csengtu, Cwngzduh, Hua-yang, Sang-tu-su, Seng-to-chhi, Sing-du, Sàng-tû-sṳ, Sêng-to͘-chhī, Sìng-dŭ, Thanh Do, Thành Đô, Tsen'nkntou, Txengdu, cengadu, centu, chantu, cheing tu, cheng dou, cheng dou shi, cheongdu si, chngdw, chyngdw, chېngdۇ shەھyr, tshnghdw, zngdw, Çengdu, Ĉengduo, Čcheng-tu, Čendu, Čengdu, Τσενγκντού, Ченгду, Ченду, Чънду, Чыңду, Чэнду, Чөндү, Չենդու, צנגדו, تشنغدو, چنگدو, چینگدو, چېڭدۇ شەھىر, चेंगदू, छंतू, ਚੇਂਗਦੂ, செங்டூ, เฉิงตู, ချင်းဒူမြို့, 成都, 成都市, 청두 시

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'3.36" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.70" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°45'46.00" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'24.60" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°11'5.82" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°11'58.80" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°23'8.42" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°45'46.00" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'24.60" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°11'5.82" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°11'58.80" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°23'8.42" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'3.36" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.70" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°45'46.00" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'24.60" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°11'5.82" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°11'58.80" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°23'8.42" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°45'46.00" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'24.60" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°11'5.82" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°11'58.80" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°23'8.42" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chimaz, Chiraz, SYZ, Schiras, Sheroz, Shiraz, Shyraz, Shīrāz, Siraz, Siraza, Sirazas, Sirazo, Siráz, Sjiraz, Sziraz, Xiraz, chi ras, she la zi, shirazi, shirazu, shyraz, silajeu, Ŝirazo, Şiraz, Şîraz, Širaz, Širazas, Šíráz, Šīrāz, Šīrāza, Σιράζ, Шероз, Шираз, Шыраз, Շիրազ, שיראז, شيراز, شیراز, ชีราซ, შირაზი, シーラーズ, 設拉子, 시라즈

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'27.39" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'18.18" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°19'44.92" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°38'49.43" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°5'20.07" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°1'12.91" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°42'6.99" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°19'44.92" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°38'49.43" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°5'20.07" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°1'12.91" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°42'6.99" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'27.39" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'18.18" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°19'44.92" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°38'49.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°5'20.07" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°1'12.91" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°42'6.99" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°19'44.92" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°38'49.43" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°5'20.07" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°1'12.91" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°42'6.99" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Chijv, Civ, Cív, IEV, Kaenugardur, Keju, Kiebo, Kief, Kieu, Kiev, Kiev osh, Kievi, Kievo, Kiew, Kiiev, Kiiv, Kijev, Kijeva, Kijevas, Kijew, Kijow, Kijuw, Kijv, Kijów, Kijůw, Kiova, Kiovia, Kiyev, Kiyiw, Kiëf, Kjiv, Kueyiv, Kyev, Kyiiv, Kyiv, Kyiw, Kyjev, Kyjiv, Kyjiw, Kyèv, Kænugarður, Kíev, Kîev, Küyiv, ji fu, kheiyf, kiefu, kiv, kiva, kiyebha, kiyepeu, kyf, kyiva, kyyf, qyyb, Κίεβο, Кейӳ, Киев, Киев ош, Київ, Кијев, Кыив, Кыйив, Кіеў, Кꙑѥвъ, Կիև, קייב, קיעוו, كىيېۋ, كييف, کیف, کیێڤ, کی‌یف, कीव, क्यीव, কিয়েভ, கீவ், കീവ്, เคียฟ, ཀིབ།, ကီးယက်မြို့, კიევი, ኪየቭ, キエフ, 基輔, 키예프

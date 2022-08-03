@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'49.09" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'53.71" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°50'50.88" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°26'6.83" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°5'29.09" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°21'30.49" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°58'44.38" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°50'50.88" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°26'6.83" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°5'29.09" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°21'30.49" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°58'44.38" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'49.09" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'53.71" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°50'50.88" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°26'6.83" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°5'29.09" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°21'30.49" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|2°58'44.38" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°50'50.88" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°26'6.83" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°5'29.09" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°21'30.49" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°58'44.38" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BWN, Banda Seri, Bandar Seri Begauan, Bandar Seri Begavan, Bandar Seri Begavanas, Bandar Seri Begawan, Bandar Sery Begawan, Bandar-Seri-Begavan, Bandar-Seri-Begavano, Bandar-Sery-Begavan, Bandarseribegavana, Brunei, Brunei Town, Bruni, Mpantar Seri Mpenkaban, badara seri begavana, ban dar se ribe ka wan, bandaleuseulibeugawan, bandar seri bagevan, bandar-seri-begavani, bandara seri bega'oyana, bandara seri begavana, bandara sri bagavana, bandarusuribugawan, bndr sry bgawan, bndr sry bkawan, bndr sry bygwan, pantar ceri pekavan, si li ba jia wan, si li ba jia wan shi, sry bgawan, Μπαντάρ Σερί Μπεγκαβάν, Бандар Сери Бегаван, Бандар-Сери-Бегаван, Бандар-Серы-Бегаван, Бандар-Сері-Бегаван, Բանդար Սերի Բեգավան, בנדר סרי בגוואן, باندار سەرى بەگاۋان, بندر سري بكاوان, بندر سری بگاوان, بندر سری بیگوان, بەندەر سێری بێگاوان, سری بگاوان, बंदर स्री बगवान, बन्दर सेरी बेगवान, बन्दर सेरी बेगावान, বন্দর সেরি বেগাওয়ান, ਬੰਦਰ ਸੇਰੀ ਬੇਗਵਾਨ, பண்டர் செரி பெகாவான், ಬಂದರ್ ಸೆರಿ ಬಗೆವನ್, ബന്ദർ സെരി ബെഗവൻ, บันดาร์เสรีเบกาวัน, སི་རི་པེ་ཀ་མཚོ་ཁུགས་གྲོང་ཁྱེར།, ဘန်ဒါဆရီဘဂါဝမ်မြို့, ბანდარ-სერი-ბეგავანი, ባንዳር ሰሪ ቤጋዋን, バンダルスリブガワン, 斯里巴加湾市, 斯里巴加灣, 斯里巴加灣市, 반다르스리브가완

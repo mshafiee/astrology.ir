@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'50.98" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'26.76" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°16'21.16" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°33'41.37" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|22°58'47.32" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°52'24.43" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|20°27'50.30" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°16'21.16" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°33'41.37" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|22°58'47.32" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°52'24.43" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°27'50.30" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'50.98" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'26.76" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°16'21.16" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°33'41.37" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|22°58'47.32" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°52'24.43" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|20°27'50.30" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°16'21.16" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°33'41.37" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|22°58'47.32" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°52'24.43" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°27'50.30" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ISB, Islamabad, Islamabada, Islamabadas, Islamabade, Islamabadi, Islamabado, Islamahbad, Islamampant, Islàmabad, Islámábád, Islāmābād, Islāmābāda, Iszlamabad, Iszlámábád, aslam abad, isalamabada, iseullamabadeu, islamabad, islamabada, islamabadi, islamapat, isuramabado, xislamabad, yi si lan bao, yyslamabad, yyslamyabad, Îslamabad, İslamabad, Ισλαμαμπάντ, Ісламабад, Исламабад, Իսլամաբադ, איסלאמאבאד, איסלמבאד, إسلام آباد, ئىسلامئاباد, ئیسلاماباد, اسلام آباد, اسلام اباد, اسلام‌آباد, އިސްލާމްއާބާދު, इस्लामाबाद, ইসলামাবাদ, ਇਸਲਾਮਾਬਾਦ, ઇસ્લામાબાદ, ଇସଲାମାବାଦ, இஸ்லாமாபாத், ಇಸ್ಲಾಮಾಬಾದ್, ഇസ്ലാമബാദ്, อิสลามาบัด, ཨི་སི་ལམ་བོ།, ისლამაბადი, ኢስላማባድ, イスラマバード, 伊斯兰堡, 伊斯蘭堡, 이슬라마바드

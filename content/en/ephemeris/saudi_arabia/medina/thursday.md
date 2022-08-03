@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'10.82" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'9.15" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°4'9.51" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°44'42.15" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°40'10.64" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°42'45.39" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°20'45.85" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°4'9.51" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°44'42.15" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°40'10.64" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°42'45.39" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°20'45.85" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'10.82" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'9.15" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°4'9.51" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°44'42.15" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°40'10.64" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°42'45.39" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°20'45.85" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°4'9.51" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°44'42.15" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°40'10.64" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°42'45.39" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°20'45.85" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al Madina, Al Madinah, Al Madinah al Munawwarah, Al Madīnah, Al Madīnah al Munawwarah, Al Medina, El Medina, Lathrippa, MED, Madina, Madinah, Madinah al-Munawwarah, Madinat, Madīna, Maedinae, Mediina, Medin, Medina, Medinae, Medine, Medino, Medyna, Medzina, Medína, Medîne, Medīna, Mädinä, Médine, Mədinə, Yathrib, almdynt, almdynt almnwrh, almdynt almnwrt, ma di nah, madina, mai de na, matina, mdynh, medina, Μεδίνα, Мадина, Мадинат, Медзіна, Мединæ, Медина, Медине, Медіна, Мәдинә, Մադինա, אל-מדינה, المدينة, المدينة المنورة, المدينة المنوره, مدينه, مدینه, مدینھ, مدینہ منورہ, مەدینە, މަދީނާ, मदिना, मदीना, মদিনা, মেডিনা, ਮਦੀਨਾ, મદીના, மதீனா, మదీనా, മദീന, มะดีนะฮ์, მედინა, መዲና, マディーナ, 麥地那, 麦地那, 메디나

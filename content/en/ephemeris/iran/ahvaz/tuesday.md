@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'1.26" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.30" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°46'4.87" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'52.62" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°11'41.48" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°12'50.08" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°28'49.51" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°46'4.87" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'52.62" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°11'41.48" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°12'50.08" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°28'49.51" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'1.26" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.30" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°46'4.87" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'52.62" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°11'41.48" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°12'50.08" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°28'49.51" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°46'4.87" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'52.62" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°11'41.48" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°12'50.08" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°28'49.51" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: AWZ, Ahvaz, Ahvaz - ahwaz, Ahvaz - اهواز, Ahvaza, Ahvazas, Ahvazo, Ahvoz, Ahváz, Ahvāz, Ahvāza, Ahwas, Ahwaz, Ahwāz, Akhvaz, Akhvaz shaary, Axvaz, Bandar Nasiri, Bandar Nāsirī, Bandar-e Naser, Bandar-e Nāşer, Ehvaz, Naseri, Nasiri, Nāsiri, Nāşerī, a wa shi, abajeu, afuvu~azu, ahabaja, ahavaza, ahvazi, ahwaz, akvacu, alahwaz, Əhvaz, Ахваз, Ахваз шаары, Аҳвоз, Ախվազ, אהוואז, ئەھواز, الأهواز, اهواز, اہواز, अहवाज़, আহবাজ, ਅਹਵਾਜ਼, ஆக்வாசு, ཨཱ་ཝཛ།, აჰვაზი, アフヴァーズ, 阿瓦士, 아바즈

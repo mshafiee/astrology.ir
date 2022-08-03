@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'19.05" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'15.10" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°20'55.40" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°40'36.80" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°7'36.25" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°4'15.79" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|22°6'52.94" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°20'55.40" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°40'36.80" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°7'36.25" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°4'15.79" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|22°6'52.94" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'19.05" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'15.10" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°20'55.40" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°40'36.80" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°7'36.25" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°4'15.79" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|22°6'52.94" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°20'55.40" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°40'36.80" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°7'36.25" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°4'15.79" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|22°6'52.94" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Mambutzou, Mamoudzou, Mamoutzou, Mamudzu, Mamutzu, mamuju, Мамудзу, 마무주

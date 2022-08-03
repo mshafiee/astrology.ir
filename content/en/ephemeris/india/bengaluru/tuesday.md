@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'16.78" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'19.28" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°43'45.76" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°44'25.77" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°7'18.37" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°6'31.59" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°45'32.17" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°43'45.76" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°44'25.77" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°7'18.37" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°6'31.59" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°45'32.17" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'16.78" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'19.28" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°43'45.76" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°44'25.77" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°7'18.37" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°6'31.59" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°45'32.17" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°43'45.76" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°44'25.77" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°7'18.37" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°6'31.59" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°45'32.17" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BLR, Ban'nkalor, Bangalor, Bangalora, Bangalore, Bangalore - bengaluru, Bangalore - ಬೆಂಗಳೂರು, Bangalore City, Bangalur, Bangaluri, Bangalúr, Bengalour, Bengaluras, Bengaluro, Bengaluru, Bengalurus, Bengalúru, Bengalūras, Bengalūru, baeng-geollo, bagalaura, ban jia luo er, bang kha l xr, bang-galloleu, bangalaura, bangalora, bangalura, bangaroru, beng-gallulu, bengalora, bengaluru, benguluru, bnghalwr, bnglwr, bynglwr, penkalur, Μπανγκαλόρ, Бангалор, Бенгалуру, Бенґалуру, בנגלור, بنغالور, بنگلور, بینگلور, बंगलौर, बंगळूर, बेङ्गलूरु, बेङ्गलोर, बेङ्गळूरु, বাঙ্গালোর, বেঙ্গালুরু, ਬੰਗਲੌਰ, બેંગલોર, ବେଙ୍ଗାଳୁରୁ, பெங்களூர், బెంగుళూరు, ಬೆಂಗಳೂರು, ബെംഗളൂരു, බැංගලෝර්, บังคาลอร์, ဘန်ဂလိုမြို့, ბენგალურუ, バンガロール, 班加罗尔, 班加羅爾, 방갈로르, 뱅걸로, 벵갈루루

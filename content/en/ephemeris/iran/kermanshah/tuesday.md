@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'1.05" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'16.27" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°46'6.86" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°47'55.49" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°11'45.23" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°12'55.49" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°28'54.05" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°46'6.86" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°47'55.49" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°11'45.23" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°12'55.49" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°28'54.05" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'1.05" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'16.27" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°46'6.86" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°47'55.49" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°11'45.23" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°12'55.49" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°28'54.05" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°46'6.86" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°47'55.49" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°11'45.23" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°12'55.49" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°28'54.05" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bahtaran, Bakhtaran, Bākhtarān, KSH, Kermansah, Kermansaho, Kermanschah, Kermanshah, Kermanshahan, Kermanshakh, Kermanŝaho, Kermânsâh, Kermānschāh, Kermānshāh, Kermānshāhān, Kirmansah, Kirmanşah, Kirmasan, Kirmaşan, Province de Kermanshah, Provincia de Kermanshah, Provinco Kermansah, Provinco Kermanŝah, Província de Kermanshah, Qahremanshahr, Qahremānshahr, astan krmanshah, ke er man sha he, kerumansha, krmanshah, Керманшах, Кирмоншоҳ, Устони Кирмоншоҳ, استان کرمانشاه, كرمانشاه, کرمانشاه, ケルマーンシャー, 克尔曼沙赫

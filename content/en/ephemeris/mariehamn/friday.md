@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°36'52.30" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°37'50.40" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°41'41.63" |Aries|Butain|Venus|
-|☉ Sun|Prograde|12°41'12.82" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|21°52'4.15" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|1°21'52.82" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|8°12'32.64" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|20°41'41.63" |Aries|Butain|Venus|
+|☉ Sun|Direct|12°41'12.82" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|21°52'4.15" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|1°21'52.82" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|8°12'32.64" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°36'52.30" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°37'50.40" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°41'41.63" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|12°41'12.82" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|21°52'4.15" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|1°21'52.82" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|8°12'32.64" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|20°41'41.63" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|12°41'12.82" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|21°52'4.15" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|1°21'52.82" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|8°12'32.64" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

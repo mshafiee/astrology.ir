@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'55.13" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'56.14" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°49'59.74" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°24'48.86" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°3'49.97" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°19'19.12" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°40'11.22" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°49'59.74" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°24'48.86" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°3'49.97" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°19'19.12" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°40'11.22" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'55.13" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'56.14" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°49'59.74" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°24'48.86" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°3'49.97" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°19'19.12" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|2°40'11.22" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°49'59.74" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°24'48.86" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°3'49.97" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°19'19.12" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°40'11.22" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bu-han-chhi, Bú-hàn-chhī, Gouchan, Owhan, U-hang, Uhan, Uhana, Uhanas, Uhaņa, Ukhan, Ukhan', Uxan, Vu Han, Vu-hon-su, Vuhan, Vuhani, Vuhano, Vujhan, Vukhan, Vú-hon-sṳ, Vũ Hán, WUH, Wu-chan, Wu-han-shih, Wuhan, Wuhan Shi, uhan si, ukhani, uuxan, vuhana, vukan, vukhana, wu han, wu han shi, wwhan, xu han, Ū-háng, Γουχάν, Вухан, Вухан балһсн, Ухан, Ухань, Үkhan', Үхань, Үһән, Ուհան, ווהאן, ووهان, ووھان, ووہان, ۋۇخەن شەھىرى, ܘܘܗܐܢ, वूहान, ਵੂਖ਼ਨ, வுகான், വൂഹാൻ, อู่ฮั่น, ཝུའུ་ཧན་གྲོང་ཁྱེར།, ဝူဟန့်မြို့, უხანი, ዉሃን, 武汉, 武汉市, 武漢, 武漢市, 우한 시, 𐍅𐌿𐌷𐌰𐌽

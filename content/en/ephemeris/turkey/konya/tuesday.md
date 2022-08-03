@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'51.94" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°41'14.50" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°47'28.41" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°49'56.79" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°14'19.51" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°16'37.24" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°54'24.83" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|22°49'52.04" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°41'14.48" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|18°47'28.44" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°49'56.75" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°14'19.43" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°16'37.17" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°54'23.47" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°49'51.94" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°41'14.50" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°47'28.41" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°49'56.79" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°14'19.51" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°16'37.24" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°54'24.83" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°49'52.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°41'14.48" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°47'28.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°49'56.75" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°14'19.43" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°16'37.17" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°54'23.47" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Conia, Iconio, Iconium, Ikonio, Ikoniow, KYA, Ko'niya, Kon'ja, Koni, Konia, Konieh, Konija, Konja, Konjao, Konya, Koʻniya, Kuniyah, Kuon'ja, Qonia, Qonya, Qonye, ke ni ya, kean'ya, kon'ya, konia, qwnyh, qwnyt, Ικόνιο, Кония, Конија, Конья, Къонья, Կոնիա, קוניה, قونية, قونیه, قونیہ, कोन्या, കോന്യ, კონია, コンヤ, 科尼亞, 코니아

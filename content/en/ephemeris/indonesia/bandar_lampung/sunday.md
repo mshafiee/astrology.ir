@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'39.72" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'49.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°52'11.01" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°28'8.51" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°8'4.23" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°24'56.07" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°29'20.65" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°52'11.01" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°28'8.51" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°8'4.23" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°24'56.07" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°29'20.65" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'39.72" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'49.96" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°52'11.01" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°28'8.51" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°8'4.23" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°24'56.07" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°29'20.65" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°52'11.01" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°28'8.51" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°8'4.23" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°24'56.07" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°29'20.65" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍

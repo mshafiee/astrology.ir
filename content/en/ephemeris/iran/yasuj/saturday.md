@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'34.11" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'20.57" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°18'45.92" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°37'21.05" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°3'26.68" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°58'40.34" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°19'39.27" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°18'45.92" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°37'21.05" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°3'26.68" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°58'40.34" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°19'39.27" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'34.11" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'20.57" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°18'45.92" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°37'21.05" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°3'26.68" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°58'40.34" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°19'39.27" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°18'45.92" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°37'21.05" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°3'26.68" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°58'40.34" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°19'39.27" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Jasudz, Jasudzh, Jasudż, Jasudž, Jásúdž, YES, Yasooj, Yasuc, Yasudsch, Yasuj, Yasûc, Yesuj, Yesūj, Yāsūj, ya su ji, yasuj, yasuja, yasujeu, yasuju, yaswj, yiswj, yswj, Ёсӯҷ, Ясудж, Յասուջ, ياسوج, يَسُّج, يِسوج, یاسوج, یسوج, यासूज, ヤースージュ, 亞蘇季, 야수즈

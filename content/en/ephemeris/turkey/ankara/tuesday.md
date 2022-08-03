@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°49'53.07" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'14.73" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°47'18.42" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°49'41.80" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°14'0.57" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°16'10.04" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°50'33.40" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°47'18.42" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°49'41.80" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°14'0.57" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°16'10.04" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°50'33.40" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°49'53.07" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'14.73" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°47'18.42" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°49'41.80" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°14'0.57" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°16'10.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°50'33.40" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°47'18.42" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°49'41.80" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°14'0.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°16'10.04" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°50'33.40" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ANK, Anakara, Ancara, Ancyra, Ang-ka-la, Angkara, Angora, Anguriyah, Ankar, Ankara, Ankara khot, Ankaro, Ankuara, Ankura, Ankyra, Ankyra (Ankyra), Anqara, Enguri, Engüri, Enqere, akara, an ka la, angkala, ankara, anqrh, anqrt, xangkara, Ăng-kā-lá, Άγκυρα (Ankyra), Анкара, Анкара хот, Анкъара, Әнкара, Անկարա, אנקארא, אנקרה, آنکارا, أنقرة, ئەنقەرە, انقره, انقرہ, انکرہ, ܐܢܩܪܐ, अंकारा, আঙ্কারা, ਅੰਕਾਰਾ, ଆଙ୍କାରା, அங்காரா, అంకారా, ಅಂಕಾರಾ, അങ്കാറ, อังการา, ཨན་ཁ་ར།, ანკარა, አንካራ, アンカラ, 安卡拉, 앙카라

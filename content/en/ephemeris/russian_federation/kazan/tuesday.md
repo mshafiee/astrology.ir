@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'14.56" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'19.02" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°44'7.97" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°44'56.94" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°7'59.66" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°7'31.38" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°42'0.30" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°44'7.97" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°44'56.94" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°7'59.66" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°7'31.38" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°42'0.30" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'14.56" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'19.02" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°44'7.97" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°44'56.94" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°7'59.66" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°7'31.38" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°42'0.30" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°44'7.97" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°44'56.94" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°7'59.66" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°7'31.38" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°42'0.30" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Casanum, Caza, Cazã, KZN, Kaasan, Kasa, Kasan, Kasã, Kazan, Kazan', Kazan' osh, Kazana, Kazane, Kazani, Kazanj, Kazano, Kazanė, Kazan’, Kazań, Kazaņa, Kazaň, Kazán, Khuazan, Khusan, Kozan', Kuazan, Kuzon, Qazan, Qozon, ka shan, kajan, kajhana, kazan, kazana, kha san, qazan, Καζάν, Казан, Казань, Казань ош, Казањ, Каꙁанъ, Козань, Кузон, Къазан, Озаҥ, Хусан, Хъазан, Қазан, Ҡazan, Ҡазан, Կազան, קאזאן, قازان, كازان, کازان, कझान, काज़ान, คาซาน, ყაზანი, カザン, 喀山, 카잔

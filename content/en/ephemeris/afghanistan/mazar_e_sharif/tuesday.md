@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'16.46" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'19.26" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°43'49.41" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°44'30.66" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°7'25.07" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°6'41.35" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°43'38.99" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°43'49.41" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°44'30.66" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°7'25.07" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°6'41.35" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°43'38.99" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'16.46" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'19.26" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°43'49.41" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°44'30.66" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°7'25.07" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°6'41.35" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°43'38.99" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°43'49.41" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°44'30.66" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°7'25.07" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°6'41.35" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°43'38.99" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MZR, Masar-e Scharif, Mazar-e Sarif, Mazar-e Sharif, Mazar-e Šarif, Mazar-e-Sharif, Mazar-i Szarif, Mazar-i-Sharif, Mazare Srif, Mazari Sharif, Mazari-Sharif, Mazār-e Sharīf, Mazār-e Šarīf, Mazār-i-Sharīf, Mazāre S̄rīf, majaleu-isyalipeu, mazarisharifu, mzar shryf, Мазари-Шариф, مزار شريف, مزار شریف, マザーリシャリーフ, 마자르이샤리프

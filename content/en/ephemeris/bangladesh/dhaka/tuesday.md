@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'28.91" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'21.60" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°41'57.57" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°41'44.58" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°3'53.65" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°1'36.92" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°9'56.57" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°41'57.57" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°41'44.58" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°3'53.65" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°1'36.92" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°9'56.57" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'28.91" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'21.60" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°41'57.57" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°41'44.58" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°3'53.65" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°1'36.92" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°9'56.57" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°41'57.57" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°41'44.58" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°3'53.65" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°1'36.92" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°9'56.57" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: DAC, Daaka, Daca, Dacca, Dacca - dhaka, Dacca - ঢাকা, Daka, Dakah, Dakk, Dakka, Dakkae, Dakke, Dako, Deka, Dgaka, Dhaka, Dháka, Dhâkâ, Dəkkə, Mujib City, Ntaka, Ntakka, da ka, daka, dakka, dhaka, dhakka, dka, takka, thaka, Ντάκα, Ντάκκα, Даака, Дака, Даккæ, Дакка, Дакке, Дгака, Դաքքա, דאקא, דאקה, داكا, داکا, دكا, ڈھاکہ, ޑާކާ, ढाका, ঢাকা, ਢਾਕਾ, ઢાકા, ଢାକା, டாக்கா, ఢాకా, ಢಾಕಾ, ഢാക്ക, ඩකා, ธากา, དྷ་ཁ།, ဒါကာမြို့, დაკა, ዳካ, ダッカ, 达卡, 達卡, 다카

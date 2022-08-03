@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'52.21" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'54.95" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°50'24.40" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°25'26.59" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°4'37.82" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°20'22.55" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°48'45.17" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°50'24.40" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°25'26.59" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°4'37.82" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°20'22.55" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°48'45.17" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'52.21" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'54.95" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°50'24.40" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°25'26.59" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°4'37.82" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°20'22.55" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|2°48'45.17" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°50'24.40" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°25'26.59" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°4'37.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°20'22.55" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°48'45.17" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CAN, Cantao, Canton, Cantão, Cantón, Fan-yu, Fan-yü, Guanchjou, Guanchzhou, Guanczou, Guand'ou, Guandzhou, Guandzou, Guandžou, Guangdzou, Guangdzov, Guangdžou, Guangdžov, Guangjow, Guangzhou, Guangzhou Shi, Guanzhou, Guančžou, Guaңҗu, Guong-ciu, Guōng-ciŭ, Gvangjcouh, Kanton, Kantono, Kng-chiu-chhi, Kong-chu-su, Kouan'nktsoou, Kouang-chou, Kuang-chou, Kuang-chou-shih, Kwang-chowfu, Kwangchow, Kwangtsjou, Kóng-chû-sṳ, Kńg-chiu-chhī, P'an-yu, Puyun, Puyün, P’an-yü, Quancheum, Quancjou, Quang Chau, Quançjou, Quảng Châu, Shengcheng, ghwanzw, gu'angazu, guang zhou, guang zhou shi, guanjou, guyanjho, gvangajho'u, gvanjea, gwangjeou, gwangjeou si, gwangzhw, gwʼnggwʼw, kantwn, kuvanco, kvangacau, kwang cow, shynyang, Κουανγκτσόου, Гуангџоу, Гуанджоу, Гуандьоу, Гуанжоу, Гуанчжоу, Гуанчжоў, Гуаңҗу, Кантон, Գուանչժոու, גואנגגואו, شینیانگ, غوانزو, کانتون, گوانگژو, گوانگ‌ژو, گۇاڭجۇ شەھىرى, क्वांगचौ, ग्वांगझोउ, গুয়ংঝো, ਗੁਆਂਗਜ਼ੂ, குவாங்சோ, ഗ്വാങ്ജോ, กว่างโจว, ກວ່າງໂຈວ, ཀོང་ཀྲོའུ་གྲོང་ཁྱེར།, ကွမ်ကျိုးမြို့, გუანჯოუ, 广州, 广州市, 広州, 広州市, 廣州, 廣州市, 광저우, 광저우 시

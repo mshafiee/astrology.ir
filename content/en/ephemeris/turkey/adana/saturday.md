@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'24.45" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'17.03" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°20'9.19" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°39'27.08" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°6'7.24" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|3°2'16.23" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°49'43.46" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°20'9.19" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°39'27.08" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°6'7.24" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°2'16.23" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°49'43.46" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'24.45" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'17.03" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°20'9.19" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°39'27.08" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°6'7.24" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|3°2'16.23" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°49'43.46" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|21°20'9.19" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°39'27.08" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°6'7.24" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|3°2'16.23" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°49'43.46" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나

@@ -1,6 +1,6 @@
 ---
-date: 2022-08-01T00:00:00-04:00
-lastmod: 2022-08-01T00:00:00-04:00
+date: 2022-08-08T00:00:00-04:00
+lastmod: 2022-08-08T00:00:00-04:00
 title: Basse-Terre (Monday)
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Monday, 01 Aug 2022
+description: 🗓 Monday, 08 Aug 2022
 
 toc: false
 ---
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|11°10'39.58" |Taurus|Dabaran|Moon|
-|♃ Jupiter|Prograde|9°15'57.08" |Virgo|Awwa|Sun|
-|♂ Mars|Prograde|12°2'35.49" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Prograde|11°24'57.98" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Prograde|27°22'42.29" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Prograde|17°58'16.84" |Sagittarius|Baldah|Moon|
-|☾ Moon|Prograde|12°57'17.56" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|9°15'57.08" |Virgo|Awwa|Sun|
+|♂ Mars|Direct|12°2'35.49" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|11°24'57.98" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|27°22'42.29" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|17°58'16.84" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|12°57'17.56" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|11°10'39.58" |Gemini|HanAh|Mars|
-|♃ Jupiter|Prograde|9°15'57.08" |Libra|Ghafr|Moon|
-|♂ Mars|Prograde|12°2'35.49" |Aries|Sharatain|Sun|
-|☉ Sun|Prograde|11°24'57.98" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Prograde|27°22'42.29" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Prograde|17°58'16.84" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Prograde|12°57'17.56" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|9°15'57.08" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|12°2'35.49" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|11°24'57.98" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|27°22'42.29" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|17°58'16.84" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|12°57'17.56" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르

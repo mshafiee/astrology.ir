@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'34.97" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'20.90" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°18'38.71" |Aries|Butain|Venus|
-|☉ Sun|Prograde|13°37'9.95" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|23°3'12.69" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|2°58'21.54" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|21°17'11.22" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|21°18'38.71" |Aries|Butain|Venus|
+|☉ Sun|Direct|13°37'9.95" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°3'12.69" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|2°58'21.54" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°17'11.22" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°32'34.97" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°36'20.90" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°18'38.71" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|13°37'9.95" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|23°3'12.69" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|2°58'21.54" |Virgo|Sarfrah|Sun|
-|☾ Moon|Prograde|21°17'11.22" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|21°18'38.71" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|13°37'9.95" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°3'12.69" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|2°58'21.54" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°17'11.22" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Dakbayan sa Qom, Ghom, Homo, Kom, Kum, Kum shaary, Kumas, QUM, Qom, Qum, Qûm, gomu, koma, ku mu, kum, kuvom, qm, qwm, Ĥomo, Ком, Кум, Кум шаары, Қум, קום, قم, قوم, कोम, குவோம், ゴム, 库姆, 쿰

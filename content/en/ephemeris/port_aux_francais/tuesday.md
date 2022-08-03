@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°49'53.58" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'15.19" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°47'16.40" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°49'35.48" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°13'55.41" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°16'3.04" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|29°31'52.63" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°47'16.40" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°49'35.48" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°13'55.41" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°16'3.04" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|29°31'52.63" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°49'53.58" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'15.19" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°47'16.40" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°49'35.48" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°13'55.41" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°16'3.04" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|29°31'52.63" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°47'16.40" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°49'35.48" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°13'55.41" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°16'3.04" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°31'52.63" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰

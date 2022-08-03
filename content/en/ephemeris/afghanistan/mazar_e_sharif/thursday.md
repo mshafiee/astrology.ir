@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'34.90" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'15.97" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°0'39.45" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°39'26.05" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°33'29.11" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°33'26.86" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°8'34.50" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°0'39.45" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°39'26.05" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°33'29.11" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°33'26.86" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°8'34.50" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'34.90" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'15.97" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°0'39.45" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°39'26.05" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°33'29.11" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°33'26.86" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°8'34.50" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°0'39.45" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°39'26.05" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°33'29.11" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°33'26.86" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°8'34.50" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MZR, Masar-e Scharif, Mazar-e Sarif, Mazar-e Sharif, Mazar-e Šarif, Mazar-e-Sharif, Mazar-i Szarif, Mazar-i-Sharif, Mazare Srif, Mazari Sharif, Mazari-Sharif, Mazār-e Sharīf, Mazār-e Šarīf, Mazār-i-Sharīf, Mazāre S̄rīf, majaleu-isyalipeu, mazarisharifu, mzar shryf, Мазари-Шариф, مزار شريف, مزار شریف, マザーリシャリーフ, 마자르이샤리프

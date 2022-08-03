@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'18.55" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°41'19.62" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|18°43'30.04" |Aries|Butain|Sun|
-|☉ Sun|Prograde|9°44'2.35" |Cancer|Nathrah|Venus|
-|♀ Venus|Prograde|18°6'48.62" |Gemini|Dhira|Mars|
-|☿ Mercury|Prograde|26°5'48.78" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|28°40'22.69" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|18°43'30.04" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°44'2.35" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°6'48.62" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|26°5'48.78" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°40'22.69" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°50'18.55" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°41'19.62" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|18°43'30.04" |Taurus|Dabaran|Moon|
-|☉ Sun|Prograde|9°44'2.35" |Leo|Zubrah|Saturn|
-|♀ Venus|Prograde|18°6'48.62" |Cancer|Tarf|Mercury|
-|☿ Mercury|Prograde|26°5'48.78" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|28°40'22.69" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|18°43'30.04" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°44'2.35" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|18°6'48.62" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|26°5'48.78" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°40'22.69" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bhaganagar, HYD, Haidarabadas, Haiderabad, Hajdarabad, Hajdarábád, Hyderabad, Hyderabad-Deccan, Hyderābād, Khajdarabad, Khajderabad, hai de la ba, haidarabada, haidarabadu, haiderabado, haitarapat, hayadarabada ema. karporesana, hayadrabada, hydr abad, hydr abad dkn, hydrabad, Хайдарабад, Хајдерабад, حیدر آباد, حیدر آباد دکن, حیدرآباد, हैदराबाद, হায়দরাবাদ এম. কর্পোরেশন, হায়দ্রাবাদ, ஹைதராபாத், హైదరాబాదు, ハイデラバード, 海得拉巴

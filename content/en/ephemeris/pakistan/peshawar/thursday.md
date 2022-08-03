@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'37.16" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'16.59" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°0'19.51" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°38'56.22" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°32'51.08" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°32'33.89" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|24°2'8.32" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°0'19.51" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°38'56.22" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°32'51.08" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°32'33.89" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°2'8.32" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°41'37.16" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'16.59" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°0'19.51" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°38'56.22" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°32'51.08" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°32'33.89" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|24°2'8.32" |Libra|Jubana|Jupiter|
+|♂ Mars|Direct|20°0'19.51" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°38'56.22" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°32'51.08" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°32'33.89" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°2'8.32" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PEW, Pesabar, Pesavar, Pesavara, Pesavaras, Pesavaro, Pesaver, Peschawar, Peshavar, Peshawar, Peshovar, Peshāwar, Pesjawar, Peszawar, Pexauar, Peŝavaro, Peşaver, Pešavaras, Pešāvara, Pişəvər, Péšávar, bai sha wa, byshawr, pecavar, pes war, pesa'oyara, pesavara, peshawaru, pesyawaleu, pshawr, pyshawr, Πεσαβάρ, Пешавар, Փեշավար, פשאוור, بيشاور, پشاور, پیشاور, پېشاۋار, پېښور, पेशावर, পেশাওয়ার, ਪੇਸ਼ਾਵਰ, பெசாவர், പെഷവാർ, เปศวาร์, პეშავარი, ペシャーワル, 白沙瓦, 페샤와르

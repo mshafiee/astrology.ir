@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'43.19" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'51.31" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°51'41.13" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°27'23.48" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°7'6.53" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°23'39.62" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|3°16'55.04" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°51'41.13" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°27'23.48" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°7'6.53" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°23'39.62" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°16'55.04" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'43.19" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'51.31" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°51'41.13" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°27'23.48" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°7'6.53" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°23'39.62" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|3°16'55.04" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°51'41.13" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°27'23.48" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°7'6.53" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°23'39.62" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°16'55.04" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Krong Chaktomuk, Nam Van, Nam-Vang, Nom Pen, PNH, Phnom Pen, Phnom Penh, Phnom Pénh, Phnom-Penh, Phnompen, Phnompenh, Phnum Penh, Phnum Peny, Phnum Pénh, Phnum Pény, Phnôm Pênh, Phon Phen, Pnampen', Pnom Pehn', Pnom Pen, Pnom Pen'ch, Pnom Pene, Pnom Penh, Pnom-Peno, Pnompen, Pnompen', Pnompena, Pnompenis, Pnompeņa, Ville de Phnom Penh, bnwm bnh, fnwm pn, fnwm pېn, jin bian, namapenha, panoma pena, peunompen, phnm pen, phnmpey, pnwm pn, punom pen, punonpen, Πνομ Πενχ, Пнампень, Пном Пен, Пном Пэнь, Пномпень, Պնոմպեն, פנום פן, بنوم بنه, فنوم پن, فنوم پېن, پنوم پن, پنوم‌پن, پنۆم پێن, नामपेन्ह, पनॉम पेन, প্‌নম পেন, புனோம் பென், พนมเปญ, พนมเปณ, ཕོམ་ཕེན།, ဖနွမ်းပင်မြို့, პნომპენი, ፕኖም ፔን, ភនកពងតរាច, ភនពេញ, ភ្នំកំពង់ត្រាច, ភ្នំពេញ, プノンペン, 金边, 프놈펜

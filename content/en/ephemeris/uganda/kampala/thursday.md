@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°40'59.73" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°39'6.01" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|20°5'46.34" |Aries|Butain|Venus|
-|☉ Sun|Prograde|11°47'7.56" |Cancer|Nathrah|Mercury|
-|♀ Venus|Prograde|20°43'15.64" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|29°47'2.45" |Cancer|Jabhah|Moon|
-|☾ Moon|Prograde|25°53'20.72" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°5'46.34" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°47'7.56" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°43'15.64" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°47'2.45" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°53'20.72" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°40'59.73" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°39'6.01" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|20°5'46.34" |Taurus|Dabaran|Saturn|
-|☉ Sun|Prograde|11°47'7.56" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|20°43'15.64" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|29°47'2.45" |Leo|Sarfrah|Mars|
-|☾ Moon|Prograde|25°53'20.72" |Libra|Akleel|Jupiter|
+|♂ Mars|Direct|20°5'46.34" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°47'7.56" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°43'15.64" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°47'2.45" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°53'20.72" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Campala, IKampala, KLA, Kaempaala, Kambaala, Kampal, Kampala, Kampalo, Kanpala, kam pa la, kambala, kampala, kampalla, kan pa la, kanpara, kapala, kmbala, kmpala, qmplh, Καμπάλα, Кампала, Կամպալա, קאמפאלא, קמפלה, كامبالا, كامپالا, كمبالا, کامپالا, کمپالا, کمپالہ, कंपाला, कम्पाला, ਕੰਪਾਲਾ, କାମ୍ପାଲା, கம்பாலா, กัมปาลา, ཀམ་པ་ལ།, კამპალა, ካምፓላ, カンパラ, 坎帕拉, 캄팔라

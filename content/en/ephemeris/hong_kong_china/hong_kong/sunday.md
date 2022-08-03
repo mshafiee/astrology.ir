@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'52.66" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°34'55.13" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Prograde|21°50'20.52" |Aries|Butain|Venus|
-|☉ Sun|Prograde|14°25'20.70" |Cancer|Tarf|Mercury|
-|♀ Venus|Prograde|24°4'30.31" |Gemini|Dhira|Sun|
-|☿ Mercury|Prograde|4°20'12.60" |Leo|Jabhah|Saturn|
-|☾ Moon|Prograde|2°47'17.86" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|21°50'20.52" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°25'20.70" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°4'30.31" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°20'12.60" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°47'17.86" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|22°28'52.66" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°34'55.13" |Aries|Sharatain|Mars|
-|♂ Mars|Prograde|21°50'20.52" |Taurus|HaqAh|Saturn|
-|☉ Sun|Prograde|14°25'20.70" |Leo|Zubrah|Jupiter|
-|♀ Venus|Prograde|24°4'30.31" |Cancer|Tarf|Moon|
-|☿ Mercury|Prograde|4°20'12.60" |Virgo|Awwa|Sun|
-|☾ Moon|Prograde|2°47'17.86" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|21°50'20.52" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°25'20.70" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°4'30.31" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°20'12.60" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°47'17.86" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chon'nk Kon'nk, Gankong, Gon Kong, Gonkong, HKG, Hiong-geng, Hiŏng-gē̤ng, Hong Kong, Hongkong, Honkong, Hồng Kông, Khongkong, Khonkong, Victoria, ankan, hamga kamga, hanakana, hang kang, hang kang nagaram, hangakanga, hang‌kang, hankam, heankean, hng kng, hon'ga kon'ga, hong-kʼongi, hongakonga, hongkong, honkongu, hwng kwng, hwng qwng, hwngh kwngh, hwnj kwnj, hxngkng, hʼng qʼng, shyanggang, xiang gang, Χονγκ Κονγκ, Ганконг, Гонконг, Хонгконг, Хонконг, Һoң Koң, Һоң Коң, Հոնկոնգ, האנג קאנג, הונג קונג, شياڭگاڭ, هانگ کانگ, هنگ کنگ, هونج كونج, هونغ كونغ, هونگ کونگ, ھwng kwng, ھونگ کونگ, ھۆng kۆng, ھۆنگ کۆنگ, ہang kang, ہانگ کانگ, ހޮންކޮންގު, हङकङ, हाँग काँग, हांगकांग, हांग् कांग् नगरम्, हॉन्ग कॉन्ग, হংকং, ਹਾਂਗਕਾਂਗ, હોંગકોંગ, ହଂକଂ, ஆங்காங், హాంగ్‌కాంగ్, ಹಾಂಗ್ ಕಾಂಗ್, ഹോങ്കോങ്, හොංකොං, ฮ่องกง, ཧང་ཀང་།, ཧོང་ཀོང་།, ဟောငကောင, ဟောင်ကောင်, ჰონგ-კონგი, ሆንግ ኮንግ, ហងកង, ហុងកុង, 香港, 홍콩
