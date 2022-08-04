@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'16.69" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°31'5.99" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|23°3'6.54" |Aries|Butain|Venus|
-|☉ Sun|Direct|16°16'40.40" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°26'12.51" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°24'56.78" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°25'27.00" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°20'16.78" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°31'5.98" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|23°3'6.56" |Aries|Butain|Venus|
+|☉ Sun|Direct|16°16'40.37" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°26'12.44" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°24'56.73" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°25'26.35" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'16.69" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°31'5.99" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°3'6.54" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°16'40.40" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°26'12.51" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°24'56.78" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|0°25'27.00" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|22°20'16.78" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°31'5.98" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°3'6.56" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°16'40.37" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°26'12.44" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°24'56.73" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|0°25'26.35" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Chirosima, HIJ, Hiroshima, Hiroshima-shi, Hiroshimashi, Hirosima, Hirosimo, Hiroszima, Hiroxima, Hiroxima - guang dao shi, Hiroxima - 広島市, Hiroŝimo, Hiroşima, Hirošima, Hiroșima, Khiroshima, Khirosima, canghwad hi roa chi ma, guang dao, guang dao shi, hi ro chi ma, hilosima si, hiroshima, hiroshimashi, hirosima, hyrwshyma, hyrwsymh, Χιροσίμα, Хиросима, Хирошима, Хіросіма, הירושימה, هيروشيما, هیروشیما, हिरोशिमा, จังหวัดฮิโระชิมะ, ฮิโรชิมา, ჰიროსიმა, ჰიროშიმა, ひろしま, ひろしまし, ヒロシマ, ヒロシマシ, 広島, 広島市, 廣島市, 히로시마 시

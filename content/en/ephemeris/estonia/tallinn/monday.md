@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|22°23'38.20" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°32'40.60" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|22°34'51.56" |Aries|Butain|Venus|
-|☉ Sun|Direct|15°33'20.42" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°31'2.90" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|6°13'45.83" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|19°20'22.92" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|15°33'17.83" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|25°31'0.94" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|6°13'44.31" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|19°39'25.55" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Castrum Danorum, Kallinn, Kolyvan, Lindanaes, Lindanäs, Raeaeveli, Reval, Revel, Revel', Rääveli, TLL, Taillinn, Talin, Talinas, Talini, Talino, Talins, Tallidn, Tallin, Tallin osh, Tallina, Tallinn, Tallinna, Talín, Tàllin, ta lin, talin, talina, tallin, tallina, tallyn, talyn, tarin, thallin n, Ταλίν, Ταλιν, Ταλλίν, Талин, Таллин, Таллин ош, Таллинн, Таллінн, Талін, Տալլին, טאלין, تاللىن, تالين, تالین, تاڵین, ٹالن, तालिन, ताल्लिन, তাল্লিন, ਤਾਲਿਨ, தாலின், ടാലിൻ, ทาลลินน์, ཏཱལ་་ལིན།, ტალინი, ታሊን, タリン, 塔林, 탈린

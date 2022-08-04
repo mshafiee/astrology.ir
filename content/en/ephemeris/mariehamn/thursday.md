@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'15.66" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'10.70" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|20°3'29.78" |Aries|Butain|Venus|
-|☉ Sun|Direct|11°43'40.24" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|20°38'53.86" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|29°40'58.94" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°1'54.50" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'15.75" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'10.69" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|20°3'29.81" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°43'40.20" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°38'53.78" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°40'58.88" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°1'53.72" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'15.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'10.70" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°3'29.78" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|11°43'40.24" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|20°38'53.86" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|29°40'58.94" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|25°1'54.50" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'15.75" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'10.69" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°3'29.81" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°43'40.20" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°38'53.78" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°40'58.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°1'53.72" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함

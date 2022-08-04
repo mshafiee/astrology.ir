@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°19'51.33" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°30'53.59" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|23°6'39.66" |Aries|Butain|Venus|
-|☉ Sun|Direct|16°22'8.34" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°33'9.72" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°33'51.02" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|1°46'40.63" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°19'51.24" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°30'53.60" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|23°6'39.64" |Aries|Butain|Venus|
+|☉ Sun|Direct|16°22'8.37" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°33'9.79" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°33'51.08" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°46'41.35" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°19'51.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°30'53.59" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°6'39.66" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°22'8.34" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°33'9.72" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°33'51.02" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|1°46'40.63" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|22°19'51.24" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°30'53.60" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°6'39.64" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°22'8.37" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°33'9.79" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°33'51.08" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|1°46'41.35" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Cathair Ho Chi Minh, Cidade de Ho Chi Minh, Ciudad Ho Chi Minh, HCMC, HCMV, Ho Chi Minh, Ho Chi Minh City, Ho Chi Minh Ville, Ho Chi Minh-borg, Ho Chi Minh-byen, Ho Chi Minhin kaupunki, Ho Chi Minhstad, Ho Ci Minovo Mesto, Ho Si Minh-varos, Ho Si Minh-város, Ho Či Minovo Město, Ho-Chi-Minh-Stadt, Ho-Chi-Minh-Ville, Ho-Ci-Min-urbo, Ho-Ĉi-Min-urbo, Hociminovo Mesto, Hosimina, Hosiminh, Hočiminovo Mesto, Hošimina, Hošiminh, Hô Chi Minh Ville, Hô-Chi-Minh-Ville, Hồ Chí Minhin kaupunki, Khoshimin, Kota Ho Chi Minh, Kota Hồ Chí Minh, SGN, Sai Gon, Saigon, Saïgon, Sài Gòn, TPHCM, Thanh pho Ho Chi Minh, Thành phố Hồ Chí Minh, hochimin, hochimin shi, hojjimin, hu zhi ming shi, hw z'y myn syty, mdynt hw tshy mynh, saigon, saygwn, Хошимин, הו צ'י מין סיטי, سايگون, مدينة هو تشي مينه, サイゴン, ホーチミン, ホーチミン市, 胡志明市, 호찌민, 호치민

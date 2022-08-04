@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'22.49" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°31'8.74" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|23°2'18.73" |Aries|Butain|Venus|
-|☉ Sun|Direct|16°15'26.80" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°24'38.81" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°22'56.72" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°7'2.06" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°20'22.39" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°31'8.75" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|23°2'18.71" |Aries|Butain|Venus|
+|☉ Sun|Direct|16°15'26.83" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°24'38.88" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°22'56.77" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°7'2.70" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'22.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°31'8.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°2'18.73" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°15'26.80" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°24'38.81" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°22'56.72" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|0°7'2.06" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|22°20'22.39" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°31'8.75" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°2'18.71" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°15'26.83" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°24'38.88" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°22'56.77" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|0°7'2.70" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Iokogama, Jokohama, Jokohamo, Jokokhama, YOK, Yokohama, Yokohama-shi, Yokohamashi, heng bang, heng bang shi, heng bin shi, yoa koa ha ma, yokohama, yokohama si, yokohamashi, ywkwhama, ywqwhmh, Јокохама, Иокогама, יוקוהמה, يوكوهاما, โยะโกะฮะมะ, იოკოჰამა, よこはま, よこはまし, ヨコハマ, ヨコハマシ, 横浜, 横浜市, 横滨市, 요코하마 시

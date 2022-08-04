@@ -1,6 +1,6 @@
 ---
-date: 2022-08-03T00:00:00+04:00
-lastmod: 2022-08-03T00:00:00+04:00
+date: 2022-08-10T00:00:00+04:00
+lastmod: 2022-08-10T00:00:00+04:00
 title: Victoria (Wednesday)
 slug: wednesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Wednesday, 03 Aug 2022
+description: 🗓 Wednesday, 10 Aug 2022
 
 toc: false
 ---
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'37.72" |Taurus|Dabaran|Moon|
-|♃ Jupiter|Retrograde|9°16'1.30" |Virgo|Awwa|Sun|
-|♂ Mars|Direct|12°2'36.31" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|11°25'18.03" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°22'59.79" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|17°58'36.20" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|12°9'58.76" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|11°10'37.78" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|9°15'57.50" |Virgo|Awwa|Sun|
+|♂ Mars|Direct|12°2'34.74" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|11°25'13.01" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|27°22'54.43" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|17°58'27.69" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|12°9'48.25" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'37.72" |Gemini|HanAh|Mars|
-|♃ Jupiter|Retrograde|9°16'1.30" |Libra|Ghafr|Moon|
-|♂ Mars|Direct|12°2'36.31" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°25'18.03" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°22'59.79" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|17°58'36.20" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|12°9'58.76" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|11°10'37.78" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|9°15'57.50" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|12°2'34.74" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|11°25'13.01" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|27°22'54.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|17°58'27.69" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|12°9'48.25" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

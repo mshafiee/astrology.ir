@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°19'54.38" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°30'55.13" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|23°6'13.68" |Aries|Butain|Venus|
-|☉ Sun|Direct|16°21'28.28" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°32'18.91" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°32'46.01" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|1°37'45.82" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°19'54.47" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°30'55.12" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|23°6'13.70" |Aries|Butain|Venus|
+|☉ Sun|Direct|16°21'28.25" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°32'18.84" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°32'45.96" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°37'45.11" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°19'54.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°30'55.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°6'13.68" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°21'28.28" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°32'18.91" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°32'46.01" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|1°37'45.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|22°19'54.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°30'55.12" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°6'13.70" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°21'28.25" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°32'18.84" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°32'45.96" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|1°37'45.11" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: CTU, Ccheng-tu, Cendu, Cengdu, Cengduo, Ch'eng-tu, Ch'eng-tu-hsien, Ch'eng-tu-shih, Chehndu, Chendu, Chengdu, Chengdu Shi, Chengdú, Chundu, Chөndү, Ch’eng-tu, Ch’eng-tu-hsien, Ch’eng-tu-shih, Csengtu, Cwngzduh, Hua-yang, Sang-tu-su, Seng-to-chhi, Sing-du, Sàng-tû-sṳ, Sêng-to͘-chhī, Sìng-dŭ, Thanh Do, Thành Đô, Tsen'nkntou, Txengdu, cengadu, centu, chantu, cheing tu, cheng dou, cheng dou shi, cheongdu si, chngdw, chyngdw, chېngdۇ shەھyr, tshnghdw, zngdw, Çengdu, Ĉengduo, Čcheng-tu, Čendu, Čengdu, Τσενγκντού, Ченгду, Ченду, Чънду, Чыңду, Чэнду, Чөндү, Չենդու, צנגדו, تشنغدو, چنگدو, چینگدو, چېڭدۇ شەھىر, चेंगदू, छंतू, ਚੇਂਗਦੂ, செங்டூ, เฉิงตู, ချင်းဒူမြို့, 成都, 成都市, 청두 시

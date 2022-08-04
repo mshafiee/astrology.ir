@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'19.15" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°31'7.13" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|23°2'46.72" |Aries|Butain|Venus|
-|☉ Sun|Direct|16°16'9.84" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°25'33.59" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°24'6.94" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°17'45.93" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°20'19.06" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°31'7.14" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|23°2'46.69" |Aries|Butain|Venus|
+|☉ Sun|Direct|16°16'9.87" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°25'33.66" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°24'6.99" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°17'46.58" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'19.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°31'7.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°2'46.72" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°16'9.84" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°25'33.59" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°24'6.94" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|0°17'45.93" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|22°20'19.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°31'7.14" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°2'46.69" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°16'9.87" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°25'33.66" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°24'6.99" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|0°17'46.58" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: OSA, Osaacke, Osaca, Osaca - da ban shi, Osaca - 大阪市, Osaka, Osaka-shi, Osako, Oszaka, awsaka, awzaka, da ban, da ban shi, oosakashi, osaka, osaka si, xo sa ka, ywsaka, Ósaka, Ószaka, Ōsaka, Ōsaka-shi, Осака, אוסקה, أوساكا, ئوساكا, اوزاکا, ওসাকা, โอซะกะ, ოსაკა, おおさかし, 大阪, 大阪市, 오사카 시

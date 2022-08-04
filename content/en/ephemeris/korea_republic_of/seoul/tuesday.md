@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 19:32:34 |
 | Maghrib | 19:33:46 |
 | Isha | 20:54:29 |
-| Sharia Midnight | 23:56:51 |
+| Sharia Midnight | 23:56:50 |
 | Imum Coeli | 00:37:36 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'13.74" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°31'4.57" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|23°3'31.50" |Aries|Butain|Venus|
-|☉ Sun|Direct|16°17'18.63" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°27'1.30" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°25'59.31" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°36'4.26" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°20'13.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°31'4.56" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|23°3'31.52" |Aries|Butain|Venus|
+|☉ Sun|Direct|16°17'18.60" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°27'1.23" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°25'59.25" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°36'3.59" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'13.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°31'4.57" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°3'31.50" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°17'18.63" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°27'1.30" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°25'59.31" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|0°36'4.26" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|22°20'13.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°31'4.56" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°3'31.52" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°17'18.60" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°27'1.23" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°25'59.25" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|0°36'3.59" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Hanyang, SEL, Seoel, Seol, Seoul, Seoul-si, Seuel, Seul, Seula, Seulas, Seulo, Seulum, Seúl, Seül, Siul, Soeul, Sol, Soul, Sye-ul, Syou-ouen, Szoeul, Szöul, Séoul, Sêûl, Söul, Sŏul, Wang-ching, Wo-jo, Wō-jō, ciyol, han-yang, saul, seoul, seoulsi, seoulteugbyeolsi, seuli, shou er, shou er te bie shi, si'ula, siyola, sol, sola, souru, souru te bie shi, sywl, Σεούλ, Сеул, Соул, Сөүл, Սեուլ, סאול, סיאול, סעאל, سئول, سيول, سیول, سێئول, سېئول, सियोल, सोल, সিউল, சியோல், ಸೌಲ್, സോൾ, โซล, སེ་ཨུལ།, ဆိုးလ်မြို့, სეული, ሶል, សេអ៊ូល, ソウル, ソウル特別市, 首尔, 首尔特别市, 서울, 서울시, 서울특별시, 한양

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'4.51" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°31'0.08" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|23°4'48.24" |Aries|Butain|Venus|
-|☉ Sun|Direct|16°19'16.99" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°29'31.65" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°29'11.85" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|1°3'31.65" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°20'4.61" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°31'0.07" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|23°4'48.26" |Aries|Butain|Venus|
+|☉ Sun|Direct|16°19'16.96" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°29'31.58" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°29'11.80" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°3'30.96" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'4.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°31'0.08" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°4'48.24" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°19'16.99" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°29'31.65" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°29'11.85" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|1°3'31.65" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|22°20'4.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°31'0.07" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°4'48.26" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°19'16.96" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°29'31.58" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°29'11.80" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|1°3'30.96" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오

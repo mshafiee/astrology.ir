@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°19'49.88" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°30'52.93" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|23°6'51.03" |Aries|Butain|Venus|
-|☉ Sun|Direct|16°22'25.93" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°33'32.12" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°34'19.66" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|1°50'56.33" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°19'49.98" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°30'52.92" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|23°6'51.05" |Aries|Butain|Venus|
+|☉ Sun|Direct|16°22'25.90" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°33'32.05" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°34'19.61" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°50'55.60" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°19'49.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°30'52.93" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°6'51.03" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°22'25.93" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°33'32.12" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°34'19.66" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|1°50'56.33" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|22°19'49.98" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°30'52.92" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°6'51.05" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°22'25.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°33'32.05" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°34'19.61" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|1°50'55.60" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Bientian, Fanhyiengh, Nakhon Viangchan, V'ent'jan, VTE, Venc'jan, Vent'jan, Ventjan, Ventyan, Vianchan, Viang chan, Viangchan, Vien Can, Vien Chang, Vienciana, Vieng Quy, Vieng-Caen, Vieng-Chan, Vieng-Cæn, Viengchan, Viengtjan, Vientane, Vientian, Vientianas, Vientiane, Vientijan, Vientián, Vientjan, Vientyan, Vijentijan, Viêng Quý, Vjencana, Vjentiano, Vjentjan, Vjenčana, Vyantyan, Vyantyàn, Vyentyan, Wei-t'ien, Wei-t’ien, Wiang Chan, Wiangcan, Wien Tsjan, Wientian, Wiën Tsjan, Wyentyan, Wyéntyan, bhiyenatiyena, bientian, fyyntyan, vhi'antiyana, vi'anga cana, viyancan, viyen tiyen, vu~ienchan, vu~ienchan shi, wan xiang, weiyngcanthn, wyntyan, yong zhen, Βιεντιάν, Вентян, Венцьян, Виентијан, Виентян, Вијентијан, Вьентьян, Вєнтьян, Վիենտյան, ויינטיאן, فيينتيان, وینتیان, ڤیێنتیان, व्हिआंतियान, ভিয়েনতিয়েন, ਵਿਆਂਗ ਚਾਨ, வியஞ்சான், ವಿಯೆನ್ ಟಿಯೇನ್, വിയന്റിയൻ, เวียงจันทน์, ວຽງຈນ, ວຽງຈັນ, ཝིན་ཆིའང་, ဗီယင်ကျန်းမြို့, ვიენტიანი, ቭየንትዬን, ヴィエンチャン, ヴィエンチャン市, 万象, 永珍, 비엔티안

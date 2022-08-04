@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°23'18.31" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°32'31.41" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|22°37'37.96" |Aries|Butain|Venus|
-|☉ Sun|Direct|15°37'34.35" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°36'25.96" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|6°20'46.10" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|20°34'37.06" |Scorpio|Qalb|Venus|
+|♄ Saturn|Retrograde|22°23'18.21" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°32'31.42" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|22°37'37.93" |Aries|Butain|Venus|
+|☉ Sun|Direct|15°37'34.38" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|25°36'26.03" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|6°20'46.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°34'37.23" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°23'18.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°32'31.41" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°37'37.96" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|15°37'34.35" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|25°36'25.96" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|6°20'46.10" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|20°34'37.06" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|22°23'18.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°32'31.42" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°37'37.93" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|15°37'34.38" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|25°36'26.03" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|6°20'46.15" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|20°34'37.23" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: GID, Gitega, Gitege, Kitega, Гитеге

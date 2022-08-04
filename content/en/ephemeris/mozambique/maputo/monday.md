@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°23'15.37" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°32'30.21" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|22°38'4.07" |Aries|Butain|Venus|
-|☉ Sun|Direct|15°38'12.87" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°37'16.23" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|6°21'51.27" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|20°52'3.80" |Scorpio|Qalb|Venus|
+|♄ Saturn|Retrograde|22°23'15.27" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°32'30.22" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|22°38'4.05" |Aries|Butain|Venus|
+|☉ Sun|Direct|15°38'12.90" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|25°37'16.30" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|6°21'51.32" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°52'3.98" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°23'15.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°32'30.21" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°38'4.07" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|15°38'12.87" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|25°37'16.23" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|6°21'51.27" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|20°52'3.80" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|22°23'15.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°32'30.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°38'4.05" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|15°38'12.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|25°37'16.30" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|6°21'51.32" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|20°52'3.98" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'29.04" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°39'14.33" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|20°1'30.80" |Aries|Butain|Venus|
-|☉ Sun|Direct|11°40'43.15" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|20°35'7.19" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|29°35'43.40" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|24°25'47.36" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|22°41'29.14" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°39'14.32" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|20°1'30.83" |Aries|Butain|Venus|
+|☉ Sun|Direct|11°40'43.11" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|20°35'7.12" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°35'43.34" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°25'46.55" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°41'29.04" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°39'14.33" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°1'30.80" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|11°40'43.15" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|20°35'7.19" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|29°35'43.40" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|24°25'47.36" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|22°41'29.14" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°39'14.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°1'30.83" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|11°40'43.11" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|20°35'7.12" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|29°35'43.34" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°25'46.55" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ASB, Achgabat, Achkhabad, Aschabad, Aschabadas, Aschchabad, Aschgabat, Asgabat, Asgabata, Asgabate, Asgabato, Ashabad, Ashabat, Ashgabad, Ashgabat, Ashkabad, Ashkhabad, Ashkhabad osh, Ashkˌobod, Ashqabad, Ashxabad, Ashxobod, Asjabad, Asjchabad, Asjchabat, Asjkhabad, Askabad, Askabat, Askhabad, Asnkampat, Asqabad, Asxabad, Aszchabad, Aŝgabato, Aşgabat, Aşkabat, Aşqabad, Aşğabat, Ašchabad, Ašchabadas, Ašgabat, Ašgabata, Ašhabad, Așgabat, GIashkuabad, Poltoratsk, a shen ha ba de, acukapat, asagabata, asakhabada, asgabad, asgabada, asgabat, ashigabato, ashk abad, ashkhabadi, asigabateu, asqabada, asyuhabateu, xa chka bat, yashkhabad, ʼsgbʼt, ʿەshqabad, Ασγκαμπάτ, Ашгабад, Ашгабат, Ашкабад, Ашхабад, Ашхабад ош, Ашқобод, ГІашкъабад, Աշխաբադ, אשגאבאט, אשגבאט, ئاشخاباد, اشک آباد, عاشق‌آباد, عشق آباد, عشق اباد, عشق‌آباد, عەشقاباد, अश्क़ाबाद, अश्गाबाद, আশখাবাদ, ਅਸ਼ਗ਼ਾਬਾਤ, அசுகாபாத், ಅಶ್ಗಾಬಾತ್, അഷ്ഗാബാദ്, อาชกาบัต, ཨ་ཧྲི་ཁ་པད།, აშხაბადი, አሽጋባት, アシガバート, 阿什哈巴德, 아슈하바트, 아시가바트

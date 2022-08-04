@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|22°32'25.48" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°36'17.40" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|21°20'0.30" |Aries|Butain|Venus|
-|☉ Sun|Direct|13°39'13.64" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|23°5'50.11" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|3°1'53.21" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|21°46'30.92" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|13°39'11.55" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°5'49.43" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°1'52.64" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°30'29.62" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포

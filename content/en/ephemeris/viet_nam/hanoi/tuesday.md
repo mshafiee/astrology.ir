@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°19'53.15" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°30'54.47" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|23°6'24.49" |Aries|Butain|Venus|
-|☉ Sun|Direct|16°21'45.02" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°32'40.02" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°33'13.04" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|1°40'39.32" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°19'53.06" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°30'54.48" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|23°6'24.46" |Aries|Butain|Venus|
+|☉ Sun|Direct|16°21'45.05" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°32'40.09" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°33'13.09" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°40'40.04" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°19'53.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°30'54.47" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°6'24.49" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°21'45.02" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°32'40.02" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°33'13.04" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|1°40'39.32" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|22°19'53.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°30'54.48" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°6'24.46" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°21'45.05" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°32'40.09" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°33'13.09" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|1°40'40.04" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이

@@ -374,8 +374,8 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**♂ بهرام**|□ تربیع| |||||
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**| |□ تربیع|✱ تسدیس| |||
-|**☿ تیر**| | |△ تثلیث| |✱ تسدیس||
-|**☾ ماه**|□ تربیع| |☍ مقابله|□ تربیع|△ تثلیث|✱ تسدیس|
+|**☿ تیر**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه| ||
+|**☾ ماه**|△ تثلیث|☍ مقابله| |✱ تسدیس|□ تربیع|✱ تسدیس|
 
 ---
 نام‌های دیگر: Dasht-e Azadegan, Dasht-e Āzādegān, Dasht-i-Mishan, Dasht-i-Mishān, Dashte' Mishan, Dashte’ Mishan, Khafajiyah, Khafajiyaz, Khafajiyeh, Susangerd, Susangird, Susangurd, Sūsangerd, Sūsangird, Sūsangurd, swsngrd, سوسنگرد

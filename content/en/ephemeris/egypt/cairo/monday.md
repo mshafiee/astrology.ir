@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°23'27.41" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°32'35.51" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|22°36'21.24" |Aries|Butain|Venus|
-|☉ Sun|Direct|15°35'37.03" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°33'56.45" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|6°17'32.15" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|20°4'1.86" |Scorpio|Qalb|Venus|
+|♄ Saturn|Retrograde|22°23'27.32" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°32'35.52" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|22°36'21.22" |Aries|Butain|Venus|
+|☉ Sun|Direct|15°35'37.06" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|25°33'56.52" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|6°17'32.20" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°4'2.00" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°23'27.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°32'35.51" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°36'21.24" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|15°35'37.03" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|25°33'56.45" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|6°17'32.15" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|20°4'1.86" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|22°23'27.32" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°32'35.52" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°36'21.22" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|15°35'37.06" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|25°33'56.52" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|6°17'32.20" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|20°4'2.00" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Al Qahirah, Al Qāhirah, CAI, Caire, Cairo, Cairo - alqahrt, Cairo - القاهرة, Cairu, Cairus, Caïro, El Caire, El Cairo, El Kahira, El Kahirah, El-Qahira, El-Qâhira, Il Cairo, Kaherah, Kahira, Kahirae, Kahire, Kahirä, Kair, Kaira, Kairas, Kairo, Kairó, Kajro, Kayro, Kaíró, Kaïro, Káhira, Le Caire, Lo Cayiro, Lungsod ng Cairo, Masr, Misr, Qahirə, alqahrt, kai luo, kailo, kairo, kayaro, keyro, khiro, qahrh, qhyr, Ël Cairo, Ël Càiro, Κάιρο, Каир, Каиро, Кайро, Каїр, קהיר, القاهرة, قاهره, قاھىرە, قاہرہ, কায়রো, கெய்ரோ, ไคโร, ཁ་ཡི་རོ, ქაირო, ካይሮ, カイロ, 开罗, 카이로

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'20.27" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°31'7.72" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|23°2'36.56" |Aries|Butain|Venus|
-|☉ Sun|Direct|16°15'54.27" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°25'13.81" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°23'41.55" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°13'56.78" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°20'20.36" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°31'7.71" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|23°2'36.58" |Aries|Butain|Venus|
+|☉ Sun|Direct|16°15'54.24" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°25'13.74" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°23'41.50" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°13'56.13" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°20'20.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°31'7.72" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°2'36.56" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°15'54.27" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°25'13.81" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°23'41.55" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|0°13'56.78" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|22°20'20.36" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°31'7.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°2'36.58" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°15'54.24" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|26°25'13.74" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°23'41.50" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|0°13'56.13" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: NGO, Nagoia, Nagoja, Nagojo, Nagoya, Nagoya City, Nagoya-shi, ming gu wu, ming gu wu shi, na ngoa ya, naghwya, nagoya si, nagoyashi, nagwya  aychy, Нагоя, ناغويا, ناگویا، آیچی, นะโงะยะ, なごやし, 名古屋, 名古屋市, 나고야 시
