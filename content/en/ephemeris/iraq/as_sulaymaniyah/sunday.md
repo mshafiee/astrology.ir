@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:04:06 |
 | Sunset | 18:56:34 |
 | Maghrib | 19:02:00 |
-| Isha | 20:31:22 |
+| Isha | 20:31:21 |
 | Sharia Midnight | 23:10:38 |
 | Imum Coeli | 00:04:02 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°28'5.92" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°34'36.12" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|21°56'59.32" |Aries|Butain|Venus|
-|☉ Sun|Direct|14°35'27.91" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|24°17'23.31" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|4°37'15.92" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|5°15'44.04" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°28'6.01" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°34'36.11" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|21°56'59.35" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°35'27.88" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°17'23.24" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°37'15.87" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|5°15'44.46" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°28'5.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°34'36.12" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°56'59.32" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|14°35'27.91" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|24°17'23.31" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|4°37'15.92" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|5°15'44.04" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|22°28'6.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°34'36.11" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°56'59.35" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°35'27.88" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°17'23.24" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°37'15.87" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|5°15'44.46" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
