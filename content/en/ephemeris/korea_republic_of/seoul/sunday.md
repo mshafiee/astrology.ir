@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 19:34:48 |
 | Maghrib | 19:56:09 |
 | Isha | 20:51:12 |
-| Sharia Midnight | 23:48:18 |
+| Sharia Midnight | 23:48:17 |
 | Imum Coeli | 00:37:53 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°29'6.92" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°35'0.90" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|21°48'19.57" |Aries|Butain|Venus|
-|☉ Sun|Direct|14°22'16.05" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|24°0'35.77" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|4°15'1.54" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°4'7.09" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|22°29'7.01" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°35'0.88" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|21°48'19.59" |Aries|Butain|Venus|
+|☉ Sun|Direct|14°22'16.02" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°0'35.70" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|4°15'1.49" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°4'7.56" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°29'6.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°35'0.90" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°48'19.57" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|14°22'16.05" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|24°0'35.77" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|4°15'1.54" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|2°4'7.09" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|22°29'7.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°35'0.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°48'19.59" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|14°22'16.02" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°0'35.70" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|4°15'1.49" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°4'7.56" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

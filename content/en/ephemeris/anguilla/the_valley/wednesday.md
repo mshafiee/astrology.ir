@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 12:17:36 |
 | Medium Coeli | 12:17:36 |
 | Sunset | 18:42:06 |
-| Maghrib | 18:59:14 |
+| Maghrib | 18:59:15 |
 | Isha | 19:41:44 |
 | Sharia Midnight | 23:39:21 |
 | Imum Coeli | 00:17:31 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°13'18.84" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°27'29.82" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|24°1'15.10" |Aries|Butain|Venus|
-|☉ Sun|Direct|17°46'24.59" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|28°20'28.35" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|9°49'21.02" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|23°29'27.34" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|22°13'18.75" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°27'29.83" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|24°1'15.08" |Aries|Butain|Venus|
+|☉ Sun|Direct|17°46'24.63" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|28°20'28.42" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|9°49'21.07" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|23°29'28.50" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°13'18.84" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°27'29.82" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°1'15.10" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|17°46'24.59" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|28°20'28.35" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|9°49'21.02" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|23°29'27.34" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°13'18.75" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°27'29.83" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°1'15.08" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|17°46'24.63" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|28°20'28.42" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|9°49'21.07" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|23°29'28.50" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
