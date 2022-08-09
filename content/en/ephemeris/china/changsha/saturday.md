@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 12:33:03 |
 | Medium Coeli | 12:33:03 |
 | Sunset | 19:09:13 |
-| Maghrib | 19:27:48 |
+| Maghrib | 19:27:49 |
 | Isha | 20:14:26 |
 | Sharia Midnight | 23:51:06 |
 | Imum Coeli | 00:32:58 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°2'5.55" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°2'5.46" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°20'44.78" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|25°33'34.91" |Aries|Butain|Venus|
-|☉ Sun|Direct|20°10'24.77" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|1°23'55.94" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|13°32'39.33" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°0'19.24" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|20°10'24.81" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|1°23'56.02" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|13°32'39.38" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°0'19.97" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°2'5.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°2'5.46" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°20'44.78" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°33'34.91" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|20°10'24.77" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|1°23'55.94" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|13°32'39.33" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|1°0'19.24" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|20°10'24.81" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|1°23'56.02" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|13°32'39.38" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°0'19.97" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
