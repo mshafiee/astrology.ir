@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:34:19 |
 | Sunset | 19:23:13 |
 | Maghrib | 19:28:34 |
-| Isha | 20:59:16 |
+| Isha | 20:59:15 |
 | Sharia Midnight | 23:40:10 |
 | Imum Coeli | 00:34:13 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°53'8.01" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°14'31.52" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°46'13.58" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°5'6.85" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°50'7.61" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|16°22'57.88" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°53'8.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|21°53'8.11" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°14'31.51" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°46'13.57" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°5'6.81" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°50'7.53" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|16°22'57.83" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°53'8.11" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°53'8.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°14'31.52" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°46'13.58" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°5'6.85" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°50'7.61" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|16°22'57.88" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|29°53'8.82" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°53'8.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°14'31.51" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°46'13.57" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°5'6.81" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°50'7.53" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|16°22'57.83" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|29°53'8.11" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Daiyienz, T'ai-yuan-shih, TYN, Tai-nguong, Taigiouan, Taijuan, Taijuana, Taijuaņa, Taiyuan, Taiyuan Shi, Taiyuan-fu, Taiyuenum, Taiyüan-fu, Tajjuan', Tajjuean, Tajjuen, Tajjüan, Tajuanas, Tajuano, Tayyuan, Tchaj-juean, Tchaj-jüan, Thai Nguyen, Thai-goan-chhi, Thài-goân-chhī, Thái Nguyên, Tái-nguòng, T’ai-yüan-shih, Yang-ch'u, Yang-ch’ü, Yangku, Yangkü, Yanka, ta'iyu'ana, tai yuan, tai yuan shi, taiwian si, tay ywan, tayy ywan, tayywan, thayyu'ana, thi hywn, Ταϊγιουάν, Таијуан, Тайюань, Тайюен, טאי-יואן, تائی یوآن, تائی‌یوان, تاي يوان, تاییوان, تەييۈەن شەھىرى, ताइयुआन, थाय्युआन, ਤਾਈਯੂਆਨ, ไท่หยวน, 太原, 太原市, 타이위안 시

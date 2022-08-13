@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'31.17" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'15.32" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°55'31.26" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'15.31" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°26'57.31" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°34'33.41" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°11'10.61" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°38'15.52" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|22°21'38.53" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|21°34'33.37" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°11'10.53" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°38'15.47" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|22°21'37.68" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'31.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'15.32" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°55'31.26" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'15.31" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°26'57.31" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°34'33.41" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°11'10.61" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°38'15.52" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|22°21'38.53" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|21°34'33.37" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°11'10.53" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°38'15.47" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|22°21'37.68" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Maranham, Maranhao, Maranhão, SLZ, San Luisas, San-Luis, Sao Louis, Sao Luis, Sao Luis do Maranhao, Sao Luiz, Sao Luiz de Maranhao, Sao Luiz do Maranhao, Saun Luis, Saun Luís, São Luis, São Luiz, São Luiz de Maranhão, São Luiz do Maranhão, São Luís, São Luís do Maranhão, cavo luyicu, sa'o lu'isa, san-luisi, sanglu-iseu, saw lwyys, saw lwyz, sayw lwyys  maranhaw, sheng lu yi si, Σάο Λουίς, Сан-Луис, Сан-Луіс, Сан-Луїс, Сао Луис, סאו לואיס, ساؤ لوئیس, ساؤ لوئیس، مارانہاؤ, سائو لوئیس، مارانهاو, ساو لويز, साओ लुईस, সাও লুইস, சாவோ லூயிசு, სან-ლუისი, サン・ルイス, 圣路易斯, 상루이스

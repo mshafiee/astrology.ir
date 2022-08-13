@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'44.88" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°23'4.58" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°3'42.23" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°23'34.19" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°24'16.35" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°21'11.81" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°10'31.07" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|22°5'44.97" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°23'4.57" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°3'42.24" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°23'34.14" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°24'16.27" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°21'11.76" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°10'30.34" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'44.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°23'4.58" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°3'42.23" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°23'34.19" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°24'16.35" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°21'11.81" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°10'31.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|22°5'44.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°23'4.57" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°3'42.24" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°23'34.14" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°24'16.27" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°21'11.76" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°10'30.34" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Elsin'ki, Elsinki, Elzinki, Gel'sinki, HEL, Heilsinci, Heilsincí, Hel'sinki, Helsenkis, Helsingfors, Helsingi, Helsingia, Helsinki, Helsinkis, Helsinkium, Helsinko, Helsinky, Helsinqui, Helsinquia, Helsset, Helsínquia, Helsînkî, Helsėnkis, Hèlsinki, Khel'sinki, Khel'sinki osh, Khelsinki, Khelzinki, Lungsod ng Helsinki, Stadi, Xelsinki, Xélsinki, elcinki, hailasiki, he er xin ji, helasinki, helsingki, helsinki, herushinki, hlsnky, hlsnqy, hlsynky, hlsynqy, hylsynky, Èlzinki, Ħelsinki, Ελσίνκι, Гельсінкі, Хелзинки, Хелсинки, Хельсинки, Хельсинки ош, Хельсінкі, Ҳелсинкӣ, Һel'sinki, Һельсинки, Հելսինկի, הלסינקי, העלסינקי, هلسنكي, هلسنڪي, هلسینکی, هيلسينكى, هیلسینکی, ھێلسینکی, ہلسنکی, ہیلسنکی, ܗܠܣܢܩܝ, हेलसिंकी, हेल्सिन्की, হেলসিঙ্কি, ਹੈਲਸਿੰਕੀ, எல்சிங்கி, ಹೆಲ್ಸಿಂಕಿ, ഹെൽസിങ്കി, เฮลซิงกิ, ཧེལ་སིན་ཀི།, ဟယ်လ်ဆင်ကီမြို့, ჰელსინკი, ሄልሲንኪ, Ḥélsinki, ヘルシンキ, 赫尔辛基, 赫爾辛基, 헬싱키

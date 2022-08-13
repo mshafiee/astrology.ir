@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'32.67" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'32.76" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°22'56.90" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°5'20.84" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°26'9.75" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°27'33.40" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°25'9.67" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°38'14.66" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Direct|25°5'20.85" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°26'9.71" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°27'33.32" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°25'9.61" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°38'13.94" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'32.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°5'32.76" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°22'56.90" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°5'20.84" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°26'9.75" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°27'33.40" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°25'9.67" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°38'14.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|25°5'20.85" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°26'9.71" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°27'33.32" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°25'9.61" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°38'13.94" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: SOF, Safija, Serdica, Sofi, Sofia, Sofiae, Sofie, Sofii, Sofij, Sofija, Sofija osh, Sofijo, Sofio, Sofiya, Sofiä, Sofiýa, Sofja, Sofya, Sofía, Soifia, Sophia, Sredets, Suofeje, Suofėjė, Szofia, Szófia, Sòfia, Sófia, Sófía, Sóifia, Ulpia Serdica, cohviya, saphiya, seaphiya, sofeiy, sofi'a, sofia, sophiya, sopia, suo fei ya, swfya, swfyh, swpyh, Σόφια, Сафія, Софи, Софий, София, София ош, Софија, Софія, Софїꙗ, Սոֆիա, סאפיע, סופיה, سوفىيە, سۆفیا, صوفيا, صوفیه, صوفیہ, صوٙفیە, सोफिया, সফিয়া, ਸੋਫ਼ੀਆ, சோஃவியா, സോഫിയ, โซเฟีย, སོ་ཧྥི་ཡ།, სოფია, ሶፊያ, ソフィア, 索菲亞, 소피아, 𐍃𐍉𐍆𐌹𐌰

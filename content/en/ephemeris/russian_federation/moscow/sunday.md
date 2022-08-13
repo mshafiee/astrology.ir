@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'50.54" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°17'11.51" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°56'50.63" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°17'11.50" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°16'16.66" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°17'38.88" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°49'38.47" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°13'19.80" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°18'8.80" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°17'38.84" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°49'38.39" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°13'19.75" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°18'7.93" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'50.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°17'11.51" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°56'50.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°17'11.50" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°16'16.66" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°17'38.88" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°49'38.47" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°13'19.80" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|18°18'8.80" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|21°17'38.84" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°49'38.39" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°13'19.75" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°18'7.93" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: MOW, Maeskuy, Maskav, Maskava, Maskva, Mat-xco-va, Matxcova, Matxcơva, Mosca, Moscfa, Moscha, Mosco, Moscou, Moscova, Moscovo, Moscow, Moscoƿ, Moscu, Moscua, Moscòu, Moscó, Moscù, Moscú, Moskva, Moska, Moskau, Mosko, Moskokh, Moskou, Moskov, Moskova, Moskovu, Moskow, Moskowa, Mosku, Moskuas, Moskva, Moskvo, Moskwa, Moszkva, Muskav, Musko, Mát-xcơ-va, Mòskwa, Məskeu, Məskəү, masko, maskw, mo si ke, moseukeuba, mosko, mosukuwa, mskw, mwskva, mwskw, mwsqbh, mx s ko, Μόσχα, Мæскуы, Маскав, Масква, Москва, Москова, Москох, Москъва, Мускав, Муско, Мәскеу, Мәскәү, Մոսկվա, מאָסקװע, מאסקווע, מוסקבה, ماسکو, مسکو, موسكو, موسكۋا, ܡܘܣܩܒܐ, मास्को, मॉस्को, মস্কো, மாஸ்கோ, มอสโก, མོ་སི་ཁོ།, მოსკოვი, ሞስኮ, モスクワ, 莫斯科, 모스크바

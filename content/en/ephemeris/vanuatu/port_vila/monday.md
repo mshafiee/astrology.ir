@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°53'37.91" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°14'53.51" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°42'13.60" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°58'44.81" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°42'1.38" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|16°13'42.06" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|28°26'23.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|21°53'37.82" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°14'53.52" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°42'13.61" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|21°58'44.85" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°42'1.46" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|16°13'42.10" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|28°26'24.08" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°53'37.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°14'53.51" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°42'13.60" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°58'44.81" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°42'1.38" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|16°13'42.06" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|28°26'23.33" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°53'37.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°14'53.52" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°42'13.61" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°58'44.85" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°42'1.46" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|16°13'42.10" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|28°26'24.08" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

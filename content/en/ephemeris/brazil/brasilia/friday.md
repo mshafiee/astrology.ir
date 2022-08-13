@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'25.24" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'14.68" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°14'33.98" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°40'34.68" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°45'55.81" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°47'16.01" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°27'14.82" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°4'25.14" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'14.69" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°14'33.97" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°40'34.72" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°45'55.89" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°47'16.07" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°27'15.52" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'25.24" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'14.68" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°14'33.98" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°40'34.68" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°45'55.81" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°47'16.01" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°27'14.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°4'25.14" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'14.69" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°14'33.97" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°40'34.72" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°45'55.89" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°47'16.07" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°27'15.52" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: BSB, Bahsihleihya, Brasilia, Brasiliopolis, Brasilía, Brasília, Braxilia, Braxiłia, Braxìlia, Brazileje, Brazilia, Braziliavaros, Brazilija, Brazilija shaary, Brazilja, Braziljo, Brazilėjė, Brazília, Brazíliaváros, Breselya, Bràsílíà, Mprazilia, ba xi li ya, beulajillia, bra si leiy, brajhiliya, brasili'a, brasiliya, brasylya, brazili'a, brazilia, brazylya, bresiliya, brzylyh, burajiria, byrazylya, piraciliya, Μπραζίλια, Бразилиа, Бразилия, Бразилия шаары, Бразилија, Бразиліа, Бразілія, Ҳавзаи федералии Бразилиа, Բրազիլիա, בראזיליא, ברזיליה, بئرازیلیا, برازيليا, برازیلیا, برازیلیہ, براسیلیا, بەڕازیلیا, ބްރަސީލިއާ, ब्रसिलिया, ब्राझिलिया, ब्रासीलिया, ব্রাসিলিয়া, ਬ੍ਰਾਜ਼ੀਲੀਆ, ବ୍ରାସିଲିଆ, பிரசிலியா, ಬ್ರೆಸಿಲಿಯಾ, ബ്രസീലിയ, บราซีเลีย, པུ་རུ་ཟི་ལི་ཡ།, ဘရာစေးလေးယားမြို့, ბრაზილია, ብራዚሊያ, ブラジリア, 巴西利亚, 巴西利亞, 브라질리아

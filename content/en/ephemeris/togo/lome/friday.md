@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'6.39" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'40.45" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°8'56.06" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°31'46.87" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°34'42.42" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°33'46.66" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|21°0'30.93" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'6.30" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'40.46" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°8'56.05" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°31'46.91" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°34'42.49" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°33'46.71" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|21°0'31.64" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'6.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'40.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°8'56.06" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°31'46.87" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°34'42.42" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°33'46.66" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|21°0'30.93" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|22°5'6.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'40.46" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°8'56.05" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°31'46.91" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°34'42.49" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°33'46.71" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|21°0'31.64" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

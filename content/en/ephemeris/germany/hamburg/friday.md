@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'28.43" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'54.25" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°5'57.24" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°27'5.84" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°28'45.48" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°26'36.58" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°59'54.15" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|22°5'28.34" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'54.26" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°5'57.23" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°27'5.88" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°28'45.55" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°26'36.63" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°59'54.87" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'28.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'54.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°5'57.24" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°27'5.84" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°28'45.48" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°26'36.58" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°59'54.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|22°5'28.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'54.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°5'57.23" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°27'5.88" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°28'45.55" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°26'36.63" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°59'54.87" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Amborg, Ambourgo, Amburgo, Amburgu, Augusta Gambriviorum, Ciutat d'Hamburg, Estat d'Hamburg, Gamburg, HAM, HH, Hamboarch, Hamboerg, Hamboerj, Hamborg, Hambourg, Hamburch, Hamburg, Hamburga, Hamburgas, Hamburgo, Hamburgu, Hamburgum, Hamburk, Hambuurich, Hambörg, Hambörj, Hambùrk, Hambûrg, Hamepuka, Hammaburg [a. 832], Hampuri, Hanburgo, Khamburg, ham bur k, hambuleukeu, hamburgi, hambwrg, hambwrgh, han bao, han bao shi, hanburuku, hemburga, hmbwrg, hyambarg, hʼambwrg, Ħamburg, Αμβούργο, Гамбург, Гамбурґ, Хамбург, Համբուրգ, האַמבורג, המבורג, هامبورغ, هامبورگ, ہymbrg, ہیمبرگ, ܗܡܒܘܪܓ, हॅम्बुर्ग, ಹ್ಯಾಂಬರ್ಗ್, ฮัมบูร์ก, ჰამბურგი, ハンブルク, 汉堡, 汉堡市, 漢堡, 함부르크

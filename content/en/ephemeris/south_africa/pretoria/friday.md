@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'19.91" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'49.13" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°7'6.02" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°28'52.94" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°31'2.36" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°29'21.38" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°32'8.43" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'20.01" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'49.12" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°7'6.03" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°28'52.89" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°31'2.28" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°29'21.33" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°32'7.72" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: E-Pitoli, IPitoli, PRY, Pitoli, Praetoria, Prehtoryja, Pretori, Pretoria, Pretoria/Pole tou Akroteriou, Pretoriae, Pretorii, Pretorija, Pretorio, Pretoriya, Pretoriye, Pretoriä, Pretoría, Pretòria, Pretória, Prétoriye, Pta, Tshwane, bi lei tuo li ya, brytwrya, peulitolia, phri thx reiy, pirittoriya, pritori'a, pritoriya, pritteariya, prtwrya, prtwryh, pu li tuo li ya, puretoria, Πρετόρια, Πρετόρια/Πόλη του Ακρωτηρίου, Претори, Претория, Преторија, Преторія, Прэторыя, Պրետորիա, פרטוריה, بريتوريا, پرتوریا, پریٹوریا, پرێتۆریا, प्रिटोरिया, ਪ੍ਰਿਟੋਰੀਆ, பிரிட்டோரியா, ప్రిటోరియా, പ്രിട്ടോറിയ, พริทอเรีย, ཕི་རི་ཐོ་རི་ཡ།, პრეტორია, ፕሪቶሪያ, プレトリア, 普利托里亞, 比勒陀利亞, 프리토리아

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'16.27" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'8.89" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°15'46.46" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°42'29.36" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°48'20.98" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°50'10.34" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°46'33.52" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°4'16.18" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'8.90" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°15'46.45" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°42'29.40" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°48'21.06" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°50'10.40" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°46'34.22" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'16.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'8.89" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°15'46.46" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°42'29.36" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°48'20.98" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°50'10.34" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°46'33.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°4'16.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'8.90" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°15'46.45" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°42'29.40" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°48'21.06" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°50'10.40" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°46'34.22" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스

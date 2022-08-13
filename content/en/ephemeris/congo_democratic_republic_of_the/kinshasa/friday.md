@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'14.77" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'45.79" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°7'46.92" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°29'58.38" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°32'24.52" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°31'0.52" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°35'46.48" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'14.86" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'45.78" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°7'46.93" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°29'58.34" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°32'24.44" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°31'0.46" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°35'45.77" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'14.77" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'45.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°7'46.92" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°29'58.38" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°32'24.52" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°31'0.52" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°35'46.48" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|22°5'14.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'45.78" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°7'46.93" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°29'58.34" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°32'24.44" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°31'0.46" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°35'45.77" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: FIH, Kincasa, Kinchasa, Kinchassa, Kinsas, Kinsasa, Kinsaso, Kinshasa, Kinshase, Kinsjasa, Kinszasa, Kinsásá, Kinxasa, Kinŝaso, Kinşasa, Kinšas, Kinšasa, Kînşasa, Leopoldstad, Leopoldville, Léopoldville, Quinxassa, jin sha sa, jin xia sha, kin cha sa, kinasasa, kinsaca, kinsasa, kinshasa, kinsyasa, knshasa, kynshasa, Κινσάσα, Киншаса, Киншасе, Кіншаса, Կինշասա, קינשאזע, קינשאסה, كينشاسا, کنشاسا, کنشاسہ, کینشاسا, किन्शासा, কিনশাসা, ਕਿਨਸ਼ਾਸਾ, கின்ஷாசா, കിൻഷസ, กินชาซา, ཀིན་ཤ་ས།, ကင်ရှာဆာမြို့, კინშასა, ኪንሻሳ, キンシャサ, 金夏沙, 金沙薩, 킨샤사

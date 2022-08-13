@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'1.39" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'36.70" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°22'53.31" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°28'7.68" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°2'58.56" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°28'47.15" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°42'17.49" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|21°56'1.29" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'36.71" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°22'53.32" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|21°28'7.72" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°2'58.64" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°28'47.20" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°42'18.35" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'1.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'36.70" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°22'53.31" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°28'7.68" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°2'58.56" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°28'47.15" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°42'17.49" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°56'1.29" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'36.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°22'53.32" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°28'7.72" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°2'58.64" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°28'47.20" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°42'18.35" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코

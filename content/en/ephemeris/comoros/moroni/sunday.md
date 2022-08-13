@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'35.08" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°17'0.68" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°56'35.18" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°17'0.67" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°18'20.51" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°20'55.28" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°53'48.23" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°18'9.59" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°1'40.81" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°20'55.24" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°53'48.15" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°18'9.54" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°1'39.94" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'35.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°17'0.68" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°56'35.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°17'0.67" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°18'20.51" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°20'55.28" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°53'48.23" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°18'9.59" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°1'40.81" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|21°20'55.24" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°53'48.15" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°18'9.54" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°1'39.94" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Maroni, Moroni, Moronio, Moronis, Morony, Moròni, Muruni, Móróní, YVA, mo luo ni, mo ro ni, moloni, moroni, muruni, mwrwny, Μορονί, Мароні, Морони, Мороні, Մորոնի, מורוני, موروني, مورونی, مۆرۆنی, मोरोनी, ਮੋਰੋਨੀ, மூறூனீ, โมโรนี, མོ་རོ་ནི།, მორონი, ሞሮኒ, モロニ, 莫洛尼, 莫羅尼, 모로니

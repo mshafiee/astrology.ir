@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°52'51.85" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°14'19.57" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°48'24.06" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°8'34.22" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°54'31.76" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|16°27'59.22" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°42'22.53" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|21°52'51.76" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°14'19.58" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°48'24.07" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°8'34.26" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°54'31.84" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|16°27'59.27" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|0°42'23.21" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°52'51.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°14'19.57" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°48'24.06" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°8'34.22" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°54'31.76" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|16°27'59.22" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|0°42'22.53" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°52'51.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°14'19.58" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°48'24.07" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°8'34.26" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°54'31.84" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|16°27'59.27" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|0°42'23.21" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Gizlungzpoh, KUL, Kouala Loumpou, Kouala Loumpour, Kuala Lumpor, Kuala Lumpur, Kuala-Lumpur, Kuala-Lumpuro, Kualae-Lumpur, Kualalumpura, Kualalumpūra, Kvala Lumpuras, Kvala Lumpūras, Kúala Lúmpúr, ji long po, kaulalampur, kawlalampexr, kolalampur, ku'a lalampura, ku'ala lupura, ku'alalampura, ku'alalumpura, kuallalumpuleu, kuararunpuru, kuyalalamapura, kvalalampura, kwala lambwr, kwala lmpwr, kwalalampwr, kwalalmbwr, kwalalmpwr, kwalalwmpwr, kۇyalalۇmpۇr, Κουάλα Λουμπούρ, Куалæ-Лумпур, Куала Лумпур, Куала-Лумпур, Կուալա Լումպուր, קואלה לומפור, كوالا لامبور, كوالالمبور, كۇئالالۇمپۇر, کوالا لمپور, کوالالامپور, کوالالمپور, کوالالومپور, कुआ लालम्पुर, कुआलालम्पुर, क्वालालंपूर, কুয়ালালামপুর, ਕੁਆਲਾ ਲੁੰਪੁਰ, କୁଆଲାଲୁମ୍ପୁର, கோலாலம்பூர், ಕೌಲಾಲಂಪುರ್, കോലാലമ്പൂർ, กัวลาลัมเปอร์, ཁལ་ལུང་ཕུ།, ကွာလာလမ်ပူမြို့, კუალა-ლუმპური, ኩዋላ ሉምፑር, クアラルンプール, 吉隆坡, 쿠알라룸푸르

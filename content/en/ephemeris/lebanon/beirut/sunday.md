@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'39.19" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°17'3.39" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°56'39.10" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°17'3.40" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°17'47.78" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°20'4.22" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°52'42.56" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°16'53.62" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°43'38.97" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°20'4.26" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°52'42.64" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°16'53.68" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°43'39.84" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'39.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°17'3.39" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°56'39.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°17'3.40" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°17'47.78" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°20'4.22" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°52'42.56" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°16'53.62" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|18°43'38.97" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|21°20'4.26" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°52'42.64" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°16'53.68" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°43'39.84" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: BEY, Baeyrut, Bairut, Bayrut, Bayrūt, Beiriut, Beiroet, Beirot, Beirots, Beirout, Beiroūt, Beirut, Beiruta, Beirutas, Beirute, Beirút, Beirût, Beirūta, Bejrut, Bejrut oshs', Bejruti, Bejruto, Bejrút, Berut, Berytos, Berytus, Bewout, Beyrouth, Beyrut, Bey­rutʻ, Birut, Bäyrut, Béiriút, Bêrût, bairut, bairuta, bayrut, bei lu te, beiluteu, beiruti, beiruto, berut, beruta, beyaruta, beyruta, bey‌rutt, biruta, byrwt, byyrwt, peyrut, Βηρυτός, Бейрут, Бейрут ошсь, Бејрут, Бәйрут, Բեյ­րութ, ביירוט, ביירות, بيروت, بَيْرُوت, بیروت, بېيرۇت, بەیرووت, ܒܝܪܘܬ, बेयरूत, बेय्रुत, बैरूत, বৈরুত, ਬੇਰੂਤ, ବିରୁଟ, பெய்ரூத், ಬೈರುತ್, ബെയ്‌റൂത്ത്, เบรุต, པ་ར་ཐ།, པེ་རུ་ཐེ།, ဘေရွတ်မြို့, ბეირუთი, ቤይሩት, ベイルート, 貝魯特, 贝鲁特, 베이루트

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'50.55" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°23'8.06" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°2'55.23" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°22'21.15" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°22'42.94" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°19'19.06" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°47'34.70" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|22°5'50.65" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°23'8.05" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°2'55.24" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°22'21.11" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°22'42.86" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°19'19.01" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°47'33.97" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'50.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°23'8.06" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°2'55.23" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°22'21.15" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°22'42.94" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°19'19.06" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|18°47'34.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|22°5'50.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°23'8.05" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°2'55.24" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°22'21.11" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°22'42.86" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°19'19.01" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°47'33.97" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: MOW, Maeskuy, Maskav, Maskava, Maskva, Mat-xco-va, Matxcova, Matxcơva, Mosca, Moscfa, Moscha, Mosco, Moscou, Moscova, Moscovo, Moscow, Moscoƿ, Moscu, Moscua, Moscòu, Moscó, Moscù, Moscú, Moskva, Moska, Moskau, Mosko, Moskokh, Moskou, Moskov, Moskova, Moskovu, Moskow, Moskowa, Mosku, Moskuas, Moskva, Moskvo, Moskwa, Moszkva, Muskav, Musko, Mát-xcơ-va, Mòskwa, Məskeu, Məskəү, masko, maskw, mo si ke, moseukeuba, mosko, mosukuwa, mskw, mwskva, mwskw, mwsqbh, mx s ko, Μόσχα, Мæскуы, Маскав, Масква, Москва, Москова, Москох, Москъва, Мускав, Муско, Мәскеу, Мәскәү, Մոսկվա, מאָסקװע, מאסקווע, מוסקבה, ماسکو, مسکو, موسكو, موسكۋا, ܡܘܣܩܒܐ, मास्को, मॉस्को, মস্কো, மாஸ்கோ, มอสโก, མོ་སི་ཁོ།, მოსკოვი, ሞስኮ, モスクワ, 莫斯科, 모스크바

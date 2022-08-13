@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'45.11" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|21°56'45.21" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|8°17'7.62" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°16'58.98" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°18'47.17" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°51'4.35" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°14'59.63" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°24'0.66" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°18'47.13" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°51'4.27" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°14'59.58" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°23'59.79" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'45.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|21°56'45.21" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|8°17'7.62" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°16'58.98" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°18'47.17" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°51'4.35" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°14'59.63" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|18°24'0.66" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|21°18'47.13" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°51'4.27" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°14'59.58" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°23'59.79" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Karbala, Karbala', Karbalaa, Karbalo, Karbalá, Karbalā’, Karbila, Karmpala, Kerbala, Kerbela, Kərbəla, Meshed Hussain, Meshed Hussein, Nainawa, Qerbelaja, Shathi'ul-Furat, Vilojati Karbalo, al-Ghadiriya, ka er ba la, kaleuballa, karabala, karbala, karpala, karubara, karubara xian, krbla, krblaʾ, ktrbala, Καρμπάλα, Вилояти Карбало, Карбала, Кербала, Кербела, Քերբելա, כרבלא, מחוז כרבלא, كةربالا, كربلاء, محافظة كربلاء, کربلا, کەربەلا, ڪربلا, करबला, কারবালা, ਕਰਬਲਾ, கர்பலா, കർബല, ქარბალა, カルバラー, カルバラー県, 卡爾巴拉, 카르발라

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'16.28" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'4.63" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°55'16.37" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'4.62" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°28'58.11" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°37'44.70" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°15'14.46" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°42'56.83" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°9'25.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|21°37'44.66" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°15'14.38" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°42'56.78" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°9'25.03" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'16.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'4.63" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°55'16.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'4.62" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°28'58.11" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°37'44.70" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°15'14.46" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°42'56.83" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°9'25.87" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|21°37'44.66" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°15'14.38" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°42'56.78" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°9'25.03" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: District of Columbia, Federal Capital, Federal City, Federal Town, Ouasinkton, Ranatakariahshne, Ranatakariáhshne, Territory of Columbia, Vashington, Vasingtonas, Vasingtonia, Vašingtonas, WAS, Washington, Washington City, Washington D. C., Washington D.C., Washington DC, Waszyngton, hua sheng dun te qu, wosingteon D.C., wosingteon DC, Ουάσιγκτον, Вашингтон, 华盛顿特区, 워싱턴 D.C., 워싱턴 DC

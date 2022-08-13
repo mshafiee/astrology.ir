@@ -1,6 +1,6 @@
 ---
-date: 2022-08-08T00:00:00-04:00
-lastmod: 2022-08-08T00:00:00-04:00
+date: 2022-08-15T00:00:00-04:00
+lastmod: 2022-08-15T00:00:00-04:00
 title: Basse-Terre (Monday)
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Monday, 08 Aug 2022
+description: 🗓 Monday, 15 Aug 2022
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
-|♈ Aries|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -291,35 +291,14 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'39.58" |Taurus|Dabaran|Moon|
-|♃ Jupiter|Retrograde|9°15'57.08" |Virgo|Awwa|Sun|
-|♂ Mars|Direct|12°2'35.49" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|11°24'57.98" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°22'42.29" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|17°58'16.84" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|12°57'17.56" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
-|♄ Saturn|Mercury|Mercury|Mercury|Mercury|
-|♃ Jupiter|Venus|Venus|Mercury|Jupiter|
-|♂ Mars|Jupiter|Jupiter|Moon|Sun|
-|☉ Sun|Jupiter|Venus|Mars|Mercury|
-|♀ Venus|Mars|Mars|Mercury|Jupiter|
-|☿ Mercury|Mercury|Mercury|Mars|Mercury|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Moon|Mars|Virgo|Moon|Venus|
-|♃ Jupiter|Saturn|Jupiter|Sagittarius|Moon|Venus|
-|♂ Mars|Sun|Venus|Cancer|Moon|Jupiter|
-|☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
-|♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
-|☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -330,35 +309,14 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'39.58" |Gemini|HanAh|Mars|
-|♃ Jupiter|Retrograde|9°15'57.08" |Libra|Ghafr|Moon|
-|♂ Mars|Direct|12°2'35.49" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°24'57.98" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°22'42.29" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|17°58'16.84" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|12°57'17.56" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
-|♄ Saturn|Jupiter|Jupiter|Venus|Mars|
-|♃ Jupiter|Mercury|Venus|Venus|Mercury|
-|♂ Mars|Mercury|Venus|Sun|Jupiter|
-|☉ Sun|Jupiter|Mercury|Venus|Mars|
-|♀ Venus|Saturn|Mars|Venus|Mercury|
-|☿ Mercury|Venus|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Venus|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Saturn|Saturn|Libra|Sun|Mercury|
-|♃ Jupiter|Moon|Jupiter|Capricorn|Sun|Venus|
-|♂ Mars|Venus|Moon|Leo|Sun|Mars|
-|☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
-|♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
-|☿ Mercury|Venus|Mercury|Leo|Sun|Venus|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -372,9 +330,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르

@@ -1,6 +1,6 @@
 ---
-date: 2022-08-10T00:00:00+04:00
-lastmod: 2022-08-10T00:00:00+04:00
+date: 2022-08-13T00:00:00+04:00
+lastmod: 2022-08-13T00:00:00+04:00
 title: Victoria
 slug: victoria
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Wednesday, 10 Aug 2022
+description: 🗓 Saturday, 13 Aug 2022
 
 toc: false
 ---
@@ -203,41 +203,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mercury|The ruler of the night: Sun|
+|The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|00:00:00|23:59:59|Accept the needs|
-|2|Moon|Servant|00:00:00|23:59:59|It's ugly, nothing to do|
-|3|Saturn|Servant|00:00:00|23:59:59|To overcome diseases|
-|4|Jupiter|Servant|00:00:00|23:59:59|For all things, Saadin's goal|
-|5|Mars|Servant|00:00:00|23:59:59|Creating negative energy and disturbing the peace|
-|6|Sun|Servant|00:00:00|23:59:59|The journey of the appearance and the interior|
-|7|Venus|Servant|00:00:00|23:59:59|Attracting love and attracting hearts and hearts|
-|8|Mercury|Ruler|00:00:00|23:59:59|Covering the eyes of the creators|
-|9|Moon|Servant|00:00:00|23:59:59|Separation and Enmity|
-|10|Saturn|Servant|00:00:00|23:59:59|Conquest of the Great|
-|11|Jupiter|Servant|00:00:00|23:59:59|Creating financial attraction and love and conquest|
-|12|Mars|Servant|00:00:00|23:59:59|Creating Evil and Hatred|
+|1|Saturn|Ruler|00:00:00|23:59:59|Works related to amulet, amulet and compliance|
+|2|Jupiter|Servant|00:00:00|23:59:59|Peace among the people|
+|3|Mars|Servant|00:00:00|23:59:59|Malicious deeds and evil deeds|
+|4|Sun|Servant|00:00:00|23:59:59|Conquest, Judgment and Judgment|
+|5|Venus|Servant|00:00:00|23:59:59|It's auspicious|
+|6|Mercury|Servant|00:00:00|23:59:59|Writing, Swapping and Marriage|
+|7|Moon|Servant|00:00:00|23:59:59|For nothing|
+|8|Saturn|Ruler|00:00:00|23:59:59|Destruction of the enemy|
+|9|Jupiter|Servant|00:00:00|23:59:59|All good deeds|
+|10|Mars|Servant|00:00:00|23:59:59|Doing evil deeds|
+|11|Sun|Servant|00:00:00|23:59:59|Acceptance of correction between couples|
+|12|Venus|Servant|00:00:00|23:59:59|To be honored|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|00:00:00|23:59:59|Accept the needs|
-|2|Venus|Servant|00:00:00|23:59:59|It's ugly, nothing to do|
-|3|Mercury|Servant|00:00:00|23:59:59|To overcome diseases|
-|4|Moon|Servant|00:00:00|23:59:59|For all things, Saadin's goal|
-|5|Saturn|Servant|00:00:00|23:59:59|Creating negative energy and disturbing the peace|
-|6|Jupiter|Servant|00:00:00|23:59:59|The journey of the appearance and the interior|
-|7|Mars|Servant|00:00:00|23:59:59|Attracting love and attracting hearts and hearts|
-|8|Sun|Ruler|00:00:00|23:59:59|Covering the eyes of the creators|
-|9|Venus|Servant|00:00:00|23:59:59|Separation and Enmity|
-|10|Mercury|Servant|00:00:00|23:59:59|Conquest of the Great|
-|11|Moon|Servant|00:00:00|23:59:59|Creating financial attraction and love and conquest|
-|12|Saturn|Servant|00:00:00|23:59:59|Creating Evil and Hatred|
+|1|Mercury|Ruler|00:00:00|23:59:59|Works related to amulet, amulet and compliance|
+|2|Moon|Servant|00:00:00|23:59:59|Peace among the people|
+|3|Saturn|Servant|00:00:00|23:59:59|Malicious deeds and evil deeds|
+|4|Jupiter|Servant|00:00:00|23:59:59|Conquest, Judgment and Judgment|
+|5|Mars|Servant|00:00:00|23:59:59|It's auspicious|
+|6|Sun|Servant|00:00:00|23:59:59|Writing, Swapping and Marriage|
+|7|Venus|Servant|00:00:00|23:59:59|For nothing|
+|8|Mercury|Ruler|00:00:00|23:59:59|Destruction of the enemy|
+|9|Moon|Servant|00:00:00|23:59:59|All good deeds|
+|10|Saturn|Servant|00:00:00|23:59:59|Doing evil deeds|
+|11|Jupiter|Servant|00:00:00|23:59:59|Acceptance of correction between couples|
+|12|Mars|Servant|00:00:00|23:59:59|To be honored|
 
  
  
@@ -249,7 +249,7 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mercury|The ruler of the night: Sun|
+|The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour duration: 00:00:00|Every hour duration: 00:00:00|
 
@@ -258,24 +258,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|00:00:00|23:59:59|
-|Mid-morning|Moon|Servant|00:00:00|23:59:59|
-|Late morning|Saturn|Servant|00:00:00|23:59:59|
-|Noon|Jupiter|Servant|00:00:00|23:59:59|
-|Early afternoon|Mars|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Sun|Servant|00:00:00|23:59:59|
-|Late afternoon|Venus|Servant|00:00:00|23:59:59|
+|Early morning|Saturn|Ruler|00:00:00|23:59:59|
+|Mid-morning|Jupiter|Servant|00:00:00|23:59:59|
+|Late morning|Mars|Servant|00:00:00|23:59:59|
+|Noon|Sun|Servant|00:00:00|23:59:59|
+|Early afternoon|Venus|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Mercury|Servant|00:00:00|23:59:59|
+|Late afternoon|Moon|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Sun|Ruler|00:00:00|23:59:59|
-|Late evening|Venus|Servant|00:00:00|23:59:59|
-|Midnight|Mercury|Servant|00:00:00|23:59:59|
-|Late at night|Moon|Servant|00:00:00|23:59:59|
-|Rooster song|Saturn|Servant|00:00:00|23:59:59|
-|False Dawn|Jupiter|Servant|00:00:00|23:59:59|
-|Dawn|Mars|Servant|00:00:00|23:59:59|
+|Evening|Mercury|Ruler|00:00:00|23:59:59|
+|Late evening|Moon|Servant|00:00:00|23:59:59|
+|Midnight|Saturn|Servant|00:00:00|23:59:59|
+|Late at night|Jupiter|Servant|00:00:00|23:59:59|
+|Rooster song|Mars|Servant|00:00:00|23:59:59|
+|False Dawn|Sun|Servant|00:00:00|23:59:59|
+|Dawn|Venus|Servant|00:00:00|23:59:59|
 
 {{< /tab >}}
 
@@ -291,35 +291,14 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'37.78" |Taurus|Dabaran|Moon|
-|♃ Jupiter|Retrograde|9°15'57.50" |Virgo|Awwa|Sun|
-|♂ Mars|Direct|12°2'34.74" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|11°25'13.01" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°22'54.43" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|17°58'27.69" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|12°9'48.25" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
-|♄ Saturn|Mercury|Mercury|Mercury|Mercury|
-|♃ Jupiter|Venus|Venus|Mercury|Jupiter|
-|♂ Mars|Jupiter|Jupiter|Moon|Sun|
-|☉ Sun|Jupiter|Venus|Mars|Mercury|
-|♀ Venus|Mars|Mars|Mercury|Jupiter|
-|☿ Mercury|Mercury|Mercury|Mars|Mercury|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Moon|Mars|Virgo|Moon|Venus|
-|♃ Jupiter|Saturn|Jupiter|Sagittarius|Moon|Venus|
-|♂ Mars|Sun|Venus|Cancer|Moon|Jupiter|
-|☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
-|♀ Venus|Moon|Mercury|Scorpio|Sun|Venus|
-|☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
 
 
 {{< /tab >}}
@@ -330,35 +309,14 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|11°10'37.78" |Gemini|HanAh|Mars|
-|♃ Jupiter|Retrograde|9°15'57.50" |Libra|Ghafr|Moon|
-|♂ Mars|Direct|12°2'34.74" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°25'13.01" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|27°22'54.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|17°58'27.69" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|12°9'48.25" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
-|♄ Saturn|Jupiter|Jupiter|Venus|Mars|
-|♃ Jupiter|Mercury|Venus|Venus|Mercury|
-|♂ Mars|Mercury|Venus|Sun|Jupiter|
-|☉ Sun|Jupiter|Mercury|Venus|Mars|
-|♀ Venus|Saturn|Mars|Venus|Mercury|
-|☿ Mercury|Venus|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Venus|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Saturn|Saturn|Libra|Sun|Mercury|
-|♃ Jupiter|Moon|Jupiter|Capricorn|Sun|Venus|
-|♂ Mars|Venus|Moon|Leo|Sun|Mars|
-|☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
-|♀ Venus|Moon|Mercury|Sagittarius|Moon|Mars|
-|☿ Mercury|Venus|Mercury|Leo|Sun|Venus|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
 
 
 {{< /tab >}}
@@ -372,9 +330,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

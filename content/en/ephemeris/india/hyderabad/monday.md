@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°52'37.21" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°14'8.71" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°52'37.12" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°14'8.72" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°50'21.92" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°11'41.75" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°58'30.60" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|16°32'31.41" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°26'20.64" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|22°11'41.79" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°58'30.68" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|16°32'31.46" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°26'21.30" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°52'37.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°14'8.71" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°52'37.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°14'8.72" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°50'21.92" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°11'41.75" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°58'30.60" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|16°32'31.41" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|1°26'20.64" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°11'41.79" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°58'30.68" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|16°32'31.46" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°26'21.30" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Bhaganagar, HYD, Haidarabadas, Haiderabad, Hajdarabad, Hajdarábád, Hyderabad, Hyderabad-Deccan, Hyderābād, Khajdarabad, Khajderabad, hai de la ba, haidarabada, haidarabadu, haiderabado, haitarapat, hayadarabada ema. karporesana, hayadrabada, hydr abad, hydr abad dkn, hydrabad, Хайдарабад, Хајдерабад, حیدر آباد, حیدر آباد دکن, حیدرآباد, हैदराबाद, হায়দরাবাদ এম. কর্পোরেশন, হায়দ্রাবাদ, ஹைதராபாத், హైదరాబాదు, ハイデラバード, 海得拉巴

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'47.23" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°17'9.11" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°56'47.32" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°17'9.10" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°16'41.81" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°18'20.05" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°50'29.76" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°14'19.49" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°17'0.88" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°18'20.00" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°50'29.68" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°14'19.44" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°17'0.01" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'47.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°17'9.11" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°56'47.32" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°17'9.10" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°16'41.81" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°18'20.05" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°50'29.76" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°14'19.49" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|18°17'0.88" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|21°18'20.00" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°50'29.68" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°14'19.44" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°17'0.01" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Al `Amarah, Al ‘Amārah, Amara, Amarah, Amare, Amaré, `Amara, alʿmart, العمارة, العماره, ‘Amāra

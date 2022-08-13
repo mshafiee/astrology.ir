@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'15.71" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'8.59" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°15'50.31" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°42'35.49" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°48'28.78" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°50'19.67" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°47'41.06" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°4'15.80" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'8.58" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°15'50.32" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°42'35.45" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°48'28.70" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°50'19.61" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°47'40.37" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'15.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'8.59" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°15'50.31" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°42'35.49" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°48'28.78" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°50'19.67" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°47'41.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°4'15.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'8.58" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°15'50.32" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°42'35.45" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°48'28.70" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°50'19.61" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°47'40.37" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Ciudad Trujillo, SDQ, Saint Domingue, Santo Domingo, Santo Domingo City, Santo Domingo de Guzman, Santo Domingo de Guzmán, Santo Ntomin'nko, Santo-Domingo, santodoming-go, Σάντο Ντομίνγκο, Санто-Доминго, 산토도밍고

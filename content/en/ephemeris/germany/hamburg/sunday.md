@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'28.44" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'55.88" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°56'28.34" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'55.89" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°19'16.19" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°22'22.83" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°55'40.21" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°20'19.48" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°27'34.69" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°22'22.88" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°55'40.29" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°20'19.53" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°27'35.56" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'28.44" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'55.88" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°56'28.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'55.89" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°19'16.19" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°22'22.83" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°55'40.21" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°20'19.48" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°27'34.69" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|21°22'22.88" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°55'40.29" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°20'19.53" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°27'35.56" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Amborg, Ambourgo, Amburgo, Amburgu, Augusta Gambriviorum, Ciutat d'Hamburg, Estat d'Hamburg, Gamburg, HAM, HH, Hamboarch, Hamboerg, Hamboerj, Hamborg, Hambourg, Hamburch, Hamburg, Hamburga, Hamburgas, Hamburgo, Hamburgu, Hamburgum, Hamburk, Hambuurich, Hambörg, Hambörj, Hambùrk, Hambûrg, Hamepuka, Hammaburg [a. 832], Hampuri, Hanburgo, Khamburg, ham bur k, hambuleukeu, hamburgi, hambwrg, hambwrgh, han bao, han bao shi, hanburuku, hemburga, hmbwrg, hyambarg, hʼambwrg, Ħamburg, Αμβούργο, Гамбург, Гамбурґ, Хамбург, Համբուրգ, האַמבורג, המבורג, هامبورغ, هامبورگ, ہymbrg, ہیمبرگ, ܗܡܒܘܪܓ, हॅम्बुर्ग, ಹ್ಯಾಂಬರ್ಗ್, ฮัมบูร์ก, ჰამბურგი, ハンブルク, 汉堡, 汉堡市, 漢堡, 함부르크
