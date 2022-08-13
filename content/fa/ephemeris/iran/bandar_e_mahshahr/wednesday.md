@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه|||
 |**☿ تیر**| | |△ تثلیث| | ||
-|**☾ ماه**|□ تربیع| |☌ مقارنه|□ تربیع|□ تربیع|△ تثلیث|
+|**☾ ماه**|✱ تسدیس|☌ مقارنه| |△ تثلیث|△ تثلیث| |
 
 ---
 نام‌های دیگر: Bandar Ma`sbur, Bandar Ma`shur, Bandar Mah Shahr Terminal, Bandar Mah Sharh, Bandar Mah-Shahr, Bandar Mashur, Bandar Ma‘sbur, Bandar Ma‘shūr, Bandar-Mashour, Bandar-e Ma`shur, Bandar-e Mahshahr, Bandar-e Ma‘shūr, Bandar-e Māhshahr, Bandar-mashoor, Bar Andaz, Bār Andāz, MRX, Mah Shahr, Mahshahr, Markaz-e Bargiri-ye Bandar-e Mah Shahr, Markaz-e Bārgīrī-ye Bandar-e Māh Shahr, Mashur, Māhshahr, bndr mahshhr, بندر ماهشهر

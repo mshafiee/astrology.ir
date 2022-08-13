@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه|||
 |**☿ تیر**| | |△ تثلیث| | ||
-|**☾ ماه**|□ تربیع| |☌ مقارنه|□ تربیع|□ تربیع|△ تثلیث|
+|**☾ ماه**|✱ تسدیس|☌ مقارنه| |△ تثلیث|△ تثلیث| |
 
 ---
 نام‌های دیگر: Bala Shahr, Bala Shahr-e Deh Barez, Bālā Shahr, Bālā Shahr-e Deh Bārez, Deh Barez, Deh Bariz, Deh Bārez, Deh Bāriz, Deh Dariz, Deh Dāriz, Dehbarez, Dehbārez, Qal`eh-ye Deh Barez, Qal`eh-ye Deh-e Barez, Qal‘eh-ye Deh Bārez, Qal‘eh-ye Deh-e Bārez, Rudan, Rugan, Rūdān, Rūgan, bala shahr, bala shahri dih bariz, dhbarz, rwdan, rwgan, بالا شَهر, بالا شَهرِ دِه بارِز, دهبارز, رودان, روگَن, قَلعِۀ دِهِ بارِز

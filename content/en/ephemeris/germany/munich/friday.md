@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'26.35" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'52.99" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°6'13.06" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°27'31.08" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°29'17.31" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°27'14.94" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°2'36.54" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'26.44" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'52.98" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°6'13.07" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°27'31.04" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°29'17.23" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°27'14.89" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°2'35.82" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'26.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'52.99" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°6'13.06" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°27'31.08" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°29'17.31" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°27'14.94" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°2'36.54" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|22°5'26.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'52.98" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°6'13.07" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°27'31.04" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°29'17.23" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°27'14.89" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°2'35.82" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Lungsod ng Muenchen, Lungsod ng München, MUC, Minca, Minche, Minga, Minhen, Minhene, Minkhen, Miunchenas, Mjunkhen, Mnichov, Mnichow, Mníchov, Monachium, Monacho, Monaco de Baviera, Monaco di Baviera, Monaco e Baviera, Monacu, Monacu di Baviera, Monacum, Muenchen, Muenegh, Muenhen, Muenih, Munchen, Munhen, Munic, Munich, Munich ed Baviera, Munih, Munike, Munique, Munix, Munkeno, Munkhen, Munîh, Mynihu, Myunxen, Myunxén, Mònacu, Mùnich ëd Baviera, Múnic, Múnich, München, Münegh, Münhen, Münih, mi wnik, mi'unikha, miunkheni, miyunik, mu ni hei, mwinhen, mwnykh, mynkn, myunhen, myunik, myunikha, myunsena, mywnkh, mywnykh, Μόναχο, Минхен, Мюнхен, Мүнхен, Мүнхэн, Мӱнхен, Մյունխեն, מינכן, مونیخ, ميونخ, ميونيخ, میونخ, म्युन्शेन, म्यूनिख, মিউনিখ, மியூனிக், ಮ್ಯೂನಿಕ್, มิวนิก, မြူးနစ်ချ်မြို့, მიუნხენი, ミュンヘン, 慕尼黑, 뮌헨

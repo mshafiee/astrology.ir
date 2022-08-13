@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'21.67" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'50.04" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°6'50.43" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°28'30.31" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°30'32.10" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°28'45.14" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°10'37.55" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'21.77" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'50.03" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°6'50.44" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°28'30.26" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°30'32.02" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°28'45.08" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°10'36.83" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'21.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'50.04" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°6'50.43" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°28'30.31" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°30'32.10" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°28'45.14" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°10'37.55" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|22°5'21.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'50.03" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°6'50.44" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°28'30.26" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°30'32.02" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°28'45.08" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°10'36.83" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Aea, Ea, Oea, TIP, Tarables, Tarabulus, Tarabulus al Gharb, Tarabulus el Gharb, Taràbles, Trables, Trablus, Trablûs, Triboli, Tripili, Tripilí, Tripol, Tripole, Tripoli, Tripolis, Tripolo, Tripoly, Tripołi, Tripul, Tripuli, Trypali, Trypolis, Trìpoli, Trìpuli, Trípol, Trípoli, Trípólí, de li bo li, tarabalasa, tarabulasa, tarabulus, teulipolli, tirippoli, toripori, trabls, trabls  lybya, tripoli, trippeali, trypwly, Ţarābulus, Ţarābulus al Gharb, Τρίπολη, Триполи, Триполі, Трыпалі, Տրիպոլի, טריפאלי, טריפולי, ترابلس, ترىپولى, تەرابلوس, طرابلس, طرابلس، لیبیا, طَرَابُلُس, ताराबूलस, त्रिपोली, ত্রিপোলি, ਤਰਾਬਲਸ, திரிப்பொலி, ട്രിപ്പോളി, ตริโปลี, ཐི་རི་ཕོ་ལི, ტრიპოლი, ትሪፖሊ, Ṭrables, トリポリ, 的黎波里, 트리폴리

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'19.72" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'11.17" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°15'18.63" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°41'45.01" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°47'25.19" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°49'3.35" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°42'44.64" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°4'19.82" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'11.16" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°15'18.64" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°41'44.96" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°47'25.11" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°49'3.29" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°42'43.94" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'19.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'11.17" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°15'18.63" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°41'45.01" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°47'25.19" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°49'3.35" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°42'44.64" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°4'19.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'11.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°15'18.64" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°41'44.96" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°47'25.11" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°49'3.29" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°42'43.94" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, AA¬²±, Οττάβα, Οτταβα, Атава, Отава, Оттавæ, Оттава, Օտտավա, אוטווה, אטאווא, أوتاوا, ئۆتاوا, اتاوا, اوتآوآ, اوٹاوا, اٹاوہ, ओटावा, অটোয়া, ਓਟਾਵਾ, ଓଟାୱା, ஒட்டாவா, ಆಟ್ಟಾವಾ, ഓട്ടവ, ออตตาวา, ཨོ་ཏ་ཝ།, အော့တဝမြို့, ოტავა, ኦታዋ, ᎠᏔᏩ, ᐊᑐᕚ/atavaa, オタワ, 渥太華, 오타와

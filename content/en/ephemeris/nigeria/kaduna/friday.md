@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'11.82" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'43.90" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°8'10.76" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°30'36.16" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°33'12.26" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°31'58.09" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°41'18.69" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'11.91" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'43.89" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°8'10.77" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°30'36.12" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°33'12.19" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°31'58.03" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°41'17.98" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'11.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'43.90" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°8'10.76" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°30'36.16" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°33'12.26" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°31'58.09" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°41'18.69" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|22°5'11.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'43.89" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°8'10.77" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°30'36.12" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°33'12.19" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°31'58.03" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°41'17.98" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: KAD, Kadun, Kaduna, Kaduno, Kàdúná, ka du na, kado~una, kaduna, kadwna, qdwnh, Кадуна, קדונה, كادونا, کادونا, ਕਾਦੂਨਾ, カドゥナ, 卡杜納, 카두나

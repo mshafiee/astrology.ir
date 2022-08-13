@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه|||
 |**☿ تیر**| | |△ تثلیث| | ||
-|**☾ ماه**|□ تربیع| |☌ مقارنه|□ تربیع|□ تربیع|△ تثلیث|
+|**☾ ماه**|✱ تسدیس|☌ مقارنه| |△ تثلیث|△ تثلیث| |
 
 ---
 نام‌های دیگر: Bahtaran, Bakhtaran, Bākhtarān, KSH, Kermansah, Kermansaho, Kermanschah, Kermanshah, Kermanshahan, Kermanshakh, Kermanŝaho, Kermânsâh, Kermānschāh, Kermānshāh, Kermānshāhān, Kirmansah, Kirmanşah, Kirmasan, Kirmaşan, Province de Kermanshah, Provincia de Kermanshah, Provinco Kermansah, Provinco Kermanŝah, Província de Kermanshah, Qahremanshahr, Qahremānshahr, astan krmanshah, ke er man sha he, kerumansha, krmanshah, Керманшах, Кирмоншоҳ, Устони Кирмоншоҳ, استان کرمانشاه, کرمانشاه, کرمانشاه, ケルマーンシャー, 克尔曼沙赫

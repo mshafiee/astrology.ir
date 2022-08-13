@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه|||
 |**☿ تیر**| | |△ تثلیث| | ||
-|**☾ ماه**|✱ تسدیس|☌ مقارنه| |△ تثلیث|△ تثلیث| |
+|**☾ ماه**| | |✱ تسدیس| | |☍ مقابله|
 
 ---
 نام‌های دیگر: Pol-e Zahab, Pol-e Zohab, Pol-e Z̄ahāb, Pol-e Z̄ohāb, Sar-e Pol-e Zahab, Sar-e Pol-e Z̄ahāb, Sar-i-Pul Zuhab, Sar-ī-Pūl Zūhāb, Sari-Pul, Sarpol, Sarpol-e Zahab, Sarpol-e Z̄ahāb, Sarī-Pūl, sr pl dhhab, سر پل ذهاب

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°43'20.85" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°6'53.13" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|28°4'40.77" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°10'30.85" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°29'59.49" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°21'14.98" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°23'56.62" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°43'20.94" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°6'53.12" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|28°4'40.74" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°10'30.81" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°29'59.41" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°21'14.95" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°23'56.82" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°43'20.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°6'53.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°4'40.77" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|24°10'30.85" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|6°29'50.24" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°21'6.92" |Virgo|Simak|Venus|
-|☾ Moon|Direct|29°17'40.15" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|21°43'20.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°6'53.12" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°4'40.74" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|24°10'30.81" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|6°29'59.41" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°21'14.95" |Virgo|Simak|Venus|
+|☾ Moon|Direct|29°23'56.82" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: A-pu-that-pi, AEbu Saby, AUH, Aboe Dhabi, Abou Dabi, Abu Dabi, Abu Dabis, Abu Daby, Abu Daibi, Abu Dhabi, Abu Dhabi Island and Internal Islands City, Abu Dhabi emiraat, Abu Zabi, Abu Zaby, Abu Zabye, Abu Zabyo, Abu Ḍabi, Abu Ḑabi, Abu-Dabi, Abu-Dabi khot, Abu-Dabio, Abu-Dzabi, Abú Dabí, Abú Daibí, Abú Zabí, Abû Daby, Abū Dabī, Abū Z̧aby, Abū Z̧abye, Abū Z̧abyo, Abū Z̧abī, Ampou Ntampi, Ebu Dabi, Ebu Dhabi, a bu zha bi, abu dhabi, abu-dabi, abudabi, abudhabi, abw zby, abwzby, aputapi, jzyrt abwzby wjzr dakhlyt akhry, xa bud abi, Â-pu-tha̍t-pí, Äbu Saby, Əbu-Dabi, Άμπου Ντάμπι, Αμπου Νταμπι, Αμπού Ντάμπι, Абу Даби, Абу-Даби, Абу-Даби хот, Абу-Дабі, Әбу-Даби, Աբու Դաբի, אבו דאבי, أبوظبي, ئەبووزەبی, ابو ظبى, ابوظبی, ابوظہبی, جزيرة أبوظبي وجزر داخلية اخرى, अबु धाबी, अबू धाबी, আবুধাবি, ਅਬੂ ਧਾਬੀ, ଆବୁଧାବି, அபுதாபி, ಅಬು ಧಾಬಿ, അബുദാബി, අබුඩාබි, อาบูดาบี, ཨ་པོའུ་དྷ་པེ།, အဘူဒါဘီမြို့, აბუ-დაბი, አቡ ዳቢ, アブダビ, 阿布扎比, 아부다비

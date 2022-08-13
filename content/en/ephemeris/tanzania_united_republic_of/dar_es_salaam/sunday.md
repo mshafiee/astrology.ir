@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'33.11" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'59.19" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°18'37.01" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°21'21.63" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°54'21.55" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°18'48.31" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°5'59.84" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|21°56'33.01" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'59.20" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°18'37.02" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|21°21'21.67" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°54'21.63" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°18'48.36" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°6'0.70" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'33.11" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'59.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°18'37.01" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°21'21.63" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°54'21.55" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°18'48.31" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°5'59.84" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|21°56'33.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'59.20" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°18'37.02" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°21'21.67" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°54'21.63" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°18'48.36" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°6'0.70" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: DAR, Dar Es Salaam, Dar Es Salam, Dar es Salaam, Dar es Salam, Dar es Salamas, Dar es Salams, Dar es Salám, Dar es-Salaam, Dar es-Salam, Dar əs Salam, Dar-ehs-Salam, Dar-ehs-Salam shaary, Dar-es-Salaam, Dar-es-Salam, Darasalam, Daresalama, Daresalamo, Daressalaam, Daressalam, Daruesselam, Darüsselam, Dárasalám, Dār es Salām, Dāresalāma, Ntar es Salam, Ntontoma, da lei si sa la mu, daleueseusallam, dar alslam, dar-es-salami, dar-xes-salam, dara asa salama, dara esa salama, daralslam, daruesusaramu, san lan gang, tarus'salam, Νταρ ες Σαλάμ, Ντοντόμα, Дар ес Салам, Дар ес-Салаам, Дар-ес-Салам, Дар-эс-Салам, Дар-эс-Салам шаары, דאר א-סלאם, דאר עס סאלאאם, دار السلام, دارالسلام, دارېسسالام, दार अस सलाम, दार एस सलाम, ਦਾਰ ਅਸ ਸਲਾਮ, தாருஸ்ஸலாம், ดาร์-เอส-ซาลาม, ཏ་རེ་སི་ས་ལམ།, ဒါအက်စ် ဆယ်လန်းမြို့, დარ-ეს-სალამი, ダルエスサラーム, 三蘭港, 达累斯萨拉姆, 다르에스살람

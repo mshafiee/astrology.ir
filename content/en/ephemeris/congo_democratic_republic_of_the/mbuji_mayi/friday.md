@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'20.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'49.43" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°6'59.30" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°28'43.81" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°30'49.58" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°29'6.13" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°17'11.52" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|22°5'20.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'49.42" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°6'59.31" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°28'43.77" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°30'49.51" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°29'6.07" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°17'10.80" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи

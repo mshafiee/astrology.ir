@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'18.97" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'6.54" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°28'35.69" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°37'9.68" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°14'29.40" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°42'4.92" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|22°56'53.49" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|21°55'19.06" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'6.53" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°28'35.68" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|21°37'9.63" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°14'29.32" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°42'4.87" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|22°56'52.65" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'18.97" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'6.54" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°28'35.69" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°37'9.68" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°14'29.40" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°42'4.92" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|22°56'53.49" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°55'19.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'6.53" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°28'35.68" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°37'9.63" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°14'29.32" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°42'4.87" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|22°56'52.65" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환

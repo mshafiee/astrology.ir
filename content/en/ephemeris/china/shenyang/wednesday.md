@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°44'17.55" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°7'39.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|27°57'9.78" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|23°58'25.14" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°14'34.64" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°4'25.70" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|26°40'51.62" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°44'17.46" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°7'39.64" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|27°57'9.81" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|23°58'25.18" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°14'34.72" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°4'25.73" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|26°40'51.46" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°44'17.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°7'39.63" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°57'9.78" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|23°58'25.14" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|6°14'34.64" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°4'25.70" |Virgo|Simak|Venus|
-|☾ Moon|Direct|26°40'51.62" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|21°44'17.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°7'39.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°57'9.81" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|23°58'25.18" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|6°14'34.72" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°4'25.73" |Virgo|Simak|Venus|
+|☾ Moon|Direct|26°40'51.46" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Feng-t'ien, Feng-t’ien, Moukden, Mukden, SHE, Sen'gian'nk, Sen-jang, Senjana, Senjang, Senjangas, Senjango, Shehn'jan, Shehn'jan khot, Shen'jan, Shen-yang-hsien, Shen-yang-shih, Shengking, Shenjang, Shenyan, Shenyang, Shenyang Shi, Shunjan, Sim-iong-chhi, Sing-iong, Sjenyang, Swnjyangh, Sím-iông-chhī, Sīng-iòng, Tham Duong, Thẩm Dương, cenyan, chen yang, chen yang shi, san'yanga, sein hyang, sen'yan, senayanga, seon-yang, seon-yang si, shen yang, shen yang shi, shnyang, shnyangh, shynyang, sim-yang, Ŝenjango, Šen-jang, Šenjangas, Šeņjana, Σενγιάνγκ, Шеньян, Шеньяң, Шенјанг, Шънян, Шэньян, Шэньян хот, שן-יאנג, شنيانغ, شنیانگ, شن‌یانگ, شینیانگ, شېنياڭ شەھىرى, शेनयांग, षन्यांग, ਸ਼ੇਨਯਾਂਗ, சென்யாங், ഷെന്യാങ്, เสิ่นหยาง, 沈阳, 沈阳市, 沉阳市, 瀋陽, 瀋陽市, 선양, 선양 시, 심양

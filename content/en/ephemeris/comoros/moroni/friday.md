@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:20:37 |
+| Dawn | 05:20:38 |
 | Sunrise | 06:21:08 |
 | Dhuhr | 12:12:04 |
 | Medium Coeli | 12:12:04 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'34.33" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'57.95" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°5'7.67" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°25'48.84" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°27'6.89" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°24'37.64" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°34'32.92" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|22°5'34.24" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'57.96" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°5'7.66" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°25'48.89" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°27'6.97" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°24'37.70" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°34'33.65" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'34.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'57.95" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°5'7.67" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°25'48.84" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°27'6.89" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°24'37.64" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°34'32.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|22°5'34.24" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'57.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°5'7.66" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°25'48.89" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°27'6.97" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°24'37.70" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°34'33.65" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Maroni, Moroni, Moronio, Moronis, Morony, Moròni, Muruni, Móróní, YVA, mo luo ni, mo ro ni, moloni, moroni, muruni, mwrwny, Μορονί, Мароні, Морони, Мороні, Մորոնի, מורוני, موروني, مورونی, مۆرۆنی, मोरोनी, ਮੋਰੋਨੀ, மூறூனீ, โมโรนี, མོ་རོ་ནི།, მორონი, ሞሮኒ, モロニ, 莫洛尼, 莫羅尼, 모로니

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'44.76" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°23'4.32" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°3'41.86" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°23'35.40" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°24'16.32" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°21'11.94" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°53'47.76" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|22°5'44.67" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°23'4.33" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°3'41.85" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°23'35.44" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°24'16.40" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°21'11.99" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°53'48.49" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'44.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°23'4.32" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°3'41.86" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°23'35.40" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°24'16.32" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°21'11.94" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|18°53'47.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|22°5'44.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°23'4.33" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°3'41.85" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°23'35.44" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°24'16.40" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°21'11.99" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°53'48.49" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Karbala, Karbala', Karbalaa, Karbalo, Karbalá, Karbalā’, Karbila, Karmpala, Kerbala, Kerbela, Kərbəla, Meshed Hussain, Meshed Hussein, Nainawa, Qerbelaja, Shathi'ul-Furat, Vilojati Karbalo, al-Ghadiriya, ka er ba la, kaleuballa, karabala, karbala, karpala, karubara, karubara xian, krbla, krblaʾ, ktrbala, Καρμπάλα, Вилояти Карбало, Карбала, Кербала, Кербела, Քերբելա, כרבלא, מחוז כרבלא, كةربالا, كربلاء, محافظة كربلاء, کربلا, کەربەلا, ڪربلا, करबला, কারবালা, ਕਰਬਲਾ, கர்பலா, കർബല, ქარბალა, カルバラー, カルバラー県, 卡爾巴拉, 카르발라

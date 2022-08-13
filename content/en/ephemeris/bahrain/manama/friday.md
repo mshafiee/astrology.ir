@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'47.78" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°23'6.25" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°3'16.12" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°22'55.39" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°23'25.22" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°20'10.21" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°41'45.96" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|22°5'47.87" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°23'6.24" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°3'16.13" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°22'55.35" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°23'25.14" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°20'10.15" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°41'45.23" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'47.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°23'6.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°3'16.12" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°22'55.39" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°23'25.22" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°20'10.21" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|18°41'45.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|22°5'47.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°23'6.24" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°3'16.13" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°22'55.35" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°23'25.14" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°20'10.15" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°41'45.23" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Al Manama, Al Manamah, Al Manāma, Al Manāmah, Al-Manama, Al-Manamah, Al-Manāmah, Maenamae, Manaama, Manam, Manama, Manamae, Manamah, Manameh, Manamo, Manáma, Manāma, Menama, Mename, Mänamä, WGF, aalmanamat, almnamh, almnamt, mai na ma, mai na mai, manama, mnamh, mnamہ, Μανάμα, Манамæ, Манама, Մանամա, מנאמה, المنامة, المنامه, اَلْمَنَامَة, منامه, منامہ, مەنامە, मनामा, মানামা, ਮਨਾਮਾ, ମାନାମା, மனாமா, മനാമ, มานามา, མ་ན་མ།, მანამა, ማናማ, マナーマ, 麥納瑪, 麦纳麦, 마나마

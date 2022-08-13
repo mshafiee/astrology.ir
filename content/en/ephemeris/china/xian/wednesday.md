@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°44'4.26" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°7'28.74" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|27°58'55.50" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°1'15.38" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°18'11.42" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°8'22.75" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|27°18'21.39" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°44'4.17" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°7'28.75" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|27°58'55.52" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°1'15.42" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°18'11.50" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°8'22.79" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°18'21.22" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°44'4.26" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°7'28.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°58'55.50" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|24°1'15.38" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|6°18'11.42" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°8'22.75" |Virgo|Simak|Venus|
-|☾ Moon|Direct|27°18'21.39" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|21°44'4.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°7'28.75" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°58'55.52" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|24°1'15.42" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|6°18'11.50" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°8'22.79" |Virgo|Simak|Venus|
+|☾ Moon|Direct|27°18'21.22" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Ch'ang-an, Ch'ang-an-hsien, Ch’ang-an, Ch’ang-an-hsien, Hsi Gnan Fu, Hsi-an, Hsi-an-shih, Hsi-ching, Hsi-ching-shih, Hsingan, SIA, Si-Gan-Fu, Sian, Sian', Siana, Sianas, Sianfu, Siano, Siaņa, Siking, Singan, Tay An, Tây An, Xi'an, Xi'an - xi an, Xi'an - 西安, Xi'an Shi, Xian, Xi’an, Xi’an Shi, Xī'ān, si xan, sian si, xi an, xi an shi, Ŝiano, Сиань, شىئەن شەھىرى, ซีอาน, 西安, 西安市, 시안 시

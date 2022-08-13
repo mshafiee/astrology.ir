@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'16.69" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'47.54" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°20'50.35" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°24'52.59" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°58'50.39" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°23'59.90" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°58'23.45" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|21°56'16.60" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'47.55" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°20'50.36" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|21°24'52.63" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°58'50.47" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°23'59.95" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°58'24.31" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'16.69" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'47.54" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°20'50.35" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°24'52.59" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°58'50.39" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°23'59.90" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°58'23.45" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|21°56'16.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'47.55" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°20'50.36" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°24'52.63" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°58'50.47" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°23'59.95" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°58'24.31" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: BCN, Barcellona, Barcellonn-a, Barcelona, Barcelone, Barcelono, Barceluna, Barcelůna, Barcełona, Barcillona, Barcino, Barkelone, Barseloana, Barselon, Barselona, Barselonae, Barselono, Barseluna, Barseluona, Barselóna, Barslon-a, Barsélona, Bartzellona, Bartzelona, Barzelona, Barçellonn-a, Barċellona, Lungsod ng Barcelona, ba sa long na, ba sai luo na, baleusellona, balsaleana, bar se lon a, barasilona, barselona, barsilona, barslwn, barslwna, barsylwna, barsێlۆna, baruserona, brshlwnt, brshlwnہ, brzlwnh, la Ciudad Condal, parcelona, Βαρκελώνη, Барселон, Барселонæ, Барселона, Барселоно, Բարսելոնա, בארצעלאנע, ברצלונה, بارسلون, بارسلونا, بارسیلونا, بارسێلۆنا, برشلونة, برشلونہ, बार्सिलोना, बार्सेलोना, বার্সেলোনা, ਬਾਰਸੀਲੋਨਾ, பார்செலோனா, ബാഴ്സലോണ, บาร์เซโลนา, ບາກເຊໂລນ, བྷར་སེ་ལོ་ནཱ།, ဘာစီလိုနာမြို့, ბარსელონა, ባርሴሎና, バルセロナ, 巴塞罗那, 巴薩隆拿, 바르셀로나

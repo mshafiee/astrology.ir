@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'16.01" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'47.18" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°20'55.99" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°25'0.73" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°59'1.46" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°24'12.58" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°6'48.59" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|21°56'16.11" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'47.17" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°20'55.98" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|21°25'0.68" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°59'1.38" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°24'12.53" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°6'47.72" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'16.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'47.18" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°20'55.99" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°25'0.73" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°59'1.46" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°24'12.58" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°6'48.59" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°56'16.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'47.17" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°20'55.98" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°25'0.68" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°59'1.38" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°24'12.53" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°6'47.72" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Baile Atha Cliath, Baile Átha Cliath, Ciuda de Dublin, Ciudá de Dublín, DUB, Dablin, Diblin, Difelin, Divlyn, Doublino, Dublin, Dublin city, Dublina, Dublinas, Dublini, Dublino, Dublinu, Dublín, Dublîn, Dueblin, Dulenn, Dulyn, Dyflinn, Düblin, Eblana, dabalina, dablin, dablina, daburin, dbln, dblyn, deobeullin, dou bai lin, dublini, dwblyn, taplin, Δουβλίνο, Даблин, Дублин, Дублін, Дъблин, Դուբլին, דבלין, דובלין, دبلن, دوبلين, دوبلین, دۇبلىن, ڈبلن, ډبلن, ܕܒܠܢ, डब्लिन, दब्लिन, ডাবলিন, ਡਬਲਿਨ, டப்லின், ಡಬ್ಲಿನ್, ഡബ്ലിൻ, ดับลิน, དུབ་ལིན།, ဒပ်ဗလင်မြို့, დუბლინი, ደብሊን, ダブリン, 都柏林, 더블린

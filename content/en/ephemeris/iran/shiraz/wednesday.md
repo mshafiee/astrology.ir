@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°43'20.68" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°6'52.89" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|28°4'42.97" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°10'34.33" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°30'3.97" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°21'19.91" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°25'0.68" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°43'20.59" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°6'52.91" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|28°4'43.00" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°10'34.37" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°30'4.05" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°21'19.94" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°25'0.48" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°43'20.68" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°6'52.89" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°4'42.97" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|24°10'34.33" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|6°30'3.97" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°21'19.91" |Virgo|Simak|Venus|
-|☾ Moon|Direct|29°25'0.68" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|21°43'20.59" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°6'52.91" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°4'43.00" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|24°10'34.37" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|6°30'4.05" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°21'19.94" |Virgo|Simak|Venus|
+|☾ Moon|Direct|29°25'0.48" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Chimaz, Chiraz, SYZ, Schiras, Sheroz, Shiraz, Shyraz, Shīrāz, Siraz, Siraza, Sirazas, Sirazo, Siráz, Sjiraz, Sziraz, Xiraz, chi ras, she la zi, shirazi, shirazu, shyraz, silajeu, Ŝirazo, Şiraz, Şîraz, Širaz, Širazas, Šíráz, Šīrāz, Šīrāza, Σιράζ, Шероз, Шираз, Шыраз, Շիրազ, שיראז, شيراز, شیراز, ชีราซ, შირაზი, シーラーズ, 設拉子, 시라즈

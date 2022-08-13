@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|21°53'18.72" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°14'39.40" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°44'47.24" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°2'49.72" |Cancer|Tarf|Moon|
+|♃ Jupiter|Retrograde|8°14'39.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°44'47.22" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°2'49.74" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|3°47'12.81" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|16°19'38.25" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°19'40.64" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|16°19'38.27" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°19'29.86" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: SWU, Sououon, Suigen, Suvon, Suwon, Suwon-si, Suwŏn, shui yuan shi, suvona, suwon, suwonsi, suwxn, swwn, Σούουον, Сувон, سوون, सुवोन, ซูว็อน, 水原市, 수원, 수원시

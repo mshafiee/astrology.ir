@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:30:43 |
 | Sunset | 17:14:56 |
 | Maghrib | 17:39:50 |
-| Isha | 18:50:00 |
+| Isha | 18:50:01 |
 | Sharia Midnight | 23:35:49 |
 | Imum Coeli | 00:30:37 |
 {{< /tab >}}
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:30:43 |
 | Sunset | 17:14:56 |
 | Maghrib | 17:43:27 |
-| Isha | 18:50:00 |
+| Isha | 18:50:01 |
 | Sharia Midnight | 23:30:00 |
 | Imum Coeli | 00:30:37 |
 {{< /tab >}}
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:30:43 |
 | Sunset | 17:14:56 |
 | Maghrib | 17:16:35 |
-| Isha | 19:10:36 |
+| Isha | 19:10:37 |
 | Sharia Midnight | 23:28:59 |
 | Imum Coeli | 00:30:37 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'23.20" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'9.94" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°55'23.11" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'9.95" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°28'6.92" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°36'18.74" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°13'28.74" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°40'54.21" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°23'33.95" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|21°36'18.79" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°13'28.82" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°40'54.26" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°23'34.79" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'23.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'9.94" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°55'23.11" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'9.95" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°28'6.92" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°36'18.74" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°13'28.74" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°40'54.21" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°23'33.95" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|21°36'18.79" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°13'28.82" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°40'54.26" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°23'34.79" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄

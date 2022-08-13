@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'3.97" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'1.20" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°17'26.61" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°45'5.87" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°51'40.75" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°54'9.77" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°30'33.51" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°4'4.06" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'1.19" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°17'26.62" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°45'5.83" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°51'40.67" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°54'9.72" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°30'32.81" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'3.97" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'1.20" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°17'26.61" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°45'5.87" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°51'40.75" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°54'9.77" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|24°30'33.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°4'4.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'1.19" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°17'26.62" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°45'5.83" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°51'40.67" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°54'9.72" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|24°30'32.81" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: GYE, Gouagiakil, Guaiaquil, Guaiaquilum, Guajakil, Guajakil', Guayaquil, Gvajakil, Gvajakila, Gvajakilis, Santiago de Guayaquil, Wayakil, ghwayakyl, gu'a'i'akila, gua ya ji er, guayakiru, gvayakila, gwayakil, gwayakl, gwayakwyl, gwayakywl, kwa yaki l, Γουαγιακίλ, Гвајакил, Гуаякил, Гуаякиль, Гуаякіль, Ґуаякіль, גואיאקיל, غواياكيل, گوآیاکوئل, گوایاکل, گوایاکیول, ग्वायाकिल, ਗੁਆਇਆਕੀਲ, กวายากิล, გუაიაკილი, グアヤキル, 瓜亞基爾, 과야킬

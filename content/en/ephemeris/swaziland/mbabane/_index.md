@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:20:22 |
+| Dawn | 05:20:21 |
 | Sunrise | 06:26:33 |
 | Dhuhr | 12:00:22 |
 | Medium Coeli | 12:00:22 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°0'52.62" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°19'56.99" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°43'30.09" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|20°25'58.08" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|1°43'46.94" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|13°56'10.50" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|5°16'52.75" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|22°0'52.71" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°19'56.98" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°43'30.10" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|20°25'58.04" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|1°43'46.86" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|13°56'10.45" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|5°16'51.98" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°0'52.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°19'56.99" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°43'30.09" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|20°25'58.08" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|1°43'46.94" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|13°56'10.50" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|5°16'52.75" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|22°0'52.71" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°19'56.98" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°43'30.10" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|20°25'58.04" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|1°43'46.86" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|13°56'10.45" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|5°16'51.98" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

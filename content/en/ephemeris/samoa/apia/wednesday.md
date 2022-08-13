@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°44'53.92" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°8'9.44" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|27°52'18.72" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|23°50'37.01" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°4'38.25" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|18°53'32.11" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°55'48.13" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°44'54.01" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°8'9.43" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|27°52'18.69" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|23°50'36.97" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°4'38.17" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|18°53'32.08" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°55'48.26" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°44'53.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°8'9.44" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°52'18.72" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|23°50'37.01" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|6°4'38.25" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°53'32.11" |Virgo|Simak|Venus|
-|☾ Moon|Direct|24°55'48.13" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|21°44'54.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°8'9.43" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°52'18.69" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|23°50'36.97" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|6°4'38.17" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°53'32.08" |Virgo|Simak|Venus|
+|☾ Moon|Direct|24°55'48.26" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'11.32" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'43.62" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°8'15.00" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°30'42.51" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°33'20.58" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°32'8.06" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°45'25.26" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'11.42" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'43.61" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°8'15.01" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°30'42.47" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°33'20.50" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°32'8.01" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°45'24.55" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'11.32" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'43.62" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°8'15.00" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°30'42.51" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°33'20.58" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°32'8.06" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°45'25.26" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|22°5'11.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'43.61" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°8'15.01" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°30'42.47" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°33'20.50" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°32'8.01" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°45'24.55" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: LBV, Libarwil, Liberopolis, Librefille, Librehvil', Librevil, Librevil', Librevila, Librevilis, Libreville, Librevilo, Librvil, Libvil, Limprebil, Limprvil, Liuravila, lbrwl, lbrywyl, li be rx wil, li bo wei er, libaravila, libarevile, libeuleubil, librevhila, librevili, lipravil, lybrfyl, lybrwwyl, lybrwyl, riburuvu~iru, Λιμπρβίλ, Λιμπρεβίλ, Либрвил, Либревил, Либревиль, Лібревіль, Лібрэвіль, Լիբրևիլ, ליברוויל, ליברעוויל, لبرول, لبریویل, ليبرفيل, لیبرویل, لیبرێڤیل, लिबरेविले, लिब्रेव्हिल, ਲਿਬਰਵਿਲ, லிப்ரவில், ลีเบรอวิล, ལིབ་རེ་ཝིལ།, ლიბრევილი, ሊብረቪል, リーブルヴィル, 利伯維爾, 利伯维尔, 리브르빌

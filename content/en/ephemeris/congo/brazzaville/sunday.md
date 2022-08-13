@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'15.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'46.82" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°56'15.59" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'46.81" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°20'58.71" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°25'5.88" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°59'7.29" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°24'19.38" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°0'58.24" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|21°25'5.84" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°59'7.21" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°24'19.32" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°0'57.38" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'15.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'46.82" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°56'15.59" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'46.81" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°20'58.71" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°25'5.88" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°59'7.29" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°24'19.38" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°0'58.24" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|21°25'5.84" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°59'7.21" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°24'19.32" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°0'57.38" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: BZV, Braza, Brazavil, Brazavilis, Brazavilo, Brazzavil', Brazzaville, Maya-Maya, Mprazabil, N'Tamo, beulajabil, brazafyl, brazawyl, brzwwyl, bu la chai wei er, burazavu~iru, Μπραζαβίλ, Браззавиль, ברזוויל, برازافيل, برازاویل, ብራዛቪል, ブラザヴィル, 布拉柴维尔, 브라자빌

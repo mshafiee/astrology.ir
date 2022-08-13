@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه|||
 |**☿ تیر**| | |△ تثلیث| | ||
-|**☾ ماه**|□ تربیع| |☌ مقارنه|□ تربیع|□ تربیع|△ تثلیث|
+|**☾ ماه**|✱ تسدیس|☌ مقارنه| |△ تثلیث|△ تثلیث| |
 
 ---
 نام‌های دیگر: Sedeyyen-e Bala, Sedeyyen-e Bālā, Sedeyyen-e Yek, Sedin-e Yek, Sedīn-e Yek, Seyyedin-e Bala, Seyyedin-e Yek, Seyyedīn-e Bālā, Seyyedīn-e Yek, S̄edīn-e Yek, Tadayyon-e Yek, sdyn yk, tdyn yk, thdyn yk, تدین یک, ثدین یک, سدین یک

@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه|||
 |**☿ تیر**| | |△ تثلیث| | ||
-|**☾ ماه**|□ تربیع| |☌ مقارنه|□ تربیع|□ تربیع|△ تثلیث|
+|**☾ ماه**|✱ تسدیس|☌ مقارنه| |△ تثلیث|△ تثلیث| |
 
 ---
 نام‌های دیگر: Kara Aineh, Qareh Eyni, Qareh Eynī, Seyah Cheshmeh, Siah Chashmeh, Siah Cheshmeh, Siyah Cheshmeh, Siāh Chashmeh, Sīyah Cheshmeh, Sīāh Cheshmeh, qarih ainy, syah chishmih, syh chshmh, سياه چِشمِه, سيه چشمه, قَرِه اِينی

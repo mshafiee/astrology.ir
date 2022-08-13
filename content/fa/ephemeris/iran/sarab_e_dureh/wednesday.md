@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه|||
 |**☿ تیر**| | |△ تثلیث| | ||
-|**☾ ماه**|□ تربیع| |☌ مقارنه|□ تربیع|□ تربیع|△ تثلیث|
+|**☾ ماه**|✱ تسدیس|☌ مقارنه| |△ تثلیث|△ تثلیث| |
 
 ---
 نام‌های دیگر: Sarab Darreh, Sarab Doreh, Sarab Dowrah, Sarab Dowreh, Sarab-e Do Rah, Sarab-e Dowreh, Sarab-e Dureh, Sarabdowreh, Sarāb Darreh, Sarāb Doreh, Sarāb Dowrah, Sarāb Dowreh, Sarāb-e Do Rah, Sarāb-e Dowreh, Sarāb-e Dūreh, Sarābdowreh, srab dwrh, سراب دوره

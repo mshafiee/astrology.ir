@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'16.82" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'5.13" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°55'16.73" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'5.14" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°28'55.44" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°37'38.84" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°15'8.20" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°42'49.36" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°19'18.17" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|21°37'38.88" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°15'8.28" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°42'49.41" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°19'19.01" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'16.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'5.13" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°55'16.73" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'5.14" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°28'55.44" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°37'38.84" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°15'8.20" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°42'49.36" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°19'18.17" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|21°37'38.88" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°15'8.28" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°42'49.41" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°19'19.01" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: ASU, Asounsion, Asounsyon, Asounsyòn, Asounthion, Assumptio, Assuncao, Assuncion, Assunção, Asuncion, Asunciono, Asunción, Asuns'jon, Asuns'on, Asunsaun, Asunsion, Asunsjon, Asunsjona, Asunsjonas, Asunson, Asunsyon, Asunsyun, Asúnsjón, Gunung Berapi Asuncion, La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion, La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción, Nuestra Senora Santa Maria de la Asuncion, Nuestra Señora Santa María de la Asunción, Paraguay, acunciyon, asnshn, asunshion, asunsion, asunsioni, asunsiyona, asusi'ona, aswnsywn, xa sun si xxng, ya song sen, Ασουνθιόν, Ασουνσιόν, Асунсион, Асунсьйон, Асунсьон, Асунсьён, Ասունսյոն, אסונסיאן, אסונסיון, آسونسیون, أسونسيون, ئاسۇنسىئون, اسنشن, اسونسیون, आसुन्सियोन, ਅਸੂੰਸੀਓਨ, அசுன்சியோன், ಅಸೂನ್‌ಸಿಯಾನ್, อะซุนซิออง, ཨ་སུན་སི་འན།, ასუნსიონი, አሱንሲዮን, アスンシオン, 亞松森, 아순시온

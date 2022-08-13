@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°44'8.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°7'31.83" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|27°58'25.55" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°0'27.11" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°17'9.99" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°7'15.60" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|27°7'53.35" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°44'7.94" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°7'31.85" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|27°58'25.58" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°0'27.15" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°17'10.07" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°7'15.63" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°7'53.18" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°44'8.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°7'31.83" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°58'25.55" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|24°0'27.11" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|6°17'9.99" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°7'15.60" |Virgo|Simak|Venus|
-|☾ Moon|Direct|27°7'53.35" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|21°44'7.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°7'31.85" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°58'25.58" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|24°0'27.15" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|6°17'10.07" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°7'15.63" |Virgo|Simak|Venus|
+|☾ Moon|Direct|27°7'53.18" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Daiyienz, T'ai-yuan-shih, TYN, Tai-nguong, Taigiouan, Taijuan, Taijuana, Taijuaņa, Taiyuan, Taiyuan Shi, Taiyuan-fu, Taiyuenum, Taiyüan-fu, Tajjuan', Tajjuean, Tajjuen, Tajjüan, Tajuanas, Tajuano, Tayyuan, Tchaj-juean, Tchaj-jüan, Thai Nguyen, Thai-goan-chhi, Thài-goân-chhī, Thái Nguyên, Tái-nguòng, T’ai-yüan-shih, Yang-ch'u, Yang-ch’ü, Yangku, Yangkü, Yanka, ta'iyu'ana, tai yuan, tai yuan shi, taiwian si, tay ywan, tayy ywan, tayywan, thayyu'ana, thi hywn, Ταϊγιουάν, Таијуан, Тайюань, Тайюен, טאי-יואן, تائی یوآن, تائی‌یوان, تاي يوان, تاییوان, تەييۈەن شەھىرى, ताइयुआन, थाय्युआन, ਤਾਈਯੂਆਨ, ไท่หยวน, 太原, 太原市, 타이위안 시

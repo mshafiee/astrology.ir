@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'9.58" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'4.72" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°16'41.30" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°43'54.81" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°50'10.31" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°52'21.42" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°13'25.94" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°4'9.67" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'4.71" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°16'41.31" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°43'54.77" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°50'10.24" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°52'21.36" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°13'25.24" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'9.58" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'4.72" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°16'41.30" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°43'54.81" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°50'10.31" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°52'21.42" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|24°13'25.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°4'9.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'4.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°16'41.31" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°43'54.77" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°50'10.24" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°52'21.36" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|24°13'25.24" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: IND, Indianapoles, Indianapoli, Indianapolis, Indianapolisa, Indianapolės, Indianapòlis, Indianàpolis, Indianápolis, Indijanapolis, Indiyanapolis, Indyjanapalis, andyanabwlys, ayndyanapwlys, idi'anapolisa, indiaenapolliseu, indianaporisu, indiyanapolis, indiyanapolisa, intiyanapolis, xin deiy næ pho lis, yin di an na bo li si, İndianapolis, Ινδιανάπολη, Індыянапаліс, Індіанаполіс, Индианаполис, Индијанаполис, Ինդիանապոլիս, אינדיאנאפאליס, אינדיאנפוליס, إنديانابوليس, انڈیاناپولس, انڈیاناپولس، انڈیانا, ایندیاناپولیس, इंडियानापोलिस, इन्डियानापोलिस, इन्डियानापोलिस्, इन्दियानापोलिस, ইন্ডিয়ানাপোলিস, ਇੰਡੀਆਨਾਪੋਲਿਸ, இண்டியானாபொலிஸ், อินเดียแนโพลิส, ინდიანაპოლისი, ኢንዲያናፖሊስ, インディアナポリス, 印第安納波利斯, 인디애나폴리스

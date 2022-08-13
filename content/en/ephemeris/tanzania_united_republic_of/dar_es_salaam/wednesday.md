@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:24:07 |
 | Maghrib | 18:40:12 |
 | Isha | 19:19:23 |
-| Sharia Midnight | 23:51:39 |
+| Sharia Midnight | 23:51:40 |
 | Imum Coeli | 00:26:55 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°43'3.70" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°6'38.94" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|28°6'58.70" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°14'12.07" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°34'42.08" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°26'22.26" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°16'33.27" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°43'3.61" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°6'38.95" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|28°6'58.72" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°14'12.10" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°34'42.16" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°26'22.29" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|0°16'33.06" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°43'3.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°6'38.94" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°6'58.70" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|24°14'12.07" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|6°34'42.08" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°26'22.26" |Virgo|Simak|Venus|
-|☾ Moon|Direct|0°16'33.27" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|21°43'3.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°6'38.95" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°6'58.72" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|24°14'12.10" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|6°34'42.16" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°26'22.29" |Virgo|Simak|Venus|
+|☾ Moon|Direct|0°16'33.06" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

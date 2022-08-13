@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:03:56 |
 | Sunset | 18:02:54 |
 | Maghrib | 18:05:20 |
-| Isha | 19:02:35 |
+| Isha | 19:02:34 |
 | Sharia Midnight | 23:34:00 |
 | Imum Coeli | 00:03:51 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'14.76" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'45.79" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°7'47.00" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°29'58.50" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°32'24.68" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°31'0.70" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°35'46.80" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'14.85" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'45.78" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°7'47.01" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°29'58.46" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°32'24.60" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°31'0.65" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°35'46.09" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'14.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'45.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°7'47.00" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°29'58.50" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°32'24.68" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°31'0.70" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°35'46.80" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|22°5'14.85" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'45.78" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°7'47.01" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°29'58.46" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°32'24.60" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°31'0.65" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°35'46.09" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: BZV, Braza, Brazavil, Brazavilis, Brazavilo, Brazzavil', Brazzaville, Maya-Maya, Mprazabil, N'Tamo, beulajabil, brazafyl, brazawyl, brzwwyl, bu la chai wei er, burazavu~iru, Μπραζαβίλ, Браззавиль, ברזוויל, برازافيل, برازاویل, ብራዛቪል, ブラザヴィル, 布拉柴维尔, 브라자빌

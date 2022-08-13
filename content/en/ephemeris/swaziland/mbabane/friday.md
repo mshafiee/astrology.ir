@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 17:34:02 |
 | Maghrib | 17:38:55 |
 | Isha | 18:40:18 |
-| Sharia Midnight | 23:27:12 |
+| Sharia Midnight | 23:27:11 |
 | Imum Coeli | 00:00:27 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'21.99" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'50.43" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°6'49.03" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°28'26.30" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°30'28.46" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°28'40.52" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°25'40.29" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'22.08" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'50.42" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°6'49.04" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°28'26.25" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°30'28.38" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°28'40.47" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°25'39.57" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'21.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'50.43" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°6'49.03" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°28'26.30" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°30'28.46" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°28'40.52" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°25'40.29" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|22°5'22.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'50.42" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°6'49.04" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°28'26.25" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°30'28.38" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°28'40.47" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°25'39.57" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Embabane, Mabane, Mbaban, Mbabane, Mbabaneh, Mbabano, Mbabanė, Mbabàn, Mpampane, QMN, ababane, ambabane, ambabany, eumbabane, impapan, mbaban, mbabane, mbabanh, mbabyn, mbbnh, mo ba ben, mubabane, xam ba bane, Μπαμπάνε, Мбабане, Мбабанэ, Մբաբանե, מבאבאנע, מבבנה, امبابانی, مبابان, مبابانه, مبابانێ, مبابین, अंबाबाने, ਅੰਬਾਬਾਨੇ, இம்பபான், อัมบาบาเน, མ་པ་པན།, მბაბანე, ምባባኔ, ムババーネ, 墨巴本, 음바바네

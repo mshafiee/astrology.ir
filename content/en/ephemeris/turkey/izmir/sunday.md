@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 13:16:10 |
 | Medium Coeli | 13:16:10 |
 | Sunset | 20:07:05 |
-| Maghrib | 20:25:35 |
+| Maghrib | 20:25:34 |
 | Isha | 21:22:43 |
 | Sharia Midnight | 00:32:24 |
 | Imum Coeli | 01:16:04 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'34.27" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°17'0.01" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°56'34.36" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'60.00" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°18'27.13" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°21'6.29" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°54'1.86" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°18'25.53" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°0'40.97" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°21'6.25" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°54'1.78" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°18'25.48" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°0'40.10" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'34.27" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°17'0.01" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°56'34.36" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'60.00" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°18'27.13" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°21'6.29" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°54'1.86" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°18'25.53" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°0'40.97" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|21°21'6.25" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°54'1.78" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°18'25.48" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°0'40.10" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

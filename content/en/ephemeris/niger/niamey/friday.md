@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'8.49" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'41.81" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°8'38.05" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°31'18.88" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°34'6.67" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°33'3.61" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°52'5.87" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°5'8.58" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'41.80" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°8'38.06" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°31'18.84" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°34'6.60" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°33'3.55" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°52'5.16" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'8.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'41.81" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°8'38.05" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°31'18.88" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°34'6.67" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°33'3.61" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°52'5.87" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|22°5'8.58" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'41.80" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°8'38.06" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°31'18.84" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°34'6.60" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°33'3.55" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°52'5.16" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: NIM, Niame, Niamei, Niamej, Niameja, Niamejus, Niameo, Niamey, Niamè, Niamėjus, Nijamej, Níamey, ni ya mei, ni'ami, niame, niamei, nixame, niyame, niyami, nyamy, nyʼmyy, Νιαμέι, Νιαμέυ, Ниамей, Нијамеј, Ніамей, Ніямей, Նիամեյ, ניאמיי, نيامي, نیامی, نیامەی, ܢܝܐܡܝ, नियामे, নিয়ামে, ਨਿਆਮੀ, நியாமி, นีอาเม, ནི་ཡ་མེ།, ნიამეი, ኒያሜ, ニアメ, 尼亞美, 니아메

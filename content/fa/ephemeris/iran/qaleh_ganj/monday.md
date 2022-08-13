@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**|☍ مقابله|△ تثلیث|□ تربیع||||
 |**♀ ناهید**|☍ مقابله|△ تثلیث|□ تربیع|☌ مقارنه|||
 |**☿ تیر**| | |△ تثلیث| | ||
-|**☾ ماه**|✱ تسدیس|☌ مقارنه| |△ تثلیث|△ تثلیث| |
+|**☾ ماه**| | |✱ تسدیس| | |☍ مقابله|
 
 ---
 نام‌های دیگر: Ghal`eh Ganj, Ghal‘eh Ganj, Kalat-i-Ganj, Kalateh-ye Ganj, Kalāt-i-Ganj, Kalāteh-ye Ganj, Mohammadabad, Moḩammadābād, Qal`eh Ganj, Qal`eh-ye Ganj, Qal‘eh Ganj, Qal‘eh-ye Ganj, قلعه گنج

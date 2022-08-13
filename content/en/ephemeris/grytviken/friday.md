@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'21.87" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'12.88" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°15'5.21" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°41'19.61" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°46'56.32" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°48'28.24" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°14'27.07" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°4'21.78" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'12.89" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°15'5.20" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°41'19.65" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°46'56.40" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°48'28.29" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°14'27.78" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'21.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'12.88" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°15'5.21" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°41'19.61" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°46'56.32" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°48'28.24" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|24°14'27.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°4'21.78" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'12.89" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°15'5.20" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°41'19.65" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°46'56.40" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°48'28.29" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|24°14'27.78" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄

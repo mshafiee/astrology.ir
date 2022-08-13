@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'15.32" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'8.34" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°15'53.49" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°42'40.48" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°48'35.14" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°50'27.30" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°49'0.45" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°4'15.42" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'8.33" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°15'53.50" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°42'40.44" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°48'35.06" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°50'27.24" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°48'59.75" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'15.32" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'8.34" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°15'53.49" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°42'40.48" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°48'35.14" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°50'27.30" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°49'0.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°4'15.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'8.33" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°15'53.50" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°42'40.44" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°48'35.06" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°50'27.24" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°48'59.75" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: STI, Sant'jago-de-los-Kabal'eros, Sant'jago-de-los-Trejnta-Kabal'eros, Santiago, Santiago de los Caballeros, Santiago de los Kampagieros, Santjago de los Kabaljerosas, santiagodeloseukabayeloseu, sheng de ya ge, Σαντιάγο δε λος Καμπαγιέρος, Сантьяго-де-лос-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальєрос, סנטיאגו דה לוס קביירוס, سانتیاغو دے لوس کابائیروس, サンティアゴ・デ・ロス・カバリェロス, 聖地牙哥, 산티아고데로스카바예로스

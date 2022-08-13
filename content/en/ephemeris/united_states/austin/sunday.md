@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°54'58.19" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°15'51.56" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°54'58.10" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°15'51.57" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°31'24.66" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°41'37.12" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°20'10.41" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°48'37.82" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°4'29.41" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|21°41'37.16" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°20'10.49" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°48'37.87" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°4'30.24" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°54'58.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°15'51.56" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°54'58.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°15'51.57" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°31'24.66" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°41'37.12" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°20'10.41" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°48'37.82" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|24°4'29.41" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|21°41'37.16" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°20'10.49" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°48'37.87" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|24°4'30.24" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: AUS, Austin, Austino, Austinopolis, Aŭstino, Montopolis, Oscin, Ostin, Ostina, Ostinas, Ostins, Waterloo, ao si ting, asatina, astin, astina, astyn  tgzas, awstn, ke shi dian, oseutin, ostina, ostʼini, osutin, xxstin, Ώστιν, Остин, Остін, Осцін, Օստին, אוסטין, אסטין, آستین، تگزاس, آسٹن, آسٹن، ٹیکساس, أوستن, अस्टिन, अस्तिन, आस्टिन्, ऑस्टिन, অস্টিন, ਆਸਟਿਨ, ஆஸ்டின், ഓസ്റ്റിൻ, ออสติน, ოსტინი, ኦስቲን፣ ቴክሳስ, ᎠᏍᏘᏂ, オースティン, 奧斯汀, 柯士甸, 오스틴

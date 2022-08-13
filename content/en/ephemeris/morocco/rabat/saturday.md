@@ -51,11 +51,11 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:15:41 |
-| Sunrise | 06:47:11 |
+| Sunrise | 06:47:10 |
 | Dhuhr | 13:32:13 |
 | Medium Coeli | 13:32:13 |
 | Sunset | 20:16:44 |
-| Maghrib | 20:36:40 |
+| Maghrib | 20:36:39 |
 | Isha | 21:27:11 |
 | Sharia Midnight | 00:46:43 |
 | Imum Coeli | 01:32:07 |

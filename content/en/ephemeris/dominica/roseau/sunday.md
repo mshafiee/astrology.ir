@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'21.92" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'8.58" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°55'21.83" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'8.59" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°28'12.55" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°36'32.99" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°13'42.62" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°41'11.02" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|22°47'50.16" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|21°36'33.04" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°13'42.70" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°41'11.07" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|22°47'51.00" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'21.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'8.58" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°55'21.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'8.59" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°28'12.55" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°36'32.99" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°13'42.62" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°41'11.02" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|22°47'50.16" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|21°36'33.04" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°13'42.70" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°41'11.07" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|22°47'51.00" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조

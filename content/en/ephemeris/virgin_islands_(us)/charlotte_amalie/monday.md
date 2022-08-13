@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:44:10 |
+| Dawn | 04:44:11 |
 | Sunrise | 06:01:29 |
 | Dhuhr | 12:24:11 |
 | Medium Coeli | 12:24:11 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:44:10 |
+| Dawn | 04:44:11 |
 | Sunrise | 06:01:29 |
 | Dhuhr | 12:24:11 |
 | Medium Coeli | 12:24:11 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°50'49.91" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°12'48.38" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|27°4'45.64" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°34'35.87" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°27'42.29" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|17°5'37.79" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°58'51.54" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°50'49.82" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°12'48.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|27°4'45.65" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°34'35.91" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|4°27'42.37" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|17°5'37.83" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°58'52.01" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°50'49.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°12'48.38" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°4'45.64" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°34'35.87" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|4°27'42.29" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|17°5'37.79" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|6°58'51.54" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°50'49.82" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°12'48.39" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°4'45.65" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°34'35.91" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|4°27'42.37" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|17°5'37.83" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|6°58'52.01" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

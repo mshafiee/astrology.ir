@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'2.52" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°15'54.77" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°55'2.62" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°15'54.76" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°30'48.58" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°40'40.12" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°18'57.66" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°47'14.01" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°49'20.52" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|21°40'40.07" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°18'57.58" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°47'13.97" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°49'19.69" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°55'2.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°15'54.77" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°55'2.62" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°15'54.76" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°30'48.58" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°40'40.12" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°18'57.66" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°47'14.01" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°49'20.52" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|21°40'40.07" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°18'57.58" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°47'13.97" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°49'19.69" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과

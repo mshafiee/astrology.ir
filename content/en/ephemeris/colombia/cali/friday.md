@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'7.53" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'3.44" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|22°4'7.62" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'3.43" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|25°16'57.31" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°44'20.20" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°50'42.38" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°52'59.84" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°16'48.33" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|19°44'20.16" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°50'42.30" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°52'59.79" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°16'47.63" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'7.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'3.44" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|22°4'7.62" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'3.43" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°16'57.31" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°44'20.20" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°50'42.38" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°52'59.84" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|24°16'48.33" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|19°44'20.16" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°50'42.30" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°52'59.79" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|24°16'47.63" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: CLO, Cali, Calium, Cáli, Kali, Kalis, Santiago de Cali, ka li, kali, kalli, kaly, santiago・de・kari, Кали, Калі, סנטיאגו דה קאלי, كالي, کالی, กาลี, サンティアゴ・デ・カリ, 卡利, 칼리

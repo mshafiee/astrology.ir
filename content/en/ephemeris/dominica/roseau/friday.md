@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'21.46" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'12.16" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°15'4.00" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°41'22.90" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°46'56.26" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°48'28.71" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°28'53.07" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|22°4'21.37" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'12.17" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°15'3.99" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°41'22.95" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°46'56.34" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°48'28.76" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°28'53.77" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°4'21.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'12.16" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°15'4.00" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°41'22.90" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°46'56.26" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°48'28.71" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°28'53.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|22°4'21.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'12.17" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°15'3.99" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°41'22.95" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°46'56.34" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°48'28.76" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°28'53.77" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조

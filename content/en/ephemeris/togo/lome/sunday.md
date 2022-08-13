@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'6.93" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'40.72" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°22'7.76" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°26'55.50" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°1'26.69" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°27'0.80" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°25'16.65" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Retrograde|21°56'7.02" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'40.71" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°22'7.75" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|21°26'55.46" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°1'26.61" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°27'0.75" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|20°25'15.79" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'6.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'40.72" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°22'7.76" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°26'55.50" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°1'26.69" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°27'0.80" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°25'16.65" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°56'7.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'40.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°22'7.75" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°26'55.46" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°1'26.61" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°27'0.75" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°25'15.79" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

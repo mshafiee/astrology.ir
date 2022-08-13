@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'31.78" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°22'56.26" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|25°5'27.91" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°26'21.46" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|0°27'47.68" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°25'26.95" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°34'36.54" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|22°5'31.69" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°22'56.27" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|25°5'27.90" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°26'21.50" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|0°27'47.76" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°25'27.01" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°34'37.26" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|22°5'31.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°22'56.26" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°5'27.91" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°26'21.46" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°27'47.68" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°25'26.95" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°34'36.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|22°5'31.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°22'56.27" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°5'27.90" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°26'21.50" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°27'47.76" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°25'27.01" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°34'37.26" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

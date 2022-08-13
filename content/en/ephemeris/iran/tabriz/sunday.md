@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:29:33 |
 | Sunset | 20:19:27 |
 | Maghrib | 20:25:06 |
-| Isha | 21:41:07 |
+| Isha | 21:41:08 |
 | Sharia Midnight | 00:48:50 |
 | Imum Coeli | 01:29:27 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'48.52" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°17'9.95" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°56'48.43" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°17'9.96" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°16'32.41" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°18'4.94" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°50'10.67" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°13'57.36" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|18°15'6.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°18'4.98" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°50'10.75" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°13'57.41" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°15'7.71" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'48.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°17'9.95" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°56'48.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°17'9.96" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°16'32.41" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°18'4.94" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°50'10.67" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°13'57.36" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|18°15'6.84" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|21°18'4.98" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°50'10.75" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°13'57.41" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|18°15'7.71" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
