@@ -34,7 +34,7 @@ Altitude: 524 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:18:33 |
+| Dawn | 04:18:34 |
 | Sunrise | 06:09:18 |
 | Dhuhr | 13:18:00 |
 | Medium Coeli | 13:18:00 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°47'26.20" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°10'11.05" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|27°32'1.75" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|23°18'6.75" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|5°23'11.63" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|18°7'46.86" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|17°23'41.55" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|21°47'26.10" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°10'11.06" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|27°32'1.77" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|23°18'6.79" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|5°23'11.70" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|18°7'46.90" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|17°23'41.62" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°47'26.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°10'11.05" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°32'1.75" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|23°18'6.75" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|5°23'11.63" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°7'46.86" |Virgo|Simak|Venus|
-|☾ Moon|Direct|17°23'41.55" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|21°47'26.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°10'11.06" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°32'1.77" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|23°18'6.79" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|5°23'11.70" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°7'46.90" |Virgo|Simak|Venus|
+|☾ Moon|Direct|17°23'41.62" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

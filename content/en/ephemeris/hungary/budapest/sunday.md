@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Sunset | 19:58:07 |
 | Maghrib | 20:00:01 |
 | Isha | 21:55:32 |
-| Sharia Midnight | 23:45:42 |
+| Sharia Midnight | 23:45:41 |
 | Imum Coeli | 00:48:27 |
 {{< /tab >}}
 
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 19:58:07 |
 | Maghrib | 20:00:01 |
 | Isha | 22:04:11 |
-| Sharia Midnight | 23:45:42 |
+| Sharia Midnight | 23:45:41 |
 | Imum Coeli | 00:48:27 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'31.83" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°16'58.32" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|21°56'31.92" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'58.31" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Direct|26°18'47.45" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|21°21'37.90" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|2°54'42.58" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|15°19'12.69" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°12'44.41" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|21°21'37.86" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|2°54'42.50" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|15°19'12.64" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°12'43.54" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°56'31.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°16'58.32" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°56'31.92" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°16'58.31" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°18'47.45" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°21'37.90" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|2°54'42.58" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°19'12.69" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°12'44.41" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|21°21'37.86" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°54'42.50" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°19'12.64" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°12'43.54" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:26:19 |
 | Sunset | 18:54:15 |
 | Maghrib | 18:55:15 |
-| Isha | 20:10:24 |
+| Isha | 20:10:25 |
 | Sharia Midnight | 23:45:51 |
 | Imum Coeli | 00:26:12 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°38'51.43" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°3'4.95" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|28°40'25.54" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|25°8'12.48" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|7°43'33.33" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|20°40'25.09" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|12°18'20.42" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|21°38'51.34" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°3'4.96" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|28°40'25.57" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|25°8'12.52" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|7°43'33.40" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|20°40'25.12" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|12°18'20.26" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°38'51.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°3'4.95" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°40'25.54" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°8'12.48" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|7°43'33.33" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|20°40'25.09" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|12°18'20.42" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|21°38'51.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°3'4.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°40'25.57" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°8'12.52" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|7°43'33.40" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|20°40'25.12" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|12°18'20.26" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
