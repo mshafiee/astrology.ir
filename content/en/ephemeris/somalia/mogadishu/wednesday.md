@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:02:44 |
 | Sunset | 18:08:12 |
 | Maghrib | 18:09:06 |
-| Isha | 19:15:45 |
+| Isha | 19:15:44 |
 | Sharia Midnight | 23:26:49 |
 | Imum Coeli | 00:02:38 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°43'9.70" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°6'43.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|28°6'9.82" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°12'53.83" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°33'2.01" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°24'33.51" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°57'20.97" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|21°43'9.79" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°6'43.94" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|28°6'9.79" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°12'53.79" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°33'1.94" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°24'33.47" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°57'21.17" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°43'9.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°6'43.96" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°6'9.82" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|24°12'53.83" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|6°33'2.01" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°24'33.51" |Virgo|Simak|Venus|
-|☾ Moon|Direct|29°57'20.97" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|21°43'9.79" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°6'43.94" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°6'9.79" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|24°12'53.79" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|6°33'1.94" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°24'33.47" |Virgo|Simak|Venus|
+|☾ Moon|Direct|29°57'21.17" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: MGQ, Magadiscio, Magadysha, Maqdishu, Mogadiisho, Mogadis, Mogadisas, Mogadischu, Mogadiscio, Mogadish, Mogadisho, Mogadishu, Mogadisjoe, Mogadisju, Mogadisjû, Mogadiso, Mogadiss, Mogadisu, Mogadisxo, Mogadiszu, Mogadixo, Mogadiŝo, Mogadişu, Mogadiš, Mogadišas, Mogadišo, Mogadišu, Mogadíscio, Mogadīšo, Mogaidisiu, Mogaidisiú, Monkantisou, Moqadiso, Moqadişo, Moukdicho, Moukntiso, Mugadiccu, Mugadishu, Mugadiss, Muqdisho, Muqdishow, Muqdishu, Mógadisjú, Xamar, makadisu, meagadisu, mo jia di sha, mo jia di xiu, mo kadi chu, mogadisho, mogadishu, mogadisu, mogadisyu, mogarisu, mqdyshw, mqdyshyw, mukticu, mwgadyshw, mwgdysw, mwghadyshw, mۆgadyshۆ, Μογκαντίσου, Μουκντίσο, Магадыша, Могадишо, Могадишу, Могадішо, Մոգադիշո, מאגאדישו, מוגדישו, مقديشو, مقديشيو, موغادیشو, موگادیشو, مۆگادیشۆ, मोगादिशू, मोगादीशू, মোগাদিশু, ਮਕਦੀਸ਼ੂ, ମୋଗାଡ଼ିସୁ, முக்தீசூ, മൊഗാദിഷു, โมกาดิชู, མོ་ག་དི་ཤུ།, მოგადიშო, ሞቃዲሾ, モガディシュ, 摩加迪休, 摩加迪沙, 모가디슈

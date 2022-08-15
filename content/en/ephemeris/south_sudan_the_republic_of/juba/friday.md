@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°34'1.66" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|7°58'47.12" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|29°18'41.59" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|26°10'22.71" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|9°2'50.23" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°3'38.87" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|25°48'55.75" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|21°34'1.57" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|7°58'47.14" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|29°18'41.63" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|26°10'22.75" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|9°2'50.31" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|22°3'38.90" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°48'55.74" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°34'1.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|7°58'47.12" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°18'41.59" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|26°10'22.71" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|9°2'50.23" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|22°3'38.87" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|25°48'55.75" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|21°34'1.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|7°58'47.14" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°18'41.63" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|26°10'22.75" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|9°2'50.31" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|22°3'38.90" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|25°48'55.74" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Djouba, Dschuba, Dzhuba, Goba, JUB, Juba, Uula, g'wbh, juba, jwba, Джуба, ג'ובה, جوبا, 주바

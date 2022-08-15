@@ -34,7 +34,7 @@ Altitude: 90 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:56:20 |
+| Dawn | 04:56:21 |
 | Sunrise | 06:20:14 |
 | Dhuhr | 13:06:27 |
 | Medium Coeli | 13:06:27 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°51'53.96" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°13'36.54" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|26°56'10.84" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°20'56.13" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°10'17.60" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|16°45'55.10" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°43'27.53" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|21°51'53.87" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°13'36.55" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|26°56'10.85" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°20'56.17" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|4°10'17.68" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|16°45'55.15" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°43'28.13" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°51'53.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°13'36.54" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°56'10.84" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°20'56.13" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|4°10'17.60" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|16°45'55.10" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°43'27.53" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°51'53.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°13'36.55" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°56'10.85" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°20'56.17" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|4°10'17.68" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|16°45'55.15" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°43'28.13" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

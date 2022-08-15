@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:45:32 |
+| Dawn | 04:45:33 |
 | Sunrise | 06:04:38 |
 | Dhuhr | 12:29:17 |
 | Medium Coeli | 12:29:17 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:45:32 |
+| Dawn | 04:45:33 |
 | Sunrise | 06:04:38 |
 | Dhuhr | 12:29:17 |
 | Medium Coeli | 12:29:17 |
@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°30'37.54" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|7°55'37.57" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|29°45'33.17" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|26°54'17.18" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|9°58'49.69" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|23°1'5.45" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|21°30'37.46" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|7°55'37.59" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|29°45'33.21" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|26°54'17.21" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|9°58'49.77" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|23°1'5.48" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|5°9'43.30" |Taurus|Thurayya|Mercury|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°30'37.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|7°55'37.57" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°45'33.17" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|26°54'17.18" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|9°58'49.69" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|23°1'5.45" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|21°30'37.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|7°55'37.59" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°45'33.21" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|26°54'17.21" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|9°58'49.77" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|23°1'5.48" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|5°9'43.30" |Gemini|HanAh|Jupiter|
 
 
