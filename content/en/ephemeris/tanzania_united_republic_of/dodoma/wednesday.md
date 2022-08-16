@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°43'1.10" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|8°6'36.78" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|28°7'19.34" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°14'45.35" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°35'24.48" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°27'8.37" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°23'53.20" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|21°43'1.01" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°6'36.80" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|28°7'19.36" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°14'45.39" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°35'24.56" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°27'8.40" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|0°23'52.99" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°43'1.10" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|8°6'36.78" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°7'19.34" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|24°14'45.35" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|6°35'24.48" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°27'8.37" |Virgo|Simak|Venus|
-|☾ Moon|Direct|0°23'53.20" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|21°43'1.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°6'36.80" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°7'19.36" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|24°14'45.39" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|6°35'24.56" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°27'8.40" |Virgo|Simak|Venus|
+|☾ Moon|Direct|0°23'52.99" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: DOD, Dadoma, Dodom, Dodoma, Dodomao, Dódóma, Idodoma, Ntontoma, do do ma, dodoma, du du ma, duo duo ma, dwdwma, dwdwmh, totoma, Ντοντόμα, Дадома, Додома, Դոդոմա, דאדאמא, דודומה, دودوما, دۆدۆما, ڈوڈوما, डोडोमा, दोदोमा, ਦੋਦੋਮਾ, டொடோமா, โดโดมา, დოდომა, ዶዶማ, ドドマ, 多多马, 杜篤瑪, 도도마
