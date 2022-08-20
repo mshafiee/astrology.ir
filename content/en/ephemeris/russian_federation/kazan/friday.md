@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|29°15'4.03" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|26°4'26.78" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|8°55'17.44" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|21°55'48.87" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|21°55'48.87" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|24°33'15.22" |Aries|Butain|Venus|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|29°15'4.03" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|26°4'26.78" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|8°55'17.44" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|21°55'48.87" |Virgo|Simak|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|21°55'48.87" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|24°33'15.22" |Taurus|HaqAh|Saturn|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Casanum, Caza, Cazã, KZN, Kaasan, Kasa, Kasan, Kasã, Kazan, Kazan', Kazan' osh, Kazana, Kazane, Kazani, Kazanj, Kazano, Kazanė, Kazan’, Kazań, Kazaņa, Kazaň, Kazán, Khuazan, Khusan, Kozan', Kuazan, Kuzon, Qazan, Qozon, ka shan, kajan, kajhana, kazan, kazana, kha san, qazan, Καζάν, Казан, Казань, Казань ош, Казањ, Каꙁанъ, Козань, Кузон, Къазан, Озаҥ, Хусан, Хъазан, Қазан, Ҡazan, Ҡазан, Կազան, קאזאן, قازان, كازان, کازان, कझान, काज़ान, คาซาน, ყაზანი, カザン, 喀山, 카잔

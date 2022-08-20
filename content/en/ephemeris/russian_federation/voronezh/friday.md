@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|29°16'20.69" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|26°6'32.04" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|8°57'56.91" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|21°58'34.51" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|21°58'34.51" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|24°59'56.18" |Aries|Butain|Venus|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|29°16'20.69" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|26°6'32.04" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|8°57'56.91" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|21°58'34.51" |Virgo|Simak|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|21°58'34.51" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|24°59'56.18" |Taurus|HaqAh|Saturn|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: VOZ, Voronej, Voronez, Voroneza, Voronezas, Voronezh, Voronezhskaja oblast', Voronezj, Voroneĵ, Voronež, Voronežas, Voroněž, Voroņeža, Woronesch, Woronesh, Woronez, Woroneż, bolonesi, vu~oroneji, Воронеж, Воронежская область, ヴォロネジ, 보로네시

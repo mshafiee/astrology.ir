@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|1°2'52.40" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|29°1'56.87" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|12°41'38.99" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|25°41'34.39" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|25°41'34.39" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|1°45'49.89" |Gemini|HaqAh|Jupiter|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|1°2'52.40" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|29°1'56.87" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|12°41'38.99" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|25°41'34.39" |Virgo|Simak|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|25°41'34.39" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|1°45'49.89" |Cancer|Nathrah|Venus|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ANK, Anakara, Ancara, Ancyra, Ang-ka-la, Angkara, Angora, Anguriyah, Ankar, Ankara, Ankara khot, Ankaro, Ankuara, Ankura, Ankyra, Ankyra (Ankyra), Anqara, Enguri, Engüri, Enqere, akara, an ka la, angkala, ankara, anqrh, anqrt, xangkara, Ăng-kā-lá, Άγκυρα (Ankyra), Анкара, Анкара хот, Анкъара, Әнкара, Անկարա, אנקארא, אנקרה, آنکارا, أنقرة, ئەنقەرە, انقره, انقرہ, انکرہ, ܐܢܩܪܐ, अंकारा, আঙ্কারা, ਅੰਕਾਰਾ, ଆଙ୍କାରା, அங்காரா, అంకారా, ಅಂಕಾರಾ, അങ്കാറ, อังการา, ཨན་ཁ་ར།, ანკარა, አንካራ, アンカラ, 安卡拉, 앙카라

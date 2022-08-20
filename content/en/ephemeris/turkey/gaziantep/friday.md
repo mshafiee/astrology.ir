@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|29°17'14.34" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|26°8'0.36" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|8°59'48.84" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°0'30.83" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|22°0'30.83" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|25°18'28.13" |Aries|Butain|Venus|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|29°17'14.34" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|26°8'0.36" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|8°59'48.84" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|22°0'30.83" |Virgo|Simak|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|22°0'30.83" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|25°18'28.13" |Taurus|HaqAh|Saturn|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Aintab, Antep, Ayintap, Ayntʻap, Ayıntap, Dilok, Dîlok, GZT, Gazi-Ayintap, Gaziantep, Gaziantepa, Gaziantepas, Gazijantehp, Gazijantep, Guaziantep, Nkaziantep, Qazianteb, Qaziantep, gaji'antepa, gajiantepeu, gaziantepi, gazu~iantepu, jia ji an tai pu, ka si xan tep, Γκαζιαντέπ, Газиантеп, Газијантеп, Газіянтэп, Гъазиантеп, Ґазіантеп, Այնթապ, Գազիանթեպ, גזיאנטפ, عنتاب, غازی عینتاب, گازی ئانتەپ, ਗਜਿਆਂਤੇਪ, กาซีอันเตป, გაზიანთეფი, ガズィアンテプ, 加濟安泰普, 가지안테프

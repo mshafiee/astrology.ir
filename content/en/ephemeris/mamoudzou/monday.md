@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|1°2'55.92" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|29°2'1.85" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|12°41'45.94" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|25°41'40.69" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|25°41'40.69" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|1°44'7.03" |Gemini|HaqAh|Jupiter|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|1°2'55.92" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|29°2'1.85" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|12°41'45.94" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|25°41'40.69" |Virgo|Simak|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|25°41'40.69" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|1°44'7.03" |Cancer|Nathrah|Venus|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Mambutzou, Mamoudzou, Mamoutzou, Mamudzu, Mamutzu, mamuju, Мамудзу, 마무주

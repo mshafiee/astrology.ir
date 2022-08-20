@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|29°18'42.13" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|26°10'23.39" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|9°2'51.26" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°3'39.84" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|22°3'39.84" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|25°49'3.72" |Aries|Thurayya|Venus|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|29°18'42.13" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|26°10'23.39" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|9°2'51.26" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|22°3'39.84" |Virgo|Simak|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|22°3'39.84" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|25°49'3.72" |Taurus|HaqAh|Saturn|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Campala, IKampala, KLA, Kaempaala, Kambaala, Kampal, Kampala, Kampalo, Kanpala, kam pa la, kambala, kampala, kampalla, kan pa la, kanpara, kapala, kmbala, kmpala, qmplh, Καμπάλα, Кампала, Կամպալա, קאמפאלא, קמפלה, كامبالا, كامپالا, كمبالا, کامپالا, کمپالا, کمپالہ, कंपाला, कम्पाला, ਕੰਪਾਲਾ, କାମ୍ପାଲା, கம்பாலா, กัมปาลา, ཀམ་པ་ལ།, კამპალა, ካምፓላ, カンパラ, 坎帕拉, 캄팔라
