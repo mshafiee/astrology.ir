@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°16'18.48" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|7°41'7.77" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|1°37'51.75" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|0°0'22.95" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|13°56'10.81" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|26°51'37.76" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°50'39.99" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|21°16'18.40" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|7°41'7.78" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|1°37'51.79" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|0°0'22.99" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|13°56'10.89" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|26°51'37.80" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°50'39.95" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°16'18.48" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Retrograde|7°41'7.77" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°37'51.75" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|0°0'22.95" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|13°56'10.81" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|26°51'37.76" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|13°50'39.99" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|21°16'18.40" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Retrograde|7°41'7.78" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°37'51.79" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|0°0'22.99" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|13°56'10.89" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|26°51'37.80" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|13°50'39.95" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -371,10 +371,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Boursa, Brossa, Broussa, Brousse, Brusa, Brussa, Burs, Bursa, Bursae, Burso, Prousa, YEI, bu er sa, buleusa, bur sa, bursa, burusa, bwrsa, bwrsh, bwrst, Προύσα, Бурсæ, Бурса, Бурсо, בורסה, برصہ, بورسا, بورصة, بورصه, بورصہ, بۇرسا, बुर्सा, บูร์ซา, ბურსა, ブルサ, 布尔萨, 부르사
