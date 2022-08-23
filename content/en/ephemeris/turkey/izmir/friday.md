@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°3'6.17" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|7°25'59.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|3°20'34.34" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|2°54'30.64" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|17°38'17.10" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|0°6'37.46" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|20°11'58.98" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|21°3'6.25" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|7°25'59.62" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|3°20'34.29" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°54'30.60" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|17°38'17.02" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|0°6'37.41" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°11'59.17" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°3'6.17" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Retrograde|7°25'59.63" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°20'34.34" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|2°54'30.64" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|17°38'17.10" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|0°6'37.46" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|20°11'58.98" |Leo|Zubrah|Mars|
+|♄ Saturn|Retrograde|21°3'6.25" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Retrograde|7°25'59.62" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°20'34.29" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|2°54'30.60" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|17°38'17.02" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|0°6'37.41" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|20°11'59.17" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Azmir, Esmirna, IZM, Ismir, Izmir, Izmira, Izmiras, Izmiro, Smirne, Smyrna, Smyrne, Yazmir, azmyr, izmiri, izumiru, yi zi mi er, İzmir, Σμύρνη, Измир, איזמיר, إزمير, იზმირი, イズミル, 伊兹密尔

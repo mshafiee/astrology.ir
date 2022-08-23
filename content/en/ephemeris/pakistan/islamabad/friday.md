@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:09:43 |
 | Sunset | 18:41:34 |
 | Maghrib | 18:45:45 |
-| Isha | 20:10:38 |
+| Isha | 20:10:37 |
 | Sharia Midnight | 23:25:14 |
 | Imum Coeli | 00:09:34 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°3'38.42" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|7°26'38.63" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|3°16'23.98" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|2°47'21.62" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|17°29'9.71" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|29°59'2.79" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|18°42'30.40" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|21°3'38.50" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|7°26'38.62" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|3°16'23.93" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°47'21.57" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|17°29'9.63" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|29°59'2.74" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|18°42'30.58" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|21°3'38.42" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Retrograde|7°26'38.63" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°16'23.98" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|2°47'21.62" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|17°29'9.71" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|29°59'2.79" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|18°42'30.40" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|21°3'38.50" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Retrograde|7°26'38.62" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°16'23.93" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|2°47'21.57" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|17°29'9.63" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|29°59'2.74" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|18°42'30.58" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
