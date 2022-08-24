@@ -34,10 +34,10 @@ Altitude: 499 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:21:44 |
+| Dawn | 05:21:45 |
 | Sunrise | 06:37:04 |
-| Dhuhr | 13:05:21 |
-| Medium Coeli | 13:05:21 |
+| Dhuhr | 13:05:22 |
+| Medium Coeli | 13:05:22 |
 | Sunset | 19:33:11 |
 | Maghrib | 19:49:32 |
 | Isha | 20:38:18 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 05:13:07 |
 | Sunrise | 06:37:04 |
-| Dhuhr | 13:05:21 |
-| Medium Coeli | 13:05:21 |
+| Dhuhr | 13:05:22 |
+| Medium Coeli | 13:05:22 |
 | Sunset | 19:33:11 |
 | Maghrib | 19:51:56 |
 | Isha | 20:38:18 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 05:11:35 |
 | Sunrise | 06:37:04 |
-| Dhuhr | 13:05:21 |
-| Medium Coeli | 13:05:21 |
+| Dhuhr | 13:05:22 |
+| Medium Coeli | 13:05:22 |
 | Sunset | 19:33:11 |
 | Maghrib | 19:36:55 |
 | Isha | 20:53:21 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:26:46 |
 | Sunrise | 06:37:04 |
-| Dhuhr | 13:05:21 |
-| Medium Coeli | 13:05:21 |
+| Dhuhr | 13:05:22 |
+| Medium Coeli | 13:05:22 |
 | Sunset | 19:33:11 |
 | Maghrib | 19:36:55 |
 | Isha | 20:43:17 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 05:03:54 |
 | Sunrise | 06:37:04 |
-| Dhuhr | 13:05:21 |
-| Medium Coeli | 13:05:21 |
+| Dhuhr | 13:05:22 |
+| Medium Coeli | 13:05:22 |
 | Sunset | 19:33:11 |
 | Maghrib | 19:36:55 |
 | Isha | 20:55:53 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 05:11:35 |
 | Sunrise | 06:37:04 |
-| Dhuhr | 13:05:21 |
-| Medium Coeli | 13:05:21 |
+| Dhuhr | 13:05:22 |
+| Medium Coeli | 13:05:22 |
 | Sunset | 19:33:11 |
 | Maghrib | 19:36:55 |
 | Isha | 20:58:25 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 05:09:02 |
 | Sunrise | 06:37:04 |
-| Dhuhr | 13:05:21 |
-| Medium Coeli | 13:05:21 |
+| Dhuhr | 13:05:22 |
+| Medium Coeli | 13:05:22 |
 | Sunset | 19:33:11 |
 | Maghrib | 19:36:55 |
 | Isha | 21:06:55 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|20°59'39.59" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|7°21'45.49" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|3°47'15.73" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|3°40'26.43" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|18°36'52.12" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|0°54'21.79" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|29°58'54.26" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|20°59'39.51" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|7°21'45.50" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|3°47'15.79" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°40'26.48" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|18°36'52.20" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|0°54'21.84" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|29°58'53.93" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|20°59'39.59" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Retrograde|7°21'45.49" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°47'15.73" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|3°40'26.43" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|18°36'52.12" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|0°54'21.79" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|29°58'54.26" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|20°59'39.51" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Retrograde|7°21'45.50" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°47'15.79" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|3°40'26.48" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|18°36'52.20" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|0°54'21.84" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|29°58'53.93" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
