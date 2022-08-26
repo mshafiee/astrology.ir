@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|20°50'11.89" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|7°9'29.57" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|5°0'30.21" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|5°47'59.39" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|21°19'35.68" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|2°57'59.47" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|27°18'51.72" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|20°50'11.81" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|7°9'29.59" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|5°0'30.27" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|5°47'59.44" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°19'35.77" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|2°57'59.52" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|27°18'51.21" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|20°50'11.89" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Retrograde|7°9'29.57" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°0'30.21" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|5°47'59.39" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|21°19'35.68" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|2°57'59.47" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|27°18'51.72" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|20°50'11.81" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Retrograde|7°9'29.59" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°0'30.27" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|5°47'59.44" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|21°19'35.77" |Leo|Zubrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|2°57'59.52" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|27°18'51.21" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함
