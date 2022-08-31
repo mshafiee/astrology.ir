@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°6'1.81" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|7°44'11.76" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|23°47'50.03" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|4°38'3.19" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|4°38'3.19" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|23°1'3.94" |Virgo|Simak|Mercury|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°6'1.81" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|7°44'11.76" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|23°47'50.03" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|4°38'3.19" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°38'3.19" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|23°1'3.94" |Libra|Jubana|Jupiter|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함

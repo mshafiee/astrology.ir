@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|6°5'6.70" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|7°42'35.06" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|23°45'45.36" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|4°36'45.64" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|4°36'45.64" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|22°48'4.49" |Virgo|Simak|Mercury|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°5'6.70" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|7°42'35.06" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|23°45'45.36" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|4°36'45.64" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°36'45.64" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|22°48'4.49" |Libra|Jubana|Jupiter|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: SAH, Sano, San'ah, San`a', Sana, Sana'a, Sana'a', Sanaa, Sanaà, Sanaá, San’ah, sa na, sana, sanua, snʿaʾ, Şana‘ā', Şan‘ā’, Σάνα, Сана, Санъо, צנעא, صنعاء, ሳና, サヌア, 萨那, 사나

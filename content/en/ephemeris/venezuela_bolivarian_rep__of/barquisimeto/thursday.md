@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:24:32 |
-| Sunrise | 06:28:12 |
+| Sunrise | 06:28:13 |
 | Dhuhr | 12:37:23 |
 | Medium Coeli | 12:37:23 |
 | Sunset | 18:46:26 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:17:28 |
-| Sunrise | 06:28:12 |
+| Sunrise | 06:28:13 |
 | Dhuhr | 12:37:23 |
 | Medium Coeli | 12:37:23 |
 | Sunset | 18:46:26 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:16:13 |
-| Sunrise | 06:28:12 |
+| Sunrise | 06:28:13 |
 | Dhuhr | 12:37:23 |
 | Medium Coeli | 12:37:23 |
 | Sunset | 18:46:26 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:28:40 |
-| Sunrise | 06:28:12 |
+| Sunrise | 06:28:13 |
 | Dhuhr | 12:37:23 |
 | Medium Coeli | 12:37:23 |
 | Sunset | 18:46:26 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:09:59 |
-| Sunrise | 06:28:12 |
+| Sunrise | 06:28:13 |
 | Dhuhr | 12:37:23 |
 | Medium Coeli | 12:37:23 |
 | Sunset | 18:46:26 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:16:13 |
-| Sunrise | 06:28:12 |
+| Sunrise | 06:28:13 |
 | Dhuhr | 12:37:23 |
 | Medium Coeli | 12:37:23 |
 | Sunset | 18:46:26 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:14:09 |
-| Sunrise | 06:28:12 |
+| Sunrise | 06:28:13 |
 | Dhuhr | 12:37:23 |
 | Medium Coeli | 12:37:23 |
 | Sunset | 18:46:26 |
@@ -204,18 +204,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:18:14|Night duration: 11:41:43|
+|Duration of the day: 12:18:13|Night duration: 11:41:43|
 |Every hour of day duration: 01:01:31|Every hour of night duration: 00:58:29|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:28:12|07:29:42|Attracting material things, earning sustenance and ample living|
-|2|Mars|Servant|07:29:43|08:31:13|Destruction of the enemy|
-|3|Sun|Servant|08:31:14|09:32:44|Attracting financial and heartfelt love|
-|4|Venus|Servant|09:32:45|10:34:15|Creating love, bond and marriage|
-|5|Mercury|Servant|10:34:16|11:35:46|The obstruction of lust|
-|6|Moon|Servant|11:35:47|12:37:18|The journey of the appearance and the interior|
+|1|Jupiter|Ruler|06:28:13|07:29:43|Attracting material things, earning sustenance and ample living|
+|2|Mars|Servant|07:29:44|08:31:14|Destruction of the enemy|
+|3|Sun|Servant|08:31:15|09:32:45|Attracting financial and heartfelt love|
+|4|Venus|Servant|09:32:46|10:34:16|Creating love, bond and marriage|
+|5|Mercury|Servant|10:34:17|11:35:47|The obstruction of lust|
+|6|Moon|Servant|11:35:48|12:37:18|The journey of the appearance and the interior|
 |7|Saturn|Servant|12:37:19|13:38:49|Acquiring status and attracting capability|
 |8|Jupiter|Ruler|13:38:50|14:40:20|Attracting happiness and bliss|
 |9|Mars|Servant|14:40:21|15:41:51|Achieving status and creating rank growth|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:18:14|Night duration: 11:41:43|
+|Duration of the day: 12:18:13|Night duration: 11:41:43|
 |Every hour duration: 01:45:28|Every hour duration: 01:40:15|
 
  
@@ -258,11 +258,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|06:28:12|08:13:38|
-|Mid-morning|Mars|Servant|08:13:39|09:59:06|
-|Late morning|Sun|Servant|09:59:07|11:44:34|
-|Noon|Venus|Servant|11:44:35|13:30:01|
-|Early afternoon|Mercury|Servant|13:30:02|15:15:29|
+|Early morning|Jupiter|Ruler|06:28:13|08:13:39|
+|Mid-morning|Mars|Servant|08:13:40|09:59:07|
+|Late morning|Sun|Servant|09:59:08|11:44:34|
+|Noon|Venus|Servant|11:44:35|13:30:02|
+|Early afternoon|Mercury|Servant|13:30:03|15:15:29|
 |Mid-afternoon|Moon|Servant|15:15:30|17:00:57|
 |Late afternoon|Saturn|Servant|17:00:58|18:46:25|
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|20°36'20.63" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|6°49'47.85" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|6°47'36.63" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°59'3.35" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|25°23'18.59" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|5°35'27.35" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|10°0'55.31" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|20°36'20.55" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|6°49'47.86" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|6°47'36.74" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°59'3.43" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|25°23'18.72" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|5°35'27.42" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|10°0'57.06" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|20°36'20.63" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Retrograde|6°49'47.85" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°47'36.63" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|8°59'3.35" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|25°23'18.59" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|5°35'27.35" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|10°0'55.31" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|20°36'20.55" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Retrograde|6°49'47.86" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°47'36.74" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|8°59'3.43" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|25°23'18.72" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°35'27.42" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|10°0'57.06" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
