@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|7°41'7.62" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|10°36'41.09" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|27°27'51.72" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|6°41'5.57" |Virgo|Awwa|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|6°41'5.57" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|2°29'32.25" |Scorpio|Akleel|Mars|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|7°41'7.62" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|10°36'41.09" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|27°27'51.72" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|6°41'5.57" |Libra|Ghafr|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|6°41'5.57" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|2°29'32.25" |Sagittarius|Shaulah|Mercury|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: DOK, Daneck, Donec'k, Doneck, Doneck osh, Donecka, Doneckas, Donecko, Donesk, Donetk, Donetsk, Donetsk i Ukraina, Donezk, Donețk, Donieck, Donietsk, Donjeck, Doněck, Dońeck, Doņecka, Hughesovka, Jusowka, Juzivka, Juzovka, Ntonetsk, Stalin, Staline, Stalino, Yuzovka, Yuzovo, deanerrsk, do net skh, donecheukeu, donetska, donetsu~iku, dun nie ci ke, dwntsk, dwnytsk, dwnzq, tonetsk, Ντονέτσκ, Данецк, Донецк, Донецк ош, Донецьк, Доњецк, Сталино, Сталіне, Сталіно, Юзовка, Юзівка, Դոնեցկ, דונצק, دونتسک, دونيتسك, دونیتسک, دۆنێتسک, दोनेत्स्क, தோனெத்ஸ்க், ഡൊണെറ്റ്സ്ക്, โดเนตสค์, დონეცკი, ドネツィク, 頓涅茨克, 도네츠크

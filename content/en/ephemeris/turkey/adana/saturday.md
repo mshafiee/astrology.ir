@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|7°41'36.25" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|10°37'34.36" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|27°28'59.27" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|6°41'38.60" |Virgo|Awwa|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|6°41'38.60" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|2°42'23.99" |Scorpio|Akleel|Mars|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|7°41'36.25" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|10°37'34.36" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|27°28'59.27" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|6°41'38.60" |Libra|Ghafr|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|6°41'38.60" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|2°42'23.99" |Sagittarius|Shaulah|Mercury|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나
