@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|20°29'23.82" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|6°39'6.22" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|7°41'27.67" |Taurus|Thurayya|Mercury|
+|♂ Mars|Pre-Retrograde Shadow|7°41'27.67" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|10°37'18.61" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|27°28'39.17" |Cancer|Jabhah|Moon|
 |☿ Mercury|Pre-Retrograde Shadow|6°41'28.94" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|20°29'23.82" |Aquarius|SaadAlAkhbia|Moon|
 |♃ Jupiter|Retrograde|6°39'6.22" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°41'27.67" |Gemini|HanAh|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|7°41'27.67" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|10°37'18.61" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|27°28'39.17" |Leo|Sarfrah|Mars|
 |☿ Mercury|Pre-Retrograde Shadow|6°41'28.94" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포

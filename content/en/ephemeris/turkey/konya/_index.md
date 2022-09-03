@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|20°29'20.87" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|6°39'1.55" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|7°41'50.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Pre-Retrograde Shadow|7°41'50.65" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|10°38'0.83" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|27°29'33.06" |Cancer|Jabhah|Moon|
 |☿ Mercury|Pre-Retrograde Shadow|6°41'54.85" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|20°29'20.87" |Aquarius|SaadAlAkhbia|Moon|
 |♃ Jupiter|Retrograde|6°39'1.55" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°41'50.65" |Gemini|HanAh|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|7°41'50.65" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|10°38'0.83" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|27°29'33.06" |Leo|Sarfrah|Mars|
 |☿ Mercury|Pre-Retrograde Shadow|6°41'54.85" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Conia, Iconio, Iconium, Ikonio, Ikoniow, KYA, Ko'niya, Kon'ja, Koni, Konia, Konieh, Konija, Konja, Konjao, Konya, Koʻniya, Kuniyah, Kuon'ja, Qonia, Qonya, Qonye, ke ni ya, kean'ya, kon'ya, konia, qwnyh, qwnyt, Ικόνιο, Кония, Конија, Конья, Къонья, Կոնիա, קוניה, قونية, قونیه, قونیہ, कोन्या, കോന്യ, კონია, コンヤ, 科尼亞, 코니아

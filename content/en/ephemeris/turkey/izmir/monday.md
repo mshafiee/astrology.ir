@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|20°21'14.57" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Retrograde|6°25'48.52" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|8°44'54.47" |Taurus|Dabaran|Mercury|
+|♂ Mars|Pre-Retrograde Shadow|8°44'54.47" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|12°35'9.86" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|29°58'59.80" |Cancer|Jabhah|Moon|
 |☿ Mercury|Pre-Retrograde Shadow|7°45'11.14" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|20°21'14.57" |Aquarius|SaadAlAkhbia|Moon|
 |♃ Jupiter|Retrograde|6°25'48.52" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°44'54.47" |Gemini|HanAh|Jupiter|
+|♂ Mars|Pre-Retrograde Shadow|8°44'54.47" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|12°35'9.86" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|29°58'59.80" |Leo|Sarfrah|Mars|
 |☿ Mercury|Pre-Retrograde Shadow|7°45'11.14" |Libra|Ghafr|Moon|
@@ -372,9 +372,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Azmir, Esmirna, IZM, Ismir, Izmir, Izmira, Izmiras, Izmiro, Smirne, Smyrna, Smyrne, Yazmir, azmyr, izmiri, izumiru, yi zi mi er, İzmir, Σμύρνη, Измир, איזמיר, إزمير, იზმირი, イズミル, 伊兹密尔

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|20°29'22.72" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Retrograde|6°39'4.48" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|7°41'36.25" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|10°37'34.36" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|27°28'59.27" |Cancer|Jabhah|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|6°41'38.60" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|2°42'23.99" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|20°29'22.79" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|6°39'4.46" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|7°41'36.16" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|10°37'34.32" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|27°28'59.20" |Cancer|Jabhah|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|6°41'38.57" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°42'22.86" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|20°29'22.72" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Retrograde|6°39'4.48" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°41'36.25" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|10°37'34.36" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|27°28'59.27" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|6°41'38.60" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°42'23.99" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|20°29'22.79" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Retrograde|6°39'4.46" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|7°41'36.16" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|10°37'34.32" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|27°28'59.20" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|6°41'38.57" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°42'22.86" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나
