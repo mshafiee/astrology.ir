@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|9°45'19.19" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|14°29'39.46" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|2°25'3.28" |Leo|Jabhah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|8°28'49.63" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|8°28'49.63" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|28°55'49.59" |Sagittarius|Baldah|Saturn|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Pre-Retrograde Shadow|9°45'19.19" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|14°29'39.46" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|2°25'3.28" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Pre-Retrograde Shadow|8°28'49.63" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°28'49.63" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|28°55'49.59" |Capricorn|SaadAlSaud|Sun|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Carcovia, Carcóvia, Charcovia, Charkiv, Charkiw, Charkov, Charkovas, Charkow, Charków, HRK, Harkiv, Harkiva, Harkivo, Harkov, Harkova, Jarkov, Khar'kov, Kharkiv, Kharkov, Khar’kov, ha er ke fu, haleukiu, harikofu, hrqwb, kaleukipeu, kalipeu, kharkwf, Ĥarkivo, Ĥarkov, Харков, Харків, Харьков, חרקוב, خاركوف, ხარკოვი, ハリコフ, 哈爾科夫, 카르키프, 카리프, 하르키우
