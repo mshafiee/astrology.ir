@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°51'8.51" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|5°28'57.38" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|12°42'42.50" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|20°21'6.97" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|9°53'14.98" |Leo|Zubrah|Saturn|
-|☿ Mercury|Retrograde|8°26'52.56" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|24°53'59.65" |Pisces|Rescha|Mars|
+|♄ Saturn|Retrograde|19°51'8.57" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|5°28'57.34" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|12°42'42.35" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|20°21'6.94" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|9°53'14.91" |Leo|Zubrah|Saturn|
+|☿ Mercury|Retrograde|8°26'52.54" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|24°53'58.87" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°51'8.51" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|5°28'57.38" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|12°42'42.50" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|20°21'6.97" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|9°53'14.98" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|8°26'52.56" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|24°53'59.65" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|19°51'8.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|5°28'57.34" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|12°42'42.35" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|20°21'6.94" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|9°53'14.91" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|8°26'52.54" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|24°53'58.87" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Campala, IKampala, KLA, Kaempaala, Kambaala, Kampal, Kampala, Kampalo, Kanpala, kam pa la, kambala, kampala, kampalla, kan pa la, kanpara, kapala, kmbala, kmpala, qmplh, Καμπάλα, Кампала, Կամպալա, קאמפאלא, קמפלה, كامبالا, كامپالا, كمبالا, کامپالا, کمپالا, کمپالہ, कंपाला, कम्पाला, ਕੰਪਾਲਾ, କାମ୍ପାଲା, கம்பாலா, กัมปาลา, ཀམ་པ་ལ།, კამპალა, ካምፓላ, カンパラ, 坎帕拉, 캄팔라

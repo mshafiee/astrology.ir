@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:47:44 |
+| Dawn | 04:47:43 |
 | Sunrise | 06:04:07 |
 | Dhuhr | 12:14:23 |
 | Medium Coeli | 12:14:23 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°47'52.66" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|5°21'56.87" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|13°9'0.76" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°15'31.49" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|11°2'35.61" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|8°5'50.14" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|7°11'18.34" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|19°47'52.73" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|5°21'56.83" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|13°9'0.60" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°15'31.47" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|11°2'35.55" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|8°5'50.12" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|7°11'17.44" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°47'52.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|5°21'56.87" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|13°9'0.76" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|21°15'31.49" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|11°2'35.61" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|8°5'50.14" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|7°11'18.34" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|19°47'52.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|5°21'56.83" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|13°9'0.60" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|21°15'31.47" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|11°2'35.55" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|8°5'50.12" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|7°11'17.44" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
