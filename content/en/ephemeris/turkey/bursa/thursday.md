@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°44'12.14" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°13'49.62" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|13°38'49.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°38'49.59" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°18'0.10" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|12°22'13.06" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°34'25.31" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°44'12.14" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°13'49.62" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|13°38'49.59" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°38'49.59" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|22°18'0.10" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|12°22'13.06" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°34'25.31" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Boursa, Brossa, Broussa, Brousse, Brusa, Brussa, Burs, Bursa, Bursae, Burso, Prousa, YEI, bu er sa, buleusa, bur sa, bursa, burusa, bwrsa, bwrsh, bwrst, Προύσα, Бурсæ, Бурса, Бурсо, בורסה, برصہ, بورسا, بورصة, بورصه, بورصہ, بۇرسا, बुर्सा, บูร์ซา, ბურსა, ブルサ, 布尔萨, 부르사

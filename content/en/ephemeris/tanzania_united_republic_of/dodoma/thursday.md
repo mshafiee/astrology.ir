@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°44'14.10" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°13'54.16" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|13°38'33.97" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°38'33.97" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°17'26.03" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|12°21'30.15" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°34'43.05" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°44'14.10" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°13'54.16" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|13°38'33.97" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°38'33.97" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|22°17'26.03" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|12°21'30.15" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°34'43.05" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: DOD, Dadoma, Dodom, Dodoma, Dodomao, Dódóma, Idodoma, Ntontoma, do do ma, dodoma, du du ma, duo duo ma, dwdwma, dwdwmh, totoma, Ντοντόμα, Дадома, Додома, Դոդոմա, דאדאמא, דודומה, دودوما, دۆدۆما, ڈوڈوما, डोडोमा, दोदोमा, ਦੋਦੋਮਾ, டொடோமா, โดโดมา, დოდომა, ዶዶማ, ドドマ, 多多马, 杜篤瑪, 도도마

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°41'40.17" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|5°8'5.05" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|13°59'28.56" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°1'50.07" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|13°18'3.82" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|19°41'40.23" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|5°8'5.01" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|13°59'28.39" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°1'50.06" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|13°18'3.76" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°7'51.07" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|0°24'44.58" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°24'43.74" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°41'40.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|5°8'5.05" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|13°59'28.56" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|23°1'50.07" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|13°18'3.82" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|19°41'40.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|5°8'5.01" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°59'28.39" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|23°1'50.06" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|13°18'3.76" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°7'51.07" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|0°24'44.58" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°24'43.74" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Chan'nktsoou, Chang-cou, Chang-čou, HGH, Hancheum, Hanchow-fu, Hanczou, Handzou, Handžou, Hang, Hang Chau, Hang-chiu-chhi, Hang-chou, Hang-chou-shih, Hang-hsien, Hangchow, Hangcsou, Hangdzou, Hangdžou, Hanggouo, Hangtsjou, Hangzcouh, Hangzhou, Hangzhou Shi, Hangĝoŭo, Hančžou, Hong-chu-su, Hong-ciu, Hàng Châu, Hâng-chiu-chhī, Hòng-chû-sṳ, Hòng-ciŭ, Khanchzhou, Khandzhou, Khangdzou, Khanzhou, Xanchjou, hang cow, hang zhou, hang zhou shi, hangacau, hangajho'u, hanghtshw, hangjeou, hangjeou si, hangju, hangzhw, hanjha, hannaco, hʼnggwʼw, kancu, Χανγκτσόου, Хангџоу, Ханджоу, Ханжоу, Ханчжоу, האנגגואו, خاڭجۇ شەھىر, هانغتشو, هانگژو, ہانگژو, हांगचौ, हांगझोऊ, ਹਾਂਙਚੋ, காங்சூ, ഹാങ്ഝൗ, หางโจว, ཧང་ཀྲོའུ།, 杭州, 杭州市, 항저우, 항저우 시, 항주

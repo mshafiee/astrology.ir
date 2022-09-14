@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°41'43.75" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|5°8'13.23" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|13°58'59.65" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°0'48.09" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|13°16'45.03" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|19°41'43.82" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|5°8'13.18" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|13°58'59.48" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°0'48.08" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|13°16'44.97" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°8'30.65" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|0°12'13.59" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°12'12.75" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°41'43.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|5°8'13.23" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|13°58'59.65" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|23°0'48.09" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|13°16'45.03" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|19°41'43.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|5°8'13.18" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°58'59.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|23°0'48.08" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|13°16'44.97" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°8'30.65" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|0°12'13.59" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°12'12.75" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Binh Nhuong, Bình Nhưỡng, FNJ, Heijo, Heijo-fu, Heijō, Heijō-fu, Heizyo, Heizyo Hu, Heizyō, Heizyō Hu, Hpyeng-yang, P'yongyang, P'yongyang-si, P'yŏngyang, P'yŏngyang-si, P-hjong-jang, P-hjöng-jang, Pchenjanas, Pchjongjang, Phenian, Phenjan, Phenjana, Phyeng-yang, Phyong-yang, Pienyang, Pingyang, Pion'gian'nk, Pion'nkgian'nk, Piongiang, Pionguiangue, Pionyang, Pjoengjang, Pjongian, Pjongjang, Pjongjango, Pjöngjang, Pkhen'jan, Pkhenjan, Pxenyan, Pyeongyang, Pyoengyang, Pyongyang, Pyongyang-si, Pyöngyang, bywnghyangh, peiyngyang, pi'ongayanga, ping rang, ping rang shi, piyam iyam, piyonyan, pkheniani, pyamgayanga, pyang yang, pyeong-yang, pyeong-yangjighalsi, pyeong-yangsi, pyon'gyang, pyongayanga, pywng yang, pywngyang, Πιονγιάνγκ, Πιονγκγιάνγκ, Пхеньян, Пхенян, Пјонгјанг, Փխենյան, פיאנגיאנג, פיונגיאנג, بيونغيانغ, پيونګيانګ, پيونگ يانگ, پيوڭياڭ, پیانگ یانگ, پیونگ‌یانگ, پیۆنگیانگ, प्याँगयांग, प्योंगयांग, পিয়ং ইয়াং, ਪਿਓਂਗਯਾਂਗ, பியொங்யாங், ಪ್ಯೊನ್ಗ್ಯಾಂಗ್, เปียงยาง, ཕོང་ཡང་།, ფხენიანი, ፕዮንግያንግ, 平壌, 平壤, 平壤市, 평양, 평양시, 평양직할시

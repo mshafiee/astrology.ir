@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°44'13.58" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°13'52.84" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|13°38'38.25" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°38'38.25" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°17'35.74" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|12°21'42.25" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°34'38.37" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°44'13.58" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°13'52.84" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|13°38'38.25" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°38'38.25" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|22°17'35.74" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|12°21'42.25" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°34'38.37" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Adehsa, Ades, ODS, Odesa, Odess, Odessa, Odessa osh, Odessae, Odesse, Odessos, Odessus, Odessza, Odissos, Oděsa, Udessa, ao de sa, awdsa, awdysa, odesa, odessa, Ódessa, ʼwdysʼ, Οδησσός, Адэса, Одеса, Одесс, Одессæ, Одесса, Одесса ош, Одессе, Օդեսա, אדעס, אודיסא, אודסה, أوديسا, اودسا, اوديسا, اودیسا, ओदेसा, အိုဒက်ဆာမြို့, ოდესა, オデッサ, 敖德薩, 오데사

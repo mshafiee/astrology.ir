@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°41'44.51" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°8'14.97" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|13°58'53.32" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°58'53.32" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|23°0'34.71" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|13°16'27.92" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°8'39.51" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°41'44.51" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°8'14.97" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|13°58'53.32" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°58'53.32" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|23°0'34.71" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|13°16'27.92" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°8'39.51" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시

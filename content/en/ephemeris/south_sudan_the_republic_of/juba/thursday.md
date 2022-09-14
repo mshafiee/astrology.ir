@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°44'12.04" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°13'49.52" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|13°38'50.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°38'50.13" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°18'1.03" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|12°22'14.29" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°34'24.67" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°44'12.04" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°13'49.52" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|13°38'50.13" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°38'50.13" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|22°18'1.03" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|12°22'14.29" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°34'24.67" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Djouba, Dschuba, Dzhuba, Goba, JUB, Juba, Uula, g'wbh, juba, jwba, Джуба, ג'ובה, جوبا, 주바

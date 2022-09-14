@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°41'44.35" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°8'14.61" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|13°58'54.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°58'54.66" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|23°0'37.52" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|13°16'31.52" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°8'37.63" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°41'44.35" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°8'14.61" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|13°58'54.66" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°58'54.66" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|23°0'37.52" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|13°16'31.52" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°8'37.63" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: SWU, Sououon, Suigen, Suvon, Suwon, Suwon-si, Suwŏn, shui yuan shi, suvona, suwon, suwonsi, suwxn, swwn, Σούουον, Сувон, سوون, सुवोन, ซูว็อน, 水原市, 수원, 수원시
