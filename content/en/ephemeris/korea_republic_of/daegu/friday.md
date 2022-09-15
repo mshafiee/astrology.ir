@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°41'45.22" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|5°8'16.41" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|13°58'47.84" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°0'23.39" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|13°16'13.43" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|19°41'45.16" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|5°8'16.46" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|13°58'48.01" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°0'23.40" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|13°16'13.49" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°8'46.85" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|0°6'37.04" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°6'37.88" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°41'45.22" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|5°8'16.41" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°58'47.84" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|23°0'23.39" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|13°16'13.43" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|19°41'45.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|5°8'16.46" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|13°58'48.01" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|23°0'23.40" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|13°16'13.49" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°8'46.85" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|0°6'37.04" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°6'37.88" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Daegu, Daegu Kong-hek-chhi, Daegu Kóng-he̍k-chhī, Daegu-si, Daikyu, Daikyū, GJai Khau, Ntenkou, TAE, Taegu, Taikando, Taikandō, Taiku, Taikyu, Taikyū, Tegu, Teguo, Tehgu, Tägu, da qiu guang yu shi, daegu, daegugwang-yeogsi, daegusi, daigu, dayjw, degu, dyghw, tgw, Đại Khâu, Ντέγκου, Тегу, Тэгу, Тэгү, טגו, دائجو, ديغو, ڈیگو, दैगू, ദേഗു, แทกู, 大邱广域市, 大邱広域市, 大邱廣域市, 대구, 대구광역시, 대구시

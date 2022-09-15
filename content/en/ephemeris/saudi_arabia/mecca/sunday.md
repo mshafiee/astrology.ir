@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°34'22.93" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°50'50.17" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|14°59'30.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|14°59'30.42" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|25°12'2.09" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|16°3'54.08" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|5°28'2.59" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°34'22.93" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°50'50.17" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°59'30.42" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|14°59'30.42" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|25°12'2.09" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|16°3'54.08" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|5°28'2.59" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: A Meca, La Meca, La Mecca, La Mecque, Macoraba, Maekkae, Makka, Makkah, Makkah al Mukarramah, Makkah al Mukarraman, Makkah al-Mukarramah, Meca, Mecca, Mecka, Meice, Meka, Mekao, Meke, Mekka, Mekkah, Mekke, Mekko, Mäkkä, mai jia, mak kah, makka, meka, mekka, mkh, mkt, mkt almkrmt, Μέκκα, Мека, Мекка, מכה, مكة, مكة المكرمة, مکه, مکہ, মক্কা, มักกะฮ์, མ་ཁ།, მექა, メッカ, 麥加, 메카

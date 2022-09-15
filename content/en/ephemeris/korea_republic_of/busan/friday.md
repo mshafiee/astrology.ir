@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°41'45.36" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°8'16.93" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|13°58'46.29" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|13°58'46.29" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|23°0'19.77" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|13°16'8.85" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°8'49.25" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°41'45.36" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°8'16.93" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°58'46.29" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|13°58'46.29" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|23°0'19.77" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|13°16'8.85" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°8'49.25" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시

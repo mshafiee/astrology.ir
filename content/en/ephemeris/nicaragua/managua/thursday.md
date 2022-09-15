@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°43'5.67" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°11'19.91" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|13°47'50.44" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|13°47'50.44" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°37'4.76" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|12°46'31.45" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°23'18.94" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°43'5.67" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°11'19.91" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°47'50.44" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|13°47'50.44" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|22°37'4.76" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|12°46'31.45" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°23'18.94" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과

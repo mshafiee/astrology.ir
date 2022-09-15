@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°41'47.47" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°8'21.86" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|13°58'28.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|13°58'28.93" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°59'42.45" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|13°15'21.41" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°9'13.03" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°41'47.47" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°8'21.86" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°58'28.93" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|13°58'28.93" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|22°59'42.45" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|13°15'21.41" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°9'13.03" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

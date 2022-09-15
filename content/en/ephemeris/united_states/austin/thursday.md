@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°42'59.89" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°11'6.74" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|13°48'37.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|13°48'37.69" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°38'45.20" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|12°48'39.35" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°22'18.61" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°42'59.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°11'6.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°48'37.69" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|13°48'37.69" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|22°38'45.20" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|12°48'39.35" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°22'18.61" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: AUS, Austin, Austino, Austinopolis, Aŭstino, Montopolis, Oscin, Ostin, Ostina, Ostinas, Ostins, Waterloo, ao si ting, asatina, astin, astina, astyn  tgzas, awstn, ke shi dian, oseutin, ostina, ostʼini, osutin, xxstin, Ώστιν, Остин, Остін, Осцін, Օստին, אוסטין, אסטין, آستین، تگزاس, آسٹن, آسٹن، ٹیکساس, أوستن, अस्टिन, अस्तिन, आस्टिन्, ऑस्टिन, অস্টিন, ਆਸਟਿਨ, ஆஸ்டின், ഓസ്റ്റിൻ, ออสติน, ოსტინი, ኦስቲን፣ ቴክሳስ, ᎠᏍᏘᏂ, オースティン, 奧斯汀, 柯士甸, 오스틴

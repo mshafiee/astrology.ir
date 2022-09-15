@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°43'20.72" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|5°11'53.95" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|13°45'47.75" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|13°45'47.75" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°32'44.72" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|12°41'0.09" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|7°25'54.20" |Virgo|Awwa|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°43'20.72" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|5°11'53.95" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°45'47.75" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|13°45'47.75" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|22°32'44.72" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|12°41'0.09" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|7°25'54.20" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운
