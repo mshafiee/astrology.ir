@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:26:40 |
 | Maghrib | 18:27:42 |
 | Isha | 19:43:36 |
-| Sharia Midnight | 23:36:42 |
+| Sharia Midnight | 23:36:41 |
 | Imum Coeli | 00:17:22 |
 {{< /tab >}}
 
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 18:26:40 |
 | Maghrib | 18:27:42 |
 | Isha | 19:48:23 |
-| Sharia Midnight | 23:36:42 |
+| Sharia Midnight | 23:36:41 |
 | Imum Coeli | 00:17:22 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°38'17.85" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|5°0'14.42" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|14°27'8.41" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°1'17.92" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|14°33'48.89" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|19°38'17.91" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|5°0'14.37" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|14°27'8.23" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°1'17.91" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°33'48.83" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|6°25'59.35" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|12°58'23.35" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°58'23.08" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°38'17.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|5°0'14.42" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|14°27'8.41" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°1'17.92" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|14°33'48.89" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|19°38'17.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|5°0'14.37" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|14°27'8.23" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°1'17.91" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|14°33'48.83" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|6°25'59.35" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|12°58'23.35" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|12°58'23.08" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

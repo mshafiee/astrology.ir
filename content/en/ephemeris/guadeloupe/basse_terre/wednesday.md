@@ -1,6 +1,6 @@
 ---
-date: 2022-09-14T00:00:00-04:00
-lastmod: 2022-09-14T00:00:00-04:00
+date: 2022-09-21T00:00:00-04:00
+lastmod: 2022-09-21T00:00:00-04:00
 title: Basse-Terre (Wednesday)
 slug: wednesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Wednesday, 14 Sep 2022
+description: 🗓 Wednesday, 21 Sep 2022
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르

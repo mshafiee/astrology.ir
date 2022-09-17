@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:29:53 |
+| Dawn | 04:29:52 |
 | Sunrise | 05:54:07 |
 | Dhuhr | 12:04:50 |
 | Medium Coeli | 12:04:50 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°38'27.96" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|5°0'38.27" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|14°25'45.27" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°58'17.84" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|14°29'59.58" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|19°38'28.02" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|5°0'38.22" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|14°25'45.10" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°58'17.83" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°29'59.52" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|6°28'15.22" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|12°20'49.98" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°20'49.67" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°38'27.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|5°0'38.27" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|14°25'45.27" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|23°58'17.84" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|14°29'59.58" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|19°38'28.02" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|5°0'38.22" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|14°25'45.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|23°58'17.83" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|14°29'59.52" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|6°28'15.22" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|12°20'49.98" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|12°20'49.67" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°26'20.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|4°30'28.63" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|16°6'58.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|27°43'37.75" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|19°16'59.18" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|2°59'4.60" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|28°33'29.24" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Retrograde|4°30'26.63" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|16°6'54.04" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|27°43'45.58" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|19°17'3.69" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|2°59'17.90" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|28°43'34.84" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아
