@@ -14,7 +14,7 @@ description: 🗓 Wednesday, 21 Sep 2022
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: +04:30
+TimeZone: +03:30
 \-
 Latitude: 38.0800
 \-
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'10.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|4°27'19.64" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|16°16'50.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°6'45.44" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|19°46'18.49" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|2°34'43.61" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°32'43.24" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|4°27'20.17" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|16°16'55.06" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°6'44.07" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|19°46'17.94" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|2°34'41.12" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°46'29.00" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°19'15.94" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|4°11'3.74" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°7'33.19" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°19'16.00" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|4°11'3.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|17°7'33.00" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|0°6'23.46" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|22°18'29.37" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|0°23'0.86" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|28°33'24.92" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|22°18'29.32" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|0°23'0.89" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|28°33'24.62" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°19'15.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|4°11'3.74" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°7'33.19" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|19°19'16.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|4°11'3.68" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°7'33.00" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°6'23.46" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|22°18'29.37" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|0°23'0.86" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|28°33'24.92" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|22°18'29.32" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|0°23'0.89" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|28°33'24.62" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -371,10 +371,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: ANK, Anakara, Ancara, Ancyra, Ang-ka-la, Angkara, Angora, Anguriyah, Ankar, Ankara, Ankara khot, Ankaro, Ankuara, Ankura, Ankyra, Ankyra (Ankyra), Anqara, Enguri, Engüri, Enqere, akara, an ka la, angkala, ankara, anqrh, anqrt, xangkara, Ăng-kā-lá, Άγκυρα (Ankyra), Анкара, Анкара хот, Анкъара, Әнкара, Անկարա, אנקארא, אנקרה, آنکارا, أنقرة, ئەنقەرە, انقره, انقرہ, انکرہ, ܐܢܩܪܐ, अंकारा, আঙ্কারা, ਅੰਕਾਰਾ, ଆଙ୍କାରା, அங்காரா, అంకారా, ಅಂಕಾರಾ, അങ്കാറ, อังการา, ཨན་ཁ་ར།, ანკარა, አንካራ, アンカラ, 安卡拉, 앙카라
