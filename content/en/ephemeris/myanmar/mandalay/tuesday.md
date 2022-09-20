@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°28'37.09" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|4°36'22.79" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|15°47'55.81" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|26°59'56.09" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°21'21.60" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|3°44'45.30" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|20°13'6.29" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|19°28'36.65" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|4°36'20.55" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|15°47'46.08" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|27°0'3.46" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|18°21'25.41" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|3°44'57.85" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|19°49'50.68" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Venus|Jupiter|Sun|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Gemini|Moon|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°28'36.65" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°36'20.55" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|15°47'46.08" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|15°47'46.08" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°0'3.46" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°21'25.41" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°44'57.85" |Libra|Ghafr|Moon|
