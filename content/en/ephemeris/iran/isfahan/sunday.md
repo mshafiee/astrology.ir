@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'55.16" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°55'25.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°54'18.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°54'18.41" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°0'55.19" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°44'5.61" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°20'8.87" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'55.16" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°55'25.09" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°54'18.41" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°54'18.41" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°0'55.19" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°44'5.61" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°20'8.87" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Aspadana, Dakbayan sa Esfahan, Dakbayan sa Esfahān, Esfahan, Esfahano, Esfahān, Esfehan, Eşfahān, Eşfehān, IFN, Isfachan, Isfahan, Isfahana, Isfahanas, Isfahanum, Isfahon, Isfahán, Isfahāna, Isfakhan, Isfehan, Ispahan, Iszfahan, Iszfahán, Kota Isfahan, Spahan, Yspyhan, asfhan, aysfahan, esaphahana, esufahan, icupakan, isafahana, iseupahan, isfahana, isphahana, xis fa han, yi si fa han, Îsfehan, İsfahan, İsfehan, Ισφαχάν, Ісфахан, Исфахан, Исфаҳон, Исфаһан, Սպահան, אספהאן, أصفهان, ئسفأھان, ئەسفەھان, اصفهان, اصفہان, ایصفاهان, इस्फहान, इस्फ़हान, এসফাহন, ਇਸਫ਼ਹਾਨ, இசுபகான், อิสฟาฮาน, ისპაანი, エスファハーン, 伊斯法罕, 이스파한

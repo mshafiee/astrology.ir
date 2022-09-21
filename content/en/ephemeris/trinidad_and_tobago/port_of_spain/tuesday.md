@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'16.49" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°32'52.39" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°59'2.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°59'2.61" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°25'46.02" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°54'8.79" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°18'21.01" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'16.49" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°32'52.39" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°59'2.61" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°59'2.61" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°25'46.02" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°54'8.79" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°18'21.01" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Acalquixohuayan Caxtillan, City of Port-of-Spain, POS, Po of Espay, Port of Spain, Port of Spein, Port of Speinas, Port of Spejn, Port of Speyn, Port oph Spein, Port ov Spejn, Port uf Spejn, Port-Of-Spejn, Port-au-Spain, Port-d'Espagne, Port-of-Spain, Port-of-Spein, Port-of-Spejn, Port-of-speyn, Porto Espana, Porto España, Portofspeina, Portospeno, Portu de Spania, Puerto Espana, Puerto España, Pò of Espay, bwrt awf sbyn, phxrt-xxf-spen, porata afa sapena, port ahp speyn, porta aba spena, porta opha spena, poteu obeu seupein, poteuobeuseupein, potoobusupein, prt aw aspayn, xi ban ya gang, Πορτ οφ Σπέιν, Πορτ-οφ-Σπέιν, Порт ов Спејн, Порт оф Спейн, Порт оф Спејн, Порт ъф Спейн, Порт-Оф-Спейн, Порт-оф-Спейн, פורט אוף ספיין, بورت أوف سبين, پرت آو اسپاین, پورٹ آف اسپین, पोर्ट ऑफ स्पेन, পোর্ট অব স্পেন, ਪੋਰਟ ਆਫ਼ ਸਪੇਨ, போர்ட் ஆஃப் ஸ்பெய்ன், പോർട്ട് ഓഫ് സ്പെയിൻ, พอร์ต-ออฟ-สเปน, པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།, პორტ-ოვ-სპეინი, ፖርት ኦፍ ስፔን, ポートオブスペイン, 西班牙港, 포트 오브 스페인, 포트오브스페인

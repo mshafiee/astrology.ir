@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'49.06" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°55'6.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°55'14.05" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°55'14.05" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°3'12.19" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°47'0.59" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°17'45.68" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'49.06" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°55'6.50" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°55'14.05" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°55'14.05" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°3'12.19" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°47'0.59" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°17'45.68" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: MOW, Maeskuy, Maskav, Maskava, Maskva, Mat-xco-va, Matxcova, Matxcơva, Mosca, Moscfa, Moscha, Mosco, Moscou, Moscova, Moscovo, Moscow, Moscoƿ, Moscu, Moscua, Moscòu, Moscó, Moscù, Moscú, Moskva, Moska, Moskau, Mosko, Moskokh, Moskou, Moskov, Moskova, Moskovu, Moskow, Moskowa, Mosku, Moskuas, Moskva, Moskvo, Moskwa, Moszkva, Muskav, Musko, Mát-xcơ-va, Mòskwa, Məskeu, Məskəү, masko, maskw, mo si ke, moseukeuba, mosko, mosukuwa, mskw, mwskva, mwskw, mwsqbh, mx s ko, Μόσχα, Мæскуы, Маскав, Масква, Москва, Москова, Москох, Москъва, Мускав, Муско, Мәскеу, Мәскәү, Մոսկվա, מאָסקװע, מאסקווע, מוסקבה, ماسکو, مسکو, موسكو, موسكۋا, ܡܘܣܩܒܐ, मास्को, मॉस्को, মস্কো, மாஸ்கோ, มอสโก, མོ་སི་ཁོ།, მოსკოვი, ሞስኮ, モスクワ, 莫斯科, 모스크바

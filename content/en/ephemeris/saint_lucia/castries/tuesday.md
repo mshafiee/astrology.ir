@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'16.77" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°32'53.13" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°59'0.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°59'0.11" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°25'40.46" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°54'1.64" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°18'27.09" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'16.77" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°32'53.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°59'0.11" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°59'0.11" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°25'40.46" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°54'1.64" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°18'27.09" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Castries, Kastri, Kastrijs, Kastris, Kastrizo, Kastry, Kastrys, Port Castries, ka si te li, kaeseuteuliseu, kasatarisa, kastris, kastrys, kasutorizu, kestrijha, qstryz, Κάστρις, Кастри, Кастрийс, Кастрис, Кастры, Кастрі, קסטריז, كاستريس, کاستریس, कॅस्ट्रीझ, ਕਾਸਤਰੀਸ, காஸ்ட்ரீஸ், แคสตรีส์, ཁ་སི་ཐྲིས།, კასტრი, ካስትሪስ, カストリーズ, 卡斯特里, 캐스트리스

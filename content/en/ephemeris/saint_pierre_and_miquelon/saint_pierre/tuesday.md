@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°27'20.00" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|4°33'1.20" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°58'34.16" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°27'19.94" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|4°33'1.26" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|15°58'34.34" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°24'40.73" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°52'45.99" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|3°19'28.06" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|24°51'24.32" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|18°52'46.04" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|3°19'28.04" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|24°51'23.09" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°27'20.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|4°33'1.20" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°58'34.16" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|19°27'19.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|4°33'1.26" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°58'34.34" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°24'40.73" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|18°52'45.99" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|3°19'28.06" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|24°51'24.32" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|18°52'46.04" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|3°19'28.04" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|24°51'23.09" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: FSP, Saint Pierre, Saint-Pierre, St Pierre, saengpieleu, 생피에르

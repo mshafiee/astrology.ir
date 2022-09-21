@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°26'2.56" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|4°29'37.96" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|16°9'32.49" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°26'2.61" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|4°29'37.90" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|16°9'32.31" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°49'47.15" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°24'45.32" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|2°52'46.98" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|29°50'57.26" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|19°24'45.27" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|2°52'47.00" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|29°50'58.33" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°26'2.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|4°29'37.96" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|16°9'32.49" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|27°49'42.61" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|19°24'43.08" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|2°52'39.21" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|0°10'27.10" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|19°26'2.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|4°29'37.90" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|16°9'32.31" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|27°49'47.15" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|19°24'45.27" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|2°52'47.00" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|29°50'58.33" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Venus|Venus|Scorpio|Sun|Venus|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: SYD, Sanctus Dionysius, Sedniejos, Sek-na, Sidnef, Sidnei, Sidnej, Sidneja, Sidnejo, Sidnejus, Sidney, Sidneý, Sidni, Sidnéy, Sidnėjus, Sit-ni, Sit-nì, Syd, Sydneium, Sydney, Sydney City, Sék-nà̤, Sídney, Sîdney, Sėdniejos, citni, shidoni, sidani, sideuni, sidnei, sidni, sidniy, sydny, xi ni, xue li, Σίδνεϋ, Сиднеи, Сидней, Сиднеј, Сидни, Сідней, Сідні, Սիդնեյ, סידני, سيدنى, سيدني, سڈنی, سیدنی, ܣܝܕܢܝ, सिडनी, सिड्नी, सिद्नी, সিডনি, ਸਿਡਨੀ, સીડની, சிட்னி, సిడ్నీ, ಸಿಡ್ನಿ, സിഡ്നി, සිඩ්නි, ซิดนีย์, སིད་ནེ།, ဆစ်ဒနီမြို့, სიდნეი, ሲድኒ, ស៊ីដនីយ៏, シドニー, 悉尼, 雪梨, 시드니

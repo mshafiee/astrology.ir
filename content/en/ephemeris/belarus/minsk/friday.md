@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°19'13.74" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°10'57.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°7'53.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°7'53.39" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|0°7'10.74" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|22°19'30.06" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|0°22'6.39" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°19'13.74" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°10'57.39" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°7'53.39" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°7'53.39" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°7'10.74" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|22°19'30.06" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|0°22'6.39" |Libra|Ghafr|Moon|
@@ -371,10 +371,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MSQ, Mins'k, Minsc, Minscum, Minsk, Minsk - Minsk, Minsk - Мінск, Minsk osh, Minska, Minskaj, Minskas, Minsko, Minszk, Mińsk, Myensk, Myenyesk, Mînsk, ming si ke, ming si ke shi, minseukeu, minsk, minsuku, mnsk, mynsk, mynsq, mynysky, Μινσκ, Минск, Минск ош, Минскай, Мінск, Мінськ, Мѣньскъ, Մինսկ, מינסק, منسک, مىنىسكى, مينسك, مینسک, मिन्‍स्‍क, மின்ஸ்க், ಮಿನ್ಸ್ಕ್, മിൻസ്ക്, มินสก์, མིན་སིཀ།, მინსკი, ミンスク, 明斯克, 明斯克市, 민스크

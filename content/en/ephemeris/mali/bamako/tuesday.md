@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'43.57" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°34'3.02" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°55'13.77" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°55'13.77" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°17'2.95" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°43'3.05" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°27'26.83" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'43.57" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°34'3.02" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°55'13.77" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°55'13.77" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°17'2.95" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°43'3.05" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°27'26.83" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코

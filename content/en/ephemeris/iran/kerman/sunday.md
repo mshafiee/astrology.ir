@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'57.56" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°55'32.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°53'57.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°53'57.16" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°0'2.20" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°42'58.23" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°21'3.26" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'57.56" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°55'32.34" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°53'57.16" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°53'57.16" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°0'2.20" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°42'58.23" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°21'3.26" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Carmana, Dakbayan sa Kerman, Dakbayan sa Kermān, KER, Kerman, Kermanas, Kermano, Kermon, Kermán, Kermān, Kirman, Kirmon, karmana, ke er man, keleuman, kermani, keruman, krman, Керман, Кирмон, Կերման, כרמאן, كرمان, کرمان, कर्मान, ქერმანი, ケルマーン, 克尔曼, 케르만

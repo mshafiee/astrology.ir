@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'54.43" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°55'22.87" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°54'25.03" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°1'11.58" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°44'26.51" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|28°19'51.83" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|23°16'45.23" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|19°13'54.48" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°55'22.80" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|17°54'24.85" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°1'11.57" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°44'26.46" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|28°19'51.87" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|23°16'44.62" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'54.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°55'22.87" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°54'25.03" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|2°1'11.58" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|24°44'26.51" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|28°19'51.83" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|23°16'45.23" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|19°13'54.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°55'22.80" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°54'24.85" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|2°1'11.57" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|24°44'26.46" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|28°19'51.87" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|23°16'44.62" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Dakbayan sa Qazvin, GZW, Gazvin, Kazvin, Kazvinas, Kazvín, Kazwin, Kuazvin, Qazvin, Qazvín, Qazvīn, Qazwen, Qazwên, Qəzvin, gazuvu~in, jia ci wen, kajeubin, kazvina, kxs win, qzwyn, Казвин, Казвін, Къазвин, Қазвин, Ղազվին, قزوين, قزوین, قەزوین, कज़्वीन, กอซวีน, ყაზვინი, ガズヴィーン, 加兹温, 카즈빈

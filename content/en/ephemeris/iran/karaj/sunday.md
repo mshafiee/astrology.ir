@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'54.92" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°55'24.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°54'20.97" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°13'54.87" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°55'24.19" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|17°54'21.16" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°1'1.91" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°44'14.17" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|28°20'1.79" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|23°14'43.31" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|24°44'14.22" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|28°20'1.75" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|23°14'43.91" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'54.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°55'24.12" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°54'20.97" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|19°13'54.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°55'24.19" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°54'21.16" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°1'1.91" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|24°44'14.17" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|28°20'1.79" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|23°14'43.31" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|24°44'14.22" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|28°20'1.75" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|23°14'43.91" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Heredi, Karadj, Karadje, Karadsch, Karadz, Karadzs, Karadż, Karadž, Karag, Karaj, Karatz, Karaĝ, Karej, Kerec, Keredi, Keredzas, Keredzh, Keredžas, Kerezh, Kərəc, Leredi, PYK, QKC, Qasabeh-e Karaj, Qaşabeh-e Karaj, ka la ji, kairaija, kalaji, karaj, karaji, kha rac, krj, kyaraji, qasabihi karaj, Καράτζ, Карай, Караџ, Караҷ, Кередж, Кереж, כאראג, قَصَبِهِ كَرَج, كرج, کرج, کەرەج, कैरैज, கராஜ், คาราจ, ქარაჯი, キャラジ, 卡拉季, 카라지

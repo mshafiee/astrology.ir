@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°19'29.01" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°11'40.85" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°5'39.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°5'39.60" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|0°1'51.07" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|22°12'42.75" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|0°28'2.74" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°19'29.01" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°11'40.85" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°5'39.60" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°5'39.60" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°1'51.07" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|22°12'42.75" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|0°28'2.74" |Libra|Ghafr|Moon|
@@ -371,10 +371,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Dowzdab, Dowzdāb, Duzdab, Duzdap, Duzdāb, Duzdāp, ZAH, Zahedan, Zahedan-e (Yek), Zahedanas, Zahedano, Zahedán, Zahidan, Zaidan, Zaidān, Zakhedan, Záhedán, Zāhedān, Zāhedān-e (Yek), cakitan, jahedan, jahedana, zahdan, zahedan, zahedana, zahedani, zha hei dan, Захедан, Зоҳидон, Զահեդան, زاهدان, زاہدان, ज़ाहेदान, জহেদন, சாகிதன், ზაჰედანი, ザーヘダーン, 扎黑丹, 자헤단

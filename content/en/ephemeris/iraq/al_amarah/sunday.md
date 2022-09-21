@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'53.21" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°55'19.21" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°54'35.64" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°1'38.20" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°45'0.26" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|28°19'24.91" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|23°23'20.30" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|19°13'53.26" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°55'19.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|17°54'35.45" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°1'38.19" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°45'0.22" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|28°19'24.95" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|23°23'19.69" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'53.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°55'19.21" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°54'35.64" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|2°1'38.20" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|24°45'0.26" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|28°19'24.91" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|23°23'20.30" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|19°13'53.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°55'19.15" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°54'35.45" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|2°1'38.19" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|24°45'0.22" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|28°19'24.95" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|23°23'19.69" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Al `Amarah, Al ‘Amārah, Amara, Amarah, Amare, Amaré, `Amara, alʿmart, العمارة, العماره, ‘Amāra

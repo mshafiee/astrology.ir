@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°19'12.21" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|4°10'53.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°8'6.98" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|0°7'43.04" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|22°20'11.30" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|0°21'30.06" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|28°44'35.54" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|19°19'12.26" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|4°10'52.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|17°8'6.80" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°7'43.03" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|22°20'11.25" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|0°21'30.09" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|28°44'35.24" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°19'12.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|4°10'53.01" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°8'6.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°7'43.04" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|22°20'11.30" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|0°21'30.06" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|28°44'35.54" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|19°19'12.26" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|4°10'52.95" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°8'6.80" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°7'43.03" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|22°20'11.25" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|0°21'30.09" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|28°44'35.24" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -371,10 +371,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: RIX, Reiga, Riga, Rigae, Rige, Rigg-a, Rigo, Riia, Riigaa, Riika, Rija, Riqa, Ryga, Ríga, Ríge, Rīga, li jia, liga, ri ka, riga, rika, ryga, rygh, rygha, ryja, Ρίγα, Ригæ, Рига, Рыга, Ріґа, Ռիգա, ריגה, ריגע, رىگا, ريجا, ريغا, ریگا, रिगा, रीगा, রিগা, ரீகா, รีกา, རི་ག, რიგა, ሪጋ, リガ, 里加, 리가

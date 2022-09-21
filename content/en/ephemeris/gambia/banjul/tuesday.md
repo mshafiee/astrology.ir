@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'39.24" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°33'51.76" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°55'50.28" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°55'50.28" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°18'26.35" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°44'49.18" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°26'0.17" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'39.24" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°33'51.76" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°55'50.28" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°55'50.28" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°18'26.35" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°44'49.18" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°26'0.17" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BJL, Bandzhul, Bandzul, Bandzula, Bandzulis, Bandżul, Bandžula, Bandžulis, Banjoul, Banjul, Banjulo, Banyul, Banzhul, Banĵulo, Bathurst, Bathurstopolis, Mpanzoul, bajula, ban cul, ban zhu, ban zhu er, banjul, banjula, banjuli, banjuru, banjwl, bngwl, pancul, Μπανζούλ, Банджул, Банжул, Банџул, Банҷул, Բանջուլ, באנזשול, בנגול, بانجول, बंजुल, बाञ्जुल, ਬੰਜੁਲ, பஞ்சுல், บันจูล, བཱན་ཇཱུ་ལ།, ბანჯული, ባንጁል, バンジュール, 班珠尔, 班竹, 반줄

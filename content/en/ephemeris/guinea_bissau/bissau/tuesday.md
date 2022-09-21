@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'39.72" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°33'53.01" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°55'46.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°55'46.26" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°18'17.10" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°44'37.44" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°26'9.67" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'39.72" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°33'53.01" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°55'46.26" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°55'46.26" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°18'17.10" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°44'37.44" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°26'9.67" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bisao, Bisau, Bisau - Bissau, Bisauo, Bisava, Bisaŭo, Biso, Bissa, Bissao, Bissau, Bissá, Bisáu, Mpissaou, OXB, Sao Jose de Bissau, São José de Bissáu, Wisaw, bi shao, bis sea, bis'sa'u, bisa'u, bisau, bsaw, bysaw, bysayw, picavu, Μπισσάου, Бисао, Бисау, Бісау, Բիսաու, ביסאו, بساؤ, بيساو, بیسائو, بیساو, बिसाउ, বিসাউ, বিস্সাউ, ਬਿਸਾਊ, பிசாவு, บิสเซา, བི་སའོ།, ბისაუ, ቢሳው, ビサウ, 比紹, 比绍, 비사우

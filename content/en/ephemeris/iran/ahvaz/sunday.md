@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'53.89" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°55'21.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°54'29.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°54'29.59" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°1'23.10" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°44'41.07" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°19'40.38" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'53.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°55'21.28" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°54'29.59" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°54'29.59" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°1'23.10" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°44'41.07" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°19'40.38" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: AWZ, Ahvaz, Ahvaz - ahwaz, Ahvaz - اهواز, Ahvaza, Ahvazas, Ahvazo, Ahvoz, Ahváz, Ahvāz, Ahvāza, Ahwas, Ahwaz, Ahwāz, Akhvaz, Akhvaz shaary, Axvaz, Bandar Nasiri, Bandar Nāsirī, Bandar-e Naser, Bandar-e Nāşer, Ehvaz, Naseri, Nasiri, Nāsiri, Nāşerī, a wa shi, abajeu, afuvu~azu, ahabaja, ahavaza, ahvazi, ahwaz, akvacu, alahwaz, Əhvaz, Ахваз, Ахваз шаары, Аҳвоз, Ախվազ, אהוואז, ئەھواز, الأهواز, اهواز, اہواز, अहवाज़, আহবাজ, ਅਹਵਾਜ਼, ஆக்வாசு, ཨཱ་ཝཛ།, აჰვაზი, アフヴァーズ, 阿瓦士, 아바즈

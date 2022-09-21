@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'54.83" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°55'24.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°54'21.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°54'21.42" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°1'2.60" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°44'15.07" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°20'1.14" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'54.83" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°55'24.09" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°54'21.42" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°54'21.42" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°1'2.60" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°44'15.07" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°20'1.14" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Dakbayan sa Qom, Ghom, Homo, Kom, Kum, Kum shaary, Kumas, QUM, Qom, Qum, Qûm, gomu, koma, ku mu, kum, kuvom, qm, qwm, Ĥomo, Ком, Кум, Кум шаары, Қум, קום, قم, قوم, कोम, குவோம், ゴム, 库姆, 쿰

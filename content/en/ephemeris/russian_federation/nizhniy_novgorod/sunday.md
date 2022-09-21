@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'51.90" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°55'15.08" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°54'48.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°54'48.99" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°2'9.51" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°45'40.95" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°18'49.58" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'51.90" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°55'15.08" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°54'48.99" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°54'48.99" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°2'9.51" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°45'40.95" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°18'49.58" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: GOJ, Gor'kij, Gor'kiy, Gorkey, Gorki, Gorkii, Gorkij, Gorky, Nijni Novgorod, Nijnii Novgorod, Nischni Nowgorod, Nishni-Nowgorod, Nishnii Nowgorod, Nishnij Nowgorod, Nizhni Novgorod, Nizhnii Novgorod, Nizhnij Novgorod, Nizhniy Novgorod, Nizhny Novgorod, Nizjnij Novgorod, Nizni Novgorod, Niznij Nowgorod, Nižni Novgorod, Nižnij Nowgorod, Горький, Нижний Новгород

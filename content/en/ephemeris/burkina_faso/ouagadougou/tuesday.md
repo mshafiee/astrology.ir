@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'46.85" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°34'11.55" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°54'46.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°54'46.11" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°15'59.79" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°41'42.68" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°28'32.39" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'46.85" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°34'11.55" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°54'46.11" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°54'46.11" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°15'59.79" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°41'42.68" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°28'32.39" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구

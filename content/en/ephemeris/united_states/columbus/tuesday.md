@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'6.15" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°32'25.22" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|16°0'30.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|16°0'30.48" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°29'7.17" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°58'24.88" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°14'49.67" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'6.15" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°32'25.22" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|16°0'30.48" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|16°0'30.48" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°29'7.17" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°58'24.88" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°14'49.67" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CMH, Columbopolis, Columbus, Columbus i Ohio, Franklin, Franklinton, Kalumbus, Kolambus, Kolompous, Kolumbas, Kolumbs, Kolumbu, Kolumbus, Kolumbusa, Kulumbus, ge lun bu, kalabasa, kalambasa, kholambas, klmbws  awhayw, kolambas, kolambasa, kolampas, kolleombeoseu, koronbasu, kwlwmbws, qwlwmbws, Κολόμπους, Калумбус, Коламбус, Колумбус, Кълъмбъс, Կոլումբուս, קאלומבוס, קולומבוס, كولومبوس, کلمبوس، اوهایو, کولمبس، اوہائیو, कोलंबस, कोलम्बस, कोलम्बस्, কলম্বাস, ਕਲੰਬਸ, கொலம்பஸ், โคลัมบัส, კოლუმბუსი, コロンバス, 哥伦布, 哥倫布, 콜럼버스

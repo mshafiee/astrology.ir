@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'52.24" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°55'16.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°54'44.44" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°54'44.44" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°1'59.99" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°45'28.08" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°19'2.20" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'52.24" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°55'16.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°54'44.44" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°54'44.44" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°1'59.99" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°45'28.08" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°19'2.20" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: OMH, Orumiyeh, Orūmīyeh, Ourmia, Reza'iyeh, Rezaeyeh, Rezaiyye, Rezâiyye, Rezā’īyeh, Rizaiyeh, Rizāiyeh, Urmia, Urmija, Urmiya, Urmiye, Urmía, Urumija, Urumiyeh, Urūmiyeh, arwmyh, arwmyt, shhrstan arwmyh, Úrmia, Ûrmiye, Урмия, Урумия, אורמיה, أرومية, ارومیه, ارومیّه, شهرستان ارومیه, ܐܘܪܡܝܐ

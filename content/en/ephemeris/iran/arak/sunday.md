@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'54.28" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°55'22.42" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°54'26.27" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°54'26.27" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°1'14.79" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°44'30.55" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°19'48.72" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'54.28" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°55'22.42" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°54'26.27" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°54'26.27" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°1'14.79" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°44'30.55" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°19'48.72" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Arak, Arak - sawh, Arak - ساوه, Arok, Arāk, Ehrak, Soltanabad, Solţānābād, Sultanabad, Sultānābād, `Iraq, arak, sawh, sultan abad, Арак, Арок, Эрак, اراک, ساوه, سُلطان آباد, ‘Irāq

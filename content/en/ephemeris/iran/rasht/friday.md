@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°19'23.83" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°11'26.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°6'24.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°6'24.78" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|0°3'39.22" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|22°15'0.42" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|0°26'2.63" |Virgo|Sarfrah|Sun|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°19'23.83" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°11'26.12" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°6'24.78" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°3'33.88" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|22°14'56.75" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|0°25'54.31" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|27°1'40.82" |Leo|Sarfrah|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°6'24.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°3'39.22" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|22°15'0.42" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|0°26'2.63" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|27°59'10.81" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -371,10 +371,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: RAS, Raixt, Rascht, Rasht, Rasjt, Rast, Rasto, Raszt, Raŝto, Rašt, Reshh, Resht, Rest, Restas, Reşt, Reštas, Rəşt, la shen te, lasyuteu, rashuto, rasta, reshti, rsht, Рашт, Решт, Рещ, Рәшт, Ռեշտ, ראשת, رشت, ڕەشت, रश्त, แรชต์, რეშთი, ラシュト, 拉什特, 라슈트

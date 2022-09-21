@@ -14,7 +14,7 @@ description: 🗓 Wednesday, 21 Sep 2022
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: +03:30
+TimeZone: +04:30
 \-
 Latitude: 37.4747
 \-
@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'16.04" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°27'34.27" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|16°16'3.96" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|16°16'3.96" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|28°4'57.44" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|19°44'1.06" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|2°36'40.17" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°25'16.04" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°27'34.27" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|16°16'3.96" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|16°16'3.96" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|28°4'57.44" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|19°44'1.06" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|2°36'40.17" |Libra|Ghafr|Moon|

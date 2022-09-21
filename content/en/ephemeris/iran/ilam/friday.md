@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°19'22.24" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°11'21.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°6'38.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°6'38.34" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|0°4'12.00" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|22°15'42.03" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|0°25'26.71" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°19'22.24" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°11'21.64" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°6'38.34" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°6'38.34" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°4'12.00" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|22°15'42.03" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|0°25'26.71" |Libra|Ghafr|Moon|
@@ -371,10 +371,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Elam, Elām, IIL, Ilam, ailam, aylam, ylam, Īlām, Илам, اِلام, ایلام, يلام

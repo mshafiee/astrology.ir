@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'59.25" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°55'37.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°53'42.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|17°53'42.14" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°59'24.73" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°42'10.60" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°21'41.69" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'59.25" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°55'37.46" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°53'42.14" |Gemini|Dhira|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°53'42.14" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|1°59'24.73" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°42'10.60" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°21'41.69" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Dowzdab, Dowzdāb, Duzdab, Duzdap, Duzdāb, Duzdāp, ZAH, Zahedan, Zahedan-e (Yek), Zahedanas, Zahedano, Zahedán, Zahidan, Zaidan, Zaidān, Zakhedan, Záhedán, Zāhedān, Zāhedān-e (Yek), cakitan, jahedan, jahedana, zahdan, zahedan, zahedana, zahedani, zha hei dan, Захедан, Зоҳидон, Զահեդան, زاهدان, زاہدان, ज़ाहेदान, জহেদন, சாகிதன், ზაჰედანი, ザーヘダーン, 扎黑丹, 자헤단

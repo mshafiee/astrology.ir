@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°19'18.04" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|4°11'9.71" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°7'14.86" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°19'18.09" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|4°11'9.65" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|17°7'14.68" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|0°5'39.57" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|22°17'33.47" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|0°23'49.65" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|28°24'42.11" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|22°17'33.43" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|0°23'49.68" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|28°24'41.82" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°19'18.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|4°11'9.71" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°7'14.86" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|19°19'18.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|4°11'9.65" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°7'14.68" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°5'39.57" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|22°17'33.47" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|0°23'49.65" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|28°24'42.11" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|22°17'33.43" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|0°23'49.68" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|28°24'41.82" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -371,10 +371,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Aintab, Antep, Ayintap, Ayntʻap, Ayıntap, Dilok, Dîlok, GZT, Gazi-Ayintap, Gaziantep, Gaziantepa, Gaziantepas, Gazijantehp, Gazijantep, Guaziantep, Nkaziantep, Qazianteb, Qaziantep, gaji'antepa, gajiantepeu, gaziantepi, gazu~iantepu, jia ji an tai pu, ka si xan tep, Γκαζιαντέπ, Газиантеп, Газијантеп, Газіянтэп, Гъазиантеп, Ґазіантеп, Այնթապ, Գազիանթեպ, גזיאנטפ, عنتاب, غازی عینتاب, گازی ئانتەپ, ਗਜਿਆਂਤੇਪ, กาซีอันเตป, გაზიანთეფი, ガズィアンテプ, 加濟安泰普, 가지안테프

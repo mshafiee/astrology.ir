@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'46.75" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°34'11.31" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°54'47.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°54'47.09" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°16'1.70" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°41'45.25" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°28'29.88" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'46.75" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°34'11.31" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°54'47.09" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°54'47.09" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°16'1.70" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°41'45.25" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°28'29.88" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Coomassie, KMS, Kumase, Kumasi, Kumasi shaary, Kumasis, Kumassi, Kumasy, ku ma xi, kumashi, kumasi, kwmasy, Кумаси, Кумаси шаары, Кумасі, Կումասի, كوماسي, کوماسی, ਕੁਮਾਸੀ, クマシ, 库马西, 쿠마시

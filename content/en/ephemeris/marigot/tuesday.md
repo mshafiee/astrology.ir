@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'15.78" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°32'50.51" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°59'8.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°59'8.50" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°25'59.80" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°54'26.20" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°18'7.04" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'15.78" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°32'50.51" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°59'8.50" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°59'8.50" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°25'59.80" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°54'26.20" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°18'7.04" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MSB, Marigo, Marigot, Marigoto, Marinko, Mariqo, Marygo, XCJ, ma li ge, ma ri ko, maligas, maligo, marigo, marikat, marygw, Μαριγκό, Мариго, Марыго, Маріго, ماریگاٹ, ماریگو, मारिगो, மரிகாட், มารีโก, მარიგო, マリゴ, 马里戈, 마리갓, 마리고

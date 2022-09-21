@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'23.27" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°33'9.84" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°58'7.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°58'7.94" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°23'38.33" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°51'27.58" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°20'29.64" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'23.27" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°33'9.84" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°58'7.94" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°58'7.94" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°23'38.33" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°51'27.58" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°20'29.64" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크

@@ -14,7 +14,7 @@ description: 🗓 Wednesday, 21 Sep 2022
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: +03:30
+TimeZone: +04:30
 \-
 Latitude: 38.0800
 \-
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'10.61" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|4°27'19.58" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|16°16'50.42" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°25'10.55" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|4°27'19.64" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|16°16'50.60" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|28°6'45.44" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|19°46'18.44" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|2°34'43.63" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°32'44.17" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|19°46'18.49" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|2°34'43.61" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°32'43.24" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°25'10.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|4°27'19.58" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|16°16'50.42" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|19°25'10.55" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|4°27'19.64" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|16°16'50.60" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|28°6'45.44" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|19°46'18.44" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|2°34'43.63" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°32'44.17" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|19°46'18.49" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|2°34'43.61" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°32'43.24" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

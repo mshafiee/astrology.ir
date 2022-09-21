@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'47.48" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°34'13.21" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°54'41.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°54'41.01" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°15'47.73" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°41'27.50" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°28'44.25" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'47.48" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°34'13.21" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°54'41.01" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°54'41.01" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°15'47.73" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°41'27.50" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°28'44.25" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ACC, Aakra, Aakrá, Accra, Acra, Akara, Akkr, Akkra, Akkrae, Akra, Akrao, Akʻra, Nkran, a ke la, akara, akeula, akra, akura, xak kra, yەkra, ΄Aκκρα, Άκκρα, Аккрæ, Аккра, Акра, Աքրա, אקרא, אקרה, آکرا, أكرا, ئەکرا, اكرا, اکرا, عکرہ, अक्रा, आक्रा, আক্রা, ਅਕਰਾ, ଆକ୍ରା, அக்ரா, അക്ര, อักกรา, ཨ་ཁ་ར།, အက်ခရာမြို့, აკრა, አክራ, アクラ, 阿克拉, 아크라

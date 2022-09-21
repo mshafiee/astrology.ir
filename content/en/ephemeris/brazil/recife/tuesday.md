@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'29.86" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°33'27.35" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°57'10.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°57'10.60" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°21'28.13" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°48'41.31" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°22'47.82" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'29.86" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°33'27.35" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°57'10.60" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°57'10.60" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°21'28.13" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°48'41.31" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°22'47.82" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Arrecife, Fernambucum, Mauricea, Mauricéa, Pernambuco, REC, Recife, Rehsifi, Resife, Resifi, Resifė, hesiphi, hesipi, lei xi fei, li si fei, re sifi, recihpi, reshife, resiphe, resipi, risifi, rsyph, rysyf, rysyfy, Ρεσίφε, Ресифе, Ресифи, Ресіфі, Рэсіфі, Ռեսիֆի, רסיפה, ريسيفي, ریسیف, रिसीफ़ी, रेसिफे, রেসিফে, হেসিফি, ரெசிஃபி, เรซีฟี, რესიფი, レシフェ, 李斯腓, 累西腓, 헤시피

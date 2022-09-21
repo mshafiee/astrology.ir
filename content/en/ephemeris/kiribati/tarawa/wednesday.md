@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°26'13.33" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°30'6.47" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|16°7'57.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|16°7'57.61" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°46'13.65" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|19°20'11.33" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|2°56'43.38" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°26'13.33" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°30'6.47" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|16°7'57.61" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|16°7'57.61" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°46'13.65" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|19°20'11.33" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|2°56'43.38" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Juzhnaja Tarava, South Tarawa, Sued-Tarawa, Süd-Tarawa, TRW, Tarawa, Tarawa Sud, Tarawa do Sul, Tarawa-Sud, Zuid-Tarawa, namtalawa, sauseutalawa, talawa, Южная Тарава, דרום טאראווה, 남타라와, 사우스타라와, 타라와

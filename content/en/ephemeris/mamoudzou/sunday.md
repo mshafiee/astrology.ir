@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'52.76" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°55'17.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|17°54'41.33" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°1'49.99" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°45'16.31" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|28°19'8.85" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|23°16'9.02" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|19°13'52.71" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°55'17.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|17°54'41.51" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°1'50.00" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|24°45'16.36" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|28°19'8.82" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|23°16'9.63" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'52.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°55'17.72" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°54'41.33" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|2°1'49.99" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|24°45'16.31" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|28°19'8.85" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|23°16'9.02" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|19°13'52.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°55'17.79" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|17°54'41.51" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|2°1'50.00" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|24°45'16.36" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|28°19'8.82" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|23°16'9.63" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Mambutzou, Mamoudzou, Mamoutzou, Mamudzu, Mamutzu, mamuju, Мамудзу, 마무주

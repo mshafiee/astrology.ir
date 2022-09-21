@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°26'10.90" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°30'0.01" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|16°8'21.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|16°8'21.15" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°47'3.66" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|19°21'16.87" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|2°55'42.88" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°26'10.90" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°30'0.01" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|16°8'21.15" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|16°8'21.15" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°47'3.66" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|19°21'16.87" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|2°55'42.88" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Kingston, Kingston pa Norfolkoya, Kingston på Norfolkøya, Kingstona, Kingstonas, Kingstono, Kingstun, Kinqston, Pasjolak Kingstan, jin si dui, khing s tan, kincutan, kingseuteon, kingstana, kingusuton, kynghstwn, kyngstwn, Кингстон, Кингстън, Кінгстон, Пасёлак Кінгстан, كينغستون, کنگسٹن, کینگستون, किंग्स्टन, கிங்சுடன், คิงส์ตัน, კინგსტონი, キングストン, 金斯敦, 킹스턴

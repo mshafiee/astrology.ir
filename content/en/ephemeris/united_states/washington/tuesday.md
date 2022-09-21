@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'9.14" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°32'33.06" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|16°0'5.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|16°0'5.13" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°28'9.16" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°57'11.01" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°15'50.69" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'9.14" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°32'33.06" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|16°0'5.13" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|16°0'5.13" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°28'9.16" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°57'11.01" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°15'50.69" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: District of Columbia, Federal Capital, Federal City, Federal Town, Ouasinkton, Ranatakariahshne, Ranatakariáhshne, Territory of Columbia, Vashington, Vasingtonas, Vasingtonia, Vašingtonas, WAS, Washington, Washington City, Washington D. C., Washington D.C., Washington DC, Waszyngton, hua sheng dun te qu, wosingteon D.C., wosingteon DC, Ουάσιγκτον, Вашингтон, 华盛顿特区, 워싱턴 D.C., 워싱턴 DC

@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'15.89" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°32'50.81" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|15°59'7.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Pre-Retrograde Shadow|15°59'7.53" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°25'57.55" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|18°54'23.35" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|3°18'9.38" |Virgo|Sarfrah|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°27'15.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°32'50.81" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°59'7.53" |Gemini|HanAh|Mars|
+|♂ Mars|Pre-Retrograde Shadow|15°59'7.53" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°25'57.55" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|18°54'23.35" |Virgo|Simak|Venus|
 |☿ Mercury|Retrograde|3°18'9.38" |Libra|Ghafr|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Goustavia, Gustaf, Gustavi, Gustavia, Gustavija, Gustavio, Gustávia, Guthavia, Qustaviya, guseutabia, gustavhiya, gusutabia, gwiseutabia, gwstawya, ju si ta wei ya, ku s ta wi ya, kucutaviya, Γουσταβία, Густави, Густавия, Густавија, Густавія, گوستاویا, گوسٹاویا, गुस्ताव्हिया, குசுதாவியா, กุสตาวียา, გუსტავია, グスタビア, 居斯塔维亚, 구스타비아, 귀스타비아
