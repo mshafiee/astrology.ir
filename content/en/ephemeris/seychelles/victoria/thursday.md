@@ -1,6 +1,6 @@
 ---
-date: 2022-09-22T00:00:00+04:00
-lastmod: 2022-09-22T00:00:00+04:00
+date: 2022-09-29T00:00:00+04:00
+lastmod: 2022-09-29T00:00:00+04:00
 title: Victoria (Thursday)
 slug: thursday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Thursday, 22 Sep 2022
+description: 🗓 Thursday, 29 Sep 2022
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -329,10 +329,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아
