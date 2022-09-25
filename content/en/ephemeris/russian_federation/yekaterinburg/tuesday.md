@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:48:36 |
 | Sunset | 18:43:59 |
 | Maghrib | 18:48:01 |
-| Isha | 20:47:10 |
+| Isha | 20:47:09 |
 | Sharia Midnight | 23:43:15 |
 | Imum Coeli | 00:48:26 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°8'48.89" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°39'30.44" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|18°39'57.54" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°8'48.94" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°39'30.37" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|18°39'57.35" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|3°57'15.80" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|27°11'56.51" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|26°30'55.50" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|18°52'27.41" |Virgo|Simak|Venus|
+|♀ Venus|Direct|27°11'56.47" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|26°30'55.55" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|18°52'27.24" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°8'48.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°39'30.44" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°39'57.54" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|19°8'48.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°39'30.37" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°39'57.35" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|3°57'15.80" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|27°11'56.51" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|26°30'55.50" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|18°52'27.41" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|27°11'56.47" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|26°30'55.55" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|18°52'27.24" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
