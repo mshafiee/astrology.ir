@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°17'36.35" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°6'18.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°21'58.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°21'58.93" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|0°41'14.57" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|23°2'49.08" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|29°44'40.71" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°17'36.35" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°6'18.55" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°21'58.93" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°21'58.93" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|0°41'14.57" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|23°2'49.08" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|29°44'40.71" |Virgo|Simak|Mercury|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

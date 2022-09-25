@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°2'58.26" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°19'52.93" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°33'39.99" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|6°21'4.03" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|0°14'32.33" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|24°54'14.53" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|21°43'36.20" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|19°2'58.30" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°19'52.85" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|19°33'39.80" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|6°21'4.04" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|0°14'32.29" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|24°54'14.57" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|21°43'36.15" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°2'58.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°19'52.93" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°33'39.99" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|6°21'4.03" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|0°14'32.33" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|24°54'14.53" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|21°43'36.20" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|19°2'58.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°19'52.85" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°33'39.80" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|6°21'4.04" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|0°14'32.29" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|24°54'14.57" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|21°43'36.15" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -372,9 +372,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Cdmx, Cidade de Mexico, Cidade de México, Cidade do Mexico, Cidade do México, Cita du Messicu, Citta del Messico, Città del Messico, Cità dû Messicu, Cità dû Mèssicu, Ciudad Mexico, Ciudad de Mejico, Ciudad de Mexico, Ciudad de Méjico, Ciudad de México, Ciutat de Mexic, Ciutat de Mèxic, Lungsod ng Mexico, Lungsod ng México, MEX, Mehiko, Mekhiko, Meksikas, Meksiko, Meksiko Siti, Meksikurbo, Meksyk, Mexico, Mexico City, Mexico D.F., Mexico DF, Mexico Distrito Federal, Mexico by, Mexico-stad, Mexicopolis, Mexiko, Mexiko Hiria, Mexiko-Stadt, Mexikoborg, Mexíkóborg, México, México Distrito Federal, Nkoyo, Pole tou Mexikou, Valle de Mexico, Valle de México, mdynt mksykw, megsiko si, megsikositi, mekishikoshiti, meksiko, meksiko siti, meksikositi, mkzykw, mkzykwsyty, mo xi ge cheng, mqsyqw syty, Πόλη του Μεξικού, Мексико, Мексико Сити, Мехико, Мехіко, מקסיקו סיטי, مدينة مكسيكو, مکزیکو, مکزیکوسیتی, مېكسىكا شەھىرى, मेक्सिको सिटी, মেক্সিকো, เม็กซิโกซิตี, მეხიკო, メキシコシティ, 墨西哥城, 멕시코 시, 멕시코시티

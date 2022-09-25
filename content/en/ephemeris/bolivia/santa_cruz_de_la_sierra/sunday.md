@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'4.92" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°52'52.77" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°1'45.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°1'45.12" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°19'30.68" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|25°7'44.76" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°1'14.70" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'4.92" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°52'52.77" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°1'45.12" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°1'45.12" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°19'30.68" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|25°7'44.76" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°1'14.70" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Ciudad Santa Cruz, Ciudad de Santa Cruz de la Sierra, SRZ, Santa Cruz, Santa Cruz da Serra, Santa Cruz de la Sierra, Santa-Krus-de-la-Sierra, santakurusu, Санта-Крус-де-ла-Сиерра, سانتا کروز دلاسیه‌را, サンタクルス

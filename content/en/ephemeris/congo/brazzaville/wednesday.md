@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°6'4.03" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°30'29.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°4'58.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°4'58.83" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|5°3'14.62" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|28°35'44.35" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|25°40'23.56" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°6'4.03" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°30'29.50" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°4'58.83" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°4'58.83" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|5°3'14.62" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|28°35'44.35" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|25°40'23.56" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BZV, Braza, Brazavil, Brazavilis, Brazavilo, Brazzavil', Brazzaville, Maya-Maya, Mprazabil, N'Tamo, beulajabil, brazafyl, brazawyl, brzwwyl, bu la chai wei er, burazavu~iru, Μπραζαβίλ, Браззавиль, ברזוויל, برازافيل, برازاویل, ብራዛቪል, ブラザヴィル, 布拉柴维尔, 브라자빌

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°2'57.75" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°19'51.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°33'44.81" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|6°21'17.30" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|0°14'49.17" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|24°54'8.03" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|21°46'37.20" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|19°2'57.79" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°19'51.05" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|19°33'44.62" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|6°21'17.31" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|0°14'49.13" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|24°54'8.08" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|21°46'37.15" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°2'57.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°19'51.12" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°33'44.81" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|6°21'17.30" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|0°14'49.17" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|24°54'8.03" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|21°46'37.20" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|19°2'57.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°19'51.05" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°33'44.62" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|6°21'17.31" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|0°14'49.13" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|24°54'8.08" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|21°46'37.15" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -372,9 +372,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MTY, Mantehrehj, Mons Regis, Monterej, Monterejo, Monterejus, Monterey, Monterrei, Monterrej, Monterreja, Monterrey, Monterrey City, Monterrey i Nuevo Leon, Monterrey i Nuevo León, Monterėjus, Tlahtoantepec, Tlahtoāntepēc, mamtere, meng te lei, montelei, montere'i, monterei, mwntry, mwntryy, mwntyry, mxn terrey, Μοντερρέι, Мантэрэй, Монтерей, Монтереј, Монтеррей, Մոնտերեյ, מונטריי, مونتری, مونتيري, مونتےرئی, माँतेरे, ਮੋਂਤੇਰੇਈ, มอนเตร์เรย์, མཱོན་ཊི་རེ།, მონტერეი, モンテレイ, 蒙特雷, 몬테레이

@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'36.34" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°54'28.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°57'4.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°57'4.99" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°7'50.85" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°52'54.19" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°13'4.16" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'36.34" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°54'28.30" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°57'4.99" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°57'4.99" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°7'50.85" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°52'54.19" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°13'4.16" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Ciudad de Malabo, Malaba, Malabas, Malabo, Malabó, Malampo, Port Clarence, Rev Malebo, SSG, Santa Isabel, ma la bo, mala bo, malabo, malabw, malapo, mallabo, marabo, mlabw, Μαλάμπο, Малаба, Малабо, Մալաբո, מלאבו, مالابو, مالابۆ, ملابو, मलाबो, ਮਲਾਬੋ, மலாபோ, มาลาโบ, མ་ལ་བོ།, მალაბო, ማላቦ, マラボ, 馬拉博, 말라보

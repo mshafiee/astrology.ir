@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'6.44" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°20'21.51" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°32'24.00" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|6°17'34.30" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|0°10'6.29" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|24°55'58.00" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|20°53'53.61" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|19°3'6.49" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°20'21.43" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|19°32'23.81" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|6°17'34.31" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|0°10'6.25" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|24°55'58.05" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|20°53'53.57" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'6.44" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°20'21.51" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°32'24.00" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|6°17'34.30" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|0°10'6.29" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|24°55'58.00" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|20°53'53.61" |Scorpio|Qalb|Venus|
+|♄ Saturn|Retrograde|19°3'6.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°20'21.43" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°32'23.81" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|6°17'34.31" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|0°10'6.25" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|24°55'58.05" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|20°53'53.57" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -372,9 +372,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: District of Columbia, Federal Capital, Federal City, Federal Town, Ouasinkton, Ranatakariahshne, Ranatakariáhshne, Territory of Columbia, Vashington, Vasingtonas, Vasingtonia, Vašingtonas, WAS, Washington, Washington City, Washington D. C., Washington D.C., Washington DC, Waszyngton, hua sheng dun te qu, wosingteon D.C., wosingteon DC, Ουάσιγκτον, Вашингтон, 华盛顿特区, 워싱턴 D.C., 워싱턴 DC

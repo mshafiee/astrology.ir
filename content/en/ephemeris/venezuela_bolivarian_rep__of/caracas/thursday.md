@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'10.75" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°20'36.73" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°31'43.27" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|6°15'42.34" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|0°7'44.10" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|24°56'54.55" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|20°28'38.91" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|19°3'10.79" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°20'36.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|19°31'43.07" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|6°15'42.35" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|0°7'44.06" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|24°56'54.60" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|20°28'38.88" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'10.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°20'36.73" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°31'43.27" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|6°15'42.34" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|0°7'44.10" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|24°56'54.55" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|20°28'38.91" |Scorpio|Qalb|Venus|
+|♄ Saturn|Retrograde|19°3'10.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°20'36.66" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°31'43.07" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|6°15'42.35" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|0°7'44.06" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|24°56'54.60" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|20°28'38.88" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -372,9 +372,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스

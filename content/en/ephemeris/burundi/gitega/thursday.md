@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°3'48.19" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°22'47.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°25'54.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°25'54.69" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|5°59'45.90" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|29°47'30.37" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|25°5'17.49" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°3'48.19" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°22'47.04" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°25'54.69" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°25'54.69" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|5°59'45.90" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|29°47'30.37" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|25°5'17.49" |Virgo|Simak|Mercury|
@@ -372,9 +372,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: GID, Gitega, Gitege, Kitega, Гитеге

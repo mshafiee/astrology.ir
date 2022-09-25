@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°3'39.27" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°22'16.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°27'17.00" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|6°3'32.26" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|29°52'17.25" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|25°3'15.83" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|17°40'53.08" |Libra|Jubana|Saturn|
+|♃ Jupiter|Retrograde|3°22'16.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|19°27'19.48" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|6°3'32.00" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|29°52'17.19" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|25°3'16.03" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|17°31'6.99" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°3'39.27" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°22'16.13" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°27'17.00" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°27'17.00" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|6°3'32.26" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|29°52'17.25" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|25°3'15.83" |Virgo|Simak|Mercury|
@@ -372,9 +372,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: KAD, Kadun, Kaduna, Kaduno, Kàdúná, ka du na, kado~una, kaduna, kadwna, qdwnh, Кадуна, קדונה, كادونا, کادونا, ਕਾਦੂਨਾ, カドゥナ, 卡杜納, 카두나

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°3'24.72" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°21'25.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°29'40.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°29'40.68" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|6°9'52.75" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|0°0'24.86" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Retrograde|24°59'41.57" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|18°32'23.49" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|18°37'29.09" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°3'24.72" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°21'25.12" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°29'40.68" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°29'40.68" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|6°9'52.75" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|0°0'24.86" |Libra|Ghafr|Moon|
 |☿ Mercury|Retrograde|24°59'41.57" |Virgo|Simak|Mercury|
@@ -372,9 +372,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄

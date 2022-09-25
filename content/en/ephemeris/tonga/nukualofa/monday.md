@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°12'16.02" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°50'22.92" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°8'59.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°8'59.91" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°37'46.47" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|25°30'57.58" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|27°43'11.31" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°12'16.02" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°50'22.92" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°8'59.91" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°8'59.91" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°37'46.47" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|25°30'57.58" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|27°43'11.31" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파

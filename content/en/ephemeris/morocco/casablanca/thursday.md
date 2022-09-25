@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'33.14" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°21'54.71" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°28'14.36" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|6°6'9.48" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|29°55'36.79" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|25°1'51.86" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|18°17'18.57" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|19°3'33.19" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°21'54.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|19°28'14.16" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|6°6'9.49" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|29°55'36.75" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|25°1'51.91" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|18°17'18.56" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°3'33.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°21'54.71" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°28'14.36" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|6°6'9.48" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|29°55'36.79" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|25°1'51.86" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|18°17'18.57" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|19°3'33.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°21'54.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°28'14.16" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|6°6'9.49" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|29°55'36.75" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|25°1'51.91" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|18°17'18.56" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -372,9 +372,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ad Dar al Bayda, Ad Dar al Bayda', Ad Dār al Bayḑā’, Anafi, Anfa, CAS, Casa Branca, Casablanca, Casabranca, Dar-el-Beida, Dar-uel-Beyda, Darul Baidha, Dâr-ül-Beydâ, Ed Dar el Baida, Ed Dār el Baida, Kasablank, Kasablanka, Kasablankae, Kazablanka, Kazablanko, Kazamplan'ka, Tigemmi Tamellalt, White House, ad-Dar al-Baydaʼ, ad-Dar al-baydaʾ, ad-Dār al-Bayḍāʼ, ad-Dār al-bayḍāʾ, aldar albydaʾ, anfa, dar albydaʾ, daralbyda, ka sa bu lan ka, ka sab l xng ka, kacapilanka, kasabalanka, kasabeullangka, kasablanka, kasaburanka, kazablanka, qzblnqh, Καζαμπλάνκα, Казабланка, Касабланкæ, Касабланка, Կասաբլանկա, קזבלנקה, أنفا, الدار البيضاء, دار البیضاء, دارالبیضا, كازابلانكا, کازابلانکا, کاسابلانکا, कासाब्लांका, কাসাব্লাংকা, ਕਾਸਾਬਲਾਂਕਾ, காசாபிளாங்கா, కాసాబ్లాంకా, ಕಾಸಾಬ್ಲಾಂಕಾ, കാസബ്ലങ്ക, กาซาบล็องกา, ກາຊາບັງກາ, ကာဆာဘလန်ကာမြို့, კასაბლანკა, ⴰⵏⴼⴰ, カサブランカ, 卡萨布兰卡, 카사블랑카

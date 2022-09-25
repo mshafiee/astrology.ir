@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'30.66" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°54'10.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°57'55.53" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°13'30.71" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°54'10.84" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|17°57'55.34" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°9'57.84" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°55'35.50" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|28°10'55.73" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|25°10'51.81" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|24°55'35.45" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|28°10'55.77" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°10'51.23" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'30.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°54'10.91" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°57'55.53" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|19°13'30.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°54'10.84" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°57'55.34" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°9'57.84" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|24°55'35.50" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|28°10'55.73" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|25°10'51.81" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|24°55'35.45" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|28°10'55.77" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|25°10'51.23" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: La Villa y Corte de Madrid, Los Madriles, Lungsod ng Madrid, MAD, Ma-daik-li, Ma-tet-li, Madrid, Madrid osh, Madridas, Madride, Madridi, Madrido, Madrids, Madril, Madrit, Madrite, Madryd, Madryt, Madríd, Madrîd, Magerit, Maidrid, Mairil, Makelika, Matritum, Mâ-tet-lî, Mā-dáik-lī, ma de li, madarida, madeulideu, madorido, madorido shi, madri, madrid, madrida, madridi, madryd, matrit, mdryd, myadrida, mydrd, Μαδρίτη, Мaдрид, Мадрид, Мадрид ош, Мадрыд, Мадрід, Մադրիդ, מאדריד, מדריד, مادرىد, مادرید, مدريد, میدرد, مەدرید, ܡܕܪܝܕ, मद्रिद, मद्रिद्, माद्रिद, माद्री, म्याड्रिड, মাদ্রিদ, ਮਾਦਰੀਦ, ମାଡ୍ରିଦ, மத்ரித், ಮಡ್ರಿಡ್, മാഡ്രിഡ്, มาดริด, མ་ད་རིད།, မဒရစ်မြို့, მადრიდი, ማድሪድ, マドリード, マドリード市, 馬德里, 马德里, 마드리드

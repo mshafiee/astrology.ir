@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'4.56" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°52'51.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°1'46.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°1'46.13" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°19'36.97" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|25°7'51.30" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°1'13.72" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'4.56" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°52'51.66" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°1'46.13" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°1'46.13" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°19'36.97" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|25°7'51.30" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°1'13.72" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Filip'smpournk, Filipsburg, Filipsburgas, Great Bay, Philipsburg, fei li pu si bao, fi lipsburkh, firippusuburufu, flpsbrg, fylypsbwrg  synt martn, pilipcuparku, pillibseubwileuheu, Φίλιπσμπουργκ, Филипсбург, Філіпсбург, فلپسبرگ, فیلیپسبورگ، سینت مارتن, பிலிப்சுபர்கு, ฟีลิปส์บืร์ค, ფილიპსბურგი, フィリップスブルフ, 菲利普斯堡, 필립스뷔르흐

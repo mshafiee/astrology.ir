@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'35.55" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°54'25.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°57'11.92" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°57'11.92" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°8'8.29" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°53'16.33" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°12'46.59" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'35.55" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°54'25.91" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°57'11.92" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°57'11.92" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°8'8.29" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°53'16.33" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°12'46.59" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: PHC, Port Harcourt, Port Harkortas, Port Kharkurt, Port-Kharkort, Ugwu Ocha, Ugwu Ọcha, bwrt harkwrt, ha ke te gang, poteuhakeoteu, potohakoto, pwrt hrqwrt, Порт Харкурт, Порт-Харкорт, פורט הרקורט, بورت هاركورت, ポートハーコート, 哈科特港, 포트하커트

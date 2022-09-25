@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'31.23" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°54'12.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°57'51.12" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°13'31.28" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°54'12.52" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|17°57'50.94" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°9'45.98" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|24°55'20.77" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|28°11'6.46" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|25°5'8.70" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|24°55'20.72" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|28°11'6.50" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°5'8.12" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°13'31.23" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°54'12.59" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°57'51.12" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|19°13'31.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°54'12.52" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°57'50.94" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°9'45.98" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|24°55'20.77" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|28°11'6.46" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|25°5'8.70" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|24°55'20.72" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|28°11'6.50" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|25°5'8.12" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: GCI, Saint Peter Port, Saint Pierre Port, Saint-Pierre-Port, Sanktapetrurbo, Sejnt Pitur Port, Sent Piter Port, Sent Piter Portas, Sent-Pitehr-Port, Sent-Piter-Port, Sentpiterporta, Sentpīterporta, St Peter Port, St. Peter Port, san bytr bwrt, seinteupiteopoteu, sent pi texr phxrt, sheng bi de gang, sn ptr pwrt, snt pytr pwrt, Сейнт Питър Порт, Сент Питер Порт, Сент-Питер-Порт, Сент-Пітер-Порт, Сент-Пітэр-Порт, סנט פיטר פורט, سان بيتر بورت, سن پتر پورت, سینٹ پیٹر پورٹ, เซนต์ปีเตอร์พอร์ต, სენტ-პიტერ-პორტი, セント・ピーター・ポート, 圣彼得港, 세인트피터포트

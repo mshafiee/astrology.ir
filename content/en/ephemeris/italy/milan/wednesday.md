@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°6'0.89" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°30'18.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°5'27.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°5'27.69" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|5°4'32.65" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|28°37'23.19" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|25°39'30.49" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°6'0.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°30'18.80" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°5'27.69" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°5'27.69" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|5°4'32.65" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|28°37'23.19" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|25°39'30.49" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Lungsod ng Milano, MIL, Mailand, Mediolan, Mediolanum, Mila, Milaan, Milan, Milana, Milanas, Milano, Milanu, Milao, Milà, Milán, Miláno, Milánó, Milão, Milāna, Mílanó, Mилан, mi lan, milan, milana, milani, millano, mirano, mylan, mylanw, Милан, Милано, Мілан, מילאנו, مىلان, ميلانو, মিলান, மிலன், มิลาน, მილანი, ミラノ, 米蘭, 밀라노

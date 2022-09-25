@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°12'48.14" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°52'1.48" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°4'11.86" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|19°12'48.19" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°52'1.41" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|18°4'11.68" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°25'43.80" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|25°15'37.48" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|27°55'8.37" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|28°40'44.63" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|25°15'37.43" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|27°55'8.41" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|28°40'44.10" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°12'48.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°52'1.48" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°4'11.86" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|19°12'48.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°52'1.41" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°4'11.68" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°25'43.80" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|25°15'37.48" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|27°55'8.37" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|28°40'44.63" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|25°15'37.43" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|27°55'8.41" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|28°40'44.10" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: MTY, Mantehrehj, Mons Regis, Monterej, Monterejo, Monterejus, Monterey, Monterrei, Monterrej, Monterreja, Monterrey, Monterrey City, Monterrey i Nuevo Leon, Monterrey i Nuevo León, Monterėjus, Tlahtoantepec, Tlahtoāntepēc, mamtere, meng te lei, montelei, montere'i, monterei, mwntry, mwntryy, mwntyry, mxn terrey, Μοντερρέι, Мантэрэй, Монтерей, Монтереј, Монтеррей, Մոնտերեյ, מונטריי, مونتری, مونتيري, مونتےرئی, माँतेरे, ਮੋਂਤੇਰੇਈ, มอนเตร์เรย์, མཱོན་ཊི་རེ།, მონტერეი, モンテレイ, 蒙特雷, 몬테레이

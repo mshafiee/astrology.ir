@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°6'1.03" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°30'19.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°5'25.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°5'25.52" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|5°4'27.51" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|28°37'16.35" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|25°39'35.02" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°6'1.03" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°30'19.45" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°5'25.52" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°5'25.52" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|5°4'27.51" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|28°37'16.35" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|25°39'35.02" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Byen Kano, Cano, KAN, Kanas, Kano, Kánò, ka nuo, kano, kanw, kanw  nyjryh, qnw, Кано, קנו, كانو, کانو, کانو، نیجریه, कानो, ਕਾਨੋ, கனோ, カノ, 卡諾, 카노

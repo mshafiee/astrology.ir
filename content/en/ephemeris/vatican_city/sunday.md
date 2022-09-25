@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'37.84" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°54'32.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°56'52.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°56'52.09" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°7'18.85" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°52'13.48" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°13'36.80" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'37.84" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°54'32.66" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°56'52.09" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°56'52.09" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°7'18.85" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°52'13.48" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°13'36.80" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Citta del Vaticano, Città del Vaticano, Ciudad del Vaticano, Etat de la Cite du Vatican, Staat Vatikanstadt, Staat der Vatikanstadt, Vatican, Vatican City, Vatican City State, Vaticano, Vatikan, Vatikanas, Vatikanstaden, Vatikanstadt, batikan, batikan si, État de la Cité du Vatican, Ватикан, 바티칸, 바티칸 시

@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'38.20" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°54'33.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°56'48.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°56'48.24" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°7'9.53" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°52'1.45" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°13'46.96" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'38.20" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°54'33.91" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°56'48.24" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°56'48.24" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°7'9.53" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°52'1.45" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°13'46.96" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: MIU, Maidiguri, Maidugari, Maiduguri, Maiduguris, Majduguri, mai du gu li, maido~uguri, maiduguli, maydwghwry, maydwgwrw, maydwjwry, mydghry, mydwgwry, Маидугури, Майдугури, Майдугурі, מידוגורי, مايدوجوري, مايدوغوري, مايدوگورو, ميدغري, マイドゥグリ, 邁杜古里, 마이두구리

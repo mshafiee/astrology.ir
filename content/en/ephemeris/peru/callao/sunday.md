@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°12'58.71" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°52'33.84" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°2'39.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°2'39.61" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°21'48.63" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|25°10'39.72" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|27°58'58.26" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°12'58.71" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°52'33.84" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°2'39.61" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°2'39.61" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°21'48.63" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|25°10'39.72" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|27°58'58.26" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Callao, El Callao, Kajao, Kal'jaa, Kal'jao, Kalao, Kaljao, Kallao, Kallaw, Kalyao, Regio de Callao, Regió de Callao, ka ya e, kayao, kayaw, kayayw, klaw, Кальяа, Кальяо, Каляо, Каяо, Каљао, Կալյաո, كاياو, کایائو, کایاو, کلاؤ, კალიაო, カヤオ, 卡亞俄, 카야오

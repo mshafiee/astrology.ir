@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°5'50.63" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°29'44.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|19°7'0.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°7'0.99" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|5°8'42.92" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|28°42'40.65" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|25°36'40.66" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°5'50.63" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°29'44.58" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|19°7'0.99" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°7'0.99" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|5°8'42.92" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|28°42'40.65" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|25°36'40.66" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르

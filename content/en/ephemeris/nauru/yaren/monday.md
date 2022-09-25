@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°12'7.89" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°49'57.90" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°10'10.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°10'10.36" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°40'47.86" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|25°34'46.88" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|27°40'19.18" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°12'7.89" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°49'57.90" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°10'10.36" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°10'10.36" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°40'47.86" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|25°34'46.88" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|27°40'19.18" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'35.67" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°54'26.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°57'10.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°57'10.66" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°8'5.59" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°53'12.73" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°12'49.93" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'35.67" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°54'26.25" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°57'10.66" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°57'10.66" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°8'5.59" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°53'12.73" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°12'49.93" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: KAD, Kadun, Kaduna, Kaduno, Kàdúná, ka du na, kado~una, kaduna, kadwna, qdwnh, Кадуна, קדונה, كادونا, کادونا, ਕਾਦੂਨਾ, カドゥナ, 卡杜納, 카두나

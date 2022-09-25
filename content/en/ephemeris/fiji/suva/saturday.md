@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°17'36.12" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|4°6'17.87" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°22'1.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°22'1.87" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|0°41'20.27" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|23°2'56.92" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|29°44'32.19" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°17'36.12" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|4°6'17.87" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°22'1.87" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°22'1.87" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|0°41'20.27" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|23°2'56.92" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|29°44'32.19" |Virgo|Simak|Mercury|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

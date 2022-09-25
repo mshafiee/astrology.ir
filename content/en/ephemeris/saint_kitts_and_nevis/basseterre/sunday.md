@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'4.70" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°52'52.10" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°1'44.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°1'44.86" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°19'33.73" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|25°7'47.19" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°1'16.93" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'4.70" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°52'52.10" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°1'44.86" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°1'44.86" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°19'33.73" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|25°7'47.19" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°1'16.93" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Basse Terre Town, Basseterre, Baste, Bastehr, Baster, Bastera, Basteras, Bastero, Bastè, Mpaster, SKB, ba si te er, basetera, baseteru, baseuteleu, bastyr, basytyr, pacettere, Μπαστέρ, Бастер, Бастэр, באסטר, باستير, باسه‌تر, باسیتیر, बासेतेर, பாசெட்டெரே, บาสแตร์, པ་སི་ཐེར།, ბასტერი, ባስቴር, バセテール, 巴斯特尔, 바스테르

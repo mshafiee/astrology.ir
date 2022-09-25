@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°12'17.37" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°50'27.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°8'47.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°8'47.10" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°37'15.34" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|25°30'17.52" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|27°43'43.48" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°12'17.37" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°50'27.09" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°8'47.10" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°8'47.10" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°37'15.34" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|25°30'17.52" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|27°43'43.48" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

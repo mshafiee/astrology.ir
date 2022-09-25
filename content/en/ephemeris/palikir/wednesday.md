@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°7'1.42" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°33'40.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°56'12.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°56'12.53" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|4°39'56.78" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|28°6'8.68" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|25°57'9.42" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°7'1.42" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°33'40.31" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°56'12.53" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°56'12.53" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|4°39'56.78" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|28°6'8.68" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|25°57'9.42" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르

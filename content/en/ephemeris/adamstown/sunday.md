@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°12'35.77" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°51'23.60" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°6'4.77" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°6'4.77" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°30'23.23" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|25°21'34.60" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|27°50'24.76" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°12'35.77" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°51'23.60" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°6'4.77" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°6'4.77" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°30'23.23" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|25°21'34.60" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|27°50'24.76" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'38.73" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°54'35.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°56'44.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°56'44.81" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°6'59.88" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°51'49.69" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°13'54.87" |Leo|Sarfrah|Mars|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'38.73" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°54'35.31" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°56'40.56" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|2°7'0.18" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|24°51'49.66" |Virgo|Simak|Mercury|
-|☿ Mercury|Retrograde|28°13'54.91" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|24°26'39.77" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|17°56'44.81" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|2°6'59.88" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|24°51'49.69" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|28°13'54.87" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|24°28'31.79" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: PRG, Praag, Prag, Praga, Pragae, Prago, Prague, Praha, Pràg, Prág, Prága, Prâg, Prāga, bragh, bu la ge, peulaha, prag, praga, prak, prg, puraha, Πράγα, Праг, Прагæ, Прага, פראג, براغ, پراگ, پراگا, ܦܪܓ, প্রাগ, ปราก, པུ་ལ་ཁེ, პრაღა, ፕራግ, プラハ, 布拉格, 프라하

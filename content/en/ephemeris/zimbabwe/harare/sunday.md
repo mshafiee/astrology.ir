@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'46.46" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°54'58.90" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°55'37.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°55'37.24" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°4'8.50" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°48'12.73" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°16'46.20" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'46.46" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°54'58.90" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°55'37.24" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°55'37.24" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°4'8.50" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°48'12.73" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°16'46.20" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Arare, Charare, HRE, Harare, Hararensis Urbs, Harareo, Hararė, Kharare, Kharareh, Salisbury, ha la lei, halale, harare, harary, hrarh, hrary, Χαράρε, Хараре, Харарэ, Հարարե, הארארה, هارارى, هراره, هراري, ھارارې, ھەرارێ, ہرارے, हरारे, ਹਰਾਰੇ, ହାରାରେ, ஹராரே, ฮาราเร, ཧ་ར་རི།, ჰარარე, ሀራሬ, ハラレ, 哈拉雷, 하라레

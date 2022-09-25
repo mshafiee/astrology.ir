@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'1.55" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°52'42.47" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|18°2'12.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°2'12.85" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°20'44.15" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|25°9'16.68" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°0'6.59" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'1.55" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°52'42.47" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|18°2'12.85" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°2'12.85" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°20'44.15" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|25°9'16.68" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°0'6.59" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Ciudad Trujillo, SDQ, Saint Domingue, Santo Domingo, Santo Domingo City, Santo Domingo de Guzman, Santo Domingo de Guzmán, Santo Ntomin'nko, Santo-Domingo, santodoming-go, Σάντο Ντομίνγκο, Санто-Доминго, 산토도밍고

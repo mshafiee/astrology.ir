@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'40.65" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|3°54'41.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|17°56'26.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°56'26.83" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°6'15.41" |Virgo|Sarfrah|Sun|
 |♀ Venus|Direct|24°50'52.88" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|28°14'41.21" |Leo|Sarfrah|Mars|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|19°13'40.65" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|3°54'41.35" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|17°56'26.83" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°56'26.83" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°6'15.41" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|24°50'52.88" |Virgo|Simak|Mercury|
 |☿ Mercury|Retrograde|28°14'41.21" |Virgo|Simak|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: BGF, Bangi, Bangis, Bangui, Mpan'nkoui, ban ji, bang-gi, bangi, bangwyy, Μπανγκουί, Банги, Бангі, בנגואי, بانگوئی, ባንጊ, バンギ, 班基, 방기
