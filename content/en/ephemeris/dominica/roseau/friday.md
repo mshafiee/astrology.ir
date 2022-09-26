@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 04:51:14 |
 | Sunrise | 05:55:05 |
-| Dhuhr | 11:55:29 |
-| Medium Coeli | 11:55:29 |
+| Dhuhr | 11:55:30 |
+| Medium Coeli | 11:55:30 |
 | Sunset | 17:55:41 |
 | Maghrib | 18:09:45 |
 | Isha | 18:51:12 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 04:44:11 |
 | Sunrise | 05:55:05 |
-| Dhuhr | 11:55:29 |
-| Medium Coeli | 11:55:29 |
+| Dhuhr | 11:55:30 |
+| Medium Coeli | 11:55:30 |
 | Sunset | 17:55:41 |
 | Maghrib | 18:11:49 |
 | Isha | 18:51:12 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 04:42:57 |
 | Sunrise | 05:55:05 |
-| Dhuhr | 11:55:29 |
-| Medium Coeli | 11:55:29 |
+| Dhuhr | 11:55:30 |
+| Medium Coeli | 11:55:30 |
 | Sunset | 17:55:41 |
 | Maghrib | 17:56:37 |
 | Isha | 19:03:38 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 04:55:23 |
 | Sunrise | 05:55:05 |
-| Dhuhr | 11:55:29 |
-| Medium Coeli | 11:55:29 |
+| Dhuhr | 11:55:30 |
+| Medium Coeli | 11:55:30 |
 | Sunset | 17:55:41 |
 | Maghrib | 17:56:37 |
 | Isha | 18:55:21 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 04:36:43 |
 | Sunrise | 05:55:05 |
-| Dhuhr | 11:55:29 |
-| Medium Coeli | 11:55:29 |
+| Dhuhr | 11:55:30 |
+| Medium Coeli | 11:55:30 |
 | Sunset | 17:55:41 |
 | Maghrib | 17:56:37 |
 | Isha | 19:05:43 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 04:42:57 |
 | Sunrise | 05:55:05 |
-| Dhuhr | 11:55:29 |
-| Medium Coeli | 11:55:29 |
+| Dhuhr | 11:55:30 |
+| Medium Coeli | 11:55:30 |
 | Sunset | 17:55:41 |
 | Maghrib | 17:56:37 |
 | Isha | 19:07:47 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 04:40:52 |
 | Sunrise | 05:55:05 |
-| Dhuhr | 11:55:29 |
-| Medium Coeli | 11:55:29 |
+| Dhuhr | 11:55:30 |
+| Medium Coeli | 11:55:30 |
 | Sunset | 17:55:41 |
 | Maghrib | 17:56:37 |
 | Isha | 19:26:37 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°0'57.78" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°12'43.19" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|19°52'35.77" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|7°13'47.01" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|1°21'27.11" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|24°32'12.19" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°53'49.89" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|19°0'57.83" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°12'43.11" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|19°52'35.58" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|7°13'47.02" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|1°21'27.07" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|24°32'12.24" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°53'49.53" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|19°0'57.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°12'43.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°52'35.77" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|7°13'47.01" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|1°21'27.11" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|24°32'12.19" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°53'49.89" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|19°0'57.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°12'43.11" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°52'35.58" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|7°13'47.02" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|1°21'27.07" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|24°32'12.24" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°53'49.53" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

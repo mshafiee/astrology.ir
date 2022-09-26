@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:24:00 |
+| Dawn | 05:23:59 |
 | Sunrise | 06:23:35 |
 | Dhuhr | 12:23:42 |
 | Medium Coeli | 12:23:42 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°59'1.61" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|3°5'34.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|20°11'7.22" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|8°6'33.36" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|2°28'25.08" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|24°18'7.96" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|16°10'29.33" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|18°59'1.56" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|3°5'34.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|20°11'7.42" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|8°6'33.35" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|2°28'25.11" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|24°18'7.92" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|16°10'30.26" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°59'1.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|3°5'34.31" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°11'7.22" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|8°6'33.36" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|2°28'25.08" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|24°18'7.96" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|16°10'29.33" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|18°59'1.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|3°5'34.39" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°11'7.42" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|8°6'33.35" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|2°28'25.11" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|24°18'7.92" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|16°10'30.26" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
