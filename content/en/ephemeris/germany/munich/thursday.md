@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:47:33|Night duration: 12:13:51|
+|Duration of the day: 11:47:33|Night duration: 12:13:52|
 |Every hour of day duration: 00:58:58|Every hour of night duration: 01:01:09|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Moon|Ruler|18:57:23|19:58:31|Attracting material things, earning sustenance and ample living|
 |2|Saturn|Servant|19:58:32|20:59:40|Destruction of the enemy|
-|3|Jupiter|Servant|20:59:41|22:00:49|Attracting financial and heartfelt love|
-|4|Mars|Servant|22:00:50|23:01:59|Creating love, bond and marriage|
+|3|Jupiter|Servant|20:59:41|22:00:50|Attracting financial and heartfelt love|
+|4|Mars|Servant|22:00:51|23:01:59|Creating love, bond and marriage|
 |5|Sun|Servant|23:02:00|00:03:08|The obstruction of lust|
-|6|Venus|Servant|00:03:09|01:04:17|The journey of the appearance and the interior|
-|7|Mercury|Servant|01:04:18|02:05:26|Acquiring status and attracting capability|
-|8|Moon|Ruler|02:05:27|03:06:36|Attracting happiness and bliss|
-|9|Saturn|Servant|03:06:37|04:07:45|Achieving status and creating rank growth|
-|10|Jupiter|Servant|04:07:46|05:08:54|Catching needs|
-|11|Mars|Servant|05:08:55|06:10:03|Attracting love and affection and attracting hearts|
-|12|Sun|Servant|06:10:04|07:11:13|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Venus|Servant|00:03:09|01:04:18|The journey of the appearance and the interior|
+|7|Mercury|Servant|01:04:19|02:05:27|Acquiring status and attracting capability|
+|8|Moon|Ruler|02:05:28|03:06:36|Attracting happiness and bliss|
+|9|Saturn|Servant|03:06:37|04:07:46|Achieving status and creating rank growth|
+|10|Jupiter|Servant|04:07:47|05:08:55|Catching needs|
+|11|Mars|Servant|05:08:56|06:10:04|Attracting love and affection and attracting hearts|
+|12|Sun|Servant|06:10:05|07:11:14|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
