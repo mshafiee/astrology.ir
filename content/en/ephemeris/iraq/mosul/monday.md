@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
 |Duration of the day: 11:44:44|Night duration: 12:16:06|
-|Every hour of day duration: 00:58:44|Every hour of night duration: 01:01:20|
+|Every hour of day duration: 00:58:44|Every hour of night duration: 01:01:21|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°55'18.73" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|2°51'7.11" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|20°47'29.88" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|9°53'56.83" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|4°44'38.67" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|24°15'2.69" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|11°24'47.00" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|18°55'18.69" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|2°51'7.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|20°47'30.07" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|9°53'56.81" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|4°44'38.70" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|24°15'2.65" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|11°24'48.88" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°55'18.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|2°51'7.11" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|20°47'29.88" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°53'56.83" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|4°44'38.67" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|24°15'2.69" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|11°24'47.00" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Retrograde|18°55'18.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|2°51'7.20" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|20°47'30.07" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°53'56.81" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|4°44'38.70" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|24°15'2.65" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|11°24'48.88" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
