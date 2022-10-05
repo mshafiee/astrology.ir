@@ -1,6 +1,6 @@
 ---
-date: 2022-10-04T00:00:00-04:00
-lastmod: 2022-10-04T00:00:00-04:00
+date: 2022-10-11T00:00:00-04:00
+lastmod: 2022-10-11T00:00:00-04:00
 title: Basse-Terre (Tuesday)
 slug: tuesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Tuesday, 04 Oct 2022
+description: 🗓 Tuesday, 11 Oct 2022
 
 toc: false
 ---
@@ -331,8 +331,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르
