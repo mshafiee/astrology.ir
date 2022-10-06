@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 11:04:49|Night duration: 12:56:56|
+|Duration of the day: 11:04:49|Night duration: 12:56:55|
 |Every hour of day duration: 00:55:24|Every hour of night duration: 01:04:45|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|18:25:35|19:30:18|Love and attracting capital|
 |2|Mars|Servant|19:30:19|20:35:03|It's ugly, nothing to do|
-|3|Sun|Servant|20:35:04|21:39:48|Operation of Compassion and Attraction of Love|
-|4|Venus|Servant|21:39:49|22:44:32|Evil and repel good|
-|5|Mercury|Servant|22:44:33|23:49:17|Separation and grudges and hostilities|
-|6|Moon|Servant|23:49:18|00:54:02|It's good for all good deeds|
-|7|Saturn|Servant|00:54:03|01:58:46|Do not do anything, it causes misery|
-|8|Jupiter|Ruler|01:58:47|03:03:31|It is very auspicious and attracts happiness|
-|9|Mars|Servant|03:03:32|04:08:16|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Sun|Servant|04:08:17|05:13:00|Attracting happiness, solving financial problems|
-|11|Venus|Servant|05:13:01|06:17:45|Doing marriage|
-|12|Mercury|Servant|06:17:46|07:22:30|Discover the Fugitive and Find the Thief|
+|3|Sun|Servant|20:35:04|21:39:47|Operation of Compassion and Attraction of Love|
+|4|Venus|Servant|21:39:48|22:44:32|Evil and repel good|
+|5|Mercury|Servant|22:44:33|23:49:16|Separation and grudges and hostilities|
+|6|Moon|Servant|23:49:17|00:54:01|It's good for all good deeds|
+|7|Saturn|Servant|00:54:02|01:58:46|Do not do anything, it causes misery|
+|8|Jupiter|Ruler|01:58:47|03:03:30|It is very auspicious and attracts happiness|
+|9|Mars|Servant|03:03:31|04:08:15|Summoning the desired person, attracting hearts, compassion of hearts|
+|10|Sun|Servant|04:08:16|05:12:59|Attracting happiness, solving financial problems|
+|11|Venus|Servant|05:13:00|06:17:44|Doing marriage|
+|12|Mercury|Servant|06:17:45|07:22:29|Discover the Fugitive and Find the Thief|
 
  
  
