@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°40'23.24" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|1°34'57.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|23°33'44.44" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°46'21.90" |Virgo|Simak|Venus|
-|♀ Venus|Direct|17°14'43.48" |Virgo|Simak|Venus|
-|☿ Mercury|Post-Retrograde Shadow|2°48'55.25" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|28°18'29.22" |Aries|Thurayya|Venus|
+|♄ Saturn|Retrograde|18°40'23.20" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|1°34'57.61" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|23°33'44.64" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°46'21.87" |Virgo|Simak|Venus|
+|♀ Venus|Direct|17°14'43.50" |Virgo|Simak|Venus|
+|☿ Mercury|Post-Retrograde Shadow|2°48'55.23" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|28°18'29.38" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°40'23.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|1°34'57.50" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|23°33'44.44" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°46'21.90" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|17°14'43.48" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|2°48'55.25" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|28°18'29.22" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|18°40'23.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|1°34'57.61" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°33'44.64" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°46'21.87" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|17°14'43.50" |Libra|Jubana|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|2°48'55.23" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|28°18'29.38" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
