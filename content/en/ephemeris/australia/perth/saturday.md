@@ -38,10 +38,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:37:10 |
 | Dhuhr | 12:02:24 |
 | Medium Coeli | 12:02:24 |
-| Sunset | 18:28:08 |
+| Sunset | 18:28:09 |
 | Maghrib | 18:44:29 |
 | Isha | 19:33:40 |
-| Sharia Midnight | 23:24:16 |
+| Sharia Midnight | 23:24:17 |
 | Imum Coeli | 00:02:17 |
 {{< /tab >}}
 
@@ -54,7 +54,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:37:10 |
 | Dhuhr | 12:02:24 |
 | Medium Coeli | 12:02:24 |
-| Sunset | 18:28:08 |
+| Sunset | 18:28:09 |
 | Maghrib | 18:46:54 |
 | Isha | 19:33:40 |
 | Sharia Midnight | 23:19:57 |
@@ -70,7 +70,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:37:10 |
 | Dhuhr | 12:02:24 |
 | Medium Coeli | 12:02:24 |
-| Sunset | 18:28:08 |
+| Sunset | 18:28:09 |
 | Maghrib | 18:29:15 |
 | Isha | 19:48:50 |
 | Sharia Midnight | 23:19:11 |
@@ -86,7 +86,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:37:10 |
 | Dhuhr | 12:02:24 |
 | Medium Coeli | 12:02:24 |
-| Sunset | 18:28:08 |
+| Sunset | 18:28:09 |
 | Maghrib | 18:29:15 |
 | Isha | 19:38:42 |
 | Sharia Midnight | 23:26:48 |
@@ -102,7 +102,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:37:10 |
 | Dhuhr | 12:02:24 |
 | Medium Coeli | 12:02:24 |
-| Sunset | 18:28:08 |
+| Sunset | 18:28:09 |
 | Maghrib | 18:29:15 |
 | Isha | 19:51:23 |
 | Sharia Midnight | 23:15:19 |
@@ -118,7 +118,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:37:10 |
 | Dhuhr | 12:02:24 |
 | Medium Coeli | 12:02:24 |
-| Sunset | 18:28:08 |
+| Sunset | 18:28:09 |
 | Maghrib | 18:29:15 |
 | Isha | 19:53:57 |
 | Sharia Midnight | 23:19:11 |
@@ -134,7 +134,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:37:10 |
 | Dhuhr | 12:02:24 |
 | Medium Coeli | 12:02:24 |
-| Sunset | 18:28:08 |
+| Sunset | 18:28:09 |
 | Maghrib | 18:29:15 |
 | Isha | 19:59:15 |
 | Sharia Midnight | 23:17:54 |
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:50:58|Night duration: 11:07:51|
+|Duration of the day: 12:50:59|Night duration: 11:07:50|
 |Every hour of day duration: 01:04:15|Every hour of night duration: 00:55:39|
 
  
@@ -216,24 +216,24 @@ Timetable of twelve day and night planetary hours
 |4|Sun|Servant|08:49:54|09:54:08|Conquest, Judgment and Judgment|
 |5|Venus|Servant|09:54:09|10:58:23|It's auspicious|
 |6|Mercury|Servant|10:58:24|12:02:38|Writing, Swapping and Marriage|
-|7|Moon|Servant|12:02:39|13:06:52|For nothing|
-|8|Saturn|Ruler|13:06:53|14:11:07|Destruction of the enemy|
-|9|Jupiter|Servant|14:11:08|15:15:22|All good deeds|
-|10|Mars|Servant|15:15:23|16:19:37|Doing evil deeds|
-|11|Sun|Servant|16:19:38|17:23:52|Acceptance of correction between couples|
-|12|Venus|Servant|17:23:53|18:28:07|To be honored|
+|7|Moon|Servant|12:02:39|13:06:53|For nothing|
+|8|Saturn|Ruler|13:06:54|14:11:08|Destruction of the enemy|
+|9|Jupiter|Servant|14:11:09|15:15:23|All good deeds|
+|10|Mars|Servant|15:15:24|16:19:38|Doing evil deeds|
+|11|Sun|Servant|16:19:39|17:23:53|Acceptance of correction between couples|
+|12|Venus|Servant|17:23:54|18:28:08|To be honored|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:28:08|19:23:46|Works related to amulet, amulet and compliance|
-|2|Moon|Servant|19:23:47|20:19:25|Peace among the people|
-|3|Saturn|Servant|20:19:26|21:15:04|Malicious deeds and evil deeds|
-|4|Jupiter|Servant|21:15:05|22:10:44|Conquest, Judgment and Judgment|
+|1|Mercury|Ruler|18:28:09|19:23:47|Works related to amulet, amulet and compliance|
+|2|Moon|Servant|19:23:48|20:19:26|Peace among the people|
+|3|Saturn|Servant|20:19:27|21:15:05|Malicious deeds and evil deeds|
+|4|Jupiter|Servant|21:15:06|22:10:44|Conquest, Judgment and Judgment|
 |5|Mars|Servant|22:10:45|23:06:23|It's auspicious|
-|6|Sun|Servant|23:06:24|00:02:02|Writing, Swapping and Marriage|
-|7|Venus|Servant|00:02:03|00:57:41|For nothing|
-|8|Mercury|Ruler|00:57:42|01:53:21|Destruction of the enemy|
+|6|Sun|Servant|23:06:24|00:02:03|Writing, Swapping and Marriage|
+|7|Venus|Servant|00:02:04|00:57:42|For nothing|
+|8|Mercury|Ruler|00:57:43|01:53:21|Destruction of the enemy|
 |9|Moon|Servant|01:53:22|02:49:00|All good deeds|
 |10|Saturn|Servant|02:49:01|03:44:39|Doing evil deeds|
 |11|Jupiter|Servant|03:44:40|04:40:18|Acceptance of correction between couples|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:50:58|Night duration: 11:07:51|
+|Duration of the day: 12:50:59|Night duration: 11:07:50|
 |Every hour duration: 01:50:08|Every hour duration: 01:35:24|
 
  
@@ -260,20 +260,20 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Saturn|Ruler|05:37:10|07:27:17|
 |Mid-morning|Jupiter|Servant|07:27:18|09:17:25|
-|Late morning|Mars|Servant|09:17:26|11:07:33|
-|Noon|Sun|Servant|11:07:34|12:57:42|
-|Early afternoon|Venus|Servant|12:57:43|14:47:50|
-|Mid-afternoon|Mercury|Servant|14:47:51|16:37:58|
-|Late afternoon|Moon|Servant|16:37:59|18:28:07|
+|Late morning|Mars|Servant|09:17:26|11:07:34|
+|Noon|Sun|Servant|11:07:35|12:57:42|
+|Early afternoon|Venus|Servant|12:57:43|14:47:51|
+|Mid-afternoon|Mercury|Servant|14:47:52|16:37:59|
+|Late afternoon|Moon|Servant|16:38:00|18:28:08|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|18:28:08|20:03:31|
-|Late evening|Moon|Servant|20:03:32|21:38:55|
-|Midnight|Saturn|Servant|21:38:56|23:14:20|
-|Late at night|Jupiter|Servant|23:14:21|00:49:44|
-|Rooster song|Mars|Servant|00:49:45|02:25:09|
+|Evening|Mercury|Ruler|18:28:09|20:03:32|
+|Late evening|Moon|Servant|20:03:33|21:38:56|
+|Midnight|Saturn|Servant|21:38:57|23:14:20|
+|Late at night|Jupiter|Servant|23:14:21|00:49:45|
+|Rooster song|Mars|Servant|00:49:46|02:25:09|
 |False Dawn|Sun|Servant|02:25:10|04:00:33|
 |Dawn|Venus|Servant|04:00:34|05:35:58|
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°38'45.86" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|1°22'23.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|23°56'36.16" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°31'8.44" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|19°27'7.82" |Virgo|Simak|Venus|
-|☿ Mercury|Post-Retrograde Shadow|5°22'21.60" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|20°26'21.82" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Retrograde|18°38'45.89" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|1°22'23.61" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|23°56'35.96" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°31'8.47" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|19°27'7.80" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|5°22'21.62" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|20°26'21.83" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°38'45.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|1°22'23.72" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°56'36.16" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°31'8.44" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|19°27'7.82" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|5°22'21.60" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|20°26'21.82" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|18°38'45.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|1°22'23.61" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°56'35.96" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°31'8.47" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|19°27'7.80" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|5°22'21.62" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|20°26'21.83" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

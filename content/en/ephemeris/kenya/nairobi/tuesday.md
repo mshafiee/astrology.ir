@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°5'24.64" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|17°47'42.75" |Virgo|Simak|Venus|
 |♀ Venus|Direct|14°44'43.28" |Virgo|Awwa|Venus|
-|☿ Mercury|Post-Retrograde Shadow|0°10'37.91" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|0°10'37.91" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|2°34'6.25" |Aries|Sharatain|Mars|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°5'24.64" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|17°47'42.75" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|14°44'43.28" |Libra|Jubana|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|0°10'37.91" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|0°10'37.91" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|2°34'6.25" |Taurus|Thurayya|Mercury|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: NBO, Nairoba, Nairobi, Nairobia, Nairobis, Nairobo, Nairoby, Nairobî, Nairompi, Nairòbi, Nairóbi, Najrobi, Najrobo, Nayrobi, Nayroobi, Naíróbí, Naýrobi, na'irobi, nai luo bi, nailobi, nairobi, nairopi, nayreabi, nayrwby, nei luo bi, nirobi, nyrwby, nyyrwby, Ναϊρόμπι, Найроби, Найробі, Најроби, Նայրոբի, נייראבי, ניירובי, نايروبى, نایروبی, نایرۆبی, نيروبي, نیروبی, नैरोबी, নাইরোবি, ਨੈਰੋਬੀ, நைரோபி, ನೈರೋಬಿ, നയ്റോബി, ไนโรบี, ནའི་རོ་བི།, နိုင်ရိုဘီမြို့, ნაირობი, ናይሮቢ, ナイロビ, 内罗毕, 奈洛比, 나이로비
