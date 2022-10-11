@@ -293,10 +293,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°40'24.88" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|1°35'9.47" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|23°33'22.46" |Taurus|HaqAh|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|23°33'22.46" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|19°44'44.40" |Virgo|Simak|Venus|
 |♀ Venus|Direct|17°12'40.35" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|2°46'37.94" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Post-Retrograde Shadow|2°46'37.94" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|27°58'5.10" |Aries|Thurayya|Venus|
 
 
@@ -332,10 +332,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°40'24.88" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|1°35'9.47" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°33'22.46" |Gemini|Dhira|Sun|
+|♂ Mars|Pre-Retrograde Shadow|23°33'22.46" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|19°44'44.40" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|17°12'40.35" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|2°46'37.94" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|2°46'37.94" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|27°58'5.10" |Taurus|HaqAh|Saturn|
 
 
