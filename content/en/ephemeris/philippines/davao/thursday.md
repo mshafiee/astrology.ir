@@ -34,7 +34,7 @@ Altitude: 13 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:21:07 |
+| Dawn | 04:21:06 |
 | Sunrise | 05:23:58 |
 | Dhuhr | 11:22:24 |
 | Medium Coeli | 11:22:24 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'50.72" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°48'40.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|24°49'14.04" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|26°28'16.72" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|18°35'50.69" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°48'40.89" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|24°49'14.24" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|26°28'16.68" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|25°41'54.09" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|13°18'57.77" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°41'46.24" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|13°18'57.74" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°41'45.41" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'50.72" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°48'40.76" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|24°49'14.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°28'16.72" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|18°35'50.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°48'40.89" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|24°49'14.24" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°28'16.68" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|25°41'54.09" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|13°18'57.77" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|20°41'46.24" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|13°18'57.74" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|20°41'45.41" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

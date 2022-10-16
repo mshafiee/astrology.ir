@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:21:05 |
 | Maghrib | 17:34:57 |
 | Isha | 18:15:45 |
-| Sharia Midnight | 22:51:06 |
+| Sharia Midnight | 22:51:05 |
 | Imum Coeli | 23:22:29 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°36'13.76" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°55'11.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|24°40'8.30" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°28'40.71" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|18°36'13.73" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°55'11.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|24°40'8.50" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°28'40.67" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|24°26'47.38" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|11°40'9.53" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|8°29'25.00" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°40'9.51" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|8°29'24.31" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°36'13.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°55'11.50" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|24°40'8.30" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°28'40.71" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|18°36'13.73" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°55'11.63" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|24°40'8.50" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°28'40.67" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|24°26'47.38" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|11°40'9.53" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|8°29'25.00" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|11°40'9.51" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|8°29'24.31" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
