@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:12:16 |
+| Dawn | 05:12:17 |
 | Sunrise | 06:27:33 |
 | Dhuhr | 12:11:14 |
 | Medium Coeli | 12:11:14 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'19.61" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°23'43.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°18'8.74" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°29'41.16" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|18°35'19.64" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°23'42.93" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|25°18'8.55" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°29'41.20" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|0°45'47.28" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|20°5'59.15" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|12°26'31.69" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|20°5'59.17" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|12°26'31.79" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'19.61" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°23'43.07" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|25°18'8.74" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°29'41.16" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|18°35'19.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°23'42.93" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|25°18'8.55" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°29'41.20" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|0°45'47.28" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|20°5'59.15" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|12°26'31.69" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|20°5'59.17" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|12°26'31.79" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

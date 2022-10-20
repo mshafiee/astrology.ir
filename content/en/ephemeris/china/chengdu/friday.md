@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:26:28 |
 | Maghrib | 18:30:11 |
 | Isha | 19:34:12 |
-| Sharia Midnight | 00:14:37 |
+| Sharia Midnight | 00:14:38 |
 | Imum Coeli | 00:48:19 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'32.73" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°41'50.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|24°58'9.29" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|27°32'18.41" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|27°2'33.31" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|15°6'6.95" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|4°1'3.17" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|18°35'32.76" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°41'49.91" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Pre-Retrograde Shadow|24°58'9.09" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|27°32'18.45" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|27°2'33.30" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|15°6'6.97" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|4°1'4.01" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'32.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°41'50.04" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|24°58'9.29" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°32'18.41" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|27°2'33.31" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|15°6'6.95" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|4°1'3.17" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|18°35'32.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°41'49.91" |Aries|Sharatain|Mars|
+|♂ Mars|Pre-Retrograde Shadow|24°58'9.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°32'18.45" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|27°2'33.30" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|15°6'6.97" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|4°1'4.01" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
