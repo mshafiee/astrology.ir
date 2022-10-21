@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:02:48 |
+| Dawn | 06:02:47 |
 | Sunrise | 07:10:38 |
 | Dhuhr | 12:48:14 |
 | Medium Coeli | 12:48:14 |
@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°35'22.28" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|0°35'35.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Pre-Retrograde Shadow|25°5'39.98" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|25°5'39.98" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|28°32'0.75" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|28°17'43.75" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|16°46'42.09" |Virgo|Awwa|Venus|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|18°35'22.28" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|0°35'35.59" |Aries|Sharatain|Mars|
-|♂ Mars|Pre-Retrograde Shadow|25°5'39.98" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°5'39.98" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|28°32'0.75" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|28°17'43.75" |Libra|Akleel|Jupiter|
 |☿ Mercury|Direct|16°46'42.09" |Libra|Jubana|Saturn|
