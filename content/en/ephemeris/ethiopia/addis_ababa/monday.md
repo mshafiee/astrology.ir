@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:04:27 |
 | Maghrib | 18:19:10 |
 | Isha | 19:00:22 |
-| Sharia Midnight | 23:37:07 |
+| Sharia Midnight | 23:37:06 |
 | Imum Coeli | 00:09:09 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'20.69" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°22'32.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|25°19'13.89" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°41'34.05" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°35'20.67" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°22'33.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|25°19'14.08" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°41'34.01" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|1°0'43.88" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|20°26'8.80" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|15°5'8.09" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|20°26'8.78" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|15°5'8.08" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'20.69" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°22'32.96" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°19'13.89" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°41'34.05" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°35'20.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°22'33.10" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°19'14.08" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°41'34.01" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|1°0'43.88" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|20°26'8.80" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|15°5'8.09" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|20°26'8.78" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|15°5'8.08" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

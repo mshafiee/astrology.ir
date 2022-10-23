@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 13:16:53 |
 | Maghrib | 15:45:22 |
 | Isha | 19:19:17 |
-| Sharia Midnight | 21:21:32 |
+| Sharia Midnight | 21:21:31 |
 | Imum Coeli | 00:41:20 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'51.00" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°9'35.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|25°29'28.69" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|2°58'7.23" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°35'50.97" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°9'36.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|25°29'28.89" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|2°58'7.19" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|3°52'25.68" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|24°17'50.13" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|15°46'46.40" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|24°17'50.11" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|15°46'47.55" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°35'51.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°9'35.89" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°29'28.69" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°58'7.23" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°35'50.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°9'36.03" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°29'28.89" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°58'7.19" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|3°52'25.68" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|24°17'50.13" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|15°46'46.40" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|24°17'50.11" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|15°46'47.55" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:50:06 |
 | Maghrib | 18:04:09 |
 | Isha | 18:45:29 |
-| Sharia Midnight | 23:10:41 |
+| Sharia Midnight | 23:10:42 |
 | Imum Coeli | 23:42:34 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°36'8.05" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°5'23.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|25°31'52.27" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|3°44'24.15" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°36'8.07" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°5'23.11" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|25°31'52.06" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°44'24.19" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|4°50'30.56" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|25°36'5.59" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|27°5'29.16" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|25°36'5.61" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|27°5'27.85" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|18°36'8.05" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°5'23.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°31'52.27" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°44'24.15" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°36'8.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°5'23.11" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°31'52.06" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°44'24.19" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|4°50'30.56" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|25°36'5.59" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|27°5'29.16" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|25°36'5.61" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|27°5'27.85" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
