@@ -14,7 +14,7 @@ description: 🗓 Saturday, 29 Oct 2022
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: -02:00
+TimeZone: -03:00
 \-
 Latitude: 64.1835
 \-
@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|18°37'21.16" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|29°53'38.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Direct|25°36'13.38" |Taurus|HaqAh|Saturn|
+|♂ Mars|Retrograde|25°36'13.38" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|6°0'12.49" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|7°41'0.48" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|29°25'1.12" |Virgo|Simak|Mercury|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|18°37'21.16" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|29°53'38.48" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°36'13.38" |Gemini|Dhira|Sun|
+|♂ Mars|Retrograde|25°36'13.38" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|6°0'12.49" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|7°41'0.48" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|29°25'1.12" |Libra|Akleel|Jupiter|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크

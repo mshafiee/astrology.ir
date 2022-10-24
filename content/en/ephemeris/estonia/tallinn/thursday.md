@@ -34,7 +34,7 @@ Altitude: 12 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:23:01 |
+| Dawn | 06:23:00 |
 | Sunrise | 08:27:35 |
 | Dhuhr | 13:04:52 |
 | Medium Coeli | 13:04:52 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'9.17" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°5'11.71" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|25°31'59.49" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|3°46'33.53" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°36'9.14" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°5'11.85" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|25°31'59.69" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°46'33.49" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|4°53'13.97" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|25°39'45.64" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|27°27'17.65" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|25°39'45.62" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|27°27'18.97" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'9.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°5'11.71" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°31'59.49" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|3°46'33.53" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°36'9.14" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°5'11.85" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|25°31'59.69" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°46'33.49" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|4°53'13.97" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|25°39'45.64" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|27°27'17.65" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|25°39'45.62" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|27°27'18.97" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

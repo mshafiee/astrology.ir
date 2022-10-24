@@ -34,7 +34,7 @@ Altitude: 281 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:31:18 |
+| Dawn | 04:31:17 |
 | Sunrise | 05:34:59 |
 | Dhuhr | 11:42:32 |
 | Medium Coeli | 11:42:32 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'36.26" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°0'5.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|25°34'18.54" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°44'17.00" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°36'36.23" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°0'5.91" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|25°34'18.74" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°44'16.97" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|6°5'41.74" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|27°17'12.96" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|11°11'7.03" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|27°17'12.94" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|11°11'8.34" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'36.26" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°0'5.76" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°34'18.54" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°44'17.00" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°36'36.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°0'5.91" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|25°34'18.74" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°44'16.97" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|6°5'41.74" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|27°17'12.96" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|11°11'7.03" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|27°17'12.94" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|11°11'8.34" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

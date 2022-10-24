@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:15:35 |
+| Dawn | 05:15:34 |
 | Sunrise | 06:29:16 |
 | Dhuhr | 12:26:58 |
 | Medium Coeli | 12:26:58 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'38.75" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°59'40.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Direct|25°34'27.45" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°49'2.81" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°36'38.72" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°59'41.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°34'27.66" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°49'2.77" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|6°11'40.15" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|27°25'14.33" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|12°21'16.55" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|27°25'14.31" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|12°21'17.85" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'38.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°59'40.88" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°34'27.45" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°49'2.81" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°36'38.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°59'41.03" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°34'27.66" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°49'2.77" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|6°11'40.15" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|27°25'14.33" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|12°21'16.55" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|27°25'14.31" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|12°21'17.85" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
