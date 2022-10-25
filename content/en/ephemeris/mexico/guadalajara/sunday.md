@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Oct 2022
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: -05:00
+TimeZone: -06:00
 \-
 Latitude: 20.6668
 \-
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°38'6.91" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°48'20.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°36'41.32" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|7°4'59.63" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°38'6.89" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°48'20.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°36'41.52" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|7°4'59.60" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|9°2'14.67" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|1°13'32.12" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|14°26'8.89" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|1°13'32.10" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|14°26'9.85" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°38'6.91" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°48'20.30" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°36'41.32" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°4'59.63" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°38'6.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°48'20.45" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°36'41.52" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°4'59.60" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|9°2'14.67" |Scorpio|Qalb|Mars|
-|☿ Mercury|Direct|1°13'32.12" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|14°26'8.89" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|1°13'32.10" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|14°26'9.85" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
