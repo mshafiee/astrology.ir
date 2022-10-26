@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:38:55 |
 | Sunset | 17:26:10 |
 | Maghrib | 17:27:25 |
-| Isha | 18:36:07 |
+| Isha | 18:36:06 |
 | Sharia Midnight | 23:01:51 |
 | Imum Coeli | 23:38:52 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'15.94" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°3'45.73" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|25°32'41.00" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°2'33.44" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°36'15.91" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°3'45.88" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|25°32'41.20" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°2'33.40" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|5°13'17.90" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|26°6'46.05" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|1°25'42.33" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|26°6'46.04" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|1°25'43.66" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'15.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°3'45.73" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|25°32'41.00" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°2'33.44" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°36'15.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°3'45.88" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|25°32'41.20" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°2'33.40" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|5°13'17.90" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|26°6'46.05" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|1°25'42.33" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|26°6'46.04" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|1°25'43.66" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

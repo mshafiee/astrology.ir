@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 17:17:58 |
 | Maghrib | 17:19:04 |
 | Isha | 18:27:14 |
-| Sharia Midnight | 23:11:47 |
+| Sharia Midnight | 23:11:48 |
 | Imum Coeli | 23:46:15 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°35'45.09" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°11'9.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|25°28'22.29" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|2°41'11.43" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°35'45.12" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°11'8.89" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|25°28'22.09" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|2°41'11.47" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|3°31'5.91" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|23°49'4.10" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|12°23'55.03" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|23°49'4.12" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|12°23'53.99" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°35'45.09" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°11'9.04" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|25°28'22.29" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|2°41'11.43" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°35'45.12" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°11'8.89" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|25°28'22.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|2°41'11.47" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|3°31'5.91" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|23°49'4.10" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|12°23'55.03" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|23°49'4.12" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|12°23'53.99" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:34:14|Night duration: 12:26:07|
-|Every hour duration: 01:39:11|Every hour duration: 01:46:35|
+|Duration of the day: 11:34:13|Night duration: 12:26:08|
+|Every hour duration: 01:39:10|Every hour duration: 01:46:35|
 
  
  
@@ -259,21 +259,21 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Venus|Ruler|06:03:56|07:43:05|
-|Mid-morning|Mercury|Servant|07:43:06|09:22:16|
-|Late morning|Moon|Servant|09:22:17|11:01:26|
-|Noon|Saturn|Servant|11:01:27|12:40:37|
-|Early afternoon|Jupiter|Servant|12:40:38|14:19:47|
-|Mid-afternoon|Mars|Servant|14:19:48|15:58:58|
-|Late afternoon|Sun|Servant|15:58:59|17:38:09|
+|Mid-morning|Mercury|Servant|07:43:06|09:22:15|
+|Late morning|Moon|Servant|09:22:16|11:01:26|
+|Noon|Saturn|Servant|11:01:27|12:40:36|
+|Early afternoon|Jupiter|Servant|12:40:37|14:19:47|
+|Mid-afternoon|Mars|Servant|14:19:48|15:58:57|
+|Late afternoon|Sun|Servant|15:58:58|17:38:08|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|17:38:10|19:24:44|
-|Late evening|Sun|Servant|19:24:45|21:11:19|
-|Midnight|Venus|Servant|21:11:20|22:57:54|
-|Late at night|Mercury|Servant|22:57:55|00:44:30|
-|Rooster song|Moon|Servant|00:44:31|02:31:05|
+|Evening|Mars|Ruler|17:38:09|19:24:43|
+|Late evening|Sun|Servant|19:24:44|21:11:18|
+|Midnight|Venus|Servant|21:11:19|22:57:54|
+|Late at night|Mercury|Servant|22:57:55|00:44:29|
+|Rooster song|Moon|Servant|00:44:30|02:31:05|
 |False Dawn|Saturn|Servant|02:31:06|04:17:40|
 |Dawn|Jupiter|Servant|04:17:41|06:04:16|
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'43.57" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°58'54.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°34'44.10" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°57'58.90" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°36'43.54" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°58'54.64" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°34'44.30" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°57'58.86" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|6°22'52.93" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|27°40'17.69" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|14°28'53.54" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|27°40'17.67" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|14°28'54.83" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'43.57" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°58'54.49" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°34'44.10" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°57'58.90" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°36'43.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°58'54.64" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°34'44.30" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°57'58.86" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|6°22'52.93" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|27°40'17.69" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|14°28'53.54" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|27°40'17.67" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|14°28'54.83" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
