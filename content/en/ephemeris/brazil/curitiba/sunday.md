@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:05:06 |
+| Dawn | 04:05:05 |
 | Sunrise | 05:30:11 |
 | Dhuhr | 12:00:45 |
 | Medium Coeli | 12:00:45 |
