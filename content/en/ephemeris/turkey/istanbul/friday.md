@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:48:00 |
 | Sunset | 18:05:35 |
 | Maghrib | 18:06:49 |
-| Isha | 19:23:17 |
+| Isha | 19:23:18 |
 | Sharia Midnight | 00:09:21 |
 | Imum Coeli | 00:47:57 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'36.18" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|0°0'7.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|25°34'18.10" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°44'4.32" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°36'36.21" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|0°0'6.85" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|25°34'17.89" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°44'4.35" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|6°5'25.78" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|27°16'51.45" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|11°8'42.58" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|27°16'51.47" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|11°8'41.27" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°36'36.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|0°0'7.00" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|25°34'18.10" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°44'4.32" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°36'36.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|0°0'6.85" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|25°34'17.89" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°44'4.35" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|6°5'25.78" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|27°16'51.45" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|11°8'42.58" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|27°16'51.47" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|11°8'41.27" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
