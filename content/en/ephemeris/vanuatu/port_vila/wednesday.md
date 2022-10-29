@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:30:19 |
 | Sunset | 17:53:29 |
 | Maghrib | 17:54:26 |
-| Isha | 19:08:33 |
+| Isha | 19:08:34 |
 | Sharia Midnight | 22:48:05 |
 | Imum Coeli | 23:30:18 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°40'3.65" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°38'7.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°34'37.89" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|9°17'57.81" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°40'3.68" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°38'7.32" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°34'37.70" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|9°17'57.84" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|11°48'57.65" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|4°54'53.19" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|15°29'30.96" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|4°54'53.21" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|15°29'30.49" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°40'3.65" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°38'7.48" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°34'37.89" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°17'57.81" |Scorpio|Qalb|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°40'3.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°38'7.32" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°34'37.70" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°17'57.84" |Scorpio|Qalb|Mars|
 |♀ Venus|Direct|11°48'57.65" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|4°54'53.19" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|15°29'30.96" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|4°54'53.21" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|15°29'30.49" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
