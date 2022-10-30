@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Oct 2022
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: -06:00
+TimeZone: -05:00
 \-
 Latitude: 19.4285
 \-

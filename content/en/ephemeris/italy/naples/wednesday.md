@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°40'32.71" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°36'2.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°33'36.10" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|9°46'36.83" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°40'32.74" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°36'2.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°33'35.91" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|9°46'36.86" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|12°24'50.84" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|5°42'16.58" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|22°5'47.14" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|5°42'16.61" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|22°5'46.73" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°40'32.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°36'2.16" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°33'36.10" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°46'36.83" |Scorpio|Qalb|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°40'32.74" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°36'2.01" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°33'35.91" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°46'36.86" |Scorpio|Qalb|Mars|
 |♀ Venus|Direct|12°24'50.84" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|5°42'16.58" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|22°5'47.14" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|5°42'16.61" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|22°5'46.73" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: NAP, Napels, Naples, Naplés, Napoles, Napoli, Napolo, Napols, Napoly, Nappoli, Napul, Napule, Napuli, Napulj, Napólí, Neapal', Neapel, Neapelj, Neapol, Neapol', Neapole, Neapolis, Noapels, Nàpoli, Nàpols, Nàpuli, Nàpułi, Nápoles, Nápoli, Nápols, Nápoly, Parthenope, na bu lei si, nabwly, napl, napoli, napolli, napori, napwly, nepalasa, nepalsa, nepeils, nyplz, Νάπολη, Напуљ, Неапаль, Неапол, Неаполь, Նեապոլ, נאפאלי, נאפולי, نابولي, ناپل, ناپولی, نیپلز, नापोलि, नापोली, नेपल्स, নেপলস, நாபொலி, เนเปิลส์, ნეაპოლი, ナポリ, 那不勒斯, 나폴리

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°40'31.71" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°36'6.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°33'38.35" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|9°45'36.79" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|12°23'35.65" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|5°40'37.42" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|21°52'10.67" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Post-Retrograde Shadow|18°40'31.68" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°36'6.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°33'38.54" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|9°45'36.76" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|12°23'35.66" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|5°40'37.39" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|21°52'11.08" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°40'31.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°36'6.36" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°33'38.35" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°45'36.79" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|12°23'35.65" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|5°40'37.42" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|21°52'10.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°40'31.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°36'6.51" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°33'38.54" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°45'36.76" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|12°23'35.66" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|5°40'37.39" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|21°52'11.08" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: PRN, Prestena, Prishhina, Prishtina, Prishtinae, Prishtine, Prishtinë, Prisjtina, Pristin, Pristina, Pristine, Pristino, Pristína, Prisztina, Prixtina, Priŝtino, Priştina, Priştine, Prištin, Priština, Priștina, Pryshcina, Prìstina, Prėštėna, bryshtyna, peulisyutina, phrich ti na, piristina, prisatina, pristina, pryshtyna, prystynh, prysٹyna, pu li shen di na, purishutina, Πρίστινα, Приштинæ, Приштина, Прищина, Прышціна, Պրիշտինա, פרישטינה, بريشتينا, پریسٹینا, پریشتینا, प्रिस्टिना, ਪ੍ਰਿਸ਼ਤੀਨਾ, பிரிஸ்டினா, พริชตีนา, པི་རི་སི་ཊི་ན།, პრიშტინა, プリシュティナ, 普里什蒂納, 普里什蒂纳, 프리슈티나

@@ -14,7 +14,7 @@ description: 🗓 Sunday, 30 Oct 2022
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: +01:00
+TimeZone: +02:00
 \-
 Latitude: 43.9367
 \-
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°37'53.52" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°49'47.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°36'39.62" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|6°47'0.51" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|8°39'41.78" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|0°43'27.37" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|10°9'44.79" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°37'53.50" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°49'47.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°36'39.82" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|6°47'0.47" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|8°39'41.79" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|0°43'27.35" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|10°9'45.81" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°37'53.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°49'47.38" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°36'39.62" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|6°47'0.51" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|8°39'41.78" |Scorpio|Qalb|Mars|
-|☿ Mercury|Direct|0°43'27.37" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|10°9'44.79" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°37'53.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°49'47.53" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°36'39.82" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|6°47'0.47" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|8°39'41.79" |Scorpio|Qalb|Mars|
+|☿ Mercury|Direct|0°43'27.35" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|10°9'45.81" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

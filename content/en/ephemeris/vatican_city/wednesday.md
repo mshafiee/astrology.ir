@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:09:19 |
+| Dawn | 05:09:18 |
 | Sunrise | 06:43:24 |
 | Dhuhr | 11:53:45 |
 | Medium Coeli | 11:53:45 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°40'33.14" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°36'0.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°33'35.09" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|9°46'59.85" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|12°25'19.68" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|5°42'54.67" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|22°11'11.93" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Post-Retrograde Shadow|18°40'33.11" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°36'0.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°33'35.28" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|9°46'59.82" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|12°25'19.69" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|5°42'54.64" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|22°11'12.34" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°40'33.14" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°36'0.36" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°33'35.09" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|9°46'59.85" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|12°25'19.68" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|5°42'54.67" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|22°11'11.93" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°40'33.11" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°36'0.51" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°33'35.28" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|9°46'59.82" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|12°25'19.69" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|5°42'54.64" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|22°11'12.34" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Citta del Vaticano, Città del Vaticano, Ciudad del Vaticano, Etat de la Cite du Vatican, Staat Vatikanstadt, Staat der Vatikanstadt, Vatican, Vatican City, Vatican City State, Vaticano, Vatikan, Vatikanas, Vatikanstaden, Vatikanstadt, batikan, batikan si, État de la Cité du Vatican, Ватикан, 바티칸, 바티칸 시

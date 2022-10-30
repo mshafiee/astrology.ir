@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°38'39.37" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°45'8.13" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°36'30.91" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|7°45'29.08" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°38'39.34" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°45'8.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°36'31.10" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|7°45'29.04" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|9°53'1.77" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°21'9.82" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|23°55'5.12" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|2°21'9.79" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|23°55'5.94" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°38'39.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°45'8.13" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°36'30.91" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°45'29.08" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°38'39.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°45'8.28" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°36'31.10" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°45'29.04" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|9°53'1.77" |Scorpio|Qalb|Mars|
-|☿ Mercury|Direct|2°21'9.82" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|23°55'5.12" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|2°21'9.79" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|23°55'5.94" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PRN, Prestena, Prishhina, Prishtina, Prishtinae, Prishtine, Prishtinë, Prisjtina, Pristin, Pristina, Pristine, Pristino, Pristína, Prisztina, Prixtina, Priŝtino, Priştina, Priştine, Prištin, Priština, Priștina, Pryshcina, Prìstina, Prėštėna, bryshtyna, peulisyutina, phrich ti na, piristina, prisatina, pristina, pryshtyna, prystynh, prysٹyna, pu li shen di na, purishutina, Πρίστινα, Приштинæ, Приштина, Прищина, Прышціна, Պրիշտինա, פרישטינה, بريشتينا, پریسٹینا, پریشتینا, प्रिस्टिना, ਪ੍ਰਿਸ਼ਤੀਨਾ, பிரிஸ்டினா, พริชตีนา, པི་རི་སི་ཊི་ན།, პრიშტინა, プリシュティナ, 普里什蒂納, 普里什蒂纳, 프리슈티나
