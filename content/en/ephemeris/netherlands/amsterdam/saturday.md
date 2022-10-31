@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:24:01 |
 | Sunset | 17:04:14 |
 | Maghrib | 17:05:50 |
-| Isha | 19:02:13 |
+| Isha | 19:02:12 |
 | Sharia Midnight | 23:25:23 |
 | Imum Coeli | 00:24:02 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°44'10.83" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°23'41.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°22'28.47" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|12°49'42.11" |Libra|Ghafr|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|18°44'10.81" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°23'41.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°22'28.65" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|12°49'42.09" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|16°14'6.36" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|10°42'48.67" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|3°40'39.39" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|10°42'48.64" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|3°40'40.41" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°44'10.83" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°23'41.60" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°22'28.47" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|12°49'42.11" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|18°44'10.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°23'41.76" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°22'28.65" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|12°49'42.09" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|16°14'6.36" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|10°42'48.67" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°40'39.39" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|10°42'48.64" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°40'40.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:27:24 |
 | Maghrib | 18:30:23 |
 | Isha | 19:44:45 |
-| Sharia Midnight | 00:37:06 |
+| Sharia Midnight | 00:37:07 |
 | Imum Coeli | 01:15:33 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°41'56.73" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°30'41.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°29'56.74" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|11°2'53.53" |Libra|Ghafr|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|18°41'56.76" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°30'40.88" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°29'56.55" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|11°2'53.55" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|14°0'23.38" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|7°47'59.53" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|9°33'36.17" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|7°47'59.55" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|9°33'35.63" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°41'56.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°30'41.03" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°29'56.74" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°2'53.53" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|18°41'56.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°30'40.88" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°29'56.55" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|11°2'53.55" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|14°0'23.38" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|7°47'59.53" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|9°33'36.17" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|7°47'59.55" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|9°33'35.63" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

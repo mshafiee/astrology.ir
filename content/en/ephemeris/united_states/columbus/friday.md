@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:46:49 |
+| Dawn | 06:46:50 |
 | Sunrise | 08:04:21 |
 | Dhuhr | 13:15:34 |
 | Medium Coeli | 13:15:34 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°43'9.82" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°26'40.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°26'4.25" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|12°3'1.29" |Libra|Ghafr|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|18°43'9.85" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°26'40.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°26'4.07" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|12°3'1.32" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|15°15'40.30" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|9°26'34.57" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|23°9'4.80" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|9°26'34.59" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|23°9'3.96" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°43'9.82" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°26'40.54" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°26'4.25" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|12°3'1.29" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|18°43'9.85" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°26'40.38" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°26'4.07" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|12°3'1.32" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|15°15'40.30" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|9°26'34.57" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|23°9'4.80" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|9°26'34.59" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|23°9'3.96" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

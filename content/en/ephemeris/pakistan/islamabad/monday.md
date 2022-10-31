@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:53:00 |
+| Dawn | 04:52:59 |
 | Sunrise | 06:25:43 |
 | Dhuhr | 11:51:27 |
 | Medium Coeli | 11:51:27 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°38'31.69" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°45'51.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°36'35.05" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|7°36'14.75" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|18°38'31.67" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°45'51.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°36'35.24" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|7°36'14.72" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|9°41'26.37" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°5'44.67" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|21°45'48.57" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|2°5'44.64" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|21°45'49.43" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°38'31.69" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°45'51.51" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°36'35.05" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|7°36'14.75" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°38'31.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°45'51.66" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°36'35.24" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°36'14.72" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|9°41'26.37" |Scorpio|Qalb|Mars|
-|☿ Mercury|Direct|2°5'44.67" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|21°45'48.57" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|2°5'44.64" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|21°45'49.43" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
