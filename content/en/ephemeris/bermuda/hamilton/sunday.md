@@ -14,7 +14,7 @@ description: 🗓 Sunday, 06 Nov 2022
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: -03:00
+TimeZone: -04:00
 \-
 Latitude: 32.2949
 \-

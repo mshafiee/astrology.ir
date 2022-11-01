@@ -14,7 +14,7 @@ description: 🗓 Sunday, 06 Nov 2022
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: -04:00
+TimeZone: -05:00
 \-
 Latitude: 39.7684
 \-
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|18°45'54.97" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°19'14.07" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°15'47.71" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°3'41.58" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|17°46'47.17" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|12°43'12.88" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|21°10'5.12" |Aries|Butain|Venus|
+|♃ Jupiter|Retrograde|29°19'11.47" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°15'37.95" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°3'52.49" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|17°46'53.26" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|12°43'20.44" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|19°56'25.85" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Venus|Venus|Aries|Moon|Mars|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
