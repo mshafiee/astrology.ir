@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 16:33:26 |
 | Maghrib | 16:38:58 |
 | Isha | 17:47:10 |
-| Sharia Midnight | 22:38:27 |
+| Sharia Midnight | 22:38:28 |
 | Imum Coeli | 23:15:08 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°41'29.16" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°32'20.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°31'14.79" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|10°38'50.11" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|18°41'29.19" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°32'20.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°31'14.61" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|10°38'50.14" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|13°30'15.58" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|7°8'25.13" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|4°4'6.13" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|7°8'25.15" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|4°4'5.68" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°41'29.16" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°32'20.36" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°31'14.79" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|10°38'50.11" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|18°41'29.19" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°32'20.20" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°31'14.61" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|10°38'50.14" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|13°30'15.58" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|7°8'25.13" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|4°4'6.13" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|7°8'25.15" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°4'5.68" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

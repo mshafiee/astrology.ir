@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 16:31:38 |
 | Maghrib | 16:33:02 |
 | Isha | 18:05:51 |
-| Sharia Midnight | 22:34:14 |
+| Sharia Midnight | 22:34:13 |
 | Imum Coeli | 23:26:33 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°44'6.18" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°23'54.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|25°22'44.46" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|12°46'17.04" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|18°44'6.16" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°23'54.51" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|25°22'44.64" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|12°46'17.02" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|16°9'49.15" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|10°37'13.58" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|2°50'25.34" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|10°37'13.55" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|2°50'26.35" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°44'6.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°23'54.35" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|25°22'44.46" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|12°46'17.04" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|18°44'6.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°23'54.51" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|25°22'44.64" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|12°46'17.02" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|16°9'49.15" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|10°37'13.58" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°50'25.34" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|10°37'13.55" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°50'26.35" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
