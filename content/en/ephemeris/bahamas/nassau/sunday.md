@@ -14,7 +14,7 @@ description: 🗓 Sunday, 06 Nov 2022
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: -05:00
+TimeZone: -04:00
 \-
 Latitude: 25.0582
 \-
@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°45'51.30" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|18°45'51.30" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|29°19'20.05" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Retrograde|25°15'52.08" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|14°1'25.06" |Libra|Jubana|Saturn|
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°45'51.30" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°45'51.30" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|29°19'20.05" |Pisces|Rescha|Mars|
 |♂ Mars|Retrograde|25°15'52.08" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|14°1'25.06" |Scorpio|Qalb|Sun|

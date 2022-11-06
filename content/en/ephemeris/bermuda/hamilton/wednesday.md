@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°50'39.87" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|18°50'39.87" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|29°9'39.45" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Retrograde|24°54'1.86" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|17°0'26.82" |Libra|Jubana|Saturn|
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°50'39.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°50'39.87" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|29°9'39.45" |Pisces|Rescha|Mars|
 |♂ Mars|Retrograde|24°54'1.86" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|17°0'26.82" |Scorpio|Qalb|Sun|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: BDA, Chamilton, Gamil'tan, Gamil'ton, Hamilton, Hamilton pa Bermuda, Hamilton på Bermuda, Hamiltonas, Hamiltono, Khamilton, Khamiltun, amiltan, ha mi er dun, haemilteon, hamiruton, hamyltwn, hemiltana, hmyltwn, Χάμιλτον, Гамильтон, Гамільтан, Гамільтон, Хамилтон, Хамилтън, המילטון, هاميلتون, همیلتون, ہیملٹن, हॅमिल्टन, ஆமில்டன், แฮมิลตัน, ჰამილტონი, ハミルトン, 哈密尔顿, 해밀턴

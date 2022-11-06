@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°47'19.53" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|18°47'19.53" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|29°15'59.79" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Retrograde|25°9'37.62" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|14°59'42.44" |Libra|Jubana|Saturn|
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°47'19.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|18°47'19.53" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|29°15'59.79" |Pisces|Rescha|Mars|
 |♂ Mars|Retrograde|25°9'37.62" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|14°59'42.44" |Scorpio|Qalb|Sun|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: FSP, Saint Pierre, Saint-Pierre, St Pierre, saengpieleu, 생피에르
