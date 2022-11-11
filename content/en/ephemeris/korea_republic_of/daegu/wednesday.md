@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 05:42:28 |
 | Sunrise | 07:02:05 |
-| Dhuhr | 12:10:19 |
-| Medium Coeli | 12:10:19 |
+| Dhuhr | 12:10:18 |
+| Medium Coeli | 12:10:18 |
 | Sunset | 17:18:11 |
 | Maghrib | 17:36:09 |
 | Isha | 18:27:40 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 05:33:55 |
 | Sunrise | 07:02:05 |
-| Dhuhr | 12:10:19 |
-| Medium Coeli | 12:10:19 |
+| Dhuhr | 12:10:18 |
+| Medium Coeli | 12:10:18 |
 | Sunset | 17:18:11 |
 | Maghrib | 17:38:47 |
 | Isha | 18:27:40 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 05:32:25 |
 | Sunrise | 07:02:05 |
-| Dhuhr | 12:10:19 |
-| Medium Coeli | 12:10:19 |
+| Dhuhr | 12:10:18 |
+| Medium Coeli | 12:10:18 |
 | Sunset | 17:18:11 |
 | Maghrib | 17:19:25 |
 | Isha | 18:42:48 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:47:31 |
 | Sunrise | 07:02:05 |
-| Dhuhr | 12:10:19 |
-| Medium Coeli | 12:10:19 |
+| Dhuhr | 12:10:18 |
+| Medium Coeli | 12:10:18 |
 | Sunset | 17:18:11 |
 | Maghrib | 17:19:25 |
 | Isha | 18:32:44 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 05:24:54 |
 | Sunrise | 07:02:05 |
-| Dhuhr | 12:10:19 |
-| Medium Coeli | 12:10:19 |
+| Dhuhr | 12:10:18 |
+| Medium Coeli | 12:10:18 |
 | Sunset | 17:18:11 |
 | Maghrib | 17:19:25 |
 | Isha | 18:45:19 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 05:32:25 |
 | Sunrise | 07:02:05 |
-| Dhuhr | 12:10:19 |
-| Medium Coeli | 12:10:19 |
+| Dhuhr | 12:10:18 |
+| Medium Coeli | 12:10:18 |
 | Sunset | 17:18:11 |
 | Maghrib | 17:19:25 |
 | Isha | 18:47:50 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 05:29:54 |
 | Sunrise | 07:02:05 |
-| Dhuhr | 12:10:19 |
-| Medium Coeli | 12:10:19 |
+| Dhuhr | 12:10:18 |
+| Medium Coeli | 12:10:18 |
 | Sunset | 17:18:11 |
 | Maghrib | 17:19:25 |
 | Isha | 18:49:25 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°4'10.01" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|28°54'38.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|23°40'9.20" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|23°30'56.02" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|29°34'38.92" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|27°44'9.90" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|16°22'19.02" |Cancer|Tarf|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|19°4'9.98" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|28°54'38.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|23°40'9.41" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|23°30'56.00" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|29°34'38.93" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|27°44'9.88" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|16°22'19.23" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°4'10.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|28°54'38.29" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|23°40'9.20" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°30'56.02" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|29°34'38.92" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|27°44'9.90" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°22'19.02" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|19°4'9.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|28°54'38.45" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|23°40'9.41" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°30'56.00" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|29°34'38.93" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|27°44'9.88" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|16°22'19.23" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
