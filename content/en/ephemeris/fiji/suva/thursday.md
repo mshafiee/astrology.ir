@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 12:59:32|Night duration: 11:00:18|
-|Every hour of day duration: 01:04:58|Every hour of night duration: 00:55:01|
+|Every hour of day duration: 01:04:58|Every hour of night duration: 00:55:02|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°6'7.79" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|28°53'21.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|23°28'33.36" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|24°19'35.21" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|0°35'14.67" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|28°59'59.39" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|26°9'34.73" |Cancer|Jabhah|Moon|
+|♄ Saturn|Post-Retrograde Shadow|19°6'7.81" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|28°53'21.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|23°28'33.15" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|24°19'35.22" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|0°35'14.65" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|28°59'59.41" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|26°9'34.45" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°6'7.79" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|28°53'21.90" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|23°28'33.36" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|24°19'35.21" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|0°35'14.67" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|28°59'59.39" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|26°9'34.73" |Leo|Sarfrah|Mars|
+|♄ Saturn|Post-Retrograde Shadow|19°6'7.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|28°53'21.74" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|23°28'33.15" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|24°19'35.22" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|0°35'14.65" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|28°59'59.41" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|26°9'34.45" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

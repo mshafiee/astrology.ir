@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°57'28.17" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|29°0'28.94" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|24°18'25.01" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|20°31'49.36" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|25°51'25.17" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|23°3'15.43" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|10°42'35.38" |Gemini|HanAh|Mars|
+|♄ Saturn|Post-Retrograde Shadow|18°57'28.20" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|29°0'28.78" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|24°18'24.81" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|20°31'49.37" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|25°51'25.16" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|23°3'15.46" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|10°42'36.92" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|18°57'28.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|29°0'28.94" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|24°18'25.01" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°31'49.36" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|25°51'25.17" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|23°3'15.43" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°42'35.38" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|18°57'28.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|29°0'28.78" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|24°18'24.81" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°31'49.37" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|25°51'25.16" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|23°3'15.46" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|10°42'36.92" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
