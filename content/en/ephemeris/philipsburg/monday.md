@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:12:56 |
-| Sunrise | 06:21:10 |
+| Sunrise | 06:21:11 |
 | Dhuhr | 11:58:04 |
 | Medium Coeli | 11:58:04 |
 | Sunset | 17:34:48 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:05:30 |
-| Sunrise | 06:21:10 |
+| Sunrise | 06:21:11 |
 | Dhuhr | 11:58:04 |
 | Medium Coeli | 11:58:04 |
 | Sunset | 17:34:48 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:04:11 |
-| Sunrise | 06:21:10 |
+| Sunrise | 06:21:11 |
 | Dhuhr | 11:58:04 |
 | Medium Coeli | 11:58:04 |
 | Sunset | 17:34:48 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:17:19 |
-| Sunrise | 06:21:10 |
+| Sunrise | 06:21:11 |
 | Dhuhr | 11:58:04 |
 | Medium Coeli | 11:58:04 |
 | Sunset | 17:34:48 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:57:38 |
-| Sunrise | 06:21:10 |
+| Sunrise | 06:21:11 |
 | Dhuhr | 11:58:04 |
 | Medium Coeli | 11:58:04 |
 | Sunset | 17:34:48 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:04:11 |
-| Sunrise | 06:21:10 |
+| Sunrise | 06:21:11 |
 | Dhuhr | 11:58:04 |
 | Medium Coeli | 11:58:04 |
 | Sunset | 17:34:48 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:02:00 |
-| Sunrise | 06:21:10 |
+| Sunrise | 06:21:11 |
 | Dhuhr | 11:58:04 |
 | Medium Coeli | 11:58:04 |
 | Sunset | 17:34:48 |
@@ -204,18 +204,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:13:38|Night duration: 12:46:57|
+|Duration of the day: 11:13:37|Night duration: 12:46:57|
 |Every hour of day duration: 00:56:08|Every hour of night duration: 01:03:55|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:21:10|07:17:17|Dawn repulsion, depleted energy absorption|
-|2|Saturn|Servant|07:17:18|08:13:25|The journey of the appearance and the interior|
-|3|Jupiter|Servant|08:13:26|09:09:33|Marriage is a good marriage|
-|4|Mars|Servant|09:09:34|10:05:41|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Sun|Servant|10:05:42|11:01:49|Defecation, attracting love and wealth|
-|6|Venus|Servant|11:01:50|11:57:58|Summoning the desired person, love and conquest|
+|1|Moon|Ruler|06:21:11|07:17:18|Dawn repulsion, depleted energy absorption|
+|2|Saturn|Servant|07:17:19|08:13:26|The journey of the appearance and the interior|
+|3|Jupiter|Servant|08:13:27|09:09:34|Marriage is a good marriage|
+|4|Mars|Servant|09:09:35|10:05:42|Repelling and destroying the enemy and draining the energy of the enemy|
+|5|Sun|Servant|10:05:43|11:01:50|Defecation, attracting love and wealth|
+|6|Venus|Servant|11:01:51|11:57:58|Summoning the desired person, love and conquest|
 |7|Mercury|Servant|11:57:59|12:54:06|Aqdalsan|
 |8|Moon|Ruler|12:54:07|13:50:14|Correction of two people, attraction of love|
 |9|Saturn|Servant|13:50:15|14:46:22|Attracting and repelling the enemy and separating|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:13:38|Night duration: 12:46:57|
+|Duration of the day: 11:13:37|Night duration: 12:46:57|
 |Every hour duration: 01:36:14|Every hour duration: 01:49:34|
 
  
@@ -258,7 +258,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:21:10|07:57:23|
+|Early morning|Moon|Ruler|06:21:11|07:57:23|
 |Mid-morning|Saturn|Servant|07:57:24|09:33:37|
 |Late morning|Jupiter|Servant|09:33:38|11:09:51|
 |Noon|Mars|Servant|11:09:52|12:46:05|
