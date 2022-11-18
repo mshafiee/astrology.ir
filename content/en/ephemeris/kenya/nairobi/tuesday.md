@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:11:36 |
+| Dawn | 05:11:37 |
 | Sunrise | 06:13:37 |
 | Dhuhr | 12:18:48 |
 | Medium Coeli | 12:18:48 |
@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°20'56.28" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|19°20'56.28" |Capricorn|SaadAlBula|Mars|
 |♃ Jupiter|Retrograde|28°48'14.28" |Aquarius|FarghAlMuqaddam|Moon|
 |♂ Mars|Retrograde|21°57'46.77" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|29°47'13.43" |Libra|Akleel|Jupiter|
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°20'56.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|19°20'56.28" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Retrograde|28°48'14.28" |Pisces|Rescha|Mars|
 |♂ Mars|Retrograde|21°57'46.77" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|29°47'13.43" |Scorpio|Shaulah|Venus|
