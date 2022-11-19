@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:24:01 |
+| Dawn | 05:24:00 |
 | Sunrise | 06:49:59 |
 | Dhuhr | 12:01:53 |
 | Medium Coeli | 12:01:53 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:24:01 |
+| Dawn | 05:24:00 |
 | Sunrise | 06:49:59 |
 | Dhuhr | 12:01:53 |
 | Medium Coeli | 12:01:53 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°27'7.70" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|28°47'53.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|21°19'10.98" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|1°48'47.00" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|9°53'37.03" |Scorpio|Qalb|Mars|
-|☿ Mercury|Direct|10°31'47.90" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|5°12'14.05" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|19°27'7.67" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|28°47'53.54" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|21°19'11.24" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|1°48'46.98" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|9°53'37.04" |Scorpio|Qalb|Mars|
+|☿ Mercury|Direct|10°31'47.89" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|5°12'13.81" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°27'7.70" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|28°47'53.38" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|21°19'10.98" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°48'47.00" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|9°53'37.03" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|10°31'47.90" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|5°12'14.05" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|19°27'7.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|28°47'53.54" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|21°19'11.24" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°48'46.98" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|9°53'37.04" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|10°31'47.89" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|5°12'13.81" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
