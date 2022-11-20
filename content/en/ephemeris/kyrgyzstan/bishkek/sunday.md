@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 09:34:54|Night duration: 14:26:19|
-|Every hour of day duration: 00:47:54|Every hour of night duration: 01:12:12|
+|Every hour of day duration: 00:47:55|Every hour of night duration: 01:12:12|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°14'59.89" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|28°49'28.10" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|22°34'40.37" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|27°42'54.23" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|4°48'11.77" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|4°14'48.01" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|8°37'59.38" |Virgo|Awwa|Sun|
+|♄ Saturn|Post-Retrograde Shadow|19°14'59.92" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|28°49'27.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|22°34'40.15" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|27°42'54.24" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|4°48'11.75" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|4°14'48.02" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|8°37'59.47" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°14'59.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|28°49'28.10" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|22°34'40.37" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°42'54.23" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|4°48'11.77" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|4°14'48.01" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|8°37'59.38" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|19°14'59.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|28°49'27.94" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|22°34'40.15" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°42'54.24" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|4°48'11.75" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|4°14'48.02" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|8°37'59.47" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

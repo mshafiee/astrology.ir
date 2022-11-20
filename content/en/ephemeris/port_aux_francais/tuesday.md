@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:05:10 |
 | Sunset | 19:53:12 |
 | Maghrib | 19:54:49 |
-| Isha | 22:46:54 |
+| Isha | 22:46:53 |
 | Sharia Midnight | 22:38:14 |
 | Imum Coeli | 00:05:18 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°20'27.01" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|28°48'18.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|22°0'57.62" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°37'13.05" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|7°10'18.12" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|7°10'35.56" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°49'1.40" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|19°20'26.98" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|28°48'18.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|22°0'57.85" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°37'13.03" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|7°10'18.14" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|7°10'35.54" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°49'0.91" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°20'27.01" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|28°48'18.75" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|22°0'57.62" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°37'13.05" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|7°10'18.12" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|7°10'35.56" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°49'1.40" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|19°20'26.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|28°48'18.91" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|22°0'57.85" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°37'13.03" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|7°10'18.14" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|7°10'35.54" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°49'0.91" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
