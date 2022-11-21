@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 05:16:26 |
 | Sunrise | 06:24:40 |
-| Dhuhr | 12:02:13 |
-| Medium Coeli | 12:02:13 |
+| Dhuhr | 12:02:12 |
+| Medium Coeli | 12:02:12 |
 | Sunset | 17:39:37 |
 | Maghrib | 17:54:56 |
 | Isha | 18:39:07 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 05:09:00 |
 | Sunrise | 06:24:40 |
-| Dhuhr | 12:02:13 |
-| Medium Coeli | 12:02:13 |
+| Dhuhr | 12:02:12 |
+| Medium Coeli | 12:02:12 |
 | Sunset | 17:39:37 |
 | Maghrib | 17:57:10 |
 | Isha | 18:39:07 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 05:07:42 |
 | Sunrise | 06:24:40 |
-| Dhuhr | 12:02:13 |
-| Medium Coeli | 12:02:13 |
+| Dhuhr | 12:02:12 |
+| Medium Coeli | 12:02:12 |
 | Sunset | 17:39:37 |
 | Maghrib | 17:43:11 |
 | Isha | 18:52:14 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:20:48 |
 | Sunrise | 06:24:40 |
-| Dhuhr | 12:02:13 |
-| Medium Coeli | 12:02:13 |
+| Dhuhr | 12:02:12 |
+| Medium Coeli | 12:02:12 |
 | Sunset | 17:39:37 |
 | Maghrib | 17:43:11 |
 | Isha | 18:43:30 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 05:01:09 |
 | Sunrise | 06:24:40 |
-| Dhuhr | 12:02:13 |
-| Medium Coeli | 12:02:13 |
+| Dhuhr | 12:02:12 |
+| Medium Coeli | 12:02:12 |
 | Sunset | 17:39:37 |
 | Maghrib | 17:43:11 |
 | Isha | 18:54:25 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 05:07:42 |
 | Sunrise | 06:24:40 |
-| Dhuhr | 12:02:13 |
-| Medium Coeli | 12:02:13 |
+| Dhuhr | 12:02:12 |
+| Medium Coeli | 12:02:12 |
 | Sunset | 17:39:37 |
 | Maghrib | 17:43:11 |
 | Isha | 18:56:36 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 05:05:31 |
 | Sunrise | 06:24:40 |
-| Dhuhr | 12:02:13 |
-| Medium Coeli | 12:02:13 |
+| Dhuhr | 12:02:12 |
+| Medium Coeli | 12:02:12 |
 | Sunset | 17:39:37 |
 | Maghrib | 17:43:11 |
 | Isha | 19:13:11 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°20'39.03" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|28°48'16.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|21°59'33.92" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°41'22.74" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|7°15'24.70" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|7°16'53.88" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|5°16'51.82" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|19°20'39.00" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|28°48'16.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|21°59'34.16" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°41'22.72" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|7°15'24.72" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|7°16'53.86" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°16'51.30" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°20'39.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|28°48'16.37" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|21°59'33.92" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°41'22.74" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|7°15'24.70" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|7°16'53.88" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|5°16'51.82" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|19°20'39.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|28°48'16.53" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|21°59'34.16" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°41'22.72" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|7°15'24.72" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|7°16'53.86" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°16'51.30" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

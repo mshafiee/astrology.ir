@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 10:02:26|Night duration: 13:58:33|
+|Duration of the day: 10:02:26|Night duration: 13:58:34|
 |Every hour of day duration: 00:50:12|Every hour of night duration: 01:09:53|
 
  
@@ -230,14 +230,14 @@ Timetable of twelve day and night planetary hours
 |2|Venus|Servant|17:28:50|18:38:42|It's ugly, nothing to do|
 |3|Mercury|Servant|18:38:43|19:48:35|To overcome diseases|
 |4|Moon|Servant|19:48:36|20:58:28|For all things, Saadin's goal|
-|5|Saturn|Servant|20:58:29|22:08:20|Creating negative energy and disturbing the peace|
-|6|Jupiter|Servant|22:08:21|23:18:13|The journey of the appearance and the interior|
-|7|Mars|Servant|23:18:14|00:28:06|Attracting love and attracting hearts and hearts|
+|5|Saturn|Servant|20:58:29|22:08:21|Creating negative energy and disturbing the peace|
+|6|Jupiter|Servant|22:08:22|23:18:14|The journey of the appearance and the interior|
+|7|Mars|Servant|23:18:15|00:28:06|Attracting love and attracting hearts and hearts|
 |8|Sun|Ruler|00:28:07|01:37:59|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Venus|Servant|01:38:00|02:47:51|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mercury|Servant|02:47:52|03:57:44|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Moon|Servant|03:57:45|05:07:37|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Saturn|Servant|05:07:38|06:17:30|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Venus|Servant|01:38:00|02:47:52|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Mercury|Servant|02:47:53|03:57:45|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Moon|Servant|03:57:46|05:07:38|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Saturn|Servant|05:07:39|06:17:31|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 10:02:26|Night duration: 13:58:33|
+|Duration of the day: 10:02:26|Night duration: 13:58:34|
 |Every hour duration: 01:26:04|Every hour duration: 01:59:48|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Sun|Ruler|16:18:58|18:18:44|
 |Late evening|Venus|Servant|18:18:45|20:18:32|
-|Midnight|Mercury|Servant|20:18:33|22:18:19|
-|Late at night|Moon|Servant|22:18:20|00:18:07|
-|Rooster song|Saturn|Servant|00:18:08|02:17:54|
-|False Dawn|Jupiter|Servant|02:17:55|04:17:42|
-|Dawn|Mars|Servant|04:17:43|06:17:30|
+|Midnight|Mercury|Servant|20:18:33|22:18:20|
+|Late at night|Moon|Servant|22:18:21|00:18:07|
+|Rooster song|Saturn|Servant|00:18:08|02:17:55|
+|False Dawn|Jupiter|Servant|02:17:56|04:17:43|
+|Dawn|Mars|Servant|04:17:44|06:17:31|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°23'55.29" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Retrograde|28°47'57.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|21°39'12.10" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°46'42.47" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|8°36'33.47" |Scorpio|Qalb|Mars|
-|☿ Mercury|Direct|8°56'57.72" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|20°24'21.13" |Libra|Jubana|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|19°23'55.32" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|28°47'57.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|21°39'11.85" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°46'42.49" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|8°36'33.45" |Scorpio|Qalb|Mars|
+|☿ Mercury|Direct|8°56'57.74" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|20°24'21.72" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°23'55.29" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Retrograde|28°47'57.86" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|21°39'12.10" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°46'42.47" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|8°36'33.47" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|8°56'57.72" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|20°24'21.13" |Scorpio|Qalb|Venus|
+|♄ Saturn|Post-Retrograde Shadow|19°23'55.32" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|28°47'57.70" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|21°39'11.85" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°46'42.49" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|8°36'33.45" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|8°56'57.74" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|20°24'21.72" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
