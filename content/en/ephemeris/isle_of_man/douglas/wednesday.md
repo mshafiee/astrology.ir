@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 16:00:32 |
 | Maghrib | 16:32:44 |
 | Isha | 17:44:05 |
-| Sharia Midnight | 23:02:06 |
+| Sharia Midnight | 23:02:07 |
 | Imum Coeli | 00:06:45 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°48'36.11" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Direct|28°52'9.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|19°7'10.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|8°5'28.54" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|17°40'43.02" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|19°48'36.07" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|28°52'9.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|19°7'11.09" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|8°5'28.52" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|17°40'43.05" |Scorpio|Qalb|Sun|
 |☿ Mercury|Direct|20°2'58.62" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|4°40'3.31" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|4°40'4.34" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°48'36.11" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|28°52'9.29" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|19°7'10.83" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|8°5'28.54" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|17°40'43.02" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Post-Retrograde Shadow|19°48'36.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|28°52'9.44" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|19°7'11.09" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|8°5'28.52" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|17°40'43.05" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Direct|20°2'58.62" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°40'3.31" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|4°40'4.34" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

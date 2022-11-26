@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°36'41.44" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Direct|28°48'52.40" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|20°19'45.27" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|4°43'57.22" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°30'53.41" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|14°58'15.70" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|16°55'3.58" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|19°36'41.40" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Direct|28°48'52.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|20°19'45.54" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|4°43'57.19" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|13°30'55.42" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|14°58'18.19" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|17°32'38.55" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Venus|Jupiter|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Mercury|Mars|Aries|Moon|Mars|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|19°36'41.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|19°36'41.40" |Aquarius|SaadAlAkhbia|Mercury|
 |♃ Jupiter|Direct|28°48'52.55" |Pisces|Rescha|Mars|
 |♂ Mars|Retrograde|20°19'45.54" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|4°43'57.19" |Sagittarius|NaAaem|Mercury|
