@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:06:27 |
 | Sunset | 16:01:28 |
 | Maghrib | 16:04:24 |
-| Isha | 18:10:48 |
+| Isha | 18:10:49 |
 | Sharia Midnight | 22:55:08 |
 | Imum Coeli | 00:06:37 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°37'29.86" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Direct|28°49'2.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|20°14'52.36" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|4°58'4.40" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|13°48'27.99" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|15°19'45.58" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|20°41'57.92" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|19°37'29.89" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|28°49'2.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|20°14'52.09" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|4°58'4.42" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|13°48'27.97" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|15°19'45.59" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|20°41'56.54" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°37'29.86" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Direct|28°49'2.28" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|20°14'52.36" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|4°58'4.40" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|13°48'27.99" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|15°19'45.58" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|20°41'57.92" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Post-Retrograde Shadow|19°37'29.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|28°49'2.13" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|20°14'52.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°58'4.42" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|13°48'27.97" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|15°19'45.59" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|20°41'56.54" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
