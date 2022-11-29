@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°44'30.24" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|28°50'48.04" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|19°31'51.26" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|6°57'59.13" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°17'3.90" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|18°21'9.25" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|19°13'31.54" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Post-Retrograde Shadow|19°44'30.28" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|28°50'47.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|19°31'50.99" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|6°57'59.15" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°17'3.88" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|18°21'9.26" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|19°13'30.24" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°44'30.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|28°50'48.04" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|19°31'51.26" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|6°57'59.13" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|16°17'3.90" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|18°21'9.25" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|19°13'31.54" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|19°44'30.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|28°50'47.89" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|19°31'50.99" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|6°57'59.15" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|16°17'3.88" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|18°21'9.26" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|19°13'30.24" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
