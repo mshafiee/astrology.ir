@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°52'45.12" |Capricorn|SaadAlBula|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|28°53'44.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|18°42'17.14" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|9°12'17.91" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|19°3'26.73" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|21°43'26.92" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|19°36'25.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|19°52'45.16" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|28°53'44.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|18°42'16.88" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|9°12'17.92" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|19°3'26.70" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|21°43'26.93" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|19°36'24.77" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|19°52'45.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♃ Jupiter|Post-Retrograde Shadow|28°53'44.16" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|18°42'17.14" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|9°12'17.91" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|19°3'26.73" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|21°43'26.92" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|19°36'25.51" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|19°52'45.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|28°53'44.01" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|18°42'16.88" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|9°12'17.92" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|19°3'26.70" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|21°43'26.93" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|19°36'24.77" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 11:54:42 |
 | Medium Coeli | 11:54:42 |
 | Sunset | 16:16:38 |
-| Maghrib | 16:43:04 |
+| Maghrib | 16:43:05 |
 | Isha | 17:43:33 |
 | Sharia Midnight | 23:00:18 |
 | Imum Coeli | 23:54:54 |
@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|20°3'45.70" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|28°58'52.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|17°38'18.60" |Taurus|Dabaran|Moon|
+|♄ Saturn|Post-Retrograde Shadow|20°3'45.74" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|28°58'52.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|17°38'18.36" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|12°1'59.96" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|22°33'32.29" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|25°57'23.52" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|22°33'32.26" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|25°57'23.51" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|26°15'20.53" |Pisces|Rescha|Mars|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|20°3'45.70" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|28°58'52.67" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|17°38'18.60" |Gemini|Dhira|Mars|
+|♄ Saturn|Post-Retrograde Shadow|20°3'45.74" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|28°58'52.52" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|17°38'18.36" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|12°1'59.96" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|22°33'32.29" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|25°57'23.52" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|22°33'32.26" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|25°57'23.51" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|26°15'20.53" |Aries|Thurayya|Venus|
 
 
