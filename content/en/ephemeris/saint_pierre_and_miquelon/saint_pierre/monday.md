@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 08:36:37|Night duration: 15:24:14|
+|Duration of the day: 08:36:37|Night duration: 15:24:15|
 |Every hour of day duration: 00:43:03|Every hour of night duration: 01:17:01|
 
  
@@ -229,15 +229,15 @@ Timetable of twelve day and night planetary hours
 |1|Venus|Ruler|16:56:40|18:13:40|Dawn repulsion, depleted energy absorption|
 |2|Mercury|Servant|18:13:41|19:30:41|The journey of the appearance and the interior|
 |3|Moon|Servant|19:30:42|20:47:42|Marriage is a good marriage|
-|4|Saturn|Servant|20:47:43|22:04:43|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Jupiter|Servant|22:04:44|23:21:44|Defecation, attracting love and wealth|
-|6|Mars|Servant|23:21:45|00:38:46|Summoning the desired person, love and conquest|
+|4|Saturn|Servant|20:47:43|22:04:44|Repelling and destroying the enemy and draining the energy of the enemy|
+|5|Jupiter|Servant|22:04:45|23:21:45|Defecation, attracting love and wealth|
+|6|Mars|Servant|23:21:46|00:38:46|Summoning the desired person, love and conquest|
 |7|Sun|Servant|00:38:47|01:55:47|Aqdalsan|
-|8|Venus|Ruler|01:55:48|03:12:48|Correction of two people, attraction of love|
-|9|Mercury|Servant|03:12:49|04:29:49|Attracting and repelling the enemy and separating|
-|10|Moon|Servant|04:29:50|05:46:50|It is good for every action|
-|11|Saturn|Servant|05:46:51|07:03:51|Creating Enmity and Negative Energy|
-|12|Jupiter|Servant|07:03:52|08:20:53|Heart Compassion|
+|8|Venus|Ruler|01:55:48|03:12:49|Correction of two people, attraction of love|
+|9|Mercury|Servant|03:12:50|04:29:50|Attracting and repelling the enemy and separating|
+|10|Moon|Servant|04:29:51|05:46:51|It is good for every action|
+|11|Saturn|Servant|05:46:52|07:03:52|Creating Enmity and Negative Energy|
+|12|Jupiter|Servant|07:03:53|08:20:54|Heart Compassion|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 08:36:37|Night duration: 15:24:14|
+|Duration of the day: 08:36:37|Night duration: 15:24:15|
 |Every hour duration: 01:13:48|Every hour duration: 02:12:02|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Saturn|Servant|23:32:46|01:44:47|
 |Rooster song|Jupiter|Servant|01:44:48|03:56:49|
 |False Dawn|Mars|Servant|03:56:50|06:08:51|
-|Dawn|Sun|Servant|06:08:52|08:20:53|
+|Dawn|Sun|Servant|06:08:52|08:20:54|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°39'58.54" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Direct|29°23'10.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♂ Mars|Retrograde|14°29'42.58" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|20°39'58.49" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|29°23'11.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Retrograde|14°29'42.81" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|20°23'58.71" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|2°53'54.12" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|8°7'51.93" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°5'30.62" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|2°53'54.15" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|8°7'51.96" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°5'30.15" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|20°39'58.54" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Direct|29°23'10.92" |Pisces|Rescha|Mars|
-|♂ Mars|Retrograde|14°29'42.58" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|20°39'58.49" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|29°23'11.05" |Pisces|Rescha|Mars|
+|♂ Mars|Retrograde|14°29'42.81" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|20°23'58.71" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|2°53'54.12" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|8°7'51.93" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°5'30.62" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|2°53'54.15" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|8°7'51.96" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|7°5'30.15" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
