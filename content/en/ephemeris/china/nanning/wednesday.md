@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°22'39.87" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|0°1'57.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|11°37'22.63" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|29°3'0.81" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°33'43.84" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|19°6'6.97" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|26°4'46.35" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|21°22'39.81" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|0°1'57.16" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|11°37'22.82" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|29°3'0.82" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°33'43.87" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|19°6'6.98" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|26°4'46.38" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°22'39.87" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|0°1'57.04" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|11°37'22.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°3'0.81" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°33'43.84" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|19°6'6.97" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|26°4'46.35" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|21°22'39.81" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|0°1'57.16" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|11°37'22.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°3'0.82" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°33'43.87" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|19°6'6.98" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|26°4'46.38" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
