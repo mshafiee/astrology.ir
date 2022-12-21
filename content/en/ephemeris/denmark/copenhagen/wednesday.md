@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°24'29.54" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|0°3'48.16" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|11°31'21.86" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|29°23'55.53" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°59'31.48" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|19°28'3.59" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|0°38'40.68" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|21°24'29.60" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|0°3'48.04" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|11°31'21.67" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|29°23'55.51" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°59'31.44" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|19°28'3.57" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|0°38'40.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°24'29.54" |Aquarius|SaadAlAkhbia|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|0°3'48.16" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|11°31'21.86" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°23'55.53" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°59'31.48" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|19°28'3.59" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|0°38'40.68" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|21°24'29.60" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|0°3'48.04" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|11°31'21.67" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°23'55.51" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°59'31.44" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|19°28'3.57" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|0°38'40.90" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
