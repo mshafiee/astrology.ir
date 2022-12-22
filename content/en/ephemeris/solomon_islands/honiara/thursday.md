@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°27'1.81" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|0°6'22.77" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|11°22'55.22" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|29°52'55.18" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|14°35'10.22" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|19°57'34.10" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|8°2'28.12" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|21°27'1.76" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|0°6'22.89" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|11°22'55.42" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|29°52'55.19" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|14°35'10.25" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|19°57'34.11" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|8°2'27.61" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°27'1.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|0°6'22.77" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|11°22'55.22" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°52'55.18" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|14°35'10.22" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|19°57'34.10" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|8°2'28.12" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|21°27'1.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|0°6'22.89" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|11°22'55.42" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°52'55.19" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|14°35'10.25" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|19°57'34.11" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|8°2'27.61" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

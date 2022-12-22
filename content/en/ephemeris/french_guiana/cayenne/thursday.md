@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:14:27 |
+| Dawn | 05:14:26 |
 | Sunrise | 06:32:32 |
 | Dhuhr | 12:27:56 |
 | Medium Coeli | 12:27:56 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°30'18.42" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|0°9'45.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|11°12'27.87" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|0°30'2.78" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|15°20'52.41" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|20°33'44.72" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|17°3'41.55" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|21°30'18.47" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|0°9'45.16" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|11°12'27.68" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°30'2.77" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|15°20'52.38" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|20°33'44.71" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|17°3'42.30" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°30'18.42" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|0°9'45.28" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|11°12'27.87" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°30'2.78" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|15°20'52.41" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|20°33'44.72" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|17°3'41.55" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|21°30'18.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|0°9'45.16" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|11°12'27.68" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°30'2.77" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|15°20'52.38" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|20°33'44.71" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|17°3'42.30" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

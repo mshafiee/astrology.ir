@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 07:02:36|Night duration: 16:57:42|
-|Every hour of day duration: 00:35:13|Every hour of night duration: 01:24:48|
+|Every hour of day duration: 00:35:13|Every hour of night duration: 01:24:49|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°40'49.67" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|0°20'51.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|10°41'12.99" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|21°40'49.61" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|0°20'51.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|10°41'13.18" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°27'22.48" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|17°45'19.52" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|17°45'19.55" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Pre-Retrograde Shadow|22°14'17.95" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|15°29'13.35" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|15°29'11.97" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°40'49.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|0°20'51.38" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|10°41'12.99" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|21°40'49.61" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|0°20'51.49" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|10°41'13.18" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°27'22.48" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|17°45'19.52" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|17°45'19.55" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Pre-Retrograde Shadow|22°14'17.95" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|15°29'13.35" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|15°29'11.97" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
