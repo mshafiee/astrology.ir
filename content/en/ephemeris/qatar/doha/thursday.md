@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°8'13.85" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|0°51'31.62" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|9°34'32.82" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|7°22'8.67" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|23°47'51.77" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|24°21'10.33" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|25°58'58.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|22°8'13.79" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|0°51'31.73" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|9°34'33.00" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|7°22'8.68" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|23°47'51.79" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|24°21'10.31" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°59'0.52" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°8'13.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|0°51'31.62" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|9°34'32.82" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|7°22'8.67" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|23°47'51.77" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Pre-Retrograde Shadow|24°21'10.33" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|25°58'58.37" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|22°8'13.79" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|0°51'31.73" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|9°34'33.00" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|7°22'8.68" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|23°47'51.79" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|24°21'10.31" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|25°59'0.52" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

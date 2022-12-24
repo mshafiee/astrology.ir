@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 06:06:20 |
-| Sunrise | 07:28:57 |
+| Sunrise | 07:28:56 |
 | Dhuhr | 12:21:58 |
 | Medium Coeli | 12:21:58 |
 | Sunset | 17:15:01 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:57:38 |
-| Sunrise | 07:28:57 |
+| Sunrise | 07:28:56 |
 | Dhuhr | 12:21:58 |
 | Medium Coeli | 12:21:58 |
 | Sunset | 17:15:01 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:56:06 |
-| Sunrise | 07:28:57 |
+| Sunrise | 07:28:56 |
 | Dhuhr | 12:21:58 |
 | Medium Coeli | 12:21:58 |
 | Sunset | 17:15:01 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 06:11:29 |
-| Sunrise | 07:28:57 |
+| Sunrise | 07:28:56 |
 | Dhuhr | 12:21:58 |
 | Medium Coeli | 12:21:58 |
 | Sunset | 17:15:01 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:48:27 |
-| Sunrise | 07:28:57 |
+| Sunrise | 07:28:56 |
 | Dhuhr | 12:21:58 |
 | Medium Coeli | 12:21:58 |
 | Sunset | 17:15:01 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:56:06 |
-| Sunrise | 07:28:57 |
+| Sunrise | 07:28:56 |
 | Dhuhr | 12:21:58 |
 | Medium Coeli | 12:21:58 |
 | Sunset | 17:15:01 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:53:33 |
-| Sunrise | 07:28:57 |
+| Sunrise | 07:28:56 |
 | Dhuhr | 12:21:58 |
 | Medium Coeli | 12:21:58 |
 | Sunset | 17:15:01 |
@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Retrograde|10°28'8.41" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|3°19'16.16" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|18°49'8.69" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|22°51'3.85" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|22°51'3.85" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|28°39'8.73" |Sagittarius|Baldah|Saturn|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Retrograde|10°28'8.41" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°19'16.16" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|18°49'8.69" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|22°51'3.85" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|22°51'3.85" |Capricorn|SaadAlBula|Sun|
 |☾ Moon|Direct|28°39'8.73" |Capricorn|SaadAlSaud|Sun|
 
 
