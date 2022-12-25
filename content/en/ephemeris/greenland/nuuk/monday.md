@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°53'23.01" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|0°34'36.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|10°8'6.30" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|4°44'14.66" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°33'44.15" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|23°39'5.67" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|18°59'0.09" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|21°53'23.07" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|0°34'36.85" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|10°8'6.11" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|4°44'14.67" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°33'44.12" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|23°39'5.68" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|18°59'0.13" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°53'23.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|0°34'36.96" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|10°8'6.30" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°44'14.66" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|20°33'44.15" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|23°39'5.67" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|18°59'0.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|21°53'23.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|0°34'36.85" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|10°8'6.11" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°44'14.67" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|20°33'44.12" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|23°39'5.68" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|18°59'0.13" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

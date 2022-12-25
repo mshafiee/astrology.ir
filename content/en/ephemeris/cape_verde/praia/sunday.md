@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°46'28.34" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|0°26'58.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|10°25'37.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|3°29'23.02" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|19°1'34.22" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Retrograde|22°57'36.95" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°18'18.74" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|21°46'28.40" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|0°26'58.25" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|10°25'37.64" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|3°29'23.03" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|19°1'34.20" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Retrograde|22°57'36.96" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°18'20.01" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|21°46'28.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|0°26'58.37" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|10°25'37.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°29'23.02" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|19°1'34.22" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|22°57'36.95" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|1°18'18.74" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|21°46'28.40" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|0°26'58.25" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|10°25'37.64" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°29'23.03" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|19°1'34.20" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|22°57'36.96" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|1°18'20.01" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°12'59.83" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|0°57'6.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|9°25'7.15" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|8°11'58.55" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°49'8.45" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|24°19'47.65" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°55'21.39" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|22°12'59.89" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|0°57'6.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|9°25'6.98" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|8°11'58.54" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°49'8.42" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|24°19'47.67" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|6°55'19.42" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°12'59.83" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|0°57'6.13" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|9°25'7.15" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|8°11'58.55" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°49'8.45" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|24°19'47.65" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|6°55'21.39" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|22°12'59.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|0°57'6.02" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|9°25'6.98" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|8°11'58.54" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°49'8.42" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|24°19'47.67" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|6°55'19.42" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
