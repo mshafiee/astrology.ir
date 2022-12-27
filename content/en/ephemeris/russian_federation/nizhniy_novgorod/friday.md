@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°14'39.04" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|0°59'3.20" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|9°22'4.00" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|8°29'7.99" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|25°10'16.54" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Retrograde|24°17'29.22" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|10°39'34.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|22°14'39.10" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|0°59'3.09" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|9°22'3.83" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|8°29'7.98" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|25°10'16.51" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|24°17'29.25" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|10°39'32.91" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°14'39.04" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|0°59'3.20" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|9°22'4.00" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|8°29'7.99" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|25°10'16.54" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|24°17'29.22" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|10°39'34.78" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|22°14'39.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|0°59'3.09" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|9°22'3.83" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|8°29'7.98" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|25°10'16.51" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|24°17'29.25" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|10°39'32.91" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
