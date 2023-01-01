@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°39'52.91" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|1°29'40.93" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°42'52.09" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|12°46'8.31" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|0°26'6.82" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|21°54'4.79" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°16'18.31" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|22°39'52.85" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|1°29'41.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°42'52.22" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|12°46'8.33" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|0°26'6.85" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|21°54'4.75" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°16'18.02" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°39'52.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|1°29'40.93" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°42'52.09" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|12°46'8.31" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|0°26'6.82" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Retrograde|21°54'4.79" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|3°16'18.31" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|22°39'52.85" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|1°29'41.03" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°42'52.22" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|12°46'8.33" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|0°26'6.85" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|21°54'4.75" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|3°16'18.02" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

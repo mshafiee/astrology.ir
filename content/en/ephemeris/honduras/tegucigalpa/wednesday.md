@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°46'28.52" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|1°37'57.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°35'13.24" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|13°51'45.47" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°46'44.37" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|20°46'57.53" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°12'33.27" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|22°46'28.46" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|1°37'57.23" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°35'13.35" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|13°51'45.49" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°46'44.41" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|20°46'57.49" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°12'32.66" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°46'28.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|1°37'57.13" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°35'13.24" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|13°51'45.47" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|1°46'44.37" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Retrograde|20°46'57.53" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|16°12'33.27" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|22°46'28.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|1°37'57.23" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°35'13.35" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|13°51'45.49" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|1°46'44.41" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|20°46'57.49" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|16°12'32.66" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
