@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°55'30.18" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|1°49'26.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°26'22.85" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|15°20'41.28" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°35'59.68" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|19°1'47.44" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|3°40'48.85" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|22°55'30.25" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|1°49'26.56" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°26'22.75" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|15°20'41.26" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°35'59.64" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|19°1'47.46" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|3°40'49.49" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|22°55'30.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|1°49'26.66" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°26'22.85" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|15°20'41.28" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|3°35'59.68" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Retrograde|19°1'47.44" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|3°40'48.85" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|22°55'30.25" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|1°49'26.56" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°26'22.75" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|15°20'41.26" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|3°35'59.64" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|19°1'47.46" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|3°40'49.49" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
