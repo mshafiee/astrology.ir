@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°35'21.12" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|2°42'15.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°7'46.22" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|21°42'13.90" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|11°24'25.09" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|11°13'46.47" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|18°22'12.28" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|23°35'21.19" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|2°42'15.57" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°7'46.13" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|21°42'13.88" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|11°24'25.05" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|11°13'46.46" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|18°22'12.20" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°35'21.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|2°42'15.66" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°7'46.22" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|21°42'13.90" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|11°24'25.09" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|11°13'46.47" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|18°22'12.28" |Virgo|Simak|Venus|
+|♄ Saturn|Direct|23°35'21.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|2°42'15.57" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°7'46.13" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|21°42'13.88" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|11°24'25.05" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|11°13'46.46" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|18°22'12.20" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

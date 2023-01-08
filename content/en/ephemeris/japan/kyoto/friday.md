@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:26:51 |
-| Sunrise | 07:04:52 |
+| Sunrise | 07:04:53 |
 | Dhuhr | 12:05:24 |
 | Medium Coeli | 12:05:24 |
 | Sunset | 17:06:09 |

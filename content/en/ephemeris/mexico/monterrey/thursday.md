@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°37'40.36" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|2°45'26.17" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°7'39.76" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|22°3'56.95" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|11°51'5.00" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Retrograde|10°53'17.59" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|22°48'37.82" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|23°37'40.43" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|2°45'26.09" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°7'39.67" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|22°3'56.93" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|11°51'4.96" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Retrograde|10°53'17.57" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|22°48'37.94" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°37'40.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|2°45'26.17" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°7'39.76" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|22°3'56.95" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|11°51'5.00" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|10°53'17.59" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|22°48'37.82" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|23°37'40.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|2°45'26.09" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°7'39.67" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|22°3'56.93" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|11°51'4.96" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|10°53'17.57" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|22°48'37.94" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

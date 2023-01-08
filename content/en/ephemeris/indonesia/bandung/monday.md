@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°14'19.03" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|2°13'58.19" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°13'35.81" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|18°22'55.10" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|7°19'46.17" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Retrograde|15°4'2.72" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|9°3'50.33" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|23°14'19.10" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|2°13'58.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°13'35.72" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|18°22'55.08" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|7°19'46.14" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|15°4'2.74" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|9°3'49.97" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°14'19.03" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|2°13'58.19" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°13'35.81" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|18°22'55.10" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|7°19'46.17" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Retrograde|15°4'2.72" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|9°3'50.33" |Leo|Zubrah|Saturn|
+|♄ Saturn|Direct|23°14'19.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|2°13'58.10" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°13'35.72" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|18°22'55.08" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|7°19'46.14" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Retrograde|15°4'2.74" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|9°3'49.97" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
