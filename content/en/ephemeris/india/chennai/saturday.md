@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°47'24.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|2°58'51.68" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°8'8.34" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|23°34'35.61" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°42'16.97" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|9°40'34.14" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|11°14'25.24" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|23°47'24.43" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|2°58'51.76" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°8'8.42" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|23°34'35.63" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°42'17.01" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|9°40'34.17" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|11°14'24.84" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°47'24.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|2°58'51.68" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°8'8.34" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|23°34'35.61" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|13°42'16.97" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|9°40'34.14" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°14'25.24" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|23°47'24.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|2°58'51.76" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°8'8.42" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|23°34'35.63" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|13°42'17.01" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|9°40'34.17" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|11°14'24.84" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

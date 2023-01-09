@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°47'3.99" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|2°58'23.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°8'7.58" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|23°31'24.44" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°38'23.77" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|9°42'42.24" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|10°38'4.49" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|23°47'3.92" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|2°58'23.36" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°8'7.66" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|23°31'24.46" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°38'23.81" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|9°42'42.27" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|10°38'4.08" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°47'3.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|2°58'23.28" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°8'7.58" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|23°31'24.44" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|13°38'23.77" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|9°42'42.24" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|10°38'4.49" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|23°47'3.92" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|2°58'23.36" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°8'7.66" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|23°31'24.46" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|13°38'23.81" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|9°42'42.27" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°38'4.08" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
