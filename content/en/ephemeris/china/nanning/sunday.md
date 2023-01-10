@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 06:18:22 |
 | Sunrise | 07:29:18 |
-| Dhuhr | 12:55:55 |
-| Medium Coeli | 12:55:55 |
+| Dhuhr | 12:55:54 |
+| Medium Coeli | 12:55:54 |
 | Sunset | 18:22:40 |
 | Maghrib | 18:38:33 |
 | Isha | 19:24:31 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 06:10:41 |
 | Sunrise | 07:29:18 |
-| Dhuhr | 12:55:55 |
-| Medium Coeli | 12:55:55 |
+| Dhuhr | 12:55:54 |
+| Medium Coeli | 12:55:54 |
 | Sunset | 18:22:40 |
 | Maghrib | 18:40:53 |
 | Isha | 19:24:31 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 06:09:19 |
 | Sunrise | 07:29:18 |
-| Dhuhr | 12:55:55 |
-| Medium Coeli | 12:55:55 |
+| Dhuhr | 12:55:54 |
+| Medium Coeli | 12:55:54 |
 | Sunset | 18:22:40 |
 | Maghrib | 18:24:12 |
 | Isha | 19:38:07 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 06:22:54 |
 | Sunrise | 07:29:18 |
-| Dhuhr | 12:55:55 |
-| Medium Coeli | 12:55:55 |
+| Dhuhr | 12:55:54 |
+| Medium Coeli | 12:55:54 |
 | Sunset | 18:22:40 |
 | Maghrib | 18:24:12 |
 | Isha | 19:29:04 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 06:02:34 |
 | Sunrise | 07:29:18 |
-| Dhuhr | 12:55:55 |
-| Medium Coeli | 12:55:55 |
+| Dhuhr | 12:55:54 |
+| Medium Coeli | 12:55:54 |
 | Sunset | 18:22:40 |
 | Maghrib | 18:24:12 |
 | Isha | 19:40:23 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 06:09:19 |
 | Sunrise | 07:29:18 |
-| Dhuhr | 12:55:55 |
-| Medium Coeli | 12:55:55 |
+| Dhuhr | 12:55:54 |
+| Medium Coeli | 12:55:54 |
 | Sunset | 18:22:40 |
 | Maghrib | 18:24:12 |
 | Isha | 19:42:38 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 06:07:04 |
 | Sunrise | 07:29:18 |
-| Dhuhr | 12:55:55 |
-| Medium Coeli | 12:55:55 |
+| Dhuhr | 12:55:54 |
+| Medium Coeli | 12:55:54 |
 | Sunset | 18:22:40 |
 | Maghrib | 18:24:12 |
 | Isha | 19:54:12 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°53'34.88" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°7'28.21" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°9'19.36" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|24°31'39.05" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|14°52'16.84" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|9°5'33.36" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|23°12'9.22" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|23°53'34.95" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°7'28.13" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°9'19.28" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|24°31'39.03" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|14°52'16.80" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|9°5'33.33" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|23°12'9.21" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°53'34.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°7'28.21" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°9'19.36" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|24°31'39.05" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|14°52'16.84" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|9°5'33.36" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|23°12'9.22" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|23°53'34.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°7'28.13" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°9'19.28" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|24°31'39.03" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|14°52'16.80" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|9°5'33.33" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|23°12'9.21" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

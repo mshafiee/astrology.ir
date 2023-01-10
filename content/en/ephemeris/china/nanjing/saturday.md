@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:38:40 |
+| Dawn | 05:38:41 |
 | Sunrise | 07:05:51 |
 | Dhuhr | 12:13:41 |
 | Medium Coeli | 12:13:41 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:38:40 |
+| Dawn | 05:38:41 |
 | Sunrise | 07:05:51 |
 | Dhuhr | 12:13:41 |
 | Medium Coeli | 12:13:41 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°46'51.78" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|2°58'6.33" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°8'5.74" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|23°29'31.38" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°36'4.90" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|9°44'1.71" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|10°14'21.70" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|23°46'51.71" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|2°58'6.41" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°8'5.82" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|23°29'31.41" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°36'4.94" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|9°44'1.74" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|10°14'21.28" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°46'51.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|2°58'6.33" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°8'5.74" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|23°29'31.38" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|13°36'4.90" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|9°44'1.71" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|10°14'21.70" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|23°46'51.71" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|2°58'6.41" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°8'5.82" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|23°29'31.41" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|13°36'4.94" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|9°44'1.74" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°14'21.28" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

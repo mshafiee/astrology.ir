@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°54'58.00" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°9'24.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°9'44.55" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|24°44'21.91" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|15°7'55.34" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|8°58'47.07" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|25°54'35.57" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|23°54'57.93" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°9'24.73" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°9'44.62" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|24°44'21.93" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|15°7'55.38" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|8°58'47.11" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|25°54'35.69" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°54'58.00" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°9'24.65" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°9'44.55" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|24°44'21.91" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|15°7'55.34" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|8°58'47.07" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|25°54'35.57" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|23°54'57.93" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°9'24.73" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°9'44.62" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|24°44'21.93" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|15°7'55.38" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|8°58'47.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|25°54'35.69" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

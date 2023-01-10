@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:37:33 |
+| Dawn | 05:37:34 |
 | Sunrise | 06:42:36 |
 | Dhuhr | 12:14:40 |
 | Medium Coeli | 12:14:40 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°53'46.93" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°7'44.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°9'21.94" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|24°33'29.56" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|14°54'32.20" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|9°4'34.56" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|23°35'30.34" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|23°53'46.86" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°7'44.97" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°9'22.01" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|24°33'29.59" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|14°54'32.24" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|9°4'34.59" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|23°35'30.37" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°53'46.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°7'44.88" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°9'21.94" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|24°33'29.56" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|14°54'32.20" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|9°4'34.56" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|23°35'30.34" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|23°53'46.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°7'44.97" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°9'22.01" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|24°33'29.59" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|14°54'32.24" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|9°4'34.59" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|23°35'30.37" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

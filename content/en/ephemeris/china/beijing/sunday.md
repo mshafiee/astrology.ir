@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°53'36.17" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°7'29.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°9'21.50" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|24°31'49.30" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|14°52'30.70" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|9°5'24.10" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|23°15'0.42" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|23°53'36.10" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°7'29.99" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°9'21.57" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|24°31'49.33" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|14°52'30.74" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|9°5'24.13" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|23°15'0.43" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°53'36.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°7'29.91" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°9'21.50" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|24°31'49.30" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|14°52'30.70" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|9°5'24.10" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|23°15'0.42" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|23°53'36.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°7'29.99" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°9'21.57" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|24°31'49.33" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|14°52'30.74" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|9°5'24.13" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|23°15'0.43" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
