@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 17:54:24 |
 | Maghrib | 17:55:25 |
 | Isha | 19:25:25 |
-| Sharia Midnight | 23:40:17 |
+| Sharia Midnight | 23:40:18 |
 | Imum Coeli | 00:20:23 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°30'25.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|2°35'33.17" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°8'23.51" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|20°55'54.64" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|10°27'34.89" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|23°30'25.43" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|2°35'33.26" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°8'23.60" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|20°55'54.65" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|10°27'34.93" |Capricorn|SaadAlDhabib|Mars|
 |☿ Mercury|Retrograde|12°0'51.93" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|9°11'53.98" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|9°11'54.47" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°30'25.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|2°35'33.17" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°8'23.51" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|20°55'54.64" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|10°27'34.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|23°30'25.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|2°35'33.26" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°8'23.60" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|20°55'54.65" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|10°27'34.93" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Retrograde|12°0'51.93" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|9°11'53.98" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|9°11'54.47" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

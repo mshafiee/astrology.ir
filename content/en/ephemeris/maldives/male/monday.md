@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°0'44.22" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°17'31.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°11'27.67" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|25°37'24.19" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|16°12'54.49" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|8°35'47.41" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°23'18.32" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|24°0'44.29" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°17'31.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Retrograde|8°11'27.61" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|25°37'24.16" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|16°12'54.45" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|8°35'47.37" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°23'17.96" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°0'44.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°17'31.83" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°11'27.67" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|25°37'24.19" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|16°12'54.49" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|8°35'47.41" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°23'18.32" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|24°0'44.29" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°17'31.75" |Aries|Sharatain|Mars|
+|♂ Mars|Retrograde|8°11'27.61" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|25°37'24.16" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|16°12'54.45" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|8°35'47.37" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|7°23'17.96" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
