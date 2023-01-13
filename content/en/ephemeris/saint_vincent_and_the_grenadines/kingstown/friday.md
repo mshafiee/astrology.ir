@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°43'24.74" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|2°53'19.87" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°7'44.06" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|22°57'29.99" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°56'46.59" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|10°7'50.66" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|3°36'34.81" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|23°43'24.81" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|2°53'19.78" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Post-Retrograde Shadow|8°7'43.97" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|22°57'29.97" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°56'46.55" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|10°7'50.63" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°36'35.25" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|23°43'24.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|2°53'19.87" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°7'44.06" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|22°57'29.99" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|12°56'46.59" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|10°7'50.66" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|3°36'34.81" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|23°43'24.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|2°53'19.78" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|8°7'43.97" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|22°57'29.97" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|12°56'46.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|10°7'50.63" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|3°36'35.25" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

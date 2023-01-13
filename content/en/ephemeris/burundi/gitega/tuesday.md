@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°8'11.52" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°28'6.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Retrograde|8°14'35.76" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|26°45'27.91" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|17°36'21.88" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|8°16'33.95" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|22°37'10.78" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|24°8'11.59" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°28'6.42" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Post-Retrograde Shadow|8°14'35.71" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|26°45'27.88" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°36'21.83" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|8°16'33.91" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|22°37'10.86" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°8'11.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°28'6.49" |Aries|Sharatain|Mars|
-|♂ Mars|Retrograde|8°14'35.76" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|26°45'27.91" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|17°36'21.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|8°16'33.95" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|22°37'10.78" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|24°8'11.59" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°28'6.42" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|8°14'35.71" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|26°45'27.88" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|17°36'21.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|8°16'33.91" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°37'10.86" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
