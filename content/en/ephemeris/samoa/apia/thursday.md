@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°18'38.36" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°43'5.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Post-Retrograde Shadow|8°20'27.74" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|28°20'7.77" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°32'25.13" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|8°8'26.08" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|14°47'2.24" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|24°18'38.29" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°43'5.46" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Post-Retrograde Shadow|8°20'27.78" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°20'7.80" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|19°32'25.18" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|8°8'26.12" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|14°47'1.61" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°18'38.36" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°43'5.39" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|8°20'27.74" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|28°20'7.77" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|19°32'25.13" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|8°8'26.08" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|14°47'2.24" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|24°18'38.29" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°43'5.46" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|8°20'27.78" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|28°20'7.80" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|19°32'25.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|8°8'26.12" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|14°47'1.61" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
