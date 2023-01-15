@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 11:35:30|Night duration: 12:24:38|
-|Every hour of day duration: 00:57:58|Every hour of night duration: 01:02:03|
+|Every hour of day duration: 00:57:57|Every hour of night duration: 01:02:03|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'44.53" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°40'21.29" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Post-Retrograde Shadow|8°19'16.86" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|28°2'59.27" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°11'24.76" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|8°8'21.68" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|10°38'20.34" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|24°16'44.46" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°40'21.36" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Post-Retrograde Shadow|8°19'16.90" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°2'59.31" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|19°11'24.80" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|8°8'21.72" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|10°38'19.66" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°16'44.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°40'21.29" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|8°19'16.86" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|28°2'59.27" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|19°11'24.76" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|8°8'21.68" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|10°38'20.34" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|24°16'44.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°40'21.36" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|8°19'16.90" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|28°2'59.31" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|19°11'24.80" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|8°8'21.72" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°38'19.66" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
