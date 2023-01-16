@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°13'39.81" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°35'55.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Post-Retrograde Shadow|8°17'30.66" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|27°35'6.37" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°37'15.86" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|8°9'37.24" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°52'17.35" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|24°13'39.74" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°35'55.97" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|8°17'30.71" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|27°35'6.41" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°37'15.91" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|8°9'37.28" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°52'16.78" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°13'39.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°35'55.89" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|8°17'30.66" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|27°35'6.37" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|18°37'15.86" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|8°9'37.24" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°52'17.35" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|24°13'39.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°35'55.97" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|8°17'30.71" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|27°35'6.41" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|18°37'15.91" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|8°9'37.28" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°52'16.78" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

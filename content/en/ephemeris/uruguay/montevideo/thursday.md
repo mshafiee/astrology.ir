@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Sunset | 19:59:51 |
 | Maghrib | 20:01:03 |
 | Isha | 21:35:30 |
-| Sharia Midnight | 00:04:37 |
+| Sharia Midnight | 00:04:36 |
 | Imum Coeli | 00:55:33 |
 {{< /tab >}}
 
@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°23'3.34" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Post-Retrograde Shadow|3°49'29.02" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Post-Retrograde Shadow|8°23'27.51" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°23'27.51" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|28°59'55.41" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|20°21'12.42" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Retrograde|8°11'2.71" |Sagittarius|NaAaem|Mercury|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°23'3.34" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|3°49'29.02" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|8°23'27.51" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°23'27.51" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|28°59'55.41" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|20°21'12.42" |Aquarius|SaadAlAkhbia|Moon|
 |☿ Mercury|Retrograde|8°11'2.71" |Capricorn|SaadAlDhabib|Jupiter|

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°0'14.67" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°16'50.02" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Post-Retrograde Shadow|8°11'19.48" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|25°32'51.54" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|16°7'21.80" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|8°37'25.10" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|6°20'48.08" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|24°0'14.60" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°16'50.09" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|8°11'19.55" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|25°32'51.57" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|16°7'21.85" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|8°37'25.13" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°20'48.45" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°0'14.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°16'50.02" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|8°11'19.48" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|25°32'51.54" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|16°7'21.80" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|8°37'25.10" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|6°20'48.08" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|24°0'14.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°16'50.09" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|8°11'19.55" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|25°32'51.57" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|16°7'21.85" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|8°37'25.13" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°20'48.45" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

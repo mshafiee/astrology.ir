@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 16:48:15 |
 | Isha | 17:58:52 |
 | Sharia Midnight | 23:03:37 |
-| Imum Coeli | 23:41:58 |
+| Imum Coeli | 23:41:59 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°14'41.23" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Post-Retrograde Shadow|3°37'24.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Post-Retrograde Shadow|8°18'5.55" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°18'5.55" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|27°44'23.50" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|18°48'38.55" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|8°8'59.63" |Sagittarius|NaAaem|Mercury|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°14'41.23" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|3°37'24.22" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|8°18'5.55" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°18'5.55" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|27°44'23.50" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|18°48'38.55" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Retrograde|8°8'59.63" |Capricorn|SaadAlDhabib|Jupiter|
