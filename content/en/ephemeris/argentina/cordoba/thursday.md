@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°23'14.69" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°49'45.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|8°23'35.33" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°1'37.51" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|20°23'17.40" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|8°11'14.26" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|24°46'48.45" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|24°23'14.76" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°49'45.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Post-Retrograde Shadow|8°23'35.30" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°1'37.47" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|20°23'17.36" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|8°11'14.22" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|24°46'48.65" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°23'14.69" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°49'45.46" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°23'35.33" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|29°1'37.51" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|20°23'17.40" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Retrograde|8°11'14.26" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|24°46'48.45" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|24°23'14.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°49'45.39" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|8°23'35.30" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|29°1'37.47" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|20°23'17.36" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Retrograde|8°11'14.22" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|24°46'48.65" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

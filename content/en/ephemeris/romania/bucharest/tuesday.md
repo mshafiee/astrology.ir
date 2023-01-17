@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°8'40.82" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°28'48.40" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|8°14'53.77" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|26°49'52.41" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|17°41'48.90" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Retrograde|8°15'37.03" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|23°25'50.60" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|24°8'40.89" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°28'48.32" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Post-Retrograde Shadow|8°14'53.72" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|26°49'52.38" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°41'48.85" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|8°15'36.99" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|23°25'50.72" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°8'40.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°28'48.40" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°14'53.77" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|26°49'52.41" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|17°41'48.90" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Retrograde|8°15'37.03" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|23°25'50.60" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|24°8'40.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°28'48.32" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|8°14'53.72" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|26°49'52.38" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|17°41'48.85" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|8°15'36.99" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|23°25'50.72" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

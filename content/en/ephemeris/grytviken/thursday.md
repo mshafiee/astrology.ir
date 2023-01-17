@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 21:18:28 |
 | Isha | 23:33:19 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:36:50 |
+| Imum Coeli | 00:36:49 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 21:23:18 |
 | Isha | 23:33:19 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:36:50 |
+| Imum Coeli | 00:36:49 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 20:49:38 |
 | Isha | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:36:50 |
+| Imum Coeli | 00:36:49 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 20:49:38 |
 | Isha | 00:08:45 |
 | Sharia Midnight | 22:56:32 |
-| Imum Coeli | 00:36:50 |
+| Imum Coeli | 00:36:49 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 20:49:38 |
 | Isha | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:36:50 |
+| Imum Coeli | 00:36:49 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 20:49:38 |
 | Isha | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:36:50 |
+| Imum Coeli | 00:36:49 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 20:49:38 |
 | Isha | 22:19:38 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:36:50 |
+| Imum Coeli | 00:36:49 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°22'21.85" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°48'29.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|8°23'0.31" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|28°53'41.52" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|20°13'35.54" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|8°10'22.21" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|22°38'10.34" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|24°22'21.92" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|3°48'28.93" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Post-Retrograde Shadow|8°23'0.28" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°53'41.48" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|20°13'35.49" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|8°10'22.17" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|22°38'10.65" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°22'21.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°48'29.01" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°23'0.31" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|28°53'41.52" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|20°13'35.54" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Retrograde|8°10'22.21" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|22°38'10.34" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|24°22'21.92" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°48'28.93" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|8°23'0.28" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|28°53'41.48" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|20°13'35.49" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Retrograde|8°10'22.17" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°38'10.65" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
