@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'45.68" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Post-Retrograde Shadow|3°40'23.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Post-Retrograde Shadow|8°19'17.88" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°19'17.88" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|28°3'10.16" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|19°11'38.28" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Retrograde|8°8'21.23" |Sagittarius|NaAaem|Mercury|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°16'45.68" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|3°40'23.12" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|8°19'17.88" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°19'17.88" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|28°3'10.16" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|19°11'38.28" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Retrograde|8°8'21.23" |Capricorn|SaadAlDhabib|Jupiter|

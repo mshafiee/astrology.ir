@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°42'11.99" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Post-Retrograde Shadow|4°17'33.17" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|8°39'40.48" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°50'54.25" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|23°50'45.90" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|8°58'9.78" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|6°49'7.44" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|8°39'40.48" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°50'51.48" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|23°50'42.96" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|8°58'9.19" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°51'45.54" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Venus|Jupiter|Moon|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°42'11.99" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|4°17'33.17" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|8°39'40.48" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|8°39'40.48" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|1°50'54.25" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|23°50'45.90" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|8°58'9.78" |Capricorn|SaadAlDhabib|Jupiter|
