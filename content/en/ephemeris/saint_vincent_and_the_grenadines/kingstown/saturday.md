@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°37'11.55" |Capricorn|SaadAlBula|Sun|
 |♃ Jupiter|Post-Retrograde Shadow|4°10'9.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|8°34'54.79" |Taurus|Dabaran|Mercury|
+|♂ Mars|Post-Retrograde Shadow|8°34'54.79" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|1°6'24.40" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|22°56'13.13" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|8°40'44.33" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|25°49'36.31" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|8°40'44.33" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|24°24'13.07" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Venus|Jupiter|Moon|
-|☾ Moon|Saturn|Mars|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Mercury|Moon|Libra|Sun|Venus|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -332,10 +332,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°37'11.55" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Post-Retrograde Shadow|4°10'9.12" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°34'54.79" |Gemini|HanAh|Jupiter|
+|♂ Mars|Post-Retrograde Shadow|8°34'54.79" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|1°6'24.40" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|22°56'13.13" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|8°40'44.33" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|8°40'44.33" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|25°49'36.31" |Capricorn|SaadAlSaud|Sun|
 
 

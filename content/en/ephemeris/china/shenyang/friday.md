@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°27'6.50" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|3°55'22.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♂ Mars|Direct|8°26'29.42" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°36'17.12" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|21°5'48.42" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Retrograde|8°16'19.27" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°58'23.55" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|3°55'22.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Post-Retrograde Shadow|8°26'28.87" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°36'18.33" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|21°5'49.22" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Post-Retrograde Shadow|8°16'20.43" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°4'27.33" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°27'6.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|3°55'22.55" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°26'29.42" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|29°36'17.12" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|21°5'48.42" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Retrograde|8°16'19.27" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°58'23.55" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|24°27'6.58" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|3°55'22.48" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|8°26'29.39" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|29°36'17.08" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|21°5'48.38" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Post-Retrograde Shadow|8°16'19.23" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°58'23.26" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
