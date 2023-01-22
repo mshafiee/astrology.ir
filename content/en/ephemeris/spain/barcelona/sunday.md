@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°43'6.35" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|4°18'53.89" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|8°40'37.20" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|1°58'54.53" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°0'36.41" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Post-Retrograde Shadow|9°1'37.15" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|8°31'50.27" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|4°18'53.82" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|8°40'35.14" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|1°58'56.06" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°0'37.08" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|9°1'39.19" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|8°41'53.26" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,11 +331,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|24°43'6.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|4°18'53.82" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|4°18'53.82" |Aries|Sharatain|Mars|
 |♂ Mars|Post-Retrograde Shadow|8°40'35.14" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|1°58'56.06" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|24°0'37.08" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|9°1'39.19" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|9°1'39.19" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|8°41'53.26" |Aquarius|SaadAlAkhbia|Venus|
 
 
