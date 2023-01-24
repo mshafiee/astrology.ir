@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°55'21.61" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|4°37'11.54" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|8°53'43.15" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|3°47'14.18" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|26°13'17.14" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Post-Retrograde Shadow|9°58'40.86" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|5°47'52.85" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|24°55'21.69" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|4°37'11.48" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|8°53'43.11" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|3°47'14.17" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|26°13'17.11" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Post-Retrograde Shadow|9°58'40.85" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°47'54.07" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|24°55'21.61" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|4°37'11.54" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|8°53'43.15" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|3°47'14.18" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|26°13'17.14" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Post-Retrograde Shadow|9°58'40.86" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|5°47'52.85" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|24°55'21.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|4°37'11.48" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|8°53'43.11" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|3°47'14.17" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|26°13'17.11" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|9°58'40.85" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|5°47'54.07" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°32'22.74" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|5°33'51.81" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|9°44'51.45" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|9°9'48.39" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|2°48'23.78" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|14°14'29.35" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|17°26'52.78" |Aries|Butain|Sun|
+|♄ Saturn|Direct|25°32'22.66" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|5°33'51.87" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|9°44'51.48" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|9°9'48.41" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|2°48'23.81" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Post-Retrograde Shadow|14°14'29.36" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|17°26'54.32" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°32'22.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|5°33'51.81" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|9°44'51.45" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|9°9'48.39" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|2°48'23.78" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|14°14'29.35" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|17°26'52.78" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|25°32'22.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|5°33'51.87" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|9°44'51.48" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|9°9'48.41" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|2°48'23.81" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|14°14'29.36" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|17°26'54.32" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
