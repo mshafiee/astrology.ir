@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:26:55 |
 | Isha | 18:31:06 |
 | Sharia Midnight | 23:33:31 |
-| Imum Coeli | 00:23:34 |
+| Imum Coeli | 00:23:35 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:30:14 |
 | Isha | 18:31:06 |
 | Sharia Midnight | 23:28:15 |
-| Imum Coeli | 00:23:34 |
+| Imum Coeli | 00:23:35 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:05:35 |
 | Isha | 18:49:47 |
 | Sharia Midnight | 23:27:20 |
-| Imum Coeli | 00:23:34 |
+| Imum Coeli | 00:23:35 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:05:35 |
 | Isha | 18:37:20 |
 | Sharia Midnight | 23:36:37 |
-| Imum Coeli | 00:23:34 |
+| Imum Coeli | 00:23:35 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 17:05:35 |
 | Isha | 18:52:53 |
 | Sharia Midnight | 23:22:42 |
-| Imum Coeli | 00:23:34 |
+| Imum Coeli | 00:23:35 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:05:35 |
 | Isha | 18:55:58 |
 | Sharia Midnight | 23:27:20 |
-| Imum Coeli | 00:23:34 |
+| Imum Coeli | 00:23:35 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:05:35 |
 | Isha | 18:35:35 |
 | Sharia Midnight | 23:25:47 |
-| Imum Coeli | 00:23:34 |
+| Imum Coeli | 00:23:35 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°46'16.29" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|5°55'39.21" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|10°8'7.88" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°9'16.50" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|5°14'45.24" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|16°13'40.53" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|11°34'47.80" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|25°46'16.21" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|5°55'39.27" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|10°8'7.91" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°9'16.53" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|5°14'45.27" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Post-Retrograde Shadow|16°13'40.55" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|11°34'49.18" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°46'16.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Post-Retrograde Shadow|5°55'39.21" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|10°8'7.88" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|11°9'16.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|5°14'45.24" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|16°13'40.53" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|11°34'47.80" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|25°46'16.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|5°55'39.27" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|10°8'7.91" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|11°9'16.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|5°14'45.27" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|16°13'40.55" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|11°34'49.18" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
