@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 05:41:21 |
 | Sunrise | 07:05:54 |
-| Dhuhr | 12:29:45 |
-| Medium Coeli | 12:29:45 |
+| Dhuhr | 12:29:44 |
+| Medium Coeli | 12:29:44 |
 | Sunset | 17:53:52 |
 | Maghrib | 17:54:57 |
 | Isha | 19:24:57 |
@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|9°51'46.94" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|9°46'29.65" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|3°33'21.20" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|14°49'56.05" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|14°49'56.05" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|24°56'19.21" |Aries|Butain|Venus|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|9°51'46.94" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|9°46'29.65" |Aquarius|SaadAlAkhbia|Venus|
 |♀ Venus|Direct|3°33'21.20" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|14°49'56.05" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|14°49'56.05" |Capricorn|SaadAlBula|Mars|
 |☾ Moon|Direct|24°56'19.21" |Taurus|HaqAh|Saturn|
 
 

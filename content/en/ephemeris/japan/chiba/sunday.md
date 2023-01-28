@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°29'9.46" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Direct|5°28'51.32" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|9°39'48.89" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|8°41'58.29" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|2°14'20.54" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|13°48'20.09" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|11°47'4.36" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|25°29'9.54" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|5°28'51.26" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|9°39'48.85" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|8°41'58.27" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|2°14'20.51" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|13°48'20.08" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|11°47'3.05" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°29'9.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|5°28'51.32" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|9°39'48.89" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|8°41'58.29" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|2°14'20.54" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|13°48'20.09" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|11°47'4.36" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|25°29'9.54" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|5°28'51.26" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|9°39'48.85" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|8°41'58.27" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|2°14'20.51" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|13°48'20.08" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|11°47'3.05" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

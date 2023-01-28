@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 17:22:25 |
 | Maghrib | 17:23:30 |
 | Isha | 18:43:54 |
-| Sharia Midnight | 23:16:24 |
+| Sharia Midnight | 23:16:23 |
 | Imum Coeli | 00:01:59 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°30'55.29" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Direct|5°31'35.85" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|9°42'34.62" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|8°57'12.86" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|2°33'0.22" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|14°2'34.65" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|14°55'12.16" |Aries|Butain|Sun|
+|♄ Saturn|Direct|25°30'55.37" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|5°31'35.79" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|9°42'34.58" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|8°57'12.83" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|2°33'0.19" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|14°2'34.64" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|14°55'10.72" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°30'55.29" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|5°31'35.85" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|9°42'34.62" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|8°57'12.86" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|2°33'0.22" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|14°2'34.65" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|14°55'12.16" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|25°30'55.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|5°31'35.79" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|9°42'34.58" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|8°57'12.83" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|2°33'0.19" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|14°2'34.64" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|14°55'10.72" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

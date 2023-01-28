@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°40'3.05" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Direct|5°45'51.84" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|9°57'26.36" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|10°15'53.59" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|4°9'20.55" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|15°19'5.54" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|0°47'11.91" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|25°40'3.13" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|5°45'51.78" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|9°57'26.33" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|10°15'53.57" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|4°9'20.52" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|15°19'5.53" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|0°47'10.19" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°40'3.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|5°45'51.84" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|9°57'26.36" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|10°15'53.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|4°9'20.55" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|15°19'5.54" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|0°47'11.91" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|25°40'3.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|5°45'51.78" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|9°57'26.33" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|10°15'53.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|4°9'20.52" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|15°19'5.53" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|0°47'10.19" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
