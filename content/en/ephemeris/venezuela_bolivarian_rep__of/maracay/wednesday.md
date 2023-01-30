@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 05:47:47 |
 | Sunrise | 06:53:00 |
-| Dhuhr | 12:43:53 |
-| Medium Coeli | 12:43:53 |
+| Dhuhr | 12:43:54 |
+| Medium Coeli | 12:43:54 |
 | Sunset | 18:34:53 |
 | Maghrib | 18:49:25 |
 | Isha | 19:31:40 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 05:40:38 |
 | Sunrise | 06:53:00 |
-| Dhuhr | 12:43:53 |
-| Medium Coeli | 12:43:53 |
+| Dhuhr | 12:43:54 |
+| Medium Coeli | 12:43:54 |
 | Sunset | 18:34:53 |
 | Maghrib | 18:51:32 |
 | Isha | 19:31:40 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 05:39:22 |
 | Sunrise | 06:53:00 |
-| Dhuhr | 12:43:53 |
-| Medium Coeli | 12:43:53 |
+| Dhuhr | 12:43:54 |
+| Medium Coeli | 12:43:54 |
 | Sunset | 18:34:53 |
 | Maghrib | 18:38:01 |
 | Isha | 19:44:17 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:51:59 |
 | Sunrise | 06:53:00 |
-| Dhuhr | 12:43:53 |
-| Medium Coeli | 12:43:53 |
+| Dhuhr | 12:43:54 |
+| Medium Coeli | 12:43:54 |
 | Sunset | 18:34:53 |
 | Maghrib | 18:38:01 |
 | Isha | 19:35:52 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 05:33:04 |
 | Sunrise | 06:53:00 |
-| Dhuhr | 12:43:53 |
-| Medium Coeli | 12:43:53 |
+| Dhuhr | 12:43:54 |
+| Medium Coeli | 12:43:54 |
 | Sunset | 18:34:53 |
 | Maghrib | 18:38:01 |
 | Isha | 19:46:23 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 05:39:22 |
 | Sunrise | 06:53:00 |
-| Dhuhr | 12:43:53 |
-| Medium Coeli | 12:43:53 |
+| Dhuhr | 12:43:54 |
+| Medium Coeli | 12:43:54 |
 | Sunset | 18:34:53 |
 | Maghrib | 18:38:01 |
 | Isha | 19:48:29 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 05:37:16 |
 | Sunrise | 06:53:00 |
-| Dhuhr | 12:43:53 |
-| Medium Coeli | 12:43:53 |
+| Dhuhr | 12:43:54 |
+| Medium Coeli | 12:43:54 |
 | Sunset | 18:34:53 |
 | Maghrib | 18:38:01 |
 | Isha | 20:08:01 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°54'19.60" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|6°8'24.57" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|10°22'27.28" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|12°18'16.12" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|6°39'10.86" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|17°27'4.81" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|24°48'42.75" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|25°54'19.52" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|6°8'24.62" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|10°22'27.30" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|12°18'16.15" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|6°39'10.89" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Post-Retrograde Shadow|17°27'4.83" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|24°48'43.29" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°54'19.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|6°8'24.57" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°22'27.28" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|12°18'16.12" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|6°39'10.86" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|17°27'4.81" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|24°48'42.75" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|25°54'19.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|6°8'24.62" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|10°22'27.30" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|12°18'16.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|6°39'10.89" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|17°27'4.83" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|24°48'43.29" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°14'38.22" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|6°40'59.13" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|11°1'33.94" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|15°11'12.89" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|10°10'55.42" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|20°43'36.94" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|28°41'45.99" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|26°14'38.14" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|6°40'59.18" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|11°1'33.96" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|15°11'12.92" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|10°10'55.45" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|20°43'36.96" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|28°41'44.94" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°14'38.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|6°40'59.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°1'33.94" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|15°11'12.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|10°10'55.42" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|20°43'36.94" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|28°41'45.99" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|26°14'38.14" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|6°40'59.18" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|11°1'33.96" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|15°11'12.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|10°10'55.45" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|20°43'36.96" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|28°41'44.94" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

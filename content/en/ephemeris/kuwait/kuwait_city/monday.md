@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°37'58.51" |Capricorn|SaadAlBula|Sun|
-|♃ Jupiter|Direct|5°42'36.62" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Direct|9°53'59.57" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|9°58'1.62" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|3°47'28.65" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|15°1'17.69" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|27°15'40.25" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|25°37'58.59" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|5°42'36.56" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|9°53'59.54" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|9°58'1.59" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|3°47'28.61" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Post-Retrograde Shadow|15°1'17.68" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|27°15'38.51" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°37'58.51" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|5°42'36.62" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°53'59.57" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|9°58'1.62" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|3°47'28.65" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|15°1'17.69" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|27°15'40.25" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|25°37'58.59" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|5°42'36.56" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|9°53'59.54" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|9°58'1.59" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|3°47'28.61" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|15°1'17.68" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|27°15'38.51" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
