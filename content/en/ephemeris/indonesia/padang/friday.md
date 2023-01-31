@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°5'12.18" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|6°25'46.87" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|10°42'52.98" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|13°51'3.00" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|8°32'45.60" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Post-Retrograde Shadow|19°10'26.54" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|12°45'35.64" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|26°5'12.09" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|6°25'46.92" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|10°42'52.99" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|13°51'3.03" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|8°32'45.63" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Post-Retrograde Shadow|19°10'26.56" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|12°45'35.11" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°5'12.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|6°25'46.87" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|10°42'52.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|13°51'3.00" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|8°32'45.60" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|19°10'26.54" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|12°45'35.64" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|26°5'12.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|6°25'46.92" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|10°42'52.99" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|13°51'3.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|8°32'45.63" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|19°10'26.56" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|12°45'35.11" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
