@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°8'35.81" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|6°31'14.18" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|10°49'30.42" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|14°19'55.02" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|9°8'6.58" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Post-Retrograde Shadow|19°43'36.21" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|18°28'50.68" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|26°8'35.73" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|6°31'14.23" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|10°49'30.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|14°19'55.05" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|9°8'6.61" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Post-Retrograde Shadow|19°43'36.23" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|18°28'49.92" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°8'35.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|6°31'14.18" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|10°49'30.42" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|14°19'55.02" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|9°8'6.58" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|19°43'36.21" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|18°28'50.68" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|26°8'35.73" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|6°31'14.23" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|10°49'30.44" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|14°19'55.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|9°8'6.61" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|19°43'36.23" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|18°28'49.92" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

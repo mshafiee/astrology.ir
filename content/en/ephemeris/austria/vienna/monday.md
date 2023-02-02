@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°28'44.84" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|7°3'57.27" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|11°30'58.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|17°10'42.47" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|12°37'9.96" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|23°8'20.11" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|22°12'8.76" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|26°28'44.75" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|7°3'57.31" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|11°30'58.85" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|17°10'42.49" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|12°37'9.98" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|23°8'20.12" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|22°12'7.78" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°28'44.84" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|7°3'57.27" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|11°30'58.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|17°10'42.47" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|12°37'9.96" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|23°8'20.11" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|22°12'8.76" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|26°28'44.75" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|7°3'57.31" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|11°30'58.85" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|17°10'42.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|12°37'9.98" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|23°8'20.12" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|22°12'7.78" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
