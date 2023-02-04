@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:30:38 |
 | Maghrib | 18:33:54 |
 | Isha | 19:39:44 |
-| Sharia Midnight | 00:03:23 |
+| Sharia Midnight | 00:03:22 |
 | Imum Coeli | 00:40:03 |
 {{< /tab >}}
 
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 18:30:38 |
 | Maghrib | 18:33:54 |
 | Isha | 19:43:55 |
-| Sharia Midnight | 00:03:23 |
+| Sharia Midnight | 00:03:22 |
 | Imum Coeli | 00:40:03 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°43'1.56" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|7°27'28.59" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|12°2'27.83" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°11'12.69" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|15°4'32.39" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|25°40'31.47" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|15°38'39.66" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|26°43'1.65" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|7°27'28.55" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|12°2'27.80" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|19°11'12.67" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|15°4'32.37" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|25°40'31.46" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|15°38'39.77" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°43'1.56" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|7°27'28.59" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|12°2'27.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|19°11'12.69" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°4'32.39" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|25°40'31.47" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|15°38'39.66" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|26°43'1.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|7°27'28.55" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|12°2'27.80" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|19°11'12.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°4'32.37" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|25°40'31.46" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|15°38'39.77" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
