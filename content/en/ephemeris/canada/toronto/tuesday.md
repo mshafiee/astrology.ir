@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°37'48.12" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|7°18'50.43" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|11°50'45.97" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|18°27'9.94" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|14°10'42.02" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|24°44'13.88" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°13'43.18" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|26°37'48.20" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|7°18'50.39" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|11°50'45.95" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|18°27'9.93" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|14°10'42.00" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|24°44'13.87" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°13'43.66" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°37'48.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|7°18'50.43" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|11°50'45.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|18°27'9.94" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|14°10'42.02" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|24°44'13.88" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|7°13'43.18" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|26°37'48.20" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|7°18'50.39" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|11°50'45.95" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|18°27'9.93" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|14°10'42.00" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|24°44'13.87" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|7°13'43.66" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

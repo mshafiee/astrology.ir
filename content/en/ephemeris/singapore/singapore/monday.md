@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°26'39.47" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|7°0'31.98" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|11°26'27.71" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°53'4.27" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|12°15'31.97" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|22°46'31.91" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|18°12'22.12" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|26°26'39.38" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|7°0'32.02" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|11°26'27.73" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°53'4.29" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|12°15'31.99" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|22°46'31.92" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|18°12'21.07" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°26'39.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|7°0'31.98" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|11°26'27.71" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|16°53'4.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|12°15'31.97" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|22°46'31.91" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|18°12'22.12" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|26°26'39.38" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|7°0'32.02" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|11°26'27.73" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|16°53'4.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|12°15'31.99" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|22°46'31.92" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|18°12'21.07" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
