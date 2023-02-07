@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°33'49.67" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|7°12'17.62" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|11°41'59.19" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|17°53'38.37" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|13°29'40.71" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|24°1'52.50" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°31'24.35" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|26°33'49.75" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|7°12'17.58" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|11°41'59.17" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|17°53'38.35" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|13°29'40.69" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|24°1'52.49" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°31'25.08" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°33'49.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|7°12'17.62" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|11°41'59.19" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|17°53'38.37" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|13°29'40.71" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|24°1'52.50" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|0°31'24.35" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|26°33'49.75" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|7°12'17.58" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|11°41'59.17" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|17°53'38.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|13°29'40.69" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|24°1'52.49" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|0°31'25.08" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

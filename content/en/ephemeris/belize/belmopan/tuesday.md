@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°37'47.65" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|7°18'49.55" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|11°50'42.94" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|18°27'7.08" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|14°10'36.48" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|24°44'8.76" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°53'40.76" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|26°37'47.74" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|7°18'49.50" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|11°50'42.92" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|18°27'7.07" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|14°10'36.46" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|24°44'8.75" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|6°53'41.24" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°37'47.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|7°18'49.55" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|11°50'42.94" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|18°27'7.08" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|14°10'36.48" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|24°44'8.76" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|6°53'40.76" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|26°37'47.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|7°18'49.50" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|11°50'42.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|18°27'7.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|14°10'36.46" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|24°44'8.75" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|6°53'41.24" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
