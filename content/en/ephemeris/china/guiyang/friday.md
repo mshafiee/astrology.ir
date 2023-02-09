@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:07:17 |
 | Sunset | 18:41:33 |
 | Maghrib | 18:46:28 |
-| Isha | 19:59:07 |
+| Isha | 19:59:08 |
 | Sharia Midnight | 00:23:52 |
 | Imum Coeli | 01:07:18 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°55'34.92" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|7°48'23.33" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|12°31'36.08" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|20°56'47.74" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|17°13'40.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|26°55'34.84" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|7°48'23.36" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|12°31'36.11" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|20°56'47.76" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|17°13'40.85" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|27°58'31.97" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°7'38.42" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|7°7'39.12" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°55'34.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|7°48'23.33" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|12°31'36.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|20°56'47.74" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|17°13'40.83" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|26°55'34.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|7°48'23.36" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|12°31'36.11" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|20°56'47.76" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|17°13'40.85" |Pisces|Rescha|Jupiter|
 |☿ Mercury|Direct|27°58'31.97" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|7°7'38.42" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|7°7'39.12" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
