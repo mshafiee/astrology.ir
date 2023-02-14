@@ -1,6 +1,6 @@
 ---
-date: 2023-02-14T00:00:00+01:00
-lastmod: 2023-02-14T00:00:00+01:00
+date: 2023-02-15T00:00:00+01:00
+lastmod: 2023-02-15T00:00:00+01:00
 title: Longyearbyen
 slug: longyearbyen
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Tuesday, 14 Feb 2023
+description: 🗓 Wednesday, 15 Feb 2023
 
 toc: false
 ---
@@ -34,7 +34,7 @@ Altitude: 1 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:03:56 |
+| Dawn | 04:57:10 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:28:59 |
+| Dawn | 04:21:50 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -66,7 +66,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:22:36 |
+| Dawn | 04:15:22 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:23:51 |
+| Dawn | 05:17:13 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:49:19 |
+| Dawn | 03:41:25 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -114,7 +114,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:22:36 |
+| Dawn | 04:15:22 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:11:48 |
+| Dawn | 04:04:22 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -203,41 +203,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 00:00:00|Night duration: 00:00:00|
-|Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
+|The ruler of the day: Mercury|The ruler of the night: Sun|
+|Duration of the day: 00:00:00|Night duration: 2562047:47:16|
+|Every hour of day duration: 00:00:00|Every hour of night duration: 213503:58:56|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|00:00:00|23:59:59|Creating corruption, hatred and enmity|
-|2|Sun|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|3|Venus|Servant|00:00:00|23:59:59|Attracting relationship and courtship|
-|4|Mercury|Servant|00:00:00|23:59:59|Attracting material things and earning a living and prosperity|
-|5|Moon|Servant|00:00:00|23:59:59|Absorption of body, nothing to do|
-|6|Saturn|Servant|00:00:00|23:59:59|Disposal of negative energy of sore eyes|
-|7|Jupiter|Servant|00:00:00|23:59:59|Attracting love and affection and attracting hearts|
-|8|Mars|Ruler|00:00:00|23:59:59|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Sun|Servant|00:00:00|23:59:59|Heart Compassion|
-|10|Venus|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|11|Mercury|Servant|00:00:00|23:59:59|Attracting bonds and courtship|
-|12|Moon|Servant|00:00:00|23:59:59|Hatred and corruption and creating negative energy to disrupt|
+|1|Mercury|Ruler|00:00:00|23:59:59|Accept the needs|
+|2|Moon|Servant|00:00:00|23:59:59|It's ugly, nothing to do|
+|3|Saturn|Servant|00:00:00|23:59:59|To overcome diseases|
+|4|Jupiter|Servant|00:00:00|23:59:59|For all things, Saadin's goal|
+|5|Mars|Servant|00:00:00|23:59:59|Creating negative energy and disturbing the peace|
+|6|Sun|Servant|00:00:00|23:59:59|The journey of the appearance and the interior|
+|7|Venus|Servant|00:00:00|23:59:59|Attracting love and attracting hearts and hearts|
+|8|Mercury|Ruler|00:00:00|23:59:59|Covering the eyes of the creators|
+|9|Moon|Servant|00:00:00|23:59:59|Separation and Enmity|
+|10|Saturn|Servant|00:00:00|23:59:59|Conquest of the Great|
+|11|Jupiter|Servant|00:00:00|23:59:59|Creating financial attraction and love and conquest|
+|12|Mars|Servant|00:00:00|23:59:59|Creating Evil and Hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|00:00:00|23:59:59|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|3|Mars|Servant|00:00:00|23:59:59|Attracting relationship and courtship|
-|4|Sun|Servant|00:00:00|23:59:59|Attracting material things and earning a living and prosperity|
-|5|Venus|Servant|00:00:00|23:59:59|Absorption of body, nothing to do|
-|6|Mercury|Servant|00:00:00|23:59:59|Disposal of negative energy of sore eyes|
-|7|Moon|Servant|00:00:00|23:59:59|Attracting love and affection and attracting hearts|
-|8|Saturn|Ruler|00:00:00|23:59:59|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Jupiter|Servant|00:00:00|23:59:59|Heart Compassion|
-|10|Mars|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|11|Sun|Servant|00:00:00|23:59:59|Attracting bonds and courtship|
-|12|Venus|Servant|00:00:00|23:59:59|Hatred and corruption and creating negative energy to disrupt|
+|1|Sun|Ruler|00:00:00|23:58:55|Accept the needs|
+|2|Venus|Servant|23:58:56|23:57:51|It's ugly, nothing to do|
+|3|Mercury|Servant|23:57:52|23:56:48|To overcome diseases|
+|4|Moon|Servant|23:56:49|23:55:44|For all things, Saadin's goal|
+|5|Saturn|Servant|23:55:45|23:54:41|Creating negative energy and disturbing the peace|
+|6|Jupiter|Servant|23:54:42|23:53:37|The journey of the appearance and the interior|
+|7|Mars|Servant|23:53:38|23:52:33|Attracting love and attracting hearts and hearts|
+|8|Sun|Ruler|23:52:34|23:51:30|Covering the eyes of the creators|
+|9|Venus|Servant|23:51:31|23:50:26|Separation and Enmity|
+|10|Mercury|Servant|23:50:27|23:49:23|Conquest of the Great|
+|11|Moon|Servant|23:49:24|23:48:19|Creating financial attraction and love and conquest|
+|12|Saturn|Servant|23:48:20|23:47:15|Creating Evil and Hatred|
 
  
  
@@ -249,33 +249,33 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 00:00:00|Night duration: 00:00:00|
-|Every hour duration: 00:00:00|Every hour duration: 00:00:00|
+|The ruler of the day: Mercury|The ruler of the night: Sun|
+|Duration of the day: 00:00:00|Night duration: 2562047:47:16|
+|Every hour duration: 00:00:00|Every hour duration: 366006:49:37|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|00:00:00|23:59:59|
-|Mid-morning|Sun|Servant|00:00:00|23:59:59|
-|Late morning|Venus|Servant|00:00:00|23:59:59|
-|Noon|Mercury|Servant|00:00:00|23:59:59|
-|Early afternoon|Moon|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Saturn|Servant|00:00:00|23:59:59|
-|Late afternoon|Jupiter|Servant|00:00:00|23:59:59|
+|Early morning|Mercury|Ruler|00:00:00|23:59:59|
+|Mid-morning|Moon|Servant|00:00:00|23:59:59|
+|Late morning|Saturn|Servant|00:00:00|23:59:59|
+|Noon|Jupiter|Servant|00:00:00|23:59:59|
+|Early afternoon|Mars|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Sun|Servant|00:00:00|23:59:59|
+|Late afternoon|Venus|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Saturn|Ruler|00:00:00|23:59:59|
-|Late evening|Jupiter|Servant|00:00:00|23:59:59|
-|Midnight|Mars|Servant|00:00:00|23:59:59|
-|Late at night|Sun|Servant|00:00:00|23:59:59|
-|Rooster song|Venus|Servant|00:00:00|23:59:59|
-|False Dawn|Mercury|Servant|00:00:00|23:59:59|
-|Dawn|Moon|Servant|00:00:00|23:59:59|
+|Evening|Sun|Ruler|00:00:00|06:49:35|
+|Late evening|Venus|Servant|06:49:36|13:39:12|
+|Midnight|Mercury|Servant|13:39:13|20:28:49|
+|Late at night|Moon|Servant|20:28:50|03:18:25|
+|Rooster song|Saturn|Servant|03:18:26|10:08:02|
+|False Dawn|Jupiter|Servant|10:08:03|16:57:39|
+|Dawn|Mars|Servant|16:57:40|23:47:15|
 
 {{< /tab >}}
 
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔
