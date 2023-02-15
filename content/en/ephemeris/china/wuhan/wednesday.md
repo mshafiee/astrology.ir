@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:39:33 |
+| Dawn | 05:39:32 |
 | Sunrise | 07:03:50 |
 | Dhuhr | 12:37:01 |
 | Medium Coeli | 12:37:01 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°31'39.98" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|8°49'41.31" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|14°2'10.24" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|25°58'56.72" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|23°22'57.12" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|4°54'10.66" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|12°30'12.67" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|27°31'40.06" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|8°49'41.27" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|14°2'10.23" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|25°58'56.68" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|23°22'57.09" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|4°54'10.63" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|12°30'12.98" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°31'39.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|8°49'41.31" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|14°2'10.24" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|25°58'56.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|23°22'57.12" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|4°54'10.66" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|12°30'12.67" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|27°31'40.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|8°49'41.27" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|14°2'10.23" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|25°58'56.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|23°22'57.09" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|4°54'10.63" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|12°30'12.98" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

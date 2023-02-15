@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 05:26:59 |
 | Sunrise | 06:33:25 |
-| Dhuhr | 12:19:27 |
-| Medium Coeli | 12:19:27 |
+| Dhuhr | 12:19:28 |
+| Medium Coeli | 12:19:28 |
 | Sunset | 18:05:45 |
 | Maghrib | 18:20:30 |
 | Isha | 19:03:37 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 05:19:42 |
 | Sunrise | 06:33:25 |
-| Dhuhr | 12:19:27 |
-| Medium Coeli | 12:19:27 |
+| Dhuhr | 12:19:28 |
+| Medium Coeli | 12:19:28 |
 | Sunset | 18:05:45 |
 | Maghrib | 18:22:40 |
 | Isha | 19:03:37 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 05:18:25 |
 | Sunrise | 06:33:25 |
-| Dhuhr | 12:19:27 |
-| Medium Coeli | 12:19:27 |
+| Dhuhr | 12:19:28 |
+| Medium Coeli | 12:19:28 |
 | Sunset | 18:05:45 |
 | Maghrib | 18:07:24 |
 | Isha | 19:16:28 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:31:16 |
 | Sunrise | 06:33:25 |
-| Dhuhr | 12:19:27 |
-| Medium Coeli | 12:19:27 |
+| Dhuhr | 12:19:28 |
+| Medium Coeli | 12:19:28 |
 | Sunset | 18:05:45 |
 | Maghrib | 18:07:24 |
 | Isha | 19:07:54 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 05:12:00 |
 | Sunrise | 06:33:25 |
-| Dhuhr | 12:19:27 |
-| Medium Coeli | 12:19:27 |
+| Dhuhr | 12:19:28 |
+| Medium Coeli | 12:19:28 |
 | Sunset | 18:05:45 |
 | Maghrib | 18:07:24 |
 | Isha | 19:18:37 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 05:18:25 |
 | Sunrise | 06:33:25 |
-| Dhuhr | 12:19:27 |
-| Medium Coeli | 12:19:27 |
+| Dhuhr | 12:19:28 |
+| Medium Coeli | 12:19:28 |
 | Sunset | 18:05:45 |
 | Maghrib | 18:07:24 |
 | Isha | 19:20:45 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 05:16:17 |
 | Sunrise | 06:33:25 |
-| Dhuhr | 12:19:27 |
-| Medium Coeli | 12:19:27 |
+| Dhuhr | 12:19:28 |
+| Medium Coeli | 12:19:28 |
 | Sunset | 18:05:45 |
 | Maghrib | 18:07:24 |
 | Isha | 19:37:24 |
