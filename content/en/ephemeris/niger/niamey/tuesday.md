@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°17'23.02" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|10°9'56.67" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|16°10'30.41" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°20'24.19" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|1°8'34.67" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|14°17'19.70" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|16°39'29.67" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|28°17'22.94" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|10°9'56.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Post-Retrograde Shadow|16°10'30.43" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°20'24.22" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|1°8'34.69" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|14°17'19.73" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|16°39'29.51" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°17'23.02" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|10°9'56.67" |Aries|Sharatain|Sun|
-|♂ Mars|Post-Retrograde Shadow|16°10'30.41" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°20'24.19" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|1°8'34.67" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|14°17'19.70" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|16°39'29.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|28°17'22.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|10°9'56.69" |Aries|Sharatain|Sun|
+|♂ Mars|Post-Retrograde Shadow|16°10'30.43" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°20'24.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|1°8'34.69" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|14°17'19.73" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|16°39'29.51" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

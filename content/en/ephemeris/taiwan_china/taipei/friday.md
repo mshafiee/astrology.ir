@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:07:03 |
+| Dawn | 05:07:02 |
 | Sunrise | 06:27:02 |
 | Dhuhr | 12:07:51 |
 | Medium Coeli | 12:07:51 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°46'0.19" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|9°14'32.59" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|27°46'0.28" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|9°14'32.56" |Pisces|FarghAlMuakhar|Saturn|
 |♂ Mars|Post-Retrograde Shadow|14°40'49.96" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|27°58'38.67" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|25°49'7.45" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|7°46'29.35" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°6'38.87" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|27°58'38.62" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|25°49'7.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|7°46'29.31" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|11°6'39.83" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°46'0.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|9°14'32.59" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|27°46'0.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|9°14'32.56" |Aries|Sharatain|Mars|
 |♂ Mars|Post-Retrograde Shadow|14°40'49.96" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|27°58'38.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|25°49'7.45" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|7°46'29.35" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|11°6'38.87" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|27°58'38.62" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|25°49'7.43" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|7°46'29.31" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|11°6'39.83" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

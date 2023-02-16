@@ -34,7 +34,7 @@ Altitude: 16 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:37:14 |
+| Dawn | 05:37:15 |
 | Sunrise | 06:52:44 |
 | Dhuhr | 12:24:07 |
 | Medium Coeli | 12:24:07 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°53'5.50" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|9°26'56.17" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|15°0'29.99" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|28°57'46.22" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|27°1'19.21" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|9°13'7.49" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|25°39'18.12" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|27°53'5.42" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|9°26'56.20" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|15°0'30.00" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|28°57'46.27" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|27°1'19.24" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|9°13'7.53" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|25°39'17.88" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°53'5.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|9°26'56.17" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|15°0'29.99" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°57'46.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|27°1'19.21" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|9°13'7.49" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|25°39'18.12" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|27°53'5.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|9°26'56.20" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|15°0'30.00" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°57'46.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|27°1'19.24" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|9°13'7.53" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|25°39'17.88" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
