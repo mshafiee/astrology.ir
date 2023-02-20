@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:27:24 |
 | Sunset | 18:01:45 |
 | Maghrib | 18:04:55 |
-| Isha | 19:26:34 |
+| Isha | 19:26:33 |
 | Sharia Midnight | 23:44:45 |
 | Imum Coeli | 00:27:21 |
 {{< /tab >}}
@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°8'49.50" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|9°54'41.87" |Pisces|FarghAlMuakhar|Saturn|
-|♂ Mars|Post-Retrograde Shadow|15°45'23.44" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°9'0.07" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|29°41'28.99" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|12°28'51.66" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|28°8'49.58" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|9°54'41.84" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|15°45'23.43" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°9'0.03" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|29°41'28.96" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|12°28'51.63" |Capricorn|SaadAlDhabib|Mars|
 |☾ Moon|Direct|28°39'34.78" |Capricorn|SaadAlSaud|Sun|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°8'49.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|9°54'41.87" |Aries|Sharatain|Mars|
-|♂ Mars|Post-Retrograde Shadow|15°45'23.44" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°9'0.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|29°41'28.99" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|12°28'51.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|28°8'49.58" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|9°54'41.84" |Aries|Sharatain|Mars|
+|♂ Mars|Post-Retrograde Shadow|15°45'23.43" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°9'0.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|29°41'28.96" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|12°28'51.63" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|28°39'34.78" |Aquarius|FarghAlMuqaddam|Moon|
 
 
