@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
 |Duration of the day: 12:21:18|Night duration: 11:38:50|
-|Every hour of day duration: 01:01:47|Every hour of night duration: 00:58:14|
+|Every hour of day duration: 01:01:46|Every hour of night duration: 00:58:14|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°36'55.97" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|10°45'10.97" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|17°9'46.88" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|5°3'38.55" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|4°27'39.77" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|18°30'38.08" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|25°12'52.88" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|28°36'56.05" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|10°45'10.95" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Post-Retrograde Shadow|17°9'46.85" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|5°3'38.52" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|4°27'39.75" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|18°30'38.05" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|25°12'53.14" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°36'55.97" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|10°45'10.97" |Aries|Sharatain|Sun|
-|♂ Mars|Post-Retrograde Shadow|17°9'46.88" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|5°3'38.55" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|4°27'39.77" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°30'38.08" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|25°12'52.88" |Aries|Butain|Venus|
+|♄ Saturn|Direct|28°36'56.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|10°45'10.95" |Aries|Sharatain|Sun|
+|♂ Mars|Post-Retrograde Shadow|17°9'46.85" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|5°3'38.52" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|4°27'39.75" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|18°30'38.05" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|25°12'53.14" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
