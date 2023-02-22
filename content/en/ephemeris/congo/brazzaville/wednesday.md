@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 05:02:46 |
 | Sunrise | 06:05:46 |
-| Dhuhr | 12:12:20 |
-| Medium Coeli | 12:12:20 |
+| Dhuhr | 12:12:21 |
+| Medium Coeli | 12:12:21 |
 | Sunset | 18:18:51 |
 | Maghrib | 18:32:45 |
 | Isha | 19:13:36 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 04:55:48 |
 | Sunrise | 06:05:46 |
-| Dhuhr | 12:12:20 |
-| Medium Coeli | 12:12:20 |
+| Dhuhr | 12:12:21 |
+| Medium Coeli | 12:12:21 |
 | Sunset | 18:18:51 |
 | Maghrib | 18:34:47 |
 | Isha | 19:13:36 |
@@ -68,8 +68,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 04:54:34 |
 | Sunrise | 06:05:46 |
-| Dhuhr | 12:12:20 |
-| Medium Coeli | 12:12:20 |
+| Dhuhr | 12:12:21 |
+| Medium Coeli | 12:12:21 |
 | Sunset | 18:18:51 |
 | Maghrib | 18:21:14 |
 | Isha | 19:25:54 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:06:52 |
 | Sunrise | 06:05:46 |
-| Dhuhr | 12:12:20 |
-| Medium Coeli | 12:12:20 |
+| Dhuhr | 12:12:21 |
+| Medium Coeli | 12:12:21 |
 | Sunset | 18:18:51 |
 | Maghrib | 18:21:14 |
 | Isha | 19:17:42 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 04:48:24 |
 | Sunrise | 06:05:46 |
-| Dhuhr | 12:12:20 |
-| Medium Coeli | 12:12:20 |
+| Dhuhr | 12:12:21 |
+| Medium Coeli | 12:12:21 |
 | Sunset | 18:18:51 |
 | Maghrib | 18:21:14 |
 | Isha | 19:27:57 |
@@ -116,8 +116,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 04:54:34 |
 | Sunrise | 06:05:46 |
-| Dhuhr | 12:12:20 |
-| Medium Coeli | 12:12:20 |
+| Dhuhr | 12:12:21 |
+| Medium Coeli | 12:12:21 |
 | Sunset | 18:18:51 |
 | Maghrib | 18:21:14 |
 | Isha | 19:30:00 |
@@ -132,8 +132,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 04:52:30 |
 | Sunrise | 06:05:46 |
-| Dhuhr | 12:12:20 |
-| Medium Coeli | 12:12:20 |
+| Dhuhr | 12:12:21 |
+| Medium Coeli | 12:12:21 |
 | Sunset | 18:18:51 |
 | Maghrib | 18:21:14 |
 | Isha | 19:51:14 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°24'17.93" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|10°22'20.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|16°31'10.46" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|3°18'7.35" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|2°18'58.55" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|15°46'2.61" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|0°45'44.17" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|28°24'17.84" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|10°22'20.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Post-Retrograde Shadow|16°31'10.48" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|3°18'7.37" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|2°18'58.57" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|15°46'2.64" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|0°45'44.09" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°24'17.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|10°22'20.65" |Aries|Sharatain|Sun|
-|♂ Mars|Post-Retrograde Shadow|16°31'10.46" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°18'7.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|2°18'58.55" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|15°46'2.61" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°45'44.17" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|28°24'17.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|10°22'20.67" |Aries|Sharatain|Sun|
+|♂ Mars|Post-Retrograde Shadow|16°31'10.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°18'7.37" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|2°18'58.57" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|15°46'2.64" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|0°45'44.09" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
