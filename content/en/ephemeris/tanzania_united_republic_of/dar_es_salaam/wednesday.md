@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:35:17 |
 | Sunset | 18:42:26 |
 | Maghrib | 18:43:20 |
-| Isha | 19:49:14 |
+| Isha | 19:49:13 |
 | Sharia Midnight | 23:59:48 |
 | Imum Coeli | 00:35:11 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°14'18.01" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|11°54'6.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Direct|19°10'0.89" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|10°16'31.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|10°48'58.83" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|26°57'8.55" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|0°5'14.57" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|29°14'18.10" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|11°54'6.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Post-Retrograde Shadow|19°10'0.86" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|10°16'31.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|10°48'58.82" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|26°57'8.52" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|0°5'14.09" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°14'18.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|11°54'6.60" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°10'0.89" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|10°16'31.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|10°48'58.83" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|26°57'8.55" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°5'14.57" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|29°14'18.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|11°54'6.59" |Aries|Sharatain|Sun|
+|♂ Mars|Post-Retrograde Shadow|19°10'0.86" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|10°16'31.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|10°48'58.82" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|26°57'8.52" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|0°5'14.09" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

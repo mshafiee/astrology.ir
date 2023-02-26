@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 12:36:06 |
 | Medium Coeli | 12:36:06 |
 | Sunset | 18:19:53 |
-| Maghrib | 18:39:04 |
+| Maghrib | 18:39:03 |
 | Isha | 19:25:36 |
 | Sharia Midnight | 23:53:52 |
 | Imum Coeli | 00:36:00 |
@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°19'47.65" |Capricorn|SaadAlSaud|Sun|
 |♃ Jupiter|Direct|12°4'25.53" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Direct|19°28'27.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Post-Retrograde Shadow|19°28'27.93" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|11°2'40.25" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|11°45'13.24" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Direct|28°14'18.74" |Capricorn|SaadAlSaud|Sun|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°19'47.65" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|12°4'25.53" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°28'27.93" |Gemini|Dhira|Mars|
+|♂ Mars|Post-Retrograde Shadow|19°28'27.93" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|11°2'40.25" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|11°45'13.24" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|28°14'18.74" |Aquarius|FarghAlMuqaddam|Moon|

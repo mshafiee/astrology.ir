@@ -34,7 +34,7 @@ Altitude: 9 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:58:57 |
+| Dawn | 04:58:56 |
 | Sunrise | 06:08:19 |
 | Dhuhr | 11:57:03 |
 | Medium Coeli | 11:57:03 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°21'12.91" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|12°7'6.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Direct|19°33'15.25" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°14'37.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|11°59'46.07" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|28°34'22.51" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|11°36'0.21" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|29°21'13.00" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|12°7'6.01" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Post-Retrograde Shadow|19°33'15.23" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°14'37.47" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|11°59'46.05" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|28°34'22.49" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|11°35'59.85" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°21'12.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|12°7'6.02" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|19°33'15.25" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|11°14'37.50" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|11°59'46.07" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|28°34'22.51" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°36'0.21" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|29°21'13.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|12°7'6.01" |Aries|Sharatain|Sun|
+|♂ Mars|Post-Retrograde Shadow|19°33'15.23" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|11°14'37.47" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|11°59'46.05" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|28°34'22.49" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°35'59.85" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
