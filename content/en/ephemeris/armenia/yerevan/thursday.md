@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 06:13:44 |
-| Sunrise | 07:34:51 |
+| Sunrise | 07:34:52 |
 | Dhuhr | 13:14:07 |
 | Medium Coeli | 13:14:07 |
 | Sunset | 18:54:00 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 06:04:49 |
-| Sunrise | 07:34:51 |
+| Sunrise | 07:34:52 |
 | Dhuhr | 13:14:07 |
 | Medium Coeli | 13:14:07 |
 | Sunset | 18:54:00 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 06:03:14 |
-| Sunrise | 07:34:51 |
+| Sunrise | 07:34:52 |
 | Dhuhr | 13:14:07 |
 | Medium Coeli | 13:14:07 |
 | Sunset | 18:54:00 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 06:18:59 |
-| Sunrise | 07:34:51 |
+| Sunrise | 07:34:52 |
 | Dhuhr | 13:14:07 |
 | Medium Coeli | 13:14:07 |
 | Sunset | 18:54:00 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:55:21 |
-| Sunrise | 07:34:51 |
+| Sunrise | 07:34:52 |
 | Dhuhr | 13:14:07 |
 | Medium Coeli | 13:14:07 |
 | Sunset | 18:54:00 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 06:03:14 |
-| Sunrise | 07:34:51 |
+| Sunrise | 07:34:52 |
 | Dhuhr | 13:14:07 |
 | Medium Coeli | 13:14:07 |
 | Sunset | 18:54:00 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 06:00:37 |
-| Sunrise | 07:34:51 |
+| Sunrise | 07:34:52 |
 | Dhuhr | 13:14:07 |
 | Medium Coeli | 13:14:07 |
 | Sunset | 18:54:00 |
