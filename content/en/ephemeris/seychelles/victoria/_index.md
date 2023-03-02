@@ -1,6 +1,6 @@
 ---
-date: 2023-02-28T00:00:00+04:00
-lastmod: 2023-02-28T00:00:00+04:00
+date: 2023-03-03T00:00:00+04:00
+lastmod: 2023-03-03T00:00:00+04:00
 title: Victoria
 slug: victoria
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Tuesday, 28 Feb 2023
+description: 🗓 Friday, 03 Mar 2023
 
 toc: false
 ---
@@ -203,41 +203,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mars|The ruler of the night: Saturn|
+|The ruler of the day: Venus|The ruler of the night: Mars|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|00:00:00|23:59:59|Creating corruption, hatred and enmity|
-|2|Sun|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|3|Venus|Servant|00:00:00|23:59:59|Attracting relationship and courtship|
-|4|Mercury|Servant|00:00:00|23:59:59|Attracting material things and earning a living and prosperity|
-|5|Moon|Servant|00:00:00|23:59:59|Absorption of body, nothing to do|
-|6|Saturn|Servant|00:00:00|23:59:59|Disposal of negative energy of sore eyes|
-|7|Jupiter|Servant|00:00:00|23:59:59|Attracting love and affection and attracting hearts|
-|8|Mars|Ruler|00:00:00|23:59:59|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Sun|Servant|00:00:00|23:59:59|Heart Compassion|
-|10|Venus|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|11|Mercury|Servant|00:00:00|23:59:59|Attracting bonds and courtship|
-|12|Moon|Servant|00:00:00|23:59:59|Hatred and corruption and creating negative energy to disrupt|
+|1|Venus|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
+|2|Mercury|Servant|00:00:00|23:59:59|Attracting good faith|
+|3|Moon|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
+|4|Saturn|Servant|00:00:00|23:59:59|Bad Hour|
+|5|Jupiter|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
+|6|Mars|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
+|7|Sun|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
+|8|Venus|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
+|9|Mercury|Servant|00:00:00|23:59:59|Separation and Displacement|
+|10|Moon|Servant|00:00:00|23:59:59|Extremely ugly|
+|11|Saturn|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
+|12|Jupiter|Servant|00:00:00|23:59:59|It is good and good to ask for help|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|00:00:00|23:59:59|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|3|Mars|Servant|00:00:00|23:59:59|Attracting relationship and courtship|
-|4|Sun|Servant|00:00:00|23:59:59|Attracting material things and earning a living and prosperity|
-|5|Venus|Servant|00:00:00|23:59:59|Absorption of body, nothing to do|
-|6|Mercury|Servant|00:00:00|23:59:59|Disposal of negative energy of sore eyes|
-|7|Moon|Servant|00:00:00|23:59:59|Attracting love and affection and attracting hearts|
-|8|Saturn|Ruler|00:00:00|23:59:59|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Jupiter|Servant|00:00:00|23:59:59|Heart Compassion|
-|10|Mars|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|11|Sun|Servant|00:00:00|23:59:59|Attracting bonds and courtship|
-|12|Venus|Servant|00:00:00|23:59:59|Hatred and corruption and creating negative energy to disrupt|
+|1|Mars|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
+|2|Sun|Servant|00:00:00|23:59:59|Attracting good faith|
+|3|Venus|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
+|4|Mercury|Servant|00:00:00|23:59:59|Bad Hour|
+|5|Moon|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
+|6|Saturn|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
+|7|Jupiter|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
+|8|Mars|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
+|9|Sun|Servant|00:00:00|23:59:59|Separation and Displacement|
+|10|Venus|Servant|00:00:00|23:59:59|Extremely ugly|
+|11|Mercury|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
+|12|Moon|Servant|00:00:00|23:59:59|It is good and good to ask for help|
 
  
  
@@ -249,7 +249,7 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mars|The ruler of the night: Saturn|
+|The ruler of the day: Venus|The ruler of the night: Mars|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour duration: 00:00:00|Every hour duration: 00:00:00|
 
@@ -258,24 +258,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|00:00:00|23:59:59|
-|Mid-morning|Sun|Servant|00:00:00|23:59:59|
-|Late morning|Venus|Servant|00:00:00|23:59:59|
-|Noon|Mercury|Servant|00:00:00|23:59:59|
-|Early afternoon|Moon|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Saturn|Servant|00:00:00|23:59:59|
-|Late afternoon|Jupiter|Servant|00:00:00|23:59:59|
+|Early morning|Venus|Ruler|00:00:00|23:59:59|
+|Mid-morning|Mercury|Servant|00:00:00|23:59:59|
+|Late morning|Moon|Servant|00:00:00|23:59:59|
+|Noon|Saturn|Servant|00:00:00|23:59:59|
+|Early afternoon|Jupiter|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Mars|Servant|00:00:00|23:59:59|
+|Late afternoon|Sun|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Saturn|Ruler|00:00:00|23:59:59|
-|Late evening|Jupiter|Servant|00:00:00|23:59:59|
-|Midnight|Mars|Servant|00:00:00|23:59:59|
-|Late at night|Sun|Servant|00:00:00|23:59:59|
-|Rooster song|Venus|Servant|00:00:00|23:59:59|
-|False Dawn|Mercury|Servant|00:00:00|23:59:59|
-|Dawn|Moon|Servant|00:00:00|23:59:59|
+|Evening|Mars|Ruler|00:00:00|23:59:59|
+|Late evening|Sun|Servant|00:00:00|23:59:59|
+|Midnight|Venus|Servant|00:00:00|23:59:59|
+|Late at night|Mercury|Servant|00:00:00|23:59:59|
+|Rooster song|Moon|Servant|00:00:00|23:59:59|
+|False Dawn|Saturn|Servant|00:00:00|23:59:59|
+|Dawn|Jupiter|Servant|00:00:00|23:59:59|
 
 {{< /tab >}}
 
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아
