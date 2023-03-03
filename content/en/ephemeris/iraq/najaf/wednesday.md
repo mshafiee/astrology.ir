@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:01:16 |
+| Dawn | 05:01:17 |
 | Sunrise | 06:21:58 |
 | Dhuhr | 12:13:27 |
 | Medium Coeli | 12:13:27 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°4'3.52" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°4'3.44" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|13°29'18.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|22°3'45.81" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|17°17'6.35" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°20'45.78" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|9°4'7.82" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|23°38'32.90" |Leo|Sarfrah|Mars|
+|♂ Mars|Post-Retrograde Shadow|22°3'45.84" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|17°17'6.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|19°20'45.79" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|9°4'7.86" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|23°38'32.17" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°4'3.52" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°4'3.44" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|13°29'18.20" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|22°3'45.81" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|17°17'6.35" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|19°20'45.78" |Aries|Butain|Sun|
-|☿ Mercury|Direct|9°4'7.82" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|23°38'32.90" |Virgo|Simak|Mercury|
+|♂ Mars|Post-Retrograde Shadow|22°3'45.84" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|17°17'6.36" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|19°20'45.79" |Aries|Butain|Sun|
+|☿ Mercury|Direct|9°4'7.86" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|23°38'32.17" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
