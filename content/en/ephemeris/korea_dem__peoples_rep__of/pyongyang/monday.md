@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:48:51 |
+| Dawn | 05:48:52 |
 | Sunrise | 07:03:02 |
 | Dhuhr | 12:48:21 |
 | Medium Coeli | 12:48:21 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°48'21.41" |Capricorn|SaadAlSaud|Sun|
-|♃ Jupiter|Direct|12°58'49.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|21°7'16.99" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|15°3'41.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|16°38'33.89" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|5°7'34.27" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|26°47'15.20" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|29°48'21.32" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|12°58'49.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Post-Retrograde Shadow|21°7'17.01" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|15°3'41.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|16°38'33.90" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|5°7'34.30" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|26°47'15.30" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°48'21.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Direct|12°58'49.32" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|21°7'16.99" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|15°3'41.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|16°38'33.89" |Aries|Butain|Sun|
-|☿ Mercury|Direct|5°7'34.27" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|26°47'15.20" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|29°48'21.32" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|12°58'49.33" |Aries|Butain|Sun|
+|♂ Mars|Post-Retrograde Shadow|21°7'17.01" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|15°3'41.56" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|16°38'33.90" |Aries|Butain|Sun|
+|☿ Mercury|Direct|5°7'34.30" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|26°47'15.30" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
