@@ -34,7 +34,7 @@ Altitude: 26 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:32:26 |
+| Dawn | 05:32:27 |
 | Sunrise | 06:34:21 |
 | Dhuhr | 12:36:26 |
 | Medium Coeli | 12:36:26 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°55'53.47" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Direct|29°55'53.38" |Capricorn|SaadAlSaud|Sun|
 |♃ Jupiter|Direct|13°13'23.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|21°34'10.20" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°7'37.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|17°56'16.95" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Direct|7°0'10.51" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|9°13'6.03" |Leo|Zubrah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|21°34'10.22" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°7'37.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|17°56'16.96" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|7°0'10.54" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|9°13'5.59" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°55'53.47" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|29°55'53.38" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Direct|13°13'23.63" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|21°34'10.20" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°7'37.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|17°56'16.95" |Aries|Butain|Sun|
-|☿ Mercury|Direct|7°0'10.51" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|9°13'6.03" |Virgo|Awwa|Sun|
+|♂ Mars|Post-Retrograde Shadow|21°34'10.22" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|16°7'37.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|17°56'16.96" |Aries|Butain|Sun|
+|☿ Mercury|Direct|7°0'10.54" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|9°13'5.59" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

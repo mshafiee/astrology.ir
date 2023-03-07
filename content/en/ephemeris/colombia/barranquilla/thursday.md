@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:10:54 |
+| Dawn | 05:10:55 |
 | Sunrise | 06:09:36 |
 | Dhuhr | 12:09:37 |
 | Medium Coeli | 12:09:37 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°13'22.45" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°13'22.36" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|13°47'35.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|22°37'59.06" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|18°36'37.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|20°57'21.09" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|11°27'49.00" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|9°51'36.88" |Virgo|Awwa|Sun|
+|♂ Mars|Post-Retrograde Shadow|22°37'59.09" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|18°36'37.23" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|20°57'21.10" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|11°27'49.05" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|9°51'36.51" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°13'22.45" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°13'22.36" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|13°47'35.20" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|22°37'59.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|18°36'37.21" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|20°57'21.09" |Aries|Butain|Venus|
-|☿ Mercury|Direct|11°27'49.00" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|9°51'36.88" |Libra|Ghafr|Moon|
+|♂ Mars|Post-Retrograde Shadow|22°37'59.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|18°36'37.23" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|20°57'21.10" |Aries|Butain|Venus|
+|☿ Mercury|Direct|11°27'49.05" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|9°51'36.51" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

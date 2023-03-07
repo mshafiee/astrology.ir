@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
 |Duration of the day: 12:31:18|Night duration: 11:29:30|
-|Every hour of day duration: 01:02:37|Every hour of night duration: 00:57:28|
+|Every hour of day duration: 01:02:37|Every hour of night duration: 00:57:27|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°15'54.44" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°15'54.35" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|13°52'35.15" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|22°47'22.92" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|18°58'17.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|21°23'40.26" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|12°7'20.17" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|14°16'30.73" |Virgo|Awwa|Venus|
+|♂ Mars|Post-Retrograde Shadow|22°47'22.95" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|18°58'18.00" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|21°23'40.27" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|12°7'20.21" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|14°16'30.54" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°15'54.44" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°15'54.35" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|13°52'35.15" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|22°47'22.92" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|18°58'17.99" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|21°23'40.26" |Aries|Butain|Venus|
-|☿ Mercury|Direct|12°7'20.17" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|14°16'30.73" |Libra|Jubana|Saturn|
+|♂ Mars|Post-Retrograde Shadow|22°47'22.95" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|18°58'18.00" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|21°23'40.27" |Aries|Butain|Venus|
+|☿ Mercury|Direct|12°7'20.21" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|14°16'30.54" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
