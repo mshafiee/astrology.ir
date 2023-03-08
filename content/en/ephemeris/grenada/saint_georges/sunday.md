@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:16:44 |
 | Sunset | 18:17:34 |
 | Maghrib | 18:18:29 |
-| Isha | 19:28:43 |
+| Isha | 19:28:44 |
 | Sharia Midnight | 23:40:57 |
 | Imum Coeli | 00:16:36 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°34'3.24" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°34'3.15" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|14°28'43.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|23°55'55.38" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°34'11.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|24°32'54.16" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|16°56'13.38" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|17°59'8.50" |Libra|Jubana|Saturn|
+|♂ Mars|Post-Retrograde Shadow|23°55'55.42" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°34'11.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|24°32'54.18" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|16°56'13.44" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|17°59'9.46" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°34'3.24" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°34'3.15" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|14°28'43.72" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|23°55'55.38" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°34'11.18" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|24°32'54.16" |Aries|Butain|Venus|
-|☿ Mercury|Direct|16°56'13.38" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|17°59'8.50" |Scorpio|Qalb|Sun|
+|♂ Mars|Post-Retrograde Shadow|23°55'55.42" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°34'11.21" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|24°32'54.18" |Aries|Butain|Venus|
+|☿ Mercury|Direct|16°56'13.44" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|17°59'9.46" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
