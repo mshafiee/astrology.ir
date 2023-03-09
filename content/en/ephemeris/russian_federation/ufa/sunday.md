@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:59:02 |
+| Dawn | 05:59:01 |
 | Sunrise | 07:39:39 |
 | Dhuhr | 13:25:57 |
 | Medium Coeli | 13:25:57 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°31'50.51" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°31'50.60" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|14°24'17.85" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|23°47'30.10" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|21°15'6.79" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|24°9'48.95" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|16°20'33.45" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|14°9'27.85" |Libra|Jubana|Saturn|
+|♂ Mars|Post-Retrograde Shadow|23°47'30.06" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|21°15'6.77" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|24°9'48.93" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|16°20'33.39" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|14°9'27.00" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°31'50.51" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°31'50.60" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|14°24'17.85" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|23°47'30.10" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°15'6.79" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|24°9'48.95" |Aries|Butain|Venus|
-|☿ Mercury|Direct|16°20'33.45" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|14°9'27.85" |Scorpio|Qalb|Sun|
+|♂ Mars|Post-Retrograde Shadow|23°47'30.06" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°15'6.77" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|24°9'48.93" |Aries|Butain|Venus|
+|☿ Mercury|Direct|16°20'33.39" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|14°9'27.00" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

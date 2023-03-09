@@ -34,7 +34,7 @@ Altitude: 23 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 06:09:23 |
+| Dawn | 06:09:22 |
 | Sunrise | 07:11:01 |
 | Dhuhr | 13:14:11 |
 | Medium Coeli | 13:14:11 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°37'47.22" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°37'47.31" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|14°36'14.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|24°10'16.79" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°6'25.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|25°12'0.10" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|17°56'56.25" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|25°6'12.75" |Libra|Jubana|Jupiter|
+|♂ Mars|Post-Retrograde Shadow|24°10'16.75" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°6'25.62" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|25°12'0.08" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|17°56'56.19" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|25°6'11.61" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°37'47.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°37'47.31" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|14°36'14.48" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|24°10'16.79" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°6'25.65" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|25°12'0.10" |Aries|Butain|Venus|
-|☿ Mercury|Direct|17°56'56.25" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|25°6'12.75" |Scorpio|Shaulah|Venus|
+|♂ Mars|Post-Retrograde Shadow|24°10'16.75" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°6'25.62" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|25°12'0.08" |Aries|Butain|Venus|
+|☿ Mercury|Direct|17°56'56.19" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|25°6'11.61" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

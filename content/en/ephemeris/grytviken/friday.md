@@ -55,7 +55,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr | 12:36:18 |
 | Medium Coeli | 12:36:18 |
 | Sunset | 19:04:22 |
-| Maghrib | 19:31:26 |
+| Maghrib | 19:31:27 |
 | Isha | 20:41:10 |
 | Sharia Midnight | 23:33:19 |
 | Imum Coeli | 00:36:11 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°19'29.40" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°19'29.31" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|13°59'40.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|23°0'45.59" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|19°28'59.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|22°0'56.69" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|13°3'35.28" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|20°52'18.54" |Virgo|Simak|Mercury|
+|♂ Mars|Post-Retrograde Shadow|23°0'45.63" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|19°28'59.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|22°0'56.71" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|13°3'35.33" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|20°52'18.63" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°19'29.40" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°19'29.31" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|13°59'40.59" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|23°0'45.59" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°28'59.04" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|22°0'56.69" |Aries|Butain|Venus|
-|☿ Mercury|Direct|13°3'35.28" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|20°52'18.54" |Libra|Jubana|Jupiter|
+|♂ Mars|Post-Retrograde Shadow|23°0'45.63" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°28'59.06" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|22°0'56.71" |Aries|Butain|Venus|
+|☿ Mercury|Direct|13°3'35.33" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|20°52'18.63" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
