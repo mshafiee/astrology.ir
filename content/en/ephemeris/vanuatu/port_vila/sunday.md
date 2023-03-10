@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Post-Retrograde Shadow|23°38'48.98" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|20°55'37.48" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Direct|23°46'6.06" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|15°43'50.75" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|10°32'55.64" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|15°43'60.00" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|9°24'30.70" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°29'34.65" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°29'34.56" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|14°19'45.42" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|23°38'48.95" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°55'37.46" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|23°46'6.04" |Aries|Butain|Venus|
-|☿ Mercury|Direct|15°43'59.94" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|9°24'29.96" |Scorpio|Qalb|Mars|
+|♂ Mars|Post-Retrograde Shadow|23°38'48.98" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°55'37.48" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|23°46'6.06" |Aries|Butain|Venus|
+|☿ Mercury|Direct|15°43'60.00" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|9°24'30.70" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

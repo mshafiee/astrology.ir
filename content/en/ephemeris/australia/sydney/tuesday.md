@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:04:31 |
 | Sunset | 19:15:38 |
 | Maghrib | 19:16:42 |
-| Isha | 20:38:13 |
+| Isha | 20:38:14 |
 | Sharia Midnight | 00:18:16 |
 | Imum Coeli | 01:04:23 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°43'45.35" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°43'45.26" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|14°48'18.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|24°33'24.65" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|22°58'3.85" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|26°14'36.53" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|19°34'53.12" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°44'47.50" |Scorpio|Akleel|Mars|
+|♂ Mars|Post-Retrograde Shadow|24°33'24.69" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°58'3.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|26°14'36.55" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|19°34'53.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|6°44'48.92" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°43'45.35" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°43'45.26" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|14°48'18.11" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|24°33'24.65" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°58'3.85" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|26°14'36.53" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|19°34'53.12" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|6°44'47.50" |Sagittarius|NaAaem|Mercury|
+|♂ Mars|Post-Retrograde Shadow|24°33'24.69" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°58'3.87" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|26°14'36.55" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|19°34'53.18" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|6°44'48.92" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
