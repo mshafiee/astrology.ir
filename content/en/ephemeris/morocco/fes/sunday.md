@@ -14,7 +14,7 @@ description: 🗓 Sunday, 19 Mar 2023
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: +01:00
+TimeZone: 00:00
 \-
 Latitude: 34.0331
 \-
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°20'53.34" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°20'53.25" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|16°4'56.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|27°2'40.89" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|28°23'9.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|2°48'13.70" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|0°10'6.70" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|25°2'17.55" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Post-Retrograde Shadow|27°2'40.91" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|28°23'9.41" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|2°48'13.72" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|0°10'6.75" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|25°2'16.89" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°20'53.34" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°20'53.25" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|16°4'56.60" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|27°2'40.89" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°23'9.37" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|2°48'13.70" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|0°10'6.70" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°2'17.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Post-Retrograde Shadow|27°2'40.91" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°23'9.41" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|2°48'13.72" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|0°10'6.75" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|25°2'16.89" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -373,8 +373,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>☌ Cnj|<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☌ Cnj|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☿ Mercury**|<sub> |<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: FEZ, Fes, Fez, Fès, fas, fezu, Фес, فاس, フェズ

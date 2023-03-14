@@ -34,7 +34,7 @@ Altitude: 924 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:09:54 |
+| Dawn | 05:09:53 |
 | Sunrise | 06:18:50 |
 | Dhuhr | 12:25:44 |
 | Medium Coeli | 12:25:44 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°1'20.73" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°1'20.82" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|15°24'15.21" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|25°42'56.88" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°31'11.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|29°20'7.37" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|24°30'16.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°48'7.50" |Sagittarius|NaAaem|Moon|
+|♂ Mars|Post-Retrograde Shadow|25°42'56.85" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°31'11.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|29°20'7.35" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|24°30'16.40" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|12°48'6.15" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°1'20.73" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°1'20.82" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|15°24'15.21" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|25°42'56.88" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°31'11.21" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|29°20'7.37" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|24°30'16.46" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°48'7.50" |Capricorn|SaadAlDhabib|Mars|
+|♂ Mars|Post-Retrograde Shadow|25°42'56.85" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°31'11.18" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|29°20'7.35" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|24°30'16.40" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°48'6.15" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
