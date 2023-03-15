@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:06:33 |
+| Dawn | 04:06:32 |
 | Sunrise | 06:08:06 |
 | Dhuhr | 12:06:19 |
 | Medium Coeli | 12:06:19 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°6'41.19" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°6'41.27" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|15°35'17.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|26°4'30.52" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|26°17'57.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°16'47.99" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|26°2'1.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|23°54'51.27" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Post-Retrograde Shadow|26°4'30.50" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|26°17'57.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°16'47.97" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|26°2'1.20" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|23°54'50.43" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°6'41.19" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°6'41.27" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|15°35'17.76" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|26°4'30.52" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°17'57.37" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|0°16'47.99" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|26°2'1.26" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|23°54'51.27" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Post-Retrograde Shadow|26°4'30.50" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°17'57.33" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|0°16'47.97" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|26°2'1.20" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|23°54'50.43" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

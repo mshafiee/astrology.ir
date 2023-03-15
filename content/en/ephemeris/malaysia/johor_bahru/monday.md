@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°25'34.87" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°25'34.96" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|16°14'50.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|27°22'12.61" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°4'48.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|3°38'33.07" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|1°33'25.76" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|4°7'27.35" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Post-Retrograde Shadow|27°22'12.59" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°4'48.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|3°38'33.05" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|1°33'25.71" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|5°45'58.78" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Mars|Venus|Taurus|Sun|Mars|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°25'34.87" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°25'34.96" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|16°14'50.33" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|27°22'12.61" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°4'48.72" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|3°38'33.07" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|1°33'25.76" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°45'57.89" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Post-Retrograde Shadow|27°22'12.59" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°4'48.69" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|3°38'33.05" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|1°33'25.71" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°45'58.78" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
