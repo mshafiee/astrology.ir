@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:55:56|Night duration: 12:01:22|
+|Duration of the day: 11:55:56|Night duration: 12:01:21|
 |Every hour of day duration: 00:59:40|Every hour of night duration: 01:00:07|
 
  
@@ -230,14 +230,14 @@ Timetable of twelve day and night planetary hours
 |2|Sun|Servant|19:30:39|20:30:45|Attracting good faith|
 |3|Venus|Servant|20:30:46|21:30:52|Absorption of badness, nothing to do|
 |4|Mercury|Servant|21:30:53|22:30:59|Bad Hour|
-|5|Moon|Servant|22:31:00|23:31:06|Gaining status and attracting happiness in work|
-|6|Saturn|Servant|23:31:07|00:31:13|Creating attraction and acceptance among the elders|
-|7|Jupiter|Servant|00:31:14|01:31:19|Promotion and attraction of wealth|
+|5|Moon|Servant|22:31:00|23:31:05|Gaining status and attracting happiness in work|
+|6|Saturn|Servant|23:31:06|00:31:12|Creating attraction and acceptance among the elders|
+|7|Jupiter|Servant|00:31:13|01:31:19|Promotion and attraction of wealth|
 |8|Mars|Ruler|01:31:20|02:31:26|Happy Yemen and ultimate bliss and happiness|
-|9|Sun|Servant|02:31:27|03:31:33|Separation and Displacement|
-|10|Venus|Servant|03:31:34|04:31:40|Extremely ugly|
-|11|Mercury|Servant|04:31:41|05:31:47|Creating a bad omen for every person|
-|12|Moon|Servant|05:31:48|06:31:54|It is good and good to ask for help|
+|9|Sun|Servant|02:31:27|03:31:32|Separation and Displacement|
+|10|Venus|Servant|03:31:33|04:31:39|Extremely ugly|
+|11|Mercury|Servant|04:31:40|05:31:46|Creating a bad omen for every person|
+|12|Moon|Servant|05:31:47|06:31:53|It is good and good to ask for help|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:55:56|Night duration: 12:01:22|
+|Duration of the day: 11:55:56|Night duration: 12:01:21|
 |Every hour duration: 01:42:17|Every hour duration: 01:43:03|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Mercury|Servant|23:39:42|01:22:44|
 |Rooster song|Moon|Servant|01:22:45|03:05:47|
 |False Dawn|Saturn|Servant|03:05:48|04:48:50|
-|Dawn|Jupiter|Servant|04:48:51|06:31:54|
+|Dawn|Jupiter|Servant|04:48:51|06:31:53|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°6'48.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°35'33.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|26°5'1.01" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|26°19'2.42" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°18'7.29" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|26°4'10.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|24°7'50.20" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|1°6'48.70" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|15°35'33.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|26°5'0.98" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|26°19'2.39" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°18'7.27" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|26°4'10.28" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|24°7'49.37" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°6'48.62" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°35'33.20" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|26°5'1.01" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°19'2.42" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|0°18'7.29" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|26°4'10.34" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|24°7'50.20" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|1°6'48.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°35'33.21" |Aries|Butain|Sun|
+|♂ Mars|Direct|26°5'0.98" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°19'2.39" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|0°18'7.27" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|26°4'10.28" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|24°7'49.37" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

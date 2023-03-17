@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 12:03:06|Night duration: 11:55:36|
-|Every hour of day duration: 01:00:16|Every hour of night duration: 00:59:38|
+|Every hour of day duration: 01:00:15|Every hour of night duration: 00:59:38|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°13'12.41" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°13'12.50" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|15°48'51.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|26°31'1.95" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|27°15'18.02" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°26'9.77" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|27°55'7.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|8°9'29.93" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|26°31'1.93" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|27°15'17.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°26'9.76" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|27°55'7.54" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|8°9'29.83" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°13'12.41" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°13'12.50" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|15°48'51.18" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|26°31'1.95" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°15'18.02" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°26'9.77" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|27°55'7.60" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|8°9'29.93" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|26°31'1.93" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°15'17.99" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°26'9.76" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|27°55'7.54" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|8°9'29.83" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

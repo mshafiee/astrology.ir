@@ -34,7 +34,7 @@ Altitude: 1,341 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:56:51 |
+| Dawn | 04:56:50 |
 | Sunrise | 06:13:35 |
 | Dhuhr | 12:14:11 |
 | Medium Coeli | 12:14:11 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°13'5.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°48'36.03" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Post-Retrograde Shadow|26°30'32.40" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|27°14'13.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°24'52.48" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|27°53'1.15" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|7°51'41.03" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|1°13'5.23" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|15°48'36.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|26°30'32.37" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|27°14'13.88" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°24'52.46" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|27°53'1.10" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|7°51'40.92" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°13'5.14" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°48'36.03" |Aries|Butain|Sun|
-|♂ Mars|Post-Retrograde Shadow|26°30'32.40" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°14'13.91" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|1°24'52.48" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|27°53'1.15" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°51'41.03" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°13'5.23" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°48'36.04" |Aries|Butain|Sun|
+|♂ Mars|Direct|26°30'32.37" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°14'13.88" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|1°24'52.46" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|27°53'1.10" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°51'40.92" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
