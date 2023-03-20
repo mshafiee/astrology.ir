@@ -82,7 +82,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:27:52 |
+| Dawn | 05:27:51 |
 | Sunrise | 06:29:01 |
 | Dhuhr | 12:32:06 |
 | Medium Coeli | 12:32:06 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°28'44.90" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°28'44.98" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|16°21'32.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Direct|27°35'29.30" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°32'59.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|4°12'36.13" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|2°30'1.85" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|12°52'45.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|27°35'29.28" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°32'59.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|4°12'36.12" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|2°30'1.81" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|12°52'46.08" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°28'44.90" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°28'44.98" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|16°21'32.74" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°35'29.30" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°32'59.71" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|4°12'36.13" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|2°30'1.85" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°52'45.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|27°35'29.28" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°32'59.68" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|4°12'36.12" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|2°30'1.81" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°52'46.08" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

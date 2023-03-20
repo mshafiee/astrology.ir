@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°27'38.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|16°19'11.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Direct|27°30'50.47" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°23'4.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|4°0'39.65" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|2°10'10.94" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|9°59'25.65" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Direct|1°27'38.28" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|16°19'11.44" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|27°30'50.45" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|29°23'4.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|4°0'39.63" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|2°10'10.90" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|9°59'26.56" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°27'38.20" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|16°19'11.43" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°30'50.47" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°23'4.89" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|4°0'39.65" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|2°10'10.94" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|9°59'25.65" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|1°27'38.28" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|16°19'11.44" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°30'50.45" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°23'4.86" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|4°0'39.63" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|2°10'10.90" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|9°59'26.56" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -371,10 +371,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub> |<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>□ Sqr|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☉ Sun**|<sub>☌ Cnj|<sub> |<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: RBA, Raba, Rabat, Rabata, Rabatas, Rabato, Rabatum, Rabot, Rabāt, Rabāta, Rampat, Rbat, Rbaṭ, alrbat, la ba, la ba te, labateu, raba t, rabat, rabata, rabato, rabota, rapat, rbat, Ραμπάτ, Рабат, Ռաբատ, ראבאט, רבאט, الرباط, رابات, ربات, رباط, ڕەبات, रबाट, रबात, রাবাত, ਰਬਾਤ, ରବୋଟ, ரபாத், ราบัต, ར་བ་ཐ།, ར་བ་ཐེ།, რაბატი, ራባት, ラバト, 剌八, 拉巴特, 라바트
