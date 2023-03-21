@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:04:36 |
 | Sunset | 18:07:53 |
 | Maghrib | 18:09:30 |
-| Isha | 19:14:34 |
+| Isha | 19:14:35 |
 | Sharia Midnight | 23:29:07 |
 | Imum Coeli | 00:04:27 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°32'14.59" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°32'14.50" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|16°28'58.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Direct|27°50'13.40" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°4'9.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|4°50'14.62" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|3°32'47.55" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|20°35'40.18" |Aquarius|SaadAlAkhbia|Moon|
+|♂ Mars|Direct|27°50'13.42" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°4'9.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|4°50'14.64" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|3°32'47.59" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|20°35'39.39" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°32'14.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°32'14.50" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Direct|16°28'58.19" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°50'13.40" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|0°4'9.00" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|4°50'14.62" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|3°32'47.55" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|20°35'40.18" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|27°50'13.42" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|0°4'9.03" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|4°50'14.64" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|3°32'47.59" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|20°35'39.39" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
