@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Lak Lak, Lakak, Likak, Likak-e Bahmani, Lirkak, Līkak, Līkak-e Bahmanī, Līrkak, Qal`eh-i-Likak, Qal`eh-ye Likak, Qal‘eh-i-Likak, Qal‘eh-ye Līkak, Seh Laklak, lykk, lykk bhmny, ليکک, لیکک بهمنی

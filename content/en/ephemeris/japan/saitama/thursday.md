@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:55:13 |
 | Maghrib | 18:11:59 |
 | Isha | 19:01:56 |
-| Sharia Midnight | 23:09:18 |
+| Sharia Midnight | 23:09:19 |
 | Imum Coeli | 23:47:58 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°44'52.87" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|16°56'4.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♂ Mars|Direct|28°44'18.81" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°57'31.81" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|7°7'10.56" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|7°22'25.35" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|17°39'19.63" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|1°44'52.79" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|16°56'4.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|28°44'18.84" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°57'31.84" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|7°7'10.57" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°22'25.38" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|17°39'19.77" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°44'52.87" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|16°56'4.18" |Aries|Butain|Sun|
-|♂ Mars|Direct|28°44'18.81" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|1°57'31.81" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|7°7'10.56" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|7°22'25.35" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|17°39'19.63" |Aries|Butain|Sun|
+|♄ Saturn|Direct|1°44'52.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|16°56'4.17" |Aries|Butain|Sun|
+|♂ Mars|Direct|28°44'18.84" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|1°57'31.84" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|7°7'10.57" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|7°22'25.38" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|17°39'19.77" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

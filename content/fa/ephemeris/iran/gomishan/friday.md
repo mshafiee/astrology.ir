@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Gish Dafeh, Gomesh Tappeh, Gomish Tappeh, Gomish Tappeh Jik, Gomishan, Gomīsh Tappeh, Gomīsh Tappeh Jīk, Gomīshān, Gumish Tepe, Gumshan, Gumshān, Gīsh Dafeh, gmysh tph, gmyshan, گميش تپه, گميشان

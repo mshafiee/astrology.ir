@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: SDG, Sanandadsch, Sanandadz, Sanandadż, Sanandadž, Sanandago, Sanandaj, Sanandaĝo, Sanandij, Senendec, Senendedzas, Senendedzh, Senendedžas, Senendehdzh, Senna, Senneh, Sinandij, Sine, Sinneh, Sənəndəc, sa nan da ji, sanandaja, sanandaji, sina, sinih, snndj, Санандаџ, Санандаҷ, Сенендедж, Сенендэдж, Сәнәндәҗ, Սանանդաջ, سنندج, سنە, سِنَّ, سِنِّه, सनंदज, सनंदाज, 萨南达季, 사난다지

@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Baba `Abdollah, Bābā ‘Abdollāh, Gulshad, Gulshād, Kalushad, Kalūshād, Kelishad, Kelishad va Sudarjan, Kelishad-e Sofla, Kelīshād, Kelīshād va Sūdarjān, Kelīshād-e Soflá, klyshad, klyshad w swdrjan, کلیشاد, کلیشاد و سودرجان

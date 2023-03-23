@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Cham Bagh-e Veysian, Cham Bāgh-e Veysīān, Vaisiyan, Vaisyan, Vasian, Vasīān, Veseyan, Veseyān, Veysian, Veysiyan, Veysīyān, Veysīān, Voisiyan, cham baghi wisyan, wasyan, wisian, wisyan, وَسيان, وِسِيان, وِيسيان, وِيسيّان, چَم باغِ وِيسيان

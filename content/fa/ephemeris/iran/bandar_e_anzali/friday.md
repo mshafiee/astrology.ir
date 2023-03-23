@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Bandar Anzali, Bandar Pahlavi, Bandar Pahlevi, Bandar-e Anzali, Bandar-e Anzalī, Bandar-e Pahlavi, Bandar-e Pahlavī, Enceli, Enzeli, Pahlavi, Pahlavī, Pahlevi, Pahlevī, Pehlevi, bndr anzly, بندر انزلی

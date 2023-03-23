@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Boneh Hoseinkalooli, Boneh Hoseyn Koluli, Boneh Ḩoseyn Kolūlī, Boneh-ye Hoseyn Kaluli, Boneh-ye Ḩoseyn Kalūlī, Shahrak-e Kaluli, Shahrak-e Kalūlī, Shahrak-e Kuluri, Shahrak-e Kūlūrī, bnh hsyn klwly, shhrk klwly, shhrk kwlwry, بنه حسين کلولی, شهرک کلولی, شهرک کولوری

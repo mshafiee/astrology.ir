@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Dashte Gorgan, Gonbad Qabus, Gonbad Qavoos, Gonbad Qābūs, Gonbad-e Kavus, Gonbad-e Kāvūs, Gonbad-e Qabus, Gonbad-e Qābūs, Gunbad-i-Kawas, Gunbad-i-Kawus, Gunbad-i-Kāwās, Gunbad-i-Kāwūs, Gunbad-i-Qabus, Gunbad-i-Qābūs, gnbd kawws, gnbd qabws, گنبد قابوس, گنبد کاووس

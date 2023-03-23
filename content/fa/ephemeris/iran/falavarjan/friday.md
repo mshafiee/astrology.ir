@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Falavar Jan, Falavarjan, Falāvar Jān, Falāvarjān, Felavarjan, Felāvarjān, Mollavarjan, Mollāvarjān, Pol-e Vargan, Pol-e Vargān, Pol-e Varqan, Pol-e Varqān, Pul-i-Vargan, Pul-i-Vargān, flawrjan, mlawrjan, فلاورجان, ملاورجان

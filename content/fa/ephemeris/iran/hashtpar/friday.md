@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Gashpar, Hashtpar, Hashtpar-e Tavalesh, Hashtpar-e Tavālesh, Otak Saray, Otaq Sarai, Otaq Saray, Otāq Sarai, Oţāq Sarāy, Talesh, Tālesh, hshtpr, hshtpr twalsh, هشتپر, هشتپر توالش

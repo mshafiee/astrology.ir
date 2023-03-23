@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Rash Khar, Rashkhvan, Rashkhvān, Rashtkhvar, Rashtkhvār, Roshkhvar, Roshkhvār, Roshtehkhvar, Roshtehkhvār, Roshtkhar, Roshtkhvar, Roshtkhvār, Roshtkhār, Rushkar, Rūshkār, rshtkhwar, رشتخوار

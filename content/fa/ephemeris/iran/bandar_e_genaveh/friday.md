@@ -375,7 +375,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☉ خورشید**| |☌ مقارنه|✱ تسدیس||||
 |**♀ ناهید**|✱ تسدیس| | | |||
 |**☿ تیر**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| ||
-|**☾ ماه**|✱ تسدیس| | | |☌ مقارنه| |
+|**☾ ماه**| |☌ مقارنه|✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
 نام‌های دیگر: Bandar Ganaveh, Bandar Ganāveh, Bandar-e Ganaveh, Bandar-e Ganāveh, Bandar-e Genaveh, Bandar-e Genāveh, Bandar-e-Gonaveh, Bandar-e-Gonāveh, Ganaveh, Ganāveh, Genaveh, Genāveh, Gonaveh, Gonāveh, Kenareh, Kenâreh, bndr gnawh, بندر گناوه
