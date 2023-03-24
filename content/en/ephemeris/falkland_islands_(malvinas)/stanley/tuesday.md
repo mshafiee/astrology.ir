@@ -36,8 +36,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 05:25:24 |
 | Sunrise | 07:05:56 |
-| Dhuhr | 12:56:30 |
-| Medium Coeli | 12:56:30 |
+| Dhuhr | 12:56:31 |
+| Medium Coeli | 12:56:31 |
 | Sunset | 18:46:07 |
 | Maghrib | 19:07:57 |
 | Isha | 20:12:58 |
@@ -52,8 +52,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 05:13:53 |
 | Sunrise | 07:05:56 |
-| Dhuhr | 12:56:30 |
-| Medium Coeli | 12:56:30 |
+| Dhuhr | 12:56:31 |
+| Medium Coeli | 12:56:31 |
 | Sunset | 18:46:07 |
 | Maghrib | 19:11:11 |
 | Isha | 20:12:58 |
