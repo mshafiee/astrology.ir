@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:33:47 |
 | Sunset | 19:54:09 |
 | Maghrib | 20:13:39 |
-| Isha | 21:12:29 |
+| Isha | 21:12:30 |
 | Sharia Midnight | 00:48:02 |
 | Imum Coeli | 01:33:38 |
 {{< /tab >}}
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 13:33:47 |
 | Sunset | 19:54:09 |
 | Maghrib | 20:16:32 |
-| Isha | 21:12:29 |
+| Isha | 21:12:30 |
 | Sharia Midnight | 00:42:45 |
 | Imum Coeli | 01:33:38 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°32'24.18" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|18°41'35.02" |Pisces|Rescha|Jupiter|
-|♂ Mars|Direct|2°18'53.16" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|9°14'47.80" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|2°32'24.10" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|18°41'35.01" |Pisces|Rescha|Jupiter|
+|♂ Mars|Direct|2°18'53.19" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|9°14'47.82" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|15°53'45.20" |Aries|Butain|Sun|
-|☿ Mercury|Direct|21°58'18.52" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|21°21'40.87" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|21°58'18.55" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|21°21'40.19" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°32'24.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|18°41'35.02" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°18'53.16" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|9°14'47.80" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°32'24.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|18°41'35.01" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°18'53.19" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°14'47.82" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°53'45.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|21°58'18.52" |Aries|Butain|Venus|
-|☾ Moon|Direct|21°21'40.87" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|21°58'18.55" |Aries|Butain|Venus|
+|☾ Moon|Direct|21°21'40.19" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

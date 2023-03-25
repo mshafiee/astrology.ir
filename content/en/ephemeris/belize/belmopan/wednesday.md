@@ -50,7 +50,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:39:58 |
+| Dawn | 04:39:59 |
 | Sunrise | 05:52:02 |
 | Dhuhr | 11:59:49 |
 | Medium Coeli | 11:59:49 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°27'50.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|18°31'10.21" |Pisces|Rescha|Jupiter|
-|♂ Mars|Direct|1°57'25.15" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|8°31'55.17" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|15°2'11.73" |Aries|Butain|Sun|
-|☿ Mercury|Direct|20°35'7.20" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°44'39.55" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|2°27'50.04" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|18°31'10.20" |Pisces|Rescha|Jupiter|
+|♂ Mars|Direct|1°57'25.18" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|8°31'55.19" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|15°2'11.74" |Aries|Butain|Sun|
+|☿ Mercury|Direct|20°35'7.23" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°44'39.06" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°27'50.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|18°31'10.21" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°57'25.15" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°31'55.17" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°2'11.73" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|20°35'7.20" |Aries|Butain|Venus|
-|☾ Moon|Direct|12°44'39.55" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|2°27'50.04" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|18°31'10.20" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°57'25.18" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°31'55.19" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°2'11.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|20°35'7.23" |Aries|Butain|Venus|
+|☾ Moon|Direct|12°44'39.06" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
