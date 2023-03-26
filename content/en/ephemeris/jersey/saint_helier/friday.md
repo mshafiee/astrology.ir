@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°38'49.63" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|18°56'20.14" |Pisces|Rescha|Jupiter|
-|♂ Mars|Direct|2°49'22.64" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|10°15'28.92" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|2°38'49.71" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|18°56'20.15" |Pisces|Rescha|Jupiter|
+|♂ Mars|Direct|2°49'22.62" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|10°15'28.90" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|17°6'38.38" |Aries|Butain|Sun|
-|☿ Mercury|Direct|23°54'0.20" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°28'54.03" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|23°54'0.16" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°28'54.51" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°38'49.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|18°56'20.14" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°49'22.64" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°15'28.92" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|2°38'49.71" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|18°56'20.15" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°49'22.62" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°15'28.90" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|17°6'38.38" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°54'0.20" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°28'54.03" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|23°54'0.16" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°28'54.51" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: JER, Saint Helier, Saint-Helier, Saint-Hélier, Sent-Khel'er, St Helier, St. Helier, seinteuhellieo, Сент-Хельер, 세인트헬리어

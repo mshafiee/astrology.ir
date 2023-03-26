@@ -39,7 +39,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 12:13:47 |
 | Medium Coeli | 12:13:47 |
 | Sunset | 18:20:28 |
-| Maghrib | 18:34:26 |
+| Maghrib | 18:34:25 |
 | Isha | 19:15:42 |
 | Sharia Midnight | 23:41:47 |
 | Imum Coeli | 00:13:38 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°24'51.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|18°24'25.63" |Pisces|Rescha|Jupiter|
-|♂ Mars|Direct|1°43'33.55" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|8°4'7.16" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|2°24'51.77" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|18°24'25.64" |Pisces|Rescha|Jupiter|
+|♂ Mars|Direct|1°43'33.52" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|8°4'7.14" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|14°28'46.21" |Aries|Butain|Sun|
-|☿ Mercury|Direct|19°40'41.22" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|7°10'52.13" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|19°40'41.20" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|7°10'52.36" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°24'51.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|18°24'25.63" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°43'33.55" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°4'7.16" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°24'51.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|18°24'25.64" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°43'33.52" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°4'7.14" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°28'46.21" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|19°40'41.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°10'52.13" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°40'41.20" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°10'52.36" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
