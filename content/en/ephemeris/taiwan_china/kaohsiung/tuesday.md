@@ -34,7 +34,7 @@ Altitude: 9 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:48:30 |
+| Dawn | 04:48:31 |
 | Sunrise | 05:55:38 |
 | Dhuhr | 12:03:59 |
 | Medium Coeli | 12:03:59 |
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°17'45.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|18°8'25.78" |Pisces|Rescha|Jupiter|
-|♂ Mars|Direct|1°10'46.95" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|6°58'3.80" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|13°9'19.52" |Aries|Butain|Sun|
-|☿ Mercury|Direct|17°29'58.86" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|23°48'7.13" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|2°17'45.80" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|18°8'25.77" |Pisces|Rescha|Jupiter|
+|♂ Mars|Direct|1°10'46.98" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|6°58'3.82" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|13°9'19.53" |Aries|Butain|Sun|
+|☿ Mercury|Direct|17°29'58.89" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|23°48'7.64" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°17'45.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|18°8'25.78" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°10'46.95" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°58'3.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°9'19.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|17°29'58.86" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°48'7.13" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|2°17'45.80" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|18°8'25.77" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°10'46.98" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°58'3.82" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°9'19.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|17°29'58.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°48'7.64" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

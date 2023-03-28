@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:12:51|Night duration: 11:46:29|
+|Duration of the day: 12:12:51|Night duration: 11:46:28|
 |Every hour of day duration: 01:01:04|Every hour of night duration: 00:58:52|
 
  
@@ -230,14 +230,14 @@ Timetable of twelve day and night planetary hours
 |2|Jupiter|Servant|20:16:49|21:15:40|Absorption of badness, nothing to do|
 |3|Mars|Servant|21:15:41|22:14:33|Attracting relationship and courtship|
 |4|Sun|Servant|22:14:34|23:13:25|Attracting material things and earning a living and prosperity|
-|5|Venus|Servant|23:13:26|00:12:18|Absorption of body, nothing to do|
-|6|Mercury|Servant|00:12:19|01:11:10|Disposal of negative energy of sore eyes|
+|5|Venus|Servant|23:13:26|00:12:17|Absorption of body, nothing to do|
+|6|Mercury|Servant|00:12:18|01:11:10|Disposal of negative energy of sore eyes|
 |7|Moon|Servant|01:11:11|02:10:02|Attracting love and affection and attracting hearts|
-|8|Saturn|Ruler|02:10:03|03:08:55|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Jupiter|Servant|03:08:56|04:07:47|Heart Compassion|
-|10|Mars|Servant|04:07:48|05:06:40|Absorption of badness, nothing to do|
-|11|Sun|Servant|05:06:41|06:05:32|Attracting bonds and courtship|
-|12|Venus|Servant|06:05:33|07:04:25|Hatred and corruption and creating negative energy to disrupt|
+|8|Saturn|Ruler|02:10:03|03:08:54|Creating corruption and destroying the enemy and making the enemy sick|
+|9|Jupiter|Servant|03:08:55|04:07:47|Heart Compassion|
+|10|Mars|Servant|04:07:48|05:06:39|Absorption of badness, nothing to do|
+|11|Sun|Servant|05:06:40|06:05:31|Attracting bonds and courtship|
+|12|Venus|Servant|06:05:32|07:04:24|Hatred and corruption and creating negative energy to disrupt|
 
  
  
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:12:51|Night duration: 11:46:29|
-|Every hour duration: 01:44:42|Every hour duration: 01:40:56|
+|Duration of the day: 12:12:51|Night duration: 11:46:28|
+|Every hour duration: 01:44:42|Every hour duration: 01:40:55|
 
  
  
@@ -270,12 +270,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Saturn|Ruler|19:17:57|20:58:51|
-|Late evening|Jupiter|Servant|20:58:52|22:39:47|
-|Midnight|Mars|Servant|22:39:48|00:20:42|
-|Late at night|Sun|Servant|00:20:43|02:01:38|
-|Rooster song|Venus|Servant|02:01:39|03:42:33|
-|False Dawn|Mercury|Servant|03:42:34|05:23:29|
-|Dawn|Moon|Servant|05:23:30|07:04:25|
+|Late evening|Jupiter|Servant|20:58:52|22:39:46|
+|Midnight|Mars|Servant|22:39:47|00:20:42|
+|Late at night|Sun|Servant|00:20:43|02:01:37|
+|Rooster song|Venus|Servant|02:01:38|03:42:33|
+|False Dawn|Mercury|Servant|03:42:34|05:23:28|
+|Dawn|Moon|Servant|05:23:29|07:04:24|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°20'12.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|18°13'55.03" |Pisces|Rescha|Jupiter|
-|♂ Mars|Direct|1°22'0.46" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|7°20'44.42" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|13°36'35.97" |Aries|Butain|Sun|
-|☿ Mercury|Direct|18°15'2.50" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|28°26'9.75" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|2°20'12.41" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|18°13'55.04" |Pisces|Rescha|Jupiter|
+|♂ Mars|Direct|1°22'0.43" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|7°20'44.40" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|13°36'35.96" |Aries|Butain|Sun|
+|☿ Mercury|Direct|18°15'2.47" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|28°26'9.49" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°20'12.33" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|18°13'55.03" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°22'0.46" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°20'44.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°36'35.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|18°15'2.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°26'9.75" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|2°20'12.41" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|18°13'55.04" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°22'0.43" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°20'44.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°36'35.96" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|18°15'2.47" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°26'9.49" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
