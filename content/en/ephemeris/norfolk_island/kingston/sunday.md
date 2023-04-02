@@ -14,7 +14,7 @@ description: 🗓 Sunday, 02 Apr 2023
 toc: false
 ---
 ## Geographic coordinates
-TimeZone: +11:00
+TimeZone: +12:00
 \-
 Latitude: -29.0546
 \-
