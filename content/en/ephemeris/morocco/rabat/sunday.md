@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°33'8.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|21°6'35.66" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|7°23'27.88" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|3°33'9.03" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|21°6'35.67" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|7°23'27.85" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|19°8'5.64" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|27°43'37.20" |Aries|Thurayya|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|8°7'59.29" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|8°7'59.27" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|25°44'21.38" |Libra|Akleel|Jupiter|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°33'8.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|21°6'35.66" |Aries|Butain|Venus|
-|♂ Mars|Direct|7°23'27.88" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|3°33'9.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|21°6'35.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|7°23'27.85" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|19°8'5.64" |Aries|Butain|Sun|
 |♀ Venus|Direct|27°43'37.20" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|8°7'59.29" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|8°7'59.27" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|25°44'21.38" |Scorpio|Shaulah|Venus|
 
 
