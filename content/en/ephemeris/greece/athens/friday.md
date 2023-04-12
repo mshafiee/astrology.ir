@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:25:26 |
 | Sunset | 19:59:52 |
 | Maghrib | 20:17:40 |
-| Isha | 21:11:44 |
+| Isha | 21:11:45 |
 | Sharia Midnight | 00:43:30 |
 | Imum Coeli | 01:25:19 |
 {{< /tab >}}
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 13:25:26 |
 | Sunset | 19:59:52 |
 | Maghrib | 20:20:18 |
-| Isha | 21:11:44 |
+| Isha | 21:11:45 |
 | Sharia Midnight | 00:38:39 |
 | Imum Coeli | 01:25:19 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°0'54.19" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|22°17'39.92" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|9°56'38.69" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°0'54.12" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|22°17'39.91" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|9°56'38.72" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|23°57'4.02" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|3°26'48.01" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|12°58'36.25" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°21'20.82" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|12°58'36.27" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°21'21.71" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°0'54.19" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|22°17'39.92" |Aries|Butain|Venus|
-|♂ Mars|Direct|9°56'38.69" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°0'54.12" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|22°17'39.91" |Aries|Butain|Venus|
+|♂ Mars|Direct|9°56'38.72" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|23°57'4.02" |Aries|Butain|Venus|
 |♀ Venus|Direct|3°26'48.01" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|12°58'36.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°21'20.82" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|12°58'36.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°21'21.71" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
