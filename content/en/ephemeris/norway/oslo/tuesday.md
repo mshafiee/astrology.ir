@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Sunset | 20:41:48 |
 | Maghrib | 20:43:45 |
 | Isha | 23:55:03 |
-| Sharia Midnight | 23:25:54 |
+| Sharia Midnight | 23:25:55 |
 | Imum Coeli | 01:16:18 |
 {{< /tab >}}
 
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 20:41:48 |
 | Maghrib | 20:43:45 |
 | Isha | 00:21:44 |
-| Sharia Midnight | 23:25:54 |
+| Sharia Midnight | 23:25:55 |
 | Imum Coeli | 01:16:18 |
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°22'26.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°15'32.06" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°3'20.78" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°22'26.52" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°15'32.07" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°3'20.76" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°52'4.00" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°4'24.60" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|15°6'31.46" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°43'55.71" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|8°4'24.59" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|15°6'31.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°43'54.97" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°22'26.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°15'32.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°3'20.78" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|4°22'26.52" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°15'32.07" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°3'20.76" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|27°52'4.00" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|8°4'24.60" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|15°6'31.46" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°43'55.71" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|8°4'24.59" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|15°6'31.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°43'54.97" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

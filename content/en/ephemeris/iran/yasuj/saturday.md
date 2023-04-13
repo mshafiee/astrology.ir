@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:03:46 |
 | Sunset | 19:30:47 |
 | Maghrib | 19:35:43 |
-| Isha | 20:41:23 |
+| Isha | 20:41:22 |
 | Sharia Midnight | 00:28:09 |
 | Imum Coeli | 01:03:39 |
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°5'59.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|22°31'5.70" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|10°25'52.76" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°51'37.04" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|4°31'21.12" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|13°37'12.31" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°46'33.82" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|4°5'59.33" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|22°31'5.71" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|10°25'52.74" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°51'37.03" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|4°31'21.11" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|13°37'12.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°46'32.88" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°5'59.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|22°31'5.70" |Aries|Butain|Venus|
-|♂ Mars|Direct|10°25'52.76" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|24°51'37.04" |Aries|Butain|Venus|
-|♀ Venus|Direct|4°31'21.12" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|13°37'12.31" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°46'33.82" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|4°5'59.33" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|22°31'5.71" |Aries|Butain|Venus|
+|♂ Mars|Direct|10°25'52.74" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|24°51'37.03" |Aries|Butain|Venus|
+|♀ Venus|Direct|4°31'21.11" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|13°37'12.30" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°46'32.88" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
