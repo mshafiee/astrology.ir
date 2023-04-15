@@ -4,7 +4,7 @@
 	<div id="osm-map"></div>
 	<script>
 		var element = document.getElementById('osm-map');
-		element.style = 'width:{{ with .Get "width" }}{{.}}{{else}}100%{{end}}; height:{{ with .Get "height" }}{{.}}{{else}}300px{{end}}';
+		element.style = 'border: 1px solid #AAA; width:{{ with .Get "width" }}{{.}}{{else}}100%{{end}}; height:{{ with .Get "height" }}{{.}}{{else}}300px{{end}}';
 		var map = L.map(element);
 		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 			attribution: '<div dir="ltr">{{ with .Get "attribution" }}{{.}} | {{else}}{{end}}&copy; <a href="https://astrology.ir/">astrology.ir</a></div>'

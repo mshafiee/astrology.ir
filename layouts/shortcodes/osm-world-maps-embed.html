@@ -10,8 +10,12 @@
 			integrity="sha384-RFZC58YeKApoNsIbBxf4z6JJXmh+geBSgkCQXFyh+4tiFSJmJBt+2FbjxW7Ar16M"
 			crossorigin="anonymous"></script>
 	<div id="map" style='border: 1px solid #AAA; width:{{ with .Get "width" }}{{.}}{{else}}100%{{end}}; height:{{ with .Get "height" }}{{.}}{{else}}300px{{end}}'></div>
-	<script src='{{ relURL "js/markers.js" }}'></script>
+	<script src='{{ relURL "js/fa-markers.js" }}'></script>
 	<script src='{{ relURL "js/map.js" }}'></script>
+	<script>
+		let target = L.latLng('{{ with .Get "lat" }}{{.}}{{else}}33{{end}}', '{{ with .Get "lng" }}{{.}}{{else}}53{{end}}');
+		map.setView(target, {{ with .Get "zoom" }}{{.}}{{else}}6{{end}});
+	</script>
 </div>
 
 
