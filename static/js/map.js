@@ -5,10 +5,11 @@ var map = L.map('map', {
 });
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution:
-        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    attribution: '<div dir="ltr">&copy; <a href="https://astrology.ir/">astrology.ir</a></div>',
     subdomains: ['a', 'b', 'c'],
 }).addTo(map);
+
+map.attributionControl.setPrefix(false);
 
 var myIcon = L.icon({
     iconUrl: '/images/pin24.png',
@@ -52,7 +53,7 @@ for (var i = 0; i < markers.length; ++i) {
     });
 
     marker.on('click', function(e) {
-        window.open(e.target.options.url, '_blank');
+        window.open(e.target.options.url, '_self');
     });
 
     marker.options.title = markers[i].name;

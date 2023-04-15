@@ -1,16 +1,16 @@
 ---
 date: 2018-03-29T09:00:00+06:00
 lastmod: 2020-08-10T22:00:00+06:00
-title: گاهشمار اختری
-linkTitle: گاهشمار اختری
+title: Ephemeris
+linkTitle: Ephemeris
 menu:
   main:
   sidebar:
-slug: گاهشمار-اختری
+slug: ephemeris
 categories:
-  - گاهشمار اختری
+  - Ephemeris
 tags:
-  - گاهشمار اختری
+  - Ephemeris
 weight: -200
 toc: false
 ---

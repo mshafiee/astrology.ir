@@ -9,7 +9,9 @@
 	<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
 			integrity="sha384-RFZC58YeKApoNsIbBxf4z6JJXmh+geBSgkCQXFyh+4tiFSJmJBt+2FbjxW7Ar16M"
 			crossorigin="anonymous"></script>
-	<div id="map" style="width: 100%; height: 500px; border: 1px solid #AAA;"></div>
+	<div id="map" style='border: 1px solid #AAA; width:{{ with .Get "width" }}{{.}}{{else}}100%{{end}}; height:{{ with .Get "height" }}{{.}}{{else}}300px{{end}}'></div>
 	<script src='{{ relURL "js/markers.js" }}'></script>
 	<script src='{{ relURL "js/map.js" }}'></script>
 </div>
+
+
