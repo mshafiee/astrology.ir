@@ -22,7 +22,7 @@ Longitude: 51.5310
 \-
 Altitude: 11 meters
 
-{{< google-maps-embed height="150" location="Doha, Qatar">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Doha, Qatar" lat="25.2855" lng="51.5310" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:09:52|06:13:49|Dawn repulsion, depleted energy absorption|
-|2|Saturn|Servant|06:13:50|07:17:48|The journey of the appearance and the interior|
-|3|Jupiter|Servant|07:17:49|08:21:46|Marriage is a good marriage|
-|4|Mars|Servant|08:21:47|09:25:45|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Sun|Servant|09:25:46|10:29:43|Defecation, attracting love and wealth|
-|6|Venus|Servant|10:29:44|11:33:42|Summoning the desired person, love and conquest|
-|7|Mercury|Servant|11:33:43|12:37:40|Aqdalsan|
-|8|Moon|Ruler|12:37:41|13:41:39|Correction of two people, attraction of love|
-|9|Saturn|Servant|13:41:40|14:45:37|Attracting and repelling the enemy and separating|
-|10|Jupiter|Servant|14:45:38|15:49:36|It is good for every action|
-|11|Mars|Servant|15:49:37|16:53:34|Creating Enmity and Negative Energy|
-|12|Sun|Servant|16:53:35|17:57:33|Heart Compassion|
+|1|Moon|Ruler|05:09:52|06:13:49|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|06:13:50|07:17:48|Traveling inward and outward|
+|3|Jupiter|Servant|07:17:49|08:21:46|Marriage bond is favorable|
+|4|Mars|Servant|08:21:47|09:25:45|Eliminating and destroying enemies and releasing their energy|
+|5|Sun|Servant|09:25:46|10:29:43|Granting wishes, attracting love and wealth|
+|6|Venus|Servant|10:29:44|11:33:42|Summoning the desired person, creating love and domination|
+|7|Mercury|Servant|11:33:43|12:37:40|Mutual agreement|
+|8|Moon|Ruler|12:37:41|13:41:39|Reconciling two individuals, attracting love|
+|9|Saturn|Servant|13:41:40|14:45:37|Attracting and repelling enemies, and separating them|
+|10|Jupiter|Servant|14:45:38|15:49:36|Favorable for any good deed|
+|11|Mars|Servant|15:49:37|16:53:34|Creating enmity and negative energy|
+|12|Sun|Servant|16:53:35|17:57:33|Showing kindness and affection|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|17:57:34|18:53:29|Dawn repulsion, depleted energy absorption|
-|2|Mercury|Servant|18:53:30|19:49:26|The journey of the appearance and the interior|
-|3|Moon|Servant|19:49:27|20:45:23|Marriage is a good marriage|
-|4|Saturn|Servant|20:45:24|21:41:20|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Jupiter|Servant|21:41:21|22:37:17|Defecation, attracting love and wealth|
-|6|Mars|Servant|22:37:18|23:33:14|Summoning the desired person, love and conquest|
-|7|Sun|Servant|23:33:15|00:29:10|Aqdalsan|
-|8|Venus|Ruler|00:29:11|01:25:07|Correction of two people, attraction of love|
-|9|Mercury|Servant|01:25:08|02:21:04|Attracting and repelling the enemy and separating|
-|10|Moon|Servant|02:21:05|03:17:01|It is good for every action|
-|11|Saturn|Servant|03:17:02|04:12:58|Creating Enmity and Negative Energy|
-|12|Jupiter|Servant|04:12:59|05:08:55|Heart Compassion|
+|1|Venus|Ruler|17:57:34|18:53:29|Repelling sorcery and attracting discharged energy|
+|2|Mercury|Servant|18:53:30|19:49:26|Traveling inward and outward|
+|3|Moon|Servant|19:49:27|20:45:23|Marriage bond is favorable|
+|4|Saturn|Servant|20:45:24|21:41:20|Eliminating and destroying enemies and releasing their energy|
+|5|Jupiter|Servant|21:41:21|22:37:17|Granting wishes, attracting love and wealth|
+|6|Mars|Servant|22:37:18|23:33:14|Summoning the desired person, creating love and domination|
+|7|Sun|Servant|23:33:15|00:29:10|Mutual agreement|
+|8|Venus|Ruler|00:29:11|01:25:07|Reconciling two individuals, attracting love|
+|9|Mercury|Servant|01:25:08|02:21:04|Attracting and repelling enemies, and separating them|
+|10|Moon|Servant|02:21:05|03:17:01|Favorable for any good deed|
+|11|Saturn|Servant|03:17:02|04:12:58|Creating enmity and negative energy|
+|12|Jupiter|Servant|04:12:59|05:08:55|Showing kindness and affection|
 
  
  
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°16'46.76" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°0'3.59" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°29'16.12" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|26°49'14.82" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°16'46.69" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°0'3.58" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°29'16.14" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|26°49'14.83" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|6°50'18.36" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Pre-Retrograde Shadow|14°42'11.00" |Aries|Butain|Sun|
-|☾ Moon|Direct|16°49'56.12" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|16°49'57.08" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°16'46.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|23°0'3.59" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°29'16.12" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|26°49'14.82" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°16'46.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|23°0'3.58" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°29'16.14" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|26°49'14.83" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|6°50'18.36" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Pre-Retrograde Shadow|14°42'11.00" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°49'56.12" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|16°49'57.08" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

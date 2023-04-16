@@ -22,7 +22,7 @@ Longitude: 35.5016
 \-
 Altitude: 40 meters
 
-{{< google-maps-embed height="150" location="Beirut, Lebanon">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Beirut, Lebanon" lat="33.8933" lng="35.5016" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:02:46|07:08:31|Accept the needs|
-|2|Moon|Servant|07:08:32|08:14:18|It's ugly, nothing to do|
-|3|Saturn|Servant|08:14:19|09:20:05|To overcome diseases|
-|4|Jupiter|Servant|09:20:06|10:25:52|For all things, Saadin's goal|
-|5|Mars|Servant|10:25:53|11:31:39|Creating negative energy and disturbing the peace|
-|6|Sun|Servant|11:31:40|12:37:26|The journey of the appearance and the interior|
-|7|Venus|Servant|12:37:27|13:43:13|Attracting love and attracting hearts and hearts|
-|8|Mercury|Ruler|13:43:14|14:49:00|Covering the eyes of the creators|
-|9|Moon|Servant|14:49:01|15:54:47|Separation and Enmity|
-|10|Saturn|Servant|15:54:48|17:00:34|Conquest of the Great|
-|11|Jupiter|Servant|17:00:35|18:06:21|Creating financial attraction and love and conquest|
-|12|Mars|Servant|18:06:22|19:12:08|Creating Evil and Hatred|
+|1|Mercury|Ruler|06:02:46|07:08:31|Acceptance of needs|
+|2|Moon|Servant|07:08:32|08:14:18|Complaining is futile, it won't accomplish anything|
+|3|Saturn|Servant|08:14:19|09:20:05|To overcome illnesses|
+|4|Jupiter|Servant|09:20:06|10:25:52|For all actions, the goal is happiness|
+|5|Mars|Servant|10:25:53|11:31:39|Generating negative energy and disturbing peace|
+|6|Sun|Servant|11:31:40|12:37:26|Traveling inward and outward|
+|7|Venus|Servant|12:37:27|13:43:13|Attracting love and winning hearts|
+|8|Mercury|Ruler|13:43:14|14:49:00|Being concealed from the sight of people|
+|9|Moon|Servant|14:49:01|15:54:47|Separating and creating enmity|
+|10|Saturn|Servant|15:54:48|17:00:34|Subduing the elites|
+|11|Jupiter|Servant|17:00:35|18:06:21|Creating financial attraction and domination|
+|12|Mars|Servant|18:06:22|19:12:08|Generating malice and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|19:12:09|20:06:15|Accept the needs|
-|2|Venus|Servant|20:06:16|21:00:22|It's ugly, nothing to do|
-|3|Mercury|Servant|21:00:23|21:54:29|To overcome diseases|
-|4|Moon|Servant|21:54:30|22:48:36|For all things, Saadin's goal|
-|5|Saturn|Servant|22:48:37|23:42:43|Creating negative energy and disturbing the peace|
-|6|Jupiter|Servant|23:42:44|00:36:50|The journey of the appearance and the interior|
-|7|Mars|Servant|00:36:51|01:30:57|Attracting love and attracting hearts and hearts|
-|8|Sun|Ruler|01:30:58|02:25:04|Covering the eyes of the creators|
-|9|Venus|Servant|02:25:05|03:19:11|Separation and Enmity|
-|10|Mercury|Servant|03:19:12|04:13:18|Conquest of the Great|
-|11|Moon|Servant|04:13:19|05:07:25|Creating financial attraction and love and conquest|
-|12|Saturn|Servant|05:07:26|06:01:33|Creating Evil and Hatred|
+|1|Sun|Ruler|19:12:09|20:06:15|Acceptance of needs|
+|2|Venus|Servant|20:06:16|21:00:22|Complaining is futile, it won't accomplish anything|
+|3|Mercury|Servant|21:00:23|21:54:29|To overcome illnesses|
+|4|Moon|Servant|21:54:30|22:48:36|For all actions, the goal is happiness|
+|5|Saturn|Servant|22:48:37|23:42:43|Generating negative energy and disturbing peace|
+|6|Jupiter|Servant|23:42:44|00:36:50|Traveling inward and outward|
+|7|Mars|Servant|00:36:51|01:30:57|Attracting love and winning hearts|
+|8|Sun|Ruler|01:30:58|02:25:04|Being concealed from the sight of people|
+|9|Venus|Servant|02:25:05|03:19:11|Separating and creating enmity|
+|10|Mercury|Servant|03:19:12|04:13:18|Subduing the elites|
+|11|Moon|Servant|04:13:19|05:07:25|Creating financial attraction and domination|
+|12|Saturn|Servant|05:07:26|06:01:33|Generating malice and hatred|
 
  
  
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°27'29.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°29'29.56" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°34'9.92" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°27'29.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°29'29.55" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°34'9.94" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|28°48'46.58" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°11'8.95" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|9°11'8.96" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Pre-Retrograde Shadow|15°22'30.03" |Aries|Butain|Sun|
-|☾ Moon|Direct|15°48'16.26" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|15°48'16.70" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°27'29.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°29'29.56" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°34'9.92" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|4°27'29.45" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°29'29.55" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°34'9.94" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|28°48'46.58" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|9°11'8.95" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|9°11'8.96" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Pre-Retrograde Shadow|15°22'30.03" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°48'16.26" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°48'16.70" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

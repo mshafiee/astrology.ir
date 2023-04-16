@@ -22,7 +22,7 @@ Longitude: -57.6470
 \-
 Altitude: 107 meters
 
-{{< google-maps-embed height="150" location="Asuncion, Paraguay">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Asuncion, Paraguay" lat="-25.2865" lng="-57.6470" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|06:05:51|07:03:13|Love and attracting capital|
-|2|Venus|Servant|07:03:14|08:00:37|It's ugly, nothing to do|
-|3|Mercury|Servant|08:00:38|08:58:01|Operation of Compassion and Attraction of Love|
-|4|Moon|Servant|08:58:02|09:55:25|Evil and repel good|
-|5|Saturn|Servant|09:55:26|10:52:49|Separation and grudges and hostilities|
-|6|Jupiter|Servant|10:52:50|11:50:13|It's good for all good deeds|
-|7|Mars|Servant|11:50:14|12:47:36|Do not do anything, it causes misery|
-|8|Sun|Ruler|12:47:37|13:45:00|It is very auspicious and attracts happiness|
-|9|Venus|Servant|13:45:01|14:42:24|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Mercury|Servant|14:42:25|15:39:48|Attracting happiness, solving financial problems|
-|11|Moon|Servant|15:39:49|16:37:12|Doing marriage|
-|12|Saturn|Servant|16:37:13|17:34:36|Discover the Fugitive and Find the Thief|
+|1|Sun|Ruler|06:05:51|07:03:13|Attracting love and gaining financial capital|
+|2|Venus|Servant|07:03:14|08:00:37|Hateful actions, and avoiding any beneficial action|
+|3|Mercury|Servant|08:00:38|08:58:01|Creating emotional attachment and love|
+|4|Moon|Servant|08:58:02|09:55:25|Being hateful and rejecting kindness|
+|5|Saturn|Servant|09:55:26|10:52:49|Separation and engaging in hateful and vengeful actions|
+|6|Jupiter|Servant|10:52:50|11:50:13|Performing all good deeds for a beneficial outcome|
+|7|Mars|Servant|11:50:14|12:47:36|Avoiding any action that may lead to disaster|
+|8|Sun|Ruler|12:47:37|13:45:00|Extremely lucky and attracting good fortune|
+|9|Venus|Servant|13:45:01|14:42:24|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Mercury|Servant|14:42:25|15:39:48|Attracting happiness and resolving financial problems|
+|11|Moon|Servant|15:39:49|16:37:12|Signing contracts|
+|12|Saturn|Servant|16:37:13|17:34:36|Uncovering fugitives and finding thieves|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|17:34:37|18:37:14|Love and attracting capital|
-|2|Mars|Servant|18:37:15|19:39:53|It's ugly, nothing to do|
-|3|Sun|Servant|19:39:54|20:42:31|Operation of Compassion and Attraction of Love|
-|4|Venus|Servant|20:42:32|21:45:10|Evil and repel good|
-|5|Mercury|Servant|21:45:11|22:47:48|Separation and grudges and hostilities|
-|6|Moon|Servant|22:47:49|23:50:27|It's good for all good deeds|
-|7|Saturn|Servant|23:50:28|00:53:05|Do not do anything, it causes misery|
-|8|Jupiter|Ruler|00:53:06|01:55:44|It is very auspicious and attracts happiness|
-|9|Mars|Servant|01:55:45|02:58:22|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Sun|Servant|02:58:23|04:01:01|Attracting happiness, solving financial problems|
-|11|Venus|Servant|04:01:02|05:03:39|Doing marriage|
-|12|Mercury|Servant|05:03:40|06:06:18|Discover the Fugitive and Find the Thief|
+|1|Jupiter|Ruler|17:34:37|18:37:14|Attracting love and gaining financial capital|
+|2|Mars|Servant|18:37:15|19:39:53|Hateful actions, and avoiding any beneficial action|
+|3|Sun|Servant|19:39:54|20:42:31|Creating emotional attachment and love|
+|4|Venus|Servant|20:42:32|21:45:10|Being hateful and rejecting kindness|
+|5|Mercury|Servant|21:45:11|22:47:48|Separation and engaging in hateful and vengeful actions|
+|6|Moon|Servant|22:47:49|23:50:27|Performing all good deeds for a beneficial outcome|
+|7|Saturn|Servant|23:50:28|00:53:05|Avoiding any action that may lead to disaster|
+|8|Jupiter|Ruler|00:53:06|01:55:44|Extremely lucky and attracting good fortune|
+|9|Mars|Servant|01:55:45|02:58:22|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|02:58:23|04:01:01|Attracting happiness and resolving financial problems|
+|11|Venus|Servant|04:01:02|05:03:39|Signing contracts|
+|12|Mercury|Servant|05:03:40|06:06:18|Uncovering fugitives and finding thieves|
 
  
  
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°13'12.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|22°50'23.14" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°8'2.01" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°13'12.09" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|22°50'23.13" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°8'2.04" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|26°9'58.37" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|6°3'55.64" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°23'18.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°20'54.22" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|6°3'55.65" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°23'18.68" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°20'55.21" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°13'12.16" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|22°50'23.14" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°8'2.01" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|4°13'12.09" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|22°50'23.13" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°8'2.04" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|26°9'58.37" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|6°3'55.64" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°23'18.67" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°20'54.22" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|6°3'55.65" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°23'18.68" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°20'55.21" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

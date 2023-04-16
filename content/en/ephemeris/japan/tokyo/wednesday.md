@@ -22,7 +22,7 @@ Longitude: 139.6917
 \-
 Altitude: 44 meters
 
-{{< google-maps-embed height="150" location="Tokyo, Japan">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Tokyo, Japan" lat="35.6895" lng="139.6917" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|05:04:10|06:10:15|Accept the needs|
-|2|Moon|Servant|06:10:16|07:16:21|It's ugly, nothing to do|
-|3|Saturn|Servant|07:16:22|08:22:27|To overcome diseases|
-|4|Jupiter|Servant|08:22:28|09:28:33|For all things, Saadin's goal|
-|5|Mars|Servant|09:28:34|10:34:39|Creating negative energy and disturbing the peace|
-|6|Sun|Servant|10:34:40|11:40:45|The journey of the appearance and the interior|
-|7|Venus|Servant|11:40:46|12:46:51|Attracting love and attracting hearts and hearts|
-|8|Mercury|Ruler|12:46:52|13:52:57|Covering the eyes of the creators|
-|9|Moon|Servant|13:52:58|14:59:03|Separation and Enmity|
-|10|Saturn|Servant|14:59:04|16:05:09|Conquest of the Great|
-|11|Jupiter|Servant|16:05:10|17:11:15|Creating financial attraction and love and conquest|
-|12|Mars|Servant|17:11:16|18:17:22|Creating Evil and Hatred|
+|1|Mercury|Ruler|05:04:10|06:10:15|Acceptance of needs|
+|2|Moon|Servant|06:10:16|07:16:21|Complaining is futile, it won't accomplish anything|
+|3|Saturn|Servant|07:16:22|08:22:27|To overcome illnesses|
+|4|Jupiter|Servant|08:22:28|09:28:33|For all actions, the goal is happiness|
+|5|Mars|Servant|09:28:34|10:34:39|Generating negative energy and disturbing peace|
+|6|Sun|Servant|10:34:40|11:40:45|Traveling inward and outward|
+|7|Venus|Servant|11:40:46|12:46:51|Attracting love and winning hearts|
+|8|Mercury|Ruler|12:46:52|13:52:57|Being concealed from the sight of people|
+|9|Moon|Servant|13:52:58|14:59:03|Separating and creating enmity|
+|10|Saturn|Servant|14:59:04|16:05:09|Subduing the elites|
+|11|Jupiter|Servant|16:05:10|17:11:15|Creating financial attraction and domination|
+|12|Mars|Servant|17:11:16|18:17:22|Generating malice and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|18:17:23|19:11:09|Accept the needs|
-|2|Venus|Servant|19:11:10|20:04:57|It's ugly, nothing to do|
-|3|Mercury|Servant|20:04:58|20:58:44|To overcome diseases|
-|4|Moon|Servant|20:58:45|21:52:32|For all things, Saadin's goal|
-|5|Saturn|Servant|21:52:33|22:46:19|Creating negative energy and disturbing the peace|
-|6|Jupiter|Servant|22:46:20|23:40:07|The journey of the appearance and the interior|
-|7|Mars|Servant|23:40:08|00:33:55|Attracting love and attracting hearts and hearts|
-|8|Sun|Ruler|00:33:56|01:27:42|Covering the eyes of the creators|
-|9|Venus|Servant|01:27:43|02:21:30|Separation and Enmity|
-|10|Mercury|Servant|02:21:31|03:15:17|Conquest of the Great|
-|11|Moon|Servant|03:15:18|04:09:05|Creating financial attraction and love and conquest|
-|12|Saturn|Servant|04:09:06|05:02:53|Creating Evil and Hatred|
+|1|Sun|Ruler|18:17:23|19:11:09|Acceptance of needs|
+|2|Venus|Servant|19:11:10|20:04:57|Complaining is futile, it won't accomplish anything|
+|3|Mercury|Servant|20:04:58|20:58:44|To overcome illnesses|
+|4|Moon|Servant|20:58:45|21:52:32|For all actions, the goal is happiness|
+|5|Saturn|Servant|21:52:33|22:46:19|Generating negative energy and disturbing peace|
+|6|Jupiter|Servant|22:46:20|23:40:07|Traveling inward and outward|
+|7|Mars|Servant|23:40:08|00:33:55|Attracting love and winning hearts|
+|8|Sun|Ruler|00:33:56|01:27:42|Being concealed from the sight of people|
+|9|Venus|Servant|01:27:43|02:21:30|Separating and creating enmity|
+|10|Mercury|Servant|02:21:31|03:15:17|Subduing the elites|
+|11|Moon|Servant|03:15:18|04:09:05|Creating financial attraction and domination|
+|12|Saturn|Servant|04:09:06|05:02:53|Generating malice and hatred|
 
  
  

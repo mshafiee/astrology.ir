@@ -22,7 +22,7 @@ Longitude: 112.7508
 \-
 Altitude: 8 meters
 
-{{< google-maps-embed height="150" location="Surabaya, Indonesia">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Surabaya, Indonesia" lat="-7.2492" lng="112.7508" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:30:24|06:30:03|Creating corruption, hatred and enmity|
-|2|Sun|Servant|06:30:04|07:29:43|Absorption of badness, nothing to do|
-|3|Venus|Servant|07:29:44|08:29:23|Attracting relationship and courtship|
-|4|Mercury|Servant|08:29:24|09:29:03|Attracting material things and earning a living and prosperity|
-|5|Moon|Servant|09:29:04|10:28:43|Absorption of body, nothing to do|
-|6|Saturn|Servant|10:28:44|11:28:24|Disposal of negative energy of sore eyes|
-|7|Jupiter|Servant|11:28:25|12:28:04|Attracting love and affection and attracting hearts|
-|8|Mars|Ruler|12:28:05|13:27:44|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Sun|Servant|13:27:45|14:27:24|Heart Compassion|
-|10|Venus|Servant|14:27:25|15:27:04|Absorption of badness, nothing to do|
-|11|Mercury|Servant|15:27:05|16:26:44|Attracting bonds and courtship|
-|12|Moon|Servant|16:26:45|17:26:25|Hatred and corruption and creating negative energy to disrupt|
+|1|Mars|Ruler|05:30:24|06:30:03|Creating corruption, hatred, and enmity|
+|2|Sun|Servant|06:30:04|07:29:43|Attracting negativity, and avoiding any harmful action|
+|3|Venus|Servant|07:29:44|08:29:23|Attracting connection and marriage proposals|
+|4|Mercury|Servant|08:29:24|09:29:03|Attracting material wealth, prosperity, and business growth|
+|5|Moon|Servant|09:29:04|10:28:43|Attracting negativity and creating chaos|
+|6|Saturn|Servant|10:28:44|11:28:24|Removing negative energy caused by the evil eye|
+|7|Jupiter|Servant|11:28:25|12:28:04|Attracting love, affection, and winning hearts|
+|8|Mars|Ruler|12:28:05|13:27:44|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Sun|Servant|13:27:45|14:27:24|Creating emotional attachment|
+|10|Venus|Servant|14:27:25|15:27:04|Attracting negativity, and avoiding any harmful action|
+|11|Mercury|Servant|15:27:05|16:26:44|Attracting connection and marriage proposals|
+|12|Moon|Servant|16:26:45|17:26:25|Creating hatred and corruption to disrupt harmony|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|17:26:26|18:26:44|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|18:26:45|19:27:04|Absorption of badness, nothing to do|
-|3|Mars|Servant|19:27:05|20:27:23|Attracting relationship and courtship|
-|4|Sun|Servant|20:27:24|21:27:43|Attracting material things and earning a living and prosperity|
-|5|Venus|Servant|21:27:44|22:28:02|Absorption of body, nothing to do|
-|6|Mercury|Servant|22:28:03|23:28:22|Disposal of negative energy of sore eyes|
-|7|Moon|Servant|23:28:23|00:28:42|Attracting love and affection and attracting hearts|
-|8|Saturn|Ruler|00:28:43|01:29:01|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Jupiter|Servant|01:29:02|02:29:21|Heart Compassion|
-|10|Mars|Servant|02:29:22|03:29:40|Absorption of badness, nothing to do|
-|11|Sun|Servant|03:29:41|04:30:00|Attracting bonds and courtship|
-|12|Venus|Servant|04:30:01|05:30:20|Hatred and corruption and creating negative energy to disrupt|
+|1|Saturn|Ruler|17:26:26|18:26:44|Creating corruption, hatred, and enmity|
+|2|Jupiter|Servant|18:26:45|19:27:04|Attracting negativity, and avoiding any harmful action|
+|3|Mars|Servant|19:27:05|20:27:23|Attracting connection and marriage proposals|
+|4|Sun|Servant|20:27:24|21:27:43|Attracting material wealth, prosperity, and business growth|
+|5|Venus|Servant|21:27:44|22:28:02|Attracting negativity and creating chaos|
+|6|Mercury|Servant|22:28:03|23:28:22|Removing negative energy caused by the evil eye|
+|7|Moon|Servant|23:28:23|00:28:42|Attracting love, affection, and winning hearts|
+|8|Saturn|Ruler|00:28:43|01:29:01|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Jupiter|Servant|01:29:02|02:29:21|Creating emotional attachment|
+|10|Mars|Servant|02:29:22|03:29:40|Attracting negativity, and avoiding any harmful action|
+|11|Sun|Servant|03:29:41|04:30:00|Attracting connection and marriage proposals|
+|12|Venus|Servant|04:30:01|05:30:20|Creating hatred and corruption to disrupt harmony|
 
  
  
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°21'16.42" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°12'19.29" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°56'14.05" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°21'16.35" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°12'19.28" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°56'14.08" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°39'3.26" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|7°49'1.04" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|15°2'10.37" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°16'53.67" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|15°2'10.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°16'54.49" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°21'16.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°12'19.29" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°56'14.05" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|4°21'16.35" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°12'19.28" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°56'14.08" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|27°39'3.26" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|7°49'1.04" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|15°2'10.37" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°16'53.67" |Pisces|Rescha|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|15°2'10.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°16'54.49" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

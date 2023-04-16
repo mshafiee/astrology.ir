@@ -22,7 +22,7 @@ Longitude: 171.3803
 \-
 Altitude: 6 meters
 
-{{< google-maps-embed height="150" location="Majuro, Marshall Islands">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Majuro, Marshall Islands" lat="7.0897" lng="171.3803" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:25:07|07:26:35|Creating corruption, hatred and enmity|
-|2|Sun|Servant|07:26:36|08:28:04|Absorption of badness, nothing to do|
-|3|Venus|Servant|08:28:05|09:29:33|Attracting relationship and courtship|
-|4|Mercury|Servant|09:29:34|10:31:02|Attracting material things and earning a living and prosperity|
-|5|Moon|Servant|10:31:03|11:32:31|Absorption of body, nothing to do|
-|6|Saturn|Servant|11:32:32|12:34:00|Disposal of negative energy of sore eyes|
-|7|Jupiter|Servant|12:34:01|13:35:29|Attracting love and affection and attracting hearts|
-|8|Mars|Ruler|13:35:30|14:36:58|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Sun|Servant|14:36:59|15:38:27|Heart Compassion|
-|10|Venus|Servant|15:38:28|16:39:56|Absorption of badness, nothing to do|
-|11|Mercury|Servant|16:39:57|17:41:25|Attracting bonds and courtship|
-|12|Moon|Servant|17:41:26|18:42:55|Hatred and corruption and creating negative energy to disrupt|
+|1|Mars|Ruler|06:25:07|07:26:35|Creating corruption, hatred, and enmity|
+|2|Sun|Servant|07:26:36|08:28:04|Attracting negativity, and avoiding any harmful action|
+|3|Venus|Servant|08:28:05|09:29:33|Attracting connection and marriage proposals|
+|4|Mercury|Servant|09:29:34|10:31:02|Attracting material wealth, prosperity, and business growth|
+|5|Moon|Servant|10:31:03|11:32:31|Attracting negativity and creating chaos|
+|6|Saturn|Servant|11:32:32|12:34:00|Removing negative energy caused by the evil eye|
+|7|Jupiter|Servant|12:34:01|13:35:29|Attracting love, affection, and winning hearts|
+|8|Mars|Ruler|13:35:30|14:36:58|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Sun|Servant|14:36:59|15:38:27|Creating emotional attachment|
+|10|Venus|Servant|15:38:28|16:39:56|Attracting negativity, and avoiding any harmful action|
+|11|Mercury|Servant|16:39:57|17:41:25|Attracting connection and marriage proposals|
+|12|Moon|Servant|17:41:26|18:42:55|Creating hatred and corruption to disrupt harmony|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|18:42:56|19:41:23|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|19:41:24|20:39:52|Absorption of badness, nothing to do|
-|3|Mars|Servant|20:39:53|21:38:21|Attracting relationship and courtship|
-|4|Sun|Servant|21:38:22|22:36:50|Attracting material things and earning a living and prosperity|
-|5|Venus|Servant|22:36:51|23:35:19|Absorption of body, nothing to do|
-|6|Mercury|Servant|23:35:20|00:33:48|Disposal of negative energy of sore eyes|
-|7|Moon|Servant|00:33:49|01:32:17|Attracting love and affection and attracting hearts|
-|8|Saturn|Ruler|01:32:18|02:30:46|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Jupiter|Servant|02:30:47|03:29:15|Heart Compassion|
-|10|Mars|Servant|03:29:16|04:27:44|Absorption of badness, nothing to do|
-|11|Sun|Servant|04:27:45|05:26:13|Attracting bonds and courtship|
-|12|Venus|Servant|05:26:14|06:24:42|Hatred and corruption and creating negative energy to disrupt|
+|1|Saturn|Ruler|18:42:56|19:41:23|Creating corruption, hatred, and enmity|
+|2|Jupiter|Servant|19:41:24|20:39:52|Attracting negativity, and avoiding any harmful action|
+|3|Mars|Servant|20:39:53|21:38:21|Attracting connection and marriage proposals|
+|4|Sun|Servant|21:38:22|22:36:50|Attracting material wealth, prosperity, and business growth|
+|5|Venus|Servant|22:36:51|23:35:19|Attracting negativity and creating chaos|
+|6|Mercury|Servant|23:35:20|00:33:48|Removing negative energy caused by the evil eye|
+|7|Moon|Servant|00:33:49|01:32:17|Attracting love, affection, and winning hearts|
+|8|Saturn|Ruler|01:32:18|02:30:46|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Jupiter|Servant|02:30:47|03:29:15|Creating emotional attachment|
+|10|Mars|Servant|03:29:16|04:27:44|Attracting negativity, and avoiding any harmful action|
+|11|Sun|Servant|04:27:45|05:26:13|Attracting connection and marriage proposals|
+|12|Venus|Servant|05:26:14|06:24:42|Creating hatred and corruption to disrupt harmony|
 
  
  

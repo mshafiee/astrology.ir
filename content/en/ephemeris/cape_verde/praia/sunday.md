@@ -22,7 +22,7 @@ Longitude: -23.5125
 \-
 Altitude: 18 meters
 
-{{< google-maps-embed height="150" location="Praia, Cape Verde">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Praia, Cape Verde" lat="14.9315" lng="-23.5125" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|06:19:25|07:21:49|Love and attracting capital|
-|2|Venus|Servant|07:21:50|08:24:15|It's ugly, nothing to do|
-|3|Mercury|Servant|08:24:16|09:26:41|Operation of Compassion and Attraction of Love|
-|4|Moon|Servant|09:26:42|10:29:06|Evil and repel good|
-|5|Saturn|Servant|10:29:07|11:31:32|Separation and grudges and hostilities|
-|6|Jupiter|Servant|11:31:33|12:33:58|It's good for all good deeds|
-|7|Mars|Servant|12:33:59|13:36:23|Do not do anything, it causes misery|
-|8|Sun|Ruler|13:36:24|14:38:49|It is very auspicious and attracts happiness|
-|9|Venus|Servant|14:38:50|15:41:15|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Mercury|Servant|15:41:16|16:43:40|Attracting happiness, solving financial problems|
-|11|Moon|Servant|16:43:41|17:46:06|Doing marriage|
-|12|Saturn|Servant|17:46:07|18:48:32|Discover the Fugitive and Find the Thief|
+|1|Sun|Ruler|06:19:25|07:21:49|Attracting love and gaining financial capital|
+|2|Venus|Servant|07:21:50|08:24:15|Hateful actions, and avoiding any beneficial action|
+|3|Mercury|Servant|08:24:16|09:26:41|Creating emotional attachment and love|
+|4|Moon|Servant|09:26:42|10:29:06|Being hateful and rejecting kindness|
+|5|Saturn|Servant|10:29:07|11:31:32|Separation and engaging in hateful and vengeful actions|
+|6|Jupiter|Servant|11:31:33|12:33:58|Performing all good deeds for a beneficial outcome|
+|7|Mars|Servant|12:33:59|13:36:23|Avoiding any action that may lead to disaster|
+|8|Sun|Ruler|13:36:24|14:38:49|Extremely lucky and attracting good fortune|
+|9|Venus|Servant|14:38:50|15:41:15|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Mercury|Servant|15:41:16|16:43:40|Attracting happiness and resolving financial problems|
+|11|Moon|Servant|16:43:41|17:46:06|Signing contracts|
+|12|Saturn|Servant|17:46:07|18:48:32|Uncovering fugitives and finding thieves|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|18:48:33|19:46:03|Love and attracting capital|
-|2|Mars|Servant|19:46:04|20:43:34|It's ugly, nothing to do|
-|3|Sun|Servant|20:43:35|21:41:05|Operation of Compassion and Attraction of Love|
-|4|Venus|Servant|21:41:06|22:38:36|Evil and repel good|
-|5|Mercury|Servant|22:38:37|23:36:07|Separation and grudges and hostilities|
-|6|Moon|Servant|23:36:08|00:33:39|It's good for all good deeds|
-|7|Saturn|Servant|00:33:40|01:31:10|Do not do anything, it causes misery|
-|8|Jupiter|Ruler|01:31:11|02:28:41|It is very auspicious and attracts happiness|
-|9|Mars|Servant|02:28:42|03:26:12|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Sun|Servant|03:26:13|04:23:43|Attracting happiness, solving financial problems|
-|11|Venus|Servant|04:23:44|05:21:14|Doing marriage|
-|12|Mercury|Servant|05:21:15|06:18:46|Discover the Fugitive and Find the Thief|
+|1|Jupiter|Ruler|18:48:33|19:46:03|Attracting love and gaining financial capital|
+|2|Mars|Servant|19:46:04|20:43:34|Hateful actions, and avoiding any beneficial action|
+|3|Sun|Servant|20:43:35|21:41:05|Creating emotional attachment and love|
+|4|Venus|Servant|21:41:06|22:38:36|Being hateful and rejecting kindness|
+|5|Mercury|Servant|22:38:37|23:36:07|Separation and engaging in hateful and vengeful actions|
+|6|Moon|Servant|23:36:08|00:33:39|Performing all good deeds for a beneficial outcome|
+|7|Saturn|Servant|00:33:40|01:31:10|Avoiding any action that may lead to disaster|
+|8|Jupiter|Ruler|01:31:11|02:28:41|Extremely lucky and attracting good fortune|
+|9|Mars|Servant|02:28:42|03:26:12|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|03:26:13|04:23:43|Attracting happiness and resolving financial problems|
+|11|Venus|Servant|04:23:44|05:21:14|Signing contracts|
+|12|Mercury|Servant|05:21:15|06:18:46|Uncovering fugitives and finding thieves|
 
  
  

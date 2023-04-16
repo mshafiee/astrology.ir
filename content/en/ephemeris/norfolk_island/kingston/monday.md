@@ -22,7 +22,7 @@ Longitude: 167.9663
 \-
 Altitude: 71 meters
 
-{{< google-maps-embed height="150" location="Kingston, Norfolk Island">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Kingston, Norfolk Island" lat="-29.0546" lng="167.9663" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:06:53|07:03:39|Dawn repulsion, depleted energy absorption|
-|2|Saturn|Servant|07:03:40|08:00:27|The journey of the appearance and the interior|
-|3|Jupiter|Servant|08:00:28|08:57:15|Marriage is a good marriage|
-|4|Mars|Servant|08:57:16|09:54:03|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Sun|Servant|09:54:04|10:50:51|Defecation, attracting love and wealth|
-|6|Venus|Servant|10:50:52|11:47:39|Summoning the desired person, love and conquest|
-|7|Mercury|Servant|11:47:40|12:44:26|Aqdalsan|
-|8|Moon|Ruler|12:44:27|13:41:14|Correction of two people, attraction of love|
-|9|Saturn|Servant|13:41:15|14:38:02|Attracting and repelling the enemy and separating|
-|10|Jupiter|Servant|14:38:03|15:34:50|It is good for every action|
-|11|Mars|Servant|15:34:51|16:31:38|Creating Enmity and Negative Energy|
-|12|Sun|Servant|16:31:39|17:28:26|Heart Compassion|
+|1|Moon|Ruler|06:06:53|07:03:39|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|07:03:40|08:00:27|Traveling inward and outward|
+|3|Jupiter|Servant|08:00:28|08:57:15|Marriage bond is favorable|
+|4|Mars|Servant|08:57:16|09:54:03|Eliminating and destroying enemies and releasing their energy|
+|5|Sun|Servant|09:54:04|10:50:51|Granting wishes, attracting love and wealth|
+|6|Venus|Servant|10:50:52|11:47:39|Summoning the desired person, creating love and domination|
+|7|Mercury|Servant|11:47:40|12:44:26|Mutual agreement|
+|8|Moon|Ruler|12:44:27|13:41:14|Reconciling two individuals, attracting love|
+|9|Saturn|Servant|13:41:15|14:38:02|Attracting and repelling enemies, and separating them|
+|10|Jupiter|Servant|14:38:03|15:34:50|Favorable for any good deed|
+|11|Mars|Servant|15:34:51|16:31:38|Creating enmity and negative energy|
+|12|Sun|Servant|16:31:39|17:28:26|Showing kindness and affection|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|17:28:27|18:31:41|Dawn repulsion, depleted energy absorption|
-|2|Mercury|Servant|18:31:42|19:34:56|The journey of the appearance and the interior|
-|3|Moon|Servant|19:34:57|20:38:11|Marriage is a good marriage|
-|4|Saturn|Servant|20:38:12|21:41:26|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Jupiter|Servant|21:41:27|22:44:41|Defecation, attracting love and wealth|
-|6|Mars|Servant|22:44:42|23:47:56|Summoning the desired person, love and conquest|
-|7|Sun|Servant|23:47:57|00:51:11|Aqdalsan|
-|8|Venus|Ruler|00:51:12|01:54:26|Correction of two people, attraction of love|
-|9|Mercury|Servant|01:54:27|02:57:41|Attracting and repelling the enemy and separating|
-|10|Moon|Servant|02:57:42|04:00:56|It is good for every action|
-|11|Saturn|Servant|04:00:57|05:04:11|Creating Enmity and Negative Energy|
-|12|Jupiter|Servant|05:04:12|06:07:26|Heart Compassion|
+|1|Venus|Ruler|17:28:27|18:31:41|Repelling sorcery and attracting discharged energy|
+|2|Mercury|Servant|18:31:42|19:34:56|Traveling inward and outward|
+|3|Moon|Servant|19:34:57|20:38:11|Marriage bond is favorable|
+|4|Saturn|Servant|20:38:12|21:41:26|Eliminating and destroying enemies and releasing their energy|
+|5|Jupiter|Servant|21:41:27|22:44:41|Granting wishes, attracting love and wealth|
+|6|Mars|Servant|22:44:42|23:47:56|Summoning the desired person, creating love and domination|
+|7|Sun|Servant|23:47:57|00:51:11|Mutual agreement|
+|8|Venus|Ruler|00:51:12|01:54:26|Reconciling two individuals, attracting love|
+|9|Mercury|Servant|01:54:27|02:57:41|Attracting and repelling enemies, and separating them|
+|10|Moon|Servant|02:57:42|04:00:56|Favorable for any good deed|
+|11|Saturn|Servant|04:00:57|05:04:11|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:04:12|06:07:26|Showing kindness and affection|
 
  
  
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°15'12.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|22°55'49.21" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°19'57.01" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|26°32'2.48" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°15'12.84" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|22°55'49.20" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°19'57.04" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|26°32'2.49" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|6°29'58.88" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°34'16.85" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°48'22.44" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°34'16.86" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°48'23.42" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°15'12.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|22°55'49.21" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°19'57.01" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|26°32'2.48" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°15'12.84" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|22°55'49.20" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°19'57.04" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|26°32'2.49" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|6°29'58.88" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°34'16.85" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°48'22.44" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°34'16.86" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°48'23.42" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

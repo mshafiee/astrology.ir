@@ -1,6 +1,6 @@
 ---
-date: 2023-04-13T00:00:00-04:00
-lastmod: 2023-04-13T00:00:00-04:00
+date: 2023-04-20T00:00:00-04:00
+lastmod: 2023-04-20T00:00:00-04:00
 title: Basse-Terre (Thursday)
 slug: thursday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Thursday, 13 Apr 2023
+description: 🗓 Thursday, 20 Apr 2023
 
 toc: false
 ---
@@ -22,7 +22,7 @@ Longitude: -61.7321
 \-
 Altitude: -9,999 meters
 
-{{< google-maps-embed height="150" location="Basse-Terre, Guadeloupe">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Basse-Terre, Guadeloupe" lat="15.9971" lng="-61.7321" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|00:00:00|23:59:59|Attracting material things, earning sustenance and ample living|
-|2|Mars|Servant|00:00:00|23:59:59|Destruction of the enemy|
-|3|Sun|Servant|00:00:00|23:59:59|Attracting financial and heartfelt love|
-|4|Venus|Servant|00:00:00|23:59:59|Creating love, bond and marriage|
-|5|Mercury|Servant|00:00:00|23:59:59|The obstruction of lust|
-|6|Moon|Servant|00:00:00|23:59:59|The journey of the appearance and the interior|
-|7|Saturn|Servant|00:00:00|23:59:59|Acquiring status and attracting capability|
-|8|Jupiter|Ruler|00:00:00|23:59:59|Attracting happiness and bliss|
-|9|Mars|Servant|00:00:00|23:59:59|Achieving status and creating rank growth|
-|10|Sun|Servant|00:00:00|23:59:59|Catching needs|
-|11|Venus|Servant|00:00:00|23:59:59|Attracting love and affection and attracting hearts|
-|12|Mercury|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
+|1|Jupiter|Ruler|00:00:00|23:59:59|Acquiring material wealth and abundance of livelihood|
+|2|Mars|Servant|00:00:00|23:59:59|Destroying enemies|
+|3|Sun|Servant|00:00:00|23:59:59|Attracting financial and emotional love|
+|4|Venus|Servant|00:00:00|23:59:59|Creating love and connection, and finding a partner|
+|5|Mercury|Servant|00:00:00|23:59:59|Engaging in sensual acts|
+|6|Moon|Servant|00:00:00|23:59:59|Traveling in the physical and spiritual realm|
+|7|Saturn|Servant|00:00:00|23:59:59|Achieving status, position, and attracting opportunities|
+|8|Jupiter|Ruler|00:00:00|23:59:59|Attracting happiness and prosperity|
+|9|Mars|Servant|00:00:00|23:59:59|Attaining status, position, and promoting rank|
+|10|Sun|Servant|00:00:00|23:59:59|Fulfilling needs|
+|11|Venus|Servant|00:00:00|23:59:59|Attracting love, affection, and winning hearts|
+|12|Mercury|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|00:00:00|23:59:59|Attracting material things, earning sustenance and ample living|
-|2|Saturn|Servant|00:00:00|23:59:59|Destruction of the enemy|
-|3|Jupiter|Servant|00:00:00|23:59:59|Attracting financial and heartfelt love|
-|4|Mars|Servant|00:00:00|23:59:59|Creating love, bond and marriage|
-|5|Sun|Servant|00:00:00|23:59:59|The obstruction of lust|
-|6|Venus|Servant|00:00:00|23:59:59|The journey of the appearance and the interior|
-|7|Mercury|Servant|00:00:00|23:59:59|Acquiring status and attracting capability|
-|8|Moon|Ruler|00:00:00|23:59:59|Attracting happiness and bliss|
-|9|Saturn|Servant|00:00:00|23:59:59|Achieving status and creating rank growth|
-|10|Jupiter|Servant|00:00:00|23:59:59|Catching needs|
-|11|Mars|Servant|00:00:00|23:59:59|Attracting love and affection and attracting hearts|
-|12|Sun|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
+|1|Moon|Ruler|00:00:00|23:59:59|Acquiring material wealth and abundance of livelihood|
+|2|Saturn|Servant|00:00:00|23:59:59|Destroying enemies|
+|3|Jupiter|Servant|00:00:00|23:59:59|Attracting financial and emotional love|
+|4|Mars|Servant|00:00:00|23:59:59|Creating love and connection, and finding a partner|
+|5|Sun|Servant|00:00:00|23:59:59|Engaging in sensual acts|
+|6|Venus|Servant|00:00:00|23:59:59|Traveling in the physical and spiritual realm|
+|7|Mercury|Servant|00:00:00|23:59:59|Achieving status, position, and attracting opportunities|
+|8|Moon|Ruler|00:00:00|23:59:59|Attracting happiness and prosperity|
+|9|Saturn|Servant|00:00:00|23:59:59|Attaining status, position, and promoting rank|
+|10|Jupiter|Servant|00:00:00|23:59:59|Fulfilling needs|
+|11|Mars|Servant|00:00:00|23:59:59|Attracting love, affection, and winning hearts|
+|12|Sun|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
 
  
  
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르

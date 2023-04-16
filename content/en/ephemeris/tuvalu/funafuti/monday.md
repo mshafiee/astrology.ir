@@ -22,7 +22,7 @@ Longitude: 179.1942
 \-
 Altitude: 7 meters
 
-{{< google-maps-embed height="150" location="Funafuti, Tuvalu">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Funafuti, Tuvalu" lat="-8.5243" lng="179.1942" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:05:36|07:05:08|Dawn repulsion, depleted energy absorption|
-|2|Saturn|Servant|07:05:09|08:04:41|The journey of the appearance and the interior|
-|3|Jupiter|Servant|08:04:42|09:04:14|Marriage is a good marriage|
-|4|Mars|Servant|09:04:15|10:03:47|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Sun|Servant|10:03:48|11:03:20|Defecation, attracting love and wealth|
-|6|Venus|Servant|11:03:21|12:02:53|Summoning the desired person, love and conquest|
-|7|Mercury|Servant|12:02:54|13:02:26|Aqdalsan|
-|8|Moon|Ruler|13:02:27|14:01:59|Correction of two people, attraction of love|
-|9|Saturn|Servant|14:02:00|15:01:32|Attracting and repelling the enemy and separating|
-|10|Jupiter|Servant|15:01:33|16:01:05|It is good for every action|
-|11|Mars|Servant|16:01:06|17:00:38|Creating Enmity and Negative Energy|
-|12|Sun|Servant|17:00:39|18:00:11|Heart Compassion|
+|1|Moon|Ruler|06:05:36|07:05:08|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|07:05:09|08:04:41|Traveling inward and outward|
+|3|Jupiter|Servant|08:04:42|09:04:14|Marriage bond is favorable|
+|4|Mars|Servant|09:04:15|10:03:47|Eliminating and destroying enemies and releasing their energy|
+|5|Sun|Servant|10:03:48|11:03:20|Granting wishes, attracting love and wealth|
+|6|Venus|Servant|11:03:21|12:02:53|Summoning the desired person, creating love and domination|
+|7|Mercury|Servant|12:02:54|13:02:26|Mutual agreement|
+|8|Moon|Ruler|13:02:27|14:01:59|Reconciling two individuals, attracting love|
+|9|Saturn|Servant|14:02:00|15:01:32|Attracting and repelling enemies, and separating them|
+|10|Jupiter|Servant|15:01:33|16:01:05|Favorable for any good deed|
+|11|Mars|Servant|16:01:06|17:00:38|Creating enmity and negative energy|
+|12|Sun|Servant|17:00:39|18:00:11|Showing kindness and affection|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|18:00:12|19:00:38|Dawn repulsion, depleted energy absorption|
-|2|Mercury|Servant|19:00:39|20:01:05|The journey of the appearance and the interior|
-|3|Moon|Servant|20:01:06|21:01:32|Marriage is a good marriage|
-|4|Saturn|Servant|21:01:33|22:01:59|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Jupiter|Servant|22:02:00|23:02:26|Defecation, attracting love and wealth|
-|6|Mars|Servant|23:02:27|00:02:53|Summoning the desired person, love and conquest|
-|7|Sun|Servant|00:02:54|01:03:20|Aqdalsan|
-|8|Venus|Ruler|01:03:21|02:03:47|Correction of two people, attraction of love|
-|9|Mercury|Servant|02:03:48|03:04:14|Attracting and repelling the enemy and separating|
-|10|Moon|Servant|03:04:15|04:04:41|It is good for every action|
-|11|Saturn|Servant|04:04:42|05:05:08|Creating Enmity and Negative Energy|
-|12|Jupiter|Servant|05:05:09|06:05:35|Heart Compassion|
+|1|Venus|Ruler|18:00:12|19:00:38|Repelling sorcery and attracting discharged energy|
+|2|Mercury|Servant|19:00:39|20:01:05|Traveling inward and outward|
+|3|Moon|Servant|20:01:06|21:01:32|Marriage bond is favorable|
+|4|Saturn|Servant|21:01:33|22:01:59|Eliminating and destroying enemies and releasing their energy|
+|5|Jupiter|Servant|22:02:00|23:02:26|Granting wishes, attracting love and wealth|
+|6|Mars|Servant|23:02:27|00:02:53|Summoning the desired person, creating love and domination|
+|7|Sun|Servant|00:02:54|01:03:20|Mutual agreement|
+|8|Venus|Ruler|01:03:21|02:03:47|Reconciling two individuals, attracting love|
+|9|Mercury|Servant|02:03:48|03:04:14|Attracting and repelling enemies, and separating them|
+|10|Moon|Servant|03:04:15|04:04:41|Favorable for any good deed|
+|11|Saturn|Servant|04:04:42|05:05:08|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:05:09|06:05:35|Showing kindness and affection|
 
  
  
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°14'59.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|22°55'12.24" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°18'35.92" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°14'59.20" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|22°55'12.23" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°18'35.94" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|26°29'32.36" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|6°27'1.72" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°33'4.77" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°10'41.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|6°27'1.73" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°33'4.78" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°10'42.60" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°14'59.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|22°55'12.24" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°18'35.92" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|4°14'59.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|22°55'12.23" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°18'35.94" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|26°29'32.36" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|6°27'1.72" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°33'4.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°10'41.61" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|6°27'1.73" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°33'4.78" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°10'42.60" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

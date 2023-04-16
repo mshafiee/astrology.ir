@@ -22,7 +22,7 @@ Longitude: 101.6865
 \-
 Altitude: 56 meters
 
-{{< google-maps-embed height="150" location="Kuala Lumpur, Malaysia">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Kuala Lumpur, Malaysia" lat="3.1412" lng="101.6865" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|07:07:10|08:08:06|Dawn repulsion, depleted energy absorption|
-|2|Saturn|Servant|08:08:07|09:09:04|The journey of the appearance and the interior|
-|3|Jupiter|Servant|09:09:05|10:10:02|Marriage is a good marriage|
-|4|Mars|Servant|10:10:03|11:11:00|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Sun|Servant|11:11:01|12:11:58|Defecation, attracting love and wealth|
-|6|Venus|Servant|12:11:59|13:12:56|Summoning the desired person, love and conquest|
-|7|Mercury|Servant|13:12:57|14:13:54|Aqdalsan|
-|8|Moon|Ruler|14:13:55|15:14:52|Correction of two people, attraction of love|
-|9|Saturn|Servant|15:14:53|16:15:50|Attracting and repelling the enemy and separating|
-|10|Jupiter|Servant|16:15:51|17:16:48|It is good for every action|
-|11|Mars|Servant|17:16:49|18:17:46|Creating Enmity and Negative Energy|
-|12|Sun|Servant|18:17:47|19:18:44|Heart Compassion|
+|1|Moon|Ruler|07:07:10|08:08:06|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|08:08:07|09:09:04|Traveling inward and outward|
+|3|Jupiter|Servant|09:09:05|10:10:02|Marriage bond is favorable|
+|4|Mars|Servant|10:10:03|11:11:00|Eliminating and destroying enemies and releasing their energy|
+|5|Sun|Servant|11:11:01|12:11:58|Granting wishes, attracting love and wealth|
+|6|Venus|Servant|12:11:59|13:12:56|Summoning the desired person, creating love and domination|
+|7|Mercury|Servant|13:12:57|14:13:54|Mutual agreement|
+|8|Moon|Ruler|14:13:55|15:14:52|Reconciling two individuals, attracting love|
+|9|Saturn|Servant|15:14:53|16:15:50|Attracting and repelling enemies, and separating them|
+|10|Jupiter|Servant|16:15:51|17:16:48|Favorable for any good deed|
+|11|Mars|Servant|17:16:49|18:17:46|Creating enmity and negative energy|
+|12|Sun|Servant|18:17:47|19:18:44|Showing kindness and affection|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|19:18:45|20:17:44|Dawn repulsion, depleted energy absorption|
-|2|Mercury|Servant|20:17:45|21:16:45|The journey of the appearance and the interior|
-|3|Moon|Servant|21:16:46|22:15:45|Marriage is a good marriage|
-|4|Saturn|Servant|22:15:46|23:14:46|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Jupiter|Servant|23:14:47|00:13:46|Defecation, attracting love and wealth|
-|6|Mars|Servant|00:13:47|01:12:47|Summoning the desired person, love and conquest|
-|7|Sun|Servant|01:12:48|02:11:47|Aqdalsan|
-|8|Venus|Ruler|02:11:48|03:10:48|Correction of two people, attraction of love|
-|9|Mercury|Servant|03:10:49|04:09:48|Attracting and repelling the enemy and separating|
-|10|Moon|Servant|04:09:49|05:08:49|It is good for every action|
-|11|Saturn|Servant|05:08:50|06:07:49|Creating Enmity and Negative Energy|
-|12|Jupiter|Servant|06:07:50|07:06:50|Heart Compassion|
+|1|Venus|Ruler|19:18:45|20:17:44|Repelling sorcery and attracting discharged energy|
+|2|Mercury|Servant|20:17:45|21:16:45|Traveling inward and outward|
+|3|Moon|Servant|21:16:46|22:15:45|Marriage bond is favorable|
+|4|Saturn|Servant|22:15:46|23:14:46|Eliminating and destroying enemies and releasing their energy|
+|5|Jupiter|Servant|23:14:47|00:13:46|Granting wishes, attracting love and wealth|
+|6|Mars|Servant|00:13:47|01:12:47|Summoning the desired person, creating love and domination|
+|7|Sun|Servant|01:12:48|02:11:47|Mutual agreement|
+|8|Venus|Ruler|02:11:48|03:10:48|Reconciling two individuals, attracting love|
+|9|Mercury|Servant|03:10:49|04:09:48|Attracting and repelling enemies, and separating them|
+|10|Moon|Servant|04:09:49|05:08:49|Favorable for any good deed|
+|11|Saturn|Servant|05:08:50|06:07:49|Creating enmity and negative energy|
+|12|Jupiter|Servant|06:07:50|07:06:50|Showing kindness and affection|
 
  
  

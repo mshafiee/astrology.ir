@@ -22,7 +22,7 @@ Longitude: 89.6419
 \-
 Altitude: 2,307 meters
 
-{{< google-maps-embed height="150" location="Thimphu, Bhutan">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Thimphu, Bhutan" lat="27.4661" lng="89.6419" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|05:37:12|06:41:14|Love and attracting capital|
-|2|Venus|Servant|06:41:15|07:45:17|It's ugly, nothing to do|
-|3|Mercury|Servant|07:45:18|08:49:21|Operation of Compassion and Attraction of Love|
-|4|Moon|Servant|08:49:22|09:53:24|Evil and repel good|
-|5|Saturn|Servant|09:53:25|10:57:28|Separation and grudges and hostilities|
-|6|Jupiter|Servant|10:57:29|12:01:31|It's good for all good deeds|
-|7|Mars|Servant|12:01:32|13:05:34|Do not do anything, it causes misery|
-|8|Sun|Ruler|13:05:35|14:09:38|It is very auspicious and attracts happiness|
-|9|Venus|Servant|14:09:39|15:13:41|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Mercury|Servant|15:13:42|16:17:45|Attracting happiness, solving financial problems|
-|11|Moon|Servant|16:17:46|17:21:48|Doing marriage|
-|12|Saturn|Servant|17:21:49|18:25:52|Discover the Fugitive and Find the Thief|
+|1|Sun|Ruler|05:37:12|06:41:14|Attracting love and gaining financial capital|
+|2|Venus|Servant|06:41:15|07:45:17|Hateful actions, and avoiding any beneficial action|
+|3|Mercury|Servant|07:45:18|08:49:21|Creating emotional attachment and love|
+|4|Moon|Servant|08:49:22|09:53:24|Being hateful and rejecting kindness|
+|5|Saturn|Servant|09:53:25|10:57:28|Separation and engaging in hateful and vengeful actions|
+|6|Jupiter|Servant|10:57:29|12:01:31|Performing all good deeds for a beneficial outcome|
+|7|Mars|Servant|12:01:32|13:05:34|Avoiding any action that may lead to disaster|
+|8|Sun|Ruler|13:05:35|14:09:38|Extremely lucky and attracting good fortune|
+|9|Venus|Servant|14:09:39|15:13:41|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Mercury|Servant|15:13:42|16:17:45|Attracting happiness and resolving financial problems|
+|11|Moon|Servant|16:17:46|17:21:48|Signing contracts|
+|12|Saturn|Servant|17:21:49|18:25:52|Uncovering fugitives and finding thieves|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|18:25:53|19:21:43|Love and attracting capital|
-|2|Mars|Servant|19:21:44|20:17:35|It's ugly, nothing to do|
-|3|Sun|Servant|20:17:36|21:13:26|Operation of Compassion and Attraction of Love|
-|4|Venus|Servant|21:13:27|22:09:18|Evil and repel good|
-|5|Mercury|Servant|22:09:19|23:05:09|Separation and grudges and hostilities|
-|6|Moon|Servant|23:05:10|00:01:01|It's good for all good deeds|
-|7|Saturn|Servant|00:01:02|00:56:53|Do not do anything, it causes misery|
-|8|Jupiter|Ruler|00:56:54|01:52:44|It is very auspicious and attracts happiness|
-|9|Mars|Servant|01:52:45|02:48:36|Summoning the desired person, attracting hearts, compassion of hearts|
-|10|Sun|Servant|02:48:37|03:44:27|Attracting happiness, solving financial problems|
-|11|Venus|Servant|03:44:28|04:40:19|Doing marriage|
-|12|Mercury|Servant|04:40:20|05:36:11|Discover the Fugitive and Find the Thief|
+|1|Jupiter|Ruler|18:25:53|19:21:43|Attracting love and gaining financial capital|
+|2|Mars|Servant|19:21:44|20:17:35|Hateful actions, and avoiding any beneficial action|
+|3|Sun|Servant|20:17:36|21:13:26|Creating emotional attachment and love|
+|4|Venus|Servant|21:13:27|22:09:18|Being hateful and rejecting kindness|
+|5|Mercury|Servant|22:09:19|23:05:09|Separation and engaging in hateful and vengeful actions|
+|6|Moon|Servant|23:05:10|00:01:01|Performing all good deeds for a beneficial outcome|
+|7|Saturn|Servant|00:01:02|00:56:53|Avoiding any action that may lead to disaster|
+|8|Jupiter|Ruler|00:56:54|01:52:44|Extremely lucky and attracting good fortune|
+|9|Mars|Servant|01:52:45|02:48:36|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|02:48:37|03:44:27|Attracting happiness and resolving financial problems|
+|11|Venus|Servant|03:44:28|04:40:19|Signing contracts|
+|12|Mercury|Servant|04:40:20|05:36:11|Uncovering fugitives and finding thieves|
 
  
  
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°10'50.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|22°44'3.63" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|10°54'11.80" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°10'50.88" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|22°44'3.62" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|10°54'11.83" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|25°44'16.37" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|5°33'35.75" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°9'23.34" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°47'16.82" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|14°9'23.35" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°47'17.80" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°10'50.95" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|22°44'3.63" |Aries|Butain|Venus|
-|♂ Mars|Direct|10°54'11.80" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|4°10'50.88" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|22°44'3.62" |Aries|Butain|Venus|
+|♂ Mars|Direct|10°54'11.83" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|25°44'16.37" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|5°33'35.75" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°9'23.34" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°47'16.82" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|14°9'23.35" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°47'17.80" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

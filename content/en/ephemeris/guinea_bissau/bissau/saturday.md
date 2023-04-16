@@ -22,7 +22,7 @@ Longitude: -15.5977
 \-
 Altitude: 13 meters
 
-{{< google-maps-embed height="150" location="Bissau, Guinea-Bissau">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Bissau, Guinea-Bissau" lat="11.8636" lng="-15.5977" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:50:40|07:52:37|Works related to amulet, amulet and compliance|
-|2|Jupiter|Servant|07:52:38|08:54:36|Peace among the people|
-|3|Mars|Servant|08:54:37|09:56:35|Malicious deeds and evil deeds|
-|4|Sun|Servant|09:56:36|10:58:34|Conquest, Judgment and Judgment|
-|5|Venus|Servant|10:58:35|12:00:32|It's auspicious|
-|6|Mercury|Servant|12:00:33|13:02:31|Writing, Swapping and Marriage|
-|7|Moon|Servant|13:02:32|14:04:30|For nothing|
-|8|Saturn|Ruler|14:04:31|15:06:29|Destruction of the enemy|
-|9|Jupiter|Servant|15:06:30|16:08:27|All good deeds|
-|10|Mars|Servant|16:08:28|17:10:26|Doing evil deeds|
-|11|Sun|Servant|17:10:27|18:12:25|Acceptance of correction between couples|
-|12|Venus|Servant|18:12:26|19:14:24|To be honored|
+|1|Saturn|Ruler|06:50:40|07:52:37|Creating peace among people|
+|2|Jupiter|Servant|07:52:38|08:54:36|Engaging in hateful actions and evil deeds|
+|3|Mars|Servant|08:54:37|09:56:35|Conquering, judging, and issuing verdicts|
+|4|Sun|Servant|09:56:36|10:58:34|Bringing luck and favor|
+|5|Venus|Servant|10:58:35|12:00:32|Writing, exchanging, and signing contracts|
+|6|Mercury|Servant|12:00:33|13:02:31|Avoiding any harmful action|
+|7|Moon|Servant|13:02:32|14:04:30|Destroying enemies|
+|8|Saturn|Ruler|14:04:31|15:06:29|Performing all good deeds|
+|9|Jupiter|Servant|15:06:30|16:08:27|Performing evil deeds for the purpose of gaining power and control|
+|10|Mars|Servant|16:08:28|17:10:26|Achieving marital harmony|
+|11|Sun|Servant|17:10:27|18:12:25|Gaining respect and honor|
+|12|Venus|Servant|18:12:26|19:14:24||
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|19:14:25|20:12:22|Works related to amulet, amulet and compliance|
-|2|Moon|Servant|20:12:23|21:10:21|Peace among the people|
-|3|Saturn|Servant|21:10:22|22:08:19|Malicious deeds and evil deeds|
-|4|Jupiter|Servant|22:08:20|23:06:18|Conquest, Judgment and Judgment|
-|5|Mars|Servant|23:06:19|00:04:16|It's auspicious|
-|6|Sun|Servant|00:04:17|01:02:15|Writing, Swapping and Marriage|
-|7|Venus|Servant|01:02:16|02:00:13|For nothing|
-|8|Mercury|Ruler|02:00:14|02:58:12|Destruction of the enemy|
-|9|Moon|Servant|02:58:13|03:56:10|All good deeds|
-|10|Saturn|Servant|03:56:11|04:54:09|Doing evil deeds|
-|11|Jupiter|Servant|04:54:10|05:52:07|Acceptance of correction between couples|
-|12|Mars|Servant|05:52:08|06:50:06|To be honored|
+|1|Mercury|Ruler|19:14:25|20:12:22|Creating peace among people|
+|2|Moon|Servant|20:12:23|21:10:21|Engaging in hateful actions and evil deeds|
+|3|Saturn|Servant|21:10:22|22:08:19|Conquering, judging, and issuing verdicts|
+|4|Jupiter|Servant|22:08:20|23:06:18|Bringing luck and favor|
+|5|Mars|Servant|23:06:19|00:04:16|Writing, exchanging, and signing contracts|
+|6|Sun|Servant|00:04:17|01:02:15|Avoiding any harmful action|
+|7|Venus|Servant|01:02:16|02:00:13|Destroying enemies|
+|8|Mercury|Ruler|02:00:14|02:58:12|Performing all good deeds|
+|9|Moon|Servant|02:58:13|03:56:10|Performing evil deeds for the purpose of gaining power and control|
+|10|Saturn|Servant|03:56:11|04:54:09|Achieving marital harmony|
+|11|Jupiter|Servant|04:54:10|05:52:07|Gaining respect and honor|
+|12|Mars|Servant|05:52:08|06:50:06||
 
  
  

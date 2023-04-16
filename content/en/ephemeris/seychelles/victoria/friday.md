@@ -1,6 +1,6 @@
 ---
-date: 2023-04-14T00:00:00+04:00
-lastmod: 2023-04-14T00:00:00+04:00
+date: 2023-04-21T00:00:00+04:00
+lastmod: 2023-04-21T00:00:00+04:00
 title: Victoria (Friday)
 slug: friday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Friday, 14 Apr 2023
+description: 🗓 Friday, 21 Apr 2023
 
 toc: false
 ---
@@ -22,7 +22,7 @@ Longitude: 55.4550
 \-
 Altitude: -9,999 meters
 
-{{< google-maps-embed height="150" location="Victoria, Seychelles">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Victoria, Seychelles" lat="-4.6200" lng="55.4550" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
-|2|Mercury|Servant|00:00:00|23:59:59|Attracting good faith|
-|3|Moon|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|4|Saturn|Servant|00:00:00|23:59:59|Bad Hour|
-|5|Jupiter|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
-|6|Mars|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
-|7|Sun|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
-|8|Venus|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
-|9|Mercury|Servant|00:00:00|23:59:59|Separation and Displacement|
-|10|Moon|Servant|00:00:00|23:59:59|Extremely ugly|
-|11|Saturn|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
-|12|Jupiter|Servant|00:00:00|23:59:59|It is good and good to ask for help|
+|1|Venus|Ruler|00:00:00|23:59:59|Attracting love and creating emotional attachment|
+|2|Mercury|Servant|00:00:00|23:59:59|Attracting good luck|
+|3|Moon|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
+|4|Saturn|Servant|00:00:00|23:59:59|Being hateful for a certain period of time|
+|5|Jupiter|Servant|00:00:00|23:59:59|Gaining status, position, and attracting happiness in the workplace|
+|6|Mars|Servant|00:00:00|23:59:59|Attracting attention and acceptance from important people|
+|7|Sun|Servant|00:00:00|23:59:59|Advancing and attracting wealth|
+|8|Venus|Ruler|00:00:00|23:59:59|Extremely lucky and achieving ultimate happiness|
+|9|Mercury|Servant|00:00:00|23:59:59|Separating and making someone homeless|
+|10|Moon|Servant|00:00:00|23:59:59|Extremely hateful and causing harm|
+|11|Saturn|Servant|00:00:00|23:59:59|Creating a negative destiny for anyone|
+|12|Jupiter|Servant|00:00:00|23:59:59|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
-|2|Sun|Servant|00:00:00|23:59:59|Attracting good faith|
-|3|Venus|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|4|Mercury|Servant|00:00:00|23:59:59|Bad Hour|
-|5|Moon|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
-|6|Saturn|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
-|7|Jupiter|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
-|8|Mars|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
-|9|Sun|Servant|00:00:00|23:59:59|Separation and Displacement|
-|10|Venus|Servant|00:00:00|23:59:59|Extremely ugly|
-|11|Mercury|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
-|12|Moon|Servant|00:00:00|23:59:59|It is good and good to ask for help|
+|1|Mars|Ruler|00:00:00|23:59:59|Attracting love and creating emotional attachment|
+|2|Sun|Servant|00:00:00|23:59:59|Attracting good luck|
+|3|Venus|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
+|4|Mercury|Servant|00:00:00|23:59:59|Being hateful for a certain period of time|
+|5|Moon|Servant|00:00:00|23:59:59|Gaining status, position, and attracting happiness in the workplace|
+|6|Saturn|Servant|00:00:00|23:59:59|Attracting attention and acceptance from important people|
+|7|Jupiter|Servant|00:00:00|23:59:59|Advancing and attracting wealth|
+|8|Mars|Ruler|00:00:00|23:59:59|Extremely lucky and achieving ultimate happiness|
+|9|Sun|Servant|00:00:00|23:59:59|Separating and making someone homeless|
+|10|Venus|Servant|00:00:00|23:59:59|Extremely hateful and causing harm|
+|11|Mercury|Servant|00:00:00|23:59:59|Creating a negative destiny for anyone|
+|12|Moon|Servant|00:00:00|23:59:59|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
  
@@ -329,10 +329,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub> |<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

@@ -22,7 +22,7 @@ Longitude: 73.3686
 \-
 Altitude: 90 meters
 
-{{< google-maps-embed height="150" location="Omsk, Russian Federation">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Omsk, Russian Federation" lat="54.9924" lng="73.3686" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:59:40|07:10:50|Dawn repulsion, depleted energy absorption|
-|2|Saturn|Servant|07:10:51|08:22:02|The journey of the appearance and the interior|
-|3|Jupiter|Servant|08:22:03|09:33:14|Marriage is a good marriage|
-|4|Mars|Servant|09:33:15|10:44:25|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Sun|Servant|10:44:26|11:55:37|Defecation, attracting love and wealth|
-|6|Venus|Servant|11:55:38|13:06:49|Summoning the desired person, love and conquest|
-|7|Mercury|Servant|13:06:50|14:18:00|Aqdalsan|
-|8|Moon|Ruler|14:18:01|15:29:12|Correction of two people, attraction of love|
-|9|Saturn|Servant|15:29:13|16:40:24|Attracting and repelling the enemy and separating|
-|10|Jupiter|Servant|16:40:25|17:51:35|It is good for every action|
-|11|Mars|Servant|17:51:36|19:02:47|Creating Enmity and Negative Energy|
-|12|Sun|Servant|19:02:48|20:13:59|Heart Compassion|
+|1|Moon|Ruler|05:59:40|07:10:50|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|07:10:51|08:22:02|Traveling inward and outward|
+|3|Jupiter|Servant|08:22:03|09:33:14|Marriage bond is favorable|
+|4|Mars|Servant|09:33:15|10:44:25|Eliminating and destroying enemies and releasing their energy|
+|5|Sun|Servant|10:44:26|11:55:37|Granting wishes, attracting love and wealth|
+|6|Venus|Servant|11:55:38|13:06:49|Summoning the desired person, creating love and domination|
+|7|Mercury|Servant|13:06:50|14:18:00|Mutual agreement|
+|8|Moon|Ruler|14:18:01|15:29:12|Reconciling two individuals, attracting love|
+|9|Saturn|Servant|15:29:13|16:40:24|Attracting and repelling enemies, and separating them|
+|10|Jupiter|Servant|16:40:25|17:51:35|Favorable for any good deed|
+|11|Mars|Servant|17:51:36|19:02:47|Creating enmity and negative energy|
+|12|Sun|Servant|19:02:48|20:13:59|Showing kindness and affection|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|20:14:00|21:02:35|Dawn repulsion, depleted energy absorption|
-|2|Mercury|Servant|21:02:36|21:51:11|The journey of the appearance and the interior|
-|3|Moon|Servant|21:51:12|22:39:48|Marriage is a good marriage|
-|4|Saturn|Servant|22:39:49|23:28:24|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Jupiter|Servant|23:28:25|00:17:00|Defecation, attracting love and wealth|
-|6|Mars|Servant|00:17:01|01:05:37|Summoning the desired person, love and conquest|
-|7|Sun|Servant|01:05:38|01:54:13|Aqdalsan|
-|8|Venus|Ruler|01:54:14|02:42:49|Correction of two people, attraction of love|
-|9|Mercury|Servant|02:42:50|03:31:26|Attracting and repelling the enemy and separating|
-|10|Moon|Servant|03:31:27|04:20:02|It is good for every action|
-|11|Saturn|Servant|04:20:03|05:08:38|Creating Enmity and Negative Energy|
-|12|Jupiter|Servant|05:08:39|05:57:15|Heart Compassion|
+|1|Venus|Ruler|20:14:00|21:02:35|Repelling sorcery and attracting discharged energy|
+|2|Mercury|Servant|21:02:36|21:51:11|Traveling inward and outward|
+|3|Moon|Servant|21:51:12|22:39:48|Marriage bond is favorable|
+|4|Saturn|Servant|22:39:49|23:28:24|Eliminating and destroying enemies and releasing their energy|
+|5|Jupiter|Servant|23:28:25|00:17:00|Granting wishes, attracting love and wealth|
+|6|Mars|Servant|00:17:01|01:05:37|Summoning the desired person, creating love and domination|
+|7|Sun|Servant|01:05:38|01:54:13|Mutual agreement|
+|8|Venus|Ruler|01:54:14|02:42:49|Reconciling two individuals, attracting love|
+|9|Mercury|Servant|02:42:50|03:31:26|Attracting and repelling enemies, and separating them|
+|10|Moon|Servant|03:31:27|04:20:02|Favorable for any good deed|
+|11|Saturn|Servant|04:20:03|05:08:38|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:08:39|05:57:15|Showing kindness and affection|
 
  
  
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°16'17.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|22°58'44.43" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°26'23.24" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|26°43'52.10" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|6°43'59.59" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°39'42.27" |Aries|Butain|Sun|
-|☾ Moon|Direct|15°10'26.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|4°16'17.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|22°58'44.42" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°26'23.27" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|26°43'52.11" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|6°43'59.60" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°39'42.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°10'27.66" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°16'17.51" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|22°58'44.43" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°26'23.24" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|26°43'52.10" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|6°43'59.59" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°39'42.27" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°10'26.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|4°16'17.45" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|22°58'44.42" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°26'23.27" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|26°43'52.11" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|6°43'59.60" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°39'42.28" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|15°10'27.66" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

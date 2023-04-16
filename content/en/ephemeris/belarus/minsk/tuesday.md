@@ -22,7 +22,7 @@ Longitude: 27.5667
 \-
 Altitude: 222 meters
 
-{{< google-maps-embed height="150" location="Minsk, Belarus">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Minsk, Belarus" lat="53.9000" lng="27.5667" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:02:57|07:14:04|Creating corruption, hatred and enmity|
-|2|Sun|Servant|07:14:05|08:25:12|Absorption of badness, nothing to do|
-|3|Venus|Servant|08:25:13|09:36:20|Attracting relationship and courtship|
-|4|Mercury|Servant|09:36:21|10:47:28|Attracting material things and earning a living and prosperity|
-|5|Moon|Servant|10:47:29|11:58:36|Absorption of body, nothing to do|
-|6|Saturn|Servant|11:58:37|13:09:44|Disposal of negative energy of sore eyes|
-|7|Jupiter|Servant|13:09:45|14:20:52|Attracting love and affection and attracting hearts|
-|8|Mars|Ruler|14:20:53|15:32:00|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Sun|Servant|15:32:01|16:43:08|Heart Compassion|
-|10|Venus|Servant|16:43:09|17:54:16|Absorption of badness, nothing to do|
-|11|Mercury|Servant|17:54:17|19:05:24|Attracting bonds and courtship|
-|12|Moon|Servant|19:05:25|20:16:32|Hatred and corruption and creating negative energy to disrupt|
+|1|Mars|Ruler|06:02:57|07:14:04|Creating corruption, hatred, and enmity|
+|2|Sun|Servant|07:14:05|08:25:12|Attracting negativity, and avoiding any harmful action|
+|3|Venus|Servant|08:25:13|09:36:20|Attracting connection and marriage proposals|
+|4|Mercury|Servant|09:36:21|10:47:28|Attracting material wealth, prosperity, and business growth|
+|5|Moon|Servant|10:47:29|11:58:36|Attracting negativity and creating chaos|
+|6|Saturn|Servant|11:58:37|13:09:44|Removing negative energy caused by the evil eye|
+|7|Jupiter|Servant|13:09:45|14:20:52|Attracting love, affection, and winning hearts|
+|8|Mars|Ruler|14:20:53|15:32:00|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Sun|Servant|15:32:01|16:43:08|Creating emotional attachment|
+|10|Venus|Servant|16:43:09|17:54:16|Attracting negativity, and avoiding any harmful action|
+|11|Mercury|Servant|17:54:17|19:05:24|Attracting connection and marriage proposals|
+|12|Moon|Servant|19:05:25|20:16:32|Creating hatred and corruption to disrupt harmony|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|20:16:33|21:05:12|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|21:05:13|21:53:53|Absorption of badness, nothing to do|
-|3|Mars|Servant|21:53:54|22:42:33|Attracting relationship and courtship|
-|4|Sun|Servant|22:42:34|23:31:14|Attracting material things and earning a living and prosperity|
-|5|Venus|Servant|23:31:15|00:19:54|Absorption of body, nothing to do|
-|6|Mercury|Servant|00:19:55|01:08:35|Disposal of negative energy of sore eyes|
-|7|Moon|Servant|01:08:36|01:57:16|Attracting love and affection and attracting hearts|
-|8|Saturn|Ruler|01:57:17|02:45:56|Creating corruption and destroying the enemy and making the enemy sick|
-|9|Jupiter|Servant|02:45:57|03:34:37|Heart Compassion|
-|10|Mars|Servant|03:34:38|04:23:17|Absorption of badness, nothing to do|
-|11|Sun|Servant|04:23:18|05:11:58|Attracting bonds and courtship|
-|12|Venus|Servant|05:11:59|06:00:39|Hatred and corruption and creating negative energy to disrupt|
+|1|Saturn|Ruler|20:16:33|21:05:12|Creating corruption, hatred, and enmity|
+|2|Jupiter|Servant|21:05:13|21:53:53|Attracting negativity, and avoiding any harmful action|
+|3|Mars|Servant|21:53:54|22:42:33|Attracting connection and marriage proposals|
+|4|Sun|Servant|22:42:34|23:31:14|Attracting material wealth, prosperity, and business growth|
+|5|Venus|Servant|23:31:15|00:19:54|Attracting negativity and creating chaos|
+|6|Mercury|Servant|00:19:55|01:08:35|Removing negative energy caused by the evil eye|
+|7|Moon|Servant|01:08:36|01:57:16|Attracting love, affection, and winning hearts|
+|8|Saturn|Ruler|01:57:17|02:45:56|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Jupiter|Servant|02:45:57|03:34:37|Creating emotional attachment|
+|10|Mars|Servant|03:34:38|04:23:17|Attracting negativity, and avoiding any harmful action|
+|11|Sun|Servant|04:23:18|05:11:58|Attracting connection and marriage proposals|
+|12|Venus|Servant|05:11:59|06:00:39|Creating hatred and corruption to disrupt harmony|
 
  
  
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°22'15.71" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°15'2.29" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°2'14.86" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°22'15.64" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°15'2.28" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°2'14.88" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°50'3.35" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°2'1.97" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Pre-Retrograde Shadow|15°5'52.17" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°20'18.93" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°20'19.69" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°22'15.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°15'2.29" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°2'14.86" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|4°22'15.64" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°15'2.28" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°2'14.88" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|27°50'3.35" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|8°2'1.97" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Pre-Retrograde Shadow|15°5'52.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°20'18.93" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°20'19.69" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

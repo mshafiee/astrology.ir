@@ -1,6 +1,6 @@
 ---
-date: 2023-04-14T00:00:00-04:00
-lastmod: 2023-04-14T00:00:00-04:00
+date: 2023-04-16T00:00:00-04:00
+lastmod: 2023-04-16T00:00:00-04:00
 title: Basse-Terre
 slug: basse_terre
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - Basse-Terre
-description: 🗓 Friday, 14 Apr 2023
+description: 🗓 Sunday, 16 Apr 2023
 
 toc: false
 ---
@@ -22,7 +22,7 @@ Longitude: -61.7321
 \-
 Altitude: -9,999 meters
 
-{{< google-maps-embed height="150" location="Basse-Terre, Guadeloupe">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Basse-Terre, Guadeloupe" lat="15.9971" lng="-61.7321" zoom="12">}}
 
 
 ## Sharia Times
@@ -203,41 +203,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Venus|The ruler of the night: Mars|
+|The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
-|2|Mercury|Servant|00:00:00|23:59:59|Attracting good faith|
-|3|Moon|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|4|Saturn|Servant|00:00:00|23:59:59|Bad Hour|
-|5|Jupiter|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
-|6|Mars|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
-|7|Sun|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
-|8|Venus|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
-|9|Mercury|Servant|00:00:00|23:59:59|Separation and Displacement|
-|10|Moon|Servant|00:00:00|23:59:59|Extremely ugly|
-|11|Saturn|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
-|12|Jupiter|Servant|00:00:00|23:59:59|It is good and good to ask for help|
+|1|Sun|Ruler|00:00:00|23:59:59|Attracting love and gaining financial capital|
+|2|Venus|Servant|00:00:00|23:59:59|Hateful actions, and avoiding any beneficial action|
+|3|Mercury|Servant|00:00:00|23:59:59|Creating emotional attachment and love|
+|4|Moon|Servant|00:00:00|23:59:59|Being hateful and rejecting kindness|
+|5|Saturn|Servant|00:00:00|23:59:59|Separation and engaging in hateful and vengeful actions|
+|6|Jupiter|Servant|00:00:00|23:59:59|Performing all good deeds for a beneficial outcome|
+|7|Mars|Servant|00:00:00|23:59:59|Avoiding any action that may lead to disaster|
+|8|Sun|Ruler|00:00:00|23:59:59|Extremely lucky and attracting good fortune|
+|9|Venus|Servant|00:00:00|23:59:59|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Mercury|Servant|00:00:00|23:59:59|Attracting happiness and resolving financial problems|
+|11|Moon|Servant|00:00:00|23:59:59|Signing contracts|
+|12|Saturn|Servant|00:00:00|23:59:59|Uncovering fugitives and finding thieves|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|00:00:00|23:59:59|Love and creating love and attracting hearts|
-|2|Sun|Servant|00:00:00|23:59:59|Attracting good faith|
-|3|Venus|Servant|00:00:00|23:59:59|Absorption of badness, nothing to do|
-|4|Mercury|Servant|00:00:00|23:59:59|Bad Hour|
-|5|Moon|Servant|00:00:00|23:59:59|Gaining status and attracting happiness in work|
-|6|Saturn|Servant|00:00:00|23:59:59|Creating attraction and acceptance among the elders|
-|7|Jupiter|Servant|00:00:00|23:59:59|Promotion and attraction of wealth|
-|8|Mars|Ruler|00:00:00|23:59:59|Happy Yemen and ultimate bliss and happiness|
-|9|Sun|Servant|00:00:00|23:59:59|Separation and Displacement|
-|10|Venus|Servant|00:00:00|23:59:59|Extremely ugly|
-|11|Mercury|Servant|00:00:00|23:59:59|Creating a bad omen for every person|
-|12|Moon|Servant|00:00:00|23:59:59|It is good and good to ask for help|
+|1|Jupiter|Ruler|00:00:00|23:59:59|Attracting love and gaining financial capital|
+|2|Mars|Servant|00:00:00|23:59:59|Hateful actions, and avoiding any beneficial action|
+|3|Sun|Servant|00:00:00|23:59:59|Creating emotional attachment and love|
+|4|Venus|Servant|00:00:00|23:59:59|Being hateful and rejecting kindness|
+|5|Mercury|Servant|00:00:00|23:59:59|Separation and engaging in hateful and vengeful actions|
+|6|Moon|Servant|00:00:00|23:59:59|Performing all good deeds for a beneficial outcome|
+|7|Saturn|Servant|00:00:00|23:59:59|Avoiding any action that may lead to disaster|
+|8|Jupiter|Ruler|00:00:00|23:59:59|Extremely lucky and attracting good fortune|
+|9|Mars|Servant|00:00:00|23:59:59|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|00:00:00|23:59:59|Attracting happiness and resolving financial problems|
+|11|Venus|Servant|00:00:00|23:59:59|Signing contracts|
+|12|Mercury|Servant|00:00:00|23:59:59|Uncovering fugitives and finding thieves|
 
  
  
@@ -249,7 +249,7 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Venus|The ruler of the night: Mars|
+|The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour duration: 00:00:00|Every hour duration: 00:00:00|
 
@@ -258,24 +258,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|00:00:00|23:59:59|
-|Mid-morning|Mercury|Servant|00:00:00|23:59:59|
-|Late morning|Moon|Servant|00:00:00|23:59:59|
-|Noon|Saturn|Servant|00:00:00|23:59:59|
-|Early afternoon|Jupiter|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Mars|Servant|00:00:00|23:59:59|
-|Late afternoon|Sun|Servant|00:00:00|23:59:59|
+|Early morning|Sun|Ruler|00:00:00|23:59:59|
+|Mid-morning|Venus|Servant|00:00:00|23:59:59|
+|Late morning|Mercury|Servant|00:00:00|23:59:59|
+|Noon|Moon|Servant|00:00:00|23:59:59|
+|Early afternoon|Saturn|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Jupiter|Servant|00:00:00|23:59:59|
+|Late afternoon|Mars|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|00:00:00|23:59:59|
-|Late evening|Sun|Servant|00:00:00|23:59:59|
-|Midnight|Venus|Servant|00:00:00|23:59:59|
-|Late at night|Mercury|Servant|00:00:00|23:59:59|
-|Rooster song|Moon|Servant|00:00:00|23:59:59|
-|False Dawn|Saturn|Servant|00:00:00|23:59:59|
-|Dawn|Jupiter|Servant|00:00:00|23:59:59|
+|Evening|Jupiter|Ruler|00:00:00|23:59:59|
+|Late evening|Mars|Servant|00:00:00|23:59:59|
+|Midnight|Sun|Servant|00:00:00|23:59:59|
+|Late at night|Venus|Servant|00:00:00|23:59:59|
+|Rooster song|Mercury|Servant|00:00:00|23:59:59|
+|False Dawn|Moon|Servant|00:00:00|23:59:59|
+|Dawn|Saturn|Servant|00:00:00|23:59:59|
 
 {{< /tab >}}
 
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르

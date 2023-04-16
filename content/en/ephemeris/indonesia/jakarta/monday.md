@@ -22,7 +22,7 @@ Longitude: 106.8451
 \-
 Altitude: 16 meters
 
-{{< google-maps-embed height="150" location="Jakarta, Indonesia">}}
+{{< osm-maps-embed width="100%" height="300px" attribution="Jakarta, Indonesia" lat="-6.2146" lng="106.8451" zoom="12">}}
 
 
 ## Sharia Times
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:53:19|06:53:07|Dawn repulsion, depleted energy absorption|
-|2|Saturn|Servant|06:53:08|07:52:57|The journey of the appearance and the interior|
-|3|Jupiter|Servant|07:52:58|08:52:46|Marriage is a good marriage|
-|4|Mars|Servant|08:52:47|09:52:36|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Sun|Servant|09:52:37|10:52:25|Defecation, attracting love and wealth|
-|6|Venus|Servant|10:52:26|11:52:15|Summoning the desired person, love and conquest|
-|7|Mercury|Servant|11:52:16|12:52:04|Aqdalsan|
-|8|Moon|Ruler|12:52:05|13:51:54|Correction of two people, attraction of love|
-|9|Saturn|Servant|13:51:55|14:51:43|Attracting and repelling the enemy and separating|
-|10|Jupiter|Servant|14:51:44|15:51:33|It is good for every action|
-|11|Mars|Servant|15:51:34|16:51:22|Creating Enmity and Negative Energy|
-|12|Sun|Servant|16:51:23|17:51:12|Heart Compassion|
+|1|Moon|Ruler|05:53:19|06:53:07|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|06:53:08|07:52:57|Traveling inward and outward|
+|3|Jupiter|Servant|07:52:58|08:52:46|Marriage bond is favorable|
+|4|Mars|Servant|08:52:47|09:52:36|Eliminating and destroying enemies and releasing their energy|
+|5|Sun|Servant|09:52:37|10:52:25|Granting wishes, attracting love and wealth|
+|6|Venus|Servant|10:52:26|11:52:15|Summoning the desired person, creating love and domination|
+|7|Mercury|Servant|11:52:16|12:52:04|Mutual agreement|
+|8|Moon|Ruler|12:52:05|13:51:54|Reconciling two individuals, attracting love|
+|9|Saturn|Servant|13:51:55|14:51:43|Attracting and repelling enemies, and separating them|
+|10|Jupiter|Servant|14:51:44|15:51:33|Favorable for any good deed|
+|11|Mars|Servant|15:51:34|16:51:22|Creating enmity and negative energy|
+|12|Sun|Servant|16:51:23|17:51:12|Showing kindness and affection|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|17:51:13|18:51:22|Dawn repulsion, depleted energy absorption|
-|2|Mercury|Servant|18:51:23|19:51:32|The journey of the appearance and the interior|
-|3|Moon|Servant|19:51:33|20:51:42|Marriage is a good marriage|
-|4|Saturn|Servant|20:51:43|21:51:52|Repelling and destroying the enemy and draining the energy of the enemy|
-|5|Jupiter|Servant|21:51:53|22:52:02|Defecation, attracting love and wealth|
-|6|Mars|Servant|22:52:03|23:52:13|Summoning the desired person, love and conquest|
-|7|Sun|Servant|23:52:14|00:52:23|Aqdalsan|
-|8|Venus|Ruler|00:52:24|01:52:33|Correction of two people, attraction of love|
-|9|Mercury|Servant|01:52:34|02:52:43|Attracting and repelling the enemy and separating|
-|10|Moon|Servant|02:52:44|03:52:53|It is good for every action|
-|11|Saturn|Servant|03:52:54|04:53:03|Creating Enmity and Negative Energy|
-|12|Jupiter|Servant|04:53:04|05:53:14|Heart Compassion|
+|1|Venus|Ruler|17:51:13|18:51:22|Repelling sorcery and attracting discharged energy|
+|2|Mercury|Servant|18:51:23|19:51:32|Traveling inward and outward|
+|3|Moon|Servant|19:51:33|20:51:42|Marriage bond is favorable|
+|4|Saturn|Servant|20:51:43|21:51:52|Eliminating and destroying enemies and releasing their energy|
+|5|Jupiter|Servant|21:51:53|22:52:02|Granting wishes, attracting love and wealth|
+|6|Mars|Servant|22:52:03|23:52:13|Summoning the desired person, creating love and domination|
+|7|Sun|Servant|23:52:14|00:52:23|Mutual agreement|
+|8|Venus|Ruler|00:52:24|01:52:33|Reconciling two individuals, attracting love|
+|9|Mercury|Servant|01:52:34|02:52:43|Attracting and repelling enemies, and separating them|
+|10|Moon|Servant|02:52:44|03:52:53|Favorable for any good deed|
+|11|Saturn|Servant|03:52:54|04:53:03|Creating enmity and negative energy|
+|12|Jupiter|Servant|04:53:04|05:53:14|Showing kindness and affection|
 
  
  
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°16'3.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|22°58'5.60" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°24'56.43" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|26°41'16.37" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°16'3.22" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|22°58'5.59" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°24'56.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|26°41'16.38" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|6°40'52.63" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°38'36.27" |Aries|Butain|Sun|
-|☾ Moon|Direct|15°4'16.29" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°38'36.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°4'17.27" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°16'3.29" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|22°58'5.60" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°24'56.43" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|26°41'16.37" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°16'3.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|22°58'5.59" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°24'56.45" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|26°41'16.38" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|6°40'52.63" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°38'36.27" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°4'16.29" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°38'36.28" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|15°4'17.27" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
