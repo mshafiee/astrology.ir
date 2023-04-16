@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+03:30
 lastmod: 2023-04-18T00:00:00+03:30
-title: دره‌شهر (سه‌شنبه)
+title: دره (سه‌شنبه)
 slug: tuesday
 categories:
   - گاهشمار اختری
@@ -9,7 +9,7 @@ tags:
   - گاهشمار اختری
   - تقویم نجومی
   - ایران
-  - دره‌شهر
+  - دره
 description: 🗓 سه‌شنبه ۲۹ فروردین ۱۴۰۲ - ۲۰۲۳/۰۴/۱۸
 
 toc: false
@@ -378,6 +378,6 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☾ ماه**|☌ مقارنه| |△ تثلیث| |□ تربیع|✱ تسدیس|
 
 ---
-نام‌های دیگر: Dareh sahr, Darre Szahr, Darreh Shahr, Darreh-ye Shahr, Darrehshahr, Darreshekhr, Deresehr, Dereşehr, Dərəşəhr, Madakto, drh shhr, Даррашаҳр, Даррешехр, Դարեհ շահր, دره شهر, دره‌شهر, دەڕەشار, شهرستان دره‌شهر
+نام‌های دیگر: Dareh sahr, Darre Szahr, Darreh Shahr, Darreh-ye Shahr, Darrehshahr, Darreshekhr, Deresehr, Dereşehr, Dərəşəhr, Madakto, drh shhr, Даррашаҳр, Даррешехр, Դարեհ շահր, دره شهر, دره
 
 ---
