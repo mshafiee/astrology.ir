@@ -50,14 +50,14 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:36:29 |
+| Dawn | 04:36:28 |
 | Sunrise | 05:50:15 |
 | Dhuhr | 12:06:57 |
 | Medium Coeli | 12:06:57 |
 | Sunset | 18:23:53 |
-| Maghrib | 18:40:32 |
+| Maghrib | 18:40:31 |
 | Isha | 19:21:35 |
-| Sharia Midnight | 23:29:47 |
+| Sharia Midnight | 23:29:46 |
 | Imum Coeli | 00:06:50 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:06:57 |
 | Sunset | 18:23:53 |
 | Maghrib | 18:24:50 |
-| Isha | 19:39:06 |
+| Isha | 19:39:05 |
 | Sharia Midnight | 23:29:07 |
 | Imum Coeli | 00:06:50 |
 {{< /tab >}}
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♓ Pisces|04:26:31|06:03:32|
+|♓ Pisces|04:26:30|06:03:32|
 |♈ Aries|06:03:33|07:51:15|
 |♉ Taurus|07:51:16|09:54:54|
 |♊ Gemini|09:54:55|12:08:00|
-|♋ Cancer|12:08:01|14:18:54|
-|♌ Leo|14:18:55|16:24:32|
+|♋ Cancer|12:08:01|14:18:53|
+|♌ Leo|14:18:54|16:24:32|
 |♍ Virgo|16:24:33|18:30:10|
 |♎ Libra|18:30:11|20:41:04|
-|♏ Scorpio|20:41:05|22:54:10|
-|♐ Sagittarius|22:54:11|00:57:49|
-|♑ Capricorn|00:57:50|02:45:32|
-|♒ Aquarius|02:45:33|04:22:34|
+|♏ Scorpio|20:41:05|22:54:09|
+|♐ Sagittarius|22:54:10|00:57:48|
+|♑ Capricorn|00:57:49|02:45:31|
+|♒ Aquarius|02:45:32|04:22:34|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♈ Aries|04:26:31|06:03:32|
+|♈ Aries|04:26:30|06:03:32|
 |♉ Taurus|06:03:33|07:51:15|
 |♊ Gemini|07:51:16|09:54:54|
 |♋ Cancer|09:54:55|12:08:00|
-|♌ Leo|12:08:01|14:18:54|
-|♍ Virgo|14:18:55|16:24:32|
+|♌ Leo|12:08:01|14:18:53|
+|♍ Virgo|14:18:54|16:24:32|
 |♎ Libra|16:24:33|18:30:10|
 |♏ Scorpio|18:30:11|20:41:04|
-|♐ Sagittarius|20:41:05|22:54:10|
-|♑ Capricorn|22:54:11|00:57:49|
-|♒ Aquarius|00:57:50|02:45:32|
-|♓ Pisces|02:45:33|04:22:34|
+|♐ Sagittarius|20:41:05|22:54:09|
+|♑ Capricorn|22:54:10|00:57:48|
+|♒ Aquarius|00:57:49|02:45:31|
+|♓ Pisces|02:45:32|04:22:34|
 
 
 {{< /tab >}}
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°18'28.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°4'41.11" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°39'25.90" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|27°8'2.12" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|7°12'27.68" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°50'15.00" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°31'31.23" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|23°4'41.10" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°39'25.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|27°8'2.10" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|7°12'27.65" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°50'14.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°31'30.94" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°18'28.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°4'41.11" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°39'25.90" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|27°8'2.12" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|7°12'27.68" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°50'15.00" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°31'31.23" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°4'41.10" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°39'25.89" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|27°8'2.10" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|7°12'27.65" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°50'14.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°31'30.94" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

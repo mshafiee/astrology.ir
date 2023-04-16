@@ -36,13 +36,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Dawn | 04:21:02 |
 | Sunrise | 05:43:01 |
-| Dhuhr | 12:18:58 |
-| Medium Coeli | 12:18:58 |
+| Dhuhr | 12:18:57 |
+| Medium Coeli | 12:18:57 |
 | Sunset | 18:55:30 |
 | Maghrib | 19:13:04 |
 | Isha | 20:06:38 |
 | Sharia Midnight | 23:37:28 |
-| Imum Coeli | 00:18:51 |
+| Imum Coeli | 00:18:50 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -50,15 +50,15 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:11:27 |
+| Dawn | 04:11:26 |
 | Sunrise | 05:43:01 |
-| Dhuhr | 12:18:58 |
-| Medium Coeli | 12:18:58 |
+| Dhuhr | 12:18:57 |
+| Medium Coeli | 12:18:57 |
 | Sunset | 18:55:30 |
 | Maghrib | 19:15:41 |
 | Isha | 20:06:38 |
 | Sharia Midnight | 23:32:39 |
-| Imum Coeli | 00:18:51 |
+| Imum Coeli | 00:18:50 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -68,13 +68,13 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Dawn | 04:09:44 |
 | Sunrise | 05:43:01 |
-| Dhuhr | 12:18:58 |
-| Medium Coeli | 12:18:58 |
+| Dhuhr | 12:18:57 |
+| Medium Coeli | 12:18:57 |
 | Sunset | 18:55:30 |
 | Maghrib | 18:56:39 |
 | Isha | 20:23:26 |
 | Sharia Midnight | 23:31:48 |
-| Imum Coeli | 00:18:51 |
+| Imum Coeli | 00:18:50 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -84,13 +84,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 04:26:36 |
 | Sunrise | 05:43:01 |
-| Dhuhr | 12:18:58 |
-| Medium Coeli | 12:18:58 |
+| Dhuhr | 12:18:57 |
+| Medium Coeli | 12:18:57 |
 | Sunset | 18:55:30 |
 | Maghrib | 18:56:39 |
 | Isha | 20:12:11 |
 | Sharia Midnight | 23:40:16 |
-| Imum Coeli | 00:18:51 |
+| Imum Coeli | 00:18:50 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -100,13 +100,13 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 04:01:07 |
 | Sunrise | 05:43:01 |
-| Dhuhr | 12:18:58 |
-| Medium Coeli | 12:18:58 |
+| Dhuhr | 12:18:57 |
+| Medium Coeli | 12:18:57 |
 | Sunset | 18:55:30 |
 | Maghrib | 18:56:39 |
-| Isha | 20:26:17 |
+| Isha | 20:26:16 |
 | Sharia Midnight | 23:27:28 |
-| Imum Coeli | 00:18:51 |
+| Imum Coeli | 00:18:50 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -116,13 +116,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Dawn | 04:09:44 |
 | Sunrise | 05:43:01 |
-| Dhuhr | 12:18:58 |
-| Medium Coeli | 12:18:58 |
+| Dhuhr | 12:18:57 |
+| Medium Coeli | 12:18:57 |
 | Sunset | 18:55:30 |
 | Maghrib | 18:56:39 |
 | Isha | 20:29:08 |
 | Sharia Midnight | 23:31:48 |
-| Imum Coeli | 00:18:51 |
+| Imum Coeli | 00:18:50 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -130,15 +130,15 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:06:53 |
+| Dawn | 04:06:52 |
 | Sunrise | 05:43:01 |
-| Dhuhr | 12:18:58 |
-| Medium Coeli | 12:18:58 |
+| Dhuhr | 12:18:57 |
+| Medium Coeli | 12:18:57 |
 | Sunset | 18:55:30 |
 | Maghrib | 18:56:39 |
 | Isha | 20:26:39 |
-| Sharia Midnight | 23:30:22 |
-| Imum Coeli | 00:18:51 |
+| Sharia Midnight | 23:30:21 |
+| Imum Coeli | 00:18:50 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -153,16 +153,16 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♓ Pisces|04:39:16|05:55:44|
-|♈ Aries|05:55:45|07:26:18|
-|♉ Taurus|07:26:19|09:22:43|
+|♓ Pisces|04:39:16|05:55:43|
+|♈ Aries|05:55:44|07:26:17|
+|♉ Taurus|07:26:18|09:22:43|
 |♊ Gemini|09:22:44|11:43:02|
 |♋ Cancer|11:43:03|14:11:05|
 |♌ Leo|14:11:06|16:37:17|
-|♍ Virgo|16:37:18|19:03:29|
-|♎ Libra|19:03:30|21:31:32|
-|♏ Scorpio|21:31:33|23:51:51|
-|♐ Sagittarius|23:51:52|01:48:16|
+|♍ Virgo|16:37:18|19:03:28|
+|♎ Libra|19:03:29|21:31:31|
+|♏ Scorpio|21:31:32|23:51:50|
+|♐ Sagittarius|23:51:51|01:48:16|
 |♑ Capricorn|01:48:17|03:18:50|
 |♒ Aquarius|03:18:51|04:35:19|
 
@@ -175,16 +175,16 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♈ Aries|04:39:16|05:55:44|
-|♉ Taurus|05:55:45|07:26:18|
-|♊ Gemini|07:26:19|09:22:43|
+|♈ Aries|04:39:16|05:55:43|
+|♉ Taurus|05:55:44|07:26:17|
+|♊ Gemini|07:26:18|09:22:43|
 |♋ Cancer|09:22:44|11:43:02|
 |♌ Leo|11:43:03|14:11:05|
 |♍ Virgo|14:11:06|16:37:17|
-|♎ Libra|16:37:18|19:03:29|
-|♏ Scorpio|19:03:30|21:31:32|
-|♐ Sagittarius|21:31:33|23:51:51|
-|♑ Capricorn|23:51:52|01:48:16|
+|♎ Libra|16:37:18|19:03:28|
+|♏ Scorpio|19:03:29|21:31:31|
+|♐ Sagittarius|21:31:32|23:51:50|
+|♑ Capricorn|23:51:51|01:48:16|
 |♒ Aquarius|01:48:17|03:18:50|
 |♓ Pisces|03:18:51|04:35:19|
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°17'20.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°1'35.61" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°32'38.67" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|26°55'28.12" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|6°57'39.45" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°44'54.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°14'25.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|23°1'35.60" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°32'38.66" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|26°55'28.10" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|6°57'39.42" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°44'54.07" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°14'25.63" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°17'20.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°1'35.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°32'38.67" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|26°55'28.12" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|6°57'39.45" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°44'54.08" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°14'25.91" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|23°1'35.60" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°32'38.66" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|26°55'28.10" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|6°57'39.42" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°44'54.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°14'25.63" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

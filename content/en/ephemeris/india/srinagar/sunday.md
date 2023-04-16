@@ -39,8 +39,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 12:30:40 |
 | Medium Coeli | 12:30:40 |
 | Sunset | 19:02:12 |
-| Maghrib | 19:19:40 |
-| Isha | 20:10:51 |
+| Maghrib | 19:19:39 |
+| Isha | 20:10:50 |
 | Sharia Midnight | 23:50:44 |
 | Imum Coeli | 00:30:33 |
 {{< /tab >}}
@@ -50,14 +50,14 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:31:39 |
+| Dawn | 04:31:38 |
 | Sunrise | 05:59:41 |
 | Dhuhr | 12:30:40 |
 | Medium Coeli | 12:30:40 |
 | Sunset | 19:02:12 |
 | Maghrib | 19:22:10 |
-| Isha | 20:10:51 |
-| Sharia Midnight | 23:46:11 |
+| Isha | 20:10:50 |
+| Sharia Midnight | 23:46:10 |
 | Imum Coeli | 00:30:33 |
 {{< /tab >}}
 
@@ -98,7 +98,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:21:55 |
+| Dawn | 04:21:54 |
 | Sunrise | 05:59:41 |
 | Dhuhr | 12:30:40 |
 | Medium Coeli | 12:30:40 |
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♓ Pisces|04:55:21|06:15:11|
-|♈ Aries|06:15:12|07:48:37|
-|♉ Taurus|07:48:38|09:46:18|
-|♊ Gemini|09:46:19|12:05:22|
+|♓ Pisces|04:55:20|06:15:10|
+|♈ Aries|06:15:11|07:48:37|
+|♉ Taurus|07:48:38|09:46:17|
+|♊ Gemini|09:46:18|12:05:22|
 |♋ Cancer|12:05:23|14:30:32|
-|♌ Leo|14:30:33|16:53:22|
-|♍ Virgo|16:53:23|19:16:11|
+|♌ Leo|14:30:33|16:53:21|
+|♍ Virgo|16:53:22|19:16:11|
 |♎ Libra|19:16:12|21:41:21|
-|♏ Scorpio|21:41:22|00:00:26|
-|♐ Sagittarius|00:00:27|01:58:06|
-|♑ Capricorn|01:58:07|03:31:33|
-|♒ Aquarius|03:31:34|04:51:24|
+|♏ Scorpio|21:41:22|00:00:25|
+|♐ Sagittarius|00:00:26|01:58:06|
+|♑ Capricorn|01:58:07|03:31:32|
+|♒ Aquarius|03:31:33|04:51:23|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♈ Aries|04:55:21|06:15:11|
-|♉ Taurus|06:15:12|07:48:37|
-|♊ Gemini|07:48:38|09:46:18|
-|♋ Cancer|09:46:19|12:05:22|
+|♈ Aries|04:55:20|06:15:10|
+|♉ Taurus|06:15:11|07:48:37|
+|♊ Gemini|07:48:38|09:46:17|
+|♋ Cancer|09:46:18|12:05:22|
 |♌ Leo|12:05:23|14:30:32|
-|♍ Virgo|14:30:33|16:53:22|
-|♎ Libra|16:53:23|19:16:11|
+|♍ Virgo|14:30:33|16:53:21|
+|♎ Libra|16:53:22|19:16:11|
 |♏ Scorpio|19:16:12|21:41:21|
-|♐ Sagittarius|21:41:22|00:00:26|
-|♑ Capricorn|00:00:27|01:58:06|
-|♒ Aquarius|01:58:07|03:31:33|
-|♓ Pisces|03:31:34|04:51:24|
+|♐ Sagittarius|21:41:22|00:00:25|
+|♑ Capricorn|00:00:26|01:58:06|
+|♒ Aquarius|01:58:07|03:31:32|
+|♓ Pisces|03:31:33|04:51:23|
 
 
 {{< /tab >}}
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°11'2.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|22°44'35.12" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|10°55'20.93" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|25°46'24.04" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|5°36'6.98" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°10'34.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°15'46.94" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|22°44'35.11" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|10°55'20.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|25°46'24.02" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|5°36'6.96" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°10'34.49" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°15'46.66" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°11'2.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|22°44'35.12" |Aries|Butain|Venus|
-|♂ Mars|Direct|10°55'20.93" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|25°46'24.04" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|5°36'6.98" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°10'34.50" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°15'46.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|22°44'35.11" |Aries|Butain|Venus|
+|♂ Mars|Direct|10°55'20.92" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|25°46'24.02" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|5°36'6.96" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°10'34.49" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°15'46.66" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

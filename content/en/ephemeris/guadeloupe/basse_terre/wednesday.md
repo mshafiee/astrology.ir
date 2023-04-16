@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
-|♐ Sagittarius|00:00:00|23:59:59|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
-|♑ Capricorn|00:00:00|23:59:59|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
 
 
 {{< /tab >}}

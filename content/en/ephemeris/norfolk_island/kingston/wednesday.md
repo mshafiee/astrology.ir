@@ -34,14 +34,14 @@ Altitude: 71 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:56:51 |
+| Dawn | 04:56:50 |
 | Sunrise | 06:08:02 |
-| Dhuhr | 11:47:25 |
-| Medium Coeli | 11:47:25 |
+| Dhuhr | 11:47:24 |
+| Medium Coeli | 11:47:24 |
 | Sunset | 17:26:24 |
 | Maghrib | 17:42:13 |
-| Isha | 18:28:23 |
-| Sharia Midnight | 23:11:53 |
+| Isha | 18:28:22 |
+| Sharia Midnight | 23:11:52 |
 | Imum Coeli | 23:47:18 |
 {{< /tab >}}
 
@@ -52,12 +52,12 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Dawn | 04:49:03 |
 | Sunrise | 06:08:02 |
-| Dhuhr | 11:47:25 |
-| Medium Coeli | 11:47:25 |
+| Dhuhr | 11:47:24 |
+| Medium Coeli | 11:47:24 |
 | Sunset | 17:26:24 |
-| Maghrib | 17:44:33 |
-| Isha | 18:28:23 |
-| Sharia Midnight | 23:07:59 |
+| Maghrib | 17:44:32 |
+| Isha | 18:28:22 |
+| Sharia Midnight | 23:07:58 |
 | Imum Coeli | 23:47:18 |
 {{< /tab >}}
 
@@ -66,10 +66,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:47:41 |
+| Dawn | 04:47:40 |
 | Sunrise | 06:08:02 |
-| Dhuhr | 11:47:25 |
-| Medium Coeli | 11:47:25 |
+| Dhuhr | 11:47:24 |
+| Medium Coeli | 11:47:24 |
 | Sunset | 17:26:24 |
 | Maghrib | 17:27:45 |
 | Isha | 18:42:08 |
@@ -84,8 +84,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Dawn | 05:01:26 |
 | Sunrise | 06:08:02 |
-| Dhuhr | 11:47:25 |
-| Medium Coeli | 11:47:25 |
+| Dhuhr | 11:47:24 |
+| Medium Coeli | 11:47:24 |
 | Sunset | 17:26:24 |
 | Maghrib | 17:27:45 |
 | Isha | 18:32:58 |
@@ -100,8 +100,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Dawn | 04:40:48 |
 | Sunrise | 06:08:02 |
-| Dhuhr | 11:47:25 |
-| Medium Coeli | 11:47:25 |
+| Dhuhr | 11:47:24 |
+| Medium Coeli | 11:47:24 |
 | Sunset | 17:26:24 |
 | Maghrib | 17:27:45 |
 | Isha | 18:44:25 |
@@ -114,13 +114,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:47:41 |
+| Dawn | 04:47:40 |
 | Sunrise | 06:08:02 |
-| Dhuhr | 11:47:25 |
-| Medium Coeli | 11:47:25 |
+| Dhuhr | 11:47:24 |
+| Medium Coeli | 11:47:24 |
 | Sunset | 17:26:24 |
 | Maghrib | 17:27:45 |
-| Isha | 18:46:43 |
+| Isha | 18:46:42 |
 | Sharia Midnight | 23:07:17 |
 | Imum Coeli | 23:47:18 |
 {{< /tab >}}
@@ -132,12 +132,12 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Dawn | 04:45:23 |
 | Sunrise | 06:08:02 |
-| Dhuhr | 11:47:25 |
-| Medium Coeli | 11:47:25 |
+| Dhuhr | 11:47:24 |
+| Medium Coeli | 11:47:24 |
 | Sunset | 17:26:24 |
 | Maghrib | 17:27:45 |
 | Isha | 18:57:45 |
-| Sharia Midnight | 23:06:09 |
+| Sharia Midnight | 23:06:08 |
 | Imum Coeli | 23:47:18 |
 {{< /tab >}}
 
@@ -157,14 +157,14 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |♈ Aries|06:19:05|08:39:28|
 |♉ Taurus|08:39:29|10:56:31|
 |♊ Gemini|10:56:32|12:56:13|
-|♋ Cancer|12:56:14|14:34:26|
-|♌ Leo|14:34:27|15:59:57|
-|♍ Virgo|15:59:58|17:25:27|
-|♎ Libra|17:25:28|19:03:40|
-|♏ Scorpio|19:03:41|21:03:22|
-|♐ Sagittarius|21:03:23|23:20:25|
-|♑ Capricorn|23:20:26|01:40:49|
-|♒ Aquarius|01:40:50|03:57:59|
+|♋ Cancer|12:56:14|14:34:25|
+|♌ Leo|14:34:26|15:59:56|
+|♍ Virgo|15:59:57|17:25:27|
+|♎ Libra|17:25:28|19:03:39|
+|♏ Scorpio|19:03:40|21:03:21|
+|♐ Sagittarius|21:03:22|23:20:24|
+|♑ Capricorn|23:20:25|01:40:48|
+|♒ Aquarius|01:40:49|03:57:58|
 
 
 {{< /tab >}}
@@ -179,14 +179,14 @@ Earth movement calendar in twelve houses based on tropical calculations
 |♉ Taurus|06:19:05|08:39:28|
 |♊ Gemini|08:39:29|10:56:31|
 |♋ Cancer|10:56:32|12:56:13|
-|♌ Leo|12:56:14|14:34:26|
-|♍ Virgo|14:34:27|15:59:57|
-|♎ Libra|15:59:58|17:25:27|
-|♏ Scorpio|17:25:28|19:03:40|
-|♐ Sagittarius|19:03:41|21:03:22|
-|♑ Capricorn|21:03:23|23:20:25|
-|♒ Aquarius|23:20:26|01:40:49|
-|♓ Pisces|01:40:50|03:57:59|
+|♌ Leo|12:56:14|14:34:25|
+|♍ Virgo|14:34:26|15:59:56|
+|♎ Libra|15:59:57|17:25:27|
+|♏ Scorpio|17:25:28|19:03:39|
+|♐ Sagittarius|19:03:40|21:03:21|
+|♑ Capricorn|21:03:22|23:20:24|
+|♒ Aquarius|23:20:25|01:40:48|
+|♓ Pisces|01:40:49|03:57:58|
 
 
 {{< /tab >}}
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°25'46.75" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|4°25'46.74" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°24'44.50" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°23'38.65" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°29'29.83" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°48'25.83" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|15°17'48.44" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°33'20.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|12°23'38.63" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°29'29.81" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°48'25.81" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|15°17'48.43" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°33'20.05" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°25'46.75" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|4°25'46.74" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°24'44.50" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°23'38.65" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|28°29'29.83" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|8°48'25.83" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|15°17'48.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°33'20.33" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°23'38.63" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|28°29'29.81" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|8°48'25.81" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|15°17'48.43" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°33'20.05" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

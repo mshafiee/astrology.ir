@@ -34,12 +34,12 @@ Altitude: 1,798 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:02:15 |
+| Dawn | 04:02:14 |
 | Sunrise | 05:21:47 |
 | Dhuhr | 11:53:12 |
 | Medium Coeli | 11:53:12 |
 | Sunset | 18:25:10 |
-| Maghrib | 18:42:48 |
+| Maghrib | 18:42:47 |
 | Isha | 19:34:19 |
 | Sharia Midnight | 23:12:58 |
 | Imum Coeli | 23:53:05 |
@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:25:10 |
 | Maghrib | 18:45:19 |
 | Isha | 19:34:19 |
-| Sharia Midnight | 23:08:23 |
+| Sharia Midnight | 23:08:22 |
 | Imum Coeli | 23:53:05 |
 {{< /tab >}}
 
@@ -66,14 +66,14 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:51:29 |
+| Dawn | 03:51:28 |
 | Sunrise | 05:21:47 |
 | Dhuhr | 11:53:12 |
 | Medium Coeli | 11:53:12 |
 | Sunset | 18:25:10 |
 | Maghrib | 18:30:21 |
 | Isha | 19:50:21 |
-| Sharia Midnight | 23:07:34 |
+| Sharia Midnight | 23:07:33 |
 | Imum Coeli | 23:53:05 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:53:12 |
 | Sunset | 18:25:10 |
 | Maghrib | 18:30:21 |
-| Isha | 19:39:38 |
+| Isha | 19:39:37 |
 | Sharia Midnight | 23:15:38 |
 | Imum Coeli | 23:53:05 |
 {{< /tab >}}
@@ -98,13 +98,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:43:18 |
+| Dawn | 03:43:17 |
 | Sunrise | 05:21:47 |
 | Dhuhr | 11:53:12 |
 | Medium Coeli | 11:53:12 |
 | Sunset | 18:25:10 |
 | Maghrib | 18:30:21 |
-| Isha | 19:53:04 |
+| Isha | 19:53:03 |
 | Sharia Midnight | 23:03:27 |
 | Imum Coeli | 23:53:05 |
 {{< /tab >}}
@@ -114,14 +114,14 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:51:29 |
+| Dawn | 03:51:28 |
 | Sunrise | 05:21:47 |
 | Dhuhr | 11:53:12 |
 | Medium Coeli | 11:53:12 |
 | Sunset | 18:25:10 |
 | Maghrib | 18:30:21 |
 | Isha | 19:55:47 |
-| Sharia Midnight | 23:07:34 |
+| Sharia Midnight | 23:07:33 |
 | Imum Coeli | 23:53:05 |
 {{< /tab >}}
 
@@ -130,7 +130,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:48:46 |
+| Dawn | 03:48:45 |
 | Sunrise | 05:21:47 |
 | Dhuhr | 11:53:12 |
 | Medium Coeli | 11:53:12 |
@@ -154,17 +154,17 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
 |♓ Pisces|04:17:49|05:37:07|
-|♈ Aries|05:37:08|07:10:07|
-|♉ Taurus|07:10:08|09:07:35|
-|♊ Gemini|09:07:36|11:26:52|
-|♋ Cancer|11:26:53|13:52:29|
-|♌ Leo|13:52:30|16:15:50|
+|♈ Aries|05:37:08|07:10:06|
+|♉ Taurus|07:10:07|09:07:35|
+|♊ Gemini|09:07:36|11:26:51|
+|♋ Cancer|11:26:52|13:52:28|
+|♌ Leo|13:52:29|16:15:50|
 |♍ Virgo|16:15:51|18:39:11|
-|♎ Libra|18:39:12|21:04:49|
-|♏ Scorpio|21:04:50|23:24:05|
-|♐ Sagittarius|23:24:06|01:21:33|
-|♑ Capricorn|01:21:34|02:54:33|
-|♒ Aquarius|02:54:34|04:13:52|
+|♎ Libra|18:39:12|21:04:48|
+|♏ Scorpio|21:04:49|23:24:04|
+|♐ Sagittarius|23:24:05|01:21:33|
+|♑ Capricorn|01:21:34|02:54:32|
+|♒ Aquarius|02:54:33|04:13:52|
 
 
 {{< /tab >}}
@@ -176,17 +176,17 @@ Earth movement calendar in twelve houses based on tropical calculations
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
 |♈ Aries|04:17:49|05:37:07|
-|♉ Taurus|05:37:08|07:10:07|
-|♊ Gemini|07:10:08|09:07:35|
-|♋ Cancer|09:07:36|11:26:52|
-|♌ Leo|11:26:53|13:52:29|
-|♍ Virgo|13:52:30|16:15:50|
+|♉ Taurus|05:37:08|07:10:06|
+|♊ Gemini|07:10:07|09:07:35|
+|♋ Cancer|09:07:36|11:26:51|
+|♌ Leo|11:26:52|13:52:28|
+|♍ Virgo|13:52:29|16:15:50|
 |♎ Libra|16:15:51|18:39:11|
-|♏ Scorpio|18:39:12|21:04:49|
-|♐ Sagittarius|21:04:50|23:24:05|
-|♑ Capricorn|23:24:06|01:21:33|
-|♒ Aquarius|01:21:34|02:54:33|
-|♓ Pisces|02:54:34|04:13:52|
+|♏ Scorpio|18:39:12|21:04:48|
+|♐ Sagittarius|21:04:49|23:24:04|
+|♑ Capricorn|23:24:05|01:21:33|
+|♒ Aquarius|01:21:34|02:54:32|
+|♓ Pisces|02:54:33|04:13:52|
 
 
 {{< /tab >}}
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°11'7.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|22°44'48.43" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|10°55'50.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|25°47'18.09" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|5°37'10.87" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°11'4.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°28'53.19" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|22°44'48.42" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|10°55'50.07" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|25°47'18.07" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|5°37'10.84" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°11'4.66" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°28'52.91" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°11'7.57" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|22°44'48.43" |Aries|Butain|Venus|
-|♂ Mars|Direct|10°55'50.08" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|25°47'18.09" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|5°37'10.87" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°11'4.67" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°28'53.19" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|22°44'48.42" |Aries|Butain|Venus|
+|♂ Mars|Direct|10°55'50.07" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|25°47'18.07" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|5°37'10.84" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°11'4.66" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°28'52.91" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

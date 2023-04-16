@@ -40,9 +40,9 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:49:15 |
 | Sunset | 19:28:57 |
 | Maghrib | 19:47:16 |
-| Isha | 20:42:08 |
+| Isha | 20:42:07 |
 | Sharia Midnight | 00:06:35 |
-| Imum Coeli | 00:49:09 |
+| Imum Coeli | 00:49:08 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -50,15 +50,15 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:35:58 |
+| Dawn | 04:35:57 |
 | Sunrise | 06:10:11 |
 | Dhuhr | 12:49:15 |
 | Medium Coeli | 12:49:15 |
 | Sunset | 19:28:57 |
 | Maghrib | 19:49:56 |
-| Isha | 20:42:08 |
+| Isha | 20:42:07 |
 | Sharia Midnight | 00:01:36 |
-| Imum Coeli | 00:49:09 |
+| Imum Coeli | 00:49:08 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -66,15 +66,15 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:34:12 |
+| Dawn | 04:34:11 |
 | Sunrise | 06:10:11 |
 | Dhuhr | 12:49:15 |
 | Medium Coeli | 12:49:15 |
 | Sunset | 19:28:57 |
-| Maghrib | 19:34:32 |
+| Maghrib | 19:34:31 |
 | Isha | 20:59:26 |
 | Sharia Midnight | 00:00:43 |
-| Imum Coeli | 00:49:09 |
+| Imum Coeli | 00:49:08 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -87,10 +87,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:49:15 |
 | Medium Coeli | 12:49:15 |
 | Sunset | 19:28:57 |
-| Maghrib | 19:34:32 |
-| Isha | 20:47:51 |
+| Maghrib | 19:34:31 |
+| Isha | 20:47:50 |
 | Sharia Midnight | 00:09:28 |
-| Imum Coeli | 00:49:09 |
+| Imum Coeli | 00:49:08 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -98,15 +98,15 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:25:17 |
+| Dawn | 04:25:16 |
 | Sunrise | 06:10:11 |
 | Dhuhr | 12:49:15 |
 | Medium Coeli | 12:49:15 |
 | Sunset | 19:28:57 |
-| Maghrib | 19:34:32 |
-| Isha | 21:02:23 |
+| Maghrib | 19:34:31 |
+| Isha | 21:02:22 |
 | Sharia Midnight | 23:56:14 |
-| Imum Coeli | 00:49:09 |
+| Imum Coeli | 00:49:08 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -114,15 +114,15 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:34:12 |
+| Dawn | 04:34:11 |
 | Sunrise | 06:10:11 |
 | Dhuhr | 12:49:15 |
 | Medium Coeli | 12:49:15 |
 | Sunset | 19:28:57 |
-| Maghrib | 19:34:32 |
-| Isha | 21:05:20 |
+| Maghrib | 19:34:31 |
+| Isha | 21:05:19 |
 | Sharia Midnight | 00:00:43 |
-| Imum Coeli | 00:49:09 |
+| Imum Coeli | 00:49:08 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -135,10 +135,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:49:15 |
 | Medium Coeli | 12:49:15 |
 | Sunset | 19:28:57 |
-| Maghrib | 19:34:32 |
-| Isha | 21:04:32 |
+| Maghrib | 19:34:31 |
+| Isha | 21:04:31 |
 | Sharia Midnight | 23:59:14 |
-| Imum Coeli | 00:49:09 |
+| Imum Coeli | 00:49:08 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -154,13 +154,13 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
 |♓ Pisces|05:02:22|06:17:28|
-|♈ Aries|06:17:29|07:46:52|
-|♉ Taurus|07:46:53|09:42:46|
+|♈ Aries|06:17:29|07:46:51|
+|♉ Taurus|07:46:52|09:42:46|
 |♊ Gemini|09:42:47|12:03:36|
-|♋ Cancer|12:03:37|14:32:50|
-|♌ Leo|14:32:51|17:00:23|
-|♍ Virgo|17:00:24|19:27:57|
-|♎ Libra|19:27:58|21:57:10|
+|♋ Cancer|12:03:37|14:32:49|
+|♌ Leo|14:32:50|17:00:23|
+|♍ Virgo|17:00:24|19:27:56|
+|♎ Libra|19:27:57|21:57:10|
 |♏ Scorpio|21:57:11|00:18:00|
 |♐ Sagittarius|00:18:01|02:13:55|
 |♑ Capricorn|02:13:56|03:43:18|
@@ -176,13 +176,13 @@ Earth movement calendar in twelve houses based on tropical calculations
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
 |♈ Aries|05:02:22|06:17:28|
-|♉ Taurus|06:17:29|07:46:52|
-|♊ Gemini|07:46:53|09:42:46|
+|♉ Taurus|06:17:29|07:46:51|
+|♊ Gemini|07:46:52|09:42:46|
 |♋ Cancer|09:42:47|12:03:36|
-|♌ Leo|12:03:37|14:32:50|
-|♍ Virgo|14:32:51|17:00:23|
-|♎ Libra|17:00:24|19:27:57|
-|♏ Scorpio|19:27:58|21:57:10|
+|♌ Leo|12:03:37|14:32:49|
+|♍ Virgo|14:32:50|17:00:23|
+|♎ Libra|17:00:24|19:27:56|
+|♏ Scorpio|19:27:57|21:57:10|
 |♐ Sagittarius|21:57:11|00:18:00|
 |♑ Capricorn|00:18:01|02:13:55|
 |♒ Aquarius|02:13:56|03:43:18|
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°27'31.01" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°29'33.92" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°34'19.74" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°49'4.19" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°11'29.93" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|12°34'19.73" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°49'4.17" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°11'29.91" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Pre-Retrograde Shadow|15°22'33.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|15°49'9.31" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|15°49'9.03" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°27'31.01" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°29'33.92" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°34'19.74" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|28°49'4.19" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|9°11'29.93" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|12°34'19.73" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|28°49'4.17" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|9°11'29.91" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Pre-Retrograde Shadow|15°22'33.48" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°49'9.31" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°49'9.03" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

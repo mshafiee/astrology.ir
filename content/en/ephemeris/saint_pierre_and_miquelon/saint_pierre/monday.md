@@ -39,10 +39,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr | 13:44:17 |
 | Medium Coeli | 13:44:17 |
 | Sunset | 20:35:39 |
-| Maghrib | 20:56:34 |
+| Maghrib | 20:56:33 |
 | Isha | 22:02:12 |
 | Sharia Midnight | 00:53:28 |
-| Imum Coeli | 01:44:11 |
+| Imum Coeli | 01:44:10 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 20:59:41 |
 | Isha | 22:02:12 |
 | Sharia Midnight | 00:47:12 |
-| Imum Coeli | 01:44:11 |
+| Imum Coeli | 01:44:10 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -66,15 +66,15 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:58:57 |
+| Dawn | 04:58:56 |
 | Sunrise | 06:53:50 |
 | Dhuhr | 13:44:17 |
 | Medium Coeli | 13:44:17 |
 | Sunset | 20:35:39 |
-| Maghrib | 20:37:01 |
-| Isha | 22:23:47 |
+| Maghrib | 20:37:00 |
+| Isha | 22:23:46 |
 | Sharia Midnight | 00:46:04 |
-| Imum Coeli | 01:44:11 |
+| Imum Coeli | 01:44:10 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -87,10 +87,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 13:44:17 |
 | Medium Coeli | 13:44:17 |
 | Sunset | 20:35:39 |
-| Maghrib | 20:37:01 |
+| Maghrib | 20:37:00 |
 | Isha | 22:09:15 |
 | Sharia Midnight | 00:57:04 |
-| Imum Coeli | 01:44:11 |
+| Imum Coeli | 01:44:10 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -103,10 +103,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 13:44:17 |
 | Medium Coeli | 13:44:17 |
 | Sunset | 20:35:39 |
-| Maghrib | 20:37:01 |
+| Maghrib | 20:37:00 |
 | Isha | 22:27:30 |
-| Sharia Midnight | 00:40:17 |
-| Imum Coeli | 01:44:11 |
+| Sharia Midnight | 00:40:16 |
+| Imum Coeli | 01:44:10 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -114,15 +114,15 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:58:57 |
+| Dawn | 04:58:56 |
 | Sunrise | 06:53:50 |
 | Dhuhr | 13:44:17 |
 | Medium Coeli | 13:44:17 |
 | Sunset | 20:35:39 |
-| Maghrib | 20:37:01 |
+| Maghrib | 20:37:00 |
 | Isha | 22:31:16 |
 | Sharia Midnight | 00:46:04 |
-| Imum Coeli | 01:44:11 |
+| Imum Coeli | 01:44:10 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -135,10 +135,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 13:44:17 |
 | Medium Coeli | 13:44:17 |
 | Sunset | 20:35:39 |
-| Maghrib | 20:37:01 |
-| Isha | 22:07:01 |
-| Sharia Midnight | 00:44:10 |
-| Imum Coeli | 01:44:11 |
+| Maghrib | 20:37:00 |
+| Isha | 22:07:00 |
+| Sharia Midnight | 00:44:09 |
+| Imum Coeli | 01:44:10 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♓ Pisces|06:03:55|07:05:29|
-|♈ Aries|07:05:30|08:22:52|
-|♉ Taurus|08:22:53|10:13:19|
+|♓ Pisces|06:03:54|07:05:29|
+|♈ Aries|07:05:30|08:22:51|
+|♉ Taurus|08:22:52|10:13:19|
 |♊ Gemini|10:13:20|12:39:36|
-|♋ Cancer|12:39:37|15:20:51|
-|♌ Leo|15:20:52|18:01:56|
-|♍ Virgo|18:01:57|20:43:01|
+|♋ Cancer|12:39:37|15:20:50|
+|♌ Leo|15:20:51|18:01:55|
+|♍ Virgo|18:01:56|20:43:01|
 |♎ Libra|20:43:02|23:24:15|
 |♏ Scorpio|23:24:16|01:50:32|
 |♐ Sagittarius|01:50:33|03:41:00|
-|♑ Capricorn|03:41:01|04:58:23|
-|♒ Aquarius|04:58:24|05:59:58|
+|♑ Capricorn|03:41:01|04:58:22|
+|♒ Aquarius|04:58:23|05:59:57|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♈ Aries|06:03:55|07:05:29|
-|♉ Taurus|07:05:30|08:22:52|
-|♊ Gemini|08:22:53|10:13:19|
+|♈ Aries|06:03:54|07:05:29|
+|♉ Taurus|07:05:30|08:22:51|
+|♊ Gemini|08:22:52|10:13:19|
 |♋ Cancer|10:13:20|12:39:36|
-|♌ Leo|12:39:37|15:20:51|
-|♍ Virgo|15:20:52|18:01:56|
-|♎ Libra|18:01:57|20:43:01|
+|♌ Leo|12:39:37|15:20:50|
+|♍ Virgo|15:20:51|18:01:55|
+|♎ Libra|18:01:56|20:43:01|
 |♏ Scorpio|20:43:02|23:24:15|
 |♐ Sagittarius|23:24:16|01:50:32|
 |♑ Capricorn|01:50:33|03:41:00|
-|♒ Aquarius|03:41:01|04:58:23|
-|♓ Pisces|04:58:24|05:59:58|
+|♒ Aquarius|03:41:01|04:58:22|
+|♓ Pisces|04:58:23|05:59:57|
 
 
 {{< /tab >}}
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°18'15.96" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°4'6.47" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°38'10.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|27°5'40.37" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|7°9'42.30" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|14°49'13.15" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°37'11.09" |Aquarius|SaadAlAkhbia|Moon|
+|♂ Mars|Direct|11°38'10.62" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|27°5'40.35" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|7°9'42.28" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°49'13.14" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°37'10.81" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°18'15.96" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°4'6.47" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°38'10.63" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|27°5'40.37" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|7°9'42.30" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|14°49'13.15" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°37'11.09" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°38'10.62" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|27°5'40.35" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|7°9'42.28" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°49'13.14" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°37'10.81" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
