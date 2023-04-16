@@ -1,7 +1,6 @@
 ---
 date: 2018-03-29T09:00:00+06:00
 lastmod: 2020-08-10T22:00:00+06:00
-title: Ephemeris
 linkTitle: Ephemeris
 menu:
   main:

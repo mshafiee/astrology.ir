@@ -130,9 +130,9 @@ languageName = "English"
 weight = 1
 title = "Astrology"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
+copyright = "© astrology.ir"
 [languages.en.params.info]
-description = "Astrology research and data analysis, with a tendency to the Persian Astrology"
+description = "Delving into the Mysteries of Persian Astrology: Investigating Astrological Phenomena through Research and Data Analysis"
 title404 = "Nothing's here!"
 
 [languages.fa]
