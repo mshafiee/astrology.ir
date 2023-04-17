@@ -16,7 +16,7 @@ pygmentsCodefences = true
 enableEmoji = true
 
 # Missing translations will default to this content language
-defaultContentLanguage = "fa"
+defaultContentLanguage = "en"
 
 buildFuture=true
 
@@ -50,7 +50,7 @@ enable = true
 
 [params.widgets]
 header = ["breadcrumbs"]
-homepage = ["recent_posts"]
+# homepage = ["recent_posts"]
 sidebar = ["about","language","search","sidebar_menu","taxonomy_cloud"]
 footer = ["social_menu"]
 
