@@ -39,23 +39,54 @@ map.on('contextmenu', function(e) {
     L.DomEvent.preventDefault(e);
 });
 
-for (var i = 0; i < markers.length; ++i) {
-    var marker = L.marker([markers[i].lat, markers[i].lng], { icon: myIcon })
-        .bindPopup(markers[i].name)
-        .addTo(map);
+map.eachLayer(function(layer) {
+    if (layer instanceof L.Marker) {
+        map.removeLayer(layer);
+    }
+});
+addMarkers(markers, map, myIcon);
 
-    marker.on('mouseover', function (e) {
-        this.openPopup();
+map.on('zoomend', function() {
+    map.eachLayer(function(layer) {
+        if (layer instanceof L.Marker) {
+            map.removeLayer(layer);
+        }
     });
+    addMarkers(markers, map, myIcon);
+});
 
-    marker.on('mouseout', function (e) {
-        this.closePopup();
-    });
+function addMarkers(markers, map, myIcon) {
+    for (var i = 0; i < markers.length; ++i) {
+        var marker;
+        if (map.getZoom() < 4 && markers[i].population < 1500000) {
+            continue;
+        } else if (map.getZoom() < 5 && markers[i].population < 1000000) {
+            continue;
+        } else if (map.getZoom() < 6 && markers[i].population < 500000) {
+            continue;
+        } else if (map.getZoom() < 7 && markers[i].population < 250000) {
+            continue;
+        } else if (map.getZoom() < 8 && markers[i].population < 100000) {
+            continue;
+        } else {
+            marker = L.marker([markers[i].lat, markers[i].lng], { icon: myIcon })
+                .bindPopup(markers[i].name)
+                .addTo(map);
 
-    marker.on('click', function(e) {
-        window.open(e.target.options.url, '_self');
-    });
+            marker.on('mouseover', function (e) {
+                this.openPopup();
+            });
 
-    marker.options.title = markers[i].name;
-    marker.options.url = markers[i].url;
+            marker.on('mouseout', function (e) {
+                this.closePopup();
+            });
+
+            marker.on('click', function(e) {
+                window.open(e.target.options.url, '_self');
+            });
+
+            marker.options.title = markers[i].name;
+            marker.options.url = markers[i].url;
+        }
+    }
 }
