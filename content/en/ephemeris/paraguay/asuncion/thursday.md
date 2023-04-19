@@ -20,7 +20,7 @@ Latitude: -25.2865
 \-
 Longitude: -57.6470
 \-
-Altitude: 107 meters
+Altitude: 113 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Asuncion, Paraguay" lat="-25.2865" lng="-57.6470" zoom="12">}}
 
@@ -38,7 +38,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:07:41 |
 | Dhuhr | 11:49:31 |
 | Medium Coeli | 11:49:31 |
-| Sunset | 17:31:01 |
+| Sunset | 17:31:00 |
 | Maghrib | 17:46:21 |
 | Isha | 18:31:04 |
 | Sharia Midnight | 23:15:03 |
@@ -54,10 +54,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:07:41 |
 | Dhuhr | 11:49:31 |
 | Medium Coeli | 11:49:31 |
-| Sunset | 17:31:01 |
+| Sunset | 17:31:00 |
 | Maghrib | 17:48:36 |
 | Isha | 18:31:04 |
-| Sharia Midnight | 23:11:17 |
+| Sharia Midnight | 23:11:16 |
 | Imum Coeli | 23:49:24 |
 {{< /tab >}}
 
@@ -70,10 +70,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:07:41 |
 | Dhuhr | 11:49:31 |
 | Medium Coeli | 11:49:31 |
-| Sunset | 17:31:01 |
-| Maghrib | 17:32:37 |
+| Sunset | 17:31:00 |
+| Maghrib | 17:32:40 |
 | Isha | 18:44:24 |
-| Sharia Midnight | 23:10:37 |
+| Sharia Midnight | 23:10:36 |
 | Imum Coeli | 23:49:24 |
 {{< /tab >}}
 
@@ -86,10 +86,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:07:41 |
 | Dhuhr | 11:49:31 |
 | Medium Coeli | 11:49:31 |
-| Sunset | 17:31:01 |
-| Maghrib | 17:32:37 |
+| Sunset | 17:31:00 |
+| Maghrib | 17:32:40 |
 | Isha | 18:35:31 |
-| Sharia Midnight | 23:17:17 |
+| Sharia Midnight | 23:17:16 |
 | Imum Coeli | 23:49:24 |
 {{< /tab >}}
 
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:07:41 |
 | Dhuhr | 11:49:31 |
 | Medium Coeli | 11:49:31 |
-| Sunset | 17:31:01 |
-| Maghrib | 17:32:37 |
+| Sunset | 17:31:00 |
+| Maghrib | 17:32:40 |
 | Isha | 18:46:37 |
 | Sharia Midnight | 23:07:17 |
 | Imum Coeli | 23:49:24 |
@@ -118,10 +118,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:07:41 |
 | Dhuhr | 11:49:31 |
 | Medium Coeli | 11:49:31 |
-| Sunset | 17:31:01 |
-| Maghrib | 17:32:37 |
+| Sunset | 17:31:00 |
+| Maghrib | 17:32:40 |
 | Isha | 18:48:50 |
-| Sharia Midnight | 23:10:37 |
+| Sharia Midnight | 23:10:36 |
 | Imum Coeli | 23:49:24 |
 {{< /tab >}}
 
@@ -134,9 +134,9 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:07:41 |
 | Dhuhr | 11:49:31 |
 | Medium Coeli | 11:49:31 |
-| Sunset | 17:31:01 |
-| Maghrib | 17:32:37 |
-| Isha | 19:02:37 |
+| Sunset | 17:31:00 |
+| Maghrib | 17:32:40 |
+| Isha | 19:02:40 |
 | Sharia Midnight | 23:09:30 |
 | Imum Coeli | 23:49:24 |
 {{< /tab >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:23:20|Night duration: 12:37:08|
+|Duration of the day: 11:23:19|Night duration: 12:37:09|
 |Every hour of day duration: 00:56:57|Every hour of night duration: 01:03:06|
 
  
@@ -212,30 +212,30 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|06:07:41|07:04:36|Acquiring material wealth and abundance of livelihood|
 |2|Mars|Servant|07:04:37|08:01:33|Destroying enemies|
-|3|Sun|Servant|08:01:34|08:58:30|Attracting financial and emotional love|
-|4|Venus|Servant|08:58:31|09:55:26|Creating love and connection, and finding a partner|
-|5|Mercury|Servant|09:55:27|10:52:23|Engaging in sensual acts|
-|6|Moon|Servant|10:52:24|11:49:20|Traveling in the physical and spiritual realm|
-|7|Saturn|Servant|11:49:21|12:46:16|Achieving status, position, and attracting opportunities|
-|8|Jupiter|Ruler|12:46:17|13:43:13|Attracting happiness and prosperity|
-|9|Mars|Servant|13:43:14|14:40:10|Attaining status, position, and promoting rank|
-|10|Sun|Servant|14:40:11|15:37:06|Fulfilling needs|
-|11|Venus|Servant|15:37:07|16:34:03|Attracting love, affection, and winning hearts|
-|12|Mercury|Servant|16:34:04|17:31:00|Attracting negativity, and avoiding any harmful action|
+|3|Sun|Servant|08:01:34|08:58:29|Attracting financial and emotional love|
+|4|Venus|Servant|08:58:30|09:55:26|Creating love and connection, and finding a partner|
+|5|Mercury|Servant|09:55:27|10:52:22|Engaging in sensual acts|
+|6|Moon|Servant|10:52:23|11:49:19|Traveling in the physical and spiritual realm|
+|7|Saturn|Servant|11:49:20|12:46:16|Achieving status, position, and attracting opportunities|
+|8|Jupiter|Ruler|12:46:17|13:43:12|Attracting happiness and prosperity|
+|9|Mars|Servant|13:43:13|14:40:09|Attaining status, position, and promoting rank|
+|10|Sun|Servant|14:40:10|15:37:05|Fulfilling needs|
+|11|Venus|Servant|15:37:06|16:34:02|Attracting love, affection, and winning hearts|
+|12|Mercury|Servant|16:34:03|17:30:59|Attracting negativity, and avoiding any harmful action|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|17:31:01|18:34:05|Acquiring material wealth and abundance of livelihood|
-|2|Saturn|Servant|18:34:06|19:37:11|Destroying enemies|
-|3|Jupiter|Servant|19:37:12|20:40:17|Attracting financial and emotional love|
-|4|Mars|Servant|20:40:18|21:43:22|Creating love and connection, and finding a partner|
-|5|Sun|Servant|21:43:23|22:46:28|Engaging in sensual acts|
-|6|Venus|Servant|22:46:29|23:49:34|Traveling in the physical and spiritual realm|
-|7|Mercury|Servant|23:49:35|00:52:39|Achieving status, position, and attracting opportunities|
+|1|Moon|Ruler|17:31:00|18:34:04|Acquiring material wealth and abundance of livelihood|
+|2|Saturn|Servant|18:34:05|19:37:10|Destroying enemies|
+|3|Jupiter|Servant|19:37:11|20:40:16|Attracting financial and emotional love|
+|4|Mars|Servant|20:40:17|21:43:22|Creating love and connection, and finding a partner|
+|5|Sun|Servant|21:43:23|22:46:27|Engaging in sensual acts|
+|6|Venus|Servant|22:46:28|23:49:33|Traveling in the physical and spiritual realm|
+|7|Mercury|Servant|23:49:34|00:52:39|Achieving status, position, and attracting opportunities|
 |8|Moon|Ruler|00:52:40|01:55:45|Attracting happiness and prosperity|
-|9|Saturn|Servant|01:55:46|02:58:51|Attaining status, position, and promoting rank|
-|10|Jupiter|Servant|02:58:52|04:01:56|Fulfilling needs|
+|9|Saturn|Servant|01:55:46|02:58:50|Attaining status, position, and promoting rank|
+|10|Jupiter|Servant|02:58:51|04:01:56|Fulfilling needs|
 |11|Mars|Servant|04:01:57|05:05:02|Attracting love, affection, and winning hearts|
 |12|Sun|Servant|05:05:03|06:08:08|Attracting negativity, and avoiding any harmful action|
 
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:23:20|Night duration: 12:37:08|
+|Duration of the day: 11:23:19|Night duration: 12:37:09|
 |Every hour duration: 01:37:37|Every hour duration: 01:48:10|
 
  
@@ -264,15 +264,15 @@ Timetable of septet day and night planetary hours
 |Noon|Venus|Servant|11:00:32|12:38:08|
 |Early afternoon|Mercury|Servant|12:38:09|14:15:45|
 |Mid-afternoon|Moon|Servant|14:15:46|15:53:22|
-|Late afternoon|Saturn|Servant|15:53:23|17:31:00|
+|Late afternoon|Saturn|Servant|15:53:23|17:30:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Moon|Ruler|17:31:01|19:19:09|
-|Late evening|Saturn|Servant|19:19:10|21:07:19|
-|Midnight|Jupiter|Servant|21:07:20|22:55:29|
-|Late at night|Mars|Servant|22:55:30|00:43:38|
+|Evening|Moon|Ruler|17:31:00|19:19:08|
+|Late evening|Saturn|Servant|19:19:09|21:07:18|
+|Midnight|Jupiter|Servant|21:07:19|22:55:28|
+|Late at night|Mars|Servant|22:55:29|00:43:38|
 |Rooster song|Sun|Servant|00:43:39|02:31:48|
 |False Dawn|Venus|Servant|02:31:49|04:19:58|
 |Dawn|Mercury|Servant|04:19:59|06:08:08|
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|0°4'47.32" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°40'28.82" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°34'53.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°11'1.70" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°11'1.71" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|0°4'47.32" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|10°40'28.82" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°34'53.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°11'1.70" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°11'1.71" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ASU, Asounsion, Asounsyon, Asounsyòn, Asounthion, Assumptio, Assuncao, Assuncion, Assunção, Asuncion, Asunciono, Asunción, Asuns'jon, Asuns'on, Asunsaun, Asunsion, Asunsjon, Asunsjona, Asunsjonas, Asunson, Asunsyon, Asunsyun, Asúnsjón, Gunung Berapi Asuncion, La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion, La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción, Nuestra Senora Santa Maria de la Asuncion, Nuestra Señora Santa María de la Asunción, Paraguay, acunciyon, asnshn, asunshion, asunsion, asunsioni, asunsiyona, asusi'ona, aswnsywn, xa sun si xxng, ya song sen, Ασουνθιόν, Ασουνσιόν, Асунсион, Асунсьйон, Асунсьон, Асунсьён, Ասունսյոն, אסונסיאן, אסונסיון, آسونسیون, أسونسيون, ئاسۇنسىئون, اسنشن, اسونسیون, आसुन्सियोन, ਅਸੂੰਸੀਓਨ, அசுன்சியோன், ಅಸೂನ್
+Alternate Names: ASU,  Asounsion,  Asounsyon,  Asounsyòn,  Asounthion,  Assumptio,  Assuncao,  Assuncion,  Assunção,  Asuncion,  Asunciono,  Asunción,  Asuns'jon,  Asuns'on,  Asunsaun,  Asunsion,  Asunsjon,  Asunsjona,  Asunsjonas,  Asunson,  Asunsyon,  Asunsyun,  Asúnsjón,  Gunung Berapi Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción,  Nuestra Senora Santa Maria de la Asuncion,  Nuestra Señora Santa María de la Asunción,  Paraguay,  acunciyon,  asnshn,  asunshion,  asunsion,  asunsioni,  asunsiyona,  asusi'ona,  aswnsywn,  xa sun si xxng,  ya song sen,  Ασουνθιόν,  Ασουνσιόν,  Асунсион,  Асунсьйон,  Асунсьон,  Асунсьён,  Ասունսյոն,  אסונסיאן,  אסונסיון,  آسونسیون,  أسونسيون,  ئاسۇنسىئون,  اسنشن,  اسونسیون,  आसुन्सियोन,  ਅਸੂੰਸੀਓਨ,  அசுன்சியோன்,  ಅಸೂನ್
 
 ---

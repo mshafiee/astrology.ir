@@ -20,7 +20,7 @@ Latitude: 18.4719
 \-
 Longitude: -69.8923
 \-
-Altitude: 9 meters
+Altitude: 24 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Santo Domingo, Dominican Republic" lat="18.4719" lng="-69.8923" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:41:45|Night duration: 11:17:35|
+|Duration of the day: 12:41:45|Night duration: 11:17:36|
 |Every hour of day duration: 01:03:29|Every hour of night duration: 00:56:28|
 
  
@@ -226,18 +226,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|18:58:54|19:55:20|Attracting love and gaining financial capital|
-|2|Mars|Servant|19:55:21|20:51:48|Hateful actions, and avoiding any beneficial action|
-|3|Sun|Servant|20:51:49|21:48:16|Creating emotional attachment and love|
-|4|Venus|Servant|21:48:17|22:44:44|Being hateful and rejecting kindness|
-|5|Mercury|Servant|22:44:45|23:41:12|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|23:41:13|00:37:40|Performing all good deeds for a beneficial outcome|
-|7|Saturn|Servant|00:37:41|01:34:08|Avoiding any action that may lead to disaster|
-|8|Jupiter|Ruler|01:34:09|02:30:36|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|02:30:37|03:27:04|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|03:27:05|04:23:32|Attracting happiness and resolving financial problems|
-|11|Venus|Servant|04:23:33|05:20:00|Signing contracts|
-|12|Mercury|Servant|05:20:01|06:16:28|Uncovering fugitives and finding thieves|
+|1|Jupiter|Ruler|18:58:54|19:55:21|Attracting love and gaining financial capital|
+|2|Mars|Servant|19:55:22|20:51:49|Hateful actions, and avoiding any beneficial action|
+|3|Sun|Servant|20:51:50|21:48:17|Creating emotional attachment and love|
+|4|Venus|Servant|21:48:18|22:44:45|Being hateful and rejecting kindness|
+|5|Mercury|Servant|22:44:46|23:41:13|Separation and engaging in hateful and vengeful actions|
+|6|Moon|Servant|23:41:14|00:37:41|Performing all good deeds for a beneficial outcome|
+|7|Saturn|Servant|00:37:42|01:34:09|Avoiding any action that may lead to disaster|
+|8|Jupiter|Ruler|01:34:10|02:30:37|Extremely lucky and attracting good fortune|
+|9|Mars|Servant|02:30:38|03:27:05|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|03:27:06|04:23:33|Attracting happiness and resolving financial problems|
+|11|Venus|Servant|04:23:34|05:20:01|Signing contracts|
+|12|Mercury|Servant|05:20:02|06:16:29|Uncovering fugitives and finding thieves|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:41:45|Night duration: 11:17:35|
+|Duration of the day: 12:41:45|Night duration: 11:17:36|
 |Every hour duration: 01:48:49|Every hour duration: 01:36:48|
 
  
@@ -269,13 +269,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Jupiter|Ruler|18:58:54|20:35:40|
-|Late evening|Mars|Servant|20:35:41|22:12:28|
-|Midnight|Sun|Servant|22:12:29|23:49:16|
-|Late at night|Venus|Servant|23:49:17|01:26:04|
-|Rooster song|Mercury|Servant|01:26:05|03:02:52|
-|False Dawn|Moon|Servant|03:02:53|04:39:40|
-|Dawn|Saturn|Servant|04:39:41|06:16:28|
+|Evening|Jupiter|Ruler|18:58:54|20:35:41|
+|Late evening|Mars|Servant|20:35:42|22:12:29|
+|Midnight|Sun|Servant|22:12:30|23:49:17|
+|Late at night|Venus|Servant|23:49:18|01:26:05|
+|Rooster song|Mercury|Servant|01:26:06|03:02:53|
+|False Dawn|Moon|Servant|03:02:54|04:39:41|
+|Dawn|Saturn|Servant|04:39:42|06:16:29|
 
 {{< /tab >}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|3°0'52.00" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°6'51.38" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°25'14.00" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°28'59.71" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°28'59.72" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|3°0'52.00" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°6'51.38" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°25'14.00" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°28'59.71" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|13°28'59.72" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ciudad Trujillo, SDQ, Saint Domingue, Santo Domingo, Santo Domingo City, Santo Domingo de Guzman, Santo Domingo de Guzmán, Santo Ntomin'nko, Santo-Domingo, santodoming-go, Σάντο Ντομίνγκο, Санто-Доминго, 산토도밍고
+Alternate Names: Ciudad Trujillo,  SDQ,  Saint Domingue,  Santo Domingo,  Santo Domingo City,  Santo Domingo de Guzman,  Santo Domingo de Guzmán,  Santo Ntomin'nko,  Santo-Domingo,  santodoming-go,  Σάντο Ντομίνγκο,  Санто-Доминго,  산토도밍고
 
 ---

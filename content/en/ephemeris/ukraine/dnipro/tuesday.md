@@ -20,7 +20,7 @@ Latitude: 48.4666
 \-
 Longitude: 35.0407
 \-
-Altitude: 59 meters
+Altitude: 61 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Dnipro, Ukraine" lat="48.4666" lng="35.0407" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:39:15 |
 | Medium Coeli | 12:39:15 |
 | Sunset | 19:34:54 |
-| Maghrib | 19:36:34 |
+| Maghrib | 19:36:36 |
 | Isha | 21:28:36 |
 | Sharia Midnight | 23:37:56 |
 | Imum Coeli | 00:39:08 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:39:15 |
 | Medium Coeli | 12:39:15 |
 | Sunset | 19:34:54 |
-| Maghrib | 19:36:34 |
+| Maghrib | 19:36:36 |
 | Isha | 21:13:05 |
 | Sharia Midnight | 23:49:43 |
 | Imum Coeli | 00:39:08 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:39:15 |
 | Medium Coeli | 12:39:15 |
 | Sunset | 19:34:54 |
-| Maghrib | 19:36:34 |
+| Maghrib | 19:36:36 |
 | Isha | 21:32:36 |
 | Sharia Midnight | 23:31:40 |
 | Imum Coeli | 00:39:08 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:39:15 |
 | Medium Coeli | 12:39:15 |
 | Sunset | 19:34:54 |
-| Maghrib | 19:36:34 |
+| Maghrib | 19:36:36 |
 | Isha | 21:36:40 |
 | Sharia Midnight | 23:37:56 |
 | Imum Coeli | 00:39:08 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:39:15 |
 | Medium Coeli | 12:39:15 |
 | Sunset | 19:34:54 |
-| Maghrib | 19:36:34 |
-| Isha | 21:06:34 |
+| Maghrib | 19:36:36 |
+| Isha | 21:06:36 |
 | Sharia Midnight | 23:35:52 |
 | Imum Coeli | 00:39:08 |
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: DNK, Dnepr, Dnepropetrovsk, Dniepr, Dniepropetrovskas, Dnipro, Dnipropetrovs'k, Dnipropetrovsk, Dnipropetrovsko, Dnipropetrowsk, Dniproslav, Dnipró, Dnjepropetrovsk, Dnjipropetrovsk, Dnyipro, Dněpropetrovsk, Dņipro, Ekaterinoslav, Katerinoslav, Katerynoslav, Novij Kodak, Novorosiynsk, Novyy Kodak, Ntnipro, Sicheslav, Sichoslav, d ni por pet rxfskh, deunipeulopeteulousikeu, dnepropetrovska, dnepʼri, dnybrw, dnyprwptrwbsq, dnyprwptrwfsk, dnyprwptrwwsk, dnyprʼ, donipuropetoroushiku, nie bo cheng, Ντνίπρο, Днепр, Днепропетровск, Днипро, Дніпро, Дніпропетровськ, Дніпрослав, Днїпро, Дњипро, Екатеринослав, Катеринослав, Новий Кодак, Січослав, Դնեպր, דניפרא, דניפרופטרובסק, دنيبرو, دنیپروپتروفسک, دنیپروپترووسک, द्नेप्रोपेत्रोव्स्क, ดนีโปรเปตรอฟสค์, დნეპრი, ドニプロペトロウシク, 聶伯城, 드니프로페트로우시크
+Alternate Names: DNK,  Dnepr,  Dnepropetrovsk,  Dniepr,  Dniepropetrovskas,  Dnipro,  Dnipropetrovs'k,  Dnipropetrovsk,  Dnipropetrovsko,  Dnipropetrowsk,  Dniproslav,  Dnipró,  Dnjepropetrovsk,  Dnjipro,  Dnjipropetrovsk,  Dnyipro,  Dněpropetrovsk,  Dņipro,  Ekaterinoslav,  Katerinoslav,  Katerynoslav,  Novij Kodak,  Novorosiynsk,  Novyy Kodak,  Ntnipro,  Sicheslav,  Sichoslav,  d ni por pet rxfskh,  deunipeulopeteulousikeu,  dnepropetrovska,  dnepʼri,  dnybrw,  dnyprwptrwbsq,  dnyprwptrwfsk,  dnyprwptrwwsk,  dnyprʼ,  donipuropetoroushiku,  nie bo cheng,  Ντνίπρο,  Днепр,  Днепропетровск,  Днипро,  Дніпро,  Дніпропетровськ,  Дніпрослав,  Днїпро,  Дњипро,  Екатеринослав,  Катеринослав,  Новий Кодак,  Січослав,  Դնեպր,  דניפרא,  דניפרופטרובסק,  دنيبرو,  دنیپروپتروفسک,  دنیپروپترووسک,  द्नेप्रोपेत्रोव्स्क,  ดนีโปรเปตรอฟสค์,  დნეპრი,  ドニプロペトロウシク,  聶伯城,  드니프로페트로우시크
 
 ---

@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나
+Alternate Names: Khulna,  Khulnâ,  Kkhelna,  Kkhulna,  Kulna,  Kulno,  khulana,  khwlna,  ku er na shi,  kulna,  kuruna,  Кулна,  Кхелна,  Кхулна,  خولنا,  کھلنا,  खुलना,  খুলনা,  குல்னா,  クルナ,  库尔纳市,  쿨나
 
 ---

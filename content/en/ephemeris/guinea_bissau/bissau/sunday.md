@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bisao, Bisau, Bisau - Bissau, Bisauo, Bisava, Bisaŭo, Biso, Bissa, Bissao, Bissau, Bissá, Bisáu, Mpissaou, OXB, Sao Jose de Bissau, São José de Bissáu, Wisaw, bi shao, bis sea, bis'sa'u, bisa'u, bisau, bsaw, bysaw, bysayw, picavu, Μπισσάου, Бисао, Бисау, Бісау, Բիսաու, ביסאו, بساؤ, بيساو, بیسائو, بیساو, बिसाउ, বিসাউ, বিস্সাউ, ਬਿਸਾਊ, பிசாவு, บิสเซา, བི་སའོ།, ბისაუ, ቢሳው, ビサウ, 比紹, 比绍, 비사우
+Alternate Names: Bisao,  Bisau,  Bisau - Bissau,  Bisauo,  Bisava,  Bisaŭo,  Biso,  Bissa,  Bissao,  Bissau,  Bissá,  Bisáu,  Mpissaou,  OXB,  Sao Jose de Bissau,  São José de Bissáu,  Wisaw,  bi shao,  bis sea,  bis'sa'u,  bisa'u,  bisau,  bsaw,  bysaw,  bysayw,  picavu,  Μπισσάου,  Бисао,  Бисау,  Бісау,  Բիսաու,  ביסאו,  بساؤ,  بيساو,  بیسائو,  بیساو,  बिसाउ,  বিসাউ,  বিস্সাউ,  ਬਿਸਾਊ,  பிசாவு,  บิสเซา,  བི་སའོ།,  ბისაუ,  ቢሳው,  ビサウ,  比紹,  比绍,  비사우
 
 ---

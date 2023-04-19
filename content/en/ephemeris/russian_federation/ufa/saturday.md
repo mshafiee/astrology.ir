@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Ephu, Oefa, Oufa, Ouffa, Owfa, UFA, Uf, Ufa, Uffa, Ufà, Ufá, Ufа, Upo, awfa, ufa, upa, wu fa, Ĕпхӳ, Оуфа, Уфа, Үфі, Өфө, Ӱпӧ, Ուֆա, אופה, أوفا, اوفا, ऊफ़ा, უფა, ウファ, 烏法, 우파
+Alternate Names: Ephu,  Oefa,  Oufa,  Ouffa,  Owfa,  UFA,  Uf,  Ufa,  Uffa,  Ufà,  Ufá,  Ufа,  Upo,  awfa,  ufa,  upa,  wu fa,  Ĕпхӳ,  Оуфа,  Уфа,  Үфі,  Өфө,  Ӱпӧ,  Ուֆա,  אופה,  أوفا,  اوفا,  ऊफ़ा,  უფა,  ウファ,  烏法,  우파
 
 ---

@@ -20,7 +20,7 @@ Latitude: 36.1833
 \-
 Longitude: 44.0119
 \-
-Altitude: 428 meters
+Altitude: 412 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Erbil, Iraq" lat="36.1833" lng="44.0119" zoom="12">}}
 
@@ -38,10 +38,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:21:01 |
 | Dhuhr | 12:02:20 |
 | Medium Coeli | 12:02:20 |
-| Sunset | 18:44:14 |
+| Sunset | 18:44:15 |
 | Maghrib | 19:02:03 |
 | Isha | 19:56:05 |
-| Sharia Midnight | 23:20:27 |
+| Sharia Midnight | 23:20:28 |
 | Imum Coeli | 00:02:15 |
 {{< /tab >}}
 
@@ -54,10 +54,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:21:01 |
 | Dhuhr | 12:02:20 |
 | Medium Coeli | 12:02:20 |
-| Sunset | 18:44:14 |
+| Sunset | 18:44:15 |
 | Maghrib | 19:04:40 |
 | Isha | 19:56:05 |
-| Sharia Midnight | 23:15:33 |
+| Sharia Midnight | 23:15:34 |
 | Imum Coeli | 00:02:15 |
 {{< /tab >}}
 
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:21:01 |
 | Dhuhr | 12:02:20 |
 | Medium Coeli | 12:02:20 |
-| Sunset | 18:44:14 |
-| Maghrib | 18:47:59 |
+| Sunset | 18:44:15 |
+| Maghrib | 18:47:55 |
 | Isha | 20:13:07 |
 | Sharia Midnight | 23:14:41 |
 | Imum Coeli | 00:02:15 |
@@ -86,10 +86,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:21:01 |
 | Dhuhr | 12:02:20 |
 | Medium Coeli | 12:02:20 |
-| Sunset | 18:44:14 |
-| Maghrib | 18:47:59 |
+| Sunset | 18:44:15 |
+| Maghrib | 18:47:55 |
 | Isha | 20:01:42 |
-| Sharia Midnight | 23:23:17 |
+| Sharia Midnight | 23:23:18 |
 | Imum Coeli | 00:02:15 |
 {{< /tab >}}
 
@@ -102,10 +102,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:21:01 |
 | Dhuhr | 12:02:20 |
 | Medium Coeli | 12:02:20 |
-| Sunset | 18:44:14 |
-| Maghrib | 18:47:59 |
+| Sunset | 18:44:15 |
+| Maghrib | 18:47:55 |
 | Isha | 20:16:01 |
-| Sharia Midnight | 23:10:16 |
+| Sharia Midnight | 23:10:17 |
 | Imum Coeli | 00:02:15 |
 {{< /tab >}}
 
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:21:01 |
 | Dhuhr | 12:02:20 |
 | Medium Coeli | 12:02:20 |
-| Sunset | 18:44:14 |
-| Maghrib | 18:47:59 |
+| Sunset | 18:44:15 |
+| Maghrib | 18:47:55 |
 | Isha | 20:18:55 |
 | Sharia Midnight | 23:14:41 |
 | Imum Coeli | 00:02:15 |
@@ -134,10 +134,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:21:01 |
 | Dhuhr | 12:02:20 |
 | Medium Coeli | 12:02:20 |
-| Sunset | 18:44:14 |
-| Maghrib | 18:47:59 |
-| Isha | 20:17:59 |
-| Sharia Midnight | 23:13:13 |
+| Sunset | 18:44:15 |
+| Maghrib | 18:47:55 |
+| Isha | 20:17:55 |
+| Sharia Midnight | 23:13:14 |
 | Imum Coeli | 00:02:15 |
 {{< /tab >}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:23:13|Night duration: 10:35:33|
+|Duration of the day: 13:23:14|Night duration: 10:35:32|
 |Every hour of day duration: 01:06:56|Every hour of night duration: 00:52:58|
 
  
@@ -215,27 +215,27 @@ Timetable of twelve day and night planetary hours
 |3|Mercury|Servant|07:34:53|08:41:48|Creating emotional attachment and love|
 |4|Moon|Servant|08:41:49|09:48:44|Being hateful and rejecting kindness|
 |5|Saturn|Servant|09:48:45|10:55:40|Separation and engaging in hateful and vengeful actions|
-|6|Jupiter|Servant|10:55:41|12:02:36|Performing all good deeds for a beneficial outcome|
-|7|Mars|Servant|12:02:37|13:09:32|Avoiding any action that may lead to disaster|
-|8|Sun|Ruler|13:09:33|14:16:28|Extremely lucky and attracting good fortune|
-|9|Venus|Servant|14:16:29|15:23:24|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Mercury|Servant|15:23:25|16:30:20|Attracting happiness and resolving financial problems|
-|11|Moon|Servant|16:30:21|17:37:16|Signing contracts|
-|12|Saturn|Servant|17:37:17|18:44:13|Uncovering fugitives and finding thieves|
+|6|Jupiter|Servant|10:55:41|12:02:37|Performing all good deeds for a beneficial outcome|
+|7|Mars|Servant|12:02:38|13:09:33|Avoiding any action that may lead to disaster|
+|8|Sun|Ruler|13:09:34|14:16:29|Extremely lucky and attracting good fortune|
+|9|Venus|Servant|14:16:30|15:23:25|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Mercury|Servant|15:23:26|16:30:21|Attracting happiness and resolving financial problems|
+|11|Moon|Servant|16:30:22|17:37:17|Signing contracts|
+|12|Saturn|Servant|17:37:18|18:44:14|Uncovering fugitives and finding thieves|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|18:44:14|19:37:10|Attracting love and gaining financial capital|
-|2|Mars|Servant|19:37:11|20:30:08|Hateful actions, and avoiding any beneficial action|
-|3|Sun|Servant|20:30:09|21:23:06|Creating emotional attachment and love|
-|4|Venus|Servant|21:23:07|22:16:04|Being hateful and rejecting kindness|
-|5|Mercury|Servant|22:16:05|23:09:01|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|23:09:02|00:01:59|Performing all good deeds for a beneficial outcome|
-|7|Saturn|Servant|00:02:00|00:54:57|Avoiding any action that may lead to disaster|
+|1|Jupiter|Ruler|18:44:15|19:37:11|Attracting love and gaining financial capital|
+|2|Mars|Servant|19:37:12|20:30:09|Hateful actions, and avoiding any beneficial action|
+|3|Sun|Servant|20:30:10|21:23:07|Creating emotional attachment and love|
+|4|Venus|Servant|21:23:08|22:16:04|Being hateful and rejecting kindness|
+|5|Mercury|Servant|22:16:05|23:09:02|Separation and engaging in hateful and vengeful actions|
+|6|Moon|Servant|23:09:03|00:02:00|Performing all good deeds for a beneficial outcome|
+|7|Saturn|Servant|00:02:01|00:54:57|Avoiding any action that may lead to disaster|
 |8|Jupiter|Ruler|00:54:58|01:47:55|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|01:47:56|02:40:52|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|02:40:53|03:33:50|Attracting happiness and resolving financial problems|
+|9|Mars|Servant|01:47:56|02:40:53|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|02:40:54|03:33:50|Attracting happiness and resolving financial problems|
 |11|Venus|Servant|03:33:51|04:26:48|Signing contracts|
 |12|Mercury|Servant|04:26:49|05:19:46|Uncovering fugitives and finding thieves|
 
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:23:13|Night duration: 10:35:33|
-|Every hour duration: 01:54:45|Every hour duration: 01:30:48|
+|Duration of the day: 13:23:14|Night duration: 10:35:32|
+|Every hour duration: 01:54:45|Every hour duration: 01:30:47|
 
  
  
@@ -261,20 +261,20 @@ Timetable of septet day and night planetary hours
 |Early morning|Sun|Ruler|05:21:01|07:15:44|
 |Mid-morning|Venus|Servant|07:15:45|09:10:29|
 |Late morning|Mercury|Servant|09:10:30|11:05:14|
-|Noon|Moon|Servant|11:05:15|12:59:58|
-|Early afternoon|Saturn|Servant|12:59:59|14:54:43|
-|Mid-afternoon|Jupiter|Servant|14:54:44|16:49:28|
-|Late afternoon|Mars|Servant|16:49:29|18:44:13|
+|Noon|Moon|Servant|11:05:15|12:59:59|
+|Early afternoon|Saturn|Servant|13:00:00|14:54:44|
+|Mid-afternoon|Jupiter|Servant|14:54:45|16:49:29|
+|Late afternoon|Mars|Servant|16:49:30|18:44:14|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Jupiter|Ruler|18:44:14|20:15:00|
-|Late evening|Mars|Servant|20:15:01|21:45:48|
-|Midnight|Sun|Servant|21:45:49|23:16:35|
-|Late at night|Venus|Servant|23:16:36|00:47:23|
-|Rooster song|Mercury|Servant|00:47:24|02:18:10|
-|False Dawn|Moon|Servant|02:18:11|03:48:58|
+|Evening|Jupiter|Ruler|18:44:15|20:15:01|
+|Late evening|Mars|Servant|20:15:02|21:45:48|
+|Midnight|Sun|Servant|21:45:49|23:16:36|
+|Late at night|Venus|Servant|23:16:37|00:47:23|
+|Rooster song|Mercury|Servant|00:47:24|02:18:11|
+|False Dawn|Moon|Servant|02:18:12|03:48:58|
 |Dawn|Saturn|Servant|03:48:59|05:19:46|
 
 {{< /tab >}}
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°41'28.73" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°44'11.71" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°28'43.54" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°6'52.37" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|9°6'52.36" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|2°41'28.73" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°44'11.71" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°28'43.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°6'52.37" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|9°6'52.36" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Arbeel, Arbela, Arbil, Arbēla, Arbīl, EBL, Erbil, Hawler, Hawlēr, Hewler, Hewlêr, Irbil, Irbīl, Viloati Arbil, ai er bi lei sheng, arbl, arbyl, arubiru xian, hەwlێr, mhafzt arbl, mhafzt arbyl, Арбил, Вилояти Арбӣл, מחוז ארביל, أربيل, إربل, إربيل, اربیل, محافظة أربيل, محافظة إربل, هەولێر, アルビール県, 埃爾比勒省
+Alternate Names: Arbeel,  Arbela,  Arbil,  Arbēla,  Arbīl,  EBL,  Erbil,  Hawler,  Hawlēr,  Hewler,  Hewlêr,  Irbil,  Irbīl,  Viloati Arbil,  ai er bi lei sheng,  arbl,  arbyl,  arubiru xian,  hەwlێr,  mhafzt arbl,  mhafzt arbyl,  Арбил,  Вилояти Арбӣл,  מחוז ארביל,  أربيل,  إربل,  إربيل,  اربیل,  محافظة أربيل,  محافظة إربل,  هەولێر,  アルビール県,  埃爾比勒省
 
 ---

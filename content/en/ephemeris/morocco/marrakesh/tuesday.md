@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Marakes, Marakesh, Marakeso, Marakeŝo, Marakeš, Maraksh, Marrakech, Marrakes, Marrakesch, Marrakesh, Marrakesz, Marraqueix, Marraquexe, Marràqueix, Marrákes, Marrákeš, Merrakex, Morocco City, RAK, ma la ke shen, marakeshu, mraksh, Маракеш, Марракеш, مراكش, ⴰⵎⵓⵔⴰⴽⵓⵛ, マラケシュ, 马拉喀什
+Alternate Names: Marakes,  Marakesh,  Marakeso,  Marakeŝo,  Marakeš,  Maraksh,  Marrakech,  Marrakes,  Marrakesch,  Marrakesh,  Marrakesz,  Marraqueix,  Marraquexe,  Marràqueix,  Marrákes,  Marrákeš,  Merrakex,  Morocco City,  RAK,  ma la ke shen,  marakeshu,  mraksh,  Маракеш,  Марракеш,  مراكش,  ⴰⵎⵓⵔⴰⴽⵓⵛ,  マラケシュ,  马拉喀什
 
 ---

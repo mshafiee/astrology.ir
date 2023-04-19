@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Kota Semarang, Kutha Semarang, SRG, Samarang, Semaran'nk, Semarang, Semarangas, cemaran, san bao long, san ma leng, se ma rang, semarangi, seumalang, smarang, sumaran, symarang, symaranj, Σεμαράνγκ, Семаранг, سمارانگ, سيمارانج, سیمارانگ, செமாராங், เซมารัง, სემარანგი, スマラン, 三孖冷, 三宝垄, 三寶瓏, 스마랑
+Alternate Names: Kota Semarang,  Kutha Semarang,  SRG,  Samarang,  Semaran'nk,  Semarang,  Semarangas,  cemaran,  san bao long,  san ma leng,  se ma rang,  semarangi,  seumalang,  smarang,  sumaran,  symarang,  symaranj,  Σεμαράνγκ,  Семаранг,  سمارانگ,  سيمارانج,  سیمارانگ,  செமாராங்,  เซมารัง,  სემარანგი,  スマラン,  三孖冷,  三宝垄,  三寶瓏,  스마랑
 
 ---

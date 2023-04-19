@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Coomassie, KMS, Kumase, Kumasi, Kumasi shaary, Kumasis, Kumassi, Kumasy, ku ma xi, kumashi, kumasi, kwmasy, Кумаси, Кумаси шаары, Кумасі, Կումասի, كوماسي, کوماسی, ਕੁਮਾਸੀ, クマシ, 库马西, 쿠마시
+Alternate Names: Coomassie,  KMS,  Kumase,  Kumasi,  Kumasi shaary,  Kumasis,  Kumaso,  Kumassi,  Kumasy,  ku ma xi,  kumashi,  kumasi,  kwmasy,  Кумаси,  Кумаси шаары,  Кумасі,  Կումասի,  كوماسي,  کوماسی,  ਕੁਮਾਸੀ,  クマシ,  库马西,  쿠마시
 
 ---

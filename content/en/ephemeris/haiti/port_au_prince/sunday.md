@@ -20,7 +20,7 @@ Latitude: 18.5435
 \-
 Longitude: -72.3388
 \-
-Altitude: 53 meters
+Altitude: 27 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Port-au-Prince, Haiti" lat="18.5435" lng="-72.3388" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:47:41 |
 | Medium Coeli | 12:47:41 |
 | Sunset | 19:08:45 |
-| Maghrib | 19:09:50 |
+| Maghrib | 19:09:43 |
 | Isha | 20:21:04 |
 | Sharia Midnight | 00:09:04 |
 | Imum Coeli | 00:47:35 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:47:41 |
 | Medium Coeli | 12:47:41 |
 | Sunset | 19:08:45 |
-| Maghrib | 19:09:50 |
+| Maghrib | 19:09:43 |
 | Isha | 20:12:06 |
 | Sharia Midnight | 00:15:48 |
 | Imum Coeli | 00:47:35 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:47:41 |
 | Medium Coeli | 12:47:41 |
 | Sunset | 19:08:45 |
-| Maghrib | 19:09:50 |
+| Maghrib | 19:09:43 |
 | Isha | 20:23:19 |
 | Sharia Midnight | 00:05:40 |
 | Imum Coeli | 00:47:35 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:47:41 |
 | Medium Coeli | 12:47:41 |
 | Sunset | 19:08:45 |
-| Maghrib | 19:09:50 |
+| Maghrib | 19:09:43 |
 | Isha | 20:25:35 |
 | Sharia Midnight | 00:09:04 |
 | Imum Coeli | 00:47:35 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:47:41 |
 | Medium Coeli | 12:47:41 |
 | Sunset | 19:08:45 |
-| Maghrib | 19:09:50 |
-| Isha | 20:39:50 |
+| Maghrib | 19:09:43 |
+| Isha | 20:39:43 |
 | Sharia Midnight | 00:07:56 |
 | Imum Coeli | 00:47:35 |
 {{< /tab >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:41:53|Night duration: 11:17:28|
+|Duration of the day: 12:41:53|Night duration: 11:17:27|
 |Every hour of day duration: 01:03:29|Every hour of night duration: 00:56:27|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|19:08:45|20:05:11|Attracting love and gaining financial capital|
 |2|Mars|Servant|20:05:12|21:01:38|Hateful actions, and avoiding any beneficial action|
-|3|Sun|Servant|21:01:39|21:58:06|Creating emotional attachment and love|
-|4|Venus|Servant|21:58:07|22:54:33|Being hateful and rejecting kindness|
+|3|Sun|Servant|21:01:39|21:58:05|Creating emotional attachment and love|
+|4|Venus|Servant|21:58:06|22:54:33|Being hateful and rejecting kindness|
 |5|Mercury|Servant|22:54:34|23:51:00|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|23:51:01|00:47:28|Performing all good deeds for a beneficial outcome|
-|7|Saturn|Servant|00:47:29|01:43:55|Avoiding any action that may lead to disaster|
-|8|Jupiter|Ruler|01:43:56|02:40:22|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|02:40:23|03:36:50|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|03:36:51|04:33:17|Attracting happiness and resolving financial problems|
-|11|Venus|Servant|04:33:18|05:29:44|Signing contracts|
-|12|Mercury|Servant|05:29:45|06:26:12|Uncovering fugitives and finding thieves|
+|6|Moon|Servant|23:51:01|00:47:27|Performing all good deeds for a beneficial outcome|
+|7|Saturn|Servant|00:47:28|01:43:54|Avoiding any action that may lead to disaster|
+|8|Jupiter|Ruler|01:43:55|02:40:22|Extremely lucky and attracting good fortune|
+|9|Mars|Servant|02:40:23|03:36:49|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|03:36:50|04:33:16|Attracting happiness and resolving financial problems|
+|11|Venus|Servant|04:33:17|05:29:43|Signing contracts|
+|12|Mercury|Servant|05:29:44|06:26:11|Uncovering fugitives and finding thieves|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:41:53|Night duration: 11:17:28|
+|Duration of the day: 12:41:53|Night duration: 11:17:27|
 |Every hour duration: 01:48:50|Every hour duration: 01:36:47|
 
  
@@ -272,10 +272,10 @@ Timetable of septet day and night planetary hours
 |Evening|Jupiter|Ruler|19:08:45|20:45:30|
 |Late evening|Mars|Servant|20:45:31|22:22:17|
 |Midnight|Sun|Servant|22:22:18|23:59:04|
-|Late at night|Venus|Servant|23:59:05|01:35:51|
-|Rooster song|Mercury|Servant|01:35:52|03:12:38|
-|False Dawn|Moon|Servant|03:12:39|04:49:25|
-|Dawn|Saturn|Servant|04:49:26|06:26:12|
+|Late at night|Venus|Servant|23:59:05|01:35:50|
+|Rooster song|Mercury|Servant|01:35:51|03:12:37|
+|False Dawn|Moon|Servant|03:12:38|04:49:24|
+|Dawn|Saturn|Servant|04:49:25|06:26:11|
 
 {{< /tab >}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|3°1'15.69" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°7'19.08" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°25'9.28" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°34'4.32" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°34'4.31" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|3°1'15.69" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°7'19.08" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°25'9.28" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°34'4.32" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|13°34'4.31" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: PAP, Port au Prince, Port o Prens, Port o Prensas, Port-au-Prince, Port-o-Prehns, Port-o-Prens, Port-o-Prins, Porto Principe, Porto Príncipe, Portoprensa, Portoprinco, Portus Principis, Potoprens, Puerto Principe, Puerto Príncipe, Pòtoprens, Ville de Port-au-Prince, bwrt aw brans, poleutopeulaengseu, porata-o-prainsa, port-o-pirins, porta-a-prinsa, porta-au-prinsa, porta-o-prinsa, porutopuransu, pwrtw prns, pwrtwprns, tai zi gang, Πορτ-ο-Πρενς, Порт о Пренс, Порт-о-Пренс, Порт-о-Прэнс, Պորտ-օ-Պրենս, פורט או פרינס, פורט-או-פרנס, بورت أو برانس, پورتو پرنس, پورتوپرنس, پورٹ او پرنس, पोर्ट-ऑ-प्रिंस, पोर्ट-औ-प्रिन्स, পোর্ট-অ-প্রিন্স, ਪੋਰਤ-ਓ-ਪ੍ਰੈਂਸ, போர்ட்-ஓ-பிரின்ஸ், പോർട്ട്-ഔ-പ്രിൻസ്, ปอร์โตแปรงซ์, པོ་རོ་ཊི་ཨའུ་པི་རིན་སི།, პორტ-ო-პრენსი, ፖርቶፕሪንስ, ポルトープランス, 太子港, 포르토프랭스
+Alternate Names: PAP,  Port au Prince,  Port o Prens,  Port o Prensas,  Port-au-Prince,  Port-o-Prehns,  Port-o-Prens,  Port-o-Prins,  Porto Principe,  Porto Príncipe,  Portoprensa,  Portoprinco,  Portus Principis,  Potoprens,  Puerto Principe,  Puerto Príncipe,  Pòtoprens,  Ville de Port-au-Prince,  bwrt aw brans,  poleutopeulaengseu,  porata-o-prainsa,  port-o-pirins,  porta-a-prinsa,  porta-au-prinsa,  porta-o-prinsa,  porutopuransu,  pwrtw prns,  pwrtwprns,  tai zi gang,  Πορτ-ο-Πρενς,  Порт о Пренс,  Порт-о-Пренс,  Порт-о-Прэнс,  Պորտ-օ-Պրենս,  פורט או פרינס,  פורט-או-פרנס,  بورت أو برانس,  پورتو پرنس,  پورتوپرنس,  پورٹ او پرنس,  पोर्ट-ऑ-प्रिंस,  पोर्ट-औ-प्रिन्स,  পোর্ট-অ-প্রিন্স,  ਪੋਰਤ-ਓ-ਪ੍ਰੈਂਸ,  போர்ட்-ஓ-பிரின்ஸ்,  പോർട്ട്-ഔ-പ്രിൻസ്,  ปอร์โตแปรงซ์,  པོ་རོ་ཊི་ཨའུ་པི་རིན་སི།,  პორტ-ო-პრენსი,  ፖርቶፕሪንስ,  ポルトープランス,  太子港,  포르토프랭스
 
 ---

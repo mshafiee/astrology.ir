@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: LAD, Loanda, Louanda, Louanta, Luand, Luanda, Luandae, Luando, Lwanda, Lúanda, Saint Paul de Loanda, Sao Paolo de Loanda, Sao Paulo da Assuncao de Luanda, Sao Paulo de Loanda, Sao Paulo de Luanda, St Paul de Loanda, São Paolo de Loanda, São Paulo da Assunção de Luanda, São Paulo de Loanda, São Paulo de Luanda, lu'anda, luanda, luo an da, luvanta, luxanda, luyanda, lwanda, ruanda, Λουάντα, Луандæ, Луанда, Լուանդա, לואנדה, לואנדע, لوآندا, لواندا, لونڈا, लुआंडा, लुआण्डा, লুয়ান্ডা, ਲੁਆਂਦਾ, லுவாண்டா, ลูอันดา, ལའུན་ཌ།, ლუანდა, ሏንዳ, ルアンダ, 罗安达, 루안다
+Alternate Names: LAD,  Loanda,  Louanda,  Louanta,  Luand,  Luanda,  Luandae,  Luando,  Lwanda,  Lúanda,  Saint Paul de Loanda,  Sao Paolo de Loanda,  Sao Paulo da Assuncao de Luanda,  Sao Paulo de Loanda,  Sao Paulo de Luanda,  St Paul de Loanda,  São Paolo de Loanda,  São Paulo da Assunção de Luanda,  São Paulo de Loanda,  São Paulo de Luanda,  lu an da,  lu'anda,  luanda,  luo an da,  luvanta,  luxanda,  luyanda,  lwanda,  ruanda,  Λουάντα,  Луандæ,  Луанда,  Լուանդա,  לואנדה,  לואנדע,  لوآندا,  لواندا,  لونڈا,  लुआंडा,  लुआण्डा,  লুয়ান্ডা,  ਲੁਆਂਦਾ,  லுவாண்டா,  ลูอันดา,  ལའུན་ཌ།,  ლუანდა,  ሏንዳ,  ルアンダ,  盧安達,  罗安达,  루안다
 
 ---

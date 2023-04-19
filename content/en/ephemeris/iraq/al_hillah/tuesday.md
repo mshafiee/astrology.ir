@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Al Hilla, Al Hillah, Al Ḩillah, Al'-Khilla, Al-Hella, Hilah, Hilla, Hille, Hillé, alhlt, Аль-Хилла, الحلة
+Alternate Names: Al Hilla,  Al Hillah,  Al Ḩillah,  Al'-Khilla,  Al-Hella,  Hilah,  Hilla,  Hille,  Hillé,  alhlt,  Аль-Хилла,  الحلة
 
 ---

@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: OSA, Osaacke, Osaca, Osaca - da ban shi, Osaca - 大阪市, Osaka, Osaka-shi, Osako, Oszaka, awsaka, awzaka, da ban, da ban shi, oosakashi, osaka, osaka si, xo sa ka, ywsaka, Ósaka, Ószaka, Ōsaka, Ōsaka-shi, Осака, אוסקה, أوساكا, ئوساكا, اوزاکا, ওসাকা, โอซะกะ, ოსაკა, おおさかし, 大阪, 大阪市, 오사카 시
+Alternate Names: OSA,  Osaacke,  Osaca,  Osaca - da ban shi,  Osaca - 大阪市,  Osaka,  Osaka-shi,  Osako,  Oszaka,  awsaka,  awzaka,  da ban,  da ban shi,  oosakashi,  osaka,  osaka si,  xo sa ka,  ywsaka,  Ósaka,  Ószaka,  Ōsaka,  Ōsaka-shi,  Осака,  אוסקה,  أوساكا,  ئوساكا,  اوزاکا,  ওসাকা,  โอซะกะ,  ოსაკა,  おおさかし,  大阪,  大阪市,  오사카 시
 
 ---

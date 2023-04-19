@@ -20,7 +20,7 @@ Latitude: 8.4871
 \-
 Longitude: -13.2356
 \-
-Altitude: 21 meters
+Altitude: 38 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Freetown, Sierra Leone" lat="8.4871" lng="-13.2356" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:20:11|Night duration: 11:39:22|
+|Duration of the day: 12:20:11|Night duration: 11:39:23|
 |Every hour of day duration: 01:01:41|Every hour of night duration: 00:58:17|
 
  
@@ -232,12 +232,12 @@ Timetable of twelve day and night planetary hours
 |4|Sun|Servant|21:57:18|22:55:34|Attracting material wealth, prosperity, and business growth|
 |5|Venus|Servant|22:55:35|23:53:51|Attracting negativity and creating chaos|
 |6|Mercury|Servant|23:53:52|00:52:08|Removing negative energy caused by the evil eye|
-|7|Moon|Servant|00:52:09|01:50:24|Attracting love, affection, and winning hearts|
-|8|Saturn|Ruler|01:50:25|02:48:41|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Jupiter|Servant|02:48:42|03:46:58|Creating emotional attachment|
-|10|Mars|Servant|03:46:59|04:45:15|Attracting negativity, and avoiding any harmful action|
-|11|Sun|Servant|04:45:16|05:43:32|Attracting connection and marriage proposals|
-|12|Venus|Servant|05:43:33|06:41:49|Creating hatred and corruption to disrupt harmony|
+|7|Moon|Servant|00:52:09|01:50:25|Attracting love, affection, and winning hearts|
+|8|Saturn|Ruler|01:50:26|02:48:42|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Jupiter|Servant|02:48:43|03:46:59|Creating emotional attachment|
+|10|Mars|Servant|03:47:00|04:45:16|Attracting negativity, and avoiding any harmful action|
+|11|Sun|Servant|04:45:17|05:43:33|Attracting connection and marriage proposals|
+|12|Venus|Servant|05:43:34|06:41:50|Creating hatred and corruption to disrupt harmony|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:20:11|Night duration: 11:39:22|
+|Duration of the day: 12:20:11|Night duration: 11:39:23|
 |Every hour duration: 01:45:44|Every hour duration: 01:39:55|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Saturn|Ruler|19:02:28|20:42:21|
 |Late evening|Jupiter|Servant|20:42:22|22:22:16|
-|Midnight|Mars|Servant|22:22:17|00:02:10|
-|Late at night|Sun|Servant|00:02:11|01:42:05|
-|Rooster song|Venus|Servant|01:42:06|03:21:59|
-|False Dawn|Mercury|Servant|03:22:00|05:01:54|
-|Dawn|Moon|Servant|05:01:55|06:41:49|
+|Midnight|Mars|Servant|22:22:17|00:02:11|
+|Late at night|Sun|Servant|00:02:12|01:42:05|
+|Rooster song|Venus|Servant|01:42:06|03:22:00|
+|False Dawn|Mercury|Servant|03:22:01|05:01:55|
+|Dawn|Moon|Servant|05:01:56|06:41:50|
 
 {{< /tab >}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|27°59'5.30" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°12'37.77" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Retrograde|15°8'54.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°4'48.80" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|4°4'48.81" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|27°59'5.30" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|8°12'37.77" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°8'54.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°4'48.80" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°4'48.81" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: FNA, Freetown, Frijtaun, Fritaun, Fritauna, Fritaunas, Fritauno, Fritaŭno, Fritonn, Frytaun, Frītauna, Phritaoun, Saint George, Urbs Libera, farita'una, fri thawn, frita'una, frytawn, frytwn, fu li dun, furitaun, peulitaun, phrita'una, phritaun, piritavun, zi you shi, Φρίταουν, Фрийтаун, Фритаун, Фрытаўн, Фрітаун, Ֆրիթաուն, פריטאון, فريتاون, فريتون, فری ٹاؤن, فریتاون, فری
+Alternate Names: FNA,  Freetown,  Frijtaun,  Fritaun,  Fritauna,  Fritaunas,  Fritauno,  Fritaŭno,  Fritonn,  Frytaun,  Frītauna,  Phritaoun,  Saint George,  Urbs Libera,  farita'una,  fri thawn,  frita'una,  frytawn,  frytwn,  fu li dun,  furitaun,  peulitaun,  phrita'una,  phritaun,  piritavun,  zi you shi,  Φρίταουν,  Фрийтаун,  Фритаун,  Фрытаўн,  Фрітаун,  Ֆրիթաուն,  פריטאון,  فريتاون,  فريتون,  فری ٹاؤن,  فریتاون,  فری
 
 ---

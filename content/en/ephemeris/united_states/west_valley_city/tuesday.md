@@ -1,0 +1,382 @@
+---
+date: 2023-04-18T00:00:00-06:00
+lastmod: 2023-04-18T00:00:00-06:00
+title: West Valley City (Tuesday)
+slug: tuesday
+categories:
+  - Ephemeris
+tags:
+  - Ephemeris
+  - United States
+  - West Valley City
+description: 🗓 Tuesday, 18 Apr 2023
+
+toc: false
+---
+## Geographic coordinates
+TimeZone: -06:00
+\-
+Latitude: 40.6916
+\-
+Longitude: -112.0011
+\-
+Altitude: 1,316 meters
+
+{{< osm-maps-embed width="100%" height="300px" attribution="West Valley City, United States" lat="40.6916" lng="-112.0011" zoom="12">}}
+
+
+## Sharia Times
+
+{{< tabs tabTotal="7" >}}
+
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+ \
+__Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
+| Moment | Time |
+|-|:-:|
+| Dawn | 05:16:33 |
+| Sunrise | 06:45:13 |
+| Dhuhr | 13:27:19 |
+| Medium Coeli | 13:27:19 |
+| Sunset | 20:10:08 |
+| Maghrib | 20:29:22 |
+| Isha | 21:27:01 |
+| Sharia Midnight | 00:42:26 |
+| Imum Coeli | 01:27:13 |
+{{< /tab >}}
+
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+ \
+__Institute of Geophysics, University of Tehran Calculation Method__
+| Moment | Time |
+|-|:-:|
+| Dawn | 05:06:02 |
+| Sunrise | 06:45:13 |
+| Dhuhr | 13:27:19 |
+| Medium Coeli | 13:27:19 |
+| Sunset | 20:10:08 |
+| Maghrib | 20:32:09 |
+| Isha | 21:27:01 |
+| Sharia Midnight | 00:37:08 |
+| Imum Coeli | 01:27:13 |
+{{< /tab >}}
+
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+ \
+__Muslim World League Calculation Method__
+| Moment | Time |
+|-|:-:|
+| Dawn | 05:04:09 |
+| Sunrise | 06:45:13 |
+| Dhuhr | 13:27:19 |
+| Medium Coeli | 13:27:19 |
+| Sunset | 20:10:08 |
+| Maghrib | 20:15:54 |
+| Isha | 21:45:23 |
+| Sharia Midnight | 00:36:11 |
+| Imum Coeli | 01:27:13 |
+{{< /tab >}}
+
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+ \
+__Islamic Society of North America (ISNA) Calculation Method__
+| Moment | Time |
+|-|:-:|
+| Dawn | 05:22:38 |
+| Sunrise | 06:45:13 |
+| Dhuhr | 13:27:19 |
+| Medium Coeli | 13:27:19 |
+| Sunset | 20:10:08 |
+| Maghrib | 20:15:54 |
+| Isha | 21:33:04 |
+| Sharia Midnight | 00:45:29 |
+| Imum Coeli | 01:27:13 |
+{{< /tab >}}
+
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+ \
+__Egyptian General Authority of Survey Calculation Method__
+| Moment | Time |
+|-|:-:|
+| Dawn | 04:54:37 |
+| Sunrise | 06:45:13 |
+| Dhuhr | 13:27:19 |
+| Medium Coeli | 13:27:19 |
+| Sunset | 20:10:08 |
+| Maghrib | 20:15:54 |
+| Isha | 21:48:31 |
+| Sharia Midnight | 00:31:24 |
+| Imum Coeli | 01:27:13 |
+{{< /tab >}}
+
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+ \
+__University of Islamic Sciences, Karachi Calculation Method__
+| Moment | Time |
+|-|:-:|
+| Dawn | 05:04:09 |
+| Sunrise | 06:45:13 |
+| Dhuhr | 13:27:19 |
+| Medium Coeli | 13:27:19 |
+| Sunset | 20:10:08 |
+| Maghrib | 20:15:54 |
+| Isha | 21:51:40 |
+| Sharia Midnight | 00:36:11 |
+| Imum Coeli | 01:27:13 |
+{{< /tab >}}
+
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+ \
+__Umm al-Qura University, Makkah Calculation Method__
+| Moment | Time |
+|-|:-:|
+| Dawn | 05:01:00 |
+| Sunrise | 06:45:13 |
+| Dhuhr | 13:27:19 |
+| Medium Coeli | 13:27:19 |
+| Sunset | 20:10:08 |
+| Maghrib | 20:15:54 |
+| Isha | 21:45:54 |
+| Sharia Midnight | 00:34:36 |
+| Imum Coeli | 01:27:13 |
+{{< /tab >}}
+
+{{< /tabs >}}
+
+## Ascendant
+
+{{< tabs tabTotal="2" >}}
+
+{{< tab tabName="house_cusps_sidereal" tabActive=true tabTitle="Sidereal" >}}
+\
+Earth movement calendar in twelve houses based on sidereal calculations
+
+|Sign|Start Time|Finish Time|
+|-|:-:|:-:|
+|♓ Pisces|05:42:40|06:53:54|
+|♈ Aries|06:53:55|08:19:55|
+|♉ Taurus|08:19:56|10:14:21|
+|♊ Gemini|10:14:22|12:36:40|
+|♋ Cancer|12:36:41|15:09:15|
+|♌ Leo|15:09:16|17:40:41|
+|♍ Virgo|17:40:42|20:12:06|
+|♎ Libra|20:12:07|22:44:41|
+|♏ Scorpio|22:44:42|01:07:00|
+|♐ Sagittarius|01:07:01|03:01:26|
+|♑ Capricorn|03:01:27|04:27:28|
+|♒ Aquarius|04:27:29|05:38:43|
+
+
+{{< /tab >}}
+
+{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
+\
+Earth movement calendar in twelve houses based on tropical calculations
+
+|Sign|Start Time|Finish Time|
+|-|:-:|:-:|
+|♈ Aries|05:42:40|06:53:54|
+|♉ Taurus|06:53:55|08:19:55|
+|♊ Gemini|08:19:56|10:14:21|
+|♋ Cancer|10:14:22|12:36:40|
+|♌ Leo|12:36:41|15:09:15|
+|♍ Virgo|15:09:16|17:40:41|
+|♎ Libra|17:40:42|20:12:06|
+|♏ Scorpio|20:12:07|22:44:41|
+|♐ Sagittarius|22:44:42|01:07:00|
+|♑ Capricorn|01:07:01|03:01:26|
+|♒ Aquarius|03:01:27|04:27:28|
+|♓ Pisces|04:27:29|05:38:43|
+
+
+{{< /tab >}}
+
+{{< /tabs >}}
+
+## Planetary Hours
+
+{{< tabs tabTotal="2" >}}
+
+{{< tab tabName="twelve_planetary_hours" tabActive=true tabTitle="Twelve" >}}
+\
+Timetable of twelve day and night planetary hours
+
+|Day|Night|
+|-|-|
+|The ruler of the day: Mars|The ruler of the night: Saturn|
+|Duration of the day: 13:24:55|Night duration: 10:33:36|
+|Every hour of day duration: 01:07:05|Every hour of night duration: 00:52:48|
+
+ 
+|Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|Mars|Ruler|06:45:13|07:52:16|Creating corruption, hatred, and enmity|
+|2|Sun|Servant|07:52:17|08:59:21|Attracting negativity, and avoiding any harmful action|
+|3|Venus|Servant|08:59:22|10:06:25|Attracting connection and marriage proposals|
+|4|Mercury|Servant|10:06:26|11:13:30|Attracting material wealth, prosperity, and business growth|
+|5|Moon|Servant|11:13:31|12:20:34|Attracting negativity and creating chaos|
+|6|Saturn|Servant|12:20:35|13:27:39|Removing negative energy caused by the evil eye|
+|7|Jupiter|Servant|13:27:40|14:34:44|Attracting love, affection, and winning hearts|
+|8|Mars|Ruler|14:34:45|15:41:48|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Sun|Servant|15:41:49|16:48:53|Creating emotional attachment|
+|10|Venus|Servant|16:48:54|17:55:57|Attracting negativity, and avoiding any harmful action|
+|11|Mercury|Servant|17:55:58|19:03:02|Attracting connection and marriage proposals|
+|12|Moon|Servant|19:03:03|20:10:07|Creating hatred and corruption to disrupt harmony|
+
+ 
+|Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|Saturn|Ruler|20:10:08|21:02:55|Creating corruption, hatred, and enmity|
+|2|Jupiter|Servant|21:02:56|21:55:43|Attracting negativity, and avoiding any harmful action|
+|3|Mars|Servant|21:55:44|22:48:31|Attracting connection and marriage proposals|
+|4|Sun|Servant|22:48:32|23:41:19|Attracting material wealth, prosperity, and business growth|
+|5|Venus|Servant|23:41:20|00:34:07|Attracting negativity and creating chaos|
+|6|Mercury|Servant|00:34:08|01:26:55|Removing negative energy caused by the evil eye|
+|7|Moon|Servant|01:26:56|02:19:43|Attracting love, affection, and winning hearts|
+|8|Saturn|Ruler|02:19:44|03:12:31|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Jupiter|Servant|03:12:32|04:05:19|Creating emotional attachment|
+|10|Mars|Servant|04:05:20|04:58:07|Attracting negativity, and avoiding any harmful action|
+|11|Sun|Servant|04:58:08|05:50:55|Attracting connection and marriage proposals|
+|12|Venus|Servant|05:50:56|06:43:43|Creating hatred and corruption to disrupt harmony|
+
+ 
+ 
+{{< /tab >}}
+
+{{< tab tabName="septet_planetary_hours" tabActive=false tabTitle="Septet" >}}
+\
+Timetable of septet day and night planetary hours
+
+|Day|Night|
+|-|-|
+|The ruler of the day: Mars|The ruler of the night: Saturn|
+|Duration of the day: 13:24:55|Night duration: 10:33:36|
+|Every hour duration: 01:54:59|Every hour duration: 01:30:31|
+
+ 
+ 
+ 
+|Hours of the day|Ruler|Rank|Start Time|Finish Time|
+|:-:|:-:|:-:|:-:|:-:|
+|Early morning|Mars|Ruler|06:45:13|08:40:11|
+|Mid-morning|Sun|Servant|08:40:12|10:35:10|
+|Late morning|Venus|Servant|10:35:11|12:30:09|
+|Noon|Mercury|Servant|12:30:10|14:25:09|
+|Early afternoon|Moon|Servant|14:25:10|16:20:08|
+|Mid-afternoon|Saturn|Servant|16:20:09|18:15:07|
+|Late afternoon|Jupiter|Servant|18:15:08|20:10:07|
+
+ 
+|Hours of the night|Ruler|Rank|Start Time|Finish Time|
+|:-:|:-:|:-:|:-:|:-:|
+|Evening|Saturn|Ruler|20:10:08|21:40:37|
+|Late evening|Jupiter|Servant|21:40:38|23:11:08|
+|Midnight|Mars|Servant|23:11:09|00:41:39|
+|Late at night|Sun|Servant|00:41:40|02:12:10|
+|Rooster song|Venus|Servant|02:12:11|03:42:41|
+|False Dawn|Mercury|Servant|03:42:42|05:13:12|
+|Dawn|Moon|Servant|05:13:13|06:43:43|
+
+{{< /tab >}}
+
+{{< /tabs >}}
+
+## The position of the planets at sunrise
+
+{{< tabs tabTotal="2" >}}
+
+{{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
+\
+Position of planets based on sidereal calculations at sunrise
+
+|Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
+|-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Direct|4°24'23.08" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°20'53.21" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°15'8.74" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°13'49.17" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°30'0.50" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°13'21.65" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°17'35.39" |Pisces|FarghAlMuakhar|Saturn|
+
+
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
+|-|:-:|:-:|:-:|:-:|
+|♄ Saturn|Mercury|Saturn|Saturn|Saturn|
+|♃ Jupiter|Mars|Mars|Mars|Mars|
+|♂ Mars|Venus|Jupiter|Venus|Mars|
+|☉ Sun|Saturn|Saturn|Mars|Mars|
+|♀ Venus|Mercury|Mercury|Venus|Moon|
+|☿ Mercury|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
+
+
+|Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
+|-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Jupiter|Mars|Pisces|Sun|Saturn|
+|♃ Jupiter|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|♂ Mars|Saturn|Saturn|Libra|Sun|Mercury|
+|☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|♀ Venus|Mercury|Jupiter|Leo|Moon|Venus|
+|☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
+|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+
+
+{{< /tab >}}
+
+{{< tab tabName="planet_postions_at_sunrise_tropical" tabActive=false tabTitle="Tropical" >}}
+\
+Position of planets based on tropical calculations at sunrise
+
+|Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
+|-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Direct|4°24'23.08" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°20'53.21" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°15'8.74" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|28°13'49.17" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|8°30'0.50" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°13'21.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°17'35.39" |Aries|Sharatain|Mars|
+
+
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
+|-|:-:|:-:|:-:|:-:|
+|♄ Saturn|Venus|Venus|Jupiter|Venus|
+|♃ Jupiter|Mars|Mars|Jupiter|Saturn|
+|♂ Mars|Venus|Jupiter|Mars|Moon|
+|☉ Sun|Saturn|Saturn|Jupiter|Saturn|
+|♀ Venus|Jupiter|Jupiter|Mercury|Sun|
+|☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mars|
+
+
+|Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
+|-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Mars|Sun|Aries|Moon|Jupiter|
+|♃ Jupiter|Saturn|Mars|Capricorn|Moon|Saturn|
+|♂ Mars|Jupiter|Venus|Scorpio|Moon|Moon|
+|☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|♀ Venus|Moon|Jupiter|Virgo|Sun|Mercury|
+|☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+
+
+{{< /tab >}}
+
+{{< /tabs >}}
+
+## The aspects of the planets at sunrise
+
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|<sub>**♃ Jupiter**|<sub> |<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+
+---
+Alternate Names: Granger-Hunter,  Uehst-Valli-Siti,  Uest Vali Siti,  Vest Vali Siti,  Vest-Velli-Siti,  Wast Valley Ceety,  West Valley,  West Valley City,  uesutobareshiti,  wst wly syty  ywta,  wyst faly syty,  xi wa li cheng,  Вест Вали Сити,  Вест-Веллі-Сіті,  Уест Вали Сити,  Уэст-Валли-Сити,  وست ولی سیتی، یوتا,  ويست فالي سيتي,  چیسٹرفیلڈ، یوٹاہ,  ウェストバレーシティ,  西瓦利城
+
+---

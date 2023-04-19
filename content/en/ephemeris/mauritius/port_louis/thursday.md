@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Bort Lois, Po-Loui, Por Loui, Por-Loui, Port Lois, Port Louis, Port Louis Town, Port Lui, Port Luis, Port Luisas, Port Luiz, Port-Louis, Port-Lui, Port-Luiso, Port-lui, Portlui, Portluī, Portus Ludovici, Puerto Louis, Pò-Loui, bwr lwys, lu yi gang, phxrt hluys, porata lu'i, port luyis, porta lu'i, porta lu'isa, poteulu-iseu, potoruisu, pwr lwʼy, Πορ Λουί, Πορ-Λουί, Порт Луи, Порт Луис, Порт-Луи, Порт-Луі, Порт-Луї, Պորտ Լուի, פור לואי, بور لويس, پورت
+Alternate Names: Bort Lois,  Po-Loui,  Por Loui,  Por-Loui,  Port Lois,  Port Louis,  Port Louis Town,  Port Lui,  Port Luis,  Port Luisas,  Port Luiz,  Port-Louis,  Port-Lui,  Port-Luiso,  Port-lui,  Portlui,  Portluī,  Portus Ludovici,  Puerto Louis,  Pò-Loui,  bwr lwys,  lu yi gang,  phxrt hluys,  porata lu'i,  port luyis,  porta lu'i,  porta lu'isa,  poteulu-iseu,  potoruisu,  pwr lwʼy,  Πορ Λουί,  Πορ-Λουί,  Порт Луи,  Порт Луис,  Порт-Луи,  Порт-Луі,  Порт-Луї,  Պորտ Լուի,  פור לואי,  بور لويس,  پورت
 
 ---

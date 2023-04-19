@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: LIM, Lim, Lima, Limae, Limaq, Lime, Limma, Limo, Lioma, Lungsod ng Lima, Lìmma, Líma, Líoma, Lîma, li ma, lima, lyma, lymh, rima, Λίμα, Лимæ, Лима, Лиме, Ліма, Լիմա, לימא, לימה, لىما, ليما, لیما, लिमा, लीमा, লিমা, ਲੀਮਾ, ଲିମା, லிமா, ലിമ, ลิมา, ལི་མ།, ლიმა, ሊማ, リマ, 利馬, 리마
+Alternate Names: LIM,  Lim,  Lima,  Limae,  Limaq,  Lime,  Limma,  Limo,  Lioma,  Lungsod ng Lima,  Lìmma,  Líma,  Líoma,  Lîma,  li ma,  lima,  lyma,  lymh,  rima,  Λίμα,  Лимæ,  Лима,  Лиме,  Ліма,  Լիմա,  לימא,  לימה,  لىما,  ليما,  لیما,  लिमा,  लीमा,  লিমা,  ਲੀਮਾ,  ଲିମା,  லிமா,  ലിമ,  ลิมา,  ལི་མ།,  ლიმა,  ሊማ,  リマ,  利馬,  리마
 
 ---

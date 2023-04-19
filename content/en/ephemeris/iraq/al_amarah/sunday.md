@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Al `Amarah, Al ‘Amārah, Amara, Amarah, Amare, Amaré, `Amara, alʿmart, العمارة, العماره, ‘Amāra
+Alternate Names: Al `Amarah,  Al ‘Amārah,  Amara,  Amarah,  Amare,  Amaré,  `Amara,  alʿmart,  العمارة,  العماره,  ‘Amāra
 
 ---

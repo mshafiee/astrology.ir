@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Azmir, Esmirna, IZM, Ismir, Izmir, Izmira, Izmiras, Izmiro, Smirne, Smyrna, Smyrne, Yazmir, azmyr, izmiri, izumiru, yi zi mi er, İzmir, Σμύρνη, Измир, איזמיר, إزمير, იზმირი, イズミル, 伊兹密尔
+Alternate Names: Azmir,  Esmirna,  IZM,  Ismir,  Izmir,  Izmira,  Izmiras,  Izmiro,  Smirne,  Smyrna,  Smyrne,  Yazmir,  azmyr,  izmiri,  izumiru,  yi zi mi er,  İzmir,  Σμύρνη,  Измир,  איזמיר,  إزمير,  იზმირი,  イズミル,  伊兹密尔
 
 ---

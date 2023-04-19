@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운
+Alternate Names: BGI,  Bridgetown,  Bridzhtaun,  Bridztaun,  Bridztaunas,  Bridžtaunas,  Brigtauno,  Briĝtaŭno,  The Bridge Town,  beulijitaun,  brydj tawn,  bu li qi dun,  burijjitaun,  Бриджтаун,  Бриџтаун,  ברידג'טאון,  بريدج تاون,  ብርጅታውን,  ブリッジタウン,  布里奇敦,  브리지타운
 
 ---

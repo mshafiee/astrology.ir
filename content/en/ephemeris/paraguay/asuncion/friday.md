@@ -20,7 +20,7 @@ Latitude: -25.2865
 \-
 Longitude: -57.6470
 \-
-Altitude: 107 meters
+Altitude: 113 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Asuncion, Paraguay" lat="-25.2865" lng="-57.6470" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 11:49:18 |
 | Medium Coeli | 11:49:18 |
 | Sunset | 17:30:08 |
-| Maghrib | 17:31:45 |
+| Maghrib | 17:31:48 |
 | Isha | 18:43:37 |
 | Sharia Midnight | 23:10:22 |
 | Imum Coeli | 23:49:12 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 11:49:18 |
 | Medium Coeli | 11:49:18 |
 | Sunset | 17:30:08 |
-| Maghrib | 17:31:45 |
+| Maghrib | 17:31:48 |
 | Isha | 18:34:43 |
 | Sharia Midnight | 23:17:02 |
 | Imum Coeli | 23:49:12 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 11:49:18 |
 | Medium Coeli | 11:49:18 |
 | Sunset | 17:30:08 |
-| Maghrib | 17:31:45 |
+| Maghrib | 17:31:48 |
 | Isha | 18:45:50 |
 | Sharia Midnight | 23:07:02 |
 | Imum Coeli | 23:49:12 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 11:49:18 |
 | Medium Coeli | 11:49:18 |
 | Sunset | 17:30:08 |
-| Maghrib | 17:31:45 |
+| Maghrib | 17:31:48 |
 | Isha | 18:48:03 |
 | Sharia Midnight | 23:10:22 |
 | Imum Coeli | 23:49:12 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 11:49:18 |
 | Medium Coeli | 11:49:18 |
 | Sunset | 17:30:08 |
-| Maghrib | 17:31:45 |
-| Isha | 19:01:45 |
+| Maghrib | 17:31:48 |
+| Isha | 19:01:48 |
 | Sharia Midnight | 23:09:15 |
 | Imum Coeli | 23:49:12 |
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ASU, Asounsion, Asounsyon, Asounsyòn, Asounthion, Assumptio, Assuncao, Assuncion, Assunção, Asuncion, Asunciono, Asunción, Asuns'jon, Asuns'on, Asunsaun, Asunsion, Asunsjon, Asunsjona, Asunsjonas, Asunson, Asunsyon, Asunsyun, Asúnsjón, Gunung Berapi Asuncion, La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion, La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción, Nuestra Senora Santa Maria de la Asuncion, Nuestra Señora Santa María de la Asunción, Paraguay, acunciyon, asnshn, asunshion, asunsion, asunsioni, asunsiyona, asusi'ona, aswnsywn, xa sun si xxng, ya song sen, Ασουνθιόν, Ασουνσιόν, Асунсион, Асунсьйон, Асунсьон, Асунсьён, Ասունսյոն, אסונסיאן, אסונסיון, آسونسیون, أسونسيون, ئاسۇنسىئون, اسنشن, اسونسیون, आसुन्सियोन, ਅਸੂੰਸੀਓਨ, அசுன்சியோன், ಅಸೂನ್
+Alternate Names: ASU,  Asounsion,  Asounsyon,  Asounsyòn,  Asounthion,  Assumptio,  Assuncao,  Assuncion,  Assunção,  Asuncion,  Asunciono,  Asunción,  Asuns'jon,  Asuns'on,  Asunsaun,  Asunsion,  Asunsjon,  Asunsjona,  Asunsjonas,  Asunson,  Asunsyon,  Asunsyun,  Asúnsjón,  Gunung Berapi Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción,  Nuestra Senora Santa Maria de la Asuncion,  Nuestra Señora Santa María de la Asunción,  Paraguay,  acunciyon,  asnshn,  asunshion,  asunsion,  asunsioni,  asunsiyona,  asusi'ona,  aswnsywn,  xa sun si xxng,  ya song sen,  Ασουνθιόν,  Ασουνσιόν,  Асунсион,  Асунсьйон,  Асунсьон,  Асунсьён,  Ասունսյոն,  אסונסיאן,  אסונסיון,  آسونسیون,  أسونسيون,  ئاسۇنسىئون,  اسنشن,  اسونسیون,  आसुन्सियोन,  ਅਸੂੰਸੀਓਨ,  அசுன்சியோன்,  ಅಸೂನ್
 
 ---

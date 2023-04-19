@@ -20,7 +20,7 @@ Latitude: -31.9522
 \-
 Longitude: 115.8614
 \-
-Altitude: 46 meters
+Altitude: 34 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Perth, Australia" lat="-31.9522" lng="115.8614" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:16:01 |
 | Medium Coeli | 12:16:01 |
 | Sunset | 17:52:50 |
-| Maghrib | 17:53:57 |
+| Maghrib | 17:53:54 |
 | Isha | 19:10:45 |
 | Sharia Midnight | 23:34:45 |
 | Imum Coeli | 00:15:54 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:16:01 |
 | Medium Coeli | 12:16:01 |
 | Sunset | 17:52:50 |
-| Maghrib | 17:53:57 |
+| Maghrib | 17:53:54 |
 | Isha | 19:01:19 |
 | Sharia Midnight | 23:41:50 |
 | Imum Coeli | 00:15:54 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:16:01 |
 | Medium Coeli | 12:16:01 |
 | Sunset | 17:52:50 |
-| Maghrib | 17:53:57 |
+| Maghrib | 17:53:54 |
 | Isha | 19:13:06 |
 | Sharia Midnight | 23:31:13 |
 | Imum Coeli | 00:15:54 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:16:01 |
 | Medium Coeli | 12:16:01 |
 | Sunset | 17:52:50 |
-| Maghrib | 17:53:57 |
+| Maghrib | 17:53:54 |
 | Isha | 19:15:28 |
 | Sharia Midnight | 23:34:45 |
 | Imum Coeli | 00:15:54 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:16:01 |
 | Medium Coeli | 12:16:01 |
 | Sunset | 17:52:50 |
-| Maghrib | 17:53:57 |
-| Isha | 19:23:57 |
+| Maghrib | 17:53:54 |
+| Isha | 19:23:54 |
 | Sharia Midnight | 23:33:34 |
 | Imum Coeli | 00:15:54 |
 {{< /tab >}}
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|27°39'23.81" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|7°49'25.24" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Retrograde|15°2'17.78" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°22'22.35" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|29°22'22.34" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|27°39'23.81" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|7°49'25.24" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°2'17.78" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°22'22.35" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|29°22'22.34" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: PER, Peairt, Pert, Perta, Pertas, Perth, Perth City, Perthia, Perto, Perþ, Pirth, Purt, Pērta, byrth, part, partha, pasu, peoseu, pert, pheirth, po si, prt, prt', prtھ  asٹrylya, Περθ, Перт, Пертһ, Пърт, Պերթ, פרת', بيرث, پرت, پرتھ، آسٹریلیا, पर्थ, பேர்த், ಪರ್ತ್, പെർത്ത്, เพิร์ท, ပါ့သ်မြို့, პერთი, パース, 珀斯, 퍼스
+Alternate Names: PER,  Peairt,  Pert,  Perta,  Pertas,  Perth,  Perth City,  Perthia,  Perto,  Perþ,  Pet,  Pirth,  Purt,  Pērta,  byrth,  part,  partha,  pasu,  peoseu,  pert,  pheirth,  po si,  prt,  prt',  prtھ  asٹrylya,  Περθ,  Перт,  Пертһ,  Пърт,  Պերթ,  פרת',  بيرث,  پرت,  پرتھ، آسٹریلیا,  पर्थ,  பேர்த்,  ಪರ್ತ್,  പെർത്ത്,  เพิร์ท,  ပါ့သ်မြို့,  პერთი,  パース,  珀斯,  퍼스
 
 ---

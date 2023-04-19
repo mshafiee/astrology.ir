@@ -20,7 +20,7 @@ Latitude: 6.1236
 \-
 Longitude: 102.2433
 \-
-Altitude: 1 meters
+Altitude: 10 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Kota Bharu, Malaysia" lat="6.1236" lng="102.2433" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:59:06 |
-| Sunrise | 07:02:19 |
+| Sunrise | 07:02:20 |
 | Dhuhr | 13:10:28 |
 | Medium Coeli | 13:10:28 |
 | Sunset | 19:18:42 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:52:05 |
-| Sunrise | 07:02:19 |
+| Sunrise | 07:02:20 |
 | Dhuhr | 13:10:28 |
 | Medium Coeli | 13:10:28 |
 | Sunset | 19:18:42 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:50:50 |
-| Sunrise | 07:02:19 |
+| Sunrise | 07:02:20 |
 | Dhuhr | 13:10:28 |
 | Medium Coeli | 13:10:28 |
 | Sunset | 19:18:42 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 06:03:13 |
-| Sunrise | 07:02:19 |
+| Sunrise | 07:02:20 |
 | Dhuhr | 13:10:28 |
 | Medium Coeli | 13:10:28 |
 | Sunset | 19:18:42 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:44:38 |
-| Sunrise | 07:02:19 |
+| Sunrise | 07:02:20 |
 | Dhuhr | 13:10:28 |
 | Medium Coeli | 13:10:28 |
 | Sunset | 19:18:42 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:50:50 |
-| Sunrise | 07:02:19 |
+| Sunrise | 07:02:20 |
 | Dhuhr | 13:10:28 |
 | Medium Coeli | 13:10:28 |
 | Sunset | 19:18:42 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:48:46 |
-| Sunrise | 07:02:19 |
+| Sunrise | 07:02:20 |
 | Dhuhr | 13:10:28 |
 | Medium Coeli | 13:10:28 |
 | Sunset | 19:18:42 |
@@ -204,19 +204,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:16:23|Night duration: 11:43:15|
+|Duration of the day: 12:16:22|Night duration: 11:43:15|
 |Every hour of day duration: 01:01:22|Every hour of night duration: 00:58:36|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|07:02:19|08:03:39|Creating corruption, hatred, and enmity|
-|2|Sun|Servant|08:03:40|09:05:01|Attracting negativity, and avoiding any harmful action|
-|3|Venus|Servant|09:05:02|10:06:23|Attracting connection and marriage proposals|
-|4|Mercury|Servant|10:06:24|11:07:45|Attracting material wealth, prosperity, and business growth|
-|5|Moon|Servant|11:07:46|12:09:07|Attracting negativity and creating chaos|
-|6|Saturn|Servant|12:09:08|13:10:29|Removing negative energy caused by the evil eye|
-|7|Jupiter|Servant|13:10:30|14:11:51|Attracting love, affection, and winning hearts|
+|1|Mars|Ruler|07:02:20|08:03:40|Creating corruption, hatred, and enmity|
+|2|Sun|Servant|08:03:41|09:05:02|Attracting negativity, and avoiding any harmful action|
+|3|Venus|Servant|09:05:03|10:06:24|Attracting connection and marriage proposals|
+|4|Mercury|Servant|10:06:25|11:07:46|Attracting material wealth, prosperity, and business growth|
+|5|Moon|Servant|11:07:47|12:09:08|Attracting negativity and creating chaos|
+|6|Saturn|Servant|12:09:09|13:10:30|Removing negative energy caused by the evil eye|
+|7|Jupiter|Servant|13:10:31|14:11:51|Attracting love, affection, and winning hearts|
 |8|Mars|Ruler|14:11:52|15:13:13|Creating corruption, destroying enemies, and causing illness to enemies|
 |9|Sun|Servant|15:13:14|16:14:35|Creating emotional attachment|
 |10|Venus|Servant|16:14:36|17:15:57|Attracting negativity, and avoiding any harmful action|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:16:23|Night duration: 11:43:15|
+|Duration of the day: 12:16:22|Night duration: 11:43:15|
 |Every hour duration: 01:45:12|Every hour duration: 01:40:28|
 
  
@@ -258,10 +258,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|07:02:19|08:47:29|
-|Mid-morning|Sun|Servant|08:47:30|10:32:41|
-|Late morning|Venus|Servant|10:32:42|12:17:53|
-|Noon|Mercury|Servant|12:17:54|14:03:05|
+|Early morning|Mars|Ruler|07:02:20|08:47:30|
+|Mid-morning|Sun|Servant|08:47:31|10:32:42|
+|Late morning|Venus|Servant|10:32:43|12:17:54|
+|Noon|Mercury|Servant|12:17:55|14:03:05|
 |Early afternoon|Moon|Servant|14:03:06|15:48:17|
 |Mid-afternoon|Saturn|Servant|15:48:18|17:33:29|
 |Late afternoon|Jupiter|Servant|17:33:30|19:18:41|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°21'23.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°12'38.37" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|11°56'56.29" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|27°40'20.57" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|7°50'32.49" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Retrograde|15°2'37.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°31'37.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|4°21'23.32" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°12'38.38" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°56'56.31" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|27°40'20.61" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|7°50'32.54" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°2'37.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°31'38.17" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°21'23.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°12'38.37" |Aries|Butain|Venus|
-|♂ Mars|Direct|11°56'56.29" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|27°40'20.57" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|7°50'32.49" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°2'37.07" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°31'37.67" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°21'23.32" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°12'38.38" |Aries|Butain|Venus|
+|♂ Mars|Direct|11°56'56.31" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|27°40'20.61" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|7°50'32.54" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°2'37.08" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°31'38.17" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루
+Alternate Names: Bharu,  KBR,  Khota Baharu,  Khota Bahru,  Ko-ta-hap-lu-su,  Kota Baharu,  Kota Bahru,  Kota Baru,  Kota Bharu,  Kota-Baru,  Kô-tá-ha̍p-lû-sṳ,  ge da ba lu,  kotabalu,  kotabaru,  kwta bharw,  Кота Бару,  Кота-Бару,  كوتا بهارو,  โกตาบารู,  コタバル,  哥打巴鲁,  코타바루
 
 ---

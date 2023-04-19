@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特
+Alternate Names: Gerat,  HEA,  Herat,  Herāt,  Hérat,  Kherat,  Shahr-e Herat,  Shahr-e Herāt,  he la te,  herato,  hrat,  Герат,  Херат,  هراة,  هرات,  ヘラート,  赫拉特
 
 ---

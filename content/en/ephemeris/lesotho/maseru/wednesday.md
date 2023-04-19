@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루
+Alternate Names: MSU,  Maserou,  Maseru,  Maseruo,  Maserú,  Mazerou,  ma sai lu,  ma se ru,  ma xie lu,  maceru,  maselu,  maseru,  masrw,  masyrw,  msrw,  Μαζέρου,  Μασερού,  Масеру,  Մասերու,  מאסערו,  מסרו,  ماسرو,  ماسيرو,  ماسیرو,  ماسێرو,  मासेरू,  ਮਸੇਰੂ,  மசேரு,  มาเซรู,  མ་སི་རུ།,  მასერუ,  መሴሩ,  マセル,  馬些盧,  马塞卢,  마세루
 
 ---

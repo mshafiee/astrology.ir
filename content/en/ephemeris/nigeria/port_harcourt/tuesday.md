@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: PHC, Port Harcourt, Port Harkortas, Port Kharkurt, Port-Kharkort, Ugwu Ocha, Ugwu Ọcha, bwrt harkwrt, ha ke te gang, poteuhakeoteu, potohakoto, pwrt hrqwrt, Порт Харкурт, Порт-Харкорт, פורט הרקורט, بورت هاركورت, ポートハーコート, 哈科特港, 포트하커트
+Alternate Names: PHC,  Port Harcourt,  Port Harkortas,  Port Kharkurt,  Port-Kharkort,  Ugwu Ocha,  Ugwu Ọcha,  bwrt harkwrt,  ha ke te gang,  poteuhakeoteu,  potohakoto,  pwrt hrqwrt,  Порт Харкурт,  Порт-Харкорт,  פורט הרקורט,  بورت هاركورت,  ポートハーコート,  哈科特港,  포트하커트
 
 ---

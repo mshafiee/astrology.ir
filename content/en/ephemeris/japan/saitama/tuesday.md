@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Saitama, saitama, Саитама, さいたま
+Alternate Names: Saitama,  saitama,  Саитама,  さいたま
 
 ---

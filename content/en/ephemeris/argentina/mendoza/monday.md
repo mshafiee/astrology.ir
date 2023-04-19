@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Capital megye, Ciuda de Mendoza, Ciudad de Mendoza, Ciudá de Mendoza, MDZ, Mendos, Mendosa, Mendosae, Mendoza, Mentosa, Vila de Mendoza, men do sa, men duo sa, mendosa, mendoza, mndwsh, mndwza, myndwza, Μεντόσα, Мендоза, Мендосæ, Мендоса, Մենդոսա, מנדוסה, مندوزا, مندوسا، ارجنٹائن, میندوزا, मेन्दोज़ा, เมนโดซา, მენდოსა, メンドーサ, 门多萨, 멘도사
+Alternate Names: Capital megye,  Ciuda de Mendoza,  Ciudad de Mendoza,  Ciudá de Mendoza,  MDZ,  Mendos,  Mendosa,  Mendosae,  Mendoza,  Mentosa,  Vila de Mendoza,  men do sa,  men duo sa,  mendosa,  mendoza,  mndwsh,  mndwza,  myndwza,  Μεντόσα,  Мендоза,  Мендосæ,  Мендоса,  Մենդոսա,  מנדוסה,  مندوزا,  مندوسا، ارجنٹائن,  میندوزا,  मेन्दोज़ा,  เมนโดซา,  მენდოსა,  メンドーサ,  门多萨,  멘도사
 
 ---

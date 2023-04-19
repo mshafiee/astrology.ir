@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Kota Surabaya, Kutha Surabaya, SUB, Soerabaja, Soerabaya, Sourabaya, Sourampagia, Surabaia, Surabaja, Surabajo, Surabaya, si shui, sulabaya, sura ba ya, surabaia, surabaya, swrabaya, swrbyh, Σουραμπάγια, Сурабайа, Сурабая, Сурабаја, סורביה, سورابايا, سورابایا, สุราบายา, სურაბაია, スラバヤ, 泗水, 수라바야
+Alternate Names: Kota Surabaya,  Kutha Surabaya,  SUB,  Soerabaja,  Soerabaya,  Sourabaya,  Sourampagia,  Surabaia,  Surabaja,  Surabajo,  Surabaya,  si shui,  sulabaya,  sura ba ya,  surabaia,  surabaya,  swrabaya,  swrbyh,  Σουραμπάγια,  Сурабайа,  Сурабая,  Сурабаја,  סורביה,  سورابايا,  سورابایا,  สุราบายา,  სურაბაია,  スラバヤ,  泗水,  수라바야
 
 ---

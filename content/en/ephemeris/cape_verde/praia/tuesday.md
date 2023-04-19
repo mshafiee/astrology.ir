@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Braia, Cidade da Praia, Municipio da Praia, Município da Praia, Pragia, Praia, Praja, Praje, Prajo, Prajė, Praya, RAI, braya, pei ya, peulaia, pirxa, pra'i'a, pra'iya, praya, prayya, puraia, Πράγια, Πράια, Прая, Праја, Պրայա, פראיה, برايا, پرائا, پرائیا, پرايا, پرایا, پڕایا, प्राईया, ਪ੍ਰਾਈਆ, ไปรอา, ཕུ་ར་ཡ།, პრაია, ፕራያ, プライア, 培亞, 프라이아
+Alternate Names: Braia,  Cidade da Praia,  Municipio da Praia,  Município da Praia,  Pragia,  Praia,  Praja,  Praje,  Prajo,  Prajė,  Praya,  RAI,  braya,  pei ya,  peulaia,  pirxa,  pra'i'a,  pra'iya,  praya,  prayya,  puraia,  Πράγια,  Πράια,  Прая,  Праја,  Պրայա,  פראיה,  برايا,  پرائا,  پرائیا,  پرايا,  پرایا,  پڕایا,  प्राईया,  ਪ੍ਰਾਈਆ,  ไปรอา,  ཕུ་ར་ཡ།,  პრაია,  ፕራያ,  プライア,  培亞,  프라이아
 
 ---

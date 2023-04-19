@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: An Roimh, An Ròimh, An Róimh, Erroma, Hrom, Lungsod ng Roma, Mji wa Roma, ROM, Ramma, Rhufain, Rim, Rim, Roeme, Rom, Roma, Rome, Romma, Romo, Romë, Rooma, Roum, Rym, Rzym, Råmma, Rím, Róm, Róma, Urbs, loma, luo ma shi, rm, rom, roma, romi, rwm, rwma, rym, Řím, Ρώμη, Рим, Римъ, Ром, Рым, Հռոմ, רומא, رم, روم, روما, رىم, ܪܘܡܐ, रोम, रोमा, রোম, โรม, რომი, ሮማ, ローマ, 罗马市, 로마
+Alternate Names: An Roimh,  An Ròimh,  An Róimh,  Erroma,  Hrom,  Lungsod ng Roma,  Mji wa Roma,  ROM,  Ramma,  Rhufain,  Rim,  Rim,  Roeme,  Rom,  Roma,  Rome,  Romma,  Romo,  Romë,  Rooma,  Roum,  Rym,  Rzym,  Råmma,  Rím,  Róm,  Róma,  Urbs,  loma,  luo ma,  luo ma shi,  rm,  rom,  roma,  romi,  rwm,  rwma,  rym,  Řím,  Ρώμη,  Рим,  Римъ,  Ром,  Рым,  Հռոմ,  רומא,  رم,  روم,  روما,  رىم,  ܪܘܡܐ,  रोम,  रोमा,  রোম,  โรม,  რომი,  ሮማ,  ローマ,  罗马市,  羅馬,  로마
 
 ---

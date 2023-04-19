@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Kyatpyay, Kyetpyay, NYT, Naipidau, Nay Pyi Taw, Naypyidaw, Naypyitaw, Ne Pyi Daw, Pyinmana, naepido, nepido, 내피도, 네피도
+Alternate Names: Kyatpyay,  Kyetpyay,  NYT,  Naipidau,  Nay Pyi Taw,  Naypyidaw,  Naypyitaw,  Ne Pyi Daw,  Pyinmana,  naepido,  nepido,  내피도,  네피도
 
 ---

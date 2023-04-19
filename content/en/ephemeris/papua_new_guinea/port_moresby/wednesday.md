@@ -20,7 +20,7 @@ Latitude: -9.4772
 \-
 Longitude: 147.1509
 \-
-Altitude: 1 meters
+Altitude: 25 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Port Moresby, Papua New Guinea" lat="-9.4772" lng="147.1509" zoom="12">}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|28°32'12.21" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°51'36.99" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Retrograde|15°18'30.87" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°12'4.13" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|12°12'4.15" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|28°32'12.21" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|8°51'36.99" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°18'30.87" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°12'4.13" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|12°12'4.15" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: POM, Po Moresbi, Port Moresby, Port Moresmpi, Port Morsbi, Port Morsbis, Port-Moresbo, Port-Morsbi, Portmorsbi, Portus Moresbiensis, Pot Mosbi, Puerto Moresby, Pò Moresbi, bwrt mwrsby, mo er ci bi gang, mo er zi bi gang, phxrt mxr sbi, porata moraisabi, porta moresbi, poteumoleujeubi, potomoresubi, pwrt mwrsby, Πορτ Μόρεσμπι, Порт Морсби, Порт-Морсби, Порт-Морсбі, Պորտ Մորսբի, פורט מורסבי, بورت مورسبي, صوبہ پورٹ مورسبائی, مورېسبى پورتى, پورت مورسبی, پورٹ مورسبی, پۆرت مۆرسبی, पोर्ट मॉरेस्बी, पोर्ट मोरेस्बी, ਪੋਰਟ ਮੋਰੈਸਬੀ, พอร์ตมอร์สบี, པོ་རོ་ཊི་མོ་རེ་སི་བི།, პორტ-მორზბი, ፖርት ሞርስቢ, ポートモレスビー, 莫尔兹比港, 포트모르즈비
+Alternate Names: POM,  Po Moresbi,  Port Moresby,  Port Moresmpi,  Port Morsbi,  Port Morsbis,  Port-Moresbo,  Port-Morsbi,  Portmorsbi,  Portus Moresbiensis,  Pot Mosbi,  Puerto Moresby,  Pò Moresbi,  bwrt mwrsby,  mo er ci bi gang,  mo er zi bi gang,  phxrt mxr sbi,  porata moraisabi,  porta moresbi,  poteumoleujeubi,  potomoresubi,  pwrt mwrsby,  Πορτ Μόρεσμπι,  Порт Морсби,  Порт-Морсби,  Порт-Морсбі,  Պորտ Մորսբի,  פורט מורסבי,  بورت مورسبي,  صوبہ پورٹ مورسبائی,  مورېسبى پورتى,  پورت مورسبی,  پورٹ مورسبی,  پۆرت مۆرسبی,  पोर्ट मॉरेस्बी,  पोर्ट मोरेस्बी,  ਪੋਰਟ ਮੋਰੈਸਬੀ,  พอร์ตมอร์สบี,  པོ་རོ་ཊི་མོ་རེ་སི་བི།,  პორტ-მორზბი,  ፖርት ሞርስቢ,  ポートモレスビー,  莫尔兹比港,  포트모르즈비
 
 ---

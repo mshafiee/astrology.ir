@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: DYU, Djuschambe, Doesjanbe, Douchanbe, Douchanbé, Dusanbe, Dusanbeo, Duschanbe, Dushambe, Dushanbe, Dusjanbe, Duszanbe, Duŝanbeo, Duşanbe, Dušanbe, Dušanbė, Dušhanbe, Dyushambe, Düşənbə, Jushambe, Ntousanmpe, Stalinabad, do~ushanbe, du shang bie, dusyanbe, dwshnbh, dwsnbh, Ντουσάνμπε, Душанбе, דושנבה, دوشنبه, ዱሻንቤ, ドゥシャンベ, 杜尚别, 두샨베
+Alternate Names: DYU,  Djuschambe,  Doesjanbe,  Douchanbe,  Douchanbé,  Dusanbe,  Dusanbeo,  Duschanbe,  Dushambe,  Dushanbe,  Dusjanbe,  Duszanbe,  Duŝanbeo,  Duşanbe,  Dušanbe,  Dušanbė,  Dušhanbe,  Dyushambe,  Düşənbə,  Jushambe,  Ntousanmpe,  Stalinabad,  doushanbe,  du shang bie,  dusyanbe,  dwshnbh,  dwsnbh,  Ντουσάνμπε,  Душанбе,  דושנבה,  دوشنبه,  ዱሻንቤ,  ドゥシャンベ,  杜尚别,  두샨베
 
 ---

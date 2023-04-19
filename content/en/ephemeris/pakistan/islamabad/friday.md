@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ISB, Islamabad, Islamabada, Islamabadas, Islamabade, Islamabadi, Islamabado, Islamahbad, Islamampant, Islàmabad, Islámábád, Islāmābād, Islāmābāda, Iszlamabad, Iszlámábád, aslam abad, isalamabada, iseullamabadeu, islamabad, islamabada, islamabadi, islamapat, isuramabado, xislamabad, yi si lan bao, yyslamabad, yyslamyabad, Îslamabad, İslamabad, Ισλαμαμπάντ, Ісламабад, Исламабад, Իսլամաբադ, איסלאמאבאד, איסלמבאד, إسلام آباد, ئىسلامئاباد, ئیسلاماباد, اسلام آباد, اسلام اباد, اسلام
+Alternate Names: ISB,  Islamabad,  Islamabada,  Islamabadas,  Islamabade,  Islamabadi,  Islamabado,  Islamahbad,  Islamampant,  Islàmabad,  Islámábád,  Islāmābād,  Islāmābāda,  Iszlamabad,  Iszlámábád,  aslam abad,  isalamabada,  iseullamabadeu,  islamabad,  islamabada,  islamabadi,  islamapat,  isuramabado,  xislamabad,  yi si lan bao,  yyslamabad,  yyslamyabad,  Îslamabad,  İslamabad,  Ισλαμαμπάντ,  Ісламабад,  Исламабад,  Իսլամաբադ,  איסלאמאבאד,  איסלמבאד,  إسلام آباد,  ئىسلامئاباد,  ئیسلاماباد,  اسلام آباد,  اسلام اباد,  اسلام
 
 ---

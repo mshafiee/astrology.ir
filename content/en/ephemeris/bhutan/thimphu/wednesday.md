@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부
+Alternate Names: Tempu,  Thimbu,  Thimfou,  Thimpago,  Thimphou,  Thimphu,  Thimpu,  Timbu,  Timbuo,  Timfou,  Timfu,  Timfú,  Timphu,  Timpou (therine) Pounaka (cheimerine),  Timpu,  Timpû,  Tkhimpkhu,  Tėmpu,  thim phu,  thimphu,  thimpu,  thiphu,  thymphw,  timbu,  timphu,  timpu,  ting bu,  tinpu,  tymfw,  tymfww,  tympw,  Θίμφου,  Τιμπού (θερινή) Πουνάκα (χειμερινή),  Тимбу,  Тхимпху,  Тхімпху,  Թհիմփհու,  טהימפהו,  تىمپۇ,  تيمفو,  تھمپو,  تیمفو,  تیمفوو,  تیمپو,  ٹھمپھو,  थिंफू,  थिम्पु,  थिम्पू,  थिम्फू,  থিম্ফু,  ਥਿੰਫੂ,  ଥିମ୍ପୁ,  திம்பு,  థింపూ,  ಥಿಂಪು,  തിംഫു,  තිම්පු,  ทิมพู,  ཐིམ་ཕུ།,  ཐིམ་ཕུུུུ,  თიმფუ,  ጢምጱ,  ティンプー,  廷布,  팀부
 
 ---

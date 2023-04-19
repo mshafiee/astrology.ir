@@ -20,7 +20,7 @@ Latitude: 18.4719
 \-
 Longitude: -69.8923
 \-
-Altitude: 9 meters
+Altitude: 24 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Santo Domingo, Dominican Republic" lat="18.4719" lng="-69.8923" zoom="12">}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|28°7'58.22" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°23'5.90" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Retrograde|15°11'39.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°8'57.36" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|6°8'57.37" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|28°7'58.22" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|8°23'5.90" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°11'39.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°8'57.36" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°8'57.37" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Ciudad Trujillo, SDQ, Saint Domingue, Santo Domingo, Santo Domingo City, Santo Domingo de Guzman, Santo Domingo de Guzmán, Santo Ntomin'nko, Santo-Domingo, santodoming-go, Σάντο Ντομίνγκο, Санто-Доминго, 산토도밍고
+Alternate Names: Ciudad Trujillo,  SDQ,  Saint Domingue,  Santo Domingo,  Santo Domingo City,  Santo Domingo de Guzman,  Santo Domingo de Guzmán,  Santo Ntomin'nko,  Santo-Domingo,  santodoming-go,  Σάντο Ντομίνγκο,  Санто-Доминго,  산토도밍고
 
 ---

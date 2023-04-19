@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv
+Alternate Names: Prasat,  Pràsàt,  Takeo,  Takev,  Takéo,  Takêv
 
 ---

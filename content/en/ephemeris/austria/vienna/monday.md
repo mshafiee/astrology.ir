@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Bec, Bech, Becs, Beç, Beč, Bienne, Bécs, Dunaj, VIE, Vena, Viden, Viden', Vieden, Viedeň, Viena, Vienna, Vienne, Vieno, Viin, Vin, Vinarborg, Vindobona, Viyana, Vídeň, Vín, Vínarborg, Wenen, Wieden, Wiedeń, Wien, bienna, bin, fyyna, weiynna, Βιέννη, Беч, Вена, Виена, Відень, فيينا, เวียนนา, ቪየና, 비엔나, 빈
+Alternate Names: Bec,  Bech,  Becs,  Beç,  Beč,  Bienne,  Bécs,  Dunaj,  Fiena,  VIE,  Vena,  Viden,  Viden',  Vieden,  Viedeň,  Viena,  Vienna,  Vienne,  Vieno,  Viin,  Vin,  Vinarborg,  Vindobona,  Viyana,  Vídeň,  Vín,  Vínarborg,  Wenen,  Wieden,  Wiedeń,  Wien,  bienna,  bin,  fyyna,  wei ye na,  weiynna,  Βιέννη,  Беч,  Вена,  Виена,  Відень,  فيينا,  เวียนนา,  ቪየና,  維也納,  비엔나,  빈
 
 ---

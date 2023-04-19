@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Chijv, Civ, Cív, IEV, Kaenugardur, Keju, Kiebo, Kief, Kieu, Kiev, Kiev osh, Kievi, Kievo, Kiew, Kiiev, Kiiv, Kijev, Kijeva, Kijevas, Kijew, Kijow, Kijuw, Kijv, Kijów, Kijůw, Kiova, Kiovia, Kiyev, Kiyiw, Kiëf, Kjiv, Kueyiv, Kyev, Kyiiv, Kyiv, Kyiw, Kyjev, Kyjiv, Kyjiw, Kyèv, Kænugarður, Kíev, Kîev, Küyiv, ji fu, kheiyf, kiefu, kiv, kiva, kiyebha, kiyepeu, kyf, kyiva, kyyf, qyyb, Κίεβο, Кейӳ, Киев, Киев ош, Київ, Кијев, Кыив, Кыйив, Кіеў, Кꙑѥвъ, Կիև, קייב, קיעוו, كىيېۋ, كييف, کیف, کیێڤ, کی
+Alternate Names: Chijv,  Civ,  Cív,  IEV,  Kaenugardur,  Keju,  Kiebo,  Kief,  Kieu,  Kiev,  Kiev osh,  Kievi,  Kievom,  Kievu,  Kiew,  Kiiev,  Kiiv,  Kijev,  Kijeva,  Kijevas,  Kijew,  Kijiv,  Kijivo,  Kijow,  Kijuw,  Kijv,  Kijów,  Kijůw,  Kiova,  Kiovia,  Kiyev,  Kiyiw,  Kiëf,  Kjiv,  Kueyiv,  Kyev,  Kyiiv,  Kyiv,  Kyiw,  Kyjev,  Kyjiv,  Kyjiw,  Kyèv,  Kænugarður,  Kíev,  Kîev,  Küyiv,  ji fu,  kheiyf,  kiu,  kiv,  kiva,  kiyebha,  kiyepeu,  kyf,  kyiva,  kyyf,  qyyb,  Κίεβο,  Кейӳ,  Киев,  Киев ош,  Киевом,  Киеву,  Київ,  Кијев,  Кыив,  Кыйив,  Кіеў,  Кꙑѥвъ,  Կիև,  קייב,  קיעוו,  كىيېۋ,  كييف,  کیف,  کیێڤ,  کی
 
 ---

@@ -20,7 +20,7 @@ Latitude: 59.3294
 \-
 Longitude: 18.0687
 \-
-Altitude: 12 meters
+Altitude: 17 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Stockholm, Sweden" lat="59.3294" lng="18.0687" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 02:42:24 |
-| Sunrise | 05:25:24 |
+| Sunrise | 05:25:25 |
 | Dhuhr | 12:47:07 |
 | Medium Coeli | 12:47:07 |
 | Sunset | 20:10:26 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 02:11:49 |
-| Sunrise | 05:25:24 |
+| Sunrise | 05:25:25 |
 | Dhuhr | 12:47:07 |
 | Medium Coeli | 12:47:07 |
 | Sunset | 20:10:26 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 02:05:18 |
-| Sunrise | 05:25:24 |
+| Sunrise | 05:25:25 |
 | Dhuhr | 12:47:07 |
 | Medium Coeli | 12:47:07 |
 | Sunset | 20:10:26 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 02:57:25 |
-| Sunrise | 05:25:24 |
+| Sunrise | 05:25:25 |
 | Dhuhr | 12:47:07 |
 | Medium Coeli | 12:47:07 |
 | Sunset | 20:10:26 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 01:17:07 |
-| Sunrise | 05:25:24 |
+| Sunrise | 05:25:25 |
 | Dhuhr | 12:47:07 |
 | Medium Coeli | 12:47:07 |
 | Sunset | 20:10:26 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 02:05:18 |
-| Sunrise | 05:25:24 |
+| Sunrise | 05:25:25 |
 | Dhuhr | 12:47:07 |
 | Medium Coeli | 12:47:07 |
 | Sunset | 20:10:26 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 01:53:08 |
-| Sunrise | 05:25:24 |
+| Sunrise | 05:25:25 |
 | Dhuhr | 12:47:07 |
 | Medium Coeli | 12:47:07 |
 | Sunset | 20:10:26 |
@@ -204,18 +204,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 14:45:02|Night duration: 09:12:09|
+|Duration of the day: 14:45:01|Night duration: 09:12:09|
 |Every hour of day duration: 01:13:45|Every hour of night duration: 00:46:01|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:25:24|06:39:08|Creating corruption, hatred, and enmity|
-|2|Sun|Servant|06:39:09|07:52:53|Attracting negativity, and avoiding any harmful action|
-|3|Venus|Servant|07:52:54|09:06:38|Attracting connection and marriage proposals|
-|4|Mercury|Servant|09:06:39|10:20:23|Attracting material wealth, prosperity, and business growth|
-|5|Moon|Servant|10:20:24|11:34:08|Attracting negativity and creating chaos|
-|6|Saturn|Servant|11:34:09|12:47:54|Removing negative energy caused by the evil eye|
+|1|Mars|Ruler|05:25:25|06:39:09|Creating corruption, hatred, and enmity|
+|2|Sun|Servant|06:39:10|07:52:54|Attracting negativity, and avoiding any harmful action|
+|3|Venus|Servant|07:52:55|09:06:39|Attracting connection and marriage proposals|
+|4|Mercury|Servant|09:06:40|10:20:24|Attracting material wealth, prosperity, and business growth|
+|5|Moon|Servant|10:20:25|11:34:09|Attracting negativity and creating chaos|
+|6|Saturn|Servant|11:34:10|12:47:54|Removing negative energy caused by the evil eye|
 |7|Jupiter|Servant|12:47:55|14:01:39|Attracting love, affection, and winning hearts|
 |8|Mars|Ruler|14:01:40|15:15:24|Creating corruption, destroying enemies, and causing illness to enemies|
 |9|Sun|Servant|15:15:25|16:29:09|Creating emotional attachment|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 14:45:02|Night duration: 09:12:09|
+|Duration of the day: 14:45:01|Night duration: 09:12:09|
 |Every hour duration: 02:06:26|Every hour duration: 01:18:53|
 
  
@@ -258,7 +258,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|05:25:24|07:31:49|
+|Early morning|Mars|Ruler|05:25:25|07:31:49|
 |Mid-morning|Sun|Servant|07:31:50|09:38:15|
 |Late morning|Venus|Servant|09:38:16|11:44:41|
 |Noon|Mercury|Servant|11:44:42|13:51:07|
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°22'20.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°15'15.64" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°2'44.55" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|27°50'57.36" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°3'6.03" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Retrograde|15°6'9.38" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°28'19.76" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|23°15'15.65" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°2'44.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|27°50'57.40" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°3'6.08" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°6'9.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°28'20.35" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°22'20.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°15'15.64" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°2'44.55" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|27°50'57.36" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|8°3'6.03" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°6'9.38" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°28'19.76" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°15'15.65" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°2'44.57" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|27°50'57.40" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|8°3'6.08" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°6'9.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°28'20.35" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Estocolm, Estocolme, Estocolmo, Estocolmu, Estocòlme, Estokolma, Estokolmo, Holmia, STO, Stakgol'm, Stjokolna, Stoccholm, Stoccolma, Stockholbma, Stockholm, Stockolm, Stocolm, Stocolma, Stocòlma, Stocólma, Stokcholme, Stokgol'm, Stokgol'm osh, Stokgolm, Stokhol'm, Stokholm, Stokholma, Stokholmas, Stokholmi, Stokholmo, Stokkholm, Stokkholmur, Stokkhólmur, Stokkolma, Stokol'ma, Stokolm, Stuculma, Stuokhuolms, Stócólm, Sztokholm, Sztokhòlm, Tukholma, astkhlm, satakahoma, seutogholleum, si de ge er mo, stak'hom, stakahoma, stokahoma, stwkhwlm, stwqhwlm, stxkholm, sutokkuhorumu, Štokholm, Στοκχόλμη, Стакгольм, Стокhольм, Стокгольм, Стокгольм ош, Стокольма, Стокхолм, Стокҳолм, Стёколна, Ստոկհոլմ, סטוקהולם, שטאקהאלם, استکهلم, ستوكهولم, ستۆکھۆڵم, سٹاکہوم, ܣܛܘܩܗܘܠܡ, स्टकहोम, स्टॉकहोम, स्तकहोम, স্টকহোম, ਸਟਾਕਹੋਮ, ஸ்டாக்ஹோம், స్టాక్
+Alternate Names: Estocolm,  Estocolme,  Estocolmo,  Estocolmu,  Estocòlme,  Estokolma,  Estokolmo,  Holmia,  STO,  Stakgol'm,  Stjokolna,  Stoccholm,  Stoccolma,  Stockholbma,  Stockholm,  Stockolm,  Stocolm,  Stocolma,  Stocòlma,  Stocólma,  Stokcholme,  Stokgol'm,  Stokgol'm osh,  Stokgolm,  Stokhol'm,  Stokholm,  Stokholma,  Stokholmas,  Stokholmi,  Stokholmo,  Stokkholm,  Stokkholmur,  Stokkhólmur,  Stokkolma,  Stokol'ma,  Stokolm,  Stuculma,  Stuokhuolms,  Stócólm,  Sztokholm,  Sztokhòlm,  Tukholma,  astkhlm,  satakahoma,  seutogholleum,  si de ge er mo,  stak'hom,  stakahoma,  stokahoma,  stwkhwlm,  stwqhwlm,  stxkholm,  sutokkuhorumu,  Štokholm,  Στοκχόλμη,  Стакгольм,  Стокhольм,  Стокгольм,  Стокгольм ош,  Стокольма,  Стокхолм,  Стокҳолм,  Стёколна,  Ստոկհոլմ,  סטוקהולם,  שטאקהאלם,  استکهلم,  ستوكهولم,  ستۆکھۆڵم,  سٹاکہوم,  ܣܛܘܩܗܘܠܡ,  स्टकहोम,  स्टॉकहोम,  स्तकहोम,  স্টকহোম,  ਸਟਾਕਹੋਮ,  ஸ்டாக்ஹோம்,  స్టాక్
 
 ---

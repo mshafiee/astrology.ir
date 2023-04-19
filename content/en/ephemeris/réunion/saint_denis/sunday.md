@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: RUN, Saint-Denis, Saint-Denis (Reunion), Saint-Denis (Réunion), Saint-Denis de la Reunion, Saint-Denis de la Réunion, Sen-Deni, St. Denis, saengdeuni, snt dnys, Сен-Дени, סנט דניס, サン・ドゥニ, 생드니
+Alternate Names: RUN,  Saint-Denis,  Saint-Denis (Reunion),  Saint-Denis (Réunion),  Saint-Denis de la Reunion,  Saint-Denis de la Réunion,  Sen-Deni,  St. Denis,  saengdeuni,  snt dnys,  Сен-Дени,  סנט דניס,  サン・ドゥニ,  생드니
 
 ---

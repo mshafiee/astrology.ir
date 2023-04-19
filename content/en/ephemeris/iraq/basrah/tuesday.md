@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Al Basrah, Al Başrah, Al-Basra, BSR, Bacora, Basora, Basra, Basrah, Bassora, Bassorah, Bassra, Baçorá, Busra, Busrah, Bussora, Bàssora, albsrt, ba shi la, ba si la, basura, bsrh, bsrt, bzrh, Басра, בצרה, البصرة, بصرة, بصره, ܒܨܪܐ, バスラ, 巴士拉, 巴斯拉
+Alternate Names: Al Basrah,  Al Başrah,  Al-Basra,  BSR,  Bacora,  Basora,  Basra,  Basrah,  Bassora,  Bassorah,  Bassra,  Baçorá,  Busra,  Busrah,  Bussora,  Bàssora,  albsrt,  ba shi la,  ba si la,  basara,  basura,  bsrh,  bsrt,  bzrh,  Басра,  בצרה,  البصرة,  بصرة,  بصره,  ܒܨܪܐ,  বসরা,  バスラ,  巴士拉,  巴斯拉
 
 ---

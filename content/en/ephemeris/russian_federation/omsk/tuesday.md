@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: OMS, Om'sku, Omby, Omium, Oms'k, Omsc, Omsk, Omska, Omskas, Omszk, Omva, amsk, awmsk, e mu si ke, omseukeu, omska, omusuku, xxm skh, Ομσκ, Омбы, Омва, Омск, Омськ, Омьскъ, Օմսկ, אומסק, أومسك, امسک, اومسک, ओम्स्क, ออมสค์, ომსკი, オムスク, 鄂木斯克, 옴스크
+Alternate Names: OMS,  Om'sku,  Omby,  Omium,  Oms'k,  Omsc,  Omsk,  Omska,  Omskas,  Omsko,  Omszk,  Omva,  amsk,  awmsk,  e mu si ke,  omseukeu,  omska,  omusuku,  xxm skh,  Ομσκ,  Омбы,  Омва,  Омск,  Омськ,  Омьскъ,  Օմսկ,  אומסק,  أومسك,  امسک,  اومسک,  ओम्स्क,  ออมสค์,  ომსკი,  オムスク,  鄂木斯克,  옴스크
 
 ---

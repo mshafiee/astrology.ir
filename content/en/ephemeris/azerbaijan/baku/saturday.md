@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠
+Alternate Names: BAK,  Bacu,  Bacú,  Baki,  Bako,  Bakoe,  Bakou,  Baku,  Bakue,  Bakuo,  Bakuu,  Baky,  Bakó,  Bakú,  Bakû,  Bakü,  Bakı,  Baqu,  Boku,  Mpakou,  ba ku,  bakku,  bako,  baku,  bakw,  bakww,  pakku,  Μπακού,  Баку,  Бакы,  Баҡы,  Боку,  Բաքու,  באקו,  باكو,  باکو,  باکوو,  बाकु,  बाकू,  বাকু,  பாக்கு,  ബക്കു,  บากู,  པཱ་ཁི།,  ბაქო,  ባኩ,  バクー,  巴库,  바쿠
 
 ---

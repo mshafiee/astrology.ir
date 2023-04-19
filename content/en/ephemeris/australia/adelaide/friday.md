@@ -20,7 +20,7 @@ Latitude: -34.9287
 \-
 Longitude: 138.5986
 \-
-Altitude: 56 meters
+Altitude: 59 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adelaide, Australia" lat="-34.9287" lng="138.5986" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:14:26 |
 | Medium Coeli | 12:14:26 |
 | Sunset | 17:45:10 |
-| Maghrib | 17:46:27 |
+| Maghrib | 17:46:29 |
 | Isha | 19:06:02 |
 | Sharia Midnight | 23:31:39 |
 | Imum Coeli | 00:14:20 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:14:26 |
 | Medium Coeli | 12:14:26 |
 | Sunset | 17:45:10 |
-| Maghrib | 17:46:27 |
+| Maghrib | 17:46:29 |
 | Isha | 18:56:16 |
 | Sharia Midnight | 23:38:59 |
 | Imum Coeli | 00:14:20 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:14:26 |
 | Medium Coeli | 12:14:26 |
 | Sunset | 17:45:10 |
-| Maghrib | 17:46:27 |
+| Maghrib | 17:46:29 |
 | Isha | 19:08:28 |
 | Sharia Midnight | 23:27:59 |
 | Imum Coeli | 00:14:20 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:14:26 |
 | Medium Coeli | 12:14:26 |
 | Sunset | 17:45:10 |
-| Maghrib | 17:46:27 |
+| Maghrib | 17:46:29 |
 | Isha | 19:10:55 |
 | Sharia Midnight | 23:31:39 |
 | Imum Coeli | 00:14:20 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:14:26 |
 | Medium Coeli | 12:14:26 |
 | Sunset | 17:45:10 |
-| Maghrib | 17:46:27 |
-| Isha | 19:16:27 |
+| Maghrib | 17:46:29 |
+| Isha | 19:16:29 |
 | Sharia Midnight | 23:30:25 |
 | Imum Coeli | 00:14:20 |
 {{< /tab >}}
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|0°31'52.58" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°12'17.27" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'49.11" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°25'55.14" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|10°25'55.15" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|0°31'52.58" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°12'17.27" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°36'49.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°25'55.14" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°25'55.15" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ADL, Adehlaida, Adelaida, Adelaidae, Adelaide, Adelaidis, Adelaidė, Adelajda, Adelajdo, Adelaïda, Adelaïde, Adelejd, Adelàida, Adélaïde, Edelaid, Tarndanya, Tarndarnya, a de lai de, adelaida, aderedo, adilaid, adiled, adlayd, adylyd, aedeulleideu, atileyit, edile'ida, edileda, Αδελαΐδα, Аделаидæ, Аделаида, Аделаїда, Аделейд, Аделејд, Адэлаіда, Ադելաիդա, אדלייד, آدلاید, أديليد, ئادېلايدې, ایڈیلیڈ, एडिलेड, ॲdaleda, ॲडलेड, એડિલેઇડ, அடிலெயிட், అడిలైడ్, ಅಡಿಲೇಡ್, അഡിലെയ്
+Alternate Names: ADL,  Adalet,  Adehlaida,  Adelaida,  Adelaidae,  Adelaide,  Adelaidis,  Adelaidė,  Adelajda,  Adelajdo,  Adelaïda,  Adelaïde,  Adelejd,  Adelàida,  Adélaïde,  Edelaid,  Tarndanya,  Tarndarnya,  a de lai de,  adelaida,  aderedo,  adilaid,  adiled,  adlayd,  adylyd,  aedeulleideu,  atileyit,  edile'ida,  edileda,  Αδελαΐδα,  Аделаидæ,  Аделаида,  Аделаїда,  Аделейд,  Аделејд,  Адэлаіда,  Ադելաիդա,  אדלייד,  آدلاید,  أديليد,  ئادېلايدې,  ایڈیلیڈ,  एडिलेड,  ॲdaleda,  ॲडलेड,  એડિલેઇડ,  அடிலெயிட்,  అడిలైడ్,  ಅಡಿಲೇಡ್,  അഡിലെയ്
 
 ---

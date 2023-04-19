@@ -20,7 +20,7 @@ Latitude: 14.6037
 \-
 Longitude: -61.0742
 \-
-Altitude: 17 meters
+Altitude: 5 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Fort-de-France, Martinique" lat="14.6037" lng="-61.0742" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:31:01|Night duration: 11:28:24|
+|Duration of the day: 12:31:01|Night duration: 11:28:23|
 |Every hour of day duration: 01:02:35|Every hour of night duration: 00:57:22|
 
  
@@ -226,18 +226,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|18:19:02|19:16:23|Acceptance of needs|
-|2|Venus|Servant|19:16:24|20:13:45|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|20:13:46|21:11:07|To overcome illnesses|
-|4|Moon|Servant|21:11:08|22:08:29|For all actions, the goal is happiness|
-|5|Saturn|Servant|22:08:30|23:05:51|Generating negative energy and disturbing peace|
-|6|Jupiter|Servant|23:05:52|00:03:13|Traveling inward and outward|
-|7|Mars|Servant|00:03:14|01:00:35|Attracting love and winning hearts|
-|8|Sun|Ruler|01:00:36|01:57:57|Being concealed from the sight of people|
-|9|Venus|Servant|01:57:58|02:55:19|Separating and creating enmity|
-|10|Mercury|Servant|02:55:20|03:52:41|Subduing the elites|
-|11|Moon|Servant|03:52:42|04:50:03|Creating financial attraction and domination|
-|12|Saturn|Servant|04:50:04|05:47:25|Generating malice and hatred|
+|1|Sun|Ruler|18:19:02|19:16:22|Acceptance of needs|
+|2|Venus|Servant|19:16:23|20:13:44|Complaining is futile, it won't accomplish anything|
+|3|Mercury|Servant|20:13:45|21:11:06|To overcome illnesses|
+|4|Moon|Servant|21:11:07|22:08:28|For all actions, the goal is happiness|
+|5|Saturn|Servant|22:08:29|23:05:50|Generating negative energy and disturbing peace|
+|6|Jupiter|Servant|23:05:51|00:03:12|Traveling inward and outward|
+|7|Mars|Servant|00:03:13|01:00:34|Attracting love and winning hearts|
+|8|Sun|Ruler|01:00:35|01:57:56|Being concealed from the sight of people|
+|9|Venus|Servant|01:57:57|02:55:18|Separating and creating enmity|
+|10|Mercury|Servant|02:55:19|03:52:40|Subduing the elites|
+|11|Moon|Servant|03:52:41|04:50:02|Creating financial attraction and domination|
+|12|Saturn|Servant|04:50:03|05:47:24|Generating malice and hatred|
 
  
  
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:31:01|Night duration: 11:28:24|
-|Every hour duration: 01:47:17|Every hour duration: 01:38:21|
+|Duration of the day: 12:31:01|Night duration: 11:28:23|
+|Every hour duration: 01:47:17|Every hour duration: 01:38:20|
 
  
  
@@ -270,12 +270,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Sun|Ruler|18:19:02|19:57:21|
-|Late evening|Venus|Servant|19:57:22|21:35:42|
-|Midnight|Mercury|Servant|21:35:43|23:14:02|
-|Late at night|Moon|Servant|23:14:03|00:52:23|
-|Rooster song|Saturn|Servant|00:52:24|02:30:43|
-|False Dawn|Jupiter|Servant|02:30:44|04:09:04|
-|Dawn|Mars|Servant|04:09:05|05:47:25|
+|Late evening|Venus|Servant|19:57:22|21:35:41|
+|Midnight|Mercury|Servant|21:35:42|23:14:02|
+|Late at night|Moon|Servant|23:14:03|00:52:22|
+|Rooster song|Saturn|Servant|00:52:23|02:30:43|
+|False Dawn|Jupiter|Servant|02:30:44|04:09:03|
+|Dawn|Mars|Servant|04:09:04|05:47:24|
 
 {{< /tab >}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|29°5'19.22" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|9°30'35.70" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Retrograde|15°26'5.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°59'12.77" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|19°59'12.76" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°5'19.22" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|9°30'35.70" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°26'5.75" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°59'12.77" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°59'12.76" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Arx Gallica, FDF, Fod Fwans, For d'o Frans, For de Frans, For de Fransas, For-de-Frans, For-nte-Frans, Fordefransa, Fort Royal, Fort Royale, Fort-de-France, Fort-de-Frans, Fort-deh-Frans, Fòd Fwans, Fôrt-de-France, Le Fort-de-France, f xr-dex-fr xngs, fa lan xi bao, foru=do=furansu, fwr dw frans, fwr-dw-frans, phorta-de-phransa, pirancuk kottai, poleudeupeulangseu, por-de-pransi, Φορ-ντε-Φρανς, Фор де Франс, Фор дьо Франс, Фор-де-Франс, Форт-де-Франс, Форт-дэ-Франс, Ֆոր դե Ֆրանս, פור-דה-פראנס, فور دو فرانس, فور-دو-فرانس, فورٹ ڈی فرانس, फोर्ट-दे-फ्रान्स, பிரான்சுக் கோட்டை, ฟอร์-เดอ-ฟร็องส์, ფორ-დე-ფრანსი, フォール＝ド＝フランス, 法兰西堡, 포르드프랑스
+Alternate Names: Arx Gallica,  FDF,  Fod Fwans,  For d'o Frans,  For de Frans,  For de Fransas,  For-de-Frans,  For-nte-Frans,  Fordefransa,  Fort Royal,  Fort Royale,  Fort-de-France,  Fort-de-Frans,  Fort-deh-Frans,  Fòd Fwans,  Fôrt-de-France,  Le Fort-de-France,  f xr-dex-fr xngs,  fa lan xi bao,  foru=do=furansu,  fwr dw frans,  fwr-dw-frans,  phorta-de-phransa,  pirancuk kottai,  poleudeupeulangseu,  por-de-pransi,  Φορ-ντε-Φρανς,  Фор де Франс,  Фор дьо Франс,  Фор-де-Франс,  Форт-де-Франс,  Форт-дэ-Франс,  Ֆոր դե Ֆրանս,  פור-דה-פראנס,  فور دو فرانس,  فور-دو-فرانس,  فورٹ ڈی فرانس,  फोर्ट-दे-फ्रान्स,  பிரான்சுக் கோட்டை,  ฟอร์-เดอ-ฟร็องส์,  ფორ-დე-ფრანსი,  フォール＝ド＝フランス,  法兰西堡,  포르드프랑스
 
 ---

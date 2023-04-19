@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Gouanjou, Gwangju, Gwangju Kong-hek-chhi, Gwangju Kóng-he̍k-chhī, Gwangju-si, KWJ, Koshu, Kosyu, Kuandzhu, Kuangju, Kuangjuo, Kvandzhu, Kvandzu, Kvandžu, Kvangdzsu, Kvangdzu, Kvanju, Kvanzhe, Kvaңdzhu, Kwang-choo, Kwang-dschu, Kwangdzu, Kwangdžu, Kwangju, Kōshū, Kōsyū, Kŭangĵuo, Quansua, ghwanghjw, guang zhou, guang zhou guang yu shi, guang zhou shi, gvangaju, gwang jw, gwangju, gwangjugwang-yeogsi, gwangjusi, gwangjw, kh wang cu, Квангџу, Кванджу, Кванже, Кваңджу, Куанджу, Куанжү, קוואנגגו, غوانغجو, گوانگ جو, گوانگجو, ग्वांगजू, ควังจู, 光州, 光州市, 光州广域市, 光州広域市, 光州廣域市, 광주, 광주광역시, 광주시
+Alternate Names: Gouanjou,  Gwangju,  Gwangju Kong-hek-chhi,  Gwangju Kóng-he̍k-chhī,  Gwangju-si,  KWJ,  Koshu,  Kosyu,  Kuandzhu,  Kuangju,  Kuangjuo,  Kvandzhu,  Kvandzu,  Kvandžu,  Kvangdzsu,  Kvangdzu,  Kvanju,  Kvanzhe,  Kvaңdzhu,  Kwang-choo,  Kwang-dschu,  Kwangdzu,  Kwangdžu,  Kwangju,  Kōshū,  Kōsyū,  Kŭangĵuo,  Quansua,  ghwanghjw,  guang zhou,  guang zhou guang yu shi,  guang zhou shi,  gvangaju,  gwang jw,  gwangju,  gwangjugwang-yeogsi,  gwangjusi,  gwangjw,  kh wang cu,  Квангџу,  Кванджу,  Кванже,  Кваңджу,  Куанджу,  Куанжү,  קוואנגגו,  غوانغجو,  گوانگ جو,  گوانگجو,  ग्वांगजू,  ควังจู,  光州,  光州市,  光州广域市,  光州広域市,  光州廣域市,  광주,  광주광역시,  광주시
 
 ---
