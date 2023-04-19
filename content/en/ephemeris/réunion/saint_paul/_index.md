@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+04:00
 lastmod: 2023-04-19T00:00:00+04:00
-title: Saint-Paul
-slug: saint_paul
+title: SaintPaul
+slug: saintpaul
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Réunion
-  - Saint-Paul
+  - SaintPaul
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+10:00
 lastmod: 2023-04-18T00:00:00+10:00
-title: Nakhodka (Tuesday)
+title: Nakhodka Tuesday
 slug: tuesday
 categories:
   - Ephemeris

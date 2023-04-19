@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+07:00
 lastmod: 2023-04-22T00:00:00+07:00
-title: Phan Rang-Thap Cham (Saturday)
+title: Phan RangThap Cham Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Viet Nam
-  - Phan Rang-Thap Cham
+  - Phan RangThap Cham
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

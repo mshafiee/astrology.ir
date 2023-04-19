@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-04:00
 lastmod: 2023-04-22T00:00:00-04:00
-title: West Albany (Saturday)
+title: West Albany Saturday
 slug: saturday
 categories:
   - Ephemeris

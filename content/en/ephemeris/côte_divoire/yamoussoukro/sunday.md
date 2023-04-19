@@ -1,13 +1,13 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: Yamoussoukro (Sunday)
+title: Yamoussoukro Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte d'Ivoire
+  - Côte dIvoire
   - Yamoussoukro
 description: 🗓 Sunday, 23 Apr 2023
 

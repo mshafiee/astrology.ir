@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+08:00
 lastmod: 2023-04-18T00:00:00+08:00
-title: Zhenping Chengguanzhen (Tuesday)
+title: Zhenping Chengguanzhen Tuesday
 slug: tuesday
 categories:
   - Ephemeris

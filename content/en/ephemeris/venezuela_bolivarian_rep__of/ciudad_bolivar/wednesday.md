@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: Ciudad Bolivar (Wednesday)
+title: Ciudad Bolivar Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep. of
+  - Venezuela, Bolivarian Rep of
   - Ciudad Bolivar
 description: 🗓 Wednesday, 19 Apr 2023
 

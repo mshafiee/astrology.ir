@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Boulogne-Billancourt (Wednesday)
+title: BoulogneBillancourt Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - France
-  - Boulogne-Billancourt
+  - BoulogneBillancourt
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

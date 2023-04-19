@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-04:00
 lastmod: 2023-04-20T00:00:00-04:00
-title: Santa Cruz de Barahona (Thursday)
+title: Santa Cruz de Barahona Thursday
 slug: thursday
 categories:
   - Ephemeris

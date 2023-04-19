@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+12:00
 lastmod: 2023-04-23T00:00:00+12:00
-title: Nasinu (Sunday)
+title: Nasinu Sunday
 slug: sunday
 categories:
   - Ephemeris

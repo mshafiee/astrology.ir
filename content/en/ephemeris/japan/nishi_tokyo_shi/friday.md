@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Nishi-Tokyo-shi (Friday)
+title: NishiTokyoshi Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Nishi-Tokyo-shi
+  - NishiTokyoshi
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

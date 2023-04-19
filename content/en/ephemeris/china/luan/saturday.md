@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+08:00
 lastmod: 2023-04-22T00:00:00+08:00
-title: Lu'an (Saturday)
+title: Luan Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Lu'an
+  - Luan
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

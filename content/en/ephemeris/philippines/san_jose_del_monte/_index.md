@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
 title: San Jose del Monte
-slug: san_jose_del_monte
+slug: sanjosedelmonte
 categories:
   - Ephemeris
 tags:

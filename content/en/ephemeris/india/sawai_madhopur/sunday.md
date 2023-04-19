@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+05:30
 lastmod: 2023-04-23T00:00:00+05:30
-title: Sawai Madhopur (Sunday)
+title: Sawai Madhopur Sunday
 slug: sunday
 categories:
   - Ephemeris

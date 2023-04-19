@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+06:00
 lastmod: 2023-04-23T00:00:00+06:00
-title: Jalal-Abad (Sunday)
+title: JalalAbad Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Kyrgyzstan
-  - Jalal-Abad
+  - JalalAbad
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

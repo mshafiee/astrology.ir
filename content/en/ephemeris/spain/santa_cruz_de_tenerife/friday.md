@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+01:00
 lastmod: 2023-04-21T00:00:00+01:00
-title: Santa Cruz de Tenerife (Friday)
+title: Santa Cruz de Tenerife Friday
 slug: friday
 categories:
   - Ephemeris

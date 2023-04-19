@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+04:00
 lastmod: 2023-04-19T00:00:00+04:00
-title: Vol'sk
+title: Volsk
 slug: volsk
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Vol'sk
+  - Volsk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

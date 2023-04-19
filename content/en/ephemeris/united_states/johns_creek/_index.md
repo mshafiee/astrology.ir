@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
 title: Johns Creek
-slug: johns_creek
+slug: johnscreek
 categories:
   - Ephemeris
 tags:

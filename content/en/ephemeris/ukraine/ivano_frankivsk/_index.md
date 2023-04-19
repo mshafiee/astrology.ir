@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Ivano-Frankivsk
-slug: ivano_frankivsk
+title: IvanoFrankivsk
+slug: ivanofrankivsk
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Ukraine
-  - Ivano-Frankivsk
+  - IvanoFrankivsk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

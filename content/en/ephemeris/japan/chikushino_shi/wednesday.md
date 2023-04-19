@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Chikushino-shi (Wednesday)
+title: Chikushinoshi Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Chikushino-shi
+  - Chikushinoshi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

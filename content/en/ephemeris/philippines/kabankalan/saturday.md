@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+08:00
 lastmod: 2023-04-22T00:00:00+08:00
-title: Kabankalan (Saturday)
+title: Kabankalan Saturday
 slug: saturday
 categories:
   - Ephemeris

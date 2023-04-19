@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+08:00
 lastmod: 2023-04-22T00:00:00+08:00
-title: Petaling Jaya (Saturday)
+title: Petaling Jaya Saturday
 slug: saturday
 categories:
   - Ephemeris

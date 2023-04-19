@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-06:00
 lastmod: 2023-04-22T00:00:00-06:00
-title: West Valley City (Saturday)
+title: West Valley City Saturday
 slug: saturday
 categories:
   - Ephemeris

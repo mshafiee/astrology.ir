@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+05:00
 lastmod: 2023-04-19T00:00:00+05:00
-title: Dushanbe (Wednesday)
+title: Dushanbe Wednesday
 slug: wednesday
 categories:
   - Ephemeris
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|12°31'5.26" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|28°43'7.11" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|9°4'29.79" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°21'9.69" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°22'58.20" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°20'51.87" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°9'21.93" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}

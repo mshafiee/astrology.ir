@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+03:00
 lastmod: 2023-04-24T00:00:00+03:00
-title: Vostochnoe Degunino (Monday)
+title: Vostochnoe Degunino Monday
 slug: monday
 categories:
   - Ephemeris

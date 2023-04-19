@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-03:00
 lastmod: 2023-04-20T00:00:00-03:00
-title: Presidencia Roque Saenz Pena (Thursday)
+title: Presidencia Roque Saenz Pena Thursday
 slug: thursday
 categories:
   - Ephemeris

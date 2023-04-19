@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-03:00
 lastmod: 2023-04-19T00:00:00-03:00
-title: Sao Caetano do Sul (Wednesday)
+title: Sao Caetano do Sul Wednesday
 slug: wednesday
 categories:
   - Ephemeris

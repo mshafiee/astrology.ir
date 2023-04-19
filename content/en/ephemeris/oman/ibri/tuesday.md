@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+04:00
 lastmod: 2023-04-18T00:00:00+04:00
-title: 'Ibri (Tuesday)
+title: Ibri Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Oman
-  - 'Ibri
+  - Ibri
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+06:30
 lastmod: 2023-04-20T00:00:00+06:30
-title: Thayetmyo (Thursday)
+title: Thayetmyo Thursday
 slug: thursday
 categories:
   - Ephemeris

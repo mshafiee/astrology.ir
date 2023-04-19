@@ -1,13 +1,13 @@
 ---
 date: 2023-04-23T00:00:00+02:00
 lastmod: 2023-04-23T00:00:00+02:00
-title: Prilep (Sunday)
+title: Prilep Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Macedonia, The former Yugoslav Rep. of
+  - Macedonia, The former Yugoslav Rep of
   - Prilep
 description: 🗓 Sunday, 23 Apr 2023
 

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Ulan-Ude
-slug: ulan_ude
+title: UlanUde
+slug: ulanude
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Ulan-Ude
+  - UlanUde
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

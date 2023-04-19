@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Mwene-Ditu (Saturday)
+title: MweneDitu Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Congo, Democratic Republic of the
-  - Mwene-Ditu
+  - MweneDitu
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

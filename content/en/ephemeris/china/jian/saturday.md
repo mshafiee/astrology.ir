@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+08:00
 lastmod: 2023-04-22T00:00:00+08:00
-title: Ji'an (Saturday)
+title: Jian Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Ji'an
+  - Jian
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: Fu'an (Thursday)
+title: Fuan Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Fu'an
+  - Fuan
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Ansan-si
-slug: ansan_si
+title: Ansansi
+slug: ansansi
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Ansan-si
+  - Ansansi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

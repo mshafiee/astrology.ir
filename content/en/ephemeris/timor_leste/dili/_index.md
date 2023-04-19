@@ -7,7 +7,7 @@ categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Timor-Leste
+  - TimorLeste
   - Dili
 description: 🗓 Wednesday, 19 Apr 2023
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+08:00
 lastmod: 2023-04-18T00:00:00+08:00
-title: Songling (Tuesday)
+title: Songling Tuesday
 slug: tuesday
 categories:
   - Ephemeris

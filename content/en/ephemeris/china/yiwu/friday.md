@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+08:00
 lastmod: 2023-04-21T00:00:00+08:00
-title: Yiwu (Friday)
+title: Yiwu Friday
 slug: friday
 categories:
   - Ephemeris
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'34.16" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°55'0.35" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°30'48.48" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°32'25.31" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°12'57.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'46.60" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°15'21.47" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|13°30'49.09" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°32'23.21" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°12'56.52" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'44.19" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°3'5.97" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

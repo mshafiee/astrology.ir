@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
 title: Oum el Bouaghi
-slug: oum_el_bouaghi
+slug: oumelbouaghi
 categories:
   - Ephemeris
 tags:

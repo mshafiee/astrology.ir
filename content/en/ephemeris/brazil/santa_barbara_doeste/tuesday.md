@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00-03:00
 lastmod: 2023-04-18T00:00:00-03:00
-title: Santa Barbara d'Oeste (Tuesday)
+title: Santa Barbara dOeste Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Brazil
-  - Santa Barbara d'Oeste
+  - Santa Barbara dOeste
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

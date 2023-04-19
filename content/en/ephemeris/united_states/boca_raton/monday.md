@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-04:00
 lastmod: 2023-04-24T00:00:00-04:00
-title: Boca Raton (Monday)
+title: Boca Raton Monday
 slug: monday
 categories:
   - Ephemeris

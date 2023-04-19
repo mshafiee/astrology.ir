@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+06:00
 lastmod: 2023-04-23T00:00:00+06:00
-title: Bhairab Bazar (Sunday)
+title: Bhairab Bazar Sunday
 slug: sunday
 categories:
   - Ephemeris

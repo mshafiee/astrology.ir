@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+05:30
 lastmod: 2023-04-24T00:00:00+05:30
-title: Malaut (Monday)
+title: Malaut Monday
 slug: monday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+01:00
 lastmod: 2023-04-18T00:00:00+01:00
-title: Stoke-on-Trent (Tuesday)
+title: StokeonTrent Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United Kingdom
-  - Stoke-on-Trent
+  - StokeonTrent
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

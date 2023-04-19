@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-07:00
 lastmod: 2023-04-19T00:00:00-07:00
-title: Maryvale (Wednesday)
+title: Maryvale Wednesday
 slug: wednesday
 categories:
   - Ephemeris

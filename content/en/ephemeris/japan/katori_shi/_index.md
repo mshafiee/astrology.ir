@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Katori-shi
-slug: katori_shi
+title: Katorishi
+slug: katorishi
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Katori-shi
+  - Katorishi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Luzhou (Wednesday)
+title: Luzhou Wednesday
 slug: wednesday
 categories:
   - Ephemeris
@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°26'30.17" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°26'44.88" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|12°28'5.50" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°37'37.94" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°58'1.80" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°19'50.51" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°11'43.33" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|28°37'26.91" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°57'54.16" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°19'35.73" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°0'7.72" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: Salvaleon de Higueey (Sunday)
+title: Salvaleon de Higueey Sunday
 slug: sunday
 categories:
   - Ephemeris

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Chongjin (Wednesday)
+title: Chongjin Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
+  - Korea, Dem Peoples Rep of
   - Chongjin
 description: 🗓 Wednesday, 19 Apr 2023
 

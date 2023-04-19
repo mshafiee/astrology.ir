@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+03:30
 lastmod: 2023-04-23T00:00:00+03:30
-title: Gonbad-e Kavus (Sunday)
+title: Gonbade Kavus Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep. of
-  - Gonbad-e Kavus
+  - Iran, Islamic Rep of
+  - Gonbade Kavus
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

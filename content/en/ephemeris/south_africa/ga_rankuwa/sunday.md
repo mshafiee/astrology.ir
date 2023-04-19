@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+02:00
 lastmod: 2023-04-23T00:00:00+02:00
-title: Ga-Rankuwa (Sunday)
+title: GaRankuwa Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - South Africa
-  - Ga-Rankuwa
+  - GaRankuwa
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

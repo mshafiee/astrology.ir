@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-04:00
 lastmod: 2023-04-21T00:00:00-04:00
-title: San Lorenzo (Friday)
+title: San Lorenzo Friday
 slug: friday
 categories:
   - Ephemeris

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Hamhung (Thursday)
+title: Hamhung Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
+  - Korea, Dem Peoples Rep of
   - Hamhung
 description: 🗓 Thursday, 20 Apr 2023
 

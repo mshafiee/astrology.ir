@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-03:00
 lastmod: 2023-04-23T00:00:00-03:00
-title: Para de Minas (Sunday)
+title: Para de Minas Sunday
 slug: sunday
 categories:
   - Ephemeris

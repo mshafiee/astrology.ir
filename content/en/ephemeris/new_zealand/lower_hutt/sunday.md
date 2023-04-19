@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+12:00
 lastmod: 2023-04-23T00:00:00+12:00
-title: Lower Hutt (Sunday)
+title: Lower Hutt Sunday
 slug: sunday
 categories:
   - Ephemeris

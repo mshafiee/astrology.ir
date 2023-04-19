@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: Sidi Qacem (Sunday)
+title: Sidi Qacem Sunday
 slug: sunday
 categories:
   - Ephemeris

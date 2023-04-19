@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Thies Nones (Wednesday)
+title: Thies Nones Wednesday
 slug: wednesday
 categories:
   - Ephemeris

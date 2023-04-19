@@ -1,13 +1,13 @@
 ---
 date: 2023-04-24T00:00:00+07:00
 lastmod: 2023-04-24T00:00:00+07:00
-title: Thakhek (Monday)
+title: Thakhek Monday
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Lao People's Dem. Rep.
+  - Lao Peoples Dem Rep
   - Thakhek
 description: 🗓 Monday, 24 Apr 2023
 

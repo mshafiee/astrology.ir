@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-07:00
 lastmod: 2023-04-21T00:00:00-07:00
-title: San Francisco (Friday)
+title: San Francisco Friday
 slug: friday
 categories:
   - Ephemeris
@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°39'55.96" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°4'36.05" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°52'12.66" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°11'23.82" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°58'43.76" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'16.57" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°7'33.25" |Aries|Butain|Sun|
+|☉ Sun|Direct|1°11'24.33" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°58'41.65" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'15.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°3'40.99" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,7 +331,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'55.96" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°4'35.99" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°4'36.05" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°52'12.66" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°11'24.33" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°58'41.65" |Gemini|HanAh|Mars|

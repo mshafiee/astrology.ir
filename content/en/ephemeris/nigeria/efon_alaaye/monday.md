@@ -1,14 +1,14 @@
 ---
 date: 2023-04-24T00:00:00+01:00
 lastmod: 2023-04-24T00:00:00+01:00
-title: Efon-Alaaye (Monday)
+title: EfonAlaaye Monday
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - Efon-Alaaye
+  - EfonAlaaye
 description: 🗓 Monday, 24 Apr 2023
 
 toc: false

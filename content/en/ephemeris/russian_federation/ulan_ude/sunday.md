@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+08:00
 lastmod: 2023-04-23T00:00:00+08:00
-title: Ulan-Ude (Sunday)
+title: UlanUde Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Ulan-Ude
+  - UlanUde
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

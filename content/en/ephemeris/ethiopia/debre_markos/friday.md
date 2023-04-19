@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+03:00
 lastmod: 2023-04-21T00:00:00+03:00
-title: Debre Mark'os (Friday)
+title: Debre Markos Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Ethiopia
-  - Debre Mark'os
+  - Debre Markos
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

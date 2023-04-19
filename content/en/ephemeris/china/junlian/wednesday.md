@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Junlian (Wednesday)
+title: Junlian Wednesday
 slug: wednesday
 categories:
   - Ephemeris

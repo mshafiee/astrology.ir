@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+05:30
 lastmod: 2023-04-20T00:00:00+05:30
-title: Akola (Thursday)
+title: Akola Thursday
 slug: thursday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Hongch'on (Thursday)
+title: Hongchon Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Hongch'on
+  - Hongchon
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

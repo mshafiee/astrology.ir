@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+02:00
 lastmod: 2023-04-24T00:00:00+02:00
-title: Lelystad (Monday)
+title: Lelystad Monday
 slug: monday
 categories:
   - Ephemeris
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|3°44'50.98" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°58'17.48" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°14'53.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°34'57.90" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|22°35'15.07" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

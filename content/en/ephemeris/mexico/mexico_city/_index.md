@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: Mexico City
-slug: mexico_city
+slug: mexicocity
 categories:
   - Ephemeris
 tags:

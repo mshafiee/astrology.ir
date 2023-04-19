@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+07:00
 lastmod: 2023-04-19T00:00:00+07:00
 title: Phasi Charoen
-slug: phasi_charoen
+slug: phasicharoen
 categories:
   - Ephemeris
 tags:

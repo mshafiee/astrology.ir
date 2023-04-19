@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+01:00
 lastmod: 2023-04-22T00:00:00+01:00
-title: Igbo-Ora (Saturday)
+title: IgboOra Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - Igbo-Ora
+  - IgboOra
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

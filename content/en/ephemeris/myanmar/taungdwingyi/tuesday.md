@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+06:30
 lastmod: 2023-04-18T00:00:00+06:30
-title: Taungdwingyi (Tuesday)
+title: Taungdwingyi Tuesday
 slug: tuesday
 categories:
   - Ephemeris

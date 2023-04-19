@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Al Bayda'
-slug: al_bayda
+title: Al Bayda
+slug: albayda
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Libyan Arab Jamahiriya
-  - Al Bayda'
+  - Al Bayda
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

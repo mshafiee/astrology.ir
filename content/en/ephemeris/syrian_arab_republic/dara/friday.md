@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+03:00
 lastmod: 2023-04-21T00:00:00+03:00
-title: Dar'a (Friday)
+title: Dara Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Syrian Arab Republic
-  - Dar'a
+  - Dara
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

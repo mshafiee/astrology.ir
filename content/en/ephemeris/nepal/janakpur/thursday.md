@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+05:45
 lastmod: 2023-04-20T00:00:00+05:45
-title: Janakpur (Thursday)
+title: Janakpur Thursday
 slug: thursday
 categories:
   - Ephemeris

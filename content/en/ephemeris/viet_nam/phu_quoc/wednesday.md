@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+07:00
 lastmod: 2023-04-19T00:00:00+07:00
-title: Phu Quoc (Wednesday)
+title: Phu Quoc Wednesday
 slug: wednesday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Nishi-Tokyo-shi
-slug: nishi_tokyo_shi
+title: NishiTokyoshi
+slug: nishitokyoshi
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Nishi-Tokyo-shi
+  - NishiTokyoshi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

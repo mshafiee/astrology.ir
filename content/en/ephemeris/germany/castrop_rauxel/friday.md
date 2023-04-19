@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+02:00
 lastmod: 2023-04-21T00:00:00+02:00
-title: Castrop-Rauxel (Friday)
+title: CastropRauxel Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Germany
-  - Castrop-Rauxel
+  - CastropRauxel
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

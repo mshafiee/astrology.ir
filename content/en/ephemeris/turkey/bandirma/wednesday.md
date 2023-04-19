@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Bandirma (Wednesday)
+title: Bandirma Wednesday
 slug: wednesday
 categories:
   - Ephemeris

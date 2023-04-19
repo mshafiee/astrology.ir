@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Guang'an (Wednesday)
+title: Guangan Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Guang'an
+  - Guangan
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

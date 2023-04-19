@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: Los Reyes Acaquilpan
-slug: los_reyes_acaquilpan
+slug: losreyesacaquilpan
 categories:
   - Ephemeris
 tags:

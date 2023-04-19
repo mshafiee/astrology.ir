@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-03:00
 lastmod: 2023-04-19T00:00:00-03:00
 title: San Carlos de Bariloche
-slug: san_carlos_de_bariloche
+slug: sancarlosdebariloche
 categories:
   - Ephemeris
 tags:

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Bissau (Wednesday)
+title: Bissau Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Guinea-Bissau
+  - GuineaBissau
   - Bissau
 description: 🗓 Wednesday, 19 Apr 2023
 

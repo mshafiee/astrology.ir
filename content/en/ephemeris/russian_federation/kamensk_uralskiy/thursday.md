@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+05:00
 lastmod: 2023-04-20T00:00:00+05:00
-title: Kamensk-Ural'skiy (Thursday)
+title: KamenskUralskiy Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Kamensk-Ural'skiy
+  - KamenskUralskiy
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

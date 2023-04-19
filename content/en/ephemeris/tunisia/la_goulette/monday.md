@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+01:00
 lastmod: 2023-04-24T00:00:00+01:00
-title: La Goulette (Monday)
+title: La Goulette Monday
 slug: monday
 categories:
   - Ephemeris

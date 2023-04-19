@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
-title: Poza Rica de Hidalgo (Wednesday)
+title: Poza Rica de Hidalgo Wednesday
 slug: wednesday
 categories:
   - Ephemeris

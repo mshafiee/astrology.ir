@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-03:00
 lastmod: 2023-04-22T00:00:00-03:00
-title: Macapa (Saturday)
+title: Macapa Saturday
 slug: saturday
 categories:
   - Ephemeris
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|1°59'59.58" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°55'36.38" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°34'24.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°18'23.34" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°11'21.98" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Debrecen (Saturday)
+title: Debrecen Saturday
 slug: saturday
 categories:
   - Ephemeris
@@ -295,7 +295,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°13'4.06" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°11'8.58" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°45'48.58" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°39'1.65" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°39'1.86" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'32.51" |Aries|Butain|Sun|
 |☾ Moon|Direct|26°40'32.97" |Aries|Thurayya|Venus|
 

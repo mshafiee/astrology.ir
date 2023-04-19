@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Nishinomiya-hama (Friday)
+title: Nishinomiyahama Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Nishinomiya-hama
+  - Nishinomiyahama
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

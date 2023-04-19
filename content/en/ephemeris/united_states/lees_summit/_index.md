@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-05:00
 lastmod: 2023-04-19T00:00:00-05:00
-title: Lee's Summit
-slug: lees_summit
+title: Lees Summit
+slug: leessummit
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - Lee's Summit
+  - Lees Summit
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

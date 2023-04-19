@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Velez-Malaga (Saturday)
+title: VelezMalaga Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Spain
-  - Velez-Malaga
+  - VelezMalaga
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

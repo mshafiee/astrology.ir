@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+07:00
 lastmod: 2023-04-20T00:00:00+07:00
-title: Ciranjang-hilir (Thursday)
+title: Ciranjanghilir Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Indonesia
-  - Ciranjang-hilir
+  - Ciranjanghilir
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

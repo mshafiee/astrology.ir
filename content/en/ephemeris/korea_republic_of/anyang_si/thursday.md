@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Anyang-si (Thursday)
+title: Anyangsi Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Anyang-si
+  - Anyangsi
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

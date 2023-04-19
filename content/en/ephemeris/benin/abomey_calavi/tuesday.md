@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+01:00
 lastmod: 2023-04-18T00:00:00+01:00
-title: Abomey-Calavi (Tuesday)
+title: AbomeyCalavi Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Benin
-  - Abomey-Calavi
+  - AbomeyCalavi
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

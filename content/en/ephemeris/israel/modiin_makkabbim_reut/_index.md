@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Modi'in Makkabbim Re'ut
-slug: modiin_makkabbim_reut
+title: Modiin Makkabbim Reut
+slug: modiinmakkabbimreut
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Israel
-  - Modi'in Makkabbim Re'ut
+  - Modiin Makkabbim Reut
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

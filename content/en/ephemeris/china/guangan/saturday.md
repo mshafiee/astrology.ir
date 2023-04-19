@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+08:00
 lastmod: 2023-04-22T00:00:00+08:00
-title: Guang'an (Saturday)
+title: Guangan Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Guang'an
+  - Guangan
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

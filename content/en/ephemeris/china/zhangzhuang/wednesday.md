@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Zhangzhuang (Wednesday)
+title: Zhangzhuang Wednesday
 slug: wednesday
 categories:
   - Ephemeris
@@ -292,11 +292,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°26'18.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°26'12.78" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°26'13.03" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|12°26'55.23" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°35'26.81" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|28°35'28.35" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°55'29.62" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°19'15.74" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°19'17.14" |Aries|Butain|Sun|
 |☾ Moon|Direct|12°36'7.66" |Pisces|FarghAlMuakhar|Jupiter|
 
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-03:00
 lastmod: 2023-04-18T00:00:00-03:00
-title: San Nicolas de los Arroyos (Tuesday)
+title: San Nicolas de los Arroyos Tuesday
 slug: tuesday
 categories:
   - Ephemeris
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°23'52.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°19'29.50" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°12'2.88" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°8'10.43" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°23'19.45" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Retrograde|15°11'45.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°22'51.40" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°19'27.12" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°12'4.53" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°7'56.09" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°23'13.21" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°11'29.07" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°35'36.92" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Mercury|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

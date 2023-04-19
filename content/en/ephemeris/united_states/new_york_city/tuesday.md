@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-04:00
 lastmod: 2023-04-18T00:00:00-04:00
-title: New York City (Tuesday)
+title: New York City Tuesday
 slug: tuesday
 categories:
   - Ephemeris

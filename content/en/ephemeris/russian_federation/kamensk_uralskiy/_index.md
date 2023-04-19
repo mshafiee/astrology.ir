@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+05:00
 lastmod: 2023-04-19T00:00:00+05:00
-title: Kamensk-Ural'skiy
-slug: kamensk_uralskiy
+title: KamenskUralskiy
+slug: kamenskuralskiy
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Kamensk-Ural'skiy
+  - KamenskUralskiy
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-03:00
 lastmod: 2023-04-22T00:00:00-03:00
-title: Bahia Blanca (Saturday)
+title: Bahia Blanca Saturday
 slug: saturday
 categories:
   - Ephemeris
@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°20'47.90" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°3'23.82" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°59'35.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'3.90" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°34'3.46" |Aries|Butain|Sun|
 |☾ Moon|Direct|1°3'50.96" |Taurus|Thurayya|Mercury|
 
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-06:00
 lastmod: 2023-04-23T00:00:00-06:00
-title: Ciudad Choluteca (Sunday)
+title: Ciudad Choluteca Sunday
 slug: sunday
 categories:
   - Ephemeris

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-21T00:00:00+03:30
 lastmod: 2023-04-21T00:00:00+03:30
-title: Marvdasht (Friday)
+title: Marvdasht Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep. of
+  - Iran, Islamic Rep of
   - Marvdasht
 description: 🗓 Friday, 21 Apr 2023
 
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°36'48.42" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°43'21.60" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°25'47.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'9.74" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°40'40.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'10.98" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°45'58.37" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

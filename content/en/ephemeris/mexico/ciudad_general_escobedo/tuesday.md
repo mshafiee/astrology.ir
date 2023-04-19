@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-06:00
 lastmod: 2023-04-18T00:00:00-06:00
-title: Ciudad General Escobedo (Tuesday)
+title: Ciudad General Escobedo Tuesday
 slug: tuesday
 categories:
   - Ephemeris

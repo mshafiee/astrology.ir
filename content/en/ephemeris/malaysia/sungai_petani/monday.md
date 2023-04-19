@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+08:00
 lastmod: 2023-04-24T00:00:00+08:00
-title: Sungai Petani (Monday)
+title: Sungai Petani Monday
 slug: monday
 categories:
   - Ephemeris

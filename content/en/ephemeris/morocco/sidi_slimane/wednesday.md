@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Sidi Slimane (Wednesday)
+title: Sidi Slimane Wednesday
 slug: wednesday
 categories:
   - Ephemeris

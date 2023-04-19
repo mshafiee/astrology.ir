@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+08:00
 lastmod: 2023-04-18T00:00:00+08:00
-title: Yizhou (Tuesday)
+title: Yizhou Tuesday
 slug: tuesday
 categories:
   - Ephemeris

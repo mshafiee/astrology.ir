@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-07:00
 lastmod: 2023-04-19T00:00:00-07:00
 title: Santa Barbara
-slug: santa_barbara
+slug: santabarbara
 categories:
   - Ephemeris
 tags:

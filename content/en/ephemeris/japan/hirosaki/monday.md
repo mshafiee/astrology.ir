@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+09:00
 lastmod: 2023-04-24T00:00:00+09:00
-title: Hirosaki (Monday)
+title: Hirosaki Monday
 slug: monday
 categories:
   - Ephemeris

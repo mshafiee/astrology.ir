@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: Ciudad Rio Bravo
-slug: ciudad_rio_bravo
+slug: ciudadriobravo
 categories:
   - Ephemeris
 tags:

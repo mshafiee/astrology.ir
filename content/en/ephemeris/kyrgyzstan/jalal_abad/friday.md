@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+06:00
 lastmod: 2023-04-21T00:00:00+06:00
-title: Jalal-Abad (Friday)
+title: JalalAbad Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Kyrgyzstan
-  - Jalal-Abad
+  - JalalAbad
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+03:00
 lastmod: 2023-04-22T00:00:00+03:00
-title: Mineralnye Vody (Saturday)
+title: Mineralnye Vody Saturday
 slug: saturday
 categories:
   - Ephemeris

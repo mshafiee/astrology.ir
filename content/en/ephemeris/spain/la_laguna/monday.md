@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+01:00
 lastmod: 2023-04-24T00:00:00+01:00
-title: La Laguna (Monday)
+title: La Laguna Monday
 slug: monday
 categories:
   - Ephemeris

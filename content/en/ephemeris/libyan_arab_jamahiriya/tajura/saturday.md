@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Tajura' (Saturday)
+title: Tajura Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Libyan Arab Jamahiriya
-  - Tajura'
+  - Tajura
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

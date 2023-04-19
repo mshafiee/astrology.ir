@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+01:00
 lastmod: 2023-04-18T00:00:00+01:00
-title: Uyo (Tuesday)
+title: Uyo Tuesday
 slug: tuesday
 categories:
   - Ephemeris

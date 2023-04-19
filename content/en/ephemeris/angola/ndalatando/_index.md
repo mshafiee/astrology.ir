@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: N'dalatando
+title: Ndalatando
 slug: ndalatando
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Angola
-  - N'dalatando
+  - Ndalatando
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

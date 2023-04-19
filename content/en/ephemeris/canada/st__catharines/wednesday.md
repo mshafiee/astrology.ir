@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: St. Catharines (Wednesday)
+title: St Catharines Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Canada
-  - St. Catharines
+  - St Catharines
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

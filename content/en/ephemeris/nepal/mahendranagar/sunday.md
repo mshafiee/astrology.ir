@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+05:45
 lastmod: 2023-04-23T00:00:00+05:45
-title: Mahendranagar (Sunday)
+title: Mahendranagar Sunday
 slug: sunday
 categories:
   - Ephemeris

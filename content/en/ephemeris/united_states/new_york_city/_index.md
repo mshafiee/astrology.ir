@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
 title: New York City
-slug: new_york_city
+slug: newyorkcity
 categories:
   - Ephemeris
 tags:

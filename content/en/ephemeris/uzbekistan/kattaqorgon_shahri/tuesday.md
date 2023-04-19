@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+05:00
 lastmod: 2023-04-18T00:00:00+05:00
-title: Kattaqo'rg'on Shahri (Tuesday)
+title: Kattaqorgon Shahri Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Uzbekistan
-  - Kattaqo'rg'on Shahri
+  - Kattaqorgon Shahri
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

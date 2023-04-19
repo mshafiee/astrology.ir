@@ -1,13 +1,13 @@
 ---
 date: 2023-04-21T00:00:00+02:00
 lastmod: 2023-04-21T00:00:00+02:00
-title: Prilep (Friday)
+title: Prilep Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Macedonia, The former Yugoslav Rep. of
+  - Macedonia, The former Yugoslav Rep of
   - Prilep
 description: 🗓 Friday, 21 Apr 2023
 

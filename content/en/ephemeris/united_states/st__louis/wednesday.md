@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-05:00
 lastmod: 2023-04-19T00:00:00-05:00
-title: St. Louis (Wednesday)
+title: St Louis Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - St. Louis
+  - St Louis
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

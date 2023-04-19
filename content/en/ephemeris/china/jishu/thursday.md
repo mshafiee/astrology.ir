@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: Jishu (Thursday)
+title: Jishu Thursday
 slug: thursday
 categories:
   - Ephemeris

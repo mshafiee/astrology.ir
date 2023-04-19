@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+01:00
 lastmod: 2023-04-20T00:00:00+01:00
-title: M'sila (Thursday)
+title: Msila Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Algeria
-  - M'sila
+  - Msila
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

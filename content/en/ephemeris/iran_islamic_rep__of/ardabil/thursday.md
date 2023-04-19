@@ -1,13 +1,13 @@
 ---
 date: 2023-04-20T00:00:00+03:30
 lastmod: 2023-04-20T00:00:00+03:30
-title: Ardabil (Thursday)
+title: Ardabil Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep. of
+  - Iran, Islamic Rep of
   - Ardabil
 description: 🗓 Thursday, 20 Apr 2023
 

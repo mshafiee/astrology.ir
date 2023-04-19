@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-05:00
 lastmod: 2023-04-19T00:00:00-05:00
 title: Metairie Terrace
-slug: metairie_terrace
+slug: metairieterrace
 categories:
   - Ephemeris
 tags:

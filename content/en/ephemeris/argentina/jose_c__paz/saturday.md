@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00-03:00
 lastmod: 2023-04-22T00:00:00-03:00
-title: Jose C. Paz (Saturday)
+title: Jose C Paz Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Argentina
-  - Jose C. Paz
+  - Jose C Paz
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

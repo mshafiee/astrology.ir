@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Fukui-shi
-slug: fukui_shi
+title: Fukuishi
+slug: fukuishi
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Fukui-shi
+  - Fukuishi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-05:00
 lastmod: 2023-04-21T00:00:00-05:00
-title: Baton Rouge (Friday)
+title: Baton Rouge Friday
 slug: friday
 categories:
   - Ephemeris

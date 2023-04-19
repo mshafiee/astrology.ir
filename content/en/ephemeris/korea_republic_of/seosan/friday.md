@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Seosan (Friday)
+title: Seosan Friday
 slug: friday
 categories:
   - Ephemeris

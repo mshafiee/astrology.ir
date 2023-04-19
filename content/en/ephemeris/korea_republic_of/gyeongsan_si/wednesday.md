@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Gyeongsan-si (Wednesday)
+title: Gyeongsansi Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Gyeongsan-si
+  - Gyeongsansi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+05:30
 lastmod: 2023-04-18T00:00:00+05:30
-title: Nagaur (Tuesday)
+title: Nagaur Tuesday
 slug: tuesday
 categories:
   - Ephemeris

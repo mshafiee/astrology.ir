@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Uijeongbu-si
-slug: uijeongbu_si
+title: Uijeongbusi
+slug: uijeongbusi
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Uijeongbu-si
+  - Uijeongbusi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

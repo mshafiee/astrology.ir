@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+01:00
 lastmod: 2023-04-18T00:00:00+01:00
-title: Southend-on-Sea (Tuesday)
+title: SouthendonSea Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United Kingdom
-  - Southend-on-Sea
+  - SouthendonSea
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00-02:30
 lastmod: 2023-04-18T00:00:00-02:30
-title: St. John's (Tuesday)
+title: St Johns Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Canada
-  - St. John's
+  - St Johns
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

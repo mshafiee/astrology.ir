@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: Rapid City
-slug: rapid_city
+slug: rapidcity
 categories:
   - Ephemeris
 tags:

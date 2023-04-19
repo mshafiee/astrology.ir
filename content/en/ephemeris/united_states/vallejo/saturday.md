@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-07:00
 lastmod: 2023-04-22T00:00:00-07:00
-title: Vallejo (Saturday)
+title: Vallejo Saturday
 slug: saturday
 categories:
   - Ephemeris

@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: Gomez Palacio
-slug: gomez_palacio
+slug: gomezpalacio
 categories:
   - Ephemeris
 tags:

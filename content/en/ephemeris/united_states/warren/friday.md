@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-04:00
 lastmod: 2023-04-21T00:00:00-04:00
-title: Warren (Friday)
+title: Warren Friday
 slug: friday
 categories:
   - Ephemeris

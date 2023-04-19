@@ -1,13 +1,13 @@
 ---
 date: 2023-04-20T00:00:00-04:00
 lastmod: 2023-04-20T00:00:00-04:00
-title: La Victoria (Thursday)
+title: La Victoria Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep. of
+  - Venezuela, Bolivarian Rep of
   - La Victoria
 description: 🗓 Thursday, 20 Apr 2023
 

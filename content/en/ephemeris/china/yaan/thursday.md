@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: Ya'an (Thursday)
+title: Yaan Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Ya'an
+  - Yaan
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

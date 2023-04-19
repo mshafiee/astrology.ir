@@ -1,7 +1,7 @@
 ---
-date: 2023-04-17T00:00:00+12:00
-lastmod: 2023-04-17T00:00:00+12:00
-title: Suva (Monday)
+date: 2023-04-24T00:00:00+12:00
+lastmod: 2023-04-24T00:00:00+12:00
+title: Suva Monday
 slug: monday
 categories:
   - Ephemeris
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Fiji
   - Suva
-description: 🗓 Monday, 17 Apr 2023
+description: 🗓 Monday, 24 Apr 2023
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -329,10 +329,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub> |<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: SUV,  Souba,  Souva,  Sufa,  Suv,  Suva,  Suva City,  Suvae,  Suvo,  Suwa,  cuva,  su wa,  suba,  subha,  suva,  suwa,  swbh,  swfa,  swwa,  Σούβα,  Сувæ,  Сува,  Սուվա,  סובה,  سوفا,  سووا,  सुवा,  সুভা,  ਸੂਵਾ,  சுவா,  ซูวา,  སུ་ཝ།,  სუვა,  ሱቫ,  スバ,  蘇瓦,  수바

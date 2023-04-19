@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+07:00
 lastmod: 2023-04-20T00:00:00+07:00
-title: Nakhon Sawan (Thursday)
+title: Nakhon Sawan Thursday
 slug: thursday
 categories:
   - Ephemeris

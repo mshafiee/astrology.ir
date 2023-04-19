@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Saint-Etienne (Wednesday)
+title: SaintEtienne Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - France
-  - Saint-Etienne
+  - SaintEtienne
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

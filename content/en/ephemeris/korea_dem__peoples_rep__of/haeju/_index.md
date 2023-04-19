@@ -7,7 +7,7 @@ categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
+  - Korea, Dem Peoples Rep of
   - Haeju
 description: 🗓 Wednesday, 19 Apr 2023
 

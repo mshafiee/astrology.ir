@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+07:00
 lastmod: 2023-04-20T00:00:00+07:00
-title: O Mon (Thursday)
+title: O Mon Thursday
 slug: thursday
 categories:
   - Ephemeris

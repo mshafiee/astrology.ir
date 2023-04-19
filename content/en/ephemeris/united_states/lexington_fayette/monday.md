@@ -1,14 +1,14 @@
 ---
 date: 2023-04-24T00:00:00-04:00
 lastmod: 2023-04-24T00:00:00-04:00
-title: Lexington-Fayette (Monday)
+title: LexingtonFayette Monday
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - Lexington-Fayette
+  - LexingtonFayette
 description: 🗓 Monday, 24 Apr 2023
 
 toc: false

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-20T00:00:00+03:30
 lastmod: 2023-04-20T00:00:00+03:30
-title: Masjed Soleyman (Thursday)
+title: Masjed Soleyman Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep. of
+  - Iran, Islamic Rep of
   - Masjed Soleyman
 description: 🗓 Thursday, 20 Apr 2023
 

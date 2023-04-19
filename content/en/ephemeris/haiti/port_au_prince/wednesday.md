@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: Port-au-Prince (Wednesday)
+title: PortauPrince Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Haiti
-  - Port-au-Prince
+  - PortauPrince
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

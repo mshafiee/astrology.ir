@@ -1,14 +1,14 @@
 ---
 date: 2023-04-24T00:00:00+07:00
 lastmod: 2023-04-24T00:00:00+07:00
-title: Prokop'yevsk (Monday)
+title: Prokopyevsk Monday
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Prokop'yevsk
+  - Prokopyevsk
 description: 🗓 Monday, 24 Apr 2023
 
 toc: false

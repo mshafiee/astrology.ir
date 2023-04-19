@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Guri-si (Friday)
+title: Gurisi Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Guri-si
+  - Gurisi
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

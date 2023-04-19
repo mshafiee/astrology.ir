@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+03:30
 lastmod: 2023-04-22T00:00:00+03:30
-title: بانه (شنبه)
+title: بانه شنبه
 slug: saturday
 categories:
   - گاهشمار اختری

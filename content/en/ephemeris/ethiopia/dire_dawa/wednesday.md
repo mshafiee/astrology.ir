@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Dire Dawa (Wednesday)
+title: Dire Dawa Wednesday
 slug: wednesday
 categories:
   - Ephemeris

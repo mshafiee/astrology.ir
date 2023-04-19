@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Kamigyo-ku
-slug: kamigyo_ku
+title: Kamigyoku
+slug: kamigyoku
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Kamigyo-ku
+  - Kamigyoku
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+07:00
 lastmod: 2023-04-19T00:00:00+07:00
-title: Anzhero-Sudzhensk
-slug: anzhero_sudzhensk
+title: AnzheroSudzhensk
+slug: anzherosudzhensk
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Anzhero-Sudzhensk
+  - AnzheroSudzhensk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

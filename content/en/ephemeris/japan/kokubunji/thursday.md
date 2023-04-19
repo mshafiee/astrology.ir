@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Kokubunji (Thursday)
+title: Kokubunji Thursday
 slug: thursday
 categories:
   - Ephemeris

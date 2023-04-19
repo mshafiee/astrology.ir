@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+08:00
 lastmod: 2023-04-23T00:00:00+08:00
-title: Ya'an (Sunday)
+title: Yaan Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Ya'an
+  - Yaan
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

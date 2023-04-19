@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+05:30
 lastmod: 2023-04-23T00:00:00+05:30
-title: Junagadh (Sunday)
+title: Junagadh Sunday
 slug: sunday
 categories:
   - Ephemeris

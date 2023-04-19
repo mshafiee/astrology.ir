@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+07:00
 lastmod: 2023-04-20T00:00:00+07:00
-title: Zheleznogorsk (Thursday)
+title: Zheleznogorsk Thursday
 slug: thursday
 categories:
   - Ephemeris
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°0'3.78" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°36'12.01" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°6'56.73" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'12.13" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°17'42.27" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|15°31'18.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°43'43.80" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

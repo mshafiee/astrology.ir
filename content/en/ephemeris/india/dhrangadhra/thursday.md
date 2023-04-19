@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+05:30
 lastmod: 2023-04-20T00:00:00+05:30
-title: Dhrangadhra (Thursday)
+title: Dhrangadhra Thursday
 slug: thursday
 categories:
   - Ephemeris

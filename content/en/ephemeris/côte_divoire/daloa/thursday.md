@@ -1,13 +1,13 @@
 ---
 date: 2023-04-20T00:00:00Z
 lastmod: 2023-04-20T00:00:00Z
-title: Daloa (Thursday)
+title: Daloa Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte d'Ivoire
+  - Côte dIvoire
   - Daloa
 description: 🗓 Thursday, 20 Apr 2023
 

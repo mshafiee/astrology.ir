@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: Schweizer-Reneke (Tuesday)
+title: SchweizerReneke Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - South Africa
-  - Schweizer-Reneke
+  - SchweizerReneke
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

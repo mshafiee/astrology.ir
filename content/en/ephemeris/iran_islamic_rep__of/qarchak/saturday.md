@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00+03:30
 lastmod: 2023-04-22T00:00:00+03:30
-title: Qarchak (Saturday)
+title: Qarchak Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep. of
+  - Iran, Islamic Rep of
   - Qarchak
 description: 🗓 Saturday, 22 Apr 2023
 

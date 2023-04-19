@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: Ningyang (Thursday)
+title: Ningyang Thursday
 slug: thursday
 categories:
   - Ephemeris

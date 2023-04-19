@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-04:00
 lastmod: 2023-04-22T00:00:00-04:00
-title: Pembroke Pines (Saturday)
+title: Pembroke Pines Saturday
 slug: saturday
 categories:
   - Ephemeris

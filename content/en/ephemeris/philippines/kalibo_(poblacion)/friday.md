@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+08:00
 lastmod: 2023-04-21T00:00:00+08:00
-title: Kalibo (poblacion) (Friday)
+title: Kalibo poblacion Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Philippines
-  - Kalibo (poblacion)
+  - Kalibo poblacion
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

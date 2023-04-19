@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+04:00
 lastmod: 2023-04-19T00:00:00+04:00
-title: Saint-Denis
-slug: saint_denis
+title: SaintDenis
+slug: saintdenis
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Réunion
-  - Saint-Denis
+  - SaintDenis
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+07:00
 lastmod: 2023-04-19T00:00:00+07:00
-title: Kemerovo (Wednesday)
+title: Kemerovo Wednesday
 slug: wednesday
 categories:
   - Ephemeris
@@ -294,9 +294,9 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°26'37.29" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°27'4.82" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|12°28'50.50" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°38'56.06" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|28°38'57.82" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°59'37.62" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°20'2.82" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°20'6.25" |Aries|Butain|Sun|
 |☾ Moon|Direct|13°7'25.57" |Pisces|FarghAlMuakhar|Jupiter|
 
 

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-03:00
 lastmod: 2023-04-19T00:00:00-03:00
-title: Santa Barbara d'Oeste (Wednesday)
+title: Santa Barbara dOeste Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Brazil
-  - Santa Barbara d'Oeste
+  - Santa Barbara dOeste
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

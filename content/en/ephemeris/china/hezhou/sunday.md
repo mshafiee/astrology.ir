@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+08:00
 lastmod: 2023-04-23T00:00:00+08:00
-title: Hezhou (Sunday)
+title: Hezhou Sunday
 slug: sunday
 categories:
   - Ephemeris
@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°46'43.19" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°24'12.51" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°36'5.90" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°31'6.76" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°32'3.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'25.04" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°57'10.75" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°31'6.90" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°32'3.44" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'25.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°58'20.77" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

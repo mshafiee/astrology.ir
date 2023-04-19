@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: Vitry-sur-Seine (Tuesday)
+title: VitrysurSeine Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - France
-  - Vitry-sur-Seine
+  - VitrysurSeine
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

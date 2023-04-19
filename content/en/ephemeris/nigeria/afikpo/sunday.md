@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+01:00
 lastmod: 2023-04-23T00:00:00+01:00
-title: Afikpo (Sunday)
+title: Afikpo Sunday
 slug: sunday
 categories:
   - Ephemeris

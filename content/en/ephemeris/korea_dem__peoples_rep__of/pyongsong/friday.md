@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: P'yongsong (Friday)
+title: Pyongsong Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
-  - P'yongsong
+  - Korea, Dem Peoples Rep of
+  - Pyongsong
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

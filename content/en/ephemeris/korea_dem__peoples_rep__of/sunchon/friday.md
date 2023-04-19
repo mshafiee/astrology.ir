@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Sunch'on (Friday)
+title: Sunchon Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
-  - Sunch'on
+  - Korea, Dem Peoples Rep of
+  - Sunchon
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

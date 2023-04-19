@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+03:00
 lastmod: 2023-04-23T00:00:00+03:00
-title: Antsirabe (Sunday)
+title: Antsirabe Sunday
 slug: sunday
 categories:
   - Ephemeris

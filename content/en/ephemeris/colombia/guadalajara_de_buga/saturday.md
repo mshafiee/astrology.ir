@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-05:00
 lastmod: 2023-04-22T00:00:00-05:00
-title: Guadalajara de Buga (Saturday)
+title: Guadalajara de Buga Saturday
 slug: saturday
 categories:
   - Ephemeris

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-07:00
 lastmod: 2023-04-21T00:00:00-07:00
-title: Glendale (Friday)
+title: Glendale Friday
 slug: friday
 categories:
   - Ephemeris
@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°4'29.14" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°51'57.12" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°10'56.38" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°58'10.17" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'17.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°1'6.72" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°58'8.65" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'17.17" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°0'15.02" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

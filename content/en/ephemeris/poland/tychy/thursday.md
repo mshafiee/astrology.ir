@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: Tychy (Thursday)
+title: Tychy Thursday
 slug: thursday
 categories:
   - Ephemeris
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'47.25" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°44'18.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°7'2.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°48'57.84" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°21'56.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'2.29" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°48'38.54" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|13°7'2.11" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°48'58.06" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°21'56.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'2.50" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°50'10.98" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

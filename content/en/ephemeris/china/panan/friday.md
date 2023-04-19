@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+08:00
 lastmod: 2023-04-21T00:00:00+08:00
-title: Pan'an (Friday)
+title: Panan Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Pan'an
+  - Panan
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

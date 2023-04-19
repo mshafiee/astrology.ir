@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+08:00
 lastmod: 2023-04-22T00:00:00+08:00
-title: Usol'ye-Sibirskoye (Saturday)
+title: UsolyeSibirskoye Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Usol'ye-Sibirskoye
+  - UsolyeSibirskoye
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

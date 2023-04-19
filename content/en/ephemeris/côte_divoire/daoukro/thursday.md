@@ -1,13 +1,13 @@
 ---
 date: 2023-04-20T00:00:00Z
 lastmod: 2023-04-20T00:00:00Z
-title: Daoukro (Thursday)
+title: Daoukro Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte d'Ivoire
+  - Côte dIvoire
   - Daoukro
 description: 🗓 Thursday, 20 Apr 2023
 

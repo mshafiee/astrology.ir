@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: Casoria (Thursday)
+title: Casoria Thursday
 slug: thursday
 categories:
   - Ephemeris
@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°7'49.30" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°50'25.34" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|10°23'38.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'14.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°18'29.07" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|15°33'14.81" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°19'25.18" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

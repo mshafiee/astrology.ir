@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-03:00
 lastmod: 2023-04-19T00:00:00-03:00
-title: Florianopolis (Wednesday)
+title: Florianopolis Wednesday
 slug: wednesday
 categories:
   - Ephemeris
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°28'54.02" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°33'25.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°42'50.85" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|12°42'50.50" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|29°4'44.14" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|9°29'53.72" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°26'0.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°57'33.06" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°0'55.43" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
 
 
 {{< /tab >}}

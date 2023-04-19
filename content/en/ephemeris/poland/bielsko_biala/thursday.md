@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: Bielsko-Biala (Thursday)
+title: BielskoBiala Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Poland
-  - Bielsko-Biala
+  - BielskoBiala
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

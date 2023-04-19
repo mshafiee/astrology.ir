@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+01:00
 lastmod: 2023-04-22T00:00:00+01:00
-title: Igbara-Odo (Saturday)
+title: IgbaraOdo Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - Igbara-Odo
+  - IgbaraOdo
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

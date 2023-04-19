@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: Jeremie (Sunday)
+title: Jeremie Sunday
 slug: sunday
 categories:
   - Ephemeris

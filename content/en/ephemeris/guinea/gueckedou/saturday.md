@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00Z
 lastmod: 2023-04-22T00:00:00Z
-title: Gueckedou (Saturday)
+title: Gueckedou Saturday
 slug: saturday
 categories:
   - Ephemeris

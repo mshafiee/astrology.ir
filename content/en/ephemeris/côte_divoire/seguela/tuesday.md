@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: Seguela (Tuesday)
+title: Seguela Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte d'Ivoire
+  - Côte dIvoire
   - Seguela
 description: 🗓 Tuesday, 18 Apr 2023
 

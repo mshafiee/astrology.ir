@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Yuktae-dong
-slug: yuktae_dong
+title: Yuktaedong
+slug: yuktaedong
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
-  - Yuktae-dong
+  - Korea, Dem Peoples Rep of
+  - Yuktaedong
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

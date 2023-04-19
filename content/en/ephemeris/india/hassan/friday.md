@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+05:30
 lastmod: 2023-04-21T00:00:00+05:30
-title: Hassan (Friday)
+title: Hassan Friday
 slug: friday
 categories:
   - Ephemeris
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'14.93" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°56'56.21" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°35'6.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°40'15.05" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°22'8.62" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'5.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°5'35.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°35'6.22" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°40'16.55" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°22'9.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'7.82" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°14'29.09" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

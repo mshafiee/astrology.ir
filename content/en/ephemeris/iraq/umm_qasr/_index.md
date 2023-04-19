@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
 title: Umm Qasr
-slug: umm_qasr
+slug: ummqasr
 categories:
   - Ephemeris
 tags:

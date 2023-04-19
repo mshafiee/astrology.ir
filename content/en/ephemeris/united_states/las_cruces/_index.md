@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: Las Cruces
-slug: las_cruces
+slug: lascruces
 categories:
   - Ephemeris
 tags:

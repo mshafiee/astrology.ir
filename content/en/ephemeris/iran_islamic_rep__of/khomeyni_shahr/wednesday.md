@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00+03:30
 lastmod: 2023-04-19T00:00:00+03:30
-title: Khomeyni Shahr (Wednesday)
+title: Khomeyni Shahr Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep. of
+  - Iran, Islamic Rep of
   - Khomeyni Shahr
 description: 🗓 Wednesday, 19 Apr 2023
 

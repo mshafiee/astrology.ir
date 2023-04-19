@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: Igbara-Odo
-slug: igbara_odo
+title: IgbaraOdo
+slug: igbaraodo
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - Igbara-Odo
+  - IgbaraOdo
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

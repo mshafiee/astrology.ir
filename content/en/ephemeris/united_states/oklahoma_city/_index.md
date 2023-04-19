@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-05:00
 lastmod: 2023-04-19T00:00:00-05:00
 title: Oklahoma City
-slug: oklahoma_city
+slug: oklahomacity
 categories:
   - Ephemeris
 tags:

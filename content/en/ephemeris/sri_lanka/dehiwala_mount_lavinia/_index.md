@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+05:30
 lastmod: 2023-04-19T00:00:00+05:30
-title: Dehiwala-Mount Lavinia
-slug: dehiwala_mount_lavinia
+title: DehiwalaMount Lavinia
+slug: dehiwalamountlavinia
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Sri Lanka
-  - Dehiwala-Mount Lavinia
+  - DehiwalaMount Lavinia
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

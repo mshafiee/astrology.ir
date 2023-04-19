@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-05:00
 lastmod: 2023-04-22T00:00:00-05:00
-title: Ciudad Satelite (Saturday)
+title: Ciudad Satelite Saturday
 slug: saturday
 categories:
   - Ephemeris
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'25.15" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°17'31.40" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°21'5.89" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°3'56.85" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°0'14.04" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'0.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°13'48.84" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°21'5.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°3'55.64" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°0'12.94" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'58.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°6'9.46" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,7 +331,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'25.15" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°17'31.40" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°17'31.17" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°21'5.89" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°3'56.85" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°0'14.04" |Gemini|HanAh|Mars|

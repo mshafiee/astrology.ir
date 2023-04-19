@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-03:00
 lastmod: 2023-04-19T00:00:00-03:00
-title: Pindamonhangaba (Wednesday)
+title: Pindamonhangaba Wednesday
 slug: wednesday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Bielsko-Biala
-slug: bielsko_biala
+title: BielskoBiala
+slug: bielskobiala
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Poland
-  - Bielsko-Biala
+  - BielskoBiala
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

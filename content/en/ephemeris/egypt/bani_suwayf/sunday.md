@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+02:00
 lastmod: 2023-04-23T00:00:00+02:00
-title: Bani Suwayf (Sunday)
+title: Bani Suwayf Sunday
 slug: sunday
 categories:
   - Ephemeris

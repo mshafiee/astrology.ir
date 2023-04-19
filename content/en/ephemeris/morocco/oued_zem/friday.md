@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00Z
 lastmod: 2023-04-21T00:00:00Z
-title: Oued Zem (Friday)
+title: Oued Zem Friday
 slug: friday
 categories:
   - Ephemeris

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+08:00
 lastmod: 2023-04-24T00:00:00+08:00
-title: Pulong Santa Cruz (Monday)
+title: Pulong Santa Cruz Monday
 slug: monday
 categories:
   - Ephemeris

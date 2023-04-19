@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00-04:00
 lastmod: 2023-04-21T00:00:00-04:00
-title: Lexington-Fayette (Friday)
+title: LexingtonFayette Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - Lexington-Fayette
+  - LexingtonFayette
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

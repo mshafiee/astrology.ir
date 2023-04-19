@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Gifu-shi
-slug: gifu_shi
+title: Gifushi
+slug: gifushi
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Gifu-shi
+  - Gifushi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

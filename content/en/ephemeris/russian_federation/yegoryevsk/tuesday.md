@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+03:00
 lastmod: 2023-04-18T00:00:00+03:00
-title: Yegor'yevsk (Tuesday)
+title: Yegoryevsk Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Yegor'yevsk
+  - Yegoryevsk
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

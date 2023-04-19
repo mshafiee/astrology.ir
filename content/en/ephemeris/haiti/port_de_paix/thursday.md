@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00-04:00
 lastmod: 2023-04-20T00:00:00-04:00
-title: Port-de-Paix (Thursday)
+title: PortdePaix Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Haiti
-  - Port-de-Paix
+  - PortdePaix
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

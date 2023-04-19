@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
 title: Sidi Slimane
-slug: sidi_slimane
+slug: sidislimane
 categories:
   - Ephemeris
 tags:

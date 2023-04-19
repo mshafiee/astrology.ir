@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-03:00
 lastmod: 2023-04-21T00:00:00-03:00
-title: Santana de Parnaiba (Friday)
+title: Santana de Parnaiba Friday
 slug: friday
 categories:
   - Ephemeris

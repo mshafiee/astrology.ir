@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+07:00
 lastmod: 2023-04-20T00:00:00+07:00
-title: Krathum Baen (Thursday)
+title: Krathum Baen Thursday
 slug: thursday
 categories:
   - Ephemeris

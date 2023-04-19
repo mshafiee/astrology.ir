@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-07:00
 lastmod: 2023-04-19T00:00:00-07:00
 title: Sunrise Manor
-slug: sunrise_manor
+slug: sunrisemanor
 categories:
   - Ephemeris
 tags:

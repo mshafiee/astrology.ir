@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+07:00
 lastmod: 2023-04-19T00:00:00+07:00
-title: Thu Dau Mot (Wednesday)
+title: Thu Dau Mot Wednesday
 slug: wednesday
 categories:
   - Ephemeris

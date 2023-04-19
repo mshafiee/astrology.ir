@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+05:00
 lastmod: 2023-04-23T00:00:00+05:00
-title: Kattaqo'rg'on Shahri (Sunday)
+title: Kattaqorgon Shahri Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Uzbekistan
-  - Kattaqo'rg'on Shahri
+  - Kattaqorgon Shahri
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+06:00
 lastmod: 2023-04-18T00:00:00+06:00
-title: Jalal-Abad (Tuesday)
+title: JalalAbad Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Kyrgyzstan
-  - Jalal-Abad
+  - JalalAbad
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

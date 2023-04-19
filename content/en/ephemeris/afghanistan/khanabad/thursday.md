@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+04:30
 lastmod: 2023-04-20T00:00:00+04:30
-title: Khanabad (Thursday)
+title: Khanabad Thursday
 slug: thursday
 categories:
   - Ephemeris

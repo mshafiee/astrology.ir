@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Songnim-ni (Thursday)
+title: Songnimni Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
-  - Songnim-ni
+  - Korea, Dem Peoples Rep of
+  - Songnimni
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+03:00
 lastmod: 2023-04-21T00:00:00+03:00
-title: Al Bahah (Friday)
+title: Al Bahah Friday
 slug: friday
 categories:
   - Ephemeris

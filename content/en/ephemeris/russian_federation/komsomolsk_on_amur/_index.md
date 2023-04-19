@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+10:00
 lastmod: 2023-04-19T00:00:00+10:00
-title: Komsomolsk-on-Amur
-slug: komsomolsk_on_amur
+title: KomsomolskonAmur
+slug: komsomolskonamur
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Komsomolsk-on-Amur
+  - KomsomolskonAmur
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

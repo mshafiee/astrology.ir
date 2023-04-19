@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-06:00
 lastmod: 2023-04-24T00:00:00-06:00
-title: Fort Collins (Monday)
+title: Fort Collins Monday
 slug: monday
 categories:
   - Ephemeris

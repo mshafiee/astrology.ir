@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Wonsan (Tuesday)
+title: Wonsan Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
+  - Korea, Dem Peoples Rep of
   - Wonsan
 description: 🗓 Tuesday, 18 Apr 2023
 

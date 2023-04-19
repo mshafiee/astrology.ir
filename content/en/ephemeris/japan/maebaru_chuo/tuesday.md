@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Maebaru-chuo (Tuesday)
+title: Maebaruchuo Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Maebaru-chuo
+  - Maebaruchuo
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

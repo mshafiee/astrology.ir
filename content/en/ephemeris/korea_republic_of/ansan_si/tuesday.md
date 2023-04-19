@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Ansan-si (Tuesday)
+title: Ansansi Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Ansan-si
+  - Ansansi
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

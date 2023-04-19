@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+03:00
 lastmod: 2023-04-18T00:00:00+03:00
-title: Mbale (Tuesday)
+title: Mbale Tuesday
 slug: tuesday
 categories:
   - Ephemeris
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|27°51'36.89" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|8°3'49.28" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°6'29.32" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°18'34.73" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°54'55.31" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

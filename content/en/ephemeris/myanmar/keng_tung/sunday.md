@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+06:30
 lastmod: 2023-04-23T00:00:00+06:30
-title: Keng Tung (Sunday)
+title: Keng Tung Sunday
 slug: sunday
 categories:
   - Ephemeris

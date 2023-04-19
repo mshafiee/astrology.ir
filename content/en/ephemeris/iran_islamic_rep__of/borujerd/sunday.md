@@ -1,13 +1,13 @@
 ---
 date: 2023-04-23T00:00:00+03:30
 lastmod: 2023-04-23T00:00:00+03:30
-title: Borujerd (Sunday)
+title: Borujerd Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep. of
+  - Iran, Islamic Rep of
   - Borujerd
 description: 🗓 Sunday, 23 Apr 2023
 

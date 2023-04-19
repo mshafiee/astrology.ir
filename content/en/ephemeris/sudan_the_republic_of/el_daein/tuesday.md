@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: El Daein (Tuesday)
+title: El Daein Tuesday
 slug: tuesday
 categories:
   - Ephemeris

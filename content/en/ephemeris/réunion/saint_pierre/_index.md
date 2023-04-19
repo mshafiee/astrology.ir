@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+04:00
 lastmod: 2023-04-19T00:00:00+04:00
-title: Saint-Pierre
-slug: saint_pierre
+title: SaintPierre
+slug: saintpierre
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Réunion
-  - Saint-Pierre
+  - SaintPierre
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

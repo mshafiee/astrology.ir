@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00-07:00
 lastmod: 2023-04-20T00:00:00-07:00
-title: Arden-Arcade (Thursday)
+title: ArdenArcade Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - Arden-Arcade
+  - ArdenArcade
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00-02:30
 lastmod: 2023-04-22T00:00:00-02:30
-title: St. John's (Saturday)
+title: St Johns Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Canada
-  - St. John's
+  - St Johns
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+05:30
 lastmod: 2023-04-20T00:00:00+05:30
-title: Dehiwala-Mount Lavinia (Thursday)
+title: DehiwalaMount Lavinia Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Sri Lanka
-  - Dehiwala-Mount Lavinia
+  - DehiwalaMount Lavinia
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

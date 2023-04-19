@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+04:00
 lastmod: 2023-04-23T00:00:00+04:00
-title: Beau Bassin-Rose Hill (Sunday)
+title: Beau BassinRose Hill Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Mauritius
-  - Beau Bassin-Rose Hill
+  - Beau BassinRose Hill
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

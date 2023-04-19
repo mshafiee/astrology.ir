@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+03:00
 lastmod: 2023-04-20T00:00:00+03:00
-title: Bryansk (Thursday)
+title: Bryansk Thursday
 slug: thursday
 categories:
   - Ephemeris
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'32.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'37.36" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°5'30.18" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°46'9.57" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°18'38.75" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'40.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°7'29.04" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'37.60" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°5'30.47" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°46'10.93" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°18'39.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'42.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°16'30.09" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

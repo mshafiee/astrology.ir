@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Ga-Rankuwa (Wednesday)
+title: GaRankuwa Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - South Africa
-  - Ga-Rankuwa
+  - GaRankuwa
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

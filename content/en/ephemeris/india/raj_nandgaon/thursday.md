@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+05:30
 lastmod: 2023-04-20T00:00:00+05:30
-title: Raj-Nandgaon (Thursday)
+title: RajNandgaon Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - India
-  - Raj-Nandgaon
+  - RajNandgaon
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

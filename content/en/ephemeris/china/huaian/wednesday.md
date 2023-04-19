@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Huai'an (Wednesday)
+title: Huaian Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Huai'an
+  - Huaian
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

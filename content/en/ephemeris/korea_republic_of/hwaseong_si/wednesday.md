@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Hwaseong-si (Wednesday)
+title: Hwaseongsi Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Hwaseong-si
+  - Hwaseongsi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

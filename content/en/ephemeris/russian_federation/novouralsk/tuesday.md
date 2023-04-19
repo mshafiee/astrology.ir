@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+05:00
 lastmod: 2023-04-18T00:00:00+05:00
-title: Novoural'sk (Tuesday)
+title: Novouralsk Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Novoural'sk
+  - Novouralsk
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

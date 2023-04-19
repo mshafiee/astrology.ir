@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+04:30
 lastmod: 2023-04-22T00:00:00+04:30
-title: Baghlan (Saturday)
+title: Baghlan Saturday
 slug: saturday
 categories:
   - Ephemeris

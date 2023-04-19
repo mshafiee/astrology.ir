@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00-04:00
 lastmod: 2023-04-20T00:00:00-04:00
-title: Saint-Jean-sur-Richelieu (Thursday)
+title: SaintJeansurRichelieu Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Canada
-  - Saint-Jean-sur-Richelieu
+  - SaintJeansurRichelieu
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

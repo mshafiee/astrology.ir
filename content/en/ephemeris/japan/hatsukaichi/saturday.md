@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+09:00
 lastmod: 2023-04-22T00:00:00+09:00
-title: Hatsukaichi (Saturday)
+title: Hatsukaichi Saturday
 slug: saturday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: Croix-des-Bouquets (Wednesday)
+title: CroixdesBouquets Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Haiti
-  - Croix-des-Bouquets
+  - CroixdesBouquets
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

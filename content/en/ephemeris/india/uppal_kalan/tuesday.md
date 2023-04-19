@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+05:30
 lastmod: 2023-04-18T00:00:00+05:30
-title: Uppal Kalan (Tuesday)
+title: Uppal Kalan Tuesday
 slug: tuesday
 categories:
   - Ephemeris

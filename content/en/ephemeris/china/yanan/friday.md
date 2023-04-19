@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+08:00
 lastmod: 2023-04-21T00:00:00+08:00
-title: Yan'an (Friday)
+title: Yanan Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Yan'an
+  - Yanan
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

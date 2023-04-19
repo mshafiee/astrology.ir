@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Rosh Ha'Ayin
-slug: rosh_haayin
+title: Rosh HaAyin
+slug: roshhaayin
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Israel
-  - Rosh Ha'Ayin
+  - Rosh HaAyin
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

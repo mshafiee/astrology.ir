@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+03:00
 lastmod: 2023-04-22T00:00:00+03:00
-title: Jerusalem (Saturday)
+title: Jerusalem Saturday
 slug: saturday
 categories:
   - Ephemeris

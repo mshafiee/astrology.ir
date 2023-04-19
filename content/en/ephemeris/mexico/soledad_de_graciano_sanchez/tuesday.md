@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-06:00
 lastmod: 2023-04-18T00:00:00-06:00
-title: Soledad de Graciano Sanchez (Tuesday)
+title: Soledad de Graciano Sanchez Tuesday
 slug: tuesday
 categories:
   - Ephemeris

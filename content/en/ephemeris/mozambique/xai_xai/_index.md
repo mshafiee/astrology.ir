@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Xai-Xai
-slug: xai_xai
+title: XaiXai
+slug: xaixai
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Mozambique
-  - Xai-Xai
+  - XaiXai
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

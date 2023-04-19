@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+08:00
 lastmod: 2023-04-18T00:00:00+08:00
-title: Lu'an (Tuesday)
+title: Luan Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Lu'an
+  - Luan
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

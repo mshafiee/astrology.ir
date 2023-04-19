@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+08:00
 lastmod: 2023-04-23T00:00:00+08:00
-title: Shangri-La (Sunday)
+title: ShangriLa Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Shangri-La
+  - ShangriLa
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

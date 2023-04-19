@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-06:00
 lastmod: 2023-04-24T00:00:00-06:00
-title: Highlands Ranch (Monday)
+title: Highlands Ranch Monday
 slug: monday
 categories:
   - Ephemeris

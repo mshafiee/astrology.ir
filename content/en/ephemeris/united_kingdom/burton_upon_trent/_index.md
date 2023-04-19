@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
 title: Burton upon Trent
-slug: burton_upon_trent
+slug: burtonupontrent
 categories:
   - Ephemeris
 tags:

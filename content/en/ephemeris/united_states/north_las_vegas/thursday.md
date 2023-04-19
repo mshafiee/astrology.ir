@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-07:00
 lastmod: 2023-04-20T00:00:00-07:00
-title: North Las Vegas (Thursday)
+title: North Las Vegas Thursday
 slug: thursday
 categories:
   - Ephemeris

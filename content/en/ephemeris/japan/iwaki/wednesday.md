@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Iwaki (Wednesday)
+title: Iwaki Wednesday
 slug: wednesday
 categories:
   - Ephemeris

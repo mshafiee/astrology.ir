@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+05:00
 lastmod: 2023-04-23T00:00:00+05:00
-title: Qo'qon (Sunday)
+title: Qoqon Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Uzbekistan
-  - Qo'qon
+  - Qoqon
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

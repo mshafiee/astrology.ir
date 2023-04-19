@@ -1,13 +1,13 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: El Vigia (Sunday)
+title: El Vigia Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep. of
+  - Venezuela, Bolivarian Rep of
   - El Vigia
 description: 🗓 Sunday, 23 Apr 2023
 

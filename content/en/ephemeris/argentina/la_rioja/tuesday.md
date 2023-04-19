@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-03:00
 lastmod: 2023-04-18T00:00:00-03:00
-title: La Rioja (Tuesday)
+title: La Rioja Tuesday
 slug: tuesday
 categories:
   - Ephemeris

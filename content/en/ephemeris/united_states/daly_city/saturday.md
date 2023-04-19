@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-07:00
 lastmod: 2023-04-22T00:00:00-07:00
-title: Daly City (Saturday)
+title: Daly City Saturday
 slug: saturday
 categories:
   - Ephemeris
@@ -331,9 +331,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'55.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°19'0.21" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°19'0.07" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°24'25.54" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°9'56.92" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°9'56.15" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°7'16.68" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°33'13.42" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|2°10'18.80" |Gemini|HaqAh|Jupiter|

@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
 title: Al Fqih Ben Calah
-slug: al_fqih_ben_calah
+slug: alfqihbencalah
 categories:
   - Ephemeris
 tags:

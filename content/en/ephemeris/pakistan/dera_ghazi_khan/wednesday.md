@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+05:00
 lastmod: 2023-04-19T00:00:00+05:00
-title: Dera Ghazi Khan (Wednesday)
+title: Dera Ghazi Khan Wednesday
 slug: wednesday
 categories:
   - Ephemeris

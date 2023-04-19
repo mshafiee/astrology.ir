@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+06:30
 lastmod: 2023-04-19T00:00:00+06:30
 title: Keng Tung
-slug: keng_tung
+slug: kengtung
 categories:
   - Ephemeris
 tags:

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+05:45
 lastmod: 2023-04-22T00:00:00+05:45
-title: Madhyapur Thimi (Saturday)
+title: Madhyapur Thimi Saturday
 slug: saturday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Seongnam-si (Wednesday)
+title: Seongnamsi Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Seongnam-si
+  - Seongnamsi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false
@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°25'46.38" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|12°25'56.42" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|28°33'40.03" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°53'22.31" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°18'49.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°7'38.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°53'22.54" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°18'49.51" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°9'34.32" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

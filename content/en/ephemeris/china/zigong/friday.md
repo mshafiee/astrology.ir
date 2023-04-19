@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+08:00
 lastmod: 2023-04-21T00:00:00+08:00
-title: Zigong (Friday)
+title: Zigong Friday
 slug: friday
 categories:
   - Ephemeris

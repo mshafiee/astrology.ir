@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Nara-shi
-slug: nara_shi
+title: Narashi
+slug: narashi
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Nara-shi
+  - Narashi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

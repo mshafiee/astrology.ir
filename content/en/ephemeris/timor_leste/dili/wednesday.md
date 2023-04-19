@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Dili (Wednesday)
+title: Dili Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Timor-Leste
+  - TimorLeste
   - Dili
 description: 🗓 Wednesday, 19 Apr 2023
 

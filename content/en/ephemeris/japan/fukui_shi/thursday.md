@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Fukui-shi (Thursday)
+title: Fukuishi Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Fukui-shi
+  - Fukuishi
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

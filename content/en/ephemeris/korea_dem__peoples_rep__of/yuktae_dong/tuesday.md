@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Yuktae-dong (Tuesday)
+title: Yuktaedong Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
-  - Yuktae-dong
+  - Korea, Dem Peoples Rep of
+  - Yuktaedong
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

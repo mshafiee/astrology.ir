@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Yukuhashi (Friday)
+title: Yukuhashi Friday
 slug: friday
 categories:
   - Ephemeris

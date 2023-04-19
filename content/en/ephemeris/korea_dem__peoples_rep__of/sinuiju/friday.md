@@ -1,13 +1,13 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Sinuiju (Friday)
+title: Sinuiju Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
+  - Korea, Dem Peoples Rep of
   - Sinuiju
 description: 🗓 Friday, 21 Apr 2023
 

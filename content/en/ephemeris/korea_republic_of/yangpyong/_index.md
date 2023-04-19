@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Yangp'yong
+title: Yangpyong
 slug: yangpyong
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Yangp'yong
+  - Yangpyong
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

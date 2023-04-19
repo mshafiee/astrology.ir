@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+07:00
 lastmod: 2023-04-21T00:00:00+07:00
-title: Pangkalpinang (Friday)
+title: Pangkalpinang Friday
 slug: friday
 categories:
   - Ephemeris
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|0°35'55.04" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°17'1.90" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'59.59" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°21'18.06" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|11°20'48.02" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
 title: Sabah as Salim
-slug: sabah_as_salim
+slug: sabahassalim
 categories:
   - Ephemeris
 tags:

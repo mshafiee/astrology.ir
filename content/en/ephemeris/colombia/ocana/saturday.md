@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-05:00
 lastmod: 2023-04-22T00:00:00-05:00
-title: Ocana (Saturday)
+title: Ocana Saturday
 slug: saturday
 categories:
   - Ephemeris
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°20'45.92" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°3'19.94" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°59'31.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'2.88" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°59'52.66" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|15°34'2.89" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°59'18.96" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

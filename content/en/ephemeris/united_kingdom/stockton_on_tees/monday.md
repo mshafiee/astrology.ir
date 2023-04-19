@@ -1,14 +1,14 @@
 ---
 date: 2023-04-24T00:00:00+01:00
 lastmod: 2023-04-24T00:00:00+01:00
-title: Stockton-on-Tees (Monday)
+title: StocktononTees Monday
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United Kingdom
-  - Stockton-on-Tees
+  - StocktononTees
 description: 🗓 Monday, 24 Apr 2023
 
 toc: false

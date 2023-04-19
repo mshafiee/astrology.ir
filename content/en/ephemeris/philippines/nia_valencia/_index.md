@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
 title: NIA Valencia
-slug: nia_valencia
+slug: niavalencia
 categories:
   - Ephemeris
 tags:

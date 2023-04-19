@@ -1,13 +1,13 @@
 ---
 date: 2023-04-24T00:00:00+03:30
 lastmod: 2023-04-24T00:00:00+03:30
-title: Shirvan (Monday)
+title: Shirvan Monday
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep. of
+  - Iran, Islamic Rep of
   - Shirvan
 description: 🗓 Monday, 24 Apr 2023
 

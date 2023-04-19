@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: Mbuji-Mayi (Tuesday)
+title: MbujiMayi Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Congo, Democratic Republic of the
-  - Mbuji-Mayi
+  - MbujiMayi
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Kuala Lumpur (Wednesday)
+title: Kuala Lumpur Wednesday
 slug: wednesday
 categories:
   - Ephemeris

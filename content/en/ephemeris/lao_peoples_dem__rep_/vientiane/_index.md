@@ -7,7 +7,7 @@ categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Lao People's Dem. Rep.
+  - Lao Peoples Dem Rep
   - Vientiane
 description: 🗓 Wednesday, 19 Apr 2023
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-04:00
 lastmod: 2023-04-18T00:00:00-04:00
-title: Fort Lauderdale (Tuesday)
+title: Fort Lauderdale Tuesday
 slug: tuesday
 categories:
   - Ephemeris
@@ -331,11 +331,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°23'59.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°19'46.52" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|23°19'46.87" |Aries|Butain|Venus|
 |♂ Mars|Direct|12°12'41.82" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|28°9'18.26" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|28°9'20.28" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|8°24'42.94" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°12'1.44" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°12'3.83" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|6°23'52.01" |Aries|Sharatain|Mars|
 
 

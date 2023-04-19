@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: Al 'Ashir min Ramadan (Tuesday)
+title: Al Ashir min Ramadan Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Egypt
-  - Al 'Ashir min Ramadan
+  - Al Ashir min Ramadan
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+09:00
 lastmod: 2023-04-23T00:00:00+09:00
-title: Hongch'on (Sunday)
+title: Hongchon Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Hongch'on
+  - Hongchon
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

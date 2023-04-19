@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+05:30
 lastmod: 2023-04-20T00:00:00+05:30
-title: Udgir (Thursday)
+title: Udgir Thursday
 slug: thursday
 categories:
   - Ephemeris
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°42'25.32" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°2'49.11" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°41'18.23" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°12'54.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'9.05" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°32'55.26" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°12'54.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'8.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°28'26.45" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

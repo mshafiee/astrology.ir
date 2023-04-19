@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Kakogawacho-honmachi
-slug: kakogawacho_honmachi
+title: Kakogawachohonmachi
+slug: kakogawachohonmachi
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Kakogawacho-honmachi
+  - Kakogawachohonmachi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+05:00
 lastmod: 2023-04-19T00:00:00+05:00
-title: Khanty-Mansiysk
-slug: khanty_mansiysk
+title: KhantyMansiysk
+slug: khantymansiysk
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Khanty-Mansiysk
+  - KhantyMansiysk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

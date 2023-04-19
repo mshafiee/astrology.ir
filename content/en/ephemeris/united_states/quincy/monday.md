@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-04:00
 lastmod: 2023-04-24T00:00:00-04:00
-title: Quincy (Monday)
+title: Quincy Monday
 slug: monday
 categories:
   - Ephemeris

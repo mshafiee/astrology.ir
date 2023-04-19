@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+01:00
 lastmod: 2023-04-18T00:00:00+01:00
-title: Kingston upon Hull (Tuesday)
+title: Kingston upon Hull Tuesday
 slug: tuesday
 categories:
   - Ephemeris

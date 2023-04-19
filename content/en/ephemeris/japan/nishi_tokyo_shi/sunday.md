@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+09:00
 lastmod: 2023-04-23T00:00:00+09:00
-title: Nishi-Tokyo-shi (Sunday)
+title: NishiTokyoshi Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Nishi-Tokyo-shi
+  - NishiTokyoshi
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

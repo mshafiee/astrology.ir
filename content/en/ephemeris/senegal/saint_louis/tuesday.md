@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: Saint-Louis (Tuesday)
+title: SaintLouis Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Senegal
-  - Saint-Louis
+  - SaintLouis
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

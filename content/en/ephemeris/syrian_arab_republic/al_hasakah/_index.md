@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
 title: Al Hasakah
-slug: al_hasakah
+slug: alhasakah
 categories:
   - Ephemeris
 tags:

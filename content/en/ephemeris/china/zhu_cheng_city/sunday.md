@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+08:00
 lastmod: 2023-04-23T00:00:00+08:00
-title: Zhu Cheng City (Sunday)
+title: Zhu Cheng City Sunday
 slug: sunday
 categories:
   - Ephemeris

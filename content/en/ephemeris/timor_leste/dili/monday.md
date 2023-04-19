@@ -1,13 +1,13 @@
 ---
 date: 2023-04-24T00:00:00+09:00
 lastmod: 2023-04-24T00:00:00+09:00
-title: Dili (Monday)
+title: Dili Monday
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Timor-Leste
+  - TimorLeste
   - Dili
 description: 🗓 Monday, 24 Apr 2023
 

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Yoshkar-Ola
-slug: yoshkar_ola
+title: YoshkarOla
+slug: yoshkarola
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Yoshkar-Ola
+  - YoshkarOla
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

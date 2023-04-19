@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+04:30
 lastmod: 2023-04-18T00:00:00+04:30
-title: Balkh (Tuesday)
+title: Balkh Tuesday
 slug: tuesday
 categories:
   - Ephemeris

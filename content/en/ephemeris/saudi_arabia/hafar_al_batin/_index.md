@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Hafar Al-Batin
-slug: hafar_al_batin
+title: Hafar AlBatin
+slug: hafaralbatin
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Saudi Arabia
-  - Hafar Al-Batin
+  - Hafar AlBatin
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+03:00
 lastmod: 2023-04-20T00:00:00+03:00
-title: Modi'in Makkabbim Re'ut (Thursday)
+title: Modiin Makkabbim Reut Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Israel
-  - Modi'in Makkabbim Re'ut
+  - Modiin Makkabbim Reut
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

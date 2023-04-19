@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+01:00
 lastmod: 2023-04-18T00:00:00+01:00
-title: St Helens (Tuesday)
+title: St Helens Tuesday
 slug: tuesday
 categories:
   - Ephemeris

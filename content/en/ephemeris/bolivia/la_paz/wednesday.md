@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: La Paz (Wednesday)
+title: La Paz Wednesday
 slug: wednesday
 categories:
   - Ephemeris

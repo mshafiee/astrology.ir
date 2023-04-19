@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+09:00
 lastmod: 2023-04-22T00:00:00+09:00
-title: Maebaru-chuo (Saturday)
+title: Maebaruchuo Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Maebaru-chuo
+  - Maebaruchuo
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

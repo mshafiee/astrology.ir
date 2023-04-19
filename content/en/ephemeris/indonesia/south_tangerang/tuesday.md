@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+07:00
 lastmod: 2023-04-18T00:00:00+07:00
-title: South Tangerang (Tuesday)
+title: South Tangerang Tuesday
 slug: tuesday
 categories:
   - Ephemeris

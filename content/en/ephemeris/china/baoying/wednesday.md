@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Baoying (Wednesday)
+title: Baoying Wednesday
 slug: wednesday
 categories:
   - Ephemeris

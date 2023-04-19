@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+05:45
 lastmod: 2023-04-19T00:00:00+05:45
-title: Lahan (Wednesday)
+title: Lahan Wednesday
 slug: wednesday
 categories:
   - Ephemeris

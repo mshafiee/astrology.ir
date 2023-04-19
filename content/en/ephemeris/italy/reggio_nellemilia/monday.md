@@ -1,14 +1,14 @@
 ---
 date: 2023-04-24T00:00:00+02:00
 lastmod: 2023-04-24T00:00:00+02:00
-title: Reggio nell'Emilia (Monday)
+title: Reggio nellEmilia Monday
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Italy
-  - Reggio nell'Emilia
+  - Reggio nellEmilia
 description: 🗓 Monday, 24 Apr 2023
 
 toc: false

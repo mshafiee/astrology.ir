@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Drobeta-Turnu Severin
-slug: drobeta_turnu_severin
+title: DrobetaTurnu Severin
+slug: drobetaturnuseverin
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Romania
-  - Drobeta-Turnu Severin
+  - DrobetaTurnu Severin
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

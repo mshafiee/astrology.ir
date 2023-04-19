@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Saint-Maur-des-Fosses (Saturday)
+title: SaintMaurdesFosses Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - France
-  - Saint-Maur-des-Fosses
+  - SaintMaurdesFosses
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

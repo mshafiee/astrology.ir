@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00Z
 lastmod: 2023-04-22T00:00:00Z
-title: Bouake (Saturday)
+title: Bouake Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte d'Ivoire
+  - Côte dIvoire
   - Bouake
 description: 🗓 Saturday, 22 Apr 2023
 

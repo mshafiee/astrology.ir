@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+05:00
 lastmod: 2023-04-23T00:00:00+05:00
-title: Novyy Urengoy (Sunday)
+title: Novyy Urengoy Sunday
 slug: sunday
 categories:
   - Ephemeris

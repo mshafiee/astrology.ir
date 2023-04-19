@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+06:30
 lastmod: 2023-04-18T00:00:00+06:30
-title: Shwebo (Tuesday)
+title: Shwebo Tuesday
 slug: tuesday
 categories:
   - Ephemeris

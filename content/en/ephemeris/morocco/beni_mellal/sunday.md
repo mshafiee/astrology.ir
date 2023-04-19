@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: Beni Mellal (Sunday)
+title: Beni Mellal Sunday
 slug: sunday
 categories:
   - Ephemeris

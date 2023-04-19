@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+03:00
 lastmod: 2023-04-23T00:00:00+03:00
-title: Yegor'yevsk (Sunday)
+title: Yegoryevsk Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Yegor'yevsk
+  - Yegoryevsk
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

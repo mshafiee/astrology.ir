@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
 title: Ksar El Kebir
-slug: ksar_el_kebir
+slug: ksarelkebir
 categories:
   - Ephemeris
 tags:

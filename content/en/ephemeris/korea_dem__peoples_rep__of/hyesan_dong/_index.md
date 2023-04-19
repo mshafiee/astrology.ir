@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Hyesan-dong
-slug: hyesan_dong
+title: Hyesandong
+slug: hyesandong
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
-  - Hyesan-dong
+  - Korea, Dem Peoples Rep of
+  - Hyesandong
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

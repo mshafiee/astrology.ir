@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Saint-Louis
-slug: saint_louis
+title: SaintLouis
+slug: saintlouis
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Senegal
-  - Saint-Louis
+  - SaintLouis
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

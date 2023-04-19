@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+06:00
 lastmod: 2023-04-19T00:00:00+06:00
-title: Cox's Bazar (Wednesday)
+title: Coxs Bazar Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Bangladesh
-  - Cox's Bazar
+  - Coxs Bazar
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

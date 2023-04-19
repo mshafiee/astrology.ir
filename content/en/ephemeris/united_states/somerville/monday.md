@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-04:00
 lastmod: 2023-04-24T00:00:00-04:00
-title: Somerville (Monday)
+title: Somerville Monday
 slug: monday
 categories:
   - Ephemeris

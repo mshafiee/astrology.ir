@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-03:00
 lastmod: 2023-04-21T00:00:00-03:00
-title: Jaboatao dos Guararapes (Friday)
+title: Jaboatao dos Guararapes Friday
 slug: friday
 categories:
   - Ephemeris

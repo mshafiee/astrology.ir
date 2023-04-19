@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+09:30
 lastmod: 2023-04-18T00:00:00+09:30
-title: Darwin (Tuesday)
+title: Darwin Tuesday
 slug: tuesday
 categories:
   - Ephemeris

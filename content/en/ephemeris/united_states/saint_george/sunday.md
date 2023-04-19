@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-06:00
 lastmod: 2023-04-23T00:00:00-06:00
-title: Saint George (Sunday)
+title: Saint George Sunday
 slug: sunday
 categories:
   - Ephemeris

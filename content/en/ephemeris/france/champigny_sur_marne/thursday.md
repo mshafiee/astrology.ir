@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: Champigny-sur-Marne (Thursday)
+title: ChampignysurMarne Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - France
-  - Champigny-sur-Marne
+  - ChampignysurMarne
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

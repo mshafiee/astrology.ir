@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+05:00
 lastmod: 2023-04-23T00:00:00+05:00
-title: Bukhara (Sunday)
+title: Bukhara Sunday
 slug: sunday
 categories:
   - Ephemeris
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'17.70" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°25'53.23" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°39'52.51" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|14°39'52.44" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°37'55.87" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°40'2.96" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|13°40'2.89" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°29'17.87" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°18'21.81" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|8°17'58.24" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

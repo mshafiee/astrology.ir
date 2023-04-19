@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: San-Pedro (Sunday)
+title: SanPedro Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte d'Ivoire
-  - San-Pedro
+  - Côte dIvoire
+  - SanPedro
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

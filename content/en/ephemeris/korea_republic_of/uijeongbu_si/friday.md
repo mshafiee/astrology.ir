@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Uijeongbu-si (Friday)
+title: Uijeongbusi Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Uijeongbu-si
+  - Uijeongbusi
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

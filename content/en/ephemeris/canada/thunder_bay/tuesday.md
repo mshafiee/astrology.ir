@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-04:00
 lastmod: 2023-04-18T00:00:00-04:00
-title: Thunder Bay (Tuesday)
+title: Thunder Bay Tuesday
 slug: tuesday
 categories:
   - Ephemeris

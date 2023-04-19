@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: San Pedro Garza Garcia
-slug: san_pedro_garza_garcia
+slug: sanpedrogarzagarcia
 categories:
   - Ephemeris
 tags:

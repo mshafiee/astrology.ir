@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00-04:00
 lastmod: 2023-04-22T00:00:00-04:00
-title: La Villa del Rosario (Saturday)
+title: La Villa del Rosario Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep. of
+  - Venezuela, Bolivarian Rep of
   - La Villa del Rosario
 description: 🗓 Saturday, 22 Apr 2023
 

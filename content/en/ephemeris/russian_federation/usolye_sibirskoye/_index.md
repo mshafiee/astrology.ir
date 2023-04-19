@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Usol'ye-Sibirskoye
-slug: usolye_sibirskoye
+title: UsolyeSibirskoye
+slug: usolyesibirskoye
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Usol'ye-Sibirskoye
+  - UsolyeSibirskoye
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Xi'an (Wednesday)
+title: Xian Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Xi'an
+  - Xian
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

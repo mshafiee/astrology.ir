@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-05:00
 lastmod: 2023-04-19T00:00:00-05:00
 title: Arlington Heights
-slug: arlington_heights
+slug: arlingtonheights
 categories:
   - Ephemeris
 tags:

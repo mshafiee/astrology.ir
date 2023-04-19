@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+09:00
 lastmod: 2023-04-23T00:00:00+09:00
-title: Nishinomiya-hama (Sunday)
+title: Nishinomiyahama Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Nishinomiya-hama
+  - Nishinomiyahama
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

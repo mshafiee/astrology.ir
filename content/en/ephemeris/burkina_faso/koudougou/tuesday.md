@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: Koudougou (Tuesday)
+title: Koudougou Tuesday
 slug: tuesday
 categories:
   - Ephemeris

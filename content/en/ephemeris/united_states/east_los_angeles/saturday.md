@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-07:00
 lastmod: 2023-04-22T00:00:00-07:00
-title: East Los Angeles (Saturday)
+title: East Los Angeles Saturday
 slug: saturday
 categories:
   - Ephemeris

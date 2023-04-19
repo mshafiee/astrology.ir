@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: Bobo-Dioulasso (Sunday)
+title: BoboDioulasso Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Burkina Faso
-  - Bobo-Dioulasso
+  - BoboDioulasso
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Champigny-sur-Marne (Wednesday)
+title: ChampignysurMarne Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - France
-  - Champigny-sur-Marne
+  - ChampignysurMarne
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

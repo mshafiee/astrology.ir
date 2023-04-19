@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+04:00
 lastmod: 2023-04-18T00:00:00+04:00
-title: Saint-Denis (Tuesday)
+title: SaintDenis Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Réunion
-  - Saint-Denis
+  - SaintDenis
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

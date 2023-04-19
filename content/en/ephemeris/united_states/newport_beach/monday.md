@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-07:00
 lastmod: 2023-04-24T00:00:00-07:00
-title: Newport Beach (Monday)
+title: Newport Beach Monday
 slug: monday
 categories:
   - Ephemeris

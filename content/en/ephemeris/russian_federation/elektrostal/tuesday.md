@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+03:00
 lastmod: 2023-04-18T00:00:00+03:00
-title: Elektrostal' (Tuesday)
+title: Elektrostal Tuesday
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Elektrostal'
+  - Elektrostal
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

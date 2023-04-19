@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-04:00
 lastmod: 2023-04-22T00:00:00-04:00
-title: Quincy (Saturday)
+title: Quincy Saturday
 slug: saturday
 categories:
   - Ephemeris
@@ -331,7 +331,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'11.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°16'51.61" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°16'52.21" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°19'39.21" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°1'16.22" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°57'8.13" |Gemini|HanAh|Mars|

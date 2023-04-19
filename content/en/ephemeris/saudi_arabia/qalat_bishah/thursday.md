@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+03:00
 lastmod: 2023-04-20T00:00:00+03:00
-title: Qal`at Bishah (Thursday)
+title: Qalat Bishah Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Saudi Arabia
-  - Qal`at Bishah
+  - Qalat Bishah
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

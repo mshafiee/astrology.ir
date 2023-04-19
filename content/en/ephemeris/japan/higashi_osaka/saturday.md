@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+09:00
 lastmod: 2023-04-22T00:00:00+09:00
-title: Higashi-osaka (Saturday)
+title: Higashiosaka Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Higashi-osaka
+  - Higashiosaka
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

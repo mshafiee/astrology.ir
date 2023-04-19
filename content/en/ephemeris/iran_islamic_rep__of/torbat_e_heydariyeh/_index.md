@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:30
 lastmod: 2023-04-19T00:00:00+03:30
-title: Torbat-e Heydariyeh
-slug: torbat_e_heydariyeh
+title: Torbate Heydariyeh
+slug: torbateheydariyeh
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep. of
-  - Torbat-e Heydariyeh
+  - Iran, Islamic Rep of
+  - Torbate Heydariyeh
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

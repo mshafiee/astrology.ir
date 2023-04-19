@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: San Pablo de las Salinas
-slug: san_pablo_de_las_salinas
+slug: sanpablodelassalinas
 categories:
   - Ephemeris
 tags:

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: L'Hospitalet de Llobregat (Saturday)
+title: LHospitalet de Llobregat Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Spain
-  - L'Hospitalet de Llobregat
+  - LHospitalet de Llobregat
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

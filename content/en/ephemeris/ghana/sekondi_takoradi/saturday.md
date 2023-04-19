@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00Z
 lastmod: 2023-04-22T00:00:00Z
-title: Sekondi-Takoradi (Saturday)
+title: SekondiTakoradi Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Ghana
-  - Sekondi-Takoradi
+  - SekondiTakoradi
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

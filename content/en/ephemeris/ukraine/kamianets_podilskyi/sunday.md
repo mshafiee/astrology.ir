@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+03:00
 lastmod: 2023-04-23T00:00:00+03:00
-title: Kamianets-Podilskyi (Sunday)
+title: KamianetsPodilskyi Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Ukraine
-  - Kamianets-Podilskyi
+  - KamianetsPodilskyi
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

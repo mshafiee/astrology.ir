@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-07:00
 lastmod: 2023-04-23T00:00:00-07:00
-title: Ladner (Sunday)
+title: Ladner Sunday
 slug: sunday
 categories:
   - Ephemeris

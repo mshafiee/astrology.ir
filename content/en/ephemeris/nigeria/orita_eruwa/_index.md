@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: Orita-Eruwa
-slug: orita_eruwa
+title: OritaEruwa
+slug: oritaeruwa
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - Orita-Eruwa
+  - OritaEruwa
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

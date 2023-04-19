@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: St. Petersburg (Sunday)
+title: St Petersburg Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - St. Petersburg
+  - St Petersburg
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

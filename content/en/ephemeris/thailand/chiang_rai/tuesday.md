@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+07:00
 lastmod: 2023-04-18T00:00:00+07:00
-title: Chiang Rai (Tuesday)
+title: Chiang Rai Tuesday
 slug: tuesday
 categories:
   - Ephemeris

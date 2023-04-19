@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+07:00
 lastmod: 2023-04-18T00:00:00+07:00
-title: Surat Thani (Tuesday)
+title: Surat Thani Tuesday
 slug: tuesday
 categories:
   - Ephemeris

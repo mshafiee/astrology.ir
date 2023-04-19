@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+03:00
 lastmod: 2023-04-23T00:00:00+03:00
-title: Mek'ele (Sunday)
+title: Mekele Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Ethiopia
-  - Mek'ele
+  - Mekele
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

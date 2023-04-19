@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+08:00
 lastmod: 2023-04-23T00:00:00+08:00
-title: Bei'an (Sunday)
+title: Beian Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Bei'an
+  - Beian
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

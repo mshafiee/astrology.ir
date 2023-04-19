@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+03:00
 lastmod: 2023-04-23T00:00:00+03:00
-title: Rosh Ha'Ayin (Sunday)
+title: Rosh HaAyin Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Israel
-  - Rosh Ha'Ayin
+  - Rosh HaAyin
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

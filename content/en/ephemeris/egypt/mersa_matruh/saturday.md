@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Mersa Matruh (Saturday)
+title: Mersa Matruh Saturday
 slug: saturday
 categories:
   - Ephemeris

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-06:00
 lastmod: 2023-04-22T00:00:00-06:00
-title: Fuentes del Valle (Saturday)
+title: Fuentes del Valle Saturday
 slug: saturday
 categories:
   - Ephemeris

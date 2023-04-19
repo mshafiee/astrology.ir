@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00Z
 lastmod: 2023-04-22T00:00:00Z
-title: Fada N'gourma (Saturday)
+title: Fada Ngourma Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Burkina Faso
-  - Fada N'gourma
+  - Fada Ngourma
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

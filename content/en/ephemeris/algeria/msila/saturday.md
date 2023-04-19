@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+01:00
 lastmod: 2023-04-22T00:00:00+01:00
-title: M'sila (Saturday)
+title: Msila Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Algeria
-  - M'sila
+  - Msila
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

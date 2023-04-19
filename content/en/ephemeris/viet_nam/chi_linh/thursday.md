@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+07:00
 lastmod: 2023-04-20T00:00:00+07:00
-title: Chi Linh (Thursday)
+title: Chi Linh Thursday
 slug: thursday
 categories:
   - Ephemeris

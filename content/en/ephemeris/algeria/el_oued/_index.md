@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
 title: El Oued
-slug: el_oued
+slug: eloued
 categories:
   - Ephemeris
 tags:

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: L'Hospitalet de Llobregat
-slug: lhospitalet_de_llobregat
+title: LHospitalet de Llobregat
+slug: lhospitaletdellobregat
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Spain
-  - L'Hospitalet de Llobregat
+  - LHospitalet de Llobregat
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

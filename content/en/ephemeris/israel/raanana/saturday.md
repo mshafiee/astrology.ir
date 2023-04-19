@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+03:00
 lastmod: 2023-04-22T00:00:00+03:00
-title: Ra'anana (Saturday)
+title: Raanana Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Israel
-  - Ra'anana
+  - Raanana
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

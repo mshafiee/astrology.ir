@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: Lexington-Fayette
-slug: lexington_fayette
+title: LexingtonFayette
+slug: lexingtonfayette
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - Lexington-Fayette
+  - LexingtonFayette
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

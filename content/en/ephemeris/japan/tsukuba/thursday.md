@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Tsukuba (Thursday)
+title: Tsukuba Thursday
 slug: thursday
 categories:
   - Ephemeris

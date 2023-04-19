@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+08:00
 lastmod: 2023-04-21T00:00:00+08:00
-title: Gorontalo (Friday)
+title: Gorontalo Friday
 slug: friday
 categories:
   - Ephemeris

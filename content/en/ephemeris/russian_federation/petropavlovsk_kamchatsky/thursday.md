@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+12:00
 lastmod: 2023-04-20T00:00:00+12:00
-title: Petropavlovsk-Kamchatsky (Thursday)
+title: PetropavlovskKamchatsky Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Petropavlovsk-Kamchatsky
+  - PetropavlovskKamchatsky
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

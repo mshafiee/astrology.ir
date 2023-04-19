@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: Oujda-Angad (Sunday)
+title: OujdaAngad Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Morocco
-  - Oujda-Angad
+  - OujdaAngad
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

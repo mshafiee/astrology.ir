@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-05:00
 lastmod: 2023-04-24T00:00:00-05:00
-title: Amarillo (Monday)
+title: Amarillo Monday
 slug: monday
 categories:
   - Ephemeris

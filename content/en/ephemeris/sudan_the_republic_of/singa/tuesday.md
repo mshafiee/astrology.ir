@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: Singa (Tuesday)
+title: Singa Tuesday
 slug: tuesday
 categories:
   - Ephemeris
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°22'22.00" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°15'19.52" |Aries|Butain|Venus|
 |♂ Mars|Direct|12°2'51.66" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|27°51'14.48" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|8°3'23.56" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°6'20.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°5'6.15" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|27°51'14.88" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|8°3'23.76" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°6'21.11" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°8'0.47" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

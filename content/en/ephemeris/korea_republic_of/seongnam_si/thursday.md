@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Seongnam-si (Thursday)
+title: Seongnamsi Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Seongnam-si
+  - Seongnamsi
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

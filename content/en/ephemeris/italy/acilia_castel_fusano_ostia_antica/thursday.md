@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: Acilia-Castel Fusano-Ostia Antica (Thursday)
+title: AciliaCastel FusanoOstia Antica Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Italy
-  - Acilia-Castel Fusano-Ostia Antica
+  - AciliaCastel FusanoOstia Antica
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

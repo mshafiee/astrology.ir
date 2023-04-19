@@ -7,7 +7,7 @@ categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Macedonia, The former Yugoslav Rep. of
+  - Macedonia, The former Yugoslav Rep of
   - Kumanovo
 description: 🗓 Wednesday, 19 Apr 2023
 

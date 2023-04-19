@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+05:00
 lastmod: 2023-04-19T00:00:00+05:00
-title: Khairpur Mir's (Wednesday)
+title: Khairpur Mirs Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Pakistan
-  - Khairpur Mir's
+  - Khairpur Mirs
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

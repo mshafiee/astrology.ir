@@ -1,13 +1,13 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: Palo Negro (Sunday)
+title: Palo Negro Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep. of
+  - Venezuela, Bolivarian Rep of
   - Palo Negro
 description: 🗓 Sunday, 23 Apr 2023
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+11:00
 lastmod: 2023-04-22T00:00:00+11:00
-title: Magadan (Saturday)
+title: Magadan Saturday
 slug: saturday
 categories:
   - Ephemeris

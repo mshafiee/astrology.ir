@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00+03:30
 lastmod: 2023-04-22T00:00:00+03:30
-title: Arak (Saturday)
+title: Arak Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep. of
+  - Iran, Islamic Rep of
   - Arak
 description: 🗓 Saturday, 22 Apr 2023
 

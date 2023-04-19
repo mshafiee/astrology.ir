@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-07:00
 lastmod: 2023-04-23T00:00:00-07:00
-title: Las Vegas (Sunday)
+title: Las Vegas Sunday
 slug: sunday
 categories:
   - Ephemeris

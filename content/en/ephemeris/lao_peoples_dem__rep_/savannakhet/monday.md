@@ -1,13 +1,13 @@
 ---
 date: 2023-04-24T00:00:00+07:00
 lastmod: 2023-04-24T00:00:00+07:00
-title: Savannakhet (Monday)
+title: Savannakhet Monday
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Lao People's Dem. Rep.
+  - Lao Peoples Dem Rep
   - Savannakhet
 description: 🗓 Monday, 24 Apr 2023
 

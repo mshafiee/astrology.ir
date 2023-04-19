@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+02:00
 lastmod: 2023-04-21T00:00:00+02:00
-title: Molenbeek-Saint-Jean (Friday)
+title: MolenbeekSaintJean Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Belgium
-  - Molenbeek-Saint-Jean
+  - MolenbeekSaintJean
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

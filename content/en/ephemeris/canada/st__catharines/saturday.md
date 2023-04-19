@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00-04:00
 lastmod: 2023-04-22T00:00:00-04:00
-title: St. Catharines (Saturday)
+title: St Catharines Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Canada
-  - St. Catharines
+  - St Catharines
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

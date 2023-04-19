@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+10:00
 lastmod: 2023-04-20T00:00:00+10:00
-title: Vladivostok (Thursday)
+title: Vladivostok Thursday
 slug: thursday
 categories:
   - Ephemeris

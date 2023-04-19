@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-05:00
 lastmod: 2023-04-24T00:00:00-05:00
-title: League City (Monday)
+title: League City Monday
 slug: monday
 categories:
   - Ephemeris

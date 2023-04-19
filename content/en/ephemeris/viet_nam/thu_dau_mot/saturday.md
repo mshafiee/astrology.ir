@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+07:00
 lastmod: 2023-04-22T00:00:00+07:00
-title: Thu Dau Mot (Saturday)
+title: Thu Dau Mot Saturday
 slug: saturday
 categories:
   - Ephemeris

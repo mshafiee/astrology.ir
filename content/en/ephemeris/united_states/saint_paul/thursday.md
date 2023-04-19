@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-05:00
 lastmod: 2023-04-20T00:00:00-05:00
-title: Saint Paul (Thursday)
+title: Saint Paul Thursday
 slug: thursday
 categories:
   - Ephemeris

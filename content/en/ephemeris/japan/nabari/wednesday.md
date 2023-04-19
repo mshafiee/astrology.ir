@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Nabari (Wednesday)
+title: Nabari Wednesday
 slug: wednesday
 categories:
   - Ephemeris

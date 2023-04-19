@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: Rui'an (Thursday)
+title: Ruian Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Rui'an
+  - Ruian
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

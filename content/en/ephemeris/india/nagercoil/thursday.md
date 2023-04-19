@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+05:30
 lastmod: 2023-04-20T00:00:00+05:30
-title: Nagercoil (Thursday)
+title: Nagercoil Thursday
 slug: thursday
 categories:
   - Ephemeris

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00+09:00
 lastmod: 2023-04-22T00:00:00+09:00
-title: Pyongyang (Saturday)
+title: Pyongyang Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem. People's Rep. of
+  - Korea, Dem Peoples Rep of
   - Pyongyang
 description: 🗓 Saturday, 22 Apr 2023
 

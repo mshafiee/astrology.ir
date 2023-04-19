@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+05:30
 lastmod: 2023-04-19T00:00:00+05:30
 title: Sri Jayewardenepura Kotte
-slug: sri_jayewardenepura_kotte
+slug: srijayewardenepurakotte
 categories:
   - Ephemeris
 tags:

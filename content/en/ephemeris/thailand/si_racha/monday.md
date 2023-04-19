@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+07:00
 lastmod: 2023-04-24T00:00:00+07:00
-title: Si Racha (Monday)
+title: Si Racha Monday
 slug: monday
 categories:
   - Ephemeris

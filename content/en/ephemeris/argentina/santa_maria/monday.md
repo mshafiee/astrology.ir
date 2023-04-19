@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-03:00
 lastmod: 2023-04-24T00:00:00-03:00
-title: Santa Maria (Monday)
+title: Santa Maria Monday
 slug: monday
 categories:
   - Ephemeris
@@ -333,7 +333,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°54'7.19" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°45'59.45" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°25'6.92" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°59'43.30" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°59'36.19" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°15'36.77" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°10'58.89" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|26°7'14.31" |Gemini|Dhira|Sun|

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+07:00
 lastmod: 2023-04-19T00:00:00+07:00
-title: Ciranjang-hilir
-slug: ciranjang_hilir
+title: Ciranjanghilir
+slug: ciranjanghilir
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Indonesia
-  - Ciranjang-hilir
+  - Ciranjanghilir
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

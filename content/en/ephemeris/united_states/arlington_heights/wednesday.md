@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-05:00
 lastmod: 2023-04-19T00:00:00-05:00
-title: Arlington Heights (Wednesday)
+title: Arlington Heights Wednesday
 slug: wednesday
 categories:
   - Ephemeris

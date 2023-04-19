@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+03:00
 lastmod: 2023-04-23T00:00:00+03:00
-title: Novo-Peredelkino (Sunday)
+title: NovoPeredelkino Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Novo-Peredelkino
+  - NovoPeredelkino
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

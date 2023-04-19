@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Ma'anshan (Wednesday)
+title: Maanshan Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Ma'anshan
+  - Maanshan
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false
