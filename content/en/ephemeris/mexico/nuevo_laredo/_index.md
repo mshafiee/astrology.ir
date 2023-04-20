@@ -292,10 +292,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'35.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°49'24.24" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°18'20.30" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°9'39.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°46'13.68" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°49'24.58" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°18'23.58" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°9'41.31" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°46'17.91" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'16.12" |Aries|Butain|Sun|
 |☾ Moon|Direct|5°0'22.78" |Aries|Sharatain|Mars|
 
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°18'20.30" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°9'39.80" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|10°46'13.68" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'16.12" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°0'22.78" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°35'20.12" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°11'46.33" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: NLD,  Novo Laredo,  Novum Laredum,  Nuehvo-Laredo,  Nuevo Laredas,  Nuevo Laredo,  Opstina Nuevo Laredo,  Opština Nuevo Laredo,  nuebolaledo,  nuevo-laredo,  nwyww lardw,  nwyww larydw,  xin la lei duo,  Нуево Ларедо,  Нуэво-Ларедо,  נואבו לארדו,  نوئوو لاردو,  نوئوو لاریدو,  ნუევო-ლარედო,  ヌエボ・ラレド,  新拉雷多,  누에보라레도

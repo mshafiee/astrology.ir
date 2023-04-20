@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°48'53.35" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°17'11.94" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°7'33.91" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°43'46.51" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'3.15" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°21'57.55" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°43'49.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'8.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°48'9.06" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'24.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'53.35" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'11.94" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'33.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°43'46.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'3.15" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°21'57.55" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'54.06" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'12.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°7'37.91" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'49.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'8.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°48'9.06" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: City of Saint Louis,  Lacledes Village,  Mound City,  Pain Court,  Pancore,  STL,  Saint Lewis,  Saint Louis,  Saint Louis City,  Saint-Louis,  San Luis,  Sankta Luiso,  Sejnt Luis,  Sent Loisos,  Sent Luis,  Sent Luisas,  Sent-Luis,  Sentluisa,  Sint-Louis,  St Louis,  St. Louis,  Urbs Sancti Ludovici,  ceyint luyis,  saint luyis,  sant lwys,  seinteulu-iseu,  senta lu'isa,  senthluys,  sentoruisu,  seyint luyis,  sheng lu yi si,  snt lwyys,  Σαιντ Λούις,  Сейнт Луис,  Сент Луис,  Сент-Луис,  Сент-Луіс,  Сент-Луїс,  סנט לואיס,  سانت لويس,  سنت لوئیس,  سینٹ لوئس,  सेंट लुईस,  செயின்ட் லூயிஸ்,  సెయింట్ లూయిస్,  ಸೈಂಟ್ ಲೂಯಿಸ್,  เซนต์หลุยส์,  სენტ-ლუისი,  セントルイス,  圣路易斯,  세인트루이스

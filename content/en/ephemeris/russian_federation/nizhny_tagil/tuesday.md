@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'55.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'20.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°44'1.10" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°54'19.00" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°44'0.46" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°33'41.32" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°55'18.13" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°0'11.60" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°51'15.68" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|2°25'24.48" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'55.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'20.69" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°44'1.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'41.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'18.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'11.60" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°51'15.68" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'19.00" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°44'0.46" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'31.35" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°55'12.05" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°59'56.08" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°25'24.48" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -346,7 +346,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Mercury|Mars|Moon|
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
-|☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
+|☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
 |☾ Moon|Mars|Mars|Moon|Saturn|
 
 
@@ -357,8 +357,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mars|Mars|Capricorn|Sun|Mars|
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Nizhne-Tagil'skiy,  Nizhne-Tagil’skiy,  Nizhni Tagil,  Nizhnii Tagil,  Nizhnij Tagil,  Nizhniy Tagil,  Nizhny Tagil,  Nizjnij Tagil,  Niznji Tagil,  Nižnji Tagil,  Нижний Тагил

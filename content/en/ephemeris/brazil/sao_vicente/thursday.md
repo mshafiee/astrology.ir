@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'0.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°47'44.20" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°14'37.15" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°2'54.15" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°38'15.89" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'42.63" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°44'44.81" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°47'43.02" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°14'41.22" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°2'46.79" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°38'16.12" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'35.60" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°56'51.17" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'0.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°47'44.20" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°14'37.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°2'54.15" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°38'15.89" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'42.63" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°44'44.81" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°33'58.99" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°47'43.02" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°14'41.22" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°2'46.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°38'16.12" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'35.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°56'51.17" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: San Visente,  San Visentė,  San-Visenti,  Sao Visente,  Sao Visenti,  sangbisenchi,  sheng wei sen te shi,  Сан-Висенти,  Сан-Вісенті,  Сао Висенте,  Сао Висенти,  סאו ויסנטה,  聖維森特市,  상비센치

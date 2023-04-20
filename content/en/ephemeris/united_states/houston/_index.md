@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'31.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°49'12.66" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°17'54.62" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°8'52.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°45'18.51" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'11.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°47'39.82" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°49'10.28" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°17'51.41" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°8'38.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°45'7.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'51.34" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°14'52.28" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'31.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°49'12.66" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'54.62" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°8'52.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°45'18.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'11.66" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°47'39.82" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°49'10.28" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'51.41" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°8'38.78" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°45'7.50" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'51.34" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°14'52.28" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Chiouston,  HOU,  Hiu-su-tun,  Hiustonas,  Hiû-sṳ̂-tûn,  Hjuston,  Hjustona,  Hjūstona,  Houston,  Houston City,  Hustonia,  Hustono,  Hyuston,  Kh'juston,  Khjustn,  Khjustan,  Khjuston,  hi'ustana,  hiustʼoni,  hiws tan,  hiyustan,  hou si dun,  husatana,  hyuseuteon,  hyustan,  hyustana,  hyusuton,  hywstn,  hywstwn,  xiu si dun,  ywstwn,  Χιούστον,  Хьюстон,  Хюстан,  Хюстон,  Хюстън,  Хјустон,  Հյուստոն,  היוסטן,  יוסטון,  هيوستن,  هیوستون,  ھیووستن,  ہywsٹn,  ہیوسٹن,  ह्युस्टन,  হিউস্টন,  ਹੂਸਟਨ,  હ્યુસ્ટન,  ஹியூஸ்டன்,  హ్యూస్టన్,  ഹ്യൂസ്റ്റൺ,  ฮิวสตัน,  ဟူစတန်မြို့,  ჰიუსტონი,  ሂውስተን,  ヒューストン,  休斯敦,  休斯頓,  侯斯頓,  휴스턴

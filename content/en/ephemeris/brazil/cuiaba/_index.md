@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°48'3.06" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°15'19.08" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°4'10.79" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°39'45.91" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'50.05" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°2'32.46" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°39'44.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'39.10" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°56'1.63" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'6.85" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'3.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°15'19.08" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°4'10.79" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°39'45.91" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'50.05" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°2'32.46" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'1.40" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°15'22.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°4'0.62" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°39'44.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'39.10" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°56'1.63" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: CGB,  Cuiaba,  Cuiabá,  Cuyaba,  Cuyabá,  Kouiampa,  Kujaba,  Kuyaba,  Vila Real do Senhor Bom Jesus de Cuiaba,  Vila Real do Senhor Bom Jesus de Cuiabá,  ku ya ba,  ku-iaba,  kuiaba,  kuyaba,  kwyaba,  kwyyaba,  Κουιαμπά,  Куяба,  Кујаба,  קויאבה,  كويابا,  کوئیابا,  کویابا,  कुयाबा,  কুয়াবা,  กุยาบา,  კუიაბა,  クイアバ,  库亚巴,  쿠이아바

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'28.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°49'3.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°17'34.51" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°8'15.09" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°44'34.90" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'6.74" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°31'8.47" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|4°34'27.15" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°49'1.36" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°17'32.50" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°8'2.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°44'25.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'48.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°7'32.21" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°34'28.20" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°49'3.49" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°17'34.51" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°8'15.09" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°44'34.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'6.74" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°31'8.47" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|0°8'2.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°44'25.90" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'48.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°7'32.21" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Caasimada Kansas,  City of Kansas,  Dinas Kansas,  Greenwood,  Ilu Kansas,  Kansas City,  Kansas City i Missouri,  Kansas Lakanbalen,  Kansas Sity,  Kansasurbo,  Kanzas Shehiri,  Kanzas Siti,  Kanzas Sitis,  Kanzas-Sici,  Kanzas-Siti,  Kanzassitija,  Kota Kansas,  Lungsod ng Kansas,  MKC,  Maple Gardens,  Milton,  Town of Kansas,  Westport,  Winnetonka,  Winnwood,  kaenjaseusiti,  kan sa si cheng,  kanasasa siti,  kansas syty,  kanzasushiti,  kanzas

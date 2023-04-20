@@ -292,19 +292,19 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'39.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°41'8.95" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°59'59.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°36'7.98" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°6'49.62" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'24.44" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°14'53.45" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°41'9.15" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°0'0.96" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°36'9.00" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°6'51.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'26.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°20'38.94" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Mars|Mars|Mars|Mars|
-|♂ Mars|Venus|Jupiter|Venus|Mars|
+|♂ Mars|Venus|Venus|Venus|Mars|
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
@@ -331,19 +331,19 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'39.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°41'8.95" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°59'59.60" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°36'7.98" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°6'49.62" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'24.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°14'53.45" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°41'9.15" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°0'0.96" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°36'9.00" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°6'51.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'26.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°20'38.94" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Mars|Mars|Jupiter|Saturn|
-|♂ Mars|Venus|Jupiter|Mars|Moon|
+|♂ Mars|Mercury|Mercury|Mars|Moon|
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|

@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'52.53" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'13.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'43.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'10.43" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°54'41.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'22.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°46'3.35" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'11.31" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'43.06" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'0.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°54'35.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'6.57" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°18'47.60" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: KRO,  Koergan,  Kourgan,  Kurgan,  Kurgan Pervyy,  Kurgan i Kurgan oblast,  Kurgana,  Kurganas,  Kurgano,  Kurgán,  Kurgāna,  Kurqan,  krgan,  ku er gan,  kuleugan,  kurugan,  kwrgan  awblast kwrgan,  kwrgan  kwrgan awblast,  kwrghan,  Курган,  كورغان,  کرگان,  کورگان، اوبلاست کورگان,  کورگان، کورگان اوبلاست,  クルガン,  库尔干,  쿠르간

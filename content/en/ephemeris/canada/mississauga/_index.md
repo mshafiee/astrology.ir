@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'13.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'23.33" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°16'5.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°5'31.73" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'21.28" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°16'4.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°5'19.55" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°41'23.34" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°34'51.02" |Aries|Butain|Sun|
 |☾ Moon|Direct|3°49'0.10" |Aries|Sharatain|Mars|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°16'5.34" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°5'31.73" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|10°41'23.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'51.02" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°49'0.10" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°34'46.67" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°14'24.85" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Misisaga,  Misisoga,  Misisogo,  Missisoga,  Mississauga,  Mississoga,  mi xi sha jia,  mishisaga,  misisaga,  misisogeo,  mss saga,  mssaga,  mysysaga,  mysysagha,  mysyswgh,  mysyswja,  Мисисага,  Мисисога,  Миссиссога,  Міссісога,  מיסיסוגה,  مسس ساگا,  مسساگا,  ميسيساغا,  ميسيسوجا,  میسیساگا,  मिसिसागा,  ਮਿਸੀਸਾਗਾ,  මිසිසාගා,  ミシサガ,  密西沙加,  미시소거

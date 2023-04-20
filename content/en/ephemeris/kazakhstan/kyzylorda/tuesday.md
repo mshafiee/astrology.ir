@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'57.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'29.01" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°44'19.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°34'15.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°55'57.40" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'4.04" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°4'52.04" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°54'28.91" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°44'23.40" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°34'15.19" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°56'1.56" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'4.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°39'58.63" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'57.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'29.01" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°44'19.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°34'15.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'57.40" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'4.04" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°4'52.04" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'28.91" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°44'23.40" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°34'15.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°56'1.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'4.98" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°39'58.63" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ak-Mechet,  Ak-Mechet',  Fort Perovskij,  Fort Perovsky,  KZO,  Khizilorda,  Khizilordà,  Kizilorda,  Kizilornta,  Kozolorda,  Kuzulorda,  Kyzylarda,  Kyzylorda,  Kyzyłorda,  Kzyl-Orda,  Kîzîlorda,  Kõzõlorda,  Kızılorda,  Kˌyzylorda,  Perovsk,  Qizilo'rda,  Qizilorda,  Qiziloʻrda,  Qysylorda,  Qyzylorda,  Qızılorda,  ke zi lei ao er da,  khuy si lxx r da,  kijilloleuda,  kijilorada,  kuzuroruda,  kyzylwrda,  qyzylwrda,  qzl awrda,  Κιζιλορντά,  Ак-Мечеть,  Кзыл-Орда,  Кизилорда,  Къзълорда,  Кызыларда,  Кызылорда,  Перовск,  Форт Перовский,  Қызылорда,  Կզըլ-Օրդա,  قزل اوردا,  قیزیلوردا,  قیزیل

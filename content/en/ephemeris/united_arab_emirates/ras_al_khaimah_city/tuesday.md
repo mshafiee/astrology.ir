@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|4°37'1.47" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°59'9.50" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|14°59'12.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°47'2.98" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|3°18'1.62" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°45'50.55" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°37'1.47" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°59'9.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'12.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°47'2.98" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|14°59'3.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°18'1.62" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Julfa,  Khaimah,  RAK City,  RKT,  Ra's al Khaymah,  Ra's al-Chaima,  Ras Al Khaimah City,  Ras al Khaimah,  Ras al-Khaimah,  Ras el Khaimah,  Ras el Khaïmah,  Ras el-Kheima,  Ras-ehl'-Khajma,  Ra’s al Khaymah,  Ra’s al-Chaima,  mdynt ras alkhymt,  ras alkhymt,  Рас-эль-Хайма,  رأس الخيمة,  مدينة رأس الخيمة

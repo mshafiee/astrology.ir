@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'12.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'11.68" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°45'55.84" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°37'9.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°59'19.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'6.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°43'2.49" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'10.60" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°45'50.31" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°37'3.14" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°59'10.10" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'53.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°39'1.92" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Sumgait,  Sumgjajet,  Sumqayit,  Sumqayyt,  Sumqayıt,  Сумгаит,  סומגאיט

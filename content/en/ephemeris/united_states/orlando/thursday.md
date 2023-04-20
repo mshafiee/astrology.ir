@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°16'41.75" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°6'39.69" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°42'42.22" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'59.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°17'37.47" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|15°34'43.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°52'41.11" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'19.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'39.91" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°16'41.75" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°6'39.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°42'42.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'59.94" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°17'37.47" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'37.79" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°16'42.70" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°6'26.87" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°42'36.17" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'43.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°52'41.11" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: ORL,  Orlandas,  Orlando,  Orlando i Florida,  Orlanto,  ao lan duo,  aralyando,  awrlandw,  awrlndw  flwryda,  ollaendo,  oralamdo,  orando,  orlando,  orlanto,  Ορλάντο,  Орландо,  Օռլանդո,  אורלנדו,  أورلاندو,  اورلندو، فلوریدا,  اورلینڈو,  اورلینڈو، فلوریڈا,  अरल्यान्दो,  ओरलँडो,  ઓર્લાન્ડો,  ஒர்லாண்டோ,  ออร์แลนโด,  ორლანდო,  オーランド,  奥兰多,  올랜도

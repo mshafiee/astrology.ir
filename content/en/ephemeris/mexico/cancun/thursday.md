@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: CUN,  Cancun,  Cancún,  Ciudad Cancun,  Ciudad Cancún,  Kan'koun,  Kankun,  Kankuna,  Kankunas,  gang guan,  kan kun,  kang kun,  kangkun,  kankun,  kankuna,  kankwn,  kankwn. kyntana rw,  qnqwn,  Κανκούν,  Канкун,  Կանկուն,  קנקון,  كانكون,  کانکون,  کانکون٬ کینتانا رو,  कान्कुन,  กังกุน,  ကင်န်ကွန်မြို့,  კანკუნი,  カンクン,  坎昆,  港觀,  칸쿤,  캉쿤

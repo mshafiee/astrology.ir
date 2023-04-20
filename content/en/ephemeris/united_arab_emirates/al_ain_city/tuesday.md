@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: AAN,  Ainas,  Al Ain,  Al Ain City,  Al Ajn,  Al Ayn,  Al `Ayn,  Al Ɛayn,  Al ‘Ayn,  Al-Ain,  Al-Ajn,  Al-Ayin,  Al-Ayn,  Al-Aïn,  Ehl'-Ajn,  El Ain,  El-Ajn,  ai yin,  al ain,  al-ain,  al-aini,  alʿyn,  ela ena,  mdynt alʿyn,  Ел Аин,  Эль-Айн,  Ալ-Ային,  אל-עין,  العين,  العین,  مدينة العين,  एल एन,  அல் ஐன்,  അൽ ഐൻ,  ალ-აინი,  アル・アイン,  艾因,  알아인

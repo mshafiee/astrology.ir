@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°43'51.42" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°33'25.80" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°54'58.81" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'22.02" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°56'24.88" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|15°0'1.93" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°4'29.95" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: O'sh,  OSS,  Och,  Oix,  Os,  Osa,  Osas,  Osch,  Osh,  Osj,  Osz,  Ox,  Oŝ,  Oş,  Oš,  Oša,  Ošas,  Oʻsh,  ao shen,  awsh,  osa,  oshi,  osi,  xxch,  Ош,  אוש,  أوش,  اوش,  ओश,  ออช,  ოში,  オシ,  奧什,  오시

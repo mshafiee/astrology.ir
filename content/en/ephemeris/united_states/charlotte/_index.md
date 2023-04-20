@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: CLT,  Carolinum,  Charlotte,  Charlotte i Nord-Carolina,  Charlottesburg,  Charlottesburgh,  Sarlot,  Sarlota,  Sarlote,  Sarloto,  Sarlott,  Sharlt,  Sharlat,  Sharlot,  Sharlott,  carlat,  charlxtt,  saralata,  sarlata,  sarlet,  sharlotʼi,  sharlwt  karwlynay shmaly,  sharotto,  syalleos,  syallos,  tsharlwt,  xia luo te,  Ŝarloto,  Şarlott,  Šarlota,  Šarlotė,  Σάρλοτ,  Шарлат,  Шарлот,  Шарлотт,  Шарлът,  Շառլոթ,  שארלוט,  تشارلوت,  شارلوت، کارولینای شمالی,  شارلوٹ، شمالی کیرولائنا,  शार्लट,  শার্লট,  ਸ਼ਾਰਲਟ,  சார்லட்,  షార్లెట్,  ಷಾರ್ಲೆಟ್,  ชาร์ลอตต์,  შარლოტი,  シャーロット,  夏洛特,  샬럿,  샬롯

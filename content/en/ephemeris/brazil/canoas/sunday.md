@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°49'7.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°31'14.51" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°51'53.31" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°59'43.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°5'30.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°25'30.72" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°22'36.92" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°49'6.19" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°31'12.67" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°51'55.96" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°59'32.84" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°5'27.73" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'16.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°0'35.85" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'7.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'14.51" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°51'53.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°59'43.51" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°5'30.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°25'30.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°22'36.92" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°31'12.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°51'55.96" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°59'32.84" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°5'27.73" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°25'16.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°0'35.85" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

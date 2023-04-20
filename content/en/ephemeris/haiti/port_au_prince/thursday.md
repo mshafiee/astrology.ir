@@ -292,8 +292,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'14.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'24.44" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°16'7.07" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|23°48'23.82" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°16'11.61" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°5'37.13" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°41'28.22" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°34'55.60" |Aries|Butain|Sun|
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'14.41" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'24.44" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°16'7.07" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°5'37.13" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°41'28.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'55.60" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°34'13.48" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°48'23.82" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°16'11.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°5'32.92" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°41'30.65" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'52.94" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|4°10'3.19" |Taurus|Thurayya|Mercury|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: PAP,  Port au Prince,  Port o Prens,  Port o Prensas,  Port-au-Prince,  Port-o-Prehns,  Port-o-Prens,  Port-o-Prins,  Porto Principe,  Porto Príncipe,  Portoprensa,  Portoprinco,  Portus Principis,  Potoprens,  Puerto Principe,  Puerto Príncipe,  Pòtoprens,  Ville de Port-au-Prince,  bwrt aw brans,  poleutopeulaengseu,  porata-o-prainsa,  port-o-pirins,  porta-a-prinsa,  porta-au-prinsa,  porta-o-prinsa,  porutopuransu,  pwrtw prns,  pwrtwprns,  tai zi gang,  Πορτ-ο-Πρενς,  Порт о Пренс,  Порт-о-Пренс,  Порт-о-Прэнс,  Պորտ-օ-Պրենս,  פורט או פרינס,  פורט-או-פרנס,  بورت أو برانس,  پورتو پرنس,  پورتوپرنس,  پورٹ او پرنس,  पोर्ट-ऑ-प्रिंस,  पोर्ट-औ-प्रिन्स,  পোর্ট-অ-প্রিন্স,  ਪੋਰਤ-ਓ-ਪ੍ਰੈਂਸ,  போர்ட்-ஓ-பிரின்ஸ்,  പോർട്ട്-ഔ-പ്രിൻസ്,  ปอร์โตแปรงซ์,  པོ་རོ་ཊི་ཨའུ་པི་རིན་སི།,  პორტ-ო-პრენსი,  ፖርቶፕሪንስ,  ポルトープランス,  太子港,  포르토프랭스

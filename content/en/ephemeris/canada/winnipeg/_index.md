@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|0°7'52.42" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°44'9.02" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'2.64" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°15'47.05" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°10'29.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|0°7'52.42" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|10°44'9.02" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°35'2.64" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°15'47.05" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°10'29.93" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Gouinipenk,  Uinipeg,  Uinnipeg,  Vinipeg,  Vinipega,  Vinipegas,  Vinipego,  Vinnipeg,  Vinnipega,  Vinnipeq,  WPG,  Winnipeg,  Winnipeg City,  Winnipég,  YWG,  uinipegu,  vinipaiga,  vinipega,  vinippek,  wen ni bo,  win ni phek,  winipeg,  wny pyg,  wnypg,  wynybygh,  wynypg,  Γουίνιπεγκ,  Винипег,  Виннипег,  Вінніпег,  Вінніпеґ,  Вініпег,  Уинипег,  Уиннипег,  Վիննիպեգ,  ויניפג,  ونی پیگ,  ونیپگ,  وينيبيغ,  وینیپگ,  विनिपेग,  ਵਿਨੀਪੈਗ,  வினிப்பெக்,  วินนิเพก,  ဝင်နီပက်မြို့,  უინიპეგი,  ᐄᐧᓂᐯᐠ,  ウィニペグ,  温尼伯,  위니펙

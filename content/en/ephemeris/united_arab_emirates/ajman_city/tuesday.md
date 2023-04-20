@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'11.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'10.92" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°45'53.69" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°37'7.16" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°59'16.12" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°59'11.14" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°48'21.93" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°55'10.79" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°45'56.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°37'6.37" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°59'19.33" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°59'11.46" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°16'26.20" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|4°37'7.16" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°59'16.12" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|14°59'11.14" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°48'21.93" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°16'26.20" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ajman,  Ajman City,  Al Ajman,  QAJ,  Ujman,  mdynt ʿjman,  ʿjman,  عجمان,  مدينة عجمان

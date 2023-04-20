@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°27'34.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°29'42.36" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°34'38.17" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°49'38.75" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°12'10.11" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°22'42.51" |Aries|Butain|Sun|
-|☾ Moon|Direct|16°3'49.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°29'40.45" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°34'34.16" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°49'27.87" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°11'60.00" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°22'26.26" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°0'12.43" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°27'34.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°29'42.36" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°34'38.17" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|28°49'38.75" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|9°12'10.11" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°22'42.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°3'49.99" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°29'40.45" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°34'34.16" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|28°49'27.87" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|9°11'60.00" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°22'26.26" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|15°0'12.43" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

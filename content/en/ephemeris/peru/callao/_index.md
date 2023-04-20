@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°17'7.41" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°7'28.66" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°43'38.33" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'8.39" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°48'13.60" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|15°35'2.39" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°21'58.78" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'24.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'51.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'7.41" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'28.66" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°43'38.33" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'8.39" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°48'13.60" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°34'23.88" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°48'51.05" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'6.06" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°7'24.70" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'34.79" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'2.39" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°21'58.78" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Callao,  El Callao,  Kajao,  Kal'jaa,  Kal'jao,  Kalao,  Kaljao,  Kallao,  Kallaw,  Kalyao,  Regio de Callao,  Regió de Callao,  ka ya e,  kayao,  kayaw,  kayayw,  klaw,  Кальяа,  Кальяо,  Каляо,  Каяо,  Каљао,  Կալյաո,  كاياو,  کایائو,  کایاو,  کلاؤ,  კალიაო,  カヤオ,  卡亞俄,  카야오

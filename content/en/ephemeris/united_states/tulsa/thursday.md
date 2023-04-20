@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'30.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°49'9.38" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°17'47.52" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°8'39.14" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°45'2.96" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'9.39" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°39'17.78" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°49'7.24" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°17'47.46" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°8'26.31" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°44'55.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'52.50" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°14'22.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Tlsa,  TUL,  Talsa,  Tulsa,  tarusa,  tu er sa,  Талса,  Тълса,  タルサ,  圖爾薩

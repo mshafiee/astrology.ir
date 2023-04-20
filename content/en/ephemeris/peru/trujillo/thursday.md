@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'25.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'54.37" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°17'13.22" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°7'39.21" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°43'50.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'9.19" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°49'58.65" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'53.68" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°17'11.94" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°7'35.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°43'47.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'3.43" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°24'42.64" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: TRU,  Troxillo,  Truchiljas,  Truhillu,  Trujillo,  Trukhijo,  Trukhil'jo,  Trukhil'o,  Trukhiljo,  Turgalium,  te lu xi e,  teuluhiyo,  toruhiryo,  trwhyw,  trwkhyw,  trwkhyw  byrw,  Трухильо,  Трухилјо,  Трухійо,  Трухільё,  טרוחיו,  تروخيو، بيرو,  تروخیو,  ტრუხილიო,  トルヒーリョ,  特鲁希略,  트루히요

@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'9.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'10.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°15'36.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°4'41.34" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°40'22.35" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'51.34" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°1'52.54" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°34'8.68" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°48'10.09" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°15'40.56" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°4'37.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°40'24.76" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'49.06" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°37'56.49" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: BLA,  Barcelona,  Barcelono,  Barselona,  Varkeloni,  ba sai luo na,  baleusellona,  barselona,  barslwna  wnzwyla,  barslwna  wynyzwyla,  baruserona,  Βαρκελώνη,  Барселона,  بارسلونا، ونزوئلا,  بارسلونا، وینیزویلا,  ဘာစီလိုနာမြို့၊ ဗင်နီဇွဲလား,  ბარსელონა,  バルセロナ,  巴塞羅那,  바르셀로나

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'56.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'24.03" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°44'7.56" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°33'56.37" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°55'33.49" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'16.00" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°9'26.80" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°54'21.58" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°44'6.56" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°33'42.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°55'24.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°59'53.74" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°33'15.31" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -318,7 +318,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
-|☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
+|☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
 |☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Uddzhajn,  Uddzsain,  Uddzsaín,  Udzajin,  Udzdzain,  Udždžain,  Ujjain,  ajyn,  awjayn,  awjayyn,  awjyn,  ujain,  ujaina,  ujaini,  ujjain,  ujjaina,  ujjayini,  ujjeyan,  wu du yan na,  Удджайн,  Уџајин,  اجین,  اوجائین,  اوجاين,  اوجین,  اوجېن,  उज्जैन,  উজ্জয়িনী,  উজ্জৈন,  ਉੱਜੈਨ,  ઉજ્જૈન,  ଉଜ୍ଜୟିନୀ,  உஜ்ஜைன்,  ಉಜ್ಜೆಯನ್,  ഉജ്ജയിൻ,  უჯაინი,  ウッジャイン,  鄔闍衍那,  우자인

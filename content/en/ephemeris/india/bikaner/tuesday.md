@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'57.03" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°54'26.35" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°44'12.93" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°34'5.64" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°55'44.54" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'11.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°9'40.66" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|15°44'11.55" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°33'51.32" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°55'35.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°59'49.37" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°29'33.95" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -318,8 +318,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
-|☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BKB,  Bikaner,  Bîkâner,  Bīkaner,  Bīkāner,  bikanera,  Биканер,  बीकानेर

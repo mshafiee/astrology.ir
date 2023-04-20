@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°17'59.34" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°9'1.04" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|10°45'28.48" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'11.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°47'14.60" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°34'52.31" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°15'34.56" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Arlin'nkton,  Arlingtn,  Arlingtan,  Arlington,  Arlingtona,  Arlingtonas,  Arlinqton,  a ling dun,  allingteon,  arinton,  arlingtana,  arlintana,  arlynghtwn,  arlyngtwn  tgzas,  arlyngtwn  tygzas,  xar ling tan,  Ārlingtona,  Άρλινγκτον,  Арлингтон,  Арлингтън,  Арлінгтан,  Арлінгтон,  Արլինգտոն,  ארלינגטון,  آرلنگٹن,  آرلنگٹن، ٹیکساس,  آرلینگتون، تئگزاس,  آرلینگتون، تگزاس,  أرلينغتون,  आर्लिंग्टन,  আর্লিংটন,  ആർലിങ്ടൺ,  อาร์ลิงตัน,  არლინგტონი,  アーリントン,  阿灵顿,  알링턴

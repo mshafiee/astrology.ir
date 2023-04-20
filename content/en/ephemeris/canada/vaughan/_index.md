@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°34'13.75" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°48'22.69" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°16'3.93" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°5'29.13" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°41'20.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'50.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°48'9.44" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|0°5'21.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°41'19.77" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'43.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°1'10.26" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Vauno,  Vaŭno,  Von,  bon,  fawjan,  vuon,  wan,  wang shi,  Вон,  فاوجان,  وان,  وان، انٹاریو,  واگھن,  ヴォーン,  旺市,  본

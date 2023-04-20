@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°54'29.34" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°44'20.68" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°34'16.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'59.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'59.75" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°58'35.78" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°56'4.69" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'3.29" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°40'23.06" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -346,7 +346,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Mercury|Mars|Moon|
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
-|☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
+|☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
 |☾ Moon|Mars|Mars|Moon|Saturn|
 
 
@@ -357,8 +357,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mars|Mars|Capricorn|Sun|Mars|
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Molotov,  PEE,  Perem,  Perm,  Perm',  Perma,  Perme,  Permia,  Permjo,  Permė,  Perym,  bi er mu,  byrm,  parma,  peiy rm,  peleum,  perumi,  prm,  pyrm,  Περμ,  Молотов,  Перĕм,  Перем,  Перм,  Пермь,  Перым,  Пєрмь,  Պերմ,  פרם,  بيرم,  پرم,  پیرم,  पर्म,  เปียร์ม,  პერმი,  ペルミ,  彼尔姆,  페름

@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°48'48.49" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°17'0.17" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°7'15.26" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°43'22.69" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'7.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°44'8.72" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°43'10.80" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'43.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°55'48.77" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'22.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'48.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'0.17" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'15.26" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°43'22.69" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'7.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°44'8.72" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'45.69" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°16'57.35" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°6'58.94" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'10.80" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'43.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°55'48.77" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Puehnte-Al'to,  Puente Alto,  shang pu en te,  Пуенте Алто,  Пуэнте-Альто,  პუენტე-ალტო,  上普恩特
