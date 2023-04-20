@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: NAP, Napels, Naples, Naplés, Napoles, Napoli, Napolo, Napols, Napoly, Nappoli, Napul, Napule, Napuli, Napulj, Napólí, Neapal', Neapel, Neapelj, Neapol, Neapol', Neapole, Neapolis, Noapels, Nàpoli, Nàpols, Nàpuli, Nàpułi, Nápoles, Nápoli, Nápols, Nápoly, Parthenope, na bu lei si, nabwly, napl, napoli, napolli, napori, napwly, nepalasa, nepalsa, nepeils, nyplz, Νάπολη, Напуљ, Неапаль, Неапол, Неаполь, Նեապոլ, נאפאלי, נאפולי, نابولي, ناپل, ناپولی, نیپلز, नापोलि, नापोली, नेपल्स, নেপলস, நாபொலி, เนเปิลส์, ნეაპოლი, ナポリ, 那不勒斯, 나폴리
+Alternate Names: NAP,  Napels,  Naples,  Naplés,  Napoles,  Napoli,  Napolo,  Napols,  Napoly,  Nappoli,  Napul,  Napule,  Napuli,  Napulj,  Napólí,  Neapal',  Neapel,  Neapelj,  Neapol,  Neapol',  Neapole,  Neapolis,  Noapels,  Nàpoli,  Nàpols,  Nàpuli,  Nàpułi,  Nápoles,  Nápoli,  Nápols,  Nápoly,  Parthenope,  na bu lei si,  nabwly,  napl,  napoli,  napolli,  napori,  napwly,  nepalasa,  nepalsa,  nepeils,  nyplz,  Νάπολη,  Напуљ,  Неапаль,  Неапол,  Неаполь,  Նեապոլ,  נאפאלי,  נאפולי,  نابولي,  ناپل,  ناپولی,  نیپلز,  नापोलि,  नापोली,  नेपल्स,  নেপলস,  நாபொலி,  เนเปิลส์,  ნეაპოლი,  ナポリ,  那不勒斯,  나폴리
 
 ---

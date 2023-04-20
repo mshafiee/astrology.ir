@@ -20,7 +20,7 @@ Latitude: -25.2865
 \-
 Longitude: -57.6470
 \-
-Altitude: 107 meters
+Altitude: 113 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Asuncion, Paraguay" lat="-25.2865" lng="-57.6470" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 11:48:55 |
 | Medium Coeli | 11:48:55 |
 | Sunset | 17:28:26 |
-| Maghrib | 17:30:03 |
+| Maghrib | 17:30:06 |
 | Isha | 18:42:04 |
 | Sharia Midnight | 23:09:54 |
 | Imum Coeli | 23:48:50 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 11:48:55 |
 | Medium Coeli | 11:48:55 |
 | Sunset | 17:28:26 |
-| Maghrib | 17:30:03 |
+| Maghrib | 17:30:06 |
 | Isha | 18:33:10 |
 | Sharia Midnight | 23:16:35 |
 | Imum Coeli | 23:48:50 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 11:48:55 |
 | Medium Coeli | 11:48:55 |
 | Sunset | 17:28:26 |
-| Maghrib | 17:30:03 |
+| Maghrib | 17:30:06 |
 | Isha | 18:44:18 |
 | Sharia Midnight | 23:06:34 |
 | Imum Coeli | 23:48:50 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 11:48:55 |
 | Medium Coeli | 11:48:55 |
 | Sunset | 17:28:26 |
-| Maghrib | 17:30:03 |
+| Maghrib | 17:30:06 |
 | Isha | 18:46:31 |
 | Sharia Midnight | 23:09:54 |
 | Imum Coeli | 23:48:50 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 11:48:55 |
 | Medium Coeli | 11:48:55 |
 | Sunset | 17:28:26 |
-| Maghrib | 17:30:03 |
-| Isha | 19:00:03 |
+| Maghrib | 17:30:06 |
+| Isha | 19:00:06 |
 | Sharia Midnight | 23:08:47 |
 | Imum Coeli | 23:48:50 |
 {{< /tab >}}
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|3°0'34.33" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°6'29.87" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°25'20.87" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°34'1.75" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°34'1.76" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|3°0'34.33" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°6'29.87" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°25'20.87" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°34'1.75" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|13°34'1.76" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ASU, Asounsion, Asounsyon, Asounsyòn, Asounthion, Assumptio, Assuncao, Assuncion, Assunção, Asuncion, Asunciono, Asunción, Asuns'jon, Asuns'on, Asunsaun, Asunsion, Asunsjon, Asunsjona, Asunsjonas, Asunson, Asunsyon, Asunsyun, Asúnsjón, Gunung Berapi Asuncion, La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion, La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción, Nuestra Senora Santa Maria de la Asuncion, Nuestra Señora Santa María de la Asunción, Paraguay, acunciyon, asnshn, asunshion, asunsion, asunsioni, asunsiyona, asusi'ona, aswnsywn, xa sun si xxng, ya song sen, Ασουνθιόν, Ασουνσιόν, Асунсион, Асунсьйон, Асунсьон, Асунсьён, Ասունսյոն, אסונסיאן, אסונסיון, آسونسیون, أسونسيون, ئاسۇنسىئون, اسنشن, اسونسیون, आसुन्सियोन, ਅਸੂੰਸੀਓਨ, அசுன்சியோன், ಅಸೂನ್‌ಸಿಯಾನ್, อะซุนซิออง, ཨ་སུན་སི་འན།, ასუნსიონი, አሱንሲዮን, アスンシオン, 亞松森, 아순시온
+Alternate Names: ASU,  Asounsion,  Asounsyon,  Asounsyòn,  Asounthion,  Assumptio,  Assuncao,  Assuncion,  Assunção,  Asuncion,  Asunciono,  Asunción,  Asuns'jon,  Asuns'on,  Asunsaun,  Asunsion,  Asunsjon,  Asunsjona,  Asunsjonas,  Asunson,  Asunsyon,  Asunsyun,  Asúnsjón,  Gunung Berapi Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción,  Nuestra Senora Santa Maria de la Asuncion,  Nuestra Señora Santa María de la Asunción,  Paraguay,  acunciyon,  asnshn,  asunshion,  asunsion,  asunsioni,  asunsiyona,  asusi'ona,  aswnsywn,  xa sun si xxng,  ya song sen,  Ασουνθιόν,  Ασουνσιόν,  Асунсион,  Асунсьйон,  Асунсьон,  Асунсьён,  Ասունսյոն,  אסונסיאן,  אסונסיון,  آسونسیون,  أسونسيون,  ئاسۇنسىئون,  اسنشن,  اسونسیون,  आसुन्सियोन,  ਅਸੂੰਸੀਓਨ,  அசுன்சியோன்,  ಅಸೂನ್
 
 ---

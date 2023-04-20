@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'5.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°45'8.89" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°8'53.08" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|23°45'9.61" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°8'55.43" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°52'21.92" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°25'55.40" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|10°25'59.96" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°33'28.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°46'19.32" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|1°11'42.12" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BCN, Barcellona, Barcellonn-a, Barcelona, Barcelone, Barcelono, Barceluna, Barcelůna, Barcełona, Barcillona, Barcino, Barkelone, Barseloana, Barselon, Barselona, Barselonae, Barselono, Barseluna, Barseluona, Barselóna, Barslon-a, Barsélona, Bartzellona, Bartzelona, Barzelona, Barçellonn-a, Barċellona, Lungsod ng Barcelona, ba sa long na, ba sai luo na, baleusellona, balsaleana, bar se lon a, barasilona, barselona, barsilona, barslwn, barslwna, barsylwna, barsێlۆna, baruserona, brshlwnt, brshlwnہ, brzlwnh, la Ciudad Condal, parcelona, Βαρκελώνη, Барселон, Барселонæ, Барселона, Барселоно, Բարսելոնա, בארצעלאנע, ברצלונה, بارسلون, بارسلونا, بارسیلونا, بارسێلۆنا, برشلونة, برشلونہ, बार्सिलोना, बार्सेलोना, বার্সেলোনা, ਬਾਰਸੀਲੋਨਾ, பார்செலோனா, ബാഴ്സലോണ, บาร์เซโลนา, ບາກເຊໂລນ, བྷར་སེ་ལོ་ནཱ།, ဘာစီလိုနာမြို့, ბარსელონა, ባርሴሎና, バルセロナ, 巴塞罗那, 巴薩隆拿, 바르셀로나
+Alternate Names: BCN,  Barcellona,  Barcellonn-a,  Barcelona,  Barcelone,  Barcelono,  Barceluna,  Barcelůna,  Barcełona,  Barcillona,  Barcino,  Barkelone,  Barseloana,  Barselon,  Barselona,  Barselonae,  Barselono,  Barseluna,  Barseluona,  Barselóna,  Barslon-a,  Barsélona,  Bartzellona,  Bartzelona,  Barzelona,  Barçellonn-a,  Barċellona,  Baselona,  Lungsod ng Barcelona,  ba sa long na,  ba sai long na,  ba sai luo na,  baleusellona,  balsaleana,  bar se lon a,  barasilona,  barselona,  barsilona,  barslwn,  barslwna,  barsylwna,  barsێlۆna,  baruserona,  brshlwnt,  brshlwnہ,  brzlwnh,  la Ciudad Condal,  parcelona,  Βαρκελώνη,  Барселон,  Барселонæ,  Барселона,  Барселоно,  Բարսելոնա,  בארצעלאנע,  ברצלונה,  بارسلون,  بارسلونا,  بارسیلونا,  بارسێلۆنا,  برشلونة,  برشلونہ,  बार्सिलोना,  बार्सेलोना,  বার্সেলোনা,  ਬਾਰਸੀਲੋਨਾ,  பார்செலோனா,  ബാഴ്സലോണ,  บาร์เซโลนา,  ບາກເຊໂລນ,  བྷར་སེ་ལོ་ནཱ།,  ဘာစီလိုနာမြို့,  ბარსელონა,  ባርሴሎና,  バルセロナ,  巴塞罗那,  巴塞隆納,  巴薩隆拿,  바르셀로나
 
 ---

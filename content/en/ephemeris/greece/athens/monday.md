@@ -20,7 +20,7 @@ Latitude: 37.9838
 \-
 Longitude: 23.7278
 \-
-Altitude: 126 meters
+Altitude: 84 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Athens, Greece" lat="37.9838" lng="23.7278" zoom="12">}}
 
@@ -35,10 +35,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:12:24 |
-| Sunrise | 06:38:01 |
+| Sunrise | 06:38:00 |
 | Dhuhr | 13:23:17 |
 | Medium Coeli | 13:23:17 |
-| Sunset | 20:09:10 |
+| Sunset | 20:09:11 |
 | Maghrib | 20:27:23 |
 | Isha | 21:23:20 |
 | Sharia Midnight | 00:39:59 |
@@ -51,10 +51,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:02:13 |
-| Sunrise | 06:38:01 |
+| Sunrise | 06:38:00 |
 | Dhuhr | 13:23:17 |
 | Medium Coeli | 13:23:17 |
-| Sunset | 20:09:10 |
+| Sunset | 20:09:11 |
 | Maghrib | 20:30:05 |
 | Isha | 21:23:20 |
 | Sharia Midnight | 00:34:52 |
@@ -67,11 +67,11 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:00:24 |
-| Sunrise | 06:38:01 |
+| Sunrise | 06:38:00 |
 | Dhuhr | 13:23:17 |
 | Medium Coeli | 13:23:17 |
-| Sunset | 20:09:10 |
-| Maghrib | 20:11:13 |
+| Sunset | 20:09:11 |
+| Maghrib | 20:10:51 |
 | Isha | 21:41:08 |
 | Sharia Midnight | 00:33:57 |
 | Imum Coeli | 01:23:11 |
@@ -83,11 +83,11 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:18:18 |
-| Sunrise | 06:38:01 |
+| Sunrise | 06:38:00 |
 | Dhuhr | 13:23:17 |
 | Medium Coeli | 13:23:17 |
-| Sunset | 20:09:10 |
-| Maghrib | 20:11:13 |
+| Sunset | 20:09:11 |
+| Maghrib | 20:10:51 |
 | Isha | 21:29:12 |
 | Sharia Midnight | 00:42:57 |
 | Imum Coeli | 01:23:11 |
@@ -99,13 +99,13 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:51:11 |
-| Sunrise | 06:38:01 |
+| Sunrise | 06:38:00 |
 | Dhuhr | 13:23:17 |
 | Medium Coeli | 13:23:17 |
-| Sunset | 20:09:10 |
-| Maghrib | 20:11:13 |
+| Sunset | 20:09:11 |
+| Maghrib | 20:10:51 |
 | Isha | 21:44:09 |
-| Sharia Midnight | 00:29:18 |
+| Sharia Midnight | 00:29:19 |
 | Imum Coeli | 01:23:11 |
 {{< /tab >}}
 
@@ -115,11 +115,11 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:00:24 |
-| Sunrise | 06:38:01 |
+| Sunrise | 06:38:00 |
 | Dhuhr | 13:23:17 |
 | Medium Coeli | 13:23:17 |
-| Sunset | 20:09:10 |
-| Maghrib | 20:11:13 |
+| Sunset | 20:09:11 |
+| Maghrib | 20:10:51 |
 | Isha | 21:47:12 |
 | Sharia Midnight | 00:33:57 |
 | Imum Coeli | 01:23:11 |
@@ -131,12 +131,12 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:57:21 |
-| Sunrise | 06:38:01 |
+| Sunrise | 06:38:00 |
 | Dhuhr | 13:23:17 |
 | Medium Coeli | 13:23:17 |
-| Sunset | 20:09:10 |
-| Maghrib | 20:11:13 |
-| Isha | 21:41:13 |
+| Sunset | 20:09:11 |
+| Maghrib | 20:10:51 |
+| Isha | 21:40:51 |
 | Sharia Midnight | 00:32:25 |
 | Imum Coeli | 01:23:11 |
 {{< /tab >}}
@@ -204,40 +204,40 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:31:09|Night duration: 10:27:34|
+|Duration of the day: 13:31:11|Night duration: 10:27:32|
 |Every hour of day duration: 01:07:36|Every hour of night duration: 00:52:18|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:38:01|07:45:35|Repelling sorcery and attracting discharged energy|
-|2|Saturn|Servant|07:45:36|08:53:11|Traveling inward and outward|
-|3|Jupiter|Servant|08:53:12|10:00:47|Marriage bond is favorable|
-|4|Mars|Servant|10:00:48|11:08:23|Eliminating and destroying enemies and releasing their energy|
-|5|Sun|Servant|11:08:24|12:15:58|Granting wishes, attracting love and wealth|
+|1|Moon|Ruler|06:38:00|07:45:34|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|07:45:35|08:53:10|Traveling inward and outward|
+|3|Jupiter|Servant|08:53:11|10:00:46|Marriage bond is favorable|
+|4|Mars|Servant|10:00:47|11:08:22|Eliminating and destroying enemies and releasing their energy|
+|5|Sun|Servant|11:08:23|12:15:58|Granting wishes, attracting love and wealth|
 |6|Venus|Servant|12:15:59|13:23:34|Summoning the desired person, creating love and domination|
 |7|Mercury|Servant|13:23:35|14:31:10|Mutual agreement|
 |8|Moon|Ruler|14:31:11|15:38:46|Reconciling two individuals, attracting love|
-|9|Saturn|Servant|15:38:47|16:46:21|Attracting and repelling enemies, and separating them|
-|10|Jupiter|Servant|16:46:22|17:53:57|Favorable for any good deed|
-|11|Mars|Servant|17:53:58|19:01:33|Creating enmity and negative energy|
-|12|Sun|Servant|19:01:34|20:09:09|Showing kindness and affection|
+|9|Saturn|Servant|15:38:47|16:46:22|Attracting and repelling enemies, and separating them|
+|10|Jupiter|Servant|16:46:23|17:53:58|Favorable for any good deed|
+|11|Mars|Servant|17:53:59|19:01:34|Creating enmity and negative energy|
+|12|Sun|Servant|19:01:35|20:09:10|Showing kindness and affection|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|20:09:10|21:01:26|Repelling sorcery and attracting discharged energy|
-|2|Mercury|Servant|21:01:27|21:53:44|Traveling inward and outward|
-|3|Moon|Servant|21:53:45|22:46:02|Marriage bond is favorable|
-|4|Saturn|Servant|22:46:03|23:38:20|Eliminating and destroying enemies and releasing their energy|
+|1|Venus|Ruler|20:09:11|21:01:27|Repelling sorcery and attracting discharged energy|
+|2|Mercury|Servant|21:01:28|21:53:45|Traveling inward and outward|
+|3|Moon|Servant|21:53:46|22:46:03|Marriage bond is favorable|
+|4|Saturn|Servant|22:46:04|23:38:20|Eliminating and destroying enemies and releasing their energy|
 |5|Jupiter|Servant|23:38:21|00:30:38|Granting wishes, attracting love and wealth|
 |6|Mars|Servant|00:30:39|01:22:56|Summoning the desired person, creating love and domination|
 |7|Sun|Servant|01:22:57|02:15:13|Mutual agreement|
 |8|Venus|Ruler|02:15:14|03:07:31|Reconciling two individuals, attracting love|
 |9|Mercury|Servant|03:07:32|03:59:49|Attracting and repelling enemies, and separating them|
-|10|Moon|Servant|03:59:50|04:52:07|Favorable for any good deed|
-|11|Saturn|Servant|04:52:08|05:44:25|Creating enmity and negative energy|
-|12|Jupiter|Servant|05:44:26|06:36:43|Showing kindness and affection|
+|10|Moon|Servant|03:59:50|04:52:06|Favorable for any good deed|
+|11|Saturn|Servant|04:52:07|05:44:24|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:44:25|06:36:42|Showing kindness and affection|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:31:09|Night duration: 10:27:34|
+|Duration of the day: 13:31:11|Night duration: 10:27:32|
 |Every hour duration: 01:55:53|Every hour duration: 01:29:39|
 
  
@@ -258,24 +258,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:38:01|08:33:52|
+|Early morning|Moon|Ruler|06:38:00|08:33:52|
 |Mid-morning|Saturn|Servant|08:33:53|10:29:45|
 |Late morning|Jupiter|Servant|10:29:46|12:25:38|
-|Noon|Mars|Servant|12:25:39|14:21:30|
-|Early afternoon|Sun|Servant|14:21:31|16:17:23|
-|Mid-afternoon|Venus|Servant|16:17:24|18:13:16|
-|Late afternoon|Mercury|Servant|18:13:17|20:09:09|
+|Noon|Mars|Servant|12:25:39|14:21:31|
+|Early afternoon|Sun|Servant|14:21:32|16:17:24|
+|Mid-afternoon|Venus|Servant|16:17:25|18:13:17|
+|Late afternoon|Mercury|Servant|18:13:18|20:09:10|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|20:09:10|21:38:48|
+|Evening|Venus|Ruler|20:09:11|21:38:48|
 |Late evening|Mercury|Servant|21:38:49|23:08:27|
 |Midnight|Moon|Servant|23:08:28|00:38:06|
 |Late at night|Saturn|Servant|00:38:07|02:07:45|
 |Rooster song|Jupiter|Servant|02:07:46|03:37:24|
 |False Dawn|Mars|Servant|03:37:25|05:07:03|
-|Dawn|Sun|Servant|05:07:04|06:36:43|
+|Dawn|Sun|Servant|05:07:04|06:36:42|
 
 {{< /tab >}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'44.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°41'54.92" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°15'56.16" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°43'7.35" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°56'15.47" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'25.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°21'46.20" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°41'54.91" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°15'56.14" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°43'7.31" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°56'15.42" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'25.09" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°21'45.51" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'44.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'54.92" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°15'56.16" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°43'7.35" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°56'15.47" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'25.08" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°21'46.20" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'54.91" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°15'56.14" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°43'7.31" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°56'15.42" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'25.09" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°21'45.51" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ATH, Afina, Afini, Afiny, An Aithin, Ateena, Atehny, Aten, Atena, Atenai, Atenas, Atenas - Athena, Atenas - Αθήνα, Atene, Atenes, Ateni, Ateno, Atenoj, Ateny, Athen, Athena, Athenae, Athenai, Athene, Athenes, Athens, Atheny, Athina, Athinai, Athinia, Athènes, Athén, Athénes, Athény, Athína, Athínai, Atina, Atény, Atēnas, Atėnai, Aþena, Kota Athena, Lungsod ng Athina, Lungsod ng Athína, atene, atene si, ateni, athensa, athyna, atn, etens, xethens, ya dian, Αθήνα, Αθήναι, Αθηνα, Αθηναι, Атина, Атэны, Афины, Афіни, Аѳины, Աթենք, אתונה, آتن, أثينا, ئافېنا, ܐܬܝܢܐ, अथेन्स, ஏதென்ஸ், เอเธนส์, ათენი, Ἀθῆναι, アテネ, 雅典, 아테네, 아테네 시
+Alternate Names: ATH,  Afina,  Afini,  Afiny,  An Aithin,  Ateena,  Atehny,  Aten,  Atena,  Atenai,  Atenas,  Atenas - Athena,  Atenas - Αθήνα,  Atene,  Atenes,  Ateni,  Ateno,  Atenoj,  Ateny,  Athen,  Athena,  Athenae,  Athenai,  Athene,  Athenes,  Athens,  Atheny,  Athina,  Athinai,  Athinia,  Athènes,  Athén,  Athénes,  Athény,  Athína,  Athínai,  Atina,  Atény,  Atēnas,  Atėnai,  Aþena,  Kota Athena,  Lungsod ng Athina,  Lungsod ng Athína,  atene,  atene si,  ateni,  athensa,  athyna,  atn,  etens,  xethens,  ya dian,  Αθήνα,  Αθήναι,  Αθηνα,  Αθηναι,  Атина,  Атэны,  Афины,  Афіни,  Аѳины,  Աթենք,  אתונה,  آتن,  أثينا,  ئافېنا,  ܐܬܝܢܐ,  अथेन्स,  ஏதென்ஸ்,  เอเธนส์,  ათენი,  Ἀθῆναι,  アテネ,  雅典,  아테네,  아테네 시
 
 ---

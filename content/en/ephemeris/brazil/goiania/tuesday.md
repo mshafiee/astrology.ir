@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Ciutat de Goiania, Ciutat de Goiânia, GYN, Goiana, Goiania, Goianá, Goiânia, Gojani, Gojanija, Goyania, Goyaniya, ge ya ni ya, ghwyanya, go'iyaniya, goiania, gwyyanya, ko ya neiy, Гояни, Гояния, Гоянія, Гојанија, גואיאניה, غويانيا, گوئیانیا, গোইয়ানিয়া, โกยาเนีย, გოიანია, ゴイアニア, 戈亚尼亚, 고이아니아
+Alternate Names: Ciutat de Goiania,  Ciutat de Goiânia,  GYN,  Goiana,  Goiania,  Goianá,  Goiânia,  Gojani,  Gojanija,  Goyania,  Goyaniya,  ge ya ni ya,  ghwyanya,  go'iyaniya,  goiania,  gwyyanya,  ko ya neiy,  Гояни,  Гояния,  Гоянія,  Гојанија,  גואיאניה,  غويانيا,  گوئیانیا,  গোইয়ানিয়া,  โกยาเนีย,  გოიანია,  ゴイアニア,  戈亚尼亚,  고이아니아
 
 ---

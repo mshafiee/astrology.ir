@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼
+Alternate Names: Al Khartum,  Al Kharţūm,  Al Khurtum,  Al Khurţūm,  Cartum,  Cartúm,  Chartoum,  Chartum,  Chartumas,  Chartúm,  Hartum,  Hartumo,  Jartum,  KRT,  Kartum,  Kartúm,  Khartoem,  Khartoum,  Khartoun,  Khartum,  Khartun - alkhrtwm,  Khartún - الخرطوم,  aaalkhrtwm,  haleutum,  harutsumu,  hrtwm,  karttaum,  ke tu mu,  khartwm,  khrtwm,  Ĥartumo,  Χαρτούμ,  Картум,  Хартум,  חרטום,  ااالخرطوم,  خارطوم,  خرطوم,  கார்த்தௌம்,  ཁར་ཏུམ,  ካርቱም,  ハルツーム,  喀土穆,  하르툼
 
 ---

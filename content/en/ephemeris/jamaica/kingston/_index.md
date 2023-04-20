@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴
+Alternate Names: KIN,  Kin'nkston,  Kingston,  Kingstono,  jing si dui,  kingseuteon,  kingusuton,  kyngstwn,  Κίνγκστον,  Кингстон,  کینگستون,  キングストン,  京斯敦,  킹스턴
 
 ---

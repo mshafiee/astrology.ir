@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: CBB, Ciudad Cochabamba, Cochabamba, Kocabamb, Kocabamba, Kochabamba, Kočabamb, Kočabamba, Kuchawampa, Quchapampa, ke qia ban ba, ko cha bam ba, kochabamba, kochabanba, kwchabamba, kwtshabamba, qwzbmbh, Кочабамба, קוצבמבה, كوتشابامبا, کوچابامبا, โกชาบัมบา, ཀོ་ཅ་བང་ལྦ་, კოჩაბამბა, コチャバンバ, 科恰班巴, 코차밤바
+Alternate Names: CBB,  Ciudad Cochabamba,  Cochabamba,  Kocabamb,  Kocabamba,  Kochabamba,  Kočabamb,  Kočabamba,  Kuchawampa,  Quchapampa,  ke qia ban ba,  ko cha bam ba,  kochabamba,  kochabanba,  kwchabamba,  kwtshabamba,  qwzbmbh,  Кочабамба,  קוצבמבה,  كوتشابامبا,  کوچابامبا,  โกชาบัมบา,  ཀོ་ཅ་བང་ལྦ་,  კოჩაბამბა,  コチャバンバ,  科恰班巴,  코차밤바
 
 ---

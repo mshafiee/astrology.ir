@@ -20,7 +20,7 @@ Latitude: 36.3491
 \-
 Longitude: 127.3849
 \-
-Altitude: 46 meters
+Altitude: 58 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Daejeon, Korea, Republic of" lat="36.3491" lng="127.3849" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:29:05 |
 | Medium Coeli | 12:29:05 |
 | Sunset | 19:10:04 |
-| Maghrib | 19:11:16 |
+| Maghrib | 19:11:25 |
 | Isha | 20:38:41 |
 | Sharia Midnight | 23:41:34 |
 | Imum Coeli | 00:28:59 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:29:05 |
 | Medium Coeli | 12:29:05 |
 | Sunset | 19:10:04 |
-| Maghrib | 19:11:16 |
+| Maghrib | 19:11:25 |
 | Isha | 20:27:17 |
 | Sharia Midnight | 23:50:09 |
 | Imum Coeli | 00:28:59 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:29:05 |
 | Medium Coeli | 12:29:05 |
 | Sunset | 19:10:04 |
-| Maghrib | 19:11:16 |
+| Maghrib | 19:11:25 |
 | Isha | 20:41:34 |
 | Sharia Midnight | 23:37:10 |
 | Imum Coeli | 00:28:59 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:29:05 |
 | Medium Coeli | 12:29:05 |
 | Sunset | 19:10:04 |
-| Maghrib | 19:11:16 |
+| Maghrib | 19:11:25 |
 | Isha | 20:44:28 |
 | Sharia Midnight | 23:41:34 |
 | Imum Coeli | 00:28:59 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:29:05 |
 | Medium Coeli | 12:29:05 |
 | Sunset | 19:10:04 |
-| Maghrib | 19:11:16 |
-| Isha | 20:41:16 |
+| Maghrib | 19:11:25 |
+| Isha | 20:41:25 |
 | Sharia Midnight | 23:40:06 |
 | Imum Coeli | 00:28:59 |
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시
+Alternate Names: Daejeon,  Daejeon-si,  Daejon,  Daiden,  Daigono,  Daiĝono,  QTW,  Taejon,  Taejŏn,  Taiden,  Tehdzhon,  Tetyan,  Thai-tyen,  Thāi-tyen,  Tētyan,  da tian guang yu shi,  daejeon,  daejeongwang-yeogsi,  daejeonsi,  Тэджон,  大田广域市,  大田広域市,  대전,  대전광역시,  대전시
 
 ---

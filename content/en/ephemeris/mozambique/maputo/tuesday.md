@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투
+Alternate Names: Can Pfumo,  Kapfumo,  Lourenco Marques,  Lourenço Marques,  MPM,  Mabuto,  Mabutu,  Mapouto,  Maputo,  Maputu,  Mapútó,  ma pu to,  ma pu tuo,  mabwtw,  maputo,  maputto,  maputu,  mapwtw,  mpwtw,  Μαπούτο,  Мапуто,  Мапуту,  Մապուտու,  מפוטו,  مابوتو,  ماپوتو,  ماپوتۆ,  ماپوٹو,  मापुतो,  ਮਾਪੂਤੋ,  மபூட்டோ,  มาปูโต,  མ་པུ་ཊོ།,  მაპუტუ,  ማፑቶ,  マプト,  马普托,  마푸토,  마푸투
 
 ---

@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: IXR, Ranchi, Ranci, Rancis, Rancsi, Ranĉi, Rančis, Ráncsí, Ráňčí, Rānchi, Rānchī, lan qi, lanchi, raci, ramci, ranchi, ranchy, ranci, ranci jilla, ranshy, rʼnzy, Ранчи, Ранчі, ראנצי, رانشي, رانچي, رانچی, राँची, रांची, रांची जिल्ला, রাঁচি, রাচি, ਰਾਂਚੀ, રાંચી, ରାଞ୍ଚି, ராஞ்சி, రాంచీ, ರಾಂಚಿ, റാഞ്ചി, რანჩი, ラーンチー, 蘭契, 란치
+Alternate Names: IXR,  Ranchi,  Ranci,  Rancis,  Rancsi,  Ranĉi,  Rančis,  Ráncsí,  Ráňčí,  Rānchi,  Rānchī,  lan qi,  lanchi,  raci,  ramci,  ranchi,  ranchy,  ranci,  ranci jilla,  ranshy,  rʼnzy,  Ранчи,  Ранчі,  ראנצי,  رانشي,  رانچي,  رانچی,  राँची,  रांची,  रांची जिल्ला,  রাঁচি,  রাচি,  ਰਾਂਚੀ,  રાંચી,  ରାଞ୍ଚି,  ராஞ்சி,  రాంచీ,  ರಾಂಚಿ,  റാഞ്ചി,  რანჩი,  ラーンチー,  蘭契,  란치
 
 ---

@@ -20,7 +20,7 @@ Latitude: 36.9862
 \-
 Longitude: 35.3253
 \-
-Altitude: 38 meters
+Altitude: 30 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adana, Turkey" lat="36.9862" lng="35.3253" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:25:56|Night duration: 10:32:49|
+|Duration of the day: 13:25:56|Night duration: 10:32:48|
 |Every hour of day duration: 01:07:10|Every hour of night duration: 00:52:44|
 
  
@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |9|Mars|Servant|02:22:13|03:14:56|Summoning a desired person, winning hearts, and creating emotional attachment|
 |10|Sun|Servant|03:14:57|04:07:40|Attracting happiness and resolving financial problems|
 |11|Venus|Servant|04:07:41|05:00:24|Signing contracts|
-|12|Mercury|Servant|05:00:25|05:53:09|Uncovering fugitives and finding thieves|
+|12|Mercury|Servant|05:00:25|05:53:08|Uncovering fugitives and finding thieves|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:25:56|Night duration: 10:32:49|
+|Duration of the day: 13:25:56|Night duration: 10:32:48|
 |Every hour duration: 01:55:08|Every hour duration: 01:30:24|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Venus|Servant|23:51:33|01:21:56|
 |Rooster song|Mercury|Servant|01:21:57|02:52:20|
 |False Dawn|Moon|Servant|02:52:21|04:22:44|
-|Dawn|Saturn|Servant|04:22:45|05:53:09|
+|Dawn|Saturn|Servant|04:22:45|05:53:08|
 
 {{< /tab >}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나
+Alternate Names: ADA,  Adana,  Adane,  Adano,  Adanë,  Adhanah,  Antiocheia,  Edene,  a da na,  adana,  adnt,  xa da na,  yadana,  Άδανα,  Αδανα,  Αντιόχεια,  Адана,  Ադանա,  אדנה,  آدانا,  أضنة,  ئادانا,  अदना,  আদানা,  อาดานา,  ადანა,  アダナ,  阿达纳,  아다나
 
 ---

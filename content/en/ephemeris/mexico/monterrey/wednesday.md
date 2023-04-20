@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: MTY, Mantehrehj, Mons Regis, Monterej, Monterejo, Monterejus, Monterey, Monterrei, Monterrej, Monterreja, Monterrey, Monterrey City, Monterrey i Nuevo Leon, Monterrey i Nuevo León, Monterėjus, Tlahtoantepec, Tlahtoāntepēc, mamtere, meng te lei, montelei, montere'i, monterei, mwntry, mwntryy, mwntyry, mxn terrey, Μοντερρέι, Мантэрэй, Монтерей, Монтереј, Монтеррей, Մոնտերեյ, מונטריי, مونتری, مونتيري, مونتےرئی, माँतेरे, ਮੋਂਤੇਰੇਈ, มอนเตร์เรย์, མཱོན་ཊི་རེ།, მონტერეი, モンテレイ, 蒙特雷, 몬테레이
+Alternate Names: MTY,  Mantehrehj,  Mons Regis,  Monterej,  Monterejo,  Monterejus,  Monterey,  Monterrei,  Monterrej,  Monterreja,  Monterrey,  Monterrey City,  Monterrey i Nuevo Leon,  Monterrey i Nuevo León,  Monterėjus,  Tlahtoantepec,  Tlahtoāntepēc,  mamtere,  meng te lei,  montelei,  montere'i,  monterei,  mwntry,  mwntryy,  mwntyry,  mxn terrey,  Μοντερρέι,  Мантэрэй,  Монтерей,  Монтереј,  Монтеррей,  Մոնտերեյ,  מונטריי,  مونتری,  مونتيري,  مونتےرئی,  माँतेरे,  ਮੋਂਤੇਰੇਈ,  มอนเตร์เรย์,  མཱོན་ཊི་རེ།,  მონტერეი,  モンテレイ,  蒙特雷,  몬테레이
 
 ---

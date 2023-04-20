@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: GBE, Gabaroneh, Gaberones, Gaberones Village, Gaberono, Gaboron, Gaboronas, Gaborone, Gaboròn, Gaboróne, IGaborone, Nkamporone, Qaborone, gabolone, gaborone, gaboroni, gabwrwn, gbrwn, gebaroni, goborni, haborone, jabwrwn, jia bai long li, jia bo long li, ka bo rone, kaparoni, Γκαμπορόνε, Габаронэ, Габороне, Գաբորոնե, גאבאראן, גאבורון, جابورون, گابورون, گابۆرۆن, گبرون, गॅबारोनी, गोबोर्नी, ਗਾਬੋਰੋਨੀ, காபரோனி, กาโบโรเน, ག་བོ་རོ་ནི།, გაბორონე, ጋበሮኔ, ጋቦሮን, ハボローネ, 嘉柏隆里, 嘉波隆里, 가보로네
+Alternate Names: GBE,  Gabaroneh,  Gaberones,  Gaberones Village,  Gaberono,  Gaboron,  Gaboronas,  Gaborone,  Gaboròn,  Gaboróne,  IGaborone,  Nkamporone,  Qaborone,  gabolone,  gaborone,  gaboroni,  gabwrwn,  gbrwn,  gebaroni,  goborni,  haborone,  jabwrwn,  jia bai long li,  jia bo long li,  ka bo rone,  kaparoni,  Γκαμπορόνε,  Габаронэ,  Габороне,  Գաբորոնե,  גאבאראן,  גאבורון,  جابورون,  گابورون,  گابۆرۆن,  گبرون,  गॅबारोनी,  गोबोर्नी,  ਗਾਬੋਰੋਨੀ,  காபரோனி,  กาโบโรเน,  ག་བོ་རོ་ནི།,  გაბორონე,  ጋበሮኔ,  ጋቦሮን,  ハボローネ,  嘉柏隆里,  嘉波隆里,  가보로네
 
 ---

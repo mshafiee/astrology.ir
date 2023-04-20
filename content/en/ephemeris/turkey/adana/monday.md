@@ -20,7 +20,7 @@ Latitude: 36.9862
 \-
 Longitude: 35.3253
 \-
-Altitude: 38 meters
+Altitude: 30 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adana, Turkey" lat="36.9862" lng="35.3253" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:29:04 |
-| Sunrise | 05:53:10 |
+| Sunrise | 05:53:09 |
 | Dhuhr | 12:36:54 |
 | Medium Coeli | 12:36:54 |
 | Sunset | 19:21:14 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:19:06 |
-| Sunrise | 05:53:10 |
+| Sunrise | 05:53:09 |
 | Dhuhr | 12:36:54 |
 | Medium Coeli | 12:36:54 |
 | Sunset | 19:21:14 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:17:20 |
-| Sunrise | 05:53:10 |
+| Sunrise | 05:53:09 |
 | Dhuhr | 12:36:54 |
 | Medium Coeli | 12:36:54 |
 | Sunset | 19:21:14 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:34:50 |
-| Sunrise | 05:53:10 |
+| Sunrise | 05:53:09 |
 | Dhuhr | 12:36:54 |
 | Medium Coeli | 12:36:54 |
 | Sunset | 19:21:14 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:08:20 |
-| Sunrise | 05:53:10 |
+| Sunrise | 05:53:09 |
 | Dhuhr | 12:36:54 |
 | Medium Coeli | 12:36:54 |
 | Sunset | 19:21:14 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:17:20 |
-| Sunrise | 05:53:10 |
+| Sunrise | 05:53:09 |
 | Dhuhr | 12:36:54 |
 | Medium Coeli | 12:36:54 |
 | Sunset | 19:21:14 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:14:21 |
-| Sunrise | 05:53:10 |
+| Sunrise | 05:53:09 |
 | Dhuhr | 12:36:54 |
 | Medium Coeli | 12:36:54 |
 | Sunset | 19:21:14 |
@@ -204,22 +204,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:28:04|Night duration: 10:30:41|
+|Duration of the day: 13:28:05|Night duration: 10:30:41|
 |Every hour of day duration: 01:07:20|Every hour of night duration: 00:52:33|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:53:10|07:00:29|Repelling sorcery and attracting discharged energy|
-|2|Saturn|Servant|07:00:30|08:07:49|Traveling inward and outward|
-|3|Jupiter|Servant|08:07:50|09:15:10|Marriage bond is favorable|
-|4|Mars|Servant|09:15:11|10:22:30|Eliminating and destroying enemies and releasing their energy|
-|5|Sun|Servant|10:22:31|11:29:50|Granting wishes, attracting love and wealth|
-|6|Venus|Servant|11:29:51|12:37:11|Summoning the desired person, creating love and domination|
-|7|Mercury|Servant|12:37:12|13:44:31|Mutual agreement|
-|8|Moon|Ruler|13:44:32|14:51:51|Reconciling two individuals, attracting love|
-|9|Saturn|Servant|14:51:52|15:59:12|Attracting and repelling enemies, and separating them|
-|10|Jupiter|Servant|15:59:13|17:06:32|Favorable for any good deed|
+|1|Moon|Ruler|05:53:09|07:00:28|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|07:00:29|08:07:48|Traveling inward and outward|
+|3|Jupiter|Servant|08:07:49|09:15:09|Marriage bond is favorable|
+|4|Mars|Servant|09:15:10|10:22:29|Eliminating and destroying enemies and releasing their energy|
+|5|Sun|Servant|10:22:30|11:29:50|Granting wishes, attracting love and wealth|
+|6|Venus|Servant|11:29:51|12:37:10|Summoning the desired person, creating love and domination|
+|7|Mercury|Servant|12:37:11|13:44:30|Mutual agreement|
+|8|Moon|Ruler|13:44:31|14:51:51|Reconciling two individuals, attracting love|
+|9|Saturn|Servant|14:51:52|15:59:11|Attracting and repelling enemies, and separating them|
+|10|Jupiter|Servant|15:59:12|17:06:32|Favorable for any good deed|
 |11|Mars|Servant|17:06:33|18:13:52|Creating enmity and negative energy|
 |12|Sun|Servant|18:13:53|19:21:13|Showing kindness and affection|
 
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:28:04|Night duration: 10:30:41|
+|Duration of the day: 13:28:05|Night duration: 10:30:41|
 |Every hour duration: 01:55:26|Every hour duration: 01:30:06|
 
  
@@ -258,11 +258,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|05:53:10|07:48:35|
-|Mid-morning|Saturn|Servant|07:48:36|09:44:01|
-|Late morning|Jupiter|Servant|09:44:02|11:39:27|
-|Noon|Mars|Servant|11:39:28|13:34:54|
-|Early afternoon|Sun|Servant|13:34:55|15:30:20|
+|Early morning|Moon|Ruler|05:53:09|07:48:34|
+|Mid-morning|Saturn|Servant|07:48:35|09:44:00|
+|Late morning|Jupiter|Servant|09:44:01|11:39:27|
+|Noon|Mars|Servant|11:39:28|13:34:53|
+|Early afternoon|Sun|Servant|13:34:54|15:30:20|
 |Mid-afternoon|Venus|Servant|15:30:21|17:25:46|
 |Late afternoon|Mercury|Servant|17:25:47|19:21:13|
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°52'35.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°41'28.07" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°14'55.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°41'18.16" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°54'7.87" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'53.84" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°59'5.50" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°52'35.72" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°41'28.06" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°14'55.58" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°41'18.12" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°54'7.82" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'53.85" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°59'4.81" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°52'35.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'28.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°14'55.60" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°41'18.16" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°54'7.87" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'53.84" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°59'5.50" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|4°52'35.72" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°41'28.06" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°14'55.58" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°41'18.12" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°54'7.82" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'53.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°59'4.81" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나
+Alternate Names: ADA,  Adana,  Adane,  Adano,  Adanë,  Adhanah,  Antiocheia,  Edene,  a da na,  adana,  adnt,  xa da na,  yadana,  Άδανα,  Αδανα,  Αντιόχεια,  Адана,  Ադանա,  אדנה,  آدانا,  أضنة,  ئادانا,  अदना,  আদানা,  อาดานา,  ადანა,  アダナ,  阿达纳,  아다나
 
 ---

@@ -20,7 +20,7 @@ Latitude: 36.3491
 \-
 Longitude: 127.3849
 \-
-Altitude: 46 meters
+Altitude: 58 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Daejeon, Korea, Republic of" lat="36.3491" lng="127.3849" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:28:32 |
 | Medium Coeli | 12:28:32 |
 | Sunset | 19:12:40 |
-| Maghrib | 19:13:53 |
+| Maghrib | 19:14:02 |
 | Isha | 20:42:12 |
 | Sharia Midnight | 23:40:31 |
 | Imum Coeli | 00:28:26 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:28:32 |
 | Medium Coeli | 12:28:32 |
 | Sunset | 19:12:40 |
-| Maghrib | 19:13:53 |
+| Maghrib | 19:14:02 |
 | Isha | 20:30:39 |
 | Sharia Midnight | 23:49:14 |
 | Imum Coeli | 00:28:26 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:28:32 |
 | Medium Coeli | 12:28:32 |
 | Sunset | 19:12:40 |
-| Maghrib | 19:13:53 |
+| Maghrib | 19:14:02 |
 | Isha | 20:45:08 |
 | Sharia Midnight | 23:36:03 |
 | Imum Coeli | 00:28:26 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:28:32 |
 | Medium Coeli | 12:28:32 |
 | Sunset | 19:12:40 |
-| Maghrib | 19:13:53 |
+| Maghrib | 19:14:02 |
 | Isha | 20:48:05 |
 | Sharia Midnight | 23:40:31 |
 | Imum Coeli | 00:28:26 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:28:32 |
 | Medium Coeli | 12:28:32 |
 | Sunset | 19:12:40 |
-| Maghrib | 19:13:53 |
-| Isha | 20:43:53 |
+| Maghrib | 19:14:02 |
+| Isha | 20:44:02 |
 | Sharia Midnight | 23:39:02 |
 | Imum Coeli | 00:28:26 |
 {{< /tab >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:27:42|Night duration: 10:31:05|
+|Duration of the day: 13:27:42|Night duration: 10:31:06|
 |Every hour of day duration: 01:07:19|Every hour of night duration: 00:52:35|
 
  
@@ -227,17 +227,17 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|19:12:40|20:05:14|Creating corruption, hatred, and enmity|
-|2|Jupiter|Servant|20:05:15|20:57:49|Attracting negativity, and avoiding any harmful action|
-|3|Mars|Servant|20:57:50|21:50:25|Attracting connection and marriage proposals|
-|4|Sun|Servant|21:50:26|22:43:00|Attracting material wealth, prosperity, and business growth|
-|5|Venus|Servant|22:43:01|23:35:36|Attracting negativity and creating chaos|
-|6|Mercury|Servant|23:35:37|00:28:11|Removing negative energy caused by the evil eye|
-|7|Moon|Servant|00:28:12|01:20:46|Attracting love, affection, and winning hearts|
-|8|Saturn|Ruler|01:20:47|02:13:22|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Jupiter|Servant|02:13:23|03:05:57|Creating emotional attachment|
-|10|Mars|Servant|03:05:58|03:58:33|Attracting negativity, and avoiding any harmful action|
-|11|Sun|Servant|03:58:34|04:51:08|Attracting connection and marriage proposals|
-|12|Venus|Servant|04:51:09|05:43:44|Creating hatred and corruption to disrupt harmony|
+|2|Jupiter|Servant|20:05:15|20:57:50|Attracting negativity, and avoiding any harmful action|
+|3|Mars|Servant|20:57:51|21:50:25|Attracting connection and marriage proposals|
+|4|Sun|Servant|21:50:26|22:43:01|Attracting material wealth, prosperity, and business growth|
+|5|Venus|Servant|22:43:02|23:35:36|Attracting negativity and creating chaos|
+|6|Mercury|Servant|23:35:37|00:28:12|Removing negative energy caused by the evil eye|
+|7|Moon|Servant|00:28:13|01:20:47|Attracting love, affection, and winning hearts|
+|8|Saturn|Ruler|01:20:48|02:13:23|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Jupiter|Servant|02:13:24|03:05:58|Creating emotional attachment|
+|10|Mars|Servant|03:05:59|03:58:34|Attracting negativity, and avoiding any harmful action|
+|11|Sun|Servant|03:58:35|04:51:09|Attracting connection and marriage proposals|
+|12|Venus|Servant|04:51:10|05:43:45|Creating hatred and corruption to disrupt harmony|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:27:42|Night duration: 10:31:05|
+|Duration of the day: 13:27:42|Night duration: 10:31:06|
 |Every hour duration: 01:55:23|Every hour duration: 01:30:09|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Saturn|Ruler|19:12:40|20:42:48|
 |Late evening|Jupiter|Servant|20:42:49|22:12:57|
-|Midnight|Mars|Servant|22:12:58|23:43:06|
-|Late at night|Sun|Servant|23:43:07|01:13:16|
-|Rooster song|Venus|Servant|01:13:17|02:43:25|
-|False Dawn|Mercury|Servant|02:43:26|04:13:34|
-|Dawn|Moon|Servant|04:13:35|05:43:44|
+|Midnight|Mars|Servant|22:12:58|23:43:07|
+|Late at night|Sun|Servant|23:43:08|01:13:16|
+|Rooster song|Venus|Servant|01:13:17|02:43:26|
+|False Dawn|Mercury|Servant|02:43:27|04:13:35|
+|Dawn|Moon|Servant|04:13:36|05:43:45|
 
 {{< /tab >}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시
+Alternate Names: Daejeon,  Daejeon-si,  Daejon,  Daiden,  Daigono,  Daiĝono,  QTW,  Taejon,  Taejŏn,  Taiden,  Tehdzhon,  Tetyan,  Thai-tyen,  Thāi-tyen,  Tētyan,  da tian guang yu shi,  daejeon,  daejeongwang-yeogsi,  daejeonsi,  Тэджон,  大田广域市,  大田広域市,  대전,  대전광역시,  대전시
 
 ---

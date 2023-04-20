@@ -20,7 +20,7 @@ Latitude: 18.4719
 \-
 Longitude: -69.8923
 \-
-Altitude: 9 meters
+Altitude: 24 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Santo Domingo, Dominican Republic" lat="18.4719" lng="-69.8923" zoom="12">}}
 
@@ -204,8 +204,8 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:37:54|Night duration: 11:21:24|
-|Every hour of day duration: 01:03:10|Every hour of night duration: 00:56:47|
+|Duration of the day: 12:37:54|Night duration: 11:21:25|
+|Every hour of day duration: 01:03:09|Every hour of night duration: 00:56:47|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |9|Venus|Servant|02:32:02|03:28:48|Separating and creating enmity|
 |10|Mercury|Servant|03:28:49|04:25:35|Subduing the elites|
 |11|Moon|Servant|04:25:36|05:22:22|Creating financial attraction and domination|
-|12|Saturn|Servant|05:22:23|06:19:09|Generating malice and hatred|
+|12|Saturn|Servant|05:22:23|06:19:10|Generating malice and hatred|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:37:54|Night duration: 11:21:24|
+|Duration of the day: 12:37:54|Night duration: 11:21:25|
 |Every hour duration: 01:48:16|Every hour duration: 01:37:21|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Sun|Ruler|18:57:46|20:35:05|
 |Late evening|Venus|Servant|20:35:06|22:12:26|
-|Midnight|Mercury|Servant|22:12:27|23:49:46|
-|Late at night|Moon|Servant|23:49:47|01:27:07|
-|Rooster song|Saturn|Servant|01:27:08|03:04:27|
-|False Dawn|Jupiter|Servant|03:04:28|04:41:48|
-|Dawn|Mars|Servant|04:41:49|06:19:09|
+|Midnight|Mercury|Servant|22:12:27|23:49:47|
+|Late at night|Moon|Servant|23:49:48|01:27:07|
+|Rooster song|Saturn|Servant|01:27:08|03:04:28|
+|False Dawn|Jupiter|Servant|03:04:29|04:41:49|
+|Dawn|Mars|Servant|04:41:50|06:19:10|
 
 {{< /tab >}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|29°6'36.69" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|9°32'6.99" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Retrograde|15°26'20.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°15'19.54" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°15'19.55" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°6'36.69" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|9°32'6.99" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°26'20.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°15'19.54" |Aries|Butain|Venus|
+|☾ Moon|Direct|20°15'19.55" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Ciudad Trujillo, SDQ, Saint Domingue, Santo Domingo, Santo Domingo City, Santo Domingo de Guzman, Santo Domingo de Guzmán, Santo Ntomin'nko, Santo-Domingo, santodoming-go, Σάντο Ντομίνγκο, Санто-Доминго, 산토도밍고
+Alternate Names: Ciudad Trujillo,  SDQ,  Saint Domingue,  Santo Domingo,  Santo Domingo City,  Santo Domingo de Guzman,  Santo Domingo de Guzmán,  Santo Ntomin'nko,  Santo-Domingo,  santodoming-go,  Σάντο Ντομίνγκο,  Санто-Доминго,  산토도밍고
 
 ---

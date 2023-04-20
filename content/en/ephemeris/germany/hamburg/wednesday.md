@@ -20,7 +20,7 @@ Latitude: 53.5507
 \-
 Longitude: 9.9930
 \-
-Altitude: 2 meters
+Altitude: 9 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Hamburg, Germany" lat="53.5507" lng="9.9930" zoom="12">}}
 
@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 14:16:27|Night duration: 09:41:18|
-|Every hour of day duration: 01:11:22|Every hour of night duration: 00:48:26|
+|Every hour of day duration: 01:11:22|Every hour of night duration: 00:48:27|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Amborg, Ambourgo, Amburgo, Amburgu, Augusta Gambriviorum, Ciutat d'Hamburg, Estat d'Hamburg, Gamburg, HAM, HH, Hamboarch, Hamboerg, Hamboerj, Hamborg, Hambourg, Hamburch, Hamburg, Hamburga, Hamburgas, Hamburgo, Hamburgu, Hamburgum, Hamburk, Hambuurich, Hambörg, Hambörj, Hambùrk, Hambûrg, Hamepuka, Hammaburg [a. 832], Hampuri, Hanburgo, Khamburg, ham bur k, hambuleukeu, hamburgi, hambwrg, hambwrgh, han bao, han bao shi, hanburuku, hemburga, hmbwrg, hyambarg, hʼambwrg, Ħamburg, Αμβούργο, Гамбург, Гамбурґ, Хамбург, Համբուրգ, האַמבורג, המבורג, هامبورغ, هامبورگ, ہymbrg, ہیمبرگ, ܗܡܒܘܪܓ, हॅम्बुर्ग, ಹ್ಯಾಂಬರ್ಗ್, ฮัมบูร์ก, ჰამბურგი, ハンブルク, 汉堡, 汉堡市, 漢堡, 함부르크
+Alternate Names: Amborg,  Ambourgo,  Amburgo,  Amburgu,  Augusta Gambriviorum,  Ciutat d'Hamburg,  Estat d'Hamburg,  Gamburg,  HAM,  HH,  Hamboarch,  Hamboerg,  Hamboerj,  Hamborg,  Hambourg,  Hamburch,  Hamburg,  Hamburga,  Hamburgas,  Hamburgo,  Hamburgu,  Hamburgum,  Hamburk,  Hambuurich,  Hambörg,  Hambörj,  Hambùrk,  Hambûrg,  Hamepuka,  Hammaburg [a. 832],  Hampuri,  Hanburgo,  Khamburg,  ham bur k,  hambuleukeu,  hamburgi,  hambwrg,  hambwrgh,  han bao,  han bao shi,  hanburuku,  hemburga,  hmbwrg,  hyambarg,  hʼambwrg,  Ħamburg,  Αμβούργο,  Гамбург,  Гамбурґ,  Хамбург,  Համբուրգ,  האַמבורג,  המבורג,  هامبورغ,  هامبورگ,  ہymbrg,  ہیمبرگ,  ܗܡܒܘܪܓ,  हॅम्बुर्ग,  ಹ್ಯಾಂಬರ್ಗ್,  ฮัมบูร์ก,  ჰამბურგი,  ハンブルク,  汉堡,  汉堡市,  漢堡,  함부르크
 
 ---

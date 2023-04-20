@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Djumpandang, Kota Makassar, Macassar, Makasar, Makasaras, Makassar, Makasser, UPG, Udjung Pandang, Ujungpandang, makasaleu, makasar, makassaru, Макассар, ماکاسار, マカッサル, 마카사르
+Alternate Names: Djumpandang,  Kota Makassar,  Macassar,  Makasar,  Makasaras,  Makassar,  Makasser,  UPG,  Udjung Pandang,  Ujungpandang,  makasaleu,  makasar,  makassaru,  Макассар,  ماکاسار,  マカッサル,  마카사르
 
 ---

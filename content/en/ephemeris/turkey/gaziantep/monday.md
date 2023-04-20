@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Aintab, Antep, Ayintap, Ayntʻap, Ayıntap, Dilok, Dîlok, GZT, Gazi-Ayintap, Gaziantep, Gaziantepa, Gaziantepas, Gazijantehp, Gazijantep, Guaziantep, Nkaziantep, Qazianteb, Qaziantep, gaji'antepa, gajiantepeu, gaziantepi, gazu~iantepu, jia ji an tai pu, ka si xan tep, Γκαζιαντέπ, Газиантеп, Газијантеп, Газіянтэп, Гъазиантеп, Ґазіантеп, Այնթապ, Գազիանթեպ, גזיאנטפ, عنتاب, غازی عینتاب, گازی ئانتەپ, ਗਜਿਆਂਤੇਪ, กาซีอันเตป, გაზიანთეფი, ガズィアンテプ, 加濟安泰普, 가지안테프
+Alternate Names: Aintab,  Antep,  Ayintap,  Ayntʻap,  Ayıntap,  Dilok,  Dîlok,  GZT,  Gazi-Ayintap,  Gaziantep,  Gaziantepa,  Gaziantepas,  Gaziantepo,  Gazijantehp,  Gazijantep,  Guaziantep,  Nkaziantep,  Qazianteb,  Qaziantep,  gaji'antepa,  gajiantepeu,  gaziantepi,  gazuiantepu,  jia ji an tai pu,  ka si xan tep,  Γκαζιαντέπ,  Газиантеп,  Газијантеп,  Газіянтэп,  Гъазиантеп,  Ґазіантеп,  Այնթապ,  Գազիանթեպ,  גזיאנטפ,  عنتاب,  غازی عینتاب,  گازی ئانتەپ,  ਗਜਿਆਂਤੇਪ,  กาซีอันเตป,  გაზიანთეფი,  ガズィアンテプ,  加濟安泰普,  가지안테프
 
 ---

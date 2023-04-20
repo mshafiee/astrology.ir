@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Ad Diwania, Ad Diwaniya, Ad Diwaniyah, Ad Dīwānīya, Ad Dīwānīyah, Al-Diwaniya, Divanija, Diwanie, Diwaniya, Diwaniyan, Diwaniyeh, Dīwanīya, Hiska, aldywanyt, Дивания, الديوانية
+Alternate Names: Ad Diwania,  Ad Diwaniya,  Ad Diwaniyah,  Ad Dīwānīya,  Ad Dīwānīyah,  Al-Diwaniya,  Divanija,  Diwanie,  Diwaniya,  Diwaniyan,  Diwaniyeh,  Dīwanīya,  Hiska,  aldywanyt,  Дивания,  الديوانية
 
 ---

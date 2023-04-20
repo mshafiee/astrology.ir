@@ -20,7 +20,7 @@ Latitude: -34.9287
 \-
 Longitude: 138.5986
 \-
-Altitude: 56 meters
+Altitude: 59 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adelaide, Australia" lat="-34.9287" lng="138.5986" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:13:41 |
 | Medium Coeli | 12:13:41 |
 | Sunset | 17:40:30 |
-| Maghrib | 17:41:48 |
+| Maghrib | 17:41:50 |
 | Isha | 19:01:44 |
 | Sharia Midnight | 23:30:43 |
 | Imum Coeli | 00:13:35 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:13:41 |
 | Medium Coeli | 12:13:41 |
 | Sunset | 17:40:30 |
-| Maghrib | 17:41:48 |
+| Maghrib | 17:41:50 |
 | Isha | 18:51:57 |
 | Sharia Midnight | 23:38:03 |
 | Imum Coeli | 00:13:35 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:13:41 |
 | Medium Coeli | 12:13:41 |
 | Sunset | 17:40:30 |
-| Maghrib | 17:41:48 |
+| Maghrib | 17:41:50 |
 | Isha | 19:04:11 |
 | Sharia Midnight | 23:27:03 |
 | Imum Coeli | 00:13:35 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:13:41 |
 | Medium Coeli | 12:13:41 |
 | Sunset | 17:40:30 |
-| Maghrib | 17:41:48 |
+| Maghrib | 17:41:50 |
 | Isha | 19:06:37 |
 | Sharia Midnight | 23:30:43 |
 | Imum Coeli | 00:13:35 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:13:41 |
 | Medium Coeli | 12:13:41 |
 | Sunset | 17:40:30 |
-| Maghrib | 17:41:48 |
-| Isha | 19:11:48 |
+| Maghrib | 17:41:50 |
+| Isha | 19:11:50 |
 | Sharia Midnight | 23:29:29 |
 | Imum Coeli | 00:13:35 |
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ADL, Adehlaida, Adelaida, Adelaidae, Adelaide, Adelaidis, Adelaidė, Adelajda, Adelajdo, Adelaïda, Adelaïde, Adelejd, Adelàida, Adélaïde, Edelaid, Tarndanya, Tarndarnya, a de lai de, adelaida, aderedo, adilaid, adiled, adlayd, adylyd, aedeulleideu, atileyit, edile'ida, edileda, Αδελαΐδα, Аделаидæ, Аделаида, Аделаїда, Аделейд, Аделејд, Адэлаіда, Ադելաիդա, אדלייד, آدلاید, أديليد, ئادېلايدې, ایڈیلیڈ, एडिलेड, ॲdaleda, ॲडलेड, એડિલેઇડ, அடிலெயிட், అడిలైడ్, ಅಡಿಲೇಡ್, അഡിലെയ്‌ഡ്, แอดิเลด, အက်ဒလိတ်မြို့, ადელაიდა, アデレード, 阿德来得, 阿德莱德, 애들레이드
+Alternate Names: ADL,  Adalet,  Adehlaida,  Adelaida,  Adelaidae,  Adelaide,  Adelaidis,  Adelaidė,  Adelajda,  Adelajdo,  Adelaïda,  Adelaïde,  Adelejd,  Adelàida,  Adélaïde,  Edelaid,  Tarndanya,  Tarndarnya,  a de lai de,  adelaida,  aderedo,  adilaid,  adiled,  adlayd,  adylyd,  aedeulleideu,  atileyit,  edile'ida,  edileda,  Αδελαΐδα,  Аделаидæ,  Аделаида,  Аделаїда,  Аделейд,  Аделејд,  Адэлаіда,  Ադելաիդա,  אדלייד,  آدلاید,  أديليد,  ئادېلايدې,  ایڈیلیڈ,  एडिलेड,  ॲdaleda,  ॲडलेड,  એડિલેઇડ,  அடிலெயிட்,  అడిలైడ్,  ಅಡಿಲೇಡ್,  അഡിലെയ്
 
 ---

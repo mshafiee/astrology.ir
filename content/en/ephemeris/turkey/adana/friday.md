@@ -20,7 +20,7 @@ Latitude: 36.9862
 \-
 Longitude: 35.3253
 \-
-Altitude: 38 meters
+Altitude: 30 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adana, Turkey" lat="36.9862" lng="35.3253" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 13:21:35|Night duration: 10:37:08|
+|Duration of the day: 13:21:35|Night duration: 10:37:07|
 |Every hour of day duration: 01:06:48|Every hour of night duration: 00:53:06|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|19:18:34|20:11:38|Attracting love and creating emotional attachment|
 |2|Sun|Servant|20:11:39|21:04:44|Attracting good luck|
-|3|Venus|Servant|21:04:45|21:57:50|Attracting negativity, and avoiding any harmful action|
-|4|Mercury|Servant|21:57:51|22:50:55|Being hateful for a certain period of time|
-|5|Moon|Servant|22:50:56|23:44:01|Gaining status, position, and attracting happiness in the workplace|
-|6|Saturn|Servant|23:44:02|00:37:07|Attracting attention and acceptance from important people|
-|7|Jupiter|Servant|00:37:08|01:30:12|Advancing and attracting wealth|
-|8|Mars|Ruler|01:30:13|02:23:18|Extremely lucky and achieving ultimate happiness|
-|9|Sun|Servant|02:23:19|03:16:24|Separating and making someone homeless|
-|10|Venus|Servant|03:16:25|04:09:29|Extremely hateful and causing harm|
-|11|Mercury|Servant|04:09:30|05:02:35|Creating a negative destiny for anyone|
-|12|Moon|Servant|05:02:36|05:55:41|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|3|Venus|Servant|21:04:45|21:57:49|Attracting negativity, and avoiding any harmful action|
+|4|Mercury|Servant|21:57:50|22:50:55|Being hateful for a certain period of time|
+|5|Moon|Servant|22:50:56|23:44:00|Gaining status, position, and attracting happiness in the workplace|
+|6|Saturn|Servant|23:44:01|00:37:06|Attracting attention and acceptance from important people|
+|7|Jupiter|Servant|00:37:07|01:30:12|Advancing and attracting wealth|
+|8|Mars|Ruler|01:30:13|02:23:17|Extremely lucky and achieving ultimate happiness|
+|9|Sun|Servant|02:23:18|03:16:23|Separating and making someone homeless|
+|10|Venus|Servant|03:16:24|04:09:28|Extremely hateful and causing harm|
+|11|Mercury|Servant|04:09:29|05:02:34|Creating a negative destiny for anyone|
+|12|Moon|Servant|05:02:35|05:55:40|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 13:21:35|Night duration: 10:37:08|
+|Duration of the day: 13:21:35|Night duration: 10:37:07|
 |Every hour duration: 01:54:31|Every hour duration: 01:31:01|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Mercury|Servant|23:51:37|01:22:37|
 |Rooster song|Moon|Servant|01:22:38|02:53:38|
 |False Dawn|Saturn|Servant|02:53:39|04:24:39|
-|Dawn|Jupiter|Servant|04:24:40|05:55:41|
+|Dawn|Jupiter|Servant|04:24:40|05:55:40|
 
 {{< /tab >}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나
+Alternate Names: ADA,  Adana,  Adane,  Adano,  Adanë,  Adhanah,  Antiocheia,  Edene,  a da na,  adana,  adnt,  xa da na,  yadana,  Άδανα,  Αδανα,  Αντιόχεια,  Адана,  Ադանա,  אדנה,  آدانا,  أضنة,  ئادانا,  अदना,  আদানা,  อาดานา,  ადანა,  アダナ,  阿达纳,  아다나
 
 ---

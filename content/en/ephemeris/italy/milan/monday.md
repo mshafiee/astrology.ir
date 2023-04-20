@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Lungsod ng Milano, MIL, Mailand, Mediolan, Mediolanum, Mila, Milaan, Milan, Milana, Milanas, Milano, Milanu, Milao, Milà, Milán, Miláno, Milánó, Milão, Milāna, Mílanó, Mилан, mi lan, milan, milana, milani, millano, mirano, mylan, mylanw, Милан, Милано, Мілан, מילאנו, مىلان, ميلانو, মিলান, மிலன், มิลาน, მილანი, ミラノ, 米蘭, 밀라노
+Alternate Names: Lungsod ng Milano,  MIL,  Mailand,  Mediolan,  Mediolanum,  Mila,  Milaan,  Milan,  Milana,  Milanas,  Milano,  Milanu,  Milao,  Milà,  Milán,  Miláno,  Milánó,  Milão,  Milāna,  Mílanó,  Mилан,  mi lan,  milan,  milana,  milani,  millano,  mirano,  mylan,  mylanw,  Милан,  Милано,  Мілан,  מילאנו,  مىلان,  ميلانو,  মিলান,  மிலன்,  มิลาน,  მილანი,  ミラノ,  米蘭,  밀라노
 
 ---

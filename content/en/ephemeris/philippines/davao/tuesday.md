@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오
+Alternate Names: Central,  Ciudad ti Davao,  DVO,  Dakbayan sa Davao,  Davao,  Davao City,  Davao Lakanbalen,  Davao Stad,  Davaó,  Lungsod ng Dabaw,  Syudad han Davao,  da wo shi,  dabao,  dafaw,  dawayw syty,  Давао,  دافاو,  داوائو سیتی,  ダバオ,  达沃市,  다바오
 
 ---

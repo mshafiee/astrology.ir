@@ -20,7 +20,7 @@ Latitude: -25.2865
 \-
 Longitude: -57.6470
 \-
-Altitude: 107 meters
+Altitude: 113 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Asuncion, Paraguay" lat="-25.2865" lng="-57.6470" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:58:19 |
-| Sunrise | 06:07:13 |
+| Sunrise | 06:07:14 |
 | Dhuhr | 11:49:43 |
 | Medium Coeli | 11:49:43 |
 | Sunset | 17:31:53 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:50:46 |
-| Sunrise | 06:07:13 |
+| Sunrise | 06:07:14 |
 | Dhuhr | 11:49:43 |
 | Medium Coeli | 11:49:43 |
 | Sunset | 17:31:53 |
@@ -67,11 +67,11 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:49:26 |
-| Sunrise | 06:07:13 |
+| Sunrise | 06:07:14 |
 | Dhuhr | 11:49:43 |
 | Medium Coeli | 11:49:43 |
 | Sunset | 17:31:53 |
-| Maghrib | 17:33:30 |
+| Maghrib | 17:33:33 |
 | Isha | 18:45:13 |
 | Sharia Midnight | 23:10:51 |
 | Imum Coeli | 23:49:37 |
@@ -83,11 +83,11 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:02:46 |
-| Sunrise | 06:07:13 |
+| Sunrise | 06:07:14 |
 | Dhuhr | 11:49:43 |
 | Medium Coeli | 11:49:43 |
 | Sunset | 17:31:53 |
-| Maghrib | 17:33:30 |
+| Maghrib | 17:33:33 |
 | Isha | 18:36:20 |
 | Sharia Midnight | 23:17:31 |
 | Imum Coeli | 23:49:37 |
@@ -99,11 +99,11 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:42:47 |
-| Sunrise | 06:07:13 |
+| Sunrise | 06:07:14 |
 | Dhuhr | 11:49:43 |
 | Medium Coeli | 11:49:43 |
 | Sunset | 17:31:53 |
-| Maghrib | 17:33:30 |
+| Maghrib | 17:33:33 |
 | Isha | 18:47:26 |
 | Sharia Midnight | 23:07:31 |
 | Imum Coeli | 23:49:37 |
@@ -115,11 +115,11 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:49:26 |
-| Sunrise | 06:07:13 |
+| Sunrise | 06:07:14 |
 | Dhuhr | 11:49:43 |
 | Medium Coeli | 11:49:43 |
 | Sunset | 17:31:53 |
-| Maghrib | 17:33:30 |
+| Maghrib | 17:33:33 |
 | Isha | 18:49:39 |
 | Sharia Midnight | 23:10:51 |
 | Imum Coeli | 23:49:37 |
@@ -131,12 +131,12 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:47:13 |
-| Sunrise | 06:07:13 |
+| Sunrise | 06:07:14 |
 | Dhuhr | 11:49:43 |
 | Medium Coeli | 11:49:43 |
 | Sunset | 17:31:53 |
-| Maghrib | 17:33:30 |
-| Isha | 19:03:30 |
+| Maghrib | 17:33:33 |
+| Isha | 19:03:33 |
 | Sharia Midnight | 23:09:45 |
 | Imum Coeli | 23:49:37 |
 {{< /tab >}}
@@ -204,21 +204,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:24:40|Night duration: 12:35:48|
+|Duration of the day: 11:24:39|Night duration: 12:35:48|
 |Every hour of day duration: 00:57:03|Every hour of night duration: 01:02:59|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:07:13|07:04:15|Acceptance of needs|
-|2|Moon|Servant|07:04:16|08:01:18|Complaining is futile, it won't accomplish anything|
-|3|Saturn|Servant|08:01:19|08:58:22|To overcome illnesses|
-|4|Jupiter|Servant|08:58:23|09:55:25|For all actions, the goal is happiness|
-|5|Mars|Servant|09:55:26|10:52:28|Generating negative energy and disturbing peace|
-|6|Sun|Servant|10:52:29|11:49:32|Traveling inward and outward|
+|1|Mercury|Ruler|06:07:14|07:04:16|Acceptance of needs|
+|2|Moon|Servant|07:04:17|08:01:19|Complaining is futile, it won't accomplish anything|
+|3|Saturn|Servant|08:01:20|08:58:22|To overcome illnesses|
+|4|Jupiter|Servant|08:58:23|09:55:26|For all actions, the goal is happiness|
+|5|Mars|Servant|09:55:27|10:52:29|Generating negative energy and disturbing peace|
+|6|Sun|Servant|10:52:30|11:49:32|Traveling inward and outward|
 |7|Venus|Servant|11:49:33|12:46:35|Attracting love and winning hearts|
-|8|Mercury|Ruler|12:46:36|13:43:38|Being concealed from the sight of people|
-|9|Moon|Servant|13:43:39|14:40:42|Separating and creating enmity|
+|8|Mercury|Ruler|12:46:36|13:43:39|Being concealed from the sight of people|
+|9|Moon|Servant|13:43:40|14:40:42|Separating and creating enmity|
 |10|Saturn|Servant|14:40:43|15:37:45|Subduing the elites|
 |11|Jupiter|Servant|15:37:46|16:34:48|Creating financial attraction and domination|
 |12|Mars|Servant|16:34:49|17:31:52|Generating malice and hatred|
@@ -250,20 +250,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:24:40|Night duration: 12:35:48|
-|Every hour duration: 01:37:49|Every hour duration: 01:47:58|
+|Duration of the day: 11:24:39|Night duration: 12:35:48|
+|Every hour duration: 01:37:48|Every hour duration: 01:47:58|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|06:07:13|07:45:00|
-|Mid-morning|Moon|Servant|07:45:01|09:22:49|
-|Late morning|Saturn|Servant|09:22:50|11:00:37|
-|Noon|Jupiter|Servant|11:00:38|12:38:26|
-|Early afternoon|Mars|Servant|12:38:27|14:16:14|
-|Mid-afternoon|Sun|Servant|14:16:15|15:54:03|
+|Early morning|Mercury|Ruler|06:07:14|07:45:01|
+|Mid-morning|Moon|Servant|07:45:02|09:22:49|
+|Late morning|Saturn|Servant|09:22:50|11:00:38|
+|Noon|Jupiter|Servant|11:00:39|12:38:26|
+|Early afternoon|Mars|Servant|12:38:27|14:16:15|
+|Mid-afternoon|Sun|Servant|14:16:16|15:54:03|
 |Late afternoon|Venus|Servant|15:54:04|17:31:52|
 
  
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°29'1.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°33'45.65" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°43'36.11" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°6'7.80" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°31'32.10" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|23°33'45.66" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°43'36.13" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°6'7.84" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°31'32.15" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Retrograde|15°26'17.36" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°21'7.23" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|20°21'7.78" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°29'1.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°33'45.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°43'36.11" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|29°6'7.80" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|9°31'32.10" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|23°33'45.66" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°43'36.13" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|29°6'7.84" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|9°31'32.15" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°26'17.36" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°21'7.23" |Aries|Butain|Venus|
+|☾ Moon|Direct|20°21'7.78" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ASU, Asounsion, Asounsyon, Asounsyòn, Asounthion, Assumptio, Assuncao, Assuncion, Assunção, Asuncion, Asunciono, Asunción, Asuns'jon, Asuns'on, Asunsaun, Asunsion, Asunsjon, Asunsjona, Asunsjonas, Asunson, Asunsyon, Asunsyun, Asúnsjón, Gunung Berapi Asuncion, La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion, La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción, Nuestra Senora Santa Maria de la Asuncion, Nuestra Señora Santa María de la Asunción, Paraguay, acunciyon, asnshn, asunshion, asunsion, asunsioni, asunsiyona, asusi'ona, aswnsywn, xa sun si xxng, ya song sen, Ασουνθιόν, Ασουνσιόν, Асунсион, Асунсьйон, Асунсьон, Асунсьён, Ասունսյոն, אסונסיאן, אסונסיון, آسونسیون, أسونسيون, ئاسۇنسىئون, اسنشن, اسونسیون, आसुन्सियोन, ਅਸੂੰਸੀਓਨ, அசுன்சியோன், ಅಸೂನ್‌ಸಿಯಾನ್, อะซุนซิออง, ཨ་སུན་སི་འན།, ასუნსიონი, አሱንሲዮን, アスンシオン, 亞松森, 아순시온
+Alternate Names: ASU,  Asounsion,  Asounsyon,  Asounsyòn,  Asounthion,  Assumptio,  Assuncao,  Assuncion,  Assunção,  Asuncion,  Asunciono,  Asunción,  Asuns'jon,  Asuns'on,  Asunsaun,  Asunsion,  Asunsjon,  Asunsjona,  Asunsjonas,  Asunson,  Asunsyon,  Asunsyun,  Asúnsjón,  Gunung Berapi Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción,  Nuestra Senora Santa Maria de la Asuncion,  Nuestra Señora Santa María de la Asunción,  Paraguay,  acunciyon,  asnshn,  asunshion,  asunsion,  asunsioni,  asunsiyona,  asusi'ona,  aswnsywn,  xa sun si xxng,  ya song sen,  Ασουνθιόν,  Ασουνσιόν,  Асунсион,  Асунсьйон,  Асунсьон,  Асунсьён,  Ասունսյոն,  אסונסיאן,  אסונסיון,  آسونسیون,  أسونسيون,  ئاسۇنسىئون,  اسنشن,  اسونسیون,  आसुन्सियोन,  ਅਸੂੰਸੀਓਨ,  அசுன்சியோன்,  ಅಸೂನ್
 
 ---

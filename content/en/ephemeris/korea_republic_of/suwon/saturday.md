@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: SWU, Sououon, Suigen, Suvon, Suwon, Suwon-si, Suwŏn, shui yuan shi, suvona, suwon, suwonsi, suwxn, swwn, Σούουον, Сувон, سوون, सुवोन, ซูว็อน, 水原市, 수원, 수원시
+Alternate Names: SWU,  Sououon,  Suigen,  Suvon,  Suwon,  Suwon-si,  Suwŏn,  shui yuan shi,  suvona,  suwon,  suwonsi,  suwxn,  swwn,  Σούουον,  Сувон,  سوون,  सुवोन,  ซูว็อน,  水原市,  수원,  수원시
 
 ---

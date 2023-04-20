@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나
+Alternate Names: Fort-Lamy,  Indschamina,  Ingamina,  Injamina,  Injamīnā,  Inǧamīnā,  Lamy,  N'Djamena,  NDJ,  Ndjamena,  Ndjemena,  Ndzamena,  Ndzhamena,  Ndżamena,  Ndžamena,  Ngameno,  Nigamina,  Niǧāmīnā,  Nĝameno,  N’Djamena,  N’Dj·amèna,  Tzamena,  Yamena,  anjamna,  anjamyna,  anjmyna,  en jia mei na,  eunjamena,  fwr lamy,  ng'mnh,  ngmynʾ,  njamena,  njamyna,  njamێna,  njmyna,  Τζαμένα,  Нджамена,  נג'מנה,  أنجمينا,  إنجامينا,  انجامنا,  انجمينا,  فور لامي,  نجامينا,  نجامینا,  نجامێنا,  نجمینا,  ܢܓܡܝܢܐ,  ንጃሜና,  ンジャメナ,  恩賈梅納,  은자메나
 
 ---

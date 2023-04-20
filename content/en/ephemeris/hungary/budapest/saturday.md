@@ -20,7 +20,7 @@ Latitude: 47.4984
 \-
 Longitude: 19.0404
 \-
-Altitude: 75 meters
+Altitude: 104 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Budapest, Hungary" lat="47.4984" lng="19.0404" zoom="12">}}
 
@@ -35,10 +35,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:58:09 |
-| Sunrise | 05:42:58 |
+| Sunrise | 05:42:59 |
 | Dhuhr | 12:42:24 |
 | Medium Coeli | 12:42:24 |
-| Sunset | 19:42:46 |
+| Sunset | 19:42:45 |
 | Maghrib | 20:04:22 |
 | Isha | 21:13:04 |
 | Sharia Midnight | 23:49:15 |
@@ -51,13 +51,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:44:47 |
-| Sunrise | 05:42:58 |
+| Sunrise | 05:42:59 |
 | Dhuhr | 12:42:24 |
 | Medium Coeli | 12:42:24 |
-| Sunset | 19:42:46 |
+| Sunset | 19:42:45 |
 | Maghrib | 20:07:36 |
 | Isha | 21:13:04 |
-| Sharia Midnight | 23:42:30 |
+| Sharia Midnight | 23:42:29 |
 | Imum Coeli | 00:42:18 |
 {{< /tab >}}
 
@@ -67,11 +67,11 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:42:21 |
-| Sunrise | 05:42:58 |
+| Sunrise | 05:42:59 |
 | Dhuhr | 12:42:24 |
 | Medium Coeli | 12:42:24 |
-| Sunset | 19:42:46 |
-| Maghrib | 19:44:38 |
+| Sunset | 19:42:45 |
+| Maghrib | 19:44:58 |
 | Isha | 21:36:08 |
 | Sharia Midnight | 23:41:16 |
 | Imum Coeli | 00:42:18 |
@@ -83,13 +83,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:05:46 |
-| Sunrise | 05:42:58 |
+| Sunrise | 05:42:59 |
 | Dhuhr | 12:42:24 |
 | Medium Coeli | 12:42:24 |
-| Sunset | 19:42:46 |
-| Maghrib | 19:44:38 |
+| Sunset | 19:42:45 |
+| Maghrib | 19:44:58 |
 | Isha | 21:20:34 |
-| Sharia Midnight | 23:53:06 |
+| Sharia Midnight | 23:53:05 |
 | Imum Coeli | 00:42:18 |
 {{< /tab >}}
 
@@ -99,11 +99,11 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:29:53 |
-| Sunrise | 05:42:58 |
+| Sunrise | 05:42:59 |
 | Dhuhr | 12:42:24 |
 | Medium Coeli | 12:42:24 |
-| Sunset | 19:42:46 |
-| Maghrib | 19:44:38 |
+| Sunset | 19:42:45 |
+| Maghrib | 19:44:58 |
 | Isha | 21:40:09 |
 | Sharia Midnight | 23:34:57 |
 | Imum Coeli | 00:42:18 |
@@ -115,11 +115,11 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:42:21 |
-| Sunrise | 05:42:58 |
+| Sunrise | 05:42:59 |
 | Dhuhr | 12:42:24 |
 | Medium Coeli | 12:42:24 |
-| Sunset | 19:42:46 |
-| Maghrib | 19:44:38 |
+| Sunset | 19:42:45 |
+| Maghrib | 19:44:58 |
 | Isha | 21:44:14 |
 | Sharia Midnight | 23:41:16 |
 | Imum Coeli | 00:42:18 |
@@ -131,12 +131,12 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:38:16 |
-| Sunrise | 05:42:58 |
+| Sunrise | 05:42:59 |
 | Dhuhr | 12:42:24 |
 | Medium Coeli | 12:42:24 |
-| Sunset | 19:42:46 |
-| Maghrib | 19:44:38 |
-| Isha | 21:14:38 |
+| Sunset | 19:42:45 |
+| Maghrib | 19:44:58 |
+| Isha | 21:14:58 |
 | Sharia Midnight | 23:39:12 |
 | Imum Coeli | 00:42:18 |
 {{< /tab >}}
@@ -204,34 +204,34 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:59:48|Night duration: 09:58:25|
+|Duration of the day: 13:59:46|Night duration: 09:58:26|
 |Every hour of day duration: 01:09:59|Every hour of night duration: 00:49:52|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:42:58|06:52:56|Creating peace among people|
+|1|Saturn|Ruler|05:42:59|06:52:56|Creating peace among people|
 |2|Jupiter|Servant|06:52:57|08:02:55|Engaging in hateful actions and evil deeds|
 |3|Mars|Servant|08:02:56|09:12:54|Conquering, judging, and issuing verdicts|
 |4|Sun|Servant|09:12:55|10:22:53|Bringing luck and favor|
 |5|Venus|Servant|10:22:54|11:32:52|Writing, exchanging, and signing contracts|
 |6|Mercury|Servant|11:32:53|12:42:51|Avoiding any harmful action|
-|7|Moon|Servant|12:42:52|13:52:50|Destroying enemies|
-|8|Saturn|Ruler|13:52:51|15:02:49|Performing all good deeds|
-|9|Jupiter|Servant|15:02:50|16:12:48|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|16:12:49|17:22:47|Achieving marital harmony|
-|11|Sun|Servant|17:22:48|18:32:46|Gaining respect and honor|
-|12|Venus|Servant|18:32:47|19:42:45||
+|7|Moon|Servant|12:42:52|13:52:49|Destroying enemies|
+|8|Saturn|Ruler|13:52:50|15:02:48|Performing all good deeds|
+|9|Jupiter|Servant|15:02:49|16:12:47|Performing evil deeds for the purpose of gaining power and control|
+|10|Mars|Servant|16:12:48|17:22:46|Achieving marital harmony|
+|11|Sun|Servant|17:22:47|18:32:45|Gaining respect and honor|
+|12|Venus|Servant|18:32:46|19:42:44||
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|19:42:46|20:32:37|Creating peace among people|
-|2|Moon|Servant|20:32:38|21:22:29|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|21:22:30|22:12:21|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|22:12:22|23:02:13|Bringing luck and favor|
-|5|Mars|Servant|23:02:14|23:52:05|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|23:52:06|00:41:57|Avoiding any harmful action|
+|1|Mercury|Ruler|19:42:45|20:32:36|Creating peace among people|
+|2|Moon|Servant|20:32:37|21:22:28|Engaging in hateful actions and evil deeds|
+|3|Saturn|Servant|21:22:29|22:12:20|Conquering, judging, and issuing verdicts|
+|4|Jupiter|Servant|22:12:21|23:02:12|Bringing luck and favor|
+|5|Mars|Servant|23:02:13|23:52:04|Writing, exchanging, and signing contracts|
+|6|Sun|Servant|23:52:05|00:41:57|Avoiding any harmful action|
 |7|Venus|Servant|00:41:58|01:31:49|Destroying enemies|
 |8|Mercury|Ruler|01:31:50|02:21:41|Performing all good deeds|
 |9|Moon|Servant|02:21:42|03:11:33|Performing evil deeds for the purpose of gaining power and control|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:59:48|Night duration: 09:58:25|
+|Duration of the day: 13:59:46|Night duration: 09:58:26|
 |Every hour duration: 01:59:58|Every hour duration: 01:25:29|
 
  
@@ -258,22 +258,22 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|05:42:58|07:42:55|
-|Mid-morning|Jupiter|Servant|07:42:56|09:42:53|
-|Late morning|Mars|Servant|09:42:54|11:42:51|
-|Noon|Sun|Servant|11:42:52|13:42:50|
+|Early morning|Saturn|Ruler|05:42:59|07:42:56|
+|Mid-morning|Jupiter|Servant|07:42:57|09:42:54|
+|Late morning|Mars|Servant|09:42:55|11:42:52|
+|Noon|Sun|Servant|11:42:53|13:42:50|
 |Early afternoon|Venus|Servant|13:42:51|15:42:48|
 |Mid-afternoon|Mercury|Servant|15:42:49|17:42:46|
-|Late afternoon|Moon|Servant|17:42:47|19:42:45|
+|Late afternoon|Moon|Servant|17:42:47|19:42:44|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|19:42:46|21:08:14|
-|Late evening|Moon|Servant|21:08:15|22:33:43|
-|Midnight|Saturn|Servant|22:33:44|23:59:12|
-|Late at night|Jupiter|Servant|23:59:13|01:24:42|
-|Rooster song|Mars|Servant|01:24:43|02:50:11|
+|Evening|Mercury|Ruler|19:42:45|21:08:13|
+|Late evening|Moon|Servant|21:08:14|22:33:42|
+|Midnight|Saturn|Servant|22:33:43|23:59:12|
+|Late at night|Jupiter|Servant|23:59:13|01:24:41|
+|Rooster song|Mars|Servant|01:24:42|02:50:11|
 |False Dawn|Sun|Servant|02:50:12|04:15:40|
 |Dawn|Venus|Servant|04:15:41|05:41:10|
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°42'54.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°13'10.28" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°11'22.50" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°46'13.88" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°39'31.51" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°42'54.80" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°13'10.29" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°11'22.53" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°46'13.92" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°39'31.55" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'30.54" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°46'14.13" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°46'14.79" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°42'54.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'10.28" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°11'22.50" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°46'13.88" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°39'31.51" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°42'54.80" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°13'10.29" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°11'22.53" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°46'13.92" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°39'31.55" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°35'30.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°46'14.13" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|26°46'14.79" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BUD, Boedapes, Boedapest, Boudapes, Boudapeste, Boudapès, Budaipeist, Budapescht, Budapeshha, Budapesht, Budapesht osh, Budapest, Budapesta, Budapestas, Budapeste, Budapesti, Budapestinum, Budapesto, Budapeszt, Budapeŝto, Budapeşt, Budapeşte, Budapešt, Budapešta, Budapeštas, Budapešť, Budapèst, Budapésht, Budimpeshta, Budimpesta, Budimpešta, Bùdapest, Bùdapeszt, Búdaipeist, Búdapest, bu da pei si, budapaisata, budapeseuteu, budapesrr, budapest, budapesta, budapesuto, bwdabst, bwdabyst, bwdapst, bwdpst, putapest, Βουδαπέστη, Будапешт, Будапешт ош, Будапеща, Будимпешта, Բուդապեշտ, בודאפעשט, בודפשט, بودابست, بودابيست, بوداپست, بوداپێست, بوډاپسټ, बुडापेस्ट, बुदापेस्त, বুদাপেস্ট, ਬੁਦਾਪੈਸਤ, બુડાપેસ્ટ, ବୁଦାପେଷ୍ଟ, புடாபெஸ்ட், ಬುಡಾಪೆಸ್ಟ್, ബുഡാപെസ്റ്റ്, บูดาเปสต์, བུ་ད་ཕེ་སིད།, ဗူးဒပက်မြို့, ბუდაპეშტი, ቡዳፔስት, ブダペスト, 布达佩斯, 부다페스트
+Alternate Names: BUD,  Boedapes,  Boedapest,  Boudapes,  Boudapeste,  Boudapès,  Budaipeist,  Budapescht,  Budapeshha,  Budapesht,  Budapesht osh,  Budapest,  Budapesta,  Budapestas,  Budapeste,  Budapesti,  Budapestinum,  Budapesto,  Budapeszt,  Budapeŝto,  Budapeşt,  Budapeşte,  Budapešt,  Budapešta,  Budapeštas,  Budapešť,  Budapèst,  Budapésht,  Budimpeshta,  Budimpesta,  Budimpešta,  Bùdapest,  Bùdapeszt,  Búdaipeist,  Búdapest,  Ofen-Pest,  bu da pei si,  budapaisata,  budapeseuteu,  budapesrr,  budapest,  budapesta,  budapesuto,  bwdabst,  bwdabyst,  bwdapst,  bwdpst,  putapest,  Βουδαπέστη,  Будапешт,  Будапешт ош,  Будапеща,  Будимпешта,  Բուդապեշտ,  בודאפעשט,  בודפשט,  بودابست,  بودابيست,  بوداپست,  بوداپێست,  بوډاپسټ,  बुडापेस्ट,  बुदापेस्त,  বুদাপেস্ট,  ਬੁਦਾਪੈਸਤ,  બુડાપેસ્ટ,  ବୁଦାପେଷ୍ଟ,  புடாபெஸ்ட்,  ಬುಡಾಪೆಸ್ಟ್,  ബുഡാപെസ്റ്റ്,  บูดาเปสต์,  བུ་ད་ཕེ་སིད།,  ဗူးဒပက်မြို့,  ბუდაპეშტი,  ቡዳፔስት,  ブダペスト,  布达佩斯,  부다페스트
 
 ---

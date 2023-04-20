@@ -20,7 +20,7 @@ Latitude: 47.4984
 \-
 Longitude: 19.0404
 \-
-Altitude: 75 meters
+Altitude: 104 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Budapest, Hungary" lat="47.4984" lng="19.0404" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:42:13 |
 | Medium Coeli | 12:42:13 |
 | Sunset | 19:44:10 |
-| Maghrib | 19:46:03 |
+| Maghrib | 19:46:22 |
 | Isha | 21:38:15 |
 | Sharia Midnight | 23:40:41 |
 | Imum Coeli | 00:42:07 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:42:13 |
 | Medium Coeli | 12:42:13 |
 | Sunset | 19:44:10 |
-| Maghrib | 19:46:03 |
+| Maghrib | 19:46:22 |
 | Isha | 21:22:32 |
 | Sharia Midnight | 23:52:38 |
 | Imum Coeli | 00:42:07 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:42:13 |
 | Medium Coeli | 12:42:13 |
 | Sunset | 19:44:10 |
-| Maghrib | 19:46:03 |
+| Maghrib | 19:46:22 |
 | Isha | 21:42:19 |
 | Sharia Midnight | 23:34:17 |
 | Imum Coeli | 00:42:07 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:42:13 |
 | Medium Coeli | 12:42:13 |
 | Sunset | 19:44:10 |
-| Maghrib | 19:46:03 |
+| Maghrib | 19:46:22 |
 | Isha | 21:46:26 |
 | Sharia Midnight | 23:40:41 |
 | Imum Coeli | 00:42:07 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:42:13 |
 | Medium Coeli | 12:42:13 |
 | Sunset | 19:44:10 |
-| Maghrib | 19:46:03 |
-| Isha | 21:16:03 |
+| Maghrib | 19:46:22 |
+| Isha | 21:16:22 |
 | Sharia Midnight | 23:38:35 |
 | Imum Coeli | 00:42:07 |
 {{< /tab >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 14:02:59|Night duration: 09:55:14|
+|Duration of the day: 14:02:59|Night duration: 09:55:15|
 |Every hour of day duration: 01:10:15|Every hour of night duration: 00:49:36|
 
  
@@ -229,15 +229,15 @@ Timetable of twelve day and night planetary hours
 |1|Jupiter|Ruler|19:44:10|20:33:45|Attracting love and gaining financial capital|
 |2|Mars|Servant|20:33:46|21:23:21|Hateful actions, and avoiding any beneficial action|
 |3|Sun|Servant|21:23:22|22:12:57|Creating emotional attachment and love|
-|4|Venus|Servant|22:12:58|23:02:33|Being hateful and rejecting kindness|
-|5|Mercury|Servant|23:02:34|23:52:09|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|23:52:10|00:41:46|Performing all good deeds for a beneficial outcome|
+|4|Venus|Servant|22:12:58|23:02:34|Being hateful and rejecting kindness|
+|5|Mercury|Servant|23:02:35|23:52:10|Separation and engaging in hateful and vengeful actions|
+|6|Moon|Servant|23:52:11|00:41:46|Performing all good deeds for a beneficial outcome|
 |7|Saturn|Servant|00:41:47|01:31:22|Avoiding any action that may lead to disaster|
-|8|Jupiter|Ruler|01:31:23|02:20:58|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|02:20:59|03:10:34|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|03:10:35|04:00:10|Attracting happiness and resolving financial problems|
-|11|Venus|Servant|04:00:11|04:49:46|Signing contracts|
-|12|Mercury|Servant|04:49:47|05:39:23|Uncovering fugitives and finding thieves|
+|8|Jupiter|Ruler|01:31:23|02:20:59|Extremely lucky and attracting good fortune|
+|9|Mars|Servant|02:21:00|03:10:35|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|03:10:36|04:00:11|Attracting happiness and resolving financial problems|
+|11|Venus|Servant|04:00:12|04:49:47|Signing contracts|
+|12|Mercury|Servant|04:49:48|05:39:24|Uncovering fugitives and finding thieves|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 14:02:59|Night duration: 09:55:14|
+|Duration of the day: 14:02:59|Night duration: 09:55:15|
 |Every hour duration: 02:00:26|Every hour duration: 01:25:02|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Venus|Servant|23:59:16|01:24:17|
 |Rooster song|Mercury|Servant|01:24:18|02:49:19|
 |False Dawn|Moon|Servant|02:49:20|04:14:21|
-|Dawn|Saturn|Servant|04:14:22|05:39:23|
+|Dawn|Saturn|Servant|04:14:22|05:39:24|
 
 {{< /tab >}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BUD, Boedapes, Boedapest, Boudapes, Boudapeste, Boudapès, Budaipeist, Budapescht, Budapeshha, Budapesht, Budapesht osh, Budapest, Budapesta, Budapestas, Budapeste, Budapesti, Budapestinum, Budapesto, Budapeszt, Budapeŝto, Budapeşt, Budapeşte, Budapešt, Budapešta, Budapeštas, Budapešť, Budapèst, Budapésht, Budimpeshta, Budimpesta, Budimpešta, Bùdapest, Bùdapeszt, Búdaipeist, Búdapest, bu da pei si, budapaisata, budapeseuteu, budapesrr, budapest, budapesta, budapesuto, bwdabst, bwdabyst, bwdapst, bwdpst, putapest, Βουδαπέστη, Будапешт, Будапешт ош, Будапеща, Будимпешта, Բուդապեշտ, בודאפעשט, בודפשט, بودابست, بودابيست, بوداپست, بوداپێست, بوډاپسټ, बुडापेस्ट, बुदापेस्त, বুদাপেস্ট, ਬੁਦਾਪੈਸਤ, બુડાપેસ્ટ, ବୁଦାପେଷ୍ଟ, புடாபெஸ்ட், ಬುಡಾಪೆಸ್ಟ್, ബുഡാപെസ്റ്റ്, บูดาเปสต์, བུ་ད་ཕེ་སིད།, ဗူးဒပက်မြို့, ბუდაპეშტი, ቡዳፔስት, ブダペスト, 布达佩斯, 부다페스트
+Alternate Names: BUD,  Boedapes,  Boedapest,  Boudapes,  Boudapeste,  Boudapès,  Budaipeist,  Budapescht,  Budapeshha,  Budapesht,  Budapesht osh,  Budapest,  Budapesta,  Budapestas,  Budapeste,  Budapesti,  Budapestinum,  Budapesto,  Budapeszt,  Budapeŝto,  Budapeşt,  Budapeşte,  Budapešt,  Budapešta,  Budapeštas,  Budapešť,  Budapèst,  Budapésht,  Budimpeshta,  Budimpesta,  Budimpešta,  Bùdapest,  Bùdapeszt,  Búdaipeist,  Búdapest,  Ofen-Pest,  bu da pei si,  budapaisata,  budapeseuteu,  budapesrr,  budapest,  budapesta,  budapesuto,  bwdabst,  bwdabyst,  bwdapst,  bwdpst,  putapest,  Βουδαπέστη,  Будапешт,  Будапешт ош,  Будапеща,  Будимпешта,  Բուդապեշտ,  בודאפעשט,  בודפשט,  بودابست,  بودابيست,  بوداپست,  بوداپێست,  بوډاپسټ,  बुडापेस्ट,  बुदापेस्त,  বুদাপেস্ট,  ਬੁਦਾਪੈਸਤ,  બુડાપેસ્ટ,  ବୁଦାପେଷ୍ଟ,  புடாபெஸ்ட்,  ಬುಡಾಪೆಸ್ಟ್,  ബുഡാപെസ്റ്റ്,  บูดาเปสต์,  བུ་ད་ཕེ་སིད།,  ဗူးဒပက်မြို့,  ბუდაპეშტი,  ቡዳፔስት,  ブダペスト,  布达佩斯,  부다페스트
 
 ---
