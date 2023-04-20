@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: Basse-Terre (Sunday)
+title: BasseTerre Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Guadeloupe
-  - Basse-Terre
+  - BasseTerre
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

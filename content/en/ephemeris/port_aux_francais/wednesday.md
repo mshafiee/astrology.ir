@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+05:00
 lastmod: 2023-04-19T00:00:00+05:00
-title: Port-aux-Francais (Wednesday)
+title: PortauxFrancais Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - 
-  - Port-aux-Francais
+  - PortauxFrancais
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

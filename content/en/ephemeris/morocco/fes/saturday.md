@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00Z
 lastmod: 2023-04-22T00:00:00Z
-title: Fes (Saturday)
+title: Fes Saturday
 slug: saturday
 categories:
   - Ephemeris
@@ -162,9 +162,9 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |♎ Libra|18:40:54|21:06:00|
 |♏ Scorpio|21:06:01|23:25:03|
 |♐ Sagittarius|23:25:04|01:22:44|
-|♑ Capricorn|01:22:45|02:56:14|
-|♒ Aquarius|02:56:15|04:16:09|
-|♓ Pisces|04:16:10|05:42:33|
+|♑ Capricorn|01:22:45|03:56:14|
+|♒ Aquarius|03:56:15|05:16:09|
+|♓ Pisces|05:16:10|06:42:33|
 
 
 {{< /tab >}}
@@ -184,9 +184,9 @@ Earth movement calendar in twelve houses based on tropical calculations
 |♏ Scorpio|18:40:54|21:06:00|
 |♐ Sagittarius|21:06:01|23:25:03|
 |♑ Capricorn|23:25:04|01:22:44|
-|♒ Aquarius|01:22:45|02:56:14|
-|♓ Pisces|02:56:15|04:16:09|
-|♈ Aries|04:16:10|05:42:33|
+|♒ Aquarius|01:22:45|03:56:14|
+|♓ Pisces|03:56:15|05:16:09|
+|♈ Aries|05:16:10|06:42:33|
 
 
 {{< /tab >}}
@@ -233,11 +233,11 @@ Timetable of twelve day and night planetary hours
 |5|Mars|Servant|22:31:01|23:24:37|Writing, exchanging, and signing contracts|
 |6|Sun|Servant|23:24:38|00:18:13|Avoiding any harmful action|
 |7|Venus|Servant|00:18:14|01:11:49|Destroying enemies|
-|8|Mercury|Ruler|01:11:50|02:05:26|Performing all good deeds|
-|9|Moon|Servant|02:05:27|02:59:02|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|02:59:03|03:52:39|Achieving marital harmony|
-|11|Jupiter|Servant|03:52:40|04:46:15|Gaining respect and honor|
-|12|Mars|Servant|04:46:16|05:39:52||
+|8|Mercury|Ruler|01:11:50|03:05:26|Performing all good deeds|
+|9|Moon|Servant|03:05:27|03:59:02|Performing evil deeds for the purpose of gaining power and control|
+|10|Saturn|Servant|03:59:03|04:52:39|Achieving marital harmony|
+|11|Jupiter|Servant|04:52:40|05:46:15|Gaining respect and honor|
+|12|Mars|Servant|05:46:16|06:39:52||
 
  
  
@@ -273,9 +273,9 @@ Timetable of septet day and night planetary hours
 |Late evening|Moon|Servant|20:28:29|22:00:22|
 |Midnight|Saturn|Servant|22:00:23|23:32:16|
 |Late at night|Jupiter|Servant|23:32:17|01:04:10|
-|Rooster song|Mars|Servant|01:04:11|02:36:04|
-|False Dawn|Sun|Servant|02:36:05|04:07:58|
-|Dawn|Venus|Servant|04:07:59|05:39:52|
+|Rooster song|Mars|Servant|01:04:11|03:36:04|
+|False Dawn|Sun|Servant|03:36:05|05:07:58|
+|Dawn|Venus|Servant|05:07:59|06:39:52|
 
 {{< /tab >}}
 

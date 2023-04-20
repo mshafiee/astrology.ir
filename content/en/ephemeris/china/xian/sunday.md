@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+08:00
 lastmod: 2023-04-23T00:00:00+08:00
-title: Xi'an (Sunday)
+title: Xian Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Xi'an
+  - Xian
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

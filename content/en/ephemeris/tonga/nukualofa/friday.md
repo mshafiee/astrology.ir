@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+13:00
 lastmod: 2023-04-21T00:00:00+13:00
-title: Nuku'alofa (Friday)
+title: Nukualofa Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Tonga
-  - Nuku'alofa
+  - Nukualofa
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

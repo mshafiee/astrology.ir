@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+05:00
 lastmod: 2023-04-22T00:00:00+05:00
-title: Port-aux-Francais (Saturday)
+title: PortauxFrancais Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - 
-  - Port-aux-Francais
+  - PortauxFrancais
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

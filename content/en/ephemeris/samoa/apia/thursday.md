@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+13:00
 lastmod: 2023-04-20T00:00:00+13:00
-title: Apia (Thursday)
+title: Apia Thursday
 slug: thursday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+12:00
 lastmod: 2023-04-19T00:00:00+12:00
-title: Mata-Utu (Wednesday)
+title: MataUtu Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Wallis and Futuna Islands
-  - Mata-Utu
+  - MataUtu
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

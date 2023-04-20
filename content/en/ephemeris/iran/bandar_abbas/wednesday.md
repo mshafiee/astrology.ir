@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+03:30
 lastmod: 2023-04-19T00:00:00+03:30
-title: Bandar Abbas (Wednesday)
+title: Bandar Abbas Wednesday
 slug: wednesday
 categories:
   - Ephemeris

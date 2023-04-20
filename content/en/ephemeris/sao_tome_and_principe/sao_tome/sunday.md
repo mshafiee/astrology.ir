@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: Sao Tome (Sunday)
+title: Sao Tome Sunday
 slug: sunday
 categories:
   - Ephemeris

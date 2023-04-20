@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00-03:00
 lastmod: 2023-04-22T00:00:00-03:00
-title: Stanley (Saturday)
+title: Stanley Saturday
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Falkland Islands (Malvinas)
+  - Falkland Islands Malvinas
   - Stanley
 description: 🗓 Saturday, 22 Apr 2023
 

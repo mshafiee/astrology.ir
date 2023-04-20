@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+09:00
 lastmod: 2023-04-23T00:00:00+09:00
-title: Incheon (Sunday)
+title: Incheon Sunday
 slug: sunday
 categories:
   - Ephemeris

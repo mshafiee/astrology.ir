@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Monaco (Wednesday)
+title: Monaco Wednesday
 slug: wednesday
 categories:
   - Ephemeris
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°27'50.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°30'28.66" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°36'21.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°52'46.26" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°15'51.60" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°23'22.68" |Aries|Butain|Sun|
-|☾ Moon|Direct|16°37'5.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°30'28.46" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°36'22.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°52'44.99" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°15'51.95" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°23'21.75" |Aries|Butain|Sun|
+|☾ Moon|Direct|16°25'25.07" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

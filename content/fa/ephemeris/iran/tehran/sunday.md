@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+03:30
 lastmod: 2023-04-23T00:00:00+03:30
-title: تهران (یک‌شنبه)
+title: تهران یک‌شنبه
 slug: sunday
 categories:
   - گاهشمار اختری
@@ -335,8 +335,8 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |♃ هرمز|پیشرو| "۲۸ '۲۶ ۲۴°|بره|بُطَين|ناهید|
 |♂ بهرام|پیشرو| "۱۱ '۴۱ ۱۴°|خرچنگ|طَرفه|تیر|
 |☉ خورشید|پیشرو| "۱۹ '۴۰ ۲°|گاو|ثُرَيَا|تیر|
-|♀ ناهید|پیشرو| "۵۱ '۴۲ ۱۳°|دوپیکر|هَنعه|بهرام|
-|☿ تیر|پسرو| "۵۶ '۲۸ ۱۵°|گاو|دَبَرَان|ماه|
+|♀ ناهید|پیشرو| "۵۰ '۴۲ ۱۳°|دوپیکر|هَنعه|بهرام|
+|☿ تیر|پسرو| "۵۵ '۲۸ ۱۵°|گاو|دَبَرَان|ماه|
 |☾ ماه|پیشرو| "۲ '۵۲ ۸°|دوپیکر|هَنعه|هرمز|
 
 
@@ -378,6 +378,6 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☾ ماه**|□ تربیع|✱ تسدیس| | |☌ مقارنه| |
 
 ---
-نام‌های دیگر: THR, Taekhran, Tahran, Techerane, Teera, Teerao, Teerã, Teerão, Tegeran, Teheran, Teherana, Teheranas, Teherano, Teherán, Teherāna, Tehran, Tehrano, Tekheran, Téhéran, de hei lan, teharan, teharana, tehelan, teheran, tehran, teIrani, thran, thrn, thrwn, tihIran, tihran, Τεχεράνη, Тæхран, Тегеран, Техеран, Теҳрон, Թեհրան, טהראן, טהרן, تهران, تهرون, تِهران, تِهِرَن, تہران, طهران, ܛܗܪܐܢ, तेहरान, তেহরান, தெஹ்ரான், เตหะราน, ཏེ་ཧི་རན
+نام‌های دیگر: THR, Taekhran, Tahran, Techerane, Teera, Teerao, Teerã, Teerão, Tegeran, Teheran, Teherana, Teheranas, Teherano, Teherán, Teherāna, Tehran, Tehrano, Tekheran, Téhéran, de hei lan, teharan, teharana, tehelan, teheran, tehran, teIrani, thran, thrn, thrwn, tihIran, tihran, Τεχεράνη, Тæхран, Тегеран, Техеран, Теҳрон, Թեհրան, טהראן, טהרן, تهران, تهرون, تِهران, تِهِرَن, تہران, طهران, ܛܗܪܐܢ, तेहरान, তেহরান, தெஹ்ரான், เตหะราน, ཏེ་ཧི་རན​།, თეირანი, ቴህራን, テヘラン, 德黑兰, 테헤란
 
 ---

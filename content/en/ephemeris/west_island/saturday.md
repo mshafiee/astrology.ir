@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+06:30
 lastmod: 2023-04-22T00:00:00+06:30
-title: West Island (Saturday)
+title: West Island Saturday
 slug: saturday
 categories:
   - Ephemeris

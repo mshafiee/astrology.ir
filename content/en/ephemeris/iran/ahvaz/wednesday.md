@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+03:30
 lastmod: 2023-04-19T00:00:00+03:30
-title: Ahvaz (Wednesday)
+title: Ahvaz Wednesday
 slug: wednesday
 categories:
   - Ephemeris

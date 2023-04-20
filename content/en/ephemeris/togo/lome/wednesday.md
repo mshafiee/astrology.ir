@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Lome (Wednesday)
+title: Lome Wednesday
 slug: wednesday
 categories:
   - Ephemeris

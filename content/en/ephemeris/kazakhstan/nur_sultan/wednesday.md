@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+06:00
 lastmod: 2023-04-19T00:00:00+06:00
-title: Nur-Sultan (Wednesday)
+title: NurSultan Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Kazakhstan
-  - Nur-Sultan
+  - NurSultan
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

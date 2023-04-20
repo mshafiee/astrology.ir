@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+10:00
 lastmod: 2023-04-23T00:00:00+10:00
-title: Sydney (Sunday)
+title: Sydney Sunday
 slug: sunday
 categories:
   - Ephemeris

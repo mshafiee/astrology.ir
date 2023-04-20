@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+03:30
 lastmod: 2023-04-19T00:00:00+03:30
-title: Shiraz (Wednesday)
+title: Shiraz Wednesday
 slug: wednesday
 categories:
   - Ephemeris
@@ -331,9 +331,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°27'15.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°28'51.92" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|23°28'52.22" |Aries|Butain|Venus|
 |♂ Mars|Direct|12°32'46.54" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|28°46'13.89" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|28°46'15.06" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|9°8'9.04" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°21'55.24" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|15°15'4.89" |Aries|Butain|Sun|

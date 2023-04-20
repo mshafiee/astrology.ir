@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+03:30
 lastmod: 2023-04-20T00:00:00+03:30
-title: Semnan (Thursday)
+title: Semnan Thursday
 slug: thursday
 categories:
   - Ephemeris

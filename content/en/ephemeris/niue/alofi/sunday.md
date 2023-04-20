@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-11:00
 lastmod: 2023-04-23T00:00:00-11:00
-title: Alofi (Sunday)
+title: Alofi Sunday
 slug: sunday
 categories:
   - Ephemeris

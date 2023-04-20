@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-11:00
 lastmod: 2023-04-21T00:00:00-11:00
-title: Pago Pago (Friday)
+title: Pago Pago Friday
 slug: friday
 categories:
   - Ephemeris

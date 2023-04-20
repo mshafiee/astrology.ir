@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00-04:00
 lastmod: 2023-04-20T00:00:00-04:00
-title: Saint George's (Thursday)
+title: Saint Georges Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Grenada
-  - Saint George's
+  - Saint Georges
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

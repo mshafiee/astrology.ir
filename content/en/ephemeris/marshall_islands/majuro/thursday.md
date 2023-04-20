@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+12:00
 lastmod: 2023-04-20T00:00:00+12:00
-title: Majuro (Thursday)
+title: Majuro Thursday
 slug: thursday
 categories:
   - Ephemeris

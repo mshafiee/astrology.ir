@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+03:30
 lastmod: 2023-04-19T00:00:00+03:30
-title: Ilam (Wednesday)
+title: Ilam Wednesday
 slug: wednesday
 categories:
   - Ephemeris
@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|12°33'12.85" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|28°47'1.82" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|9°9'5.68" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°22'5.86" |Aries|Butain|Sun|
-|☾ Moon|Direct|15°23'22.92" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|15°22'6.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°23'26.33" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

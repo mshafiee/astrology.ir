@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+04:30
 lastmod: 2023-04-23T00:00:00+04:30
-title: Mazar-e Sharif (Sunday)
+title: Mazare Sharif Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Afghanistan
-  - Mazar-e Sharif
+  - Mazare Sharif
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

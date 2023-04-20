@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-03:00
 lastmod: 2023-04-20T00:00:00-03:00
-title: Rio de Janeiro (Thursday)
+title: Rio de Janeiro Thursday
 slug: thursday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+03:30
 lastmod: 2023-04-21T00:00:00+03:30
-title: Shahr-e Kord (Friday)
+title: Shahre Kord Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Iran
-  - Shahr-e Kord
+  - Shahre Kord
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

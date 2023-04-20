@@ -1,15 +1,15 @@
 ---
-date: 2023-04-18T00:00:00-04:00
-lastmod: 2023-04-18T00:00:00-04:00
-title: Basse-Terre
-slug: basse_terre
+date: 2023-04-20T00:00:00-04:00
+lastmod: 2023-04-20T00:00:00-04:00
+title: BasseTerre
+slug: basseterre
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Guadeloupe
-  - Basse-Terre
-description: 🗓 Tuesday, 18 Apr 2023
+  - BasseTerre
+description: 🗓 Thursday, 20 Apr 2023
 
 toc: false
 ---
@@ -203,41 +203,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mars|The ruler of the night: Saturn|
+|The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|00:00:00|23:59:59|Creating corruption, hatred, and enmity|
-|2|Sun|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
-|3|Venus|Servant|00:00:00|23:59:59|Attracting connection and marriage proposals|
-|4|Mercury|Servant|00:00:00|23:59:59|Attracting material wealth, prosperity, and business growth|
-|5|Moon|Servant|00:00:00|23:59:59|Attracting negativity and creating chaos|
-|6|Saturn|Servant|00:00:00|23:59:59|Removing negative energy caused by the evil eye|
-|7|Jupiter|Servant|00:00:00|23:59:59|Attracting love, affection, and winning hearts|
-|8|Mars|Ruler|00:00:00|23:59:59|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Sun|Servant|00:00:00|23:59:59|Creating emotional attachment|
-|10|Venus|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
-|11|Mercury|Servant|00:00:00|23:59:59|Attracting connection and marriage proposals|
-|12|Moon|Servant|00:00:00|23:59:59|Creating hatred and corruption to disrupt harmony|
+|1|Jupiter|Ruler|00:00:00|23:59:59|Acquiring material wealth and abundance of livelihood|
+|2|Mars|Servant|00:00:00|23:59:59|Destroying enemies|
+|3|Sun|Servant|00:00:00|23:59:59|Attracting financial and emotional love|
+|4|Venus|Servant|00:00:00|23:59:59|Creating love and connection, and finding a partner|
+|5|Mercury|Servant|00:00:00|23:59:59|Engaging in sensual acts|
+|6|Moon|Servant|00:00:00|23:59:59|Traveling in the physical and spiritual realm|
+|7|Saturn|Servant|00:00:00|23:59:59|Achieving status, position, and attracting opportunities|
+|8|Jupiter|Ruler|00:00:00|23:59:59|Attracting happiness and prosperity|
+|9|Mars|Servant|00:00:00|23:59:59|Attaining status, position, and promoting rank|
+|10|Sun|Servant|00:00:00|23:59:59|Fulfilling needs|
+|11|Venus|Servant|00:00:00|23:59:59|Attracting love, affection, and winning hearts|
+|12|Mercury|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|00:00:00|23:59:59|Creating corruption, hatred, and enmity|
-|2|Jupiter|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
-|3|Mars|Servant|00:00:00|23:59:59|Attracting connection and marriage proposals|
-|4|Sun|Servant|00:00:00|23:59:59|Attracting material wealth, prosperity, and business growth|
-|5|Venus|Servant|00:00:00|23:59:59|Attracting negativity and creating chaos|
-|6|Mercury|Servant|00:00:00|23:59:59|Removing negative energy caused by the evil eye|
-|7|Moon|Servant|00:00:00|23:59:59|Attracting love, affection, and winning hearts|
-|8|Saturn|Ruler|00:00:00|23:59:59|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Jupiter|Servant|00:00:00|23:59:59|Creating emotional attachment|
-|10|Mars|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
-|11|Sun|Servant|00:00:00|23:59:59|Attracting connection and marriage proposals|
-|12|Venus|Servant|00:00:00|23:59:59|Creating hatred and corruption to disrupt harmony|
+|1|Moon|Ruler|00:00:00|23:59:59|Acquiring material wealth and abundance of livelihood|
+|2|Saturn|Servant|00:00:00|23:59:59|Destroying enemies|
+|3|Jupiter|Servant|00:00:00|23:59:59|Attracting financial and emotional love|
+|4|Mars|Servant|00:00:00|23:59:59|Creating love and connection, and finding a partner|
+|5|Sun|Servant|00:00:00|23:59:59|Engaging in sensual acts|
+|6|Venus|Servant|00:00:00|23:59:59|Traveling in the physical and spiritual realm|
+|7|Mercury|Servant|00:00:00|23:59:59|Achieving status, position, and attracting opportunities|
+|8|Moon|Ruler|00:00:00|23:59:59|Attracting happiness and prosperity|
+|9|Saturn|Servant|00:00:00|23:59:59|Attaining status, position, and promoting rank|
+|10|Jupiter|Servant|00:00:00|23:59:59|Fulfilling needs|
+|11|Mars|Servant|00:00:00|23:59:59|Attracting love, affection, and winning hearts|
+|12|Sun|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
 
  
  
@@ -249,7 +249,7 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mars|The ruler of the night: Saturn|
+|The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour duration: 00:00:00|Every hour duration: 00:00:00|
 
@@ -258,24 +258,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|00:00:00|23:59:59|
-|Mid-morning|Sun|Servant|00:00:00|23:59:59|
-|Late morning|Venus|Servant|00:00:00|23:59:59|
-|Noon|Mercury|Servant|00:00:00|23:59:59|
-|Early afternoon|Moon|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Saturn|Servant|00:00:00|23:59:59|
-|Late afternoon|Jupiter|Servant|00:00:00|23:59:59|
+|Early morning|Jupiter|Ruler|00:00:00|23:59:59|
+|Mid-morning|Mars|Servant|00:00:00|23:59:59|
+|Late morning|Sun|Servant|00:00:00|23:59:59|
+|Noon|Venus|Servant|00:00:00|23:59:59|
+|Early afternoon|Mercury|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Moon|Servant|00:00:00|23:59:59|
+|Late afternoon|Saturn|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Saturn|Ruler|00:00:00|23:59:59|
-|Late evening|Jupiter|Servant|00:00:00|23:59:59|
-|Midnight|Mars|Servant|00:00:00|23:59:59|
-|Late at night|Sun|Servant|00:00:00|23:59:59|
-|Rooster song|Venus|Servant|00:00:00|23:59:59|
-|False Dawn|Mercury|Servant|00:00:00|23:59:59|
-|Dawn|Moon|Servant|00:00:00|23:59:59|
+|Evening|Moon|Ruler|00:00:00|23:59:59|
+|Late evening|Saturn|Servant|00:00:00|23:59:59|
+|Midnight|Jupiter|Servant|00:00:00|23:59:59|
+|Late at night|Mars|Servant|00:00:00|23:59:59|
+|Rooster song|Sun|Servant|00:00:00|23:59:59|
+|False Dawn|Venus|Servant|00:00:00|23:59:59|
+|Dawn|Mercury|Servant|00:00:00|23:59:59|
 
 {{< /tab >}}
 

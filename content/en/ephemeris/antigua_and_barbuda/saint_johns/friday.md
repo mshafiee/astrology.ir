@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00-04:00
 lastmod: 2023-04-21T00:00:00-04:00
-title: Saint John's (Friday)
+title: Saint Johns Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Antigua and Barbuda
-  - Saint John's
+  - Saint Johns
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

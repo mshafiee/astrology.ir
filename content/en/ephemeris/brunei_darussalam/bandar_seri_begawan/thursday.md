@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: Bandar Seri Begawan (Thursday)
+title: Bandar Seri Begawan Thursday
 slug: thursday
 categories:
   - Ephemeris

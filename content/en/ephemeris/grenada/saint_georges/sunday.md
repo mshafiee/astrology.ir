@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: Saint George's (Sunday)
+title: Saint Georges Sunday
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Grenada
-  - Saint George's
+  - Saint Georges
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

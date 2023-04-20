@@ -1,13 +1,13 @@
 ---
 date: 2023-04-20T00:00:00-04:00
 lastmod: 2023-04-20T00:00:00-04:00
-title: Charlotte Amalie (Thursday)
+title: Charlotte Amalie Thursday
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Virgin Islands (US)
+  - Virgin Islands US
   - Charlotte Amalie
 description: 🗓 Thursday, 20 Apr 2023
 

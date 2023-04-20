@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+12:00
 lastmod: 2023-04-22T00:00:00+12:00
-title: Tarawa (Saturday)
+title: Tarawa Saturday
 slug: saturday
 categories:
   - Ephemeris

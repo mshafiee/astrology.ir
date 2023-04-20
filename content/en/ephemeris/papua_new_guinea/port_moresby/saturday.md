@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+10:00
 lastmod: 2023-04-22T00:00:00+10:00
-title: Port Moresby (Saturday)
+title: Port Moresby Saturday
 slug: saturday
 categories:
   - Ephemeris

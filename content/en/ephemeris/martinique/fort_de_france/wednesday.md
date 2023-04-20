@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: Fort-de-France (Wednesday)
+title: FortdeFrance Wednesday
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Martinique
-  - Fort-de-France
+  - FortdeFrance
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

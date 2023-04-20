@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Casablanca (Wednesday)
+title: Casablanca Wednesday
 slug: wednesday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+03:00
 lastmod: 2023-04-21T00:00:00+03:00
-title: Rostov-na-Donu (Friday)
+title: RostovnaDonu Friday
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Rostov-na-Donu
+  - RostovnaDonu
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

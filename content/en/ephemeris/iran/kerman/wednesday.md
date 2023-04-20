@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+03:30
 lastmod: 2023-04-19T00:00:00+03:30
-title: Kerman (Wednesday)
+title: Kerman Wednesday
 slug: wednesday
 categories:
   - Ephemeris

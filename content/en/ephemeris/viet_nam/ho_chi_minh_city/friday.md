@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+07:00
 lastmod: 2023-04-21T00:00:00+07:00
-title: Ho Chi Minh City (Friday)
+title: Ho Chi Minh City Friday
 slug: friday
 categories:
   - Ephemeris
