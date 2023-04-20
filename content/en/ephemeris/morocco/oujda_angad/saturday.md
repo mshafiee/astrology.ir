@@ -162,9 +162,9 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |♎ Libra|18:29:20|20:55:06|
 |♏ Scorpio|20:55:07|23:14:26|
 |♐ Sagittarius|23:14:27|01:11:51|
-|♑ Capricorn|01:11:52|03:44:41|
-|♒ Aquarius|03:44:42|05:03:49|
-|♓ Pisces|05:03:50|06:30:13|
+|♑ Capricorn|01:11:52|02:44:41|
+|♒ Aquarius|02:44:42|04:03:49|
+|♓ Pisces|04:03:50|05:30:13|
 
 
 {{< /tab >}}
@@ -184,9 +184,9 @@ Earth movement calendar in twelve houses based on tropical calculations
 |♏ Scorpio|18:29:20|20:55:06|
 |♐ Sagittarius|20:55:07|23:14:26|
 |♑ Capricorn|23:14:27|01:11:51|
-|♒ Aquarius|01:11:52|03:44:41|
-|♓ Pisces|03:44:42|05:03:49|
-|♈ Aries|05:03:50|06:30:13|
+|♒ Aquarius|01:11:52|02:44:41|
+|♓ Pisces|02:44:42|04:03:49|
+|♈ Aries|04:03:50|05:30:13|
 
 
 {{< /tab >}}
@@ -234,10 +234,10 @@ Timetable of twelve day and night planetary hours
 |6|Sun|Servant|23:12:23|00:05:51|Avoiding any harmful action|
 |7|Venus|Servant|00:05:52|00:59:19|Destroying enemies|
 |8|Mercury|Ruler|00:59:20|01:52:47|Performing all good deeds|
-|9|Moon|Servant|01:52:48|03:46:16|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:46:17|04:39:44|Achieving marital harmony|
-|11|Jupiter|Servant|04:39:45|05:33:12|Gaining respect and honor|
-|12|Mars|Servant|05:33:13|06:26:41||
+|9|Moon|Servant|01:52:48|02:46:16|Performing evil deeds for the purpose of gaining power and control|
+|10|Saturn|Servant|02:46:17|03:39:44|Achieving marital harmony|
+|11|Jupiter|Servant|03:39:45|04:33:12|Gaining respect and honor|
+|12|Mars|Servant|04:33:13|05:26:41||
 
  
  
@@ -273,9 +273,9 @@ Timetable of septet day and night planetary hours
 |Late evening|Moon|Servant|20:16:42|21:48:21|
 |Midnight|Saturn|Servant|21:48:22|23:20:01|
 |Late at night|Jupiter|Servant|23:20:02|00:51:41|
-|Rooster song|Mars|Servant|00:51:42|03:23:21|
-|False Dawn|Sun|Servant|03:23:22|04:55:01|
-|Dawn|Venus|Servant|04:55:02|06:26:41|
+|Rooster song|Mars|Servant|00:51:42|02:23:21|
+|False Dawn|Sun|Servant|02:23:22|03:55:01|
+|Dawn|Venus|Servant|03:55:02|05:26:41|
 
 {{< /tab >}}
 

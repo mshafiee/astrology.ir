@@ -162,9 +162,9 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |♎ Libra|18:46:54|21:13:12|
 |♏ Scorpio|21:13:13|23:32:46|
 |♐ Sagittarius|23:32:47|01:29:56|
-|♑ Capricorn|01:29:57|04:02:15|
-|♒ Aquarius|04:02:16|05:20:46|
-|♓ Pisces|05:20:47|06:47:10|
+|♑ Capricorn|01:29:57|03:02:15|
+|♒ Aquarius|03:02:16|04:20:46|
+|♓ Pisces|04:20:47|05:47:10|
 
 
 {{< /tab >}}
@@ -184,9 +184,9 @@ Earth movement calendar in twelve houses based on tropical calculations
 |♏ Scorpio|18:46:54|21:13:12|
 |♐ Sagittarius|21:13:13|23:32:46|
 |♑ Capricorn|23:32:47|01:29:56|
-|♒ Aquarius|01:29:57|04:02:15|
-|♓ Pisces|04:02:16|05:20:46|
-|♈ Aries|05:20:47|06:47:10|
+|♒ Aquarius|01:29:57|03:02:15|
+|♓ Pisces|03:02:16|04:20:46|
+|♈ Aries|04:20:47|05:47:10|
 
 
 {{< /tab >}}
@@ -233,11 +233,11 @@ Timetable of twelve day and night planetary hours
 |5|Mars|Servant|22:36:12|23:29:30|Writing, exchanging, and signing contracts|
 |6|Sun|Servant|23:29:31|00:22:50|Avoiding any harmful action|
 |7|Venus|Servant|00:22:51|01:16:09|Destroying enemies|
-|8|Mercury|Ruler|01:16:10|03:09:28|Performing all good deeds|
-|9|Moon|Servant|03:09:29|04:02:47|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|04:02:48|04:56:06|Achieving marital harmony|
-|11|Jupiter|Servant|04:56:07|05:49:25|Gaining respect and honor|
-|12|Mars|Servant|05:49:26|06:42:45||
+|8|Mercury|Ruler|01:16:10|02:09:28|Performing all good deeds|
+|9|Moon|Servant|02:09:29|03:02:47|Performing evil deeds for the purpose of gaining power and control|
+|10|Saturn|Servant|03:02:48|03:56:06|Achieving marital harmony|
+|11|Jupiter|Servant|03:56:07|04:49:25|Gaining respect and honor|
+|12|Mars|Servant|04:49:26|05:42:45||
 
  
  
@@ -273,9 +273,9 @@ Timetable of septet day and night planetary hours
 |Late evening|Moon|Servant|20:34:20|22:05:43|
 |Midnight|Saturn|Servant|22:05:44|23:37:07|
 |Late at night|Jupiter|Servant|23:37:08|01:08:32|
-|Rooster song|Mars|Servant|01:08:33|03:39:56|
-|False Dawn|Sun|Servant|03:39:57|05:11:20|
-|Dawn|Venus|Servant|05:11:21|06:42:45|
+|Rooster song|Mars|Servant|01:08:33|02:39:56|
+|False Dawn|Sun|Servant|02:39:57|04:11:20|
+|Dawn|Venus|Servant|04:11:21|05:42:45|
 
 {{< /tab >}}
 
