@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: VelezMalaga
-slug: velezmalaga
+title: Velez-Malaga
+slug: velez_malaga
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Spain
-  - VelezMalaga
+  - Velez-Malaga
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00+07:00
 lastmod: 2023-04-19T00:00:00+07:00
-title: Vientiane Wednesday
+title: Vientiane (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Lao Peoples Dem Rep
+  - Lao People's Dem. Rep.
   - Vientiane
 description: 🗓 Wednesday, 19 Apr 2023
 

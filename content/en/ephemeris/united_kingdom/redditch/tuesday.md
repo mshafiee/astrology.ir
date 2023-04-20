@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+01:00
 lastmod: 2023-04-18T00:00:00+01:00
-title: Redditch Tuesday
+title: Redditch (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
@@ -292,7 +292,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°22'42.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°16'15.49" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°16'15.50" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|12°4'56.27" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°55'0.76" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°7'52.24" |Taurus|Thurayya|Mercury|

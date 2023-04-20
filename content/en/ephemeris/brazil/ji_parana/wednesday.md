@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: Ji Parana Wednesday
+title: Ji Parana (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

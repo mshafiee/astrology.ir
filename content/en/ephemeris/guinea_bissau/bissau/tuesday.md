@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: Bissau Tuesday
+title: Bissau (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - GuineaBissau
+  - Guinea-Bissau
   - Bissau
 description: 🗓 Tuesday, 18 Apr 2023
 

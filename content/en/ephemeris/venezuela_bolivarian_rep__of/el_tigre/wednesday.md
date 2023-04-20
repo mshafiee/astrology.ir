@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: El Tigre Wednesday
+title: El Tigre (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep of
+  - Venezuela, Bolivarian Rep. of
   - El Tigre
 description: 🗓 Wednesday, 19 Apr 2023
 

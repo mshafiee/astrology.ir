@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+05:30
 lastmod: 2023-04-21T00:00:00+05:30
-title: Ferozepore Friday
+title: Ferozepore (Friday)
 slug: friday
 categories:
   - Ephemeris

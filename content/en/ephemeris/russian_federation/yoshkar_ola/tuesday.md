@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+03:00
 lastmod: 2023-04-18T00:00:00+03:00
-title: YoshkarOla Tuesday
+title: Yoshkar-Ola (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - YoshkarOla
+  - Yoshkar-Ola
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

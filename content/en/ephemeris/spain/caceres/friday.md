@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+02:00
 lastmod: 2023-04-21T00:00:00+02:00
-title: Caceres Friday
+title: Caceres (Friday)
 slug: friday
 categories:
   - Ephemeris
@@ -331,7 +331,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'17.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'56.01" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|23°59'55.97" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°41'47.77" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°52'26.26" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°36'26.91" |Gemini|HanAh|Mars|

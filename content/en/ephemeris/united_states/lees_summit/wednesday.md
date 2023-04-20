@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-05:00
 lastmod: 2023-04-19T00:00:00-05:00
-title: Lees Summit Wednesday
+title: Lee's Summit (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - Lees Summit
+  - Lee's Summit
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

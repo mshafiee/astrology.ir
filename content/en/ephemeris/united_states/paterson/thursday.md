@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-04:00
 lastmod: 2023-04-20T00:00:00-04:00
-title: Paterson Thursday
+title: Paterson (Thursday)
 slug: thursday
 categories:
   - Ephemeris

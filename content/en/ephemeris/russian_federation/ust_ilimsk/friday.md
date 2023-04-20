@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+08:00
 lastmod: 2023-04-21T00:00:00+08:00
-title: UstIlimsk Friday
+title: Ust'-Ilimsk (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - UstIlimsk
+  - Ust'-Ilimsk
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

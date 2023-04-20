@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: ClermontFerrand Tuesday
+title: Clermont-Ferrand (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - France
-  - ClermontFerrand
+  - Clermont-Ferrand
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

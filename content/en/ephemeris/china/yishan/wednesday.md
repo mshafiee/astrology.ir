@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Yishan Wednesday
+title: Yishan (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

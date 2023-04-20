@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00-05:00
 lastmod: 2023-04-21T00:00:00-05:00
-title: St Louis Friday
+title: St. Louis (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - St Louis
+  - St. Louis
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

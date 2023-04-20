@@ -1,14 +1,14 @@
 ---
 date: 2023-04-24T00:00:00+05:00
 lastmod: 2023-04-24T00:00:00+05:00
-title: Oktyabrskiy Monday
+title: Oktyabr'skiy (Monday)
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Oktyabrskiy
+  - Oktyabr'skiy
 description: 🗓 Monday, 24 Apr 2023
 
 toc: false

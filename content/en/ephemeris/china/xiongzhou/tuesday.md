@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+08:00
 lastmod: 2023-04-18T00:00:00+08:00
-title: Xiongzhou Tuesday
+title: Xiongzhou (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

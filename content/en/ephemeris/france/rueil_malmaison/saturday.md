@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: RueilMalmaison Saturday
+title: Rueil-Malmaison (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - France
-  - RueilMalmaison
+  - Rueil-Malmaison
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

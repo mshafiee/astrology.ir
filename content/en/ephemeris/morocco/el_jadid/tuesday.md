@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: El Jadid Tuesday
+title: El Jadid (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

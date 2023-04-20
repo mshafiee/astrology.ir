@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+01:00
 lastmod: 2023-04-24T00:00:00+01:00
-title: Porto Monday
+title: Porto (Monday)
 slug: monday
 categories:
   - Ephemeris
@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°18'43.71" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°48'9.32" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°2'8.34" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'3.87" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°14'2.81" |Aries|Butain|Sun|
 |☾ Moon|Direct|23°24'10.39" |Taurus|HaqAh|Saturn|
 
 

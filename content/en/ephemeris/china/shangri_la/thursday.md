@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: ShangriLa Thursday
+title: Shangri-La (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - ShangriLa
+  - Shangri-La
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-05:00
 lastmod: 2023-04-19T00:00:00-05:00
-title: Zipaquira Wednesday
+title: Zipaquira (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

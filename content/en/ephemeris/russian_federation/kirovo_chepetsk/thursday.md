@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+03:00
 lastmod: 2023-04-20T00:00:00+03:00
-title: KirovoChepetsk Thursday
+title: Kirovo-Chepetsk (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - KirovoChepetsk
+  - Kirovo-Chepetsk
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

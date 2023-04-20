@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Atakpame Wednesday
+title: Atakpame (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

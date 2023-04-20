@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+03:30
 lastmod: 2023-04-23T00:00:00+03:30
-title: Torbate Heydariyeh Sunday
+title: Torbat-e Heydariyeh (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
-  - Torbate Heydariyeh
+  - Iran, Islamic Rep. of
+  - Torbat-e Heydariyeh
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

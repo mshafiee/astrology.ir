@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-03:00
 lastmod: 2023-04-19T00:00:00-03:00
 title: San Ramon de la Nueva Oran
-slug: sanramondelanuevaoran
+slug: san_ramon_de_la_nueva_oran
 categories:
   - Ephemeris
 tags:

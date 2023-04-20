@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+08:00
 lastmod: 2023-04-21T00:00:00+08:00
-title: Fenghua Friday
+title: Fenghua (Friday)
 slug: friday
 categories:
   - Ephemeris
@@ -294,9 +294,9 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°36'32.94" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°54'56.90" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°30'40.80" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°31'59.23" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°32'11.27" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°12'40.55" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'30.81" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°36'45.88" |Aries|Butain|Sun|
 |☾ Moon|Direct|10°11'51.38" |Aries|Sharatain|Sun|
 
 

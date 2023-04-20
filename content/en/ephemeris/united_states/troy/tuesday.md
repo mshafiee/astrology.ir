@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-04:00
 lastmod: 2023-04-18T00:00:00-04:00
-title: Troy Tuesday
+title: Troy (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

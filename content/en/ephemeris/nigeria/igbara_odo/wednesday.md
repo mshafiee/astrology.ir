@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: IgbaraOdo Wednesday
+title: Igbara-Odo (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - IgbaraOdo
+  - Igbara-Odo
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

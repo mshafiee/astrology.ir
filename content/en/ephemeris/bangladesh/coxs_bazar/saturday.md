@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+06:00
 lastmod: 2023-04-22T00:00:00+06:00
-title: Coxs Bazar Saturday
+title: Cox's Bazar (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Bangladesh
-  - Coxs Bazar
+  - Cox's Bazar
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
 title: East Chattanooga
-slug: eastchattanooga
+slug: east_chattanooga
 categories:
   - Ephemeris
 tags:

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+03:00
 lastmod: 2023-04-20T00:00:00+03:00
-title: KamianetsPodilskyi Thursday
+title: Kamianets-Podilskyi (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Ukraine
-  - KamianetsPodilskyi
+  - Kamianets-Podilskyi
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

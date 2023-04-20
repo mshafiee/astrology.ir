@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-07:00
 lastmod: 2023-04-19T00:00:00-07:00
 title: San Ramon
-slug: sanramon
+slug: san_ramon
 categories:
   - Ephemeris
 tags:

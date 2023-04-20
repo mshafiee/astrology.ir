@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: KirovoChepetsk
-slug: kirovochepetsk
+title: Kirovo-Chepetsk
+slug: kirovo_chepetsk
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - KirovoChepetsk
+  - Kirovo-Chepetsk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

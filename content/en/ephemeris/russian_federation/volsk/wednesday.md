@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+04:00
 lastmod: 2023-04-19T00:00:00+04:00
-title: Volsk Wednesday
+title: Vol'sk (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Volsk
+  - Vol'sk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

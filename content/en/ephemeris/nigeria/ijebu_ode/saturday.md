@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+01:00
 lastmod: 2023-04-22T00:00:00+01:00
-title: IjebuOde Saturday
+title: Ijebu-Ode (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - IjebuOde
+  - Ijebu-Ode
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

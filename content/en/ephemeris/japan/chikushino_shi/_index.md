@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Chikushinoshi
-slug: chikushinoshi
+title: Chikushino-shi
+slug: chikushino_shi
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Chikushinoshi
+  - Chikushino-shi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

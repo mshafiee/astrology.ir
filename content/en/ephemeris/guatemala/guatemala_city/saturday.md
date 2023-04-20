@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-06:00
 lastmod: 2023-04-22T00:00:00-06:00
-title: Guatemala City Saturday
+title: Guatemala City (Saturday)
 slug: saturday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-05:00
 lastmod: 2023-04-19T00:00:00-05:00
-title: OFallon
+title: O'Fallon
 slug: ofallon
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - OFallon
+  - O'Fallon
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

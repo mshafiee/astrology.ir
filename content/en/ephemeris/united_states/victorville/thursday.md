@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-07:00
 lastmod: 2023-04-20T00:00:00-07:00
-title: Victorville Thursday
+title: Victorville (Thursday)
 slug: thursday
 categories:
   - Ephemeris

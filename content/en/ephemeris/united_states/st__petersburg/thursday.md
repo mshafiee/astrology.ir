@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00-04:00
 lastmod: 2023-04-20T00:00:00-04:00
-title: St Petersburg Thursday
+title: St. Petersburg (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - St Petersburg
+  - St. Petersburg
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

@@ -7,7 +7,7 @@ categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
+  - Iran, Islamic Rep. of
   - Zabol
 description: 🗓 Wednesday, 19 Apr 2023
 

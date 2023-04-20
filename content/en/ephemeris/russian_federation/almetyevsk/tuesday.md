@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+03:00
 lastmod: 2023-04-18T00:00:00+03:00
-title: Almetyevsk Tuesday
+title: Al'met'yevsk (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Almetyevsk
+  - Al'met'yevsk
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

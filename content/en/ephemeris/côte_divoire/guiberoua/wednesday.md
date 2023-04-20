@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Guiberoua Wednesday
+title: Guiberoua (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Guiberoua
 description: 🗓 Wednesday, 19 Apr 2023
 

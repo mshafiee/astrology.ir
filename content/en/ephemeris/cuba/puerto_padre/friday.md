@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-04:00
 lastmod: 2023-04-21T00:00:00-04:00
-title: Puerto Padre Friday
+title: Puerto Padre (Friday)
 slug: friday
 categories:
   - Ephemeris
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°4'46.93" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°50'54.67" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°37'24.59" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°45'32.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°45'51.55" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

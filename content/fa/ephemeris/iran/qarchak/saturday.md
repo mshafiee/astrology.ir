@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+03:30
 lastmod: 2023-04-22T00:00:00+03:30
-title: قرچک شنبه
+title: قرچک (شنبه)
 slug: saturday
 categories:
   - گاهشمار اختری

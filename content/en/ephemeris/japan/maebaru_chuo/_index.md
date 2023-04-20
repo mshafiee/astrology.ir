@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Maebaruchuo
-slug: maebaruchuo
+title: Maebaru-chuo
+slug: maebaru_chuo
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Maebaruchuo
+  - Maebaru-chuo
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

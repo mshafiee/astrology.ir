@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+01:00
 lastmod: 2023-04-23T00:00:00+01:00
-title: EfonAlaaye Sunday
+title: Efon-Alaaye (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - EfonAlaaye
+  - Efon-Alaaye
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

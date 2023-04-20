@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Kochi Wednesday
+title: Kochi (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

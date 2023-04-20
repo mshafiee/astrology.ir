@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+01:00
 lastmod: 2023-04-21T00:00:00+01:00
-title: EmureEkiti Friday
+title: Emure-Ekiti (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - EmureEkiti
+  - Emure-Ekiti
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-04:00
 lastmod: 2023-04-20T00:00:00-04:00
-title: Holguin Thursday
+title: Holguin (Thursday)
 slug: thursday
 categories:
   - Ephemeris
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: HOG,  Holginas,  Holguin,  Holguín,  Holquin,  Ol'gin,  Olgin,  ao er jin,  olgini,  orugin,  ʼwlgyn,  Олгин,  Ольгин,  Ольгін,  אולגין,  ოლგინი,  オルギン,  奧爾金

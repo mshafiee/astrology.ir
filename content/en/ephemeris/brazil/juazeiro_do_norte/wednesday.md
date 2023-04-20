@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-03:00
 lastmod: 2023-04-19T00:00:00-03:00
-title: Juazeiro do Norte Wednesday
+title: Juazeiro do Norte (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

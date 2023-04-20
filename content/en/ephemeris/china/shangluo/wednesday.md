@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Shangluo Wednesday
+title: Shangluo (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

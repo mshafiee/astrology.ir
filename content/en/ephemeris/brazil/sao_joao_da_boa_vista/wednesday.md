@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-03:00
 lastmod: 2023-04-19T00:00:00-03:00
-title: Sao Joao da Boa Vista Wednesday
+title: Sao Joao da Boa Vista (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

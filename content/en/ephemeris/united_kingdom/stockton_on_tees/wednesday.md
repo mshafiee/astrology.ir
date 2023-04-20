@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: StocktononTees Wednesday
+title: Stockton-on-Tees (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United Kingdom
-  - StocktononTees
+  - Stockton-on-Tees
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

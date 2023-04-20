@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Tanza Wednesday
+title: Tanza (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°26'19.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°26'15.79" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|23°26'15.74" |Aries|Butain|Venus|
 |♂ Mars|Direct|12°27'0.81" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|28°35'40.20" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|28°35'39.95" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|8°55'42.51" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°19'22.56" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°52'52.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°50'50.63" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+02:00
 lastmod: 2023-04-21T00:00:00+02:00
-title: San Sebastian Friday
+title: San Sebastian (Friday)
 slug: friday
 categories:
   - Ephemeris

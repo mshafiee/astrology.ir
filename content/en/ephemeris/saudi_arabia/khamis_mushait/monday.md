@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+03:00
 lastmod: 2023-04-24T00:00:00+03:00
-title: Khamis Mushait Monday
+title: Khamis Mushait (Monday)
 slug: monday
 categories:
   - Ephemeris

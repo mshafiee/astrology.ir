@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+07:00
 lastmod: 2023-04-23T00:00:00+07:00
-title: LeninskKuznetsky Sunday
+title: Leninsk-Kuznetsky (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - LeninskKuznetsky
+  - Leninsk-Kuznetsky
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

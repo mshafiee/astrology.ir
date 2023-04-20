@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+12:00
 lastmod: 2023-04-23T00:00:00+12:00
-title: PetropavlovskKamchatsky Sunday
+title: Petropavlovsk-Kamchatsky (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - PetropavlovskKamchatsky
+  - Petropavlovsk-Kamchatsky
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

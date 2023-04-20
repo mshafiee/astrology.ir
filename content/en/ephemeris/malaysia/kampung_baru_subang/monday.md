@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+08:00
 lastmod: 2023-04-24T00:00:00+08:00
-title: Kampung Baru Subang Monday
+title: Kampung Baru Subang (Monday)
 slug: monday
 categories:
   - Ephemeris

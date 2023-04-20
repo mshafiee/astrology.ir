@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: sHertogenbosch
-slug: shertogenbosch
+title: 's-Hertogenbosch
+slug: s_hertogenbosch
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Netherlands
-  - sHertogenbosch
+  - 's-Hertogenbosch
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

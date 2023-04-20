@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-04:00
 lastmod: 2023-04-18T00:00:00-04:00
-title: Montreal Tuesday
+title: Montreal (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

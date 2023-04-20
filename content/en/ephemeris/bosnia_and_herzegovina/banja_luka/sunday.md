@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+02:00
 lastmod: 2023-04-23T00:00:00+02:00
-title: Banja Luka Sunday
+title: Banja Luka (Sunday)
 slug: sunday
 categories:
   - Ephemeris

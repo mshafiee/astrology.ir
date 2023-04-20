@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-04:00
 lastmod: 2023-04-18T00:00:00-04:00
-title: New Britain Tuesday
+title: New Britain (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
@@ -292,7 +292,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°23'48.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°19'17.68" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°19'17.22" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|12°11'37.86" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|28°7'21.14" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°22'23.59" |Taurus|Thurayya|Mercury|

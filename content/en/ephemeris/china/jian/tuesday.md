@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+08:00
 lastmod: 2023-04-18T00:00:00+08:00
-title: Jian Tuesday
+title: Ji'an (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Jian
+  - Ji'an
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

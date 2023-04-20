@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Tetouan Wednesday
+title: Tetouan (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

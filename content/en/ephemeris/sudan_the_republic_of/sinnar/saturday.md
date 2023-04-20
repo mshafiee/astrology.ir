@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Sinnar Saturday
+title: Sinnar (Saturday)
 slug: saturday
 categories:
   - Ephemeris
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'52.19" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°13'2.60" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°11'7.81" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°45'42.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°38'57.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'39.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°12'7.23" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|14°11'4.35" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°45'43.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°38'54.40" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'39.36" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°2'58.12" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

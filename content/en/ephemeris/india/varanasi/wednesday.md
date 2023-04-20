@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+05:30
 lastmod: 2023-04-19T00:00:00+05:30
-title: Varanasi Wednesday
+title: Varanasi (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

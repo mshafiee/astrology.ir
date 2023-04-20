@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00-04:00
 lastmod: 2023-04-18T00:00:00-04:00
-title: Villa de Cura Tuesday
+title: Villa de Cura (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep of
+  - Venezuela, Bolivarian Rep. of
   - Villa de Cura
 description: 🗓 Tuesday, 18 Apr 2023
 

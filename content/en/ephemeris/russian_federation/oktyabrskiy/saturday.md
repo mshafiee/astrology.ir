@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+05:00
 lastmod: 2023-04-22T00:00:00+05:00
-title: Oktyabrskiy Saturday
+title: Oktyabr'skiy (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Oktyabrskiy
+  - Oktyabr'skiy
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

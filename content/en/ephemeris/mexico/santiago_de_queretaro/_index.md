@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: Santiago de Queretaro
-slug: santiagodequeretaro
+slug: santiago_de_queretaro
 categories:
   - Ephemeris
 tags:

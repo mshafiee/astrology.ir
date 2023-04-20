@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-03:00
 lastmod: 2023-04-19T00:00:00-03:00
-title: Duque de Caxias Wednesday
+title: Duque de Caxias (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

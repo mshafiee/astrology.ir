@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: BoboDioulasso Wednesday
+title: Bobo-Dioulasso (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Burkina Faso
-  - BoboDioulasso
+  - Bobo-Dioulasso
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

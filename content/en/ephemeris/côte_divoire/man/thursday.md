@@ -1,13 +1,13 @@
 ---
 date: 2023-04-20T00:00:00Z
 lastmod: 2023-04-20T00:00:00Z
-title: Man Thursday
+title: Man (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Man
 description: 🗓 Thursday, 20 Apr 2023
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+10:00
 lastmod: 2023-04-19T00:00:00+10:00
-title: Logan City Wednesday
+title: Logan City (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

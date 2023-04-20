@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+01:00
 lastmod: 2023-04-20T00:00:00+01:00
-title: Bordj el Kiffan Thursday
+title: Bordj el Kiffan (Thursday)
 slug: thursday
 categories:
   - Ephemeris

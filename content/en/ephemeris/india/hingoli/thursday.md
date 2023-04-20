@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+05:30
 lastmod: 2023-04-20T00:00:00+05:30
-title: Hingoli Thursday
+title: Hingoli (Thursday)
 slug: thursday
 categories:
   - Ephemeris
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'6.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°42'24.46" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°2'47.24" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°41'14.71" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°12'50.14" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'7.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°26'45.30" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°42'24.54" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°2'47.07" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°41'15.19" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°12'50.23" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'8.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°30'3.96" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

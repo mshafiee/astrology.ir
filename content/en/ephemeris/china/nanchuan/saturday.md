@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+08:00
 lastmod: 2023-04-22T00:00:00+08:00
-title: Nanchuan Saturday
+title: Nanchuan (Saturday)
 slug: saturday
 categories:
   - Ephemeris

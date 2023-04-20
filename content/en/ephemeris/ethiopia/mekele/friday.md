@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+03:00
 lastmod: 2023-04-21T00:00:00+03:00
-title: Mekele Friday
+title: Mek'ele (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Ethiopia
-  - Mekele
+  - Mek'ele
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

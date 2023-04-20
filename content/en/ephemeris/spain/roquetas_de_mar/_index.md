@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
 title: Roquetas de Mar
-slug: roquetasdemar
+slug: roquetas_de_mar
 categories:
   - Ephemeris
 tags:

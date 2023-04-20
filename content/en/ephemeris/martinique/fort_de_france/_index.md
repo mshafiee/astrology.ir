@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: FortdeFrance
-slug: fortdefrance
+title: Fort-de-France
+slug: fort_de_france
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Martinique
-  - FortdeFrance
+  - Fort-de-France
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

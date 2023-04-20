@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: Zarzis Wednesday
+title: Zarzis (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°27'50.63" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°30'28.48" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°36'20.35" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|12°36'19.28" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|28°52'45.95" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|9°15'50.58" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°23'24.19" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°45'55.03" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°3'0.85" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

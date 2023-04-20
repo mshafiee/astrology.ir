@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+09:00
 lastmod: 2023-04-24T00:00:00+09:00
-title: Kiryu Monday
+title: Kiryu (Monday)
 slug: monday
 categories:
   - Ephemeris

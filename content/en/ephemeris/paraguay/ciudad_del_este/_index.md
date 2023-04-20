@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
 title: Ciudad del Este
-slug: ciudaddeleste
+slug: ciudad_del_este
 categories:
   - Ephemeris
 tags:

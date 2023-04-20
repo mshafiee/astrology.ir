@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: IgedeEkiti
-slug: igedeekiti
+title: Igede-Ekiti
+slug: igede_ekiti
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - IgedeEkiti
+  - Igede-Ekiti
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

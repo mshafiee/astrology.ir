@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-03:00
 lastmod: 2023-04-18T00:00:00-03:00
-title: San Ramon de la Nueva Oran Tuesday
+title: San Ramon de la Nueva Oran (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

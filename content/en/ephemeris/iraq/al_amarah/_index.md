@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Al Amarah
-slug: alamarah
+title: Al 'Amarah
+slug: al_amarah
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Iraq
-  - Al Amarah
+  - Al 'Amarah
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

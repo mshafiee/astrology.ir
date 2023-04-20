@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+01:00
 lastmod: 2023-04-22T00:00:00+01:00
-title: Mocamedes Saturday
+title: Mocamedes (Saturday)
 slug: saturday
 categories:
   - Ephemeris

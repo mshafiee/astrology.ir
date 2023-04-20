@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Pisa Saturday
+title: Pisa (Saturday)
 slug: saturday
 categories:
   - Ephemeris

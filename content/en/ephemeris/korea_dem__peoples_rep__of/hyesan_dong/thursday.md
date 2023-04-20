@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Hyesandong Thursday
+title: Hyesan-dong (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem Peoples Rep of
-  - Hyesandong
+  - Korea, Dem. People's Rep. of
+  - Hyesan-dong
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

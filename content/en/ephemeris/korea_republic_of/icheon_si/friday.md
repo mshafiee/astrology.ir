@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Icheonsi Friday
+title: Icheon-si (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Icheonsi
+  - Icheon-si
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

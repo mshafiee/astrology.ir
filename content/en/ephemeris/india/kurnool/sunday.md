@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+05:30
 lastmod: 2023-04-23T00:00:00+05:30
-title: Kurnool Sunday
+title: Kurnool (Sunday)
 slug: sunday
 categories:
   - Ephemeris

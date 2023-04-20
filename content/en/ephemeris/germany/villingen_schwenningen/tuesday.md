@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: VillingenSchwenningen Tuesday
+title: Villingen-Schwenningen (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Germany
-  - VillingenSchwenningen
+  - Villingen-Schwenningen
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

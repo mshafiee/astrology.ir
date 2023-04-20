@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: El Puerto de Santa Maria Wednesday
+title: El Puerto de Santa Maria (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

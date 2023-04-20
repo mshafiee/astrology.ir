@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+06:30
 lastmod: 2023-04-19T00:00:00+06:30
-title: Mandalay Wednesday
+title: Mandalay (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

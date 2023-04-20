@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: MolenbeekSaintJean Saturday
+title: Molenbeek-Saint-Jean (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Belgium
-  - MolenbeekSaintJean
+  - Molenbeek-Saint-Jean
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

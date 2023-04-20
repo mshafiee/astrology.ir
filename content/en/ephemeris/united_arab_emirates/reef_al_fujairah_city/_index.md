@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+04:00
 lastmod: 2023-04-19T00:00:00+04:00
 title: Reef Al Fujairah City
-slug: reefalfujairahcity
+slug: reef_al_fujairah_city
 categories:
   - Ephemeris
 tags:

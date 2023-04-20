@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+03:00
 lastmod: 2023-04-21T00:00:00+03:00
-title: Qalat Bishah Friday
+title: Qal`at Bishah (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Saudi Arabia
-  - Qalat Bishah
+  - Qal`at Bishah
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false
@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°37'41.79" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°58'12.71" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°37'56.89" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°45'27.21" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°45'27.37" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°28'14.14" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°37'15.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°21'39.51" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°22'39.95" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

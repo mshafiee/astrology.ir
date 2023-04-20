@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+02:00
 lastmod: 2023-04-24T00:00:00+02:00
-title: Santiago de Compostela Monday
+title: Santiago de Compostela (Monday)
 slug: monday
 categories:
   - Ephemeris

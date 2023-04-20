@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+11:00
 lastmod: 2023-04-18T00:00:00+11:00
-title: Magadan Tuesday
+title: Magadan (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|27°29'19.52" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|7°37'36.57" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Retrograde|14°58'30.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°12'44.73" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|25°41'19.09" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

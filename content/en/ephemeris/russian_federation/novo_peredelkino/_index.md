@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: NovoPeredelkino
-slug: novoperedelkino
+title: Novo-Peredelkino
+slug: novo_peredelkino
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - NovoPeredelkino
+  - Novo-Peredelkino
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

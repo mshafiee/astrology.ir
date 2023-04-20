@@ -1,13 +1,13 @@
 ---
 date: 2023-04-23T00:00:00+07:00
 lastmod: 2023-04-23T00:00:00+07:00
-title: Vientiane Sunday
+title: Vientiane (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Lao Peoples Dem Rep
+  - Lao People's Dem. Rep.
   - Vientiane
 description: 🗓 Sunday, 23 Apr 2023
 

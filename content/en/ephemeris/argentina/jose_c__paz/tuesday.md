@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00-03:00
 lastmod: 2023-04-18T00:00:00-03:00
-title: Jose C Paz Tuesday
+title: Jose C. Paz (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Argentina
-  - Jose C Paz
+  - Jose C. Paz
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

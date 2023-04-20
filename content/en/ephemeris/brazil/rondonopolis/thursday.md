@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-04:00
 lastmod: 2023-04-20T00:00:00-04:00
-title: Rondonopolis Thursday
+title: Rondonopolis (Thursday)
 slug: thursday
 categories:
   - Ephemeris

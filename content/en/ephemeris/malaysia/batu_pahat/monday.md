@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+08:00
 lastmod: 2023-04-24T00:00:00+08:00
-title: Batu Pahat Monday
+title: Batu Pahat (Monday)
 slug: monday
 categories:
   - Ephemeris

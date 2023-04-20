@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+03:00
 lastmod: 2023-04-21T00:00:00+03:00
-title: Kilis Friday
+title: Kilis (Friday)
 slug: friday
 categories:
   - Ephemeris
@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°38'0.37" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°45'32.12" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°28'20.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'13.12" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°37'12.05" |Aries|Butain|Sun|
 |☾ Moon|Direct|13°10'26.42" |Aries|Butain|Sun|
 
 

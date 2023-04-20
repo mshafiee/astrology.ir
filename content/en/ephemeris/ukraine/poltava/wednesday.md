@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Poltava Wednesday
+title: Poltava (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

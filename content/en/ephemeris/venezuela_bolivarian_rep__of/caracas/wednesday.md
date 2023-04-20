@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: Caracas Wednesday
+title: Caracas (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep of
+  - Venezuela, Bolivarian Rep. of
   - Caracas
 description: 🗓 Wednesday, 19 Apr 2023
 

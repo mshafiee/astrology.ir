@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: Acapulco de Juarez
-slug: acapulcodejuarez
+slug: acapulco_de_juarez
 categories:
   - Ephemeris
 tags:

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: sHertogenbosch Saturday
+title: 's-Hertogenbosch (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Netherlands
-  - sHertogenbosch
+  - 's-Hertogenbosch
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

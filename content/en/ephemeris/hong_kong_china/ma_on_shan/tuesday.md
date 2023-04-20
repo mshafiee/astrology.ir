@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+08:00
 lastmod: 2023-04-18T00:00:00+08:00
-title: Ma On Shan Tuesday
+title: Ma On Shan (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: Bissau Sunday
+title: Bissau (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - GuineaBissau
+  - Guinea-Bissau
   - Bissau
 description: 🗓 Sunday, 23 Apr 2023
 

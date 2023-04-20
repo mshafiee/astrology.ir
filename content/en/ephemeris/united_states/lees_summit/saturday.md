@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00-05:00
 lastmod: 2023-04-22T00:00:00-05:00
-title: Lees Summit Saturday
+title: Lee's Summit (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - Lees Summit
+  - Lee's Summit
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

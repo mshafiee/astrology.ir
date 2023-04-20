@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
 title: Eha Amufu
-slug: ehaamufu
+slug: eha_amufu
 categories:
   - Ephemeris
 tags:

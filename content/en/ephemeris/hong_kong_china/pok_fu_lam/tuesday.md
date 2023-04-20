@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+08:00
 lastmod: 2023-04-18T00:00:00+08:00
-title: Pok Fu Lam Tuesday
+title: Pok Fu Lam (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

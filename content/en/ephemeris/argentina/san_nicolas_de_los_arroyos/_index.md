@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-03:00
 lastmod: 2023-04-19T00:00:00-03:00
 title: San Nicolas de los Arroyos
-slug: sannicolasdelosarroyos
+slug: san_nicolas_de_los_arroyos
 categories:
   - Ephemeris
 tags:

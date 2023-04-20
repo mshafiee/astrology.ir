@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: SaintMaurdesFosses Wednesday
+title: Saint-Maur-des-Fosses (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - France
-  - SaintMaurdesFosses
+  - Saint-Maur-des-Fosses
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

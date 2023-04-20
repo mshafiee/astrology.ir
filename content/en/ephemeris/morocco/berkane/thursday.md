@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00Z
 lastmod: 2023-04-20T00:00:00Z
-title: Berkane Thursday
+title: Berkane (Thursday)
 slug: thursday
 categories:
   - Ephemeris

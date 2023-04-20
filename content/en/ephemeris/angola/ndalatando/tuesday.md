@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+01:00
 lastmod: 2023-04-18T00:00:00+01:00
-title: Ndalatando Tuesday
+title: N'dalatando (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Angola
-  - Ndalatando
+  - N'dalatando
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

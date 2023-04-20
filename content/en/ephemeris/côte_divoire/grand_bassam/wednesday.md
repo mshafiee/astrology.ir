@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: GrandBassam Wednesday
+title: Grand-Bassam (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
-  - GrandBassam
+  - Côte d'Ivoire
+  - Grand-Bassam
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

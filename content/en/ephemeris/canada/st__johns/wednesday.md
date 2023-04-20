@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-02:30
 lastmod: 2023-04-19T00:00:00-02:30
-title: St Johns Wednesday
+title: St. John's (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Canada
-  - St Johns
+  - St. John's
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

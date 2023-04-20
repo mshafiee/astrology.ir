@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: San Francisco del Rincon
-slug: sanfranciscodelrincon
+slug: san_francisco_del_rincon
 categories:
   - Ephemeris
 tags:

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: Al Mahallah al Kubra Tuesday
+title: Al Mahallah al Kubra (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

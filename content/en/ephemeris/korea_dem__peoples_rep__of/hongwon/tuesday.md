@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Hongwon Tuesday
+title: Hongwon (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem Peoples Rep of
+  - Korea, Dem. People's Rep. of
   - Hongwon
 description: 🗓 Tuesday, 18 Apr 2023
 

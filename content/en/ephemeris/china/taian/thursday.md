@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: Taian Thursday
+title: Tai'an (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Taian
+  - Tai'an
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

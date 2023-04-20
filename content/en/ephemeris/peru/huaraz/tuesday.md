@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-05:00
 lastmod: 2023-04-18T00:00:00-05:00
-title: Huaraz Tuesday
+title: Huaraz (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

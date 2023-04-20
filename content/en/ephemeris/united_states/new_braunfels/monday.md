@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-05:00
 lastmod: 2023-04-24T00:00:00-05:00
-title: New Braunfels Monday
+title: New Braunfels (Monday)
 slug: monday
 categories:
   - Ephemeris

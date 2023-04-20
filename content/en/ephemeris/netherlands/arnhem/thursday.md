@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: Arnhem Thursday
+title: Arnhem (Thursday)
 slug: thursday
 categories:
   - Ephemeris

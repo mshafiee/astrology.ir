@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: PortoNovo Wednesday
+title: Porto-Novo (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Benin
-  - PortoNovo
+  - Porto-Novo
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

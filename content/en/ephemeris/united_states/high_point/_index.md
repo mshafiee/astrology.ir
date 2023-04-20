@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
 title: High Point
-slug: highpoint
+slug: high_point
 categories:
   - Ephemeris
 tags:

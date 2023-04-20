@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+05:30
 lastmod: 2023-04-19T00:00:00+05:30
-title: Lal Bahadur Nagar Wednesday
+title: Lal Bahadur Nagar (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

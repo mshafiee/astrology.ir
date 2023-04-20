@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+05:00
 lastmod: 2023-04-20T00:00:00+05:00
-title: Jaranwala Thursday
+title: Jaranwala (Thursday)
 slug: thursday
 categories:
   - Ephemeris

@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+05:00
 lastmod: 2023-04-19T00:00:00+05:00
 title: Nowshera Cantonment
-slug: nowsheracantonment
+slug: nowshera_cantonment
 categories:
   - Ephemeris
 tags:

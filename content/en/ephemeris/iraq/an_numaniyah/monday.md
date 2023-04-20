@@ -1,14 +1,14 @@
 ---
 date: 2023-04-24T00:00:00+03:00
 lastmod: 2023-04-24T00:00:00+03:00
-title: An Numaniyah Monday
+title: An Nu'maniyah (Monday)
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Iraq
-  - An Numaniyah
+  - An Nu'maniyah
 description: 🗓 Monday, 24 Apr 2023
 
 toc: false

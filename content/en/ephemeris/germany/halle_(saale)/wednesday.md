@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Halle Saale Wednesday
+title: Halle (Saale) (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Germany
-  - Halle Saale
+  - Halle (Saale)
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

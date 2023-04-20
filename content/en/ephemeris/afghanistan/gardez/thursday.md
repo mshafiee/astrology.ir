@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+04:30
 lastmod: 2023-04-20T00:00:00+04:30
-title: Gardez Thursday
+title: Gardez (Thursday)
 slug: thursday
 categories:
   - Ephemeris

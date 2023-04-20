@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+08:00
 lastmod: 2023-04-21T00:00:00+08:00
-title: LapuLapu City Friday
+title: Lapu-Lapu City (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Philippines
-  - LapuLapu City
+  - Lapu-Lapu City
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

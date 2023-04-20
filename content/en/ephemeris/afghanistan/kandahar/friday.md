@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+04:30
 lastmod: 2023-04-21T00:00:00+04:30
-title: Kandahar Friday
+title: Kandahar (Friday)
 slug: friday
 categories:
   - Ephemeris

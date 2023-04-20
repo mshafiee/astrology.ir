@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: HitachiNaka Friday
+title: Hitachi-Naka (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - HitachiNaka
+  - Hitachi-Naka
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+01:00
 lastmod: 2023-04-20T00:00:00+01:00
-title: Tebessa Thursday
+title: Tebessa (Thursday)
 slug: thursday
 categories:
   - Ephemeris

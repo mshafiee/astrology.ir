@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Icheonsi Tuesday
+title: Icheon-si (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Icheonsi
+  - Icheon-si
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

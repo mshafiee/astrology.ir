@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: Las Tunas Wednesday
+title: Las Tunas (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

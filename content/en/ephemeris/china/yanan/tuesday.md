@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+08:00
 lastmod: 2023-04-18T00:00:00+08:00
-title: Yanan Tuesday
+title: Yan'an (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Yanan
+  - Yan'an
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

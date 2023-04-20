@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-06:00
 lastmod: 2023-04-20T00:00:00-06:00
-title: Tuxpam de Rodriguez Cano Thursday
+title: Tuxpam de Rodriguez Cano (Thursday)
 slug: thursday
 categories:
   - Ephemeris

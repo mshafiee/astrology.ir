@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+07:00
 lastmod: 2023-04-20T00:00:00+07:00
-title: LeninskKuznetsky Thursday
+title: Leninsk-Kuznetsky (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - LeninskKuznetsky
+  - Leninsk-Kuznetsky
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

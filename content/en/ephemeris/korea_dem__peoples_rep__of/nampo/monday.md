@@ -1,14 +1,14 @@
 ---
 date: 2023-04-24T00:00:00+09:00
 lastmod: 2023-04-24T00:00:00+09:00
-title: Nampo Monday
+title: Namp'o (Monday)
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem Peoples Rep of
-  - Nampo
+  - Korea, Dem. People's Rep. of
+  - Namp'o
 description: 🗓 Monday, 24 Apr 2023
 
 toc: false

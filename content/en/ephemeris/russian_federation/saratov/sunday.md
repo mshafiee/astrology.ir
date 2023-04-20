@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+04:00
 lastmod: 2023-04-23T00:00:00+04:00
-title: Saratov Sunday
+title: Saratov (Sunday)
 slug: sunday
 categories:
   - Ephemeris
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°39'56.60" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°42'24.95" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°28'55.12" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°35'36.47" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|8°28'45.47" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}

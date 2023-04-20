@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-05:00
 lastmod: 2023-04-21T00:00:00-05:00
-title: Fayetteville Friday
+title: Fayetteville (Friday)
 slug: friday
 categories:
   - Ephemeris

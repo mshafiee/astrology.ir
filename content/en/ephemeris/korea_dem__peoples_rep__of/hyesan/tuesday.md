@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Hyesan Tuesday
+title: Hyesan (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem Peoples Rep of
+  - Korea, Dem. People's Rep. of
   - Hyesan
 description: 🗓 Tuesday, 18 Apr 2023
 

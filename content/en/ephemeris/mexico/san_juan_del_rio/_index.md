@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: San Juan del Rio
-slug: sanjuandelrio
+slug: san_juan_del_rio
 categories:
   - Ephemeris
 tags:

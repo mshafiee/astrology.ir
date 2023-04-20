@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+07:00
 lastmod: 2023-04-19T00:00:00+07:00
-title: AnzheroSudzhensk Wednesday
+title: Anzhero-Sudzhensk (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - AnzheroSudzhensk
+  - Anzhero-Sudzhensk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+09:00
 lastmod: 2023-04-23T00:00:00+09:00
-title: Kamigyoku Sunday
+title: Kamigyo-ku (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Kamigyoku
+  - Kamigyo-ku
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

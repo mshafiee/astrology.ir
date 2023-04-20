@@ -7,7 +7,7 @@ categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
+  - Iran, Islamic Rep. of
   - Shirvan
 description: 🗓 Wednesday, 19 Apr 2023
 

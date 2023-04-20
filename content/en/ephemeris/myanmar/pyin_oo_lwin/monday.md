@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+06:30
 lastmod: 2023-04-24T00:00:00+06:30
-title: Pyin Oo Lwin Monday
+title: Pyin Oo Lwin (Monday)
 slug: monday
 categories:
   - Ephemeris

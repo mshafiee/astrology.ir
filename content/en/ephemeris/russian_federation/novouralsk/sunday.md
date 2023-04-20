@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+05:00
 lastmod: 2023-04-23T00:00:00+05:00
-title: Novouralsk Sunday
+title: Novoural'sk (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Novouralsk
+  - Novoural'sk
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

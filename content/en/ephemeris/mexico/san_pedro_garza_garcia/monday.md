@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-06:00
 lastmod: 2023-04-24T00:00:00-06:00
-title: San Pedro Garza Garcia Monday
+title: San Pedro Garza Garcia (Monday)
 slug: monday
 categories:
   - Ephemeris

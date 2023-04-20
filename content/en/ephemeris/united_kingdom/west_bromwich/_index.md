@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
 title: West Bromwich
-slug: westbromwich
+slug: west_bromwich
 categories:
   - Ephemeris
 tags:

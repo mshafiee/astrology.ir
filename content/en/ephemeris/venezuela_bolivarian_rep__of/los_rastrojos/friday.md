@@ -1,13 +1,13 @@
 ---
 date: 2023-04-21T00:00:00-04:00
 lastmod: 2023-04-21T00:00:00-04:00
-title: Los Rastrojos Friday
+title: Los Rastrojos (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep of
+  - Venezuela, Bolivarian Rep. of
   - Los Rastrojos
 description: 🗓 Friday, 21 Apr 2023
 

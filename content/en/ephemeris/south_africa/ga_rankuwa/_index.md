@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: GaRankuwa
-slug: garankuwa
+title: Ga-Rankuwa
+slug: ga_rankuwa
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - South Africa
-  - GaRankuwa
+  - Ga-Rankuwa
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

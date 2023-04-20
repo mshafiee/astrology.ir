@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
 title: Rishon LeTsiyyon
-slug: rishonletsiyyon
+slug: rishon_letsiyyon
 categories:
   - Ephemeris
 tags:

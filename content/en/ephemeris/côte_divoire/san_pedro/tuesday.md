@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: SanPedro Tuesday
+title: San-Pedro (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
-  - SanPedro
+  - Côte d'Ivoire
+  - San-Pedro
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

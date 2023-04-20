@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: As Salt Wednesday
+title: As Salt (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

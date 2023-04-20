@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
 title: Oued Zem
-slug: ouedzem
+slug: oued_zem
 categories:
   - Ephemeris
 tags:

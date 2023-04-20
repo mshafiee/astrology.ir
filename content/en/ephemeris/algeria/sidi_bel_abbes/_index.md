@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
 title: Sidi Bel Abbes
-slug: sidibelabbes
+slug: sidi_bel_abbes
 categories:
   - Ephemeris
 tags:

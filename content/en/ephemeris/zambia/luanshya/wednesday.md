@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Luanshya Wednesday
+title: Luanshya (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

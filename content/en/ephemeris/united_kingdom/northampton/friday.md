@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+01:00
 lastmod: 2023-04-21T00:00:00+01:00
-title: Northampton Friday
+title: Northampton (Friday)
 slug: friday
 categories:
   - Ephemeris
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'8.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'27.79" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°40'45.36" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°50'30.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°34'12.68" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'15.45" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°3'24.58" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'27.83" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°40'45.39" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°50'31.23" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°34'12.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'15.79" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°4'56.22" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

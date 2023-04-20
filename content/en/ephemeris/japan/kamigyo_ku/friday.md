@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Kamigyoku Friday
+title: Kamigyo-ku (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Kamigyoku
+  - Kamigyo-ku
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: PointeNoire Wednesday
+title: Pointe-Noire (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Congo
-  - PointeNoire
+  - Pointe-Noire
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

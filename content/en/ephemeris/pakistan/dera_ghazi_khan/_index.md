@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+05:00
 lastmod: 2023-04-19T00:00:00+05:00
 title: Dera Ghazi Khan
-slug: deraghazikhan
+slug: dera_ghazi_khan
 categories:
   - Ephemeris
 tags:

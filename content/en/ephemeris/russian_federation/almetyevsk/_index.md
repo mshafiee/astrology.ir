@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Almetyevsk
+title: Al'met'yevsk
 slug: almetyevsk
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Almetyevsk
+  - Al'met'yevsk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

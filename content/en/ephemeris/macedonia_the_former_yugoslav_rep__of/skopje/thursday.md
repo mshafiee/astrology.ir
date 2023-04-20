@@ -1,13 +1,13 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: Skopje Thursday
+title: Skopje (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Macedonia, The former Yugoslav Rep of
+  - Macedonia, The former Yugoslav Rep. of
   - Skopje
 description: 🗓 Thursday, 20 Apr 2023
 

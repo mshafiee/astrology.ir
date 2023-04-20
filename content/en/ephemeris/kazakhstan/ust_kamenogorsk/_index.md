@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+06:00
 lastmod: 2023-04-19T00:00:00+06:00
-title: UstKamenogorsk
-slug: ustkamenogorsk
+title: Ust-Kamenogorsk
+slug: ust_kamenogorsk
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Kazakhstan
-  - UstKamenogorsk
+  - Ust-Kamenogorsk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:30
 lastmod: 2023-04-19T00:00:00+03:30
-title: Bandare Anzali
-slug: bandareanzali
+title: Bandar-e Anzali
+slug: bandar_e_anzali
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
-  - Bandare Anzali
+  - Iran, Islamic Rep. of
+  - Bandar-e Anzali
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

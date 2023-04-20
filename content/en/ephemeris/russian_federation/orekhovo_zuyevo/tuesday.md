@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+03:00
 lastmod: 2023-04-18T00:00:00+03:00
-title: OrekhovoZuyevo Tuesday
+title: Orekhovo-Zuyevo (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - OrekhovoZuyevo
+  - Orekhovo-Zuyevo
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-06:00
 lastmod: 2023-04-21T00:00:00-06:00
-title: Ciudad Guzman Friday
+title: Ciudad Guzman (Friday)
 slug: friday
 categories:
   - Ephemeris

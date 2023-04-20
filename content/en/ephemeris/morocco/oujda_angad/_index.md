@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: OujdaAngad
-slug: oujdaangad
+title: Oujda-Angad
+slug: oujda_angad
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Morocco
-  - OujdaAngad
+  - Oujda-Angad
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

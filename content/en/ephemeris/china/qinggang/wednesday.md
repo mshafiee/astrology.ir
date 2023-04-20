@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Qinggang Wednesday
+title: Qinggang (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
@@ -294,9 +294,9 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°26'29.33" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°26'42.55" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|12°28'0.37" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°37'28.46" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|28°37'28.41" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°57'50.68" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°19'48.06" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°19'48.32" |Aries|Butain|Sun|
 |☾ Moon|Direct|13°9'0.22" |Pisces|FarghAlMuakhar|Jupiter|
 
 

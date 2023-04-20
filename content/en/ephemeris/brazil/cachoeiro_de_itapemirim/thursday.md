@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-03:00
 lastmod: 2023-04-20T00:00:00-03:00
-title: Cachoeiro de Itapemirim Thursday
+title: Cachoeiro de Itapemirim (Thursday)
 slug: thursday
 categories:
   - Ephemeris

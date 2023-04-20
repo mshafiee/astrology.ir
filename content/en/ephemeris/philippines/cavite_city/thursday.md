@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: Cavite City Thursday
+title: Cavite City (Thursday)
 slug: thursday
 categories:
   - Ephemeris

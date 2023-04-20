@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
 title: San Sebastian de los Reyes
-slug: sansebastiandelosreyes
+slug: san_sebastian_de_los_reyes
 categories:
   - Ephemeris
 tags:

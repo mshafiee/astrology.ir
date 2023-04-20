@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: AdDamazin
-slug: addamazin
+title: Ad-Damazin
+slug: ad_damazin
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Sudan, The Republic of
-  - AdDamazin
+  - Ad-Damazin
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

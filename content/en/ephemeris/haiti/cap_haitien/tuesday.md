@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00-04:00
 lastmod: 2023-04-18T00:00:00-04:00
-title: CapHaitien Tuesday
+title: Cap-Haitien (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Haiti
-  - CapHaitien
+  - Cap-Haitien
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: LHospitalet de Llobregat Thursday
+title: L'Hospitalet de Llobregat (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Spain
-  - LHospitalet de Llobregat
+  - L'Hospitalet de Llobregat
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

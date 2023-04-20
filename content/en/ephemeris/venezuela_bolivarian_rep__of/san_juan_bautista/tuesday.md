@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00-04:00
 lastmod: 2023-04-18T00:00:00-04:00
-title: San Juan Bautista Tuesday
+title: San Juan Bautista (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep of
+  - Venezuela, Bolivarian Rep. of
   - San Juan Bautista
 description: 🗓 Tuesday, 18 Apr 2023
 

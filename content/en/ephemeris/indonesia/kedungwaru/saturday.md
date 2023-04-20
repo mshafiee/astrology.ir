@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+07:00
 lastmod: 2023-04-22T00:00:00+07:00
-title: Kedungwaru Saturday
+title: Kedungwaru (Saturday)
 slug: saturday
 categories:
   - Ephemeris

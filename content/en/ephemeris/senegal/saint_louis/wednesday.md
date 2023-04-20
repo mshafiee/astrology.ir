@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: SaintLouis Wednesday
+title: Saint-Louis (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Senegal
-  - SaintLouis
+  - Saint-Louis
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

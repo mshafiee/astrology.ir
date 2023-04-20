@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+05:30
 lastmod: 2023-04-24T00:00:00+05:30
-title: Ranipet Monday
+title: Ranipet (Monday)
 slug: monday
 categories:
   - Ephemeris

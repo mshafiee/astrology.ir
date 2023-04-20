@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Ezhou Wednesday
+title: E'zhou (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Ezhou
+  - E'zhou
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

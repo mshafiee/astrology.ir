@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
-title: Nampa Wednesday
+title: Nampa (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

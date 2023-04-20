@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+03:00
 lastmod: 2023-04-20T00:00:00+03:00
-title: Mineralnye Vody Thursday
+title: Mineralnye Vody (Thursday)
 slug: thursday
 categories:
   - Ephemeris

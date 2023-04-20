@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+05:30
 lastmod: 2023-04-22T00:00:00+05:30
-title: Akot Saturday
+title: Akot (Saturday)
 slug: saturday
 categories:
   - Ephemeris

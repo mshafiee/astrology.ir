@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: WinstonSalem Wednesday
+title: Winston-Salem (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - WinstonSalem
+  - Winston-Salem
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

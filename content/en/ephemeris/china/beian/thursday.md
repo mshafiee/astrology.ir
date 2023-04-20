@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: Beian Thursday
+title: Bei'an (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Beian
+  - Bei'an
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

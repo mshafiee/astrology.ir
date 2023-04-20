@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+09:00
 lastmod: 2023-04-23T00:00:00+09:00
-title: Kochang Sunday
+title: Koch'ang (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Kochang
+  - Koch'ang
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

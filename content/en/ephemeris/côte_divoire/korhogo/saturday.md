@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00Z
 lastmod: 2023-04-22T00:00:00Z
-title: Korhogo Saturday
+title: Korhogo (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Korhogo
 description: 🗓 Saturday, 22 Apr 2023
 

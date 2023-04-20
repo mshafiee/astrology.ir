@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+05:00
 lastmod: 2023-04-19T00:00:00+05:00
-title: KhantyMansiysk Wednesday
+title: Khanty-Mansiysk (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - KhantyMansiysk
+  - Khanty-Mansiysk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

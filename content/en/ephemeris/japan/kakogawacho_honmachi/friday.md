@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Kakogawachohonmachi Friday
+title: Kakogawacho-honmachi (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Kakogawachohonmachi
+  - Kakogawacho-honmachi
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

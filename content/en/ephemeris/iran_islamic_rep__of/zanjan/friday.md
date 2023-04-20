@@ -1,13 +1,13 @@
 ---
 date: 2023-04-21T00:00:00+03:30
 lastmod: 2023-04-21T00:00:00+03:30
-title: Zanjan Friday
+title: Zanjan (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
+  - Iran, Islamic Rep. of
   - Zanjan
 description: 🗓 Friday, 21 Apr 2023
 

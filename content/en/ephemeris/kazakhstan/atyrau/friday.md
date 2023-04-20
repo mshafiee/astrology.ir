@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+05:00
 lastmod: 2023-04-21T00:00:00+05:00
-title: Atyrau Friday
+title: Atyrau (Friday)
 slug: friday
 categories:
   - Ephemeris

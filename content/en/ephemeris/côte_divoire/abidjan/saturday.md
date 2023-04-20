@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00Z
 lastmod: 2023-04-22T00:00:00Z
-title: Abidjan Saturday
+title: Abidjan (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Abidjan
 description: 🗓 Saturday, 22 Apr 2023
 

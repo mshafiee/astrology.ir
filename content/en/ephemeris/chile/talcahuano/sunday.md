@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: Talcahuano Sunday
+title: Talcahuano (Sunday)
 slug: sunday
 categories:
   - Ephemeris
@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°32'12.16" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°54'2.99" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°3'37.84" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°10'4.64" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|14°10'4.72" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°24'43.53" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°11'50.21" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°12'20.45" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

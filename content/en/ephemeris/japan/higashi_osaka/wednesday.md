@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Higashiosaka Wednesday
+title: Higashi-osaka (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Higashiosaka
+  - Higashi-osaka
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

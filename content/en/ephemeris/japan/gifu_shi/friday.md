@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Gifushi Friday
+title: Gifu-shi (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Gifushi
+  - Gifu-shi
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Uijeongbusi Tuesday
+title: Uijeongbu-si (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Uijeongbusi
+  - Uijeongbu-si
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

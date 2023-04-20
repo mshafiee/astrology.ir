@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Beian Wednesday
+title: Bei'an (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Beian
+  - Bei'an
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

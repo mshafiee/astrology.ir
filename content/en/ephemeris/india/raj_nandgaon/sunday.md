@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+05:30
 lastmod: 2023-04-23T00:00:00+05:30
-title: RajNandgaon Sunday
+title: Raj-Nandgaon (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - India
-  - RajNandgaon
+  - Raj-Nandgaon
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

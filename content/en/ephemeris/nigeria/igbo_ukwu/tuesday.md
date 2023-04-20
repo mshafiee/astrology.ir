@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+01:00
 lastmod: 2023-04-18T00:00:00+01:00
-title: IgboUkwu Tuesday
+title: Igbo-Ukwu (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - IgboUkwu
+  - Igbo-Ukwu
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

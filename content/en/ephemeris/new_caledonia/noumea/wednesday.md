@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+11:00
 lastmod: 2023-04-19T00:00:00+11:00
-title: Noumea Wednesday
+title: Noumea (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

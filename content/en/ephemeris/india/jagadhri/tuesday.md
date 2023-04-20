@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+05:30
 lastmod: 2023-04-18T00:00:00+05:30
-title: Jagadhri Tuesday
+title: Jagadhri (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

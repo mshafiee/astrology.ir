@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00Z
 lastmod: 2023-04-20T00:00:00Z
-title: Sale Thursday
+title: Sale (Thursday)
 slug: thursday
 categories:
   - Ephemeris

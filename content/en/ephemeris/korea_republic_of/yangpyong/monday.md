@@ -1,14 +1,14 @@
 ---
 date: 2023-04-24T00:00:00+09:00
 lastmod: 2023-04-24T00:00:00+09:00
-title: Yangpyong Monday
+title: Yangp'yong (Monday)
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Yangpyong
+  - Yangp'yong
 description: 🗓 Monday, 24 Apr 2023
 
 toc: false

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: Dabou Tuesday
+title: Dabou (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Dabou
 description: 🗓 Tuesday, 18 Apr 2023
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+04:30
 lastmod: 2023-04-21T00:00:00+04:30
-title: Jalalabad Friday
+title: Jalalabad (Friday)
 slug: friday
 categories:
   - Ephemeris

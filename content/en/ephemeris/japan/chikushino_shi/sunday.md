@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+09:00
 lastmod: 2023-04-23T00:00:00+09:00
-title: Chikushinoshi Sunday
+title: Chikushino-shi (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Chikushinoshi
+  - Chikushino-shi
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

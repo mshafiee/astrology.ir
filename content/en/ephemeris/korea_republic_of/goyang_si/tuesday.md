@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Goyangsi Tuesday
+title: Goyang-si (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Goyangsi
+  - Goyang-si
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

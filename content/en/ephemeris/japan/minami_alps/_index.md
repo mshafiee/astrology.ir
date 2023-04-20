@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: MinamiAlps
-slug: minamialps
+title: Minami-Alps
+slug: minami_alps
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - MinamiAlps
+  - Minami-Alps
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

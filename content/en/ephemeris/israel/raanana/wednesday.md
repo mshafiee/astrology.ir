@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Raanana Wednesday
+title: Ra'anana (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Israel
-  - Raanana
+  - Ra'anana
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Katorishi Tuesday
+title: Katori-shi (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Katorishi
+  - Katori-shi
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

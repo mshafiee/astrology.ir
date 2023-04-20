@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: Kumanovo Tuesday
+title: Kumanovo (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Macedonia, The former Yugoslav Rep of
+  - Macedonia, The former Yugoslav Rep. of
   - Kumanovo
 description: 🗓 Tuesday, 18 Apr 2023
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Benidorm Saturday
+title: Benidorm (Saturday)
 slug: saturday
 categories:
   - Ephemeris

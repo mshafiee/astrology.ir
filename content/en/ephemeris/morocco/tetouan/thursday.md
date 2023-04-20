@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00Z
 lastmod: 2023-04-20T00:00:00Z
-title: Tetouan Thursday
+title: Tetouan (Thursday)
 slug: thursday
 categories:
   - Ephemeris

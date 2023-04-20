@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+09:00
 lastmod: 2023-04-21T00:00:00+09:00
-title: Yakutsk Friday
+title: Yakutsk (Friday)
 slug: friday
 categories:
   - Ephemeris

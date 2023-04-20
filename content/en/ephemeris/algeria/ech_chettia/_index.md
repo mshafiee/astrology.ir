@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
 title: Ech Chettia
-slug: echchettia
+slug: ech_chettia
 categories:
   - Ephemeris
 tags:

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Sokode Wednesday
+title: Sokode (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

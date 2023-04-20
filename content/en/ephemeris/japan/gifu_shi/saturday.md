@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+09:00
 lastmod: 2023-04-22T00:00:00+09:00
-title: Gifushi Saturday
+title: Gifu-shi (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Gifushi
+  - Gifu-shi
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

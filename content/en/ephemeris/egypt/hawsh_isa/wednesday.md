@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Hawsh Isa Wednesday
+title: Hawsh `Isa (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Egypt
-  - Hawsh Isa
+  - Hawsh `Isa
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

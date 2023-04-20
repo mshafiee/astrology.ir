@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Anyangsi
-slug: anyangsi
+title: Anyang-si
+slug: anyang_si
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Anyangsi
+  - Anyang-si
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

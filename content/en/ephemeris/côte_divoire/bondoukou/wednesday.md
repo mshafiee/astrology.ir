@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Bondoukou Wednesday
+title: Bondoukou (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Bondoukou
 description: 🗓 Wednesday, 19 Apr 2023
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+05:45
 lastmod: 2023-04-24T00:00:00+05:45
-title: Lahan Monday
+title: Lahan (Monday)
 slug: monday
 categories:
   - Ephemeris

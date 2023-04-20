@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: UsolyeSibirskoye Wednesday
+title: Usol'ye-Sibirskoye (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - UsolyeSibirskoye
+  - Usol'ye-Sibirskoye
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

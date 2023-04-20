@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+10:00
 lastmod: 2023-04-23T00:00:00+10:00
-title: Geelong Sunday
+title: Geelong (Sunday)
 slug: sunday
 categories:
   - Ephemeris

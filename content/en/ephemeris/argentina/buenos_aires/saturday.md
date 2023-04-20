@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00-03:00
 lastmod: 2023-04-22T00:00:00-03:00
-title: Buenos Aires Saturday
+title: Buenos Aires (Saturday)
 slug: saturday
 categories:
   - Ephemeris
@@ -333,9 +333,9 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°44'18.01" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°17'10.79" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°20'19.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°2'32.93" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°2'32.99" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°58'35.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'9.15" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'9.16" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|0°53'38.57" |Gemini|HaqAh|Jupiter|
 
 

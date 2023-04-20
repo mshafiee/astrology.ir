@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+11:00
 lastmod: 2023-04-19T00:00:00+11:00
-title: YuzhnoSakhalinsk
-slug: yuzhnosakhalinsk
+title: Yuzhno-Sakhalinsk
+slug: yuzhno_sakhalinsk
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - YuzhnoSakhalinsk
+  - Yuzhno-Sakhalinsk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

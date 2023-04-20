@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: St Petersburg
-slug: stpetersburg
+title: St. Petersburg
+slug: st__petersburg
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - St Petersburg
+  - St. Petersburg
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

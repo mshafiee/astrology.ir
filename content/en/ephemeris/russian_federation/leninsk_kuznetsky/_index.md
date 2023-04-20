@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+07:00
 lastmod: 2023-04-19T00:00:00+07:00
-title: LeninskKuznetsky
-slug: leninskkuznetsky
+title: Leninsk-Kuznetsky
+slug: leninsk_kuznetsky
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - LeninskKuznetsky
+  - Leninsk-Kuznetsky
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

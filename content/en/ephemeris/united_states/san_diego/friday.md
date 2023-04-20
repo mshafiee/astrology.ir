@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-07:00
 lastmod: 2023-04-21T00:00:00-07:00
-title: San Diego Friday
+title: San Diego (Friday)
 slug: friday
 categories:
   - Ephemeris
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'53.02" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°4'27.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°51'53.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°10'50.22" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°58'1.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'17.56" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°59'56.92" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°51'56.42" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°10'50.78" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°58'4.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'20.00" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°11'35.26" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

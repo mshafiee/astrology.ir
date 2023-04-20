@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+06:00
 lastmod: 2023-04-22T00:00:00+06:00
-title: UstKamenogorsk Saturday
+title: Ust-Kamenogorsk (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Kazakhstan
-  - UstKamenogorsk
+  - Ust-Kamenogorsk
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

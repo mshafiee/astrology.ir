@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-07:00
 lastmod: 2023-04-23T00:00:00-07:00
-title: West Covina Sunday
+title: West Covina (Sunday)
 slug: sunday
 categories:
   - Ephemeris

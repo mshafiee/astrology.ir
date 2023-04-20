@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+05:00
 lastmod: 2023-04-18T00:00:00+05:00
-title: Shikarpur Tuesday
+title: Shikarpur (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+03:00
 lastmod: 2023-04-23T00:00:00+03:00
-title: Lviv Sunday
+title: Lviv (Sunday)
 slug: sunday
 categories:
   - Ephemeris

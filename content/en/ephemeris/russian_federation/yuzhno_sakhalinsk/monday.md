@@ -1,14 +1,14 @@
 ---
 date: 2023-04-24T00:00:00+11:00
 lastmod: 2023-04-24T00:00:00+11:00
-title: YuzhnoSakhalinsk Monday
+title: Yuzhno-Sakhalinsk (Monday)
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - YuzhnoSakhalinsk
+  - Yuzhno-Sakhalinsk
 description: 🗓 Monday, 24 Apr 2023
 
 toc: false

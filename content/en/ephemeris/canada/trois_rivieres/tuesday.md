@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00-04:00
 lastmod: 2023-04-18T00:00:00-04:00
-title: TroisRivieres Tuesday
+title: Trois-Rivieres (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Canada
-  - TroisRivieres
+  - Trois-Rivieres
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

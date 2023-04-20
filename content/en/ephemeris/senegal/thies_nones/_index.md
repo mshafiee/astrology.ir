@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
 title: Thies Nones
-slug: thiesnones
+slug: thies_nones
 categories:
   - Ephemeris
 tags:

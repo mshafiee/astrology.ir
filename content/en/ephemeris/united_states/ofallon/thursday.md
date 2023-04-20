@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00-05:00
 lastmod: 2023-04-20T00:00:00-05:00
-title: OFallon Thursday
+title: O'Fallon (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United States
-  - OFallon
+  - O'Fallon
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

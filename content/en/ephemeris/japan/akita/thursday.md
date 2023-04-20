@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Akita Thursday
+title: Akita (Thursday)
 slug: thursday
 categories:
   - Ephemeris
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'7.64" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°39'38.87" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°56'40.28" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|12°56'40.18" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°30'1.33" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°59'39.83" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|9°59'39.94" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Retrograde|15°30'26.12" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°32'16.36" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|25°34'58.84" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

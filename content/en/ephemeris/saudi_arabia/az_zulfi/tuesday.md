@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+03:00
 lastmod: 2023-04-18T00:00:00+03:00
-title: Az Zulfi Tuesday
+title: Az Zulfi (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

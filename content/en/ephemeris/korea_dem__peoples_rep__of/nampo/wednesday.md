@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Nampo Wednesday
+title: Namp'o (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem Peoples Rep of
-  - Nampo
+  - Korea, Dem. People's Rep. of
+  - Namp'o
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

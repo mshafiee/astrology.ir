@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+01:00
 lastmod: 2023-04-21T00:00:00+01:00
-title: MbanzaNgungu Friday
+title: Mbanza-Ngungu (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Congo, Democratic Republic of the
-  - MbanzaNgungu
+  - Mbanza-Ngungu
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-07:00
 lastmod: 2023-04-19T00:00:00-07:00
 title: Ahwatukee Foothills
-slug: ahwatukeefoothills
+slug: ahwatukee_foothills
 categories:
   - Ephemeris
 tags:

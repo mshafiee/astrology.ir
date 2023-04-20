@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+02:00
 lastmod: 2023-04-23T00:00:00+02:00
-title: Delmenhorst Sunday
+title: Delmenhorst (Sunday)
 slug: sunday
 categories:
   - Ephemeris

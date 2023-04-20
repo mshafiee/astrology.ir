@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
-title: South Suffolk Wednesday
+title: South Suffolk (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

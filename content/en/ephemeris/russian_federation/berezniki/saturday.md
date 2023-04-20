@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+05:00
 lastmod: 2023-04-22T00:00:00+05:00
-title: Berezniki Saturday
+title: Berezniki (Saturday)
 slug: saturday
 categories:
   - Ephemeris

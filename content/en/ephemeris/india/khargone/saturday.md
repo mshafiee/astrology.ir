@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+05:30
 lastmod: 2023-04-22T00:00:00+05:30
-title: Khargone Saturday
+title: Khargone (Saturday)
 slug: saturday
 categories:
   - Ephemeris
@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°11'16.69" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°7'7.59" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°38'33.15" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°30'30.11" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°30'30.85" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'8.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°22'11.47" |Aries|Butain|Venus|
+|☾ Moon|Direct|25°24'26.14" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

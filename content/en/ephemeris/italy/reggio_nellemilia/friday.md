@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+02:00
 lastmod: 2023-04-21T00:00:00+02:00
-title: Reggio nellEmilia Friday
+title: Reggio nell'Emilia (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Italy
-  - Reggio nellEmilia
+  - Reggio nell'Emilia
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

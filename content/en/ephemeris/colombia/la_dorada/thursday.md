@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-05:00
 lastmod: 2023-04-20T00:00:00-05:00
-title: La Dorada Thursday
+title: La Dorada (Thursday)
 slug: thursday
 categories:
   - Ephemeris

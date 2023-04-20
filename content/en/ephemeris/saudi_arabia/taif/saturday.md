@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+03:00
 lastmod: 2023-04-22T00:00:00+03:00
-title: Taif Saturday
+title: Ta'if (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Saudi Arabia
-  - Taif
+  - Ta'if
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

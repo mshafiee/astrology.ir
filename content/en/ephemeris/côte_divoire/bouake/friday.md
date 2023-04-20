@@ -1,13 +1,13 @@
 ---
 date: 2023-04-21T00:00:00Z
 lastmod: 2023-04-21T00:00:00Z
-title: Bouake Friday
+title: Bouake (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Bouake
 description: 🗓 Friday, 21 Apr 2023
 

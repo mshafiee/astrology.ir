@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+08:00
 lastmod: 2023-04-23T00:00:00+08:00
-title: Wenzhou Sunday
+title: Wenzhou (Sunday)
 slug: sunday
 categories:
   - Ephemeris
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'34.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°23'48.16" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°35'11.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°29'27.77" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°30'7.62" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'39.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°34'33.00" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'47.82" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°35'12.03" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°29'25.80" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°30'7.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'37.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°30'1.66" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

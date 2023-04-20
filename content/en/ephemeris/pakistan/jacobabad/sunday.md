@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+05:00
 lastmod: 2023-04-23T00:00:00+05:00
-title: Jacobabad Sunday
+title: Jacobabad (Sunday)
 slug: sunday
 categories:
   - Ephemeris

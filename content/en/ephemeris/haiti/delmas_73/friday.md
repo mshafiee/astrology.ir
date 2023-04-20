@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-04:00
 lastmod: 2023-04-21T00:00:00-04:00
-title: Delmas 73 Friday
+title: Delmas 73 (Friday)
 slug: friday
 categories:
   - Ephemeris

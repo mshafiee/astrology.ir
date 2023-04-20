@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+01:00
 lastmod: 2023-04-21T00:00:00+01:00
-title: Ech Chettia Friday
+title: Ech Chettia (Friday)
 slug: friday
 categories:
   - Ephemeris

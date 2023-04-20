@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00+03:30
 lastmod: 2023-04-18T00:00:00+03:30
-title: Kerman Tuesday
+title: Kerman (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
+  - Iran, Islamic Rep. of
   - Kerman
 description: 🗓 Tuesday, 18 Apr 2023
 

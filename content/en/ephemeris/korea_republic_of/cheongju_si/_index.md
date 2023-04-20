@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Cheongjusi
-slug: cheongjusi
+title: Cheongju-si
+slug: cheongju_si
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Cheongjusi
+  - Cheongju-si
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

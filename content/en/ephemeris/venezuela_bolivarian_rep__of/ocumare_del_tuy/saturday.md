@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00-04:00
 lastmod: 2023-04-22T00:00:00-04:00
-title: Ocumare del Tuy Saturday
+title: Ocumare del Tuy (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep of
+  - Venezuela, Bolivarian Rep. of
   - Ocumare del Tuy
 description: 🗓 Saturday, 22 Apr 2023
 

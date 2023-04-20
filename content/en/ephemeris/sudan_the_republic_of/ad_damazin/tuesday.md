@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: AdDamazin Tuesday
+title: Ad-Damazin (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Sudan, The Republic of
-  - AdDamazin
+  - Ad-Damazin
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

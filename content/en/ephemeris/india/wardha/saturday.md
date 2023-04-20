@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+05:30
 lastmod: 2023-04-22T00:00:00+05:30
-title: Wardha Saturday
+title: Wardha (Saturday)
 slug: saturday
 categories:
   - Ephemeris
@@ -292,7 +292,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'13.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°11'10.22" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°11'10.30" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°6'53.08" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°38'6.87" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°29'59.26" |Taurus|Dabaran|Moon|

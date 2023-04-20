@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Marcory Wednesday
+title: Marcory (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Marcory
 description: 🗓 Wednesday, 19 Apr 2023
 

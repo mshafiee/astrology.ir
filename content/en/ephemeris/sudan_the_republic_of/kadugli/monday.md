@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+02:00
 lastmod: 2023-04-24T00:00:00+02:00
-title: Kadugli Monday
+title: Kadugli (Monday)
 slug: monday
 categories:
   - Ephemeris

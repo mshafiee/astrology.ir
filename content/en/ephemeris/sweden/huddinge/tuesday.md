@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: Huddinge Tuesday
+title: Huddinge (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|27°50'59.00" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°3'7.96" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Retrograde|15°6'9.95" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°28'49.03" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|1°30'22.50" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

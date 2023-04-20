@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+03:00
 lastmod: 2023-04-23T00:00:00+03:00
-title: Qalat Bishah Sunday
+title: Qal`at Bishah (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Saudi Arabia
-  - Qalat Bishah
+  - Qal`at Bishah
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+10:00
 lastmod: 2023-04-18T00:00:00+10:00
-title: Port Moresby Tuesday
+title: Port Moresby (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
 title: Lamezia Terme
-slug: lameziaterme
+slug: lamezia_terme
 categories:
   - Ephemeris
 tags:

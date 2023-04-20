@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: OujdaAngad Tuesday
+title: Oujda-Angad (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Morocco
-  - OujdaAngad
+  - Oujda-Angad
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

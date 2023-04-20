@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+05:00
 lastmod: 2023-04-18T00:00:00+05:00
-title: Qoqon Tuesday
+title: Qo'qon (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Uzbekistan
-  - Qoqon
+  - Qo'qon
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

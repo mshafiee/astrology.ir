@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Kanggye Wednesday
+title: Kanggye (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem Peoples Rep of
+  - Korea, Dem. People's Rep. of
   - Kanggye
 description: 🗓 Wednesday, 19 Apr 2023
 

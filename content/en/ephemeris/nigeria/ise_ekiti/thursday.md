@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+01:00
 lastmod: 2023-04-20T00:00:00+01:00
-title: IseEkiti Thursday
+title: Ise-Ekiti (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - IseEkiti
+  - Ise-Ekiti
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°45'23.54" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°9'24.75" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°53'22.49" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°27'4.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'40.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°24'34.23" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°27'4.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'40.23" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°24'15.28" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

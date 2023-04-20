@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+02:00
 lastmod: 2023-04-24T00:00:00+02:00
-title: Sant Cugat del Valles Monday
+title: Sant Cugat del Valles (Monday)
 slug: monday
 categories:
   - Ephemeris

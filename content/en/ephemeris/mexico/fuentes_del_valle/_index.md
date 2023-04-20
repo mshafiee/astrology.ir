@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: Fuentes del Valle
-slug: fuentesdelvalle
+slug: fuentes_del_valle
 categories:
   - Ephemeris
 tags:

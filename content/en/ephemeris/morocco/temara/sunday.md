@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: Temara Sunday
+title: Temara (Sunday)
 slug: sunday
 categories:
   - Ephemeris

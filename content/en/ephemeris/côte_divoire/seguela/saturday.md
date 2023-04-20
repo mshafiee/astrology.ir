@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00Z
 lastmod: 2023-04-22T00:00:00Z
-title: Seguela Saturday
+title: Seguela (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Seguela
 description: 🗓 Saturday, 22 Apr 2023
 

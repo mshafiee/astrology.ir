@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+08:00
 lastmod: 2023-04-18T00:00:00+08:00
-title: Panan Tuesday
+title: Pan'an (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - China
-  - Panan
+  - Pan'an
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

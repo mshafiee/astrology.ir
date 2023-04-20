@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Brindisi Wednesday
+title: Brindisi (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|12°35'31.46" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|28°51'15.53" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|9°14'4.64" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°23'2.87" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°18'11.04" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°23'1.32" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|16°12'53.81" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

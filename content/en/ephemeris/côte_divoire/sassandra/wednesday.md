@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
-title: Sassandra Wednesday
+title: Sassandra (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Sassandra
 description: 🗓 Wednesday, 19 Apr 2023
 

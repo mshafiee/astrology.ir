@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+08:00
 lastmod: 2023-04-20T00:00:00+08:00
-title: Muricay Thursday
+title: Muricay (Thursday)
 slug: thursday
 categories:
   - Ephemeris

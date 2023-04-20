@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+03:00
 lastmod: 2023-04-18T00:00:00+03:00
-title: Hail Tuesday
+title: Ha'il (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Saudi Arabia
-  - Hail
+  - Ha'il
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

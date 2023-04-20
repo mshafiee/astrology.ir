@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: San Cristobal de las Casas
-slug: sancristobaldelascasas
+slug: san_cristobal_de_las_casas
 categories:
   - Ephemeris
 tags:

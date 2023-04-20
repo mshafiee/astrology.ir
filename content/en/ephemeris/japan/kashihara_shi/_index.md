@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Kashiharashi
-slug: kashiharashi
+title: Kashihara-shi
+slug: kashihara_shi
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Kashiharashi
+  - Kashihara-shi
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

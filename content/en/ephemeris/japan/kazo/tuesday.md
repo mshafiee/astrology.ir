@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Kazo Tuesday
+title: Kazo (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

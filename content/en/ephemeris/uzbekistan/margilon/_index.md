@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+05:00
 lastmod: 2023-04-19T00:00:00+05:00
-title: Margilon
+title: Marg'ilon
 slug: margilon
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Uzbekistan
-  - Margilon
+  - Marg'ilon
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

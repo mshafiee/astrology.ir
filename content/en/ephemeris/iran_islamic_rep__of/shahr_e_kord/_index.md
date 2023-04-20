@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:30
 lastmod: 2023-04-19T00:00:00+03:30
-title: Shahre Kord
-slug: shahrekord
+title: Shahr-e Kord
+slug: shahr_e_kord
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
-  - Shahre Kord
+  - Iran, Islamic Rep. of
+  - Shahr-e Kord
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: Puerto Cabello Sunday
+title: Puerto Cabello (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Venezuela, Bolivarian Rep of
+  - Venezuela, Bolivarian Rep. of
   - Puerto Cabello
 description: 🗓 Sunday, 23 Apr 2023
 

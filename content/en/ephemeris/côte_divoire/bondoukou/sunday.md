@@ -1,13 +1,13 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: Bondoukou Sunday
+title: Bondoukou (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Bondoukou
 description: 🗓 Sunday, 23 Apr 2023
 

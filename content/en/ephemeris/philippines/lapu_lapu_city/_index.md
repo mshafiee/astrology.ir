@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: LapuLapu City
-slug: lapulapucity
+title: Lapu-Lapu City
+slug: lapu_lapu_city
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Philippines
-  - LapuLapu City
+  - Lapu-Lapu City
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

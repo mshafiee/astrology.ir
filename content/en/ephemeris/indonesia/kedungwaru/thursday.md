@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+07:00
 lastmod: 2023-04-20T00:00:00+07:00
-title: Kedungwaru Thursday
+title: Kedungwaru (Thursday)
 slug: thursday
 categories:
   - Ephemeris

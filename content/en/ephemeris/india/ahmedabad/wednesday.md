@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+05:30
 lastmod: 2023-04-19T00:00:00+05:30
-title: Ahmedabad Wednesday
+title: Ahmedabad (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

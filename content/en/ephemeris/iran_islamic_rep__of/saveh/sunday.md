@@ -1,13 +1,13 @@
 ---
 date: 2023-04-23T00:00:00+03:30
 lastmod: 2023-04-23T00:00:00+03:30
-title: Saveh Sunday
+title: Saveh (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
+  - Iran, Islamic Rep. of
   - Saveh
 description: 🗓 Sunday, 23 Apr 2023
 

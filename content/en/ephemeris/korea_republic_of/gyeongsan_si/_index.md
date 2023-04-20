@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Gyeongsansi
-slug: gyeongsansi
+title: Gyeongsan-si
+slug: gyeongsan_si
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Korea, Republic of
-  - Gyeongsansi
+  - Gyeongsan-si
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

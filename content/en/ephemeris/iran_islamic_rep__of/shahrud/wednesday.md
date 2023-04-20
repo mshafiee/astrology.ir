@@ -1,13 +1,13 @@
 ---
 date: 2023-04-19T00:00:00+03:30
 lastmod: 2023-04-19T00:00:00+03:30
-title: Shahrud Wednesday
+title: Shahrud (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
+  - Iran, Islamic Rep. of
   - Shahrud
 description: 🗓 Wednesday, 19 Apr 2023
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-07:00
 lastmod: 2023-04-23T00:00:00-07:00
-title: Ciudad Obregon Sunday
+title: Ciudad Obregon (Sunday)
 slug: sunday
 categories:
   - Ephemeris

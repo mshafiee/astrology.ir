@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+03:00
 lastmod: 2023-04-20T00:00:00+03:00
-title: Taif Thursday
+title: Ta'if (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Saudi Arabia
-  - Taif
+  - Ta'if
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

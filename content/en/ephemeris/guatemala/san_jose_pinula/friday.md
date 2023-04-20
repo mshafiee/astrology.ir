@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00-06:00
 lastmod: 2023-04-21T00:00:00-06:00
-title: San Jose Pinula Friday
+title: San Jose Pinula (Friday)
 slug: friday
 categories:
   - Ephemeris

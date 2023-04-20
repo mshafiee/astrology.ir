@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+07:00
 lastmod: 2023-04-18T00:00:00+07:00
-title: Cao Bang Tuesday
+title: Cao Bang (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

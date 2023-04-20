@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00-04:00
 lastmod: 2023-04-24T00:00:00-04:00
-title: South Bend Monday
+title: South Bend (Monday)
 slug: monday
 categories:
   - Ephemeris

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Abu Kabir Saturday
+title: Abu Kabir (Saturday)
 slug: saturday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+03:00
 lastmod: 2023-04-21T00:00:00+03:00
-title: Ar Rifa Friday
+title: Ar Rifa' (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Bahrain
-  - Ar Rifa
+  - Ar Rifa'
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

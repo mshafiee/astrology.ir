@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+05:30
 lastmod: 2023-04-23T00:00:00+05:30
-title: Kanchrapara Sunday
+title: Kanchrapara (Sunday)
 slug: sunday
 categories:
   - Ephemeris

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+01:00
 lastmod: 2023-04-20T00:00:00+01:00
-title: West Bromwich Thursday
+title: West Bromwich (Thursday)
 slug: thursday
 categories:
   - Ephemeris

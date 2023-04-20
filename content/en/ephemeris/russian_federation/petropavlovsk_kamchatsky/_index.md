@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+12:00
 lastmod: 2023-04-19T00:00:00+12:00
-title: PetropavlovskKamchatsky
-slug: petropavlovskkamchatsky
+title: Petropavlovsk-Kamchatsky
+slug: petropavlovsk_kamchatsky
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - PetropavlovskKamchatsky
+  - Petropavlovsk-Kamchatsky
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: Scunthorpe Wednesday
+title: Scunthorpe (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°27'53.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°30'36.02" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°36'37.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°53'15.72" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°16'26.98" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|23°30'35.96" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°36'37.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°53'15.39" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°16'26.51" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Retrograde|15°23'27.53" |Aries|Butain|Sun|
-|☾ Moon|Direct|16°34'40.38" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|16°33'10.90" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

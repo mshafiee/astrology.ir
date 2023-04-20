@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: Nitra Thursday
+title: Nitra (Thursday)
 slug: thursday
 categories:
   - Ephemeris

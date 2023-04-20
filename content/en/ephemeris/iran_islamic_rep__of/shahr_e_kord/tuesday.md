@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+03:30
 lastmod: 2023-04-18T00:00:00+03:30
-title: Shahre Kord Tuesday
+title: Shahr-e Kord (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
-  - Shahre Kord
+  - Iran, Islamic Rep. of
+  - Shahr-e Kord
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

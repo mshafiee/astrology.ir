@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+05:00
 lastmod: 2023-04-22T00:00:00+05:00
-title: Nukus Saturday
+title: Nukus (Saturday)
 slug: saturday
 categories:
   - Ephemeris

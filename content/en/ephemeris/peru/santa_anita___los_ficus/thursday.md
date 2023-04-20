@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00-05:00
 lastmod: 2023-04-20T00:00:00-05:00
-title: Santa Anita  Los Ficus Thursday
+title: Santa Anita - Los Ficus (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Peru
-  - Santa Anita  Los Ficus
+  - Santa Anita - Los Ficus
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

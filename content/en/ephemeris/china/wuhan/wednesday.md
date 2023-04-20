@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+08:00
 lastmod: 2023-04-19T00:00:00+08:00
-title: Wuhan Wednesday
+title: Wuhan (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|12°27'15.89" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|28°36'6.67" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|8°56'14.48" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°19'27.37" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°48'28.55" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|15°19'27.08" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°43'49.43" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

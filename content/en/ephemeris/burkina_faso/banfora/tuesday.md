@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: Banfora Tuesday
+title: Banfora (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

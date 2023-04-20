@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00Z
 lastmod: 2023-04-24T00:00:00Z
-title: Freetown Monday
+title: Freetown (Monday)
 slug: monday
 categories:
   - Ephemeris

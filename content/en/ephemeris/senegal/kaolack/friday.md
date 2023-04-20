@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00Z
 lastmod: 2023-04-21T00:00:00Z
-title: Kaolack Friday
+title: Kaolack (Friday)
 slug: friday
 categories:
   - Ephemeris

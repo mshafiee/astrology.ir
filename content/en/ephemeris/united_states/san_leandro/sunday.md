@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-07:00
 lastmod: 2023-04-23T00:00:00-07:00
-title: San Leandro Sunday
+title: San Leandro (Sunday)
 slug: sunday
 categories:
   - Ephemeris

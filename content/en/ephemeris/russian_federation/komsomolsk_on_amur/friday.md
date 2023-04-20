@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+10:00
 lastmod: 2023-04-21T00:00:00+10:00
-title: KomsomolskonAmur Friday
+title: Komsomolsk-on-Amur (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - KomsomolskonAmur
+  - Komsomolsk-on-Amur
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

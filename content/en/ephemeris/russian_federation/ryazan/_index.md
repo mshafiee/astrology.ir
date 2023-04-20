@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Ryazan
+title: Ryazan'
 slug: ryazan
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Ryazan
+  - Ryazan'
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

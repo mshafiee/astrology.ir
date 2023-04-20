@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+04:30
 lastmod: 2023-04-19T00:00:00+04:30
-title: Mazare Sharif
-slug: mazaresharif
+title: Mazar-e Sharif
+slug: mazar_e_sharif
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Afghanistan
-  - Mazare Sharif
+  - Mazar-e Sharif
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

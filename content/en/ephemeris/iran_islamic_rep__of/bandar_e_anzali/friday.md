@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+03:30
 lastmod: 2023-04-21T00:00:00+03:30
-title: Bandare Anzali Friday
+title: Bandar-e Anzali (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
-  - Bandare Anzali
+  - Iran, Islamic Rep. of
+  - Bandar-e Anzali
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

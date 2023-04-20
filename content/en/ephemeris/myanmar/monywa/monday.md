@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+06:30
 lastmod: 2023-04-24T00:00:00+06:30
-title: Monywa Monday
+title: Monywa (Monday)
 slug: monday
 categories:
   - Ephemeris

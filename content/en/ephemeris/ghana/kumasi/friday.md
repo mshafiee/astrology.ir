@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00Z
 lastmod: 2023-04-21T00:00:00Z
-title: Kumasi Friday
+title: Kumasi (Friday)
 slug: friday
 categories:
   - Ephemeris

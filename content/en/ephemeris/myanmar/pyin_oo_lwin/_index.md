@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+06:30
 lastmod: 2023-04-19T00:00:00+06:30
 title: Pyin Oo Lwin
-slug: pyinoolwin
+slug: pyin_oo_lwin
 categories:
   - Ephemeris
 tags:

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00+02:00
 lastmod: 2023-04-22T00:00:00+02:00
-title: Kumanovo Saturday
+title: Kumanovo (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Macedonia, The former Yugoslav Rep of
+  - Macedonia, The former Yugoslav Rep. of
   - Kumanovo
 description: 🗓 Saturday, 22 Apr 2023
 

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+03:00
 lastmod: 2023-04-22T00:00:00+03:00
-title: YoshkarOla Saturday
+title: Yoshkar-Ola (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - YoshkarOla
+  - Yoshkar-Ola
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

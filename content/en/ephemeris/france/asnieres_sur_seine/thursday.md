@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: AsnieressurSeine Thursday
+title: Asnieres-sur-Seine (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - France
-  - AsnieressurSeine
+  - Asnieres-sur-Seine
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

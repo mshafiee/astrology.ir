@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: Ciudad Lerdo
-slug: ciudadlerdo
+slug: ciudad_lerdo
 categories:
   - Ephemeris
 tags:

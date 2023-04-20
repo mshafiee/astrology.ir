@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00+02:00
 lastmod: 2023-04-18T00:00:00+02:00
-title: Nice Tuesday
+title: Nice (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

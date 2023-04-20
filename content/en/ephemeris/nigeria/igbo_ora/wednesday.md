@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+01:00
 lastmod: 2023-04-19T00:00:00+01:00
-title: IgboOra Wednesday
+title: Igbo-Ora (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Nigeria
-  - IgboOra
+  - Igbo-Ora
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Nishinomiyahama
-slug: nishinomiyahama
+title: Nishinomiya-hama
+slug: nishinomiya_hama
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Nishinomiyahama
+  - Nishinomiya-hama
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: Santo Domingo Este Sunday
+title: Santo Domingo Este (Sunday)
 slug: sunday
 categories:
   - Ephemeris

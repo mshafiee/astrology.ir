@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+06:00
 lastmod: 2023-04-19T00:00:00+06:00
-title: JalalAbad
-slug: jalalabad
+title: Jalal-Abad
+slug: jalal_abad
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Kyrgyzstan
-  - JalalAbad
+  - Jalal-Abad
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

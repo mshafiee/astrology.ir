@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+01:00
 lastmod: 2023-04-23T00:00:00+01:00
-title: Royal Leamington Spa Sunday
+title: Royal Leamington Spa (Sunday)
 slug: sunday
 categories:
   - Ephemeris

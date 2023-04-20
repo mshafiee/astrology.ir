@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-04:00
 lastmod: 2023-04-23T00:00:00-04:00
-title: Centreville Sunday
+title: Centreville (Sunday)
 slug: sunday
 categories:
   - Ephemeris
@@ -331,7 +331,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'14.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'34.10" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°31'33.94" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°52'38.31" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°1'2.03" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°7'4.22" |Gemini|HanAh|Mars|

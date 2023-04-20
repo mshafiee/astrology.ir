@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00Z
 lastmod: 2023-04-23T00:00:00Z
-title: GrandBassam Sunday
+title: Grand-Bassam (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
-  - GrandBassam
+  - Côte d'Ivoire
+  - Grand-Bassam
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

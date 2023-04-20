@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00+02:00
 lastmod: 2023-04-20T00:00:00+02:00
-title: Mabopane Thursday
+title: Mabopane (Thursday)
 slug: thursday
 categories:
   - Ephemeris
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'56.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'44.92" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°8'2.36" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°50'43.79" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°24'3.29" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'15.76" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°9'46.98" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°44'46.10" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°8'1.33" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°50'50.61" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°24'5.91" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'23.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°55'28.22" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

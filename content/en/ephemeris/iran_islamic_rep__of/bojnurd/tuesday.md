@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00+03:30
 lastmod: 2023-04-18T00:00:00+03:30
-title: Bojnurd Tuesday
+title: Bojnurd (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Iran, Islamic Rep of
+  - Iran, Islamic Rep. of
   - Bojnurd
 description: 🗓 Tuesday, 18 Apr 2023
 

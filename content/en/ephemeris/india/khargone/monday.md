@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+05:30
 lastmod: 2023-04-24T00:00:00+05:30
-title: Khargone Monday
+title: Khargone (Monday)
 slug: monday
 categories:
   - Ephemeris
@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°52'7.13" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°40'3.38" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°11'44.29" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°35'23.86" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°47'14.03" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°17'7.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°40'56.34" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|3°35'34.15" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°47'25.17" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°17'25.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°53'22.03" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}

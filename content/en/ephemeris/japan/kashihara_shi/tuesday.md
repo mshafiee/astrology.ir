@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+09:00
 lastmod: 2023-04-18T00:00:00+09:00
-title: Kashiharashi Tuesday
+title: Kashihara-shi (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Japan
-  - Kashiharashi
+  - Kashihara-shi
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00+04:30
 lastmod: 2023-04-24T00:00:00+04:30
-title: Baghlan Monday
+title: Baghlan (Monday)
 slug: monday
 categories:
   - Ephemeris

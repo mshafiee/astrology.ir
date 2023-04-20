@@ -1,13 +1,13 @@
 ---
 date: 2023-04-24T00:00:00+02:00
 lastmod: 2023-04-24T00:00:00+02:00
-title: Skopje Monday
+title: Skopje (Monday)
 slug: monday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Macedonia, The former Yugoslav Rep of
+  - Macedonia, The former Yugoslav Rep. of
   - Skopje
 description: 🗓 Monday, 24 Apr 2023
 

@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-04:00
 lastmod: 2023-04-19T00:00:00-04:00
 title: Miami Gardens
-slug: miamigardens
+slug: miami_gardens
 categories:
   - Ephemeris
 tags:

@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00+07:00
 lastmod: 2023-04-22T00:00:00+07:00
-title: Pakse Saturday
+title: Pakse (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Lao Peoples Dem Rep
+  - Lao People's Dem. Rep.
   - Pakse
 description: 🗓 Saturday, 22 Apr 2023
 

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-20T00:00:00+09:00
 lastmod: 2023-04-20T00:00:00+09:00
-title: Pyongsong Thursday
+title: P'yongsong (Thursday)
 slug: thursday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem Peoples Rep of
-  - Pyongsong
+  - Korea, Dem. People's Rep. of
+  - P'yongsong
 description: 🗓 Thursday, 20 Apr 2023
 
 toc: false

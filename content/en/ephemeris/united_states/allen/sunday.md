@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-05:00
 lastmod: 2023-04-23T00:00:00-05:00
-title: Allen Sunday
+title: Allen (Sunday)
 slug: sunday
 categories:
   - Ephemeris

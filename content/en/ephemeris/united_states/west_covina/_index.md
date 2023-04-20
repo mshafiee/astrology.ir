@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-07:00
 lastmod: 2023-04-19T00:00:00-07:00
 title: West Covina
-slug: westcovina
+slug: west_covina
 categories:
   - Ephemeris
 tags:

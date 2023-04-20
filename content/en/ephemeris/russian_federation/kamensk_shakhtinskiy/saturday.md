@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+03:00
 lastmod: 2023-04-22T00:00:00+03:00
-title: KamenskShakhtinskiy Saturday
+title: Kamensk-Shakhtinskiy (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - KamenskShakhtinskiy
+  - Kamensk-Shakhtinskiy
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

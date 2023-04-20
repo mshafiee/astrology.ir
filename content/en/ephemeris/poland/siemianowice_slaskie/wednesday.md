@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+02:00
 lastmod: 2023-04-19T00:00:00+02:00
-title: Siemianowice Slaskie Wednesday
+title: Siemianowice Slaskie (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris

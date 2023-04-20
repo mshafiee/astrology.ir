@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00Z
 lastmod: 2023-04-19T00:00:00Z
 title: Sale Al Jadida
-slug: salealjadida
+slug: sale_al_jadida
 categories:
   - Ephemeris
 tags:

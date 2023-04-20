@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00-06:00
 lastmod: 2023-04-19T00:00:00-06:00
 title: San Martin Texmelucan de Labastida
-slug: sanmartintexmelucandelabastida
+slug: san_martin_texmelucan_de_labastida
 categories:
   - Ephemeris
 tags:

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: RostovnaDonu
-slug: rostovnadonu
+title: Rostov-na-Donu
+slug: rostov_na_donu
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - RostovnaDonu
+  - Rostov-na-Donu
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

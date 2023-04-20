@@ -1,7 +1,7 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Najaf Wednesday
+title: Najaf (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|12°33'25.77" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|28°47'25.69" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|9°9'33.66" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°22'11.63" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°22'11.33" |Aries|Butain|Sun|
 |☾ Moon|Direct|15°30'24.13" |Pisces|FarghAlMuakhar|Jupiter|
 
 

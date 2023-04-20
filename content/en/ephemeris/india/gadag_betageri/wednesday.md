@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+05:30
 lastmod: 2023-04-19T00:00:00+05:30
-title: GadagBetageri Wednesday
+title: Gadag-Betageri (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - India
-  - GadagBetageri
+  - Gadag-Betageri
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

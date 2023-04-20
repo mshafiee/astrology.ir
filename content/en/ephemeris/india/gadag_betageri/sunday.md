@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+05:30
 lastmod: 2023-04-23T00:00:00+05:30
-title: GadagBetageri Sunday
+title: Gadag-Betageri (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - India
-  - GadagBetageri
+  - Gadag-Betageri
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

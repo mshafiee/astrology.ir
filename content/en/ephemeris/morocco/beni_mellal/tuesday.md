@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: Beni Mellal Tuesday
+title: Beni Mellal (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

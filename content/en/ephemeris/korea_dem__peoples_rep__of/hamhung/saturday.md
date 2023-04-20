@@ -1,13 +1,13 @@
 ---
 date: 2023-04-22T00:00:00+09:00
 lastmod: 2023-04-22T00:00:00+09:00
-title: Hamhung Saturday
+title: Hamhung (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem Peoples Rep of
+  - Korea, Dem. People's Rep. of
   - Hamhung
 description: 🗓 Saturday, 22 Apr 2023
 

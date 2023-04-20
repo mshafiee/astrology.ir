@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00-07:00
 lastmod: 2023-04-23T00:00:00-07:00
-title: Fairfield Sunday
+title: Fairfield (Sunday)
 slug: sunday
 categories:
   - Ephemeris
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°56'39.91" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°8'18.96" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°15'35.06" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°23'38.67" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°23'40.18" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|14°54'35.02" |Gemini|HanAh|Mars|
 
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-24T00:00:00Z
 lastmod: 2023-04-24T00:00:00Z
-title: Koutiala Monday
+title: Koutiala (Monday)
 slug: monday
 categories:
   - Ephemeris

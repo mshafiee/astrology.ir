@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+09:00
 lastmod: 2023-04-19T00:00:00+09:00
-title: Songnimni
-slug: songnimni
+title: Songnim-ni
+slug: songnim_ni
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Korea, Dem Peoples Rep of
-  - Songnimni
+  - Korea, Dem. People's Rep. of
+  - Songnim-ni
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

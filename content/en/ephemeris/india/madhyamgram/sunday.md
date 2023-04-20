@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+05:30
 lastmod: 2023-04-23T00:00:00+05:30
-title: Madhyamgram Sunday
+title: Madhyamgram (Sunday)
 slug: sunday
 categories:
   - Ephemeris

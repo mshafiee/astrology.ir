@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+04:00
 lastmod: 2023-04-21T00:00:00+04:00
-title: Dubai Friday
+title: Dubai (Friday)
 slug: friday
 categories:
   - Ephemeris
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°37'29.88" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°57'38.80" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°36'41.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°43'9.26" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°25'32.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'11.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°46'35.53" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°43'5.82" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°25'29.35" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'6.06" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°23'8.66" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}

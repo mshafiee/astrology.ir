@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00-06:00
 lastmod: 2023-04-18T00:00:00-06:00
-title: Retalhuleu Tuesday
+title: Retalhuleu (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

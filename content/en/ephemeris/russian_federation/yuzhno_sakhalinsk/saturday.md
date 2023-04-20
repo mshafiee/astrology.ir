@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+11:00
 lastmod: 2023-04-22T00:00:00+11:00
-title: YuzhnoSakhalinsk Saturday
+title: Yuzhno-Sakhalinsk (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - YuzhnoSakhalinsk
+  - Yuzhno-Sakhalinsk
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

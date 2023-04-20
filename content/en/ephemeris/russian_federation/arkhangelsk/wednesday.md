@@ -1,14 +1,14 @@
 ---
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
-title: Arkhangelsk Wednesday
+title: Arkhangel'sk (Wednesday)
 slug: wednesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - Arkhangelsk
+  - Arkhangel'sk
 description: 🗓 Wednesday, 19 Apr 2023
 
 toc: false

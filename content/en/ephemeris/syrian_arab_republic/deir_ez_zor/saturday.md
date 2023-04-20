@@ -1,14 +1,14 @@
 ---
 date: 2023-04-22T00:00:00+03:00
 lastmod: 2023-04-22T00:00:00+03:00
-title: Deir ezZor Saturday
+title: Deir ez-Zor (Saturday)
 slug: saturday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Syrian Arab Republic
-  - Deir ezZor
+  - Deir ez-Zor
 description: 🗓 Saturday, 22 Apr 2023
 
 toc: false

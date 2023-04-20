@@ -2,7 +2,7 @@
 date: 2023-04-19T00:00:00+03:00
 lastmod: 2023-04-19T00:00:00+03:00
 title: Khamis Mushait
-slug: khamismushait
+slug: khamis_mushait
 categories:
   - Ephemeris
 tags:

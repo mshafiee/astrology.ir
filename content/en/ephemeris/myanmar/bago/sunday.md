@@ -1,7 +1,7 @@
 ---
 date: 2023-04-23T00:00:00+06:30
 lastmod: 2023-04-23T00:00:00+06:30
-title: Bago Sunday
+title: Bago (Sunday)
 slug: sunday
 categories:
   - Ephemeris

@@ -1,14 +1,14 @@
 ---
 date: 2023-04-18T00:00:00+01:00
 lastmod: 2023-04-18T00:00:00+01:00
-title: WestonsuperMare Tuesday
+title: Weston-super-Mare (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - United Kingdom
-  - WestonsuperMare
+  - Weston-super-Mare
 description: 🗓 Tuesday, 18 Apr 2023
 
 toc: false

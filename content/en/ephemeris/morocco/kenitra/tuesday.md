@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: Kenitra Tuesday
+title: Kenitra (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T00:00:00+01:00
 lastmod: 2023-04-22T00:00:00+01:00
-title: Sidi Bel Abbes Saturday
+title: Sidi Bel Abbes (Saturday)
 slug: saturday
 categories:
   - Ephemeris

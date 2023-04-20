@@ -1,14 +1,14 @@
 ---
 date: 2023-04-23T00:00:00+03:00
 lastmod: 2023-04-23T00:00:00+03:00
-title: KirovoChepetsk Sunday
+title: Kirovo-Chepetsk (Sunday)
 slug: sunday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Russian Federation
-  - KirovoChepetsk
+  - Kirovo-Chepetsk
 description: 🗓 Sunday, 23 Apr 2023
 
 toc: false

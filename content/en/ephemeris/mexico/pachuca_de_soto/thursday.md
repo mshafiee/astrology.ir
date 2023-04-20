@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20T00:00:00-06:00
 lastmod: 2023-04-20T00:00:00-06:00
-title: Pachuca de Soto Thursday
+title: Pachuca de Soto (Thursday)
 slug: thursday
 categories:
   - Ephemeris

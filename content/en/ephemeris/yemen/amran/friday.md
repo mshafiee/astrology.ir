@@ -1,14 +1,14 @@
 ---
 date: 2023-04-21T00:00:00+03:00
 lastmod: 2023-04-21T00:00:00+03:00
-title: Amran Friday
+title: 'Amran (Friday)
 slug: friday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
   - Yemen
-  - Amran
+  - 'Amran
 description: 🗓 Friday, 21 Apr 2023
 
 toc: false

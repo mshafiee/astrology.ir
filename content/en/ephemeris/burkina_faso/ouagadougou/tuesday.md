@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: Ouagadougou Tuesday
+title: Ouagadougou (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris

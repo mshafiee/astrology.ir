@@ -1,13 +1,13 @@
 ---
 date: 2023-04-18T00:00:00Z
 lastmod: 2023-04-18T00:00:00Z
-title: Sinfra Tuesday
+title: Sinfra (Tuesday)
 slug: tuesday
 categories:
   - Ephemeris
 tags:
   - Ephemeris
-  - Côte dIvoire
+  - Côte d'Ivoire
   - Sinfra
 description: 🗓 Tuesday, 18 Apr 2023
 

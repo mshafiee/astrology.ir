@@ -1,7 +1,7 @@
 ---
 date: 2023-04-21T00:00:00+01:00
 lastmod: 2023-04-21T00:00:00+01:00
-title: Oxford Friday
+title: Oxford (Friday)
 slug: friday
 categories:
   - Ephemeris
@@ -292,7 +292,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'8.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'29.39" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°59'29.46" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°40'48.99" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°50'37.86" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°34'20.58" |Taurus|Dabaran|Moon|
