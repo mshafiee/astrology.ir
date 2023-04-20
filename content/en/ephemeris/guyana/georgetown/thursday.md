@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Demerara,  Dzhordzhtaun,  Dzordztaun,  Dzordztauna,  Dzordztaunas,  Dzordztauns,  Džordžtaun,  Džordžtauna,  Džordžtaunas,  Džordžtauns,  GEO,  Georgetown,  Georgetown i Guyana,  Georgiopolis,  Georgurbo,  Gorgtauno,  Jojton,  Jòjtòn,  Tzortztaoun,  Zhorzhtaun,  cxrc thawn,  gwrgtʼwn,  jarajata'una,  jarj ٹawn  gyana,  jarjata'una,  jojitaun,  jorjata'una,  jorjtavun,  jrj
+Alternate Names: Demerara, Dzhordzhtaun, Dzordztaun, Dzordztauna, Dzordztaunas, Dzordztauns, Džordžtaun, Džordžtauna, Džordžtaunas, Džordžtauns, GEO, Georgetown, Georgetown i Guyana, Georgiopolis, Georgurbo, Jojton, Jòjtòn, Tzortztaoun, Zhorzhtaun, cxrc thawn, gwrgtʼwn, jarajata'una, jarj ٹawn  gyana, jarjata'una, jojitaun, jorjata'una, jorjtavun, jrj
 
 ---

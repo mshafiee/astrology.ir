@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: NOU,  Nomea,  Noumea,  Nouméa,  Numea,  Numeja,  Numeo,  Numėja,  Port de France,  nu me xa,  nu mei a,  nume'a,  numea,  numiya,  nwmya,  Νουμεά,  Нумеа,  נומאה,  نومئا,  نوميا,  नूमेआ,  நூமியா,  นูเมอา,  ნუმეა,  ヌメア,  努美阿,  누메아
+Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아
 
 ---

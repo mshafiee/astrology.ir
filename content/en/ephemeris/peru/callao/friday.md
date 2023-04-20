@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Callao,  El Callao,  Kajao,  Kal'jaa,  Kal'jao,  Kalao,  Kaljao,  Kallao,  Kallaw,  Kalyao,  Regio de Callao,  Regió de Callao,  ka ya e,  kayao,  kayaw,  kayayw,  klaw,  Кальяа,  Кальяо,  Каляо,  Каяо,  Каљао,  Կալյաո,  كاياو,  کایائو,  کایاو,  کلاؤ,  კალიაო,  カヤオ,  卡亞俄,  카야오
+Alternate Names: Callao, El Callao, Kajao, Kal'jaa, Kal'jao, Kalao, Kaljao, Kallao, Kallaw, Kalyao, Regio de Callao, Regió de Callao, ka ya e, kayao, kayaw, kayayw, klaw, Кальяа, Кальяо, Каляо, Каяо, Каљао, Կալյաո, كاياو, کایائو, کایاو, کلاؤ, კალიაო, カヤオ, 卡亞俄, 카야오
 
 ---

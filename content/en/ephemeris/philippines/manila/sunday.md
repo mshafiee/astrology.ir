@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: City of Manila,  Dakbayan sa Manila,  Lungsod ng Maynila,  MNL,  Mainile,  Manila,  Manilae,  Manilla,  Manillah,  Manille,  Manilo,  Manyl,  Maníla,  Maynila,  Menila,  ma ni la,  manila,  manilla,  manira,  manyl,  manyla,  mnila,  mnylh,  myanila,  Μανίλα,  Манилæ,  Манила,  Маніла,  מנילה,  مانىلا,  مانيلا,  مانیل,  مانیلا,  मनिला,  मनीला,  ম্যানিলা,  மணிலா,  ಮನಿಲ,  මැනිලා,  มนิลา,  มะนิลา,  མ་ནི་ལ།,  မနီလာမြို့,  მანილა,  ማኒላ,  マニラ,  馬尼拉,  马尼拉,  마닐라
+Alternate Names: City of Manila, Dakbayan sa Manila, Lungsod ng Maynila, MNL, Mainile, Manila, Manilae, Manilla, Manillah, Manille, Manilo, Manyl, Maníla, Maynila, Menila, ma ni la, manila, manilla, manira, manyl, manyla, mnila, mnylh, myanila, Μανίλα, Манилæ, Манила, Маніла, מנילה, مانىلا, مانيلا, مانیل, مانیلا, मनिला, मनीला, ম্যানিলা, மணிலா, ಮನಿಲ, මැනිලා, มนิลา, มะนิลา, མ་ནི་ལ།, မနီလာမြို့, მანილა, ማኒላ, マニラ, 马尼拉, 마닐라
 
 ---

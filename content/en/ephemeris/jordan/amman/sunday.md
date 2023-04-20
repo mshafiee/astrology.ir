@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'43.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'8.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°42'41.20" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°43'2.17" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°46'0.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'28.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°29'57.49" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°27'7.37" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°42'44.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°42'55.45" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°46'1.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'21.13" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°25'3.17" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: 'Amman,  AMM,  Ama,  Aman,  Amanas,  Amani,  Amano,  Amans,  Amman,  Ammana,  Ammon,  Ammán,  Ammān,  Ammāna,  Amàn,  Amán,  Amã,  Philadelphia,  Rabbah,  Rabbath Ammon,  am'man,  am'mana,  aman,  amana,  amani,  amman,  an man,  anman,  xam man,  yamman,  ʻmʼn,  ʿman,  ʿmʾn,  Αμμάν,  Аман,  Амман,  Аммон,  Ամման,  אמאן,  עמאן,  ئاممان,  امان,  عمان,  عمان شہر,  عمّان,  عَمّان,  عەممان,  ܥܡܐܢ,  अम्मान,  আম্মান,  ਅਮਾਨ,  அம்மான்,  ಅಮ್ಮಾನ್,  അമ്മാൻ,  อัมมาน,  ཨམ་མན།,  ამანი,  አማን,  ‘Ammān,  アンマン,  安曼,  암만
+Alternate Names: 'Amman, AMM, Ama, Aman, Amanas, Amani, Amano, Amans, Amman, Ammana, Ammon, Ammán, Ammān, Ammāna, Amàn, Amán, Amã, Philadelphia, Rabbah, Rabbath Ammon, am'man, am'mana, aman, amana, amani, amman, an man, anman, xam man, yamman, ʻmʼn, ʿman, ʿmʾn, Αμμάν, Аман, Амман, Аммон, Ամման, אמאן, עמאן, ئاممان, امان, عمان, عمان شہر, عمّان, عَمّان, عەممان, ܥܡܐܢ, अम्मान, আম্মান, ਅਮਾਨ, அம்மான், ಅಮ್ಮಾನ್, അമ്മാൻ, อัมมาน, ཨམ་མན།, ამანი, አማን, ‘Ammān, アンマン, 安曼, 암만
 
 ---

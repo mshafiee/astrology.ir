@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BKO,  Bamaco - Bamako,  Bamakas,  Bamako,  Bamaku,  Bamakó,  Bamakɔ,  Bammaco,  Bammako,  Bàmakɔ,  Mpamako,  ba ma ke,  bamako,  bamakw,  bmqw,  Μπαμάκο,  Бамако,  Բամակո,  במקו,  باماكو,  باماکو,  ባማኮ,  バマコ,  巴馬科,  바마코
+Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코
 
 ---

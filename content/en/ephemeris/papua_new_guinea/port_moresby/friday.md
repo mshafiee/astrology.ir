@@ -20,7 +20,7 @@ Latitude: -9.4772
 \-
 Longitude: 147.1509
 \-
-Altitude: 25 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Port Moresby, Papua New Guinea" lat="-9.4772" lng="147.1509" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:11:04 |
-| Sunrise | 06:14:33 |
+| Sunrise | 06:14:32 |
 | Dhuhr | 12:10:14 |
 | Medium Coeli | 12:10:14 |
 | Sunset | 18:05:48 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:04:05 |
-| Sunrise | 06:14:33 |
+| Sunrise | 06:14:32 |
 | Dhuhr | 12:10:14 |
 | Medium Coeli | 12:10:14 |
 | Sunset | 18:05:48 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:02:51 |
-| Sunrise | 06:14:33 |
+| Sunrise | 06:14:32 |
 | Dhuhr | 12:10:14 |
 | Medium Coeli | 12:10:14 |
 | Sunset | 18:05:48 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:15:11 |
-| Sunrise | 06:14:33 |
+| Sunrise | 06:14:32 |
 | Dhuhr | 12:10:14 |
 | Medium Coeli | 12:10:14 |
 | Sunset | 18:05:48 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:56:41 |
-| Sunrise | 06:14:33 |
+| Sunrise | 06:14:32 |
 | Dhuhr | 12:10:14 |
 | Medium Coeli | 12:10:14 |
 | Sunset | 18:05:48 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:02:51 |
-| Sunrise | 06:14:33 |
+| Sunrise | 06:14:32 |
 | Dhuhr | 12:10:14 |
 | Medium Coeli | 12:10:14 |
 | Sunset | 18:05:48 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:00:48 |
-| Sunrise | 06:14:33 |
+| Sunrise | 06:14:32 |
 | Dhuhr | 12:10:14 |
 | Medium Coeli | 12:10:14 |
 | Sunset | 18:05:48 |
@@ -204,21 +204,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:51:15|Night duration: 12:08:47|
+|Duration of the day: 11:51:16|Night duration: 12:08:46|
 |Every hour of day duration: 00:59:16|Every hour of night duration: 01:00:44|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:14:33|07:13:48|Attracting love and creating emotional attachment|
-|2|Mercury|Servant|07:13:49|08:13:04|Attracting good luck|
-|3|Moon|Servant|08:13:05|09:12:20|Attracting negativity, and avoiding any harmful action|
-|4|Saturn|Servant|09:12:21|10:11:37|Being hateful for a certain period of time|
-|5|Jupiter|Servant|10:11:38|11:10:53|Gaining status, position, and attracting happiness in the workplace|
-|6|Mars|Servant|11:10:54|12:10:09|Attracting attention and acceptance from important people|
+|1|Venus|Ruler|06:14:32|07:13:47|Attracting love and creating emotional attachment|
+|2|Mercury|Servant|07:13:48|08:13:03|Attracting good luck|
+|3|Moon|Servant|08:13:04|09:12:20|Attracting negativity, and avoiding any harmful action|
+|4|Saturn|Servant|09:12:21|10:11:36|Being hateful for a certain period of time|
+|5|Jupiter|Servant|10:11:37|11:10:52|Gaining status, position, and attracting happiness in the workplace|
+|6|Mars|Servant|11:10:53|12:10:09|Attracting attention and acceptance from important people|
 |7|Sun|Servant|12:10:10|13:09:25|Advancing and attracting wealth|
-|8|Venus|Ruler|13:09:26|14:08:42|Extremely lucky and achieving ultimate happiness|
-|9|Mercury|Servant|14:08:43|15:07:58|Separating and making someone homeless|
+|8|Venus|Ruler|13:09:26|14:08:41|Extremely lucky and achieving ultimate happiness|
+|9|Mercury|Servant|14:08:42|15:07:58|Separating and making someone homeless|
 |10|Moon|Servant|15:07:59|16:07:14|Extremely hateful and causing harm|
 |11|Saturn|Servant|16:07:15|17:06:30|Creating a negative destiny for anyone|
 |12|Jupiter|Servant|17:06:31|18:05:47|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
@@ -232,12 +232,12 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|21:07:59|22:08:42|Being hateful for a certain period of time|
 |5|Moon|Servant|22:08:43|23:09:26|Gaining status, position, and attracting happiness in the workplace|
 |6|Saturn|Servant|23:09:27|00:10:10|Attracting attention and acceptance from important people|
-|7|Jupiter|Servant|00:10:11|01:10:54|Advancing and attracting wealth|
-|8|Mars|Ruler|01:10:55|02:11:38|Extremely lucky and achieving ultimate happiness|
-|9|Sun|Servant|02:11:39|03:12:22|Separating and making someone homeless|
-|10|Venus|Servant|03:12:23|04:13:06|Extremely hateful and causing harm|
-|11|Mercury|Servant|04:13:07|05:13:50|Creating a negative destiny for anyone|
-|12|Moon|Servant|05:13:51|06:14:34|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|7|Jupiter|Servant|00:10:11|01:10:53|Advancing and attracting wealth|
+|8|Mars|Ruler|01:10:54|02:11:37|Extremely lucky and achieving ultimate happiness|
+|9|Sun|Servant|02:11:38|03:12:21|Separating and making someone homeless|
+|10|Venus|Servant|03:12:22|04:13:05|Extremely hateful and causing harm|
+|11|Mercury|Servant|04:13:06|05:13:49|Creating a negative destiny for anyone|
+|12|Moon|Servant|05:13:50|06:14:33|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
  
@@ -250,20 +250,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:51:15|Night duration: 12:08:47|
-|Every hour duration: 01:41:36|Every hour duration: 01:44:07|
+|Duration of the day: 11:51:16|Night duration: 12:08:46|
+|Every hour duration: 01:41:37|Every hour duration: 01:44:07|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|06:14:33|07:56:08|
-|Mid-morning|Mercury|Servant|07:56:09|09:37:44|
-|Late morning|Moon|Servant|09:37:45|11:19:21|
-|Noon|Saturn|Servant|11:19:22|13:00:57|
-|Early afternoon|Jupiter|Servant|13:00:58|14:42:34|
-|Mid-afternoon|Mars|Servant|14:42:35|16:24:10|
+|Early morning|Venus|Ruler|06:14:32|07:56:07|
+|Mid-morning|Mercury|Servant|07:56:08|09:37:44|
+|Late morning|Moon|Servant|09:37:45|11:19:20|
+|Noon|Saturn|Servant|11:19:21|13:00:57|
+|Early afternoon|Jupiter|Servant|13:00:58|14:42:33|
+|Mid-afternoon|Mars|Servant|14:42:34|16:24:10|
 |Late afternoon|Sun|Servant|16:24:11|18:05:47|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mars|Ruler|18:05:48|19:49:53|
 |Late evening|Sun|Servant|19:49:54|21:34:00|
-|Midnight|Venus|Servant|21:34:01|23:18:07|
-|Late at night|Mercury|Servant|23:18:08|01:02:13|
-|Rooster song|Moon|Servant|01:02:14|02:46:20|
-|False Dawn|Saturn|Servant|02:46:21|04:30:27|
-|Dawn|Jupiter|Servant|04:30:28|06:14:34|
+|Midnight|Venus|Servant|21:34:01|23:18:06|
+|Late at night|Mercury|Servant|23:18:07|01:02:13|
+|Rooster song|Moon|Servant|01:02:14|02:46:19|
+|False Dawn|Saturn|Servant|02:46:20|04:30:26|
+|Dawn|Jupiter|Servant|04:30:27|06:14:33|
 
 {{< /tab >}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'18.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°54'16.84" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°29'10.88" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°29'29.38" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°9'29.10" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°54'16.83" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°29'10.86" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°29'29.34" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°9'29.05" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'42.12" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°53'48.03" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|9°53'47.40" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'18.86" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°54'16.84" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°29'10.88" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°29'29.38" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°9'29.10" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|23°54'16.83" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°29'10.86" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°29'29.34" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°9'29.05" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°36'42.12" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°53'48.03" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|9°53'47.40" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: POM,  Po Moresbi,  Port Moresby,  Port Moresmpi,  Port Morsbi,  Port Morsbis,  Port-Moresbo,  Port-Morsbi,  Portmorsbi,  Portus Moresbiensis,  Pot Mosbi,  Puerto Moresby,  Pò Moresbi,  bwrt mwrsby,  mo er ci bi gang,  mo er zi bi gang,  phxrt mxr sbi,  porata moraisabi,  porta moresbi,  poteumoleujeubi,  potomoresubi,  pwrt mwrsby,  Πορτ Μόρεσμπι,  Порт Морсби,  Порт-Морсби,  Порт-Морсбі,  Պորտ Մորսբի,  פורט מורסבי,  بورت مورسبي,  صوبہ پورٹ مورسبائی,  مورېسبى پورتى,  پورت مورسبی,  پورٹ مورسبی,  پۆرت مۆرسبی,  पोर्ट मॉरेस्बी,  पोर्ट मोरेस्बी,  ਪੋਰਟ ਮੋਰੈਸਬੀ,  พอร์ตมอร์สบี,  པོ་རོ་ཊི་མོ་རེ་སི་བི།,  პორტ-მორზბი,  ፖርት ሞርስቢ,  ポートモレスビー,  莫尔兹比港,  포트모르즈비
+Alternate Names: POM, Po Moresbi, Port Moresby, Port Moresmpi, Port Morsbi, Port Morsbis, Port-Moresbo, Port-Morsbi, Portmorsbi, Portus Moresbiensis, Pot Mosbi, Puerto Moresby, Pò Moresbi, bwrt mwrsby, mo er ci bi gang, mo er zi bi gang, phxrt mxr sbi, porata moraisabi, porta moresbi, poteumoleujeubi, potomoresubi, pwrt mwrsby, Πορτ Μόρεσμπι, Порт Морсби, Порт-Морсби, Порт-Морсбі, Պորտ Մորսբի, פורט מורסבי, بورت مورسبي, صوبہ پورٹ مورسبائی, مورېسبى پورتى, پورت مورسبی, پورٹ مورسبی, پۆرت مۆرسبی, पोर्ट मॉरेस्बी, पोर्ट मोरेस्बी, ਪੋਰਟ ਮੋਰੈਸਬੀ, พอร์ตมอร์สบี, པོ་རོ་ཊི་མོ་རེ་སི་བི།, პორტ-მორზბი, ፖርት ሞርስቢ, ポートモレスビー, 莫尔兹比港, 포트모르즈비
 
 ---

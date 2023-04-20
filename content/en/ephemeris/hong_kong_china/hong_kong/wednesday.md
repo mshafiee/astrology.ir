@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Chon'nk Kon'nk,  Gankong,  Gon Kong,  Gonkong,  HKG,  Hiong-geng,  Hiŏng-gē̤ng,  Hong Kong,  Hongkong,  Honkong,  Honkongo,  Hồng Kông,  Khongkong,  Khonkong,  Victoria,  ankan,  hamga kamga,  hanakana,  hang kang,  hang kang nagaram,  hangakanga,  hang
+Alternate Names: Chon'nk Kon'nk, Gankong, Gon Kong, Gonkong, HKG, Hiong-geng, Hiŏng-gē̤ng, Hong Kong, Hongkong, Honkong, Hồng Kông, Khongkong, Khonkong, Victoria, ankan, hamga kamga, hanakana, hang kang, hang kang nagaram, hangakanga, hang
 
 ---

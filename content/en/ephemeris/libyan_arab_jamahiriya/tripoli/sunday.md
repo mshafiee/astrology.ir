@@ -20,7 +20,7 @@ Latitude: 32.8874
 \-
 Longitude: 13.1873
 \-
-Altitude: 15 meters
+Altitude: 7 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Tripoli, Libyan Arab Jamahiriya" lat="32.8874" lng="13.1873" zoom="12">}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Aea,  Ea,  Oea,  TIP,  Tarables,  Tarabulus,  Tarabulus al Gharb,  Tarabulus el Gharb,  Taràbles,  Trables,  Trablus,  Trablûs,  Triboli,  Tripili,  Tripilí,  Tripol,  Tripole,  Tripoli,  Tripolis,  Tripolo,  Tripoly,  Tripołi,  Tripul,  Tripuli,  Trypali,  Trypolis,  Trìpoli,  Trìpuli,  Trípol,  Trípoli,  Trípólí,  de li bo li,  tarabalasa,  tarabulasa,  tarabulus,  teulipolli,  tirippoli,  toripori,  trabls,  trabls  lybya,  tripoli,  trippeali,  trypwly,  Ţarābulus,  Ţarābulus al Gharb,  Τρίπολη,  Триполи,  Триполі,  Трыпалі,  Տրիպոլի,  טריפאלי,  טריפולי,  ترابلس,  ترىپولى,  تەرابلوس,  طرابلس,  طرابلس، لیبیا,  طَرَابُلُس,  ताराबूलस,  त्रिपोली,  ত্রিপোলি,  ਤਰਾਬਲਸ,  திரிப்பொலி,  ട്രിപ്പോളി,  ตริโปลี,  ཐི་རི་ཕོ་ལི,  ტრიპოლი,  ትሪፖሊ,  Ṭrables,  トリポリ,  的黎波里,  트리폴리
+Alternate Names: Aea, Ea, Oea, TIP, Tarables, Tarabulus, Tarabulus al Gharb, Tarabulus el Gharb, Taràbles, Trables, Trablus, Trablûs, Triboli, Tripili, Tripilí, Tripol, Tripole, Tripoli, Tripolis, Tripolo, Tripoly, Tripołi, Tripul, Tripuli, Trypali, Trypolis, Trìpoli, Trìpuli, Trípol, Trípoli, Trípólí, de li bo li, tarabalasa, tarabulasa, tarabulus, teulipolli, tirippoli, toripori, trabls, trabls  lybya, tripoli, trippeali, trypwly, Ţarābulus, Ţarābulus al Gharb, Τρίπολη, Триполи, Триполі, Трыпалі, Տրիպոլի, טריפאלי, טריפולי, ترابلس, ترىپولى, تەرابلوس, طرابلس, طرابلس، لیبیا, طَرَابُلُس, ताराबूलस, त्रिपोली, ত্রিপোলি, ਤਰਾਬਲਸ, திரிப்பொலி, ട്രിപ്പോളി, ตริโปลี, ཐི་རི་ཕོ་ལི, ტრიპოლი, ትሪፖሊ, Ṭrables, トリポリ, 的黎波里, 트리폴리
 
 ---

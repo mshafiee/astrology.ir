@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: FEZ,  Fes,  Fez,  Fès,  fas,  fezu,  Фес,  فاس,  フェズ
+Alternate Names: FEZ, Fes, Fez, Fès, fas, fezu, Фес, فاس, フェズ
 
 ---

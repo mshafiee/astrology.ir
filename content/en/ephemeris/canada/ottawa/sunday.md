@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Atava,  Otava,  Otavo,  Otawa,  Ottaba,  Ottahua,  Ottava,  Ottavae,  Ottawa,  YOW,  atawa,  atoya,  attava,  awtawa,  otava,  otawa,  ottava,  wo tai hua,  xxttawa,  AA¬²±,  Οττάβα,  Οτταβα,  Атава,  Отава,  Оттавæ,  Оттава,  Օտտավա,  אוטווה,  אטאווא,  أوتاوا,  ئۆتاوا,  اتاوا,  اوتآوآ,  اوٹاوا,  اٹاوہ,  ओटावा,  অটোয়া,  ਓਟਾਵਾ,  ଓଟାୱା,  ஒட்டாவா,  ಆಟ್ಟಾವಾ,  ഓട്ടവ,  ออตตาวา,  ཨོ་ཏ་ཝ།,  အော့တဝမြို့,  ოტავა,  ኦታዋ,  ᎠᏔᏩ,  ᐊᑐᕚ/atavaa,  オタワ,  渥太華,  오타와
+Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, 
 
 ---

@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|0°5'14.07" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|10°41'0.79" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°34'54.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°10'20.34" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°9'30.13" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Balenzia,  VLN,  Valencia,  Valencio,  Valens,  Valensi,  Valensia,  Valensii,  Valensija,  Valensiya,  Valentia,  Valentzia,  Valincia,  Valência,  ba lun xi ya,  balainsi'a,  ballensia,  barenshia,  blnsyt,  valensia,  walnsya  wnzwyla,  wlnsyh,  Валенс,  Валенси,  Валенсия,  Валенсија,  Валенсія,  Վալենսիա,  ולנסיה,  بلنسية,  والنسیا، ونزوئلا,  والیںسیا، کارابوبو,  ਬਾਲੈਂਸੀਆ,  ვალენსია,  バレンシア,  巴伦西亚,  발렌시아
+Alternate Names: Balenzia, VLN, Valencia, Valencio, Valens, Valensi, Valensia, Valensii, Valensija, Valensiya, Valentia, Valentzia, Valincia, Valência, ba lun xi ya, balainsi'a, ballensia, barenshia, blnsyt, valensia, walnsya  wnzwyla, wlnsyh, Валенс, Валенси, Валенсия, Валенсија, Валенсія, Վալենսիա, ולנסיה, بلنسية, والنسیا، ونزوئلا, والیںسیا، کارابوبو, ਬਾਲੈਂਸੀਆ, ვალენსია, バレンシア, 巴伦西亚, 발렌시아
 
 ---

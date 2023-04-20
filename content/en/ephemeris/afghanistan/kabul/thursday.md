@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Cabool,  Caboul,  Cabul,  Cabul - kabl,  Cabul - کابل,  Cabura,  Cabúl,  Caubul,  KBL,  Kabil,  Kaboel,  Kabol,  Kaboul,  Kabul,  Kabula,  Kabulas,  Kabuli,  Kabulo,  Kabura,  Kabúl,  Kabûl,  Kampoul,  Kobul,  Kubha,  Kábul,  Kâbil,  Kābol,  ka bu er,  kabl,  kabul,  kabula,  kabuli,  kaburu,  kabwl,  kapul,  ke bu er,  khabul,  Καμπούλ,  Кабул,  Кобул,  Քաբուլ,  קאבול,  كابل,  كابۇل,  کابل,  کابول,  काबुल,  কাবুল,  ਕਾਬੁਲ,  କାବୁଲ,  காபூல்,  ಕಾಬುಲ್,  കാബൂൾ,  කාබුල්,  คาบูล,  ཁ་པལ།,  ཁ་པུལ།,  ქაბული,  ካቡል,  ទីក្រុងកាបូល,  カブール,  カーブル,  喀布尔,  喀布爾,  카불
+Alternate Names: Cabool, Caboul, Cabul, Cabul - kabl, Cabul - کابل, Cabura, Cabúl, Caubul, KBL, Kabil, Kaboel, Kabol, Kaboul, Kabul, Kabula, Kabulas, Kabuli, Kabulo, Kabura, Kabúl, Kabûl, Kampoul, Kobul, Kubha, Kábul, Kâbil, Kābol, ka bu er, kabl, kabul, kabula, kabuli, kaburu, kabwl, kapul, ke bu er, khabul, Καμπούλ, Кабул, Кобул, Քաբուլ, קאבול, كابل, كابۇل, کابل, کابول, काबुल, কাবুল, ਕਾਬੁਲ, କାବୁଲ, காபூல், ಕಾಬುಲ್, കാബൂൾ, කාබුල්, คาบูล, ཁ་པལ།, ཁ་པུལ།, ქაბული, ካቡል, ទីក្រុងកាបូល, カブール, カーブル, 喀布尔, 喀布爾, 카불
 
 ---

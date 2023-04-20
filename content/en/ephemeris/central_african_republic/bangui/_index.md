@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BGF,  Bangi,  Bangis,  Bangui,  Mpan'nkoui,  ban ji,  bang-gi,  bangi,  bangwyy,  Μπανγκουί,  Банги,  Бангі,  בנגואי,  بانگوئی,  ባንጊ,  バンギ,  班基,  방기
+Alternate Names: BGF, Bangi, Bangis, Bangui, Mpan'nkoui, ban ji, bang-gi, bangi, bangwyy, Μπανγκουί, Банги, Бангі, בנגואי, بانگوئی, ባንጊ, バンギ, 班基, 방기
 
 ---

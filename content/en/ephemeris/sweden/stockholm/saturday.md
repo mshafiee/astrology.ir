@@ -20,7 +20,7 @@ Latitude: 59.3294
 \-
 Longitude: 18.0687
 \-
-Altitude: 17 meters
+Altitude: 12 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Stockholm, Sweden" lat="59.3294" lng="18.0687" zoom="12">}}
 
@@ -204,8 +204,8 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 15:05:54|Night duration: 08:51:20|
-|Every hour of day duration: 01:15:29|Every hour of night duration: 00:44:17|
+|Duration of the day: 15:05:54|Night duration: 08:51:19|
+|Every hour of day duration: 01:15:30|Every hour of night duration: 00:44:17|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|20:20:03|21:04:18|Creating peace among people|
 |2|Moon|Servant|21:04:19|21:48:35|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|21:48:36|22:32:52|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|22:32:53|23:17:08|Bringing luck and favor|
-|5|Mars|Servant|23:17:09|00:01:25|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|00:01:26|00:45:42|Avoiding any harmful action|
-|7|Venus|Servant|00:45:43|01:29:58|Destroying enemies|
-|8|Mercury|Ruler|01:29:59|02:14:15|Performing all good deeds|
-|9|Moon|Servant|02:14:16|02:58:32|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|02:58:33|03:42:48|Achieving marital harmony|
-|11|Jupiter|Servant|03:42:49|04:27:05|Gaining respect and honor|
-|12|Mars|Servant|04:27:06|05:11:22||
+|3|Saturn|Servant|21:48:36|22:32:51|Conquering, judging, and issuing verdicts|
+|4|Jupiter|Servant|22:32:52|23:17:08|Bringing luck and favor|
+|5|Mars|Servant|23:17:09|00:01:24|Writing, exchanging, and signing contracts|
+|6|Sun|Servant|00:01:25|00:45:41|Avoiding any harmful action|
+|7|Venus|Servant|00:45:42|01:29:58|Destroying enemies|
+|8|Mercury|Ruler|01:29:59|02:14:14|Performing all good deeds|
+|9|Moon|Servant|02:14:15|02:58:31|Performing evil deeds for the purpose of gaining power and control|
+|10|Saturn|Servant|02:58:32|03:42:47|Achieving marital harmony|
+|11|Jupiter|Servant|03:42:48|04:27:04|Gaining respect and honor|
+|12|Mars|Servant|04:27:05|05:11:21||
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 15:05:54|Night duration: 08:51:20|
+|Duration of the day: 15:05:54|Night duration: 08:51:19|
 |Every hour duration: 02:09:25|Every hour duration: 01:15:54|
 
  
@@ -272,10 +272,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mercury|Ruler|20:20:03|21:35:56|
 |Late evening|Moon|Servant|21:35:57|22:51:50|
 |Midnight|Saturn|Servant|22:51:51|00:07:44|
-|Late at night|Jupiter|Servant|00:07:45|01:23:39|
-|Rooster song|Mars|Servant|01:23:40|02:39:33|
-|False Dawn|Sun|Servant|02:39:34|03:55:27|
-|Dawn|Venus|Servant|03:55:28|05:11:22|
+|Late at night|Jupiter|Servant|00:07:45|01:23:38|
+|Rooster song|Mars|Servant|01:23:39|02:39:32|
+|False Dawn|Sun|Servant|02:39:33|03:55:26|
+|Dawn|Venus|Servant|03:55:27|05:11:21|
 
 {{< /tab >}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Estocolm,  Estocolme,  Estocolmo,  Estocolmu,  Estocòlme,  Estokolma,  Estokolmo,  Holmia,  STO,  Stakgol'm,  Stjokolna,  Stoccholm,  Stoccolma,  Stockholbma,  Stockholm,  Stockolm,  Stocolm,  Stocolma,  Stocòlma,  Stocólma,  Stokcholme,  Stokgol'm,  Stokgol'm osh,  Stokgolm,  Stokhol'm,  Stokholm,  Stokholma,  Stokholmas,  Stokholmi,  Stokholmo,  Stokkholm,  Stokkholmur,  Stokkhólmur,  Stokkolma,  Stokol'ma,  Stokolm,  Stuculma,  Stuokhuolms,  Stócólm,  Sztokholm,  Sztokhòlm,  Tukholma,  astkhlm,  satakahoma,  seutogholleum,  si de ge er mo,  stak'hom,  stakahoma,  stokahoma,  stwkhwlm,  stwqhwlm,  stxkholm,  sutokkuhorumu,  Štokholm,  Στοκχόλμη,  Стакгольм,  Стокhольм,  Стокгольм,  Стокгольм ош,  Стокольма,  Стокхолм,  Стокҳолм,  Стёколна,  Ստոկհոլմ,  סטוקהולם,  שטאקהאלם,  استکهلم,  ستوكهولم,  ستۆکھۆڵم,  سٹاکہوم,  ܣܛܘܩܗܘܠܡ,  स्टकहोम,  स्टॉकहोम,  स्तकहोम,  স্টকহোম,  ਸਟਾਕਹੋਮ,  ஸ்டாக்ஹோம்,  స్టాక్
+Alternate Names: Estocolm, Estocolme, Estocolmo, Estocolmu, Estocòlme, Estokolma, Estokolmo, Holmia, STO, Stakgol'm, Stjokolna, Stoccholm, Stoccolma, Stockholbma, Stockholm, Stockolm, Stocolm, Stocolma, Stocòlma, Stocólma, Stokcholme, Stokgol'm, Stokgol'm osh, Stokgolm, Stokhol'm, Stokholm, Stokholma, Stokholmas, Stokholmi, Stokholmo, Stokkholm, Stokkholmur, Stokkhólmur, Stokkolma, Stokol'ma, Stokolm, Stuculma, Stuokhuolms, Stócólm, Sztokholm, Sztokhòlm, Tukholma, astkhlm, satakahoma, seutogholleum, si de ge er mo, stak'hom, stakahoma, stokahoma, stwkhwlm, stwqhwlm, stxkholm, sutokkuhorumu, Štokholm, Στοκχόλμη, Стакгольм, Стокhольм, Стокгольм, Стокгольм ош, Стокольма, Стокхолм, Стокҳолм, Стёколна, Ստոկհոլմ, סטוקהולם, שטאקהאלם, استکهلم, ستوكهولم, ستۆکھۆڵم, سٹاکہوم, ܣܛܘܩܗܘܠܡ, स्टकहोम, स्टॉकहोम, स्तकहोम, স্টকহোম, ਸਟਾਕਹੋਮ, ஸ்டாக்ஹோம், స్టాక్
 
 ---

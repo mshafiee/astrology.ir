@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MAR,  Maracaibo,  Marakaibas,  Marakaibo,  Marakaimpo,  Marakajba,  Marakajbo,  Marakaybo,  Marakaypu,  ma la kai bo,  ma ra ki bo,  malakaibo,  maraka'ibo,  marakaibo,  marakaybw,  Μαρακάιμπο,  Маракаибо,  Маракайба,  Маракайбо,  Մարակայբո,  מרקאיבו,  ماراكايبو,  माराकाईबो,  ਮਾਰਾਕਾਈਬੋ,  มาราไกโบ,  მარაკაიბო,  マラカイボ,  马拉开波,  마라카이보
+Alternate Names: MAR, Maracaibo, Marakaibas, Marakaibo, Marakaimpo, Marakajba, Marakajbo, Marakaybo, Marakaypu, ma la kai bo, ma ra ki bo, malakaibo, maraka'ibo, marakaibo, marakaybw, Μαρακάιμπο, Маракаибо, Маракайба, Маракайбо, Մարակայբո, מרקאיבו, ماراكايبو, माराकाईबो, ਮਾਰਾਕਾਈਬੋ, มาราไกโบ, მარაკაიბო, マラカイボ, 马拉开波, 마라카이보
 
 ---

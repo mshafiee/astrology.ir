@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Chirosima,  HIJ,  Hiroshima,  Hiroshima-shi,  Hiroshimashi,  Hirosima,  Hirosimo,  Hiroszima,  Hiroxima,  Hiroxima - guang dao shi,  Hiroxima - 広島市,  Hiroŝimo,  Hiroşima,  Hirošima,  Hiroșima,  Khiroshima,  Khirosima,  canghwad hi roa chi ma,  guang dao,  guang dao shi,  hi ro chi ma,  hilosima si,  hiroshima,  hiroshimashi,  hirosima,  hyrwshyma,  hyrwsymh,  Χιροσίμα,  Хиросима,  Хирошима,  Хіросіма,  הירושימה,  هيروشيما,  هیروشیما,  हिरोशिमा,  จังหวัดฮิโระชิมะ,  ฮิโรชิมา,  ჰიროსიმა,  ჰიროშიმა,  ひろしま,  ひろしまし,  ヒロシマ,  ヒロシマシ,  広島,  広島市,  廣島市,  히로시마 시
+Alternate Names: Chirosima, HIJ, Hiroshima, Hiroshima-shi, Hiroshimashi, Hirosima, Hirosimo, Hiroszima, Hiroxima, Hiroxima - guang dao shi, Hiroxima - 広島市, Hiroŝimo, Hiroşima, Hirošima, Hiroșima, Khiroshima, Khirosima, canghwad hi roa chi ma, guang dao, guang dao shi, hi ro chi ma, hilosima si, hiroshima, hiroshimashi, hirosima, hyrwshyma, hyrwsymh, Χιροσίμα, Хиросима, Хирошима, Хіросіма, הירושימה, هيروشيما, هیروشیما, हिरोशिमा, จังหวัดฮิโระชิมะ, ฮิโรชิมา, ჰიროსიმა, ჰიროშიმა, ひろしま, ひろしまし, ヒロシマ, ヒロシマシ, 広島, 広島市, 廣島市, 히로시마 시
 
 ---

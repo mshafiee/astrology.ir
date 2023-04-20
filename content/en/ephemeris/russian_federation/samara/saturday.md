@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: KUF,  Kuibyschew,  Kuibyshev,  Kujbyshev,  Kuybyshev,  Samar,  Samar khot,  Samar osh,  Samara,  Samarae,  Samare,  Samarga,  Samaro,  Samāra,  Szamara,  sa ma la,  sa ma ra,  samala,  samara,  smara,  smara  rws,  smrh,  Σαμάρα,  Куйбышев,  Самар,  Самар ош,  Самар хот,  Самарæ,  Самара,  Самаре,  Самарҕа,  Һамар,  Սամարա,  סמרה,  سامارا,  سامارہ,  سمارا,  سمارا، روس,  समारा,  ซามารา,  სამარა,  サマーラ,  薩馬拉,  사마라
+Alternate Names: KUF, Kuibyschew, Kuibyshev, Kujbyshev, Kuybyshev, Samar, Samar khot, Samar osh, Samara, Samarae, Samare, Samarga, Samāra, Szamara, sa ma la, sa ma ra, samala, samara, smara, smara  rws, smrh, Σαμάρα, Куйбышев, Самар, Самар ош, Самар хот, Самарæ, Самара, Самаре, Самарҕа, Һамар, Սամարա, סמרה, سامارا, سامارہ, سمارا, سمارا، روس, समारा, ซามารา, სამარა, サマーラ, 薩馬拉, 사마라
 
 ---

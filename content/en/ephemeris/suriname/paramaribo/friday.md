@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: PBM,  Paramaribas,  Paramaribo,  Paramaribô,  Paramarimpo,  Paramaryba,  Paramaríbó,  ba la ma li bo,  baramarybw,  pa la ma li bo,  pa rama ri bo,  palamalibo,  paramaribo,  paramaripo,  paramarybw,  prmrybw,  Παραμαρίμπο,  Парамарибо,  Парамарыба,  Парамарібо,  Պարամարիբո,  פאראמאריבא,  פרמריבו,  باراماريبو,  پاراماریبو,  पारामरिबो,  पारामारिबो,  ਪਾਰਾਮਾਰੀਬੋ,  પારામારિબો,  பரமாரிபோ,  ปารามารีโบ,  པེ་ར་མེ་རི་བོ།,  პარამარიბო,  ፓራማሪቦ,  パラマリボ,  巴拉馬利波,  帕拉马里博,  파라마리보
+Alternate Names: PBM, Paramaribas, Paramaribo, Paramaribô, Paramarimpo, Paramaryba, Paramaríbó, ba la ma li bo, baramarybw, pa la ma li bo, pa rama ri bo, palamalibo, paramaribo, paramaripo, paramarybw, prmrybw, Παραμαρίμπο, Парамарибо, Парамарыба, Парамарібо, Պարամարիբո, פאראמאריבא, פרמריבו, باراماريبو, پاراماریبو, पारामरिबो, पारामारिबो, ਪਾਰਾਮਾਰੀਬੋ, પારામારિબો, பரமாரிபோ, ปารามารีโบ, པེ་ར་མེ་རི་བོ།, პარამარიბო, ፓራማሪቦ, パラマリボ, 巴拉馬利波, 帕拉马里博, 파라마리보
 
 ---

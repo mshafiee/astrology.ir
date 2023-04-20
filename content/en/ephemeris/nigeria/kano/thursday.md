@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Byen Kano,  Cano,  KAN,  Kanas,  Kano,  Kánò,  ka nuo,  kano,  kanw,  kanw  nyjryh,  qnw,  Кано,  קנו,  كانو,  کانو,  کانو، نیجریه,  कानो,  ਕਾਨੋ,  கனோ,  カノ,  卡諾,  카노
+Alternate Names: Byen Kano, Cano, KAN, Kanas, Kano, Kánò, ka nuo, kano, kanw, kanw  nyjryh, qnw, Кано, קנו, كانو, کانو, کانو، نیجریه, कानो, ਕਾਨੋ, கனோ, カノ, 卡諾, 카노
 
 ---

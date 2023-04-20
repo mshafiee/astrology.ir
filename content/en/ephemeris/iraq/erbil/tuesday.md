@@ -20,7 +20,7 @@ Latitude: 36.1833
 \-
 Longitude: 44.0119
 \-
-Altitude: 412 meters
+Altitude: 428 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Erbil, Iraq" lat="36.1833" lng="44.0119" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:03:22 |
 | Medium Coeli | 12:03:22 |
 | Sunset | 18:39:57 |
-| Maghrib | 18:43:35 |
+| Maghrib | 18:43:39 |
 | Isha | 20:07:23 |
 | Sharia Midnight | 23:16:29 |
 | Imum Coeli | 00:03:15 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:03:22 |
 | Medium Coeli | 12:03:22 |
 | Sunset | 18:39:57 |
-| Maghrib | 18:43:35 |
+| Maghrib | 18:43:39 |
 | Isha | 19:56:14 |
 | Sharia Midnight | 23:24:53 |
 | Imum Coeli | 00:03:15 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:03:22 |
 | Medium Coeli | 12:03:22 |
 | Sunset | 18:39:57 |
-| Maghrib | 18:43:35 |
+| Maghrib | 18:43:39 |
 | Isha | 20:10:12 |
 | Sharia Midnight | 23:12:11 |
 | Imum Coeli | 00:03:15 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:03:22 |
 | Medium Coeli | 12:03:22 |
 | Sunset | 18:39:57 |
-| Maghrib | 18:43:35 |
+| Maghrib | 18:43:39 |
 | Isha | 20:13:02 |
 | Sharia Midnight | 23:16:29 |
 | Imum Coeli | 00:03:15 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:03:22 |
 | Medium Coeli | 12:03:22 |
 | Sunset | 18:39:57 |
-| Maghrib | 18:43:35 |
-| Isha | 20:13:35 |
+| Maghrib | 18:43:39 |
+| Isha | 20:13:39 |
 | Sharia Midnight | 23:15:04 |
 | Imum Coeli | 00:03:15 |
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Arbeel,  Arbela,  Arbil,  Arbēla,  Arbīl,  EBL,  Erbil,  Hawler,  Hawlēr,  Hewler,  Hewlêr,  Irbil,  Irbīl,  Viloati Arbil,  ai er bi lei sheng,  arbl,  arbyl,  arubiru xian,  hەwlێr,  mhafzt arbl,  mhafzt arbyl,  Арбил,  Вилояти Арбӣл,  מחוז ארביל,  أربيل,  إربل,  إربيل,  اربیل,  محافظة أربيل,  محافظة إربل,  هەولێر,  アルビール県,  埃爾比勒省
+Alternate Names: Arbeel, Arbela, Arbil, Arbēla, Arbīl, EBL, Erbil, Hawler, Hawlēr, Hewler, Hewlêr, Irbil, Irbīl, Viloati Arbil, ai er bi lei sheng, arbl, arbyl, arubiru xian, hەwlێr, mhafzt arbl, mhafzt arbyl, Арбил, Вилояти Арбӣл, מחוז ארביל, أربيل, إربل, إربيل, اربیل, محافظة أربيل, محافظة إربل, هەولێر, アルビール県, 埃爾比勒省
 
 ---

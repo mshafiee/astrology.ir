@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: MLE,  Maale,  Male,  Malé,  Malė,  ma lei,  ma lu,  male,  malle,  mare,  Μαλέ,  Мале,  מאלה,  މާލެ,  माले,  মালে,  மாலே,  มาเล,  มาเล่,  マレ,  瑪律,  馬累,  말레
+Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레
 
 ---

@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Candigarchas,  Candigarh,  Chandigar,  Chandigarh,  Chandigarkh,  Chandīgarh,  Czandigarh,  IXC,  cadigarha,  candhigad,  candigadh,  candigadha,  candigara,  candigarha,  cantikar,  chandigadh,  chandigarhi,  chandigaru,  chang di jia er,  Čandigarchas,  Čandígarh,  Чандигар,  Чандигарх,  צ'אנדיגאר,  चंडीगढ़,  চন্ডিগড়,  চন্ডীগড়,  ਚੰਡੀਗੜ੍ਹ,  ચંડીગઢ,  சண்டிகர்,  చండీగఢ్,  ఛండీగఢ్,  ചണ്ഢീഗഡ്,  ჩანდიგარჰი,  チャンディーガル,  昌迪加尔
+Alternate Names: Candigarchas, Candigarh, Chandigar, Chandigarh, Chandigarkh, Chandīgarh, Czandigarh, IXC, cadigarha, candhigad, candigadh, candigadha, candigara, candigarha, cantikar, chandigadh, chandigarhi, chandigaru, chang di jia er, Čandigarchas, Čandígarh, Чандигар, Чандигарх, צ'אנדיגאר, चंडीगढ़, চন্ডিগড়, চন্ডীগড়, ਚੰਡੀਗੜ੍ਹ, ચંડીગઢ, சண்டிகர், చండీగఢ్, ఛండీగఢ్, ചണ്ഢീഗഡ്, ჩანდიგარჰი, チャンディーガル, 昌迪加尔
 
 ---

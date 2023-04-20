@@ -20,7 +20,7 @@ Latitude: -9.4772
 \-
 Longitude: 147.1509
 \-
-Altitude: 25 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Port Moresby, Papua New Guinea" lat="-9.4772" lng="147.1509" zoom="12">}}
 
@@ -38,7 +38,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:14:29 |
 | Dhuhr | 12:10:52 |
 | Medium Coeli | 12:10:52 |
-| Sunset | 18:07:08 |
+| Sunset | 18:07:09 |
 | Maghrib | 18:21:07 |
 | Isha | 19:02:13 |
 | Sharia Midnight | 23:39:09 |
@@ -54,10 +54,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:14:29 |
 | Dhuhr | 12:10:52 |
 | Medium Coeli | 12:10:52 |
-| Sunset | 18:07:08 |
+| Sunset | 18:07:09 |
 | Maghrib | 18:23:10 |
 | Isha | 19:02:13 |
-| Sharia Midnight | 23:35:39 |
+| Sharia Midnight | 23:35:40 |
 | Imum Coeli | 00:10:46 |
 {{< /tab >}}
 
@@ -70,7 +70,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:14:29 |
 | Dhuhr | 12:10:52 |
 | Medium Coeli | 12:10:52 |
-| Sunset | 18:07:08 |
+| Sunset | 18:07:09 |
 | Maghrib | 18:08:03 |
 | Isha | 19:14:31 |
 | Sharia Midnight | 23:35:03 |
@@ -86,7 +86,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:14:29 |
 | Dhuhr | 12:10:52 |
 | Medium Coeli | 12:10:52 |
-| Sunset | 18:07:08 |
+| Sunset | 18:07:09 |
 | Maghrib | 18:08:03 |
 | Isha | 19:06:19 |
 | Sharia Midnight | 23:41:12 |
@@ -102,10 +102,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:14:29 |
 | Dhuhr | 12:10:52 |
 | Medium Coeli | 12:10:52 |
-| Sunset | 18:07:08 |
+| Sunset | 18:07:09 |
 | Maghrib | 18:08:03 |
 | Isha | 19:16:34 |
-| Sharia Midnight | 23:31:58 |
+| Sharia Midnight | 23:31:59 |
 | Imum Coeli | 00:10:46 |
 {{< /tab >}}
 
@@ -118,7 +118,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:14:29 |
 | Dhuhr | 12:10:52 |
 | Medium Coeli | 12:10:52 |
-| Sunset | 18:07:08 |
+| Sunset | 18:07:09 |
 | Maghrib | 18:08:03 |
 | Isha | 19:18:37 |
 | Sharia Midnight | 23:35:03 |
@@ -134,10 +134,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:14:29 |
 | Dhuhr | 12:10:52 |
 | Medium Coeli | 12:10:52 |
-| Sunset | 18:07:08 |
+| Sunset | 18:07:09 |
 | Maghrib | 18:08:03 |
 | Isha | 19:38:03 |
-| Sharia Midnight | 23:34:01 |
+| Sharia Midnight | 23:34:02 |
 | Imum Coeli | 00:10:46 |
 {{< /tab >}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:52:39|Night duration: 12:07:22|
+|Duration of the day: 11:52:40|Night duration: 12:07:21|
 |Every hour of day duration: 00:59:23|Every hour of night duration: 01:00:37|
 
  
@@ -212,29 +212,29 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|06:14:29|07:13:51|Creating corruption, hatred, and enmity|
 |2|Sun|Servant|07:13:52|08:13:14|Attracting negativity, and avoiding any harmful action|
-|3|Venus|Servant|08:13:15|09:12:37|Attracting connection and marriage proposals|
-|4|Mercury|Servant|09:12:38|10:12:01|Attracting material wealth, prosperity, and business growth|
+|3|Venus|Servant|08:13:15|09:12:38|Attracting connection and marriage proposals|
+|4|Mercury|Servant|09:12:39|10:12:01|Attracting material wealth, prosperity, and business growth|
 |5|Moon|Servant|10:12:02|11:11:24|Attracting negativity and creating chaos|
-|6|Saturn|Servant|11:11:25|12:10:47|Removing negative energy caused by the evil eye|
-|7|Jupiter|Servant|12:10:48|13:10:10|Attracting love, affection, and winning hearts|
-|8|Mars|Ruler|13:10:11|14:09:34|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Sun|Servant|14:09:35|15:08:57|Creating emotional attachment|
-|10|Venus|Servant|15:08:58|16:08:20|Attracting negativity, and avoiding any harmful action|
-|11|Mercury|Servant|16:08:21|17:07:43|Attracting connection and marriage proposals|
-|12|Moon|Servant|17:07:44|18:07:07|Creating hatred and corruption to disrupt harmony|
+|6|Saturn|Servant|11:11:25|12:10:48|Removing negative energy caused by the evil eye|
+|7|Jupiter|Servant|12:10:49|13:10:11|Attracting love, affection, and winning hearts|
+|8|Mars|Ruler|13:10:12|14:09:34|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Sun|Servant|14:09:35|15:08:58|Creating emotional attachment|
+|10|Venus|Servant|15:08:59|16:08:21|Attracting negativity, and avoiding any harmful action|
+|11|Mercury|Servant|16:08:22|17:07:44|Attracting connection and marriage proposals|
+|12|Moon|Servant|17:07:45|18:07:08|Creating hatred and corruption to disrupt harmony|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|18:07:08|19:07:43|Creating corruption, hatred, and enmity|
-|2|Jupiter|Servant|19:07:44|20:08:20|Attracting negativity, and avoiding any harmful action|
-|3|Mars|Servant|20:08:21|21:08:57|Attracting connection and marriage proposals|
-|4|Sun|Servant|21:08:58|22:09:34|Attracting material wealth, prosperity, and business growth|
-|5|Venus|Servant|22:09:35|23:10:11|Attracting negativity and creating chaos|
+|1|Saturn|Ruler|18:07:09|19:07:44|Creating corruption, hatred, and enmity|
+|2|Jupiter|Servant|19:07:45|20:08:21|Attracting negativity, and avoiding any harmful action|
+|3|Mars|Servant|20:08:22|21:08:58|Attracting connection and marriage proposals|
+|4|Sun|Servant|21:08:59|22:09:35|Attracting material wealth, prosperity, and business growth|
+|5|Venus|Servant|22:09:36|23:10:11|Attracting negativity and creating chaos|
 |6|Mercury|Servant|23:10:12|00:10:48|Removing negative energy caused by the evil eye|
-|7|Moon|Servant|00:10:49|01:11:24|Attracting love, affection, and winning hearts|
-|8|Saturn|Ruler|01:11:25|02:12:01|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Jupiter|Servant|02:12:02|03:12:38|Creating emotional attachment|
+|7|Moon|Servant|00:10:49|01:11:25|Attracting love, affection, and winning hearts|
+|8|Saturn|Ruler|01:11:26|02:12:02|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Jupiter|Servant|02:12:03|03:12:38|Creating emotional attachment|
 |10|Mars|Servant|03:12:39|04:13:15|Attracting negativity, and avoiding any harmful action|
 |11|Sun|Servant|04:13:16|05:13:52|Attracting connection and marriage proposals|
 |12|Venus|Servant|05:13:53|06:14:29|Creating hatred and corruption to disrupt harmony|
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:52:39|Night duration: 12:07:22|
-|Every hour duration: 01:41:48|Every hour duration: 01:43:55|
+|Duration of the day: 11:52:40|Night duration: 12:07:21|
+|Every hour duration: 01:41:49|Every hour duration: 01:43:54|
 
  
  
@@ -259,22 +259,22 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Mars|Ruler|06:14:29|07:56:16|
-|Mid-morning|Sun|Servant|07:56:17|09:38:04|
-|Late morning|Venus|Servant|09:38:05|11:19:53|
-|Noon|Mercury|Servant|11:19:54|13:01:41|
-|Early afternoon|Moon|Servant|13:01:42|14:43:30|
-|Mid-afternoon|Saturn|Servant|14:43:31|16:25:18|
-|Late afternoon|Jupiter|Servant|16:25:19|18:07:07|
+|Mid-morning|Sun|Servant|07:56:17|09:38:05|
+|Late morning|Venus|Servant|09:38:06|11:19:53|
+|Noon|Mercury|Servant|11:19:54|13:01:42|
+|Early afternoon|Moon|Servant|13:01:43|14:43:30|
+|Mid-afternoon|Saturn|Servant|14:43:31|16:25:19|
+|Late afternoon|Jupiter|Servant|16:25:20|18:07:08|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Saturn|Ruler|18:07:08|19:51:01|
-|Late evening|Jupiter|Servant|19:51:02|21:34:56|
-|Midnight|Mars|Servant|21:34:57|23:18:50|
-|Late at night|Sun|Servant|23:18:51|01:02:45|
-|Rooster song|Venus|Servant|01:02:46|02:46:39|
-|False Dawn|Mercury|Servant|02:46:40|04:30:34|
+|Evening|Saturn|Ruler|18:07:09|19:51:02|
+|Late evening|Jupiter|Servant|19:51:03|21:34:56|
+|Midnight|Mars|Servant|21:34:57|23:18:51|
+|Late at night|Sun|Servant|23:18:52|01:02:45|
+|Rooster song|Venus|Servant|01:02:46|02:46:40|
+|False Dawn|Mercury|Servant|02:46:41|04:30:34|
 |Dawn|Moon|Servant|04:30:35|06:14:29|
 
 {{< /tab >}}
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|27°33'30.88" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|7°42'29.26" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Retrograde|15°0'10.63" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°56'0.35" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|27°56'0.33" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|27°33'30.88" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|7°42'29.26" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|15°0'10.63" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°56'0.35" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|27°56'0.33" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: POM,  Po Moresbi,  Port Moresby,  Port Moresmpi,  Port Morsbi,  Port Morsbis,  Port-Moresbo,  Port-Morsbi,  Portmorsbi,  Portus Moresbiensis,  Pot Mosbi,  Puerto Moresby,  Pò Moresbi,  bwrt mwrsby,  mo er ci bi gang,  mo er zi bi gang,  phxrt mxr sbi,  porata moraisabi,  porta moresbi,  poteumoleujeubi,  potomoresubi,  pwrt mwrsby,  Πορτ Μόρεσμπι,  Порт Морсби,  Порт-Морсби,  Порт-Морсбі,  Պորտ Մորսբի,  פורט מורסבי,  بورت مورسبي,  صوبہ پورٹ مورسبائی,  مورېسبى پورتى,  پورت مورسبی,  پورٹ مورسبی,  پۆرت مۆرسبی,  पोर्ट मॉरेस्बी,  पोर्ट मोरेस्बी,  ਪੋਰਟ ਮੋਰੈਸਬੀ,  พอร์ตมอร์สบี,  པོ་རོ་ཊི་མོ་རེ་སི་བི།,  პორტ-მორზბი,  ፖርት ሞርስቢ,  ポートモレスビー,  莫尔兹比港,  포트모르즈비
+Alternate Names: POM, Po Moresbi, Port Moresby, Port Moresmpi, Port Morsbi, Port Morsbis, Port-Moresbo, Port-Morsbi, Portmorsbi, Portus Moresbiensis, Pot Mosbi, Puerto Moresby, Pò Moresbi, bwrt mwrsby, mo er ci bi gang, mo er zi bi gang, phxrt mxr sbi, porata moraisabi, porta moresbi, poteumoleujeubi, potomoresubi, pwrt mwrsby, Πορτ Μόρεσμπι, Порт Морсби, Порт-Морсби, Порт-Морсбі, Պորտ Մորսբի, פורט מורסבי, بورت مورسبي, صوبہ پورٹ مورسبائی, مورېسبى پورتى, پورت مورسبی, پورٹ مورسبی, پۆرت مۆرسبی, पोर्ट मॉरेस्बी, पोर्ट मोरेस्बी, ਪੋਰਟ ਮੋਰੈਸਬੀ, พอร์ตมอร์สบี, པོ་རོ་ཊི་མོ་རེ་སི་བི།, პორტ-მორზბი, ፖርት ሞርስቢ, ポートモレスビー, 莫尔兹比港, 포트모르즈비
 
 ---

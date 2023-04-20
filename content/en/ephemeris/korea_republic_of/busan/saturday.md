@@ -20,7 +20,7 @@ Latitude: 35.1017
 \-
 Longitude: 129.0300
 \-
-Altitude: 15 meters
+Altitude: 26 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Busan, Korea, Republic of" lat="35.1017" lng="129.0300" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:17:58|Night duration: 10:40:49|
+|Duration of the day: 13:17:58|Night duration: 10:40:50|
 |Every hour of day duration: 01:06:30|Every hour of night duration: 00:53:24|
 
  
@@ -231,13 +231,13 @@ Timetable of twelve day and night planetary hours
 |3|Saturn|Servant|20:48:34|21:41:57|Conquering, judging, and issuing verdicts|
 |4|Jupiter|Servant|21:41:58|22:35:21|Bringing luck and favor|
 |5|Mars|Servant|22:35:22|23:28:45|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|23:28:46|00:22:09|Avoiding any harmful action|
-|7|Venus|Servant|00:22:10|01:15:33|Destroying enemies|
-|8|Mercury|Ruler|01:15:34|02:08:57|Performing all good deeds|
-|9|Moon|Servant|02:08:58|03:02:21|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:02:22|03:55:45|Achieving marital harmony|
-|11|Jupiter|Servant|03:55:46|04:49:09|Gaining respect and honor|
-|12|Mars|Servant|04:49:10|05:42:34||
+|6|Sun|Servant|23:28:46|00:22:10|Avoiding any harmful action|
+|7|Venus|Servant|00:22:11|01:15:34|Destroying enemies|
+|8|Mercury|Ruler|01:15:35|02:08:58|Performing all good deeds|
+|9|Moon|Servant|02:08:59|03:02:22|Performing evil deeds for the purpose of gaining power and control|
+|10|Saturn|Servant|03:02:23|03:55:46|Achieving marital harmony|
+|11|Jupiter|Servant|03:55:47|04:49:10|Gaining respect and honor|
+|12|Mars|Servant|04:49:11|05:42:35||
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 13:17:58|Night duration: 10:40:49|
+|Duration of the day: 13:17:58|Night duration: 10:40:50|
 |Every hour duration: 01:54:00|Every hour duration: 01:31:33|
 
  
@@ -272,10 +272,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mercury|Ruler|19:01:46|20:33:17|
 |Late evening|Moon|Servant|20:33:18|22:04:50|
 |Midnight|Saturn|Servant|22:04:51|23:36:23|
-|Late at night|Jupiter|Servant|23:36:24|01:07:55|
-|Rooster song|Mars|Servant|01:07:56|02:39:28|
-|False Dawn|Sun|Servant|02:39:29|04:11:01|
-|Dawn|Venus|Servant|04:11:02|05:42:34|
+|Late at night|Jupiter|Servant|23:36:24|01:07:56|
+|Rooster song|Mars|Servant|01:07:57|02:39:29|
+|False Dawn|Sun|Servant|02:39:30|04:11:02|
+|Dawn|Venus|Servant|04:11:03|05:42:35|
 
 {{< /tab >}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bousan,  Busan,  Busan-si,  Busán,  Fousan,  Fusan,  Fuzan,  PUS,  Phu San,  Phủ San,  Pusan,  Pusana,  Pusano,  Tsau-liang-hai,  busan,  busangwang-yeogsi,  busansi,  fu shan,  fu shan guang yu shi,  fu shan shi,  pu san,  Μπούσαν,  Пусан,  ปูซาน,  釜山,  釜山市,  釜山广域市,  釜山広域市,  부산,  부산광역시,  부산시
+Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시
 
 ---

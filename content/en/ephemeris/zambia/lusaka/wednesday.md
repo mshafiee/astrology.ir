@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: LUN,  Lousaka,  Louzaka,  Lusaca,  Lusak,  Lusaka,  Lusako,  Lúsaka,  Lûsaka,  lu sa ka,  lu sha ka,  lucakka,  lusaka,  lwsaka,  lwsqh,  lwwsaka,  rusaka,  Λουσάκα,  Лусака,  Լուսակա,  לוסאקא,  לוסקה,  لوساكا,  لوساکا,  لووساکا,  لۇساكا,  लुसाका,  লুসাকা,  ਲੁਸਾਕਾ,  ଲୁସାକ,  லுசாக்கா,  ลูซากา,  ལུ་ས་ཀ།,  ლუსაკა,  ሉሳካ,  ルサカ,  盧薩卡,  路沙卡,  루사카
+Alternate Names: LUN, Lousaka, Louzaka, Lusaca, Lusak, Lusaka, Lusako, Lúsaka, Lûsaka, lu sa ka, lu sha ka, lucakka, lusaka, lwsaka, lwsqh, lwwsaka, rusaka, Λουσάκα, Лусака, Լուսակա, לוסאקא, לוסקה, لوساكا, لوساکا, لووساکا, لۇساكا, लुसाका, লুসাকা, ਲੁਸਾਕਾ, ଲୁସାକ, லுசாக்கா, ลูซากา, ལུ་ས་ཀ།, ლუსაკა, ሉሳካ, ルサカ, 盧薩卡, 路沙卡, 루사카
 
 ---

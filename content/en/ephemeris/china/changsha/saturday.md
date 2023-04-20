@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CSX,  Cangsa,  Cangzsah,  Cansa,  Cchang-sa,  Ch'ang-sha-hsien,  Ch'ang-sha-shih,  Changsha,  Changsja,  Chansha,  Chhong-sa-su,  Chhòng-sâ-sṳ,  Ch’ang-sha-hsien,  Ch’ang-sha-shih,  Csangsa,  Diong-sa,  Diòng-să,  Tng-soa-chhi,  Tn̂g-soa-chhī,  Truong Sa,  Trường Sa,  Tsan'nksa,  cangasa,  chang cha,  changsa,  changsa si,  changsha,  changsha shەھyr,  channasa,  tshanghsha,  zhang sha,  zhang sha shi,  Ĉangŝa,  Čangša,  Čanša,  Čchang-ša,  Τσανγκσά,  Чангша,  Чанша,  Չանշա,  تشانغشا,  چانگشا,  چاڭشا شەھىر,  चांगशा,  छांग्षा,  ਛਾਂਙਸ਼ਾ,  ฉางชา,  ချနဆားမြ,  ချန်ဆားမြို့,  長沙,  長沙市,  长沙,  长沙市,  창사 시
+Alternate Names: CSX, Cangsa, Cangzsah, Cansa, Cchang-sa, Ch'ang-sha-hsien, Ch'ang-sha-shih, Changsha, Changsja, Chansha, Chhong-sa-su, Chhòng-sâ-sṳ, Ch’ang-sha-hsien, Ch’ang-sha-shih, Csangsa, Diong-sa, Diòng-să, Tng-soa-chhi, Tn̂g-soa-chhī, Truong Sa, Trường Sa, Tsan'nksa, cangasa, chang cha, changsa, changsa si, changsha, changsha shەھyr, channasa, tshanghsha, zhang sha, zhang sha shi, Ĉangŝa, Čangša, Čanša, Čchang-ša, Τσανγκσά, Чангша, Чанша, Չանշա, تشانغشا, چانگشا, چاڭشا شەھىر, चांगशा, छांग्षा, ਛਾਂਙਸ਼ਾ, ฉางชา, ချနဆားမြ, ချန်ဆားမြို့, 長沙, 長沙市, 长沙, 长沙市, 창사 시
 
 ---

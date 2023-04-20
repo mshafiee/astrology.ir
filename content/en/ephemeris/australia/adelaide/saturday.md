@@ -20,7 +20,7 @@ Latitude: -34.9287
 \-
 Longitude: 138.5986
 \-
-Altitude: 59 meters
+Altitude: 56 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adelaide, Australia" lat="-34.9287" lng="138.5986" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:14:14 |
 | Medium Coeli | 12:14:14 |
 | Sunset | 17:43:59 |
-| Maghrib | 17:45:18 |
+| Maghrib | 17:45:16 |
 | Isha | 19:04:56 |
 | Sharia Midnight | 23:31:24 |
 | Imum Coeli | 00:14:08 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:14:14 |
 | Medium Coeli | 12:14:14 |
 | Sunset | 17:43:59 |
-| Maghrib | 17:45:18 |
+| Maghrib | 17:45:16 |
 | Isha | 18:55:10 |
 | Sharia Midnight | 23:38:44 |
 | Imum Coeli | 00:14:08 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:14:14 |
 | Medium Coeli | 12:14:14 |
 | Sunset | 17:43:59 |
-| Maghrib | 17:45:18 |
+| Maghrib | 17:45:16 |
 | Isha | 19:07:22 |
 | Sharia Midnight | 23:27:45 |
 | Imum Coeli | 00:14:08 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:14:14 |
 | Medium Coeli | 12:14:14 |
 | Sunset | 17:43:59 |
-| Maghrib | 17:45:18 |
+| Maghrib | 17:45:16 |
 | Isha | 19:09:49 |
 | Sharia Midnight | 23:31:24 |
 | Imum Coeli | 00:14:08 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:14:14 |
 | Medium Coeli | 12:14:14 |
 | Sunset | 17:43:59 |
-| Maghrib | 17:45:18 |
-| Isha | 19:15:18 |
+| Maghrib | 17:45:16 |
+| Isha | 19:15:16 |
 | Sharia Midnight | 23:30:11 |
 | Imum Coeli | 00:14:08 |
 {{< /tab >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:59:57|Night duration: 13:00:51|
+|Duration of the day: 10:59:57|Night duration: 13:00:50|
 |Every hour of day duration: 00:55:00|Every hour of night duration: 01:05:04|
 
  
@@ -229,15 +229,15 @@ Timetable of twelve day and night planetary hours
 |1|Mercury|Ruler|17:43:59|18:49:02|Creating peace among people|
 |2|Moon|Servant|18:49:03|19:54:06|Engaging in hateful actions and evil deeds|
 |3|Saturn|Servant|19:54:07|20:59:10|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|20:59:11|22:04:15|Bringing luck and favor|
-|5|Mars|Servant|22:04:16|23:09:19|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|23:09:20|00:14:23|Avoiding any harmful action|
+|4|Jupiter|Servant|20:59:11|22:04:14|Bringing luck and favor|
+|5|Mars|Servant|22:04:15|23:09:18|Writing, exchanging, and signing contracts|
+|6|Sun|Servant|23:09:19|00:14:23|Avoiding any harmful action|
 |7|Venus|Servant|00:14:24|01:19:27|Destroying enemies|
-|8|Mercury|Ruler|01:19:28|02:24:32|Performing all good deeds|
-|9|Moon|Servant|02:24:33|03:29:36|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:29:37|04:34:40|Achieving marital harmony|
-|11|Jupiter|Servant|04:34:41|05:39:44|Gaining respect and honor|
-|12|Mars|Servant|05:39:45|06:44:49||
+|8|Mercury|Ruler|01:19:28|02:24:31|Performing all good deeds|
+|9|Moon|Servant|02:24:32|03:29:35|Performing evil deeds for the purpose of gaining power and control|
+|10|Saturn|Servant|03:29:36|04:34:39|Achieving marital harmony|
+|11|Jupiter|Servant|04:34:40|05:39:43|Gaining respect and honor|
+|12|Mars|Servant|05:39:44|06:44:48||
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:59:57|Night duration: 13:00:51|
+|Duration of the day: 10:59:57|Night duration: 13:00:50|
 |Every hour duration: 01:34:17|Every hour duration: 01:51:33|
 
  
@@ -269,13 +269,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|17:43:59|19:35:31|
-|Late evening|Moon|Servant|19:35:32|21:27:04|
-|Midnight|Saturn|Servant|21:27:05|23:18:37|
-|Late at night|Jupiter|Servant|23:18:38|01:10:10|
-|Rooster song|Mars|Servant|01:10:11|03:01:43|
-|False Dawn|Sun|Servant|03:01:44|04:53:16|
-|Dawn|Venus|Servant|04:53:17|06:44:49|
+|Evening|Mercury|Ruler|17:43:59|19:35:30|
+|Late evening|Moon|Servant|19:35:31|21:27:03|
+|Midnight|Saturn|Servant|21:27:04|23:18:36|
+|Late at night|Jupiter|Servant|23:18:37|01:10:09|
+|Rooster song|Mars|Servant|01:10:10|03:01:42|
+|False Dawn|Sun|Servant|03:01:43|04:53:15|
+|Dawn|Venus|Servant|04:53:16|06:44:48|
 
 {{< /tab >}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°30'30.11" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°21'3.11" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'40.52" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°45'31.27" |Aries|Butain|Venus|
+|☾ Moon|Direct|23°45'31.26" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|1°30'30.11" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°21'3.11" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°36'40.52" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°45'31.27" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|23°45'31.26" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ADL,  Adalet,  Adehlaida,  Adelaida,  Adelaidae,  Adelaide,  Adelaidis,  Adelaidė,  Adelajda,  Adelajdo,  Adelaïda,  Adelaïde,  Adelejd,  Adelàida,  Adélaïde,  Edelaid,  Tarndanya,  Tarndarnya,  a de lai de,  adelaida,  aderedo,  adilaid,  adiled,  adlayd,  adylyd,  aedeulleideu,  atileyit,  edile'ida,  edileda,  Αδελαΐδα,  Аделаидæ,  Аделаида,  Аделаїда,  Аделейд,  Аделејд,  Адэлаіда,  Ադելաիդա,  אדלייד,  آدلاید,  أديليد,  ئادېلايدې,  ایڈیلیڈ,  एडिलेड,  ॲdaleda,  ॲडलेड,  એડિલેઇડ,  அடிலெயிட்,  అడిలైడ్,  ಅಡಿಲೇಡ್,  അഡിലെയ്
+Alternate Names: ADL, Adehlaida, Adelaida, Adelaidae, Adelaide, Adelaidis, Adelaidė, Adelajda, Adelajdo, Adelaïda, Adelaïde, Adelejd, Adelàida, Adélaïde, Edelaid, Tarndanya, Tarndarnya, a de lai de, adelaida, aderedo, adilaid, adiled, adlayd, adylyd, aedeulleideu, atileyit, edile'ida, edileda, Αδελαΐδα, Аделаидæ, Аделаида, Аделаїда, Аделейд, Аделејд, Адэлаіда, Ադելաիդա, אדלייד, آدلاید, أديليد, ئادېلايدې, ایڈیلیڈ, एडिलेड, ॲdaleda, ॲडलेड, એડિલેઇડ, அடிலெயிட், అడిలైడ్, ಅಡಿಲೇಡ್, അഡിലെയ്
 
 ---

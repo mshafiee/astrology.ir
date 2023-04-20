@@ -20,7 +20,7 @@ Latitude: 36.9862
 \-
 Longitude: 35.3253
 \-
-Altitude: 30 meters
+Altitude: 38 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adana, Turkey" lat="36.9862" lng="35.3253" zoom="12">}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ADA,  Adana,  Adane,  Adano,  Adanë,  Adhanah,  Antiocheia,  Edene,  a da na,  adana,  adnt,  xa da na,  yadana,  Άδανα,  Αδανα,  Αντιόχεια,  Адана,  Ադանա,  אדנה,  آدانا,  أضنة,  ئادانا,  अदना,  আদানা,  อาดานา,  ადანა,  アダナ,  阿达纳,  아다나
+Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나
 
 ---

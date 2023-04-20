@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Caspira,  SXR,  Shrinagar,  Srinagar,  Srinagaras,  Srinagaro,  Srinankar,  Srinigar,  Srynagar,  Srīnagar,  Suryanagar,  Szrinagar,  cirinakar,  seulinagaleu,  shurinagaru,  si li na jia,  sirinagara,  siry nagar,  srinagar,  srinagara,  srinagaram,  srinagari,  srinkhr,  sry nghr,  sry ngr,  srynaghar,  srynghr,  sryngr,  Śrinagar,  Šrinagaras,  Šrínagar,  Σριναγκάρ,  Сринагар,  Срынагар,  Срінагар,  Шринагар,  Սրինագար,  סרינגאר,  جموں,  سري نغر,  سري نگر,  سريناغار,  سرينغر,  سری نگر,  سرینگر,  سِری نَگَر,  श्रीनगर,  श्रीनगरम्,  सिरीनगर,  শ্রীনগর,  ਸ੍ਰੀਨਗਰ,  શ્રીનગર,  ଶ୍ରୀନଗର,  சிறிநகர்,  శ్రీనగర్,  ಶ್ರೀನಗರ,  ശ്രീനഗർ,  ศรีนคร,  სრინაგარი,  シュリーナガル,  斯利那加,  스리나가르
+Alternate Names: Caspira, SXR, Shrinagar, Srinagar, Srinagaras, Srinagaro, Srinankar, Srinigar, Srynagar, Srīnagar, Suryanagar, Szrinagar, cirinakar, seulinagaleu, shurinagaru, si li na jia, sirinagara, siry nagar, srinagar, srinagara, srinagaram, srinagari, srinkhr, sry nghr, sry ngr, srynaghar, srynghr, sryngr, Śrinagar, Šrinagaras, Šrínagar, Σριναγκάρ, Сринагар, Срынагар, Срінагар, Шринагар, Սրինագար, סרינגאר, جموں, سري نغر, سري نگر, سريناغار, سرينغر, سری نگر, سرینگر, سِری نَگَر, श्रीनगर, श्रीनगरम्, सिरीनगर, শ্রীনগর, ਸ੍ਰੀਨਗਰ, શ્રીનગર, ଶ୍ରୀନଗର, சிறிநகர், శ్రీనగర్, ಶ್ರೀನಗರ, ശ്രീനഗർ, ศรีนคร, სრინაგარი, シュリーナガル, 斯利那加, 스리나가르
 
 ---

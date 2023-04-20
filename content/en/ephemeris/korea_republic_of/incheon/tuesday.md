@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Chemulpo,  Incchon,  Inch'on,  Inch'ŏn,  Incheon,  Incheon-si,  Inchkhon,  Inchkhun,  Inchon,  Inchona,  Inconas,  Incono,  Incshon,  Intson,  Inĉono,  Inčchon,  Inčhona,  Inčonas,  JCN,  Nhan Xuyen,  Nhân Xuyên,  anchn,  antshwn,  aynchywn,  incevona,  incheon,  incheongwang-yeogsi,  incheonsi,  inkiyon,  ren chuan guang yu shi,  xin chxn,  İncheon,  Ίντσον,  Інчхон,  Инчон,  Инчхон,  Инчхън,  אינצ'ון,  إنتشون,  انچن,  اینچئون,  इंचेवॉन,  இங்கியோன்,  อินช็อน,  仁川广域市,  仁川広域市,  仁川廣域市,  인천,  인천광역시,  인천시
+Alternate Names: Chemulpo, Incchon, Inch'on, Inch'ŏn, Incheon, Incheon-si, Inchkhon, Inchkhun, Inchon, Inchona, Incon, Inconas, Incshon, Intson, Inĉon, Inčchon, Inčhona, Inčonas, JCN, Nhan Xuyen, Nhân Xuyên, anchn, antshwn, aynchywn, incevona, incheon, incheongwang-yeogsi, incheonsi, inkiyon, ren chuan guang yu shi, xin chxn, İncheon, Ίντσον, Інчхон, Инчон, Инчхон, Инчхън, אינצ'ון, إنتشون, انچن, اینچئون, इंचेवॉन, இங்கியோன், อินช็อน, 仁川广域市, 仁川広域市, 仁川廣域市, 인천, 인천광역시, 인천시
 
 ---

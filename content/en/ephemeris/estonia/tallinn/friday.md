@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Castrum Danorum,  Kallinn,  Kolyvan,  Lindanaes,  Lindanäs,  Raeaeveli,  Reval,  Revel,  Revel',  Rääveli,  TLL,  Taillinn,  Talin,  Talinas,  Talini,  Talino,  Talins,  Tallidn,  Tallin,  Tallin osh,  Tallina,  Tallinn,  Tallinna,  Tallinna linn,  Talín,  Tàllin,  ta lin,  talin,  talina,  tallin,  tallina,  tallyn,  talyn,  tarin,  thallin n,  Ταλίν,  Ταλιν,  Ταλλίν,  Талин,  Таллин,  Таллин ош,  Таллинн,  Таллінн,  Талін,  Տալլին,  טאלין,  تاللىن,  تالين,  تالین,  تاڵین,  ٹالن,  तालिन,  ताल्लिन,  তাল্লিন,  ਤਾਲਿਨ,  தாலின்,  ടാലിൻ,  ทาลลินน์,  ཏཱལ་་ལིན།,  ტალინი,  ታሊን,  タリン,  塔林,  탈린
+Alternate Names: Castrum Danorum, Kallinn, Kolyvan, Lindanaes, Lindanäs, Raeaeveli, Reval, Revel, Revel', Rääveli, TLL, Taillinn, Talin, Talinas, Talini, Talino, Talins, Tallidn, Tallin, Tallin osh, Tallina, Tallinn, Tallinna, Talín, Tàllin, ta lin, talin, talina, tallin, tallina, tallyn, talyn, tarin, thallin n, Ταλίν, Ταλιν, Ταλλίν, Талин, Таллин, Таллин ош, Таллинн, Таллінн, Талін, Տալլին, טאלין, تاللىن, تالين, تالین, تاڵین, ٹالن, तालिन, ताल्लिन, তাল্লিন, ਤਾਲਿਨ, தாலின், ടാലിൻ, ทาลลินน์, ཏཱལ་་ལིན།, ტალინი, ታሊን, タリン, 塔林, 탈린
 
 ---

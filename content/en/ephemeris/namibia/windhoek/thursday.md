@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Gouintchouk,  Vindguk,  Vindhuk,  Vindhuka,  Vindhukas,  Vindhuko,  Vindkhuk,  Vinduque,  Vindxuk,  Vintchouk,  WDH,  Windhoek,  Windhuk,  Windoek,  Windoèk,  Wynhoeke,  binteuhukeu,  uintofukku,  vatahuka,  vindahoka,  vintok,  wen de he ke,  wen he ke,  win dhuk,  wwynthwq,  wyndhwk,  wyndhwq,  wyndھwk,  wynٹہwk,  Βίντχουκ,  Γουίντχουκ,  Виндхук,  Віндгук,  Віндхук,  Վինդհուկ,  ווינטהוק,  וינדהוק,  ونڈہوک,  ويندهوك,  ویندهوک,  ویندھوک,  وینٹہوک,  विंडहोक,  ਵੰਟਹੁਕ,  விந்தோக்,  วินด์ฮุก,  ཝིན་ཌི་ཧོཡིཀ།,  ვინდჰუკი,  ዊንድሁክ,  ウィントフック,  温得和克,  溫得和克,  溫荷克,  빈트후크
+Alternate Names: Gouintchouk, Vindguk, Vindhuk, Vindhuka, Vindhukas, Vindhuko, Vindkhuk, Vinduque, Vindxuk, Vintchouk, WDH, Windhoek, Windhuk, Windoek, Windoèk, Wynhoeke, binteuhukeu, u~intofukku, vatahuka, vindahoka, vintok, wen de he ke, wen he ke, win dhuk, wwynthwq, wyndhwk, wyndhwq, wyndھwk, wynٹہwk, Βίντχουκ, Γουίντχουκ, Виндхук, Віндгук, Віндхук, Վինդհուկ, ווינטהוק, וינדהוק, ونڈہوک, ويندهوك, ویندهوک, ویندھوک, وینٹہوک, विंडहोक, ਵੰਟਹੁਕ, விந்தோக், วินด์ฮุก, ཝིན་ཌི་ཧོཡིཀ།, ვინდჰუკი, ዊንድሁክ, ウィントフック, 温得和克, 溫得和克, 溫荷克, 빈트후크
 
 ---

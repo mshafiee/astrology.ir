@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: DLA,  Douala,  Doula,  Dual,  Duala,  Dualao,  Dóúala,  Ntouala,  dau'ala,  douara,  du a la,  du xa la,  dualla,  dwala,  Ντουάλα,  Дуала,  דואלה,  دوالا,  दौआला,  ਦੌਆਲਾ,  ดูอาลา,  ドゥアラ,  杜阿拉,  두알라
+Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라
 
 ---

@@ -20,7 +20,7 @@ Latitude: 35.1017
 \-
 Longitude: 129.0300
 \-
-Altitude: 15 meters
+Altitude: 26 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Busan, Korea, Republic of" lat="35.1017" lng="129.0300" zoom="12">}}
 
@@ -38,7 +38,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:48:45 |
 | Dhuhr | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:58:31 |
+| Sunset | 18:58:30 |
 | Maghrib | 19:15:41 |
 | Isha | 20:07:55 |
 | Sharia Midnight | 23:42:53 |
@@ -54,10 +54,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:48:45 |
 | Dhuhr | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:58:31 |
+| Sunset | 18:58:30 |
 | Maghrib | 19:18:14 |
 | Isha | 20:07:55 |
-| Sharia Midnight | 23:38:13 |
+| Sharia Midnight | 23:38:12 |
 | Imum Coeli | 00:23:14 |
 {{< /tab >}}
 
@@ -70,7 +70,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:48:45 |
 | Dhuhr | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:58:31 |
+| Sunset | 18:58:30 |
 | Maghrib | 18:59:38 |
 | Isha | 20:24:15 |
 | Sharia Midnight | 23:37:23 |
@@ -86,7 +86,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:48:45 |
 | Dhuhr | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:58:31 |
+| Sunset | 18:58:30 |
 | Maghrib | 18:59:38 |
 | Isha | 20:13:19 |
 | Sharia Midnight | 23:45:36 |
@@ -102,7 +102,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:48:45 |
 | Dhuhr | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:58:31 |
+| Sunset | 18:58:30 |
 | Maghrib | 18:59:38 |
 | Isha | 20:27:00 |
 | Sharia Midnight | 23:33:11 |
@@ -118,7 +118,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:48:45 |
 | Dhuhr | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:58:31 |
+| Sunset | 18:58:30 |
 | Maghrib | 18:59:38 |
 | Isha | 20:29:47 |
 | Sharia Midnight | 23:37:23 |
@@ -134,10 +134,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:48:45 |
 | Dhuhr | 12:23:21 |
 | Medium Coeli | 12:23:21 |
-| Sunset | 18:58:31 |
+| Sunset | 18:58:30 |
 | Maghrib | 18:59:38 |
 | Isha | 20:29:38 |
-| Sharia Midnight | 23:36:00 |
+| Sharia Midnight | 23:35:59 |
 | Imum Coeli | 00:23:14 |
 {{< /tab >}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:09:46|Night duration: 10:48:58|
+|Duration of the day: 13:09:45|Night duration: 10:48:59|
 |Every hour of day duration: 01:05:49|Every hour of night duration: 00:54:05|
 
  
@@ -214,25 +214,25 @@ Timetable of twelve day and night planetary hours
 |2|Sun|Servant|06:54:33|08:00:21|Attracting negativity, and avoiding any harmful action|
 |3|Venus|Servant|08:00:22|09:06:10|Attracting connection and marriage proposals|
 |4|Mercury|Servant|09:06:11|10:11:59|Attracting material wealth, prosperity, and business growth|
-|5|Moon|Servant|10:12:00|11:17:48|Attracting negativity and creating chaos|
-|6|Saturn|Servant|11:17:49|12:23:37|Removing negative energy caused by the evil eye|
-|7|Jupiter|Servant|12:23:38|13:29:25|Attracting love, affection, and winning hearts|
+|5|Moon|Servant|10:12:00|11:17:47|Attracting negativity and creating chaos|
+|6|Saturn|Servant|11:17:48|12:23:36|Removing negative energy caused by the evil eye|
+|7|Jupiter|Servant|12:23:37|13:29:25|Attracting love, affection, and winning hearts|
 |8|Mars|Ruler|13:29:26|14:35:14|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Sun|Servant|14:35:15|15:41:03|Creating emotional attachment|
-|10|Venus|Servant|15:41:04|16:46:52|Attracting negativity, and avoiding any harmful action|
-|11|Mercury|Servant|16:46:53|17:52:41|Attracting connection and marriage proposals|
-|12|Moon|Servant|17:52:42|18:58:30|Creating hatred and corruption to disrupt harmony|
+|9|Sun|Servant|14:35:15|15:41:02|Creating emotional attachment|
+|10|Venus|Servant|15:41:03|16:46:51|Attracting negativity, and avoiding any harmful action|
+|11|Mercury|Servant|16:46:52|17:52:40|Attracting connection and marriage proposals|
+|12|Moon|Servant|17:52:41|18:58:29|Creating hatred and corruption to disrupt harmony|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|18:58:31|19:52:34|Creating corruption, hatred, and enmity|
-|2|Jupiter|Servant|19:52:35|20:46:39|Attracting negativity, and avoiding any harmful action|
-|3|Mars|Servant|20:46:40|21:40:44|Attracting connection and marriage proposals|
-|4|Sun|Servant|21:40:45|22:34:49|Attracting material wealth, prosperity, and business growth|
-|5|Venus|Servant|22:34:50|23:28:54|Attracting negativity and creating chaos|
-|6|Mercury|Servant|23:28:55|00:22:59|Removing negative energy caused by the evil eye|
-|7|Moon|Servant|00:23:00|01:17:03|Attracting love, affection, and winning hearts|
+|1|Saturn|Ruler|18:58:30|19:52:33|Creating corruption, hatred, and enmity|
+|2|Jupiter|Servant|19:52:34|20:46:38|Attracting negativity, and avoiding any harmful action|
+|3|Mars|Servant|20:46:39|21:40:43|Attracting connection and marriage proposals|
+|4|Sun|Servant|21:40:44|22:34:48|Attracting material wealth, prosperity, and business growth|
+|5|Venus|Servant|22:34:49|23:28:53|Attracting negativity and creating chaos|
+|6|Mercury|Servant|23:28:54|00:22:58|Removing negative energy caused by the evil eye|
+|7|Moon|Servant|00:22:59|01:17:03|Attracting love, affection, and winning hearts|
 |8|Saturn|Ruler|01:17:04|02:11:08|Creating corruption, destroying enemies, and causing illness to enemies|
 |9|Jupiter|Servant|02:11:09|03:05:13|Creating emotional attachment|
 |10|Mars|Servant|03:05:14|03:59:18|Attracting negativity, and avoiding any harmful action|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:09:46|Night duration: 10:48:58|
+|Duration of the day: 13:09:45|Night duration: 10:48:59|
 |Every hour duration: 01:52:49|Every hour duration: 01:32:43|
 
  
@@ -260,20 +260,20 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Mars|Ruler|05:48:45|07:41:33|
 |Mid-morning|Sun|Servant|07:41:34|09:34:22|
-|Late morning|Venus|Servant|09:34:23|11:27:12|
-|Noon|Mercury|Servant|11:27:13|13:20:01|
-|Early afternoon|Moon|Servant|13:20:02|15:12:51|
-|Mid-afternoon|Saturn|Servant|15:12:52|17:05:40|
-|Late afternoon|Jupiter|Servant|17:05:41|18:58:30|
+|Late morning|Venus|Servant|09:34:23|11:27:11|
+|Noon|Mercury|Servant|11:27:12|13:20:01|
+|Early afternoon|Moon|Servant|13:20:02|15:12:50|
+|Mid-afternoon|Saturn|Servant|15:12:51|17:05:39|
+|Late afternoon|Jupiter|Servant|17:05:40|18:58:29|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Saturn|Ruler|18:58:31|20:31:12|
-|Late evening|Jupiter|Servant|20:31:13|22:03:55|
-|Midnight|Mars|Servant|22:03:56|23:36:37|
-|Late at night|Sun|Servant|23:36:38|01:09:20|
-|Rooster song|Venus|Servant|01:09:21|02:42:02|
+|Evening|Saturn|Ruler|18:58:30|20:31:11|
+|Late evening|Jupiter|Servant|20:31:12|22:03:54|
+|Midnight|Mars|Servant|22:03:55|23:36:37|
+|Late at night|Sun|Servant|23:36:38|01:09:19|
+|Rooster song|Venus|Servant|01:09:20|02:42:02|
 |False Dawn|Mercury|Servant|02:42:03|04:14:45|
 |Dawn|Moon|Servant|04:14:46|05:47:28|
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Bousan,  Busan,  Busan-si,  Busán,  Fousan,  Fusan,  Fuzan,  PUS,  Phu San,  Phủ San,  Pusan,  Pusana,  Pusano,  Tsau-liang-hai,  busan,  busangwang-yeogsi,  busansi,  fu shan,  fu shan guang yu shi,  fu shan shi,  pu san,  Μπούσαν,  Пусан,  ปูซาน,  釜山,  釜山市,  釜山广域市,  釜山広域市,  부산,  부산광역시,  부산시
+Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시
 
 ---

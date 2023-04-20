@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BDO,  Bandoeng,  Banduna,  Bandung,  Bandungas,  Bandungo,  Bantoun'nk,  Kota Bandung,  Kuta Bandung,  Kutha Bandhung,  ban dung,  bandon,  bandung,  bandungi,  bandwng,  bandwnj,  bndwng,  pantun,  wan long,  Μπαντούνγκ,  Бандунг,  Бандуң,  Բանդունգ,  באנדונג,  باندونج,  باندونگ,  بندونگ,  بنڈونگ,  பண்டுங்,  บันดุง,  ဘန်ဒေါင်းမြို့,  ბანდუნგი,  バンドン,  万隆,  萬隆,  반둥
+Alternate Names: BDO, Bandoeng, Banduna, Bandung, Bandungas, Bandungo, Bantoun'nk, Kota Bandung, Kuta Bandung, Kutha Bandhung, ban dung, bandon, bandung, bandungi, bandwng, bandwnj, bndwng, pantun, wan long, Μπαντούνγκ, Бандунг, Бандуң, Բանդունգ, באנדונג, باندونج, باندونگ, بندونگ, بنڈونگ, பண்டுங், บันดุง, ဘန်ဒေါင်းမြို့, ბანდუნგი, バンドン, 万隆, 萬隆, 반둥
 
 ---

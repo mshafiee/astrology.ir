@@ -20,7 +20,7 @@ Latitude: 14.6037
 \-
 Longitude: -61.0742
 \-
-Altitude: 5 meters
+Altitude: 17 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Fort-de-France, Martinique" lat="14.6037" lng="-61.0742" zoom="12">}}
 
@@ -38,7 +38,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:46:51 |
 | Dhuhr | 12:03:01 |
 | Medium Coeli | 12:03:01 |
-| Sunset | 18:19:23 |
+| Sunset | 18:19:22 |
 | Maghrib | 18:33:46 |
 | Isha | 19:16:36 |
 | Sharia Midnight | 23:29:53 |
@@ -54,10 +54,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:46:51 |
 | Dhuhr | 12:03:01 |
 | Medium Coeli | 12:03:01 |
-| Sunset | 18:19:23 |
+| Sunset | 18:19:22 |
 | Maghrib | 18:35:53 |
 | Isha | 19:16:36 |
-| Sharia Midnight | 23:26:12 |
+| Sharia Midnight | 23:26:11 |
 | Imum Coeli | 00:02:55 |
 {{< /tab >}}
 
@@ -70,7 +70,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:46:51 |
 | Dhuhr | 12:03:01 |
 | Medium Coeli | 12:03:01 |
-| Sunset | 18:19:23 |
+| Sunset | 18:19:22 |
 | Maghrib | 18:20:19 |
 | Isha | 19:29:35 |
 | Sharia Midnight | 23:25:32 |
@@ -86,7 +86,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:46:51 |
 | Dhuhr | 12:03:01 |
 | Medium Coeli | 12:03:01 |
-| Sunset | 18:19:23 |
+| Sunset | 18:19:22 |
 | Maghrib | 18:20:19 |
 | Isha | 19:20:55 |
 | Sharia Midnight | 23:32:03 |
@@ -102,7 +102,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:46:51 |
 | Dhuhr | 12:03:01 |
 | Medium Coeli | 12:03:01 |
-| Sunset | 18:19:23 |
+| Sunset | 18:19:22 |
 | Maghrib | 18:20:19 |
 | Isha | 19:31:45 |
 | Sharia Midnight | 23:22:16 |
@@ -118,7 +118,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:46:51 |
 | Dhuhr | 12:03:01 |
 | Medium Coeli | 12:03:01 |
-| Sunset | 18:19:23 |
+| Sunset | 18:19:22 |
 | Maghrib | 18:20:19 |
 | Isha | 19:33:56 |
 | Sharia Midnight | 23:25:32 |
@@ -134,7 +134,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:46:51 |
 | Dhuhr | 12:03:01 |
 | Medium Coeli | 12:03:01 |
-| Sunset | 18:19:23 |
+| Sunset | 18:19:22 |
 | Maghrib | 18:20:19 |
 | Isha | 19:50:19 |
 | Sharia Midnight | 23:24:27 |
@@ -204,40 +204,40 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:32:32|Night duration: 11:26:53|
-|Every hour of day duration: 01:02:43|Every hour of night duration: 00:57:14|
+|Duration of the day: 12:32:31|Night duration: 11:26:55|
+|Every hour of day duration: 01:02:43|Every hour of night duration: 00:57:15|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|05:46:51|06:49:32|Attracting love and creating emotional attachment|
 |2|Mercury|Servant|06:49:33|07:52:15|Attracting good luck|
-|3|Moon|Servant|07:52:16|08:54:58|Attracting negativity, and avoiding any harmful action|
-|4|Saturn|Servant|08:54:59|09:57:40|Being hateful for a certain period of time|
-|5|Jupiter|Servant|09:57:41|11:00:23|Gaining status, position, and attracting happiness in the workplace|
-|6|Mars|Servant|11:00:24|12:03:06|Attracting attention and acceptance from important people|
-|7|Sun|Servant|12:03:07|13:05:48|Advancing and attracting wealth|
-|8|Venus|Ruler|13:05:49|14:08:31|Extremely lucky and achieving ultimate happiness|
-|9|Mercury|Servant|14:08:32|15:11:14|Separating and making someone homeless|
-|10|Moon|Servant|15:11:15|16:13:56|Extremely hateful and causing harm|
-|11|Saturn|Servant|16:13:57|17:16:39|Creating a negative destiny for anyone|
-|12|Jupiter|Servant|17:16:40|18:19:22|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|3|Moon|Servant|07:52:16|08:54:57|Attracting negativity, and avoiding any harmful action|
+|4|Saturn|Servant|08:54:58|09:57:40|Being hateful for a certain period of time|
+|5|Jupiter|Servant|09:57:41|11:00:22|Gaining status, position, and attracting happiness in the workplace|
+|6|Mars|Servant|11:00:23|12:03:05|Attracting attention and acceptance from important people|
+|7|Sun|Servant|12:03:06|13:05:48|Advancing and attracting wealth|
+|8|Venus|Ruler|13:05:49|14:08:30|Extremely lucky and achieving ultimate happiness|
+|9|Mercury|Servant|14:08:31|15:11:13|Separating and making someone homeless|
+|10|Moon|Servant|15:11:14|16:13:55|Extremely hateful and causing harm|
+|11|Saturn|Servant|16:13:56|17:16:38|Creating a negative destiny for anyone|
+|12|Jupiter|Servant|17:16:39|18:19:21|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|18:19:23|19:16:36|Attracting love and creating emotional attachment|
-|2|Sun|Servant|19:16:37|20:13:50|Attracting good luck|
-|3|Venus|Servant|20:13:51|21:11:05|Attracting negativity, and avoiding any harmful action|
-|4|Mercury|Servant|21:11:06|22:08:19|Being hateful for a certain period of time|
-|5|Moon|Servant|22:08:20|23:05:34|Gaining status, position, and attracting happiness in the workplace|
-|6|Saturn|Servant|23:05:35|00:02:48|Attracting attention and acceptance from important people|
-|7|Jupiter|Servant|00:02:49|01:00:02|Advancing and attracting wealth|
-|8|Mars|Ruler|01:00:03|01:57:17|Extremely lucky and achieving ultimate happiness|
-|9|Sun|Servant|01:57:18|02:54:31|Separating and making someone homeless|
-|10|Venus|Servant|02:54:32|03:51:46|Extremely hateful and causing harm|
-|11|Mercury|Servant|03:51:47|04:49:00|Creating a negative destiny for anyone|
-|12|Moon|Servant|04:49:01|05:46:15|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|1|Mars|Ruler|18:19:22|19:16:35|Attracting love and creating emotional attachment|
+|2|Sun|Servant|19:16:36|20:13:50|Attracting good luck|
+|3|Venus|Servant|20:13:51|21:11:04|Attracting negativity, and avoiding any harmful action|
+|4|Mercury|Servant|21:11:05|22:08:19|Being hateful for a certain period of time|
+|5|Moon|Servant|22:08:20|23:05:33|Gaining status, position, and attracting happiness in the workplace|
+|6|Saturn|Servant|23:05:34|00:02:48|Attracting attention and acceptance from important people|
+|7|Jupiter|Servant|00:02:49|01:00:03|Advancing and attracting wealth|
+|8|Mars|Ruler|01:00:04|01:57:17|Extremely lucky and achieving ultimate happiness|
+|9|Sun|Servant|01:57:18|02:54:32|Separating and making someone homeless|
+|10|Venus|Servant|02:54:33|03:51:46|Extremely hateful and causing harm|
+|11|Mercury|Servant|03:51:47|04:49:01|Creating a negative destiny for anyone|
+|12|Moon|Servant|04:49:02|05:46:16|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:32:32|Night duration: 11:26:53|
+|Duration of the day: 12:32:31|Night duration: 11:26:55|
 |Every hour duration: 01:47:30|Every hour duration: 01:38:08|
 
  
@@ -261,21 +261,21 @@ Timetable of septet day and night planetary hours
 |Early morning|Venus|Ruler|05:46:51|07:34:20|
 |Mid-morning|Mercury|Servant|07:34:21|09:21:50|
 |Late morning|Moon|Servant|09:21:51|11:09:20|
-|Noon|Saturn|Servant|11:09:21|12:56:51|
-|Early afternoon|Jupiter|Servant|12:56:52|14:44:21|
-|Mid-afternoon|Mars|Servant|14:44:22|16:31:51|
-|Late afternoon|Sun|Servant|16:31:52|18:19:22|
+|Noon|Saturn|Servant|11:09:21|12:56:50|
+|Early afternoon|Jupiter|Servant|12:56:51|14:44:20|
+|Mid-afternoon|Mars|Servant|14:44:21|16:31:50|
+|Late afternoon|Sun|Servant|16:31:51|18:19:21|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|18:19:23|19:57:29|
-|Late evening|Sun|Servant|19:57:30|21:35:37|
-|Midnight|Venus|Servant|21:35:38|23:13:44|
+|Evening|Mars|Ruler|18:19:22|19:57:28|
+|Late evening|Sun|Servant|19:57:29|21:35:36|
+|Midnight|Venus|Servant|21:35:37|23:13:44|
 |Late at night|Mercury|Servant|23:13:45|00:51:52|
-|Rooster song|Moon|Servant|00:51:53|02:29:59|
-|False Dawn|Saturn|Servant|02:30:00|04:08:07|
-|Dawn|Jupiter|Servant|04:08:08|05:46:15|
+|Rooster song|Moon|Servant|00:51:53|02:30:00|
+|False Dawn|Saturn|Servant|02:30:01|04:08:08|
+|Dawn|Jupiter|Servant|04:08:09|05:46:16|
 
 {{< /tab >}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Arx Gallica,  FDF,  Fod Fwans,  For d'o Frans,  For de Frans,  For de Fransas,  For-de-Frans,  For-nte-Frans,  Fordefransa,  Fort Royal,  Fort Royale,  Fort-de-France,  Fort-de-Frans,  Fort-deh-Frans,  Fòd Fwans,  Fôrt-de-France,  Le Fort-de-France,  f xr-dex-fr xngs,  fa lan xi bao,  foru=do=furansu,  fwr dw frans,  fwr-dw-frans,  phorta-de-phransa,  pirancuk kottai,  poleudeupeulangseu,  por-de-pransi,  Φορ-ντε-Φρανς,  Фор де Франс,  Фор дьо Франс,  Фор-де-Франс,  Форт-де-Франс,  Форт-дэ-Франс,  Ֆոր դե Ֆրանս,  פור-דה-פראנס,  فور دو فرانس,  فور-دو-فرانس,  فورٹ ڈی فرانس,  फोर्ट-दे-फ्रान्स,  பிரான்சுக் கோட்டை,  ฟอร์-เดอ-ฟร็องส์,  ფორ-დე-ფრანსი,  フォール＝ド＝フランス,  法兰西堡,  포르드프랑스
+Alternate Names: Arx Gallica, FDF, Fod Fwans, For d'o Frans, For de Frans, For de Fransas, For-de-Frans, For-nte-Frans, Fordefransa, Fort Royal, Fort Royale, Fort-de-France, Fort-de-Frans, Fort-deh-Frans, Fòd Fwans, Fôrt-de-France, Le Fort-de-France, f xr-dex-fr xngs, fa lan xi bao, foru=do=furansu, fwr dw frans, fwr-dw-frans, phorta-de-phransa, pirancuk kottai, poleudeupeulangseu, por-de-pransi, Φορ-ντε-Φρανς, Фор де Франс, Фор дьо Франс, Фор-де-Франс, Форт-де-Франс, Форт-дэ-Франс, Ֆոր դե Ֆրանս, פור-דה-פראנס, فور دو فرانس, فور-دو-فرانس, فورٹ ڈی فرانس, फोर्ट-दे-फ्रान्स, பிரான்சுக் கோட்டை, ฟอร์-เดอ-ฟร็องส์, ფორ-დე-ფრანსი, フォール＝ド＝フランス, 法兰西堡, 포르드프랑스
 
 ---

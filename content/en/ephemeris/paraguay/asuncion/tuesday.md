@@ -20,7 +20,7 @@ Latitude: -25.2865
 \-
 Longitude: -57.6470
 \-
-Altitude: 113 meters
+Altitude: 107 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Asuncion, Paraguay" lat="-25.2865" lng="-57.6470" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 11:49:56 |
 | Medium Coeli | 11:49:56 |
 | Sunset | 17:32:47 |
-| Maghrib | 17:34:26 |
+| Maghrib | 17:34:23 |
 | Isha | 18:46:02 |
 | Sharia Midnight | 23:11:06 |
 | Imum Coeli | 23:49:50 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 11:49:56 |
 | Medium Coeli | 11:49:56 |
 | Sunset | 17:32:47 |
-| Maghrib | 17:34:26 |
+| Maghrib | 17:34:23 |
 | Isha | 18:37:10 |
 | Sharia Midnight | 23:17:46 |
 | Imum Coeli | 23:49:50 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 11:49:56 |
 | Medium Coeli | 11:49:56 |
 | Sunset | 17:32:47 |
-| Maghrib | 17:34:26 |
+| Maghrib | 17:34:23 |
 | Isha | 18:48:15 |
 | Sharia Midnight | 23:07:47 |
 | Imum Coeli | 23:49:50 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 11:49:56 |
 | Medium Coeli | 11:49:56 |
 | Sunset | 17:32:47 |
-| Maghrib | 17:34:26 |
+| Maghrib | 17:34:23 |
 | Isha | 18:50:28 |
 | Sharia Midnight | 23:11:06 |
 | Imum Coeli | 23:49:50 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 11:49:56 |
 | Medium Coeli | 11:49:56 |
 | Sunset | 17:32:47 |
-| Maghrib | 17:34:26 |
-| Isha | 19:04:26 |
+| Maghrib | 17:34:23 |
+| Isha | 19:04:23 |
 | Sharia Midnight | 23:10:00 |
 | Imum Coeli | 23:49:50 |
 {{< /tab >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:26:01|Night duration: 12:34:27|
+|Duration of the day: 11:26:01|Night duration: 12:34:26|
 |Every hour of day duration: 00:57:10|Every hour of night duration: 01:02:52|
 
  
@@ -229,15 +229,15 @@ Timetable of twelve day and night planetary hours
 |1|Saturn|Ruler|17:32:47|18:35:38|Creating corruption, hatred, and enmity|
 |2|Jupiter|Servant|18:35:39|19:38:30|Attracting negativity, and avoiding any harmful action|
 |3|Mars|Servant|19:38:31|20:41:22|Attracting connection and marriage proposals|
-|4|Sun|Servant|20:41:23|21:44:15|Attracting material wealth, prosperity, and business growth|
-|5|Venus|Servant|21:44:16|22:47:07|Attracting negativity and creating chaos|
-|6|Mercury|Servant|22:47:08|23:49:59|Removing negative energy caused by the evil eye|
+|4|Sun|Servant|20:41:23|21:44:14|Attracting material wealth, prosperity, and business growth|
+|5|Venus|Servant|21:44:15|22:47:06|Attracting negativity and creating chaos|
+|6|Mercury|Servant|22:47:07|23:49:59|Removing negative energy caused by the evil eye|
 |7|Moon|Servant|23:50:00|00:52:51|Attracting love, affection, and winning hearts|
-|8|Saturn|Ruler|00:52:52|01:55:44|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Jupiter|Servant|01:55:45|02:58:36|Creating emotional attachment|
-|10|Mars|Servant|02:58:37|04:01:28|Attracting negativity, and avoiding any harmful action|
-|11|Sun|Servant|04:01:29|05:04:20|Attracting connection and marriage proposals|
-|12|Venus|Servant|05:04:21|06:07:13|Creating hatred and corruption to disrupt harmony|
+|8|Saturn|Ruler|00:52:52|01:55:43|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Jupiter|Servant|01:55:44|02:58:35|Creating emotional attachment|
+|10|Mars|Servant|02:58:36|04:01:27|Attracting negativity, and avoiding any harmful action|
+|11|Sun|Servant|04:01:28|05:04:19|Attracting connection and marriage proposals|
+|12|Venus|Servant|05:04:20|06:07:12|Creating hatred and corruption to disrupt harmony|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:26:01|Night duration: 12:34:27|
+|Duration of the day: 11:26:01|Night duration: 12:34:26|
 |Every hour duration: 01:38:00|Every hour duration: 01:47:47|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Saturn|Ruler|17:32:47|19:20:32|
 |Late evening|Jupiter|Servant|19:20:33|21:08:19|
-|Midnight|Mars|Servant|21:08:20|22:56:06|
-|Late at night|Sun|Servant|22:56:07|00:43:52|
-|Rooster song|Venus|Servant|00:43:53|02:31:39|
-|False Dawn|Mercury|Servant|02:31:40|04:19:26|
-|Dawn|Moon|Servant|04:19:27|06:07:13|
+|Midnight|Mars|Servant|21:08:20|22:56:05|
+|Late at night|Sun|Servant|22:56:06|00:43:52|
+|Rooster song|Venus|Servant|00:43:53|02:31:38|
+|False Dawn|Mercury|Servant|02:31:39|04:19:25|
+|Dawn|Moon|Servant|04:19:26|06:07:12|
 
 {{< /tab >}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ASU,  Asounsion,  Asounsyon,  Asounsyòn,  Asounthion,  Assumptio,  Assuncao,  Assuncion,  Assunção,  Asuncion,  Asunciono,  Asunción,  Asuns'jon,  Asuns'on,  Asunsaun,  Asunsion,  Asunsjon,  Asunsjona,  Asunsjonas,  Asunson,  Asunsyon,  Asunsyun,  Asúnsjón,  Gunung Berapi Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción,  Nuestra Senora Santa Maria de la Asuncion,  Nuestra Señora Santa María de la Asunción,  Paraguay,  acunciyon,  asnshn,  asunshion,  asunsion,  asunsioni,  asunsiyona,  asusi'ona,  aswnsywn,  xa sun si xxng,  ya song sen,  Ασουνθιόν,  Ασουνσιόν,  Асунсион,  Асунсьйон,  Асунсьон,  Асунсьён,  Ասունսյոն,  אסונסיאן,  אסונסיון,  آسونسیون,  أسونسيون,  ئاسۇنسىئون,  اسنشن,  اسونسیون,  आसुन्सियोन,  ਅਸੂੰਸੀਓਨ,  அசுன்சியோன்,  ಅಸೂನ್
+Alternate Names: ASU, Asounsion, Asounsyon, Asounsyòn, Asounthion, Assumptio, Assuncao, Assuncion, Assunção, Asuncion, Asunciono, Asunción, Asuns'jon, Asuns'on, Asunsaun, Asunsion, Asunsjon, Asunsjona, Asunsjonas, Asunson, Asunsyon, Asunsyun, Asúnsjón, Gunung Berapi Asuncion, La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion, La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción, Nuestra Senora Santa Maria de la Asuncion, Nuestra Señora Santa María de la Asunción, Paraguay, acunciyon, asnshn, asunshion, asunsion, asunsioni, asunsiyona, asusi'ona, aswnsywn, xa sun si xxng, ya song sen, Ασουνθιόν, Ασουνσιόν, Асунсион, Асунсьйон, Асунсьон, Асунсьён, Ասունսյոն, אסונסיאן, אסונסיון, آسونسیون, أسونسيون, ئاسۇنسىئون, اسنشن, اسونسیون, आसुन्सियोन, ਅਸੂੰਸੀਓਨ, அசுன்சியோன், ಅಸೂನ್
 
 ---

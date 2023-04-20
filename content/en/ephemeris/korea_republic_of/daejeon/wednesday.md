@@ -20,7 +20,7 @@ Latitude: 36.3491
 \-
 Longitude: 127.3849
 \-
-Altitude: 58 meters
+Altitude: 46 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Daejeon, Korea, Republic of" lat="36.3491" lng="127.3849" zoom="12">}}
 
@@ -38,7 +38,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:52:31 |
 | Dhuhr | 12:29:42 |
 | Medium Coeli | 12:29:42 |
-| Sunset | 19:07:28 |
+| Sunset | 19:07:29 |
 | Maghrib | 19:25:00 |
 | Isha | 20:18:26 |
 | Sharia Midnight | 23:48:19 |
@@ -54,10 +54,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:52:31 |
 | Dhuhr | 12:29:42 |
 | Medium Coeli | 12:29:42 |
-| Sunset | 19:07:28 |
+| Sunset | 19:07:29 |
 | Maghrib | 19:27:36 |
 | Isha | 20:18:26 |
-| Sharia Midnight | 23:43:30 |
+| Sharia Midnight | 23:43:31 |
 | Imum Coeli | 00:29:36 |
 {{< /tab >}}
 
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:52:31 |
 | Dhuhr | 12:29:42 |
 | Medium Coeli | 12:29:42 |
-| Sunset | 19:07:28 |
-| Maghrib | 19:08:49 |
+| Sunset | 19:07:29 |
+| Maghrib | 19:08:40 |
 | Isha | 20:35:13 |
 | Sharia Midnight | 23:42:39 |
 | Imum Coeli | 00:29:36 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:52:31 |
 | Dhuhr | 12:29:42 |
 | Medium Coeli | 12:29:42 |
-| Sunset | 19:07:28 |
-| Maghrib | 19:08:49 |
+| Sunset | 19:07:29 |
+| Maghrib | 19:08:40 |
 | Isha | 20:23:59 |
 | Sharia Midnight | 23:51:07 |
 | Imum Coeli | 00:29:36 |
@@ -102,10 +102,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:52:31 |
 | Dhuhr | 12:29:42 |
 | Medium Coeli | 12:29:42 |
-| Sunset | 19:07:28 |
-| Maghrib | 19:08:49 |
+| Sunset | 19:07:29 |
+| Maghrib | 19:08:40 |
 | Isha | 20:38:03 |
-| Sharia Midnight | 23:38:19 |
+| Sharia Midnight | 23:38:20 |
 | Imum Coeli | 00:29:36 |
 {{< /tab >}}
 
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:52:31 |
 | Dhuhr | 12:29:42 |
 | Medium Coeli | 12:29:42 |
-| Sunset | 19:07:28 |
-| Maghrib | 19:08:49 |
+| Sunset | 19:07:29 |
+| Maghrib | 19:08:40 |
 | Isha | 20:40:55 |
 | Sharia Midnight | 23:42:39 |
 | Imum Coeli | 00:29:36 |
@@ -134,9 +134,9 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:52:31 |
 | Dhuhr | 12:29:42 |
 | Medium Coeli | 12:29:42 |
-| Sunset | 19:07:28 |
-| Maghrib | 19:08:49 |
-| Isha | 20:38:49 |
+| Sunset | 19:07:29 |
+| Maghrib | 19:08:40 |
+| Isha | 20:38:40 |
 | Sharia Midnight | 23:41:13 |
 | Imum Coeli | 00:29:36 |
 {{< /tab >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:14:57|Night duration: 10:43:46|
+|Duration of the day: 13:14:58|Night duration: 10:43:45|
 |Every hour of day duration: 01:06:15|Every hour of night duration: 00:53:39|
 
  
@@ -214,27 +214,27 @@ Timetable of twelve day and night planetary hours
 |2|Moon|Servant|06:58:45|08:04:59|Complaining is futile, it won't accomplish anything|
 |3|Saturn|Servant|08:05:00|09:11:14|To overcome illnesses|
 |4|Jupiter|Servant|09:11:15|10:17:29|For all actions, the goal is happiness|
-|5|Mars|Servant|10:17:30|11:23:43|Generating negative energy and disturbing peace|
-|6|Sun|Servant|11:23:44|12:29:58|Traveling inward and outward|
-|7|Venus|Servant|12:29:59|13:36:13|Attracting love and winning hearts|
+|5|Mars|Servant|10:17:30|11:23:44|Generating negative energy and disturbing peace|
+|6|Sun|Servant|11:23:45|12:29:59|Traveling inward and outward|
+|7|Venus|Servant|12:30:00|13:36:13|Attracting love and winning hearts|
 |8|Mercury|Ruler|13:36:14|14:42:28|Being concealed from the sight of people|
-|9|Moon|Servant|14:42:29|15:48:42|Separating and creating enmity|
-|10|Saturn|Servant|15:48:43|16:54:57|Subduing the elites|
-|11|Jupiter|Servant|16:54:58|18:01:12|Creating financial attraction and domination|
-|12|Mars|Servant|18:01:13|19:07:27|Generating malice and hatred|
+|9|Moon|Servant|14:42:29|15:48:43|Separating and creating enmity|
+|10|Saturn|Servant|15:48:44|16:54:58|Subduing the elites|
+|11|Jupiter|Servant|16:54:59|18:01:13|Creating financial attraction and domination|
+|12|Mars|Servant|18:01:14|19:07:28|Generating malice and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|19:07:28|20:01:05|Acceptance of needs|
-|2|Venus|Servant|20:01:06|20:54:44|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|20:54:45|21:48:23|To overcome illnesses|
-|4|Moon|Servant|21:48:24|22:42:02|For all actions, the goal is happiness|
-|5|Saturn|Servant|22:42:03|23:35:41|Generating negative energy and disturbing peace|
+|1|Sun|Ruler|19:07:29|20:01:06|Acceptance of needs|
+|2|Venus|Servant|20:01:07|20:54:45|Complaining is futile, it won't accomplish anything|
+|3|Mercury|Servant|20:54:46|21:48:24|To overcome illnesses|
+|4|Moon|Servant|21:48:25|22:42:03|For all actions, the goal is happiness|
+|5|Saturn|Servant|22:42:04|23:35:41|Generating negative energy and disturbing peace|
 |6|Jupiter|Servant|23:35:42|00:29:20|Traveling inward and outward|
-|7|Mars|Servant|00:29:21|01:22:58|Attracting love and winning hearts|
-|8|Sun|Ruler|01:22:59|02:16:37|Being concealed from the sight of people|
-|9|Venus|Servant|02:16:38|03:10:16|Separating and creating enmity|
+|7|Mars|Servant|00:29:21|01:22:59|Attracting love and winning hearts|
+|8|Sun|Ruler|01:23:00|02:16:38|Being concealed from the sight of people|
+|9|Venus|Servant|02:16:39|03:10:16|Separating and creating enmity|
 |10|Mercury|Servant|03:10:17|04:03:55|Subduing the elites|
 |11|Moon|Servant|04:03:56|04:57:34|Creating financial attraction and domination|
 |12|Saturn|Servant|04:57:35|05:51:13|Generating malice and hatred|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 13:14:57|Night duration: 10:43:46|
+|Duration of the day: 13:14:58|Night duration: 10:43:45|
 |Every hour duration: 01:53:34|Every hour duration: 01:31:58|
 
  
@@ -258,18 +258,18 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|05:52:31|07:46:03|
-|Mid-morning|Moon|Servant|07:46:04|09:39:37|
-|Late morning|Saturn|Servant|09:39:38|11:33:11|
-|Noon|Jupiter|Servant|11:33:12|13:26:45|
-|Early afternoon|Mars|Servant|13:26:46|15:20:19|
-|Mid-afternoon|Sun|Servant|15:20:20|17:13:53|
-|Late afternoon|Venus|Servant|17:13:54|19:07:27|
+|Early morning|Mercury|Ruler|05:52:31|07:46:04|
+|Mid-morning|Moon|Servant|07:46:05|09:39:38|
+|Late morning|Saturn|Servant|09:39:39|11:33:12|
+|Noon|Jupiter|Servant|11:33:13|13:26:46|
+|Early afternoon|Mars|Servant|13:26:47|15:20:20|
+|Mid-afternoon|Sun|Servant|15:20:21|17:13:54|
+|Late afternoon|Venus|Servant|17:13:55|19:07:28|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Sun|Ruler|19:07:28|20:39:25|
+|Evening|Sun|Ruler|19:07:29|20:39:25|
 |Late evening|Venus|Servant|20:39:26|22:11:23|
 |Midnight|Mercury|Servant|22:11:24|23:43:21|
 |Late at night|Moon|Servant|23:43:22|01:15:19|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Daejeon,  Daejeon-si,  Daejon,  Daiden,  Daigono,  Daiĝono,  QTW,  Taejon,  Taejŏn,  Taiden,  Tehdzhon,  Tetyan,  Thai-tyen,  Thāi-tyen,  Tētyan,  da tian guang yu shi,  daejeon,  daejeongwang-yeogsi,  daejeonsi,  Тэджон,  大田广域市,  大田広域市,  대전,  대전광역시,  대전시
+Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시
 
 ---

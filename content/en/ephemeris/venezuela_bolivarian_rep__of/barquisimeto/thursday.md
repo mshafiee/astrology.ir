@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BRM,  Barkisimeta,  Barkisimetas,  Barkisimeto,  Barquisimeto,  Barquisimetum,  Barquisimito,  ba ji xi mei tuo,  baleukisimeto,  barkysymtw,  barukishimeto,  brqysymtw,  Баркисимето,  Баркісімета,  Баркісімето,  ברקיסימטו,  بارکیسیمتو,  ბარკისიმეტო,  バルキシメト,  巴基西梅托,  바르키시메토
+Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토
 
 ---

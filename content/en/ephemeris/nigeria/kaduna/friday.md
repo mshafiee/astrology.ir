@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: KAD,  Kadun,  Kaduna,  Kaduno,  Kàdúná,  ka du na,  kadouna,  kaduna,  kadwna,  qdwnh,  Кадуна,  קדונה,  كادونا,  کادونا,  ਕਾਦੂਨਾ,  カドゥナ,  卡杜納,  카두나
+Alternate Names: KAD, Kadun, Kaduna, Kaduno, Kàdúná, ka du na, kado~una, kaduna, kadwna, qdwnh, Кадуна, קדונה, كادونا, کادونا, ਕਾਦੂਨਾ, カドゥナ, 卡杜納, 카두나
 
 ---

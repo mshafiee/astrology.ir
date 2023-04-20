@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: KGL,  Kigale,  Kigali,  Kigalis,  Kigalo,  Kigaly,  Kinkali,  Kiqali,  Kígalí,  ji jia li,  khikali,  kigali,  kigalli,  kigari,  kikali,  kygaly,  kyghaly,  Κιγκάλι,  Кигали,  Кігалі,  Կիգալի,  קיגאלי,  كيغالي,  کیگالی,  किगाली,  ਕਿਗਾਲੀ,  கிகாலி,  කිගාලි,  คิกาลี,  ཀི་ག་ལི།,  კიგალი,  ኪጋሊ,  キガリ,  吉佳利,  키갈리
+Alternate Names: KGL, Kigale, Kigali, Kigalis, Kigalo, Kigaly, Kinkali, Kiqali, Kígalí, ji jia li, khikali, kigali, kigalli, kigari, kikali, kygaly, kyghaly, Κιγκάλι, Кигали, Кігалі, Կիգալի, קיגאלי, كيغالي, کیگالی, किगाली, ਕਿਗਾਲੀ, கிகாலி, කිගාලි, คิกาลี, ཀི་ག་ལི།, კიგალი, ኪጋሊ, キガリ, 吉佳利, 키갈리
 
 ---

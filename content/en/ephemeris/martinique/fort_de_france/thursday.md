@@ -20,7 +20,7 @@ Latitude: 14.6037
 \-
 Longitude: -61.0742
 \-
-Altitude: 5 meters
+Altitude: 17 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Fort-de-France, Martinique" lat="14.6037" lng="-61.0742" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:41:46 |
-| Sunrise | 05:47:25 |
+| Sunrise | 05:47:26 |
 | Dhuhr | 12:03:13 |
 | Medium Coeli | 12:03:13 |
 | Sunset | 18:19:12 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:34:25 |
-| Sunrise | 05:47:25 |
+| Sunrise | 05:47:26 |
 | Dhuhr | 12:03:13 |
 | Medium Coeli | 12:03:13 |
 | Sunset | 18:19:12 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:33:07 |
-| Sunrise | 05:47:25 |
+| Sunrise | 05:47:26 |
 | Dhuhr | 12:03:13 |
 | Medium Coeli | 12:03:13 |
 | Sunset | 18:19:12 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:46:05 |
-| Sunrise | 05:47:25 |
+| Sunrise | 05:47:26 |
 | Dhuhr | 12:03:13 |
 | Medium Coeli | 12:03:13 |
 | Sunset | 18:19:12 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:26:36 |
-| Sunrise | 05:47:25 |
+| Sunrise | 05:47:26 |
 | Dhuhr | 12:03:13 |
 | Medium Coeli | 12:03:13 |
 | Sunset | 18:19:12 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:33:07 |
-| Sunrise | 05:47:25 |
+| Sunrise | 05:47:26 |
 | Dhuhr | 12:03:13 |
 | Medium Coeli | 12:03:13 |
 | Sunset | 18:19:12 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:30:57 |
-| Sunrise | 05:47:25 |
+| Sunrise | 05:47:26 |
 | Dhuhr | 12:03:13 |
 | Medium Coeli | 12:03:13 |
 | Sunset | 18:19:12 |
@@ -204,19 +204,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:31:47|Night duration: 11:27:39|
+|Duration of the day: 12:31:46|Night duration: 11:27:39|
 |Every hour of day duration: 01:02:39|Every hour of night duration: 00:57:18|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|05:47:25|06:50:02|Acquiring material wealth and abundance of livelihood|
-|2|Mars|Servant|06:50:03|07:52:41|Destroying enemies|
-|3|Sun|Servant|07:52:42|08:55:20|Attracting financial and emotional love|
-|4|Venus|Servant|08:55:21|09:57:59|Creating love and connection, and finding a partner|
-|5|Mercury|Servant|09:58:00|11:00:38|Engaging in sensual acts|
-|6|Moon|Servant|11:00:39|12:03:17|Traveling in the physical and spiritual realm|
-|7|Saturn|Servant|12:03:18|13:05:56|Achieving status, position, and attracting opportunities|
+|1|Jupiter|Ruler|05:47:26|06:50:03|Acquiring material wealth and abundance of livelihood|
+|2|Mars|Servant|06:50:04|07:52:42|Destroying enemies|
+|3|Sun|Servant|07:52:43|08:55:21|Attracting financial and emotional love|
+|4|Venus|Servant|08:55:22|09:58:00|Creating love and connection, and finding a partner|
+|5|Mercury|Servant|09:58:01|11:00:39|Engaging in sensual acts|
+|6|Moon|Servant|11:00:40|12:03:18|Traveling in the physical and spiritual realm|
+|7|Saturn|Servant|12:03:19|13:05:56|Achieving status, position, and attracting opportunities|
 |8|Jupiter|Ruler|13:05:57|14:08:35|Attracting happiness and prosperity|
 |9|Mars|Servant|14:08:36|15:11:14|Attaining status, position, and promoting rank|
 |10|Sun|Servant|15:11:15|16:13:53|Fulfilling needs|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:31:47|Night duration: 11:27:39|
+|Duration of the day: 12:31:46|Night duration: 11:27:39|
 |Every hour duration: 01:47:24|Every hour duration: 01:38:14|
 
  
@@ -258,10 +258,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|05:47:25|07:34:47|
-|Mid-morning|Mars|Servant|07:34:48|09:22:11|
-|Late morning|Sun|Servant|09:22:12|11:09:35|
-|Noon|Venus|Servant|11:09:36|12:56:59|
+|Early morning|Jupiter|Ruler|05:47:26|07:34:48|
+|Mid-morning|Mars|Servant|07:34:49|09:22:12|
+|Late morning|Sun|Servant|09:22:13|11:09:36|
+|Noon|Venus|Servant|11:09:37|12:56:59|
 |Early afternoon|Mercury|Servant|12:57:00|14:44:23|
 |Mid-afternoon|Moon|Servant|14:44:24|16:31:47|
 |Late afternoon|Saturn|Servant|16:31:48|18:19:11|
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'5.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°47'59.56" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°15'11.67" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°3'56.17" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°39'29.47" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'46.51" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°48'54.32" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°47'59.57" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°15'11.70" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°3'56.21" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°39'29.52" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'46.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°48'54.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'5.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°47'59.56" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°15'11.67" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°3'56.17" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°39'29.47" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'46.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°48'54.32" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°47'59.57" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°15'11.70" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°3'56.21" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°39'29.52" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'46.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°48'54.94" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Arx Gallica,  FDF,  Fod Fwans,  For d'o Frans,  For de Frans,  For de Fransas,  For-de-Frans,  For-nte-Frans,  Fordefransa,  Fort Royal,  Fort Royale,  Fort-de-France,  Fort-de-Frans,  Fort-deh-Frans,  Fòd Fwans,  Fôrt-de-France,  Le Fort-de-France,  f xr-dex-fr xngs,  fa lan xi bao,  foru=do=furansu,  fwr dw frans,  fwr-dw-frans,  phorta-de-phransa,  pirancuk kottai,  poleudeupeulangseu,  por-de-pransi,  Φορ-ντε-Φρανς,  Фор де Франс,  Фор дьо Франс,  Фор-де-Франс,  Форт-де-Франс,  Форт-дэ-Франс,  Ֆոր դե Ֆրանս,  פור-דה-פראנס,  فور دو فرانس,  فور-دو-فرانس,  فورٹ ڈی فرانس,  फोर्ट-दे-फ्रान्स,  பிரான்சுக் கோட்டை,  ฟอร์-เดอ-ฟร็องส์,  ფორ-დე-ფრანსი,  フォール＝ド＝フランス,  法兰西堡,  포르드프랑스
+Alternate Names: Arx Gallica, FDF, Fod Fwans, For d'o Frans, For de Frans, For de Fransas, For-de-Frans, For-nte-Frans, Fordefransa, Fort Royal, Fort Royale, Fort-de-France, Fort-de-Frans, Fort-deh-Frans, Fòd Fwans, Fôrt-de-France, Le Fort-de-France, f xr-dex-fr xngs, fa lan xi bao, foru=do=furansu, fwr dw frans, fwr-dw-frans, phorta-de-phransa, pirancuk kottai, poleudeupeulangseu, por-de-pransi, Φορ-ντε-Φρανς, Фор де Франс, Фор дьо Франс, Фор-де-Франс, Форт-де-Франс, Форт-дэ-Франс, Ֆոր դե Ֆրանս, פור-דה-פראנס, فور دو فرانس, فور-دو-فرانس, فورٹ ڈی فرانس, फोर्ट-दे-फ्रान्स, பிரான்சுக் கோட்டை, ฟอร์-เดอ-ฟร็องส์, ფორ-დე-ფრანსი, フォール＝ド＝フランス, 法兰西堡, 포르드프랑스
 
 ---

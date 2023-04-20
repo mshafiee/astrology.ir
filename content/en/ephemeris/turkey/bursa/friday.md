@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Boursa,  Brossa,  Broussa,  Brousse,  Brusa,  Brussa,  Burs,  Bursa,  Bursae,  Burso,  Prousa,  YEI,  bu er sa,  buleusa,  bur sa,  bursa,  burusa,  bwrsa,  bwrsh,  bwrst,  Προύσα,  Бурсæ,  Бурса,  Бурсо,  בורסה,  برصہ,  بورسا,  بورصة,  بورصه,  بورصہ,  بۇرسا,  बुर्सा,  บูร์ซา,  ბურსა,  ブルサ,  布尔萨,  부르사
+Alternate Names: Boursa, Brossa, Broussa, Brousse, Brusa, Brussa, Burs, Bursa, Bursae, Burso, Prousa, YEI, bu er sa, buleusa, bur sa, bursa, burusa, bwrsa, bwrsh, bwrst, Προύσα, Бурсæ, Бурса, Бурсо, בורסה, برصہ, بورسا, بورصة, بورصه, بورصہ, بۇرسا, बुर्सा, บูร์ซา, ბურსა, ブルサ, 布尔萨, 부르사
 
 ---

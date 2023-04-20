@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: USN,  Ul'san,  Ulsan,  Ulsan-si,  Ulsano,  Urusan,  ulsan,  ulsangwang-yeogsi,  ulsansi,  wei shan,  wei shan guang yu shi,  Ульсан,  蔚山,  蔚山広域市,  울산,  울산광역시,  울산시
+Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시
 
 ---

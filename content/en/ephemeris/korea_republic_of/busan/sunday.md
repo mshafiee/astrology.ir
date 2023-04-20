@@ -20,7 +20,7 @@ Latitude: 35.1017
 \-
 Longitude: 129.0300
 \-
-Altitude: 15 meters
+Altitude: 26 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Busan, Korea, Republic of" lat="35.1017" lng="129.0300" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:21:24 |
-| Sunrise | 05:42:35 |
+| Sunrise | 05:42:36 |
 | Dhuhr | 12:22:19 |
 | Medium Coeli | 12:22:19 |
 | Sunset | 19:02:35 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:11:52 |
-| Sunrise | 05:42:35 |
+| Sunrise | 05:42:36 |
 | Dhuhr | 12:22:19 |
 | Medium Coeli | 12:22:19 |
 | Sunset | 19:02:35 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:10:11 |
-| Sunrise | 05:42:35 |
+| Sunrise | 05:42:36 |
 | Dhuhr | 12:22:19 |
 | Medium Coeli | 12:22:19 |
 | Sunset | 19:02:35 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:26:55 |
-| Sunrise | 05:42:35 |
+| Sunrise | 05:42:36 |
 | Dhuhr | 12:22:19 |
 | Medium Coeli | 12:22:19 |
 | Sunset | 19:02:35 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:01:37 |
-| Sunrise | 05:42:35 |
+| Sunrise | 05:42:36 |
 | Dhuhr | 12:22:19 |
 | Medium Coeli | 12:22:19 |
 | Sunset | 19:02:35 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:10:11 |
-| Sunrise | 05:42:35 |
+| Sunrise | 05:42:36 |
 | Dhuhr | 12:22:19 |
 | Medium Coeli | 12:22:19 |
 | Sunset | 19:02:35 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:07:20 |
-| Sunrise | 05:42:35 |
+| Sunrise | 05:42:36 |
 | Dhuhr | 12:22:19 |
 | Medium Coeli | 12:22:19 |
 | Sunset | 19:02:35 |
@@ -204,13 +204,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:20:00|Night duration: 10:38:49|
+|Duration of the day: 13:19:59|Night duration: 10:38:49|
 |Every hour of day duration: 01:06:40|Every hour of night duration: 00:53:14|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|05:42:35|06:49:14|Attracting love and gaining financial capital|
+|1|Sun|Ruler|05:42:36|06:49:14|Attracting love and gaining financial capital|
 |2|Venus|Servant|06:49:15|07:55:54|Hateful actions, and avoiding any beneficial action|
 |3|Mercury|Servant|07:55:55|09:02:34|Creating emotional attachment and love|
 |4|Moon|Servant|09:02:35|10:09:14|Being hateful and rejecting kindness|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:20:00|Night duration: 10:38:49|
+|Duration of the day: 13:19:59|Night duration: 10:38:49|
 |Every hour duration: 01:54:17|Every hour duration: 01:31:16|
 
  
@@ -258,13 +258,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Sun|Ruler|05:42:35|07:36:51|
-|Mid-morning|Venus|Servant|07:36:52|09:31:08|
-|Late morning|Mercury|Servant|09:31:09|11:25:25|
-|Noon|Moon|Servant|11:25:26|13:19:42|
-|Early afternoon|Saturn|Servant|13:19:43|15:13:59|
-|Mid-afternoon|Jupiter|Servant|15:14:00|17:08:16|
-|Late afternoon|Mars|Servant|17:08:17|19:02:34|
+|Early morning|Sun|Ruler|05:42:36|07:36:52|
+|Mid-morning|Venus|Servant|07:36:53|09:31:09|
+|Late morning|Mercury|Servant|09:31:10|11:25:26|
+|Noon|Moon|Servant|11:25:27|13:19:43|
+|Early afternoon|Saturn|Servant|13:19:44|15:14:00|
+|Mid-afternoon|Jupiter|Servant|15:14:01|17:08:17|
+|Late afternoon|Mars|Servant|17:08:18|19:02:34|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'26.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°23'22.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°34'14.07" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°27'43.36" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°28'5.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'53.39" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°7'7.11" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'22.55" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°34'14.09" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°27'43.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°28'5.89" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'53.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°7'7.80" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'26.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'22.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°34'14.07" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°27'43.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°28'5.84" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'53.39" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°7'7.11" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°23'22.55" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°34'14.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°27'43.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°28'5.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'53.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°7'7.80" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bousan,  Busan,  Busan-si,  Busán,  Fousan,  Fusan,  Fuzan,  PUS,  Phu San,  Phủ San,  Pusan,  Pusana,  Pusano,  Tsau-liang-hai,  busan,  busangwang-yeogsi,  busansi,  fu shan,  fu shan guang yu shi,  fu shan shi,  pu san,  Μπούσαν,  Пусан,  ปูซาน,  釜山,  釜山市,  釜山广域市,  釜山広域市,  부산,  부산광역시,  부산시
+Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시
 
 ---

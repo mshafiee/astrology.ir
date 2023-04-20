@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BEL,  Belem,  Belem do Para,  Belem do Pará,  Belemo,  Belen,  Belena,  Belenas,  Belém,  Belém do Pará,  Bethlehem,  Para,  Pará,  Santa Maria de Belem do Grao Para,  Santa Maria de Belém do Grão Pará,  Vele,  Velẽ,  bei lun,  belem,  belema,  beleng,  beleni,  belleng,  beren,  blm,  bylym,  Μπελέμ,  Белем,  Белен,  בלם,  بلم,  بيليم,  بیلیم,  बेलेम,  বেলেঁ,  বেলেম,  เบเลง,  ბელენი,  ベレン,  贝伦,  벨렝
+Alternate Names: BEL, Belem, Belem do Para, Belem do Pará, Belen, Belena, Belenas, Belém, Belém do Pará, Bethlehem, Para, Pará, Santa Maria de Belem do Grao Para, Santa Maria de Belém do Grão Pará, Vele, Velẽ, bei lun, belem, belema, beleng, beleni, belleng, beren, blm, bylym, Μπελέμ, Белем, Белен, בלם, بلم, بيليم, بیلیم, बेलेम, বেলেঁ, বেলেম, เบเลง, ბელენი, ベレン, 贝伦, 벨렝
 
 ---

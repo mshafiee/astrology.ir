@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ASM,  Asmar,  Asmara,  Asmaro,  Asmehra,  Asmera,  Aszmara,  a si ma la,  asamara,  aseumala,  asmara,  asmera,  asmrh,  asmrt,  asumara,  yەsmەrە,  Əsməra,  Ασμάρα,  Асмара,  Асмэра,  Асмєра,  Ասմարա,  אסמרה,  أسمرة,  ئەسمەرە,  اسمارا,  اسمره,  अस्मारा,  ਅਸਮਾਰਾ,  அஸ்மாரா,  അസ്മാറ,  แอสมารา,  ཨཱ་སི་མི་ར།,  ასმერა,  አስመራ,  ኣስመራ,  アスマラ,  阿斯馬拉,  아스마라
+Alternate Names: ASM, Asmar, Asmara, Asmaro, Asmehra, Asmera, Aszmara, a si ma la, asamara, aseumala, asmara, asmera, asmrh, asmrt, asumara, yەsmەrە, Əsməra, Ασμάρα, Асмара, Асмэра, Асмєра, Ասմարա, אסמרה, أسمرة, ئەسمەرە, اسمارا, اسمره, अस्मारा, ਅਸਮਾਰਾ, அஸ்மாரா, അസ്മാറ, แอสมารา, ཨཱ་སི་མི་ར།, ასმერა, አስመራ, ኣስመራ, アスマラ, 阿斯馬拉, 아스마라
 
 ---

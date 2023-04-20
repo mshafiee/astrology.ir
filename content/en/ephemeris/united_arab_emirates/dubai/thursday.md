@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: DXB,  Dabei,  Dibai,  Dibay,  Doubayi,  Dubae,  Dubai,  Dubai City,  Dubai emiraat,  Dubaija,  Dubaj,  Dubajo,  Dubajus,  Dubay,  Dubayy,  Dubaï,  Dubái,  Dúbæ,  Ehmirat Dubaj,  Fort Dabei,  Ntoumpai,  dby,  dbyy,  di bai,  dobai,  du bai,  duba'i,  dubai,  dubay,  dubi,  dwbyy,  tupai,  Ντουμπάι,  Дубаи,  Дубай,  Эмірат Дубай,  Դուբայի Էմիրություն,  דובאי,  דוביי,  دبئی,  دبى,  دبي,  دبی,  دوبەی,  دۇبائى,  दुबई,  দুবাই,  துபை,  దుబాయ్,  ದುಬೈ,  ദുബായ്,  ดูไบ,  დუბაი,  ドバイ,  杜拜,  迪拜,  두바이
+Alternate Names: DXB, Dabei, Dibai, Dibay, Doubayi, Dubae, Dubai, Dubai City, Dubai emiraat, Dubaija, Dubaj, Dubajo, Dubajus, Dubay, Dubayy, Dubaï, Dubái, Dúbæ, Ehmirat Dubaj, Fort Dabei, Ntoumpai, dby, dbyy, di bai, dobai, du bai, duba'i, dubai, dubay, dubi, dwbyy, tupai, Ντουμπάι, Дубаи, Дубай, Эмірат Дубай, Դուբայի Էմիրություն, דובאי, דוביי, دبئی, دبى, دبي, دبی, دوبەی, دۇبائى, दुबई, দুবাই, துபை, దుబాయ్, ದುಬೈ, ദുബായ്, ดูไบ, დუბაი, ドバイ, 杜拜, 迪拜, 두바이
 
 ---

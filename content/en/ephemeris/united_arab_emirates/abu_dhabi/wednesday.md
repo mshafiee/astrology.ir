@@ -20,7 +20,7 @@ Latitude: 24.4512
 \-
 Longitude: 54.3970
 \-
-Altitude: 6 meters
+Altitude: 13 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Abu Dhabi, United Arab Emirates" lat="24.4512" lng="54.3970" zoom="12">}}
 
@@ -38,7 +38,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:57:23 |
 | Dhuhr | 12:21:37 |
 | Medium Coeli | 12:21:37 |
-| Sunset | 18:46:12 |
+| Sunset | 18:46:11 |
 | Maghrib | 19:01:31 |
 | Isha | 19:47:29 |
 | Sharia Midnight | 23:46:01 |
@@ -54,10 +54,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:57:23 |
 | Dhuhr | 12:21:37 |
 | Medium Coeli | 12:21:37 |
-| Sunset | 18:46:12 |
+| Sunset | 18:46:11 |
 | Maghrib | 19:03:47 |
 | Isha | 19:47:29 |
-| Sharia Midnight | 23:42:01 |
+| Sharia Midnight | 23:42:00 |
 | Imum Coeli | 00:21:30 |
 {{< /tab >}}
 
@@ -70,10 +70,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:57:23 |
 | Dhuhr | 12:21:37 |
 | Medium Coeli | 12:21:37 |
-| Sunset | 18:46:12 |
+| Sunset | 18:46:11 |
 | Maghrib | 18:47:11 |
 | Isha | 20:01:34 |
-| Sharia Midnight | 23:41:18 |
+| Sharia Midnight | 23:41:17 |
 | Imum Coeli | 00:21:30 |
 {{< /tab >}}
 
@@ -86,7 +86,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:57:23 |
 | Dhuhr | 12:21:37 |
 | Medium Coeli | 12:21:37 |
-| Sunset | 18:46:12 |
+| Sunset | 18:46:11 |
 | Maghrib | 18:47:11 |
 | Isha | 19:52:10 |
 | Sharia Midnight | 23:48:22 |
@@ -102,10 +102,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:57:23 |
 | Dhuhr | 12:21:37 |
 | Medium Coeli | 12:21:37 |
-| Sunset | 18:46:12 |
+| Sunset | 18:46:11 |
 | Maghrib | 18:47:11 |
 | Isha | 20:03:56 |
-| Sharia Midnight | 23:37:44 |
+| Sharia Midnight | 23:37:43 |
 | Imum Coeli | 00:21:30 |
 {{< /tab >}}
 
@@ -118,10 +118,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:57:23 |
 | Dhuhr | 12:21:37 |
 | Medium Coeli | 12:21:37 |
-| Sunset | 18:46:12 |
+| Sunset | 18:46:11 |
 | Maghrib | 18:47:11 |
 | Isha | 20:06:18 |
-| Sharia Midnight | 23:41:18 |
+| Sharia Midnight | 23:41:17 |
 | Imum Coeli | 00:21:30 |
 {{< /tab >}}
 
@@ -134,10 +134,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:57:23 |
 | Dhuhr | 12:21:37 |
 | Medium Coeli | 12:21:37 |
-| Sunset | 18:46:12 |
+| Sunset | 18:46:11 |
 | Maghrib | 18:47:11 |
 | Isha | 20:17:11 |
-| Sharia Midnight | 23:40:07 |
+| Sharia Midnight | 23:40:06 |
 | Imum Coeli | 00:21:30 |
 {{< /tab >}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:48:49|Night duration: 11:10:18|
+|Duration of the day: 12:48:48|Night duration: 11:10:19|
 |Every hour of day duration: 01:04:04|Every hour of night duration: 00:55:52|
 
  
@@ -221,22 +221,22 @@ Timetable of twelve day and night planetary hours
 |9|Moon|Servant|14:29:55|15:33:58|Separating and creating enmity|
 |10|Saturn|Servant|15:33:59|16:38:02|Subduing the elites|
 |11|Jupiter|Servant|16:38:03|17:42:06|Creating financial attraction and domination|
-|12|Mars|Servant|17:42:07|18:46:11|Generating malice and hatred|
+|12|Mars|Servant|17:42:07|18:46:10|Generating malice and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|18:46:12|19:42:02|Acceptance of needs|
-|2|Venus|Servant|19:42:03|20:37:54|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|20:37:55|21:33:45|To overcome illnesses|
-|4|Moon|Servant|21:33:46|22:29:37|For all actions, the goal is happiness|
-|5|Saturn|Servant|22:29:38|23:25:28|Generating negative energy and disturbing peace|
-|6|Jupiter|Servant|23:25:29|00:21:20|Traveling inward and outward|
-|7|Mars|Servant|00:21:21|01:17:11|Attracting love and winning hearts|
-|8|Sun|Ruler|01:17:12|02:13:03|Being concealed from the sight of people|
-|9|Venus|Servant|02:13:04|03:08:54|Separating and creating enmity|
-|10|Mercury|Servant|03:08:55|04:04:46|Subduing the elites|
-|11|Moon|Servant|04:04:47|05:00:37|Creating financial attraction and domination|
+|1|Sun|Ruler|18:46:11|19:42:01|Acceptance of needs|
+|2|Venus|Servant|19:42:02|20:37:53|Complaining is futile, it won't accomplish anything|
+|3|Mercury|Servant|20:37:54|21:33:44|To overcome illnesses|
+|4|Moon|Servant|21:33:45|22:29:36|For all actions, the goal is happiness|
+|5|Saturn|Servant|22:29:37|23:25:27|Generating negative energy and disturbing peace|
+|6|Jupiter|Servant|23:25:28|00:21:19|Traveling inward and outward|
+|7|Mars|Servant|00:21:20|01:17:11|Attracting love and winning hearts|
+|8|Sun|Ruler|01:17:12|02:13:02|Being concealed from the sight of people|
+|9|Venus|Servant|02:13:03|03:08:54|Separating and creating enmity|
+|10|Mercury|Servant|03:08:55|04:04:45|Subduing the elites|
+|11|Moon|Servant|04:04:46|05:00:37|Creating financial attraction and domination|
 |12|Saturn|Servant|05:00:38|05:56:29|Generating malice and hatred|
 
  
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:48:49|Night duration: 11:10:18|
-|Every hour duration: 01:49:50|Every hour duration: 01:35:45|
+|Duration of the day: 12:48:48|Night duration: 11:10:19|
+|Every hour duration: 01:49:50|Every hour duration: 01:35:46|
 
  
  
@@ -261,20 +261,20 @@ Timetable of septet day and night planetary hours
 |Early morning|Mercury|Ruler|05:57:23|07:47:11|
 |Mid-morning|Moon|Servant|07:47:12|09:37:01|
 |Late morning|Saturn|Servant|09:37:02|11:26:51|
-|Noon|Jupiter|Servant|11:26:52|13:16:41|
-|Early afternoon|Mars|Servant|13:16:42|15:06:31|
-|Mid-afternoon|Sun|Servant|15:06:32|16:56:21|
-|Late afternoon|Venus|Servant|16:56:22|18:46:11|
+|Noon|Jupiter|Servant|11:26:52|13:16:40|
+|Early afternoon|Mars|Servant|13:16:41|15:06:30|
+|Mid-afternoon|Sun|Servant|15:06:31|16:56:20|
+|Late afternoon|Venus|Servant|16:56:21|18:46:10|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Sun|Ruler|18:46:12|20:21:56|
-|Late evening|Venus|Servant|20:21:57|21:57:41|
-|Midnight|Mercury|Servant|21:57:42|23:33:27|
-|Late at night|Moon|Servant|23:33:28|01:09:12|
-|Rooster song|Saturn|Servant|01:09:13|02:44:58|
-|False Dawn|Jupiter|Servant|02:44:59|04:20:43|
+|Evening|Sun|Ruler|18:46:11|20:21:55|
+|Late evening|Venus|Servant|20:21:56|21:57:41|
+|Midnight|Mercury|Servant|21:57:42|23:33:26|
+|Late at night|Moon|Servant|23:33:27|01:09:12|
+|Rooster song|Saturn|Servant|01:09:13|02:44:57|
+|False Dawn|Jupiter|Servant|02:44:58|04:20:43|
 |Dawn|Mars|Servant|04:20:44|05:56:29|
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: A-pu-that-pi,  AEbu Saby,  AUH,  Aboe Dhabi,  Abou Dabi,  Abu Dabi,  Abu Dabis,  Abu Daby,  Abu Daibi,  Abu Dhabi,  Abu Dhabi Island and Internal Islands City,  Abu Dhabi emiraat,  Abu Zabi,  Abu Zaby,  Abu Zabye,  Abu Zabyo,  Abu Ḍabi,  Abu Ḑabi,  Abu-Dabi,  Abu-Dabi khot,  Abu-Dabio,  Abu-Dzabi,  Abú Dabí,  Abú Daibí,  Abú Zabí,  Abû Daby,  Abū Dabī,  Abū Z̧aby,  Abū Z̧abye,  Abū Z̧abyo,  Abū Z̧abī,  Ampou Ntampi,  Ebu Dabi,  Ebu Dhabi,  a bu zha bi,  abu dhabi,  abu-dabi,  abudabi,  abudhabi,  abw zby,  abwzby,  aputapi,  jzyrt abwzby wjzr dakhlyt akhry,  xa bud abi,  Â-pu-tha̍t-pí,  Äbu Saby,  Əbu-Dabi,  Άμπου Ντάμπι,  Αμπου Νταμπι,  Αμπού Ντάμπι,  Абу Даби,  Абу-Даби,  Абу-Даби хот,  Абу-Дабі,  Әбу-Даби,  Աբու Դաբի,  אבו דאבי,  أبوظبي,  ئەبووزەبی,  ابو ظبى,  ابوظبی,  ابوظہبی,  جزيرة أبوظبي وجزر داخلية اخرى,  अबु धाबी,  अबू धाबी,  আবুধাবি,  ਅਬੂ ਧਾਬੀ,  ଆବୁଧାବି,  அபுதாபி,  ಅಬು ಧಾಬಿ,  അബുദാബി,  අබුඩාබි,  อาบูดาบี,  ཨ་པོའུ་དྷ་པེ།,  အဘူဒါဘီမြို့,  აბუ-დაბი,  አቡ ዳቢ,  アブダビ,  阿布扎比,  아부다비
+Alternate Names: A-pu-that-pi, AEbu Saby, AUH, Aboe Dhabi, Abou Dabi, Abu Dabi, Abu Dabis, Abu Daby, Abu Daibi, Abu Dhabi, Abu Dhabi Island and Internal Islands City, Abu Dhabi emiraat, Abu Zabi, Abu Zaby, Abu Zabye, Abu Zabyo, Abu Ḍabi, Abu Ḑabi, Abu-Dabi, Abu-Dabi khot, Abu-Dabio, Abu-Dzabi, Abú Dabí, Abú Daibí, Abú Zabí, Abû Daby, Abū Dabī, Abū Z̧aby, Abū Z̧abye, Abū Z̧abyo, Abū Z̧abī, Ampou Ntampi, Ebu Dabi, Ebu Dhabi, a bu zha bi, abu dhabi, abu-dabi, abudabi, abudhabi, abw zby, abwzby, aputapi, jzyrt abwzby wjzr dakhlyt akhry, xa bud abi, Â-pu-tha̍t-pí, Äbu Saby, Əbu-Dabi, Άμπου Ντάμπι, Αμπου Νταμπι, Αμπού Ντάμπι, Абу Даби, Абу-Даби, Абу-Даби хот, Абу-Дабі, Әбу-Даби, Աբու Դաբի, אבו דאבי, أبوظبي, ئەبووزەبی, ابو ظبى, ابوظبی, ابوظہبی, جزيرة أبوظبي وجزر داخلية اخرى, अबु धाबी, अबू धाबी, আবুধাবি, ਅਬੂ ਧਾਬੀ, ଆବୁଧାବି, அபுதாபி, ಅಬು ಧಾಬಿ, അബുദാബി, අබුඩාබි, อาบูดาบี, ཨ་པོའུ་དྷ་པེ།, အဘူဒါဘီမြို့, აბუ-დაბი, አቡ ዳቢ, アブダビ, 阿布扎比, 아부다비
 
 ---

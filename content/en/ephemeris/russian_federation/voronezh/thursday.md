@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: VOZ,  Voronej,  Voronejo,  Voronez,  Voroneza,  Voronezas,  Voronezh,  Voronezhskaja oblast',  Voronezj,  Voroneĵo,  Voronež,  Voronežas,  Voronjez,  Voronjež,  Voroněž,  Voroņeža,  Woronesch,  Woronesh,  Woronez,  Woroneż,  bolonesi,  vuoroneji,  Воронеж,  Воронежская область,  ヴォロネジ,  보로네시
+Alternate Names: VOZ, Voronej, Voronez, Voroneza, Voronezas, Voronezh, Voronezhskaja oblast', Voronezj, Voroneĵ, Voronež, Voronežas, Voroněž, Voroņeža, Woronesch, Woronesh, Woronez, Woroneż, bolonesi, vu~oroneji, Воронеж, Воронежская область, ヴォロネジ, 보로네시
 
 ---

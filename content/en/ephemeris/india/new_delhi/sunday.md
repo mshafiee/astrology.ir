@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Dellium Novum,  Dilli,  Dillí,  N'ju-Deli,  Neo Delchi,  Neu-Delhi,  Nev Deli,  New Delhi,  New Dilli,  Niu Deli,  Nju Delkhi,  Nov-Delhio,  Nova Delhi,  Nova Deli,  Nova Deli - na'i dilli,  Nova Deli - नई दिल्ली,  Nova-Delhi,  Nove Dilli,  Nové Dillí,  Nueba Deli,  Nueva Delhi,  Nuova Delhi,  Nyja Deli,  Nyu Deli,  Nòva Delhi,  Nýja Delí,  Yeni Delhi,  dlhy aljdydt,  na'i dilli,  naya dilli,  niu-deli,  niwde li,  nyudelli,  nyuderi,  nyw dlhy,  nywdlhy,  putu tilli,  xin de li,  Νέο Δελχί,  Њу Делхи,  Нев Дели,  Нью-Дели,  Նյու Դելի,  ניו דלהי,  دلهي الجديدة,  نيودلهي,  नई दिल्ली,  নয়া দিল্লী,  புது தில்லி,  นิวเดลี,  ནེའུ་དིལ་ལིའི,  ნიუ-დელი,  ኒው ዴሊ,  ニューデリー,  新德里,  뉴델리
+Alternate Names: Dellium Novum, Dilli, Dillí, N'ju-Deli, Neo Delchi, Neu-Delhi, Nev Deli, New Delhi, New Dilli, Nju Delkhi, Nov-Delhio, Nova Delhi, Nova Deli, Nova Deli - na'i dilli, Nova Deli - नई दिल्ली, Nova-Delhi, Nove Dilli, Nové Dillí, Nueba Deli, Nueva Delhi, Nuova Delhi, Nyja Deli, Nyu Deli, Nòva Delhi, Nýja Delí, Yeni Delhi, dlhy aljdydt, na'i dilli, naya dilli, niu-deli, niwde li, nyudelli, nyuderi, nyw dlhy, nywdlhy, putu tilli, xin de li, Νέο Δελχί, Њу Делхи, Нев Дели, Нью-Дели, Նյու Դելի, ניו דלהי, دلهي الجديدة, نيودلهي, नई दिल्ली, নয়া দিল্লী, புது தில்லி, นิวเดลี, ནེའུ་དིལ་ལིའི, ნიუ-დელი, ኒው ዴሊ, ニューデリー, 新德里, 뉴델리
 
 ---

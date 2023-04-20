@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Kota Palembang,  Kutha Palembang,  PLM,  Palembang,  Palembangas,  Palempan'nk,  Palimbao,  Palimbão,  Palèmbang,  balymbanj,  ju gang,  pa lem bang,  palembanga,  pallembang,  palmbang,  palymbang,  parenban,  Παλεμπάνγκ,  Палембанг,  باليمبانج,  پالمبانگ,  پالم
+Alternate Names: Kota Palembang, Kutha Palembang, PLM, Palembang, Palembangas, Palempan'nk, Palimbao, Palimbão, Palèmbang, balymbanj, ju gang, pa lem bang, palembanga, pallembang, palmbang, palymbang, parenban, Παλεμπάνγκ, Палембанг, باليمبانج, پالمبانگ, پالم
 
 ---

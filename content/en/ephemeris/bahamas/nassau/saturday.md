@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: City of Nassau,  NAS,  Nasau,  Nasauo,  Nasaŭo,  Naso,  Nassaou,  Nassau,  Nassau City,  Nassau pa Bahamas,  Nassau på Bahamas,  Nasáu,  na sao,  nasa'u,  nasau,  nasaw,  nasayw,  nasea,  naso,  nasso,  neco,  nsaw,  Νασσάου,  Насау,  Нассау,  Նասաու,  נסאו,  ناسائو,  ناساو,  نساؤ,  नासाउ,  নাসাউ,  ਨਸਾਊ,  நேசோ,  നാസോ,  แนสซอ,  ན་སའོ།,  ნასაუ,  ናሶ,  ナッソー,  拿騷,  拿骚,  나사우,  나소
+Alternate Names: City of Nassau, NAS, Nasau, Nasauo, Nasaŭo, Naso, Nassaou, Nassau, Nassau City, Nassau pa Bahamas, Nassau på Bahamas, Nasáu, na sao, nasa'u, nasau, nasaw, nasayw, nasea, naso, nasso, neco, nsaw, Νασσάου, Насау, Нассау, Նասաու, נסאו, ناسائو, ناساو, نساؤ, नासाउ, নাসাউ, ਨਸਾਊ, நேசோ, നാസോ, แนสซอ, ན་སའོ།, ნასაუ, ናሶ, ナッソー, 拿騷, 拿骚, 나사우, 나소
 
 ---

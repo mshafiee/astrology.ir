@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: AQP,  Arecipa,  Arehkipa,  Arekip,  Arekipa,  Arekipo,  Arequipa,  Arikipa,  Ariqipa,  a lei ji pa,  alekipa,  arekipa,  arekkippa,  arkypa,  arykyba,  arykypa,  xareki pa,  Αρεκίπα,  Арекипа,  Арекіпа,  Арэкіпа,  ארקיפה,  أريكيبا,  ارکیپا,  اریکیپا,  अरेकिपा,  அரேக்கிப்பா,  อาเรกีปา,  არეკიპა,  アレキパ,  阿雷基帕,  아레키파
+Alternate Names: AQP, Arecipa, Arehkipa, Arekip, Arekipa, Arekipo, Arequipa, Arikipa, Ariqipa, a lei ji pa, alekipa, arekipa, arekkippa, arkypa, arykyba, arykypa, xareki pa, Αρεκίπα, Арекипа, Арекіпа, Арэкіпа, ארקיפה, أريكيبا, ارکیپا, اریکیپا, अरेकिपा, அரேக்கிப்பா, อาเรกีปา, არეკიპა, アレキパ, 阿雷基帕, 아레키파
 
 ---

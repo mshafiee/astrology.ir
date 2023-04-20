@@ -20,7 +20,7 @@ Latitude: 6.1236
 \-
 Longitude: 102.2433
 \-
-Altitude: 10 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Kota Bharu, Malaysia" lat="6.1236" lng="102.2433" zoom="12">}}
 
@@ -38,7 +38,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:01:57 |
 | Dhuhr | 13:10:15 |
 | Medium Coeli | 13:10:15 |
-| Sunset | 19:18:38 |
+| Sunset | 19:18:39 |
 | Maghrib | 19:32:33 |
 | Isha | 20:13:45 |
 | Sharia Midnight | 00:38:24 |
@@ -54,7 +54,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 07:01:57 |
 | Dhuhr | 13:10:15 |
 | Medium Coeli | 13:10:15 |
-| Sunset | 19:18:38 |
+| Sunset | 19:18:39 |
 | Maghrib | 19:34:36 |
 | Isha | 20:13:45 |
 | Sharia Midnight | 00:34:53 |
@@ -70,10 +70,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:01:57 |
 | Dhuhr | 13:10:15 |
 | Medium Coeli | 13:10:15 |
-| Sunset | 19:18:38 |
+| Sunset | 19:18:39 |
 | Maghrib | 19:19:33 |
 | Isha | 20:26:10 |
-| Sharia Midnight | 00:34:15 |
+| Sharia Midnight | 00:34:16 |
 | Imum Coeli | 01:10:09 |
 {{< /tab >}}
 
@@ -86,10 +86,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 07:01:57 |
 | Dhuhr | 13:10:15 |
 | Medium Coeli | 13:10:15 |
-| Sunset | 19:18:38 |
+| Sunset | 19:18:39 |
 | Maghrib | 19:19:33 |
 | Isha | 20:17:53 |
-| Sharia Midnight | 00:40:28 |
+| Sharia Midnight | 00:40:29 |
 | Imum Coeli | 01:10:09 |
 {{< /tab >}}
 
@@ -102,7 +102,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:01:57 |
 | Dhuhr | 13:10:15 |
 | Medium Coeli | 13:10:15 |
-| Sunset | 19:18:38 |
+| Sunset | 19:18:39 |
 | Maghrib | 19:19:33 |
 | Isha | 20:28:14 |
 | Sharia Midnight | 00:31:09 |
@@ -118,10 +118,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:01:57 |
 | Dhuhr | 13:10:15 |
 | Medium Coeli | 13:10:15 |
-| Sunset | 19:18:38 |
+| Sunset | 19:18:39 |
 | Maghrib | 19:19:33 |
 | Isha | 20:30:18 |
-| Sharia Midnight | 00:34:15 |
+| Sharia Midnight | 00:34:16 |
 | Imum Coeli | 01:10:09 |
 {{< /tab >}}
 
@@ -134,10 +134,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 07:01:57 |
 | Dhuhr | 13:10:15 |
 | Medium Coeli | 13:10:15 |
-| Sunset | 19:18:38 |
+| Sunset | 19:18:39 |
 | Maghrib | 19:19:33 |
 | Isha | 20:49:33 |
-| Sharia Midnight | 00:33:13 |
+| Sharia Midnight | 00:33:14 |
 | Imum Coeli | 01:10:09 |
 {{< /tab >}}
 
@@ -204,36 +204,36 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:16:41|Night duration: 11:42:56|
-|Every hour of day duration: 01:01:23|Every hour of night duration: 00:58:35|
+|Duration of the day: 12:16:42|Night duration: 11:42:55|
+|Every hour of day duration: 01:01:24|Every hour of night duration: 00:58:35|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|07:01:57|08:03:19|Acceptance of needs|
-|2|Moon|Servant|08:03:20|09:04:42|Complaining is futile, it won't accomplish anything|
-|3|Saturn|Servant|09:04:43|10:06:06|To overcome illnesses|
-|4|Jupiter|Servant|10:06:07|11:07:29|For all actions, the goal is happiness|
-|5|Mars|Servant|11:07:30|12:08:53|Generating negative energy and disturbing peace|
-|6|Sun|Servant|12:08:54|13:10:16|Traveling inward and outward|
-|7|Venus|Servant|13:10:17|14:11:39|Attracting love and winning hearts|
-|8|Mercury|Ruler|14:11:40|15:13:03|Being concealed from the sight of people|
-|9|Moon|Servant|15:13:04|16:14:26|Separating and creating enmity|
-|10|Saturn|Servant|16:14:27|17:15:50|Subduing the elites|
-|11|Jupiter|Servant|17:15:51|18:17:13|Creating financial attraction and domination|
-|12|Mars|Servant|18:17:14|19:18:37|Generating malice and hatred|
+|2|Moon|Servant|08:03:20|09:04:43|Complaining is futile, it won't accomplish anything|
+|3|Saturn|Servant|09:04:44|10:06:06|To overcome illnesses|
+|4|Jupiter|Servant|10:06:07|11:07:30|For all actions, the goal is happiness|
+|5|Mars|Servant|11:07:31|12:08:53|Generating negative energy and disturbing peace|
+|6|Sun|Servant|12:08:54|13:10:17|Traveling inward and outward|
+|7|Venus|Servant|13:10:18|14:11:40|Attracting love and winning hearts|
+|8|Mercury|Ruler|14:11:41|15:13:04|Being concealed from the sight of people|
+|9|Moon|Servant|15:13:05|16:14:27|Separating and creating enmity|
+|10|Saturn|Servant|16:14:28|17:15:51|Subduing the elites|
+|11|Jupiter|Servant|17:15:52|18:17:14|Creating financial attraction and domination|
+|12|Mars|Servant|18:17:15|19:18:38|Generating malice and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|19:18:38|20:17:11|Acceptance of needs|
-|2|Venus|Servant|20:17:12|21:15:46|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|21:15:47|22:14:21|To overcome illnesses|
-|4|Moon|Servant|22:14:22|23:12:55|For all actions, the goal is happiness|
-|5|Saturn|Servant|23:12:56|00:11:30|Generating negative energy and disturbing peace|
+|1|Sun|Ruler|19:18:39|20:17:12|Acceptance of needs|
+|2|Venus|Servant|20:17:13|21:15:47|Complaining is futile, it won't accomplish anything|
+|3|Mercury|Servant|21:15:48|22:14:21|To overcome illnesses|
+|4|Moon|Servant|22:14:22|23:12:56|For all actions, the goal is happiness|
+|5|Saturn|Servant|23:12:57|00:11:30|Generating negative energy and disturbing peace|
 |6|Jupiter|Servant|00:11:31|01:10:05|Traveling inward and outward|
-|7|Mars|Servant|01:10:06|02:08:39|Attracting love and winning hearts|
-|8|Sun|Ruler|02:08:40|03:07:14|Being concealed from the sight of people|
+|7|Mars|Servant|01:10:06|02:08:40|Attracting love and winning hearts|
+|8|Sun|Ruler|02:08:41|03:07:14|Being concealed from the sight of people|
 |9|Venus|Servant|03:07:15|04:05:49|Separating and creating enmity|
 |10|Mercury|Servant|04:05:50|05:04:23|Subduing the elites|
 |11|Moon|Servant|05:04:24|06:02:58|Creating financial attraction and domination|
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:16:41|Night duration: 11:42:56|
-|Every hour duration: 01:45:14|Every hour duration: 01:40:25|
+|Duration of the day: 12:16:42|Night duration: 11:42:55|
+|Every hour duration: 01:45:15|Every hour duration: 01:40:25|
 
  
  
@@ -259,23 +259,23 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Mercury|Ruler|07:01:57|08:47:10|
-|Mid-morning|Moon|Servant|08:47:11|10:32:24|
-|Late morning|Saturn|Servant|10:32:25|12:17:39|
-|Noon|Jupiter|Servant|12:17:40|14:02:53|
-|Early afternoon|Mars|Servant|14:02:54|15:48:08|
-|Mid-afternoon|Sun|Servant|15:48:09|17:33:22|
-|Late afternoon|Venus|Servant|17:33:23|19:18:37|
+|Mid-morning|Moon|Servant|08:47:11|10:32:25|
+|Late morning|Saturn|Servant|10:32:26|12:17:39|
+|Noon|Jupiter|Servant|12:17:40|14:02:54|
+|Early afternoon|Mars|Servant|14:02:55|15:48:08|
+|Mid-afternoon|Sun|Servant|15:48:09|17:33:23|
+|Late afternoon|Venus|Servant|17:33:24|19:18:38|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Sun|Ruler|19:18:38|20:59:02|
-|Late evening|Venus|Servant|20:59:03|22:39:27|
-|Midnight|Mercury|Servant|22:39:28|00:19:52|
-|Late at night|Moon|Servant|00:19:53|02:00:17|
-|Rooster song|Saturn|Servant|02:00:18|03:40:42|
-|False Dawn|Jupiter|Servant|03:40:43|05:21:07|
-|Dawn|Mars|Servant|05:21:08|07:01:33|
+|Evening|Sun|Ruler|19:18:39|20:59:03|
+|Late evening|Venus|Servant|20:59:04|22:39:28|
+|Midnight|Mercury|Servant|22:39:29|00:19:53|
+|Late at night|Moon|Servant|00:19:54|02:00:18|
+|Rooster song|Saturn|Servant|02:00:19|03:40:43|
+|False Dawn|Jupiter|Servant|03:40:44|05:21:08|
+|Dawn|Mars|Servant|05:21:09|07:01:33|
 
 {{< /tab >}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Bharu,  KBR,  Khota Baharu,  Khota Bahru,  Ko-ta-hap-lu-su,  Kota Baharu,  Kota Bahru,  Kota Baru,  Kota Bharu,  Kota-Baru,  Kô-tá-ha̍p-lû-sṳ,  ge da ba lu,  kotabalu,  kotabaru,  kwta bharw,  Кота Бару,  Кота-Бару,  كوتا بهارو,  โกตาบารู,  コタバル,  哥打巴鲁,  코타바루
+Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루
 
 ---

@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MYC,  Maracay,  Marakai,  Marakaj,  Marakajo,  Marakajus,  Marakay,  ma la kai,  malakai,  marakai,  marakay,  Μαρακάι,  Маракай,  ماراکای,  მარაკაი,  マラカイ,  马拉凯,  마라카이
+Alternate Names: MYC, Maracay, Marakai, Marakaj, Marakajo, Marakajus, Marakay, ma la kai, malakai, marakai, marakay, Μαρακάι, Маракай, ماراکای, მარაკაი, マラカイ, 马拉凯, 마라카이
 
 ---

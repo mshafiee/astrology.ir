@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°39'56.60" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°42'24.95" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°28'55.12" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°28'45.47" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|8°35'36.47" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ISaratov,  RTW,  Saratau,  Saratof,  Saratov,  Saratov osh,  Saratova,  Saratovas,  Saratovia,  Saratovu,  Saratow,  Saratu,  Saratuovs,  Saratów,  Saretow,  Sarytau,  Saràtov,  Sarátov,  Szaratov,  sa la tuo fu,  salatopeu,  saratofu,  saratova,  saratwf,  srʼtwb,  Σαράτοφ,  Сарăту,  Саратаў,  Саратов,  Саратов балһсн,  Саратов ош,  Саратовъ,  Сарытау,  Һарытау,  Սարատով,  סראטוב,  ساراتوف,  ساراٹوف,  सारातोव,  სარატოვი,  サラトフ,  薩拉托夫,  사라토프
+Alternate Names: ISaratov, RTW, Saratau, Saratof, Saratov, Saratov osh, Saratova, Saratovas, Saratovia, Saratovu, Saratow, Saratu, Saratuovs, Saratów, Saretow, Sarytau, Saràtov, Sarátov, Szaratov, sa la tuo fu, salatopeu, saratofu, saratova, saratwf, srʼtwb, Σαράτοφ, Сарăту, Саратаў, Саратов, Саратов балһсн, Саратов ош, Саратовъ, Сарытау, Һарытау, Սարատով, סראטוב, ساراتوف, ساراٹوف, सारातोव, სარატოვი, サラトフ, 薩拉托夫, 사라토프
 
 ---
