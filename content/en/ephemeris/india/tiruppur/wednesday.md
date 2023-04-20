@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°26'58.18" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°28'1.93" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°30'56.92" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°42'54.02" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°4'12.92" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°21'9.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°39'8.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°28'1.01" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°30'53.39" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°42'45.21" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°4'4.48" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°20'56.67" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°49'10.76" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|12°30'56.92" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|28°42'54.02" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|9°4'12.92" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°21'9.94" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°39'8.79" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°20'56.67" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°49'10.76" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

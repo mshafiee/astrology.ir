@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'9.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°39'41.01" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°56'51.00" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°30'6.60" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°59'54.72" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°30'17.27" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°24'13.75" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°39'41.82" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°56'43.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°30'12.31" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°59'50.42" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°30'20.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°12'45.31" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'9.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°39'42.70" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°56'48.65" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°30'17.06" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|9°59'58.06" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°30'29.23" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°39'26.08" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|23°39'41.82" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°56'43.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°30'12.31" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|9°59'50.42" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°30'20.00" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°12'45.31" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

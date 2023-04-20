@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'25.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'55.01" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°17'21.51" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°7'38.71" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°43'59.68" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'59.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°51'44.77" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'54.79" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°17'20.55" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°7'37.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°43'58.04" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'57.75" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°43'35.84" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'25.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'55.88" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'17.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'44.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°43'58.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'4.70" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°27'22.22" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'54.79" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'20.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°7'37.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'58.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'57.75" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°43'35.84" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: MEM,  Memfis,  Memfisa,  Memphis,  Memphis Tennesiae,  Menfis,  Mémfis,  Mênfis,  memfis,  memhpis,  memphisa,  mempiseu,  mempisi,  menfisu,  meng fei si,  mmfys,  mmfys  tnsy,  mmpys,  Μέμφις,  Мемфис,  Мемфіс,  Մեմֆիս,  ממפיס,  מעמפיס,  ممفيس,  ممفیس,  ممفیس، تنسی,  میمفس، ٹینیسی,  मेम्फिस,  মেম্ফিস,  மெம்ஃபிஸ்,  เมมฟิส,  მემფისი,  メンフィス,  孟菲斯,  孟非斯,  멤피스

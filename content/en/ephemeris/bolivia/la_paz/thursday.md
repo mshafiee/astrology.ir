@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'17.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'33.11" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°16'25.93" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°6'12.90" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'30.96" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°16'28.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°5'59.95" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°42'9.35" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'1.59" |Aries|Butain|Sun|
 |☾ Moon|Direct|4°31'6.97" |Aries|Sharatain|Mars|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°34'17.49" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°48'33.11" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°16'25.93" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°6'12.90" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°41'57.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'37.46" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°37'12.10" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|0°5'59.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°42'4.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'46.26" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°6'17.64" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: A Paz,  Chukiyawu,  Chuqi Yapu,  Chuqiyapu,  Ciudad La Paz,  LPB,  La Pas,  La Pasas,  La Paz,  La-Pas,  La-Pas shaary,  La-Pazo,  Lapasa,  Nuestra Senora de La Paz,  Nuestra Señora de La Paz,  Pax,  Soukre/La Paz,  la ba si,  la paja,  la pajha,  la pas,  la pasa,  la paz,  labaz,  lapaja,  lapas,  lapaseu,  lapaz,  rapasu,  Λα Πας,  Σούκρε/Λα Παζ,  Ла Паз,  Ла Пас,  Ла-Пас,  Ла-Пас шаары,  Լա Պաս,  לא פאז,  לה פאס,  لا پاز,  لاباز,  لاپاز,  ला पाझ,  ला पास,  লা পাজ,  ਲਾ ਪਾਸ,  ଲାପାଜ,  லா பாஸ்,  ലാ പാസ്,  ลาปาซ,  ლა-პასი,  ላፓዝ,  ラパス,  拉巴斯,  라파스

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'11.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'15.05" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°15'53.16" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°4'55.91" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°40'49.33" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'43.44" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°4'56.42" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'16.00" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°15'48.93" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°5'2.12" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°40'48.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'48.92" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°45'23.42" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Coaquannock,  Fi-sang,  Fi-sàng,  Filadehl'fija,  Filadel'fi,  Filadel'fij,  Filadel'fija,  Filadelfi,  Filadelfia,  Filadelfiae,  Filadelfie,  Filadelfii,  Filadelfija,  Filadelfijo,  Filadelfio,  Filadelfiya,  Filadelfiye,  Filadelfiä,  Filadèlfia,  Filadélfia,  Filadélfiye,  Ga-na-ta-jen-go-na,  PHL,  Phila,  Philadelpheia,  Philadelphia,  Philadelphie,  Philly,  Quequenakee,  Tsi wahswen:to Tekahso:ken,  Tsi wahswèn:to Tekahsó:ken,  fei cheng,  fi la delfeiy,  filadailafi'a,  firaderufia,  flaڈylfya,  fyladlfya,  fyladlfya  pnsylwanya,  philadelaphiya,  philadelphiya,  piladelpia,  pilatelpiya,  pilladelpia,  pyldlpyh,  Φιλαδέλφεια,  Филаделфиа,  Филаделфия,  Филаделфија,  Филадельфи,  Филадельфий,  Филадельфия,  Філадельфія,  Філадэльфія,  Ֆիլադելֆիա,  פילאדעלפיע,  פילדלפיה,  فلاڈیلفیا,  فلاڈیلفیا، پنسلوانیا,  فيلادلفيا,  فیلادلفیا,  فیلادلفیا، پنسیلوانیا,  फिलाडेल्फिया,  ফিলাডেলফিয়া,  ਫ਼ਿਲਾਡੈਲਫ਼ੀਆ,  ફિલાડેલ્ફિયા,  பிலடெல்பியா,  ఫిలడెల్ఫియా,  ಫಿಲಡೆಲ್ಫಿಯಾ,  ഫിലഡെൽഫിയ,  ฟิลาเดลเฟีย,  ဖီလာဒဲလ်ဖီးယားမြို့,  ფილადელფია,  ፊላዴልፊያ,  ភីឡាដេលផ្យា,  フィラデルフィア,  費城,  费城,  필라델피아

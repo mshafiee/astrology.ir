@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'25.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'53.62" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'15.23" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'31.01" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°43'48.88" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'45.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°58'49.30" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'55.88" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'17.45" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°7'44.32" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'58.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'57.75" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°43'35.84" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: MEM,  Memfis,  Memfisa,  Memphis,  Memphis Tennesiae,  Menfis,  Mémfis,  Mênfis,  memfis,  memhpis,  memphisa,  mempiseu,  mempisi,  menfisu,  meng fei si,  mmfys,  mmfys  tnsy,  mmpys,  Μέμφις,  Мемфис,  Мемфіс,  Մեմֆիս,  ממפיס,  מעמפיס,  ممفيس,  ممفیس,  ممفیس، تنسی,  میمفس، ٹینیسی,  मेम्फिस,  মেম্ফিস,  மெம்ஃபிஸ்,  เมมฟิส,  მემფისი,  メンフィス,  孟菲斯,  孟非斯,  멤피스

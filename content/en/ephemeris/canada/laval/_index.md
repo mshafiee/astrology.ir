@@ -331,9 +331,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'8.13" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'6.83" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°15'28.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°4'24.63" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'5.17" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°15'30.49" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°4'14.44" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|10°40'0.90" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°34'32.04" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|2°23'43.53" |Taurus|Thurayya|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Laval,  Laval',  Lavalis,  Lavalo,  la wa lei,  lafal,  lawal  kbk,  lawl,  ravuaru,  Λαβάλ,  Лавал,  Лаваль,  לאוואל,  لافال,  لاوال، کبک,  لاول,  ラヴァル,  拉瓦勒

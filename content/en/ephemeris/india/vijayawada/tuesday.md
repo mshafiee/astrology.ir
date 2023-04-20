@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°54'16.71" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°43'50.85" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°33'26.75" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°54'58.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'27.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°5'19.38" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°54'47.49" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'2.69" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°12'3.73" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'53.83" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'16.71" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'50.85" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'26.75" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°54'58.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'27.22" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°5'19.38" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°56'52.63" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°54'14.09" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'48.20" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'11.44" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°54'47.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'2.69" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°12'3.73" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bezawada,  Bezwada,  Bezwāda,  VGA,  Vidzajavada,  Vidzhajavada,  Vidzsajavada,  Vidzsajavádá,  Vidžajavada,  Vijajauada,  Vijajaŭada,  Vijayavada,  Vijayavādā,  Vijayawada,  Vijayawāda,  Widzajawada,  Widźajawada,  bejavada,  bijayabada,  bijayarada,  bijayawada,  bijayawara,  fjayawada,  fyjayawada,  vicayavata,  vijaiavada,  vijaivara,  vijayavada,  vijayavara,  vuijayawada,  wei jie ya wa da,  wjyawada,  wjyے waڑہ,  wyjyawada,  Виджаявада,  Виџајавада,  Віджаявада,  ויגיאוואדה,  فجاياوادا,  فيجاياوادا,  وجئے واڑہ,  وجیاوادا,  ويجیواډا,  ویجایاواڈا,  ویجیاوادا,  विजयवाड़ा,  विजयवाडा,  বিজযবাডা,  বিজয়াৱদা,  ਵਿਜਯਵਾਡਾ,  ਵਿਜੈਵਾੜਾ,  વિજયવાડા,  ବିଜୟୱାଡ଼ା,  ଵିଜଯଵାଡା,  விசயவாடா,  బెజవాడ,  విజయవాడ,  ವಿಜಯವಾಡ,  വിജയവാഡ,  ვიჯაიავადა,  ヴィジャヤワーダ,  维杰亚瓦达,  비자야와다

@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°34'34.22" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°49'20.47" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°18'11.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°9'13.93" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°45'52.07" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'1.97" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°46'53.78" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°9'24.42" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°45'55.73" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'14.48" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°55'18.98" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'34.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°49'18.73" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°18'13.95" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°9'13.93" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°45'52.07" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'1.97" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°46'53.78" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°49'20.47" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°18'11.97" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°9'24.42" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°45'55.73" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'14.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°55'18.98" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: SAT,  San Antonijus,  San Antonio,  San Antonio (Texas),  San Antonio de Bejar,  San Antoniyo,  San Antònio,  San-Antonia,  San-Antonio,  Sanantonio,  Sanctus Antonius,  can antoniyo,  saen-antonio,  saina entoniyo,  san antoniyo,  san antwnyw,  san'antonio,  san-antʼonio,  sana antoni'o,  sena amtoniyo,  sheng an dong ni ao,  Σαν Αντόνιο,  Сан Антонио,  Сан-Антонио,  Сан-Антоніа,  Сан-Антоніо,  Սան Անտոնիո,  סאן אנטאניא,  סן אנטוניו,  سان آنتونیو,  سان أنطونيو,  سان انٹونیو,  सॅन अँटोनियो,  सैन एन्टोनियो,  স্যান অ্যান্টোনিও,  ਸਾਨ ਆਂਤੋਨੀਓ,  சான் அந்தோனியோ,  శాన్ అంటోనియో,  സാൻ അന്റോണിയോ,  แซนแอนโทนีโอ,  სან-ანტონიო,  サンアントニオ,  圣安东尼奥,  聖安東尼奧,  샌안토니오

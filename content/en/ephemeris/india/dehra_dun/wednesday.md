@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°26'53.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°27'50.22" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°30'29.23" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°42'3.84" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°3'13.52" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°20'57.41" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°27'25.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°27'49.56" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°30'32.14" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°41'59.60" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°3'14.16" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°20'54.03" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°48'20.83" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,11 +331,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°26'53.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°27'49.90" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°30'29.36" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|28°42'1.98" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|9°3'12.63" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°20'55.19" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°27'49.56" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°30'32.14" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|28°41'59.60" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|9°3'14.16" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°20'54.03" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|14°14'4.36" |Aries|Butain|Sun|
 
 

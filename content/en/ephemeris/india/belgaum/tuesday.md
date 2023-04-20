@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°44'25.34" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°34'28.86" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°56'11.06" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'6.53" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°18'28.47" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|14°59'43.29" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°9'34.22" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -346,7 +346,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Mercury|Mars|Moon|
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
-|☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
+|☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
 |☾ Moon|Mars|Mars|Moon|Saturn|
 
 
@@ -357,8 +357,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mars|Mars|Capricorn|Sun|Mars|
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Belagaavi,  Belagavi,  Belagoavi,  Belagāvi,  Belgaan,  Belgaavi,  Belgaon,  Belgaum,  Belgaumas,  IXG,  bei er gao mu,  belaga'uma,  belagam,  belagamva,  belaganva,  belagavi,  belgam,  belgaum,  berugaumu,  blgam,  blgaywm,  bylgawm,  bylgwm,  pelkam,  Белгаан,  Белгаум,  بلگام,  بلگایوم,  بيلگوم,  بیلگاؤم,  बेलगाँव,  बेलगांव,  बेळगांव,  बेळगावी,  বেলগাউম,  ବେଲଗାଁ,  பெல்காம்,  బెల్గాం,  ಬೆಳಗಾವಿ,  ബെൽഗാം,  ベルガウム,  贝尔高姆,  벨가움

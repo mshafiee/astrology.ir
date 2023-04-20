@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°34'25.02" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°48'54.56" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°17'14.84" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°7'27.53" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°43'46.96" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'48.26" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°4'10.43" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°7'38.54" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°43'52.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'2.37" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°17'15.90" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,11 +330,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'25.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'54.56" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'14.84" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'38.54" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°43'52.38" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°34'23.82" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°48'52.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'15.46" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°7'27.53" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'46.96" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°34'48.26" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|3°4'10.43" |Taurus|Thurayya|Mercury|
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: City of Minneapolis,  Gakaabikaang,  MSP,  Min-ni-a-po-li-su,  Mineapalis,  Mineapoli,  Mineapolis,  Mineapolisa,  Mineápolis,  Minneapolis,  Minneapòlis,  Minnéapolis,  Minyapolis,  Mìn-nì-â-pô-li-sṳ̂,  mineaporisu,  minepolisa,  ming ni a bo li si,  ming ni ya bo li si,  miniaepolliseu,  miniyapolisa,  miniyappolis,  minniyapolis,  mnyapwls,  mynyabwls,  mynyapwlys,  Μινεάπολη,  Минеаполис,  Миннеаполис,  Мінеапаліс,  Міннеаполіс,  Մինեապոլիս,  מיניאפוליס,  منیاپولس,  مينيابولس,  مینیاپولیس,  मिनियापोलिस,  मिनीयापोलिस,  মিনিয়াপোলিস,  મિનેપોલિસ,  மினியாப்பொலிஸ்,  మిన్నియాపోలిస్,  ಮಿನ್ನಿಯಾಪೋಲಿಸ್,  มินนีแอโพลิส,  მინეაპოლისი,  ミネアポリス,  明尼亞波利斯,  明尼阿波利斯,  미니애폴리스

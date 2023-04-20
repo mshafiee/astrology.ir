@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°34'34.84" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°49'22.19" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°18'15.71" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°9'17.18" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°45'52.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'54.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°23'44.10" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°9'31.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°46'3.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'15.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°59'29.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: REX,  Reinosa,  Rejnosa,  Reynosa,  lei nuo sa,  leinosa,  reinosa,  rynwsa tamaywlypas,  ryynwsa,  ryynwsh,  Рейноса,  Рејноса,  ריינוסה,  ریئنوسا,  رینوسا تامائولیپاس,  რეინოსა,  レイノサ,  雷諾薩,  레이노사

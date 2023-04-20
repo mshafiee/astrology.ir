@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'28.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°49'4.78" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°17'37.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°8'20.24" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°44'41.10" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'6.80" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°30'24.96" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°49'3.56" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°17'41.00" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°8'12.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°44'40.57" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'58.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°40'28.68" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,8 +331,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'28.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°49'4.78" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'37.45" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|23°49'3.56" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'41.00" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°8'20.24" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|10°44'41.10" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°35'6.80" |Taurus|Dabaran|Moon|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: OMA,  Omacha,  Omaha,  Omakha,  ao ma ha,  awmaha,  awmaha nbraska,  awmaha  nbraska,  omaha,  xo ma ha,  Ομάχα,  Омаха,  Օմահա,  אומהה,  أوماها,  اوماها نبراسكا,  اوماها، نبراسکا,  اوماہا، نیبراسکا,  ओमाहा,  ওমাহা,  โอมาฮา,  ომაჰა,  オマハ,  奥马哈,  오마하

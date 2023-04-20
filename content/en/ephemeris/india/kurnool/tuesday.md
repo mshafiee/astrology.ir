@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'56.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'20.87" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°44'2.27" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°33'39.03" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°55'18.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°59'53.35" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°7'17.22" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°54'23.44" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°44'6.05" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°33'54.15" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°55'30.57" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'18.17" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°11'13.80" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -318,8 +318,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
-|☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°56'56.07" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°54'23.44" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°44'6.05" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'39.03" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'18.20" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'53.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°7'17.22" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°33'54.15" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°55'30.57" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'18.17" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°11'13.80" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -346,7 +346,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Mercury|Mars|Moon|
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
-|☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
+|☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
 |☾ Moon|Mars|Mars|Moon|Saturn|
 
 
@@ -357,8 +357,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mars|Mars|Capricorn|Sun|Mars|
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: KJB,  Kandenavolu,  Karnul,  Karnulu,  Karnūlu,  Kurmul,  Kurnool,  ka nu er,  karanula,  karnul,  karnulu,  karnulu-nagaram,  karunuru,  krnwl,  kuranula,  kurnala,  kurnula,  kwrnwwl,  Карнул,  کرنول,  کورنوول,  करनूल,  कर्नूलु-नगरम्,  कुरनूल,  कुर्नुल,  कुर्नूल,  কুর্নল,  ਕੁਰਨੂਲ,  કુર્નૂલ,  କୁର୍ନୂଲ,  கர்னூல்,  కర్నూలు,  ಕರ್ನೂಲು,  カルヌール,  卡努爾

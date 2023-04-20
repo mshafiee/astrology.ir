@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'12.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°46'13.82" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°25'40.00" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°0'41.03" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°16'45.44" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°10'36.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°8'38.18" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°46'11.44" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°25'37.63" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°0'27.10" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°16'35.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°10'14.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°11'39.58" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -333,8 +333,8 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°54'12.04" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°46'13.82" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°25'40.00" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°0'41.03" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°16'45.44" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°0'27.10" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°16'35.32" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°10'14.72" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|25°11'39.58" |Gemini|Dhira|Sun|
 

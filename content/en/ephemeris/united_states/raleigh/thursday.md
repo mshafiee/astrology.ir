@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'15.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'27.37" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°16'19.69" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°5'46.70" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'27.97" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°16'15.40" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°5'50.90" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°41'47.49" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°34'51.39" |Aries|Butain|Sun|
 |☾ Moon|Direct|3°33'31.45" |Aries|Sharatain|Mars|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'14.77" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'27.35" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°16'19.50" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°5'46.79" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°41'47.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'51.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°34'26.13" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°34'15.64" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°48'27.97" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°16'15.40" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°5'46.70" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°41'47.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'51.39" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°33'31.45" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: RDU,  Ralei,  Raleigh,  Rali,  Roles,  Roli,  Rolio,  Rolis,  Rolės,  Wake Court House,  lolli,  luo li,  ra li,  raley,  rali,  raly,  raly  shmaly kyrwlyna,  rele,  reli,  roli,  rori,  ryale'i,  Ράλεϊ,  Рали,  Ралі,  Роли,  Ролі,  Ռոլի,  ראלי,  رالي,  رالی,  رالی، شمالی کیرولینا,  रालेय्,  रॅले,  रेली,  र्यालेइ,  র

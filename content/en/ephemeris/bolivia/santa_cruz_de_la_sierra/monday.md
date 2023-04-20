@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'7.05" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°45'58.93" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°25'5.67" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°59'41.33" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°15'34.30" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°11'0.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°7'59.16" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°25'6.71" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°59'26.29" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°15'27.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°10'38.13" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°37'59.67" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -332,10 +332,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'7.05" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°45'58.93" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°25'5.67" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°59'41.33" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°15'34.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°11'0.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°25'6.71" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°59'26.29" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°15'27.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°10'38.13" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|25°37'59.67" |Gemini|Dhira|Sun|
 
 

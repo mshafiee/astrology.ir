@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'9.12" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°48'9.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°15'37.35" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°15'33.83" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°4'29.34" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°40'16.71" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°34'42.89" |Aries|Butain|Sun|
@@ -331,11 +331,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'9.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'9.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°15'33.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°4'36.39" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°40'16.88" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'49.88" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°48'8.35" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°15'37.35" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°4'29.34" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°40'16.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'42.89" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|3°10'9.68" |Taurus|Thurayya|Mercury|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Caparra,  Ciudad de Puerto Rico,  Portorico,  Prico,  Puerto Rico,  SJU,  Saint Iuan,  Saint John de Porto Rico,  Sainte Jean de Porto-rico,  San Chouan,  San Chuanas,  San Huan,  San Ian de Porto Rico,  San Ioanni,  San Jean de Portorico,  San Juan,  San Juan Batista de Puerto Rico,  San Juan Bautistade de Puerto Rico,  San Juan de Puerto Rico,  San Khuan,  San Xoan,  San Xoán,  San Xuan,  San-Juano,  San-Khuan,  Sanhuana,  The City of Saint John,  Ville de Porto-Rico,  Ville de Sainte Jean de Porto Rico,  can van,  saenhwan,  san hwn,  san khwan,  san-khuani,  sana hu'ana,  sana huraana,  sanfuan,  sanhuan,  sheng hu an,  Σαν Χουάν,  Сан Хуан,  Сан-Хуан,  Սան Խուան,  סן חואן,  سان خوآن,  سان خوان,  सान हुआन,  সান হুৱান,  ਸਾਨ ਹੁਆਨ,  சான் வான்,  ซานฮวน,  სან-ხუანი,  サンフアン,  圣胡安,  산후안,  샌환

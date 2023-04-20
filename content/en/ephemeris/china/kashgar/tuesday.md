@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|4°32'59.47" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°54'28.04" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°0'31.11" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°51'23.73" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|2°18'5.90" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'51.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'8.95" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'33.84" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°32'52.23" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°54'20.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'18.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°11'19.84" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'8.04" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'35.84" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°32'46.73" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°54'20.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'11.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°18'5.90" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: K'a-shih,  K'o-shih,  KHG,  Kachgar,  Kaixgar,  Kaschgar,  Kasgar,  Kasgara,  Kasgaras,  Kash,  Kashgar,  Kashgar Kona Shahr,  Kashgar Kone Shahr,  Kashi,  Kashi Shi,  Kashkar,  Kasjgar,  Kaszgar,  Kaxgar,  Kaŝgar,  Kaşgar,  Kašgar,  Kašgara,  Kašgaras,  Kona Shahr,  K̩əxk̩ər,  K’a-shih,  K’o-shih,  Qashqar,  Qasqar,  Qaşqar,  Qeshqer,  Shu-fu,  Su-fu,  ka shen,  kasagara,  kaseu si,  kasgara,  kashghr,  kashqar,  kashugaru,  kashugaru shi,  ke shen shi,  Кашгар,  Кашкар,  Қәшқәр,  Կաշգար,  קאשגאר,  قەشقەر,  كاشغر,  کاشغر,  کاشقار,  काश्गर,  কাশগর,  କାଶଗର,  カシュガル,  カシュガル市,  喀什,  喀什市,  카스 시

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'1.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°42'43.13" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°17'44.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°46'23.34" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°0'4.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'32.28" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°1'31.89" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°42'42.38" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°17'39.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°46'18.94" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°59'56.44" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'23.06" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°6'49.10" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -306,7 +306,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Mars|Mars|Mars|Mars|
 |♂ Mars|Venus|Venus|Venus|Mars|
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
-|♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
+|♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
 |☾ Moon|Saturn|Saturn|Saturn|Venus|
 
@@ -317,9 +317,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♂ Mars|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
-|♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
+|♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°53'1.22" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|4°53'1.05" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°42'42.38" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°17'39.82" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°46'18.94" |Taurus|Thurayya|Mercury|

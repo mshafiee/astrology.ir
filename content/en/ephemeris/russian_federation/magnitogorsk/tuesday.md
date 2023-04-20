@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'58.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'32.00" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°44'26.52" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°34'27.59" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°56'11.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°59'57.52" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°3'16.02" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°54'30.21" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°44'25.29" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°34'17.09" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°56'4.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°59'40.94" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°31'31.88" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,10 +331,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'58.85" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'32.00" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°44'26.52" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°34'27.59" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°56'11.75" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°54'30.21" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°44'25.29" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°34'17.09" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°56'4.74" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|14°59'40.94" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|2°31'31.88" |Cancer|Nathrah|Venus|
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MQF,  Magnetogorsk,  Magnitagorsk,  Magnitogors'k,  Magnitogorsk,  Magnitogorska,  Magnitogorskas,  Magņitogorska,  Manknitonkorsk,  ma ge ni tuo ge er si ke,  mageunitogoleuseukeu,  magnytwgwrsk,  magunitogorusuku,  mak ni to kxskh,  mghnytaghwrsk,  mgnytwgwrsq,  Μαγκνιτογκόρσκ,  Магнитогорск,  Магнітагорск,  Магнітогорськ,  Մագնիտոգորսկ,  מגניטוגורסק,  ماگنیتوگورسک,  ماگنیٹوگورس,  مغنيتاغورسك,  มักนีโตกอสค์,  マグニトゴルスク,  马格尼托哥尔斯克,  마그니토고르스크

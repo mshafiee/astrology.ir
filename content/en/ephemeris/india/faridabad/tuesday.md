@@ -291,10 +291,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'53.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'16.48" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°43'50.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°33'25.43" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|4°56'52.46" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°54'14.05" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°43'49.25" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°33'11.19" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°54'57.67" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°0'25.19" |Aries|Butain|Sun|
 |☾ Moon|Direct|3°1'9.33" |Gemini|HaqAh|Jupiter|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'53.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'16.48" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'50.60" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'25.43" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°54'57.67" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'25.19" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°1'9.33" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'14.05" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'49.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'11.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°54'48.52" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'2.87" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°21'4.37" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Faridabad,  Faridabadas,  Faridabado,  Farīdābād,  QNF,  faridabado,  pharidabada,  Фаридабад,  फरीदाबाद,  ファリダバード,  ファリーダーバード

@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'26.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'58.03" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'22.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'46.28" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°44'9.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'56.80" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°36'13.80" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'56.31" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'23.59" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°7'41.98" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°44'4.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'49.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°6'39.31" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Gouinipenk,  Uinipeg,  Uinnipeg,  Vinipeg,  Vinipega,  Vinipegas,  Vinipego,  Vinnipeg,  Vinnipega,  Vinnipeq,  WPG,  Winnipeg,  Winnipeg City,  Winnipég,  YWG,  uinipegu,  vinipaiga,  vinipega,  vinippek,  wen ni bo,  win ni phek,  winipeg,  wny pyg,  wnypg,  wynybygh,  wynypg,  Γουίνιπεγκ,  Винипег,  Виннипег,  Вінніпег,  Вінніпеґ,  Вініпег,  Уинипег,  Уиннипег,  Վիննիպեգ,  ויניפג,  ونی پیگ,  ونیپگ,  وينيبيغ,  وینیپگ,  विनिपेग,  ਵਿਨੀਪੈਗ,  வினிப்பெக்,  วินนิเพก,  ဝင်နီပက်မြို့,  უინიპეგი,  ᐄᐧᓂᐯᐠ,  ウィニペグ,  温尼伯,  위니펙

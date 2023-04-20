@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°43'36.88" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°33'1.44" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°54'29.23" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'35.17" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°59'17.00" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|15°0'11.61" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°19'32.28" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'51.75" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'10.51" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'36.88" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'1.44" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°54'29.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'35.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°59'17.00" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'7.92" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'35.71" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°32'46.31" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°54'19.84" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'11.61" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°19'32.28" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Nabarangapur,  Nabarangpur,  Nowrangpur

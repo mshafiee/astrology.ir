@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: City of Minneapolis,  Gakaabikaang,  MSP,  Min-ni-a-po-li-su,  Mineapalis,  Mineapoli,  Mineapolis,  Mineapolisa,  Mineápolis,  Minneapolis,  Minneapòlis,  Minnéapolis,  Minyapolis,  Mìn-nì-â-pô-li-sṳ̂,  mineaporisu,  minepolisa,  ming ni a bo li si,  ming ni ya bo li si,  miniaepolliseu,  miniyapolisa,  miniyappolis,  minniyapolis,  mnyapwls,  mynyabwls,  mynyapwlys,  Μινεάπολη,  Минеаполис,  Миннеаполис,  Мінеапаліс,  Міннеаполіс,  Մինեապոլիս,  מיניאפוליס,  منیاپولس,  مينيابولس,  مینیاپولیس,  मिनियापोलिस,  मिनीयापोलिस,  মিনিয়াপোলিস,  મિનેપોલિસ,  மினியாப்பொலிஸ்,  మిన్నియాపోలిస్,  ಮಿನ್ನಿಯಾಪೋಲಿಸ್,  มินนีแอโพลิส,  მინეაპოლისი,  ミネアポリス,  明尼亞波利斯,  明尼阿波利斯,  미니애폴리스

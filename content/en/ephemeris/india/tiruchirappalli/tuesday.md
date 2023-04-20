@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'56.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'24.88" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°44'9.22" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°34'0.15" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°55'37.37" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'17.00" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°13'46.97" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°54'22.15" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°44'7.33" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°33'44.22" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°55'26.76" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°59'51.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°26'39.65" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -318,8 +318,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
-|☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'56.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'24.88" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°44'11.63" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'58.25" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'39.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'15.29" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°32'41.59" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'22.15" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°44'7.33" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'44.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°55'26.76" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°59'51.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°26'39.65" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -346,7 +346,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Mercury|Mars|Moon|
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
-|☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
+|☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
 |☾ Moon|Mars|Mars|Moon|Saturn|
 
 
@@ -357,8 +357,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mars|Mars|Capricorn|Sun|Mars|
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: TRZ,  Tiruccirappalli,  Tiruccsirapalli,  Tiruccsirápalli,  Tiruchchinappalli,  Tiruchchināppalli,  Tiruchchirappalli,  Tiruchchirāppalli,  Tiruchi,  Tiruchirapali,  Tiruchirapalli,  Tiruchirappalli,  Tiruchirappal·li,  Tirucirapali,  Tiruĉirapali,  Tiruččiráppalli,  Trichinapalli,  Trichinopoli,  Trichinopoly,  Trichy,  Trinchinopoly,  di lu ji la pa li,  tiluchilapalli,  tiruccirappalli,  tiruchiraparri,  tirucirapalli,  tirutchirapparri,  tricimalaidurgam,  trwchraply,  tyrwchyrapaly,  tyrwchyraply,  Тиручирапали,  Тируччираппалли,  Тіручірапаллі,  تروچراپلی,  تيروچيراپلي,  تیروچیراپالی,  ٹyrwchyrapaly,  ٹیروچیراپالی,  ट्रिचिमलैदुर्गम्,  तिरुचिरापल्ली,  तिरुचिरापळ्ळि,  তিরুচিরাপল্লী,  திருச்சிராப்பள்ளி,  ತಿರುಚ್ಚಿರಾಪ್ಪಳ್ಳಿ,  തിരുച്ചിറപ്പള്ളി,  ティルチラーパッリ,  ティルッチラーッパッリ,  蒂魯吉拉帕利,  티루치라팔리

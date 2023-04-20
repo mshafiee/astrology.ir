@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°44'22.61" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°34'23.50" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°56'5.09" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'7.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°15'21.06" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|14°59'43.15" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°28'8.91" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -318,8 +318,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
-|☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'57.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'28.12" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°44'20.60" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°34'8.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'54.76" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'43.15" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°28'8.91" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°56'58.48" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°54'30.70" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°44'22.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°34'23.50" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°56'5.09" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'7.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°15'21.06" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -346,7 +346,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Mercury|Mars|Moon|
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
-|☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
+|☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
 |☾ Moon|Mars|Mars|Moon|Saturn|
 
 
@@ -357,8 +357,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mars|Mars|Capricorn|Sun|Mars|
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: BDQ,  Baroda,  Vadodara,  Vadodaro,  Vapadedara,  ba luo da,  badodala,  barodara,  fadwdara,  radodara,  vadeadara,  vadodara,  vatotara,  vuadodara,  wadwdara,  wdwdrh,  Вaдодaрa,  Вадодара,  Վադոդարա,  فادودارا,  وادودارا,  واڈوڈارا,  ودودره,  وڈودرا,  बड़ोदरा,  वडोदरा,  वदोदरा,  বড়োদরা,  ৱডোদরা,  ਵਡੋਦਰਾ,  વડોદરા,  ବଡ଼ୋଦରା,  வடோதரா,  వడోదర,  ವಡೋದರಾ,  വഡോദര,  ვადოდარა,  ヴァドダラ,  ヴァドーダラー,  巴罗达,  바도다라

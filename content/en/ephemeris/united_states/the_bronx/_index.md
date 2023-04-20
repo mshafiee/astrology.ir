@@ -291,10 +291,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'9.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'12.06" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°15'40.20" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°4'46.08" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|4°34'9.22" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°48'11.61" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°15'44.37" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°4'42.95" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°40'29.54" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°34'47.24" |Aries|Butain|Sun|
 |☾ Moon|Direct|3°40'50.60" |Aries|Sharatain|Mars|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'10.28" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'12.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°15'37.59" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°4'46.27" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°40'26.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'45.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°41'11.02" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°34'9.99" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°48'11.61" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°15'44.37" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°4'42.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°40'32.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'45.78" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°21'10.91" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Borough of Bronx,  Bronks,  Bronkso,  Bronx,  The Bronx,  Бронкс

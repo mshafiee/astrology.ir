@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°27'46.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°30'18.18" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°35'57.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°52'3.79" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°15'1.51" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°23'13.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|16°28'36.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°30'17.46" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°36'1.81" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°51'58.91" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°15'2.89" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°23'9.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°42'51.90" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,11 +331,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°27'46.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°30'18.18" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°35'57.83" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|28°52'3.79" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|9°15'1.51" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°23'13.50" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°30'17.46" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°36'1.81" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|28°51'58.91" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|9°15'2.89" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°23'9.95" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|15°42'51.90" |Aries|Butain|Sun|
 
 

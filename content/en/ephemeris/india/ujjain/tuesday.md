@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'56.26" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|4°56'54.96" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°54'21.58" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°44'6.56" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°33'42.04" |Aries|Sharatain|Mars|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: Uddzhajn,  Uddzsain,  Uddzsaín,  Udzajin,  Udzdzain,  Udždžain,  Ujjain,  ajyn,  awjayn,  awjayyn,  awjyn,  ujain,  ujaina,  ujaini,  ujjain,  ujjaina,  ujjayini,  ujjeyan,  wu du yan na,  Удджайн,  Уџајин,  اجین,  اوجائین,  اوجاين,  اوجین,  اوجېن,  उज्जैन,  উজ্জয়িনী,  উজ্জৈন,  ਉੱਜੈਨ,  ઉજ્જૈન,  ଉଜ୍ଜୟିନୀ,  உஜ்ஜைன்,  ಉಜ್ಜೆಯನ್,  ഉജ്ജയിൻ,  უჯაინი,  ウッジャイン,  鄔闍衍那,  우자인

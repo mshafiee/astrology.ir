@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'25.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'30.13" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°58'33.91" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°33'29.69" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°3'44.53" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'58.57" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°24'30.02" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°40'29.12" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°58'28.14" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°33'24.14" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°3'35.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'47.67" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°52'42.53" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'25.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'30.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°58'33.91" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°33'29.69" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°3'44.53" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'58.57" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°24'30.02" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°40'29.12" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°58'28.14" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°33'24.14" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°3'35.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'47.67" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°52'42.53" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

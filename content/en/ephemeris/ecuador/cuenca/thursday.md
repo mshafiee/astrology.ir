@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'24.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'52.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'8.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'30.09" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°43'35.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'51.88" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°18'31.84" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°34'23.87" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°48'51.33" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'7.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°7'25.53" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'37.13" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'1.83" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°16'44.61" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: CUE,  Cuenca,  Kuehnka,  Kuehnka shaary,  Kuehnkae,  Kuenka,  Santa Ana de los cuatro rios de Cuenca,  Santa Ana de los cuatro ríos de Cuenca,  Tumipampa,  ke wng ka,  kuengka,  kuenka,  kun ka,  kwanka,  kwynka,  Куенка,  Куэнкæ,  Куэнка,  Куэнка шаары,  Կուենկա,  קואנקה,  کوئنکا,  کوئنکا، ایکواڈور,  کوانکا,  เกวงกา,  კუენკა,  クエンカ,  昆卡,  쿠엥카

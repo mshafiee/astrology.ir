@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°42'17.34" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°11'22.12" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°7'19.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°38'55.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°30'55.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'7.40" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°26'49.28" |Aries|Butain|Venus|
+|☉ Sun|Direct|1°38'43.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°30'44.09" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'47.65" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°1'10.26" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,9 +331,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'17.34" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'22.12" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°7'19.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°38'55.19" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°11'20.04" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°7'14.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°38'43.04" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°30'44.09" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°35'47.65" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|24°1'10.26" |Taurus|HaqAh|Saturn|

@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°38'2.67" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°45'35.52" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°28'25.34" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'16.64" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°23'23.44" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°37'11.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°4'18.56" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°37'42.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'15.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°38'7.35" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°45'37.13" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°28'31.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'16.64" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°23'23.44" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°37'42.54" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°58'14.98" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°38'2.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°45'35.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°28'25.34" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'11.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°4'18.56" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}

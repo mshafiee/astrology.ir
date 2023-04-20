@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'10.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'5.67" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°45'41.77" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°36'45.83" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°58'51.16" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°59'18.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°44'30.49" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°55'5.17" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°45'45.50" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°36'42.93" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°58'53.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°59'16.11" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°13'59.53" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'10.15" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'5.30" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°45'40.01" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°36'43.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°58'48.04" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'14.68" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°24'45.17" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'5.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°45'41.77" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°36'45.83" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°58'51.16" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°59'16.11" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°13'59.53" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al-Sib,  Al-Sīb,  As Seeb al Jadidah,  As Sib,  As Sib al Jadidah,  As Sīb,  As Sīb al Jadīdah,  As-Sib,  Ehs-Sib,  Seeb,  Sib,  Sybas,  Szib,  Szíb,  Síb,  alsyb,  alsyb aljdydt,  sibeu,  xi bo,  Сиб,  Эс-Сиб,  السيب,  السيب الجديدة,  السیب,  锡卜,  시브

@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'58.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'31.28" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°44'24.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°34'25.45" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|24°54'31.18" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°44'27.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°34'24.87" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°56'8.03" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°0'3.61" |Aries|Butain|Sun|
 |☾ Moon|Direct|3°11'25.82" |Gemini|HaqAh|Jupiter|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: Cabool,  Caboul,  Cabul,  Cabul - kabl,  Cabul - کابل,  Cabura,  Cabúl,  Caubul,  KBL,  Kabil,  Kaboel,  Kabol,  Kaboul,  Kabul,  Kabula,  Kabulas,  Kabuli,  Kabulo,  Kabura,  Kabúl,  Kabûl,  Kampoul,  Kobul,  Kubha,  Kábul,  Kâbil,  Kābol,  ka bu er,  kabl,  kabul,  kabula,  kabuli,  kaburu,  kabwl,  kapul,  ke bu er,  khabul,  Καμπούλ,  Кабул,  Кобул,  Քաբուլ,  קאבול,  كابل,  كابۇل,  کابل,  کابول,  काबुल,  কাবুল,  ਕਾਬੁਲ,  କାବୁଲ,  காபூல்,  ಕಾಬುಲ್,  കാബൂൾ,  කාබුල්,  คาบูล,  ཁ་པལ།,  ཁ་པུལ།,  ქაბული,  ካቡል,  ទីក្រុងកាបូល,  カブール,  カーブル,  喀布尔,  喀布爾,  카불

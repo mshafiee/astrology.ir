@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°31'28.54" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°40'35.23" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|12°58'44.80" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°33'47.88" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°4'7.43" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'48.56" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°34'8.44" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°33'59.94" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°4'18.64" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'6.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°51'21.67" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°33'59.94" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°4'18.64" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°31'6.88" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°34'8.44" |Aries|Butain|Venus|
+|☾ Moon|Direct|26°51'21.67" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

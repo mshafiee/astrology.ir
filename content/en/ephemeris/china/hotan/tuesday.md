@@ -332,8 +332,8 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'49.25" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°54'3.09" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'20.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°32'17.84" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|15°43'20.59" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°32'30.64" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°53'47.00" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°0'21.69" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|2°17'46.17" |Cancer|Nathrah|Venus|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chotan,  Ciudad de Jotan,  Ciudad de Jotán,  HTN,  Hetian,  Hetianshi Gujiang Bage Jiedao,  Ho-t'ien,  Ho-t'ien-chen,  Ho-tien-hsien,  Ho-t’ien,  Ho-t’ien-chen,  Hotan,  Hotanas,  Hoten,  Hotən,  Khotan,  Xotan,  Xoten,  he tian,  he tian shi,  he tian shi gu jiang ba ge jie dao,  heotyen si,  hotan shi,  khotana,  khtn,  Хотан,  Хотән,  ختن,  خوتەن,  خوتەن شەھىرى,  ख़ोतान,  ホータン市,  和田,  和田市,  和田市古江巴格街道,  허톈 시

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'5.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°47'59.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°15'12.44" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°3'54.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°39'29.63" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'41.20" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°23'18.96" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°47'58.42" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°15'16.13" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°3'47.90" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°39'29.73" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'34.58" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°38'19.13" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'5.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°47'59.35" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°15'12.44" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°3'54.73" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°39'33.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'41.20" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°23'18.96" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°47'58.42" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°15'16.13" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°3'47.90" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°39'29.73" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'34.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°38'19.13" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Altepetl Quebec,  Bandaraya Quebec,  Cathair Quebec,  Cathair Québec,  Ciutat de Quebec,  Jiji la Quebec,  Kebec Vile,  Kebek,  Kebeko,  Kebeku,  Kebekurbo,  Kempek,  Kevek tava,  Kota Quebec,  Kuehbehk,  Kvebek,  Kvebeka,  Kvebekas,  Kwebek,  Kwebek Shehiri,  Kwébék,  Kwébék Shehiri,  Kébéc Vile,  Kévek táva,  Lungsod ng Quebec,  Lungsod ng Québec,  QC,  Quebec,  Quebec Ceety,  Quebec City,  Quebec Hiria,  Quebec llaqta,  Quebec-chhi,  Quebec-su,  Quebecborg,  Quebecceaster,  Quebecstad,  Quebecum urbs,  Québec,  Québec-chhī,  Québec-sṳ,  Québecborg,  Siudad ti Quebec,  Tchubec,  Thanh pho Quebec,  Thành phố Québec,  Vila de Quebec,  Vila de Quebèc,  Ville de Quebec,  Ville de Québec,  YQB,  kbk,  kebaika sahira,  kh wibek,  kiyupek nakaram,  kui bei ke shi,  kvebeka siti,  kwebeg,  kyubeka nagara,  mdynt kybk,  qwwybq syty,  Κεμπέκ,  Квебек,  Куэбэк,  Քվեբեկ,  קוויבק סיטי,  مدينة كيبك,  کبک,  کیوبک شہر,  क्यूबेक नगर,  क्वेबेक सिटी,  ਕੇਬੈਕ ਸ਼ਹਿਰ,  கியூபெக் நகரம்,  ควิเบก,  კვებეკი,  ケベック・シティー,  魁北克市,  퀘벡

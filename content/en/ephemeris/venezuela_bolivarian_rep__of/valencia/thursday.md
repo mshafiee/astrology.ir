@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'12.39" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°48'18.71" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°15'54.17" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°5'14.07" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°41'0.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'54.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°9'30.13" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°15'57.50" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°5'7.64" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°41'0.77" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'48.15" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°28'8.45" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Balenzia,  VLN,  Valencia,  Valencio,  Valens,  Valensi,  Valensia,  Valensii,  Valensija,  Valensiya,  Valentia,  Valentzia,  Valincia,  Valência,  ba lun xi ya,  balainsi'a,  ballensia,  barenshia,  blnsyt,  valensia,  walnsya  wnzwyla,  wlnsyh,  Валенс,  Валенси,  Валенсия,  Валенсија,  Валенсія,  Վալենսիա,  ולנסיה,  بلنسية,  والنسیا، ونزوئلا,  والیںسیا، کارابوبو,  ਬਾਲੈਂਸੀਆ,  ვალენსია,  バレンシア,  巴伦西亚,  발렌시아

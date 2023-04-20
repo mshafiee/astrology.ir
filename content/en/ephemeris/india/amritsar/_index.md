@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'5.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°42'22.21" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°2'42.58" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°41'5.20" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°12'39.61" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'4.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°15'46.06" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°42'21.70" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°2'43.53" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°41'2.09" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°12'38.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'1.16" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°54'3.98" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'5.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'21.72" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°2'40.49" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°41'2.51" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°12'35.97" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'59.75" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°59'3.95" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°42'21.70" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°2'43.53" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°41'2.09" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°12'38.90" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'1.16" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°54'3.98" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

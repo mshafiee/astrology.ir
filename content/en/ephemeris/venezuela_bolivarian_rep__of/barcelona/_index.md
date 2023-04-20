@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°34'9.54" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°48'10.65" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°15'36.25" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°4'41.34" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°40'22.35" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'51.34" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°1'52.54" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°4'36.89" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°40'24.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'48.27" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°33'43.22" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°34'8.68" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'10.09" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°15'40.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°4'37.52" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°40'24.76" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'49.06" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°37'56.49" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°34'9.54" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°48'9.98" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°15'40.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°4'36.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°40'24.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'48.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°33'43.22" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: BLA,  Barcelona,  Barcelono,  Barselona,  Varkeloni,  ba sai luo na,  baleusellona,  barselona,  barslwna  wnzwyla,  barslwna  wynyzwyla,  baruserona,  Βαρκελώνη,  Барселона,  بارسلونا، ونزوئلا,  بارسلونا، وینیزویلا,  ဘာစီလိုနာမြို့၊ ဗင်နီဇွဲလား,  ბარსელონა,  バルセロナ,  巴塞羅那,  바르셀로나

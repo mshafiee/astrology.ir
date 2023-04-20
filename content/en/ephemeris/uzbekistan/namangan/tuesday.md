@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'54.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'18.74" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'56.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'34.17" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'8.60" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'19.08" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°57'55.15" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'16.94" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'52.37" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'23.38" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°54'58.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'0.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°1'42.81" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: NMA,  Namangan,  Namanganas,  Namangano,  Namangán,  Nemengan,  na ma ngkan,  na man gan,  namagana,  namang-gan,  namangan,  nmngan,  nmnkan,  nmnqan,  Наманган,  Наманған,  نمنقان,  نمنكان,  نمنگان,  ਨਮਾਗਾਨ,  นามางกาน,  ナマンガン,  納曼干,  나망간

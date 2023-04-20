@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'6.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'55.16" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°45'18.14" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°36'0.76" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°58'0.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°59'18.23" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°56'36.66" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°54'56.73" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°45'22.47" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°36'9.77" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°58'9.94" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°59'33.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°51'57.77" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: Chemper,  Oeljanofsk,  Oeljanovsk,  Oulianofsk,  Oulianovsk,  Oulyanovsk,  Owlyanovsk,  Sember,  Simbir,  Simbirsk,  Sinbirsk,  ULY,  Ul'janausk,  Ul'janon' osh,  Ul'janovs'k,  Ul'janovsk,  Ul'sk,  Ul'yanovsk,  Ulanovsk,  Ulianovsk,  Uliànovsk,  Uliánovsk,  Uljanovsk,  Uljanovska,  Uljanovskas,  Uljanovsko,  Uljanovszk,  Uljanowsk,  Uljanowska am Wolga,  Ulyanovsk,  Ul’yanovsk,  Uļjanovska,  alyanwwsk,  awlyanwfsk,  awlyanwwsk,  uliyanobhaska,  ulliyanobseukeu,  ulyanovska,  uriyanofusuku,  wu li yang nuo fu si ke,  Ουλιάνοφσκ,  Оулиꙗновьскъ,  Сембер,  Синбирск,  Сімбір,  Ульск,  Ульянаўск,  Ульяновск,  Ульяновськ,  Ульянонь ош,  Уляновск,  Улјановск,  Уљановск,  Чĕмпĕр,  Ուլյանովսկ,  אוליאנובסק,  أوليانوفسك,  الیانووسک,  اولیانوفسک,  اولیانووسک,  उल्यानोव्स्क,  উলিয়ানোভস্ক,  ウリヤノフスク,  乌里扬诺夫斯克,  울리야놉스크

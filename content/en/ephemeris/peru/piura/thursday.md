@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'25.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'56.76" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°17'18.57" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°7'48.91" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°44'2.21" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'9.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°51'32.41" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'56.32" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°17'17.09" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°7'46.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°43'59.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'5.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°35'24.76" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'25.86" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'56.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'18.57" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'48.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°44'2.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'9.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°51'32.41" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'56.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'17.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°7'46.53" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'59.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'5.88" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°35'24.76" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: P'jura,  PIU,  Piura,  Piwra,  Pjura,  Pjuro,  pi wu la,  piula,  piura,  piw ra,  pywra,  pywrh,  Пиура,  Пьюра,  Пюра,  Піура,  פיורה,  پیورا,  ปิวรา,  პიურა,  ピウラ,  皮乌拉,  피우라

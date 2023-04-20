@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°54'24.23" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°44'8.00" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°33'57.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°55'34.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'15.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°9'46.54" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°55'22.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°59'54.58" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°1'31.15" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -318,8 +318,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
-|☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°54'24.23" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°44'8.00" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°33'57.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'22.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'54.58" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°1'31.15" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°55'34.42" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'15.82" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°9'46.54" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -346,7 +346,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Mercury|Mars|Moon|
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
-|☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
+|☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
 |☾ Moon|Mars|Mars|Moon|Saturn|
 
 
@@ -357,8 +357,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mars|Mars|Capricorn|Sun|Mars|
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: IDR,  Indaur,  Indor,  Indore,  Indore Madhya Pradesh,  Induras,  Induro,  andwr,  ayndwr,  idaura,  indaura,  indoleu,  indor,  indora,  indori,  indoru,  indura,  intor,  yin duo er,  Індаур,  Индаур,  Индор,  إندور,  اندور,  ایندور,  इंदूर,  इन्दोर,  इन्दौर,  ইন্দোর,  ਇੰਦੌਰ,  ઈંદોર,  ଇନ୍ଦୋର,  இந்தோர்,  ఇండోర్,  ಇಂದೋರ್,  ഇൻ

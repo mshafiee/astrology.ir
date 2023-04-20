@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'21.19" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'43.70" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°16'50.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°6'54.53" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°43'0.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'58.76" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°8'48.66" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'44.51" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°16'51.11" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°6'59.12" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°43'3.54" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'5.03" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°38'48.18" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'21.19" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'41.92" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°16'51.96" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°6'43.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°42'55.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'45.28" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°56'38.79" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'44.51" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°16'51.11" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°6'59.12" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'3.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'5.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°38'48.18" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Juneautown,  Kilbourntown,  MKE,  Mahn-a-wau-kee Seepe,  Mahn-a-wauk-ee See-pe,  Mahn-a-waukee Seepe,  Mahn-a-waukie,  Mahn-ah-wauk Seepe,  Mahnawauk,  Man-a-wau-kee,  Man-a-wauk-ee,  Man-na-wah-kie,  Mana'wa,  Manawaki,  Manawaukee,  Manayaukee,  Maunahwauke,  Mee-lee-waug-ee,  Meliki,  Melleoki,  Melwarik,  Meneawkee,  Meolaki,  Mil-wah-kie,  Milgouoki,  Milioke,  Millewacki,  Millicki,  Milo-aki,  Milouagui,  Milouakik,  Milowages,  Miluoki,  Miluokʻi,  Milvauchia,  Milvoki,  Milvokio,  Milvokis,  Milwacky,  Milwahkie,  Milwalka,  Milwalky,  Milwarck,  Milwarik,  Milwaucki,  Milwaukee,  Milwaukie,  Minewaki,  Miniaki,  Minnawack,  Winnipesaukee,  mi er wo ji,  mil wxki,  mil-woki,  mila'oyaki,  milavoki,  miluokʼi,  milvaki,  milvakki,  milvauki,  miruuoki,  mlwaky,  mylwaky,  mylwaky  wyskansyn,  mylwwqy,  Μιλγουόκι,  Милвоки,  Милуоки,  Мілуокі,  Միլուոքի,  מילוואקי,  מילווקי,  ملواکی,  ميلواكي,  میلواکی، ویسکانسین,  मिलवॉकी,  मिल्वौकी,  মিলওয়াকি,  மில்வாக்கி,  మిల్వాకీ,  ಮಿಲ್ವಾಕೀ,  มิลวอกี,  მილუოკი,  ミルウォーキー,  密尔沃基,  密爾沃基,  밀워키

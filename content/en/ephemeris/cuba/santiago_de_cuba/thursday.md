@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'17.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'31.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°16'27.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°6'2.48" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°42'4.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'53.56" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°42'52.89" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'29.42" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°16'21.98" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°5'52.73" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°41'54.02" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'37.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°37'18.83" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Kubos Santjagas,  SCU,  Sant'jago-de-Kuba,  Sant'jago-de-Kubae,  Santiago,  Santiago de Cuba,  Santiago de Cúba,  Santiago de Kubo,  Santiago di Cuba,  Santiago nte Kouva,  Santijago de Kuba,  Santjaga-deh-Kuba,  Santjago de Kuba,  santiagodekuba,  santyaghw dy kwba,  santyagw d kwba,  sheng de ya ge-de gu ba,  Σαντιάγο ντε Κούβα,  Сантијаго де Куба,  Сантьяго-де-Кубæ,  Сантьяго-де-Куба,  Сантяга-дэ-Куба,  Сантяго де Куба,  סנטיאגו דה קובה,  سانتياغو دي كوبا,  سانتیاگو د کوبا,  სანტიაგო-დე-კუბა,  サンティアーゴ・デ・クーバ,  圣地亚哥-德古巴,  산티아고데쿠바

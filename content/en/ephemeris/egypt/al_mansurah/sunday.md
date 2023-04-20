@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'47.42" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'17.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°43'4.01" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°43'35.57" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°46'44.96" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'0.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°25'2.12" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°27'19.44" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°43'11.40" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°43'45.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°46'58.43" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'18.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°54'10.82" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°47'47.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°27'19.98" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°43'6.99" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°43'48.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°46'55.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'20.85" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°40'39.57" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°47'46.54" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°27'19.44" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°43'11.40" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°43'45.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°46'58.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'18.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°54'10.82" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

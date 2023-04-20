@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'31.80" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°49'13.65" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°17'56.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°8'56.56" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°45'22.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'10.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°43'57.57" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°17'56.99" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°9'0.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°45'27.23" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'16.83" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°7'39.86" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'31.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°49'13.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'56.26" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°8'56.56" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°45'22.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'10.66" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°43'57.57" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°49'14.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'58.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°9'0.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°45'27.23" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'16.83" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°7'39.86" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Aklakhoma-Sici,  Caayr Oklahoma,  Cathair Oklahoma,  Dinas Oklahoma,  Kota Oklahoma,  Kutha Oklahoma,  Lungsod ng Oklahoma,  Maxeponoe,  Maxepónoe,  OKC,  Oklachoma Siti,  Oklahoma,  Oklahoma Ceety,  Oklahoma City,  Oklahoma Sites,  Oklahoma Siti,  Oklahoma Sitis,  Oklahoma Sitės,  Oklahoma Station,  Oklahoma llaqta,  Oklahomasitija,  Oklahomaurbo,  Oklakhoma,  Oklakhoma Siti,  Oklakhoma-Siti,  Oklakhomae-Siti,  Oklaxoma Shehiri,  aklahma syty,  ao ke la he ma shi,  awklahwma syty,  e ke la he ma cheng,  okalahoma siti,  okeullahomasiti,  oklahoma nakaram,  oklahoma siti,  oklahoma-siti,  okurahomashiti,  xo khla ho ma si ti,  Οκλαχόμα Σίτι,  Аклахома-Сіці,  Оклахомæ-Сити,  Оклахома,  Оклахома Сити,  Оклахома-Сити,  Оклахома-Сіті,  Օկլահոմա Սիթի,  אוקלהומה סיטי,  أوكلاهوما سيتي,  اوکلاہوما شہر، اوکلاہوما,  اکلاهما سیتی,  ओक्लाहोमा सिटी,  ওকলাহোমা সিটি,  ஓக்லஹோமா நகரம்,  โอคลาโฮมาซิตี,  ოკლაჰომა-სიტი,  ოქლაჰომა-სითი,  オクラホマシティ,  俄克拉荷馬城,  奧克拉荷馬市,  오클라호마시티

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'47.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'37.87" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°32'12.06" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°34'57.81" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°15'55.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'53.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°50'55.85" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°55'35.90" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°32'7.34" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°34'46.49" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°15'44.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'35.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°32'49.73" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -333,8 +333,8 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°36'47.36" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°55'37.87" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°32'12.06" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°34'57.81" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°15'55.97" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°34'46.49" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°15'44.79" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°36'35.45" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|9°32'49.73" |Taurus|Dabaran|Mercury|
 

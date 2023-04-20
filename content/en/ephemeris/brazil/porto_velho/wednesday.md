@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°29'3.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°33'49.58" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°43'51.06" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°6'18.86" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°31'55.33" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°26'3.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°37'11.95" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|23°33'50.82" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°43'53.02" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°6'26.10" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°32'3.48" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°26'22.43" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°23'13.73" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Mars|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°29'3.77" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°33'52.20" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°43'51.06" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|29°6'18.86" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|9°31'55.33" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°26'3.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°37'11.95" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°33'50.82" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°43'53.02" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|29°6'26.10" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|9°32'1.34" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°26'13.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°23'13.73" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

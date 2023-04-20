@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'22.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'47.23" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°16'58.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°7'9.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°43'17.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'1.63" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°17'46.81" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'47.24" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°16'58.27" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°7'9.17" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°43'11.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'45.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°57'48.75" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'22.46" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°48'47.24" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°16'58.27" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'9.17" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°43'17.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'1.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°18'19.36" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°16'59.11" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°6'57.00" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'11.50" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'45.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°57'48.75" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: BNA,  French Lick,  Nachville,  Nasburgum,  Nashboro,  Nashborough,  Nashfile,  Nashvil,  Nashvill,  Nashville,  Nashville-Davidson,  Nashwil,  Nasvelis,  Nasvil,  Nasvila,  Nasvilo,  Naŝvilo,  Našvila,  Našvėlis,  Nehshvill,  Neshvil,  Nesvil,  Nesvilis,  Nesvill,  Neşvill,  Nešvilis,  n'yasabhila,  n'yasbhila,  n'yasbhilla,  na shen wei er,  na shu wei er,  naesyubil,  nashfyl,  nasshubiru,  nasvil,  nesavhila,  neshvili,  nshwyl,  Νάσβιλ,  Нашвил,  Нашвилл,  Нашвіл,  Нашвілл,  Нешвил,  Нэшвилл,  Նեշվիլ,  נאשוויל,  ناشفيل,  ناشولے,  نشویل,  نیشویل، ٹینیسی,  नाश्विल्,  नॅशव्हिल,  न्याश्भिल,  न्यास्भिल्ल,  ন্যাশভিল,  நாஷ்வில்,  แนชวิลล์,  ნეშვილი,  ナッシュビル,  納殊維爾,  纳什维尔,  내슈빌
