@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'12.19" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°56'46.10" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°34'47.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°39'30.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°21'23.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'45.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°28'3.79" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°56'48.50" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°34'49.73" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°39'44.84" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°21'33.10" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'5.19" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°59'53.75" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'12.19" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°56'48.47" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°34'49.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°39'44.71" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°21'32.58" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'4.75" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°28'3.79" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°34'49.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°39'44.84" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°21'33.10" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'5.19" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°59'53.75" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Caypur,  Dzaipur,  Dzaipuras,  Dzajpur,  Dzajpura,  Dzhajpur,  Dzsaipur,  Dźajpur,  Džaipur,  Džaipuras,  Džajpur,  Džajpura,  Gajpuro,  Iaipura,  JAI,  Jainagar,  Jaipur,  Jaipur City,  Jayapur,  Jaypur,  Jeypore,  Tzaipour,  Zhajpur,  ceyppur,  chay pu ra,  gʼypwr,  jaipuleu,  jaipura,  jaipuru,  jayapura,  jayapuram,  jaybwr,  jaypwr,  jypwr,  zhai pu er,  zhai pu ya,  Ĝajpuro,  Τζαϊπούρ,  Џајпур,  Джайпур,  Жайпур,  Ջայպուր,  גאיפור,  جايبور,  جایپور,  جيپور,  جے پور,  जयपुर,  जयपुरम्,  जयपूर,  জয়পুর,  জয়পুৰ,  ਜੈਪੁਰ,  જયપુર,  ଜୟପୁର,  செய்ப்பூர்,  ജയ്
+Alternate Names: Caypur, Dzaipur, Dzaipuras, Dzajpur, Dzajpura, Dzhajpur, Dzsaipur, Dźajpur, Džaipur, Džaipuras, Džajpur, Džajpura, Gajpuro, Iaipura, JAI, Jainagar, Jaipur, Jaipur City, Jayapur, Jaypur, Jeypore, Tzaipour, Zhajpur, ceyppur, chay pu ra, gʼypwr, jaipuleu, jaipura, jaipuru, jayapura, jayapuram, jaybwr, jaypwr, jypwr, zhai pu er, zhai pu ya, Ĝajpuro, Τζαϊπούρ, Џајпур, Джайпур, Жайпур, Ջայպուր, גאיפור, جايبور, جایپور, جيپور, جے پور, जयपुर, जयपुरम्, जयपूर, জয়পুর, জয়পুৰ, ਜੈਪੁਰ, જયપુર, ଜୟପୁର, செய்ப்பூர், ജയ്‌പൂർ, ชัยปุระ, ჯაიპური, ジャイプル, 齋浦爾, 齋葡亞, 자이푸르
 
 ---

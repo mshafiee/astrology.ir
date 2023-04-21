@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'7.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°45'14.90" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°9'5.50" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°52'47.47" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°26'23.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'36.60" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°17'53.09" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°45'14.91" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°9'5.66" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°52'47.52" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°26'23.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'36.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°18'9.74" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: DLA,  Douala,  Doula,  Dual,  Duala,  Dualao,  Dóúala,  Ntouala,  dau'ala,  douara,  du a la,  du xa la,  dualla,  dwala,  Ντουάλα,  Дуала,  דואלה,  دوالا,  दौआला,  ਦੌਆਲਾ,  ดูอาลา,  ドゥアラ,  杜阿拉,  두알라
+Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라
 
 ---

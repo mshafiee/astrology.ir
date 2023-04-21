@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'6.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°42'56.36" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°18'20.91" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°47'15.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°1'13.38" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'10.78" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°30'36.63" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°42'57.95" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°18'17.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°47'24.72" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°1'14.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'22.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°28'35.03" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'6.11" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°42'57.97" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°18'17.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°47'24.85" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°1'14.66" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'23.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°29'49.30" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°18'17.45" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°47'24.72" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°1'14.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'22.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°28'35.03" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: PHC,  Port Harcourt,  Port Harkortas,  Port Kharkurt,  Port-Kharkort,  Ugwu Ocha,  Ugwu Ọcha,  bwrt harkwrt,  ha ke te gang,  poteuhakeoteu,  potohakoto,  pwrt hrqwrt,  Порт Харкурт,  Порт-Харкорт,  פורט הרקורט,  بورت هاركورت,  ポートハーコート,  哈科特港,  포트하커트
+Alternate Names: PHC, Port Harcourt, Port Harkortas, Port Kharkurt, Port-Kharkort, Ugwu Ocha, Ugwu Ọcha, bwrt harkwrt, ha ke te gang, poteuhakeoteu, potohakoto, pwrt hrqwrt, Порт Харкурт, Порт-Харкорт, פורט הרקורט, بورت هاركورت, ポートハーコート, 哈科特港, 포트하커트
 
 ---

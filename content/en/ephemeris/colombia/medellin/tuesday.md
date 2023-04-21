@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'0.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'34.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°58'12.23" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°59'0.77" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°24'56.78" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°51'2.37" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°17'47.17" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|25°0'36.97" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°58'11.38" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°59'15.07" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°25'3.37" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'23.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°27'19.02" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'0.34" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'34.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°58'12.23" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°59'0.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°24'56.78" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'2.37" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°17'47.17" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'36.97" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°58'11.38" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°59'15.07" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°25'3.37" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'23.98" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°27'19.02" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: MDE,  Medegin,  Medehl'in,  Medel'in,  Medelim,  Medelin,  Medeljina,  Medeljinas,  Medeljino,  Medellin,  Medellín,  mai de lin,  mdlyn,  mdyyn,  me de yin,  medein,  medejin,  medelini,  medeyina,  meteyin,  mydyllyn,  mydylyn,  Μεδεγίν,  Меделин,  Медельин,  Медельїн,  Медељин,  Медэльін,  מדיין,  مدلین,  ميديللين,  ميديلين,  میڈیلن,  मेदेयीन,  মেদেয়িন,  ਮੇਦੇਯੀਨ,  மெதெயின்,  เมเดยิน,  მედელინი,  ទីក្រុងមេឌេយីណ,  メデジン,  麦德林,  메데인
+Alternate Names: MDE, Medegin, Medehl'in, Medel'in, Medelim, Medelin, Medeljina, Medeljinas, Medeljino, Medellin, Medellín, mai de lin, mdlyn, mdyyn, me de yin, medein, medejin, medelini, medeyina, meteyin, mydyllyn, mydylyn, Μεδεγίν, Меделин, Медельин, Медельїн, Медељин, Медэльін, מדיין, مدلین, ميديللين, ميديلين, میڈیلن, मेदेयीन, মেদেয়িন, ਮੇਦੇਯੀਨ, மெதெயின், เมเดยิน, მედელინი, ទីក្រុងមេឌេយីណ, メデジン, 麦德林, 메데인
 
 ---

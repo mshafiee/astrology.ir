@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°57'6.66" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°54'55.24" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°45'18.32" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°35'60.00" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°57'57.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°59'26.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°8'54.28" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|4°36'3.17" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°58'1.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°59'31.90" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°33'41.82" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Dowzdab,  Dowzdāb,  Duzdab,  Duzdap,  Duzdāb,  Duzdāp,  ZAH,  Zahedan,  Zahedan-e (Yek),  Zahedanas,  Zahedano,  Zahedán,  Zahidan,  Zaidan,  Zaidān,  Zakhedan,  Záhedán,  Zāhedān,  Zāhedān-e (Yek),  cakitan,  jahedan,  jahedana,  zahdan,  zahedan,  zahedana,  zahedani,  zha hei dan,  Захедан,  Зоҳидон,  Զահեդան,  زاهدان,  زاہدان,  ज़ाहेदान,  জহেদন,  சாகிதன்,  ზაჰედანი,  ザーヘダーン,  扎黑丹,  자헤단
+Alternate Names: Dowzdab, Dowzdāb, Duzdab, Duzdap, Duzdāb, Duzdāp, ZAH, Zahedan, Zahedan-e (Yek), Zahedanas, Zahedano, Zahedán, Zahidan, Zaidan, Zaidān, Zakhedan, Záhedán, Zāhedān, Zāhedān-e (Yek), cakitan, jahedan, jahedana, zahdan, zahedan, zahedana, zahedani, zha hei dan, Захедан, Зоҳидон, Զահեդան, زاهدان, زاہدان, ज़ाहेदान, জহেদন, சாகிதன், ზაჰედანი, ザーヘダーン, 扎黑丹, 자헤단
 
 ---

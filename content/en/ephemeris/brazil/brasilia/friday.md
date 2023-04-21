@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'4.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°2'9.29" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°46'44.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°1'29.10" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°47'1.62" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'29.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°7'54.76" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°2'9.30" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°46'44.34" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°1'29.14" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°47'1.92" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'29.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°15'3.57" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'4.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'9.29" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°46'44.08" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°1'29.10" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°47'1.62" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'29.07" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°14'8.72" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'9.30" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°46'44.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°1'29.14" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°47'1.92" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'29.28" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°15'3.57" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BSB,  Bahsihleihya,  Brasilia,  Brasiliopolis,  Brasilía,  Brasília,  Braxilia,  Braxiłia,  Braxìlia,  Brazileje,  Brazilia,  Braziliavaros,  Brazilija,  Brazilija shaary,  Brazilja,  Braziljo,  Brazilėjė,  Brazília,  Brazíliaváros,  Breselya,  Bràsílíà,  Mprazilia,  ba xi li ya,  beulajillia,  bra si leiy,  brajhiliya,  brasili'a,  brasiliya,  brasylya,  brazili'a,  brazilia,  brazylya,  bresiliya,  brzylyh,  burajiria,  byrazylya,  piraciliya,  Μπραζίλια,  Бразилиа,  Бразилия,  Бразилия шаары,  Бразилија,  Бразиліа,  Бразілія,  Ҳавзаи федералии Бразилиа,  Բրազիլիա,  בראזיליא,  ברזיליה,  بئرازیلیا,  برازيليا,  برازیلیا,  برازیلیہ,  براسیلیا,  بەڕازیلیا,  ބްރަސީލިއާ,  ब्रसिलिया,  ब्राझिलिया,  ब्रासीलिया,  ব্রাসিলিয়া,  ਬ੍ਰਾਜ਼ੀਲੀਆ,  ବ୍ରାସିଲିଆ,  பிரசிலியா,  ಬ್ರೆಸಿಲಿಯಾ,  ബ്രസീലിയ,  บราซีเลีย,  པུ་རུ་ཟི་ལི་ཡ།,  ဘရာစေးလေးယားမြို့,  ბრაზილია,  ብራዚሊያ,  ブラジリア,  巴西利亚,  巴西利亞,  브라질리아
+Alternate Names: BSB, Bahsihleihya, Brasilia, Brasiliopolis, Brasilía, Brasília, Braxilia, Braxiłia, Braxìlia, Brazileje, Brazilia, Braziliavaros, Brazilija, Brazilija shaary, Brazilja, Braziljo, Brazilėjė, Brazília, Brazíliaváros, Breselya, Bràsílíà, Mprazilia, ba xi li ya, beulajillia, bra si leiy, brajhiliya, brasili'a, brasiliya, brasylya, brazili'a, brazilia, brazylya, bresiliya, brzylyh, burajiria, byrazylya, piraciliya, Μπραζίλια, Бразилиа, Бразилия, Бразилия шаары, Бразилија, Бразиліа, Бразілія, Ҳавзаи федералии Бразилиа, Բրազիլիա, בראזיליא, ברזיליה, بئرازیلیا, برازيليا, برازیلیا, برازیلیہ, براسیلیا, بەڕازیلیا, ބްރަސީލިއާ, ब्रसिलिया, ब्राझिलिया, ब्रासीलिया, ব্রাসিলিয়া, ਬ੍ਰਾਜ਼ੀਲੀਆ, ବ୍ରାସିଲିଆ, பிரசிலியா, ಬ್ರೆಸಿಲಿಯಾ, ബ്രസീലിയ, บราซีเลีย, པུ་རུ་ཟི་ལི་ཡ།, ဘရာစေးလေးယားမြို့, ბრაზილია, ብራዚሊያ, ブラジリア, 巴西利亚, 巴西利亞, 브라질리아
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'44.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'17.82" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°38'11.12" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°45'43.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°28'39.51" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'54.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°50'49.72" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°58'20.09" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°38'13.73" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°45'56.75" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°28'49.55" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'9.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°56'27.47" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'44.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'17.82" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°38'11.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°45'43.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°28'39.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'54.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°50'49.72" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'20.09" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°38'13.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°45'56.75" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°28'49.55" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'14.22" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°18'22.50" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BEY,  Baeyrut,  Bairut,  Bayrut,  Bayrūt,  Beiriut,  Beiroet,  Beirot,  Beirots,  Beirout,  Beiroūt,  Beirut,  Beiruta,  Beirutas,  Beirute,  Beirút,  Beirût,  Beirūta,  Bejrut,  Bejrut oshs',  Bejruti,  Bejruto,  Bejrút,  Berut,  Berytos,  Berytus,  Bewout,  Beyrouth,  Beyrut,  Bey
+Alternate Names: BEY, Baeyrut, Bairut, Bayrut, Bayrūt, Beiriut, Beiroet, Beirot, Beirots, Beirout, Beiroūt, Beirut, Beiruta, Beirutas, Beirute, Beirút, Beirût, Beirūta, Bejrut, Bejrut oshs', Bejruti, Bejruto, Bejrút, Berut, Berytos, Berytus, Bewout, Beyrouth, Beyrut, Bey­rutʻ, Birut, Bäyrut, Béiriút, Bêrût, bairut, bairuta, bayrut, bei lu te, beiluteu, beiruti, beiruto, berut, beruta, beyaruta, beyruta, bey‌rutt, biruta, byrwt, byyrwt, peyrut, Βηρυτός, Бейрут, Бейрут ошсь, Бејрут, Бәйрут, Բեյ­րութ, ביירוט, ביירות, بيروت, بَيْرُوت, بیروت, بېيرۇت, بەیرووت, ܒܝܪܘܬ, बेयरूत, बेय्रुत, बैरूत, বৈরুত, ਬੇਰੂਤ, ବିରୁଟ, பெய்ரூத், ಬೈರುತ್, ബെയ്‌റൂത്ത്, เบรุต, པ་ར་ཐ།, པེ་རུ་ཐེ།, ဘေရွတ်မြို့, ბეირუთი, ቤይሩት, ベイルート, 貝魯特, 贝鲁特, 베이루트
 
 ---

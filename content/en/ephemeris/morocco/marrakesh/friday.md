@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°38'20.45" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|4°38'21.65" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°0'6.39" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°42'10.69" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°53'8.77" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°37'16.29" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'14.12" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°20'58.01" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'22.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°59'5.06" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Marakes,  Marakesh,  Marakeso,  Marakeŝo,  Marakeš,  Maraksh,  Marrakech,  Marrakes,  Marrakesch,  Marrakesh,  Marrakesz,  Marraqueix,  Marraquexe,  Marràqueix,  Marrákes,  Marrákeš,  Merrakex,  Morocco City,  RAK,  ma la ke shen,  marakeshu,  mraksh,  Маракеш,  Марракеш,  مراكش,  ⴰⵎⵓⵔⴰⴽⵓⵛ,  マラケシュ,  马拉喀什
+Alternate Names: Marakes, Marakesh, Marakeso, Marakeŝo, Marakeš, Maraksh, Marrakech, Marrakes, Marrakesch, Marrakesh, Marrakesz, Marraqueix, Marraquexe, Marràqueix, Marrákes, Marrákeš, Merrakex, Morocco City, RAK, ma la ke shen, marakeshu, mraksh, Маракеш, Марракеш, مراكش, ⴰⵎⵓⵔⴰⴽⵓⵛ, マラケシュ, 马拉喀什
 
 ---

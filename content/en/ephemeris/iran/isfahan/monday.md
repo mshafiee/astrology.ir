@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'23.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°40'53.03" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°13'36.49" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°38'55.78" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°51'21.29" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'31.63" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°31'11.79" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°40'52.99" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°13'37.08" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°38'55.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°51'21.82" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'31.58" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°35'9.90" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Aspadana,  Dakbayan sa Esfahan,  Dakbayan sa Esfahān,  Esfahan,  Esfahano,  Esfahān,  Esfehan,  Eşfahān,  Eşfehān,  IFN,  Isfachan,  Isfahan,  Isfahana,  Isfahanas,  Isfahanum,  Isfahon,  Isfahán,  Isfahāna,  Isfakhan,  Isfehan,  Ispahan,  Iszfahan,  Iszfahán,  Kota Isfahan,  Spahan,  Yspyhan,  asfhan,  aysfahan,  esaphahana,  esufahan,  icupakan,  isafahana,  iseupahan,  isfahana,  isphahana,  xis fa han,  yi si fa han,  Îsfehan,  İsfahan,  İsfehan,  Ισφαχάν,  Ісфахан,  Исфахан,  Исфаҳон,  Исфаһан,  Սպահան,  אספהאן,  أصفهان,  ئسفأھان,  ئەسفەھان,  اصفهان,  اصفہان,  ایصفاهان,  इस्फहान,  इस्फ़हान,  এসফাহন,  ਇਸਫ਼ਹਾਨ,  இசுபகான்,  อิสฟาฮาน,  ისპაანი,  エスファハーン,  伊斯法罕,  이스파한
+Alternate Names: Aspadana, Dakbayan sa Esfahan, Dakbayan sa Esfahān, Esfahan, Esfahano, Esfahān, Esfehan, Eşfahān, Eşfehān, IFN, Isfachan, Isfahan, Isfahana, Isfahanas, Isfahanum, Isfahon, Isfahán, Isfahāna, Isfakhan, Isfehan, Ispahan, Iszfahan, Iszfahán, Kota Isfahan, Spahan, Yspyhan, asfhan, aysfahan, esaphahana, esufahan, icupakan, isafahana, iseupahan, isfahana, isphahana, xis fa han, yi si fa han, Îsfehan, İsfahan, İsfehan, Ισφαχάν, Ісфахан, Исфахан, Исфаҳон, Исфаһан, Սպահան, אספהאן, أصفهان, ئسفأھان, ئەسفەھان, اصفهان, اصفہان, ایصفاهان, इस्फहान, इस्फ़हान, এসফাহন, ਇਸਫ਼ਹਾਨ, இசுபகான், อิสฟาฮาน, ისპაანი, エスファハーン, 伊斯法罕, 이스파한
 
 ---

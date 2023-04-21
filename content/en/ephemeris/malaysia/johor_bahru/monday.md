@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'48.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°39'7.65" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°9'36.72" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°31'47.33" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°42'58.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°18'19.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°48'5.86" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°39'8.00" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°9'39.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°31'49.30" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°43'1.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'23.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°12'25.95" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°51'48.40" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°39'8.00" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°9'39.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°31'47.33" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°42'58.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°18'19.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°48'5.86" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|3°31'49.30" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°43'1.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°18'23.98" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°12'25.95" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Baru,  Bharu,  Dzhokhor Bakhru,  Dzhokhor-Baru,  Dzohor Baru,  Dzokhor Bakhru,  Džohor Baru,  JHB,  Jahore Bahru,  Johor,  Johor Baharu,  Johor Bahru,  Johore,  Johore Bahru,  Johore Baru,  Johore Bharu,  Sin-san-su,  Sîn-sân-sṳ,  joholeubalu,  johora baru,  johorubaru,  jokur paru,  jwhr bhrw,  jwhwr bhrw,  xin shan,  ya hor bah ru,  Џохор Бахру,  Джохор Бахру,  Джохор-Бару,  גוהור באהרו,  جوهر بهرو,  جوهور بهرو,  جوھر بھرو,  जोहोर बारू,  ஜொகூர் பாரு,  ยะโฮร์บาห์รู,  ဂျဟိုးဘာရူးမြို့,  ジョホールバル,  新山,  조호르바루
+Alternate Names: Baru, Bharu, Dzhokhor Bakhru, Dzhokhor-Baru, Dzohor Baru, Dzokhor Bakhru, Džohor Baru, JHB, Jahore Bahru, Johor, Johor Baharu, Johor Bahru, Johore, Johore Bahru, Johore Baru, Johore Bharu, Sin-san-su, Sîn-sân-sṳ, joholeubalu, johora baru, johorubaru, jokur paru, jwhr bhrw, jwhwr bhrw, xin shan, ya hor bah ru, Џохор Бахру, Джохор Бахру, Джохор-Бару, גוהור באהרו, جوهر بهرو, جوهور بهرو, جوھر بھرو, जोहोर बारू, ஜொகூர் பாரு, ยะโฮร์บาห์รู, ဂျဟိုးဘာရူးမြို့, ジョホールバル, 新山, 조호르바루
 
 ---

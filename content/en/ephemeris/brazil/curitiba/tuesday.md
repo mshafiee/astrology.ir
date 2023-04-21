@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°58'45.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°59'52.69" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°56'31.06" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°55'58.54" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°21'23.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°52'6.06" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°23'13.16" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|4°56'14.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°21'33.29" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°52'31.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°53'19.40" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°59'52.69" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°56'31.06" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°56'14.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°21'23.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°52'6.06" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°23'13.16" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°21'33.29" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°52'31.64" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°53'19.40" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: CWB,  Corityba,  Curitiba,  Curityba,  Curytiba,  Kouritiba,  Kouritimpa,  Kuritib,  Kuritiba,  Kuritibae,  Kuritibo,  Kuritiwa,  Kuritiyba,  Kuriytyva,  Kuriytýva,  Kuriṭiba,  Kuryciba,  Kurytyba,  Kùrìtíbà,  gu li ti ba,  ku li qi ba,  ku ri ti ba,  kulichiba,  kurichiba,  kuritcibas,  kuritiba,  kuritipe,  kwrytyba,  qwrytybh,  Κουριτίμπα,  Коуритиба,  Куритибæ,  Куритиба,  Курытыба,  Курыціба,  Կուրիտիբա,  קוריטיבא,  קוריטיבה,  كوريتيبا,  کوریتیبا,  ܩܘܪܝܛܝܒܐ,  कुरितिबा,  কুরিটিবা,  কুরিতিবা,  ਕੁਰੀਤੀਬਾ,  குரிடிபே,  కురితీబా,  ಕುರಿಟಿಬ,  กูรีตีบา,  კურიტიბა,  ኩሪቺባ,  ᎫᎵᏘᎦ,  クリチバ,  古里提巴,  庫里奇巴,  쿠리치바,  𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰
+Alternate Names: CWB, Corityba, Curitiba, Curityba, Curytiba, Kouritiba, Kouritimpa, Kuritib, Kuritiba, Kuritibae, Kuritibo, Kuritiwa, Kuritiyba, Kuriytyva, Kuriytýva, Kuriṭiba, Kuryciba, Kurytyba, Kùrìtíbà, gu li ti ba, ku li qi ba, ku ri ti ba, kulichiba, kurichiba, kuritcibas, kuritiba, kuritipe, kwrytyba, qwrytybh, Κουριτίμπα, Коуритиба, Куритибæ, Куритиба, Курытыба, Курыціба, Կուրիտիբա, קוריטיבא, קוריטיבה, كوريتيبا, کوریتیبا, ܩܘܪܝܛܝܒܐ, कुरितिबा, কুরিটিবা, কুরিতিবা, ਕੁਰੀਤੀਬਾ, குரிடிபே, కురితీబా, ಕುರಿಟಿಬ, กูรีตีบา, კურიტიბა, ኩሪቺባ, ᎫᎵᏘᎦ, クリチバ, 古里提巴, 庫里奇巴, 쿠리치바, 𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰
 
 ---

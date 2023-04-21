@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|4°37'52.75" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|16°0'10.91" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|14°58'48.62" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°25'41.94" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|3°47'1.68" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'15.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'22.45" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'24.57" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°37'53.11" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°0'15.78" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'51.10" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°25'41.94" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'22.38" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'20.44" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°37'52.75" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°0'10.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'48.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°47'1.68" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: VOZ,  Voronej,  Voronejo,  Voronez,  Voroneza,  Voronezas,  Voronezh,  Voronezhskaja oblast',  Voronezj,  Voroneĵo,  Voronež,  Voronežas,  Voronjez,  Voronjež,  Voroněž,  Voroņeža,  Woronesch,  Woronesh,  Woronez,  Woroneż,  bolonesi,  vuoroneji,  Воронеж,  Воронежская область,  ヴォロネジ,  보로네시
+Alternate Names: VOZ, Voronej, Voronez, Voroneza, Voronezas, Voronezh, Voronezhskaja oblast', Voronezj, Voroneĵ, Voronež, Voronežas, Voroněž, Voroņeža, Woronesch, Woronesh, Woronez, Woroneż, bolonesi, vu~oroneji, Воронеж, Воронежская область, ヴォロネジ, 보로네시
 
 ---

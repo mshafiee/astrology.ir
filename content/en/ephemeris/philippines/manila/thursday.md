@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'30.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'41.81" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°58'59.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°34'17.86" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°4'39.98" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'8.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°51'40.79" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°40'39.57" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°58'59.19" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°34'4.34" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°4'32.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'51.31" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°18'57.86" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: City of Manila,  Dakbayan sa Manila,  Lungsod ng Maynila,  MNL,  Mainile,  Manila,  Manilae,  Manilla,  Manillah,  Manille,  Manilo,  Manyl,  Maníla,  Maynila,  Menila,  ma ni la,  manila,  manilla,  manira,  manyl,  manyla,  mnila,  mnylh,  myanila,  Μανίλα,  Манилæ,  Манила,  Маніла,  מנילה,  مانىلا,  مانيلا,  مانیل,  مانیلا,  मनिला,  मनीला,  ম্যানিলা,  மணிலா,  ಮನಿಲ,  මැනිලා,  มนิลา,  มะนิลา,  མ་ནི་ལ།,  မနီလာမြို့,  მანილა,  ማኒላ,  マニラ,  馬尼拉,  马尼拉,  마닐라
+Alternate Names: City of Manila, Dakbayan sa Manila, Lungsod ng Maynila, MNL, Mainile, Manila, Manilae, Manilla, Manillah, Manille, Manilo, Manyl, Maníla, Maynila, Menila, ma ni la, manila, manilla, manira, manyl, manyla, mnila, mnylh, myanila, Μανίλα, Манилæ, Манила, Маніла, מנילה, مانىلا, مانيلا, مانیل, مانیلا, मनिला, मनीला, ম্যানিলা, மணிலா, ಮನಿಲ, මැනිලා, มนิลา, มะนิลา, མ་ནི་ལ།, မနီလာမြို့, მანილა, ማኒላ, マニラ, 马尼拉, 마닐라
 
 ---

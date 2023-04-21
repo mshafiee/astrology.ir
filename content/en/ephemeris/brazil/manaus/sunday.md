@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°52'5.82" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°0'6.04" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°5'56.93" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°25'26.80" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°33'14.78" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'25.83" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°26'22.20" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'9.44" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'20.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°52'6.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°0'6.40" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°5'58.05" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°25'26.80" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°33'14.78" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°31'20.06" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°52'5.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°0'6.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°5'56.93" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°25'25.83" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°26'22.20" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Barra do Rio Negro,  MAO,  Manaos,  Manaus,  Manauso,  Manaŭso,  Manos,  Manáos,  ma nao si,  manausu,  Манаус,  Манаўс,  מנאוס,  マナウス,  马瑙斯
+Alternate Names: Barra do Rio Negro, MAO, Manaos, Manaus, Manos, Manáos, ma nao si, manausu, Манаус, Манаўс, מנאוס, マナウス, 马瑙斯
 
 ---

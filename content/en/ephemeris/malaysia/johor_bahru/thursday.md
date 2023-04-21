@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'47.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°41'29.98" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°0'45.96" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°37'33.83" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°8'29.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'38.58" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°44'14.65" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°41'29.96" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°0'45.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°37'33.69" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°8'29.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'38.29" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°43'25.71" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Baru,  Bharu,  Dzhokhor Bakhru,  Dzhokhor-Baru,  Dzohor Baru,  Dzokhor Bakhru,  Džohor Baru,  JHB,  Jahore Bahru,  Johor,  Johor Baharu,  Johor Bahru,  Johore,  Johore Bahru,  Johore Baru,  Johore Bharu,  Sin-san-su,  Sîn-sân-sṳ,  joholeubalu,  johora baru,  johorubaru,  jokur paru,  jwhr bhrw,  jwhwr bhrw,  xin shan,  ya hor bah ru,  Џохор Бахру,  Джохор Бахру,  Джохор-Бару,  גוהור באהרו,  جوهر بهرو,  جوهور بهرو,  جوھر بھرو,  जोहोर बारू,  ஜொகூர் பாரு,  ยะโฮร์บาห์รู,  ဂျဟိုးဘာရူးမြို့,  ジョホールバル,  新山,  조호르바루
+Alternate Names: Baru, Bharu, Dzhokhor Bakhru, Dzhokhor-Baru, Dzohor Baru, Dzokhor Bakhru, Džohor Baru, JHB, Jahore Bahru, Johor, Johor Baharu, Johor Bahru, Johore, Johore Bahru, Johore Baru, Johore Bharu, Sin-san-su, Sîn-sân-sṳ, joholeubalu, johora baru, johorubaru, jokur paru, jwhr bhrw, jwhwr bhrw, xin shan, ya hor bah ru, Џохор Бахру, Джохор Бахру, Джохор-Бару, גוהור באהרו, جوهر بهرو, جوهور بهرو, جوھر بھرو, जोहोर बारू, ஜொகூர் பாரு, ยะโฮร์บาห์รู, ဂျဟိုးဘာရူးမြို့, ジョホールバル, 新山, 조호르바루
 
 ---

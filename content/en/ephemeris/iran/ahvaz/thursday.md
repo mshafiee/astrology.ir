@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'28.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'23.73" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°4'57.25" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°45'12.37" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°17'30.10" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'22.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°16'37.28" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'25.35" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°5'2.76" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°45'21.69" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°17'41.00" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'38.63" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°16'20.07" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'28.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'23.73" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'57.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°45'12.37" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°17'30.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'22.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°16'37.28" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'25.30" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°5'2.94" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°45'21.35" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°17'41.00" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'38.32" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°13'59.65" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: AWZ,  Ahvaz,  Ahvaz - ahwaz,  Ahvaz - اهواز,  Ahvaza,  Ahvazas,  Ahvazo,  Ahvoz,  Ahváz,  Ahvāz,  Ahvāza,  Ahwas,  Ahwaz,  Ahwāz,  Akhvaz,  Akhvaz shaary,  Axvaz,  Bandar Nasiri,  Bandar Nāsirī,  Bandar-e Naser,  Bandar-e Nāşer,  Ehvaz,  Naseri,  Nasiri,  Nāsiri,  Nāşerī,  a wa shi,  abajeu,  afuvuazu,  ahabaja,  ahavaza,  ahvazi,  ahwaz,  akvacu,  alahwaz,  Əhvaz,  Ахваз,  Ахваз шаары,  Аҳвоз,  Ախվազ,  אהוואז,  ئەھواز,  الأهواز,  اهواز,  اہواز,  अहवाज़,  আহবাজ,  ਅਹਵਾਜ਼,  ஆக்வாசு,  ཨཱ་ཝཛ།,  აჰვაზი,  アフヴァーズ,  阿瓦士,  아바즈
+Alternate Names: AWZ, Ahvaz, Ahvaz - ahwaz, Ahvaz - اهواز, Ahvaza, Ahvazas, Ahvazo, Ahvoz, Ahváz, Ahvāz, Ahvāza, Ahwas, Ahwaz, Ahwāz, Akhvaz, Akhvaz shaary, Axvaz, Bandar Nasiri, Bandar Nāsirī, Bandar-e Naser, Bandar-e Nāşer, Ehvaz, Naseri, Nasiri, Nāsiri, Nāşerī, a wa shi, abajeu, afuvu~azu, ahabaja, ahavaza, ahvazi, ahwaz, akvacu, alahwaz, Əhvaz, Ахваз, Ахваз шаары, Аҳвоз, Ախվազ, אהוואז, ئەھواز, الأهواز, اهواز, اہواز, अहवाज़, আহবাজ, ਅਹਵਾਜ਼, ஆக்வாசு, ཨཱ་ཝཛ།, აჰვაზი, アフヴァーズ, 阿瓦士, 아바즈
 
 ---

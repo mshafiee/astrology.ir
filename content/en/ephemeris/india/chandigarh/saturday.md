@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'12.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°11'7.79" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°6'47.92" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°37'56.69" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°29'47.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'9.72" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°8'8.77" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°11'7.71" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°6'47.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°37'56.23" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°29'47.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'9.01" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°5'9.57" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'12.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'7.79" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°6'47.92" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°37'56.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°29'47.86" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'9.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°8'8.77" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°11'7.71" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°6'47.78" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°37'56.23" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°29'47.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'9.01" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°5'9.57" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Candigarchas,  Candigarh,  Chandigar,  Chandigarh,  Chandigarkh,  Chandīgarh,  Czandigarh,  IXC,  cadigarha,  candhigad,  candigadh,  candigadha,  candigara,  candigarha,  cantikar,  chandigadh,  chandigarhi,  chandigaru,  chang di jia er,  Čandigarchas,  Čandígarh,  Чандигар,  Чандигарх,  צ'אנדיגאר,  चंडीगढ़,  চন্ডিগড়,  চন্ডীগড়,  ਚੰਡੀਗੜ੍ਹ,  ચંડીગઢ,  சண்டிகர்,  చండీగఢ్,  ఛండీగఢ్,  ചണ്ഢീഗഡ്,  ჩანდიგარჰი,  チャンディーガル,  昌迪加尔
+Alternate Names: Candigarchas, Candigarh, Chandigar, Chandigarh, Chandigarkh, Chandīgarh, Czandigarh, IXC, cadigarha, candhigad, candigadh, candigadha, candigara, candigarha, cantikar, chandigadh, chandigarhi, chandigaru, chang di jia er, Čandigarchas, Čandígarh, Чандигар, Чандигарх, צ'אנדיגאר, चंडीगढ़, চন্ডিগড়, চন্ডীগড়, ਚੰਡੀਗੜ੍ਹ, ચંડીગઢ, சண்டிகர், చండీగఢ్, ఛండీగఢ్, ചണ്ഢീഗഡ്, ჩანდიგარჰი, チャンディーガル, 昌迪加尔
 
 ---

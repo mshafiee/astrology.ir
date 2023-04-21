@@ -20,7 +20,7 @@ Latitude: -2.1962
 \-
 Longitude: -79.8862
 \-
-Altitude: 14 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Guayaquil, Ecuador" lat="-2.1962" lng="-79.8862" zoom="12">}}
 
@@ -38,10 +38,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:16:34 |
 | Dhuhr | 12:18:15 |
 | Medium Coeli | 12:18:15 |
-| Sunset | 18:19:54 |
+| Sunset | 18:19:55 |
 | Maghrib | 18:33:46 |
 | Isha | 19:14:40 |
-| Sharia Midnight | 23:46:40 |
+| Sharia Midnight | 23:46:41 |
 | Imum Coeli | 00:18:09 |
 {{< /tab >}}
 
@@ -54,10 +54,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:16:34 |
 | Dhuhr | 12:18:15 |
 | Medium Coeli | 12:18:15 |
-| Sunset | 18:19:54 |
+| Sunset | 18:19:55 |
 | Maghrib | 18:35:49 |
 | Isha | 19:14:40 |
-| Sharia Midnight | 23:43:11 |
+| Sharia Midnight | 23:43:12 |
 | Imum Coeli | 00:18:09 |
 {{< /tab >}}
 
@@ -70,7 +70,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:16:34 |
 | Dhuhr | 12:18:15 |
 | Medium Coeli | 12:18:15 |
-| Sunset | 18:19:54 |
+| Sunset | 18:19:55 |
 | Maghrib | 18:20:49 |
 | Isha | 19:26:56 |
 | Sharia Midnight | 23:42:35 |
@@ -86,7 +86,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:16:34 |
 | Dhuhr | 12:18:15 |
 | Medium Coeli | 12:18:15 |
-| Sunset | 18:19:54 |
+| Sunset | 18:19:55 |
 | Maghrib | 18:20:49 |
 | Isha | 19:18:45 |
 | Sharia Midnight | 23:48:43 |
@@ -102,10 +102,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:16:34 |
 | Dhuhr | 12:18:15 |
 | Medium Coeli | 12:18:15 |
-| Sunset | 18:19:54 |
+| Sunset | 18:19:55 |
 | Maghrib | 18:20:49 |
 | Isha | 19:28:59 |
-| Sharia Midnight | 23:39:30 |
+| Sharia Midnight | 23:39:31 |
 | Imum Coeli | 00:18:09 |
 {{< /tab >}}
 
@@ -118,7 +118,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:16:34 |
 | Dhuhr | 12:18:15 |
 | Medium Coeli | 12:18:15 |
-| Sunset | 18:19:54 |
+| Sunset | 18:19:55 |
 | Maghrib | 18:20:49 |
 | Isha | 19:31:02 |
 | Sharia Midnight | 23:42:35 |
@@ -134,10 +134,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:16:34 |
 | Dhuhr | 12:18:15 |
 | Medium Coeli | 12:18:15 |
-| Sunset | 18:19:54 |
+| Sunset | 18:19:55 |
 | Maghrib | 18:20:49 |
 | Isha | 19:50:49 |
-| Sharia Midnight | 23:41:33 |
+| Sharia Midnight | 23:41:34 |
 | Imum Coeli | 00:18:09 |
 {{< /tab >}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:03:20|Night duration: 11:56:31|
+|Duration of the day: 12:03:21|Night duration: 11:56:30|
 |Every hour of day duration: 01:00:17|Every hour of night duration: 00:59:43|
 
  
@@ -213,30 +213,30 @@ Timetable of twelve day and night planetary hours
 |1|Venus|Ruler|06:16:34|07:16:49|Attracting love and creating emotional attachment|
 |2|Mercury|Servant|07:16:50|08:17:06|Attracting good luck|
 |3|Moon|Servant|08:17:07|09:17:23|Attracting negativity, and avoiding any harmful action|
-|4|Saturn|Servant|09:17:24|10:17:39|Being hateful for a certain period of time|
-|5|Jupiter|Servant|10:17:40|11:17:56|Gaining status, position, and attracting happiness in the workplace|
+|4|Saturn|Servant|09:17:24|10:17:40|Being hateful for a certain period of time|
+|5|Jupiter|Servant|10:17:41|11:17:56|Gaining status, position, and attracting happiness in the workplace|
 |6|Mars|Servant|11:17:57|12:18:13|Attracting attention and acceptance from important people|
-|7|Sun|Servant|12:18:14|13:18:29|Advancing and attracting wealth|
-|8|Venus|Ruler|13:18:30|14:18:46|Extremely lucky and achieving ultimate happiness|
-|9|Mercury|Servant|14:18:47|15:19:03|Separating and making someone homeless|
-|10|Moon|Servant|15:19:04|16:19:19|Extremely hateful and causing harm|
-|11|Saturn|Servant|16:19:20|17:19:36|Creating a negative destiny for anyone|
-|12|Jupiter|Servant|17:19:37|18:19:53|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|7|Sun|Servant|12:18:14|13:18:30|Advancing and attracting wealth|
+|8|Venus|Ruler|13:18:31|14:18:47|Extremely lucky and achieving ultimate happiness|
+|9|Mercury|Servant|14:18:48|15:19:03|Separating and making someone homeless|
+|10|Moon|Servant|15:19:04|16:19:20|Extremely hateful and causing harm|
+|11|Saturn|Servant|16:19:21|17:19:37|Creating a negative destiny for anyone|
+|12|Jupiter|Servant|17:19:38|18:19:54|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|18:19:54|19:19:35|Attracting love and creating emotional attachment|
-|2|Sun|Servant|19:19:36|20:19:18|Attracting good luck|
-|3|Venus|Servant|20:19:19|21:19:00|Attracting negativity, and avoiding any harmful action|
-|4|Mercury|Servant|21:19:01|22:18:43|Being hateful for a certain period of time|
-|5|Moon|Servant|22:18:44|23:18:25|Gaining status, position, and attracting happiness in the workplace|
-|6|Saturn|Servant|23:18:26|00:18:08|Attracting attention and acceptance from important people|
-|7|Jupiter|Servant|00:18:09|01:17:51|Advancing and attracting wealth|
-|8|Mars|Ruler|01:17:52|02:17:33|Extremely lucky and achieving ultimate happiness|
-|9|Sun|Servant|02:17:34|03:17:16|Separating and making someone homeless|
-|10|Venus|Servant|03:17:17|04:16:58|Extremely hateful and causing harm|
-|11|Mercury|Servant|04:16:59|05:16:41|Creating a negative destiny for anyone|
+|1|Mars|Ruler|18:19:55|19:19:36|Attracting love and creating emotional attachment|
+|2|Sun|Servant|19:19:37|20:19:19|Attracting good luck|
+|3|Venus|Servant|20:19:20|21:19:01|Attracting negativity, and avoiding any harmful action|
+|4|Mercury|Servant|21:19:02|22:18:44|Being hateful for a certain period of time|
+|5|Moon|Servant|22:18:45|23:18:26|Gaining status, position, and attracting happiness in the workplace|
+|6|Saturn|Servant|23:18:27|00:18:09|Attracting attention and acceptance from important people|
+|7|Jupiter|Servant|00:18:10|01:17:51|Advancing and attracting wealth|
+|8|Mars|Ruler|01:17:52|02:17:34|Extremely lucky and achieving ultimate happiness|
+|9|Sun|Servant|02:17:35|03:17:16|Separating and making someone homeless|
+|10|Venus|Servant|03:17:17|04:16:59|Extremely hateful and causing harm|
+|11|Mercury|Servant|04:17:00|05:16:41|Creating a negative destiny for anyone|
 |12|Moon|Servant|05:16:42|06:16:24|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:03:20|Night duration: 11:56:31|
-|Every hour duration: 01:43:20|Every hour duration: 01:42:22|
+|Duration of the day: 12:03:21|Night duration: 11:56:30|
+|Every hour duration: 01:43:20|Every hour duration: 01:42:21|
 
  
  
@@ -264,17 +264,17 @@ Timetable of septet day and night planetary hours
 |Noon|Saturn|Servant|11:26:34|13:09:53|
 |Early afternoon|Jupiter|Servant|13:09:54|14:53:13|
 |Mid-afternoon|Mars|Servant|14:53:14|16:36:33|
-|Late afternoon|Sun|Servant|16:36:34|18:19:53|
+|Late afternoon|Sun|Servant|16:36:34|18:19:54|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|18:19:54|20:02:14|
-|Late evening|Sun|Servant|20:02:15|21:44:36|
-|Midnight|Venus|Servant|21:44:37|23:26:57|
-|Late at night|Mercury|Servant|23:26:58|01:09:19|
-|Rooster song|Moon|Servant|01:09:20|02:51:40|
-|False Dawn|Saturn|Servant|02:51:41|04:34:02|
+|Evening|Mars|Ruler|18:19:55|20:02:15|
+|Late evening|Sun|Servant|20:02:16|21:44:36|
+|Midnight|Venus|Servant|21:44:37|23:26:58|
+|Late at night|Mercury|Servant|23:26:59|01:09:19|
+|Rooster song|Moon|Servant|01:09:20|02:51:41|
+|False Dawn|Saturn|Servant|02:51:42|04:34:02|
 |Dawn|Jupiter|Servant|04:34:03|06:16:24|
 
 {{< /tab >}}
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'29.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°3'18.13" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°49'19.81" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°6'7.58" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°52'31.44" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'21.41" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°54'24.79" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°3'18.81" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°49'19.33" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°6'11.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°52'33.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'26.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°15'44.20" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°39'29.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°3'18.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°49'19.81" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°6'7.58" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°52'31.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'21.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°54'24.79" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°39'28.79" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°3'18.56" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°49'20.23" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°6'10.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°52'33.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'24.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°9'46.77" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: GYE,  Gouagiakil,  Guaiaquil,  Guaiaquilum,  Guajakil,  Guajakil',  Guayaquil,  Gvajakil,  Gvajakila,  Gvajakilis,  Gvajakilo,  Santiago de Guayaquil,  Wayakil,  ghwayakyl,  gu'a'i'akila,  gua ya ji er,  guayakiru,  gvayakila,  gwayakil,  gwayakl,  gwayakwyl,  gwayakywl,  kwa yaki l,  Γουαγιακίλ,  Гвајакил,  Гуаякил,  Гуаякиль,  Гуаякіль,  Ґуаякіль,  גואיאקיל,  غواياكيل,  گوآیاکوئل,  گوایاکل,  گوایاکیول,  ग्वायाकिल,  ਗੁਆਇਆਕੀਲ,  กวายากิล,  გუაიაკილი,  グアヤキル,  瓜亞基爾,  과야킬
+Alternate Names: GYE, Gouagiakil, Guaiaquil, Guaiaquilum, Guajakil, Guajakil', Guayaquil, Gvajakil, Gvajakila, Gvajakilis, Santiago de Guayaquil, Wayakil, ghwayakyl, gu'a'i'akila, gua ya ji er, guayakiru, gvayakila, gwayakil, gwayakl, gwayakwyl, gwayakywl, kwa yaki l, Γουαγιακίλ, Гвајакил, Гуаякил, Гуаякиль, Гуаякіль, Ґуаякіль, גואיאקיל, غواياكيل, گوآیاکوئل, گوایاکل, گوایاکیول, ग्वायाकिल, ਗੁਆਇਆਕੀਲ, กวายากิล, გუაიაკილი, グアヤキル, 瓜亞基爾, 과야킬
 
 ---

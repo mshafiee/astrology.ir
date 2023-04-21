@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'13.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'14.73" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'2.11" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°37'22.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°59'33.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'3.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°43'14.95" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'14.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'2.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°37'22.43" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°59'34.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°59'3.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°48'12.79" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Dakbayan sa Qom,  Ghom,  Homo,  Kom,  Kum,  Kum shaary,  Kumas,  QUM,  Qom,  Qum,  Qûm,  gomu,  koma,  ku mu,  kum,  kuvom,  qm,  qwm,  Ĥomo,  Ком,  Кум,  Кум шаары,  Қум,  קום,  قم,  قوم,  कोम,  குவோம்,  ゴム,  库姆,  쿰
+Alternate Names: Dakbayan sa Qom, Ghom, Homo, Kom, Kum, Kum shaary, Kumas, QUM, Qom, Qum, Qûm, gomu, koma, ku mu, kum, kuvom, qm, qwm, Ĥomo, Ком, Кум, Кум шаары, Қум, קום, قم, قوم, कोम, குவோம், ゴム, 库姆, 쿰
 
 ---

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'8.78" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°58'1.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°52'19.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°48'42.83" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°12'46.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°55'12.84" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°17'41.06" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°52'21.56" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°48'40.21" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°12'47.17" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°55'9.66" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°30'40.50" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: MLW,  Manrovija,  Monrobia,  Monrofia,  Monrovi,  Monrovia,  Monrovii,  Monrovija,  Monrovio,  Monroviya,  Monrowia,  Monròvia,  Monróvia,  Monróvía,  manarobhiya,  manroweiy,  manrwwya,  meng luo wei ya,  monarovi'a,  monlobia,  monrobia,  monrovhiya,  monrovia,  monroviya,  mwnrwbyh,  mwnrwfya,  mwnrwwya,  Μονρόβια,  Манровія,  Монрови,  Монровия,  Монровија,  Монровія,  Մոնրովիա,  מאנראוויע,  מונרוביה,  مانروویا,  مونروفيا,  مونروویا,  مۆنرۆڤیا,  मोन्रोव्हिया,  মনরোভিয়া,  ਮੋਨਰੋਵੀਆ,  மொன்றோவியா,  มันโรเวีย,  མོང་རོ་ཝི་ཡ།,  მონროვია,  ሞንሮቪያ,  モンロビア,  蒙罗维亚,  蒙羅維亞,  몬로비아
+Alternate Names: MLW, Manrovija, Monrobia, Monrofia, Monrovi, Monrovia, Monrovii, Monrovija, Monrovio, Monroviya, Monrowia, Monròvia, Monróvia, Monróvía, manarobhiya, manroweiy, manrwwya, meng luo wei ya, monarovi'a, monlobia, monrobia, monrovhiya, monrovia, monroviya, mwnrwbyh, mwnrwfya, mwnrwwya, Μονρόβια, Манровія, Монрови, Монровия, Монровија, Монровія, Մոնրովիա, מאנראוויע, מונרוביה, مانروویا, مونروفيا, مونروویا, مۆنرۆڤیا, मोन्रोव्हिया, মনরোভিয়া, ਮੋਨਰੋਵੀਆ, மொன்றோவியா, มันโรเวีย, མོང་རོ་ཝི་ཡ།, მონროვია, ሞንሮቪያ, モンロビア, 蒙罗维亚, 蒙羅維亞, 몬로비아
 
 ---

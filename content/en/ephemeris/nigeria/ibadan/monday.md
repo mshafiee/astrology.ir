@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'8.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°43'2.07" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°18'33.95" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°47'38.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°1'40.37" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'0.95" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°34'17.68" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°43'3.95" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°18'31.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°47'49.08" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°1'43.52" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'16.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°36'34.63" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'8.13" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°43'2.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°18'33.95" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°47'38.04" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°1'40.37" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'0.95" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°25'19.35" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°43'3.95" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°18'31.48" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°47'49.08" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°1'43.52" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'16.05" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°36'34.63" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: IBA,  Ibadan,  Ibadan shaary,  Ibadana,  Ibadanas,  Ibadano,  Ibadán,  abadan,  aybadan,  ibadan,  ibadana,  yi ba dan,  Ìbàdàn,  İbadan,  Ібадан,  Ибадан,  Ибадан шаары,  איבדאן,  إبادان,  إيبادان,  ابادان,  ਇਬਾਦਾਨ,  イバダン,  伊巴丹,  이바단
+Alternate Names: IBA, Ibadan, Ibadan shaary, Ibadana, Ibadanas, Ibadano, Ibadán, abadan, aybadan, ibadan, ibadana, yi ba dan, Ìbàdàn, İbadan, Ібадан, Ибадан, Ибадан шаары, איבדאן, إبادان, إيبادان, ابادان, ਇਬਾਦਾਨ, イバダン, 伊巴丹, 이바단
 
 ---

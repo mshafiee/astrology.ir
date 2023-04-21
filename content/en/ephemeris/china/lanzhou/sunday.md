@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°46'46.59" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°24'22.47" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°36'28.58" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°31'33.72" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°32'42.08" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'57.02" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°50'22.79" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°31'46.97" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°32'51.00" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'16.82" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°10'18.14" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kao-lan-hsien,  Kaolan,  LHW,  Lan Chau,  Lan Châu,  Lan'chzhou,  Lan'chzhou shaary,  Lan'zhou,  Lan-chiu-chhi,  Lan-chou,  Lan-chou-shih,  Lan-cou,  Lan-čou,  Lanchjou,  Lanchow,  Lanchowfu,  Lancsou,  Landzhou,  Landzou,  Landžou,  Lang-ciu,  Langouo,  Lantsjou,  Lantsoou,  Lanzcouh,  Lanzhou,  Lanzhou Shi,  Lanĝoŭo,  Laņdžou,  Làng-ciŭ,  Lân-chiu-chhī,  hlan cow,  lan zhou,  lan zhou shi,  lanazu,  lanjeou si,  lanjhu,  lantshw,  lanzhw,  Λαντσόου,  Ланджоу,  Ланьжоу,  Ланьчжоу,  Ланьчжоу шаары,  Ланџоу,  لانتشو,  لانزہو,  لانژو,  لەنجۇ شەھىرى,  लान्झू,  ਲਾਨਜ਼ੂ,  หลานโจว,  ལན་ཀྲོའུ།,  兰州,  兰州市,  蘭州,  蘭州市,  란저우 시
+Alternate Names: Kao-lan-hsien, Kaolan, LHW, Lan Chau, Lan Châu, Lan'chzhou, Lan'chzhou shaary, Lan'zhou, Lan-chiu-chhi, Lan-chou, Lan-chou-shih, Lan-cou, Lan-čou, Lanchjou, Lanchow, Lanchowfu, Lancsou, Landzhou, Landzou, Landžou, Lang-ciu, Langouo, Lantsjou, Lantsoou, Lanzcouh, Lanzhou, Lanzhou Shi, Lanĝoŭo, Laņdžou, Làng-ciŭ, Lân-chiu-chhī, hlan cow, lan zhou, lan zhou shi, lanazu, lanjeou si, lanjhu, lantshw, lanzhw, Λαντσόου, Ланджоу, Ланьжоу, Ланьчжоу, Ланьчжоу шаары, Ланџоу, لانتشو, لانزہو, لانژو, لەنجۇ شەھىرى, लान्झू, ਲਾਨਜ਼ੂ, หลานโจว, ལན་ཀྲོའུ།, 兰州, 兰州市, 蘭州, 蘭州市, 란저우 시
 
 ---

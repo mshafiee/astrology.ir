@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'34.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'51.83" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°37'9.39" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°44'1.24" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°26'33.12" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'6.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°32'20.92" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°57'52.28" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°37'11.75" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°44'3.73" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°26'36.97" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'11.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°52'9.19" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'34.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°57'51.83" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°37'9.39" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°44'1.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°26'33.12" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'6.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°32'20.92" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°57'52.35" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°37'11.86" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°44'4.13" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°26'37.31" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'11.94" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°54'50.70" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bahtaran,  Bakhtaran,  Bākhtarān,  KSH,  Kermansah,  Kermansaho,  Kermanschah,  Kermanshah,  Kermanshahan,  Kermanshakh,  Kermanŝaho,  Kermânsâh,  Kermānschāh,  Kermānshāh,  Kermānshāhān,  Kirmansah,  Kirmanşah,  Kirmasan,  Kirmaşan,  Province de Kermanshah,  Provincia de Kermanshah,  Provinco Kermansah,  Provinco Kermanŝah,  Província de Kermanshah,  Qahremanshahr,  Qahremānshahr,  astan krmanshah,  ke er man sha he,  kerumansha,  krmanshah,  Керманшах,  Кирмоншоҳ,  Устони Кирмоншоҳ,  استان کرمانشاه,  كرمانشاه,  کرمانشاه,  ケルマーンシャー,  克尔曼沙赫
+Alternate Names: Bahtaran, Bakhtaran, Bākhtarān, KSH, Kermansah, Kermansaho, Kermanschah, Kermanshah, Kermanshahan, Kermanshakh, Kermanŝaho, Kermânsâh, Kermānschāh, Kermānshāh, Kermānshāhān, Kirmansah, Kirmanşah, Kirmasan, Kirmaşan, Province de Kermanshah, Provincia de Kermanshah, Provinco Kermansah, Provinco Kermanŝah, Província de Kermanshah, Qahremanshahr, Qahremānshahr, astan krmanshah, ke er man sha he, kerumansha, krmanshah, Керманшах, Кирмоншоҳ, Устони Кирмоншоҳ, استان کرمانشاه, كرمانشاه, کرمانشاه, ケルマーンシャー, 克尔曼沙赫
 
 ---

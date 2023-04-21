@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'25.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°23'20.15" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°34'9.06" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°27'33.15" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°27'55.94" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'52.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°56'27.18" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'18.53" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°34'10.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°27'23.37" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°27'51.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'39.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°21'42.11" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'25.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'20.15" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°34'9.06" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°27'33.15" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°27'54.63" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'52.18" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°56'27.18" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°23'20.47" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°34'9.37" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°27'34.98" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°27'55.94" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'54.94" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°6'17.16" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: FUK,  Fucuoca,  Fukuoka,  Fukuoka-shi,  Fukuokashi,  Fukuoko,  Hukuoka,  fu gang,  fu gang shi,  fukuoka,  fukuokashi,  fwkwka,  hukuoka si,  Фукуока,  فوكوكا,  ふくおか,  ふくおかし,  フクオカ,  フクオカシ,  福岡,  福岡市,  후쿠오카 시
+Alternate Names: FUK, Fucuoca, Fukuoka, Fukuoka-shi, Fukuokashi, Hukuoka, fu gang, fu gang shi, fukuoka, fukuokashi, fwkwka, hukuoka si, Фукуока, فوكوكا, ふくおか, ふくおかし, フクオカ, フクオカシ, 福岡, 福岡市, 후쿠오카 시
 
 ---

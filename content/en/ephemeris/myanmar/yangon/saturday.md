@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'59.38" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°10'30.39" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°5'23.90" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°35'25.09" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°26'49.49" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'21.56" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°42'57.71" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°10'30.30" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°5'23.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°35'24.59" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°26'49.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'20.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°40'25.61" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'59.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°10'30.39" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°5'23.90" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°35'25.09" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°26'49.49" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'21.56" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°42'57.71" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°10'30.30" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°5'23.92" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°35'24.59" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°26'49.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'20.89" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°40'25.61" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Dagon,  Gian'nkon,  Jangon,  Jangon khot,  Jangona,  Jangono,  Jangun,  Jangún,  Ngiong-kong,  Ngióng-kông,  RGN,  Rangon,  Rangoon,  Rangoun,  Rangum,  Rangun,  Rangunas,  Rangún,  Rangūnas,  Yangjgvangh,  Yangon,  Yangôn,  Yanqon,  iangoni,  iyanguna,  raguna,  ranguna,  rngwn,  yang guang,  yang-gon,  yanghwn,  yangkung,  yangon,  yanguna,  yangwn,  yankon,  Ýangon,  Γιανγκόν,  Јангон,  Рангун,  Янгон,  Янгон хот,  Յանգոն,  יאנגון,  رنگون,  يانغون,  یانگون,  यांगून,  रङ्गुन,  रङ्गून,  ইয়াংগুন,  ਰੰਗੂਨ,  யங்கோன்,  యాంగోన్,  യംഗോൺ,  ย่างกุ้ง,  ཡང་ཀོང་།,  ရန်ကုန်မြို့,  იანგონი,  ያንጎን,  យ៉ាំងហ្គូន,  ヤンゴン,  仰光,  양곤
+Alternate Names: Dagon, Gian'nkon, Jangon, Jangon khot, Jangona, Jangono, Jangun, Jangún, Ngiong-kong, Ngióng-kông, RGN, Rangon, Rangoon, Rangoun, Rangum, Rangun, Rangunas, Rangún, Rangūnas, Yangjgvangh, Yangon, Yangôn, Yanqon, iangoni, iyanguna, raguna, ranguna, rngwn, yang guang, yang-gon, yanghwn, yangkung, yangon, yanguna, yangwn, yankon, Ýangon, Γιανγκόν, Јангон, Рангун, Янгон, Янгон хот, Յանգոն, יאנגון, رنگون, يانغون, یانگون, यांगून, रङ्गुन, रङ्गून, ইয়াংগুন, ਰੰਗੂਨ, யங்கோன், యాంగోన్, യംഗോൺ, ย่างกุ้ง, ཡང་ཀོང་།, ရန်ကုန်မြို့, იანგონი, ያንጎን, យ៉ាំងហ្គូន, ヤンゴン, 仰光, 양곤
 
 ---

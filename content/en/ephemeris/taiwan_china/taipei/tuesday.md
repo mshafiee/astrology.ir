@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'19.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°52'33.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°39'56.78" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°26'24.86" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°46'46.89" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°2'44.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°34'39.11" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°52'33.16" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°39'56.66" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°26'25.07" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°46'46.87" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°2'44.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°34'0.63" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: GJai Bac,  Kota Taipei,  Pan Kiao,  Pan-ch'iao,  Pan-ch'iao-chen,  Pan-ch'iao-chieh,  Pan-ch’iao,  Pan-ch’iao-chen,  Pan-ch’iao-chieh,  T'ai-pei,  T'ai-pei Shih,  T'ai-pei-hsien,  TPE,  Taibei Shi,  Taibei Shih,  Taibejus,  Taibėjus,  Taipe,  Taipeh,  Taipei,  Taipeium,  Taipejus,  Taipé,  Taipéi,  Taipėjus,  Tajbehj,  Tajpej,  Tajpeo,  Tayipeh,  Tayipèh,  Tchaj-pej,  T’ai-pei,  T’ai-pei Shih,  T’ai-pei-hsien,  ta'ipe,  ta'ipe'i,  tai bei,  tai bei shi,  taibei,  taibei si,  taipei,  taippei,  thipe,  Đài Bắc,  Ταϊπέι,  Тайбэй,  Тайпей,  Тајпеј,  טאיפי,  טאיפיי,  تەيبېي,  ताइपे,  টাইপেই,  ไทเป,  ཐའེ་པེ,  ታይፔ,  台北,  台北市,  臺北市,  타이베이,  타이베이 시,  타이뻬이,  타이페이
+Alternate Names: GJai Bac, Kota Taipei, Pan Kiao, Pan-ch'iao, Pan-ch'iao-chen, Pan-ch'iao-chieh, Pan-ch’iao, Pan-ch’iao-chen, Pan-ch’iao-chieh, T'ai-pei, T'ai-pei Shih, T'ai-pei-hsien, TPE, Taibei Shi, Taibei Shih, Taibejus, Taibėjus, Taipe, Taipeh, Taipei, Taipeium, Taipejus, Taipé, Taipéi, Taipėjus, Tajbehj, Tajpej, Tajpeo, Tayipeh, Tayipèh, Tchaj-pej, T’ai-pei, T’ai-pei Shih, T’ai-pei-hsien, ta'ipe, ta'ipe'i, tai bei, tai bei shi, taibei, taibei si, taipei, taippei, thipe, Đài Bắc, Ταϊπέι, Тайбэй, Тайпей, Тајпеј, טאיפי, טאיפיי, تەيبېي, ताइपे, টাইপেই, ไทเป, ཐའེ་པེ, ታይፔ, 台北, 台北市, 臺北市, 타이베이, 타이베이 시, 타이뻬이, 타이페이
 
 ---

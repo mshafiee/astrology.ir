@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'30.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°38'15.42" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°7'40.49" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°28'14.49" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°38'51.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'9.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°5'20.90" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°38'14.78" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°7'38.36" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°28'10.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°38'46.83" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'2.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°37'5.11" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'30.68" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°38'15.71" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°7'41.71" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°28'14.49" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°38'51.20" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'9.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°5'20.90" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|15°7'38.36" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°28'10.78" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°38'46.83" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'2.97" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°37'5.11" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Gaosjun,  Gaosyongshih,  Gaoxiong,  Gaoxiongshi,  KHH,  Kao-hsiung,  Kao-hsiung-shih,  Kaohsiung,  Kaohsiung City,  Takao,  gao xiong,  gao xiong fu,  gao xiong shi,  gaosyung si,  Гаосюн,  高雄,  高雄巿,  高雄市,  가오슝 시
+Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시
 
 ---

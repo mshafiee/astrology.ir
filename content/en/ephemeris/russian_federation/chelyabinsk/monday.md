@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°40'2.05" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°11'42.32" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°35'27.39" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°47'10.29" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°17'6.85" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°32'48.50" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|14°47'19.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°17'18.53" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°33'13.80" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CEK,  Celabinsk,  Celabinska,  Celaebinsk,  Celeabinsk,  Celiabinsc,  Celiabinsca,  Celiabinskas,  Celjabinsk,  Celjabinsko,  Celyabinsk,  Chaljabinsk,  Chelepi,  Cheliabinsk,  Cheliábinsk,  Cheljaba,  Cheljaba osh,  Cheljabe,  Cheljabi,  Cheljabins'k,  Cheljabinsk,  Chelyabinsk,  Cseljabinszk,  Czelabinsk,  Czelabińsk,  Tcheliabinsk,  Tchelyabinsk,  Tchéliabïnsk,  Tjeljabinsk,  Tscheljabinsk,  Tseliampinsk,  Tseljabinsk,  Tsjeljabinsk,  Tsyelyabinsk,  Txeliabinsk,  Txeliàbinsk,  Tšeljabinsk,  celiyabinska,  celyabinska,  che li ya bin si ke,  chellyabinseukeu,  cheryabinsuku,  chlyabnsk,  chlyabynsk,  chylyabnsk,  tshylyabnsk,  zlyʼbynsq,  Çelyabinsk,  Ĉeljabinsko,  Čeliabinskas,  Čeljabinsk,  Čeläbinsk,  Čeļabinska,  Čeľabinsk,  Τσελιάμπινσκ,  Силәбе,  Чалябінск,  Челепи,  Челяба,  Челяба ош,  Челябе,  Челябинск,  Челябі,  Челябінськ,  Чељабинск,  Чиләбе,  Чєлѣбиньскъ,  Չելյաբինսկ,  טשעליאבינסק,  צליאבינסק,  تشيليابنسك,  چلیابنسک,  چلیابینسک,  چیلیابنسک,  चेलियाबिन्स्क,  चेल्याबिंस्क,  চেলিয়াবিন্
+Alternate Names: CEK, Celabinsk, Celabinska, Celaebinsk, Celeabinsk, Celiabinsc, Celiabinsca, Celiabinskas, Celjabinsk, Celyabinsk, Chaljabinsk, Chelepi, Cheliabinsk, Cheliábinsk, Cheljaba, Cheljaba osh, Cheljabe, Cheljabi, Cheljabins'k, Cheljabinsk, Chelyabinsk, Cseljabinszk, Czelabinsk, Czelabińsk, Tcheliabinsk, Tchelyabinsk, Tchéliabïnsk, Tjeljabinsk, Tscheljabinsk, Tseliampinsk, Tseljabinsk, Tsjeljabinsk, Tsyelyabinsk, Txeliabinsk, Txeliàbinsk, Tšeljabinsk, celiyabinska, celyabinska, che li ya bin si ke, chellyabinseukeu, cheryabinsuku, chlyabnsk, chlyabynsk, chylyabnsk, tshylyabnsk, zlyʼbynsq, Çelyabinsk, Ĉeljabinsk, Čeliabinskas, Čeljabinsk, Čeläbinsk, Čeļabinska, Čeľabinsk, Τσελιάμπινσκ, Силәбе, Чалябінск, Челепи, Челяба, Челяба ош, Челябе, Челябинск, Челябі, Челябінськ, Чељабинск, Чиләбе, Чєлѣбиньскъ, Չելյաբինսկ, טשעליאבינסק, צליאבינסק, تشيليابنسك, چلیابنسک, چلیابینسک, چیلیابنسک, चेलियाबिन्स्क, चेल्याबिंस्क, চেলিয়াবিন্‌স্ক, ჩელიაბინსკი, チェリャビンスク, 車里雅賓斯克, 첼랴빈스크
 
 ---

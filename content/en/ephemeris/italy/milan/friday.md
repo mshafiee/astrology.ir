@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°38'2.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'12.40" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°40'10.91" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°49'28.66" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°32'59.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'15.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°54'27.08" |Aries|Butain|Sun|
+|♄ Saturn|Direct|4°38'2.71" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°59'12.47" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°40'10.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°49'29.11" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°33'0.00" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'17.15" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°1'3.03" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'2.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'12.40" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°40'10.91" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°49'28.66" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°32'59.25" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'15.67" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°54'27.08" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°59'12.47" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°40'11.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°49'29.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°33'0.00" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'17.15" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°1'3.03" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Lungsod ng Milano,  MIL,  Mailand,  Mediolan,  Mediolanum,  Mila,  Milaan,  Milan,  Milana,  Milanas,  Milano,  Milanu,  Milao,  Milà,  Milán,  Miláno,  Milánó,  Milão,  Milāna,  Mílanó,  Mилан,  mi lan,  milan,  milana,  milani,  millano,  mirano,  mylan,  mylanw,  Милан,  Милано,  Мілан,  מילאנו,  مىلان,  ميلانو,  মিলান,  மிலன்,  มิลาน,  მილანი,  ミラノ,  米蘭,  밀라노
+Alternate Names: Lungsod ng Milano, MIL, Mailand, Mediolan, Mediolanum, Mila, Milaan, Milan, Milana, Milanas, Milano, Milanu, Milao, Milà, Milán, Miláno, Milánó, Milão, Milāna, Mílanó, Mилан, mi lan, milan, milana, milani, millano, mirano, mylan, mylanw, Милан, Милано, Мілан, מילאנו, مىلان, ميلانو, মিলান, மிலன், มิลาน, მილანი, ミラノ, 米蘭, 밀라노
 
 ---

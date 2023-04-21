@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°36'53.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°55'53.50" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°32'46.58" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°35'58.85" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°17'19.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'0.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°25'12.70" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°36'53.35" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°55'54.27" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°32'46.99" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°36'3.39" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°17'12.05" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'49.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°37'3.93" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bandar Lampung,  Bandar-Lampung,  Bandarlampung,  Kota Bandar Lampung,  TKG,  Tanjungkarang,  Tanjungkarang-Telukbetung,  Telukbetung,  ban da nan bang,  bandaleulampung,  bandaruranpun,  bndr lampwng,  Бандар-Лампунг,  بندر لامپونگ,  バンダールランプン,  班達楠榜,  반다르람풍
+Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍
 
 ---

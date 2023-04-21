@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|3°45'52.20" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°59'28.91" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°14'37.81" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°48'55.20" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|23°26'53.01" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°52'58.48" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'35.58" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°17'28.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°45'52.20" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°59'28.91" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'37.81" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°48'55.20" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|4°52'58.30" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°42'36.11" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°17'32.01" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°45'55.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°59'34.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'44.01" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°26'53.01" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ILondon,  LON,  Lakana,  Landan,  Landen,  Ljondan,  Llundain,  Lodoni,  Londain,  Londan,  Londar,  Londe,  Londen,  Londin,  Londinium,  Londino,  Londn,  London,  London osh,  Londona,  Londonas,  Londoni,  Londono,  Londons,  Londonu,  Londra,  Londres,  Londrez,  Londri,  Londro,  Londye,  Londyn,  Londýn,  Lonn,  Lontoo,  Loundres,  Luan GJon,  Lun-tun,  Lunden,  Lundra,  Lundun,  Lundunir,  Lundúnir,  Lung-dung,  Lunnainn,  Lunnin,  Lunnon,  Luân Đôn,  Lùn-tûn,  Lùng-dŭng,  Lûn-tun,  Lākana,  Lůndůn,  Lọndọnu,  Ranana,  Rānana,  ilantan,  ladana,  landan,  landana,  leondeon,  lndn,  london,  londoni,  lun dui,  lun dun,  lwndwn,  lxndxn,  rondon,  Łondra,  Λονδίνο,  Лондан,  Лондон,  Лондон ош,  Лондонъ,  Лёндан,  Լոնդոն,  לאנדאן,  לונדון,  لأندأن,  لندن,  لوندون,  لەندەن,  ܠܘܢܕܘܢ,  लंडन,  लंदन,  लण्डन,  लन्डन्,  लन्दन,  লন্ডন,  ਲੰਡਨ,  લંડન,  ଲଣ୍ଡନ,  இலண்டன்,  లండన్,  ಲಂಡನ್,  ലണ്ടൻ,  ලන්ඩන්,  ลอนดอน,  ລອນດອນ,  ལོན་ཊོན།,  လန်ဒန်မြို့,  ლონდონი,  ለንደን,  ᎫᎴ ᏗᏍᎪᏂᎯᏱ,  ロンドン,  伦敦,  倫敦,  런던
+Alternate Names: ILondon, LON, Lakana, Landan, Landen, Ljondan, Llundain, Lodoni, Londain, Londan, Londar, Londe, Londen, Londin, Londinium, Londino, Londn, London, London osh, Londona, Londonas, Londoni, Londono, Londons, Londonu, Londra, Londres, Londrez, Londri, Londro, Londye, Londyn, Londýn, Lonn, Lontoo, Loundres, Luan GJon, Lun-tun, Lunden, Lundra, Lundun, Lundunir, Lundúnir, Lung-dung, Lunnainn, Lunnin, Lunnon, Luân Đôn, Lùn-tûn, Lùng-dŭng, Lûn-tun, Lākana, Lůndůn, Lọndọnu, Ranana, Rānana, ilantan, ladana, landan, landana, leondeon, lndn, london, londoni, lun dui, lun dun, lwndwn, lxndxn, rondon, Łondra, Λονδίνο, Лондан, Лондон, Лондон ош, Лондонъ, Лёндан, Լոնդոն, לאנדאן, לונדון, لأندأن, لندن, لوندون, لەندەن, ܠܘܢܕܘܢ, लंडन, लंदन, लण्डन, लन्डन्, लन्दन, লন্ডন, ਲੰਡਨ, લંડન, ଲଣ୍ଡନ, இலண்டன், లండన్, ಲಂಡನ್, ലണ്ടൻ, ලන්ඩන්, ลอนดอน, ລອນດອນ, ལོན་ཊོན།, လန်ဒန်မြို့, ლონდონი, ለንደን, ᎫᎴ ᏗᏍᎪᏂᎯᏱ, ロンドン, 伦敦, 倫敦, 런던
 
 ---

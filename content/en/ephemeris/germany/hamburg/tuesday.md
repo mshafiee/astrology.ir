@@ -20,7 +20,7 @@ Latitude: 53.5507
 \-
 Longitude: 9.9930
 \-
-Altitude: 9 meters
+Altitude: 2 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Hamburg, Germany" lat="53.5507" lng="9.9930" zoom="12">}}
 
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°56'28.89" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°48'51.03" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°42'23.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°5'26.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'14.96" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°42'40.74" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°5'27.14" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'16.16" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°44'8.67" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Amborg,  Ambourgo,  Amburgo,  Amburgu,  Augusta Gambriviorum,  Ciutat d'Hamburg,  Estat d'Hamburg,  Gamburg,  HAM,  HH,  Hamboarch,  Hamboerg,  Hamboerj,  Hamborg,  Hambourg,  Hamburch,  Hamburg,  Hamburga,  Hamburgas,  Hamburgo,  Hamburgu,  Hamburgum,  Hamburk,  Hambuurich,  Hambörg,  Hambörj,  Hambùrk,  Hambûrg,  Hamepuka,  Hammaburg [a. 832],  Hampuri,  Hanburgo,  Khamburg,  ham bur k,  hambuleukeu,  hamburgi,  hambwrg,  hambwrgh,  han bao,  han bao shi,  hanburuku,  hemburga,  hmbwrg,  hyambarg,  hʼambwrg,  Ħamburg,  Αμβούργο,  Гамбург,  Гамбурґ,  Хамбург,  Համբուրգ,  האַמבורג,  המבורג,  هامبورغ,  هامبورگ,  ہymbrg,  ہیمبرگ,  ܗܡܒܘܪܓ,  हॅम्बुर्ग,  ಹ್ಯಾಂಬರ್ಗ್,  ฮัมบูร์ก,  ჰამბურგი,  ハンブルク,  汉堡,  汉堡市,  漢堡,  함부르크
+Alternate Names: Amborg, Ambourgo, Amburgo, Amburgu, Augusta Gambriviorum, Ciutat d'Hamburg, Estat d'Hamburg, Gamburg, HAM, HH, Hamboarch, Hamboerg, Hamboerj, Hamborg, Hambourg, Hamburch, Hamburg, Hamburga, Hamburgas, Hamburgo, Hamburgu, Hamburgum, Hamburk, Hambuurich, Hambörg, Hambörj, Hambùrk, Hambûrg, Hamepuka, Hammaburg [a. 832], Hampuri, Hanburgo, Khamburg, ham bur k, hambuleukeu, hamburgi, hambwrg, hambwrgh, han bao, han bao shi, hanburuku, hemburga, hmbwrg, hyambarg, hʼambwrg, Ħamburg, Αμβούργο, Гамбург, Гамбурґ, Хамбург, Համբուրգ, האַמבורג, המבורג, هامبورغ, هامبورگ, ہymbrg, ہیمبرگ, ܗܡܒܘܪܓ, हॅम्बुर्ग, ಹ್ಯಾಂಬರ್ಗ್, ฮัมบูร์ก, ჰამბურგი, ハンブルク, 汉堡, 汉堡市, 漢堡, 함부르크
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'59.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'53.53" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°8'18.02" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°51'20.65" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°24'41.55" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'26.39" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°57'24.83" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°44'53.41" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°8'17.75" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°51'20.00" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°24'40.92" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'25.39" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°53'13.24" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'59.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'53.53" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°8'18.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°51'20.65" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°24'41.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'26.39" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°57'24.83" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°44'53.41" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°8'17.75" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°51'20.00" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°24'40.92" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'25.39" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°53'13.24" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BGF,  Bangi,  Bangis,  Bangui,  Mpan'nkoui,  ban ji,  bang-gi,  bangi,  bangwyy,  Μπανγκουί,  Банги,  Бангі,  בנגואי,  بانگوئی,  ባንጊ,  バンギ,  班基,  방기
+Alternate Names: BGF, Bangi, Bangis, Bangui, Mpan'nkoui, ban ji, bang-gi, bangi, bangwyy, Μπανγκουί, Банги, Бангі, בנגואי, بانگوئی, ባንጊ, バンギ, 班基, 방기
 
 ---

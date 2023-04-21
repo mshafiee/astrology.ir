@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'45.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'23.85" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°38'20.00" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°46'11.32" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°29'4.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'8.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°58'53.00" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°58'24.27" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°38'23.16" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°46'13.56" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°29'9.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'13.87" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°18'59.36" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'45.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'24.27" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°38'23.16" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°46'11.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°29'4.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'8.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°58'53.00" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'24.33" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°38'24.98" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°46'13.74" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°29'11.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'15.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°23'51.25" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Conia,  Iconio,  Iconium,  Ikonio,  Ikoniow,  KYA,  Ko'niya,  Kon'ja,  Koni,  Konia,  Konieh,  Konija,  Konja,  Konjao,  Konya,  Koʻniya,  Kuniyah,  Kuon'ja,  Qonia,  Qonya,  Qonye,  ke ni ya,  kean'ya,  kon'ya,  konia,  qwnyh,  qwnyt,  Ικόνιο,  Кония,  Конија,  Конья,  Къонья,  Կոնիա,  קוניה,  قونية,  قونیه,  قونیہ,  कोन्या,  കോന്യ,  კონია,  コンヤ,  科尼亞,  코니아
+Alternate Names: Conia, Iconio, Iconium, Ikonio, Ikoniow, KYA, Ko'niya, Kon'ja, Koni, Konia, Konieh, Konija, Konja, Konjao, Konya, Koʻniya, Kuniyah, Kuon'ja, Qonia, Qonya, Qonye, ke ni ya, kean'ya, kon'ya, konia, qwnyh, qwnyt, Ικόνιο, Кония, Конија, Конья, Къонья, Կոնիա, קוניה, قونية, قونیه, قونیہ, कोन्या, കോന്യ, კონია, コンヤ, 科尼亞, 코니아
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'22.63" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°17'22.36" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°20'52.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°3'16.49" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°59'37.30" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'49.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°25'17.16" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°17'24.07" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°20'49.75" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°3'26.75" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°59'39.35" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'1.80" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°0'10.10" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°44'22.63" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°17'24.07" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°20'49.75" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°3'16.49" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°59'37.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'49.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°25'17.16" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|2°3'26.75" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°59'39.35" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'1.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°0'10.10" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BAQ,  Barankil'ja,  Barankila,  Barankilija,  Barankilijo,  Barankilja,  Barran'kigia,  Barrancas de San Nicolas,  Barrancas de San Nicolás,  Barrankil'ja,  Barrankilya,  Barranquilha,  Barranquilla,  Killa,  La Arenosa,  Quilla,  ba lan ji ya,  ba leng ji ye,  balangkiya,  bar rang ki ya,  baranakiya,  barankija,  barankwla,  barankwyla,  brnqyyh,  byarenkvila,  Μπαρρανκίγια,  Баранкиля,  Баранкиља,  Баранкілья,  Барранкилья,  Барранкілья,  ברנקייה,  بارانكويلا,  بارانکولا,  ब्यारेन्क्विला,  ਬਾਰਾਙਕੀਯਾ,  บาร์รังกียา,  ბარანკილია,  バランキージャ,  巴兰基亚,  巴冷基也,  바랑키야
+Alternate Names: BAQ, Barankil'ja, Barankila, Barankilija, Barankilja, Barran'kigia, Barrancas de San Nicolas, Barrancas de San Nicolás, Barrankil'ja, Barrankilya, Barranquilha, Barranquilla, Killa, La Arenosa, Quilla, ba lan ji ya, ba leng ji ye, balangkiya, bar rang ki ya, baranakiya, barankija, barankwla, barankwyla, brnqyyh, byarenkvila, Μπαρρανκίγια, Баранкиля, Баранкиља, Баранкілья, Барранкилья, Барранкілья, ברנקייה, بارانكويلا, بارانکولا, ब्यारेन्क्विला, ਬਾਰਾਙਕੀਯਾ, บาร์รังกียา, ბარანკილია, バランキージャ, 巴兰基亚, 巴冷基也, 바랑키야
 
 ---

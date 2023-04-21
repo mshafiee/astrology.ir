@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°37'1.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°56'18.07" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°33'43.71" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°37'41.32" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°19'9.91" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'3.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°40'16.43" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|4°37'1.47" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°56'17.94" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°33'41.17" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°37'40.80" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°19'6.94" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'0.94" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°32'41.39" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|0°37'40.80" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°19'6.94" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°37'0.94" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°40'16.43" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°32'41.39" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Khulna,  Khulnâ,  Kkhelna,  Kkhulna,  Kulna,  Kulno,  khulana,  khwlna,  ku er na shi,  kulna,  kuruna,  Кулна,  Кхелна,  Кхулна,  خولنا,  کھلنا,  खुलना,  খুলনা,  குல்னா,  クルナ,  库尔纳市,  쿨나
+Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나
 
 ---

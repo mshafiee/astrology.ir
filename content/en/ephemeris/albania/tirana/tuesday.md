@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°48'35.69" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°41'57.15" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|16°4'55.23" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'14.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°41'54.95" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|14°57'27.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°42'39.96" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'35.65" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°56'22.30" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°48'30.50" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°41'50.16" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°4'45.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'14.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°41'54.95" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°48'35.69" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°41'57.15" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°4'55.23" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'27.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°42'39.96" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: TIA,  Terana,  Theranda,  Tiorana,  Tiorána,  Tiran,  Tiran khot,  Tiran-a,  Tirana,  Tiranae,  Tirane,  Tirano,  Tiranë,  Tirāna,  Trnava,  Tyrana,  Tyranna,  Tírana,  Tîrana,  Tėrana,  de la na,  tilana,  tirana,  tyrana,  tyrnh,  Τίρανα,  Тиран хот,  Тиранæ,  Тирана,  Тиране,  Трнава,  Тырана,  Տիրանա,  טיראנא,  טירנה,  تىرانا,  تيرانا,  تیرانا,  तिराना,  তিরানা,  ਤਿਰਾਨਾ,  ଟିରାନା,  டிரானா,  ടിറാന,  ติรานา,  ཐིས་རན།,  ტირანა,  ቲራና,  ティラナ,  地拉那,  티라나
+Alternate Names: TIA, Terana, Theranda, Tiorana, Tiorána, Tiran, Tiran khot, Tiran-a, Tirana, Tiranae, Tirane, Tirano, Tiranë, Tirāna, Trnava, Tyrana, Tyranna, Tírana, Tîrana, Tėrana, de la na, tilana, tirana, tyrana, tyrnh, Τίρανα, Тиран хот, Тиранæ, Тирана, Тиране, Трнава, Тырана, Տիրանա, טיראנא, טירנה, تىرانا, تيرانا, تیرانا, तिराना, তিরানা, ਤਿਰਾਨਾ, ଟିରାନା, டிரானா, ടിറാന, ติรานา, ཐིས་རན།, ტირანა, ቲራና, ティラナ, 地拉那, 티라나
 
 ---

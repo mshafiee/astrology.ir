@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°31'33.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'49.86" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°59'17.07" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°34'48.13" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°5'17.41" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'1.23" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°5'36.33" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°31'33.21" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°40'50.67" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°59'19.90" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°34'52.65" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°5'22.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'8.87" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°33'26.29" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'33.21" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°40'50.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°59'19.90" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°34'52.65" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°5'17.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'1.23" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°5'36.33" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|12°59'16.02" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°34'45.81" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°5'15.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'57.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°50'55.56" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Da Hueryee,  Da Hüryee,  Da Khure,  Da-Kure,  K'u-lun,  Orgoo,  Oulan Mpator,  Oulan-Bator,  Ourga,  ULN,  Ula Bator,  Ulaan Baatar,  Ulaan Baatar Hoto,  Ulaanbaatar,  Ulaanbaataro,  Ulaanbaator,  Ulaanbaator hota,  Ulaanbaatur,  Ulan Bator,  Ulan Bator Hoto,  Ulan Batoras,  Ulan Batur,  Ulan-Bator,  Ulan-Bator Khoto,  Ulanbatar,  Ulanbator,  Ulanbátar,  Ulán Bator,  Ulán Bátor,  Ulánbátar,  Ulánbátor,  Ulã Bator,  Uranbatoru,  Urga,  Uruga,  Ułan Bator,  awlan batwr,  ulanabatara,  ullanbataleu,  ullanbatoleu,  uranbatoru,  wu lan ba tuo,  xulanbatxr,  Örgöö,  Úlan Bator,  Ουλάν Μπατόρ,  Улаанбаатар,  Улан Батор,  Улан-Батор,  אולן בטור,  أولان باتور,  اولان
+Alternate Names: Da Hueryee, Da Hüryee, Da Khure, Da-Kure, K'u-lun, Orgoo, Oulan Mpator, Oulan-Bator, Ourga, ULN, Ula Bator, Ulaan Baatar, Ulaan Baatar Hoto, Ulaanbaatar, Ulaanbaataro, Ulaanbaator, Ulaanbaator hota, Ulaanbaatur, Ulan Bator, Ulan Bator Hoto, Ulan Batoras, Ulan Batur, Ulan-Bator, Ulan-Bator Khoto, Ulanbatar, Ulanbator, Ulanbátar, Ulán Bator, Ulán Bátor, Ulánbátar, Ulánbátor, Ulã Bator, Uranbatoru, Urga, Uruga, Ułan Bator, awlan batwr, ulanabatara, ullanbataleu, ullanbatoleu, uranbatoru, wu lan ba tuo, xulanbatxr, Örgöö, Úlan Bator, Ουλάν Μπατόρ, Улаанбаатар, Улан Батор, Улан-Батор, אולן בטור, أولان باتور, اولان‌باتور, उलानबातर, อูลานบาตอร์, ཝུ་ལན་བ་ཐུར, ኡላዓን ባዓታር, ウランバートル, 乌兰巴托, 울란바타르, 울란바토르
 
 ---

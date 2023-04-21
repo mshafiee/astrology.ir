@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'18.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'8.23" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°35'34.53" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°41'5.08" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°23'8.07" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'9.02" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°22'49.44" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°57'7.43" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°35'32.47" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°41'0.60" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°23'3.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'1.79" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°51'26.08" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°57'7.43" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°35'32.47" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°41'0.60" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°23'8.07" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'9.02" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°22'49.44" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°23'3.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'1.79" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°51'26.08" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Ephu,  Oefa,  Oufa,  Ouffa,  Owfa,  UFA,  Uf,  Ufa,  Uffa,  Ufà,  Ufá,  Ufа,  Upo,  awfa,  ufa,  upa,  wu fa,  Ĕпхӳ,  Оуфа,  Уфа,  Үфі,  Өфө,  Ӱпӧ,  Ուֆա,  אופה,  أوفا,  اوفا,  ऊफ़ा,  უფა,  ウファ,  烏法,  우파
+Alternate Names: Ephu, Oefa, Oufa, Ouffa, Owfa, UFA, Uf, Ufa, Uffa, Ufà, Ufá, Ufа, Upo, awfa, ufa, upa, wu fa, Ĕпхӳ, Оуфа, Уфа, Үфі, Өфө, Ӱпӧ, Ուֆա, אופה, أوفا, اوفا, ऊफ़ा, უფა, ウファ, 烏法, 우파
 
 ---

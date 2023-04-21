@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'23.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'45.01" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°47'11.61" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°39'24.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°1'58.35" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'17.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°6'52.43" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°55'45.90" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°47'11.25" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°39'29.97" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°2'0.57" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'24.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°11'18.22" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'23.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'45.01" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°47'11.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°39'24.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°1'58.35" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'17.48" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°6'52.43" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'45.90" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°47'11.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°39'29.97" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°2'0.57" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'24.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°11'18.22" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Chijv,  Civ,  Cív,  IEV,  Kaenugardur,  Keju,  Kiebo,  Kief,  Kieu,  Kiev,  Kiev osh,  Kievi,  Kievom,  Kievu,  Kiew,  Kiiev,  Kiiv,  Kijev,  Kijeva,  Kijevas,  Kijew,  Kijiv,  Kijivo,  Kijow,  Kijuw,  Kijv,  Kijów,  Kijůw,  Kiova,  Kiovia,  Kiyev,  Kiyiw,  Kiëf,  Kjiv,  Kueyiv,  Kyev,  Kyiiv,  Kyiv,  Kyiw,  Kyjev,  Kyjiv,  Kyjiw,  Kyèv,  Kænugarður,  Kíev,  Kîev,  Küyiv,  ji fu,  kheiyf,  kiu,  kiv,  kiva,  kiyebha,  kiyepeu,  kyf,  kyiva,  kyyf,  qyyb,  Κίεβο,  Кейӳ,  Киев,  Киев ош,  Киевом,  Киеву,  Київ,  Кијев,  Кыив,  Кыйив,  Кіеў,  Кꙑѥвъ,  Կիև,  קייב,  קיעוו,  كىيېۋ,  كييف,  کیف,  کیێڤ,  کی
+Alternate Names: Chijv, Civ, Cív, IEV, Kaenugardur, Keju, Kiebo, Kief, Kieu, Kiev, Kiev osh, Kievi, Kievo, Kiew, Kiiev, Kiiv, Kijev, Kijeva, Kijevas, Kijew, Kijow, Kijuw, Kijv, Kijów, Kijůw, Kiova, Kiovia, Kiyev, Kiyiw, Kiëf, Kjiv, Kueyiv, Kyev, Kyiiv, Kyiv, Kyiw, Kyjev, Kyjiv, Kyjiw, Kyèv, Kænugarður, Kíev, Kîev, Küyiv, ji fu, kheiyf, kiefu, kiv, kiva, kiyebha, kiyepeu, kyf, kyiva, kyyf, qyyb, Κίεβο, Кейӳ, Киев, Киев ош, Київ, Кијев, Кыив, Кыйив, Кіеў, Кꙑѥвъ, Կիև, קייב, קיעוו, كىيېۋ, كييف, کیف, کیێڤ, کی‌یف, कीव, क्यीव, কিয়েভ, கீவ், കീവ്, เคียฟ, ཀིབ།, ကီးယက်မြို့, კიევი, ኪየቭ, キエフ, 基輔, 키예프
 
 ---

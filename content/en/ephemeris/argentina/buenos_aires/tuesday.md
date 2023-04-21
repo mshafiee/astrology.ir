@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'55.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'20.98" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°57'35.20" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°57'53.81" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°23'35.94" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°51'22.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°29'36.50" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|25°0'21.00" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°57'34.86" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°58'10.11" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°23'47.21" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'48.92" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°13'14.56" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'55.00" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'20.98" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°57'35.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°58'10.01" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°23'35.94" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'22.79" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°29'36.50" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'21.00" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°57'34.86" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°58'10.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°23'47.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'48.92" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°13'14.56" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BUE,  Baires,  Bonaero,  Bonaeropolis,  Bonaëropolis,  Bos Aires,  Bouenos Aires,  Bouonezar,  Bouonézâr,  Buehnas-Ajrehs,  Buehnos Ajres,  Buehnos-Ajres,  Buehnos-Ajres osh,  Buenos Aires,  Buenos Airės,  Buenos Ajres,  Buenos Ares,  Buenos Ayres,  Buenos-Aires,  Buenos-Ajres,  Buenos-Ayres,  Buenos-Aýres,  Buenosairesa,  Buénos Ayrés,  Bwenoze,  Bwènozè,  Búenos Aíres,  Ciudad Autonoma de Buenos Aires,  Ciudad Autónoma de Buenos Aires,  Ciudad de La Santisima Trinidad y Puerto de Santa Maria del Buen Ayre,  Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre,  Lungsod ng Buenos Aires,  Santa Maria del Buen Ayre,  Santa María del Buen Ayre,  bawnosxires,  bu yi nuo si ai li si,  bu'enosa a'iresa,  buenos-airesi,  buenosaires,  buenoseuaileseu,  buenosuairesu,  buraenosa a'iresa,  buyenosa a'iresa,  bwyns ayrs,  bwynws ayrs,  bwynws ayrys,  byu'enosa erisa,  byunas airis,  byunas ayels,  bywns ayrs,  puvenas airis,  Μπουένος ΄Aιρες,  Μπουένος Άιρες,  Буенос Аирес,  Буенос Айрес,  Буенос Аірес,  Буенос Ајрес,  Буенос-Аирес,  Буенос-Айрес,  Буэнас-Айрэс,  Буэнос Айрес,  Буэнос-Айрес,  Буэнос-Айрес ош,  Բուենոս Այրես,  בואנוס איירס,  בוענאס איירעס,  بوئنوس آیرس,  بوينس آيرس,  بوينوس ايريس,  بۆینس ئایرس,  بیونس آئرس,  बुएनोस आइरेस,  ब्युएनॉस एरीस,  বুয়েনোস আইরেস,  বুৱেনোস আইরেস,  புவெனஸ் ஐரிஸ்,  ಬ್ಯೂನಸ್ ಐರಿಸ್,  ബ്യൂണസ് അയേഴ്സ്,  บัวโนสไอเรส,  པུ་ཨེ་ནོ་སི་ཨས་རི་སི།,  ဗျူနိုအေးရိစ်မြို့,  ბუენოს-აირესი,  ብዌኖስ አይሬስ,  ブエノスアイレス,  布宜諾斯艾利斯,  布宜诺斯艾利斯,  부에노스아이레스
+Alternate Names: BUE, Baires, Bonaero, Bonaeropolis, Bonaëropolis, Bos Aires, Bouenos Aires, Bouonezar, Bouonézâr, Buehnas-Ajrehs, Buehnos Ajres, Buehnos-Ajres, Buehnos-Ajres osh, Buenos Aires, Buenos Airės, Buenos Ajres, Buenos Ayres, Buenos-Aires, Buenos-Ajres, Buenos-Ayres, Buenos-Aýres, Buenosairesa, Buénos Ayrés, Bwenoze, Bwènozè, Búenos Aíres, Ciudad Autonoma de Buenos Aires, Ciudad Autónoma de Buenos Aires, Ciudad de La Santisima Trinidad y Puerto de Santa Maria del Buen Ayre, Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre, Lungsod ng Buenos Aires, Santa Maria del Buen Ayre, Santa María del Buen Ayre, bawnosxires, bu yi nuo si ai li si, bu'enosa a'iresa, buenos-airesi, buenosaires, buenoseuaileseu, buenosuairesu, buraenosa a'iresa, buyenosa a'iresa, bwyns ayrs, bwynws ayrs, bwynws ayrys, byu'enosa erisa, byunas airis, byunas ayels, bywns ayrs, puvenas airis, Μπουένος ΄Aιρες, Μπουένος Άιρες, Буенос Аирес, Буенос Айрес, Буенос Аірес, Буенос Ајрес, Буенос-Аирес, Буенос-Айрес, Буэнас-Айрэс, Буэнос Айрес, Буэнос-Айрес, Буэнос-Айрес ош, Բուենոս Այրես, בואנוס איירס, בוענאס איירעס, بوئنوس آیرس, بوينس آيرس, بوينوس ايريس, بۆینس ئایرس, بیونس آئرس, बुएनोस आइरेस, ब्युएनॉस एरीस, বুয়েনোস আইরেস, বুৱেনোস আইরেস, புவெனஸ் ஐரிஸ், ಬ್ಯೂನಸ್ ಐರಿಸ್, ബ്യൂണസ് അയേഴ്സ്, บัวโนสไอเรส, པུ་ཨེ་ནོ་སི་ཨས་རི་སི།, ဗျူနိုအေးရိစ်မြို့, ბუენოს-აირესი, ብዌኖስ አይሬስ, ブエノスアイレス, 布宜諾斯艾利斯, 布宜诺斯艾利斯, 부에노스아이레스
 
 ---

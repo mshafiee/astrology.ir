@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'8.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°59'27.96" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°40'44.49" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°50'33.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°34'12.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'22.99" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°36'21.78" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°40'44.09" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°50'33.21" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°34'12.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'22.78" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°35'35.23" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'8.20" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°59'27.96" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°40'44.49" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°50'33.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°34'12.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'22.99" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°36'21.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°40'44.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°50'33.21" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°34'12.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'22.78" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°35'35.23" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: MIU,  Maidiguri,  Maidugari,  Maiduguri,  Maiduguris,  Majduguri,  mai du gu li,  maidouguri,  maiduguli,  maydwghwry,  maydwgwrw,  maydwjwry,  mydghry,  mydwgwry,  Маидугури,  Майдугури,  Майдугурі,  מידוגורי,  مايدوجوري,  مايدوغوري,  مايدوگورو,  ميدغري,  マイドゥグリ,  邁杜古里,  마이두구리
+Alternate Names: MIU, Maidiguri, Maidugari, Maiduguri, Maiduguris, Majduguri, mai du gu li, maido~uguri, maiduguli, maydwghwry, maydwgwrw, maydwjwry, mydghry, mydwgwry, Маидугури, Майдугури, Майдугурі, מידוגורי, مايدوجوري, مايدوغوري, مايدوگورو, ميدغري, マイドゥグリ, 邁杜古里, 마이두구리
 
 ---

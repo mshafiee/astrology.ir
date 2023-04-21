@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'5.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°57'51.28" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°51'56.37" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°47'49.83" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°11'55.06" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°55'12.29" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°20'10.54" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°57'50.85" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°51'57.95" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°47'57.91" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°11'57.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°55'24.03" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°19'13.95" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'5.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°57'49.48" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°51'59.38" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°47'49.83" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°11'55.06" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°55'12.29" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°20'10.54" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°57'50.85" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°51'57.95" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°47'57.91" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°11'57.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°55'24.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°19'13.95" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BKO,  Bamaco - Bamako,  Bamakas,  Bamako,  Bamaku,  Bamakó,  Bamakɔ,  Bammaco,  Bammako,  Bàmakɔ,  Mpamako,  ba ma ke,  bamako,  bamakw,  bmqw,  Μπαμάκο,  Бамако,  Բամակո,  במקו,  باماكو,  باماکو,  ባማኮ,  バマコ,  巴馬科,  바마코
+Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코
 
 ---

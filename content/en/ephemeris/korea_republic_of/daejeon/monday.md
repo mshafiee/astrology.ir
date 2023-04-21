@@ -20,7 +20,7 @@ Latitude: 36.3491
 \-
 Longitude: 127.3849
 \-
-Altitude: 58 meters
+Altitude: 46 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Daejeon, Korea, Republic of" lat="36.3491" lng="127.3849" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:23:04 |
-| Sunrise | 05:46:12 |
+| Sunrise | 05:46:11 |
 | Dhuhr | 12:28:42 |
 | Medium Coeli | 12:28:42 |
 | Sunset | 19:11:48 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:13:15 |
-| Sunrise | 05:46:12 |
+| Sunrise | 05:46:11 |
 | Dhuhr | 12:28:42 |
 | Medium Coeli | 12:28:42 |
 | Sunset | 19:11:48 |
@@ -67,11 +67,11 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:11:30 |
-| Sunrise | 05:46:12 |
+| Sunrise | 05:46:11 |
 | Dhuhr | 12:28:42 |
 | Medium Coeli | 12:28:42 |
 | Sunset | 19:11:48 |
-| Maghrib | 19:13:09 |
+| Maghrib | 19:13:01 |
 | Isha | 20:41:01 |
 | Sharia Midnight | 23:40:52 |
 | Imum Coeli | 00:28:37 |
@@ -83,11 +83,11 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:28:45 |
-| Sunrise | 05:46:12 |
+| Sunrise | 05:46:11 |
 | Dhuhr | 12:28:42 |
 | Medium Coeli | 12:28:42 |
 | Sunset | 19:11:48 |
-| Maghrib | 19:13:09 |
+| Maghrib | 19:13:01 |
 | Isha | 20:29:31 |
 | Sharia Midnight | 23:49:32 |
 | Imum Coeli | 00:28:37 |
@@ -99,11 +99,11 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:02:39 |
-| Sunrise | 05:46:12 |
+| Sunrise | 05:46:11 |
 | Dhuhr | 12:28:42 |
 | Medium Coeli | 12:28:42 |
 | Sunset | 19:11:48 |
-| Maghrib | 19:13:09 |
+| Maghrib | 19:13:01 |
 | Isha | 20:43:56 |
 | Sharia Midnight | 23:36:25 |
 | Imum Coeli | 00:28:37 |
@@ -115,11 +115,11 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:11:30 |
-| Sunrise | 05:46:12 |
+| Sunrise | 05:46:11 |
 | Dhuhr | 12:28:42 |
 | Medium Coeli | 12:28:42 |
 | Sunset | 19:11:48 |
-| Maghrib | 19:13:09 |
+| Maghrib | 19:13:01 |
 | Isha | 20:46:52 |
 | Sharia Midnight | 23:40:52 |
 | Imum Coeli | 00:28:37 |
@@ -131,12 +131,12 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:08:34 |
-| Sunrise | 05:46:12 |
+| Sunrise | 05:46:11 |
 | Dhuhr | 12:28:42 |
 | Medium Coeli | 12:28:42 |
 | Sunset | 19:11:48 |
-| Maghrib | 19:13:09 |
-| Isha | 20:43:09 |
+| Maghrib | 19:13:01 |
+| Isha | 20:43:01 |
 | Sharia Midnight | 23:39:23 |
 | Imum Coeli | 00:28:37 |
 {{< /tab >}}
@@ -204,24 +204,24 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:25:36|Night duration: 10:33:10|
+|Duration of the day: 13:25:37|Night duration: 10:33:10|
 |Every hour of day duration: 01:07:08|Every hour of night duration: 00:52:46|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:46:12|06:53:19|Repelling sorcery and attracting discharged energy|
-|2|Saturn|Servant|06:53:20|08:00:27|Traveling inward and outward|
-|3|Jupiter|Servant|08:00:28|09:07:35|Marriage bond is favorable|
-|4|Mars|Servant|09:07:36|10:14:43|Eliminating and destroying enemies and releasing their energy|
-|5|Sun|Servant|10:14:44|11:21:51|Granting wishes, attracting love and wealth|
-|6|Venus|Servant|11:21:52|12:28:59|Summoning the desired person, creating love and domination|
-|7|Mercury|Servant|12:29:00|13:36:07|Mutual agreement|
-|8|Moon|Ruler|13:36:08|14:43:15|Reconciling two individuals, attracting love|
-|9|Saturn|Servant|14:43:16|15:50:23|Attracting and repelling enemies, and separating them|
-|10|Jupiter|Servant|15:50:24|16:57:31|Favorable for any good deed|
-|11|Mars|Servant|16:57:32|18:04:39|Creating enmity and negative energy|
-|12|Sun|Servant|18:04:40|19:11:47|Showing kindness and affection|
+|1|Moon|Ruler|05:46:11|06:53:18|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|06:53:19|08:00:26|Traveling inward and outward|
+|3|Jupiter|Servant|08:00:27|09:07:34|Marriage bond is favorable|
+|4|Mars|Servant|09:07:35|10:14:42|Eliminating and destroying enemies and releasing their energy|
+|5|Sun|Servant|10:14:43|11:21:50|Granting wishes, attracting love and wealth|
+|6|Venus|Servant|11:21:51|12:28:58|Summoning the desired person, creating love and domination|
+|7|Mercury|Servant|12:28:59|13:36:06|Mutual agreement|
+|8|Moon|Ruler|13:36:07|14:43:14|Reconciling two individuals, attracting love|
+|9|Saturn|Servant|14:43:15|15:50:22|Attracting and repelling enemies, and separating them|
+|10|Jupiter|Servant|15:50:23|16:57:30|Favorable for any good deed|
+|11|Mars|Servant|16:57:31|18:04:38|Creating enmity and negative energy|
+|12|Sun|Servant|18:04:39|19:11:47|Showing kindness and affection|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:25:36|Night duration: 10:33:10|
+|Duration of the day: 13:25:37|Night duration: 10:33:10|
 |Every hour duration: 01:55:05|Every hour duration: 01:30:27|
 
  
@@ -258,10 +258,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|05:46:12|07:41:16|
-|Mid-morning|Saturn|Servant|07:41:17|09:36:21|
-|Late morning|Jupiter|Servant|09:36:22|11:31:26|
-|Noon|Mars|Servant|11:31:27|13:26:31|
+|Early morning|Moon|Ruler|05:46:11|07:41:15|
+|Mid-morning|Saturn|Servant|07:41:16|09:36:20|
+|Late morning|Jupiter|Servant|09:36:21|11:31:25|
+|Noon|Mars|Servant|11:31:26|13:26:31|
 |Early afternoon|Sun|Servant|13:26:32|15:21:36|
 |Mid-afternoon|Venus|Servant|15:21:37|17:16:41|
 |Late afternoon|Mercury|Servant|17:16:42|19:11:47|
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'21.33" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°37'48.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°6'40.10" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°26'23.68" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°36'42.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'36.43" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°48'39.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°6'40.16" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°26'23.73" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°36'42.89" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'36.63" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°49'37.36" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'21.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°37'48.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°6'40.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°26'23.68" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°36'42.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'36.43" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°48'39.52" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|24°37'48.18" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°6'40.08" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°26'23.73" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°36'42.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'36.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°49'37.36" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Daejeon,  Daejeon-si,  Daejon,  Daiden,  Daigono,  Daiĝono,  QTW,  Taejon,  Taejŏn,  Taiden,  Tehdzhon,  Tetyan,  Thai-tyen,  Thāi-tyen,  Tētyan,  da tian guang yu shi,  daejeon,  daejeongwang-yeogsi,  daejeonsi,  Тэджон,  大田广域市,  大田広域市,  대전,  대전광역시,  대전시
+Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시
 
 ---

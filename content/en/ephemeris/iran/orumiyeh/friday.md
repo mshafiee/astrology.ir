@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'35.32" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°57'54.38" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°37'13.06" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°44'1.66" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°26'37.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'54.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°40'15.98" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|13°37'20.76" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°44'13.77" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°26'52.37" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'15.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°9'33.49" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,9 +331,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'35.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°57'52.57" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°37'13.06" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°44'1.66" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°57'54.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°37'20.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°44'13.77" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°26'47.02" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°37'10.95" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|12°51'24.33" |Taurus|Dabaran|Moon|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: OMH,  Orumiyeh,  Orūmīyeh,  Ourmia,  Reza'iyeh,  Rezaeyeh,  Rezaiyye,  Rezâiyye,  Rezā’īyeh,  Rizaiyeh,  Rizāiyeh,  Urmia,  Urmija,  Urmiya,  Urmiye,  Urmía,  Urumija,  Urumiyeh,  Urūmiyeh,  arwmyh,  arwmyt,  shhrstan arwmyh,  Úrmia,  Ûrmiye,  Урмия,  Урумия,  אורמיה,  أرومية,  ارومیه,  ارومیّه,  شهرستان ارومیه,  ܐܘܪܡܝܐ
+Alternate Names: OMH, Orumiyeh, Orūmīyeh, Ourmia, Reza'iyeh, Rezaeyeh, Rezaiyye, Rezâiyye, Rezā’īyeh, Rizaiyeh, Rizāiyeh, Urmia, Urmija, Urmiya, Urmiye, Urmía, Urumija, Urumiyeh, Urūmiyeh, arwmyh, arwmyt, shhrstan arwmyh, Úrmia, Ûrmiye, Урмия, Урумия, אורמיה, أرومية, ارومیه, ارومیّه, شهرستان ارومیه, ܐܘܪܡܝܐ
 
 ---

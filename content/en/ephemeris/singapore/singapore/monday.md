@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'48.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°39'7.87" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°9'38.81" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°31'48.78" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°43'1.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°18'24.12" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°12'21.76" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°39'5.59" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°9'32.72" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°31'35.57" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°42'47.23" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'1.47" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°43'3.57" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'48.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°39'7.87" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°9'38.81" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°31'48.78" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°43'1.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°18'24.12" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°12'21.76" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°39'5.59" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°9'32.72" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°31'35.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°42'47.23" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°18'1.47" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°43'3.57" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SIN,  Sin-ka-po,  Singapore,  Singapore City,  Singapour,  Singapur,  Singapura,  Sinkapoure,  Sîn-kâ-po,  Tumasik,  cinkappur,  prathes singkhpor,  shingaporu,  sigapura,  sing-gapol,  sing-gapoleu,  singapura,  singkh por,  sngapwr,  snghafwrt,  syngpwr,  xin jia po,  xing jia po,  Σιγκαπούρη,  Сингапур,  Сінгапур,  סינגפור,  سنغافورة,  سنگاپور,  सिंगापुर,  सिंगापूर,  ਸਿੰਗਾਪੁਰ,  சிங்கப்பூர்,  ประเทศสิงคโปร์,  สิงค์โปร,  ປະເທດສງກະໂປ,  ປະເທດສິງກະໂປ,  စငကာပနငင,  စင်ကာပူနိုင်ငံ,  សងហបរ,  សិង្ហបុរី,  シンガポール,  新加坡,  星架坡,  싱가포르,  싱가폴
+Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴
 
 ---

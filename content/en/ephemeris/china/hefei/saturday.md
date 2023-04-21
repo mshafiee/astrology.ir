@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'38.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°9'29.81" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°3'6.92" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°31'18.72" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°21'59.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'33.32" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°36'20.47" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°9'29.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°3'8.15" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°31'18.09" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°22'0.22" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'33.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°37'47.85" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Che-fej,  Chefei,  HFE,  Hak-bui,  Hap-pui-chhi,  Ha̍p-pûi-chhī,  Hefei,  Hefei Shi,  Hefejo,  Hefejus,  Hefėjus,  Heyfey,  Ho-fei,  Ho-fei-hsien,  Ho-fei-shih,  Hofej,  Hop Phi,  Hozfeiz,  Hăk-bùi,  Hợp Phì,  Khefej,  Khehfehj,  Khufej,  Lu-chou,  Luchow,  Luchowfu,  Lunchow,  haphai,  he fei,  he fei shi,  hefe'i,  heopei si,  hexfey,  hfyy,  khfy,  Χεφέι,  Хефей,  Хефеј,  Хъфей,  Хэфэй,  Хөфэй,  Հեյֆեյ,  خفي,  خېفېي شەھىر,  هفئی,  ہیفئی,  ہیفیئی,  हफै,  हेफ़ेई,  เหอเฝย์,  合肥,  合肥市,  허페이 시
+Alternate Names: Che-fej, Chefei, HFE, Hak-bui, Hap-pui-chhi, Ha̍p-pûi-chhī, Hefei, Hefei Shi, Hefejo, Hefejus, Hefėjus, Heyfey, Ho-fei, Ho-fei-hsien, Ho-fei-shih, Hofej, Hop Phi, Hozfeiz, Hăk-bùi, Hợp Phì, Khefej, Khehfehj, Khufej, Lu-chou, Luchow, Luchowfu, Lunchow, haphai, he fei, he fei shi, hefe'i, heopei si, hexfey, hfyy, khfy, Χεφέι, Хефей, Хефеј, Хъфей, Хэфэй, Хөфэй, Հեյֆեյ, خفي, خېفېي شەھىر, هفئی, ہیفئی, ہیفیئی, हफै, हेफ़ेई, เหอเฝย์, 合肥, 合肥市, 허페이 시
 
 ---

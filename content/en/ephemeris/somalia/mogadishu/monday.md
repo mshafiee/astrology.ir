@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'35.63" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°41'26.34" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°14'56.50" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°41'9.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°54'4.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'49.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°9'0.14" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°41'27.67" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°14'53.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°41'17.49" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°54'5.51" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'0.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°12'48.52" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MGQ,  Magadiscio,  Magadysha,  Maqdishu,  Mogadiisho,  Mogadis,  Mogadisas,  Mogadischu,  Mogadiscio,  Mogadish,  Mogadisho,  Mogadishu,  Mogadisjoe,  Mogadisju,  Mogadisjû,  Mogadiso,  Mogadiss,  Mogadisu,  Mogadisxo,  Mogadiszu,  Mogadixo,  Mogadiŝo,  Mogadişu,  Mogadiš,  Mogadišas,  Mogadišo,  Mogadišu,  Mogadíscio,  Mogadīšo,  Mogaidisiu,  Mogaidisiú,  Monkantisou,  Moqadiso,  Moqadişo,  Moukdicho,  Moukntiso,  Mugadiccu,  Mugadishu,  Mugadiss,  Muqdisho,  Muqdishow,  Muqdishu,  Mógadisjú,  Xamar,  makadisu,  meagadisu,  mo jia di sha,  mo jia di xiu,  mo kadi chu,  mogadisho,  mogadishu,  mogadisu,  mogadisyu,  mogarisu,  mqdyshw,  mqdyshyw,  mukticu,  mwgadyshw,  mwgdysw,  mwghadyshw,  mۆgadyshۆ,  Μογκαντίσου,  Μουκντίσο,  Магадыша,  Могадишо,  Могадишу,  Могадішо,  Մոգադիշո,  מאגאדישו,  מוגדישו,  مقديشو,  مقديشيو,  موغادیشو,  موگادیشو,  مۆگادیشۆ,  मोगादिशू,  मोगादीशू,  মোগাদিশু,  ਮਕਦੀਸ਼ੂ,  ମୋଗାଡ଼ିସୁ,  முக்தீசூ,  മൊഗാദിഷു,  โมกาดิชู,  མོ་ག་དི་ཤུ།,  მოგადიშო,  ሞቃዲሾ,  モガディシュ,  摩加迪休,  摩加迪沙,  모가디슈
+Alternate Names: MGQ, Magadiscio, Magadysha, Maqdishu, Mogadiisho, Mogadis, Mogadisas, Mogadischu, Mogadiscio, Mogadish, Mogadisho, Mogadishu, Mogadisjoe, Mogadisju, Mogadisjû, Mogadiso, Mogadiss, Mogadisu, Mogadisxo, Mogadiszu, Mogadixo, Mogadiŝo, Mogadişu, Mogadiš, Mogadišas, Mogadišo, Mogadišu, Mogadíscio, Mogadīšo, Mogaidisiu, Mogaidisiú, Monkantisou, Moqadiso, Moqadişo, Moukdicho, Moukntiso, Mugadiccu, Mugadishu, Mugadiss, Muqdisho, Muqdishow, Muqdishu, Mógadisjú, Xamar, makadisu, meagadisu, mo jia di sha, mo jia di xiu, mo kadi chu, mogadisho, mogadishu, mogadisu, mogadisyu, mogarisu, mqdyshw, mqdyshyw, mukticu, mwgadyshw, mwgdysw, mwghadyshw, mۆgadyshۆ, Μογκαντίσου, Μουκντίσο, Магадыша, Могадишо, Могадишу, Могадішо, Մոգադիշո, מאגאדישו, מוגדישו, مقديشو, مقديشيو, موغادیشو, موگادیشو, مۆگادیشۆ, मोगादिशू, मोगादीशू, মোগাদিশু, ਮਕਦੀਸ਼ੂ, ମୋଗାଡ଼ିସୁ, முக்தீசூ, മൊഗാദിഷു, โมกาดิชู, མོ་ག་དི་ཤུ།, მოგადიშო, ሞቃዲሾ, モガディシュ, 摩加迪休, 摩加迪沙, 모가디슈
 
 ---

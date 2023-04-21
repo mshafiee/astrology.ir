@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'43.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'33.70" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°10'2.94" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°43'41.62" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°36'38.09" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'24.14" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°4'10.15" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°12'36.36" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°10'5.67" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°43'57.13" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°36'49.44" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'47.24" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°38'20.22" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'43.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'33.70" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°10'2.94" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°43'41.62" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°36'38.09" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'24.14" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°4'10.15" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'36.36" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°10'5.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°43'57.13" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°36'49.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'47.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°38'20.22" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: SAH,  Sano,  San'ah,  San`a',  Sana,  Sana'a,  Sana'a',  Sanaa,  Sanao,  Sanaà,  Sanaá,  San’ah,  sa na,  sana,  sanua,  snʿaʾ,  Şana‘ā',  Şan‘ā’,  Σάνα,  Сана,  Санъо,  צנעא,  صنعاء,  ሳና,  サヌア,  萨那,  사나
+Alternate Names: SAH, Sano, San'ah, San`a', Sana, Sana'a, Sana'a', Sanaa, Sanaà, Sanaá, San’ah, sa na, sana, sanua, snʿaʾ, Şana‘ā', Şan‘ā’, Σάνα, Сана, Санъо, צנעא, صنعاء, ሳና, サヌア, 萨那, 사나
 
 ---

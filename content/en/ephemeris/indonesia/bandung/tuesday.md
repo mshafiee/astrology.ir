@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°41'55.67" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°30'0.49" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°50'57.37" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'37.31" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°19'53.74" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|15°1'38.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°27'11.94" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BDO,  Bandoeng,  Banduna,  Bandung,  Bandungas,  Bandungo,  Bantoun'nk,  Kota Bandung,  Kuta Bandung,  Kutha Bandhung,  ban dung,  bandon,  bandung,  bandungi,  bandwng,  bandwnj,  bndwng,  pantun,  wan long,  Μπαντούνγκ,  Бандунг,  Бандуң,  Բանդունգ,  באנדונג,  باندونج,  باندونگ,  بندونگ,  بنڈونگ,  பண்டுங்,  บันดุง,  ဘန်ဒေါင်းမြို့,  ბანდუნგი,  バンドン,  万隆,  萬隆,  반둥
+Alternate Names: BDO, Bandoeng, Banduna, Bandung, Bandungas, Bandungo, Bantoun'nk, Kota Bandung, Kuta Bandung, Kutha Bandhung, ban dung, bandon, bandung, bandungi, bandwng, bandwnj, bndwng, pantun, wan long, Μπαντούνγκ, Бандунг, Бандуң, Բանդունգ, באנדונג, باندونج, باندونگ, بندونگ, بنڈونگ, பண்டுங், บันดุง, ဘန်ဒေါင်းမြို့, ბანდუნგი, バンドン, 万隆, 萬隆, 반둥
 
 ---

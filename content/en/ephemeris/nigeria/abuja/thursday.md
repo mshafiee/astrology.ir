@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°33'8.25" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°45'17.75" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°9'11.92" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°52'58.96" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°26'37.21" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'37.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°18'17.21" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|29°52'58.92" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°26'36.91" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'37.25" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°18'4.48" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°33'8.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°45'17.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°9'11.92" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°52'58.96" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°26'37.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'37.47" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°18'17.21" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°33'8.28" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°45'17.74" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°9'11.65" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°52'58.92" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°26'36.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'37.25" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°18'4.48" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ABV,  Abodza,  Abodža,  Abouja,  Abuca,  Abudz,  Abudza,  Abudzha,  Abudża,  Abudž,  Abudža,  Abugia,  Abugo,  Abuja,  Abuya,  Abuzha,  Abuĝo,  Abùjá,  Ampouza,  a bu gu,  a bu jia,  abuja,  abwja,  apuja,  xabu ca,  yەbwwja,  ʼbwgh,  Αμπούζα,  Абуджа,  Абужа,  Абуџа,  Абуҷа,  Աբուջա,  אבוגה,  אבודזשא,  آبوجا,  أبوجا,  ئەبووجا,  ابوجا,  अबुजा,  আবুজা,  ਅਬੁਜਾ,  ଅବୁଜା,  அபுஜா,  അബുജ,  อาบูจา,  ཨ་པུ་ཅ།,  အဘူဂျာမြို့,  აბუჯა,  አቡጃ,  アブジャ,  阿布賈,  阿布贾,  아부자
+Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'47.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°47'8.15" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°13'17.06" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°0'27.71" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°35'23.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'27.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°9'22.05" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°47'7.89" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°13'14.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°0'26.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°35'20.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'24.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°0'19.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'47.41" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°47'5.47" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°13'17.06" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°0'27.71" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°35'23.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'7.14" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°23'33.93" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°47'7.89" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°13'14.78" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°0'26.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°35'20.86" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'24.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°0'19.15" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Arrecife,  Fernambucum,  Mauricea,  Mauricéa,  Pernambuco,  REC,  Recife,  Recifo,  Rehsifi,  Resife,  Resifi,  Resifė,  hesiphi,  hesipi,  lei xi fei,  li si fei,  re sifi,  recihpi,  reshife,  resiphe,  resipi,  risifi,  rsyph,  rysyf,  rysyfy,  Ρεσίφε,  Ресифе,  Ресифи,  Ресіфі,  Рэсіфі,  Ռեսիֆի,  רסיפה,  ريسيفي,  ریسیف,  रिसीफ़ी,  रेसिफे,  রেসিফে,  হেসিফি,  ரெசிஃபி,  เรซีฟี,  რესიფი,  レシフェ,  李斯腓,  累西腓,  헤시피
+Alternate Names: Arrecife, Fernambucum, Mauricea, Mauricéa, Pernambuco, REC, Recife, Rehsifi, Resife, Resifi, Resifė, hesiphi, hesipi, lei xi fei, li si fei, re sifi, recihpi, reshife, resiphe, resipi, risifi, rsyph, rysyf, rysyfy, Ρεσίφε, Ресифе, Ресифи, Ресіфі, Рэсіфі, Ռեսիֆի, רסיפה, ريسيفي, ریسیف, रिसीफ़ी, रेसिफे, রেসিফে, হেসিফি, ரெசிஃபி, เรซีฟี, რესიფი, レシフェ, 李斯腓, 累西腓, 헤시피
 
 ---

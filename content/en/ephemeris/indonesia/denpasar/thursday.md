@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°31'39.24" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°41'7.39" |Aries|Butain|Venus|
 |♂ Mars|Direct|12°59'55.69" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°35'58.56" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°6'40.98" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'22.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°0'30.19" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|29°36'2.15" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°6'41.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'25.95" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°25'36.14" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: DPS,  Dehnpasar,  Dempasar,  Dempassar,  Denpasar,  Denpasar - Bali,  Denpasar Bali,  Denpasaras,  Kota Denpasar,  Kutha Denpasar,  Ntenpasar,  dan pa sha,  denapasara,  denpasaleu,  denpasaru,  dnpasar,  Ντενπασάρ,  Денпасар,  Дэнпасар,  דנפסאר,  دنپاسار,  ڈنپاسار,  ڈنپسار,  देनपसार,  દેનપસાર,  ဒန်ပါဆာမြို့,  დენპასარი,  デンパサール,  丹帕沙,  덴파사르
+Alternate Names: DPS, Dehnpasar, Dempasar, Dempassar, Denpasar, Denpasar - Bali, Denpasar Bali, Denpasaras, Kota Denpasar, Kutha Denpasar, Ntenpasar, dan pa sha, denapasara, denpasaleu, denpasaru, dnpasar, Ντενπασάρ, Денпасар, Дэнпасар, דנפסאר, دنپاسار, ڈنپاسار, ڈنپسار, देनपसार, દેનપસાર, ဒန်ပါဆာမြို့, დენპასარი, デンパサール, 丹帕沙, 덴파사르
 
 ---

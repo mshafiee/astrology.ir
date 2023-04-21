@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'2.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°25'9.46" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°38'12.70" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°34'58.67" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°36'33.38" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'50.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°47'22.37" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°25'9.37" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°38'13.47" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°34'58.54" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°36'33.04" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'49.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°45'20.91" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,11 +331,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'2.69" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°25'9.46" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°38'12.70" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°34'58.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°36'33.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'50.21" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°25'9.37" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°38'13.47" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°34'58.13" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°36'33.94" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'49.89" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|7°49'52.17" |Gemini|HanAh|Jupiter|
 
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CCU,  Calcuta,  Calcutta,  Calcutá,  Calcúta,  Caligardamana,  Kaelkuettae,  Kal'kuta,  Kal'kutta,  Kal'kuttae,  Kalikata,  Kalikātā,  Kalkata,  Kalkota,  Kalkouta,  Kalkueta,  Kalkuta,  Kalkutta,  Kalkútta,  Kalküta,  Kolkat,  Kolkata,  Kolkate,  Kolkato,  Kolkāta,  Kälküttä,  Kəlkətə,  Sealdah,  jia er ge da,  jia li ji da,  kalakata,  kalakatta,  kalikata,  kalkata,  keaൽkkatta,  klkta,  klkth,  klkwth,  ko l ka ta,  kolakata,  kolkata,  kolkatta,  kol
+Alternate Names: CCU, Calcuta, Calcutta, Calcutá, Calcúta, Caligardamana, Kaelkuettae, Kal'kuta, Kal'kutta, Kal'kuttae, Kalikata, Kalikātā, Kalkata, Kalkota, Kalkouta, Kalkueta, Kalkuta, Kalkutta, Kalkútta, Kalküta, Kolkat, Kolkata, Kolkate, Kolkato, Kolkāta, Kälküttä, Kəlkətə, Sealdah, jia er ge da, jia li ji da, kalakata, kalakatta, kalikata, kalkata, keaൽkkatta, klkta, klkth, klkwth, ko l ka ta, kolakata, kolkata, kolkatta, kol‌kata, korukata, kwlkata, kʼolkʼatʼa, qwlqth, Καλκούτα, Калькута, Калькуттæ, Калькутта, Колката, Колкате, Կալկաթա, כלכותה, קאלקאטא, קולקטה, كلكتا, كولكاتا, کلکته, کلکتہ, کولکاتہ, کَلٕکَتا, کەلکەتە, कलकत्ता, कोलकाता, কলকাতা, ਕੋਲਕਾਤਾ, કોલકાતા, କଲିକତା, கொல்கத்தா, కోల్‌కాతా, ಕೊಲ್ಕತ್ತ, കൊൽക്കത്ത, โกลกาตา, ཀ་ལི་ཀུ་ཏ, ကာလကတ္တားမြို့, კოლკატა, ኮልካታ, コルカタ, 加尔各答, 架利吉打, 콜카타
 
 ---

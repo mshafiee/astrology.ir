@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'4.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'16.96" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°40'23.46" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°49'47.75" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°33'23.72" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'21.46" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°21'6.01" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'16.69" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°40'20.42" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°49'46.48" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°33'19.81" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'17.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°6'46.23" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°38'3.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'16.96" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°40'23.46" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°49'47.75" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°33'23.72" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'21.46" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°21'6.01" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°38'4.14" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°59'16.56" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°40'19.98" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°49'45.73" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°33'18.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'16.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°1'16.70" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Augusta Taurinorum,  Julia Augusta Taurinorum,  Lungsod ng Turino,  TRN,  Tori,  Torin,  Torino,  Torinu,  Torí,  Tueri,  Turen,  Turijn,  Turim,  Turin,  Turina,  Turinas,  Turino,  Turinu,  Turyn,  Turén,  Turìn,  Turín,  Turīna,  Tórínó,  Türì,  dou ling,  tolino,  torino,  tu rin,  tulin,  turin,  turina,  twryn,  twrynw,  Τορίνο,  Торино,  Турин,  Турын,  Թուրին,  טורין,  טורינו,  تورينو,  تورین,  टोरीनो,  तोरिनो,  তুরিন,  துரின்,  ตูริน,  ཊུ་རིན།,  ტურინი,  トリノ,  都灵,  토리노,  투린
+Alternate Names: Augusta Taurinorum, Julia Augusta Taurinorum, Lungsod ng Turino, TRN, Tori, Torin, Torino, Torinu, Torí, Tueri, Turen, Turijn, Turim, Turin, Turina, Turinas, Turino, Turinu, Turyn, Turén, Turìn, Turín, Turīna, Tórínó, Türì, dou ling, tolino, torino, tu rin, tulin, turin, turina, twryn, twrynw, Τορίνο, Торино, Турин, Турын, Թուրին, טורין, טורינו, تورينو, تورین, टोरीनो, तोरिनो, তুরিন, துரின், ตูริน, ཊུ་རིན།, ტურინი, トリノ, 都灵, 토리노, 투린
 
 ---

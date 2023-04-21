@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°43'59.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°16'17.53" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°18'25.13" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°58'54.97" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°54'26.69" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'26.81" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°59'56.43" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°43'59.88" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°16'18.24" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°18'22.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°58'59.43" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°54'26.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'31.59" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°10'22.49" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Saturn|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'59.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°16'18.18" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°18'21.94" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°58'59.12" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°54'25.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'30.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°5'43.28" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°16'18.24" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°18'22.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°58'59.43" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°54'26.39" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'31.59" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°10'22.49" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Maranham,  Maranhao,  Maranhão,  SLZ,  San Luisas,  San-Luis,  Sao Louis,  Sao Luis,  Sao Luis do Maranhao,  Sao Luiz,  Sao Luiz de Maranhao,  Sao Luiz do Maranhao,  Saun Luis,  Saun Luís,  São Luis,  São Luiz,  São Luiz de Maranhão,  São Luiz do Maranhão,  São Luís,  São Luís do Maranhão,  cavo luyicu,  sa'o lu'isa,  san-luisi,  sanglu-iseu,  saw lwyys,  saw lwyz,  sayw lwyys  maranhaw,  sheng lu yi si,  Σάο Λουίς,  Сан-Луис,  Сан-Луіс,  Сан-Луїс,  Сао Луис,  סאו לואיס,  ساؤ لوئیس,  ساؤ لوئیس، مارانہاؤ,  سائو لوئیس، مارانهاو,  ساو لويز,  साओ लुईस,  সাও লুইস,  சாவோ லூயிசு,  სან-ლუისი,  サン・ルイス,  圣路易斯,  상루이스
+Alternate Names: Maranham, Maranhao, Maranhão, SLZ, San Luisas, San-Luis, Sao Louis, Sao Luis, Sao Luis do Maranhao, Sao Luiz, Sao Luiz de Maranhao, Sao Luiz do Maranhao, Saun Luis, Saun Luís, São Luis, São Luiz, São Luiz de Maranhão, São Luiz do Maranhão, São Luís, São Luís do Maranhão, cavo luyicu, sa'o lu'isa, san-luisi, sanglu-iseu, saw lwyys, saw lwyz, sayw lwyys  maranhaw, sheng lu yi si, Σάο Λουίς, Сан-Луис, Сан-Луіс, Сан-Луїс, Сао Луис, סאו לואיס, ساؤ لوئیس, ساؤ لوئیس، مارانہاؤ, سائو لوئیس، مارانهاو, ساو لويز, साओ लुईस, সাও লুইস, சாவோ லூயிசு, სან-ლუისი, サン・ルイス, 圣路易斯, 상루이스
 
 ---

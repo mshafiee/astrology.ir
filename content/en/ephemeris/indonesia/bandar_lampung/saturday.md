@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'55.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°10'20.55" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°5'1.55" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°34'45.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°26'2.41" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'8.25" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°25'53.38" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°10'19.33" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°4'57.88" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°34'38.70" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°25'54.80" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'14.75" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°52'11.70" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'55.97" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°10'18.55" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°4'57.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°34'34.16" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°25'51.88" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'8.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°25'53.38" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°10'20.55" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°5'1.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°34'45.51" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°26'2.41" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'26.28" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°42'50.36" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bandar Lampung,  Bandar-Lampung,  Bandarlampung,  Kota Bandar Lampung,  TKG,  Tanjungkarang,  Tanjungkarang-Telukbetung,  Telukbetung,  ban da nan bang,  bandaleulampung,  bandaruranpun,  bndr lampwng,  Бандар-Лампунг,  بندر لامپونگ,  バンダールランプン,  班達楠榜,  반다르람풍
+Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍
 
 ---

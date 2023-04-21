@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'32.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'4.41" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°8'59.48" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°41'45.47" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°34'22.16" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'50.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°54'39.47" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°12'4.91" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°8'55.85" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°41'48.67" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°34'19.99" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'53.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°56'29.85" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'32.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'4.41" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°8'59.48" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°41'45.47" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°34'22.16" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'50.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°54'39.47" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'5.34" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°8'59.69" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°41'50.75" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°34'25.22" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'58.10" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°23'12.73" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: THR,  Taekhran,  Tahran,  Techerane,  Teera,  Teerao,  Teerã,  Teerão,  Tegeran,  Teheran,  Teherana,  Teheranas,  Teherano,  Teherán,  Teherāna,  Tehran,  Tehrano,  Tekheran,  Téhéran,  de hei lan,  teharan,  teharana,  tehelan,  teheran,  tehran,  teirani,  thran,  thrn,  thrwn,  tihiran,  tihran,  Τεχεράνη,  Тæхран,  Тегеран,  Техеран,  Теҳрон,  Թեհրան,  טהראן,  טהרן,  تهران,  تهرون,  تِهران,  تِهِرَن,  تہران,  طهران,  ܛܗܪܐܢ,  तेहरान,  তেহরান,  தெஹ்ரான்,  เตหะราน,  ཏེ་ཧི་རན
+Alternate Names: THR, Taekhran, Tahran, Techerane, Teera, Teerao, Teerã, Teerão, Tegeran, Teheran, Teherana, Teheranas, Teherano, Teherán, Teherāna, Tehran, Tehrano, Tekheran, Téhéran, de hei lan, teharan, teharana, tehelan, teheran, tehran, teirani, thran, thrn, thrwn, tihiran, tihran, Τεχεράνη, Тæхран, Тегеран, Техеран, Теҳрон, Թեհրան, טהראן, טהרן, تهران, تهرون, تِهران, تِهِرَن, تہران, طهران, ܛܗܪܐܢ, तेहरान, তেহরান, தெஹ்ரான், เตหะราน, ཏེ་ཧི་རན​།, თეირანი, ቴህራን, テヘラン, 德黑兰, 테헤란
 
 ---

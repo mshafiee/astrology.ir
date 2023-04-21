@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'38.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°53'30.61" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°42'8.47" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°30'18.66" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°51'21.69" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°1'27.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°35'58.06" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°53'30.91" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°42'9.06" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°30'21.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°51'23.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°1'32.24" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°45'48.90" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'38.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°53'30.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°42'8.47" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°30'20.39" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°51'21.14" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'29.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°27'19.18" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°56'38.54" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°53'31.12" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°42'9.06" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°30'21.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°51'23.84" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°1'32.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°45'48.90" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Amphoe Phra Nakhon,  BKK,  Ban'nkok,  Bancac,  Bancocum,  Bancoque,  Bancác,  Banghok,  Bangkok,  Bangkok Metropolis,  Bangkoka,  Bangkòk,  Banguecoque,  Bankok,  Bankokas,  Bankoko,  Banqkok,  Changwat Phra Nakhon,  Krung Thep,  Krung Thep Maha Nakhon,  Krung Thep Maha Nakhon Amon Rattanakosin Mahintarayutthaya Maha Dilok Phop Noppharat Ratchathani Buri Rom Udom Ratchaniwet Maha Sathan Amon Phiman Awatan Sathit Sakka Thattiya Witsanukam Prasit,  Krungdeb,  Man-kuk,  Màn-kuk,  Phra Nakhon,  Siayuthia,  The City of Angels,  bainkaka,  bainkoka,  bamkoka,  bangkog,  bangkwk,  bankeakk,  bankoku,  bankwk,  bngqwq,  bnkak,  byankak,  byankaka,  camraata byankaka,  krungtheph,  krungthephmhankhr,  krungtheph‡,  man gu,  penkak,  Μπανγκόκ,  Бангкок,  Банкок,  Баҥкок,  Բանգկոկ,  באנגקאק,  בנגקוק,  بانكوك,  بانکوک,  بانکۆک,  بانګکوک,  بانگكوك,  بنکاک,  बँकॉक,  बैंकक,  बैंकॉक,  চাংৱাত ব্যাংকক,  ব্যাংকক,  ਬੈਂਕਾਕ,  பேங்காக்,  ಬ್ಯಾಂಕಾಕ್,  ബാങ്കോക്ക്,  බැංකොක්,  กรุงเทพ,  กรุงเทพมหานคร,  กรุงเทพมหานคร อมรรัตนโกสินทร์ มหินทรายุธยา มหาดิลกภพ นพรัตนราชธานีบูรีรมย์ อุดมราชนิเวศน์มหาสถาน อมรพิมานอวตารสถิต สักกะทัตติยวิษณุกรรมประสิทธิ์,  กรุงเทพฯ,  ບາງກອກ,  པན་ཀོག,  ဘန်ကောက်မြို့,  ბანგკოკი,  ባንኮክ,  バンコク,  曼谷,  방콕
+Alternate Names: Amphoe Phra Nakhon, BKK, Ban'nkok, Bancac, Bancocum, Bancoque, Bancác, Banghok, Bangkok, Bangkok Metropolis, Bangkoka, Bangkòk, Banguecoque, Bankok, Bankokas, Bankoko, Banqkok, Changwat Phra Nakhon, Krung Thep, Krung Thep Maha Nakhon, Krung Thep Maha Nakhon Amon Rattanakosin Mahintarayutthaya Maha Dilok Phop Noppharat Ratchathani Buri Rom Udom Ratchaniwet Maha Sathan Amon Phiman Awatan Sathit Sakka Thattiya Witsanukam Prasit, Krungdeb, Man-kuk, Màn-kuk, Phra Nakhon, Siayuthia, The City of Angels, bainkaka, bainkoka, bamkoka, bangkog, bangkwk, bankeakk, bankoku, bankwk, bngqwq, bnkak, byankak, byankaka, camraata byankaka, krungtheph, krungthephmhankhr, krungtheph‡, man gu, penkak, Μπανγκόκ, Бангкок, Банкок, Баҥкок, Բանգկոկ, באנגקאק, בנגקוק, بانكوك, بانکوک, بانکۆک, بانګکوک, بانگكوك, بنکاک, बँकॉक, बैंकक, बैंकॉक, চাংৱাত ব্যাংকক, ব্যাংকক, ਬੈਂਕਾਕ, பேங்காக், ಬ್ಯಾಂಕಾಕ್, ബാങ്കോക്ക്, බැංකොක්, กรุงเทพ, กรุงเทพมหานคร, กรุงเทพฯ, ບາງກອກ, པན་ཀོག, ဘန်ကောက်မြို့, ბანგკოკი, ባንኮክ, バンコク, 曼谷, 방콕
 
 ---

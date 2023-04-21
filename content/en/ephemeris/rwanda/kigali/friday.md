@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'56.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'53.92" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°39'30.86" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°48'13.67" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°31'32.41" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'15.87" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°43'21.97" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°58'54.76" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°39'30.25" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°48'13.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°31'31.94" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'14.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°39'15.27" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°37'56.56" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°58'54.76" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°39'30.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°48'13.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°31'32.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'15.87" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°43'21.97" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°48'18.53" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°31'34.39" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'21.97" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°11'18.10" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: KGL,  Kigale,  Kigali,  Kigalis,  Kigalo,  Kigaly,  Kinkali,  Kiqali,  Kígalí,  ji jia li,  khikali,  kigali,  kigalli,  kigari,  kikali,  kygaly,  kyghaly,  Κιγκάλι,  Кигали,  Кігалі,  Կիգալի,  קיגאלי,  كيغالي,  کیگالی,  किगाली,  ਕਿਗਾਲੀ,  கிகாலி,  කිගාලි,  คิกาลี,  ཀི་ག་ལི།,  კიგალი,  ኪጋሊ,  キガリ,  吉佳利,  키갈리
+Alternate Names: KGL, Kigale, Kigali, Kigalis, Kigalo, Kigaly, Kinkali, Kiqali, Kígalí, ji jia li, khikali, kigali, kigalli, kigari, kikali, kygaly, kyghaly, Κιγκάλι, Кигали, Кігалі, Կիգալի, קיגאלי, كيغالي, کیگالی, किगाली, ਕਿਗਾਲੀ, கிகாலி, කිගාලි, คิกาลี, ཀི་ག་ལི།, კიგალი, ኪጋሊ, キガリ, 吉佳利, 키갈리
 
 ---

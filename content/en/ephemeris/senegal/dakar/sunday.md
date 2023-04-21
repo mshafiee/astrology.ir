@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°48'31.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°29'28.00" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°47'54.21" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°52'21.94" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°57'3.96" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°26'41.31" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°34'39.16" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°52'26.11" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°57'4.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°26'46.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°41'15.74" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'31.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°29'26.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°47'57.97" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°52'21.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°57'3.96" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°26'41.31" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°34'39.16" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°29'27.33" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°47'56.37" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°52'26.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°57'4.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°26'46.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°41'15.74" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: DKR,  Dacar,  Dacár,  Dakaa,  Dakar,  Dakara,  Dakaras,  Dakaro,  Ndakaaru,  Ntakar,  da ka er,  dakaleu,  dakar,  dakara,  dakaru,  dqr,  takkar,  Ντακάρ,  Дакар,  Դակար,  דאקאר,  דקר,  داكار,  داکار,  ڈا کار,  ڈاکار,  डकार,  ডাকার,  ਡਾਕਾਰ,  டக்கார்,  ഡാക്കർ,  ดาการ์,  ཌ་ཀར།,  დაკარი,  ዳካር,  ダカール,  達喀爾,  다카르
+Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르
 
 ---

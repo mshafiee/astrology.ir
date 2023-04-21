@@ -20,7 +20,7 @@ Latitude: 6.9355
 \-
 Longitude: 79.8487
 \-
-Altitude: 7 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Colombo, Sri Lanka" lat="6.9355" lng="79.8487" zoom="12">}}
 
@@ -205,7 +205,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 12:19:06|Night duration: 11:40:32|
-|Every hour of day duration: 01:01:35|Every hour of night duration: 00:58:23|
+|Every hour of day duration: 01:01:36|Every hour of night duration: 00:58:23|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'14.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°11'15.07" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°7'3.65" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°38'26.93" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°30'22.21" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'11.40" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°28'24.09" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°11'14.33" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°6'59.71" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°38'22.83" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°30'15.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'3.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°50'39.40" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,9 +331,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'14.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'15.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°7'3.65" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°38'26.93" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°11'14.33" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°6'59.71" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°38'22.83" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°30'22.21" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°36'11.40" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|25°28'24.09" |Taurus|HaqAh|Saturn|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CMB,  Colombo,  Columbo,  Columbum,  Kalomba,  Kolombas,  Kolombo,  Kolompo,  Kolonbo,  ge lin bao,  kalambo,  kalombo,  ke lun po,  kealambea,  kholambo,  klmbw,  kolabo,  kolambo,  kollombo,  kolumpu,  kolunbu,  koronbo,  kwlmbw,  kwlwmbw,  qwlwmbw,  Κολόμπο,  Каломба,  Коломбо,  Կոլոմբո,  קולומבו,  كولمبو,  كولومبو,  کلمبو,  کولمبو,  ކޮޅުނބު,  कोलंबो,  कोलम्बो,  কলম্বো,  ਕੋਲੰਬੋ,  કોલંબો,  କଲୋମ୍ବୋ,  கொழும்பு,  కొలంబో,  ಕೊಲಂಬೊ,  കൊളംബോ,  කොළඹ,  ෙකාළඹ,  โคลัมโบ,  ཁོ་ལུམ་པོ།,  ကိုလံဘိုမြို့,  კოლომბო,  ኮሎምቦ,  コロンボ,  可倫坡,  哥林堡,  콜롬보
+Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'7.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'24.79" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°40'38.48" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°50'19.02" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°34'4.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'21.31" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°24'53.99" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'24.85" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°40'34.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°50'19.27" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°33'54.56" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'14.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°58'12.82" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'7.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'24.79" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°40'38.48" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°50'19.02" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°33'58.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'16.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°5'23.40" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°59'24.85" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°40'34.92" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°50'19.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°33'54.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'14.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°58'12.82" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Baariis,  Bahliz,  Baris,  Ile-de-France,  Lungsod ng Paris,  Lutece,  Lutetia,  Lutetia Parisorum,  Lutèce,  PAR,  Pa-ri,  Paarys,  Palika,  Paname,  Pantruche,  Paraeis,  Paras,  Pari,  Paries,  Parigge,  Pariggi,  Parighji,  Parigi,  Pariis,  Pariisi,  Pariizu,  Pariižu,  Parij,  Parijs,  Paris,  Parisi,  Parixe,  Pariz,  Parize,  Parizh,  Parizh osh,  Parizh',  Parizo,  Parizs,  Pariž,  Parys,  Paryz,  Paryzh,  Paryzius,  Paryż,  Paryžius,  Paräis,  París,  Paríž,  Parîs,  Parĩ,  Parī,  Parīze,  Paříž,  Páras,  Párizs,  Ville-Lumiere,  Ville-Lumière,  ba li,  barys,  pairisa,  pali,  pari,  paris,  parys,  paryzh,  perisa,  pryz,  pyaris,  pyarisa,  pyrs,  Île-de-France,  Παρίσι,  Париж,  Париж ош,  Парижь,  Париз,  Парис,  Парыж,  Паріж,  Փարիզ,  פאריז,  פריז,  باريس,  پارىژ,  پاريس,  پاریس,  پیرس,  ܦܐܪܝܣ,  पॅरिस,  पेरिस,  पैरिस,  প্যারিস,  ਪੈਰਿਸ,  પૅરિસ,  பாரிஸ்,  పారిస్,  ಪ್ಯಾರಿಸ್,  പാരിസ്,  ปารีส,  ཕ་རི།,  ပါရီမြို့,  პარიზი,  ፓሪስ,  ប៉ារីស,  パリ,  巴黎,  파리
+Alternate Names: Baariis, Bahliz, Ile-de-France, Lungsod ng Paris, Lutece, Lutetia, Lutetia Parisorum, Lutèce, PAR, Pa-ri, Paarys, Palika, Paname, Pantruche, Paraeis, Paras, Pari, Paries, Parigge, Pariggi, Parighji, Parigi, Pariis, Pariisi, Pariizu, Pariižu, Parij, Parijs, Paris, Parisi, Parixe, Pariz, Parize, Parizh, Parizh osh, Parizh', Parizo, Parizs, Pariž, Parys, Paryz, Paryzh, Paryzius, Paryż, Paryžius, Paräis, París, Paríž, Parîs, Parĩ, Parī, Parīze, Paříž, Páras, Párizs, Ville-Lumiere, Ville-Lumière, ba li, barys, pairisa, pali, pari, paris, parys, paryzh, perisa, pryz, pyaris, pyarisa, pyrs, Île-de-France, Παρίσι, Париж, Париж ош, Парижь, Париз, Парис, Парыж, Паріж, Փարիզ, פאריז, פריז, باريس, پارىژ, پاريس, پاریس, پیرس, ܦܐܪܝܣ, पॅरिस, पेरिस, पैरिस, প্যারিস, ਪੈਰਿਸ, પૅરિસ, பாரிஸ், పారిస్, ಪ್ಯಾರಿಸ್, പാരിസ്, ปารีส, ཕ་རི།, ပါရီမြို့, პარიზი, ፓሪስ, ប៉ារីស, パリ, 巴黎, 파리
 
 ---

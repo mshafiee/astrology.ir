@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'38.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'24.66" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°9'40.43" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°43'8.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°35'54.24" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'44.51" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°4'16.60" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°12'24.61" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°9'40.36" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°43'8.10" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°35'53.99" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'44.02" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°2'16.97" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'38.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'25.03" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°9'41.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°43'10.51" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°35'56.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'47.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°18'56.53" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'24.66" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°9'40.43" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°43'8.42" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°35'54.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'44.51" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°4'16.60" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: DOK,  Daneck,  Donec'k,  Doneck,  Doneck osh,  Donecka,  Doneckas,  Donecko,  Doneckoj,  Donesk,  Donetk,  Donetsk,  Donetsk i Ukraina,  Donezk,  Donețk,  Donieck,  Donietsk,  Donjeck,  Doněck,  Dońeck,  Doņecka,  Hughesovka,  Jusowka,  Juzivka,  Juzovka,  Ntonetsk,  Stalin,  Staline,  Stalino,  Yuzovka,  Yuzovo,  deanerrsk,  do net skh,  donecheukeu,  donetska,  donetsuiku,  dun nie ci ke,  dwntsk,  dwnytsk,  dwnzq,  tonetsk,  Ντονέτσκ,  Данецк,  Донецк,  Донецк ош,  Донецкой,  Донецьк,  Доњецк,  Сталино,  Сталіне,  Сталіно,  Юзовка,  Юзівка,  Դոնեցկ,  דונצק,  دونتسک,  دونيتسك,  دونیتسک,  دۆنێتسک,  दोनेत्स्क,  தோனெத்ஸ்க்,  ഡൊണെറ്റ്സ്ക്,  โดเนตสค์,  დონეცკი,  ドネツィク,  頓涅茨克,  도네츠크
+Alternate Names: DOK, Daneck, Donec'k, Doneck, Doneck osh, Donecka, Doneckas, Donecko, Donesk, Donetk, Donetsk, Donetsk i Ukraina, Donezk, Donețk, Donieck, Donietsk, Donjeck, Doněck, Dońeck, Doņecka, Hughesovka, Jusowka, Juzivka, Juzovka, Ntonetsk, Stalin, Staline, Stalino, Yuzovka, Yuzovo, deanerrsk, do net skh, donecheukeu, donetska, donetsu~iku, dun nie ci ke, dwntsk, dwnytsk, dwnzq, tonetsk, Ντονέτσκ, Данецк, Донецк, Донецк ош, Донецьк, Доњецк, Сталино, Сталіне, Сталіно, Юзовка, Юзівка, Դոնեցկ, דונצק, دونتسک, دونيتسك, دونیتسک, دۆنێتسک, दोनेत्स्क, தோனெத்ஸ்க், ഡൊണെറ്റ്സ്ക്, โดเนตสค์, დონეცკი, ドネツィク, 頓涅茨克, 도네츠크
 
 ---

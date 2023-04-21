@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'3.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'46.77" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°58'40.01" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°59'52.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°25'56.13" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°50'58.80" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°4'38.54" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|25°0'46.03" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°58'39.19" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°59'48.76" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°25'53.00" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°50'52.02" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°52'14.63" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'3.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'46.77" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°58'40.01" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°59'52.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°25'56.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°50'58.80" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°4'38.54" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'46.03" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°58'39.19" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°59'48.76" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°25'53.00" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°50'52.02" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°52'14.63" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Kita,  Kitas,  Kito,  Kitu,  Kuito,  Quito,  Quitu,  Quitum,  San Francisco de Quito,  UIO,  ji duo,  ki to,  kito,  kitto,  kvirrea,  kvito,  kwytw,  kytw,  qytw,  Κίτο,  Кито,  Кіта,  Кіто,  Կիտո,  קיטא,  קיטו,  كىتو,  كيتو,  کوئتو,  کیتو,  کیٹو,  क्वितो,  क्वीटो,  ਕੀਤੋ,  கித்தோ,  ക്വിറ്റോ,  กีโต,  ཁེ་ཐོ།,  კიტო,  ኪቶ,  キト,  基多,  키토
+Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토
 
 ---

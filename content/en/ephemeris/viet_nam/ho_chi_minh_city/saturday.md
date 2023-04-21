@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'51.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°10'8.64" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°4'35.16" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°33'56.87" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°25'5.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'26.58" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°23'17.26" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°10'5.92" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°4'33.03" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°33'40.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°24'54.85" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'4.24" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°49'44.36" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'51.83" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°10'8.64" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°4'35.16" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°33'56.87" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°25'5.85" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'27.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°26'14.01" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°10'5.92" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°4'33.03" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°33'40.85" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°24'54.85" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'4.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°49'44.36" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Cathair Ho Chi Minh,  Cidade de Ho Chi Minh,  Ciudad Ho Chi Minh,  Gia GJinh,  Gia Định,  HCMC,  HCMV,  Ho Chi Minh,  Ho Chi Minh City,  Ho Chi Minh Ville,  Ho Chi Minh-borg,  Ho Chi Minh-byen,  Ho Chi Minh-staden,  Ho Chi Minhin kaupunki,  Ho Chi Minhstad,  Ho Ci Minovo Mesto,  Ho Si Minh-varos,  Ho Si Minh-város,  Ho Či Minovo Město,  Ho-Chi-Minh-Stadt,  Ho-Chi-Minh-Ville,  Ho-Ci-Min-urbo,  Ho-Ĉi-Min-urbo,  Hociminovo Mesto,  Hosimina,  Hosiminh,  Hočiminovo Mesto,  Hošimina,  Hošiminh,  Hô Chi Minh Ville,  Hô-Chi-Minh-Ville,  Hồ Chí Minhin kaupunki,  Khoshimin,  Kota Ho Chi Minh,  Kota Hồ Chí Minh,  SGN,  Sai Gon,  Saigon,  Saïgon,  Sài Gòn,  TPHCM,  Thanh pho Ho Chi Minh,  Thành phố Hồ Chí Minh,  hochimin,  hochimin shi,  hojjimin,  hu zhi ming shi,  hw z'y myn syty,  mdynt hw tshy mynh,  saigon,  saygwn,  Хошимин,  הו צ'י מין סיטי,  سايگون,  مدينة هو تشي مينه,  サイゴン,  ホーチミン,  ホーチミン市,  胡志明市,  호찌민,  호치민
+Alternate Names: Cathair Ho Chi Minh, Cidade de Ho Chi Minh, Ciudad Ho Chi Minh, HCMC, HCMV, Ho Chi Minh, Ho Chi Minh City, Ho Chi Minh Ville, Ho Chi Minh-borg, Ho Chi Minh-byen, Ho Chi Minhin kaupunki, Ho Chi Minhstad, Ho Ci Minovo Mesto, Ho Si Minh-varos, Ho Si Minh-város, Ho Či Minovo Město, Ho-Chi-Minh-Stadt, Ho-Chi-Minh-Ville, Ho-Ci-Min-urbo, Ho-Ĉi-Min-urbo, Hociminovo Mesto, Hosimina, Hosiminh, Hočiminovo Mesto, Hošimina, Hošiminh, Hô Chi Minh Ville, Hô-Chi-Minh-Ville, Hồ Chí Minhin kaupunki, Khoshimin, Kota Ho Chi Minh, Kota Hồ Chí Minh, SGN, Sai Gon, Saigon, Saïgon, Sài Gòn, TPHCM, Thanh pho Ho Chi Minh, Thành phố Hồ Chí Minh, hochimin, hochimin shi, hojjimin, hu zhi ming shi, hw z'y myn syty, mdynt hw tshy mynh, saigon, saygwn, Хошимин, הו צ'י מין סיטי, سايگون, مدينة هو تشي مينه, サイゴン, ホーチミン, ホーチミン市, 胡志明市, 호찌민, 호치민
 
 ---

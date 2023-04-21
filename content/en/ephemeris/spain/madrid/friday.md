@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'15.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'47.42" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°41'34.70" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°51'48.54" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°35'51.13" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'10.24" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°51'8.68" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'48.77" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°41'31.67" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°52'0.35" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°35'57.30" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'25.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°2'54.28" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'15.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'47.42" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°41'34.70" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°51'48.54" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°35'51.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'10.24" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°51'8.68" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°59'48.77" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°41'31.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°51'56.83" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°35'52.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'19.53" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°35'26.82" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: La Villa y Corte de Madrid,  Los Madriles,  Lungsod ng Madrid,  MAD,  Ma-daik-li,  Ma-tet-li,  Madrid,  Madrid osh,  Madridas,  Madride,  Madridi,  Madrido,  Madrids,  Madril,  Madrit,  Madrite,  Madryd,  Madryt,  Madríd,  Madrîd,  Magerit,  Maidrid,  Mairil,  Makelika,  Matritum,  Mâ-tet-lî,  Mā-dáik-lī,  ma de li,  madarida,  madeulideu,  madorido,  madorido shi,  madri,  madrid,  madrida,  madridi,  madryd,  matrit,  mdryd,  myadrida,  mydrd,  Μαδρίτη,  Мaдрид,  Мадрид,  Мадрид ош,  Мадрыд,  Мадрід,  Մադրիդ,  מאדריד,  מדריד,  مادرىد,  مادرید,  مدريد,  میدرد,  مەدرید,  ܡܕܪܝܕ,  मद्रिद,  मद्रिद्,  माद्रिद,  माद्री,  म्याड्रिड,  মাদ্রিদ,  ਮਾਦਰੀਦ,  ମାଡ୍ରିଦ,  மத்ரித்,  ಮಡ್ರಿಡ್,  മാഡ്രിഡ്,  มาดริด,  མ་ད་རིད།,  မဒရစ်မြို့,  მადრიდი,  ማድሪድ,  マドリード,  マドリード市,  馬德里,  马德里,  마드리드
+Alternate Names: La Villa y Corte de Madrid, Los Madriles, Lungsod ng Madrid, MAD, Ma-daik-li, Ma-tet-li, Madrid, Madrid osh, Madridas, Madride, Madridi, Madrido, Madrids, Madril, Madrit, Madrite, Madryd, Madryt, Madríd, Madrîd, Magerit, Maidrid, Mairil, Makelika, Matritum, Mâ-tet-lî, Mā-dáik-lī, ma de li, madarida, madeulideu, madorido, madorido shi, madri, madrid, madrida, madridi, madryd, matrit, mdryd, myadrida, mydrd, Μαδρίτη, Мaдрид, Мадрид, Мадрид ош, Мадрыд, Мадрід, Մադրիդ, מאדריד, מדריד, مادرىد, مادرید, مدريد, میدرد, مەدرید, ܡܕܪܝܕ, मद्रिद, मद्रिद्, माद्रिद, माद्री, म्याड्रिड, মাদ্রিদ, ਮਾਦਰੀਦ, ମାଡ୍ରିଦ, மத்ரித், ಮಡ್ರಿಡ್, മാഡ്രിഡ്, มาดริด, མ་ད་རིད།, မဒရစ်မြို့, მადრიდი, ማድሪድ, マドリード, マドリード市, 馬德里, 马德里, 마드리드
 
 ---

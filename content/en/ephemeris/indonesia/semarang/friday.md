@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'49.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'41.45" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°32'19.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°35'9.14" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°16'11.22" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'36.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°40'12.37" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°55'43.89" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°32'24.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°35'23.02" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°16'24.23" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'58.56" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°14'43.92" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°55'43.89" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°32'24.78" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°35'23.02" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°16'11.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'36.89" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°40'12.37" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|11°16'24.23" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'58.56" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°14'43.92" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Kota Semarang,  Kutha Semarang,  SRG,  Samarang,  Semaran'nk,  Semarang,  Semarangas,  cemaran,  san bao long,  san ma leng,  se ma rang,  semarangi,  seumalang,  smarang,  sumaran,  symarang,  symaranj,  Σεμαράνγκ,  Семаранг,  سمارانگ,  سيمارانج,  سیمارانگ,  செமாராங்,  เซมารัง,  სემარანგი,  スマラン,  三孖冷,  三宝垄,  三寶瓏,  스마랑
+Alternate Names: Kota Semarang, Kutha Semarang, SRG, Samarang, Semaran'nk, Semarang, Semarangas, cemaran, san bao long, san ma leng, se ma rang, semarangi, seumalang, smarang, sumaran, symarang, symaranj, Σεμαράνγκ, Семаранг, سمارانگ, سيمارانج, سیمارانگ, செமாராங், เซมารัง, სემარანგი, スマラン, 三孖冷, 三宝垄, 三寶瓏, 스마랑
 
 ---

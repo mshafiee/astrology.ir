@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'56.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'51.25" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°37'32.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°33'44.49" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°35'7.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'1.53" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°34'6.97" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°46'56.53" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°24'51.34" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°37'32.77" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°33'44.98" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°35'7.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'2.21" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°36'3.03" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'56.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'50.28" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°37'28.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°33'38.96" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°35'0.12" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'51.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°44'49.49" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°46'56.48" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°24'51.34" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°37'32.77" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°33'44.98" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°35'7.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'2.21" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°36'3.03" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MDL,  Mandalaj,  Mandalaja,  Mandalajo,  Mandalajus,  Mandalay,  Mandalay piirkond,  Mandale,  Mandalej,  man de lei,  mandalay,  mandale,  mandallei,  mandaly,  mandare,  mantalai,  manth a ley,  Мандалай,  Мандалеј,  ماندالاي,  ماندالی,  ماندالے,  मांडले,  माण्डले,  மண்டலை,  మాండలే,  มัณฑะเลย์,  မန္တလေးမြို့,  マンダレー,  曼德勒,  만달레이
+Alternate Names: MDL, Mandalaj, Mandalaja, Mandalajo, Mandalajus, Mandalay, Mandalay piirkond, Mandale, Mandalej, man de lei, mandalay, mandale, mandallei, mandaly, mandare, mantalai, manth a ley, Мандалай, Мандалеј, ماندالاي, ماندالی, ماندالے, मांडले, माण्डले, மண்டலை, మాండలే, มัณฑะเลย์, မန္တလေးမြို့, マンダレー, 曼德勒, 만달레이
 
 ---

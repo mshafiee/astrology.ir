@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'41.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'2.01" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°6'30.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°47'49.02" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°20'41.36" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'55.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°24'19.11" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°44'2.94" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°6'25.74" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°47'55.06" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°20'40.15" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'0.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°7'4.34" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°32'41.69" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°44'2.94" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°6'25.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°47'55.06" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°20'41.36" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'55.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°24'19.11" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|29°47'46.79" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°20'39.41" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'52.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°9'28.85" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ADD,  Addis Ababa,  Addis Abaeba,  Addis Abbaba,  Addis Abeba,  Addis Abäba,  Addis-Abeba,  Addis-Abebae,  Addisz-Abeba,  Adis Ababa,  Adis Abeba,  Adis-Abebo,  Adisabeba,  Adís Abeba,  Antis Ampempa,  Finfinne,  Neanthopolis,  a di si a bei ba,  addisa ababa,  adisa ababa,  adiseuababa,  adisuabeba,  adys ababa,  Ādīs Ābeba,  Αντίς Αμπέμπα,  Аддис-Абебæ,  Аддис-Абеба,  Адис Абеба,  Ադիս Աբեբա,  אדיס אבבה,  آدیس آبابا,  أديس أبابا,  ئەددىس -ئەبىبە,  अदिस अबाबा,  আদ্দিস আবাবা,  አዲስ አበባ,  アディスアベバ,  阿迪斯阿貝巴,  아디스아바바
+Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바
 
 ---

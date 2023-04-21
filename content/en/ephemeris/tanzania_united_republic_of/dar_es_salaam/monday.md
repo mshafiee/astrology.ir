@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°41'47.11" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°15'37.63" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°42'36.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°55'37.84" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'40.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°31'12.87" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°55'37.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'40.23" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°28'32.98" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: DAR,  Dar Es Salaam,  Dar Es Salam,  Dar es Salaam,  Dar es Salam,  Dar es Salamas,  Dar es Salams,  Dar es Salám,  Dar es-Salaam,  Dar es-Salam,  Dar əs Salam,  Dar-ehs-Salam,  Dar-ehs-Salam shaary,  Dar-es-Salaam,  Dar-es-Salam,  Darasalam,  Daresalama,  Daresalamo,  Daressalaam,  Daressalam,  Daruesselam,  Darüsselam,  Dárasalám,  Dār es Salām,  Dāresalāma,  Ntar es Salam,  Ntontoma,  da lei si sa la mu,  daleueseusallam,  dar alslam,  dar-es-salami,  dar-xes-salam,  dara asa salama,  dara esa salama,  daralslam,  daruesusaramu,  san lan gang,  tarus'salam,  Νταρ ες Σαλάμ,  Ντοντόμα,  Дар ес Салам,  Дар ес-Салаам,  Дар-ес-Салам,  Дар-эс-Салам,  Дар-эс-Салам шаары,  דאר א-סלאם,  דאר עס סאלאאם,  دار السلام,  دارالسلام,  دارېسسالام,  दार अस सलाम,  दार एस सलाम,  ਦਾਰ ਅਸ ਸਲਾਮ,  தாருஸ்ஸலாம்,  ดาร์-เอส-ซาลาม,  ཏ་རེ་སི་ས་ལམ།,  ဒါအက်စ် ဆယ်လန်းမြို့,  დარ-ეს-სალამი,  ダルエスサラーム,  三蘭港,  达累斯萨拉姆,  다르에스살람
+Alternate Names: DAR, Dar Es Salaam, Dar Es Salam, Dar es Salaam, Dar es Salam, Dar es Salamas, Dar es Salams, Dar es Salám, Dar es-Salaam, Dar es-Salam, Dar əs Salam, Dar-ehs-Salam, Dar-ehs-Salam shaary, Dar-es-Salaam, Dar-es-Salam, Darasalam, Daresalama, Daresalamo, Daressalaam, Daressalam, Daruesselam, Darüsselam, Dárasalám, Dār es Salām, Dāresalāma, Ntar es Salam, Ntontoma, da lei si sa la mu, daleueseusallam, dar alslam, dar-es-salami, dar-xes-salam, dara asa salama, dara esa salama, daralslam, daruesusaramu, san lan gang, tarus'salam, Νταρ ες Σαλάμ, Ντοντόμα, Дар ес Салам, Дар ес-Салаам, Дар-ес-Салам, Дар-эс-Салам, Дар-эс-Салам шаары, דאר א-סלאם, דאר עס סאלאאם, دار السلام, دارالسلام, دارېسسالام, दार अस सलाम, दार एस सलाम, ਦਾਰ ਅਸ ਸਲਾਮ, தாருஸ்ஸலாம், ดาร์-เอส-ซาลาม, ཏ་རེ་སི་ས་ལམ།, ဒါအက်စ် ဆယ်လန်းမြို့, დარ-ეს-სალამი, ダルエスサラーム, 三蘭港, 达累斯萨拉姆, 다르에스살람
 
 ---

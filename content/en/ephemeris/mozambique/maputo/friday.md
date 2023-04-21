@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°39'44.70" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°48'45.09" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°32'5.37" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'20.25" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°5'13.90" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°37'23.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°19'50.64" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°37'58.83" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°59'1.28" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°39'44.70" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°48'41.46" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°32'6.83" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'20.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°5'13.90" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°48'45.09" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°32'5.37" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'23.08" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°19'50.64" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Can Pfumo,  Kapfumo,  Lourenco Marques,  Lourenço Marques,  MPM,  Mabuto,  Mabutu,  Mapouto,  Maputo,  Maputu,  Mapútó,  ma pu to,  ma pu tuo,  mabwtw,  maputo,  maputto,  maputu,  mapwtw,  mpwtw,  Μαπούτο,  Мапуто,  Мапуту,  Մապուտու,  מפוטו,  مابوتو,  ماپوتو,  ماپوتۆ,  ماپوٹو,  मापुतो,  ਮਾਪੂਤੋ,  மபூட்டோ,  มาปูโต,  མ་པུ་ཊོ།,  მაპუტუ,  ማፑቶ,  マプト,  马普托,  마푸토,  마푸투
+Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투
 
 ---

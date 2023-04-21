@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°42'50.59" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°43'20.43" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°46'21.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'28.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°42'55.93" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°28'20.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°14'49.07" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'44.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°27'12.49" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°27'12.85" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°42'50.59" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°43'20.43" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°46'17.00" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'24.16" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°16'9.07" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|13°46'21.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'28.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°42'55.93" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ASM,  Asmar,  Asmara,  Asmaro,  Asmehra,  Asmera,  Aszmara,  a si ma la,  asamara,  aseumala,  asmara,  asmera,  asmrh,  asmrt,  asumara,  yەsmەrە,  Əsməra,  Ασμάρα,  Асмара,  Асмэра,  Асмєра,  Ասմարա,  אסמרה,  أسمرة,  ئەسمەرە,  اسمارا,  اسمره,  अस्मारा,  ਅਸਮਾਰਾ,  அஸ்மாரா,  അസ്മാറ,  แอสมารา,  ཨཱ་སི་མི་ར།,  ასმერა,  አስመራ,  ኣስመራ,  アスマラ,  阿斯馬拉,  아스마라
+Alternate Names: ASM, Asmar, Asmara, Asmaro, Asmehra, Asmera, Aszmara, a si ma la, asamara, aseumala, asmara, asmera, asmrh, asmrt, asumara, yەsmەrە, Əsməra, Ασμάρα, Асмара, Асмэра, Асмєра, Ասմարա, אסמרה, أسمرة, ئەسمەرە, اسمارا, اسمره, अस्मारा, ਅਸਮਾਰਾ, அஸ்மாரா, അസ്മാറ, แอสมารา, ཨཱ་སི་མི་ར།, ასმერა, አስመራ, ኣስመራ, アスマラ, 阿斯馬拉, 아스마라
 
 ---

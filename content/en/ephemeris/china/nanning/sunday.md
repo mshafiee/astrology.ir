@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'46.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'21.39" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°36'26.42" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°31'43.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°32'46.35" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'20.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°11'44.30" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°24'21.36" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°36'25.72" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°31'42.93" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°32'45.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'20.10" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°7'6.31" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'46.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'21.36" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°36'26.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°31'43.04" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°32'46.35" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'20.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°11'44.30" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'18.92" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°36'24.52" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°31'28.47" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°32'45.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'20.10" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°7'6.31" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Lam-leng-chhi,  Lâm-lêng-chhī,  NNG,  Nam Ninh,  Nam-nen-su,  Namzningz,  Nan'nin,  Nan-ning,  Nan-ning-shih,  Nang-ning,  Nanin,  Naning,  Naningas,  Naningo,  Nannin,  Nannina,  Nanning,  Nanning Shi,  Naņnina,  Nàm-nèn-sṳ,  Nàng-nìng,  Yung-ning,  Yung-ning-hsien,  hnan hning,  nan ning,  nan ning shi,  nananinga,  nanning si,  nannyng,  nanyng,  nanyngh,  Нанин,  Нанинг,  Наньнин,  Наньнін,  ناننینگ,  نانينغ,  نانینگ,  نان
+Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시
 
 ---

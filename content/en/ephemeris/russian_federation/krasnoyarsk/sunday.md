@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'46.76" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'23.12" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°36'29.02" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°31'50.47" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°32'53.49" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'13.06" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°42'28.42" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°46'46.77" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°24'22.67" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°36'28.41" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°31'46.17" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°32'50.51" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'6.61" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°20'1.13" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'46.76" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'23.41" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°36'29.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°31'50.47" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°32'53.49" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'13.06" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°42'28.42" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'22.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°36'28.41" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°31'46.17" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°32'50.51" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'6.61" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°20'1.13" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: KJA,  Krasnoiarsk,  Krasnojarsk,  Krasnojarsko,  Krasnoyarsk,  Krasnoïarsk,  Krsk,  keulaseunoyaleuseukeu,  Красноярск,  크라스노야르스크
+Alternate Names: KJA, Krasnoiarsk, Krasnojarsk, Krasnoyarsk, Krasnoïarsk, Krsk, keulaseunoyaleuseukeu, Красноярск, 크라스노야르스크
 
 ---

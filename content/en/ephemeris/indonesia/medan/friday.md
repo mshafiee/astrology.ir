@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'57.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°56'6.89" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°33'16.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°36'56.47" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°18'14.51" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'2.76" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°37'30.07" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°56'6.77" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°33'15.90" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°36'55.89" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°18'13.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'1.56" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°32'46.59" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°56'6.77" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°33'15.90" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°36'55.89" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°18'14.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'2.76" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°37'30.07" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°18'13.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'1.56" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°32'46.59" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Kota Medan,  Kuta Medan,  Kuta Mèdan,  Kutha Medan,  MES,  Medan,  Medana,  Medanas,  Medano,  Mentan,  mdan,  me dan,  medan,  metan,  mian lan,  mydan,  Μεντάν,  Медан,  مدان,  ميدان,  میدان ، انڈونیشیا,  மேடான்,  เมดาน,  メダン,  棉蘭,  메단
+Alternate Names: Kota Medan, Kuta Medan, Kuta Mèdan, Kutha Medan, MES, Medan, Medana, Medanas, Medano, Mentan, mdan, me dan, medan, metan, mian lan, mydan, Μεντάν, Медан, مدان, ميدان, میدان ، انڈونیشیا, மேடான், เมดาน, メダン, 棉蘭, 메단
 
 ---

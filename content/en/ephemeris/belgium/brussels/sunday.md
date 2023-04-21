@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°28'3.89" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°44'46.25" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°46'46.66" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°50'30.55" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'50.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°41'50.59" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|13°50'24.62" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'45.17" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°5'40.24" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|2°46'46.66" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°50'24.62" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°27'45.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°41'50.59" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|10°5'40.24" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: An Bhruiseil,  An Bhruiséil,  BRU,  Brasels,  Breissel,  Brisel,  Brisele,  Briuselis,  Brjuksel,  Brjusel',  Brjussel',  Brueksel,  Bruessel,  Bruesszel,  Bruiseal,  Bruksel,  Bruksela,  Brukseli,  Brukselo,  Brusehl',  Brusel,  Brusela,  Bruselas,  Bruseles,  Bruselj,  Bruselo,  Brusel·les,  Brussel,  Brussele,  Brussels,  Brussel·les,  Bruxel,  Bruxelas,  Bruxellae,  Bruxelles,  Brwsel,  Bryssel,  Bryusel,  Bryxelles,  Bréissel,  Brüksel,  Brüssel,  Brüsszel,  Citta di Bruxelles,  Città di Bruxelles,  City of Brussels,  Kota Brusel,  beulwisel,  bi lu xi,  braselasa,  braselsa,  brassels,  briuseli,  brwksl,  brysl,  bu lu sai er,  buryusseru,  Βρυξέλλες,  Брисел,  Брусэль,  Брюксел,  Брюсель,  Брюссель,  Բրյուսել,  בריסל,  بروكسل,  بروکسل,  بريۇسسېل,  ܒܪܘܟܣܠ,  ब्रसेल्स,  ব্রাসেলস,  บรัสเซลส์,  ბრიუსელი,  ブリュッセル,  布魯塞爾,  布鲁塞尔,  比律悉,  브뤼셀
+Alternate Names: An Bhruiseil, An Bhruiséil, BRU, Breissel, Brisel, Brisele, Briuselis, Brjuksel, Brjusel', Brjussel', Brueksel, Bruessel, Bruesszel, Bruiseal, Bruksel, Bruksela, Brukseli, Brukselo, Brusehl', Brusel, Brusela, Bruselas, Bruseles, Bruselj, Bruselo, Brusel·les, Brussel, Brussele, Brussels, Brussel·les, Bruxel, Bruxelas, Bruxellae, Bruxelles, Brwsel, Bryssel, Bryusel, Bryxelles, Bréissel, Brüksel, Brüssel, Brüsszel, Citta di Bruxelles, Città di Bruxelles, City of Brussels, Kota Brusel, beulwisel, braselasa, braselsa, brassels, briuseli, brwksl, brysl, bu lu sai er, buryusseru, Βρυξέλλες, Брисел, Брусэль, Брюксел, Брюсель, Брюссель, Բրյուսել, בריסל, بروكسل, بروکسل, بريۇسسېل, ܒܪܘܟܣܠ, ब्रसेल्स, ব্রাসেলস, บรัสเซลส์, ბრიუსელი, ブリュッセル, 布魯塞爾, 布鲁塞尔, 브뤼셀
 
 ---

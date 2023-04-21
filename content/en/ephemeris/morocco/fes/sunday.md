@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'16.44" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°28'44.87" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°46'17.78" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°49'34.03" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°53'42.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'24.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°16'16.56" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°28'44.86" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°46'17.64" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°49'33.97" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°53'39.11" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'19.24" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°52'41.44" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°48'16.44" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°28'44.87" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°46'17.78" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°49'34.03" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°53'39.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'19.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°53'50.90" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°49'33.97" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°53'39.11" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'19.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°52'41.44" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: FEZ,  Fes,  Fez,  Fès,  fas,  fezu,  Фес,  فاس,  フェズ
+Alternate Names: FEZ, Fes, Fez, Fès, fas, fezu, Фес, فاس, フェズ
 
 ---

@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°10'46.44" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°45'9.14" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°38'15.16" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'37.23" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°37'47.92" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|15°35'37.35" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°37'56.88" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Boursa,  Brossa,  Broussa,  Brousse,  Brusa,  Brussa,  Burs,  Bursa,  Bursae,  Burso,  Prousa,  YEI,  bu er sa,  buleusa,  bur sa,  bursa,  burusa,  bwrsa,  bwrsh,  bwrst,  Προύσα,  Бурсæ,  Бурса,  Бурсо,  בורסה,  برصہ,  بورسا,  بورصة,  بورصه,  بورصہ,  بۇرسا,  बुर्सा,  บูร์ซา,  ბურსა,  ブルサ,  布尔萨,  부르사
+Alternate Names: Boursa, Brossa, Broussa, Brousse, Brusa, Brussa, Burs, Bursa, Bursae, Burso, Prousa, YEI, bu er sa, buleusa, bur sa, bursa, burusa, bwrsa, bwrsh, bwrst, Προύσα, Бурсæ, Бурса, Бурсо, בורסה, برصہ, بورسا, بورصة, بورصه, بورصہ, بۇرسا, बुर्सा, บูร์ซา, ბურსა, ブルサ, 布尔萨, 부르사
 
 ---

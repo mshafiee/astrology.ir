@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°42'24.42" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°17'1.77" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°45'8.48" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°58'36.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'56.04" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°21'0.23" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|14°58'35.15" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'0.48" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°3'14.29" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'54.79" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°42'24.42" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°17'5.44" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°45'4.18" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°58'36.97" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'56.04" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°21'0.23" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°17'1.77" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°45'8.48" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°58'35.15" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'0.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°3'14.29" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MJM,  Mbuji-Mayi,  Mbuy Mayi,  Mbuzhi-Maji,  Мбужи-Майи
+Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи
 
 ---

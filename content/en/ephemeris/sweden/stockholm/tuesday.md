@@ -20,7 +20,7 @@ Latitude: 59.3294
 \-
 Longitude: 18.0687
 \-
-Altitude: 17 meters
+Altitude: 12 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Stockholm, Sweden" lat="59.3294" lng="18.0687" zoom="12">}}
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'27.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'57.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°47'39.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°40'14.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°2'57.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'57.57" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°12'54.85" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'57.50" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°47'38.96" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°40'15.64" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°2'56.52" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'58.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°6'20.40" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Estocolm,  Estocolme,  Estocolmo,  Estocolmu,  Estocòlme,  Estokolma,  Estokolmo,  Holmia,  STO,  Stakgol'm,  Stjokolna,  Stoccholm,  Stoccolma,  Stockholbma,  Stockholm,  Stockolm,  Stocolm,  Stocolma,  Stocòlma,  Stocólma,  Stokcholme,  Stokgol'm,  Stokgol'm osh,  Stokgolm,  Stokhol'm,  Stokholm,  Stokholma,  Stokholmas,  Stokholmi,  Stokholmo,  Stokkholm,  Stokkholmur,  Stokkhólmur,  Stokkolma,  Stokol'ma,  Stokolm,  Stuculma,  Stuokhuolms,  Stócólm,  Sztokholm,  Sztokhòlm,  Tukholma,  astkhlm,  satakahoma,  seutogholleum,  si de ge er mo,  stak'hom,  stakahoma,  stokahoma,  stwkhwlm,  stwqhwlm,  stxkholm,  sutokkuhorumu,  Štokholm,  Στοκχόλμη,  Стакгольм,  Стокhольм,  Стокгольм,  Стокгольм ош,  Стокольма,  Стокхолм,  Стокҳолм,  Стёколна,  Ստոկհոլմ,  סטוקהולם,  שטאקהאלם,  استکهلم,  ستوكهولم,  ستۆکھۆڵم,  سٹاکہوم,  ܣܛܘܩܗܘܠܡ,  स्टकहोम,  स्टॉकहोम,  स्तकहोम,  স্টকহোম,  ਸਟਾਕਹੋਮ,  ஸ்டாக்ஹோம்,  స్టాక్
+Alternate Names: Estocolm, Estocolme, Estocolmo, Estocolmu, Estocòlme, Estokolma, Estokolmo, Holmia, STO, Stakgol'm, Stjokolna, Stoccholm, Stoccolma, Stockholbma, Stockholm, Stockolm, Stocolm, Stocolma, Stocòlma, Stocólma, Stokcholme, Stokgol'm, Stokgol'm osh, Stokgolm, Stokhol'm, Stokholm, Stokholma, Stokholmas, Stokholmi, Stokholmo, Stokkholm, Stokkholmur, Stokkhólmur, Stokkolma, Stokol'ma, Stokolm, Stuculma, Stuokhuolms, Stócólm, Sztokholm, Sztokhòlm, Tukholma, astkhlm, satakahoma, seutogholleum, si de ge er mo, stak'hom, stakahoma, stokahoma, stwkhwlm, stwqhwlm, stxkholm, sutokkuhorumu, Štokholm, Στοκχόλμη, Стакгольм, Стокhольм, Стокгольм, Стокгольм ош, Стокольма, Стокхолм, Стокҳолм, Стёколна, Ստոկհոլմ, סטוקהולם, שטאקהאלם, استکهلم, ستوكهولم, ستۆکھۆڵم, سٹاکہوم, ܣܛܘܩܗܘܠܡ, स्टकहोम, स्टॉकहोम, स्तकहोम, স্টকহোম, ਸਟਾਕਹੋਮ, ஸ்டாக்ஹோம், స్టాక్‌హోమ్, ಸ್ಟಾಕ್‍ಹೋಮ್, സ്റ്റോക്ക്‌ഹോം, สตอกโฮล์ม, སི་ཏོག་ཧོ་ལིམ།, စတော့ဟုမ်းမြို့, სტოკჰოლმი, ስቶኮልም, ᔅᑑᒃᓱᓪᒻ/stuukhulm, ストックホルム, 斯德哥尔摩, 斯德哥爾摩, 스톡홀름, 𐍃𐍄𐌿𐌺𐌺𐌰𐌷𐌿𐌻𐌼𐍃
 
 ---

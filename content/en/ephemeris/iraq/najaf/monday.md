@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°52'29.89" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°41'10.76" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°14'16.43" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°40'7.92" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°52'45.53" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'13.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°46'45.39" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°40'7.84" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°52'45.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'13.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°46'21.07" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'29.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'10.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°14'16.43" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°40'7.92" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°52'45.53" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'13.21" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°46'45.39" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'10.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°14'16.41" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°40'7.84" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°52'45.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'13.08" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°46'21.07" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Al Najaf al Ashraf,  An Najaf,  An Najaf al Ashraf,  An-Nadzaf,  An-Nadzhaf,  An-Nadżaf,  An-Najaf,  Ehn-Nadzhaf,  Meshed 'Ali,  Meshed ’Ali,  NJF,  Nachaf,  Nadjaf,  Nadschaf,  Nadzaf,  Nadzafas,  Nadzhaf,  Nadžaf,  Nadžafas,  Nagafo,  Najaf,  Najaf - njf,  Najaf - نجف,  Natzaf,  Nayaf,  Naĝafo,  Necef,  Nedjef,  Nedzsef,  Neshed Ali,  Nəcəf,  alnjf,  alnjf alashrf,  na jie fu,  najafa,  najafu,  najap,  najapeu,  najapi,  ngp,  njf,  Νατζάφ,  Ан-Наджаф,  Наджаф,  Наџаф,  Эн-Наджаф,  נגף,  النجف,  النجف الاشرف,  نجف,  नजफ़,  நஜாப்,  നജഫ്
+Alternate Names: Al Najaf al Ashraf, An Najaf, An Najaf al Ashraf, An-Nadzaf, An-Nadzhaf, An-Nadżaf, An-Najaf, Ehn-Nadzhaf, Meshed 'Ali, Meshed ’Ali, NJF, Nachaf, Nadjaf, Nadschaf, Nadzaf, Nadzafas, Nadzhaf, Nadžaf, Nadžafas, Nagafo, Najaf, Najaf - njf, Najaf - نجف, Natzaf, Nayaf, Naĝafo, Necef, Nedjef, Nedzsef, Neshed Ali, Nəcəf, alnjf, alnjf alashrf, na jie fu, najafa, najafu, najap, najapeu, najapi, ngp, njf, Νατζάφ, Ан-Наджаф, Наджаф, Наџаф, Эн-Наджаф, נגף, النجف, النجف الاشرف, نجف, नजफ़, நஜாப், നജഫ്‌, ნაჯაფი, ナジャフ, 納杰夫, 나자프
 
 ---

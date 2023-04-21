@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'43.08" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°27'7.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°42'39.71" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°42'57.15" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°45'56.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'23.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°12'34.70" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|14°42'38.55" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°42'56.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°45'54.94" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'22.75" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°3'42.33" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°47'43.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°27'7.49" |Aries|Butain|Venus|
+|♄ Saturn|Direct|4°47'43.18" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°27'7.42" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°42'39.71" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°42'57.15" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°45'56.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'23.94" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°12'34.70" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|2°42'56.78" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°45'54.94" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'22.75" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°3'42.33" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: IVilnyusi,  VNO,  Vil'njus,  Vil'no,  Vil'nyus,  Viln',  Vilna,  Vilnia,  Vilnias,  Vilniaus miestas,  Vilnious,  Vilnis,  Vilnius,  Vilnjus,  Vilnjûs,  Vilno,  Vilnues,  Vilnus,  Vilnyus,  Vilníus,  Vilnüs,  Viļņa,  Vílnius,  Wilna,  Wilnius,  Wilno,  Wilnus,  Wilñus,  bhilani'usa,  bilnyuseu,  fylnyws,  vhilniyasa,  vilniusi,  vilniyas,  vuirinyusu,  vylnyws,  wei er niu si,  wi lni xus,  wlnys,  wylnh,  wylnyws,  Βίλνα,  Βίλνιους,  Βιλνιους,  Вилниус,  Вилнус,  Вилнюс,  Вилн҄ь,  Вильнюс,  Вилњус,  Виљнус,  Вільнюс,  Վիլնյուս,  ווילנע,  וילנה,  فيلنيوس,  ولنیس,  ویلنیوس,  ڤیلنیوس,  व्हिल्नियस,  ভিলনিউস,  வில்னியஸ்,  วิลนีอุส,  ལྦེ་ནི་སུ་ནི།,  ვილნიუსი,  ቪልኒውስ,  ᕕᓪᓂᐅᔅ/vilnius,  ヴィリニュス,  维尔纽斯,  빌뉴스
+Alternate Names: IVilnyusi, VNO, Vil'njus, Vil'no, Vil'nyus, Viln', Vilna, Vilnia, Vilnias, Vilniaus miestas, Vilnious, Vilnis, Vilnius, Vilnjus, Vilnjûs, Vilnues, Vilnus, Vilnyus, Vilníus, Vilnüs, Viļņa, Vílnius, Wilna, Wilnius, Wilno, Wilnus, Wilñus, bhilani'usa, bilnyuseu, fylnyws, vhilniyasa, vilniusi, vilniyas, vu~irinyusu, vylnyws, wei er niu si, wi lni xus, wlnys, wylnh, wylnyws, Βίλνα, Βίλνιους, Βιλνιους, Вилниус, Вилнус, Вилнюс, Вилн҄ь, Вильнюс, Вилњус, Виљнус, Вільнюс, Վիլնյուս, ווילנע, וילנה, فيلنيوس, ولنیس, ویلنیوس, ڤیلنیوس, व्हिल्नियस, ভিলনিউস, வில்னியஸ், วิลนีอุส, ལྦེ་ནི་སུ་ནི།, ვილნიუსი, ቪልኒውስ, ᕕᓪᓂᐅᔅ/vilnius, ヴィリニュス, 维尔纽斯, 빌뉴스
 
 ---

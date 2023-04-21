@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'37.13" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°32'41.36" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°55'8.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°5'21.62" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°12'15.68" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°23'55.11" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°32'34.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°55'9.05" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°5'36.24" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°12'23.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'16.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°29'55.62" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°49'37.13" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°32'41.36" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°55'9.05" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°5'21.62" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°12'15.68" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°23'55.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°32'34.90" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°5'36.24" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°12'23.79" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'16.44" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°29'55.62" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Cdmx,  Cidade de Mexico,  Cidade de México,  Cidade do Mexico,  Cidade do México,  Cita du Messicu,  Citta del Messico,  Città del Messico,  Cità dû Messicu,  Cità dû Mèssicu,  Ciudad Mexico,  Ciudad de Mejico,  Ciudad de Mexico,  Ciudad de Méjico,  Ciudad de México,  Ciutat de Mexic,  Ciutat de Mèxic,  Lungsod ng Mexico,  Lungsod ng México,  MEX,  Mehiko,  Mekhiko,  Meksikas,  Meksiko,  Meksiko Siti,  Meksikurbo,  Meksyk,  Mexico,  Mexico City,  Mexico D.F.,  Mexico DF,  Mexico Distrito Federal,  Mexico by,  Mexico-stad,  Mexicopolis,  Mexiko,  Mexiko Hiria,  Mexiko-Stadt,  Mexikoborg,  Mexíkóborg,  México,  México Distrito Federal,  Nkoyo,  Pole tou Mexikou,  Valle de Mexico,  Valle de México,  mdynt mksykw,  megsiko si,  megsikositi,  mekishikoshiti,  meksiko,  meksiko siti,  meksikositi,  mkzykw,  mkzykwsyty,  mo xi ge cheng,  mqsyqw syty,  Πόλη του Μεξικού,  Мексико,  Мексико Сити,  Мехико,  Мехіко,  מקסיקו סיטי,  مدينة مكسيكو,  مکزیکو,  مکزیکوسیتی,  مېكسىكا شەھىرى,  मेक्सिको सिटी,  মেক্সিকো,  เม็กซิโกซิตี,  მეხიკო,  メキシコシティ,  墨西哥城,  멕시코 시,  멕시코시티
+Alternate Names: Cdmx, Cidade de Mexico, Cidade de México, Cidade do Mexico, Cidade do México, Cita du Messicu, Citta del Messico, Città del Messico, Cità dû Messicu, Cità dû Mèssicu, Ciudad Mexico, Ciudad de Mejico, Ciudad de Mexico, Ciudad de Méjico, Ciudad de México, Ciutat de Mexic, Ciutat de Mèxic, Lungsod ng Mexico, Lungsod ng México, MEX, Mehiko, Mekhiko, Meksikas, Meksiko, Meksiko Siti, Meksikurbo, Meksyk, Mexico, Mexico City, Mexico D.F., Mexico DF, Mexico Distrito Federal, Mexico by, Mexico-stad, Mexicopolis, Mexiko, Mexiko Hiria, Mexiko-Stadt, Mexikoborg, Mexíkóborg, México, México Distrito Federal, Nkoyo, Pole tou Mexikou, Valle de Mexico, Valle de México, mdynt mksykw, megsiko si, megsikositi, mekishikoshiti, meksiko, meksiko siti, meksikositi, mkzykw, mkzykwsyty, mo xi ge cheng, mqsyqw syty, Πόλη του Μεξικού, Мексико, Мексико Сити, Мехико, Мехіко, מקסיקו סיטי, مدينة مكسيكو, مکزیکو, مکزیکوسیتی, مېكسىكا شەھىرى, मेक्सिको सिटी, মেক্সিকো, เม็กซิโกซิตี, მეხიკო, メキシコシティ, 墨西哥城, 멕시코 시, 멕시코시티
 
 ---

@@ -292,10 +292,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'18.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°8'31.61" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°0'57.39" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°27'21.40" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°17'22.25" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°8'29.81" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°0'56.99" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°27'10.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°17'25.16" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'44.16" |Aries|Butain|Sun|
 |☾ Moon|Direct|22°42'4.97" |Aries|Butain|Venus|
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'18.15" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°8'31.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°0'57.39" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°27'21.40" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°17'22.25" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'41.09" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°27'12.70" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°8'29.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°0'56.99" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°27'10.78" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°17'16.06" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'26.28" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°26'21.11" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Chiba,  Chiba-shi,  Chibashi,  Ciba,  QCB,  Tiba,  chiba,  chibashi,  jiba si,  qian ye,  qian ye shi,  tshyba,  Ĉiba,  Čiba,  Чиба,  تشيبا,  ちば,  ちばし,  チバ,  チバシ,  千葉,  千葉市,  지바 시
+Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시
 
 ---

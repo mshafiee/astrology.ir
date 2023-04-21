@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'19.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°52'32.80" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°39'56.47" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°26'23.01" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°46'45.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°2'41.57" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°28'13.40" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°52'32.82" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°39'56.53" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°26'23.13" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°46'45.70" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°2'41.78" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°28'54.90" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BJS,  Bac Kinh,  Baek-ging,  Baekging,  Behehzhin,  Beijing,  Beijing Shi,  Beising,  Beixin,  Beixín,  Bejdzing,  Bejdżing,  Bejing,  Beyjing,  Beȝcinȝ,  Báe̤k-gĭng,  Béising,  Bắc Kinh,  Pechin,  Pechino,  Pechinu,  Pechinum,  Pecinum,  Pei-ching,  Pei-ching-shih,  Pei-p'ing,  Pei-p'ing-shih,  Peken,  Pekin,  Pekin',  Pekina,  Pekinas,  Peking,  Pekini,  Pekino,  Pekín,  Pekîn,  Peping,  Pequim,  Pequin,  Pequín,  Pet-kin,  Pet-kîn,  Peycing,  Pikkin,  Pèquin,  Pékin,  Péqùin,  Péycing,  be'ijim,  be'ijina,  be'ijinga,  bei jing,  bei jing shi,  beidjin,  beijing,  bijiga,  bijing,  bijinga,  bkyn,  buggyeong,  byjng,  bykyn,  byyg'yng,  byyzsyng,  pakking,  peyjin,  pkn,  Πεκίνο,  Бейжің,  Бээжин,  Бәәҗң балһсн,  Пекин,  Пекинг,  Пекін,  Пекінґ,  Պեկին,  בייג'ינג,  בייזשינג,  بكين,  بيكين,  بیجنگ,  بېجینګ,  بېيجىڭ,  بېيجىڭ شەھىرى,  پکن,  پێکەن,  ބީޖިންގ,  बीजिंग,  बेइजिङ,  বেইজিং,  ਬੀਜਿੰਗ,  બેઇજિંગ,  பெய்ஜிங்,  బీజింగ్,  ಬೀಜಿಂಗ್,  ബെയ്
+Alternate Names: BJS, Bac Kinh, Baek-ging, Baekging, Behehzhin, Beijing, Beijing Shi, Beising, Beixin, Beixín, Bejdzing, Bejdżing, Bejing, Beyjing, Beȝcinȝ, Báe̤k-gĭng, Béising, Bắc Kinh, Pechin, Pechino, Pechinu, Pechinum, Pecinum, Pei-ching, Pei-ching-shih, Pei-p'ing, Pei-p'ing-shih, Peken, Pekin, Pekin', Pekina, Pekinas, Peking, Pekini, Pekino, Pekín, Pekîn, Peping, Pequim, Pequin, Pequín, Pet-kin, Pet-kîn, Peycing, Pikkin, Pèquin, Pékin, Péqùin, Péycing, be'ijim, be'ijina, be'ijinga, bei jing, bei jing shi, beidjin, beijing, bijiga, bijing, bijinga, bkyn, buggyeong, byjng, bykyn, byyg'yng, byyzsyng, pakking, peyjin, pkn, Πεκίνο, Бейжің, Бээжин, Бәәҗң балһсн, Пекин, Пекинг, Пекін, Пекінґ, Պեկին, בייג'ינג, בייזשינג, بكين, بيكين, بیجنگ, بېجینګ, بېيجىڭ, بېيجىڭ شەھىرى, پکن, پێکەن, ބީޖިންގ, बीजिंग, बेइजिङ, বেইজিং, ਬੀਜਿੰਗ, બેઇજિંગ, பெய்ஜிங், బీజింగ్, ಬೀಜಿಂಗ್, ബെയ്‌ജിങ്ങ്‌, බෙයිජිං, ปักกิ่ง, པེ་ཅིང་གྲོང་ཁྱེར།, ပေကျင်းမြို့, პეკინი, ቤዪጂንግ, ប៉េកាំង, 北京, 北京市, 베이징, 북경
 
 ---

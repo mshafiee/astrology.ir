@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'26.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°23'23.30" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°34'12.74" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°27'47.02" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°28'6.37" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'54.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°2'23.84" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°46'26.16" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°23'22.95" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°34'15.00" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°27'44.97" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°28'7.77" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'52.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°6'57.02" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'26.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'23.30" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°34'12.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°27'47.02" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'22.95" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°34'15.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°27'44.97" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°28'7.77" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'54.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°2'23.84" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°30'52.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°6'57.02" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Daegu,  Daegu Kong-hek-chhi,  Daegu Kóng-he̍k-chhī,  Daegu-si,  Daikyu,  Daikyū,  GJai Khau,  Ntenkou,  TAE,  Taegu,  Taikando,  Taikandō,  Taiku,  Taikyu,  Taikyū,  Tegu,  Teguo,  Tehgu,  Tägu,  da qiu guang yu shi,  daegu,  daegugwang-yeogsi,  daegusi,  daigu,  dayjw,  degu,  dyghw,  tgw,  Đại Khâu,  Ντέγκου,  Тегу,  Тэгу,  Тэгү,  טגו,  دائجو,  ديغو,  ڈیگو,  दैगू,  ദേഗു,  แทกู,  大邱广域市,  大邱広域市,  大邱廣域市,  대구,  대구광역시,  대구시
+Alternate Names: Daegu, Daegu Kong-hek-chhi, Daegu Kóng-he̍k-chhī, Daegu-si, Daikyu, Daikyū, GJai Khau, Ntenkou, TAE, Taegu, Taikando, Taikandō, Taiku, Taikyu, Taikyū, Tegu, Teguo, Tehgu, Tägu, da qiu guang yu shi, daegu, daegugwang-yeogsi, daegusi, daigu, dayjw, degu, dyghw, tgw, Đại Khâu, Ντέγκου, Тегу, Тэгу, Тэгү, טגו, دائجو, ديغو, ڈیگو, दैगू, ദേഗു, แทกู, 大邱广域市, 大邱広域市, 大邱廣域市, 대구, 대구광역시, 대구시
 
 ---

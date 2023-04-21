@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°38'52.25" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°1'33.67" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°45'24.64" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°58'48.46" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°44'3.51" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'7.68" |Aries|Butain|Sun|
-|☾ Moon|Direct|15°5'22.12" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°59'4.34" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°44'11.89" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'28.94" |Aries|Butain|Sun|
+|☾ Moon|Direct|16°33'4.08" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'52.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°1'30.98" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°45'24.87" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°58'48.46" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°44'3.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'7.68" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°5'22.12" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°1'33.54" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°45'23.45" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°59'3.65" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°44'10.27" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'27.30" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|16°33'4.08" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Arrecife,  Fernambucum,  Mauricea,  Mauricéa,  Pernambuco,  REC,  Recife,  Recifo,  Rehsifi,  Resife,  Resifi,  Resifė,  hesiphi,  hesipi,  lei xi fei,  li si fei,  re sifi,  recihpi,  reshife,  resiphe,  resipi,  risifi,  rsyph,  rysyf,  rysyfy,  Ρεσίφε,  Ресифе,  Ресифи,  Ресіфі,  Рэсіфі,  Ռեսիֆի,  רסיפה,  ريسيفي,  ریسیف,  रिसीफ़ी,  रेसिफे,  রেসিফে,  হেসিফি,  ரெசிஃபி,  เรซีฟี,  რესიფი,  レシフェ,  李斯腓,  累西腓,  헤시피
+Alternate Names: Arrecife, Fernambucum, Mauricea, Mauricéa, Pernambuco, REC, Recife, Rehsifi, Resife, Resifi, Resifė, hesiphi, hesipi, lei xi fei, li si fei, re sifi, recihpi, reshife, resiphe, resipi, risifi, rsyph, rysyf, rysyfy, Ρεσίφε, Ресифе, Ресифи, Ресіфі, Рэсіфі, Ռեսիֆի, רסיפה, ريسيفي, ریسیف, रिसीफ़ी, रेसिफे, রেসিফে, হেসিফি, ரெசிஃபி, เรซีฟี, რესიფი, レシフェ, 李斯腓, 累西腓, 헤시피
 
 ---

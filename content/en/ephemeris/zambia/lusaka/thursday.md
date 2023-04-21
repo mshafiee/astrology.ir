@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°7'48.15" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°50'26.54" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|10°23'37.62" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'20.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°49'51.02" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|15°33'21.16" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°50'3.88" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'54.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'40.16" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°7'48.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°50'26.54" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°23'37.62" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'20.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°49'51.02" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°44'40.18" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°7'48.35" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°50'26.58" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°23'37.85" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'21.16" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°50'3.88" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: LUN,  Lousaka,  Louzaka,  Lusaca,  Lusak,  Lusaka,  Lusako,  Lúsaka,  Lûsaka,  lu sa ka,  lu sha ka,  lucakka,  lusaka,  lwsaka,  lwsqh,  lwwsaka,  rusaka,  Λουσάκα,  Лусака,  Լուսակա,  לוסאקא,  לוסקה,  لوساكا,  لوساکا,  لووساکا,  لۇساكا,  लुसाका,  লুসাকা,  ਲੁਸਾਕਾ,  ଲୁସାକ,  லுசாக்கா,  ลูซากา,  ལུ་ས་ཀ།,  ლუსაკა,  ሉሳካ,  ルサカ,  盧薩卡,  路沙卡,  루사카
+Alternate Names: LUN, Lousaka, Louzaka, Lusaca, Lusak, Lusaka, Lusako, Lúsaka, Lûsaka, lu sa ka, lu sha ka, lucakka, lusaka, lwsaka, lwsqh, lwwsaka, rusaka, Λουσάκα, Лусака, Լուսակա, לוסאקא, לוסקה, لوساكا, لوساکا, لووساکا, لۇساكا, लुसाका, লুসাকা, ਲੁਸਾਕਾ, ଲୁସାକ, லுசாக்கா, ลูซากา, ལུ་ས་ཀ།, ლუსაკა, ሉሳካ, ルサカ, 盧薩卡, 路沙卡, 루사카
 
 ---

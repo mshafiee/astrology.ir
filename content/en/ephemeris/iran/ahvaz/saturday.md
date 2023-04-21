@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°12'14.73" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°9'17.67" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°42'28.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°34'55.54" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'34.57" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°54'47.24" |Aries|Butain|Venus|
+|♀ Venus|Direct|12°35'6.66" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'51.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°8'36.93" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|1°42'28.73" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°35'6.66" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°35'51.00" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°54'47.24" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|26°8'36.93" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: AWZ,  Ahvaz,  Ahvaz - ahwaz,  Ahvaz - اهواز,  Ahvaza,  Ahvazas,  Ahvazo,  Ahvoz,  Ahváz,  Ahvāz,  Ahvāza,  Ahwas,  Ahwaz,  Ahwāz,  Akhvaz,  Akhvaz shaary,  Axvaz,  Bandar Nasiri,  Bandar Nāsirī,  Bandar-e Naser,  Bandar-e Nāşer,  Ehvaz,  Naseri,  Nasiri,  Nāsiri,  Nāşerī,  a wa shi,  abajeu,  afuvuazu,  ahabaja,  ahavaza,  ahvazi,  ahwaz,  akvacu,  alahwaz,  Əhvaz,  Ахваз,  Ахваз шаары,  Аҳвоз,  Ախվազ,  אהוואז,  ئەھواز,  الأهواز,  اهواز,  اہواز,  अहवाज़,  আহবাজ,  ਅਹਵਾਜ਼,  ஆக்வாசு,  ཨཱ་ཝཛ།,  აჰვაზი,  アフヴァーズ,  阿瓦士,  아바즈
+Alternate Names: AWZ, Ahvaz, Ahvaz - ahwaz, Ahvaz - اهواز, Ahvaza, Ahvazas, Ahvazo, Ahvoz, Ahváz, Ahvāz, Ahvāza, Ahwas, Ahwaz, Ahwāz, Akhvaz, Akhvaz shaary, Axvaz, Bandar Nasiri, Bandar Nāsirī, Bandar-e Naser, Bandar-e Nāşer, Ehvaz, Naseri, Nasiri, Nāsiri, Nāşerī, a wa shi, abajeu, afuvu~azu, ahabaja, ahavaza, ahvazi, ahwaz, akvacu, alahwaz, Əhvaz, Ахваз, Ахваз шаары, Аҳвоз, Ախվազ, אהוואז, ئەھواز, الأهواز, اهواز, اہواز, अहवाज़, আহবাজ, ਅਹਵਾਜ਼, ஆக்வாசு, ཨཱ་ཝཛ།, აჰვაზი, アフヴァーズ, 阿瓦士, 아바즈
 
 ---

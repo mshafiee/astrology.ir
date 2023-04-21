@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'17.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°2'45.10" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°48'7.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°3'49.55" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°49'54.12" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'3.54" |Aries|Butain|Sun|
-|☾ Moon|Direct|16°1'57.45" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°2'47.12" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°48'9.94" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°4'1.32" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°50'2.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'20.82" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°18'0.57" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'17.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'45.10" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°48'7.79" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°3'49.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°49'54.12" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'3.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°1'57.45" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'47.12" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°48'9.68" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°4'1.32" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°50'2.84" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'20.82" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°18'0.57" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Taronta,  Torontas,  Toronto,  Torontu,  Torontum,  Torontó,  YTO,  duo lun duo,  roranro,  taronto,  teareantea,  tho rxn to,  tolonto,  toramto,  toranto,  toronto,  twrntw,  twrwntw,  Τορόντο,  Таронта,  Торонто,  Տորոնտո,  טאראנטא,  טורונטו,  تورنتو,  تورونتو,  ٹورانٹو,  ٹورنٹو,  टोरण्टो,  टोरन्टो,  टोराँटो,  तोरन्तो,  টরোন্টো,  ਟੋਰਾਂਟੋ,  ரொறன்ரோ,  టొరంటో,  ಟೊರಾಂಟೋ,  ടോറോണ്ടോ,  โทรอนโต,  တိုရွန်တိုမြို့,  ტორონტო,  トロント,  多伦多,  多倫多,  토론토
+Alternate Names: Taronta, Torontas, Toronto, Torontu, Torontum, Torontó, YTO, duo lun duo, roranro, taronto, teareantea, tho rxn to, tolonto, toramto, toranto, toronto, twrntw, twrwntw, Τορόντο, Таронта, Торонто, Տորոնտո, טאראנטא, טורונטו, تورنتو, تورونتو, ٹورانٹو, ٹورنٹو, टोरण्टो, टोरन्टो, टोराँटो, तोरन्तो, টরোন্টো, ਟੋਰਾਂਟੋ, ரொறன்ரோ, టొరంటో, ಟೊರಾಂಟೋ, ടോറോണ്ടോ, โทรอนโต, တိုရွန်တိုမြို့, ტორონტო, トロント, 多伦多, 多倫多, 토론토
 
 ---

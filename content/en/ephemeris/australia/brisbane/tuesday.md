@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'4.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°51'48.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°38'16.18" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°23'23.54" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°43'15.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°3'39.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°46'39.87" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°51'49.19" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°38'14.58" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°23'26.19" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°43'15.04" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°3'42.78" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°36'35.78" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'4.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°51'49.47" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°38'17.50" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°23'27.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°43'15.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°3'39.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°46'39.87" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°51'49.19" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°38'14.58" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°23'26.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°43'15.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°3'42.78" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°36'35.78" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BNE,  Bresbens,  Brisbane,  Brisbane City,  Brisbano,  Brisbehn,  Brisben,  Brisbena,  Brisbenas,  Brisbin,  Brismpein,  Brizbejn,  Brysben,  Brėsbens,  Pu-li-su-pan,  Pu-lî-sṳ̂-pân,  beulijeubeon,  brisabena,  brisben,  brisbena,  brizabana,  brizbeni,  brsbyn,  brysban,  bryzbn,  bryzbyn,  bryzbyyn,  bu li si ban,  bu li si ben,  burisuben,  pirispen,  Μπρίσμπεϊν,  Бризбейн,  Бризбејн,  Брисбен,  Брисбэн,  Брысбен,  בריזביין,  בריזבן,  برسبین,  برىسبان,  بريزبن,  بریزبن,  بریزبین,  بریزبێن,  ब्रिसबेन,  ब्रिस्बेन,  ব্রিসবেন,  ਬ੍ਰਿਜ਼ਬਨ,  பிரிஸ்பேன்,  బ్రిస్బేన్,  ಬ್ರಿಸ್ಬೇನ್
+Alternate Names: BNE, Bresbens, Brisbane, Brisbane City, Brisbano, Brisbehn, Brisben, Brisbena, Brisbenas, Brisbin, Brismpein, Brizbejn, Brysben, Brėsbens, Pu-li-su-pan, Pu-lî-sṳ̂-pân, beulijeubeon, brisabena, brisben, brisbena, brizabana, brizbeni, brsbyn, brysban, bryzbn, bryzbyn, bryzbyyn, bu li si ban, bu li si ben, burisuben, pirispen, Μπρίσμπεϊν, Бризбейн, Бризбејн, Брисбен, Брисбэн, Брысбен, בריזביין, בריזבן, برسبین, برىسبان, بريزبن, بریزبن, بریزبین, بریزبێن, ब्रिसबेन, ब्रिस्बेन, ব্রিসবেন, ਬ੍ਰਿਜ਼ਬਨ, பிரிஸ்பேன், బ్రిస్బేన్, ಬ್ರಿಸ್ಬೇನ್‌, ബ്രിസ്ബെയ്ൻ, บริสเบน, ဘရစ်စဘိန်းမြို့, ბრიზბენი, ብርዝበን, ブリスベン, 布里司班, 布里斯本, 布里斯班, 브리즈번
 
 ---

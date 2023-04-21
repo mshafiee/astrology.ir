@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'43.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'47.25" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°49'36.21" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°43'38.81" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°6'58.30" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'55.17" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°43'46.04" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°56'46.92" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°49'31.73" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°43'36.94" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°6'52.23" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'50.23" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°59'17.18" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'43.83" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°56'47.25" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°49'36.21" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°43'38.81" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°6'58.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'55.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°43'46.04" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°56'46.92" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°49'31.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°43'36.94" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°6'52.23" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'50.23" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°59'17.18" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: An Bhruiseil,  An Bhruiséil,  BRU,  Brasels,  Breissel,  Brisel,  Brisele,  Briuselis,  Brjuksel,  Brjusel',  Brjussel',  Brueksel,  Bruessel,  Bruesszel,  Bruiseal,  Bruksel,  Bruksela,  Brukseli,  Brukselo,  Brusehl',  Brusel,  Brusela,  Bruselas,  Bruseles,  Bruselj,  Bruselo,  Brusel·les,  Brussel,  Brussele,  Brussels,  Brussel·les,  Bruxel,  Bruxelas,  Bruxellae,  Bruxelles,  Brwsel,  Bryssel,  Bryusel,  Bryxelles,  Bréissel,  Brüksel,  Brüssel,  Brüsszel,  Citta di Bruxelles,  Città di Bruxelles,  City of Brussels,  Kota Brusel,  beulwisel,  bi lu xi,  braselasa,  braselsa,  brassels,  briuseli,  brwksl,  brysl,  bu lu sai er,  buryusseru,  Βρυξέλλες,  Брисел,  Брусэль,  Брюксел,  Брюсель,  Брюссель,  Բրյուսել,  בריסל,  بروكسل,  بروکسل,  بريۇسسېل,  ܒܪܘܟܣܠ,  ब्रसेल्स,  ব্রাসেলস,  บรัสเซลส์,  ბრიუსელი,  ブリュッセル,  布魯塞爾,  布鲁塞尔,  比律悉,  브뤼셀
+Alternate Names: An Bhruiseil, An Bhruiséil, BRU, Breissel, Brisel, Brisele, Briuselis, Brjuksel, Brjusel', Brjussel', Brueksel, Bruessel, Bruesszel, Bruiseal, Bruksel, Bruksela, Brukseli, Brukselo, Brusehl', Brusel, Brusela, Bruselas, Bruseles, Bruselj, Bruselo, Brusel·les, Brussel, Brussele, Brussels, Brussel·les, Bruxel, Bruxelas, Bruxellae, Bruxelles, Brwsel, Bryssel, Bryusel, Bryxelles, Bréissel, Brüksel, Brüssel, Brüsszel, Citta di Bruxelles, Città di Bruxelles, City of Brussels, Kota Brusel, beulwisel, braselasa, braselsa, brassels, briuseli, brwksl, brysl, bu lu sai er, buryusseru, Βρυξέλλες, Брисел, Брусэль, Брюксел, Брюсель, Брюссель, Բրյուսել, בריסל, بروكسل, بروکسل, بريۇسسېل, ܒܪܘܟܣܠ, ब्रसेल्स, ব্রাসেলস, บรัสเซลส์, ბრიუსელი, ブリュッセル, 布魯塞爾, 布鲁塞尔, 브뤼셀
 
 ---

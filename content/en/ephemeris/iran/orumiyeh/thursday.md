@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'29.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'29.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°5'12.15" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°45'38.26" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°18'0.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'39.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°15'1.64" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'29.87" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°5'16.43" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°45'39.88" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°18'6.17" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'44.53" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°23'41.32" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°43'29.49" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°5'12.15" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°45'38.26" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°17'51.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'24.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°6'44.91" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°18'6.17" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'44.53" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°23'41.32" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: OMH,  Orumiyeh,  Orūmīyeh,  Ourmia,  Reza'iyeh,  Rezaeyeh,  Rezaiyye,  Rezâiyye,  Rezā’īyeh,  Rizaiyeh,  Rizāiyeh,  Urmia,  Urmija,  Urmiya,  Urmiye,  Urmía,  Urumija,  Urumiyeh,  Urūmiyeh,  arwmyh,  arwmyt,  shhrstan arwmyh,  Úrmia,  Ûrmiye,  Урмия,  Урумия,  אורמיה,  أرومية,  ارومیه,  ارومیّه,  شهرستان ارومیه,  ܐܘܪܡܝܐ
+Alternate Names: OMH, Orumiyeh, Orūmīyeh, Ourmia, Reza'iyeh, Rezaeyeh, Rezaiyye, Rezâiyye, Rezā’īyeh, Rizaiyeh, Rizāiyeh, Urmia, Urmija, Urmiya, Urmiye, Urmía, Urumija, Urumiyeh, Urūmiyeh, arwmyh, arwmyt, shhrstan arwmyh, Úrmia, Ûrmiye, Урмия, Урумия, אורמיה, أرومية, ارومیه, ارومیّه, شهرستان ارومیه, ܐܘܪܡܝܐ
 
 ---

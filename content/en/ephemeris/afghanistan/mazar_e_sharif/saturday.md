@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'18.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°11'26.21" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°7'26.31" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°39'4.79" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°31'8.92" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'52.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°33'19.54" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°11'24.66" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°7'24.50" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°39'2.18" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°31'5.49" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'48.04" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°10'57.61" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'18.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'25.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°7'26.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°39'4.79" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°31'8.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'52.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°33'19.54" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°11'24.66" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°7'24.50" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°39'2.18" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°31'5.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'48.04" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°10'57.61" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: MZR,  Masar-e Scharif,  Mazar-e Sarif,  Mazar-e Sharif,  Mazar-e Šarif,  Mazar-e-Sharif,  Mazar-i Szarif,  Mazar-i-Sharif,  Mazare Srif,  Mazari Sharif,  Mazari-Sharif,  Mazār-e Sharīf,  Mazār-e Šarīf,  Mazār-i-Sharīf,  Mazāre S̄rīf,  majaleu-isyalipeu,  mazarisharifu,  mzar shryf,  Мазари-Шариф,  مزار شريف,  مزار شریف,  マザーリシャリーフ,  마자르이샤리프
+Alternate Names: MZR, Masar-e Scharif, Mazar-e Sarif, Mazar-e Sharif, Mazar-e Šarif, Mazar-e-Sharif, Mazar-i Szarif, Mazar-i-Sharif, Mazare Srif, Mazari Sharif, Mazari-Sharif, Mazār-e Sharīf, Mazār-e Šarīf, Mazār-i-Sharīf, Mazāre S̄rīf, majaleu-isyalipeu, mazarisharifu, mzar shryf, Мазари-Шариф, مزار شريف, مزار شریف, マザーリシャリーフ, 마자르이샤리프
 
 ---

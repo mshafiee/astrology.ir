@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'59.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'55.48" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°44'27.07" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°46'12.88" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°49'44.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'53.40" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°4'52.43" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°27'55.38" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°44'26.87" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°46'12.30" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°49'43.97" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'52.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°1'15.28" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°27'55.48" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°44'27.07" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°46'12.88" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°49'44.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'53.40" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°4'52.43" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|13°49'43.97" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'52.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°1'15.28" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: An Roimh,  An Ròimh,  An Róimh,  Erroma,  Hrom,  Lungsod ng Roma,  Mji wa Roma,  ROM,  Ramma,  Rhufain,  Rim,  Rim,  Roeme,  Rom,  Roma,  Rome,  Romma,  Romo,  Romë,  Rooma,  Roum,  Rym,  Rzym,  Råmma,  Rím,  Róm,  Róma,  Urbs,  loma,  luo ma,  luo ma shi,  rm,  rom,  roma,  romi,  rwm,  rwma,  rym,  Řím,  Ρώμη,  Рим,  Римъ,  Ром,  Рым,  Հռոմ,  רומא,  رم,  روم,  روما,  رىم,  ܪܘܡܐ,  रोम,  रोमा,  রোম,  โรม,  რომი,  ሮማ,  ローマ,  罗马市,  羅馬,  로마
+Alternate Names: An Roimh, An Ròimh, An Róimh, Erroma, Hrom, Lungsod ng Roma, Mji wa Roma, ROM, Ramma, Rhufain, Rim, Rim, Roeme, Rom, Roma, Rome, Romma, Romo, Romë, Rooma, Roum, Rym, Rzym, Råmma, Rím, Róm, Róma, Urbs, loma, luo ma shi, rm, rom, roma, romi, rwm, rwma, rym, Řím, Ρώμη, Рим, Римъ, Ром, Рым, Հռոմ, רומא, رم, روم, روما, رىم, ܪܘܡܐ, रोम, रोमा, রোম, โรม, რომი, ሮማ, ローマ, 罗马市, 로마
 
 ---

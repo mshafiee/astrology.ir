@@ -20,7 +20,7 @@ Latitude: -2.1962
 \-
 Longitude: -79.8862
 \-
-Altitude: 14 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Guayaquil, Ecuador" lat="-2.1962" lng="-79.8862" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'5.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'51.78" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°58'47.50" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|5°0'15.29" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°26'16.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°51'2.44" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°3'1.01" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|25°0'51.85" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°58'45.33" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|5°0'15.75" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°26'14.30" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'2.20" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°43'13.98" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°58'45.19" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|5°0'15.82" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|16°26'14.18" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'2.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°3'1.01" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|14°51'2.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°43'13.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: GYE,  Gouagiakil,  Guaiaquil,  Guaiaquilum,  Guajakil,  Guajakil',  Guayaquil,  Gvajakil,  Gvajakila,  Gvajakilis,  Gvajakilo,  Santiago de Guayaquil,  Wayakil,  ghwayakyl,  gu'a'i'akila,  gua ya ji er,  guayakiru,  gvayakila,  gwayakil,  gwayakl,  gwayakwyl,  gwayakywl,  kwa yaki l,  Γουαγιακίλ,  Гвајакил,  Гуаякил,  Гуаякиль,  Гуаякіль,  Ґуаякіль,  גואיאקיל,  غواياكيل,  گوآیاکوئل,  گوایاکل,  گوایاکیول,  ग्वायाकिल,  ਗੁਆਇਆਕੀਲ,  กวายากิล,  გუაიაკილი,  グアヤキル,  瓜亞基爾,  과야킬
+Alternate Names: GYE, Gouagiakil, Guaiaquil, Guaiaquilum, Guajakil, Guajakil', Guayaquil, Gvajakil, Gvajakila, Gvajakilis, Santiago de Guayaquil, Wayakil, ghwayakyl, gu'a'i'akila, gua ya ji er, guayakiru, gvayakila, gwayakil, gwayakl, gwayakwyl, gwayakywl, kwa yaki l, Γουαγιακίλ, Гвајакил, Гуаякил, Гуаякиль, Гуаякіль, Ґуаякіль, גואיאקיל, غواياكيل, گوآیاکوئل, گوایاکل, گوایاکیول, ग्वायाकिल, ਗੁਆਇਆਕੀਲ, กวายากิล, გუაიაკილი, グアヤキル, 瓜亞基爾, 과야킬
 
 ---

@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'43.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'39.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°10'15.70" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°44'8.63" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°37'6.98" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'45.45" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°15'1.55" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'38.84" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°10'12.24" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°44'11.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°37'4.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'46.50" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°39'56.53" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Chijv,  Civ,  Cív,  IEV,  Kaenugardur,  Keju,  Kiebo,  Kief,  Kieu,  Kiev,  Kiev osh,  Kievi,  Kievom,  Kievu,  Kiew,  Kiiev,  Kiiv,  Kijev,  Kijeva,  Kijevas,  Kijew,  Kijiv,  Kijivo,  Kijow,  Kijuw,  Kijv,  Kijów,  Kijůw,  Kiova,  Kiovia,  Kiyev,  Kiyiw,  Kiëf,  Kjiv,  Kueyiv,  Kyev,  Kyiiv,  Kyiv,  Kyiw,  Kyjev,  Kyjiv,  Kyjiw,  Kyèv,  Kænugarður,  Kíev,  Kîev,  Küyiv,  ji fu,  kheiyf,  kiu,  kiv,  kiva,  kiyebha,  kiyepeu,  kyf,  kyiva,  kyyf,  qyyb,  Κίεβο,  Кейӳ,  Киев,  Киев ош,  Киевом,  Киеву,  Київ,  Кијев,  Кыив,  Кыйив,  Кіеў,  Кꙑѥвъ,  Կիև,  קייב,  קיעוו,  كىيېۋ,  كييف,  کیف,  کیێڤ,  کی
+Alternate Names: Chijv, Civ, Cív, IEV, Kaenugardur, Keju, Kiebo, Kief, Kieu, Kiev, Kiev osh, Kievi, Kievo, Kiew, Kiiev, Kiiv, Kijev, Kijeva, Kijevas, Kijew, Kijow, Kijuw, Kijv, Kijów, Kijůw, Kiova, Kiovia, Kiyev, Kiyiw, Kiëf, Kjiv, Kueyiv, Kyev, Kyiiv, Kyiv, Kyiw, Kyjev, Kyjiv, Kyjiw, Kyèv, Kænugarður, Kíev, Kîev, Küyiv, ji fu, kheiyf, kiefu, kiv, kiva, kiyebha, kiyepeu, kyf, kyiva, kyyf, qyyb, Κίεβο, Кейӳ, Киев, Киев ош, Київ, Кијев, Кыив, Кыйив, Кіеў, Кꙑѥвъ, Կիև, קייב, קיעוו, كىيېۋ, كييف, کیف, کیێڤ, کی‌یف, कीव, क्यीव, কিয়েভ, கீவ், കീവ്, เคียฟ, ཀིབ།, ကီးယက်မြို့, კიევი, ኪየቭ, キエフ, 基輔, 키예프
 
 ---

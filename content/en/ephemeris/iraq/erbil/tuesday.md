@@ -20,7 +20,7 @@ Latitude: 36.1833
 \-
 Longitude: 44.0119
 \-
-Altitude: 412 meters
+Altitude: 428 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Erbil, Iraq" lat="36.1833" lng="44.0119" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:55:11 |
-| Sunrise | 05:18:34 |
+| Sunrise | 05:18:35 |
 | Dhuhr | 12:01:59 |
 | Medium Coeli | 12:01:59 |
 | Sunset | 18:45:58 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:45:21 |
-| Sunrise | 05:18:34 |
+| Sunrise | 05:18:35 |
 | Dhuhr | 12:01:59 |
 | Medium Coeli | 12:01:59 |
 | Sunset | 18:45:58 |
@@ -67,11 +67,11 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:43:35 |
-| Sunrise | 05:18:34 |
+| Sunrise | 05:18:35 |
 | Dhuhr | 12:01:59 |
 | Medium Coeli | 12:01:59 |
 | Sunset | 18:45:58 |
-| Maghrib | 18:49:39 |
+| Maghrib | 18:49:43 |
 | Isha | 20:15:27 |
 | Sharia Midnight | 23:14:00 |
 | Imum Coeli | 00:01:54 |
@@ -83,11 +83,11 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:00:53 |
-| Sunrise | 05:18:34 |
+| Sunrise | 05:18:35 |
 | Dhuhr | 12:01:59 |
 | Medium Coeli | 12:01:59 |
 | Sunset | 18:45:58 |
-| Maghrib | 18:49:39 |
+| Maghrib | 18:49:43 |
 | Isha | 20:03:56 |
 | Sharia Midnight | 23:22:42 |
 | Imum Coeli | 00:01:54 |
@@ -99,11 +99,11 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:34:43 |
-| Sunrise | 05:18:34 |
+| Sunrise | 05:18:35 |
 | Dhuhr | 12:01:59 |
 | Medium Coeli | 12:01:59 |
 | Sunset | 18:45:58 |
-| Maghrib | 18:49:39 |
+| Maghrib | 18:49:43 |
 | Isha | 20:18:23 |
 | Sharia Midnight | 23:09:32 |
 | Imum Coeli | 00:01:54 |
@@ -115,11 +115,11 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:43:35 |
-| Sunrise | 05:18:34 |
+| Sunrise | 05:18:35 |
 | Dhuhr | 12:01:59 |
 | Medium Coeli | 12:01:59 |
 | Sunset | 18:45:58 |
-| Maghrib | 18:49:39 |
+| Maghrib | 18:49:43 |
 | Isha | 20:21:19 |
 | Sharia Midnight | 23:14:00 |
 | Imum Coeli | 00:01:54 |
@@ -131,12 +131,12 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:40:39 |
-| Sunrise | 05:18:34 |
+| Sunrise | 05:18:35 |
 | Dhuhr | 12:01:59 |
 | Medium Coeli | 12:01:59 |
 | Sunset | 18:45:58 |
-| Maghrib | 18:49:39 |
-| Isha | 20:19:39 |
+| Maghrib | 18:49:43 |
+| Isha | 20:19:43 |
 | Sharia Midnight | 23:12:31 |
 | Imum Coeli | 00:01:54 |
 {{< /tab >}}
@@ -204,13 +204,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:27:24|Night duration: 10:31:24|
+|Duration of the day: 13:27:23|Night duration: 10:31:25|
 |Every hour of day duration: 01:07:17|Every hour of night duration: 00:52:37|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:18:34|06:25:50|Creating corruption, hatred, and enmity|
+|1|Mars|Ruler|05:18:35|06:25:50|Creating corruption, hatred, and enmity|
 |2|Sun|Servant|06:25:51|07:33:07|Attracting negativity, and avoiding any harmful action|
 |3|Venus|Servant|07:33:08|08:40:24|Attracting connection and marriage proposals|
 |4|Mercury|Servant|08:40:25|09:47:41|Attracting material wealth, prosperity, and business growth|
@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |9|Jupiter|Servant|01:46:54|02:39:30|Creating emotional attachment|
 |10|Mars|Servant|02:39:31|03:32:07|Attracting negativity, and avoiding any harmful action|
 |11|Sun|Servant|03:32:08|04:24:44|Attracting connection and marriage proposals|
-|12|Venus|Servant|04:24:45|05:17:21|Creating hatred and corruption to disrupt harmony|
+|12|Venus|Servant|04:24:45|05:17:22|Creating hatred and corruption to disrupt harmony|
 
  
  
@@ -250,20 +250,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:27:24|Night duration: 10:31:24|
-|Every hour duration: 01:55:21|Every hour duration: 01:30:12|
+|Duration of the day: 13:27:23|Night duration: 10:31:25|
+|Every hour duration: 01:55:20|Every hour duration: 01:30:12|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|05:18:34|07:13:53|
-|Mid-morning|Sun|Servant|07:13:54|09:09:14|
-|Late morning|Venus|Servant|09:09:15|11:04:34|
-|Noon|Mercury|Servant|11:04:35|12:59:55|
-|Early afternoon|Moon|Servant|12:59:56|14:55:15|
-|Mid-afternoon|Saturn|Servant|14:55:16|16:50:36|
+|Early morning|Mars|Ruler|05:18:35|07:13:54|
+|Mid-morning|Sun|Servant|07:13:55|09:09:14|
+|Late morning|Venus|Servant|09:09:15|11:04:35|
+|Noon|Mercury|Servant|11:04:36|12:59:55|
+|Early afternoon|Moon|Servant|12:59:56|14:55:16|
+|Mid-afternoon|Saturn|Servant|14:55:17|16:50:36|
 |Late afternoon|Jupiter|Servant|16:50:37|18:45:57|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Sun|Servant|23:16:34|00:46:45|
 |Rooster song|Venus|Servant|00:46:46|02:16:57|
 |False Dawn|Mercury|Servant|02:16:58|03:47:09|
-|Dawn|Moon|Servant|03:47:10|05:17:21|
+|Dawn|Moon|Servant|03:47:10|05:17:22|
 
 {{< /tab >}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'18.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'29.66" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°46'36.39" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°38'23.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°0'45.22" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'42.70" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°0'11.48" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|4°57'18.13" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°55'29.67" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°46'36.42" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°38'23.08" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°0'45.27" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'42.69" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°0'12.17" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'18.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'27.42" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'34.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°38'9.92" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°0'45.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'21.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°15'10.66" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°57'18.13" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°55'29.69" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'36.52" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°38'23.21" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°0'45.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'42.93" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°1'20.78" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Arbeel,  Arbela,  Arbil,  Arbēla,  Arbīl,  EBL,  Erbil,  Hawler,  Hawlēr,  Hewler,  Hewlêr,  Irbil,  Irbīl,  Viloati Arbil,  ai er bi lei sheng,  arbl,  arbyl,  arubiru xian,  hەwlێr,  mhafzt arbl,  mhafzt arbyl,  Арбил,  Вилояти Арбӣл,  מחוז ארביל,  أربيل,  إربل,  إربيل,  اربیل,  محافظة أربيل,  محافظة إربل,  هەولێر,  アルビール県,  埃爾比勒省
+Alternate Names: Arbeel, Arbela, Arbil, Arbēla, Arbīl, EBL, Erbil, Hawler, Hawlēr, Hewler, Hewlêr, Irbil, Irbīl, Viloati Arbil, ai er bi lei sheng, arbl, arbyl, arubiru xian, hەwlێr, mhafzt arbl, mhafzt arbyl, Арбил, Вилояти Арбӣл, מחוז ארביל, أربيل, إربل, إربيل, اربیل, محافظة أربيل, محافظة إربل, هەولێر, アルビール県, 埃爾比勒省
 
 ---

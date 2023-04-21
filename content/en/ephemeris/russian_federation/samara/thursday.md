@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°32'19.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°42'59.09" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°4'4.37" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°43'35.82" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°15'38.08" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°32'19.02" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°42'59.40" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°4'6.13" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°43'35.17" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°15'37.43" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°32'20.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°31'23.40" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|28°27'10.46" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'19.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'59.09" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'4.37" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°43'33.47" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°15'34.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'16.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°16'37.50" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°42'59.40" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°4'5.85" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°43'35.17" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°15'37.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'19.88" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°27'10.46" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: KUF,  Kuibyschew,  Kuibyshev,  Kujbyshev,  Kuybyshev,  Samar,  Samar khot,  Samar osh,  Samara,  Samarae,  Samare,  Samarga,  Samaro,  Samāra,  Szamara,  sa ma la,  sa ma ra,  samala,  samara,  smara,  smara  rws,  smrh,  Σαμάρα,  Куйбышев,  Самар,  Самар ош,  Самар хот,  Самарæ,  Самара,  Самаре,  Самарҕа,  Һамар,  Սամարա,  סמרה,  سامارا,  سامارہ,  سمارا,  سمارا، روس,  समारा,  ซามารา,  სამარა,  サマーラ,  薩馬拉,  사마라
+Alternate Names: KUF, Kuibyschew, Kuibyshev, Kujbyshev, Kuybyshev, Samar, Samar khot, Samar osh, Samara, Samarae, Samare, Samarga, Samāra, Szamara, sa ma la, sa ma ra, samala, samara, smara, smara  rws, smrh, Σαμάρα, Куйбышев, Самар, Самар ош, Самар хот, Самарæ, Самара, Самаре, Самарҕа, Һамар, Սամարա, סמרה, سامارا, سامارہ, سمارا, سمارا، روس, समारा, ซามารา, სამარა, サマーラ, 薩馬拉, 사마라
 
 ---

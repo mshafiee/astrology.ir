@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'37.94" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'1.86" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°37'38.33" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°44'41.37" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°58'1.94" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°37'33.79" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°44'42.30" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°27'23.27" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°37'9.17" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°50'1.48" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|12°47'4.20" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'37.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'0.11" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°37'30.72" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°44'31.60" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°27'14.16" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'52.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°34'51.93" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'1.99" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°37'33.86" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°44'42.61" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°27'23.52" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'9.64" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°49'10.25" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Carcovia,  Carcóvia,  Charcovia,  Charkiv,  Charkiw,  Charkov,  Charkovas,  Charkow,  Charków,  HRK,  Harkiv,  Harkiva,  Harkivo,  Harkov,  Harkova,  Jarkov,  Khar'kov,  Kharkiv,  Kharkov,  Khar’kov,  ha er ke fu,  haleukiu,  harikofu,  hrqwb,  kaleukipeu,  kalipeu,  kharkwf,  Ĥarkivo,  Ĥarkov,  Харков,  Харків,  Харьков,  חרקוב,  خاركوف,  ხარკოვი,  ハリコフ,  哈爾科夫,  카르키프,  카리프,  하르키우
+Alternate Names: Carcovia, Carcóvia, Charcovia, Charkiv, Charkiw, Charkov, Charkovas, Charkow, Charków, HRK, Harkiv, Harkiva, Harkivo, Harkov, Harkova, Jarkov, Khar'kov, Kharkiv, Kharkov, Khar’kov, ha er ke fu, haleukiu, harikofu, hrqwb, kaleukipeu, kalipeu, kharkwf, Ĥarkivo, Ĥarkov, Харков, Харків, Харьков, חרקוב, خاركوف, ხარკოვი, ハリコフ, 哈爾科夫, 카르키프, 카리프, 하르키우
 
 ---

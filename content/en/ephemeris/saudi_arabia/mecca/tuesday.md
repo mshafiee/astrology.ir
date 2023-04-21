@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'25.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'51.23" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°47'24.80" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°39'51.34" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°2'27.41" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'15.92" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°23'48.25" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°55'51.17" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°47'24.79" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°39'51.03" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°2'27.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'15.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°23'17.44" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'25.34" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'51.23" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°47'24.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°39'51.34" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°2'27.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'15.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°23'48.25" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'51.17" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°47'24.79" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°39'51.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°2'27.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'15.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°23'17.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: A Meca,  La Meca,  La Mecca,  La Mecque,  Macoraba,  Maekkae,  Makka,  Makkah,  Makkah al Mukarramah,  Makkah al Mukarraman,  Makkah al-Mukarramah,  Meca,  Mecca,  Mecka,  Meice,  Meka,  Mekao,  Meke,  Mekka,  Mekkah,  Mekke,  Mekko,  Mäkkä,  mai jia,  mak kah,  makka,  meka,  mekka,  mkh,  mkt,  mkt almkrmt,  Μέκκα,  Мека,  Мекка,  מכה,  مكة,  مكة المكرمة,  مکه,  مکہ,  মক্কা,  มักกะฮ์,  མ་ཁ།,  მექა,  メッカ,  麥加,  메카
+Alternate Names: A Meca, La Meca, La Mecca, La Mecque, Macoraba, Maekkae, Makka, Makkah, Makkah al Mukarramah, Makkah al Mukarraman, Makkah al-Mukarramah, Meca, Mecca, Mecka, Meice, Meka, Mekao, Meke, Mekka, Mekkah, Mekke, Mekko, Mäkkä, mai jia, mak kah, makka, meka, mekka, mkh, mkt, mkt almkrmt, Μέκκα, Мека, Мекка, מכה, مكة, مكة المكرمة, مکه, مکہ, মক্কা, มักกะฮ์, མ་ཁ།, მექა, メッカ, 麥加, 메카
 
 ---

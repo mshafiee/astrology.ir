@@ -20,7 +20,7 @@ Latitude: -37.8140
 \-
 Longitude: 144.9633
 \-
-Altitude: 25 meters
+Altitude: 58 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Melbourne, Australia" lat="-37.8140" lng="144.9633" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:18:59 |
 | Medium Coeli | 12:18:59 |
 | Sunset | 17:46:09 |
-| Maghrib | 17:47:19 |
+| Maghrib | 17:47:30 |
 | Isha | 19:10:03 |
 | Sharia Midnight | 23:34:36 |
 | Imum Coeli | 00:18:53 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:18:59 |
 | Medium Coeli | 12:18:59 |
 | Sunset | 17:46:09 |
-| Maghrib | 17:47:19 |
+| Maghrib | 17:47:30 |
 | Isha | 18:59:56 |
 | Sharia Midnight | 23:42:13 |
 | Imum Coeli | 00:18:53 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:18:59 |
 | Medium Coeli | 12:18:59 |
 | Sunset | 17:46:09 |
-| Maghrib | 17:47:19 |
+| Maghrib | 17:47:30 |
 | Isha | 19:12:35 |
 | Sharia Midnight | 23:30:48 |
 | Imum Coeli | 00:18:53 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:18:59 |
 | Medium Coeli | 12:18:59 |
 | Sunset | 17:46:09 |
-| Maghrib | 17:47:19 |
+| Maghrib | 17:47:30 |
 | Isha | 19:15:07 |
 | Sharia Midnight | 23:34:36 |
 | Imum Coeli | 00:18:53 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:18:59 |
 | Medium Coeli | 12:18:59 |
 | Sunset | 17:46:09 |
-| Maghrib | 17:47:19 |
-| Isha | 19:17:19 |
+| Maghrib | 17:47:30 |
+| Isha | 19:17:30 |
 | Sharia Midnight | 23:33:20 |
 | Imum Coeli | 00:18:53 |
 {{< /tab >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:54:51|Night duration: 13:06:03|
+|Duration of the day: 10:54:51|Night duration: 13:06:04|
 |Every hour of day duration: 00:54:34|Every hour of night duration: 01:05:30|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|17:46:09|18:51:38|Attracting love and creating emotional attachment|
 |2|Sun|Servant|18:51:39|19:57:08|Attracting good luck|
-|3|Venus|Servant|19:57:09|21:02:38|Attracting negativity, and avoiding any harmful action|
-|4|Mercury|Servant|21:02:39|22:08:09|Being hateful for a certain period of time|
+|3|Venus|Servant|19:57:09|21:02:39|Attracting negativity, and avoiding any harmful action|
+|4|Mercury|Servant|21:02:40|22:08:09|Being hateful for a certain period of time|
 |5|Moon|Servant|22:08:10|23:13:39|Gaining status, position, and attracting happiness in the workplace|
-|6|Saturn|Servant|23:13:40|00:19:09|Attracting attention and acceptance from important people|
-|7|Jupiter|Servant|00:19:10|01:24:39|Advancing and attracting wealth|
-|8|Mars|Ruler|01:24:40|02:30:10|Extremely lucky and achieving ultimate happiness|
-|9|Sun|Servant|02:30:11|03:35:40|Separating and making someone homeless|
-|10|Venus|Servant|03:35:41|04:41:10|Extremely hateful and causing harm|
-|11|Mercury|Servant|04:41:11|05:46:40|Creating a negative destiny for anyone|
-|12|Moon|Servant|05:46:41|06:52:11|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|6|Saturn|Servant|23:13:40|00:19:10|Attracting attention and acceptance from important people|
+|7|Jupiter|Servant|00:19:11|01:24:40|Advancing and attracting wealth|
+|8|Mars|Ruler|01:24:41|02:30:10|Extremely lucky and achieving ultimate happiness|
+|9|Sun|Servant|02:30:11|03:35:41|Separating and making someone homeless|
+|10|Venus|Servant|03:35:42|04:41:11|Extremely hateful and causing harm|
+|11|Mercury|Servant|04:41:12|05:46:41|Creating a negative destiny for anyone|
+|12|Moon|Servant|05:46:42|06:52:12|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:54:51|Night duration: 13:06:03|
+|Duration of the day: 10:54:51|Night duration: 13:06:04|
 |Every hour duration: 01:33:33|Every hour duration: 01:52:18|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mars|Ruler|17:46:09|19:38:25|
 |Late evening|Sun|Servant|19:38:26|21:30:43|
-|Midnight|Venus|Servant|21:30:44|23:23:00|
-|Late at night|Mercury|Servant|23:23:01|01:15:18|
-|Rooster song|Moon|Servant|01:15:19|03:07:35|
-|False Dawn|Saturn|Servant|03:07:36|04:59:53|
-|Dawn|Jupiter|Servant|04:59:54|06:52:11|
+|Midnight|Venus|Servant|21:30:44|23:23:01|
+|Late at night|Mercury|Servant|23:23:02|01:15:18|
+|Rooster song|Moon|Servant|01:15:19|03:07:36|
+|False Dawn|Saturn|Servant|03:07:37|04:59:54|
+|Dawn|Jupiter|Servant|04:59:55|06:52:12|
 
 {{< /tab >}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|0°30'58.89" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°11'14.32" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'46.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°12'44.43" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|10°12'44.45" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'26.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°54'38.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°29'59.03" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°30'54.63" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°11'10.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'40.10" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°45'6.66" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|23°54'38.91" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°30'0.10" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°30'58.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°11'14.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'46.33" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°12'44.45" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: MEL,  Mel'burn,  Melben,  Melbourne,  Melbourne City,  Melbournum,  Melburn,  Melburna,  Melburnas,  Melburno,  Melvourni,  mel beirn,  melaborna,  melbeoleun,  melbeon,  melporn,  meruborun,  mlbwrn,  mo er ben,  Μελβούρνη,  Мелбурн,  Мелбърн,  Мельбурн,  מלבורן,  ملبورن,  مېلبۇرن,  मेलबोर्न,  மெல்போர்ன்,  เมลเบิร์น,  མེར་བུན,  メルボルン,  墨尔本,  墨爾本,  멜버른,  멜번
+Alternate Names: MEL, Mel'burn, Melbourne, Melbourne City, Melbournum, Melburn, Melburna, Melburnas, Melburno, Melvourni, mel beirn, melaborna, melbeoleun, melbeon, melporn, meruborun, mlbwrn, mo er ben, Μελβούρνη, Мелбурн, Мелбърн, Мельбурн, מלבורן, ملبورن, مېلبۇرن, मेलबोर्न, மெல்போர்ன், เมลเบิร์น, མེར་བུན, メルボルン, 墨尔本, 墨爾本, 멜버른, 멜번
 
 ---

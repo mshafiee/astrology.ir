@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°47'37.64" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°14'22.68" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°2'27.44" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°37'44.92" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'39.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°38'31.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°37'44.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'39.36" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°35'31.42" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°47'37.64" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°14'22.68" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°2'27.44" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°37'44.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'39.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°38'31.85" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°37'44.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'39.36" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°35'31.42" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BEL,  Belem,  Belem do Para,  Belem do Pará,  Belemo,  Belen,  Belena,  Belenas,  Belém,  Belém do Pará,  Bethlehem,  Para,  Pará,  Santa Maria de Belem do Grao Para,  Santa Maria de Belém do Grão Pará,  Vele,  Velẽ,  bei lun,  belem,  belema,  beleng,  beleni,  belleng,  beren,  blm,  bylym,  Μπελέμ,  Белем,  Белен,  בלם,  بلم,  بيليم,  بیلیم,  बेलेम,  বেলেঁ,  বেলেম,  เบเลง,  ბელენი,  ベレン,  贝伦,  벨렝
+Alternate Names: BEL, Belem, Belem do Para, Belem do Pará, Belen, Belena, Belenas, Belém, Belém do Pará, Bethlehem, Para, Pará, Santa Maria de Belem do Grao Para, Santa Maria de Belém do Grão Pará, Vele, Velẽ, bei lun, belem, belema, beleng, beleni, belleng, beren, blm, bylym, Μπελέμ, Белем, Белен, בלם, بلم, بيليم, بیلیم, बेलेम, বেলেঁ, বেলেম, เบเลง, ბელენი, ベレン, 贝伦, 벨렝
 
 ---

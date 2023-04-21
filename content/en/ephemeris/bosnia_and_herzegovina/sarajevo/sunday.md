@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°47'53.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'39.03" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°43'54.24" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°45'4.61" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°48'30.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'1.43" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°54'11.85" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|4°47'54.06" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°27'39.48" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°43'51.19" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°45'7.73" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°48'28.41" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'4.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°49'19.63" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bosna-Sarai,  SJJ,  Saarayego,  Saireavo,  Sairéavó,  Saraeva,  Saraevo,  Saraevo osh,  Saragebo,  Saragiebo,  Saragievo,  Sarajeva,  Sarajevas,  Sarajevo,  Sarajevs,  Sarajevu,  Sarajevó,  Sarajewo,  Sarajèvo,  Saraxevo,  Saraybosna,  Sarayevo,  Sarayevu,  Seraium,  Serayevo,  Szarajevo,  Szarajevó,  Vrh Bosna,  carayevo,  sa la re wo,  sai la ye fu,  salayebo,  saraevo,  saraevuo,  sarajyww,  sarayavea,  sarayebho,  sarayevho,  sarayevo,  sarayewo,  sarayh ww,  sarayww,  sarayyfw,  srayyfw,  srayyww,  sryybw,  Σαράγεβο,  Σαράγιεβο,  Σαραγιεβο,  Сараева,  Сараево,  Сараево ош,  Сараєво,  Сарајево,  Сараѥво,  Սարաևո,  סאראיעווא,  סרייבו,  ساراجیوو,  ساراييفو,  سارايېۋو,  سارایه وو,  سارایوو,  سارایێڤۆ,  سرائیوو,  سراييفو,  सारायेव्हो,  সারায়েভো,  ਸਾਰਾਯੇਵੋ,  சாரயேவோ,  സരയാവോ,  ซาราเยโว,  ས་ར་ཇི་བོ།,  სარაევო,  ሳራዬቮ,  サラエヴォ,  塞拉耶佛,  薩拉熱窩,  사라예보
+Alternate Names: Bosna-Sarai, SJJ, Saarayego, Saireavo, Sairéavó, Saraeva, Saraevo, Saraevo osh, Saragebo, Saragiebo, Saragievo, Sarajeva, Sarajevas, Sarajevo, Sarajevs, Sarajevu, Sarajevó, Sarajewo, Sarajèvo, Saraxevo, Saraybosna, Sarayevo, Sarayevu, Seraium, Serayevo, Szarajevo, Szarajevó, Vrh Bosna, carayevo, sa la re wo, sai la ye fu, salayebo, saraevo, saraevu~o, sarajyww, sarayavea, sarayebho, sarayevho, sarayevo, sarayewo, sarayh ww, sarayww, sarayyfw, srayyfw, srayyww, sryybw, Σαράγεβο, Σαράγιεβο, Σαραγιεβο, Сараева, Сараево, Сараево ош, Сараєво, Сарајево, Сараѥво, Սարաևո, סאראיעווא, סרייבו, ساراجیوو, ساراييفو, سارايېۋو, سارایه وو, سارایوو, سارایێڤۆ, سرائیوو, سراييفو, सारायेव्हो, সারায়েভো, ਸਾਰਾਯੇਵੋ, சாரயேவோ, സരയാവോ, ซาราเยโว, ས་ར་ཇི་བོ།, სარაევო, ሳራዬቮ, サラエヴォ, 塞拉耶佛, 薩拉熱窩, 사라예보
 
 ---

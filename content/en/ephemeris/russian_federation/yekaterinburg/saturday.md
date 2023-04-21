@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'15.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'16.04" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°7'7.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°38'29.09" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°30'27.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'1.78" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°53'36.59" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°11'15.91" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°7'6.42" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°38'28.39" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°30'26.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'0.32" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°46'30.62" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Catharinoburgum,  Ekaterimburgo,  Ekaterinbourg,  Ekaterinburg,  Ekaterinburgo,  Ekatěrinburg,  Jekaterinburg,  Jekaterinburga,  Jekaterinburgas,  Jekaterinenburg,  Jekaterynburg,  Jekatyerinburg,  SVX,  Sverdlovsk,  Sverolovsk,  Yekaterinburg,  ekaterinburuku,  ye ka jie lin bao,  yekatelinbuleukeu,  yqtrynbwrg,  Екатеринбург,  Свердловск,  יקטרינבורג,  エカテリンブルク,  葉卡捷琳堡,  예카테린부르크
+Alternate Names: Catharinoburgum, Ekaterimburgo, Ekaterinbourg, Ekaterinburg, Ekaterinburgo, Ekatěrinburg, Jekaterinburg, Jekaterinburga, Jekaterinburgas, Jekaterinenburg, Jekaterynburg, Jekatyerinburg, SVX, Sverdlovsk, Sverolovsk, Yekaterinburg, ekaterinburuku, ye ka jie lin bao, yekatelinbuleukeu, yqtrynbwrg, Екатеринбург, Свердловск, יקטרינבורג, エカテリンブルク, 葉卡捷琳堡, 예카테린부르크
 
 ---

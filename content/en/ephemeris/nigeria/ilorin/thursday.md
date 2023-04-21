@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'10.86" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°45'25.11" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°9'28.25" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°53'28.85" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°27'12.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'29.10" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°43'28.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°9'28.52" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°53'28.86" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°27'12.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'41.15" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°25'37.89" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'10.86" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°45'25.11" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°9'28.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°53'28.85" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°27'12.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'40.96" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°25'33.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°9'28.52" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°53'28.86" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°27'12.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'41.15" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°25'37.89" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ILR,  Illorin,  Ilorin,  Ilorinas,  Iloryn,  alwrn,  illolin,  irorin,  yi luo lin,  Ілорын,  Илорин,  אילורין,  الورن,  イロリン,  伊洛林,  일로린
+Alternate Names: ILR, Illorin, Ilorin, Ilorinas, Iloryn, alwrn, illolin, irorin, yi luo lin, Ілорын, Илорин, אילורין, الورن, イロリン, 伊洛林, 일로린
 
 ---

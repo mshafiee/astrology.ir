@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°47'21.30" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°40'47.92" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'34.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°28'57.22" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|27°32'53.32" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'0.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'25.88" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°13'26.49" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°11'57.48" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°47'21.30" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°40'47.92" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°35'34.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°28'57.22" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|27°32'53.32" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Can Pfumo,  Kapfumo,  Lourenco Marques,  Lourenço Marques,  MPM,  Mabuto,  Mabutu,  Mapouto,  Maputo,  Maputu,  Mapútó,  ma pu to,  ma pu tuo,  mabwtw,  maputo,  maputto,  maputu,  mapwtw,  mpwtw,  Μαπούτο,  Мапуто,  Мапуту,  Մապուտու,  מפוטו,  مابوتو,  ماپوتو,  ماپوتۆ,  ماپوٹو,  मापुतो,  ਮਾਪੂਤੋ,  மபூட்டோ,  มาปูโต,  མ་པུ་ཊོ།,  მაპუტუ,  ማፑቶ,  マプト,  马普托,  마푸토,  마푸투
+Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투
 
 ---

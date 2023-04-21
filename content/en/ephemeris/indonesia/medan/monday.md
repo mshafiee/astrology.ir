@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'52.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°39'16.53" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°9'58.52" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°32'19.52" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°43'40.22" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°17'48.36" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°52'12.79" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°39'19.13" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°10'5.06" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°32'34.64" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°43'55.62" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'14.07" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°31'19.66" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'52.13" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°39'16.53" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°9'58.52" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°32'19.52" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°43'40.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°17'48.36" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°52'12.79" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|24°39'19.13" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°10'5.06" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°32'34.64" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°43'55.62" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°18'14.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°31'19.66" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kota Medan,  Kuta Medan,  Kuta Mèdan,  Kutha Medan,  MES,  Medan,  Medana,  Medanas,  Medano,  Mentan,  mdan,  me dan,  medan,  metan,  mian lan,  mydan,  Μεντάν,  Медан,  مدان,  ميدان,  میدان ، انڈونیشیا,  மேடான்,  เมดาน,  メダン,  棉蘭,  메단
+Alternate Names: Kota Medan, Kuta Medan, Kuta Mèdan, Kutha Medan, MES, Medan, Medana, Medanas, Medano, Mentan, mdan, me dan, medan, metan, mian lan, mydan, Μεντάν, Медан, مدان, ميدان, میدان ، انڈونیشیا, மேடான், เมดาน, メダン, 棉蘭, 메단
 
 ---

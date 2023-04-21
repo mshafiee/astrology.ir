@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'19.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°2'49.50" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°48'17.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°4'7.38" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°50'15.30" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'3.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|16°6'25.62" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°2'52.20" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°48'20.11" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°4'23.14" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°50'26.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'26.63" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°47'50.74" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'19.72" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'49.50" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°48'17.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°4'7.38" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°50'15.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'3.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°6'25.62" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'52.22" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°48'20.54" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°4'23.24" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°50'26.82" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'26.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°47'50.74" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: MAR,  Maracaibo,  Marakaibas,  Marakaibo,  Marakaimpo,  Marakajba,  Marakajbo,  Marakaybo,  Marakaypu,  ma la kai bo,  ma ra ki bo,  malakaibo,  maraka'ibo,  marakaibo,  marakaybw,  Μαρακάιμπο,  Маракаибо,  Маракайба,  Маракайбо,  Մարակայբո,  מרקאיבו,  ماراكايبو,  माराकाईबो,  ਮਾਰਾਕਾਈਬੋ,  มาราไกโบ,  მარაკაიბო,  マラカイボ,  马拉开波,  마라카이보
+Alternate Names: MAR, Maracaibo, Marakaibas, Marakaibo, Marakaimpo, Marakajba, Marakajbo, Marakaybo, Marakaypu, ma la kai bo, ma ra ki bo, malakaibo, maraka'ibo, marakaibo, marakaybw, Μαρακάιμπο, Маракаибо, Маракайба, Маракайбо, Մարակայբո, מרקאיבו, ماراكايبو, माराकाईबो, ਮਾਰਾਕਾਈਬੋ, มาราไกโบ, მარაკაიბო, マラカイボ, 马拉开波, 마라카이보
 
 ---

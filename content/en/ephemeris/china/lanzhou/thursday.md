@@ -292,23 +292,23 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'39.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°41'7.28" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°59'59.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°35'56.43" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°6'43.67" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'4.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°33'38.46" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°41'9.50" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°0'1.30" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°36'9.64" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°6'52.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'24.26" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°9'15.51" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Mars|Mars|Mars|Mars|
-|♂ Mars|Venus|Jupiter|Venus|Mars|
+|♂ Mars|Venus|Venus|Venus|Mars|
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°41'9.50" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°0'1.30" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°36'9.64" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°6'52.53" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'22.22" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°2'27.62" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°6'54.11" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'24.26" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°9'15.51" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Kao-lan-hsien,  Kaolan,  LHW,  Lan Chau,  Lan Châu,  Lan'chzhou,  Lan'chzhou shaary,  Lan'zhou,  Lan-chiu-chhi,  Lan-chou,  Lan-chou-shih,  Lan-cou,  Lan-čou,  Lanchjou,  Lanchow,  Lanchowfu,  Lancsou,  Landzhou,  Landzou,  Landžou,  Lang-ciu,  Langouo,  Lantsjou,  Lantsoou,  Lanzcouh,  Lanzhou,  Lanzhou Shi,  Lanĝoŭo,  Laņdžou,  Làng-ciŭ,  Lân-chiu-chhī,  hlan cow,  lan zhou,  lan zhou shi,  lanazu,  lanjeou si,  lanjhu,  lantshw,  lanzhw,  Λαντσόου,  Ланджоу,  Ланьжоу,  Ланьчжоу,  Ланьчжоу шаары,  Ланџоу,  لانتشو,  لانزہو,  لانژو,  لەنجۇ شەھىرى,  लान्झू,  ਲਾਨਜ਼ੂ,  หลานโจว,  ལན་ཀྲོའུ།,  兰州,  兰州市,  蘭州,  蘭州市,  란저우 시
+Alternate Names: Kao-lan-hsien, Kaolan, LHW, Lan Chau, Lan Châu, Lan'chzhou, Lan'chzhou shaary, Lan'zhou, Lan-chiu-chhi, Lan-chou, Lan-chou-shih, Lan-cou, Lan-čou, Lanchjou, Lanchow, Lanchowfu, Lancsou, Landzhou, Landzou, Landžou, Lang-ciu, Langouo, Lantsjou, Lantsoou, Lanzcouh, Lanzhou, Lanzhou Shi, Lanĝoŭo, Laņdžou, Làng-ciŭ, Lân-chiu-chhī, hlan cow, lan zhou, lan zhou shi, lanazu, lanjeou si, lanjhu, lantshw, lanzhw, Λαντσόου, Ланджоу, Ланьжоу, Ланьчжоу, Ланьчжоу шаары, Ланџоу, لانتشو, لانزہو, لانژو, لەنجۇ شەھىرى, लान्झू, ਲਾਨਜ਼ੂ, หลานโจว, ལན་ཀྲོའུ།, 兰州, 兰州市, 蘭州, 蘭州市, 란저우 시
 
 ---

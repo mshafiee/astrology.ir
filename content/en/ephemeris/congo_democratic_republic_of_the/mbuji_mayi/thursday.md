@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|29°50'52.95" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|10°24'8.76" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°33'23.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°51'16.29" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°54'28.16" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,10 +331,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'57.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'45.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°8'6.50" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°50'43.76" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°24'7.71" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|23°44'46.68" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°8'2.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°50'52.95" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°24'8.76" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°33'23.82" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|0°54'28.16" |Taurus|Thurayya|Mercury|
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: MJM,  Mbuji-Mayi,  Mbuy Mayi,  Mbuzhi-Maji,  Мбужи-Майи
+Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи
 
 ---

@@ -298,7 +298,7 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |☉ خورشید|پیشرو| "۵۴ '۴۱ ۰°|بره|شَرَطَين|بهرام|
 |♀ ناهید|پیشرو| "۵ '۲۴ ۱۱°|گاو|دَبَرَان|ماه|
 |☿ تیر|پسرو| "۷ '۳۷ ۱۵°|بره|بُطَين|خورشید|
-|☾ ماه|پیشرو| "۴۹ '۲۰ ۱۲°|بره|شَرَطَين|خورشید|
+|☾ ماه|پیشرو| "۱۶ '۲۰ ۱۲°|بره|شَرَطَين|خورشید|
 
 
 |سیاره|حد مصری|حد بطلمیوسی|دریگان|اردگان|
@@ -378,6 +378,6 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |**☾ ماه**|✱ تسدیس| |✱ تسدیس|☌ مقارنه| |☌ مقارنه|
 
 ---
-نام‌های دیگر: MHD, Masant, Masat, Maschhad, Mashad, Mashado, Mashhad, Mashkhad, Masyhad, Maxhad, Maŝhado, Maşat, Mašhad, Mașhad, Meixad, Meshed, Mesheda, Meshedas, Meshkhed, MeshkhӀed, Meszhed, Mexed, Meşhed, Mešheda, Mešhedas, Məshəd, Məşhəd, ma shen ha de, mach had, macukat, masahada, mashuhado, masyuhadeu, meshhedi, mshd, mshhd, Μασάντ, Машхад, Машҳад, Мешхед, МешхӀед, Мешһед, Мәшһәд, Մաշհադ, משהד, مشهد, مشہد, مەشھەد, मशहद, মাশহাদ, ਮਸ਼ਹਦ, மசுகாத், മശ്
+نام‌های دیگر: MHD, Masant, Masat, Maschhad, Mashad, Mashado, Mashhad, Mashkhad, Masyhad, Maxhad, Maŝhado, Maşat, Mašhad, Mașhad, Meixad, Meshed, Mesheda, Meshedas, Meshkhed, MeshkhӀed, Meszhed, Mexed, Meşhed, Mešheda, Mešhedas, Məshəd, Məşhəd, ma shen ha de, mach had, macukat, masahada, mashuhado, masyuhadeu, meshhedi, mshd, mshhd, Μασάντ, Машхад, Машҳад, Мешхед, МешхӀед, Мешһед, Мәшһәд, Մաշհադ, משהד, مشهد, مشہد, مەشھەد, मशहद, মাশহাদ, ਮਸ਼ਹਦ, மசுகாத், മശ്‌ഹദ്, มัชฮัด, მეშჰედი, マシュハド, 馬什哈德, 마슈하드
 
 ---

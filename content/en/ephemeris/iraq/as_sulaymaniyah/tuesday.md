@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'17.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'26.70" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°46'34.43" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°38'10.59" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°0'36.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'46.54" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°34'42.56" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°55'26.93" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°46'30.20" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°38'11.96" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°0'32.26" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'46.65" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°58'9.73" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'16.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'26.70" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'34.43" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°38'10.59" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°0'36.32" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'46.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°34'42.56" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°57'17.22" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°55'26.93" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'30.20" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°38'11.96" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°0'32.26" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'46.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°58'9.73" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Al-Sulaimaniya,  As Sulaymaniyah,  As Sulaymānīyah,  As-Sulajmanijja,  ISU,  Silemani,  Silêmanî,  Sleimani,  Sleimāni,  Slemani,  Slêmanî,  Slēmānī,  Solimania,  Souleimaniye,  Sueleymaniye,  Sulaimani,  Sulaimania,  Sulaimanieh,  Sulaimaniya,  Sulaimaniyya,  Sulaimany,  Sulaymaniyah,  Sulaymaniyya,  Sulaymānīyah,  Suleimania,  Suleimaniya,  Suleimaniyah,  Sulejmanija,  Süleymaniye,  alslymanyt,  slymanyh,  Сулеймания,  السليمانية,  سلیمانیه,  سلێمانى,  سلێمانی
+Alternate Names: Al-Sulaimaniya, As Sulaymaniyah, As Sulaymānīyah, As-Sulajmanijja, ISU, Silemani, Silêmanî, Sleimani, Sleimāni, Slemani, Slêmanî, Slēmānī, Solimania, Souleimaniye, Sueleymaniye, Sulaimani, Sulaimania, Sulaimanieh, Sulaimaniya, Sulaimaniyya, Sulaimany, Sulaymaniyah, Sulaymaniyya, Sulaymānīyah, Suleimania, Suleimaniya, Suleimaniyah, Sulejmanija, Süleymaniye, alslymanyt, slymanyh, Сулеймания, السليمانية, سلیمانیه, سلێمانى, سلێمانی
 
 ---

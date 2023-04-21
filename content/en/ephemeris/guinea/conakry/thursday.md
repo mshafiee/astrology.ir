@@ -292,7 +292,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'26.19" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°46'6.23" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°46'8.32" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°11'4.29" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°56'24.37" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|10°30'38.55" |Taurus|Dabaran|Moon|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'26.19" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°46'6.23" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°11'6.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°56'11.74" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°30'34.00" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'45.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°41'5.79" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°46'8.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°11'4.29" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°56'24.37" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°30'38.55" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'0.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°6'7.23" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: CKY,  Conacri,  Conakry,  Konakri,  Konakrio,  Konakris,  Konakry,  ke na ke li,  konakeuli,  konakuri,  Κόνακρι,  Конакри,  קונאקרי,  コナクリ,  科納克里,  코나크리
+Alternate Names: CKY, Conacri, Conakry, Konakri, Konakrio, Konakris, Konakry, ke na ke li, konakeuli, konakuri, Κόνακρι, Конакри, קונאקרי, コナクリ, 科納克里, 코나크리
 
 ---

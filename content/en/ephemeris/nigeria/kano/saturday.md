@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'13.34" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°14'3.64" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°13'20.94" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°49'52.00" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°43'45.07" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'19.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°59'0.10" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|14°13'20.37" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°49'51.67" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°43'44.28" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'18.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°54'47.73" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Byen Kano,  Cano,  KAN,  Kanas,  Kano,  Kánò,  ka nuo,  kano,  kanw,  kanw  nyjryh,  qnw,  Кано,  קנו,  كانو,  کانو,  کانو، نیجریه,  कानो,  ਕਾਨੋ,  கனோ,  カノ,  卡諾,  카노
+Alternate Names: Byen Kano, Cano, KAN, Kanas, Kano, Kánò, ka nuo, kano, kanw, kanw  nyjryh, qnw, Кано, קנו, كانو, کانو, کانو، نیجریه, कानो, ਕਾਨੋ, கனோ, カノ, 卡諾, 카노
 
 ---

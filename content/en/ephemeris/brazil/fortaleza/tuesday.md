@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°58'32.75" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°59'13.81" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°55'3.03" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°53'33.92" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°18'23.62" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°53'22.99" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°45'10.89" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|4°53'36.60" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°18'28.80" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°53'28.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°19'52.07" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'32.75" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°59'13.81" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°55'3.03" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°53'36.60" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°18'28.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°53'28.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°19'52.07" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°59'13.86" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°55'2.35" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°53'36.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°18'28.11" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°53'28.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°13'20.48" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Ceara,  Ceará,  FOR,  Fartaleza,  Fortalaetia,  Fortaleza,  Fortaleza Nova de Braganca,  Fortaleza Nova de Bragança,  Fortaleza de Nova Braganca,  Fortaleza de Nova Bragança,  Fortalezae,  Fortalezo,  f xr tale sa,  forutareza,  fu ta lei sa,  fwrtalyza,  fwrtalza,  phartalija,  phortaleja,  phortalejha,  poleutalleja,  pwrtlzh,  Φορταλέζα,  Фарталеза,  Форталезæ,  Форталеза,  פורטלזה,  فورتالزا,  فورتاليزا,  फोर्तालेझा,  ফর্তালিজা,  ফোর্টালেজা,  ฟอร์ตาเลซา,  ფორტალეზა,  フォルタレザ,  福塔雷萨,  福塔雷薩,  포르탈레자
+Alternate Names: Ceara, Ceará, FOR, Fartaleza, Fortalaetia, Fortaleza, Fortaleza Nova de Braganca, Fortaleza Nova de Bragança, Fortaleza de Nova Braganca, Fortaleza de Nova Bragança, Fortalezae, Fortalezo, f xr tale sa, forutareza, fu ta lei sa, fwrtalyza, fwrtalza, phartalija, phortaleja, phortalejha, poleutalleja, pwrtlzh, Φορταλέζα, Фарталеза, Форталезæ, Форталеза, פורטלזה, فورتالزا, فورتاليزا, फोर्तालेझा, ফর্তালিজা, ফোর্টালেজা, ฟอร์ตาเลซา, ფორტალეზა, フォルタレザ, 福塔雷萨, 福塔雷薩, 포르탈레자
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'38.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°23'59.83" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°35'38.03" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°30'14.92" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°31'3.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'30.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°41'32.79" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'59.94" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°35'36.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°30'15.62" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°31'2.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'31.25" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°37'22.47" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'38.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'59.83" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°35'38.03" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°30'14.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°31'3.06" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'30.38" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°38'25.43" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°46'38.80" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°23'59.94" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°35'36.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°30'15.62" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°31'2.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'31.25" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°37'22.47" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Daiyienz,  T'ai-yuan-shih,  TYN,  Tai-nguong,  Taigiouan,  Taijuan,  Taijuana,  Taijuaņa,  Taiyuan,  Taiyuan Shi,  Taiyuan-fu,  Taiyuenum,  Taiyüan-fu,  Tajjuan',  Tajjuean,  Tajjuen,  Tajjüan,  Tajuanas,  Tajuano,  Tayyuan,  Tchaj-juean,  Tchaj-jüan,  Thai Nguyen,  Thai-goan-chhi,  Thài-goân-chhī,  Thái Nguyên,  Tái-nguòng,  T’ai-yüan-shih,  Yang-ch'u,  Yang-ch’ü,  Yangku,  Yangkü,  Yanka,  ta'iyu'ana,  tai yuan,  tai yuan shi,  taiwian si,  tay ywan,  tayy ywan,  tayywan,  thayyu'ana,  thi hywn,  Ταϊγιουάν,  Таијуан,  Тайюань,  Тайюен,  טאי-יואן,  تائی یوآن,  تائی
+Alternate Names: Daiyienz, T'ai-yuan-shih, TYN, Tai-nguong, Taigiouan, Taijuan, Taijuana, Taijuaņa, Taiyuan, Taiyuan Shi, Taiyuan-fu, Taiyuenum, Taiyüan-fu, Tajjuan', Tajjuean, Tajjuen, Tajjüan, Tajuanas, Tajuano, Tayyuan, Tchaj-juean, Tchaj-jüan, Thai Nguyen, Thai-goan-chhi, Thài-goân-chhī, Thái Nguyên, Tái-nguòng, T’ai-yüan-shih, Yang-ch'u, Yang-ch’ü, Yangku, Yangkü, Yanka, ta'iyu'ana, tai yuan, tai yuan shi, taiwian si, tay ywan, tayy ywan, tayywan, thayyu'ana, thi hywn, Ταϊγιουάν, Таијуан, Тайюань, Тайюен, טאי-יואן, تائی یوآن, تائی‌یوان, تاي يوان, تاییوان, تەييۈەن شەھىرى, ताइयुआन, थाय्युआन, ਤਾਈਯੂਆਨ, ไท่หยวน, 太原, 太原市, 타이위안 시
 
 ---

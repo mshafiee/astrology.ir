@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'41.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°53'39.33" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°42'28.20" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°30'54.22" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°52'3.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°1'19.57" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°38'4.38" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|4°56'41.51" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°53'39.86" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°42'28.24" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°30'57.16" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°52'4.70" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°1'20.55" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°48'52.48" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'41.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°53'39.33" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°42'28.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°30'54.22" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°52'3.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'16.12" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°43'51.12" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°53'39.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°42'28.24" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°30'57.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°52'4.70" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°1'20.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°48'52.48" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kota Padang,  Kuta Padang,  Kutha Padang,  PDG,  Padang,  Padangas,  Padango,  ba dong,  badangh,  pa dang,  padan,  padang,  padanga,  padng  andwnzy,  Паданг,  بادانغ,  پادانگ,  پادنگ، اندونزی,  پاڈانگ,  पादांग,  ปาดัง,  パダン,  巴東,  파당
+Alternate Names: Kota Padang, Kuta Padang, Kutha Padang, PDG, Padang, Padangas, Padango, ba dong, badangh, pa dang, padan, padang, padanga, padng  andwnzy, Паданг, بادانغ, پادانگ, پادنگ، اندونزی, پاڈانگ, पादांग, ปาดัง, パダン, 巴東, 파당
 
 ---

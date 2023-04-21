@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°47'42.15" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°27'4.52" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°42'31.79" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°42'46.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°45'41.63" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'34.94" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°37'4.11" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|2°42'40.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°45'36.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'25.15" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°1'22.41" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Byen Djibouti,  Cibuti,  Dinas Jibwti,  Diobuiti,  Diobúití,  Djiboeti,  Djibouti,  Djibouti Chhi,  Djibouti Chhī,  Djibuti,  Dschibuti,  Dzhibuti,  Dzhybuci,  Dzibuti,  Dzibutis,  Dzjibuty,  Dzjibûty,  Dzsibuti,  Dżibuti,  Džibuti,  Džibutis,  Džíbútí,  Gibuti,  Gibuto,  Gibutum,  Ilu Djibouti,  JIB,  Jabuuti,  Jiboti,  Jibouti,  Jibuti,  Lungsod ng Djibouti,  Mbanza ya Djibuti,  Sita Jibouti,  Syudad han Djibouti,  Tzimpouti,  Xibuti,  Xibutí,  Yibuti,  Zhibuti shaary,  ci buti,  ciputti,  dzsybwty,  gybwty,  jbwty,  jbwty ʿlaqہ,  ji bu de shi,  ji bu ti cheng,  jibuchi shi,  jibuti,  jybwty,  jybwwty,  Ìlú Djibouti,  Ĝibuto,  Τζιμπουτί,  Џибути,  Джибути,  Джибуті,  Джыбуці,  Жибути шаары,  Ҷибути,  Ջիբութի,  גיבוטי,  דזשיבוטי,  جبوتی,  جبوتی علاقہ,  جيبوتي,  جیبوتی,  جیبووتی,  जिबूती,  জিবুতি,  ਜਿਬੂਤੀ,  சீபூத்தீ,  จิบูตี,  ཇི་བའོ་ཊི།,  ჯიბუტი,  ジブチ市,  吉布地市,  吉布提城,  지부티
+Alternate Names: Byen Djibouti, Cibuti, Dinas Jibwti, Diobuiti, Diobúití, Djiboeti, Djibouti, Djibouti Chhi, Djibouti Chhī, Djibuti, Dschibuti, Dzhibuti, Dzhybuci, Dzibuti, Dzibutis, Dzjibuty, Dzjibûty, Dzsibuti, Dżibuti, Džibuti, Džibutis, Džíbútí, Gibuti, Gibuto, Gibutum, Ilu Djibouti, JIB, Jabuuti, Jiboti, Jibouti, Jibuti, Lungsod ng Djibouti, Mbanza ya Djibuti, Sita Jibouti, Syudad han Djibouti, Tzimpouti, Xibuti, Xibutí, Yibuti, Zhibuti shaary, ci buti, ciputti, dzsybwty, gybwty, jbwty, jbwty ʿlaqہ, ji bu de shi, ji bu ti cheng, jibuchi shi, jibuti, jybwty, jybwwty, Ìlú Djibouti, Ĝibuto, Τζιμπουτί, Џибути, Джибути, Джибуті, Джыбуці, Жибути шаары, Ҷибути, Ջիբութի, גיבוטי, דזשיבוטי, جبوتی, جبوتی علاقہ, جيبوتي, جیبوتی, جیبووتی, जिबूती, জিবুতি, ਜਿਬੂਤੀ, சீபூத்தீ, จิบูตี, ཇི་བའོ་ཊི།, ჯიბუტი, ジブチ市, 吉布地市, 吉布提城, 지부티
 
 ---

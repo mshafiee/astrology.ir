@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'25.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°52'52.43" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°40'38.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°27'40.06" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°48'14.91" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°1'57.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°37'43.96" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|4°56'26.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°52'54.31" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°40'44.64" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°27'51.16" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°48'27.48" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°2'16.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°53'20.46" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,9 +333,9 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°56'26.30" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°52'54.31" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°40'44.64" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°27'40.06" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°48'14.91" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'57.21" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|4°27'51.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°48'27.48" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°2'16.89" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|1°53'20.46" |Cancer|Nathrah|Venus|
 
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CAN,  Cantao,  Canton,  Cantão,  Cantón,  Fan-yu,  Fan-yü,  Guanchjou,  Guanchzhou,  Guanczou,  Guand'ou,  Guandzhou,  Guandzou,  Guandžou,  Guangdzou,  Guangdzov,  Guangdžou,  Guangdžov,  Guangjow,  Guangsu,  Guangzhou,  Guangzhou Shi,  Guanzhou,  Guančžou,  Guaңҗu,  Guong-ciu,  Guōng-ciŭ,  Gvangjcouh,  Kanton,  Kantono,  Kng-chiu-chhi,  Kong-chu-su,  Kouan'nktsoou,  Kouang-chou,  Kuang-chou,  Kuang-chou-shih,  Kwang-chowfu,  Kwangchow,  Kwangtsjou,  Kóng-chû-sṳ,  Kńg-chiu-chhī,  P'an-yu,  Puyun,  Puyün,  P’an-yü,  Quancheum,  Quancjou,  Quang Chau,  Quançjou,  Quảng Châu,  Shengcheng,  ghwanzw,  gu'angazu,  guang zhou,  guang zhou shi,  guanjou,  guyanjho,  gvangajho'u,  gvanjea,  gwangjeou,  gwangjeou si,  gwangzhw,  gwʼnggwʼw,  kantwn,  kuvanco,  kvangacau,  kwang cow,  shynyang,  Κουανγκτσόου,  Гуангџоу,  Гуанджоу,  Гуандьоу,  Гуанжоу,  Гуанчжоу,  Гуанчжоў,  Гуаңҗу,  Кантон,  Գուանչժոու,  גואנגגואו,  شینیانگ,  غوانزو,  کانتون,  گوانگژو,  گوانگ
+Alternate Names: CAN, Cantao, Canton, Cantão, Cantón, Fan-yu, Fan-yü, Guanchjou, Guanchzhou, Guanczou, Guand'ou, Guandzhou, Guandzou, Guandžou, Guangdzou, Guangdzov, Guangdžou, Guangdžov, Guangjow, Guangzhou, Guangzhou Shi, Guanzhou, Guančžou, Guaңҗu, Guong-ciu, Guōng-ciŭ, Gvangjcouh, Kanton, Kantono, Kng-chiu-chhi, Kong-chu-su, Kouan'nktsoou, Kouang-chou, Kuang-chou, Kuang-chou-shih, Kwang-chowfu, Kwangchow, Kwangtsjou, Kóng-chû-sṳ, Kńg-chiu-chhī, P'an-yu, Puyun, Puyün, P’an-yü, Quancheum, Quancjou, Quang Chau, Quançjou, Quảng Châu, Shengcheng, ghwanzw, gu'angazu, guang zhou, guang zhou shi, guanjou, guyanjho, gvangajho'u, gvanjea, gwangjeou, gwangjeou si, gwangzhw, gwʼnggwʼw, kantwn, kuvanco, kvangacau, kwang cow, shynyang, Κουανγκτσόου, Гуангџоу, Гуанджоу, Гуандьоу, Гуанжоу, Гуанчжоу, Гуанчжоў, Гуаңҗу, Кантон, Գուանչժոու, גואנגגואו, شینیانگ, غوانزو, کانتون, گوانگژو, گوانگ‌ژو, گۇاڭجۇ شەھىرى, क्वांगचौ, ग्वांगझोउ, গুয়ংঝো, ਗੁਆਂਗਜ਼ੂ, குவாங்சோ, ഗ്വാങ്ജോ, กว่างโจว, ກວ່າງໂຈວ, ཀོང་ཀྲོའུ་གྲོང་ཁྱེར།, ကွမ်ကျိုးမြို့, გუანჯოუ, 广州, 广州市, 広州, 広州市, 廣州, 廣州市, 광저우, 광저우 시
 
 ---

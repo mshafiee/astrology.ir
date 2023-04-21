@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'13.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°2'33.82" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°47'45.10" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°3'6.44" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°49'4.15" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'21.77" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°8'8.16" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°2'33.89" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°47'44.12" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°3'7.16" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°49'3.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'22.20" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°10'21.79" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'13.54" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°2'34.55" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°47'40.89" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°3'11.23" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°49'4.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'21.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°8'8.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°47'44.12" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°3'7.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°49'3.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'22.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°10'21.79" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Caparra,  Ciudad de Puerto Rico,  Portorico,  Prico,  Puerto Rico,  SJU,  Saint Iuan,  Saint John de Porto Rico,  Sainte Jean de Porto-rico,  San Chouan,  San Chuanas,  San Huan,  San Ian de Porto Rico,  San Ioanni,  San Jean de Portorico,  San Juan,  San Juan Batista de Puerto Rico,  San Juan Bautistade de Puerto Rico,  San Juan de Puerto Rico,  San Khuan,  San Xoan,  San Xoán,  San Xuan,  San-Juano,  San-Khuan,  Sanhuana,  The City of Saint John,  Ville de Porto-Rico,  Ville de Sainte Jean de Porto Rico,  can van,  saenhwan,  san hwn,  san khwan,  san-khuani,  sana hu'ana,  sana huraana,  sanfuan,  sanhuan,  sheng hu an,  Σαν Χουάν,  Сан Хуан,  Сан-Хуан,  Սան Խուան,  סן חואן,  سان خوآن,  سان خوان,  सान हुआन,  সান হুৱান,  ਸਾਨ ਹੁਆਨ,  சான் வான்,  ซานฮวน,  სან-ხუანი,  サンフアン,  圣胡安,  산후안,  샌환
+Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환
 
 ---

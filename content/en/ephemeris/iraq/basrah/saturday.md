@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°42'36.54" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°12'17.50" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°9'23.85" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°42'40.13" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°35'24.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'52.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°29'53.58" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|1°42'40.02" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°35'19.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'50.34" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°11'42.60" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'36.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'17.59" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°9'28.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°42'40.13" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°35'24.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'52.96" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°29'53.58" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'17.50" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°9'23.85" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°42'40.02" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°35'19.84" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'50.34" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°11'42.60" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al Basrah,  Al Başrah,  Al-Basra,  BSR,  Bacora,  Basora,  Basra,  Basrah,  Bassora,  Bassorah,  Bassra,  Baçorá,  Busra,  Busrah,  Bussora,  Bàssora,  albsrt,  ba shi la,  ba si la,  basara,  basura,  bsrh,  bsrt,  bzrh,  Басра,  בצרה,  البصرة,  بصرة,  بصره,  ܒܨܪܐ,  বসরা,  バスラ,  巴士拉,  巴斯拉
+Alternate Names: Al Basrah, Al Başrah, Al-Basra, BSR, Bacora, Basora, Basra, Basrah, Bassora, Bassorah, Bassra, Baçorá, Busra, Busrah, Bussora, Bàssora, albsrt, ba shi la, ba si la, basura, bsrh, bsrt, bzrh, Басра, בצרה, البصرة, بصرة, بصره, ܒܨܪܐ, バスラ, 巴士拉, 巴斯拉
 
 ---

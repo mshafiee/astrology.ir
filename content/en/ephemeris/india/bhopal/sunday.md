@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'11.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°25'35.30" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°39'11.71" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°36'43.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°38'37.33" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'33.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°12'31.29" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°25'35.29" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°39'12.35" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°36'43.47" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°38'37.99" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'33.25" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°16'4.79" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BHO,  Bhojpal,  Bhopal,  Bhopala,  Bhopalas,  Bhopalo,  Bhopál,  Bhopāl,  Bhopāla,  Bhópál,  Bkhapal,  Bkhopal,  Bopal,  Bópal,  bhopal,  bhopala,  bo pa er,  bopal,  boparu,  bwbal,  bwpal,  popal,  Μποπάλ,  Бопал,  Бхапал,  Бхопал,  בופאל,  بوبال,  بوپال,  بھوپال,  بہوپال,  भोपाल,  भोपाळ,  ভোপাল,  ਭੋਪਾਲ,  ભોપાલ,  ଭୋପାଳ,  போபால்,  భోపాల్,  ಭೊಪಾಲ್,  ഭോപ്പാൽ,  ბჰოპალი,  ボパール,  ボーパール,  博帕尔,  보팔
+Alternate Names: BHO, Bhojpal, Bhopal, Bhopala, Bhopalas, Bhopalo, Bhopál, Bhopāl, Bhopāla, Bhópál, Bkhapal, Bkhopal, Bopal, Bópal, bhopal, bhopala, bo pa er, bopal, boparu, bwbal, bwpal, popal, Μποπάλ, Бопал, Бхапал, Бхопал, בופאל, بوبال, بوپال, بھوپال, بہوپال, भोपाल, भोपाळ, ভোপাল, ਭੋਪਾਲ, ભોપાલ, ଭୋପାଳ, போபால், భోపాల్, ಭೊಪಾಲ್, ഭോപ്പാൽ, ბჰოპალი, ボパール, ボーパール, 博帕尔, 보팔
 
 ---

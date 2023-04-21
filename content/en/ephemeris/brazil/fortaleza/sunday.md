@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'51.98" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°30'28.86" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°50'10.72" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°50'10.04" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°56'37.85" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°1'53.46" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°26'6.34" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°41'38.17" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°26'6.25" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°37'37.45" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'51.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°30'28.86" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°50'10.72" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°56'35.17" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°1'48.35" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°26'0.64" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°9'8.82" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°30'28.90" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°50'10.04" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°56'38.07" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°1'52.81" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°26'6.25" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°37'37.45" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ceara,  Ceará,  FOR,  Fartaleza,  Fortalaetia,  Fortaleza,  Fortaleza Nova de Braganca,  Fortaleza Nova de Bragança,  Fortaleza de Nova Braganca,  Fortaleza de Nova Bragança,  Fortalezae,  Fortalezo,  f xr tale sa,  forutareza,  fu ta lei sa,  fwrtalyza,  fwrtalza,  phartalija,  phortaleja,  phortalejha,  poleutalleja,  pwrtlzh,  Φορταλέζα,  Фарталеза,  Форталезæ,  Форталеза,  פורטלזה,  فورتالزا,  فورتاليزا,  फोर्तालेझा,  ফর্তালিজা,  ফোর্টালেজা,  ฟอร์ตาเลซา,  ფორტალეზა,  フォルタレザ,  福塔雷萨,  福塔雷薩,  포르탈레자
+Alternate Names: Ceara, Ceará, FOR, Fartaleza, Fortalaetia, Fortaleza, Fortaleza Nova de Braganca, Fortaleza Nova de Bragança, Fortaleza de Nova Braganca, Fortaleza de Nova Bragança, Fortalezae, Fortalezo, f xr tale sa, forutareza, fu ta lei sa, fwrtalyza, fwrtalza, phartalija, phortaleja, phortalejha, poleutalleja, pwrtlzh, Φορταλέζα, Фарталеза, Форталезæ, Форталеза, פורטלזה, فورتالزا, فورتاليزا, फोर्तालेझा, ফর্তালিজা, ফোর্টালেজা, ฟอร์ตาเลซา, ფორტალეზა, フォルタレザ, 福塔雷萨, 福塔雷薩, 포르탈레자
 
 ---

@@ -292,7 +292,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'43.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°44'48.43" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°44'48.34" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°22'26.58" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°54'54.41" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°9'59.35" |Taurus|Dabaran|Moon|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'43.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°44'48.43" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°22'26.58" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°54'54.41" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°9'59.35" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°12'21.00" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°7'10.01" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°44'48.34" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°22'25.90" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°54'53.96" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°9'58.36" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°12'19.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°0'31.15" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MCZ,  Macayo,  Maceio,  Maceió,  Masejas,  Masejo,  Maseyo,  Maçayó,  ma sai yue,  ma se xo,  masayw,  mase'i'o,  maseio,  masyyw,  msyyʼw,  Масейо,  Масејо,  מסייאו,  ماسئیو,  ماسايو,  মাসেইও,  มาเซโอ,  მასეიო,  マセイオ,  马塞约,  마세이오
+Alternate Names: MCZ, Macayo, Maceio, Maceió, Masejas, Masejo, Maseyo, Maçayó, ma sai yue, ma se xo, masayw, mase'i'o, maseio, masyyw, msyyʼw, Масейо, Масејо, מסייאו, ماسئیو, ماسايو, মাসেইও, มาเซโอ, მასეიო, マセイオ, 马塞约, 마세이오
 
 ---

@@ -20,7 +20,7 @@ Latitude: -22.9064
 \-
 Longitude: -43.1822
 \-
-Altitude: 12 meters
+Altitude: 6 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Rio de Janeiro, Brazil" lat="-22.9064" lng="-43.1822" zoom="12">}}
 
@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°45'14.05" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°23'24.36" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°56'38.65" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°12'1.03" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°11'51.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°29'32.23" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|15°12'1.65" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°11'52.20" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°34'21.21" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'51.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°45'14.05" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°23'24.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°56'38.65" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°12'1.03" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°11'51.96" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°29'32.23" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°45'14.03" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°23'24.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°56'38.62" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°12'1.65" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°11'52.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°34'21.21" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ciutat de Rio de Janeiro,  RIO,  Rio,  Rio De Janeiro,  Rio d Janeiro,  Rio de Janeiro,  Rio de Janeiru,  Rio de Janero,  Rio de Janeyro,  Rio de Janèro,  Rio de Janêro,  Rio de Zaneiras,  Rio de Zaneiros,  Rio de Zaneyro,  Rio de Zhaneiro,  Rio de Zhanejro,  Rio de Žaneiras,  Rio dé Janéyro,  Rio dė Žaneiros,  Rio nte Tzaneiro,  Rio-de-Janejro,  Rio-de-Janeyro,  Rio-de-Zaneiro,  Rio-de-Zanejro,  Rio-de-Zaneyro,  Rio-de-Zhanejro,  Rio-de-janeiro,  Rio-de-Ĵanejro,  Rio-de-Žaneiro,  Rio-de-Žaneýro,  Riodezaneiro,  Riodežaneiro,  Riu de Janeiro,  Riu de Janeiru,  Riviethe de Janvyi,  Riviéthe dé Janvyi,  Rya-deh-Zhanehjra,  Río de Janeiro,  Sao Sebastiao do Rio de Janeiro,  São Sebastião do Rio de Janeiro,  Urbs Fluminensis,  iriyo ti ceniro,  li yue re nei lu,  liudejaneilu,  rath ri xode ca ne ro,  ri xode ca ne ro,  ri'o di janero,  ri'o di jeneri'o,  ri'o di jeniro,  rio-de-zhaneiro,  riodejaneiro,  rios. dis. djaneiros,  riyea di janirea,  riyo di janairo,  riyo di janero,  riyo di jeneriyo,  riyo di jenero,  riyo di jyaneriyo,  ryw dh znyyrw,  ryw dw zhanyrw,  ryw dwzhanyrw,  ryw dy janyrw,  Ρίο ντε Τζανέιρο,  Рио де Жанеиро,  Рио де Жанейро,  Рио-де-Жанейро,  Рыа-дэ-Жанэйра,  Ріо де Жанейро,  Ріо-де-Жанейро,  Ռիո դե Ժանեյրո,  ריא דע זשאנערא,  ריו דה זניירו,  ريو دى جانيرو,  ريو دي جانيرو,  ریو دو ژانیرو,  ریو دوژانیرو,  ریو دے جینیرو,  ریو ڈی جینرو,  ڕیۆ دێ ژانێرۆ,  रियो डि जेनेरो,  रियो दि जानेरो,  रियो दि ज्यानेरियो,  रियो दी जेनेरियो,  রিও ডি জেনিরো,  রিও দি জেনেরিও,  ਰਿਓ ਡੀ ਜਨੇਰੋ,  இரியோ டி செனீரோ,  ರಿಯೋ ಡಿ ಜನೈರೊ,  റിയോ ഡി ജനീറോ,  รัฐรีโอเดจาเนโร,  รีโอเดจาเนโร,  རིའོ་ཌེ་ཇ་ནེའུ་རའོ།,  ရီယို ဒီ ဂျီးနေးရိုးမြို့,  რიო-დე-ჟანეირო,  ሪዮ ዴ ጃኔይሮ,  リオデジャネイロ,  里約熱內盧,  里约热内卢,  리우데자네이루
+Alternate Names: Ciutat de Rio de Janeiro, RIO, Rio, Rio De Janeiro, Rio d Janeiro, Rio de Janeiro, Rio de Janeiru, Rio de Janero, Rio de Janeyro, Rio de Janèro, Rio de Janêro, Rio de Zaneiras, Rio de Zaneiros, Rio de Zaneyro, Rio de Zhaneiro, Rio de Zhanejro, Rio de Žaneiras, Rio dé Janéyro, Rio dė Žaneiros, Rio nte Tzaneiro, Rio-de-Janejro, Rio-de-Janeyro, Rio-de-Zaneiro, Rio-de-Zanejro, Rio-de-Zaneyro, Rio-de-Zhanejro, Rio-de-janeiro, Rio-de-Ĵanejro, Rio-de-Žaneiro, Rio-de-Žaneýro, Riodezaneiro, Riodežaneiro, Riu de Janeiro, Riu de Janeiru, Riviethe de Janvyi, Riviéthe dé Janvyi, Rya-deh-Zhanehjra, Río de Janeiro, Sao Sebastiao do Rio de Janeiro, São Sebastião do Rio de Janeiro, Urbs Fluminensis, iriyo ti ceniro, li yue re nei lu, liudejaneilu, rath ri xode ca ne ro, ri xode ca ne ro, ri'o di janero, ri'o di jeneri'o, ri'o di jeniro, rio-de-zhaneiro, riodejaneiro, rios. dis. djaneiros, riyea di janirea, riyo di janairo, riyo di janero, riyo di jeneriyo, riyo di jenero, riyo di jyaneriyo, ryw dh znyyrw, ryw dw zhanyrw, ryw dwzhanyrw, ryw dy janyrw, Ρίο ντε Τζανέιρο, Рио де Жанеиро, Рио де Жанейро, Рио-де-Жанейро, Рыа-дэ-Жанэйра, Ріо де Жанейро, Ріо-де-Жанейро, Ռիո դե Ժանեյրո, ריא דע זשאנערא, ריו דה זניירו, ريو دى جانيرو, ريو دي جانيرو, ریو دو ژانیرو, ریو دوژانیرو, ریو دے جینیرو, ریو ڈی جینرو, ڕیۆ دێ ژانێرۆ, रियो डि जेनेरो, रियो दि जानेरो, रियो दि ज्यानेरियो, रियो दी जेनेरियो, রিও ডি জেনিরো, রিও দি জেনেরিও, ਰਿਓ ਡੀ ਜਨੇਰੋ, இரியோ டி செனீரோ, ರಿಯೋ ಡಿ ಜನೈರೊ, റിയോ ഡി ജനീറോ, รัฐรีโอเดจาเนโร, รีโอเดจาเนโร, རིའོ་ཌེ་ཇ་ནེའུ་རའོ།, ရီယို ဒီ ဂျီးနေးရိုးမြို့, რიო-დე-ჟანეირო, ሪዮ ዴ ጃኔይሮ, リオデジャネイロ, 里約熱內盧, 里约热内卢, 리우데자네이루
 
 ---

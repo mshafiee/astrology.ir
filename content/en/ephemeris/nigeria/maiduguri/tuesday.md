@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°57'48.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°57'1.15" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°50'2.86" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°44'27.14" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°7'58.05" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'26.52" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°41'24.31" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|4°44'36.26" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°7'59.25" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'38.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°25'30.34" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°50'2.86" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°44'36.26" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|16°7'59.25" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'26.52" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°41'24.31" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|14°56'38.95" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°25'30.34" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: MIU,  Maidiguri,  Maidugari,  Maiduguri,  Maiduguris,  Majduguri,  mai du gu li,  maidouguri,  maiduguli,  maydwghwry,  maydwgwrw,  maydwjwry,  mydghry,  mydwgwry,  Маидугури,  Майдугури,  Майдугурі,  מידוגורי,  مايدوجوري,  مايدوغوري,  مايدوگورو,  ميدغري,  マイドゥグリ,  邁杜古里,  마이두구리
+Alternate Names: MIU, Maidiguri, Maidugari, Maiduguri, Maiduguris, Majduguri, mai du gu li, maido~uguri, maiduguli, maydwghwry, maydwgwrw, maydwjwry, mydghry, mydwgwry, Маидугури, Майдугури, Майдугурі, מידוגורי, مايدوجوري, مايدوغوري, مايدوگورو, ميدغري, マイドゥグリ, 邁杜古里, 마이두구리
 
 ---

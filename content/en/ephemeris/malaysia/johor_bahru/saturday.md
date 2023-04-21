@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'55.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°10'20.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°4'59.22" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°34'43.48" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°25'58.82" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'21.61" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°20'51.72" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°10'20.53" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°5'1.47" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°34'45.31" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°26'2.22" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'25.46" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°39'27.08" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'55.97" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°10'20.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°4'59.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°34'43.48" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°25'58.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'21.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°20'51.72" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°10'20.53" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°5'1.47" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°34'45.31" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°26'2.22" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'25.46" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°39'27.08" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Baru,  Bharu,  Dzhokhor Bakhru,  Dzhokhor-Baru,  Dzohor Baru,  Dzokhor Bakhru,  Džohor Baru,  JHB,  Jahore Bahru,  Johor,  Johor Baharu,  Johor Bahru,  Johore,  Johore Bahru,  Johore Baru,  Johore Bharu,  Sin-san-su,  Sîn-sân-sṳ,  joholeubalu,  johora baru,  johorubaru,  jokur paru,  jwhr bhrw,  jwhwr bhrw,  xin shan,  ya hor bah ru,  Џохор Бахру,  Джохор Бахру,  Джохор-Бару,  גוהור באהרו,  جوهر بهرو,  جوهور بهرو,  جوھر بھرو,  जोहोर बारू,  ஜொகூர் பாரு,  ยะโฮร์บาห์รู,  ဂျဟိုးဘာရူးမြို့,  ジョホールバル,  新山,  조호르바루
+Alternate Names: Baru, Bharu, Dzhokhor Bakhru, Dzhokhor-Baru, Dzohor Baru, Dzokhor Bakhru, Džohor Baru, JHB, Jahore Bahru, Johor, Johor Baharu, Johor Bahru, Johore, Johore Bahru, Johore Baru, Johore Bharu, Sin-san-su, Sîn-sân-sṳ, joholeubalu, johora baru, johorubaru, jokur paru, jwhr bhrw, jwhwr bhrw, xin shan, ya hor bah ru, Џохор Бахру, Джохор Бахру, Джохор-Бару, גוהור באהרו, جوهر بهرو, جوهور بهرو, جوھر بھرو, जोहोर बारू, ஜொகூர் பாரு, ยะโฮร์บาห์รู, ဂျဟိုးဘာရူးမြို့, ジョホールバル, 新山, 조호르바루
 
 ---

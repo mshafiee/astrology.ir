@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°43'15.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°14'11.74" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°13'46.05" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°50'21.43" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°44'29.54" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'2.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°25'7.11" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°43'16.79" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°14'13.62" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°13'43.16" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°50'32.66" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°44'32.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'16.73" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°10'28.11" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'16.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°14'13.62" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°13'43.16" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°50'21.43" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°44'29.54" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'2.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°25'7.11" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°14'13.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°13'43.28" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°50'32.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°44'32.69" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'16.97" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°11'37.33" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BNI,  Benim,  Benin,  Benin City,  Benin Siti,  Benin by,  Benin-Siti,  Benin-Stadt,  Benin-stad,  Beninas,  Beninborg,  Beninurbo,  Benínborg,  Bénin,  Ciudad de Benin,  Ciudad de Benín,  Ilu Benin,  Kota Benin,  Thanh pho Benin,  Thành phố Benin,  bei ning cheng,  beni n si ti,  benina sahira,  benina siti,  beninshiti,  beninsiti,  bnyn,  Ìlú Benin,  Бенин,  Бенин-Сити,  Бенін-Сіті,  بنين,  بنین,  بینن شہر,  बेनिन सिटी,  ਬੇਨਿਨ ਸ਼ਹਿਰ,  เบนินซิตี,  ベニンシティ,  贝宁城,  베닌시티
+Alternate Names: BNI, Benim, Benin, Benin City, Benin Siti, Benin by, Benin-Siti, Benin-Stadt, Benin-stad, Beninas, Beninborg, Beninurbo, Benínborg, Bénin, Ciudad de Benin, Ciudad de Benín, Ilu Benin, Kota Benin, Thanh pho Benin, Thành phố Benin, bei ning cheng, beni n si ti, benina sahira, benina siti, beninshiti, beninsiti, bnyn, Ìlú Benin, Бенин, Бенин-Сити, Бенін-Сіті, بنين, بنین, بینن شہر, बेनिन सिटी, ਬੇਨਿਨ ਸ਼ਹਿਰ, เบนินซิตี, ベニンシティ, 贝宁城, 베닌시티
 
 ---

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°31'5.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°39'31.13" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°56'21.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°29'27.14" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°59'0.33" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°30'6.46" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°26'45.36" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°31'5.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°39'32.89" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°56'26.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°29'37.19" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°59'10.76" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°30'22.43" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°29'19.80" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'5.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°39'31.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°56'21.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°29'27.14" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|9°59'0.33" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°30'6.46" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°26'45.36" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|23°39'32.76" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°56'26.84" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°29'36.38" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|9°59'10.72" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°30'21.64" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°23'19.32" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: SPK,  Sapara,  Saporas,  Saporo,  Sapporo,  Sapporo-chhi,  Sapporo-chhī,  Sapporo-shi,  Sapporoshi,  Sapporum,  Szapporo,  capporo,  sabwrw,  sap poa roa,  sapporo,  sapporoshi,  sapwrw,  saspolo si,  sypwrw,  zha huang,  zha huang shi,  Σαππόρο,  Сапара,  Сапоро,  Саппоро,  Սապորո,  סאפורו,  سابورو,  ساپورو,  سیپورو,  सप्पोरो,  சப்போரோ,  ซัปโปะโระ,  საპორო,  さっぽろ,  さっぽろし,  サッポロ,  サッポロシ,  札幌,  札幌市,  삿포로 시
+Alternate Names: SPK, Sapara, Saporas, Saporo, Sapporo, Sapporo-chhi, Sapporo-chhī, Sapporo-shi, Sapporoshi, Sapporum, Szapporo, capporo, sabwrw, sap poa roa, sapporo, sapporoshi, sapwrw, saspolo si, sypwrw, zha huang, zha huang shi, Σαππόρο, Сапара, Сапоро, Саппоро, Սապորո, סאפורו, سابورو, ساپورو, سیپورو, सप्पोरो, சப்போரோ, ซัปโปะโระ, საპორო, さっぽろ, さっぽろし, サッポロ, サッポロシ, 札幌, 札幌市, 삿포로 시
 
 ---

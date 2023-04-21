@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'1.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°30'58.21" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°51'16.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°58'37.29" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°4'13.00" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°25'43.87" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°8'59.27" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°30'58.22" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°51'16.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°58'37.32" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°4'13.29" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'44.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°10'47.02" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BSB,  Bahsihleihya,  Brasilia,  Brasiliopolis,  Brasilía,  Brasília,  Braxilia,  Braxiłia,  Braxìlia,  Brazileje,  Brazilia,  Braziliavaros,  Brazilija,  Brazilija shaary,  Brazilja,  Braziljo,  Brazilėjė,  Brazília,  Brazíliaváros,  Breselya,  Bràsílíà,  Mprazilia,  ba xi li ya,  beulajillia,  bra si leiy,  brajhiliya,  brasili'a,  brasiliya,  brasylya,  brazili'a,  brazilia,  brazylya,  bresiliya,  brzylyh,  burajiria,  byrazylya,  piraciliya,  Μπραζίλια,  Бразилиа,  Бразилия,  Бразилия шаары,  Бразилија,  Бразиліа,  Бразілія,  Ҳавзаи федералии Бразилиа,  Բրազիլիա,  בראזיליא,  ברזיליה,  بئرازیلیا,  برازيليا,  برازیلیا,  برازیلیہ,  براسیلیا,  بەڕازیلیا,  ބްރަސީލިއާ,  ब्रसिलिया,  ब्राझिलिया,  ब्रासीलिया,  ব্রাসিলিয়া,  ਬ੍ਰਾਜ਼ੀਲੀਆ,  ବ୍ରାସିଲିଆ,  பிரசிலியா,  ಬ್ರೆಸಿಲಿಯಾ,  ബ്രസീലിയ,  บราซีเลีย,  པུ་རུ་ཟི་ལི་ཡ།,  ဘရာစေးလေးယားမြို့,  ბრაზილია,  ብራዚሊያ,  ブラジリア,  巴西利亚,  巴西利亞,  브라질리아
+Alternate Names: BSB, Bahsihleihya, Brasilia, Brasiliopolis, Brasilía, Brasília, Braxilia, Braxiłia, Braxìlia, Brazileje, Brazilia, Braziliavaros, Brazilija, Brazilija shaary, Brazilja, Braziljo, Brazilėjė, Brazília, Brazíliaváros, Breselya, Bràsílíà, Mprazilia, ba xi li ya, beulajillia, bra si leiy, brajhiliya, brasili'a, brasiliya, brasylya, brazili'a, brazilia, brazylya, bresiliya, brzylyh, burajiria, byrazylya, piraciliya, Μπραζίλια, Бразилиа, Бразилия, Бразилия шаары, Бразилија, Бразиліа, Бразілія, Ҳавзаи федералии Бразилиа, Բրազիլիա, בראזיליא, ברזיליה, بئرازیلیا, برازيليا, برازیلیا, برازیلیہ, براسیلیا, بەڕازیلیا, ބްރަސީލިއާ, ब्रसिलिया, ब्राझिलिया, ब्रासीलिया, ব্রাসিলিয়া, ਬ੍ਰਾਜ਼ੀਲੀਆ, ବ୍ରାସିଲିଆ, பிரசிலியா, ಬ್ರೆಸಿಲಿಯಾ, ബ്രസീലിയ, บราซีเลีย, པུ་རུ་ཟི་ལི་ཡ།, ဘရာစေးလေးယားမြို့, ბრაზილია, ብራዚሊያ, ブラジリア, 巴西利亚, 巴西利亞, 브라질리아
 
 ---

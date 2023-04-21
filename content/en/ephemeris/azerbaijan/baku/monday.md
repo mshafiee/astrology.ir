@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°52'22.82" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°40'49.88" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°13'29.62" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°38'41.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°51'10.63" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'34.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°54'19.38" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°38'42.66" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°51'6.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'33.09" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°24'6.15" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BAK,  Bacu,  Bacú,  Baki,  Bako,  Bakoe,  Bakou,  Baku,  Bakue,  Bakuo,  Bakuu,  Baky,  Bakó,  Bakú,  Bakû,  Bakü,  Bakı,  Baqu,  Boku,  Mpakou,  ba ku,  bakku,  bako,  baku,  bakw,  bakww,  pakku,  Μπακού,  Баку,  Бакы,  Баҡы,  Боку,  Բաքու,  באקו,  باكو,  باکو,  باکوو,  बाकु,  बाकू,  বাকু,  பாக்கு,  ബക്കു,  บากู,  པཱ་ཁི།,  ბაქო,  ባኩ,  バクー,  巴库,  바쿠
+Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠
 
 ---

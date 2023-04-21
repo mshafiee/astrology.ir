@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'12.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°52'12.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°39'8.31" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°25'2.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°45'7.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°3'13.37" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°5'5.05" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°52'12.14" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°39'9.73" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°24'59.02" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°45'7.48" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°3'9.54" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°12'26.51" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'12.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°52'12.18" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°39'9.71" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°24'59.27" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°45'7.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°3'13.37" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°5'5.05" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°52'12.14" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°39'9.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°24'59.02" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°45'7.48" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°3'9.54" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°12'26.51" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Gouanjou,  Gwangju,  Gwangju Kong-hek-chhi,  Gwangju Kóng-he̍k-chhī,  Gwangju-si,  KWJ,  Koshu,  Kosyu,  Kuandzhu,  Kuangju,  Kuangjuo,  Kvandzhu,  Kvandzu,  Kvandžu,  Kvangdzsu,  Kvangdzu,  Kvanju,  Kvanzhe,  Kvaңdzhu,  Kwang-choo,  Kwang-dschu,  Kwangdzu,  Kwangdžu,  Kwangju,  Kōshū,  Kōsyū,  Kŭangĵuo,  Quansua,  ghwanghjw,  guang zhou,  guang zhou guang yu shi,  guang zhou shi,  gvangaju,  gwang jw,  gwangju,  gwangjugwang-yeogsi,  gwangjusi,  gwangjw,  kh wang cu,  Квангџу,  Кванджу,  Кванже,  Кваңджу,  Куанджу,  Куанжү,  קוואנגגו,  غوانغجو,  گوانگ جو,  گوانگجو,  ग्वांगजू,  ควังจู,  光州,  光州市,  光州广域市,  光州広域市,  光州廣域市,  광주,  광주광역시,  광주시
+Alternate Names: Gouanjou, Gwangju, Gwangju Kong-hek-chhi, Gwangju Kóng-he̍k-chhī, Gwangju-si, KWJ, Koshu, Kosyu, Kuandzhu, Kuangju, Kuangjuo, Kvandzhu, Kvandzu, Kvandžu, Kvangdzsu, Kvangdzu, Kvanju, Kvanzhe, Kvaңdzhu, Kwang-choo, Kwang-dschu, Kwangdzu, Kwangdžu, Kwangju, Kōshū, Kōsyū, Kŭangĵuo, Quansua, ghwanghjw, guang zhou, guang zhou guang yu shi, guang zhou shi, gvangaju, gwang jw, gwangju, gwangjugwang-yeogsi, gwangjusi, gwangjw, kh wang cu, Квангџу, Кванджу, Кванже, Кваңджу, Куанджу, Куанжү, קוואנגגו, غوانغجو, گوانگ جو, گوانگجو, ग्वांगजू, ควังจู, 光州, 光州市, 光州广域市, 光州広域市, 光州廣域市, 광주, 광주광역시, 광주시
 
 ---

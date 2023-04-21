@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°9'42.92" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°43'12.71" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°35'59.41" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'45.19" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°17'54.24" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|15°35'43.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°5'31.05" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°9'42.92" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°43'12.71" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°35'59.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'45.19" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°17'54.24" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|15°35'43.72" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°3'31.28" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Carcovia,  Carcóvia,  Charcovia,  Charkiv,  Charkiw,  Charkov,  Charkovas,  Charkow,  Charków,  HRK,  Harkiv,  Harkiva,  Harkivo,  Harkov,  Harkova,  Jarkov,  Khar'kov,  Kharkiv,  Kharkov,  Khar’kov,  ha er ke fu,  haleukiu,  harikofu,  hrqwb,  kaleukipeu,  kalipeu,  kharkwf,  Ĥarkivo,  Ĥarkov,  Харков,  Харків,  Харьков,  חרקוב,  خاركوف,  ხარკოვი,  ハリコフ,  哈爾科夫,  카르키프,  카리프,  하르키우
+Alternate Names: Carcovia, Carcóvia, Charcovia, Charkiv, Charkiw, Charkov, Charkovas, Charkow, Charków, HRK, Harkiv, Harkiva, Harkivo, Harkov, Harkova, Jarkov, Khar'kov, Kharkiv, Kharkov, Khar’kov, ha er ke fu, haleukiu, harikofu, hrqwb, kaleukipeu, kalipeu, kharkwf, Ĥarkivo, Ĥarkov, Харков, Харків, Харьков, חרקוב, خاركوف, ხარკოვი, ハリコフ, 哈爾科夫, 카르키프, 카리프, 하르키우
 
 ---

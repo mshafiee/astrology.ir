@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°44'21.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°17'21.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°20'44.10" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°3'16.09" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°59'27.24" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'56.69" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°33'15.45" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°44'22.07" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°17'22.52" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°20'46.40" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°3'20.60" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°59'32.11" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'4.25" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°5'43.25" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°44'22.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°17'22.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°20'46.07" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°3'20.75" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°59'27.24" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'56.69" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°33'15.45" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|4°44'22.02" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°17'22.52" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°20'46.40" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°3'20.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°59'32.11" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'4.25" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°5'43.25" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: COR,  Ciudad de Cordoba,  Ciudad de Córdoba,  Cordoba,  Cordoba i Argentina,  Cordova,  Corduba,  Còrdoba,  Córdoba,  Córdoba i Argentina,  Córdova,  Kordava,  Kordoba,  Kordobo,  Kordov,  Kordova,  Kordova khot,  Kordovae,  Kuorduoba,  Vila de Cordoba,  Vila de Córdoba,  kardwba,  ke er duo wa,  koleudoba,  kordoba,  korudoba,  kwrdwba,  kwrdwba  arzhantyn,  kxr do ba,  qwrdwbh,  Κόρδοβα,  Кордава,  Кордоба,  Кордовæ,  Кордова,  Кордова хот,  Կորդովա,  קארדאבע,  קורדובה,  قرطبہ، ارجنٹائن,  كوردوبا,  کاردوبا,  کوردوبا، آرژانتین,  कोर्दोबा,  กอร์โดบา,  კორდოვა,  コルドバ,  科尔多瓦,  코르도바
+Alternate Names: COR, Ciudad de Cordoba, Ciudad de Córdoba, Cordoba, Cordoba i Argentina, Cordova, Corduba, Còrdoba, Córdoba, Córdoba i Argentina, Córdova, Kordava, Kordoba, Kordobo, Kordov, Kordova, Kordova khot, Kordovae, Kuorduoba, Vila de Cordoba, Vila de Córdoba, kardwba, ke er duo wa, koleudoba, kordoba, korudoba, kwrdwba, kwrdwba  arzhantyn, kxr do ba, qwrdwbh, Κόρδοβα, Кордава, Кордоба, Кордовæ, Кордова, Кордова хот, Կորդովա, קארדאבע, קורדובה, قرطبہ، ارجنٹائن, كوردوبا, کاردوبا, کوردوبا، آرژانتین, कोर्दोबा, กอร์โดบา, კორდოვა, コルドバ, 科尔多瓦, 코르도바
 
 ---

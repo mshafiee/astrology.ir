@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°22'34.35" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°55'8.29" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°10'15.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°12'16.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°9'18.03" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|15°12'16.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°3'54.12" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ceara,  Ceará,  FOR,  Fartaleza,  Fortalaetia,  Fortaleza,  Fortaleza Nova de Braganca,  Fortaleza Nova de Bragança,  Fortaleza de Nova Braganca,  Fortaleza de Nova Bragança,  Fortalezae,  Fortalezo,  f xr tale sa,  forutareza,  fu ta lei sa,  fwrtalyza,  fwrtalza,  phartalija,  phortaleja,  phortalejha,  poleutalleja,  pwrtlzh,  Φορταλέζα,  Фарталеза,  Форталезæ,  Форталеза,  פורטלזה,  فورتالزا,  فورتاليزا,  फोर्तालेझा,  ফর্তালিজা,  ফোর্টালেজা,  ฟอร์ตาเลซา,  ფორტალეზა,  フォルタレザ,  福塔雷萨,  福塔雷薩,  포르탈레자
+Alternate Names: Ceara, Ceará, FOR, Fartaleza, Fortalaetia, Fortaleza, Fortaleza Nova de Braganca, Fortaleza Nova de Bragança, Fortaleza de Nova Braganca, Fortaleza de Nova Bragança, Fortalezae, Fortalezo, f xr tale sa, forutareza, fu ta lei sa, fwrtalyza, fwrtalza, phartalija, phortaleja, phortalejha, poleutalleja, pwrtlzh, Φορταλέζα, Фарталеза, Форталезæ, Форталеза, פורטלזה, فورتالزا, فورتاليزا, फोर्तालेझा, ফর্তালিজা, ফোর্টালেজা, ฟอร์ตาเลซา, ფორტალეზა, フォルタレザ, 福塔雷萨, 福塔雷薩, 포르탈레자
 
 ---

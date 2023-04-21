@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°42'30.48" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°31'2.82" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°52'10.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'52.27" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°19'53.80" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|15°1'18.42" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°49'3.13" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kota Medan,  Kuta Medan,  Kuta Mèdan,  Kutha Medan,  MES,  Medan,  Medana,  Medanas,  Medano,  Mentan,  mdan,  me dan,  medan,  metan,  mian lan,  mydan,  Μεντάν,  Медан,  مدان,  ميدان,  میدان ، انڈونیشیا,  மேடான்,  เมดาน,  メダン,  棉蘭,  메단
+Alternate Names: Kota Medan, Kuta Medan, Kuta Mèdan, Kutha Medan, MES, Medan, Medana, Medanas, Medano, Mentan, mdan, me dan, medan, metan, mian lan, mydan, Μεντάν, Медан, مدان, ميدان, میدان ، انڈونیشیا, மேடான், เมดาน, メダン, 棉蘭, 메단
 
 ---

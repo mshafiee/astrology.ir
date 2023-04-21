@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°22'10.35" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°5'52.75" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°2'30.47" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'45.44" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°30'48.27" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°33'23.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°56'59.17" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Saturn|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'35.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°17'57.44" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°22'9.94" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°5'37.59" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°2'21.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'23.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°13'16.95" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°17'57.68" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°22'4.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°5'39.26" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°2'17.23" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'23.33" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°56'59.17" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Sun|
+|☾ Moon|Mars|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Cidade da Guatemala,  Citta del Guatemala,  Città del Guatemala,  Ciudad Guatemala,  Ciudad de Guatemala,  Ciutat de Guatemala,  GUA,  Guate,  Guatemala,  Guatemala City,  Guatemala Hiria,  Guatemala by,  Guatemala la Nueva,  Guatemala-Stadt,  Guatemala-Urbo,  Guatemala-stad,  Gvatemala,  Gvatemalurbo,  Gwatemala,  New Guatemala,  Nueva Guatemala,  Nueva Guatemala de la Asuncion,  Nueva Guatemala de la Asunción,  Pole tes Gouatemalas,  Santiago de Guatimala,  gua de ma la shi,  guatemarashiti,  gwatemalla si,  gwatemallasiti,  kawtemalasiti,  mdynt ghwatymala,  shhr gwatmala,  Πόλη της Γουατεμάλας,  Гватемала,  גואטמלה סיטי,  גוואטמלה סיטי,  شهر گواتمالا,  مدينة غواتيمالا,  กัวเตมาลาซิตี,  グアテマラシティ,  瓜地馬拉市,  과테말라 시,  과테말라시티
+Alternate Names: Cidade da Guatemala, Citta del Guatemala, Città del Guatemala, Ciudad Guatemala, Ciudad de Guatemala, Ciutat de Guatemala, GUA, Guate, Guatemala, Guatemala City, Guatemala Hiria, Guatemala by, Guatemala la Nueva, Guatemala-Stadt, Guatemala-Urbo, Guatemala-stad, Gvatemala, Gvatemalurbo, Gwatemala, New Guatemala, Nueva Guatemala, Nueva Guatemala de la Asuncion, Nueva Guatemala de la Asunción, Pole tes Gouatemalas, Santiago de Guatimala, gua de ma la shi, guatemarashiti, gwatemalla si, gwatemallasiti, kawtemalasiti, mdynt ghwatymala, shhr gwatmala, Πόλη της Γουατεμάλας, Гватемала, גואטמלה סיטי, גוואטמלה סיטי, شهر گواتمالا, مدينة غواتيمالا, กัวเตมาลาซิตี, グアテマラシティ, 瓜地馬拉市, 과테말라 시, 과테말라시티
 
 ---

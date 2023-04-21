@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°48'17.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°28'49.20" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°46'27.51" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°49'45.48" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°53'59.88" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'16.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°57'39.66" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°48'17.91" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°28'49.21" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°46'27.65" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°49'51.69" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°54'0.07" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'16.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°58'47.46" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°48'17.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°28'48.21" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°46'31.32" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°49'45.48" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°54'0.72" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'9.43" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°56'28.39" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°48'17.91" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°28'49.21" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°46'27.65" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°49'51.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°54'0.07" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'16.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°58'47.46" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: RBA,  Raba,  Rabat,  Rabata,  Rabatas,  Rabato,  Rabatum,  Rabot,  Rabāt,  Rabāta,  Rampat,  Rbat,  Rbaṭ,  alrbat,  la ba,  la ba te,  labateu,  raba t,  rabat,  rabata,  rabato,  rabota,  rapat,  rbat,  Ραμπάτ,  Рабат,  Ռաբատ,  ראבאט,  רבאט,  الرباط,  رابات,  ربات,  رباط,  ڕەبات,  रबाट,  रबात,  রাবাত,  ਰਬਾਤ,  ରବୋଟ,  ரபாத்,  ราบัต,  ར་བ་ཐ།,  ར་བ་ཐེ།,  რაბატი,  ራባት,  ラバト,  剌八,  拉巴特,  라바트
+Alternate Names: RBA, Raba, Rabat, Rabata, Rabatas, Rabato, Rabatum, Rabot, Rabāt, Rabāta, Rampat, Rbat, Rbaṭ, alrbat, la ba, la ba te, labateu, raba t, rabat, rabata, rabato, rabota, rapat, rbat, Ραμπάτ, Рабат, Ռաբատ, ראבאט, רבאט, الرباط, رابات, ربات, رباط, ڕەبات, रबाट, रबात, রাবাত, ਰਬਾਤ, ରବୋଟ, ரபாத், ราบัต, ར་བ་ཐ།, ར་བ་ཐེ།, რაბატი, ራባት, ラバト, 剌八, 拉巴特, 라바트
 
 ---

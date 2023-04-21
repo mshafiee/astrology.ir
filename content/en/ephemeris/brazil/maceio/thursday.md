@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°33'48.42" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°47'11.02" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°13'23.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°0'39.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°35'37.62" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'28.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°12'24.80" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|0°0'38.90" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°35'36.62" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'27.87" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°9'13.32" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: MCZ,  Macayo,  Maceio,  Maceió,  Masejas,  Masejo,  Maseyo,  Maçayó,  ma sai yue,  ma se xo,  masayw,  mase'i'o,  maseio,  masyyw,  msyyʼw,  Масейо,  Масејо,  מסייאו,  ماسئیو,  ماسايو,  মাসেইও,  มาเซโอ,  მასეიო,  マセイオ,  马塞约,  마세이오
+Alternate Names: MCZ, Macayo, Maceio, Maceió, Masejas, Masejo, Maseyo, Maçayó, ma sai yue, ma se xo, masayw, mase'i'o, maseio, masyyw, msyyʼw, Масейо, Масејо, מסייאו, ماسئیو, ماسايو, মাসেইও, มาเซโอ, მასეიო, マセイオ, 马塞约, 마세이오
 
 ---

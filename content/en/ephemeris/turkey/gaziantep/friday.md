@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'41.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'13.17" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°37'58.39" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°45'28.50" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°28'16.60" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'12.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°9'19.72" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°58'13.16" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°37'58.24" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°45'28.43" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°28'16.41" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'12.79" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°8'38.06" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°37'58.39" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°45'28.50" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°28'16.60" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'13.38" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°7'22.26" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'12.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°9'19.72" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Aintab,  Antep,  Ayintap,  Ayntʻap,  Ayıntap,  Dilok,  Dîlok,  GZT,  Gazi-Ayintap,  Gaziantep,  Gaziantepa,  Gaziantepas,  Gaziantepo,  Gazijantehp,  Gazijantep,  Guaziantep,  Nkaziantep,  Qazianteb,  Qaziantep,  gaji'antepa,  gajiantepeu,  gaziantepi,  gazuiantepu,  jia ji an tai pu,  ka si xan tep,  Γκαζιαντέπ,  Газиантеп,  Газијантеп,  Газіянтэп,  Гъазиантеп,  Ґазіантеп,  Այնթապ,  Գազիանթեպ,  גזיאנטפ,  عنتاب,  غازی عینتاب,  گازی ئانتەپ,  ਗਜਿਆਂਤੇਪ,  กาซีอันเตป,  გაზიანთეფი,  ガズィアンテプ,  加濟安泰普,  가지안테프
+Alternate Names: Aintab, Antep, Ayintap, Ayntʻap, Ayıntap, Dilok, Dîlok, GZT, Gazi-Ayintap, Gaziantep, Gaziantepa, Gaziantepas, Gazijantehp, Gazijantep, Guaziantep, Nkaziantep, Qazianteb, Qaziantep, gaji'antepa, gajiantepeu, gaziantepi, gazu~iantepu, jia ji an tai pu, ka si xan tep, Γκαζιαντέπ, Газиантеп, Газијантеп, Газіянтэп, Гъазиантеп, Ґазіантеп, Այնթապ, Գազիանթեպ, גזיאנטפ, عنتاب, غازی عینتاب, گازی ئانتەپ, ਗਜਿਆਂਤੇਪ, กาซีอันเตป, გაზიანთეფი, ガズィアンテプ, 加濟安泰普, 가지안테프
 
 ---

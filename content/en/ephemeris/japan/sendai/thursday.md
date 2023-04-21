@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'7.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°39'36.80" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°56'34.84" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°29'50.53" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°59'28.11" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Retrograde|15°30'12.13" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°38'51.38" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°39'38.34" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°56'38.39" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°29'59.37" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°59'36.66" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Retrograde|15°30'25.77" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°33'4.16" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'7.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°39'38.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°56'39.06" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°29'50.53" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|9°59'28.11" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|15°30'12.13" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°38'51.38" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|23°39'38.35" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°56'38.39" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°29'59.37" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|9°59'36.66" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°30'25.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°34'41.16" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: SDJ,  Sendai,  Sendai-shi,  Sendaishi,  Sendaj,  sendai,  sendaishi,  xian tai,  xian tai shi,  Сендай,  せんだい,  せんだいし,  センダイ,  センダイシ,  仙台,  仙台市
+Alternate Names: SDJ, Sendai, Sendai-shi, Sendaishi, Sendaj, sendai, sendaishi, xian tai, xian tai shi, Сендай, せんだい, せんだいし, センダイ, センダイシ, 仙台, 仙台市
 
 ---

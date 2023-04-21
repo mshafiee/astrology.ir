@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'34.39" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°40'53.82" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°59'25.50" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°35'5.40" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°5'36.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'13.31" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°58'14.60" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°59'26.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°35'6.44" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°5'37.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'15.03" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°58'13.09" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'34.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'53.63" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°59'25.50" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°35'5.40" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°5'36.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'13.31" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°51'41.52" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°40'53.82" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°59'26.10" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°35'6.44" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°5'37.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'15.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°58'13.09" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Chon'nk Kon'nk,  Gankong,  Gon Kong,  Gonkong,  HKG,  Hiong-geng,  Hiŏng-gē̤ng,  Hong Kong,  Hongkong,  Honkong,  Honkongo,  Hồng Kông,  Khongkong,  Khonkong,  Victoria,  ankan,  hamga kamga,  hanakana,  hang kang,  hang kang nagaram,  hangakanga,  hang
+Alternate Names: Chon'nk Kon'nk, Gankong, Gon Kong, Gonkong, HKG, Hiong-geng, Hiŏng-gē̤ng, Hong Kong, Hongkong, Honkong, Hồng Kông, Khongkong, Khonkong, Victoria, ankan, hamga kamga, hanakana, hang kang, hang kang nagaram, hangakanga, hang‌kang, hankam, heankean, hng kng, hon'ga kon'ga, hong-kʼongi, hongakonga, hongkong, honkongu, hwng kwng, hwng qwng, hwngh kwngh, hwnj kwnj, hxngkng, hʼng qʼng, shyanggang, xiang gang, Χονγκ Κονγκ, Ганконг, Гонконг, Хонгконг, Хонконг, Һoң Koң, Һоң Коң, Հոնկոնգ, האנג קאנג, הונג קונג, شياڭگاڭ, هانگ کانگ, هنگ کنگ, هونج كونج, هونغ كونغ, هونگ کونگ, ھwng kwng, ھونگ کونگ, ھۆng kۆng, ھۆنگ کۆنگ, ہang kang, ہانگ کانگ, ހޮންކޮންގު, हङकङ, हाँग काँग, हांगकांग, हांग् कांग् नगरम्, हॉन्ग कॉन्ग, হংকং, ਹਾਂਗਕਾਂਗ, હોંગકોંગ, ହଂକଂ, ஆங்காங், హాంగ్‌కాంగ్, ಹಾಂಗ್ ಕಾಂಗ್, ഹോങ്കോങ്, හොංකොං, ฮ่องกง, ཧང་ཀང་།, ཧོང་ཀོང་།, ဟောငကောင, ဟောင်ကောင်, ჰონგ-კონგი, ሆንግ ኮንግ, ហងកង, ហុងកុង, 香港, 홍콩
 
 ---

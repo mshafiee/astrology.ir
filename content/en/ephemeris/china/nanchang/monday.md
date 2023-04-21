@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'32.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°38'21.81" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°7'55.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°28'40.28" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°39'22.69" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'2.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°15'20.41" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°38'21.85" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°7'55.38" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°28'40.51" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°39'22.14" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'2.68" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°11'26.63" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°38'22.09" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°7'56.24" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°28'41.87" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°39'22.69" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'2.66" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°15'20.41" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|14°39'23.82" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'5.13" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°22'18.16" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: KHN,  Lam-chhiong-chhi,  Lâm-chhiong-chhī,  Nam Xuong,  Nam Xương,  Nam-chhong-su,  Nan'chan,  Nan-cchang,  Nan-ch'ang-hsien,  Nan-ch'ang-shih,  Nan-ch’ang-hsien,  Nan-ch’ang-shih,  Nan-čchang,  Nancana,  Nancangas,  Nancano,  Nanchan,  Nanchang,  Nanchang-fu,  Nancianga,  Nancsang,  Nang-chiong,  Nanzcangh,  Nanĉano,  Nančangas,  Naņčana,  Nàm-chhông-sṳ,  Nàng-chiŏng,  nan chang,  nan chang shi,  nanacanga,  nanacham,  nanachanna,  nanchang,  nanchang si,  nantshangh,  nʼnzʼng,  Нанчан,  Нанчанг,  Наньчан,  נאנצאנג,  نانتشانغ,  نانچانگ,  نەنچاڭ شەھىرى,  नानचांग,  নানছাং,  ਨਾਨਛਾਂਙ,  နန်ချောင့်မြို့,  南昌,  南昌市,  난창 시
+Alternate Names: KHN, Lam-chhiong-chhi, Lâm-chhiong-chhī, Nam Xuong, Nam Xương, Nam-chhong-su, Nan'chan, Nan-cchang, Nan-ch'ang-hsien, Nan-ch'ang-shih, Nan-ch’ang-hsien, Nan-ch’ang-shih, Nan-čchang, Nancana, Nancangas, Nancano, Nanchan, Nanchang, Nanchang-fu, Nancianga, Nancsang, Nang-chiong, Nanzcangh, Nanĉano, Nančangas, Naņčana, Nàm-chhông-sṳ, Nàng-chiŏng, nan chang, nan chang shi, nanacanga, nanacham, nanachanna, nanchang, nanchang si, nantshangh, nʼnzʼng, Нанчан, Нанчанг, Наньчан, נאנצאנג, نانتشانغ, نانچانگ, نەنچاڭ شەھىرى, नानचांग, নানছাং, ਨਾਨਛਾਂਙ, နန်ချောင့်မြို့, 南昌, 南昌市, 난창 시
 
 ---

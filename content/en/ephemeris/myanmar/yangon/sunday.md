@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°37'39.52" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°33'57.05" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°35'22.20" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'0.45" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°39'28.44" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°29'59.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°37'31.08" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Dagon,  Gian'nkon,  Jangon,  Jangon khot,  Jangona,  Jangono,  Jangun,  Jangún,  Ngiong-kong,  Ngióng-kông,  RGN,  Rangon,  Rangoon,  Rangoun,  Rangum,  Rangun,  Rangunas,  Rangún,  Rangūnas,  Yangjgvangh,  Yangon,  Yangôn,  Yanqon,  iangoni,  iyanguna,  raguna,  ranguna,  rngwn,  yang guang,  yang-gon,  yanghwn,  yangkung,  yangon,  yanguna,  yangwn,  yankon,  Ýangon,  Γιανγκόν,  Јангон,  Рангун,  Янгон,  Янгон хот,  Յանգոն,  יאנגון,  رنگون,  يانغون,  یانگون,  यांगून,  रङ्गुन,  रङ्गून,  ইয়াংগুন,  ਰੰਗੂਨ,  யங்கோன்,  యాంగోన్,  യംഗോൺ,  ย่างกุ้ง,  ཡང་ཀོང་།,  ရန်ကုန်မြို့,  იანგონი,  ያንጎን,  យ៉ាំងហ្គូន,  ヤンゴン,  仰光,  양곤
+Alternate Names: Dagon, Gian'nkon, Jangon, Jangon khot, Jangona, Jangono, Jangun, Jangún, Ngiong-kong, Ngióng-kông, RGN, Rangon, Rangoon, Rangoun, Rangum, Rangun, Rangunas, Rangún, Rangūnas, Yangjgvangh, Yangon, Yangôn, Yanqon, iangoni, iyanguna, raguna, ranguna, rngwn, yang guang, yang-gon, yanghwn, yangkung, yangon, yanguna, yangwn, yankon, Ýangon, Γιανγκόν, Јангон, Рангун, Янгон, Янгон хот, Յանգոն, יאנגון, رنگون, يانغون, یانگون, यांगून, रङ्गुन, रङ्गून, ইয়াংগুন, ਰੰਗੂਨ, யங்கோன், యాంగోన్, യംഗോൺ, ย่างกุ้ง, ཡང་ཀོང་།, ရန်ကုန်မြို့, იანგონი, ያንጎን, យ៉ាំងហ្គូន, ヤンゴン, 仰光, 양곤
 
 ---

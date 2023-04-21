@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°56'8.00" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°51'59.61" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°38'41.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°24'7.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°44'5.60" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°3'25.19" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°45'7.76" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|4°24'8.13" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°44'7.88" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°3'26.59" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°2'24.25" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|4°24'8.13" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°44'7.88" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°3'26.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°45'7.76" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°2'24.25" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Chirosima,  HIJ,  Hiroshima,  Hiroshima-shi,  Hiroshimashi,  Hirosima,  Hirosimo,  Hiroszima,  Hiroxima,  Hiroxima - guang dao shi,  Hiroxima - 広島市,  Hiroŝimo,  Hiroşima,  Hirošima,  Hiroșima,  Khiroshima,  Khirosima,  canghwad hi roa chi ma,  guang dao,  guang dao shi,  hi ro chi ma,  hilosima si,  hiroshima,  hiroshimashi,  hirosima,  hyrwshyma,  hyrwsymh,  Χιροσίμα,  Хиросима,  Хирошима,  Хіросіма,  הירושימה,  هيروشيما,  هیروشیما,  हिरोशिमा,  จังหวัดฮิโระชิมะ,  ฮิโรชิมา,  ჰიროსიმა,  ჰიროშიმა,  ひろしま,  ひろしまし,  ヒロシマ,  ヒロシマシ,  広島,  広島市,  廣島市,  히로시마 시
+Alternate Names: Chirosima, HIJ, Hiroshima, Hiroshima-shi, Hiroshimashi, Hirosima, Hirosimo, Hiroszima, Hiroxima, Hiroxima - guang dao shi, Hiroxima - 広島市, Hiroŝimo, Hiroşima, Hirošima, Hiroșima, Khiroshima, Khirosima, canghwad hi roa chi ma, guang dao, guang dao shi, hi ro chi ma, hilosima si, hiroshima, hiroshimashi, hirosima, hyrwshyma, hyrwsymh, Χιροσίμα, Хиросима, Хирошима, Хіросіма, הירושימה, هيروشيما, هیروشیما, हिरोशिमा, จังหวัดฮิโระชิมะ, ฮิโรชิมา, ჰიროსიმა, ჰიროშიმა, ひろしま, ひろしまし, ヒロシマ, ヒロシマシ, 広島, 広島市, 廣島市, 히로시마 시
 
 ---

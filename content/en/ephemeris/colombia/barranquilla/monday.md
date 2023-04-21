@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'10.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°46'10.34" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°25'28.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°0'11.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°16'16.99" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°10'19.53" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°7'7.09" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°46'10.35" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°25'31.63" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°0'27.46" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°16'28.61" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°10'44.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°13'3.10" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°54'10.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°46'7.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°25'28.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°0'11.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°16'16.99" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°10'19.53" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°7'7.09" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|4°54'10.90" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°46'10.35" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°25'31.63" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°0'27.46" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°16'28.61" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°10'44.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°12'31.69" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BAQ,  Barankil'ja,  Barankila,  Barankilija,  Barankilijo,  Barankilja,  Barran'kigia,  Barrancas de San Nicolas,  Barrancas de San Nicolás,  Barrankil'ja,  Barrankilya,  Barranquilha,  Barranquilla,  Killa,  La Arenosa,  Quilla,  ba lan ji ya,  ba leng ji ye,  balangkiya,  bar rang ki ya,  baranakiya,  barankija,  barankwla,  barankwyla,  brnqyyh,  byarenkvila,  Μπαρρανκίγια,  Баранкиля,  Баранкиља,  Баранкілья,  Барранкилья,  Барранкілья,  ברנקייה,  بارانكويلا,  بارانکولا,  ब्यारेन्क्विला,  ਬਾਰਾਙਕੀਯਾ,  บาร์รังกียา,  ბარანკილია,  バランキージャ,  巴兰基亚,  巴冷基也,  바랑키야
+Alternate Names: BAQ, Barankil'ja, Barankila, Barankilija, Barankilja, Barran'kigia, Barrancas de San Nicolas, Barrancas de San Nicolás, Barrankil'ja, Barrankilya, Barranquilha, Barranquilla, Killa, La Arenosa, Quilla, ba lan ji ya, ba leng ji ye, balangkiya, bar rang ki ya, baranakiya, barankija, barankwla, barankwyla, brnqyyh, byarenkvila, Μπαρρανκίγια, Баранкиля, Баранкиља, Баранкілья, Барранкилья, Барранкілья, ברנקייה, بارانكويلا, بارانکولا, ब्यारेन्क्विला, ਬਾਰਾਙਕੀਯਾ, บาร์รังกียา, ბარანკილია, バランキージャ, 巴兰基亚, 巴冷基也, 바랑키야
 
 ---

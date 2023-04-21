@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'1.63" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°39'47.16" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°11'7.85" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°34'27.97" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°46'8.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°17'40.64" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°36'59.79" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°39'47.12" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°11'7.43" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°34'27.77" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°46'7.54" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°17'40.13" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°33'8.59" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,8 +331,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'1.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°39'47.16" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°11'7.85" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|24°39'47.12" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°11'7.43" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°34'27.97" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°46'8.11" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°17'40.64" |Taurus|Dabaran|Moon|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: LKO,  Lakhnau,  Lakkhnau,  Lakkhnau shaary,  Laknaou,  Laknau,  Laknauo,  Laknava,  Laknaú,  Laknaŭo,  Lucknow,  Lucknow City,  Luknow,  ilakno,  lakh nea,  lakhana'u,  lakhanau,  laknau,  lakno,  laksnau,  lei ke nao,  leokeunau,  lkhnw,  lknaw,  rakunau,  Λάκναου,  Лакнау,  Лакхнау,  Лакхнау шаары,  לאקנאו,  لكهنؤ,  لكهنو,  لکناو,  لکهنو,  لکھنؤ,  लखनऊ,  लखनौ,  লক্ষ্ণৌ,  লখনৌ,  ਲਖਨਊ,  લખનૌ,  ଲକ୍ଷ୍ନୌ,  இலக்னோ,  లక్నో,  ಲಕ್ನೋ,  ലഖ്
+Alternate Names: LKO, Lakhnau, Lakkhnau, Lakkhnau shaary, Laknaou, Laknau, Laknauo, Laknava, Laknaú, Laknaŭo, Lucknow, Lucknow City, Luknow, ilakno, lakh nea, lakhana'u, lakhanau, laknau, lakno, laksnau, lei ke nao, leokeunau, lkhnw, lknaw, rakunau, Λάκναου, Лакнау, Лакхнау, Лакхнау шаары, לאקנאו, لكهنؤ, لكهنو, لکناو, لکهنو, لکھنؤ, लखनऊ, लखनौ, লক্ষ্ণৌ, লখনৌ, ਲਖਨਊ, લખનૌ, ଲକ୍ଷ୍ନୌ, இலக்னோ, లక్నో, ಲಕ್ನೋ, ലഖ്‌നൗ, ลัคเนา, ლაქნაუ, ラクナウ, ラクナウー, 勒克瑙, 러크나우
 
 ---

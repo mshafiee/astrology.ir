@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°39'24.93" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°3'7.24" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°48'54.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°5'10.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°51'28.88" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'2.24" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°18'4.35" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°5'23.33" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°51'38.70" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'21.15" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°41'4.30" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: IND,  Indianapoles,  Indianapoli,  Indianapolis,  Indianapolisa,  Indianapolės,  Indianapòlis,  Indianàpolis,  Indianápolis,  Indijanapolis,  Indiyanapolis,  Indyjanapalis,  andyanabwlys,  ayndyanapwlys,  idi'anapolisa,  indiaenapolliseu,  indianaporisu,  indiyanapolis,  indiyanapolisa,  intiyanapolis,  xin deiy næ pho lis,  yin di an na bo li si,  İndianapolis,  Ινδιανάπολη,  Індыянапаліс,  Індіанаполіс,  Индианаполис,  Индијанаполис,  Ինդիանապոլիս,  אינדיאנאפאליס,  אינדיאנפוליס,  إنديانابوليس,  انڈیاناپولس,  انڈیاناپولس، انڈیانا,  ایندیاناپولیس,  इंडियानापोलिस,  इन्डियानापोलिस,  इन्डियानापोलिस्,  इन्दियानापोलिस,  ইন্ডিয়ানাপোলিস,  ਇੰਡੀਆਨਾਪੋਲਿਸ,  இண்டியானாபொலிஸ்,  อินเดียแนโพลิส,  ინდიანაპოლისი,  ኢንዲያናፖሊስ,  インディアナポリス,  印第安納波利斯,  인디애나폴리스
+Alternate Names: IND, Indianapoles, Indianapoli, Indianapolis, Indianapolisa, Indianapolės, Indianapòlis, Indianàpolis, Indianápolis, Indijanapolis, Indiyanapolis, Indyjanapalis, andyanabwlys, ayndyanapwlys, idi'anapolisa, indiaenapolliseu, indianaporisu, indiyanapolis, indiyanapolisa, intiyanapolis, xin deiy næ pho lis, yin di an na bo li si, İndianapolis, Ινδιανάπολη, Індыянапаліс, Індіанаполіс, Индианаполис, Индијанаполис, Ինդիանապոլիս, אינדיאנאפאליס, אינדיאנפוליס, إنديانابوليس, انڈیاناپولس, انڈیاناپولس، انڈیانا, ایندیاناپولیس, इंडियानापोलिस, इन्डियानापोलिस, इन्डियानापोलिस्, इन्दियानापोलिस, ইন্ডিয়ানাপোলিস, ਇੰਡੀਆਨਾਪੋਲਿਸ, இண்டியானாபொலிஸ், อินเดียแนโพลิส, ინდიანაპოლისი, ኢንዲያናፖሊስ, インディアナポリス, 印第安納波利斯, 인디애나폴리스
 
 ---

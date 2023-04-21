@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'17.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'45.60" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°48'3.07" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°3'39.35" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°49'43.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'3.48" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°58'50.91" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'45.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°48'5.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°3'55.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°49'54.30" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'26.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°39'2.80" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BUE,  Baires,  Bonaero,  Bonaeropolis,  Bonaëropolis,  Bos Aires,  Bouenos Aires,  Bouonezar,  Bouonézâr,  Buehnas-Ajrehs,  Buehnos Ajres,  Buehnos-Ajres,  Buehnos-Ajres osh,  Buenos Aires,  Buenos Airės,  Buenos Ajres,  Buenos Ares,  Buenos Ayres,  Buenos-Aires,  Buenos-Ajres,  Buenos-Ayres,  Buenos-Aýres,  Buenosairesa,  Buénos Ayrés,  Bwenoze,  Bwènozè,  Búenos Aíres,  Ciudad Autonoma de Buenos Aires,  Ciudad Autónoma de Buenos Aires,  Ciudad de La Santisima Trinidad y Puerto de Santa Maria del Buen Ayre,  Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre,  Lungsod ng Buenos Aires,  Santa Maria del Buen Ayre,  Santa María del Buen Ayre,  bawnosxires,  bu yi nuo si ai li si,  bu'enosa a'iresa,  buenos-airesi,  buenosaires,  buenoseuaileseu,  buenosuairesu,  buraenosa a'iresa,  buyenosa a'iresa,  bwyns ayrs,  bwynws ayrs,  bwynws ayrys,  byu'enosa erisa,  byunas airis,  byunas ayels,  bywns ayrs,  puvenas airis,  Μπουένος ΄Aιρες,  Μπουένος Άιρες,  Буенос Аирес,  Буенос Айрес,  Буенос Аірес,  Буенос Ајрес,  Буенос-Аирес,  Буенос-Айрес,  Буэнас-Айрэс,  Буэнос Айрес,  Буэнос-Айрес,  Буэнос-Айрес ош,  Բուենոս Այրես,  בואנוס איירס,  בוענאס איירעס,  بوئنوس آیرس,  بوينس آيرس,  بوينوس ايريس,  بۆینس ئایرس,  بیونس آئرس,  बुएनोस आइरेस,  ब्युएनॉस एरीस,  বুয়েনোস আইরেস,  বুৱেনোস আইরেস,  புவெனஸ் ஐரிஸ்,  ಬ್ಯೂನಸ್ ಐರಿಸ್,  ബ്യൂണസ് അയേഴ്സ്,  บัวโนสไอเรส,  པུ་ཨེ་ནོ་སི་ཨས་རི་སི།,  ဗျူနိုအေးရိစ်မြို့,  ბუენოს-აირესი,  ብዌኖስ አይሬስ,  ブエノスアイレス,  布宜諾斯艾利斯,  布宜诺斯艾利斯,  부에노스아이레스
+Alternate Names: BUE, Baires, Bonaero, Bonaeropolis, Bonaëropolis, Bos Aires, Bouenos Aires, Bouonezar, Bouonézâr, Buehnas-Ajrehs, Buehnos Ajres, Buehnos-Ajres, Buehnos-Ajres osh, Buenos Aires, Buenos Airės, Buenos Ajres, Buenos Ayres, Buenos-Aires, Buenos-Ajres, Buenos-Ayres, Buenos-Aýres, Buenosairesa, Buénos Ayrés, Bwenoze, Bwènozè, Búenos Aíres, Ciudad Autonoma de Buenos Aires, Ciudad Autónoma de Buenos Aires, Ciudad de La Santisima Trinidad y Puerto de Santa Maria del Buen Ayre, Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre, Lungsod ng Buenos Aires, Santa Maria del Buen Ayre, Santa María del Buen Ayre, bawnosxires, bu yi nuo si ai li si, bu'enosa a'iresa, buenos-airesi, buenosaires, buenoseuaileseu, buenosuairesu, buraenosa a'iresa, buyenosa a'iresa, bwyns ayrs, bwynws ayrs, bwynws ayrys, byu'enosa erisa, byunas airis, byunas ayels, bywns ayrs, puvenas airis, Μπουένος ΄Aιρες, Μπουένος Άιρες, Буенос Аирес, Буенос Айрес, Буенос Аірес, Буенос Ајрес, Буенос-Аирес, Буенос-Айрес, Буэнас-Айрэс, Буэнос Айрес, Буэнос-Айрес, Буэнос-Айрес ош, Բուենոս Այրես, בואנוס איירס, בוענאס איירעס, بوئنوس آیرس, بوينس آيرس, بوينوس ايريس, بۆینس ئایرس, بیونس آئرس, बुएनोस आइरेस, ब्युएनॉस एरीस, বুয়েনোস আইরেস, বুৱেনোস আইরেস, புவெனஸ் ஐரிஸ், ಬ್ಯೂನಸ್ ಐರಿಸ್, ബ്യൂണസ് അയേഴ്സ്, บัวโนสไอเรส, པུ་ཨེ་ནོ་སི་ཨས་རི་སི།, ဗျူနိုအေးရိစ်မြို့, ბუენოს-აირესი, ብዌኖስ አይሬስ, ブエノスアイレス, 布宜諾斯艾利斯, 布宜诺斯艾利斯, 부에노스아이레스
 
 ---

@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°40'32.00" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°12'49.23" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°37'29.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°49'40.27" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'48.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°3'56.16" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|14°49'41.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'52.24" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°10'0.45" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°52'16.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°40'32.00" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°12'49.23" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°37'29.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°49'41.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'52.24" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°10'0.45" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|4°52'16.07" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°40'29.96" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°12'45.01" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°37'18.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°49'30.25" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'32.34" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°58'51.99" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ASB,  Achgabat,  Achkhabad,  Aschabad,  Aschabadas,  Aschchabad,  Aschgabat,  Asgabat,  Asgabata,  Asgabate,  Asgabato,  Ashabad,  Ashabat,  Ashgabad,  Ashgabat,  Ashkabad,  Ashkhabad,  Ashkhabad osh,  Ashkˌobod,  Ashqabad,  Ashxabad,  Ashxobod,  Asjabad,  Asjchabad,  Asjchabat,  Asjkhabad,  Askabad,  Askabat,  Askhabad,  Asnkampat,  Asqabad,  Asxabad,  Aszchabad,  Aŝgabato,  Aşgabat,  Aşkabat,  Aşqabad,  Aşğabat,  Ašchabad,  Ašchabadas,  Ašgabat,  Ašgabata,  Ašhabad,  Așgabat,  GIashkuabad,  Poltoratsk,  a shen ha ba de,  acukapat,  asagabata,  asakhabada,  asgabad,  asgabada,  asgabat,  ashigabato,  ashk abad,  ashkhabadi,  asigabateu,  asqabada,  asyuhabateu,  xa chka bat,  yashkhabad,  ʼsgbʼt,  ʿەshqabad,  Ασγκαμπάτ,  Ашгабад,  Ашгабат,  Ашкабад,  Ашхабад,  Ашхабад ош,  Ашқобод,  ГІашкъабад,  Աշխաբադ,  אשגאבאט,  אשגבאט,  ئاشخاباد,  اشک آباد,  عاشق
+Alternate Names: ASB, Achgabat, Achkhabad, Aschabad, Aschabadas, Aschchabad, Aschgabat, Asgabat, Asgabata, Asgabate, Asgabato, Ashabad, Ashabat, Ashgabad, Ashgabat, Ashkabad, Ashkhabad, Ashkhabad osh, Ashkˌobod, Ashqabad, Ashxabad, Ashxobod, Asjabad, Asjchabad, Asjchabat, Asjkhabad, Askabad, Askabat, Askhabad, Asnkampat, Asqabad, Asxabad, Aszchabad, Aŝgabato, Aşgabat, Aşkabat, Aşqabad, Aşğabat, Ašchabad, Ašchabadas, Ašgabat, Ašgabata, Ašhabad, Așgabat, GIashkuabad, Poltoratsk, a shen ha ba de, acukapat, asagabata, asakhabada, asgabad, asgabada, asgabat, ashigabato, ashk abad, ashkhabadi, asigabateu, asqabada, asyuhabateu, xa chka bat, yashkhabad, ʼsgbʼt, ʿەshqabad, Ασγκαμπάτ, Ашгабад, Ашгабат, Ашкабад, Ашхабад, Ашхабад ош, Ашқобод, ГІашкъабад, Աշխաբադ, אשגאבאט, אשגבאט, ئاشخاباد, اشک آباد, عاشق‌آباد, عشق آباد, عشق اباد, عشق‌آباد, عەشقاباد, अश्क़ाबाद, अश्गाबाद, আশখাবাদ, ਅਸ਼ਗ਼ਾਬਾਤ, அசுகாபாத், ಅಶ್ಗಾಬಾತ್, അഷ്ഗാബാദ്, อาชกาบัต, ཨ་ཧྲི་ཁ་པད།, აშხაბადი, አሽጋባት, アシガバート, 阿什哈巴德, 아슈하바트, 아시가바트
 
 ---

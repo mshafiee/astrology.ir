@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'28.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°41'6.51" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°14'5.87" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°39'50.43" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°52'24.14" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'15.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°31'6.04" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°41'5.91" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°14'6.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°39'46.97" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°52'22.94" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'11.03" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°25'26.50" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Agia Petroupole,  Betuyrbukh,  Cankt-Peterburg,  LED,  Leningrad,  Leningrado,  Lungsod ng Sankt-Peterburg,  Peterburg,  Peterburgo,  Peterburi,  Petersburg,  Petrapilis,  Petrograd,  Petrogrado,  Petrohrad,  Petropolis,  Petursborg,  Pietari,  Piiteri,  Piter,  Pétursborg,  SPb,  Saint Petersbourg,  Saint Petersburg,  Saint Pétersbourg,  Saint-Petersbourg,  Saint-Pétersbourg,  San Petersburgo,  San Pietroburgo,  San Pietruburgu,  Sankt Peitersbuerg,  Sankt Peterburg,  Sankt Peterburgas,  Sankt Petersborg,  Sankt Petersburg,  Sankt Peterzburg,  Sankt Péitersbuerg,  Sankt-Peterburg,  Sankt-Peterburgo,  Sankt-Peterburq,  Sankt-Petersburg,  Sankti Petursborg,  Sankti Pétursborg,  Sanktpeterburga,  Sanktpēterburga,  Sant Petersburg,  Sant Petersburgo,  Sant-Petersbourg,  Santa Peterburg,  Sao Petersburgo,  Sint Petersbork,  Sint-Petersburg,  St Petersburg,  St. Petersburg,  St.-Petersburg,  Szentpetervar,  Szentpétervár,  São Petersburgo,  leningeuladeu,  sangteupeteleubuleukeu,  sankt. peterburg,  sankutopeteruburuku,  sant btrsbrgh,  seinteupiteojeubeogeu,  sent pi te xrs beirk,  senta pitarsabarga,  sheng bi de bao,  sn ptrzbwrg,  snqt ptrbwrg,  Αγία Πετρούπολη,  Бетъырбух,  Ленинград,  Петербург,  Петроград,  Питер,  СПб,  Санкт Петербург,  Санкт Петерзбург,  Санкт-Петербург,  Սանկտ Պետերբուրգ,  סנקט פטרבורג,  سانت بطرسبرغ,  سن پترزبورگ,  সেন্ট পিটার্সবার্গ,  เซนต์ปีเตอร์สเบิร์ก,  სანკტ-პეტერბურგი,  სანქტ-პეტერბურგი,  サンクトペテルブルク,  圣彼得堡,  聖彼得堡,  레닌그라드,  상트페테르부르크,  세인트피터즈버그
+Alternate Names: Agia Petroupole, Betuyrbukh, Cankt-Peterburg, LED, Leningrad, Leningrado, Lungsod ng Sankt-Peterburg, Peterburg, Peterburgo, Peterburi, Petersburg, Petrapilis, Petrograd, Petrogrado, Petrohrad, Petropolis, Petursborg, Pietari, Piiteri, Piter, Pétursborg, SPb, Saint Petersbourg, Saint Petersburg, Saint Pétersbourg, Saint-Petersbourg, Saint-Pétersbourg, San Petersburgo, San Pietroburgo, San Pietruburgu, Sankt Peitersbuerg, Sankt Peterburg, Sankt Peterburgas, Sankt Petersborg, Sankt Petersburg, Sankt Peterzburg, Sankt Péitersbuerg, Sankt-Peterburg, Sankt-Peterburgo, Sankt-Peterburq, Sankt-Petersburg, Sankti Petursborg, Sankti Pétursborg, Sanktpeterburga, Sanktpēterburga, Sant Petersburg, Sant Petersburgo, Sant-Petersbourg, Santa Peterburg, Sao Petersburgo, Sint Petersbork, Sint-Petersburg, St Petersburg, St. Petersburg, St.-Petersburg, Szentpetervar, Szentpétervár, São Petersburgo, leningeuladeu, sangteupeteleubuleukeu, sankt. peterburg, sankutopeteruburuku, sant btrsbrgh, seinteupiteojeubeogeu, sent pi te xrs beirk, senta pitarsabarga, sheng bi de bao, sn ptrzbwrg, snqt ptrbwrg, Αγία Πετρούπολη, Бетъырбух, Ленинград, Петербург, Петроград, Питер, СПб, Санкт Петербург, Санкт Петерзбург, Санкт-Петербург, Սանկտ Պետերբուրգ, סנקט פטרבורג, سانت بطرسبرغ, سن پترزبورگ, সেন্ট পিটার্সবার্গ, เซนต์ปีเตอร์สเบิร์ก, სანკტ-პეტერბურგი, სანქტ-პეტერბურგი, サンクトペテルブルク, 圣彼得堡, 레닌그라드, 상트페테르부르크, 세인트피터즈버그
 
 ---

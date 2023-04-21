@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'10.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°40'12.28" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°12'4.76" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°36'9.84" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°48'0.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°17'1.60" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°10'6.41" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°40'10.73" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°11'59.94" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°36'0.57" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°47'57.28" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'56.54" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°45'32.45" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'10.11" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°40'11.15" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°12'1.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°36'3.27" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°48'0.86" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°17'1.60" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°10'6.41" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°40'10.73" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°11'59.94" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°36'0.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°47'57.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'56.54" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°45'32.45" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MZR,  Masar-e Scharif,  Mazar-e Sarif,  Mazar-e Sharif,  Mazar-e Šarif,  Mazar-e-Sharif,  Mazar-i Szarif,  Mazar-i-Sharif,  Mazare Srif,  Mazari Sharif,  Mazari-Sharif,  Mazār-e Sharīf,  Mazār-e Šarīf,  Mazār-i-Sharīf,  Mazāre S̄rīf,  majaleu-isyalipeu,  mazarisharifu,  mzar shryf,  Мазари-Шариф,  مزار شريف,  مزار شریف,  マザーリシャリーフ,  마자르이샤리프
+Alternate Names: MZR, Masar-e Scharif, Mazar-e Sarif, Mazar-e Sharif, Mazar-e Šarif, Mazar-e-Sharif, Mazar-i Szarif, Mazar-i-Sharif, Mazare Srif, Mazari Sharif, Mazari-Sharif, Mazār-e Sharīf, Mazār-e Šarīf, Mazār-i-Sharīf, Mazāre S̄rīf, majaleu-isyalipeu, mazarisharifu, mzar shryf, Мазари-Шариф, مزار شريف, مزار شریف, マザーリシャリーフ, 마자르이샤리프
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'48.18" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°53'59.84" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°43'12.89" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°32'17.79" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°53'38.62" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'48.40" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°48'3.82" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°53'59.83" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°43'12.23" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°32'17.72" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°53'37.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'47.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°41'56.39" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'48.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°53'59.83" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'12.23" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°32'17.72" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°53'37.84" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'47.97" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°41'56.39" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°53'59.84" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'12.89" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°32'17.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°53'38.62" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'48.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°48'3.82" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: 'Azimabad,  New Patna,  PAT,  Patna,  Patna New City,  Patnao,  ba te na,  batna,  pat na,  patana,  pateuna,  patna,  patona,  ptnh,  ʿAẓīmābād,  Πάτνα,  Патна,  Պատնա,  פטנה,  باتنا,  پتنه,  پٹنہ,  پټنا,  पटना,  पाटणा,  पाट्ना,  পাটনা,  ਪਟਨਾ,  પટના,  ପାଟଣା,  பட்னா,  பாட்னா,  పాట్నా,  ಪಟ್ನಾ,  പട്ന,  ปัฏนา,  პატნა,  パトナ,  パトナー,  巴特那,  파트나
+Alternate Names: 'Azimabad, New Patna, PAT, Patna, Patna New City, Patnao, ba te na, batna, pat na, patana, pateuna, patna, patona, ptnh, ʿAẓīmābād, Πάτνα, Патна, Պատնա, פטנה, باتنا, پتنه, پٹنہ, پټنا, पटना, पाटणा, पाट्ना, পাটনা, ਪਟਨਾ, પટના, ପାଟଣା, பட்னா, பாட்னா, పాట్నా, ಪಟ್ನಾ, പട്ന, ปัฏนา, პატნა, パトナ, パトナー, 巴特那, 파트나
 
 ---

@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°37'48.04" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°6'39.80" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°26'23.02" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°36'42.10" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'36.29" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°47'49.10" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|14°36'32.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'24.55" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°45'2.84" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Hanyang,  SEL,  Seoel,  Seol,  Seoul,  Seoul-si,  Seuel,  Seul,  Seula,  Seulas,  Seulo,  Seulum,  Seúl,  Seül,  Siul,  Soeul,  Sol,  Soul,  Sye-ul,  Syou-ouen,  Szoeul,  Szöul,  Séoul,  Sêûl,  Söul,  Sŏul,  Wang-ching,  Wo-jo,  Wō-jō,  ciyol,  han-yang,  saul,  seoul,  seoulsi,  seoulteugbyeolsi,  seuli,  shou er,  shou er te bie shi,  si'ula,  siyola,  sol,  sola,  souru,  souru te bie shi,  sywl,  Σεούλ,  Сеул,  Соул,  Сөүл,  Սեուլ,  סאול,  סיאול,  סעאל,  سئول,  سيول,  سیول,  سێئول,  سېئول,  सियोल,  सोल,  সিউল,  சியோல்,  ಸೌಲ್,  സോൾ,  โซล,  སེ་ཨུལ།,  ဆိုးလ်မြို့,  სეული,  ሶል,  សេអ៊ូល,  ソウル,  ソウル特別市,  首尔,  首尔特别市,  首爾,  서울,  서울시,  서울특별시,  한양
+Alternate Names: Hanyang, SEL, Seoel, Seol, Seoul, Seoul-si, Seuel, Seul, Seula, Seulas, Seulo, Seulum, Seúl, Seül, Siul, Soeul, Sol, Soul, Sye-ul, Syou-ouen, Szoeul, Szöul, Séoul, Sêûl, Söul, Sŏul, Wang-ching, Wo-jo, Wō-jō, ciyol, han-yang, saul, seoul, seoulsi, seoulteugbyeolsi, seuli, shou er, shou er te bie shi, si'ula, siyola, sol, sola, souru, souru te bie shi, sywl, Σεούλ, Сеул, Соул, Сөүл, Սեուլ, סאול, סיאול, סעאל, سئول, سيول, سیول, سێئول, سېئول, सियोल, सोल, সিউল, சியோல், ಸೌಲ್, സോൾ, โซล, སེ་ཨུལ།, ဆိုးလ်မြို့, სეული, ሶል, សេអ៊ូល, ソウル, ソウル特別市, 首尔, 首尔特别市, 서울, 서울시, 서울특별시, 한양
 
 ---

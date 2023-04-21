@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'2.82" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°59'12.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°40'10.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°49'31.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°32'59.67" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'23.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°30'26.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°40'10.12" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°49'31.37" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°32'59.70" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'23.95" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°30'31.86" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: EGoli,  Giochanesmpournk,  IGoli,  IJohannesburg,  Ioannesburgum,  JNB,  Jo'anna,  Joanesburgo,  Joburg,  Jog'annesburg,  Joganesburg,  Jogannesburg,  Johanesburgas,  Johanesburgo,  Johannesarborg,  Johannesbourg,  Johannesburg,  Johannesburga,  Johannesburgo,  Johannesburgu,  Jokhanesburg,  Jokhanezburg,  Jokhannesburg,  J·ohanesbôrg,  Jóhannesarborg,  Xohanesburgo,  Yohannesburg,  Yohannesburq,  Yohannésburg,  Yok-hon-ni-su-pau,  Yok-hon-nì-sṳ̂-páu,  Yoxannesburg,  cohannes beirk,  iohanesburgi,  johanisabaraga,  johannesbarga,  johansabarga,  jokanasperk,  jwhansbrgh,  yohaneseubeogeu,  yohanesuburugu,  yue han nei si bao,  yue han ni si bao,  ywhnsbwrg,  zhwhansbwrg,  Γιοχάνεσμπουργκ,  Ёганесбург,  Јоханезбург,  Јоханесбург,  Йоганнесбург,  Йогьаннесбург,  Йоханесбург,  Йоханнесбург,  Յոհաննեսբուրգ,  יאהאנעסבורג,  יוהנסבורג,  جوهانسبرغ,  جوہانسبرگ,  جۆھانسبێرگ,  ژوهانسبورگ,  یوہانس برگ,  जोहन्नेस्बर्ग,  जोहान्सबर्ग,  ਜੋਹਾਨਿਸਬਰਗ,  ஜோகானஸ்பேர்க்,  ജൊഹാനസ്
+Alternate Names: EGoli, Giochanesmpournk, IGoli, IJohannesburg, Ioannesburgum, JNB, Jo'anna, Joanesburgo, Joburg, Jog'annesburg, Joganesburg, Jogannesburg, Johanesburgas, Johanesburgo, Johannesarborg, Johannesbourg, Johannesburg, Johannesburga, Johannesburgo, Johannesburgu, Jokhanesburg, Jokhanezburg, Jokhannesburg, J·ohanesbôrg, Jóhannesarborg, Xohanesburgo, Yohannesburg, Yohannesburq, Yohannésburg, Yok-hon-ni-su-pau, Yok-hon-nì-sṳ̂-páu, Yoxannesburg, cohannes beirk, iohanesburgi, johanisabaraga, johannesbarga, johansabarga, jokanasperk, jwhansbrgh, yohaneseubeogeu, yohanesuburugu, yue han nei si bao, yue han ni si bao, ywhnsbwrg, zhwhansbwrg, Γιοχάνεσμπουργκ, Ёганесбург, Јоханезбург, Јоханесбург, Йоганнесбург, Йогьаннесбург, Йоханесбург, Йоханнесбург, Յոհաննեսբուրգ, יאהאנעסבורג, יוהנסבורג, جوهانسبرغ, جوہانسبرگ, جۆھانسبێرگ, ژوهانسبورگ, یوہانس برگ, जोहन्नेस्बर्ग, जोहान्सबर्ग, ਜੋਹਾਨਿਸਬਰਗ, ஜோகானஸ்பேர்க், ജൊഹാനസ്‌ബർഗ്, โจฮันเนสเบิร์ก, ဂျိုဟန္နက်စဗတ်မြို့, იოჰანესბურგი, ጆሃንስበርግ, ヨハネスブルグ, 約翰尼斯堡, 约翰内斯堡, 요하네스버그
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'36.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'16.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°9'22.09" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°42'35.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°35'15.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'48.40" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°2'34.12" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°12'16.28" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°9'21.81" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°42'34.17" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°35'14.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'46.13" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°53'22.93" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'36.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'16.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°9'22.09" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°42'35.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°35'15.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'48.40" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°2'34.12" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'16.28" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°9'21.81" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°42'34.17" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°35'14.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'46.13" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°53'22.93" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: VOZ,  Voronej,  Voronejo,  Voronez,  Voroneza,  Voronezas,  Voronezh,  Voronezhskaja oblast',  Voronezj,  Voroneĵo,  Voronež,  Voronežas,  Voronjez,  Voronjež,  Voroněž,  Voroņeža,  Woronesch,  Woronesh,  Woronez,  Woroneż,  bolonesi,  vuoroneji,  Воронеж,  Воронежская область,  ヴォロネジ,  보로네시
+Alternate Names: VOZ, Voronej, Voronez, Voroneza, Voronezas, Voronezh, Voronezhskaja oblast', Voronezj, Voroneĵ, Voronež, Voronežas, Voroněž, Voroņeža, Woronesch, Woronesh, Woronez, Woroneż, bolonesi, vu~oroneji, Воронеж, Воронежская область, ヴォロネジ, 보로네시
 
 ---

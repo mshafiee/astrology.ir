@@ -20,7 +20,7 @@ Latitude: -34.9287
 \-
 Longitude: 138.5986
 \-
-Altitude: 59 meters
+Altitude: 56 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adelaide, Australia" lat="-34.9287" lng="138.5986" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:14:38 |
 | Medium Coeli | 12:14:38 |
 | Sunset | 17:46:22 |
-| Maghrib | 17:47:41 |
+| Maghrib | 17:47:39 |
 | Isha | 19:07:09 |
 | Sharia Midnight | 23:31:53 |
 | Imum Coeli | 00:14:32 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:14:38 |
 | Medium Coeli | 12:14:38 |
 | Sunset | 17:46:22 |
-| Maghrib | 17:47:41 |
+| Maghrib | 17:47:39 |
 | Isha | 18:57:23 |
 | Sharia Midnight | 23:39:13 |
 | Imum Coeli | 00:14:32 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:14:38 |
 | Medium Coeli | 12:14:38 |
 | Sunset | 17:46:22 |
-| Maghrib | 17:47:41 |
+| Maghrib | 17:47:39 |
 | Isha | 19:09:36 |
 | Sharia Midnight | 23:28:14 |
 | Imum Coeli | 00:14:32 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:14:38 |
 | Medium Coeli | 12:14:38 |
 | Sunset | 17:46:22 |
-| Maghrib | 17:47:41 |
+| Maghrib | 17:47:39 |
 | Isha | 19:12:02 |
 | Sharia Midnight | 23:31:53 |
 | Imum Coeli | 00:14:32 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:14:38 |
 | Medium Coeli | 12:14:38 |
 | Sunset | 17:46:22 |
-| Maghrib | 17:47:41 |
-| Isha | 19:17:41 |
+| Maghrib | 17:47:39 |
+| Isha | 19:17:39 |
 | Sharia Midnight | 23:30:40 |
 | Imum Coeli | 00:14:32 |
 {{< /tab >}}
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'24.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'23.42" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°58'18.81" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°32'59.67" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°3'11.16" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'40.60" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°18'36.14" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°40'25.81" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°58'23.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°33'13.16" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°3'23.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'0.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°45'4.60" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'24.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'23.42" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°58'18.81" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°32'59.67" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°3'11.16" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'40.60" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°18'36.14" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|23°40'25.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°58'23.45" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°33'13.16" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°3'23.34" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'0.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°45'4.60" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ADL,  Adalet,  Adehlaida,  Adelaida,  Adelaidae,  Adelaide,  Adelaidis,  Adelaidė,  Adelajda,  Adelajdo,  Adelaïda,  Adelaïde,  Adelejd,  Adelàida,  Adélaïde,  Edelaid,  Tarndanya,  Tarndarnya,  a de lai de,  adelaida,  aderedo,  adilaid,  adiled,  adlayd,  adylyd,  aedeulleideu,  atileyit,  edile'ida,  edileda,  Αδελαΐδα,  Аделаидæ,  Аделаида,  Аделаїда,  Аделейд,  Аделејд,  Адэлаіда,  Ադելաիդա,  אדלייד,  آدلاید,  أديليد,  ئادېلايدې,  ایڈیلیڈ,  एडिलेड,  ॲdaleda,  ॲडलेड,  એડિલેઇડ,  அடிலெயிட்,  అడిలైడ్,  ಅಡಿಲೇಡ್,  അഡിലെയ്
+Alternate Names: ADL, Adehlaida, Adelaida, Adelaidae, Adelaide, Adelaidis, Adelaidė, Adelajda, Adelajdo, Adelaïda, Adelaïde, Adelejd, Adelàida, Adélaïde, Edelaid, Tarndanya, Tarndarnya, a de lai de, adelaida, aderedo, adilaid, adiled, adlayd, adylyd, aedeulleideu, atileyit, edile'ida, edileda, Αδελαΐδα, Аделаидæ, Аделаида, Аделаїда, Аделейд, Аделејд, Адэлаіда, Ադելաիդա, אדלייד, آدلاید, أديليد, ئادېلايدې, ایڈیلیڈ, एडिलेड, ॲdaleda, ॲडलेड, એડિલેઇડ, அடிலெயிட், అడిలైడ్, ಅಡಿಲೇಡ್, അഡിലെയ്‌ഡ്, แอดิเลด, အက်ဒလိတ်မြို့, ადელაიდა, アデレード, 阿德来得, 阿德莱德, 애들레이드
 
 ---

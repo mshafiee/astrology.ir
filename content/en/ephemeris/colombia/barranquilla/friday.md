@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'22.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°2'59.64" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°48'36.74" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°4'53.39" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°51'1.80" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'14.04" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°0'54.58" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°2'59.65" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°48'36.67" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°4'53.42" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°51'1.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'25.93" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°52'44.64" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°39'22.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'57.95" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°48'40.03" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°4'43.11" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°50'59.72" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'14.04" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°0'54.58" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°39'22.33" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°2'59.65" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°48'36.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°4'53.39" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°51'1.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'25.93" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°52'44.64" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BAQ,  Barankil'ja,  Barankila,  Barankilija,  Barankilijo,  Barankilja,  Barran'kigia,  Barrancas de San Nicolas,  Barrancas de San Nicolás,  Barrankil'ja,  Barrankilya,  Barranquilha,  Barranquilla,  Killa,  La Arenosa,  Quilla,  ba lan ji ya,  ba leng ji ye,  balangkiya,  bar rang ki ya,  baranakiya,  barankija,  barankwla,  barankwyla,  brnqyyh,  byarenkvila,  Μπαρρανκίγια,  Баранкиля,  Баранкиља,  Баранкілья,  Барранкилья,  Барранкілья,  ברנקייה,  بارانكويلا,  بارانکولا,  ब्यारेन्क्विला,  ਬਾਰਾਙਕੀਯਾ,  บาร์รังกียา,  ბარანკილია,  バランキージャ,  巴兰基亚,  巴冷基也,  바랑키야
+Alternate Names: BAQ, Barankil'ja, Barankila, Barankilija, Barankilja, Barran'kigia, Barrancas de San Nicolas, Barrancas de San Nicolás, Barrankil'ja, Barrankilya, Barranquilha, Barranquilla, Killa, La Arenosa, Quilla, ba lan ji ya, ba leng ji ye, balangkiya, bar rang ki ya, baranakiya, barankija, barankwla, barankwyla, brnqyyh, byarenkvila, Μπαρρανκίγια, Баранкиля, Баранкиља, Баранкілья, Барранкилья, Барранкілья, ברנקייה, بارانكويلا, بارانکولا, ब्यारेन्क्विला, ਬਾਰਾਙਕੀਯਾ, บาร์รังกียา, ბარანკილია, バランキージャ, 巴兰基亚, 巴冷基也, 바랑키야
 
 ---

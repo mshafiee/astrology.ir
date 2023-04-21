@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°39'7.71" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°2'17.93" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°47'3.36" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°2'4.17" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°47'42.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'28.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°22'1.67" |Aries|Butain|Sun|
+|☉ Sun|Direct|1°2'3.65" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°47'41.83" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'27.87" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°17'30.98" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'7.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'17.37" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°47'7.03" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°2'0.72" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°47'44.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'26.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°11'59.08" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'17.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°47'2.72" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°2'3.65" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°47'41.83" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'27.87" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°17'30.98" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CWB,  Corityba,  Curitiba,  Curityba,  Curytiba,  Kouritiba,  Kouritimpa,  Kuritib,  Kuritiba,  Kuritibae,  Kuritibo,  Kuritiwa,  Kuritiyba,  Kuriytyva,  Kuriytýva,  Kuriṭiba,  Kuryciba,  Kurytyba,  Kùrìtíbà,  gu li ti ba,  ku li qi ba,  ku ri ti ba,  kulichiba,  kurichiba,  kuritcibas,  kuritiba,  kuritipe,  kwrytyba,  qwrytybh,  Κουριτίμπα,  Коуритиба,  Куритибæ,  Куритиба,  Курытыба,  Курыціба,  Կուրիտիբա,  קוריטיבא,  קוריטיבה,  كوريتيبا,  کوریتیبا,  ܩܘܪܝܛܝܒܐ,  कुरितिबा,  কুরিটিবা,  কুরিতিবা,  ਕੁਰੀਤੀਬਾ,  குரிடிபே,  కురితీబా,  ಕುರಿಟಿಬ,  กูรีตีบา,  კურიტიბა,  ኩሪቺባ,  ᎫᎵᏘᎦ,  クリチバ,  古里提巴,  庫里奇巴,  쿠리치바,  𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰
+Alternate Names: CWB, Corityba, Curitiba, Curityba, Curytiba, Kouritiba, Kouritimpa, Kuritib, Kuritiba, Kuritibae, Kuritibo, Kuritiwa, Kuritiyba, Kuriytyva, Kuriytýva, Kuriṭiba, Kuryciba, Kurytyba, Kùrìtíbà, gu li ti ba, ku li qi ba, ku ri ti ba, kulichiba, kurichiba, kuritcibas, kuritiba, kuritipe, kwrytyba, qwrytybh, Κουριτίμπα, Коуритиба, Куритибæ, Куритиба, Курытыба, Курыціба, Կուրիտիբա, קוריטיבא, קוריטיבה, كوريتيبا, کوریتیبا, ܩܘܪܝܛܝܒܐ, कुरितिबा, কুরিটিবা, কুরিতিবা, ਕੁਰੀਤੀਬਾ, குரிடிபே, కురితీబా, ಕುರಿಟಿಬ, กูรีตีบา, კურიტიბა, ኩሪቺባ, ᎫᎵᏘᎦ, クリチバ, 古里提巴, 庫里奇巴, 쿠리치바, 𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰
 
 ---

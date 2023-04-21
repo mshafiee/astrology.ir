@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°43'5.26" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°13'40.47" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°12'29.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°48'18.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°42'0.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'26.14" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°41'35.88" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|1°48'16.67" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°41'55.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'21.27" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°15'44.75" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°13'40.47" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°12'29.97" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°48'16.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°42'0.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'26.14" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°41'35.88" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°41'55.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'21.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°15'44.75" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Augusta Taurinorum,  Julia Augusta Taurinorum,  Lungsod ng Turino,  TRN,  Tori,  Torin,  Torino,  Torinu,  Torí,  Tueri,  Turen,  Turijn,  Turim,  Turin,  Turina,  Turinas,  Turino,  Turinu,  Turyn,  Turén,  Turìn,  Turín,  Turīna,  Tórínó,  Türì,  dou ling,  tolino,  torino,  tu rin,  tulin,  turin,  turina,  twryn,  twrynw,  Τορίνο,  Торино,  Турин,  Турын,  Թուրին,  טורין,  טורינו,  تورينو,  تورین,  टोरीनो,  तोरिनो,  তুরিন,  துரின்,  ตูริน,  ཊུ་རིན།,  ტურინი,  トリノ,  都灵,  토리노,  투린
+Alternate Names: Augusta Taurinorum, Julia Augusta Taurinorum, Lungsod ng Turino, TRN, Tori, Torin, Torino, Torinu, Torí, Tueri, Turen, Turijn, Turim, Turin, Turina, Turinas, Turino, Turinu, Turyn, Turén, Turìn, Turín, Turīna, Tórínó, Türì, dou ling, tolino, torino, tu rin, tulin, turin, turina, twryn, twrynw, Τορίνο, Торино, Турин, Турын, Թուրին, טורין, טורינו, تورينو, تورین, टोरीनो, तोरिनो, তুরিন, துரின், ตูริน, ཊུ་རིན།, ტურინი, トリノ, 都灵, 토리노, 투린
 
 ---

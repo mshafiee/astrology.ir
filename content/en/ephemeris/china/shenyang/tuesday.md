@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'12.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°52'13.98" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°39'13.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°25'6.32" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°45'11.24" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°3'1.95" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°34'45.45" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|4°56'12.94" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°52'14.20" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°39'13.64" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°25'7.54" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°45'16.49" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°3'7.58" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°10'36.87" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,10 +332,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'12.78" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°52'13.98" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°39'13.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°25'6.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°45'16.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°3'5.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°39'13.64" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°25'7.54" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°45'16.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°3'7.58" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|1°11'18.09" |Cancer|Nathrah|Venus|
 
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Feng-t'ien,  Feng-t’ien,  Moukden,  Mukden,  SHE,  Sen'gian'nk,  Sen-jang,  Senjana,  Senjang,  Senjangas,  Senjango,  Shehn'jan,  Shehn'jan khot,  Shen'jan,  Shen-yang-hsien,  Shen-yang-shih,  Shengking,  Shenjang,  Shenyan,  Shenyang,  Shenyang Shi,  Shunjan,  Sim-iong-chhi,  Sing-iong,  Sjenyang,  Swnjyangh,  Sím-iông-chhī,  Sīng-iòng,  Tham Duong,  Thẩm Dương,  cenyan,  chen yang,  chen yang shi,  san'yanga,  sein hyang,  sen'yan,  senayanga,  seon-yang,  seon-yang si,  shen yang,  shen yang shi,  shnyang,  shnyangh,  shynyang,  sim-yang,  Ŝenjango,  Šen-jang,  Šenjangas,  Šeņjana,  Σενγιάνγκ,  Шеньян,  Шеньяң,  Шенјанг,  Шънян,  Шэньян,  Шэньян хот,  שן-יאנג,  شنيانغ,  شنیانگ,  شن
+Alternate Names: Feng-t'ien, Feng-t’ien, Moukden, Mukden, SHE, Sen'gian'nk, Sen-jang, Senjana, Senjang, Senjangas, Senjango, Shehn'jan, Shehn'jan khot, Shen'jan, Shen-yang-hsien, Shen-yang-shih, Shengking, Shenjang, Shenyan, Shenyang, Shenyang Shi, Shunjan, Sim-iong-chhi, Sing-iong, Sjenyang, Swnjyangh, Sím-iông-chhī, Sīng-iòng, Tham Duong, Thẩm Dương, cenyan, chen yang, chen yang shi, san'yanga, sein hyang, sen'yan, senayanga, seon-yang, seon-yang si, shen yang, shen yang shi, shnyang, shnyangh, shynyang, sim-yang, Ŝenjango, Šen-jang, Šenjangas, Šeņjana, Σενγιάνγκ, Шеньян, Шеньяң, Шенјанг, Шънян, Шэньян, Шэньян хот, שן-יאנג, شنيانغ, شنیانگ, شن‌یانگ, شینیانگ, شېنياڭ شەھىرى, शेनयांग, षन्यांग, ਸ਼ੇਨਯਾਂਗ, சென்யாங், ഷെന്യാങ്, เสิ่นหยาง, 沈阳, 沈阳市, 沉阳市, 瀋陽, 瀋陽市, 선양, 선양 시, 심양
 
 ---

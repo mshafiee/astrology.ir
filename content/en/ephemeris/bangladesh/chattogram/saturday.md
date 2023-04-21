@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'1.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°10'35.20" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°5'40.89" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°35'40.36" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°27'17.12" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'1.77" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°39'28.41" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°10'37.38" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°5'39.68" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°35'53.36" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°27'22.88" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'18.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°46'4.42" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'1.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°10'35.20" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°5'40.89" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°35'40.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°27'17.12" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'1.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°39'28.41" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°10'37.38" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°5'39.68" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°35'53.36" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°27'22.88" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'18.98" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°46'4.42" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CGP,  Cattagram,  Caṭṭagrām,  Cetagons,  Chattogram,  Chitagong,  Chittagong,  Chittagong Ghat,  Chottogram,  Chôţţogram,  Citagaon,  Citagong,  Citagonga,  Citagongas,  Citagongo,  Cittaqonq,  Cottogram,  Csittagong,  Islamabad,  Tsitankon'nk,  catagamva,  cattagrama,  chitagong,  chittagon,  chytagwng,  cirragean,  cit ta kxng,  citagonga,  cittagang,  cittagonga,  cittakon,  ji da gang,  ji da gang shi,  shytaghwngh,  shytajwnj,  zytgwng,  Çitagong,  Çittaqonq,  Ćottogram,  Ĉitagongo,  Čattagrám,  Čitagonga,  Čitagongas,  Čitágáon,  Čėtagons,  Τσιταγκόνγκ,  Читагонг,  Читтагонг,  Читтаґонґ,  טשיטאגאנג,  ציטגונג,  شيتاجونج,  شيتاغونغ,  چٹاگانگ,  چیتاگونگ,  चटगाँव,  चट्टग्राम,  चिटागोंग,  চট্টগ্রাম,  ચિત્તાગોંગ,  சிட்டகொங்,  చిట్టగాంగ్,  ಚಿತ್ತಗಾಂಗ್,  ചിറ്റഗോങ്,  จิตตะกอง,  စစ်တကောင်းမြို့,  ჩიტაგონგი,  チッタゴン,  吉大港,  吉大港市,  치타공
+Alternate Names: CGP, Cattagram, Caṭṭagrām, Cetagons, Chattogram, Chitagong, Chittagong, Chittagong Ghat, Chottogram, Chôţţogram, Citagaon, Citagong, Citagonga, Citagongas, Citagongo, Cittaqonq, Cottogram, Csittagong, Islamabad, Tsitankon'nk, catagamva, cattagrama, chitagong, chittagon, chytagwng, cirragean, cit ta kxng, citagonga, cittagang, cittagonga, cittakon, ji da gang, ji da gang shi, shytaghwngh, shytajwnj, zytgwng, Çitagong, Çittaqonq, Ćottogram, Ĉitagongo, Čattagrám, Čitagonga, Čitagongas, Čitágáon, Čėtagons, Τσιταγκόνγκ, Читагонг, Читтагонг, Читтаґонґ, טשיטאגאנג, ציטגונג, شيتاجونج, شيتاغونغ, چٹاگانگ, چیتاگونگ, चटगाँव, चट्टग्राम, चिटागोंग, চট্টগ্রাম, ચિત્તાગોંગ, சிட்டகொங், చిట్టగాంగ్, ಚಿತ್ತಗಾಂಗ್, ചിറ്റഗോങ്, จิตตะกอง, စစ်တကောင်းမြို့, ჩიტაგონგი, チッタゴン, 吉大港, 吉大港市, 치타공
 
 ---

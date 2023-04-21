@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'7.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'27.09" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°40'43.71" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°50'28.25" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°34'9.29" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'15.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°4'58.23" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'27.63" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°40'47.50" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°50'31.03" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°34'14.81" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'21.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°30'7.96" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'7.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'27.09" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°40'43.71" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°50'28.25" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°34'9.29" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'15.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°4'58.23" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°59'27.63" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°40'47.50" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°50'31.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°34'14.81" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'21.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°30'7.96" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ILondon,  LON,  Lakana,  Landan,  Landen,  Ljondan,  Llundain,  Lodoni,  Londain,  Londan,  Londar,  Londe,  Londen,  Londin,  Londinium,  Londino,  Londn,  London,  London osh,  Londona,  Londonas,  Londoni,  Londono,  Londons,  Londonu,  Londra,  Londres,  Londrez,  Londri,  Londro,  Londye,  Londyn,  Londýn,  Lonn,  Lontoo,  Loundres,  Luan GJon,  Lun-tun,  Lunden,  Lundra,  Lundun,  Lundunir,  Lundúnir,  Lung-dung,  Lunnainn,  Lunnin,  Lunnon,  Luân Đôn,  Lùn-tûn,  Lùng-dŭng,  Lûn-tun,  Lākana,  Lůndůn,  Lọndọnu,  Ranana,  Rānana,  ilantan,  ladana,  landan,  landana,  leondeon,  lndn,  london,  londoni,  lun dui,  lun dun,  lwndwn,  lxndxn,  rondon,  Łondra,  Λονδίνο,  Лондан,  Лондон,  Лондон ош,  Лондонъ,  Лёндан,  Լոնդոն,  לאנדאן,  לונדון,  لأندأن,  لندن,  لوندون,  لەندەن,  ܠܘܢܕܘܢ,  लंडन,  लंदन,  लण्डन,  लन्डन्,  लन्दन,  লন্ডন,  ਲੰਡਨ,  લંડન,  ଲଣ୍ଡନ,  இலண்டன்,  లండన్,  ಲಂಡನ್,  ലണ്ടൻ,  ලන්ඩන්,  ลอนดอน,  ລອນດອນ,  ལོན་ཊོན།,  လန်ဒန်မြို့,  ლონდონი,  ለንደን,  ᎫᎴ ᏗᏍᎪᏂᎯᏱ,  ロンドン,  伦敦,  倫敦,  런던
+Alternate Names: ILondon, LON, Lakana, Landan, Landen, Ljondan, Llundain, Lodoni, Londain, Londan, Londar, Londe, Londen, Londin, Londinium, Londino, Londn, London, London osh, Londona, Londonas, Londoni, Londono, Londons, Londonu, Londra, Londres, Londrez, Londri, Londro, Londye, Londyn, Londýn, Lonn, Lontoo, Loundres, Luan GJon, Lun-tun, Lunden, Lundra, Lundun, Lundunir, Lundúnir, Lung-dung, Lunnainn, Lunnin, Lunnon, Luân Đôn, Lùn-tûn, Lùng-dŭng, Lûn-tun, Lākana, Lůndůn, Lọndọnu, Ranana, Rānana, ilantan, ladana, landan, landana, leondeon, lndn, london, londoni, lun dui, lun dun, lwndwn, lxndxn, rondon, Łondra, Λονδίνο, Лондан, Лондон, Лондон ош, Лондонъ, Лёндан, Լոնդոն, לאנדאן, לונדון, لأندأن, لندن, لوندون, لەندەن, ܠܘܢܕܘܢ, लंडन, लंदन, लण्डन, लन्डन्, लन्दन, লন্ডন, ਲੰਡਨ, લંડન, ଲଣ୍ଡନ, இலண்டன், లండన్, ಲಂಡನ್, ലണ്ടൻ, ලන්ඩන්, ลอนดอน, ລອນດອນ, ལོན་ཊོན།, လန်ဒန်မြို့, ლონდონი, ለንደን, ᎫᎴ ᏗᏍᎪᏂᎯᏱ, ロンドン, 伦敦, 倫敦, 런던
 
 ---

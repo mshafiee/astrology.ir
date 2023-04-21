@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°42'31.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'1.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°8'45.71" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°41'34.18" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°34'0.58" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'56.52" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°59'37.94" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°42'30.78" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°12'0.83" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°8'46.77" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°41'32.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°34'0.85" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'54.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°51'59.03" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'30.78" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°12'0.91" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°8'46.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°41'32.53" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°34'0.85" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'56.52" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°59'37.94" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|14°8'46.43" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°41'32.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°34'0.25" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'54.11" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°51'59.03" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: AZD,  Dakbayan sa Yazd,  Giaznt,  Jasd,  Jazd,  Jazdo,  Jezd,  Jezdas,  Yasd,  Yazd,  Yezd,  Yəzd,  iezdi,  ya ci de,  yajeudeu,  yazda,  yazudo,  yzd,  Γιαζντ,  Јазд,  Йезд,  Язд,  Յազդ,  יזד,  يزد,  یزد,  यज़्द,  იეზდი,  ヤズド,  亚兹德,  야즈드
+Alternate Names: AZD, Dakbayan sa Yazd, Giaznt, Jazd, Jazdo, Jezd, Jezdas, Yasd, Yazd, Yezd, Yəzd, iezdi, ya ci de, yajeudeu, yazda, yazudo, yzd, Γιαζντ, Јазд, Йезд, Язд, Յազդ, יזד, يزد, یزد, यज़्द, იეზდი, ヤズド, 亚兹德, 야즈드
 
 ---

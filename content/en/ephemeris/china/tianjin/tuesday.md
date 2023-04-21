@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'18.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°52'31.39" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°39'50.93" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°26'16.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°46'35.89" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°2'38.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°56'26.27" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°52'31.68" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°39'53.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°26'18.44" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°46'40.22" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°2'43.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°26'56.66" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°56'18.72" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°52'31.70" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°39'53.97" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°26'16.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°46'35.89" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°2'38.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°56'26.27" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°26'18.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°46'40.34" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°2'43.21" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°27'38.04" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: T'ien-chin,  T'ien-ching,  T'ien-ching-shih,  TSN,  Tchien-tin,  Tchien-ťin,  Tehnd'iin,  Thien Tan,  Thien-tsin,  Thiên Tân,  Thiên-tsîn,  Tiandzinas,  Tianjin,  Tianjin Shi,  Tianjing,  Tianjín,  Tiantzin,  Tiencin,  Tiencsin,  Tiendzin,  Tientsin,  Tiençin,  Tjan'czin',  Tjandzina,  Tjangino,  Tjanĝino,  Tjaņdziņa,  Tjencin,  Tyantszin,  T’ien-chin,  T’ien-ching,  T’ien-ching-shih,  cheonjin,  theiyn cin,  ti'anjina,  tian jin,  tian jin shi,  tiyanjin,  tyanjina,  tyanjn,  tyanjyn,  tyenjin si,  tyyng'yn,  Τιαντζίν,  Тиендзин,  Тэндьиин,  Тяньцзинь,  Тяньцзінь,  Тјенцин,  טיינג'ין,  تيانجين,  تيەنجىن شەھىرى,  تیانجن,  تیانجین,  तिआंजिन,  त्यांजिन,  ਤਿਆਂਜਿਨ,  தியான்ஜின்,  ടിയാൻജിൻ,  เทียนจิน,  ཐན་ཅིན ་གྲོང་ཁྱེར།,  ထျန်းကျင်းမြို့,  ტიანძინი,  天津,  天津市,  천진,  톈진 시
+Alternate Names: T'ien-chin, T'ien-ching, T'ien-ching-shih, TSN, Tchien-tin, Tchien-ťin, Tehnd'iin, Thien Tan, Thien-tsin, Thiên Tân, Thiên-tsîn, Tiandzinas, Tianjin, Tianjin Shi, Tianjing, Tianjín, Tiantzin, Tiencin, Tiencsin, Tiendzin, Tientsin, Tiençin, Tjan'czin', Tjandzina, Tjangino, Tjanĝino, Tjaņdziņa, Tjencin, Tyantszin, T’ien-chin, T’ien-ching, T’ien-ching-shih, cheonjin, theiyn cin, ti'anjina, tian jin, tian jin shi, tiyanjin, tyanjina, tyanjn, tyanjyn, tyenjin si, tyyng'yn, Τιαντζίν, Тиендзин, Тэндьиин, Тяньцзинь, Тяньцзінь, Тјенцин, טיינג'ין, تيانجين, تيەنجىن شەھىرى, تیانجن, تیانجین, तिआंजिन, त्यांजिन, ਤਿਆਂਜਿਨ, தியான்ஜின், ടിയാൻജിൻ, เทียนจิน, ཐན་ཅིན ་གྲོང་ཁྱེར།, ထျန်းကျင်းမြို့, ტიანძინი, 天津, 天津市, 천진, 톈진 시
 
 ---

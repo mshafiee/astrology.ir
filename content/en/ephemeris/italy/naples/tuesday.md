@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'40.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'35.98" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°49'11.55" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°42'52.50" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°6'5.51" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'9.45" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°36'37.18" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°56'35.93" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°49'6.44" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°42'52.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°5'59.69" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'6.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°49'33.32" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'39.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°56'35.98" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°49'11.55" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°42'52.50" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°6'5.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'9.45" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°36'37.18" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°57'40.24" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°56'36.07" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°49'6.83" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°42'53.21" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°6'0.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'8.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°54'31.97" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: NAP,  Napels,  Naples,  Naplés,  Napoles,  Napoli,  Napolo,  Napols,  Napoly,  Nappoli,  Napul,  Napule,  Napuli,  Napulj,  Napólí,  Neapal',  Neapel,  Neapelj,  Neapol,  Neapol',  Neapole,  Neapolis,  Noapels,  Nàpoli,  Nàpols,  Nàpuli,  Nàpułi,  Nápoles,  Nápoli,  Nápols,  Nápoly,  Parthenope,  na bu lei si,  nabwly,  napl,  napoli,  napolli,  napori,  napwly,  nepalasa,  nepalsa,  nepeils,  nyplz,  Νάπολη,  Напуљ,  Неапаль,  Неапол,  Неаполь,  Նեապոլ,  נאפאלי,  נאפולי,  نابولي,  ناپل,  ناپولی,  نیپلز,  नापोलि,  नापोली,  नेपल्स,  নেপলস,  நாபொலி,  เนเปิลส์,  ნეაპოლი,  ナポリ,  那不勒斯,  나폴리
+Alternate Names: NAP, Napels, Naples, Naplés, Napoles, Napoli, Napolo, Napols, Napoly, Nappoli, Napul, Napule, Napuli, Napulj, Napólí, Neapal', Neapel, Neapelj, Neapol, Neapol', Neapole, Neapolis, Noapels, Nàpoli, Nàpols, Nàpuli, Nàpułi, Nápoles, Nápoli, Nápols, Nápoly, Parthenope, na bu lei si, nabwly, napl, napoli, napolli, napori, napwly, nepalasa, nepalsa, nepeils, nyplz, Νάπολη, Напуљ, Неапаль, Неапол, Неаполь, Նեապոլ, נאפאלי, נאפולי, نابولي, ناپل, ناپولی, نیپلز, नापोलि, नापोली, नेपल्स, নেপলস, நாபொலி, เนเปิลส์, ნეაპოლი, ナポリ, 那不勒斯, 나폴리
 
 ---

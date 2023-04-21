@@ -20,7 +20,7 @@ Latitude: -34.9287
 \-
 Longitude: 138.5986
 \-
-Altitude: 59 meters
+Altitude: 56 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adelaide, Australia" lat="-34.9287" lng="138.5986" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:28:37 |
-| Sunrise | 06:44:50 |
+| Sunrise | 06:44:49 |
 | Dhuhr | 12:14:02 |
 | Medium Coeli | 12:14:02 |
 | Sunset | 17:42:48 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:20:18 |
-| Sunrise | 06:44:50 |
+| Sunrise | 06:44:49 |
 | Dhuhr | 12:14:02 |
 | Medium Coeli | 12:14:02 |
 | Sunset | 17:42:48 |
@@ -67,11 +67,11 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:18:50 |
-| Sunrise | 06:44:50 |
+| Sunrise | 06:44:49 |
 | Dhuhr | 12:14:02 |
 | Medium Coeli | 12:14:02 |
 | Sunset | 17:42:48 |
-| Maghrib | 17:44:08 |
+| Maghrib | 17:44:06 |
 | Isha | 19:03:51 |
 | Sharia Midnight | 23:31:10 |
 | Imum Coeli | 00:13:57 |
@@ -83,11 +83,11 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:33:30 |
-| Sunrise | 06:44:50 |
+| Sunrise | 06:44:49 |
 | Dhuhr | 12:14:02 |
 | Medium Coeli | 12:14:02 |
 | Sunset | 17:42:48 |
-| Maghrib | 17:44:08 |
+| Maghrib | 17:44:06 |
 | Isha | 18:54:04 |
 | Sharia Midnight | 23:38:30 |
 | Imum Coeli | 00:13:57 |
@@ -99,11 +99,11 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:11:31 |
-| Sunrise | 06:44:50 |
+| Sunrise | 06:44:49 |
 | Dhuhr | 12:14:02 |
 | Medium Coeli | 12:14:02 |
 | Sunset | 17:42:48 |
-| Maghrib | 17:44:08 |
+| Maghrib | 17:44:06 |
 | Isha | 19:06:17 |
 | Sharia Midnight | 23:27:30 |
 | Imum Coeli | 00:13:57 |
@@ -115,11 +115,11 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:18:50 |
-| Sunrise | 06:44:50 |
+| Sunrise | 06:44:49 |
 | Dhuhr | 12:14:02 |
 | Medium Coeli | 12:14:02 |
 | Sunset | 17:42:48 |
-| Maghrib | 17:44:08 |
+| Maghrib | 17:44:06 |
 | Isha | 19:08:44 |
 | Sharia Midnight | 23:31:10 |
 | Imum Coeli | 00:13:57 |
@@ -131,12 +131,12 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:16:24 |
-| Sunrise | 06:44:50 |
+| Sunrise | 06:44:49 |
 | Dhuhr | 12:14:02 |
 | Medium Coeli | 12:14:02 |
 | Sunset | 17:42:48 |
-| Maghrib | 17:44:08 |
-| Isha | 19:14:08 |
+| Maghrib | 17:44:06 |
+| Isha | 19:14:06 |
 | Sharia Midnight | 23:29:57 |
 | Imum Coeli | 00:13:57 |
 {{< /tab >}}
@@ -204,19 +204,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 10:57:58|Night duration: 13:02:49|
+|Duration of the day: 10:57:59|Night duration: 13:02:49|
 |Every hour of day duration: 00:54:50|Every hour of night duration: 01:05:14|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|06:44:50|07:39:38|Attracting love and gaining financial capital|
-|2|Venus|Servant|07:39:39|08:34:28|Hateful actions, and avoiding any beneficial action|
-|3|Mercury|Servant|08:34:29|09:29:18|Creating emotional attachment and love|
-|4|Moon|Servant|09:29:19|10:24:08|Being hateful and rejecting kindness|
-|5|Saturn|Servant|10:24:09|11:18:58|Separation and engaging in hateful and vengeful actions|
-|6|Jupiter|Servant|11:18:59|12:13:48|Performing all good deeds for a beneficial outcome|
-|7|Mars|Servant|12:13:49|13:08:37|Avoiding any action that may lead to disaster|
+|1|Sun|Ruler|06:44:49|07:39:37|Attracting love and gaining financial capital|
+|2|Venus|Servant|07:39:38|08:34:27|Hateful actions, and avoiding any beneficial action|
+|3|Mercury|Servant|08:34:28|09:29:17|Creating emotional attachment and love|
+|4|Moon|Servant|09:29:18|10:24:07|Being hateful and rejecting kindness|
+|5|Saturn|Servant|10:24:08|11:18:57|Separation and engaging in hateful and vengeful actions|
+|6|Jupiter|Servant|11:18:58|12:13:47|Performing all good deeds for a beneficial outcome|
+|7|Mars|Servant|12:13:48|13:08:37|Avoiding any action that may lead to disaster|
 |8|Sun|Ruler|13:08:38|14:03:27|Extremely lucky and attracting good fortune|
 |9|Venus|Servant|14:03:28|14:58:17|Summoning a desired person, winning hearts, and creating emotional attachment|
 |10|Mercury|Servant|14:58:18|15:53:07|Attracting happiness and resolving financial problems|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 10:57:58|Night duration: 13:02:49|
+|Duration of the day: 10:57:59|Night duration: 13:02:49|
 |Every hour duration: 01:34:00|Every hour duration: 01:51:50|
 
  
@@ -258,10 +258,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Sun|Ruler|06:44:50|08:18:48|
-|Mid-morning|Venus|Servant|08:18:49|09:52:48|
-|Late morning|Mercury|Servant|09:52:49|11:26:48|
-|Noon|Moon|Servant|11:26:49|13:00:47|
+|Early morning|Sun|Ruler|06:44:49|08:18:47|
+|Mid-morning|Venus|Servant|08:18:48|09:52:47|
+|Late morning|Mercury|Servant|09:52:48|11:26:47|
+|Noon|Moon|Servant|11:26:48|13:00:47|
 |Early afternoon|Saturn|Servant|13:00:48|14:34:47|
 |Mid-afternoon|Jupiter|Servant|14:34:48|16:08:47|
 |Late afternoon|Mars|Servant|16:08:48|17:42:47|
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'32.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°23'42.42" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°34'56.85" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°29'5.01" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°29'38.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'45.64" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°33'17.96" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'42.55" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°34'58.16" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°29'5.63" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°29'40.52" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'47.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°43'21.62" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'32.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'42.42" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°34'56.85" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°29'5.01" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°29'38.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'45.64" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°33'17.96" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°23'42.55" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°34'58.16" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°29'5.63" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°29'40.52" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'47.30" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°43'21.62" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ADL,  Adalet,  Adehlaida,  Adelaida,  Adelaidae,  Adelaide,  Adelaidis,  Adelaidė,  Adelajda,  Adelajdo,  Adelaïda,  Adelaïde,  Adelejd,  Adelàida,  Adélaïde,  Edelaid,  Tarndanya,  Tarndarnya,  a de lai de,  adelaida,  aderedo,  adilaid,  adiled,  adlayd,  adylyd,  aedeulleideu,  atileyit,  edile'ida,  edileda,  Αδελαΐδα,  Аделаидæ,  Аделаида,  Аделаїда,  Аделейд,  Аделејд,  Адэлаіда,  Ադելաիդա,  אדלייד,  آدلاید,  أديليد,  ئادېلايدې,  ایڈیلیڈ,  एडिलेड,  ॲdaleda,  ॲडलेड,  એડિલેઇડ,  அடிலெயிட்,  అడిలైడ్,  ಅಡಿಲೇಡ್,  അഡിലെയ്
+Alternate Names: ADL, Adehlaida, Adelaida, Adelaidae, Adelaide, Adelaidis, Adelaidė, Adelajda, Adelajdo, Adelaïda, Adelaïde, Adelejd, Adelàida, Adélaïde, Edelaid, Tarndanya, Tarndarnya, a de lai de, adelaida, aderedo, adilaid, adiled, adlayd, adylyd, aedeulleideu, atileyit, edile'ida, edileda, Αδελαΐδα, Аделаидæ, Аделаида, Аделаїда, Аделейд, Аделејд, Адэлаіда, Ադելաիդա, אדלייד, آدلاید, أديليد, ئادېلايدې, ایڈیلیڈ, एडिलेड, ॲdaleda, ॲडलेड, એડિલેઇડ, அடிலெயிட், అడిలైడ్, ಅಡಿಲೇಡ್, അഡിലെയ്‌ഡ്, แอดิเลด, အက်ဒလိတ်မြို့, ადელაიდა, アデレード, 阿德来得, 阿德莱德, 애들레이드
 
 ---

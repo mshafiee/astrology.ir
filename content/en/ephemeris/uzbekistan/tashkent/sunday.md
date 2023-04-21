@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'13.27" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°25'39.42" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°39'19.55" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°36'58.18" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°38'54.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'16.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°19'21.52" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°25'40.10" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°39'27.84" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°37'1.57" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°39'5.25" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'25.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°23'29.54" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'13.27" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°25'40.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°39'23.50" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°37'3.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°39'1.48" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'26.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°5'26.70" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|14°39'27.84" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°37'1.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°39'5.25" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'25.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°23'29.54" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Daskent,  Daşkent,  Daşkənd,  Lithopolis,  TAS,  Tachkent,  Tachkènt,  Taixkent,  Taschkent,  Tashken,  Tashkend,  Tashkent,  Tashkent osh,  Tashkenti,  Tasjkent,  Taskende,  Taskent,  Taskenta,  Taskentas,  Taskento,  Taszkent,  Taxkent,  Taŝkento,  Taşkent,  Taškent,  Taškenta,  Taškentas,  Tașkent,  Tochkent,  Toshkand,  Toshkent,  Toshkent shahri,  ta shen gan,  tasakada,  tasakanda,  tasakhanda,  tashknd,  tashqnd,  tashukento,  taskanda,  taskanr,  taskantu,  taskent,  tasyukenteu,  thach khen t,  tshqnd,  tsqnt,  Τασκένδη,  Ташкен,  Ташкент,  Ташкент ош,  Тошканд,  Տաշքենդ,  טאשקענט,  טשקנט,  تاشقند,  تاشكند,  تاشكەنت,  تاشکند,  تاشکەند,  طشقند,  ताशकन्द,  ताश्कंद,  তাশখন্দ,  ਤਾਸ਼ਕੰਦ,  தாஷ்கந்து,  తాష్కెంట్,  ತಾಷ್ಕೆಂಟ್,  താഷ്കന്റ്,  ทาชเคนต์,  ཐ་ཧྲི་ཀན།,  ტაშკენტი,  ታሽኬንት,  タシュケント,  塔什干,  타슈켄트
+Alternate Names: Daskent, Daşkent, Daşkənd, Lithopolis, TAS, Tachkent, Tachkènt, Taixkent, Taschkent, Tashken, Tashkend, Tashkent, Tashkent osh, Tashkenti, Tasjkent, Taskende, Taskent, Taskenta, Taskentas, Taskento, Taszkent, Taxkent, Taŝkento, Taşkent, Taškent, Taškenta, Taškentas, Tașkent, Tochkent, Toshkand, Toshkent, Toshkent shahri, ta shen gan, tasakada, tasakanda, tasakhanda, tashknd, tashqnd, tashukento, taskanda, taskanr, taskantu, taskent, tasyukenteu, thach khen t, tshqnd, tsqnt, Τασκένδη, Ташкен, Ташкент, Ташкент ош, Тошканд, Տաշքենդ, טאשקענט, טשקנט, تاشقند, تاشكند, تاشكەنت, تاشکند, تاشکەند, طشقند, ताशकन्द, ताश्कंद, তাশখন্দ, ਤਾਸ਼ਕੰਦ, தாஷ்கந்து, తాష్కెంట్, ತಾಷ್ಕೆಂಟ್, താഷ്കന്റ്, ทาชเคนต์, ཐ་ཧྲི་ཀན།, ტაშკენტი, ታሽኬንት, タシュケント, 塔什干, 타슈켄트
 
 ---

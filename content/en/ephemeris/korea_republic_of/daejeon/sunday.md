@@ -20,7 +20,7 @@ Latitude: 36.3491
 \-
 Longitude: 127.3849
 \-
-Altitude: 58 meters
+Altitude: 46 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Daejeon, Korea, Republic of" lat="36.3491" lng="127.3849" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:28:53 |
 | Medium Coeli | 12:28:53 |
 | Sunset | 19:10:56 |
-| Maghrib | 19:12:17 |
+| Maghrib | 19:12:08 |
 | Isha | 20:39:51 |
 | Sharia Midnight | 23:41:13 |
 | Imum Coeli | 00:28:48 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:28:53 |
 | Medium Coeli | 12:28:53 |
 | Sunset | 19:10:56 |
-| Maghrib | 19:12:17 |
+| Maghrib | 19:12:08 |
 | Isha | 20:28:24 |
 | Sharia Midnight | 23:49:50 |
 | Imum Coeli | 00:28:48 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:28:53 |
 | Medium Coeli | 12:28:53 |
 | Sunset | 19:10:56 |
-| Maghrib | 19:12:17 |
+| Maghrib | 19:12:08 |
 | Isha | 20:42:45 |
 | Sharia Midnight | 23:36:47 |
 | Imum Coeli | 00:28:48 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:28:53 |
 | Medium Coeli | 12:28:53 |
 | Sunset | 19:10:56 |
-| Maghrib | 19:12:17 |
+| Maghrib | 19:12:08 |
 | Isha | 20:45:40 |
 | Sharia Midnight | 23:41:13 |
 | Imum Coeli | 00:28:48 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:28:53 |
 | Medium Coeli | 12:28:53 |
 | Sunset | 19:10:56 |
-| Maghrib | 19:12:17 |
-| Isha | 20:42:17 |
+| Maghrib | 19:12:08 |
+| Isha | 20:42:08 |
 | Sharia Midnight | 23:39:45 |
 | Imum Coeli | 00:28:48 |
 {{< /tab >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:23:30|Night duration: 10:35:16|
+|Duration of the day: 13:23:30|Night duration: 10:35:15|
 |Every hour of day duration: 01:06:58|Every hour of night duration: 00:52:56|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|19:10:56|20:03:51|Attracting love and gaining financial capital|
 |2|Mars|Servant|20:03:52|20:56:47|Hateful actions, and avoiding any beneficial action|
-|3|Sun|Servant|20:56:48|21:49:44|Creating emotional attachment and love|
-|4|Venus|Servant|21:49:45|22:42:40|Being hateful and rejecting kindness|
+|3|Sun|Servant|20:56:48|21:49:43|Creating emotional attachment and love|
+|4|Venus|Servant|21:49:44|22:42:40|Being hateful and rejecting kindness|
 |5|Mercury|Servant|22:42:41|23:35:36|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|23:35:37|00:28:33|Performing all good deeds for a beneficial outcome|
-|7|Saturn|Servant|00:28:34|01:21:29|Avoiding any action that may lead to disaster|
-|8|Jupiter|Ruler|01:21:30|02:14:25|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|02:14:26|03:07:22|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|03:07:23|04:00:18|Attracting happiness and resolving financial problems|
-|11|Venus|Servant|04:00:19|04:53:14|Signing contracts|
-|12|Mercury|Servant|04:53:15|05:46:11|Uncovering fugitives and finding thieves|
+|6|Moon|Servant|23:35:37|00:28:32|Performing all good deeds for a beneficial outcome|
+|7|Saturn|Servant|00:28:33|01:21:28|Avoiding any action that may lead to disaster|
+|8|Jupiter|Ruler|01:21:29|02:14:25|Extremely lucky and attracting good fortune|
+|9|Mars|Servant|02:14:26|03:07:21|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|03:07:22|04:00:17|Attracting happiness and resolving financial problems|
+|11|Venus|Servant|04:00:18|04:53:13|Signing contracts|
+|12|Mercury|Servant|04:53:14|05:46:10|Uncovering fugitives and finding thieves|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:23:30|Night duration: 10:35:16|
+|Duration of the day: 13:23:30|Night duration: 10:35:15|
 |Every hour duration: 01:54:47|Every hour duration: 01:30:45|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Venus|Servant|23:43:11|01:13:55|
 |Rooster song|Mercury|Servant|01:13:56|02:44:40|
 |False Dawn|Moon|Servant|02:44:41|04:15:25|
-|Dawn|Saturn|Servant|04:15:26|05:46:11|
+|Dawn|Saturn|Servant|04:15:26|05:46:10|
 
 {{< /tab >}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'27.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°23'25.50" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°34'21.06" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°27'55.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°28'20.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'52.24" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°13'21.96" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'25.44" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°34'20.66" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°27'55.13" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°28'19.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'51.60" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°9'46.25" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'27.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'25.50" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°34'21.06" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°27'55.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°28'20.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'52.24" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°13'21.96" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°23'25.44" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°34'20.66" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°27'55.13" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°28'19.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'51.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°9'46.25" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Daejeon,  Daejeon-si,  Daejon,  Daiden,  Daigono,  Daiĝono,  QTW,  Taejon,  Taejŏn,  Taiden,  Tehdzhon,  Tetyan,  Thai-tyen,  Thāi-tyen,  Tētyan,  da tian guang yu shi,  daejeon,  daejeongwang-yeogsi,  daejeonsi,  Тэджон,  大田广域市,  大田広域市,  대전,  대전광역시,  대전시
+Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시
 
 ---

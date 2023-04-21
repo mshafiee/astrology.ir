@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°38'20.61" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°0'3.34" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°42'3.28" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°52'54.52" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°36'55.47" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'19.54" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°46'38.38" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°52'57.08" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°37'1.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'25.63" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°12'10.34" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°38'20.61" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°0'3.34" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°42'3.28" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°52'54.52" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°36'55.47" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'19.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°46'38.38" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°52'57.08" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°37'1.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'25.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|15°12'10.34" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ACC,  Aakra,  Aakrá,  Accra,  Acra,  Akara,  Akkr,  Akkra,  Akkrae,  Akra,  Akrao,  Akʻra,  Nkran,  a ke la,  akara,  akeula,  akra,  akura,  xak kra,  yەkra,  ΄Aκκρα,  Άκκρα,  Аккрæ,  Аккра,  Акра,  Աքրա,  אקרא,  אקרה,  آکرا,  أكرا,  ئەکرا,  اكرا,  اکرا,  عکرہ,  अक्रा,  आक्रा,  আক্রা,  ਅਕਰਾ,  ଆକ୍ରା,  அக்ரா,  അക്ര,  อักกรา,  ཨ་ཁ་ར།,  အက်ခရာမြို့,  აკრა,  አክራ,  アクラ,  阿克拉,  아크라
+Alternate Names: ACC, Aakra, Aakrá, Accra, Acra, Akara, Akkr, Akkra, Akkrae, Akra, Akrao, Akʻra, Nkran, a ke la, akara, akeula, akra, akura, xak kra, yەkra, ΄Aκκρα, Άκκρα, Аккрæ, Аккра, Акра, Աքրա, אקרא, אקרה, آکرا, أكرا, ئەکرا, اكرا, اکرا, عکرہ, अक्रा, आक्रा, আক্রা, ਅਕਰਾ, ଆକ୍ରା, அக்ரா, അക്ര, อักกรา, ཨ་ཁ་ར།, အက်ခရာမြို့, აკრა, አክራ, アクラ, 阿克拉, 아크라
 
 ---

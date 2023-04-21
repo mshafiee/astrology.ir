@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'41.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'39.14" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°49'13.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°43'5.69" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°6'15.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'3.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°56'42.00" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°56'39.04" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°49'13.64" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°43'5.10" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°6'14.65" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'2.77" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°54'0.67" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°57'41.26" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°56'39.14" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°49'13.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°43'5.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°6'18.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'5.71" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°25'20.08" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°43'5.10" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°6'14.65" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'2.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°54'0.67" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: An Roimh,  An Ròimh,  An Róimh,  Erroma,  Hrom,  Lungsod ng Roma,  Mji wa Roma,  ROM,  Ramma,  Rhufain,  Rim,  Rim,  Roeme,  Rom,  Roma,  Rome,  Romma,  Romo,  Romë,  Rooma,  Roum,  Rym,  Rzym,  Råmma,  Rím,  Róm,  Róma,  Urbs,  loma,  luo ma,  luo ma shi,  rm,  rom,  roma,  romi,  rwm,  rwma,  rym,  Řím,  Ρώμη,  Рим,  Римъ,  Ром,  Рым,  Հռոմ,  רומא,  رم,  روم,  روما,  رىم,  ܪܘܡܐ,  रोम,  रोमा,  রোম,  โรม,  რომი,  ሮማ,  ローマ,  罗马市,  羅馬,  로마
+Alternate Names: An Roimh, An Ròimh, An Róimh, Erroma, Hrom, Lungsod ng Roma, Mji wa Roma, ROM, Ramma, Rhufain, Rim, Rim, Roeme, Rom, Roma, Rome, Romma, Romo, Romë, Rooma, Roum, Rym, Rzym, Råmma, Rím, Róm, Róma, Urbs, loma, luo ma shi, rm, rom, roma, romi, rwm, rwma, rym, Řím, Ρώμη, Рим, Римъ, Ром, Рым, Հռոմ, רומא, رم, روم, روما, رىم, ܪܘܡܐ, रोम, रोमा, রোম, โรม, რომი, ሮማ, ローマ, 罗马市, 로마
 
 ---

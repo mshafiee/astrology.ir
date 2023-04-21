@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'32.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°53'13.47" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°41'27.90" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°29'9.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°49'58.40" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°1'51.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°10'18.54" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°53'10.87" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°41'25.70" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°28'53.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°49'47.77" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°1'27.56" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°19'31.34" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'32.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°53'13.47" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°41'27.90" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°29'9.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°49'58.40" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'51.75" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°10'18.54" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°53'10.87" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°41'25.70" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°28'53.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°49'47.77" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°1'27.56" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°19'31.34" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Anoi,  Anoy,  Anòy,  HAN,  Ha Noi,  Ha Nui,  Hanoi,  Hanoj,  Hanoja,  Hanojo,  Hanojus,  Hanoy,  Hanoí,  Hanoï,  Hanòi,  Hanói,  Ho-nui-su,  Hà Nội,  Hò-nui-sṳ,  Keicho,  Khanoj,  hano'i,  hanoi,  hanoy,  hanwy,  hanxy,  he nei,  he nei shi,  hyanaya,  khanwy,  Ανόι,  Ханой,  Ханој,  Հանոյ,  האנוי,  خانوي,  هانوى,  هانوي,  هانوی,  ھانۆی,  ہنوئی,  हनोई,  হ্যানয়,  ਹਨੋਈ,  ହାନୋଇ,  ஹனோய்,  ಹಾನೊಯ್,  හැනෝයි,  ฮานอย,  ཧེ་ནོ།,  ဟနွိုင်းမြို့,  ჰანოი,  ሀኖይ,  ទីក្រុងហានូយ,  Ḥanoi,  ハノイ,  河內,  河內市,  하노이
+Alternate Names: Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이
 
 ---

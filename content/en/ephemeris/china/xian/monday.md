@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°8'23.94" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°29'31.39" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°40'22.00" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°18'51.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°29'58.41" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'53.04" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°37'13.85" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ch'ang-an,  Ch'ang-an-hsien,  Ch’ang-an,  Ch’ang-an-hsien,  Hsi Gnan Fu,  Hsi-an,  Hsi-an-shih,  Hsi-ching,  Hsi-ching-shih,  Hsingan,  SIA,  Si-Gan-Fu,  Sian,  Sian',  Siana,  Sianas,  Sianfu,  Siano,  Siaņa,  Siking,  Singan,  Singano,  Tay An,  Tây An,  Xi'an,  Xi'an - xi an,  Xi'an - 西安,  Xi'an Shi,  Xian,  Xi’an,  Xi’an Shi,  Xī'ān,  si xan,  sian si,  xi an,  xi an shi,  Ŝiano,  Ŝingano,  Сиань,  شىئەن شەھىرى,  ซีอาน,  西安,  西安市,  시안 시
+Alternate Names: Ch'ang-an, Ch'ang-an-hsien, Ch’ang-an, Ch’ang-an-hsien, Hsi Gnan Fu, Hsi-an, Hsi-an-shih, Hsi-ching, Hsi-ching-shih, Hsingan, SIA, Si-Gan-Fu, Sian, Sian', Siana, Sianas, Sianfu, Siano, Siaņa, Siking, Singan, Tay An, Tây An, Xi'an, Xi'an - xi an, Xi'an - 西安, Xi'an Shi, Xian, Xi’an, Xi’an Shi, Xī'ān, si xan, sian si, xi an, xi an shi, Ŝiano, Сиань, شىئەن شەھىرى, ซีอาน, 西安, 西安市, 시안 시
 
 ---

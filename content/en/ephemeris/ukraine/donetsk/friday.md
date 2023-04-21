@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'37.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'0.79" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°37'31.15" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°44'37.71" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°27'17.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'9.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°47'52.94" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°58'0.73" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°37'31.08" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°44'37.39" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°27'17.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'9.01" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°45'46.85" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: DOK,  Daneck,  Donec'k,  Doneck,  Doneck osh,  Donecka,  Doneckas,  Donecko,  Doneckoj,  Donesk,  Donetk,  Donetsk,  Donetsk i Ukraina,  Donezk,  Donețk,  Donieck,  Donietsk,  Donjeck,  Doněck,  Dońeck,  Doņecka,  Hughesovka,  Jusowka,  Juzivka,  Juzovka,  Ntonetsk,  Stalin,  Staline,  Stalino,  Yuzovka,  Yuzovo,  deanerrsk,  do net skh,  donecheukeu,  donetska,  donetsuiku,  dun nie ci ke,  dwntsk,  dwnytsk,  dwnzq,  tonetsk,  Ντονέτσκ,  Данецк,  Донецк,  Донецк ош,  Донецкой,  Донецьк,  Доњецк,  Сталино,  Сталіне,  Сталіно,  Юзовка,  Юзівка,  Դոնեցկ,  דונצק,  دونتسک,  دونيتسك,  دونیتسک,  دۆنێتسک,  दोनेत्स्क,  தோனெத்ஸ்க்,  ഡൊണെറ്റ്സ്ക്,  โดเนตสค์,  დონეცკი,  ドネツィク,  頓涅茨克,  도네츠크
+Alternate Names: DOK, Daneck, Donec'k, Doneck, Doneck osh, Donecka, Doneckas, Donecko, Donesk, Donetk, Donetsk, Donetsk i Ukraina, Donezk, Donețk, Donieck, Donietsk, Donjeck, Doněck, Dońeck, Doņecka, Hughesovka, Jusowka, Juzivka, Juzovka, Ntonetsk, Stalin, Staline, Stalino, Yuzovka, Yuzovo, deanerrsk, do net skh, donecheukeu, donetska, donetsu~iku, dun nie ci ke, dwntsk, dwnytsk, dwnzq, tonetsk, Ντονέτσκ, Данецк, Донецк, Донецк ош, Донецьк, Доњецк, Сталино, Сталіне, Сталіно, Юзовка, Юзівка, Դոնեցկ, דונצק, دونتسک, دونيتسك, دونیتسک, دۆنێتسک, दोनेत्स्क, தோனெத்ஸ்க், ഡൊണെറ്റ്സ്ക്, โดเนตสค์, დონეცკი, ドネツィク, 頓涅茨克, 도네츠크
 
 ---

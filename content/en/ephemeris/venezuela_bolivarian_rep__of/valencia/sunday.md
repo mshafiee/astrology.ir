@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'13.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°31'31.04" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°52'36.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°0'48.52" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°6'54.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°25'8.23" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°32'27.92" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°31'31.97" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°52'32.81" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°0'54.29" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°6'53.73" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'14.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°32'56.60" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,9 +330,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°49'12.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'31.04" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°52'36.08" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|4°49'13.50" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°31'31.97" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°52'32.81" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°0'54.29" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°6'53.73" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°25'14.84" |Taurus|Dabaran|Moon|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Balenzia,  VLN,  Valencia,  Valencio,  Valens,  Valensi,  Valensia,  Valensii,  Valensija,  Valensiya,  Valentia,  Valentzia,  Valincia,  Valência,  ba lun xi ya,  balainsi'a,  ballensia,  barenshia,  blnsyt,  valensia,  walnsya  wnzwyla,  wlnsyh,  Валенс,  Валенси,  Валенсия,  Валенсија,  Валенсія,  Վալենսիա,  ולנסיה,  بلنسية,  والنسیا، ونزوئلا,  والیںسیا، کارابوبو,  ਬਾਲੈਂਸੀਆ,  ვალენსია,  バレンシア,  巴伦西亚,  발렌시아
+Alternate Names: Balenzia, VLN, Valencia, Valencio, Valens, Valensi, Valensia, Valensii, Valensija, Valensiya, Valentia, Valentzia, Valincia, Valência, ba lun xi ya, balainsi'a, ballensia, barenshia, blnsyt, valensia, walnsya  wnzwyla, wlnsyh, Валенс, Валенси, Валенсия, Валенсија, Валенсія, Վալենսիա, ולנסיה, بلنسية, والنسیا، ونزوئلا, والیںسیا، کارابوبو, ਬਾਲੈਂਸੀਆ, ვალენსია, バレンシア, 巴伦西亚, 발렌시아
 
 ---

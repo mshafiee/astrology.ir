@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|4°38'28.72" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|16°0'52.61" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|14°58'37.45" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°7'32.56" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|3°56'15.84" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: DOK,  Daneck,  Donec'k,  Doneck,  Doneck osh,  Donecka,  Doneckas,  Donecko,  Doneckoj,  Donesk,  Donetk,  Donetsk,  Donetsk i Ukraina,  Donezk,  Donețk,  Donieck,  Donietsk,  Donjeck,  Doněck,  Dońeck,  Doņecka,  Hughesovka,  Jusowka,  Juzivka,  Juzovka,  Ntonetsk,  Stalin,  Staline,  Stalino,  Yuzovka,  Yuzovo,  deanerrsk,  do net skh,  donecheukeu,  donetska,  donetsuiku,  dun nie ci ke,  dwntsk,  dwnytsk,  dwnzq,  tonetsk,  Ντονέτσκ,  Данецк,  Донецк,  Донецк ош,  Донецкой,  Донецьк,  Доњецк,  Сталино,  Сталіне,  Сталіно,  Юзовка,  Юзівка,  Դոնեցկ,  דונצק,  دونتسک,  دونيتسك,  دونیتسک,  دۆنێتسک,  दोनेत्स्क,  தோனெத்ஸ்க்,  ഡൊണെറ്റ്സ്ക്,  โดเนตสค์,  დონეცკი,  ドネツィク,  頓涅茨克,  도네츠크
+Alternate Names: DOK, Daneck, Donec'k, Doneck, Doneck osh, Donecka, Doneckas, Donecko, Donesk, Donetk, Donetsk, Donetsk i Ukraina, Donezk, Donețk, Donieck, Donietsk, Donjeck, Doněck, Dońeck, Doņecka, Hughesovka, Jusowka, Juzivka, Juzovka, Ntonetsk, Stalin, Staline, Stalino, Yuzovka, Yuzovo, deanerrsk, do net skh, donecheukeu, donetska, donetsu~iku, dun nie ci ke, dwntsk, dwnytsk, dwnzq, tonetsk, Ντονέτσκ, Данецк, Донецк, Донецк ош, Донецьк, Доњецк, Сталино, Сталіне, Сталіно, Юзовка, Юзівка, Դոնեցկ, דונצק, دونتسک, دونيتسك, دونیتسک, دۆنێتسک, दोनेत्स्क, தோனெத்ஸ்க், ഡൊണെറ്റ്സ്ക്, โดเนตสค์, დონეცკი, ドネツィク, 頓涅茨克, 도네츠크
 
 ---

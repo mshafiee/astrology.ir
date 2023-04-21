@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°53'18.53" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°41'39.46" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°29'29.67" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°50'23.72" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°1'45.30" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°21'57.62" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°50'22.63" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°1'42.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°17'34.36" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'34.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°53'18.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°41'40.32" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|4°56'34.39" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°53'18.53" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°41'39.46" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°29'29.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°50'22.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'44.19" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°13'20.55" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°50'22.63" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°1'42.57" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°17'34.36" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Con Minh,  Côn Minh,  Gvwnhmingz,  K'un-ming-hsien,  K'un-ming-shih,  KMG,  Kchun-ming,  Khun-beng-chhi,  Khun-bêng-chhī,  Kong-ming,  Kounmink,  Kuenming,  Kun'min,  Kun'min shaary,  Kun'min',  Kunmin,  Kunmina,  Kunming,  Kunming Shi,  Kunmingas,  Kunmingo,  Kuņmina,  Kŏng-mìng,  Kүn'min,  K’un-ming-hsien,  K’un-ming-shih,  Yun-nan,  Yunnanfu,  Yün-nan,  Yünnanfu,  kanamiga,  khunh ming,  kun ming,  kun ming shi,  kunaminga,  kunming si,  kunminga,  kwnmng,  kwnmyng,  kwnmyngh,  qwnmyng,  Κουνμίγκ,  Куенминг,  Кунмин,  Куньмин,  Куньмин шаары,  Куньминь,  Куньмін,  Күньмин,  Կունմին,  קונמינג,  كونمينغ,  كۈنمىڭ شەھىرى,  کونمنگ,  کونمینگ,  کون
+Alternate Names: Con Minh, Côn Minh, Gvwnhmingz, K'un-ming-hsien, K'un-ming-shih, KMG, Kchun-ming, Khun-beng-chhi, Khun-bêng-chhī, Kong-ming, Kounmink, Kuenming, Kun'min, Kun'min shaary, Kun'min', Kunmin, Kunmina, Kunming, Kunming Shi, Kunmingas, Kunmingo, Kuņmina, Kŏng-mìng, Kүn'min, K’un-ming-hsien, K’un-ming-shih, Yun-nan, Yunnanfu, Yün-nan, Yünnanfu, kanamiga, khunh ming, kun ming, kun ming shi, kunaminga, kunming si, kunminga, kwnmng, kwnmyng, kwnmyngh, qwnmyng, Κουνμίγκ, Куенминг, Кунмин, Куньмин, Куньмин шаары, Куньминь, Куньмін, Күньмин, Կունմին, קונמינג, كونمينغ, كۈنمىڭ شەھىرى, کونمنگ, کونمینگ, کون‌مینگ, कुनमिंग, कुन्मिंग, ਕਨਮਿੰਗ, คุนหมิง, ကူမင်းမြို့, კუნმინი, 昆明, 昆明市, 쿤밍 시
 
 ---

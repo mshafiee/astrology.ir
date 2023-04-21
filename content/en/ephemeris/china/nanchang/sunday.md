@@ -330,9 +330,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'38.50" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'58.92" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°35'35.89" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|4°46'38.62" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°23'59.20" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°35'36.15" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°30'12.65" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°31'0.18" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°30'32.63" |Taurus|Dabaran|Moon|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: KHN,  Lam-chhiong-chhi,  Lâm-chhiong-chhī,  Nam Xuong,  Nam Xương,  Nam-chhong-su,  Nan'chan,  Nan-cchang,  Nan-ch'ang-hsien,  Nan-ch'ang-shih,  Nan-ch’ang-hsien,  Nan-ch’ang-shih,  Nan-čchang,  Nancana,  Nancangas,  Nancano,  Nanchan,  Nanchang,  Nanchang-fu,  Nancianga,  Nancsang,  Nang-chiong,  Nanzcangh,  Nanĉano,  Nančangas,  Naņčana,  Nàm-chhông-sṳ,  Nàng-chiŏng,  nan chang,  nan chang shi,  nanacanga,  nanacham,  nanachanna,  nanchang,  nanchang si,  nantshangh,  nʼnzʼng,  Нанчан,  Нанчанг,  Наньчан,  נאנצאנג,  نانتشانغ,  نانچانگ,  نەنچاڭ شەھىرى,  नानचांग,  নানছাং,  ਨਾਨਛਾਂਙ,  နန်ချောင့်မြို့,  南昌,  南昌市,  난창 시
+Alternate Names: KHN, Lam-chhiong-chhi, Lâm-chhiong-chhī, Nam Xuong, Nam Xương, Nam-chhong-su, Nan'chan, Nan-cchang, Nan-ch'ang-hsien, Nan-ch'ang-shih, Nan-ch’ang-hsien, Nan-ch’ang-shih, Nan-čchang, Nancana, Nancangas, Nancano, Nanchan, Nanchang, Nanchang-fu, Nancianga, Nancsang, Nang-chiong, Nanzcangh, Nanĉano, Nančangas, Naņčana, Nàm-chhông-sṳ, Nàng-chiŏng, nan chang, nan chang shi, nanacanga, nanacham, nanachanna, nanchang, nanchang si, nantshangh, nʼnzʼng, Нанчан, Нанчанг, Наньчан, נאנצאנג, نانتشانغ, نانچانگ, نەنچاڭ شەھىرى, नानचांग, নানছাং, ਨਾਨਛਾਂਙ, နန်ချောင့်မြို့, 南昌, 南昌市, 난창 시
 
 ---

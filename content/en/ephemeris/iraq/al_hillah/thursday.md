@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°32'31.64" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°43'34.77" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°5'23.71" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°45'59.90" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°18'25.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'43.36" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°24'23.15" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°45'59.97" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°18'26.04" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'43.47" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°24'50.71" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'31.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'33.01" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°5'18.33" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°45'49.79" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°18'14.78" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'26.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°19'16.60" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'34.78" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°5'23.75" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°45'59.97" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°18'26.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'43.47" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°24'50.71" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Al Hilla,  Al Hillah,  Al Ḩillah,  Al'-Khilla,  Al-Hella,  Hilah,  Hilla,  Hille,  Hillé,  alhlt,  Аль-Хилла,  الحلة
+Alternate Names: Al Hilla, Al Hillah, Al Ḩillah, Al'-Khilla, Al-Hella, Hilah, Hilla, Hille, Hillé, alhlt, Аль-Хилла, الحلة
 
 ---

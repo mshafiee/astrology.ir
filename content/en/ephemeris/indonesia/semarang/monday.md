@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'44.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°38'54.05" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°9'8.25" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°30'48.03" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°41'53.76" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°18'10.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°34'16.44" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°38'56.67" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°9'13.49" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°31'3.30" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°42'7.80" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'35.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°4'16.19" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'44.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°38'54.05" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°9'8.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°30'48.03" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°41'53.76" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°18'10.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°34'16.44" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|24°38'56.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°9'13.49" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°31'3.30" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°42'7.80" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°18'35.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°4'16.19" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kota Semarang,  Kutha Semarang,  SRG,  Samarang,  Semaran'nk,  Semarang,  Semarangas,  cemaran,  san bao long,  san ma leng,  se ma rang,  semarangi,  seumalang,  smarang,  sumaran,  symarang,  symaranj,  Σεμαράνγκ,  Семаранг,  سمارانگ,  سيمارانج,  سیمارانگ,  செமாராங்,  เซมารัง,  სემარანგი,  スマラン,  三孖冷,  三宝垄,  三寶瓏,  스마랑
+Alternate Names: Kota Semarang, Kutha Semarang, SRG, Samarang, Semaran'nk, Semarang, Semarangas, cemaran, san bao long, san ma leng, se ma rang, semarangi, seumalang, smarang, sumaran, symarang, symaranj, Σεμαράνγκ, Семаранг, سمارانگ, سيمارانج, سیمارانگ, செமாராங், เซมารัง, სემარანგი, スマラン, 三孖冷, 三宝垄, 三寶瓏, 스마랑
 
 ---

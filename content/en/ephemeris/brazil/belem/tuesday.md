@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'40.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°59'34.43" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°55'56.78" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°54'57.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°20'13.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°52'39.27" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°49'31.69" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°59'36.42" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°55'53.50" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°55'8.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°20'15.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°52'55.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°32'3.15" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BEL,  Belem,  Belem do Para,  Belem do Pará,  Belemo,  Belen,  Belena,  Belenas,  Belém,  Belém do Pará,  Bethlehem,  Para,  Pará,  Santa Maria de Belem do Grao Para,  Santa Maria de Belém do Grão Pará,  Vele,  Velẽ,  bei lun,  belem,  belema,  beleng,  beleni,  belleng,  beren,  blm,  bylym,  Μπελέμ,  Белем,  Белен,  בלם,  بلم,  بيليم,  بیلیم,  बेलेम,  বেলেঁ,  বেলেম,  เบเลง,  ბელენი,  ベレン,  贝伦,  벨렝
+Alternate Names: BEL, Belem, Belem do Para, Belem do Pará, Belen, Belena, Belenas, Belém, Belém do Pará, Bethlehem, Para, Pará, Santa Maria de Belem do Grao Para, Santa Maria de Belém do Grão Pará, Vele, Velẽ, bei lun, belem, belema, beleng, beleni, belleng, beren, blm, bylym, Μπελέμ, Белем, Белен, בלם, بلم, بيليم, بیلیم, बेलेम, বেলেঁ, বেলেম, เบเลง, ბელენი, ベレン, 贝伦, 벨렝
 
 ---

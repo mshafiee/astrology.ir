@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|1°33'58.42" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°25'7.20" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°36'29.13" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°57'34.76" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|24°32'38.15" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Kota Semarang,  Kutha Semarang,  SRG,  Samarang,  Semaran'nk,  Semarang,  Semarangas,  cemaran,  san bao long,  san ma leng,  se ma rang,  semarangi,  seumalang,  smarang,  sumaran,  symarang,  symaranj,  Σεμαράνγκ,  Семаранг,  سمارانگ,  سيمارانج,  سیمارانگ,  செமாராங்,  เซมารัง,  სემარანგი,  スマラン,  三孖冷,  三宝垄,  三寶瓏,  스마랑
+Alternate Names: Kota Semarang, Kutha Semarang, SRG, Samarang, Semaran'nk, Semarang, Semarangas, cemaran, san bao long, san ma leng, se ma rang, semarangi, seumalang, smarang, sumaran, symarang, symaranj, Σεμαράνγκ, Семаранг, سمارانگ, سيمارانج, سیمارانگ, செமாராங், เซมารัง, სემარანგი, スマラン, 三孖冷, 三宝垄, 三寶瓏, 스마랑
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'21.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°8'41.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°1'20.22" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°27'57.89" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°18'8.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'26.92" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°46'32.31" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°8'42.84" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°1'24.21" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°28'7.38" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°18'17.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'42.34" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°53'42.09" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'21.97" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°8'41.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°1'20.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°27'57.89" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°18'8.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'26.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°46'32.31" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°8'42.84" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°1'24.21" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°28'7.38" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°18'17.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'42.34" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°53'42.09" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Kejuots,  Kiaⁿ-to͘-chhī,  Kijota,  Kiotas,  Kioto,  Kiotó,  Kjoto,  Kjóto,  Kyoto,  Kyoto-shi,  Kyotu,  Kyotum,  Kyōto,  Kyōto-shi,  Kėjuots,  Lungsod ng Kyoto,  Quioto,  UKY,  gyoto si,  jing dou,  jing dou shi,  kheiyw toa,  ki'oto,  kiyoto,  kiyotto,  kyeattea,  kyoto,  kyouto,  kyoutoshi,  kywtw,  qywtw,  Κιότο,  Киото,  Кёто,  Кіото,  Кіёта,  Кјото,  Կիոտո,  קיאטא,  קיוטו,  كيوتو,  کیوتو,  کیوٹو,  ܩܝܘܛܘ,  क्योटो,  क्योतो,  কিয়োটো,  ਕਿਓਤੋ,  கியோத்தோ,  ക്യോത്തോ,  ක්යෝතෝ,  เคียวโตะ,  ཁེཡོ་ཐྲོ།,  ကျိုတိုမြို့,  კიოტო,  きょうとし,  キョウト,  京都,  京都市,  교토 시
+Alternate Names: Kejuots, Kiaⁿ-to͘-chhī, Kijota, Kiotas, Kioto, Kiotó, Kjoto, Kjóto, Kyoto, Kyoto-shi, Kyotu, Kyotum, Kyōto, Kyōto-shi, Kėjuots, Lungsod ng Kyoto, Quioto, UKY, gyoto si, jing dou, jing dou shi, kheiyw toa, ki'oto, kiyoto, kiyotto, kyeattea, kyoto, kyoutoshi, kywtw, qywtw, Κιότο, Киото, Кёто, Кіото, Кіёта, Кјото, Կիոտո, קיאטא, קיוטו, كيوتو, کیوتو, کیوٹو, ܩܝܘܛܘ, क्योटो, क्योतो, কিয়োটো, ਕਿਓਤੋ, கியோத்தோ, ക്യോത്തോ, ක්යෝතෝ, เคียวโตะ, ཁེཡོ་ཐྲོ།, ကျိုတိုမြို့, კიოტო, きょうとし, 京都, 京都市, 교토 시
 
 ---

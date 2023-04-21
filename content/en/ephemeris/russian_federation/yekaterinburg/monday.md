@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°40'0.64" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°11'39.21" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°35'21.58" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°47'12.68" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°17'19.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°30'50.09" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|14°47'11.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°17'17.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°22'11.89" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'6.12" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°40'0.64" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°11'39.21" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°35'21.58" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°47'12.68" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°17'19.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°30'50.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°11'38.40" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°35'20.86" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°47'11.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°17'17.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°22'11.89" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Catharinoburgum,  Ekaterimburgo,  Ekaterinbourg,  Ekaterinburg,  Ekaterinburgo,  Ekatěrinburg,  Jekaterinburg,  Jekaterinburga,  Jekaterinburgas,  Jekaterinenburg,  Jekaterynburg,  Jekatyerinburg,  SVX,  Sverdlovsk,  Sverolovsk,  Yekaterinburg,  ekaterinburuku,  ye ka jie lin bao,  yekatelinbuleukeu,  yqtrynbwrg,  Екатеринбург,  Свердловск,  יקטרינבורג,  エカテリンブルク,  葉卡捷琳堡,  예카테린부르크
+Alternate Names: Catharinoburgum, Ekaterimburgo, Ekaterinbourg, Ekaterinburg, Ekaterinburgo, Ekatěrinburg, Jekaterinburg, Jekaterinburga, Jekaterinburgas, Jekaterinenburg, Jekaterynburg, Jekatyerinburg, SVX, Sverdlovsk, Sverolovsk, Yekaterinburg, ekaterinburuku, ye ka jie lin bao, yekatelinbuleukeu, yqtrynbwrg, Екатеринбург, Свердловск, יקטרינבורג, エカテリンブルク, 葉卡捷琳堡, 예카테린부르크
 
 ---

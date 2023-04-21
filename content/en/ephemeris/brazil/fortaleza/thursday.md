@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'49.76" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°47'14.80" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°13'31.88" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°0'54.69" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°35'55.72" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'30.19" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°14'34.38" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°13'31.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°0'54.98" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°35'55.76" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'30.49" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°16'22.79" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'49.76" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°47'14.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°13'31.88" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°0'54.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°35'55.72" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'30.19" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°14'34.38" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°13'31.78" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°0'54.98" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°35'55.76" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'30.49" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°16'22.79" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Ceara,  Ceará,  FOR,  Fartaleza,  Fortalaetia,  Fortaleza,  Fortaleza Nova de Braganca,  Fortaleza Nova de Bragança,  Fortaleza de Nova Braganca,  Fortaleza de Nova Bragança,  Fortalezae,  Fortalezo,  f xr tale sa,  forutareza,  fu ta lei sa,  fwrtalyza,  fwrtalza,  phartalija,  phortaleja,  phortalejha,  poleutalleja,  pwrtlzh,  Φορταλέζα,  Фарталеза,  Форталезæ,  Форталеза,  פורטלזה,  فورتالزا,  فورتاليزا,  फोर्तालेझा,  ফর্তালিজা,  ফোর্টালেজা,  ฟอร์ตาเลซา,  ფორტალეზა,  フォルタレザ,  福塔雷萨,  福塔雷薩,  포르탈레자
+Alternate Names: Ceara, Ceará, FOR, Fartaleza, Fortalaetia, Fortaleza, Fortaleza Nova de Braganca, Fortaleza Nova de Bragança, Fortaleza de Nova Braganca, Fortaleza de Nova Bragança, Fortalezae, Fortalezo, f xr tale sa, forutareza, fu ta lei sa, fwrtalyza, fwrtalza, phartalija, phortaleja, phortalejha, poleutalleja, pwrtlzh, Φορταλέζα, Фарталеза, Форталезæ, Форталеза, פורטלזה, فورتالزا, فورتاليزا, फोर्तालेझा, ফর্তালিজা, ফোর্টালেজা, ฟอร์ตาเลซา, ფორტალეზა, フォルタレザ, 福塔雷萨, 福塔雷薩, 포르탈레자
 
 ---

@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°14'5.04" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°13'23.93" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°49'57.84" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°43'51.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'19.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°34'3.47" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|12°43'51.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'20.09" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°4'32.88" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'13.83" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°14'3.56" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°13'27.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°49'48.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°43'50.83" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'9.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°34'3.47" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°14'5.04" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°13'23.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°49'57.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°43'51.84" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'20.09" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°4'32.88" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: DLA,  Douala,  Doula,  Dual,  Duala,  Dualao,  Dóúala,  Ntouala,  dau'ala,  douara,  du a la,  du xa la,  dualla,  dwala,  Ντουάλα,  Дуала,  דואלה,  دوالا,  दौआला,  ਦੌਆਲਾ,  ดูอาลา,  ドゥアラ,  杜阿拉,  두알라
+Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라
 
 ---

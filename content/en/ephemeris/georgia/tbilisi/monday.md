@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°52'26.48" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°41'0.75" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°13'54.15" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°39'26.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°51'56.98" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'19.05" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°26'9.74" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°39'23.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°51'54.67" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'16.14" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°10'57.54" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'26.48" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'0.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°13'54.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°39'26.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°51'56.98" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'19.05" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°26'9.74" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'0.22" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°13'52.54" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°39'23.78" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°51'54.67" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'16.14" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°10'57.54" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: TBS,  Tbilis,  Tbilisi,  Tbilisi - tbilisi,  Tbilisi - თბილისი,  Tbilisi osh,  Tbilisis,  Tbiliso,  Tbilissi,  Tbilisy,  Tbiliszi,  Tbilsi,  Tblisi,  Thbilisi,  Tibilisi,  Tiblisi,  Tiblissi,  Tiblíssi,  Tibîlîsî,  Tiflis,  Tiphlida,  Tpilisi,  Triphelis,  Ttuplis,  Tíblisi,  Tíflis,  Tıflis,  di bi li si,  karti,  tbilisi,  tblys,  tblysy,  tbylysy,  teubillisi,  tfls,  tflys,  thbi li si,  thbilisi,  tipilici,  tobirishi,  Τιφλίδα,  Тбилис,  Тбилиси,  Тбилиси ош,  Тбилисӣ,  Тбілісі,  Ттуплис,  Қарҭ,  Թբիլիսի,  טביליסי,  تبليسي,  تبلیس,  تبلیسی,  تبىلىسى,  تفلیس,  طفلس,  ܛܒܝܠܝܣܝ,  त्बिलिसी,  थ्बिलीसी,  তিবি
+Alternate Names: TBS, Tbilis, Tbilisi, Tbilisi - tbilisi, Tbilisi - თბილისი, Tbilisi osh, Tbilisis, Tbiliso, Tbilissi, Tbilisy, Tbiliszi, Tbilsi, Tblisi, Thbilisi, Tibilisi, Tiblisi, Tiblissi, Tiblíssi, Tibîlîsî, Tiflis, Tiphlida, Tpilisi, Triphelis, Ttuplis, Tíblisi, Tíflis, Tıflis, di bi li si, karti, tbilisi, tblys, tblysy, tbylysy, teubillisi, tfls, tflys, thbi li si, thbilisi, tipilici, tobirishi, Τιφλίδα, Тбилис, Тбилиси, Тбилиси ош, Тбилисӣ, Тбілісі, Ттуплис, Қарҭ, Թբիլիսի, טביליסי, تبليسي, تبلیس, تبلیسی, تبىلىسى, تفلیس, طفلس, ܛܒܝܠܝܣܝ, त्बिलिसी, थ्बिलीसी, তিবি‌লিসি, திபிலீசி, ทบิลิซิ, ཁྲེ་བྷི་ལི་སི།, თბილისი, ქართი, ትብሊሲ, トビリシ, 第比利斯, 트빌리시
 
 ---

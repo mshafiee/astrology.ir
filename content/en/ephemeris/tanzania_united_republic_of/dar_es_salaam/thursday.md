@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°44'9.19" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°6'39.38" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°48'20.66" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°21'9.80" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'5.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°18'54.62" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°21'9.48" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'0.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°48'26.81" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'43.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'9.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'39.38" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°48'20.66" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°21'9.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'5.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°18'54.62" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°44'8.45" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°6'41.39" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°48'16.21" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°21'9.48" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'0.89" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°48'26.81" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: DAR,  Dar Es Salaam,  Dar Es Salam,  Dar es Salaam,  Dar es Salam,  Dar es Salamas,  Dar es Salams,  Dar es Salám,  Dar es-Salaam,  Dar es-Salam,  Dar əs Salam,  Dar-ehs-Salam,  Dar-ehs-Salam shaary,  Dar-es-Salaam,  Dar-es-Salam,  Darasalam,  Daresalama,  Daresalamo,  Daressalaam,  Daressalam,  Daruesselam,  Darüsselam,  Dárasalám,  Dār es Salām,  Dāresalāma,  Ntar es Salam,  Ntontoma,  da lei si sa la mu,  daleueseusallam,  dar alslam,  dar-es-salami,  dar-xes-salam,  dara asa salama,  dara esa salama,  daralslam,  daruesusaramu,  san lan gang,  tarus'salam,  Νταρ ες Σαλάμ,  Ντοντόμα,  Дар ес Салам,  Дар ес-Салаам,  Дар-ес-Салам,  Дар-эс-Салам,  Дар-эс-Салам шаары,  דאר א-סלאם,  דאר עס סאלאאם,  دار السلام,  دارالسلام,  دارېسسالام,  दार अस सलाम,  दार एस सलाम,  ਦਾਰ ਅਸ ਸਲਾਮ,  தாருஸ்ஸலாம்,  ดาร์-เอส-ซาลาม,  ཏ་རེ་སི་ས་ལམ།,  ဒါအက်စ် ဆယ်လန်းမြို့,  დარ-ეს-სალამი,  ダルエスサラーム,  三蘭港,  达累斯萨拉姆,  다르에스살람
+Alternate Names: DAR, Dar Es Salaam, Dar Es Salam, Dar es Salaam, Dar es Salam, Dar es Salamas, Dar es Salams, Dar es Salám, Dar es-Salaam, Dar es-Salam, Dar əs Salam, Dar-ehs-Salam, Dar-ehs-Salam shaary, Dar-es-Salaam, Dar-es-Salam, Darasalam, Daresalama, Daresalamo, Daressalaam, Daressalam, Daruesselam, Darüsselam, Dárasalám, Dār es Salām, Dāresalāma, Ntar es Salam, Ntontoma, da lei si sa la mu, daleueseusallam, dar alslam, dar-es-salami, dar-xes-salam, dara asa salama, dara esa salama, daralslam, daruesusaramu, san lan gang, tarus'salam, Νταρ ες Σαλάμ, Ντοντόμα, Дар ес Салам, Дар ес-Салаам, Дар-ес-Салам, Дар-эс-Салам, Дар-эс-Салам шаары, דאר א-סלאם, דאר עס סאלאאם, دار السلام, دارالسلام, دارېسسالام, दार अस सलाम, दार एस सलाम, ਦਾਰ ਅਸ ਸਲਾਮ, தாருஸ்ஸலாம், ดาร์-เอส-ซาลาม, ཏ་རེ་སི་ས་ལམ།, ဒါအက်စ် ဆယ်လန်းမြို့, დარ-ეს-სალამი, ダルエスサラーム, 三蘭港, 达累斯萨拉姆, 다르에스살람
 
 ---

@@ -20,7 +20,7 @@ Latitude: 6.9355
 \-
 Longitude: 79.8487
 \-
-Altitude: 7 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Colombo, Sri Lanka" lat="6.9355" lng="79.8487" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:56:55 |
-| Sunrise | 06:00:28 |
+| Sunrise | 06:00:27 |
 | Dhuhr | 12:09:36 |
 | Medium Coeli | 12:09:36 |
 | Sunset | 18:18:51 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:49:51 |
-| Sunrise | 06:00:28 |
+| Sunrise | 06:00:27 |
 | Dhuhr | 12:09:36 |
 | Medium Coeli | 12:09:36 |
 | Sunset | 18:18:51 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:48:36 |
-| Sunrise | 06:00:28 |
+| Sunrise | 06:00:27 |
 | Dhuhr | 12:09:36 |
 | Medium Coeli | 12:09:36 |
 | Sunset | 18:18:51 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:01:04 |
-| Sunrise | 06:00:28 |
+| Sunrise | 06:00:27 |
 | Dhuhr | 12:09:36 |
 | Medium Coeli | 12:09:36 |
 | Sunset | 18:18:51 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:42:22 |
-| Sunrise | 06:00:28 |
+| Sunrise | 06:00:27 |
 | Dhuhr | 12:09:36 |
 | Medium Coeli | 12:09:36 |
 | Sunset | 18:18:51 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:48:36 |
-| Sunrise | 06:00:28 |
+| Sunrise | 06:00:27 |
 | Dhuhr | 12:09:36 |
 | Medium Coeli | 12:09:36 |
 | Sunset | 18:18:51 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:46:31 |
-| Sunrise | 06:00:28 |
+| Sunrise | 06:00:27 |
 | Dhuhr | 12:09:36 |
 | Medium Coeli | 12:09:36 |
 | Sunset | 18:18:51 |
@@ -204,13 +204,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:18:23|Night duration: 11:41:13|
+|Duration of the day: 12:18:24|Night duration: 11:41:13|
 |Every hour of day duration: 01:01:32|Every hour of night duration: 00:58:26|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:00:28|07:01:58|Acquiring material wealth and abundance of livelihood|
+|1|Jupiter|Ruler|06:00:27|07:01:58|Acquiring material wealth and abundance of livelihood|
 |2|Mars|Servant|07:01:59|08:03:30|Destroying enemies|
 |3|Sun|Servant|08:03:31|09:05:02|Attracting financial and emotional love|
 |4|Venus|Servant|09:05:03|10:06:34|Creating love and connection, and finding a partner|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:18:23|Night duration: 11:41:13|
+|Duration of the day: 12:18:24|Night duration: 11:41:13|
 |Every hour duration: 01:45:29|Every hour duration: 01:40:10|
 
  
@@ -258,13 +258,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|06:00:28|07:45:56|
-|Mid-morning|Mars|Servant|07:45:57|09:31:25|
-|Late morning|Sun|Servant|09:31:26|11:16:54|
-|Noon|Venus|Servant|11:16:55|13:02:23|
-|Early afternoon|Mercury|Servant|13:02:24|14:47:52|
-|Mid-afternoon|Moon|Servant|14:47:53|16:33:21|
-|Late afternoon|Saturn|Servant|16:33:22|18:18:50|
+|Early morning|Jupiter|Ruler|06:00:27|07:45:55|
+|Mid-morning|Mars|Servant|07:45:56|09:31:24|
+|Late morning|Sun|Servant|09:31:25|11:16:53|
+|Noon|Venus|Servant|11:16:54|13:02:22|
+|Early afternoon|Mercury|Servant|13:02:23|14:47:51|
+|Mid-afternoon|Moon|Servant|14:47:52|16:33:20|
+|Late afternoon|Saturn|Servant|16:33:21|18:18:50|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°32'6.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°42'24.75" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°2'47.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°41'16.21" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°12'51.38" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°32'6.77" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°42'24.74" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°2'47.60" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°41'16.17" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°12'51.33" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°32'9.16" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°34'18.06" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|28°34'17.46" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°32'6.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'24.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°2'47.63" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°41'16.21" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°12'51.38" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°32'6.77" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°42'24.74" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°2'47.60" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°41'16.17" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°12'51.33" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°32'9.16" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°34'18.06" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|28°34'17.46" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: CMB,  Colombo,  Columbo,  Columbum,  Kalomba,  Kolombas,  Kolombo,  Kolompo,  Kolonbo,  ge lin bao,  kalambo,  kalombo,  ke lun po,  kealambea,  kholambo,  klmbw,  kolabo,  kolambo,  kollombo,  kolumpu,  kolunbu,  koronbo,  kwlmbw,  kwlwmbw,  qwlwmbw,  Κολόμπο,  Каломба,  Коломбо,  Կոլոմբո,  קולומבו,  كولمبو,  كولومبو,  کلمبو,  کولمبو,  ކޮޅުނބު,  कोलंबो,  कोलम्बो,  কলম্বো,  ਕੋਲੰਬੋ,  કોલંબો,  କଲୋମ୍ବୋ,  கொழும்பு,  కొలంబో,  ಕೊಲಂಬೊ,  കൊളംബോ,  කොළඹ,  ෙකාළඹ,  โคลัมโบ,  ཁོ་ལུམ་པོ།,  ကိုလံဘိုမြို့,  კოლომბო,  ኮሎምቦ,  コロンボ,  可倫坡,  哥林堡,  콜롬보
+Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'55.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'48.78" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°37'26.88" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°33'31.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°34'55.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'2.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°33'52.83" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°24'48.81" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°37'27.05" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°33'35.02" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°34'56.03" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'5.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°41'37.19" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'55.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'48.28" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°37'27.87" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°33'31.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°34'55.32" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'2.18" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°33'52.83" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'48.78" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°37'26.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°33'34.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°34'55.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'5.71" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°40'3.08" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Gizlungzpoh,  KUL,  Kouala Loumpou,  Kouala Loumpour,  Kuala Lumpor,  Kuala Lumpur,  Kuala-Lumpur,  Kuala-Lumpuro,  Kualae-Lumpur,  Kualalumpura,  Kualalumpūra,  Kvala Lumpuras,  Kvala Lumpūras,  Kúala Lúmpúr,  ji long po,  kaulalampur,  kawlalampexr,  kolalampur,  ku'a lalampura,  ku'ala lupura,  ku'alalampura,  ku'alalumpura,  kuallalumpuleu,  kuararunpuru,  kuyalalamapura,  kvalalampura,  kwala lambwr,  kwala lmpwr,  kwalalampwr,  kwalalmbwr,  kwalalmpwr,  kwalalwmpwr,  kۇyalalۇmpۇr,  Κουάλα Λουμπούρ,  Куалæ-Лумпур,  Куала Лумпур,  Куала-Лумпур,  Կուալա Լումպուր,  קואלה לומפור,  كوالا لامبور,  كوالالمبور,  كۇئالالۇمپۇر,  کوالا لمپور,  کوالالامپور,  کوالالمپور,  کوالالومپور,  कुआ लालम्पुर,  कुआलालम्पुर,  क्वालालंपूर,  কুয়ালালামপুর,  ਕੁਆਲਾ ਲੁੰਪੁਰ,  କୁଆଲାଲୁମ୍ପୁର,  கோலாலம்பூர்,  ಕೌಲಾಲಂಪುರ್,  കോലാലമ്പൂർ,  กัวลาลัมเปอร์,  ཁལ་ལུང་ཕུ།,  ကွာလာလမ်ပူမြို့,  კუალა-ლუმპური,  ኩዋላ ሉምፑር,  クアラルンプール,  吉隆坡,  쿠알라룸푸르
+Alternate Names: Gizlungzpoh, KUL, Kouala Loumpou, Kouala Loumpour, Kuala Lumpor, Kuala Lumpur, Kuala-Lumpur, Kuala-Lumpuro, Kualae-Lumpur, Kualalumpura, Kualalumpūra, Kvala Lumpuras, Kvala Lumpūras, Kúala Lúmpúr, ji long po, kaulalampur, kawlalampexr, kolalampur, ku'a lalampura, ku'ala lupura, ku'alalampura, ku'alalumpura, kuallalumpuleu, kuararunpuru, kuyalalamapura, kvalalampura, kwala lambwr, kwala lmpwr, kwalalampwr, kwalalmbwr, kwalalmpwr, kwalalwmpwr, kۇyalalۇmpۇr, Κουάλα Λουμπούρ, Куалæ-Лумпур, Куала Лумпур, Куала-Лумпур, Կուալա Լումպուր, קואלה לומפור, كوالا لامبور, كوالالمبور, كۇئالالۇمپۇر, کوالا لمپور, کوالالامپور, کوالالمپور, کوالالومپور, कुआ लालम्पुर, कुआलालम्पुर, क्वालालंपूर, কুয়ালালামপুর, ਕੁਆਲਾ ਲੁੰਪੁਰ, କୁଆଲାଲୁମ୍ପୁର, கோலாலம்பூர், ಕೌಲಾಲಂಪುರ್, കോലാലമ്പൂർ, กัวลาลัมเปอร์, ཁལ་ལུང་ཕུ།, ကွာလာလမ်ပူမြို့, კუალა-ლუმპური, ኩዋላ ሉምፑር, クアラルンプール, 吉隆坡, 쿠알라룸푸르
 
 ---

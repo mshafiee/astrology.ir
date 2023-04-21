@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'18.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°8'32.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°8'32.83" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°1'1.55" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°27'25.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°17'26.17" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'41.06" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°27'36.75" |Aries|Butain|Venus|
+|☉ Sun|Direct|1°27'26.67" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°17'29.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'44.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°43'2.42" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'18.48" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°8'32.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°0'58.67" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°27'25.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°17'26.17" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'41.06" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°27'36.75" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°8'32.83" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°1'1.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°27'26.67" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°17'29.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'44.00" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°43'2.42" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Edo,  TYO,  Tochiu,  Tocio,  Tokija,  Tokijas,  Tokio,  Tokió,  Tokjo,  Tokyo,  Toquio,  Toquio - dong jing,  Toquio - 東京,  Tòquio,  Tókýó,  Tóquio,  Tōkyō,  dokyo,  dong jing,  dong jing dou,  dong-gyeong,  tokeiyw,  toki'o,  tokkiyo,  tokyo,  twkyw,  twqyw,  Τόκιο,  Токио,  Токё,  Токіо,  Տոկիո,  טוקיו,  توكيو,  توکیو,  طوكيو,  ܛܘܟܝܘ,  ܜܘܟܝܘ,  टोक्यो,  টোকিও,  டோக்கியோ,  โตเกียว,  ტოკიო,  东京,  東京,  東京都,  도쿄,  동경
+Alternate Names: Edo, TYO, Tochiu, Tocio, Tokija, Tokijas, Tokio, Tokió, Tokjo, Tokyo, Toquio, Toquio - dong jing, Toquio - 東京, Tòquio, Tókýó, Tóquio, Tōkyō, dokyo, dong jing, dong jing dou, dong-gyeong, tokeiyw, toki'o, tokkiyo, tokyo, twkyw, twqyw, Τόκιο, Токио, Токё, Токіо, Տոկիո, טוקיו, توكيو, توکیو, طوكيو, ܛܘܟܝܘ, ܜܘܟܝܘ, टोक्यो, টোকিও, டோக்கியோ, โตเกียว, ტოკიო, 东京, 東京, 東京都, 도쿄, 동경
 
 ---

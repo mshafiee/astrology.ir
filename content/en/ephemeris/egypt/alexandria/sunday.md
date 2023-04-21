@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'48.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'22.27" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°43'17.91" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°43'56.13" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°47'11.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'10.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°37'21.66" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°27'23.39" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°43'14.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°44'2.66" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°47'11.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'18.46" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°44'52.60" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'48.57" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°27'22.27" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°43'17.91" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°43'56.13" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°47'11.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'10.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°37'21.66" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°27'23.39" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°43'14.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°44'2.84" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°47'11.70" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'18.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°44'52.60" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ALY,  Al Iskandariyah,  Al Iskandarīyah,  Alegsandiri,  Alegsàndiri,  Alehandriya,  Aleixandria,  Aleixandría,  Alejandria,  Alejandría,  Aleksandria,  Aleksandrii,  Aleksandrij,  Aleksandrija,  Aleksandrio,  Aleksandriya,  Aleksandrje,  Aleksandryja,  Aleksandryjo,  Alesandria dEgito,  Alessandria,  Alessandria d'Egitto,  Alessandria dEggittu,  Alessandria e Naggitto,  Alexandreia,  Alexandria,  Alexandria Magna,  Alexandrie,  Alexandrië,  Alexandría,  Alexàndria,  Ałesandria dEgito,  Cathair Alastair,  El Iskandariya,  El Iskandarīya,  Iskandariah,  Iskandariya,  Iskandariyah,  Iskandri,  Iskenderiye,  Iskindiriya,  Iskindirîya,  Lisandria dEgittu,  Lisàndria dEgittu,  Ol'oksandrija,  Taskendrit,  alaksantriya,  alaskndryt,  alegjandriya,  alekajandriya,  alekcantiriya,  alekjhandriya,  aleksandria,  aleksandriya,  allegsandeulia,  arekusandoria,  askndryh,  elekjhandriya,  sikadari'a,  sikandariya,  xa lek san de riy,  ya li shan da gang,  ya li shan zhuo,  yەskەndەryە,  İsgəndəriyyə,  İskenderiye,  Αλεξάνδρεια,  Александрий,  Александрия,  Александрија,  Александрыя,  Александрія,  Искандри,  Искәндәриә,  Ӧльӧксандрия,  Ալեքսանդրիա,  אלכסנדריה,  אלעקסאנדריע,  ئەسکەندەریە,  اسكندريه,  اسکندریه,  اسکندریہ,  الإسكندرية,  ܐܠܟܣܢܕܪܝܐ,  अलेक्झांड्रिया,  सिकन्दरिया,  আলেকজান্দ্রিয়া,  আলেক্সান্ড্রিয়া,  ਸਿਕੰਦਰੀਆ,  એલેક્ઝાન્ડ્રિયા,  அலெக்சாந்திரியா,  అలెగ్జాండ్రియా,  ಅಲೆಕ್ಸಾಂಡ್ರಿಯ,  അലക്സാണ്ട്രിയ,  อะเล็กซานเดรีย,  ཡ་ལི་ཧྲན་ད,  အလက်ဇန္ဒရီးယားမြို့,  ალექსანდრია,  እስክንድርያ,  アレクサンドリア,  亚历山大港,  亞歷山卓,  亞歷山大港,  알렉산드리아
+Alternate Names: ALY, Al Iskandariyah, Al Iskandarīyah, Alegsandiri, Alegsàndiri, Alehandriya, Aleixandria, Aleixandría, Alejandria, Alejandría, Aleksandria, Aleksandrii, Aleksandrij, Aleksandrija, Aleksandrio, Aleksandriya, Aleksandrje, Aleksandryja, Aleksandryjo, Alesandria dEgito, Alessandria, Alessandria d'Egitto, Alessandria dEggittu, Alessandria e Naggitto, Alexandreia, Alexandria, Alexandria Magna, Alexandrie, Alexandrië, Alexandría, Alexàndria, Ałesandria dEgito, Cathair Alastair, El Iskandariya, El Iskandarīya, Iskandariah, Iskandariya, Iskandariyah, Iskandri, Iskenderiye, Iskindiriya, Iskindirîya, Lisandria dEgittu, Lisàndria dEgittu, Ol'oksandrija, Taskendrit, alaksantriya, alaskndryt, alegjandriya, alekajandriya, alekcantiriya, alekjhandriya, aleksandria, aleksandriya, allegsandeulia, arekusandoria, askndryh, elekjhandriya, sikadari'a, sikandariya, xa lek san de riy, ya li shan da gang, ya li shan zhuo, yەskەndەryە, İsgəndəriyyə, İskenderiye, Αλεξάνδρεια, Александрий, Александрия, Александрија, Александрыя, Александрія, Искандри, Искәндәриә, Ӧльӧксандрия, Ալեքսանդրիա, אלכסנדריה, אלעקסאנדריע, ئەسکەندەریە, اسكندريه, اسکندریه, اسکندریہ, الإسكندرية, ܐܠܟܣܢܕܪܝܐ, अलेक्झांड्रिया, सिकन्दरिया, আলেকজান্দ্রিয়া, আলেক্সান্ড্রিয়া, ਸਿਕੰਦਰੀਆ, એલેક્ઝાન્ડ્રિયા, அலெக்சாந்திரியா, అలెగ్జాండ్రియా, ಅಲೆಕ್ಸಾಂಡ್ರಿಯ, അലക്സാണ്ട്രിയ, อะเล็กซานเดรีย, ཡ་ལི་ཧྲན་ད, အလက်ဇန္ဒရီးယားမြို့, ალექსანდრია, እስክንድርያ, アレクサンドリア, 亚历山大港, 亞歷山卓, 亞歷山大港, 알렉산드리아
 
 ---

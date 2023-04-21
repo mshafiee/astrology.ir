@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°48'13.40" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°28'36.01" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°45'58.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°48'57.76" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°52'56.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'14.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°26'59.67" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°49'1.31" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°53'2.16" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'31.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°13'23.60" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°28'36.01" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°45'58.08" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°48'57.76" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°52'56.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'14.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°26'59.67" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|13°52'57.27" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'24.47" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°41'48.50" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: La Villa y Corte de Madrid,  Los Madriles,  Lungsod ng Madrid,  MAD,  Ma-daik-li,  Ma-tet-li,  Madrid,  Madrid osh,  Madridas,  Madride,  Madridi,  Madrido,  Madrids,  Madril,  Madrit,  Madrite,  Madryd,  Madryt,  Madríd,  Madrîd,  Magerit,  Maidrid,  Mairil,  Makelika,  Matritum,  Mâ-tet-lî,  Mā-dáik-lī,  ma de li,  madarida,  madeulideu,  madorido,  madorido shi,  madri,  madrid,  madrida,  madridi,  madryd,  matrit,  mdryd,  myadrida,  mydrd,  Μαδρίτη,  Мaдрид,  Мадрид,  Мадрид ош,  Мадрыд,  Мадрід,  Մադրիդ,  מאדריד,  מדריד,  مادرىد,  مادرید,  مدريد,  میدرد,  مەدرید,  ܡܕܪܝܕ,  मद्रिद,  मद्रिद्,  माद्रिद,  माद्री,  म्याड्रिड,  মাদ্রিদ,  ਮਾਦਰੀਦ,  ମାଡ୍ରିଦ,  மத்ரித்,  ಮಡ್ರಿಡ್,  മാഡ്രിഡ്,  มาดริด,  མ་ད་རིད།,  မဒရစ်မြို့,  მადრიდი,  ማድሪድ,  マドリード,  マドリード市,  馬德里,  马德里,  마드리드
+Alternate Names: La Villa y Corte de Madrid, Los Madriles, Lungsod ng Madrid, MAD, Ma-daik-li, Ma-tet-li, Madrid, Madrid osh, Madridas, Madride, Madridi, Madrido, Madrids, Madril, Madrit, Madrite, Madryd, Madryt, Madríd, Madrîd, Magerit, Maidrid, Mairil, Makelika, Matritum, Mâ-tet-lî, Mā-dáik-lī, ma de li, madarida, madeulideu, madorido, madorido shi, madri, madrid, madrida, madridi, madryd, matrit, mdryd, myadrida, mydrd, Μαδρίτη, Мaдрид, Мадрид, Мадрид ош, Мадрыд, Мадрід, Մադրիդ, מאדריד, מדריד, مادرىد, مادرید, مدريد, میدرد, مەدرید, ܡܕܪܝܕ, मद्रिद, मद्रिद्, माद्रिद, माद्री, म्याड्रिड, মাদ্রিদ, ਮਾਦਰੀਦ, ମାଡ୍ରିଦ, மத்ரித், ಮಡ್ರಿಡ್, മാഡ്രിഡ്, มาดริด, མ་ད་རིད།, မဒရစ်မြို့, მადრიდი, ማድሪድ, マドリード, マドリード市, 馬德里, 马德里, 마드리드
 
 ---

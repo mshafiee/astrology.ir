@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'59.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'31.85" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°44'23.57" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°34'24.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°56'6.94" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°59'44.76" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°6'34.53" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°54'33.64" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°44'29.19" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°34'35.57" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°56'18.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'2.51" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°20'52.43" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -318,8 +318,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
-|☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'59.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'31.85" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°44'23.57" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°34'24.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°56'6.94" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'44.76" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°6'34.53" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'33.48" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°44'29.56" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°34'34.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°56'18.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'2.51" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°20'52.43" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -346,7 +346,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Mercury|Mars|Moon|
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
-|☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
+|☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
 |☾ Moon|Mars|Mars|Moon|Saturn|
 
 
@@ -357,8 +357,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mars|Mars|Capricorn|Sun|Mars|
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Asumumbay,  BOM,  Bombai,  Bombaim,  Bombaj,  Bombay,  Bombaya,  Bombej,  Bombejus,  Bombėjus,  Bumbaj,  Bůmbaj,  Dakbayan sa Bombay,  Lungsod ng Mumbai,  Moembaai,  Mumbai,  Mumbai - मुम़बई,  Mumbaj,  Mumbaja,  Mumbajo,  Mumbajus,  Mumbay,  Mumbaî,  Numbai,  Vomvai,  bamba'i,  bmbyy,  bwmbay,  gretara mumba'i,  meng mai,  mmbay,  mmbyy,  mu0bai,  muba'i,  mum bi,  mumba'i,  mumbai,  mumpai,  munbai,  mwmbay,  mwmbyy,  mymbais,  pullapa mumba'i,  Βομβάη,  Бомбай,  Бомбей,  Мумбаи,  Мумбай,  Мумбаі,  Мумбаї,  Мумбај,  Մումբայ,  מומבאי,  מומביי,  بمبئی,  بومباي,  بَمبَے,  ممبئي,  ممبئی,  ممبای,  مومباى,  مومباي,  مومبای,  މުންބާއީ,  ग्रेटर मुम्बई,  बम्बई,  मुंबई,  मुम्बई,  পুল্লাপ মুম্বাই,  মুম্বই,  মুম্বাই,  ਮੁੰਬਈ,  મુંબઈ,  ମୁମ୍ବାଇ,  மும்பை,  ముంబై,  ಮುಂಬೈ,  ಮು೦ಬೈ,  മുംബൈ,  มุมไบ,  འབོམ་སྦེ,  မွမ်ဘိုင်းမြို့,  მუმბაი,  ムンバイ,  孟买,  孟買,  뭄바이
+Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이
 
 ---

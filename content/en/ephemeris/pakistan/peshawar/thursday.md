@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'8.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°42'28.12" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°2'54.25" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°41'28.79" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°13'6.16" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'4.36" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°11'25.91" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°42'28.40" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°2'56.37" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°41'30.22" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°13'9.16" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'7.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°22'4.32" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'8.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'28.12" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°2'54.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°41'28.79" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°13'6.16" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'4.36" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°11'25.91" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°42'28.40" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°2'56.37" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°41'30.22" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°13'9.16" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'7.57" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°19'41.97" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: PEW,  Pesabar,  Pesavar,  Pesavara,  Pesavaras,  Pesavaro,  Pesaver,  Peschawar,  Peshavar,  Peshawar,  Peshovar,  Peshāwar,  Pesjawar,  Peszawar,  Pexauar,  Peŝavaro,  Peşaver,  Pešavaras,  Pešāvara,  Pişəvər,  Péšávar,  bai sha wa,  byshawr,  pecavar,  pes war,  pesa'oyara,  pesavara,  peshawaru,  pesyawaleu,  pshawr,  pyshawr,  Πεσαβάρ,  Пешавар,  Փեշավար,  פשאוור,  بيشاور,  پشاور,  پیشاور,  پېشاۋار,  پېښور,  पेशावर,  পেশাওয়ার,  ਪੇਸ਼ਾਵਰ,  பெசாவர்,  പെഷവാർ,  เปศวาร์,  პეშავარი,  ペシャーワル,  白沙瓦,  페샤와르
+Alternate Names: PEW, Pesabar, Pesavar, Pesavara, Pesavaras, Pesavaro, Pesaver, Peschawar, Peshavar, Peshawar, Peshovar, Peshāwar, Pesjawar, Peszawar, Pexauar, Peŝavaro, Peşaver, Pešavaras, Pešāvara, Pişəvər, Péšávar, bai sha wa, byshawr, pecavar, pes war, pesa'oyara, pesavara, peshawaru, pesyawaleu, pshawr, pyshawr, Πεσαβάρ, Пешавар, Փեշավար, פשאוור, بيشاور, پشاور, پیشاور, پېشاۋار, پېښور, पेशावर, পেশাওয়ার, ਪੇਸ਼ਾਵਰ, பெசாவர், പെഷവാർ, เปศวาร์, პეშავარი, ペシャーワル, 白沙瓦, 페샤와르
 
 ---

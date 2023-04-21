@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'48.42" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'21.75" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°7'9.05" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°49'9.85" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°22'11.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'3.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°49'19.83" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°44'22.05" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°7'9.04" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°49'8.75" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°22'15.23" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'5.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°39'44.04" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°44'22.05" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°7'9.04" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°49'11.61" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°22'10.89" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'3.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°49'19.83" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°22'11.84" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'5.00" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°39'44.04" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Escopia,  Escópia,  SKP,  Scopia,  Scupi,  Shkup,  Shkupi,  Skop'e,  Skope,  Skopeia,  Skopia,  Skopie,  Skopiye,  Skopje,  Skopjo,  Skopjė,  Skople,  Skoplie,  Skoplje,  Skopye,  Szkopje,  UEskuep,  Uskub,  Usküb,  askwbyt,  askwpyh,  s ko peiy,  sakopi'e,  seukope,  si ke pu li,  skopje,  skopye,  skwbyh,  sqwpyh,  sukopie,  Üsküp,  Σκόπια,  Скоп'е,  Скоп'є,  Скопе,  Скопие,  Скопье,  Скопје,  Скопље,  Съкопиѥ,  Սկոպյե,  סקאפיע,  סקופיה,  إسكوبية,  اسکوپیه,  اسکوپیہ,  سكوبيه,  سكوپليې,  سکوپ جے,  स्कोप्ये,  ਸਕੋਪੀਏ,  ஸ்கோப்ஜே,  สโกเปีย,  སི་ཀོཔ་ཇི།,  სკოპიე,  ስኮፕዬ,  スコピエ,  斯科普里,  스코페
+Alternate Names: Escopia, Escópia, SKP, Scopia, Scupi, Shkup, Shkupi, Skop'e, Skope, Skopeia, Skopia, Skopie, Skopiye, Skopje, Skopjo, Skopjė, Skople, Skoplie, Skoplje, Skopye, Szkopje, UEskuep, Uskub, Usküb, askwbyt, askwpyh, s ko peiy, sakopi'e, seukope, si ke pu li, skopje, skopye, skwbyh, sqwpyh, sukopie, Üsküp, Σκόπια, Скоп'е, Скоп'є, Скопе, Скопие, Скопье, Скопје, Скопље, Съкопиѥ, Սկոպյե, סקאפיע, סקופיה, إسكوبية, اسکوپیه, اسکوپیہ, سكوبيه, سكوپليې, سکوپ جے, स्कोप्ये, ਸਕੋਪੀਏ, ஸ்கோப்ஜே, สโกเปีย, སི་ཀོཔ་ཇི།, სკოპიე, ስኮፕዬ, スコピエ, 斯科普里, 스코페
 
 ---

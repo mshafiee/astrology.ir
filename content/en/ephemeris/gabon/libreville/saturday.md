@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'14.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°14'6.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°13'31.64" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°50'2.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°44'3.67" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'19.40" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°7'6.38" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°14'5.03" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°13'25.52" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°49'53.29" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°43'51.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'56.25" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°31'6.83" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: LBV,  Libarwil,  Liberopolis,  Librefille,  Librehvil',  Librevil,  Librevil',  Librevila,  Librevilis,  Libreville,  Librevilo,  Librvil,  Libvil,  Limprebil,  Limprvil,  Liuravila,  lbrwl,  lbrywyl,  li be rx wil,  li bo wei er,  libaravila,  libarevile,  libeuleubil,  librevhila,  librevili,  lipravil,  lybrfyl,  lybrwwyl,  lybrwyl,  riburuvuiru,  Λιμπρβίλ,  Λιμπρεβίλ,  Либрвил,  Либревил,  Либревиль,  Лібревіль,  Лібрэвіль,  Լիբրևիլ,  ליברוויל,  ליברעוויל,  لبرول,  لبریویل,  ليبرفيل,  لیبرویل,  لیبرێڤیل,  लिबरेविले,  लिब्रेव्हिल,  ਲਿਬਰਵਿਲ,  லிப்ரவில்,  ลีเบรอวิล,  ལིབ་རེ་ཝིལ།,  ლიბრევილი,  ሊብረቪል,  リーブルヴィル,  利伯維爾,  利伯维尔,  리브르빌
+Alternate Names: LBV, Libarwil, Liberopolis, Librefille, Librehvil', Librevil, Librevil', Librevila, Librevilis, Libreville, Librevilo, Librvil, Libvil, Limprebil, Limprvil, Liuravila, lbrwl, lbrywyl, li be rx wil, li bo wei er, libaravila, libarevile, libeuleubil, librevhila, librevili, lipravil, lybrfyl, lybrwwyl, lybrwyl, riburuvu~iru, Λιμπρβίλ, Λιμπρεβίλ, Либрвил, Либревил, Либревиль, Лібревіль, Лібрэвіль, Լիբրևիլ, ליברוויל, ליברעוויל, لبرول, لبریویل, ليبرفيل, لیبرویل, لیبرێڤیل, लिबरेविले, लिब्रेव्हिल, ਲਿਬਰਵਿਲ, லிப்ரவில், ลีเบรอวิล, ལིབ་རེ་ཝིལ།, ლიბრევილი, ሊብረቪል, リーブルヴィル, 利伯維爾, 利伯维尔, 리브르빌
 
 ---

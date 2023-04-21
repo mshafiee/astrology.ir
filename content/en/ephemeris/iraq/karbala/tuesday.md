@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'19.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'32.27" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°46'46.87" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°38'33.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°1'2.48" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'37.32" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°34'26.31" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°57'19.13" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°55'32.72" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°46'43.39" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°38'35.72" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°0'59.94" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'39.74" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°6'38.52" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'19.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'32.27" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'46.87" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°38'33.04" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°1'2.48" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'37.32" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°34'26.31" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'32.69" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'43.15" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°38'35.72" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°0'59.94" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'39.74" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°6'38.52" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Karbala,  Karbala',  Karbalaa,  Karbalo,  Karbalá,  Karbalā’,  Karbila,  Karmpala,  Kerbala,  Kerbela,  Kərbəla,  Meshed Hussain,  Meshed Hussein,  Nainawa,  Qerbelaja,  Shathi'ul-Furat,  Vilojati Karbalo,  al-Ghadiriya,  ka er ba la,  kaleuballa,  karabala,  karbala,  karpala,  karubara,  karubara xian,  krbla,  krblaʾ,  ktrbala,  Καρμπάλα,  Вилояти Карбало,  Карбала,  Кербала,  Кербела,  Քերբելա,  כרבלא,  מחוז כרבלא,  كةربالا,  كربلاء,  محافظة كربلاء,  کربلا,  کەربەلا,  ڪربلا,  करबला,  কারবালা,  ਕਰਬਲਾ,  கர்பலா,  കർബല,  ქარბალა,  カルバラー,  カルバラー県,  卡爾巴拉,  카르발라
+Alternate Names: Karbala, Karbala', Karbalaa, Karbalo, Karbalá, Karbalā’, Karbila, Karmpala, Kerbala, Kerbela, Kərbəla, Meshed Hussain, Meshed Hussein, Nainawa, Qerbelaja, Shathi'ul-Furat, Vilojati Karbalo, al-Ghadiriya, ka er ba la, kaleuballa, karabala, karbala, karpala, karubara, karubara xian, krbla, krblaʾ, ktrbala, Καρμπάλα, Вилояти Карбало, Карбала, Кербала, Кербела, Քերբելա, כרבלא, מחוז כרבלא, كةربالا, كربلاء, محافظة كربلاء, کربلا, کەربەلا, ڪربلا, करबला, কারবালা, ਕਰਬਲਾ, கர்பலா, കർബല, ქარბალა, カルバラー, カルバラー県, 卡爾巴拉, 카르발라
 
 ---

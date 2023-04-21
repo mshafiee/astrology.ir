@@ -293,10 +293,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'34.94" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°40'55.37" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°59'29.53" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°35'12.72" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°5'35.08" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'2.01" |Aries|Butain|Sun|
+|♂ Mars|Direct|12°59'25.73" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°35'1.49" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°5'44.82" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'15.97" |Aries|Butain|Sun|
 |☾ Moon|Direct|26°59'46.66" |Pisces|Rescha|Mars|
 
 
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°31'34.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'55.37" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°59'29.53" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°35'12.72" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°5'44.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'15.97" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°59'46.66" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°31'34.24" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°40'53.40" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°59'25.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°35'1.49" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°5'34.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'59.09" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°47'22.52" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Aomen,  Aomin',  Au-mun,  Aumwnz,  Aumyn,  Cidade de Macau,  Cidade do Santo Nome de Deus de Macau,  MFM,  Ma Cao,  Macao,  Macau,  Macaum,  Makaa,  Makaaw,  Makao,  Makaou,  Makau,  Makaw,  Makawo,  Makaó,  Makee,  Makèë,  Màkáù,  O-muong,  ao men,  maka,  maka'o,  maka'u,  makao,  makavu,  makaw,  makayw,  makkavu,  mkaw,  Àu-mûn,  Ó̤-muòng,  Μακάου,  Аоминь,  Аумын,  Макаа,  Макао,  מקאו,  ئاۋمېن,  ماكاو,  ماکائو,  مکاؤ,  މަކާއޫ,  मकाउ,  मकाओ,  মাকাউ,  ਮਕਾਉ,  મકાઉ,  மக்காவு,  మకావు,  ಮಕಾವು,  മകൗ,  เขตบริหารพิเศษมาเก๊า,  မကာအို,  მაკაო,  マカオ,  澳門,  澳门,  마카오
+Alternate Names: Aomen, Aomin', Au-mun, Aumwnz, Aumyn, Cidade de Macau, Cidade do Santo Nome de Deus de Macau, MFM, Ma Cao, Macao, Macau, Macaum, Makaa, Makaaw, Makao, Makaou, Makau, Makaw, Makawo, Makaó, Makee, Makèë, Màkáù, O-muong, ao men, maka, maka'o, maka'u, makao, makavu, makaw, makayw, makkavu, mkaw, Àu-mûn, Ó̤-muòng, Μακάου, Аоминь, Аумын, Макаа, Макао, מקאו, ئاۋمېن, ماكاو, ماکائو, مکاؤ, މަކާއޫ, मकाउ, मकाओ, মাকাউ, ਮਕਾਉ, મકાઉ, மக்காவு, మకావు, ಮಕಾವು, മകൗ, เขตบริหารพิเศษมาเก๊า, မကာအို, მაკაო, マカオ, 澳門, 澳门, 마카오
 
 ---

@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°56'42.91" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°49'22.48" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°43'20.87" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°6'32.92" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'56.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°57'53.74" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|16°6'33.13" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'57.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°58'20.88" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°57'42.51" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°56'42.91" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°49'22.48" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°43'20.44" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°6'32.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'56.79" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°57'53.74" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°43'20.87" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°6'33.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'58.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°2'27.41" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Lungsod ng Milano,  MIL,  Mailand,  Mediolan,  Mediolanum,  Mila,  Milaan,  Milan,  Milana,  Milanas,  Milano,  Milanu,  Milao,  Milà,  Milán,  Miláno,  Milánó,  Milão,  Milāna,  Mílanó,  Mилан,  mi lan,  milan,  milana,  milani,  millano,  mirano,  mylan,  mylanw,  Милан,  Милано,  Мілан,  מילאנו,  مىلان,  ميلانو,  মিলান,  மிலன்,  มิลาน,  მილანი,  ミラノ,  米蘭,  밀라노
+Alternate Names: Lungsod ng Milano, MIL, Mailand, Mediolan, Mediolanum, Mila, Milaan, Milan, Milana, Milanas, Milano, Milanu, Milao, Milà, Milán, Miláno, Milánó, Milão, Milāna, Mílanó, Mилан, mi lan, milan, milana, milani, millano, mirano, mylan, mylanw, Милан, Милано, Мілан, מילאנו, مىلان, ميلانو, মিলান, மிலன், มิลาน, მილანი, ミラノ, 米蘭, 밀라노
 
 ---

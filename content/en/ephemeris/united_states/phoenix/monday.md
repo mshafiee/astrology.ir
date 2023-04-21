@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'35.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°47'24.17" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°28'18.92" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°5'27.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°22'19.68" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°9'12.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°2'7.55" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°47'24.28" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°28'20.01" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°5'27.84" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°22'21.25" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°9'14.07" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°18'22.27" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Mars|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'35.68" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°47'24.17" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°28'18.92" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°5'14.93" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°22'8.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°8'52.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°2'7.55" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°47'24.28" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°28'20.01" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°5'27.84" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°22'21.25" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°9'14.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°18'22.27" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: East Phoenix,  Feniks,  Fenikso,  Finiks,  Finiksa,  Finiksas,  Finiksos,  Foinix,  Féniks,  Fīniksa,  Hellings Mill,  Hoozdoh,  Mill City,  PHX,  Peniki,  Phenix,  Phoeniks,  Phoenix,  Pumpkinsville,  Pēniki,  Salt River,  Smith Station,  Smith Station Phenix,  Smiths Station,  feng huang cheng,  fenikkusu,  finikasa,  finiks,  finiksa,  fynks,  fynyks,  fynyks  aryzwna,  phiniks,  phiniks nagaram,  phiniksa,  pinigseu,  piniks,  piniksi,  pnyqs,  pynyqs,  Φοίνιξ,  Финикс,  Фінікс,  Ֆինիքս,  פיניקס,  פניקס,  فينيكس,  فینکس,  فینیکس، آریزونا,  फ़ीनिक्स,  फिनिक्स,  फिनिक्स्,  फीनिक्स,  ফিনিক্স,  ਫ਼ੀਨਿਕਸ,  பீனிக்ஸ்,  ఫీనిక్స్ నగరం,  ಫೀನಿಕ್ಸ್,  ഫീനിക്സ്,  ฟีนิกซ์,  ფინიქსი,  ፊኒክስ፥ አሪዞና,  フェニックス,  凤凰城,  鳳凰城,  피닉스
+Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스
 
 ---

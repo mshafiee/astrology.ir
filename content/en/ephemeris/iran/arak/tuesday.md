@@ -20,7 +20,7 @@ Latitude: 34.0949
 \-
 Longitude: 49.6981
 \-
-Altitude: 1,738 meters
+Altitude: 1,728 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Arak, Iran" lat="34.0949" lng="49.6981" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'14.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'18.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°46'10.37" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°37'36.43" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°59'50.73" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'58.88" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°50'28.42" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°55'18.22" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°46'10.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°37'36.55" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°59'51.49" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'59.87" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°55'16.88" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'14.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'18.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'10.37" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°37'36.43" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°59'50.73" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'58.88" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°50'28.42" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'18.29" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'10.80" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°37'36.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°59'51.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'59.87" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°55'16.88" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Arak,  Arak - sawh,  Arak - ساوه,  Arok,  Arāk,  Ehrak,  Soltanabad,  Solţānābād,  Sultanabad,  Sultānābād,  `Iraq,  arak,  sawh,  sultan abad,  Арак,  Арок,  Эрак,  اراک,  ساوه,  سُلطان آباد,  ‘Irāq
+Alternate Names: Arak, Arak - sawh, Arak - ساوه, Arok, Arāk, Ehrak, Soltanabad, Solţānābād, Sultanabad, Sultānābād, `Iraq, arak, sawh, sultan abad, Арак, Арок, Эрак, اراک, ساوه, سُلطان آباد, ‘Irāq
 
 ---

@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°31'41.10" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°41'12.63" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°0'7.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°36'21.56" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°7'5.88" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'26.56" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°17'44.09" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°36'22.47" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°7'5.16" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'28.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°30'18.86" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'41.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°41'12.30" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°0'7.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°36'21.56" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°7'5.88" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'26.56" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°17'44.09" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°41'12.63" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°0'7.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°36'22.47" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°7'5.16" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'26.97" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°24'48.41" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Kota Surabaya,  Kutha Surabaya,  SUB,  Soerabaja,  Soerabaya,  Sourabaya,  Sourampagia,  Surabaia,  Surabaja,  Surabajo,  Surabaya,  si shui,  sulabaya,  sura ba ya,  surabaia,  surabaya,  swrabaya,  swrbyh,  Σουραμπάγια,  Сурабайа,  Сурабая,  Сурабаја,  סורביה,  سورابايا,  سورابایا,  สุราบายา,  სურაბაია,  スラバヤ,  泗水,  수라바야
+Alternate Names: Kota Surabaya, Kutha Surabaya, SUB, Soerabaja, Soerabaya, Sourabaya, Sourampagia, Surabaia, Surabaja, Surabajo, Surabaya, si shui, sulabaya, sura ba ya, surabaia, surabaya, swrabaya, swrbyh, Σουραμπάγια, Сурабайа, Сурабая, Сурабаја, סורביה, سورابايا, سورابایا, สุราบายา, სურაბაია, スラバヤ, 泗水, 수라바야
 
 ---

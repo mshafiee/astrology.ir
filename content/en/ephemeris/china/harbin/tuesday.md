@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'8.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°52'2.61" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°38'47.38" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°24'21.20" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°44'21.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°3'29.17" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°17'25.42" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|4°56'8.66" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°52'1.79" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°38'45.52" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°24'16.71" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°44'17.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°3'21.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°53'9.93" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'8.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°52'1.68" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°38'46.29" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°24'21.20" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°44'21.75" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°3'29.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°17'25.42" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°52'1.79" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°38'45.52" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°24'16.71" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°44'17.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°3'21.57" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°53'9.93" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Cap Nhi Tan,  Charbin,  Charbinas,  Charmpin,  Cáp Nhĩ Tân,  HRB,  Ha'erbin,  Ha-erh-pin,  Ha-erh-pin-shih,  Harbin,  Harbin Shi,  Harbin-chhi,  Harbin-chhī,  Harbina,  Harbino,  Ha’erbin,  Kharbin,  Lungsod ng Harbin,  Pin-chiang,  Pin-chiang-hsien,  Pinkiang,  Xarbin,  ha er bin,  ha er bin shi,  ha-eolbin si,  har bin,  harabina,  harbn,  harbyn,  harpina,  harubin,  harubin shi,  hrbyn,  kharbini,  Χαρμπίν,  Харбин,  Харбін,  Խարբին,  חרבין,  خاربىن شەھىرى,  هاربن,  هاربین,  ہاربن,  हारबिन,  हार्पिन,  ਹਾਰਬਿਨ,  ฮาร์บิน,  ဟာရ်ပင်းမြို့,  ხარბინი,  ハルビン,  ハルビン市,  哈尔滨,  哈尔滨市,  哈爾濱,  하얼빈 시
+Alternate Names: Cap Nhi Tan, Charbin, Charbinas, Charmpin, Cáp Nhĩ Tân, HRB, Ha'erbin, Ha-erh-pin, Ha-erh-pin-shih, Harbin, Harbin Shi, Harbin-chhi, Harbin-chhī, Harbina, Harbino, Ha’erbin, Kharbin, Lungsod ng Harbin, Pin-chiang, Pin-chiang-hsien, Pinkiang, Xarbin, ha er bin, ha er bin shi, ha-eolbin si, har bin, harabina, harbn, harbyn, harpina, harubin, harubin shi, hrbyn, kharbini, Χαρμπίν, Харбин, Харбін, Խարբին, חרבין, خاربىن شەھىرى, هاربن, هاربین, ہاربن, हारबिन, हार्पिन, ਹਾਰਬਿਨ, ฮาร์บิน, ဟာရ်ပင်းမြို့, ხარბინი, ハルビン, ハルビン市, 哈尔滨, 哈尔滨市, 哈爾濱, 하얼빈 시
 
 ---

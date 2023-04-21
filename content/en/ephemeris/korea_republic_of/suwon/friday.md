@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°36'26.10" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°54'37.52" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°29'57.87" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°30'44.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°11'1.14" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'29.15" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°57'18.84" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|0°30'52.26" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°11'8.27" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'40.71" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°47'27.11" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: SWU,  Sououon,  Suigen,  Suvon,  Suwon,  Suwon-si,  Suwŏn,  shui yuan shi,  suvona,  suwon,  suwonsi,  suwxn,  swwn,  Σούουον,  Сувон,  سوون,  सुवोन,  ซูว็อน,  水原市,  수원,  수원시
+Alternate Names: SWU, Sououon, Suigen, Suvon, Suwon, Suwon-si, Suwŏn, shui yuan shi, suvona, suwon, suwonsi, suwxn, swwn, Σούουον, Сувон, سوون, सुवोन, ซูว็อน, 水原市, 수원, 수원시
 
 ---

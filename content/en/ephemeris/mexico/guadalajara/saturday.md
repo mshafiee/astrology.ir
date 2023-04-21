@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'44.44" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°18'25.88" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°23'15.32" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°7'34.89" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°4'39.77" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'22.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°28'35.23" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°18'27.29" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°23'11.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°7'43.50" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°4'40.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'32.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°52'7.53" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Atemaxac,  GDL,  Gouadalachara,  Guadalajara,  Guadalajara i Jalisco,  Guadalakhara,  Guadalaxara,  Gvadalachara,  Gvadalahara,  Gvadalaharo,  Gvadalakhara,  Gvadalakharae,  gatalajara,  ghwadalakhara,  gu'adalahara,  gua da la ha la,  guadarahara,  gvadalahara,  gvadalakhara,  gwadalakhara  khalyskw,  gwadallahala,  gwwdlhrh,  kwa da la ha ra,  Ātemaxac,  Γουαδαλαχάρα,  Гвадалахарæ,  Гвадалахара,  Гуадалахара,  גוודלחרה,  غوادالاخارا,  گوادالاخارا، خالیسکو,  گواڈلہارا,  ग्वादालाहारा,  ਗੁਆਦਾਲਾਹਾਰਾ,  ഗൗതലജാറ,  กวาดาลาฮารา,  გვადალახარა,  グアダラハラ,  瓜达拉哈拉,  과달라하라
+Alternate Names: Atemaxac, GDL, Gouadalachara, Guadalajara, Guadalajara i Jalisco, Guadalakhara, Guadalaxara, Gvadalachara, Gvadalahara, Gvadalaharo, Gvadalakhara, Gvadalakharae, gatalajara, ghwadalakhara, gu'adalahara, gua da la ha la, guadarahara, gvadalahara, gvadalakhara, gwadalakhara  khalyskw, gwadallahala, gwwdlhrh, kwa da la ha ra, Ātemaxac, Γουαδαλαχάρα, Гвадалахарæ, Гвадалахара, Гуадалахара, גוודלחרה, غوادالاخارا, گوادالاخارا، خالیسکو, گواڈلہارا, ग्वादालाहारा, ਗੁਆਦਾਲਾਹਾਰਾ, ഗൗതലജാറ, กวาดาลาฮารา, გვადალახარა, グアダラハラ, 瓜达拉哈拉, 과달라하라
 
 ---

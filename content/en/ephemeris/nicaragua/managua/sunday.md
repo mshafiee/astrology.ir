@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'27.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°32'11.82" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°54'5.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°3'31.57" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°10'4.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'15.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°47'43.66" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°32'14.51" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°54'8.49" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°3'47.23" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°10'16.01" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'39.87" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°9'25.25" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°49'26.81" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°32'11.82" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°54'5.34" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°3'31.57" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°49'27.99" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°32'14.51" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°54'8.49" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°3'47.23" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°10'16.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'15.48" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°47'43.66" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'39.87" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°9'25.25" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MGA,  Managoua,  Managua,  Managuae,  Managva,  Managvo,  Managûa,  Manahuac,  Manankoua,  Manaqua,  Manawa,  Manágua,  Mānāhuac,  ma na gua,  managhwa,  managu'a,  managua,  managva,  managwa,  manakaw,  manakuva,  Μανάγκουα,  Μανάγουα,  Манагва,  Манагуæ,  Манагуа,  Մանագուա,  מנגואה,  ماناغوا,  ماناگوآ,  ماناگوا,  ماناگۇئا,  मानाग्वा,  ਮਾਨਾਗੁਆ,  மனாகுவா,  มานากัว,  མ་ན་གུ་འ།,  მანაგუა,  ማናጓ,  マナグア,  馬拿瓜,  馬納瓜,  마나과
+Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과
 
 ---

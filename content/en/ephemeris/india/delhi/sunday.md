@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°25'31.89" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°39'4.19" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°36'29.52" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°38'23.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'34.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°20'11.47" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°38'21.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'34.22" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°6'21.13" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: DEL,  Daehli,  Dehli,  Dehlī,  Delchi,  Delhi,  Delhio,  Delhí,  Delhî,  Deli,  Delis,  Delkhi,  Dellium,  Delí,  Dilhi,  Dilli,  Dillí,  Dillī,  Dähli,  Déhli,  Faritani Delhi,  New Delhi,  Old Delhi,  Sahdzahanabad,  Stare Deli,  de li,  dehali,  deli,  delli,  deri,  dhilli,  dhly,  dhly qdym,  dil'hi,  dili,  dilli,  dlhy,  dly,  dlھy,  dylhy,  na'i dilli,  prany dہly,  tilli,  Šáhdžahanabád,  Δελχί,  Дели,  Делхи,  Делі,  Деҳли,  Дэлі,  Старе Делі,  Դելի,  דלהי,  דעלהי,  دلهي,  دلھی,  دلی,  دهلي,  دهلی قدیم,  ديلهى,  دہلی,  دێھلی,  پرانی دہلی,  ډېلي,  ދިއްލީ,  दिल्ली,  देहली,  नई दिल्ली,  দিল্লি,  দিল্লী,  ਦਿੱਲੀ,  દિલ્હી,  ଦିଲ୍ଲୀ,  தில்லி,  ఢిల్లీ,  ದೆಹಲಿ,  ഡെൽഹി,  เดลี,  დელი,  デリー,  德里,  델리
+Alternate Names: DEL, Daehli, Dehli, Dehlī, Delchi, Delhi, Delhio, Delhí, Delhî, Deli, Delis, Delkhi, Dellium, Delí, Dilhi, Dilli, Dillí, Dillī, Dähli, Déhli, Faritani Delhi, New Delhi, Old Delhi, Sahdzahanabad, Stare Deli, de li, dehali, deli, delli, deri, dhilli, dhly, dhly qdym, dil'hi, dili, dilli, dlhy, dly, dlھy, dylhy, na'i dilli, prany dہly, tilli, Šáhdžahanabád, Δελχί, Дели, Делхи, Делі, Деҳли, Дэлі, Старе Делі, Դելի, דלהי, דעלהי, دلهي, دلھی, دلی, دهلي, دهلی قدیم, ديلهى, دہلی, دێھلی, پرانی دہلی, ډېلي, ދިއްލީ, दिल्ली, देहली, नई दिल्ली, দিল্লি, দিল্লী, ਦਿੱਲੀ, દિલ્હી, ଦିଲ୍ଲୀ, தில்லி, ఢిల్లీ, ದೆಹಲಿ, ഡെൽഹി, เดลี, დელი, デリー, 德里, 델리
 
 ---

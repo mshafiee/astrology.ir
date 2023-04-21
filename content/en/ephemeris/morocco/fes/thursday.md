@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°53'57.91" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°27'47.71" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°33'40.85" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°15'14.65" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|1°14'52.19" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: FEZ,  Fes,  Fez,  Fès,  fas,  fezu,  Фес,  فاس,  フェズ
+Alternate Names: FEZ, Fes, Fez, Fès, fas, fezu, Фес, فاس, フェズ
 
 ---

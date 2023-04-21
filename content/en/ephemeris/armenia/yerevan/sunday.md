@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'33.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°26'40.76" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°41'39.18" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°41'4.55" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°43'50.90" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'41.60" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°5'11.05" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°26'39.01" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°41'34.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°40'58.89" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°43'37.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'28.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°44'14.38" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'33.97" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°26'40.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°41'39.18" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°41'4.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°43'50.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'41.60" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°5'11.05" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°26'39.01" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°41'34.10" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°40'58.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°43'37.90" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'28.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°44'14.38" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ayrivan,  Djerevan,  EVN,  Eireavan,  Eireaván,  Ereban,  Erehvan,  Ereun,  Erevan,  Erevan osh,  Erevana,  Erevano,  Erevanum,  Erevàn,  Ereván,  Erevāna,  Erewan,  Erivan,  Eriwan,  Erywan,  Erywań,  Gierevan,  Ierevan,  Iereván,  Iravan,  Jerevan,  Jerevanas,  Jerevani,  Jereván,  Jerewan,  Jerjewan,  Revan,  Yerevan,  Yervandavan,  Yerêvan,  Yiriwan,  Yèrèvan,  Yérévan,  ayrwan,  ereban,  erevani,  iyerebhana,  shhr ayrwan,  ye li wen,  yeleban,  yeravana pranta,  yere wan,  yerevan,  yerevana,  yerevhana,  yryfan,  yrywan,  Èrevan,  Êrîvan,  İrəvan,  Γιερεβάν,  Ερεβάν,  Єреван,  Јереван,  Ереван,  Ереван ош,  Ерэван,  Երեվան,  Երևան,  יערעוואן,  ירוואן,  ایروان,  شهر ایروان,  يريفان,  يېرېۋان,  یریوان,  یەریڤان,  येरवान प्रान्त,  येरेवान,  येरेव्हान,  ইয়েরেভান,  யெரெவான்,  เยเรวาน,  ཡེ་རེ་ཝན།,  ერევანი,  ዬሬቫን,  エレバン,  葉里溫,  예레반
+Alternate Names: Ayrivan, Djerevan, EVN, Eireavan, Eireaván, Ereban, Erehvan, Ereun, Erevan, Erevan osh, Erevana, Erevano, Erevanum, Erevàn, Ereván, Erevāna, Erewan, Erivan, Eriwan, Erywan, Erywań, Gierevan, Ierevan, Iereván, Iravan, Jerevan, Jerevanas, Jerevani, Jereván, Jerewan, Jerjewan, Revan, Yerevan, Yervandavan, Yerêvan, Yiriwan, Yèrèvan, Yérévan, ayrwan, ereban, erevani, iyerebhana, shhr ayrwan, ye li wen, yeleban, yeravana pranta, yere wan, yerevan, yerevana, yerevhana, yryfan, yrywan, Èrevan, Êrîvan, İrəvan, Γιερεβάν, Ερεβάν, Єреван, Јереван, Ереван, Ереван ош, Ерэван, Երեվան, Երևան, יערעוואן, ירוואן, ایروان, شهر ایروان, يريفان, يېرېۋان, یریوان, یەریڤان, येरवान प्रान्त, येरेवान, येरेव्हान, ইয়েরেভান, யெரெவான், เยเรวาน, ཡེ་རེ་ཝན།, ერევანი, ዬሬቫን, エレバン, 葉里溫, 예레반
 
 ---

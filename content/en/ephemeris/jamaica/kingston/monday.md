@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'11.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°46'10.88" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°25'33.05" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°0'29.44" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°16'31.30" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°10'19.32" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°21'43.25" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°46'8.30" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°25'29.86" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°0'14.41" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°16'19.68" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°10'18.55" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°4'42.29" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°25'33.05" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°0'29.44" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°16'31.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°10'19.32" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°21'43.25" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|15°10'42.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°11'11.38" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: KIN,  Kin'nkston,  Kingston,  Kingstono,  jing si dui,  kingseuteon,  kingusuton,  kyngstwn,  Κίνγκστον,  Кингстон,  کینگستون,  キングストン,  京斯敦,  킹스턴
+Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴
 
 ---

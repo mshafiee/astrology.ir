@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'57.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°45'30.44" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°24'1.38" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°57'45.36" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|24°45'30.35" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°24'0.81" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°57'44.89" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°13'18.94" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°11'33.02" |Aries|Butain|Sun|
 |☾ Moon|Direct|25°43'29.68" |Taurus|HaqAh|Saturn|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CWB,  Corityba,  Curitiba,  Curityba,  Curytiba,  Kouritiba,  Kouritimpa,  Kuritib,  Kuritiba,  Kuritibae,  Kuritibo,  Kuritiwa,  Kuritiyba,  Kuriytyva,  Kuriytýva,  Kuriṭiba,  Kuryciba,  Kurytyba,  Kùrìtíbà,  gu li ti ba,  ku li qi ba,  ku ri ti ba,  kulichiba,  kurichiba,  kuritcibas,  kuritiba,  kuritipe,  kwrytyba,  qwrytybh,  Κουριτίμπα,  Коуритиба,  Куритибæ,  Куритиба,  Курытыба,  Курыціба,  Կուրիտիբա,  קוריטיבא,  קוריטיבה,  كوريتيبا,  کوریتیبا,  ܩܘܪܝܛܝܒܐ,  कुरितिबा,  কুরিটিবা,  কুরিতিবা,  ਕੁਰੀਤੀਬਾ,  குரிடிபே,  కురితీబా,  ಕುರಿಟಿಬ,  กูรีตีบา,  კურიტიბა,  ኩሪቺባ,  ᎫᎵᏘᎦ,  クリチバ,  古里提巴,  庫里奇巴,  쿠리치바,  𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰
+Alternate Names: CWB, Corityba, Curitiba, Curityba, Curytiba, Kouritiba, Kouritimpa, Kuritib, Kuritiba, Kuritibae, Kuritibo, Kuritiwa, Kuritiyba, Kuriytyva, Kuriytýva, Kuriṭiba, Kuryciba, Kurytyba, Kùrìtíbà, gu li ti ba, ku li qi ba, ku ri ti ba, kulichiba, kurichiba, kuritcibas, kuritiba, kuritipe, kwrytyba, qwrytybh, Κουριτίμπα, Коуритиба, Куритибæ, Куритиба, Курытыба, Курыціба, Կուրիտիբա, קוריטיבא, קוריטיבה, كوريتيبا, کوریتیبا, ܩܘܪܝܛܝܒܐ, कुरितिबा, কুরিটিবা, কুরিতিবা, ਕੁਰੀਤੀਬਾ, குரிடிபே, కురితీబా, ಕುರಿಟಿಬ, กูรีตีบา, კურიტიბა, ኩሪቺባ, ᎫᎵᏘᎦ, クリチバ, 古里提巴, 庫里奇巴, 쿠리치바, 𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰
 
 ---

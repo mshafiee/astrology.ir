@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'9.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'31.18" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°40'51.44" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°50'46.57" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°34'28.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'24.69" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°45'46.66" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'31.24" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°40'52.41" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°50'46.81" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°34'29.16" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'25.60" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°49'22.30" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°40'51.44" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°50'46.57" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°34'28.02" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'24.69" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°45'46.66" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'25.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°49'22.30" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: FIH,  Kincasa,  Kinchasa,  Kinchassa,  Kinsas,  Kinsasa,  Kinsaso,  Kinshasa,  Kinshase,  Kinsjasa,  Kinszasa,  Kinsásá,  Kinxasa,  Kinŝaso,  Kinşasa,  Kinšas,  Kinšasa,  Kînşasa,  Leopoldstad,  Leopoldville,  Léopoldville,  Quinxassa,  jin sha sa,  jin xia sha,  kin cha sa,  kinasasa,  kinsaca,  kinsasa,  kinshasa,  kinsyasa,  knshasa,  kynshasa,  lei bao cheng,  Κινσάσα,  Киншаса,  Киншасе,  Кіншаса,  Կինշասա,  קינשאזע,  קינשאסה,  كينشاسا,  کنشاسا,  کنشاسہ,  کینشاسا,  किन्शासा,  কিনশাসা,  ਕਿਨਸ਼ਾਸਾ,  கின்ஷாசா,  കിൻഷസ,  กินชาซา,  ཀིན་ཤ་ས།,  ကင်ရှာဆာမြို့,  კინშასა,  ኪንሻሳ,  キンシャサ,  金夏沙,  金沙薩,  雷堡城,  킨샤사
+Alternate Names: FIH, Kincasa, Kinchasa, Kinchassa, Kinsas, Kinsasa, Kinsaso, Kinshasa, Kinshase, Kinsjasa, Kinszasa, Kinsásá, Kinxasa, Kinŝaso, Kinşasa, Kinšas, Kinšasa, Kînşasa, Leopoldstad, Leopoldville, Léopoldville, Quinxassa, jin sha sa, jin xia sha, kin cha sa, kinasasa, kinsaca, kinsasa, kinshasa, kinsyasa, knshasa, kynshasa, Κινσάσα, Киншаса, Киншасе, Кіншаса, Կինշասա, קינשאזע, קינשאסה, كينشاسا, کنشاسا, کنشاسہ, کینشاسا, किन्शासा, কিনশাসা, ਕਿਨਸ਼ਾਸਾ, கின்ஷாசா, കിൻഷസ, กินชาซา, ཀིན་ཤ་ས།, ကင်ရှာဆာမြို့, კინშასა, ኪንሻሳ, キンシャサ, 金夏沙, 金沙薩, 킨샤사
 
 ---

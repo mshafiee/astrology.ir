@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'18.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°42'57.64" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°4'1.17" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°43'29.17" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°15'24.72" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'18.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°31'37.81" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°42'57.59" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°4'0.87" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°43'28.95" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°15'28.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'23.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°50'3.71" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'18.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'57.64" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'1.17" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°43'26.05" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°15'24.72" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'18.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°31'37.81" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°42'57.59" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°4'0.87" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°43'28.95" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°15'28.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'23.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°50'3.71" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Dowzdab,  Dowzdāb,  Duzdab,  Duzdap,  Duzdāb,  Duzdāp,  ZAH,  Zahedan,  Zahedan-e (Yek),  Zahedanas,  Zahedano,  Zahedán,  Zahidan,  Zaidan,  Zaidān,  Zakhedan,  Záhedán,  Zāhedān,  Zāhedān-e (Yek),  cakitan,  jahedan,  jahedana,  zahdan,  zahedan,  zahedana,  zahedani,  zha hei dan,  Захедан,  Зоҳидон,  Զահեդան,  زاهدان,  زاہدان,  ज़ाहेदान,  জহেদন,  சாகிதன்,  ზაჰედანი,  ザーヘダーン,  扎黑丹,  자헤단
+Alternate Names: Dowzdab, Dowzdāb, Duzdab, Duzdap, Duzdāb, Duzdāp, ZAH, Zahedan, Zahedan-e (Yek), Zahedanas, Zahedano, Zahedán, Zahidan, Zaidan, Zaidān, Zakhedan, Záhedán, Zāhedān, Zāhedān-e (Yek), cakitan, jahedan, jahedana, zahdan, zahedan, zahedana, zahedani, zha hei dan, Захедан, Зоҳидон, Զահեդան, زاهدان, زاہدان, ज़ाहेदान, জহেদন, சாகிதன், ზაჰედანი, ザーヘダーン, 扎黑丹, 자헤단
 
 ---

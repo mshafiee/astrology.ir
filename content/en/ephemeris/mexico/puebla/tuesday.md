@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|25°1'23.33" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°59'56.86" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|5°2'23.52" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°28'41.10" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°49'57.19" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°15'38.31" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|16°28'43.71" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°50'11.58" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°4'23.00" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°59'15.71" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|25°1'23.33" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°59'56.86" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°2'13.50" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°28'41.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°49'57.19" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°15'38.31" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°2'23.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°28'43.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°50'11.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°4'23.00" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Angelopolis,  Byen Puebla,  Cuetlaxcoapan,  Ehroika-Puehbla-deh-Saragosa,  Heroica Puebla de Zaragoza,  Heróica Puebla de Zaragoza,  Lungsod ng Puebla,  PBC,  Pouempla,  Puebl,  Puebla,  Puebla City,  Puebla de Saragosa,  Puebla de Zaragoza,  Puebla de los Angeles,  Puebla de los Ángeles,  Pueblo,  Puehbla-de-Saragosa,  Puehblae-de-Saragosae,  Yucha Nchu'u,  bwybla,  pu ai bu la,  pu'aibala,  pu'ebla,  puebeulla,  puebura,  pwybla  pwybla,  pwybla. pwybla,  Πουέμπλα,  Пуебла,  Пуэблæ-де-Сарагосæ,  Пуэбла-де-Сарагоса,  Эроіка-Пуэбла-дэ-Сарагоса,  פואבלה,  بويبلا,  پوئبلا، پوئبلا,  پوئبلا٬ پوئبلا,  पुएब्ला,  ਪੁਐਬਲਾ,  პუებლა,  プエブラ,  普埃布拉,  푸에블라
+Alternate Names: Angelopolis, Byen Puebla, Cuetlaxcoapan, Ehroika-Puehbla-deh-Saragosa, Heroica Puebla de Zaragoza, Heróica Puebla de Zaragoza, Lungsod ng Puebla, PBC, Pouempla, Puebl, Puebla, Puebla City, Puebla de Saragosa, Puebla de Zaragoza, Puebla de los Angeles, Puebla de los Ángeles, Puehbla-de-Saragosa, Puehblae-de-Saragosae, Yucha Nchu'u, bwybla, pu ai bu la, pu'aibala, pu'ebla, puebeulla, puebura, pwybla  pwybla, pwybla. pwybla, Πουέμπλα, Пуебла, Пуэблæ-де-Сарагосæ, Пуэбла-де-Сарагоса, Эроіка-Пуэбла-дэ-Сарагоса, פואבלה, بويبلا, پوئبلا، پوئبلا, پوئبلا٬ پوئبلا, पुएब्ला, ਪੁਐਬਲਾ, პუებლა, プエブラ, 普埃布拉, 푸에블라
 
 ---

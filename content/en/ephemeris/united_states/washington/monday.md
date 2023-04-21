@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'5.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°45'53.40" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°24'59.93" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°59'14.26" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°15'13.30" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°10'41.02" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°32'51.27" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°45'56.00" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°24'59.19" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°59'29.23" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°15'20.43" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°11'2.93" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°4'48.49" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'5.77" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°45'55.24" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°24'58.33" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°59'25.12" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°15'13.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°10'41.02" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°32'51.27" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°45'56.00" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°24'59.19" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°59'29.23" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°15'20.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°11'2.93" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°4'48.49" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: District of Columbia,  Federal Capital,  Federal City,  Federal Town,  Ouasinkton,  Ranatakariahshne,  Ranatakariáhshne,  Territory of Columbia,  Vashington,  Vasingtonas,  Vasingtonia,  Vasingtono,  Vaŝingtono,  Vašingtonas,  WAS,  Washington,  Washington City,  Washington D. C.,  Washington D.C.,  Washington DC,  Waszyngton,  hua sheng dun te qu,  wosingteon D.C.,  wosingteon DC,  Ουάσιγκτον,  Вашингтон,  华盛顿特区,  워싱턴 D.C.,  워싱턴 DC
+Alternate Names: District of Columbia, Federal Capital, Federal City, Federal Town, Ouasinkton, Ranatakariahshne, Ranatakariáhshne, Territory of Columbia, Vashington, Vasingtonas, Vasingtonia, Vašingtonas, WAS, Washington, Washington City, Washington D. C., Washington D.C., Washington DC, Waszyngton, hua sheng dun te qu, wosingteon D.C., wosingteon DC, Ουάσιγκτον, Вашингтон, 华盛顿特区, 워싱턴 D.C., 워싱턴 DC
 
 ---

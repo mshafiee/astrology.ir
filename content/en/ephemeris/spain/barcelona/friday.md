@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°59'33.61" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°40'57.87" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°50'55.16" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°34'32.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'9.56" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°43'24.91" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°34'40.15" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'18.55" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°20'56.11" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'10.13" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°59'33.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°40'57.87" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°50'50.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°34'32.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'9.56" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°43'24.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°40'57.68" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°50'55.31" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°34'40.03" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'18.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°20'56.11" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BCN,  Barcellona,  Barcellonn-a,  Barcelona,  Barcelone,  Barcelono,  Barceluna,  Barcelůna,  Barcełona,  Barcillona,  Barcino,  Barkelone,  Barseloana,  Barselon,  Barselona,  Barselonae,  Barselono,  Barseluna,  Barseluona,  Barselóna,  Barslon-a,  Barsélona,  Bartzellona,  Bartzelona,  Barzelona,  Barçellonn-a,  Barċellona,  Baselona,  Lungsod ng Barcelona,  ba sa long na,  ba sai long na,  ba sai luo na,  baleusellona,  balsaleana,  bar se lon a,  barasilona,  barselona,  barsilona,  barslwn,  barslwna,  barsylwna,  barsێlۆna,  baruserona,  brshlwnt,  brshlwnہ,  brzlwnh,  la Ciudad Condal,  parcelona,  Βαρκελώνη,  Барселон,  Барселонæ,  Барселона,  Барселоно,  Բարսելոնա,  בארצעלאנע,  ברצלונה,  بارسلون,  بارسلونا,  بارسیلونا,  بارسێلۆنا,  برشلونة,  برشلونہ,  बार्सिलोना,  बार्सेलोना,  বার্সেলোনা,  ਬਾਰਸੀਲੋਨਾ,  பார்செலோனா,  ബാഴ്സലോണ,  บาร์เซโลนา,  ບາກເຊໂລນ,  བྷར་སེ་ལོ་ནཱ།,  ဘာစီလိုနာမြို့,  ბარსელონა,  ባርሴሎና,  バルセロナ,  巴塞罗那,  巴塞隆納,  巴薩隆拿,  바르셀로나
+Alternate Names: BCN, Barcellona, Barcellonn-a, Barcelona, Barcelone, Barcelono, Barceluna, Barcelůna, Barcełona, Barcillona, Barcino, Barkelone, Barseloana, Barselon, Barselona, Barselonae, Barselono, Barseluna, Barseluona, Barselóna, Barslon-a, Barsélona, Bartzellona, Bartzelona, Barzelona, Barçellonn-a, Barċellona, Lungsod ng Barcelona, ba sa long na, ba sai luo na, baleusellona, balsaleana, bar se lon a, barasilona, barselona, barsilona, barslwn, barslwna, barsylwna, barsێlۆna, baruserona, brshlwnt, brshlwnہ, brzlwnh, la Ciudad Condal, parcelona, Βαρκελώνη, Барселон, Барселонæ, Барселона, Барселоно, Բարսելոնա, בארצעלאנע, ברצלונה, بارسلون, بارسلونا, بارسیلونا, بارسێلۆنا, برشلونة, برشلونہ, बार्सिलोना, बार्सेलोना, বার্সেলোনা, ਬਾਰਸੀਲੋਨਾ, பார்செலோனா, ബാഴ്സലോണ, บาร์เซโลนา, ບາກເຊໂລນ, བྷར་སེ་ལོ་ནཱ།, ဘာစီလိုနာမြို့, ბარსელონა, ባርሴሎና, バルセロナ, 巴塞罗那, 巴薩隆拿, 바르셀로나
 
 ---

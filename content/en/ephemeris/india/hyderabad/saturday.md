@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'14.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°11'10.78" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°6'52.85" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°38'5.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°29'58.83" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'52.32" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°59'48.93" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°11'12.64" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°6'58.42" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°38'16.81" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°30'10.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'10.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°21'7.23" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -317,9 +317,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♂ Mars|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
-|♀ Venus|Moon|Mars|Virgo|Moon|Venus|
+|♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'14.05" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'10.78" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°6'52.85" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°38'5.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°29'58.83" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'52.32" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°59'48.93" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°11'12.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°6'58.42" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°38'16.81" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°30'10.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'10.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°21'7.23" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -356,9 +356,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Saturn|Mars|Capricorn|Moon|Saturn|
 |♂ Mars|Mars|Mars|Sagittarius|Moon|Moon|
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
-|♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
+|♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bhaganagar,  HYD,  Haidarabadas,  Haiderabad,  Hajdarabad,  Hajdarábád,  Hyderabad,  Hyderābād,  Khajdarabad,  Khajderabad,  hai de la ba,  haidarabada,  haidarabadu,  haiderabado,  haitarapat,  hayadarabada ema. karporesana,  hayadrabada,  hydr abad,  hydr abad dkn,  hydrabad,  Хайдарабад,  Хајдерабад,  حیدر آباد,  حیدر آباد دکن,  حیدرآباد,  हैदराबाद,  হায়দরাবাদ এম. কর্পোরেশন,  হায়দ্রাবাদ,  ஹைதராபாத்,  హైదరాబాదు,  ハイデラバード,  海得拉巴
+Alternate Names: Bhaganagar, HYD, Haidarabadas, Haiderabad, Hajdarabad, Hajdarábád, Hyderabad, Hyderabad-Deccan, Hyderābād, Khajdarabad, Khajderabad, hai de la ba, haidarabada, haidarabadu, haiderabado, haitarapat, hayadarabada ema. karporesana, hayadrabada, hydr abad, hydr abad dkn, hydrabad, Хайдарабад, Хајдерабад, حیدر آباد, حیدر آباد دکن, حیدرآباد, हैदराबाद, হায়দরাবাদ এম. কর্পোরেশন, হায়দ্রাবাদ, ஹைதராபாத், హైదరాబాదు, ハイデラバード, 海得拉巴
 
 ---

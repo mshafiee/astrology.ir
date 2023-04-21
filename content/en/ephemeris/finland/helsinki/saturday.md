@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'42.25" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'34.21" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°10'2.25" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°43'46.65" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|24°12'34.33" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°10'1.46" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°43'47.40" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°36'39.94" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'38.65" |Aries|Butain|Sun|
 |☾ Moon|Direct|26°1'42.09" |Aries|Thurayya|Venus|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'42.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'35.11" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°10'0.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°43'51.87" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°36'40.43" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'44.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°19'27.33" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'34.21" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°10'2.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°43'46.65" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°36'39.94" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'38.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°2'18.01" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Elsin'ki,  Elsinki,  Elzinki,  Gel'sinki,  HEL,  Heilsinci,  Heilsincí,  Hel'sinki,  Helsenkis,  Helsingfors,  Helsingi,  Helsingia,  Helsinki,  Helsinkis,  Helsinkium,  Helsinko,  Helsinky,  Helsinqui,  Helsinquia,  Helsset,  Helsínquia,  Helsînkî,  Helsėnkis,  Hèlsinki,  Khel'sinki,  Khel'sinki osh,  Khelsinki,  Khelzinki,  Lungsod ng Helsinki,  Stadi,  Xelsinki,  Xélsinki,  elcinki,  hailasiki,  he er xin ji,  helasinki,  helsingki,  helsinki,  herushinki,  hlsnky,  hlsnqy,  hlsynky,  hlsynqy,  hylsynky,  Èlzinki,  Ħelsinki,  Ελσίνκι,  Гельсінкі,  Хелзинки,  Хелсинки,  Хельсинки,  Хельсинки ош,  Хельсінкі,  Ҳелсинкӣ,  Һel'sinki,  Һельсинки,  Հելսինկի,  הלסינקי,  העלסינקי,  هلسنكي,  هلسنڪي,  هلسینکی,  هيلسينكى,  هیلسینکی,  ھێلسینکی,  ہلسنکی,  ہیلسنکی,  ܗܠܣܢܩܝ,  हेलसिंकी,  हेल्सिन्की,  হেলসিঙ্কি,  ਹੈਲਸਿੰਕੀ,  எல்சிங்கி,  ಹೆಲ್ಸಿಂಕಿ,  ഹെൽസിങ്കി,  เฮลซิงกิ,  ཧེལ་སིན་ཀི།,  ဟယ်လ်ဆင်ကီမြို့,  ჰელსინკი,  ሄልሲንኪ,  Ḥélsinki,  ヘルシンキ,  赫尔辛基,  赫爾辛基,  헬싱키
+Alternate Names: Elsin'ki, Elsinki, Elzinki, Gel'sinki, HEL, Heilsinci, Heilsincí, Hel'sinki, Helsenkis, Helsingfors, Helsingi, Helsingia, Helsinki, Helsinkis, Helsinkium, Helsinko, Helsinky, Helsinqui, Helsinquia, Helsset, Helsínquia, Helsînkî, Helsėnkis, Hèlsinki, Khel'sinki, Khel'sinki osh, Khelsinki, Khelzinki, Lungsod ng Helsinki, Stadi, Xelsinki, Xélsinki, elcinki, hailasiki, he er xin ji, helasinki, helsingki, helsinki, herushinki, hlsnky, hlsnqy, hlsynky, hlsynqy, hylsynky, Èlzinki, Ħelsinki, Ελσίνκι, Гельсінкі, Хелзинки, Хелсинки, Хельсинки, Хельсинки ош, Хельсінкі, Ҳелсинкӣ, Һel'sinki, Һельсинки, Հելսինկի, הלסינקי, העלסינקי, هلسنكي, هلسنڪي, هلسینکی, هيلسينكى, هیلسینکی, ھێلسینکی, ہلسنکی, ہیلسنکی, ܗܠܣܢܩܝ, हेलसिंकी, हेल्सिन्की, হেলসিঙ্কি, ਹੈਲਸਿੰਕੀ, எல்சிங்கி, ಹೆಲ್ಸಿಂಕಿ, ഹെൽസിങ്കി, เฮลซิงกิ, ཧེལ་སིན་ཀི།, ဟယ်လ်ဆင်ကီမြို့, ჰელსინკი, ሄልሲንኪ, Ḥélsinki, ヘルシンキ, 赫尔辛基, 赫爾辛基, 헬싱키
 
 ---

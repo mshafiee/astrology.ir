@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°58'43.12" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°59'45.12" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°56'13.89" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°55'44.12" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°20'57.34" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°52'42.95" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°47'2.31" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|4°55'44.13" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°20'57.67" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°52'43.09" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°49'44.39" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°56'13.89" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°55'44.12" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|16°20'57.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°52'42.95" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°47'2.31" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|14°52'43.09" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°49'44.39" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: SAO,  Sampa,  San Paolo,  San Paul ed Brasil,  San Paulas,  San Paulo,  San Paulu,  San Paulu du Brasili,  San Paulu dû Brasili,  San Pauluw,  San Pawlo,  San Polo del Braxil,  San Poulo,  San Poło del Braxil,  San Pàul ëd Brasil,  San-Paulo,  San-Paulu,  San-Paŭlo,  Sanpaulu,  Sao Paolo,  Sao Paulo,  Sao Paulo capital,  Saun Paulu,  Sawo Palo,  Sawo Pålo,  São Paolo,  São Paulo,  São Paulo capital,  Urbs Paulistana,  cavo pavulo,  sa'o pa'ulo,  sa'o paulo,  samu pa'ulu,  sangpaollo,  sangpaollu,  sangpaullo,  sangpaullu,  sankt. paulos,  sanpauro,  savea pealea,  savo palo,  saw bawlw,  saw palw,  saw pwlw,  saywpaywlw,  sea pea lu,  sheng bao luo,  Σάο Πάολο,  Сан Пауло,  Сан Паулу,  Сан-Паулу,  Сан-Паўлу,  Сао Паоло,  Сао Пауло,  Սան Պաուլու,  סאו פאולא,  סאו פאולו,  ساؤ پالو,  ساؤ پولو,  سائوپائولو,  ساو باولو,  ܣܐܘ ܦܐܘܠܘ,  ސައޮ ޕައުލޯ,  साओ पाउलो,  সাঁউ পাউলু,  সাও পাউলো,  சாவோ பாவுலோ,  శఒ పౌలొ,  ಸಾವೊ ಪಾಲೊ,  സാവോ പോളോ,  เซาเปาลู,  ဆောပိုလိုမြို့,  სან-პაულუ,  ሳው ፓውሉ,  サンパウロ,  聖保羅,  상파올로,  상파올루,  상파울로,  상파울루
+Alternate Names: SAO, Sampa, San Paolo, San Paul ed Brasil, San Paulas, San Paulo, San Paulu, San Paulu du Brasili, San Paulu dû Brasili, San Pauluw, San Pawlo, San Polo del Braxil, San Poulo, San Poło del Braxil, San Pàul ëd Brasil, San-Paulo, San-Paulu, San-Paŭlo, Sanpaulu, Sao Paolo, Sao Paulo, Sao Paulo capital, Saun Paulu, Sawo Palo, Sawo Pålo, São Paolo, São Paulo, São Paulo capital, Urbs Paulistana, cavo pavulo, sa'o pa'ulo, sa'o paulo, samu pa'ulu, sangpaollo, sangpaollu, sangpaullo, sangpaullu, sankt. paulos, sanpauro, savea pealea, savo palo, saw bawlw, saw palw, saw pwlw, saywpaywlw, sea pea lu, sheng bao luo, Σάο Πάολο, Сан Пауло, Сан Паулу, Сан-Паулу, Сан-Паўлу, Сао Паоло, Сао Пауло, Սան Պաուլու, סאו פאולא, סאו פאולו, ساؤ پالو, ساؤ پولو, سائوپائولو, ساو باولو, ܣܐܘ ܦܐܘܠܘ, ސައޮ ޕައުލޯ, साओ पाउलो, সাঁউ পাউলু, সাও পাউলো, சாவோ பாவுலோ, శఒ పౌలొ, ಸಾವೊ ಪಾಲೊ, സാവോ പോളോ, เซาเปาลู, ဆောပိုလိုမြို့, სან-პაულუ, ሳው ፓውሉ, サンパウロ, 聖保羅, 상파올로, 상파올루, 상파울로, 상파울루
 
 ---

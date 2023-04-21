@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°9'59.07" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°4'14.11" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°33'17.50" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°24'20.44" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'27.46" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°8'25.89" |Aries|Butain|Venus|
+|♀ Venus|Direct|12°24'21.68" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'28.43" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°13'49.24" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'48.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°9'59.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°4'14.11" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°33'17.50" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°24'17.56" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'22.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°48'8.57" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°9'59.12" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°4'15.13" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°33'17.76" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°24'21.68" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'28.43" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°13'49.24" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Goi-iong,  Guejang,  Guejjan,  Guijangas,  Guijango,  Guiyang,  Guiyang Shi,  Gujjan,  Guyan,  Guyyan,  Gveiyangz,  Gói-iòng,  Gŭijango,  KWE,  Kuei-chu,  Kuei-yang,  Kuei-yang-shih,  Kuej-jang,  Kui-iong-chhi,  Kweichu,  Kweiyang,  Kweiyangfu,  Kùi-iông-chhī,  Queiyanga,  Quy Duong,  Quý Dương,  ghwyyangh,  gu'iyanga,  gu-iyang si,  gui yang,  gui yang shi,  gwyyang,  kuy hyang,  Гуейян,  Гуејанг,  Гуйян,  Ґуйян,  Գույան,  غوييانغ,  گوئیانگ,  گۇيياڭ شەھىرى,  गुइयांग,  ਗੁਈਯਾਂਗ,  กุ้ยหยาง,  ကွေ့ယန်မြို့,  貴陽,  貴陽市,  贵阳,  贵阳市,  구이양 시
+Alternate Names: Goi-iong, Guejang, Guejjan, Guijangas, Guijango, Guiyang, Guiyang Shi, Gujjan, Guyan, Guyyan, Gveiyangz, Gói-iòng, Gŭijango, KWE, Kuei-chu, Kuei-yang, Kuei-yang-shih, Kuej-jang, Kui-iong-chhi, Kweichu, Kweiyang, Kweiyangfu, Kùi-iông-chhī, Queiyanga, Quy Duong, Quý Dương, ghwyyangh, gu'iyanga, gu-iyang si, gui yang, gui yang shi, gwyyang, kuy hyang, Гуейян, Гуејанг, Гуйян, Ґуйян, Գույան, غوييانغ, گوئیانگ, گۇيياڭ شەھىرى, गुइयांग, ਗੁਈਯਾਂਗ, กุ้ยหยาง, ကွေ့ယန်မြို့, 貴陽, 貴陽市, 贵阳, 贵阳市, 구이양 시
 
 ---

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'21.08" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°23'8.14" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°33'41.75" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°26'44.83" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°26'57.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°33'41.79" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°26'44.81" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°26'57.35" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°31'1.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°47'4.71" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|5°54'43.55" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°33'41.75" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°26'44.83" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°26'57.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'0.99" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°47'4.71" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°31'1.98" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°54'33.65" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kobe,  Kobe-chhi,  Kobe-shi,  Kobeh,  Kobeo,  Kobė,  Kompe,  Kóbe,  Kôbe-chhī,  Kōbe,  Kōbe-shi,  Lungsod ng Kobe,  gobe si,  kaube,  kho bea,  kobe,  kope,  koubeshi,  kwbh,  qwbh,  shen hu,  shen hu shi,  Κόμπε,  Кобе,  Кобэ,  Կոբե,  קובה,  كوبه,  کوبه,  کوبے,  कोबे,  কৌবে,  கோபே,  โคเบะ,  კობე,  こうべし,  神戶,  神户市,  神戸,  神戸市,  고베 시
+Alternate Names: Kobe, Kobe-chhi, Kobe-shi, Kobeh, Kobė, Kompe, Kóbe, Kôbe-chhī, Kōbe, Kōbe-shi, Lungsod ng Kobe, gobe si, kaube, kho bea, kobe, kope, koubeshi, kwbh, qwbh, shen hu, shen hu shi, Κόμπε, Кобе, Кобэ, Կոբե, קובה, كوبه, کوبه, کوبے, कोबे, কৌবে, கோபே, โคเบะ, კობე, こうべし, 神戶, 神户市, 神戸, 神戸市, 고베 시
 
 ---

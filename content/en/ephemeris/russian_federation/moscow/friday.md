@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'33.63" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'50.41" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°37'10.38" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°43'56.11" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°57'49.70" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°37'6.72" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°43'52.30" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°26'25.03" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°37'6.58" |Aries|Butain|Sun|
 |☾ Moon|Direct|12°29'54.45" |Aries|Sharatain|Sun|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'33.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°57'50.41" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°37'10.38" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°43'52.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°26'25.03" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'6.58" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°29'54.45" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°57'49.84" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°37'5.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°43'53.18" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°26'24.55" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'7.19" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°33'33.26" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: MOW,  Maeskuy,  Maskav,  Maskava,  Maskva,  Mat-xco-va,  Matxcova,  Matxcơva,  Mosca,  Moscfa,  Moscha,  Mosco,  Moscou,  Moscova,  Moscovo,  Moscow,  Moscoƿ,  Moscu,  Moscua,  Moscòu,  Moscó,  Moscù,  Moscú,  Moskva,  Moska,  Moskau,  Mosko,  Moskokh,  Moskou,  Moskov,  Moskova,  Moskovu,  Moskow,  Moskowa,  Mosku,  Moskuas,  Moskva,  Moskve,  Moskvo,  Moskvy,  Moskwa,  Moszkva,  Muskav,  Musko,  Mát-xcơ-va,  Mòskwa,  Məskeu,  Məskəү,  masko,  maskw,  mo si ke,  moseukeuba,  mosko,  mosukuwa,  mskw,  mwskva,  mwskw,  mwsqbh,  mx s ko,  Μόσχα,  Мæскуы,  Маскав,  Масква,  Москва,  Москве,  Москвы,  Москова,  Москох,  Москъва,  Мускав,  Муско,  Мәскеу,  Мәскәү,  Մոսկվա,  מאָסקװע,  מאסקווע,  מוסקבה,  ماسکو,  مسکو,  موسكو,  موسكۋا,  ܡܘܣܩܒܐ,  मास्को,  मॉस्को,  মস্কো,  மாஸ்கோ,  มอสโก,  མོ་སི་ཁོ།,  მოსკოვი,  ሞስኮ,  モスクワ,  莫斯科,  모스크바
+Alternate Names: MOW, Maeskuy, Maskav, Maskava, Maskva, Mat-xco-va, Matxcova, Matxcơva, Mosca, Moscfa, Moscha, Mosco, Moscou, Moscova, Moscovo, Moscow, Moscoƿ, Moscu, Moscua, Moscòu, Moscó, Moscù, Moscú, Moskva, Moska, Moskau, Mosko, Moskokh, Moskou, Moskov, Moskova, Moskovu, Moskow, Moskowa, Mosku, Moskuas, Moskva, Moskvo, Moskwa, Moszkva, Muskav, Musko, Mát-xcơ-va, Mòskwa, Məskeu, Məskəү, masko, maskw, mo si ke, moseukeuba, mosko, mosukuwa, mskw, mwskva, mwskw, mwsqbh, mx s ko, Μόσχα, Мæскуы, Маскав, Масква, Москва, Москова, Москох, Москъва, Мускав, Муско, Мәскеу, Мәскәү, Մոսկվա, מאָסקװע, מאסקווע, מוסקבה, ماسکو, مسکو, موسكو, موسكۋا, ܡܘܣܩܒܐ, मास्को, मॉस्को, মস্কো, மாஸ்கோ, มอสโก, མོ་སི་ཁོ།, მოსკოვი, ሞስኮ, モスクワ, 莫斯科, 모스크바
 
 ---

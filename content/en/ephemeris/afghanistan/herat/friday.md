@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'21.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'14.71" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°35'45.07" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°41'29.40" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°23'34.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'55.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°30'19.39" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°57'15.81" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°35'50.46" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°41'35.54" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°23'43.08" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'7.06" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°18'4.84" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'21.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°57'15.81" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°35'50.46" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°41'29.40" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°23'34.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'55.47" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°30'19.39" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°57'14.88" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°35'48.57" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°41'30.23" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°23'38.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'58.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°41'50.45" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Gerat,  HEA,  Herat,  Herāt,  Hérat,  Kherat,  Shahr-e Herat,  Shahr-e Herāt,  he la te,  herato,  hrat,  Герат,  Херат,  هراة,  هرات,  ヘラート,  赫拉特
+Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特
 
 ---

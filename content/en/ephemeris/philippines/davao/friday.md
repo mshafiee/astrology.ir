@@ -291,9 +291,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°36'34.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'0.20" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°30'47.64" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°36'34.11" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°55'0.07" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°30'47.26" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°32'25.32" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°12'56.00" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'49.62" |Aries|Butain|Sun|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Central,  Ciudad ti Davao,  DVO,  Dakbayan sa Davao,  Davao,  Davao City,  Davao Lakanbalen,  Davao Stad,  Davaó,  Lungsod ng Dabaw,  Syudad han Davao,  da wo shi,  dabao,  dafaw,  dawayw syty,  Давао,  دافاو,  داوائو سیتی,  ダバオ,  达沃市,  다바오
+Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오
 
 ---

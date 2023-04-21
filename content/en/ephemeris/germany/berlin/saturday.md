@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°11'37.14" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°46'39.91" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°40'2.36" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'27.28" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°47'38.82" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|15°35'26.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°45'29.28" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BER,  Beirlin,  Beirlín,  Belin,  Berleno,  Berlien,  Berliin,  Berliini,  Berlijn,  Berlim,  Berlin,  Berline,  Berlini,  Berlino,  Berlyn,  Berlynas,  Berlëno,  Berlín,  Berlîn,  Berlīne,  Berolino,  Berolinum,  Birlinu,  Bèrlîn,  Estat de Berlin,  Estat de Berlín,  bai lin,  barlina,  beleullin,  berlini,  berurin,  bexrlin,  brlyn,  perlin,  Βερολίνο,  Берлин,  Берлін,  Бэрлін,  Բերլին,  בערלין,  ברלין,  برلين,  برلین,  بېرلىن,  ܒܪܠܝܢ,  बर्लिन,  বার্লিন,  பெர்லின்,  เบอร์ลิน,  ბერლინი,  ベルリン,  柏林,  베를린
+Alternate Names: BER, Beirlin, Beirlín, Berleno, Berlien, Berliin, Berliini, Berlijn, Berlim, Berlin, Berline, Berlini, Berlino, Berlyn, Berlynas, Berlëno, Berlín, Berlîn, Berlīne, Berolino, Berolinum, Birlinu, Bèrlîn, Estat de Berlin, Estat de Berlín, bai lin, barlina, beleullin, berlini, berurin, bexrlin, brlyn, perlin, Βερολίνο, Берлин, Берлін, Бэрлін, Բերլին, בערלין, ברלין, برلين, برلین, بېرلىن, ܒܪܠܝܢ, बर्लिन, বার্লিন, பெர்லின், เบอร์ลิน, ბერლინი, ベルリン, 柏林, 베를린
 
 ---

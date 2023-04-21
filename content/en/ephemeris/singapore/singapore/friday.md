@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'53.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'54.75" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°32'48.49" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°36'5.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°17'15.05" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'53.20" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°54'29.21" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°55'55.48" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°32'50.71" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°36'10.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°17'5.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'38.61" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°51'29.54" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'53.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°55'54.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°32'48.49" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°36'5.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°17'15.05" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'53.20" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°54'29.21" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°55'55.48" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°32'50.71" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°36'10.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°17'19.58" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'59.94" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°23'6.31" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: SIN,  Sin-ka-po,  Singapore,  Singapore City,  Singapour,  Singapur,  Singapura,  Sinkapoure,  Sîn-kâ-po,  Tumasik,  cinkappur,  prathes singkhpor,  shingaporu,  sigapura,  sing-gapol,  sing-gapoleu,  singapura,  singkh por,  sngapwr,  snghafwrt,  syngpwr,  xin jia po,  xing jia po,  Σιγκαπούρη,  Сингапур,  Сінгапур,  סינגפור,  سنغافورة,  سنگاپور,  सिंगापुर,  सिंगापूर,  ਸਿੰਗਾਪੁਰ,  சிங்கப்பூர்,  ประเทศสิงคโปร์,  สิงค์โปร,  ປະເທດສງກະໂປ,  ປະເທດສິງກະໂປ,  စငကာပနငင,  စင်ကာပူနိုင်ငံ,  សងហបរ,  សិង្ហបុរី,  シンガポール,  新加坡,  星架坡,  싱가포르,  싱가폴
+Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴
 
 ---

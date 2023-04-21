@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°54'11.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°46'12.78" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°25'43.44" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°0'33.22" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°16'45.16" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°10'18.59" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°49'3.02" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°54'12.53" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°46'15.22" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°25'42.64" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°0'47.38" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°16'51.77" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°10'39.48" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°18'37.88" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'12.53" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°46'15.22" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°25'42.64" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°0'47.38" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°16'51.81" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°10'39.31" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°18'37.88" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°46'15.25" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°25'42.53" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°0'47.53" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°16'51.77" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°10'39.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°18'2.75" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MDE,  Medegin,  Medehl'in,  Medel'in,  Medelim,  Medelin,  Medeljina,  Medeljinas,  Medeljino,  Medellin,  Medellín,  mai de lin,  mdlyn,  mdyyn,  me de yin,  medein,  medejin,  medelini,  medeyina,  meteyin,  mydyllyn,  mydylyn,  Μεδεγίν,  Меделин,  Медельин,  Медельїн,  Медељин,  Медэльін,  מדיין,  مدلین,  ميديللين,  ميديلين,  میڈیلن,  मेदेयीन,  মেদেয়িন,  ਮੇਦੇਯੀਨ,  மெதெயின்,  เมเดยิน,  მედელინი,  ទីក្រុងមេឌេយីណ,  メデジン,  麦德林,  메데인
+Alternate Names: MDE, Medegin, Medehl'in, Medel'in, Medelim, Medelin, Medeljina, Medeljinas, Medeljino, Medellin, Medellín, mai de lin, mdlyn, mdyyn, me de yin, medein, medejin, medelini, medeyina, meteyin, mydyllyn, mydylyn, Μεδεγίν, Меделин, Медельин, Медельїн, Медељин, Медэльін, מדיין, مدلین, ميديللين, ميديلين, میڈیلن, मेदेयीन, মেদেয়িন, ਮੇਦੇਯੀਨ, மெதெயின், เมเดยิน, მედელინი, ទីក្រុងមេឌេយីណ, メデジン, 麦德林, 메데인
 
 ---

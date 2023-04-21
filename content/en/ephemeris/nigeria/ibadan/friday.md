@@ -292,11 +292,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'16.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'52.56" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°41'39.27" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°52'13.24" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°36'10.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'24.91" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'52.53" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°41'39.60" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°52'13.07" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°36'10.28" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'24.90" |Aries|Butain|Sun|
 |☾ Moon|Direct|15°1'22.63" |Aries|Butain|Sun|
 
 
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°59'52.56" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°41'39.27" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°52'13.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°36'7.05" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'11.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°59'19.32" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°36'10.01" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'24.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|15°1'22.63" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: IBA,  Ibadan,  Ibadan shaary,  Ibadana,  Ibadanas,  Ibadano,  Ibadán,  abadan,  aybadan,  ibadan,  ibadana,  yi ba dan,  Ìbàdàn,  İbadan,  Ібадан,  Ибадан,  Ибадан шаары,  איבדאן,  إبادان,  إيبادان,  ابادان,  ਇਬਾਦਾਨ,  イバダン,  伊巴丹,  이바단
+Alternate Names: IBA, Ibadan, Ibadan shaary, Ibadana, Ibadanas, Ibadano, Ibadán, abadan, aybadan, ibadan, ibadana, yi ba dan, Ìbàdàn, İbadan, Ібадан, Ибадан, Ибадан шаары, איבדאן, إبادان, إيبادان, ابادان, ਇਬਾਦਾਨ, イバダン, 伊巴丹, 이바단
 
 ---

@@ -20,7 +20,7 @@ Latitude: 6.1236
 \-
 Longitude: 102.2433
 \-
-Altitude: 10 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Kota Bharu, Malaysia" lat="6.1236" lng="102.2433" zoom="12">}}
 
@@ -38,7 +38,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:01:12 |
 | Dhuhr | 13:09:50 |
 | Medium Coeli | 13:09:50 |
-| Sunset | 19:18:32 |
+| Sunset | 19:18:33 |
 | Maghrib | 19:32:29 |
 | Isha | 20:13:48 |
 | Sharia Midnight | 00:37:54 |
@@ -54,7 +54,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 07:01:12 |
 | Dhuhr | 13:09:50 |
 | Medium Coeli | 13:09:50 |
-| Sunset | 19:18:32 |
+| Sunset | 19:18:33 |
 | Maghrib | 19:34:33 |
 | Isha | 20:13:48 |
 | Sharia Midnight | 00:34:22 |
@@ -70,10 +70,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:01:12 |
 | Dhuhr | 13:09:50 |
 | Medium Coeli | 13:09:50 |
-| Sunset | 19:18:32 |
+| Sunset | 19:18:33 |
 | Maghrib | 19:19:27 |
 | Isha | 20:26:15 |
-| Sharia Midnight | 00:33:44 |
+| Sharia Midnight | 00:33:45 |
 | Imum Coeli | 01:09:44 |
 {{< /tab >}}
 
@@ -86,10 +86,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 07:01:12 |
 | Dhuhr | 13:09:50 |
 | Medium Coeli | 13:09:50 |
-| Sunset | 19:18:32 |
+| Sunset | 19:18:33 |
 | Maghrib | 19:19:27 |
 | Isha | 20:17:57 |
-| Sharia Midnight | 00:39:58 |
+| Sharia Midnight | 00:39:59 |
 | Imum Coeli | 01:09:44 |
 {{< /tab >}}
 
@@ -102,10 +102,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:01:12 |
 | Dhuhr | 13:09:50 |
 | Medium Coeli | 13:09:50 |
-| Sunset | 19:18:32 |
+| Sunset | 19:18:33 |
 | Maghrib | 19:19:27 |
 | Isha | 20:28:20 |
-| Sharia Midnight | 00:30:37 |
+| Sharia Midnight | 00:30:38 |
 | Imum Coeli | 01:09:44 |
 {{< /tab >}}
 
@@ -118,10 +118,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:01:12 |
 | Dhuhr | 13:09:50 |
 | Medium Coeli | 13:09:50 |
-| Sunset | 19:18:32 |
+| Sunset | 19:18:33 |
 | Maghrib | 19:19:27 |
 | Isha | 20:30:24 |
-| Sharia Midnight | 00:33:44 |
+| Sharia Midnight | 00:33:45 |
 | Imum Coeli | 01:09:44 |
 {{< /tab >}}
 
@@ -134,10 +134,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 07:01:12 |
 | Dhuhr | 13:09:50 |
 | Medium Coeli | 13:09:50 |
-| Sunset | 19:18:32 |
+| Sunset | 19:18:33 |
 | Maghrib | 19:19:27 |
 | Isha | 20:49:27 |
-| Sharia Midnight | 00:32:42 |
+| Sharia Midnight | 00:32:43 |
 | Imum Coeli | 01:09:44 |
 {{< /tab >}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:17:20|Night duration: 11:42:19|
+|Duration of the day: 12:17:21|Night duration: 11:42:18|
 |Every hour of day duration: 01:01:27|Every hour of night duration: 00:58:32|
 
  
@@ -213,30 +213,30 @@ Timetable of twelve day and night planetary hours
 |1|Venus|Ruler|07:01:12|08:02:37|Attracting love and creating emotional attachment|
 |2|Mercury|Servant|08:02:38|09:04:04|Attracting good luck|
 |3|Moon|Servant|09:04:05|10:05:31|Attracting negativity, and avoiding any harmful action|
-|4|Saturn|Servant|10:05:32|11:06:57|Being hateful for a certain period of time|
-|5|Jupiter|Servant|11:06:58|12:08:24|Gaining status, position, and attracting happiness in the workplace|
+|4|Saturn|Servant|10:05:32|11:06:58|Being hateful for a certain period of time|
+|5|Jupiter|Servant|11:06:59|12:08:24|Gaining status, position, and attracting happiness in the workplace|
 |6|Mars|Servant|12:08:25|13:09:51|Attracting attention and acceptance from important people|
-|7|Sun|Servant|13:09:52|14:11:17|Advancing and attracting wealth|
-|8|Venus|Ruler|14:11:18|15:12:44|Extremely lucky and achieving ultimate happiness|
-|9|Mercury|Servant|15:12:45|16:14:11|Separating and making someone homeless|
-|10|Moon|Servant|16:14:12|17:15:37|Extremely hateful and causing harm|
-|11|Saturn|Servant|17:15:38|18:17:04|Creating a negative destiny for anyone|
-|12|Jupiter|Servant|18:17:05|19:18:31|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|7|Sun|Servant|13:09:52|14:11:18|Advancing and attracting wealth|
+|8|Venus|Ruler|14:11:19|15:12:45|Extremely lucky and achieving ultimate happiness|
+|9|Mercury|Servant|15:12:46|16:14:11|Separating and making someone homeless|
+|10|Moon|Servant|16:14:12|17:15:38|Extremely hateful and causing harm|
+|11|Saturn|Servant|17:15:39|18:17:05|Creating a negative destiny for anyone|
+|12|Jupiter|Servant|18:17:06|19:18:32|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|19:18:32|20:17:02|Attracting love and creating emotional attachment|
-|2|Sun|Servant|20:17:03|21:15:34|Attracting good luck|
-|3|Venus|Servant|21:15:35|22:14:05|Attracting negativity, and avoiding any harmful action|
-|4|Mercury|Servant|22:14:06|23:12:37|Being hateful for a certain period of time|
-|5|Moon|Servant|23:12:38|00:11:08|Gaining status, position, and attracting happiness in the workplace|
-|6|Saturn|Servant|00:11:09|01:09:40|Attracting attention and acceptance from important people|
-|7|Jupiter|Servant|01:09:41|02:08:12|Advancing and attracting wealth|
-|8|Mars|Ruler|02:08:13|03:06:43|Extremely lucky and achieving ultimate happiness|
-|9|Sun|Servant|03:06:44|04:05:15|Separating and making someone homeless|
-|10|Venus|Servant|04:05:16|05:03:46|Extremely hateful and causing harm|
-|11|Mercury|Servant|05:03:47|06:02:18|Creating a negative destiny for anyone|
+|1|Mars|Ruler|19:18:33|20:17:03|Attracting love and creating emotional attachment|
+|2|Sun|Servant|20:17:04|21:15:35|Attracting good luck|
+|3|Venus|Servant|21:15:36|22:14:06|Attracting negativity, and avoiding any harmful action|
+|4|Mercury|Servant|22:14:07|23:12:38|Being hateful for a certain period of time|
+|5|Moon|Servant|23:12:39|00:11:09|Gaining status, position, and attracting happiness in the workplace|
+|6|Saturn|Servant|00:11:10|01:09:41|Attracting attention and acceptance from important people|
+|7|Jupiter|Servant|01:09:42|02:08:12|Advancing and attracting wealth|
+|8|Mars|Ruler|02:08:13|03:06:44|Extremely lucky and achieving ultimate happiness|
+|9|Sun|Servant|03:06:45|04:05:15|Separating and making someone homeless|
+|10|Venus|Servant|04:05:16|05:03:47|Extremely hateful and causing harm|
+|11|Mercury|Servant|05:03:48|06:02:18|Creating a negative destiny for anyone|
 |12|Moon|Servant|06:02:19|07:00:50|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:17:20|Night duration: 11:42:19|
+|Duration of the day: 12:17:21|Night duration: 11:42:18|
 |Every hour duration: 01:45:20|Every hour duration: 01:40:20|
 
  
@@ -264,15 +264,15 @@ Timetable of septet day and night planetary hours
 |Noon|Saturn|Servant|12:17:12|14:02:31|
 |Early afternoon|Jupiter|Servant|14:02:32|15:47:51|
 |Mid-afternoon|Mars|Servant|15:47:52|17:33:11|
-|Late afternoon|Sun|Servant|17:33:12|19:18:31|
+|Late afternoon|Sun|Servant|17:33:12|19:18:32|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|19:18:32|20:58:50|
-|Late evening|Sun|Servant|20:58:51|22:39:10|
-|Midnight|Venus|Servant|22:39:11|00:19:30|
-|Late at night|Mercury|Servant|00:19:31|01:59:50|
+|Evening|Mars|Ruler|19:18:33|20:58:51|
+|Late evening|Sun|Servant|20:58:52|22:39:11|
+|Midnight|Venus|Servant|22:39:12|00:19:31|
+|Late at night|Mercury|Servant|00:19:32|01:59:50|
 |Rooster song|Moon|Servant|01:59:51|03:40:10|
 |False Dawn|Saturn|Servant|03:40:11|05:20:30|
 |Dawn|Jupiter|Servant|05:20:31|07:00:50|
@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°36'54.07" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°55'56.86" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°32'53.84" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°36'16.28" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°17'26.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'0.92" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°27'32.06" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|0°36'15.54" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°17'26.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'59.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°22'26.18" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'54.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°55'57.00" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°32'54.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°36'16.28" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°17'26.97" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'0.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°27'32.06" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°55'56.86" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°32'53.84" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°36'15.54" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°17'26.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'59.72" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°22'26.18" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bharu,  KBR,  Khota Baharu,  Khota Bahru,  Ko-ta-hap-lu-su,  Kota Baharu,  Kota Bahru,  Kota Baru,  Kota Bharu,  Kota-Baru,  Kô-tá-ha̍p-lû-sṳ,  ge da ba lu,  kotabalu,  kotabaru,  kwta bharw,  Кота Бару,  Кота-Бару,  كوتا بهارو,  โกตาบารู,  コタバル,  哥打巴鲁,  코타바루
+Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루
 
 ---

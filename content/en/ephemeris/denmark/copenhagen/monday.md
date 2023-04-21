@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°52'45.74" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°41'57.88" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°16'3.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°43'19.44" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°56'32.44" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'19.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°31'32.03" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°43'18.61" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°56'29.83" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'17.24" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°13'31.26" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°52'45.74" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°41'57.88" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°16'3.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°43'19.44" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°56'32.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'19.47" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°31'32.03" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°43'18.61" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°56'29.83" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'17.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°13'31.26" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CPH,  Cobanhavan,  Copenaga,  Copenaghen,  Copenaguen,  Copenhaga,  Copenhagen,  Copenhague,  Copenhaguen,  Copenhaguen - Kobenhavn,  Copenhaguen - København,  Cóbanhávan,  Hafnia,  Kapehngagen,  Kaupmannahoefn,  Kaupmannahöfn,  Keypmannahavn,  Kjobenhavn,  Kjopenhamn,  Kjøpenhamn,  Kobenhamman,  Kobenhaven,  Kobenhavn,  Kodan,  Kodaň,  Koebenhavn,  Koeoepenhamina,  Koepenhamn,  Kopenage,  Kopenchage,  Kopengagen,  Kopenhaagen,  Kopenhag,  Kopenhaga,  Kopenhage,  Kopenhagen,  Kopenhagena,  Kopenhago,  Kopenhāgena,  Kopenkhagen,  Koppenhaga,  Koppenhága,  Kòpenhaga,  Köbenhavn,  Köpenhamn,  Kööpenhamina,  København,  Københámman,  ge ben ha gen,  khopenheken,  kopanahagana,  kopenahagena,  kopenahegena,  kopenhagen,  kwbnhaghn,  kwpnhgn,  qwpnhgn,  Κοπεγχάγη,  Капэнгаген,  Копенгаген,  Копенхаген,  Կոպենհագեն,  קופנהאגן,  קופנהגן,  كوبنهاغن,  كوپېنھاگېن,  ܟܘܦܢܗܓܢ,  कोपनहागन,  কোপেনহাগেন,  কোপেনহেগেন,  โคเปนเฮเกน,  ཀའོ་པེན་ཧ་ཀེན,  კოპენჰაგენი,  ኮፐንሀገን,  ኮፕንሀግ,  コペンハーゲン,  哥本哈根,  코펜하겐
+Alternate Names: CPH, Cobanhavan, Copenaga, Copenaghen, Copenaguen, Copenhaga, Copenhagen, Copenhague, Copenhaguen, Copenhaguen - Kobenhavn, Copenhaguen - København, Cóbanhávan, Hafnia, Kapehngagen, Kaupmannahoefn, Kaupmannahöfn, Keypmannahavn, Kjobenhavn, Kjopenhamn, Kjøpenhamn, Kobenhamman, Kobenhaven, Kobenhavn, Kodan, Kodaň, Koebenhavn, Koeoepenhamina, Koepenhamn, Kopenage, Kopenchage, Kopengagen, Kopenhaagen, Kopenhag, Kopenhaga, Kopenhage, Kopenhagen, Kopenhagena, Kopenhago, Kopenhāgena, Kopenkhagen, Koppenhaga, Koppenhága, Kòpenhaga, Köbenhavn, Köpenhamn, Kööpenhamina, København, Københámman, ge ben ha gen, khopenheken, kopanahagana, kopenahagena, kopenahegena, kopenhagen, kwbnhaghn, kwpnhgn, qwpnhgn, Κοπεγχάγη, Капэнгаген, Копенгаген, Копенхаген, Կոպենհագեն, קופנהאגן, קופנהגן, كوبنهاغن, كوپېنھاگېن, ܟܘܦܢܗܓܢ, कोपनहागन, কোপেনহাগেন, কোপেনহেগেন, โคเปนเฮเกน, ཀའོ་པེན་ཧ་ཀེན, კოპენჰაგენი, ኮፐንሀገን, ኮፕንሀግ, コペンハーゲン, 哥本哈根, 코펜하겐
 
 ---

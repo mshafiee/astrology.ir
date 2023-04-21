@@ -20,7 +20,7 @@ Latitude: 8.4871
 \-
 Longitude: -13.2356
 \-
-Altitude: 38 meters
+Altitude: 21 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Freetown, Sierra Leone" lat="8.4871" lng="-13.2356" zoom="12">}}
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°43'31.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°14'56.37" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°15'16.43" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°53'24.29" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°47'52.46" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'46.95" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°45'51.21" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°43'32.05" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°14'57.71" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°15'21.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°53'31.86" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°48'2.49" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'0.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°49'24.77" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°43'31.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°14'56.37" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°15'16.43" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°53'24.29" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°47'52.46" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'46.95" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°49'24.78" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°43'32.05" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°14'57.71" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°15'21.92" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°53'31.86" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°48'2.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'0.72" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°49'24.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: FNA,  Freetown,  Frijtaun,  Fritaun,  Fritauna,  Fritaunas,  Fritauno,  Fritaŭno,  Fritonn,  Frytaun,  Frītauna,  Phritaoun,  Saint George,  Urbs Libera,  farita'una,  fri thawn,  frita'una,  frytawn,  frytwn,  fu li dun,  furitaun,  peulitaun,  phrita'una,  phritaun,  piritavun,  zi you shi,  Φρίταουν,  Фрийтаун,  Фритаун,  Фрытаўн,  Фрітаун,  Ֆրիթաուն,  פריטאון,  فريتاون,  فريتون,  فری ٹاؤن,  فریتاون,  فری
+Alternate Names: FNA, Freetown, Frijtaun, Fritaun, Fritauna, Fritaunas, Fritauno, Fritaŭno, Fritonn, Frytaun, Frītauna, Phritaoun, Saint George, Urbs Libera, farita'una, fri thawn, frita'una, frytawn, frytwn, fu li dun, furitaun, peulitaun, phrita'una, phritaun, piritavun, zi you shi, Φρίταουν, Фрийтаун, Фритаун, Фрытаўн, Фрітаун, Ֆրիթաուն, פריטאון, فريتاون, فريتون, فری ٹاؤن, فریتاون, فری‌تاون, फ़्रीटाउन, फ्रीटाउन, ਫ਼ਰੀਟਾਊਨ, பிரீடவுன், ಫ್ರೀಟೌನ್, ฟรีทาวน์, ཕིརི་ཊའུན།, ფრიტაუნი, ፍሪታውን, フリータウン, 弗里敦, 自由市, 프리타운
 
 ---

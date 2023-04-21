@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'24.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'51.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°17'7.41" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°7'15.98" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°43'34.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'53.52" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°25'27.64" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'51.79" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°17'7.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°7'28.76" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°43'38.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'8.39" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°48'13.60" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Callao,  El Callao,  Kajao,  Kal'jaa,  Kal'jao,  Kalao,  Kaljao,  Kallao,  Kallaw,  Kalyao,  Regio de Callao,  Regió de Callao,  ka ya e,  kayao,  kayaw,  kayayw,  klaw,  Кальяа,  Кальяо,  Каляо,  Каяо,  Каљао,  Կալյաո,  كاياو,  کایائو,  کایاو,  کلاؤ,  კალიაო,  カヤオ,  卡亞俄,  카야오
+Alternate Names: Callao, El Callao, Kajao, Kal'jaa, Kal'jao, Kalao, Kaljao, Kallao, Kallaw, Kalyao, Regio de Callao, Regió de Callao, ka ya e, kayao, kayaw, kayayw, klaw, Кальяа, Кальяо, Каляо, Каяо, Каљао, Կալյաո, كاياو, کایائو, کایاو, کلاؤ, კალიაო, カヤオ, 卡亞俄, 카야오
 
 ---

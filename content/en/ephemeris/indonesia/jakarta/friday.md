@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'52.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'52.08" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°32'40.57" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°35'53.75" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°16'59.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'54.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°2'13.83" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°55'50.68" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°32'39.03" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°35'48.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°16'54.85" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'47.03" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°27'26.96" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Batavia,  Big Durian,  Cakarta,  D'akarta,  Daerah Khusus Ibukota Jakarta,  Djakarta,  Djogkarta,  Dki Jakarta,  Dzakarta,  Dzhakarta,  Dzhakartae,  Dżakarta,  Džakarta,  Gakarto,  Giacarta,  Iacarta,  Iacárta,  JKT,  Jacarta,  Jakarta,  Jayakarta,  Jogkarta,  Nga-ka-that Su-tu Thit-khi,  Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî,  Sakata,  Sunda Kelapa,  Tzakarta,  Xacarta,  Xhakarta,  Yajgyadaz,  Yakarta,  Zhakarta,  cakarta,  g'qrth,  jakaleuta,  jakarata,  jakarta,  jakartta,  jakaruta,  jkarta,  ya jia da,  ye jia da,  Ĝakarto,  Τζακάρτα,  Џакарта,  Джакартæ,  Джакарта,  Дьакарта,  Жакарта,  Ջակարտա,  ג'קרטה,  דזשאקארטא,  جاكارتا,  جاکارتا,  جکارتا,  جکارتہ,  जकार्ता,  জাকার্তা,  ਜਕਾਰਤਾ,  જાકાર્તા,  ଜାକର୍ତା,  ஜகார்த்தா,  జకార్తా,  ಜಕಾರ್ತ,  ജക്കാർത്ത,  จาการ์ตา,  ཊ་ཁར་ཏ།,  ဂျကာတာမြို့,  ჯაკარტა,  ጃካርታ,  ចាការតា,  ジャカルタ,  耶加達,  雅加达,  雅加達,  자카르타
+Alternate Names: Batavia, Big Durian, Cakarta, D'akarta, Daerah Khusus Ibukota Jakarta, Djakarta, Djogkarta, Dki Jakarta, Dzakarta, Dzhakarta, Dzhakartae, Dżakarta, Džakarta, Gakarto, Giacarta, Iacarta, Iacárta, JKT, Jacarta, Jakarta, Jayakarta, Jogkarta, Nga-ka-that Su-tu Thit-khi, Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî, Sunda Kelapa, Tzakarta, Xacarta, Xhakarta, Yajgyadaz, Yakarta, Zhakarta, cakarta, g'qrth, jakaleuta, jakarata, jakarta, jakartta, jakaruta, jkarta, ya jia da, Ĝakarto, Τζακάρτα, Џакарта, Джакартæ, Джакарта, Дьакарта, Жакарта, Ջակարտա, ג'קרטה, דזשאקארטא, جاكارتا, جاکارتا, جکارتا, جکارتہ, जकार्ता, জাকার্তা, ਜਕਾਰਤਾ, જાકાર્તા, ଜାକର୍ତା, ஜகார்த்தா, జకార్తా, ಜಕಾರ್ತ, ജക്കാർത്ത, จาการ์ตา, ཊ་ཁར་ཏ།, ဂျကာတာမြို့, ჯაკარტა, ጃካርታ, ចាការតា, ジャカルタ, 雅加达, 자카르타
 
 ---

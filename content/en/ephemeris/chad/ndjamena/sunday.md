@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'5.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°28'11.67" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°45'2.64" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°47'19.68" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°51'1.06" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'47.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°36'7.46" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°28'11.78" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°45'2.90" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°47'20.30" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°51'1.68" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'48.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°40'10.63" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'5.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°28'11.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°45'2.64" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°47'19.68" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°51'1.06" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'47.50" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°36'7.46" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°28'11.78" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°45'2.90" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°47'20.30" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°51'1.68" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'48.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°40'10.63" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Fort-Lamy,  Indschamina,  Ingamina,  Injamina,  Injamīnā,  Inǧamīnā,  Lamy,  N'Djamena,  NDJ,  Ndjamena,  Ndjemena,  Ndzamena,  Ndzhamena,  Ndżamena,  Ndžamena,  Ngameno,  Nigamina,  Niǧāmīnā,  Nĝameno,  N’Djamena,  N’Dj·amèna,  Tzamena,  Yamena,  anjamna,  anjamyna,  anjmyna,  en jia mei na,  eunjamena,  fwr lamy,  ng'mnh,  ngmynʾ,  njamena,  njamyna,  njamێna,  njmyna,  Τζαμένα,  Нджамена,  נג'מנה,  أنجمينا,  إنجامينا,  انجامنا,  انجمينا,  فور لامي,  نجامينا,  نجامینا,  نجامێنا,  نجمینا,  ܢܓܡܝܢܐ,  ንጃሜና,  ンジャメナ,  恩賈梅納,  은자메나
+Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나
 
 ---

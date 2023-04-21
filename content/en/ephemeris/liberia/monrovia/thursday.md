@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'24.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°46'1.87" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°10'47.52" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°55'56.52" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°30'4.58" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'46.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°19'19.20" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°46'3.07" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°10'52.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°56'3.12" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°30'13.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'58.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°2'42.13" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°33'24.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°46'1.87" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°10'47.52" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°55'56.52" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°30'4.58" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'46.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°19'19.20" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°33'24.33" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°46'3.07" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°10'52.57" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°56'3.12" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°30'13.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'58.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°2'42.13" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: MLW,  Manrovija,  Monrobia,  Monrofia,  Monrovi,  Monrovia,  Monrovii,  Monrovija,  Monrovio,  Monroviya,  Monrowia,  Monròvia,  Monróvia,  Monróvía,  manarobhiya,  manroweiy,  manrwwya,  meng luo wei ya,  monarovi'a,  monlobia,  monrobia,  monrovhiya,  monrovia,  monroviya,  mwnrwbyh,  mwnrwfya,  mwnrwwya,  Μονρόβια,  Манровія,  Монрови,  Монровия,  Монровија,  Монровія,  Մոնրովիա,  מאנראוויע,  מונרוביה,  مانروویا,  مونروفيا,  مونروویا,  مۆنرۆڤیا,  मोन्रोव्हिया,  মনরোভিয়া,  ਮੋਨਰੋਵੀਆ,  மொன்றோவியா,  มันโรเวีย,  མོང་རོ་ཝི་ཡ།,  მონროვია,  ሞንሮቪያ,  モンロビア,  蒙罗维亚,  蒙羅維亞,  몬로비아
+Alternate Names: MLW, Manrovija, Monrobia, Monrofia, Monrovi, Monrovia, Monrovii, Monrovija, Monrovio, Monroviya, Monrowia, Monròvia, Monróvia, Monróvía, manarobhiya, manroweiy, manrwwya, meng luo wei ya, monarovi'a, monlobia, monrobia, monrovhiya, monrovia, monroviya, mwnrwbyh, mwnrwfya, mwnrwwya, Μονρόβια, Манровія, Монрови, Монровия, Монровија, Монровія, Մոնրովիա, מאנראוויע, מונרוביה, مانروویا, مونروفيا, مونروویا, مۆنرۆڤیا, मोन्रोव्हिया, মনরোভিয়া, ਮੋਨਰੋਵੀਆ, மொன்றோவியா, มันโรเวีย, མོང་རོ་ཝི་ཡ།, მონროვია, ሞንሮቪያ, モンロビア, 蒙罗维亚, 蒙羅維亞, 몬로비아
 
 ---

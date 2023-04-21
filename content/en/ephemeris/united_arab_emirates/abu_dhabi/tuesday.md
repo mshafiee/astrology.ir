@@ -20,7 +20,7 @@ Latitude: 24.4512
 \-
 Longitude: 54.3970
 \-
-Altitude: 6 meters
+Altitude: 13 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Abu Dhabi, United Arab Emirates" lat="24.4512" lng="54.3970" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'12.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'13.51" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°46'4.39" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°37'16.30" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°59'33.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°59'1.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°13'31.60" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°55'14.19" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°45'58.30" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°37'14.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°59'25.06" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'55.68" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°14'48.05" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'12.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'13.51" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'4.39" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°37'16.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°59'33.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'1.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°13'31.60" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'14.19" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'1.07" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°37'20.50" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°59'31.63" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°59'6.81" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°51'27.63" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: A-pu-that-pi,  AEbu Saby,  AUH,  Aboe Dhabi,  Abou Dabi,  Abu Dabi,  Abu Dabis,  Abu Daby,  Abu Daibi,  Abu Dhabi,  Abu Dhabi Island and Internal Islands City,  Abu Dhabi emiraat,  Abu Zabi,  Abu Zaby,  Abu Zabye,  Abu Zabyo,  Abu Ḍabi,  Abu Ḑabi,  Abu-Dabi,  Abu-Dabi khot,  Abu-Dabio,  Abu-Dzabi,  Abú Dabí,  Abú Daibí,  Abú Zabí,  Abû Daby,  Abū Dabī,  Abū Z̧aby,  Abū Z̧abye,  Abū Z̧abyo,  Abū Z̧abī,  Ampou Ntampi,  Ebu Dabi,  Ebu Dhabi,  a bu zha bi,  abu dhabi,  abu-dabi,  abudabi,  abudhabi,  abw zby,  abwzby,  aputapi,  jzyrt abwzby wjzr dakhlyt akhry,  xa bud abi,  Â-pu-tha̍t-pí,  Äbu Saby,  Əbu-Dabi,  Άμπου Ντάμπι,  Αμπου Νταμπι,  Αμπού Ντάμπι,  Абу Даби,  Абу-Даби,  Абу-Даби хот,  Абу-Дабі,  Әбу-Даби,  Աբու Դաբի,  אבו דאבי,  أبوظبي,  ئەبووزەبی,  ابو ظبى,  ابوظبی,  ابوظہبی,  جزيرة أبوظبي وجزر داخلية اخرى,  अबु धाबी,  अबू धाबी,  আবুধাবি,  ਅਬੂ ਧਾਬੀ,  ଆବୁଧାବି,  அபுதாபி,  ಅಬು ಧಾಬಿ,  അബുദാബി,  අබුඩාබි,  อาบูดาบี,  ཨ་པོའུ་དྷ་པེ།,  အဘူဒါဘီမြို့,  აბუ-დაბი,  አቡ ዳቢ,  アブダビ,  阿布扎比,  아부다비
+Alternate Names: A-pu-that-pi, AEbu Saby, AUH, Aboe Dhabi, Abou Dabi, Abu Dabi, Abu Dabis, Abu Daby, Abu Daibi, Abu Dhabi, Abu Dhabi Island and Internal Islands City, Abu Dhabi emiraat, Abu Zabi, Abu Zaby, Abu Zabye, Abu Zabyo, Abu Ḍabi, Abu Ḑabi, Abu-Dabi, Abu-Dabi khot, Abu-Dabio, Abu-Dzabi, Abú Dabí, Abú Daibí, Abú Zabí, Abû Daby, Abū Dabī, Abū Z̧aby, Abū Z̧abye, Abū Z̧abyo, Abū Z̧abī, Ampou Ntampi, Ebu Dabi, Ebu Dhabi, a bu zha bi, abu dhabi, abu-dabi, abudabi, abudhabi, abw zby, abwzby, aputapi, jzyrt abwzby wjzr dakhlyt akhry, xa bud abi, Â-pu-tha̍t-pí, Äbu Saby, Əbu-Dabi, Άμπου Ντάμπι, Αμπου Νταμπι, Αμπού Ντάμπι, Абу Даби, Абу-Даби, Абу-Даби хот, Абу-Дабі, Әбу-Даби, Աբու Դաբի, אבו דאבי, أبوظبي, ئەبووزەبی, ابو ظبى, ابوظبی, ابوظہبی, جزيرة أبوظبي وجزر داخلية اخرى, अबु धाबी, अबू धाबी, আবুধাবি, ਅਬੂ ਧਾਬੀ, ଆବୁଧାବି, அபுதாபி, ಅಬು ಧಾಬಿ, അബുദാബി, අබුඩාබි, อาบูดาบี, ཨ་པོའུ་དྷ་པེ།, အဘူဒါဘီမြို့, აბუ-დაბი, አቡ ዳቢ, アブダビ, 阿布扎比, 아부다비
 
 ---

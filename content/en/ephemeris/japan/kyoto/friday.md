@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'19.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°54'16.74" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°29'15.20" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°29'34.62" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°9'36.99" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°54'18.39" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°29'15.15" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°29'34.64" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°9'36.96" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'37.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°31'25.83" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|9°31'30.10" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'19.37" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°54'18.39" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°29'15.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°29'25.16" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°9'27.91" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'22.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°26'45.92" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°29'15.15" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°29'34.64" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°9'36.96" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'37.21" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°31'30.10" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Kejuots,  Kiaⁿ-to͘-chhī,  Kijota,  Kiotas,  Kioto,  Kiotó,  Kjoto,  Kjóto,  Kyoto,  Kyoto-shi,  Kyotu,  Kyotum,  Kyōto,  Kyōto-shi,  Kėjuots,  Lungsod ng Kyoto,  Quioto,  UKY,  gyoto si,  jing dou,  jing dou shi,  kheiyw toa,  ki'oto,  kiyoto,  kiyotto,  kyeattea,  kyoto,  kyouto,  kyoutoshi,  kywtw,  qywtw,  Κιότο,  Киото,  Кёто,  Кіото,  Кіёта,  Кјото,  Կիոտո,  קיאטא,  קיוטו,  كيوتو,  کیوتو,  کیوٹو,  ܩܝܘܛܘ,  क्योटो,  क्योतो,  কিয়োটো,  ਕਿਓਤੋ,  கியோத்தோ,  ക്യോത്തോ,  ක්යෝතෝ,  เคียวโตะ,  ཁེཡོ་ཐྲོ།,  ကျိုတိုမြို့,  კიოტო,  きょうとし,  キョウト,  京都,  京都市,  교토 시
+Alternate Names: Kejuots, Kiaⁿ-to͘-chhī, Kijota, Kiotas, Kioto, Kiotó, Kjoto, Kjóto, Kyoto, Kyoto-shi, Kyotu, Kyotum, Kyōto, Kyōto-shi, Kėjuots, Lungsod ng Kyoto, Quioto, UKY, gyoto si, jing dou, jing dou shi, kheiyw toa, ki'oto, kiyoto, kiyotto, kyeattea, kyoto, kyoutoshi, kywtw, qywtw, Κιότο, Киото, Кёто, Кіото, Кіёта, Кјото, Կիոտո, קיאטא, קיוטו, كيوتو, کیوتو, کیوٹو, ܩܝܘܛܘ, क्योटो, क्योतो, কিয়োটো, ਕਿਓਤੋ, கியோத்தோ, ക്യോത്തോ, ක්යෝතෝ, เคียวโตะ, ཁེཡོ་ཐྲོ།, ကျိုတိုမြို့, კიოტო, きょうとし, 京都, 京都市, 교토 시
 
 ---

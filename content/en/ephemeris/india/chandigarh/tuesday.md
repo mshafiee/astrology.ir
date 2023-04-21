@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°56'53.55" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°54'15.94" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°43'49.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°33'23.16" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°54'55.15" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'25.41" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°59'49.43" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|4°33'22.70" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°54'54.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'24.65" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°57'47.90" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Candigarchas,  Candigarh,  Chandigar,  Chandigarh,  Chandigarkh,  Chandīgarh,  Czandigarh,  IXC,  cadigarha,  candhigad,  candigadh,  candigadha,  candigara,  candigarha,  cantikar,  chandigadh,  chandigarhi,  chandigaru,  chang di jia er,  Čandigarchas,  Čandígarh,  Чандигар,  Чандигарх,  צ'אנדיגאר,  चंडीगढ़,  চন্ডিগড়,  চন্ডীগড়,  ਚੰਡੀਗੜ੍ਹ,  ચંડીગઢ,  சண்டிகர்,  చండీగఢ్,  ఛండీగఢ్,  ചണ്ഢീഗഡ്,  ჩანდიგარჰი,  チャンディーガル,  昌迪加尔
+Alternate Names: Candigarchas, Candigarh, Chandigar, Chandigarh, Chandigarkh, Chandīgarh, Czandigarh, IXC, cadigarha, candhigad, candigadh, candigadha, candigara, candigarha, cantikar, chandigadh, chandigarhi, chandigaru, chang di jia er, Čandigarchas, Čandígarh, Чандигар, Чандигарх, צ'אנדיגאר, चंडीगढ़, চন্ডিগড়, চন্ডীগড়, ਚੰਡੀਗੜ੍ਹ, ચંડીગઢ, சண்டிகர், చండీగఢ్, ఛండీగఢ్, ചണ്ഢീഗഡ്, ჩანდიგარჰი, チャンディーガル, 昌迪加尔
 
 ---

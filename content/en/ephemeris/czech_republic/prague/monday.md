@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°16'14.76" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°43'39.66" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°56'54.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'13.34" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°21'35.44" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|15°15'11.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°22'55.14" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: PRG,  Praag,  Prag,  Praga,  Pragae,  Prago,  Prague,  Praha,  Pràg,  Prág,  Prága,  Prâg,  Prāga,  bragh,  bu la ge,  peulaha,  prag,  praga,  prak,  prg,  puraha,  Πράγα,  Праг,  Прагæ,  Прага,  פראג,  براغ,  پراگ,  پراگا,  ܦܪܓ,  প্রাগ,  ปราก,  པུ་ལ་ཁེ,  პრაღა,  ፕራግ,  プラハ,  布拉格,  프라하
+Alternate Names: PRG, Praag, Prag, Praga, Pragae, Prago, Prague, Praha, Pràg, Prág, Prága, Prâg, Prāga, bragh, bu la ge, peulaha, prag, praga, prak, prg, puraha, Πράγα, Праг, Прагæ, Прага, פראג, براغ, پراگ, پراگا, ܦܪܓ, প্রাগ, ปราก, པུ་ལ་ཁེ, პრაღა, ፕራግ, プラハ, 布拉格, 프라하
 
 ---

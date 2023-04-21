@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'55.21" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°42'25.89" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°17'10.95" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°45'14.64" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°58'48.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'53.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°22'15.61" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°17'6.44" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°45'12.81" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°58'42.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'48.48" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°40'56.62" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°52'55.21" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°42'25.89" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°17'6.44" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°45'14.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°58'48.86" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'53.48" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°22'15.61" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°45'12.81" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°58'42.86" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'48.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°40'56.62" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: An Bhruiseil,  An Bhruiséil,  BRU,  Brasels,  Breissel,  Brisel,  Brisele,  Briuselis,  Brjuksel,  Brjusel',  Brjussel',  Brueksel,  Bruessel,  Bruesszel,  Bruiseal,  Bruksel,  Bruksela,  Brukseli,  Brukselo,  Brusehl',  Brusel,  Brusela,  Bruselas,  Bruseles,  Bruselj,  Bruselo,  Brusel·les,  Brussel,  Brussele,  Brussels,  Brussel·les,  Bruxel,  Bruxelas,  Bruxellae,  Bruxelles,  Brwsel,  Bryssel,  Bryusel,  Bryxelles,  Bréissel,  Brüksel,  Brüssel,  Brüsszel,  Citta di Bruxelles,  Città di Bruxelles,  City of Brussels,  Kota Brusel,  beulwisel,  bi lu xi,  braselasa,  braselsa,  brassels,  briuseli,  brwksl,  brysl,  bu lu sai er,  buryusseru,  Βρυξέλλες,  Брисел,  Брусэль,  Брюксел,  Брюсель,  Брюссель,  Բրյուսել,  בריסל,  بروكسل,  بروکسل,  بريۇسسېل,  ܒܪܘܟܣܠ,  ब्रसेल्स,  ব্রাসেলস,  บรัสเซลส์,  ბრიუსელი,  ブリュッセル,  布魯塞爾,  布鲁塞尔,  比律悉,  브뤼셀
+Alternate Names: An Bhruiseil, An Bhruiséil, BRU, Breissel, Brisel, Brisele, Briuselis, Brjuksel, Brjusel', Brjussel', Brueksel, Bruessel, Bruesszel, Bruiseal, Bruksel, Bruksela, Brukseli, Brukselo, Brusehl', Brusel, Brusela, Bruselas, Bruseles, Bruselj, Bruselo, Brusel·les, Brussel, Brussele, Brussels, Brussel·les, Bruxel, Bruxelas, Bruxellae, Bruxelles, Brwsel, Bryssel, Bryusel, Bryxelles, Bréissel, Brüksel, Brüssel, Brüsszel, Citta di Bruxelles, Città di Bruxelles, City of Brussels, Kota Brusel, beulwisel, braselasa, braselsa, brassels, briuseli, brwksl, brysl, bu lu sai er, buryusseru, Βρυξέλλες, Брисел, Брусэль, Брюксел, Брюсель, Брюссель, Բրյուսել, בריסל, بروكسل, بروکسل, بريۇسسېل, ܒܪܘܟܣܠ, ब्रसेल्स, ব্রাসেলস, บรัสเซลส์, ბრიუსელი, ブリュッセル, 布魯塞爾, 布鲁塞尔, 브뤼셀
 
 ---

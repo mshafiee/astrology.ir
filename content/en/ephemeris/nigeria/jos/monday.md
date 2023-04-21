@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'3.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°42'50.75" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°18'1.35" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°46'55.35" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°0'40.38" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'30.25" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°22'13.47" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°42'50.74" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°18'1.74" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°46'55.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°0'40.77" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'30.35" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°25'9.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'3.67" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'50.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°18'1.35" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°46'55.35" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°0'40.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'30.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°22'13.47" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°42'50.74" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°18'1.74" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°46'55.28" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°0'40.77" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'30.35" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°25'9.77" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Dzhos,  Dzos,  Dżos,  JOS,  Jos,  joseu,  josu,  jws,  jws  nayjyrya,  qiao si,  Џос,  Джос,  Йос,  جوس,  جوس، نائجیریا,  ジョス,  乔斯,  조스
+Alternate Names: Dzhos, Dzos, Dżos, JOS, Jos, joseu, josu, jws, jws  nayjyrya, qiao si, Џос, Джос, Йос, جوس, جوس، نائجیریا, ジョス, 乔斯, 조스
 
 ---

@@ -293,8 +293,8 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'50.41" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°12'57.51" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°10'53.35" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°45'22.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°10'47.58" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°45'12.56" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°38'30.36" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'38.27" |Aries|Butain|Sun|
 |☾ Moon|Direct|26°48'21.81" |Aries|Thurayya|Venus|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°42'50.41" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°12'57.51" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°10'53.35" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°45'22.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°38'30.36" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'38.27" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°48'21.81" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°45'12.56" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°38'18.63" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'20.81" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°30'13.94" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al Qahirah,  Al Qāhirah,  CAI,  Caire,  Cairo,  Cairo - alqahrt,  Cairo - القاهرة,  Cairu,  Cairus,  Caïro,  El Caire,  El Cairo,  El Kahira,  El Kahirah,  El-Qahira,  El-Qâhira,  Il Cairo,  Kaherah,  Kahira,  Kahirae,  Kahire,  Kahirä,  Kair,  Kaira,  Kairas,  Kairo,  Kairó,  Kajro,  Kayro,  Kaíró,  Kaïro,  Káhira,  Le Caire,  Lo Cayiro,  Lungsod ng Cairo,  Masr,  Misr,  Qahirə,  alqahrt,  kai luo,  kailo,  kairo,  kayaro,  keyro,  khiro,  qahrh,  qhyr,  Ël Cairo,  Ël Càiro,  Κάιρο,  Каир,  Каиро,  Кайро,  Каїр,  קהיר,  القاهرة,  قاهره,  قاھىرە,  قاہرہ,  কায়রো,  கெய்ரோ,  ไคโร,  ཁ་ཡི་རོ,  ქაირო,  ካይሮ,  カイロ,  开罗,  開羅,  카이로
+Alternate Names: Al Qahirah, Al Qāhirah, CAI, Caire, Cairo, Cairo - alqahrt, Cairo - القاهرة, Cairu, Cairus, Caïro, El Caire, El Cairo, El Kahira, El Kahirah, El-Qahira, El-Qâhira, Il Cairo, Kaherah, Kahira, Kahirae, Kahire, Kahirä, Kair, Kaira, Kairas, Kairo, Kairó, Kajro, Kayro, Kaíró, Kaïro, Káhira, Le Caire, Lo Cayiro, Lungsod ng Cairo, Masr, Misr, Qahirə, alqahrt, kai luo, kailo, kairo, kayaro, keyro, khiro, qahrh, qhyr, Ël Cairo, Ël Càiro, Κάιρο, Каир, Каиро, Кайро, Каїр, קהיר, القاهرة, قاهره, قاھىرە, قاہرہ, কায়রো, கெய்ரோ, ไคโร, ཁ་ཡི་རོ, ქაირო, ካይሮ, カイロ, 开罗, 카이로
 
 ---

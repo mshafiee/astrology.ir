@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: AZD,  Dakbayan sa Yazd,  Giaznt,  Jasd,  Jazd,  Jazdo,  Jezd,  Jezdas,  Yasd,  Yazd,  Yezd,  Yəzd,  iezdi,  ya ci de,  yajeudeu,  yazda,  yazudo,  yzd,  Γιαζντ,  Јазд,  Йезд,  Язд,  Յազդ,  יזד,  يزد,  یزد,  यज़्द,  იეზდი,  ヤズド,  亚兹德,  야즈드
+Alternate Names: AZD, Dakbayan sa Yazd, Giaznt, Jazd, Jazdo, Jezd, Jezdas, Yasd, Yazd, Yezd, Yəzd, iezdi, ya ci de, yajeudeu, yazda, yazudo, yzd, Γιαζντ, Јазд, Йезд, Язд, Յազդ, יזד, يزد, یزد, यज़्द, იეზდი, ヤズド, 亚兹德, 야즈드
 
 ---

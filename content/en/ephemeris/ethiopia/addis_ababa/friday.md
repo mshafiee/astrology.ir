@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°37'46.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'27.40" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°38'35.82" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°46'25.02" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°29'29.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'13.30" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°14'6.99" |Aries|Butain|Sun|
+|♄ Saturn|Direct|4°37'47.29" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°58'28.35" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°38'31.54" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°46'31.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°29'27.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'9.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°58'57.99" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'47.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'28.35" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°38'31.54" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°46'25.02" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°29'29.84" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'13.30" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°14'6.99" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'27.00" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°38'35.12" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°46'22.80" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°29'27.90" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'9.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°58'57.99" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ADD,  Addis Ababa,  Addis Abaeba,  Addis Abbaba,  Addis Abeba,  Addis Abäba,  Addis-Abeba,  Addis-Abebae,  Addisz-Abeba,  Adis Ababa,  Adis Abeba,  Adis-Abebo,  Adisabeba,  Adís Abeba,  Antis Ampempa,  Finfinne,  Neanthopolis,  a di si a bei ba,  addisa ababa,  adisa ababa,  adiseuababa,  adisuabeba,  adys ababa,  Ādīs Ābeba,  Αντίς Αμπέμπα,  Аддис-Абебæ,  Аддис-Абеба,  Адис Абеба,  Ադիս Աբեբա,  אדיס אבבה,  آدیس آبابا,  أديس أبابا,  ئەددىس -ئەبىبە,  अदिस अबाबा,  আদ্দিস আবাবা,  አዲስ አበባ,  アディスアベバ,  阿迪斯阿貝巴,  아디스아바바
+Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바
 
 ---

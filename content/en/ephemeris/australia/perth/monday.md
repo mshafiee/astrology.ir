@@ -20,7 +20,7 @@ Latitude: -31.9522
 \-
 Longitude: 115.8614
 \-
-Altitude: 34 meters
+Altitude: 46 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Perth, Australia" lat="-31.9522" lng="115.8614" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:29:09 |
-| Sunrise | 06:42:52 |
+| Sunrise | 06:42:53 |
 | Dhuhr | 12:14:48 |
 | Medium Coeli | 12:14:48 |
 | Sunset | 17:46:19 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:21:06 |
-| Sunrise | 06:42:52 |
+| Sunrise | 06:42:53 |
 | Dhuhr | 12:14:48 |
 | Medium Coeli | 12:14:48 |
 | Sunset | 17:46:19 |
@@ -67,11 +67,11 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:19:41 |
-| Sunrise | 06:42:52 |
+| Sunrise | 06:42:53 |
 | Dhuhr | 12:14:48 |
 | Medium Coeli | 12:14:48 |
 | Sunset | 17:46:19 |
-| Maghrib | 17:47:24 |
+| Maghrib | 17:47:26 |
 | Isha | 19:04:43 |
 | Sharia Midnight | 23:33:18 |
 | Imum Coeli | 00:14:42 |
@@ -83,11 +83,11 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:33:53 |
-| Sunrise | 06:42:52 |
+| Sunrise | 06:42:53 |
 | Dhuhr | 12:14:48 |
 | Medium Coeli | 12:14:48 |
 | Sunset | 17:46:19 |
-| Maghrib | 17:47:24 |
+| Maghrib | 17:47:26 |
 | Isha | 18:55:16 |
 | Sharia Midnight | 23:40:24 |
 | Imum Coeli | 00:14:42 |
@@ -99,11 +99,11 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:12:36 |
-| Sunrise | 06:42:52 |
+| Sunrise | 06:42:53 |
 | Dhuhr | 12:14:48 |
 | Medium Coeli | 12:14:48 |
 | Sunset | 17:46:19 |
-| Maghrib | 17:47:24 |
+| Maghrib | 17:47:26 |
 | Isha | 19:07:05 |
 | Sharia Midnight | 23:29:45 |
 | Imum Coeli | 00:14:42 |
@@ -115,11 +115,11 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:19:41 |
-| Sunrise | 06:42:52 |
+| Sunrise | 06:42:53 |
 | Dhuhr | 12:14:48 |
 | Medium Coeli | 12:14:48 |
 | Sunset | 17:46:19 |
-| Maghrib | 17:47:24 |
+| Maghrib | 17:47:26 |
 | Isha | 19:09:27 |
 | Sharia Midnight | 23:33:18 |
 | Imum Coeli | 00:14:42 |
@@ -131,12 +131,12 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:17:20 |
-| Sunrise | 06:42:52 |
+| Sunrise | 06:42:53 |
 | Dhuhr | 12:14:48 |
 | Medium Coeli | 12:14:48 |
 | Sunset | 17:46:19 |
-| Maghrib | 17:47:24 |
-| Isha | 19:17:24 |
+| Maghrib | 17:47:26 |
+| Isha | 19:17:26 |
 | Sharia Midnight | 23:32:07 |
 | Imum Coeli | 00:14:42 |
 {{< /tab >}}
@@ -204,20 +204,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:03:27|Night duration: 12:57:15|
+|Duration of the day: 11:03:26|Night duration: 12:57:15|
 |Every hour of day duration: 00:55:17|Every hour of night duration: 01:04:46|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:42:52|07:38:08|Repelling sorcery and attracting discharged energy|
-|2|Saturn|Servant|07:38:09|08:33:25|Traveling inward and outward|
-|3|Jupiter|Servant|08:33:26|09:28:42|Marriage bond is favorable|
-|4|Mars|Servant|09:28:43|10:24:00|Eliminating and destroying enemies and releasing their energy|
+|1|Moon|Ruler|06:42:53|07:38:09|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|07:38:10|08:33:26|Traveling inward and outward|
+|3|Jupiter|Servant|08:33:27|09:28:43|Marriage bond is favorable|
+|4|Mars|Servant|09:28:44|10:24:00|Eliminating and destroying enemies and releasing their energy|
 |5|Sun|Servant|10:24:01|11:19:17|Granting wishes, attracting love and wealth|
-|6|Venus|Servant|11:19:18|12:14:34|Summoning the desired person, creating love and domination|
-|7|Mercury|Servant|12:14:35|13:09:51|Mutual agreement|
-|8|Moon|Ruler|13:09:52|14:05:09|Reconciling two individuals, attracting love|
+|6|Venus|Servant|11:19:18|12:14:35|Summoning the desired person, creating love and domination|
+|7|Mercury|Servant|12:14:36|13:09:52|Mutual agreement|
+|8|Moon|Ruler|13:09:53|14:05:09|Reconciling two individuals, attracting love|
 |9|Saturn|Servant|14:05:10|15:00:26|Attracting and repelling enemies, and separating them|
 |10|Jupiter|Servant|15:00:27|15:55:43|Favorable for any good deed|
 |11|Mars|Servant|15:55:44|16:51:00|Creating enmity and negative energy|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:03:27|Night duration: 12:57:15|
+|Duration of the day: 11:03:26|Night duration: 12:57:15|
 |Every hour duration: 01:34:47|Every hour duration: 01:51:02|
 
  
@@ -258,11 +258,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:42:52|08:17:37|
-|Mid-morning|Saturn|Servant|08:17:38|09:52:24|
-|Late morning|Jupiter|Servant|09:52:25|11:27:11|
-|Noon|Mars|Servant|11:27:12|13:01:57|
-|Early afternoon|Sun|Servant|13:01:58|14:36:44|
+|Early morning|Moon|Ruler|06:42:53|08:17:38|
+|Mid-morning|Saturn|Servant|08:17:39|09:52:25|
+|Late morning|Jupiter|Servant|09:52:26|11:27:11|
+|Noon|Mars|Servant|11:27:12|13:01:58|
+|Early afternoon|Sun|Servant|13:01:59|14:36:44|
 |Mid-afternoon|Venus|Servant|14:36:45|16:11:31|
 |Late afternoon|Mercury|Servant|16:11:32|17:46:18|
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'45.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°38'58.82" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°9'18.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°31'11.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°42'17.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°18'33.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°9'32.02" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°38'58.73" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°9'19.72" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°31'11.37" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°42'19.18" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'33.63" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°14'27.31" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'45.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°38'58.82" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°9'18.34" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°31'11.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°42'17.97" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°18'33.89" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°6'9.22" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°38'58.83" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°9'18.36" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°31'12.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°42'18.02" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°18'33.88" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°6'9.88" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: PER,  Peairt,  Pert,  Perta,  Pertas,  Perth,  Perth City,  Perthia,  Perto,  Perþ,  Pet,  Pirth,  Purt,  Pērta,  byrth,  part,  partha,  pasu,  peoseu,  pert,  pheirth,  po si,  prt,  prt',  prtھ  asٹrylya,  Περθ,  Перт,  Пертһ,  Пърт,  Պերթ,  פרת',  بيرث,  پرت,  پرتھ، آسٹریلیا,  पर्थ,  பேர்த்,  ಪರ್ತ್,  പെർത്ത്,  เพิร์ท,  ပါ့သ်မြို့,  პერთი,  パース,  珀斯,  퍼스
+Alternate Names: PER, Peairt, Pert, Perta, Pertas, Perth, Perth City, Perthia, Perto, Perþ, Pirth, Purt, Pērta, byrth, part, partha, pasu, peoseu, pert, pheirth, po si, prt, prt', prtھ  asٹrylya, Περθ, Перт, Пертһ, Пърт, Պերթ, פרת', بيرث, پرت, پرتھ، آسٹریلیا, पर्थ, பேர்த், ಪರ್ತ್, പെർത്ത്, เพิร์ท, ပါ့သ်မြို့, პერთი, パース, 珀斯, 퍼스
 
 ---

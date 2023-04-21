@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'8.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°28'20.10" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°45'21.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°47'54.23" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°51'42.70" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'38.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°54'50.28" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°28'20.07" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°45'23.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°47'53.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°51'43.18" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'43.92" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°1'2.88" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°48'8.00" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°28'19.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°45'25.06" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°47'49.73" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°51'42.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'38.79" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°54'50.28" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°48'7.72" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°28'20.07" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°45'23.45" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°47'53.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°51'43.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'43.92" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°1'2.88" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BZV,  Braza,  Brazavil,  Brazavilis,  Brazavilo,  Brazzavil',  Brazzaville,  Maya-Maya,  Mprazabil,  N'Tamo,  beulajabil,  brazafyl,  brazawyl,  brzwwyl,  bu la chai wei er,  burazavuiru,  Μπραζαβίλ,  Браззавиль,  ברזוויל,  برازافيل,  برازاویل,  ብራዛቪል,  ブラザヴィル,  布拉柴维尔,  브라자빌
+Alternate Names: BZV, Braza, Brazavil, Brazavilis, Brazavilo, Brazzavil', Brazzaville, Maya-Maya, Mprazabil, N'Tamo, beulajabil, brazafyl, brazawyl, brzwwyl, bu la chai wei er, burazavu~iru, Μπραζαβίλ, Браззавиль, ברזוויל, برازافيل, برازاویل, ብራዛቪል, ブラザヴィル, 布拉柴维尔, 브라자빌
 
 ---

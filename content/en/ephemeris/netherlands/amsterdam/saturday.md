@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°43'4.17" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°13'37.40" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°12'23.36" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°48'0.14" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°41'43.41" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'17.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°5'51.41" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|1°48'3.88" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°41'38.68" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'11.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°36'24.28" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'4.17" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'36.83" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°12'27.75" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°48'0.14" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°41'43.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'17.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°5'51.41" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°13'37.40" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°12'23.36" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°48'3.88" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°41'38.68" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'11.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°36'24.28" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: AMS,  Aemstelredamme,  Aemsterdam,  Amestelledamme,  Amesterda,  Amesterdam,  Amesterdao,  Amesterdã,  Amesterdão,  Amistardam,  Amseutereudam,  Amstadem,  Amstardam,  Amstardām,  Amstedam,  Amstehrdam,  Amsteladamum,  Amstelodamum,  Amstelodhamon,  Amstelodhámon,  Amsterda,  Amsterdam,  Amsterdama,  Amsterdamas,  Amsterdame,  Amsterdami,  Amsterdamo,  Amsterdams,  Amsterdamu,  Amsterdan,  Amsterdã,  Amsterntam,  Amsterodam,  Amstyerdam,  Amstèdam,  Amstèrdame,  Amstérdam,  Amstɛrɩdam,  Amsut'erudam,  Amszterdam,  Amsŭt'erŭdam,  Amusitedan,  Amusuterudamu,  Damsko,  I-Amsterdami,  Mokum,  Mokum Aleph,  a mu si te dan,  aimstardaima,  amasataradama,  amastaradama,  amastararyama,  amseuteleudam,  amstardama,  amstartam,  amstrdam,  amusuterudamu,  anstardyam,  emstaradyama,  xamstexrdam,  yەmstەrdam,  Àmsterdam,  Ámsterdam,  Ámsterdan,  Âmesterdâm,  Āmǔsītèdān,  Άμστερνταμ,  Амстердам,  Амстэрдам,  Ամստերդամ,  אמסטערדאם,  אמסטרדם,  آمستردام,  أمستردام,  ئامستېردام,  ئەمستەردام,  امستردام,  امسټرډام,  ایمسٹرڈیم,  ܐܡܣܛܪܕܐܡ,  अ
+Alternate Names: AMS, Aemstelredamme, Aemsterdam, Amestelledamme, Amesterda, Amesterdam, Amesterdao, Amesterdã, Amesterdão, Amistardam, Amseutereudam, Amstardam, Amstardām, Amstedam, Amstehrdam, Amsteladamum, Amstelodamum, Amstelodhamon, Amstelodhámon, Amsterda, Amsterdam, Amsterdama, Amsterdamas, Amsterdame, Amsterdami, Amsterdamo, Amsterdams, Amsterdamu, Amsterdan, Amsterdã, Amsterntam, Amsterodam, Amstyerdam, Amstèdam, Amstèrdame, Amstérdam, Amstɛrɩdam, Amsut'erudam, Amszterdam, Amsŭt'erŭdam, Amusitedan, Amusuterudamu, Damsko, I-Amsterdami, Mokum, Mokum Aleph, a mu si te dan, aimstardaima, amasataradama, amastaradama, amastararyama, amseuteleudam, amstardama, amstartam, amstrdam, amusuterudamu, anstardyam, emstaradyama, xamstexrdam, yەmstەrdam, Àmsterdam, Ámsterdam, Ámsterdan, Âmesterdâm, Āmǔsītèdān, Άμστερνταμ, Амстердам, Амстэрдам, Ամստերդամ, אמסטערדאם, אמסטרדם, آمستردام, أمستردام, ئامستېردام, ئەمستەردام, امستردام, امسټرډام, ایمسٹرڈیم, ܐܡܣܛܪܕܐܡ, अ‍ॅम्स्टरडॅम, आम्स्टर्डम, एम्स्तरद्याम, ऐम्स्टर्डैम, আমস্টারডাম, ਅਮਸਤਰਦਮ, ଆମଷ୍ଟରଡ଼୍ୟାମ, ஆம்ஸ்டர்டம், ಆಂಸ್ಟರ್ಡ್ಯಾಮ್, ആംസ്റ്റർഡാം, ඈම්ස්ටර්ඩෑම්, อัมสเตอร์ดัม, ཨེམ་སི་ཊར་ཌམ།, အမ်စတာဒမ်မြို့, ამსტერდამი, አምስተርዳም, アムステルダム, 阿姆斯特丹, 암스테르담
 
 ---

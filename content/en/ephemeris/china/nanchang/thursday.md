@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'31.49" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°40'45.70" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°59'7.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°34'31.65" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°4'57.63" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'7.00" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°35'4.42" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|12°59'8.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°34'33.25" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°4'58.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'9.23" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°45'42.93" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: KHN,  Lam-chhiong-chhi,  Lâm-chhiong-chhī,  Nam Xuong,  Nam Xương,  Nam-chhong-su,  Nan'chan,  Nan-cchang,  Nan-ch'ang-hsien,  Nan-ch'ang-shih,  Nan-ch’ang-hsien,  Nan-ch’ang-shih,  Nan-čchang,  Nancana,  Nancangas,  Nancano,  Nanchan,  Nanchang,  Nanchang-fu,  Nancianga,  Nancsang,  Nang-chiong,  Nanzcangh,  Nanĉano,  Nančangas,  Naņčana,  Nàm-chhông-sṳ,  Nàng-chiŏng,  nan chang,  nan chang shi,  nanacanga,  nanacham,  nanachanna,  nanchang,  nanchang si,  nantshangh,  nʼnzʼng,  Нанчан,  Нанчанг,  Наньчан,  נאנצאנג,  نانتشانغ,  نانچانگ,  نەنچاڭ شەھىرى,  नानचांग,  নানছাং,  ਨਾਨਛਾਂਙ,  နန်ချောင့်မြို့,  南昌,  南昌市,  난창 시
+Alternate Names: KHN, Lam-chhiong-chhi, Lâm-chhiong-chhī, Nam Xuong, Nam Xương, Nam-chhong-su, Nan'chan, Nan-cchang, Nan-ch'ang-hsien, Nan-ch'ang-shih, Nan-ch’ang-hsien, Nan-ch’ang-shih, Nan-čchang, Nancana, Nancangas, Nancano, Nanchan, Nanchang, Nanchang-fu, Nancianga, Nancsang, Nang-chiong, Nanzcangh, Nanĉano, Nančangas, Naņčana, Nàm-chhông-sṳ, Nàng-chiŏng, nan chang, nan chang shi, nanacanga, nanacham, nanachanna, nanchang, nanchang si, nantshangh, nʼnzʼng, Нанчан, Нанчанг, Наньчан, נאנצאנג, نانتشانغ, نانچانگ, نەنچاڭ شەھىرى, नानचांग, নানছাং, ਨਾਨਛਾਂਙ, နန်ချောင့်မြို့, 南昌, 南昌市, 난창 시
 
 ---

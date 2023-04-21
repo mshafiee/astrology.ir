@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'51.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°27'31.26" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°43'33.31" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°44'32.57" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°47'54.37" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'7.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°55'39.00" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|14°43'37.68" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°44'29.81" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°47'52.35" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'2.94" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°40'33.80" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°47'51.20" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°27'31.26" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°43'33.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°44'32.57" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°47'54.37" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'7.18" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°55'39.00" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|2°44'33.56" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°47'49.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'5.92" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°40'33.80" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Asloa,  Christiania,  Kristiania,  OSL,  Ohoro,  Osla,  Oslas,  Oslo,  Oslo osh,  Oslu,  Osló,  ajalo,  ao si lu,  asalo,  aslw,  awslw,  osalo,  oseullo,  oslea,  oslo,  osuro,  xxslo,  ywslw,  Òslo,  Ósló,  Ōhoro,  Όσλο,  Осла,  Осло,  Осло ош,  Օսլո,  אוסלו,  أوسلو,  ئوسلو,  ئۆسلۆ,  اسلو,  اوسلو,  ܐܘܣܠܘ,  ओस्लो,  অজলো,  ওসলো,  ਓਸਲੋ,  ଅସଲୋ,  ஒஸ்லோ,  ഓസ്ലൊ,  ออสโล,  ཨོ་སི་ལོ།,  အော့စလိုမြို့,  ოსლო,  ኦስሎ,  オスロ,  奥斯陆,  奧斯陸,  오슬로
+Alternate Names: Asloa, Christiania, Kristiania, OSL, Ohoro, Osla, Oslas, Oslo, Oslo osh, Oslu, Osló, ajalo, ao si lu, asalo, aslw, awslw, osalo, oseullo, oslea, oslo, osuro, xxslo, ywslw, Òslo, Ósló, Ōhoro, Όσλο, Осла, Осло, Осло ош, Օսլո, אוסלו, أوسلو, ئوسلو, ئۆسلۆ, اسلو, اوسلو, ܐܘܣܠܘ, ओस्लो, অজলো, ওসলো, ਓਸਲੋ, ଅସଲୋ, ஒஸ்லோ, ഓസ്ലൊ, ออสโล, ཨོ་སི་ལོ།, အော့စလိုမြို့, ოსლო, ኦስሎ, オスロ, 奥斯陆, 오슬로
 
 ---

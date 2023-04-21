@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'48.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'21.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°7'7.89" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°49'9.20" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°22'9.21" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'4.88" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°57'57.18" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°44'21.47" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°7'4.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°49'9.36" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°22'5.73" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'2.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°0'3.35" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'48.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'21.10" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°7'12.82" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°49'6.17" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°22'12.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'4.03" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°35'5.05" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°44'21.47" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°7'4.48" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°49'9.36" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°22'5.73" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'2.88" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°0'3.35" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BEG,  Belehrad,  Belgrad,  Belgrada,  Belgradas,  Belgrade,  Belgrado,  Belgradu,  Belgrau,  Belgrað,  Belgrád,  Belgráu,  Beligradi,  Belogradum,  Belohrod,  Beograd,  Beogradi,  Beogrado,  Bèlgrade,  Bělehrad,  Běłohród,  Nandorfehervar,  Nándorfehérvár,  Singidunum,  be-ogeuladeu,  bei er ge lai de,  belgradi,  beogurado,  blghrad,  blgrd,  pelkiret,  Βελιγράδι,  Белград,  Београд,  Бѣлъ Градъ · Срьбїи,  Բելգրադ,  בלגרד,  بلغراد,  بېلگراد,  பெல்கிறேட்,  ბელგრადი,  በልግራድ,  ベオグラード,  贝尔格莱德,  베오그라드
+Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드
 
 ---

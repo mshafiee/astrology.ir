@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'42.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'8.12" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°36'2.35" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°30'45.12" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°31'47.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'9.85" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°9'27.46" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'10.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°36'1.17" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°30'59.90" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°31'54.22" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'30.18" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°8'23.66" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Djumpandang,  Kota Makassar,  Macassar,  Makasar,  Makasaras,  Makassar,  Makasser,  UPG,  Udjung Pandang,  Ujungpandang,  makasaleu,  makasar,  makassaru,  Макассар,  ماکاسار,  マカッサル,  마카사르
+Alternate Names: Djumpandang, Kota Makassar, Macassar, Makasar, Makasaras, Makassar, Makasser, UPG, Udjung Pandang, Ujungpandang, makasaleu, makasar, makassaru, Макассар, ماکاسار, マカッサル, 마카사르
 
 ---

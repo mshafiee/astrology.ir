@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'32.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'6.86" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°9'0.10" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°41'56.68" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°34'29.19" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°12'6.82" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°9'0.70" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°41'56.42" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°34'29.70" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'53.05" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°0'33.74" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°1'44.68" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°42'32.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'6.86" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°9'0.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°41'56.68" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°34'29.19" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°42'32.75" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°12'6.82" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°9'0.70" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°41'56.42" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°34'29.70" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°35'53.05" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°0'33.74" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|26°1'44.68" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Aspadana,  Dakbayan sa Esfahan,  Dakbayan sa Esfahān,  Esfahan,  Esfahano,  Esfahān,  Esfehan,  Eşfahān,  Eşfehān,  IFN,  Isfachan,  Isfahan,  Isfahana,  Isfahanas,  Isfahanum,  Isfahon,  Isfahán,  Isfahāna,  Isfakhan,  Isfehan,  Ispahan,  Iszfahan,  Iszfahán,  Kota Isfahan,  Spahan,  Yspyhan,  asfhan,  aysfahan,  esaphahana,  esufahan,  icupakan,  isafahana,  iseupahan,  isfahana,  isphahana,  xis fa han,  yi si fa han,  Îsfehan,  İsfahan,  İsfehan,  Ισφαχάν,  Ісфахан,  Исфахан,  Исфаҳон,  Исфаһан,  Սպահան,  אספהאן,  أصفهان,  ئسفأھان,  ئەسفەھان,  اصفهان,  اصفہان,  ایصفاهان,  इस्फहान,  इस्फ़हान,  এসফাহন,  ਇਸਫ਼ਹਾਨ,  இசுபகான்,  อิสฟาฮาน,  ისპაანი,  エスファハーン,  伊斯法罕,  이스파한
+Alternate Names: Aspadana, Dakbayan sa Esfahan, Dakbayan sa Esfahān, Esfahan, Esfahano, Esfahān, Esfehan, Eşfahān, Eşfehān, IFN, Isfachan, Isfahan, Isfahana, Isfahanas, Isfahanum, Isfahon, Isfahán, Isfahāna, Isfakhan, Isfehan, Ispahan, Iszfahan, Iszfahán, Kota Isfahan, Spahan, Yspyhan, asfhan, aysfahan, esaphahana, esufahan, icupakan, isafahana, iseupahan, isfahana, isphahana, xis fa han, yi si fa han, Îsfehan, İsfahan, İsfehan, Ισφαχάν, Ісфахан, Исфахан, Исфаҳон, Исфаһан, Սպահան, אספהאן, أصفهان, ئسفأھان, ئەسفەھان, اصفهان, اصفہان, ایصفاهان, इस्फहान, इस्फ़हान, এসফাহন, ਇਸਫ਼ਹਾਨ, இசுபகான், อิสฟาฮาน, ისპაანი, エスファハーン, 伊斯法罕, 이스파한
 
 ---

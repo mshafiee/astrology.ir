@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'28.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°46'59.64" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°27'25.88" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°3'43.22" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°20'23.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°9'17.38" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°48'52.26" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°47'2.12" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°27'28.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°3'57.20" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°20'34.04" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°9'39.61" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°47'2.24" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°27'28.92" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°3'57.73" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°20'34.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°9'40.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°52'6.82" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|15°9'39.61" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°47'2.24" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MTY,  Mantehrehj,  Mons Regis,  Monterej,  Monterejo,  Monterejus,  Monterey,  Monterrei,  Monterrej,  Monterreja,  Monterrey,  Monterrey City,  Monterrey i Nuevo Leon,  Monterrey i Nuevo León,  Monterėjus,  Tlahtoantepec,  Tlahtoāntepēc,  mamtere,  meng te lei,  montelei,  montere'i,  monterei,  mwntry,  mwntryy,  mwntyry,  mxn terrey,  Μοντερρέι,  Мантэрэй,  Монтерей,  Монтереј,  Монтеррей,  Մոնտերեյ,  מונטריי,  مونتری,  مونتيري,  مونتےرئی,  माँतेरे,  ਮੋਂਤੇਰੇਈ,  มอนเตร์เรย์,  མཱོན་ཊི་རེ།,  მონტერეი,  モンテレイ,  蒙特雷,  몬테레이
+Alternate Names: MTY, Mantehrehj, Mons Regis, Monterej, Monterejo, Monterejus, Monterey, Monterrei, Monterrej, Monterreja, Monterrey, Monterrey City, Monterrey i Nuevo Leon, Monterrey i Nuevo León, Monterėjus, Tlahtoantepec, Tlahtoāntepēc, mamtere, meng te lei, montelei, montere'i, monterei, mwntry, mwntryy, mwntyry, mxn terrey, Μοντερρέι, Мантэрэй, Монтерей, Монтереј, Монтеррей, Մոնտերեյ, מונטריי, مونتری, مونتيري, مونتےرئی, माँतेरे, ਮੋਂਤੇਰੇਈ, มอนเตร์เรย์, མཱོན་ཊི་རེ།, მონტერეი, モンテレイ, 蒙特雷, 몬테레이
 
 ---

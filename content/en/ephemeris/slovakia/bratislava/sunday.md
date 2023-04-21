@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'53.25" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'37.38" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°43'50.41" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°44'59.14" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°48'22.69" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'8.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°15'46.09" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°27'37.15" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°43'46.09" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°44'58.06" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°48'17.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'4.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°44'2.70" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'53.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°27'37.38" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°43'50.41" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°44'59.14" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°48'22.69" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'8.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°15'46.09" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°27'37.15" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°43'46.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°44'58.06" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°48'17.39" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'4.88" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°44'2.70" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: An Bhrataslaiv,  An Bhratasláiv,  BTS,  Baratislawa,  Bracislava,  Bratislav,  Bratislava,  Bratislava osh,  Bratislavae,  Bratislavo,  Bratislawa,  Bratisllava,  Bratisława,  Bratyslawa,  Bratysława,  Bratîslava,  Mpratislaba,  Posonium,  Pozsony,  Presbourg,  Presburg,  Presporok,  Prespurk,  Pressburg,  Preszburg,  Preßburg,  Prešporok,  Prešpurk,  beulatiseullaba,  bra ti sla wa,  bratisalava,  bratislabha,  bratislava,  bratislavha,  bratslawa,  bratsylava,  bratyslafa,  bratyslava,  bratyslaw,  bratyslawa,  bu la di si la fa,  burachisuravua,  pirattislava,  Μπρατισλάβα,  Братислав,  Братиславæ,  Братислава,  Братислава ош,  Братіслава,  Братїслава,  Браціслава,  Բրատիսլավա,  בראטיסלאווא,  ברטיסלאבה,  براتسلاوا,  براتسیلاڤا,  براتىسلاۋا,  براتيسلافا,  براتیسلاو,  براتیسلاوا,  براٹیسلاوا,  ܒܪܛܝܣܠܐܒܐ,  ब्रातिस्लाभा,  ब्रातिस्लाव्हा,  ব্রাতিস্লাভা,  ਬ੍ਰਾਤਿਸਲਾਵਾ,  பிராத்திஸ்லாவா,  ಬ್ರಾಟಿಸ್ಲಾವಾ,  ബ്രാട്ടിസ്
+Alternate Names: An Bhrataslaiv, An Bhratasláiv, BTS, Baratislawa, Bracislava, Bratislav, Bratislava, Bratislava osh, Bratislavae, Bratislavo, Bratislawa, Bratisllava, Bratisława, Bratyslawa, Bratysława, Bratîslava, Mpratislaba, Posonium, Pozsony, Presburg, Presporok, Prespurk, Pressburg, Preszburg, Preßburg, Prešporok, Prešpurk, beulatiseullaba, bra ti sla wa, bratisalava, bratislabha, bratislava, bratislavha, bratslawa, bratsylava, bratyslafa, bratyslava, bratyslaw, bratyslawa, bu la di si la fa, burachisuravu~a, pirattislava, Μπρατισλάβα, Братислав, Братиславæ, Братислава, Братислава ош, Братіслава, Братїслава, Браціслава, Բրատիսլավա, בראטיסלאווא, ברטיסלאבה, براتسلاوا, براتسیلاڤا, براتىسلاۋا, براتيسلافا, براتیسلاو, براتیسلاوا, براٹیسلاوا, ܒܪܛܝܣܠܐܒܐ, ब्रातिस्लाभा, ब्रातिस्लाव्हा, ব্রাতিস্লাভা, ਬ੍ਰਾਤਿਸਲਾਵਾ, பிராத்திஸ்லாவா, ಬ್ರಾಟಿಸ್ಲಾವಾ, ബ്രാട്ടിസ്‌ലാവ, บราติสลาวา, བ་ར་ཏིསི་ལ་བ།, ბრატისლავა, ብራቲስላቫ, ブラチスラヴァ, 布拉迪斯拉发, 布拉迪斯拉發, 브라티슬라바
 
 ---

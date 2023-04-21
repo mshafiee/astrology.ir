@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'0.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'5.04" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°39'54.15" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°48'58.23" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°32'28.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'18.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°59'9.19" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'4.89" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°39'53.74" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°48'58.30" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°32'23.08" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'15.35" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°48'38.33" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'0.11" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°59'5.04" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°39'54.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°48'58.23" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°32'28.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'18.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°59'9.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°39'53.74" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°48'58.30" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°32'23.08" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'15.35" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°48'38.33" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: NAP,  Napels,  Naples,  Naplés,  Napoles,  Napoli,  Napolo,  Napols,  Napoly,  Nappoli,  Napul,  Napule,  Napuli,  Napulj,  Napólí,  Neapal',  Neapel,  Neapelj,  Neapol,  Neapol',  Neapole,  Neapolis,  Noapels,  Nàpoli,  Nàpols,  Nàpuli,  Nàpułi,  Nápoles,  Nápoli,  Nápols,  Nápoly,  Parthenope,  na bu lei si,  nabwly,  napl,  napoli,  napolli,  napori,  napwly,  nepalasa,  nepalsa,  nepeils,  nyplz,  Νάπολη,  Напуљ,  Неапаль,  Неапол,  Неаполь,  Նեապոլ,  נאפאלי,  נאפולי,  نابولي,  ناپل,  ناپولی,  نیپلز,  नापोलि,  नापोली,  नेपल्स,  নেপলস,  நாபொலி,  เนเปิลส์,  ნეაპოლი,  ナポリ,  那不勒斯,  나폴리
+Alternate Names: NAP, Napels, Naples, Naplés, Napoles, Napoli, Napolo, Napols, Napoly, Nappoli, Napul, Napule, Napuli, Napulj, Napólí, Neapal', Neapel, Neapelj, Neapol, Neapol', Neapole, Neapolis, Noapels, Nàpoli, Nàpols, Nàpuli, Nàpułi, Nápoles, Nápoli, Nápols, Nápoly, Parthenope, na bu lei si, nabwly, napl, napoli, napolli, napori, napwly, nepalasa, nepalsa, nepeils, nyplz, Νάπολη, Напуљ, Неапаль, Неапол, Неаполь, Նեապոլ, נאפאלי, נאפולי, نابولي, ناپل, ناپولی, نیپلز, नापोलि, नापोली, नेपल्स, নেপলস, நாபொலி, เนเปิลส์, ნეაპოლი, ナポリ, 那不勒斯, 나폴리
 
 ---

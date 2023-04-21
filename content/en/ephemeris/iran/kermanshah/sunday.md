@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°47'33.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°26'40.04" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°41'37.39" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°41'6.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°43'45.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'47.71" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°3'17.21" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|4°47'33.69" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°26'39.99" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°41'37.58" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°41'6.13" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°43'45.56" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'47.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°3'19.63" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°47'33.74" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°26'40.04" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°41'37.39" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°41'6.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°43'45.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'47.71" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°3'17.21" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|2°41'6.82" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°43'45.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'47.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°3'19.63" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bahtaran,  Bakhtaran,  Bākhtarān,  KSH,  Kermansah,  Kermansaho,  Kermanschah,  Kermanshah,  Kermanshahan,  Kermanshakh,  Kermanŝaho,  Kermânsâh,  Kermānschāh,  Kermānshāh,  Kermānshāhān,  Kirmansah,  Kirmanşah,  Kirmasan,  Kirmaşan,  Province de Kermanshah,  Provincia de Kermanshah,  Provinco Kermansah,  Provinco Kermanŝah,  Província de Kermanshah,  Qahremanshahr,  Qahremānshahr,  astan krmanshah,  ke er man sha he,  kerumansha,  krmanshah,  Керманшах,  Кирмоншоҳ,  Устони Кирмоншоҳ,  استان کرمانشاه,  كرمانشاه,  کرمانشاه,  ケルマーンシャー,  克尔曼沙赫
+Alternate Names: Bahtaran, Bakhtaran, Bākhtarān, KSH, Kermansah, Kermansaho, Kermanschah, Kermanshah, Kermanshahan, Kermanshakh, Kermanŝaho, Kermânsâh, Kermānschāh, Kermānshāh, Kermānshāhān, Kirmansah, Kirmanşah, Kirmasan, Kirmaşan, Province de Kermanshah, Provincia de Kermanshah, Provinco Kermansah, Provinco Kermanŝah, Província de Kermanshah, Qahremanshahr, Qahremānshahr, astan krmanshah, ke er man sha he, kerumansha, krmanshah, Керманшах, Кирмоншоҳ, Устони Кирмоншоҳ, استان کرمانشاه, كرمانشاه, کرمانشاه, ケルマーンシャー, 克尔曼沙赫
 
 ---

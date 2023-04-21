@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'13.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°14'4.02" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°13'21.76" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°49'51.35" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°43'41.33" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'14.13" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°30'45.06" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°14'4.01" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°13'22.14" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°49'53.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°43'47.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'19.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°1'44.88" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°43'13.47" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°14'4.02" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°13'21.76" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°49'53.60" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°43'41.33" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'14.13" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°30'45.06" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°49'53.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°43'47.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'19.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°1'44.88" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Dzhos,  Dzos,  Dżos,  JOS,  Jos,  joseu,  josu,  jws,  jws  nayjyrya,  qiao si,  Џос,  Джос,  Йос,  جوس,  جوس، نائجیریا,  ジョス,  乔斯,  조스
+Alternate Names: Dzhos, Dzos, Dżos, JOS, Jos, joseu, josu, jws, jws  nayjyrya, qiao si, Џос, Джос, Йос, جوس, جوس، نائجیریا, ジョス, 乔斯, 조스
 
 ---

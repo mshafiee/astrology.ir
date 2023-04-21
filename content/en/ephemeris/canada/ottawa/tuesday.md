@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°58'49.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'3.94" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°57'1.77" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°56'55.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°22'29.99" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°51'44.09" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°30'8.18" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°58'49.77" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|25°0'6.38" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°57'5.83" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°57'10.03" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°22'42.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°52'7.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°28'53.56" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|25°0'5.88" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°57'2.12" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°57'7.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°22'29.99" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'44.09" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°30'8.18" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°22'42.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°52'7.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°28'53.56" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Atava,  Otava,  Otavo,  Otawa,  Ottaba,  Ottahua,  Ottava,  Ottavae,  Ottawa,  YOW,  atawa,  atoya,  attava,  awtawa,  otava,  otawa,  ottava,  wo tai hua,  xxttawa,  AA¬²±,  Οττάβα,  Οτταβα,  Атава,  Отава,  Оттавæ,  Оттава,  Օտտավա,  אוטווה,  אטאווא,  أوتاوا,  ئۆتاوا,  اتاوا,  اوتآوآ,  اوٹاوا,  اٹاوہ,  ओटावा,  অটোয়া,  ਓਟਾਵਾ,  ଓଟାୱା,  ஒட்டாவா,  ಆಟ್ಟಾವಾ,  ഓട്ടവ,  ออตตาวา,  ཨོ་ཏ་ཝ།,  အော့တဝမြို့,  ოტავა,  ኦታዋ,  ᎠᏔᏩ,  ᐊᑐᕚ/atavaa,  オタワ,  渥太華,  오타와
+Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, AA¬²±, Οττάβα, Οτταβα, Атава, Отава, Оттавæ, Оттава, Օտտավա, אוטווה, אטאווא, أوتاوا, ئۆتاوا, اتاوا, اوتآوآ, اوٹاوا, اٹاوہ, ओटावा, অটোয়া, ਓਟਾਵਾ, ଓଟାୱା, ஒட்டாவா, ಆಟ್ಟಾವಾ, ഓട്ടവ, ออตตาวา, ཨོ་ཏ་ཝ།, အော့တဝမြို့, ოტავა, ኦታዋ, ᎠᏔᏩ, ᐊᑐᕚ/atavaa, オタワ, 渥太華, 오타와
 
 ---

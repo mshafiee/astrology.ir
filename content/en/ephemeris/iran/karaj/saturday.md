@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|1°41'52.52" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°34'24.51" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°35'52.70" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°12'40.65" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|25°57'15.65" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Heredi,  Karadj,  Karadje,  Karadsch,  Karadz,  Karadzs,  Karadż,  Karadž,  Karago,  Karaj,  Karatz,  Karaĝo,  Karej,  Kerec,  Keredi,  Keredzas,  Keredzh,  Keredžas,  Kerezh,  Kərəc,  Leredi,  PYK,  QKC,  Qasabeh-e Karaj,  Qaşabeh-e Karaj,  ka la ji,  kairaija,  kalaji,  karaj,  karaji,  kha rac,  krj,  kyaraji,  qasabihi karaj,  Καράτζ,  Карай,  Караџ,  Караҷ,  Кередж,  Кереж,  כאראג,  قَصَبِهِ كَرَج,  كرج,  کرج,  کەرەج,  कैरैज,  கராஜ்,  คาราจ,  ქარაჯი,  キャラジ,  卡拉季,  카라지
+Alternate Names: Heredi, Karadj, Karadje, Karadsch, Karadz, Karadzs, Karadż, Karadž, Karag, Karaj, Karatz, Karaĝ, Karej, Kerec, Keredi, Keredzas, Keredzh, Keredžas, Kerezh, Kərəc, Leredi, PYK, QKC, Qasabeh-e Karaj, Qaşabeh-e Karaj, ka la ji, kairaija, kalaji, karaj, karaji, kha rac, krj, kyaraji, qasabihi karaj, Καράτζ, Карай, Караџ, Караҷ, Кередж, Кереж, כאראג, قَصَبِهِ كَرَج, كرج, کرج, کەرەج, कैरैज, கராஜ், คาราจ, ქარაჯი, キャラジ, 卡拉季, 카라지
 
 ---

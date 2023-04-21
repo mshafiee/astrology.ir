@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'0.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'4.38" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°39'54.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°49'3.83" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°32'27.37" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'23.34" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°35'45.83" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'5.77" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°39'53.95" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°49'3.27" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°32'25.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'21.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°18'14.46" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°38'0.46" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°59'5.89" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°39'54.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°49'3.83" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°32'26.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'13.38" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°35'45.83" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°49'3.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°32'25.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'21.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°18'14.46" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: E'ville,  Elisabethville,  Elizabethstad,  Elizabethville,  E’ville,  FBM,  Lubumbashi,  Lubumbashi shaary,  Lubumbashy,  Lubumbasi,  Lubumbasis,  Lubumbaši,  Lubumbašis,  Lumumbashi,  lu ben ba xi,  lubumabasi,  lubumbasi,  lubumbasi si,  lwbmbashy,  lwbwmbashy,  rubunbashi,  Élisabethville,  Лубумбаши,  Лубумбаши шаары,  Лубумбашы,  Лубумбаші,  לובומבאשי,  لوبمباشی,  لوبومباشي,  لوبومباشی,  ਲੂਬੁਮਬਾਸ਼ੀ,  ルブンバシ,  盧本巴希,  루붐바시,  루붐바시 시
+Alternate Names: E'ville, Elisabethville, Elizabethstad, Elizabethville, E’ville, FBM, Lubumbashi, Lubumbashi shaary, Lubumbashy, Lubumbasi, Lubumbasis, Lubumbaši, Lubumbašis, Lumumbashi, lu ben ba xi, lubumabasi, lubumbasi, lubumbasi si, lwbmbashy, lwbwmbashy, rubunbashi, Élisabethville, Лубумбаши, Лубумбаши шаары, Лубумбашы, Лубумбаші, לובומבאשי, لوبمباشی, لوبومباشي, لوبومباشی, ਲੂਬੁਮਬਾਸ਼ੀ, ルブンバシ, 盧本巴希, 루붐바시, 루붐바시 시
 
 ---

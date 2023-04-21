@@ -20,7 +20,7 @@ Latitude: 35.1017
 \-
 Longitude: 129.0300
 \-
-Altitude: 15 meters
+Altitude: 26 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Busan, Korea, Republic of" lat="35.1017" lng="129.0300" zoom="12">}}
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'18.53" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'9.37" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°57'47.82" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°32'5.43" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°2'5.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'46.03" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°5'36.90" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°40'7.73" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°57'45.05" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°31'56.00" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°1'57.36" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'32.14" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°4'30.02" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Bousan,  Busan,  Busan-si,  Busán,  Fousan,  Fusan,  Fuzan,  PUS,  Phu San,  Phủ San,  Pusan,  Pusana,  Pusano,  Tsau-liang-hai,  busan,  busangwang-yeogsi,  busansi,  fu shan,  fu shan guang yu shi,  fu shan shi,  pu san,  Μπούσαν,  Пусан,  ปูซาน,  釜山,  釜山市,  釜山广域市,  釜山広域市,  부산,  부산광역시,  부산시
+Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시
 
 ---

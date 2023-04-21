@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'44.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°41'20.04" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°0'22.44" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°36'49.97" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°7'39.49" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'14.25" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°19'32.78" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°41'22.08" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°0'28.55" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°37'1.54" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°7'52.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'33.09" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°32'16.68" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'44.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°41'20.04" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°0'22.44" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°36'49.97" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°7'39.49" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'14.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°19'32.78" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°41'22.08" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°0'28.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°37'1.54" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°7'52.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'33.09" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°32'16.68" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Krong Chaktomuk,  Nam Van,  Nam-Vang,  Nom Pen,  PNH,  Phnom Pen,  Phnom Penh,  Phnom Pénh,  Phnom-Penh,  Phnompen,  Phnompenh,  Phnum Penh,  Phnum Peny,  Phnum Pénh,  Phnum Pény,  Phnôm Pênh,  Phon Phen,  Pnampen',  Pnom Pehn',  Pnom Pen,  Pnom Pen'ch,  Pnom Pene,  Pnom Penh,  Pnompen,  Pnompen',  Pnompena,  Pnompenis,  Pnompeno,  Pnompeņa,  Ville de Phnom Penh,  bnwm bnh,  fnwm pn,  fnwm pېn,  jin bian,  namapenha,  panoma pena,  peunompen,  phnm pen,  phnmpey,  pnwm pn,  punom pen,  punonpen,  Πνομ Πενχ,  Пнампень,  Пном Пен,  Пном Пэнь,  Пномпень,  Պնոմպեն,  פנום פן,  بنوم بنه,  فنوم پن,  فنوم پېن,  پنوم پن,  پنوم
+Alternate Names: Krong Chaktomuk, Nam Van, Nam-Vang, Nom Pen, PNH, Phnom Pen, Phnom Penh, Phnom Pénh, Phnom-Penh, Phnompen, Phnompenh, Phnum Penh, Phnum Peny, Phnum Pénh, Phnum Pény, Phnôm Pênh, Phon Phen, Pnampen', Pnom Pehn', Pnom Pen, Pnom Pen'ch, Pnom Pene, Pnom Penh, Pnom-Peno, Pnompen, Pnompen', Pnompena, Pnompenis, Pnompeņa, Ville de Phnom Penh, bnwm bnh, fnwm pn, fnwm pېn, jin bian, namapenha, panoma pena, peunompen, phnm pen, phnmpey, pnwm pn, punom pen, punonpen, Πνομ Πενχ, Пнампень, Пном Пен, Пном Пэнь, Пномпень, Պնոմպեն, פנום פן, بنوم بنه, فنوم پن, فنوم پېن, پنوم پن, پنوم‌پن, پنۆم پێن, नामपेन्ह, पनॉम पेन, প্‌নম পেন, புனோம் பென், พนมเปญ, พนมเปณ, ཕོམ་ཕེན།, ဖနွမ်းပင်မြို့, პნომპენი, ፕኖም ፔን, ភនកពងតរាច, ភនពេញ, ភ្នំកំពង់ត្រាច, ភ្នំពេញ, プノンペン, 金边, 프놈펜
 
 ---

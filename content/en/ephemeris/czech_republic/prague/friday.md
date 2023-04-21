@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°37'56.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'54.44" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°39'35.42" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°48'15.41" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°31'38.23" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'17.84" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°49'54.71" |Aries|Butain|Sun|
+|♄ Saturn|Direct|4°37'56.12" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°58'54.03" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°39'30.94" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°48'13.57" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°31'32.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'12.68" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°29'45.48" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'56.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'54.44" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°39'35.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°48'15.41" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°31'38.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'13.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°49'54.71" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'54.03" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°39'30.94" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°48'13.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°31'32.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'12.68" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°29'45.48" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: PRG,  Praag,  Prag,  Praga,  Pragae,  Prago,  Prague,  Praha,  Pràg,  Prág,  Prága,  Prâg,  Prāga,  bragh,  bu la ge,  peulaha,  prag,  praga,  prak,  prg,  puraha,  Πράγα,  Праг,  Прагæ,  Прага,  פראג,  براغ,  پراگ,  پراگا,  ܦܪܓ,  প্রাগ,  ปราก,  པུ་ལ་ཁེ,  პრაღა,  ፕራግ,  プラハ,  布拉格,  프라하
+Alternate Names: PRG, Praag, Prag, Praga, Pragae, Prago, Prague, Praha, Pràg, Prág, Prága, Prâg, Prāga, bragh, bu la ge, peulaha, prag, praga, prak, prg, puraha, Πράγα, Праг, Прагæ, Прага, פראג, براغ, پراگ, پراگا, ܦܪܓ, প্রাগ, ปราก, པུ་ལ་ཁེ, პრაღა, ፕራግ, プラハ, 布拉格, 프라하
 
 ---

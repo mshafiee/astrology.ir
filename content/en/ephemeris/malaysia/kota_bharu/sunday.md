@@ -20,7 +20,7 @@ Latitude: 6.1236
 \-
 Longitude: 102.2433
 \-
-Altitude: 10 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Kota Bharu, Malaysia" lat="6.1236" lng="102.2433" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:17:58|Night duration: 11:41:42|
+|Duration of the day: 12:17:58|Night duration: 11:41:41|
 |Every hour of day duration: 01:01:30|Every hour of night duration: 00:58:28|
 
  
@@ -227,17 +227,17 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|19:18:28|20:16:55|Attracting love and gaining financial capital|
-|2|Mars|Servant|20:16:56|21:15:24|Hateful actions, and avoiding any beneficial action|
-|3|Sun|Servant|21:15:25|22:13:52|Creating emotional attachment and love|
-|4|Venus|Servant|22:13:53|23:12:21|Being hateful and rejecting kindness|
-|5|Mercury|Servant|23:12:22|00:10:49|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|00:10:50|01:09:18|Performing all good deeds for a beneficial outcome|
-|7|Saturn|Servant|01:09:19|02:07:46|Avoiding any action that may lead to disaster|
-|8|Jupiter|Ruler|02:07:47|03:06:15|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|03:06:16|04:04:43|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|04:04:44|05:03:12|Attracting happiness and resolving financial problems|
-|11|Venus|Servant|05:03:13|06:01:40|Signing contracts|
-|12|Mercury|Servant|06:01:41|07:00:09|Uncovering fugitives and finding thieves|
+|2|Mars|Servant|20:16:56|21:15:23|Hateful actions, and avoiding any beneficial action|
+|3|Sun|Servant|21:15:24|22:13:52|Creating emotional attachment and love|
+|4|Venus|Servant|22:13:53|23:12:20|Being hateful and rejecting kindness|
+|5|Mercury|Servant|23:12:21|00:10:49|Separation and engaging in hateful and vengeful actions|
+|6|Moon|Servant|00:10:50|01:09:17|Performing all good deeds for a beneficial outcome|
+|7|Saturn|Servant|01:09:18|02:07:45|Avoiding any action that may lead to disaster|
+|8|Jupiter|Ruler|02:07:46|03:06:14|Extremely lucky and attracting good fortune|
+|9|Mars|Servant|03:06:15|04:04:42|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|04:04:43|05:03:11|Attracting happiness and resolving financial problems|
+|11|Venus|Servant|05:03:12|06:01:39|Signing contracts|
+|12|Mercury|Servant|06:01:40|07:00:08|Uncovering fugitives and finding thieves|
 
  
  
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:17:58|Night duration: 11:41:42|
-|Every hour duration: 01:45:25|Every hour duration: 01:40:15|
+|Duration of the day: 12:17:58|Night duration: 11:41:41|
+|Every hour duration: 01:45:25|Every hour duration: 01:40:14|
 
  
  
@@ -270,12 +270,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Jupiter|Ruler|19:18:28|20:58:41|
-|Late evening|Mars|Servant|20:58:42|22:38:56|
-|Midnight|Sun|Servant|22:38:57|00:19:10|
-|Late at night|Venus|Servant|00:19:11|01:59:25|
-|Rooster song|Mercury|Servant|01:59:26|03:39:39|
-|False Dawn|Moon|Servant|03:39:40|05:19:54|
-|Dawn|Saturn|Servant|05:19:55|07:00:09|
+|Late evening|Mars|Servant|20:58:42|22:38:55|
+|Midnight|Sun|Servant|22:38:56|00:19:10|
+|Late at night|Venus|Servant|00:19:11|01:59:24|
+|Rooster song|Mercury|Servant|01:59:25|03:39:39|
+|False Dawn|Moon|Servant|03:39:40|05:19:53|
+|Dawn|Saturn|Servant|05:19:54|07:00:08|
 
 {{< /tab >}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'54.63" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'45.95" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°37'20.62" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°33'23.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°34'42.46" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'8.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°41'26.51" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°24'44.89" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°37'14.76" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°33'17.45" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°34'32.78" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'56.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°40'15.37" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'54.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'45.95" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°37'20.62" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°33'23.51" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°34'42.46" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'8.48" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°41'26.51" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'44.89" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°37'14.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°33'17.45" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°34'32.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'56.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°40'15.37" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bharu,  KBR,  Khota Baharu,  Khota Bahru,  Ko-ta-hap-lu-su,  Kota Baharu,  Kota Bahru,  Kota Baru,  Kota Bharu,  Kota-Baru,  Kô-tá-ha̍p-lû-sṳ,  ge da ba lu,  kotabalu,  kotabaru,  kwta bharw,  Кота Бару,  Кота-Бару,  كوتا بهارو,  โกตาบารู,  コタバル,  哥打巴鲁,  코타바루
+Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루
 
 ---

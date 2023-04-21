@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°32'15.54" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°23'7.60" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'31.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°57'15.26" |Aries|Butain|Venus|
+|☾ Moon|Direct|23°57'14.33" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|1°32'15.54" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°23'7.60" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°36'31.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°57'15.26" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|23°57'14.33" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Chon'nk Kon'nk,  Gankong,  Gon Kong,  Gonkong,  HKG,  Hiong-geng,  Hiŏng-gē̤ng,  Hong Kong,  Hongkong,  Honkong,  Honkongo,  Hồng Kông,  Khongkong,  Khonkong,  Victoria,  ankan,  hamga kamga,  hanakana,  hang kang,  hang kang nagaram,  hangakanga,  hang
+Alternate Names: Chon'nk Kon'nk, Gankong, Gon Kong, Gonkong, HKG, Hiong-geng, Hiŏng-gē̤ng, Hong Kong, Hongkong, Honkong, Hồng Kông, Khongkong, Khonkong, Victoria, ankan, hamga kamga, hanakana, hang kang, hang kang nagaram, hangakanga, hang‌kang, hankam, heankean, hng kng, hon'ga kon'ga, hong-kʼongi, hongakonga, hongkong, honkongu, hwng kwng, hwng qwng, hwngh kwngh, hwnj kwnj, hxngkng, hʼng qʼng, shyanggang, xiang gang, Χονγκ Κονγκ, Ганконг, Гонконг, Хонгконг, Хонконг, Һoң Koң, Һоң Коң, Հոնկոնգ, האנג קאנג, הונג קונג, شياڭگاڭ, هانگ کانگ, هنگ کنگ, هونج كونج, هونغ كونغ, هونگ کونگ, ھwng kwng, ھونگ کونگ, ھۆng kۆng, ھۆنگ کۆنگ, ہang kang, ہانگ کانگ, ހޮންކޮންގު, हङकङ, हाँग काँग, हांगकांग, हांग् कांग् नगरम्, हॉन्ग कॉन्ग, হংকং, ਹਾਂਗਕਾਂਗ, હોંગકોંગ, ହଂକଂ, ஆங்காங், హాంగ్‌కాంగ్, ಹಾಂಗ್ ಕಾಂಗ್, ഹോങ്കോങ്, හොංකොං, ฮ่องกง, ཧང་ཀང་།, ཧོང་ཀོང་།, ဟောငကောင, ဟောင်ကောင်, ჰონგ-კონგი, ሆንግ ኮንግ, ហងកង, ហុងកុង, 香港, 홍콩
 
 ---

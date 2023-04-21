@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°46'20.56" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°37'54.37" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|16°0'11.90" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'54.87" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°34'31.63" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|14°58'52.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°53'30.92" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: TBZ,  Tabrez,  Tabris,  Tabriz,  Tabrizo,  Tabríz,  Tabrīz,  Taebris,  Taebriz,  Tampriz,  Tauris,  Tebriz,  Tebriza,  Tebrizas,  Tebrīza,  Tehbryz,  Tewrez,  Tewrêz,  Toewriz,  Täbris,  Täbriz,  Töwriz,  Təbriz,  da bu li shi,  ta bris,  tabareza,  tabariza,  tabeulijeu,  tabris,  taburizu,  tavrizi,  tbryz,  Ταμπρίζ,  Табрез,  Табриз,  Тебриз,  Тэбрыз,  Тәбриз,  Թավրիզ,  טאבריז,  תבריז,  تبريز,  تبریز,  تەورێز,  तबरेज़,  ਤਬਰੀਜ਼,  ടാബ്രിസ്,  ตาบริซ,  ཊ་བི་རི་ཛ།,  თავრიზი,  タブリーズ,  大不里士,  타브리즈
+Alternate Names: TBZ, Tabrez, Tabris, Tabriz, Tabrizo, Tabríz, Tabrīz, Taebris, Taebriz, Tampriz, Tauris, Tebriz, Tebriza, Tebrizas, Tebrīza, Tehbryz, Tewrez, Tewrêz, Toewriz, Täbris, Täbriz, Töwriz, Təbriz, da bu li shi, ta bris, tabareza, tabariza, tabeulijeu, tabris, taburizu, tavrizi, tbryz, Ταμπρίζ, Табрез, Табриз, Тебриз, Тэбрыз, Тәбриз, Թավրիզ, טאבריז, תבריז, تبريز, تبریز, تەورێز, तबरेज़, ਤਬਰੀਜ਼, ടാബ്രിസ്, ตาบริซ, ཊ་བི་རི་ཛ།, თავრიზი, タブリーズ, 大不里士, 타브리즈
 
 ---

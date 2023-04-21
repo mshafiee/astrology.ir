@@ -20,7 +20,7 @@ Latitude: 34.0949
 \-
 Longitude: 49.6981
 \-
-Altitude: 1,738 meters
+Altitude: 1,728 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Arak, Iran" lat="34.0949" lng="49.6981" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:16:25|Night duration: 10:42:27|
+|Duration of the day: 13:16:25|Night duration: 10:42:26|
 |Every hour of day duration: 01:06:22|Every hour of night duration: 00:53:32|
 
  
@@ -229,15 +229,15 @@ Timetable of twelve day and night planetary hours
 |1|Jupiter|Ruler|18:48:04|19:41:35|Attracting love and gaining financial capital|
 |2|Mars|Servant|19:41:36|20:35:07|Hateful actions, and avoiding any beneficial action|
 |3|Sun|Servant|20:35:08|21:28:39|Creating emotional attachment and love|
-|4|Venus|Servant|21:28:40|22:22:12|Being hateful and rejecting kindness|
-|5|Mercury|Servant|22:22:13|23:15:44|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|23:15:45|00:09:16|Performing all good deeds for a beneficial outcome|
+|4|Venus|Servant|21:28:40|22:22:11|Being hateful and rejecting kindness|
+|5|Mercury|Servant|22:22:12|23:15:43|Separation and engaging in hateful and vengeful actions|
+|6|Moon|Servant|23:15:44|00:09:16|Performing all good deeds for a beneficial outcome|
 |7|Saturn|Servant|00:09:17|01:02:48|Avoiding any action that may lead to disaster|
-|8|Jupiter|Ruler|01:02:49|01:56:21|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|01:56:22|02:49:53|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|02:49:54|03:43:25|Attracting happiness and resolving financial problems|
-|11|Venus|Servant|03:43:26|04:36:57|Signing contracts|
-|12|Mercury|Servant|04:36:58|05:30:30|Uncovering fugitives and finding thieves|
+|8|Jupiter|Ruler|01:02:49|01:56:20|Extremely lucky and attracting good fortune|
+|9|Mars|Servant|01:56:21|02:49:52|Summoning a desired person, winning hearts, and creating emotional attachment|
+|10|Sun|Servant|02:49:53|03:43:24|Attracting happiness and resolving financial problems|
+|11|Venus|Servant|03:43:25|04:36:56|Signing contracts|
+|12|Mercury|Servant|04:36:57|05:30:29|Uncovering fugitives and finding thieves|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:16:25|Night duration: 10:42:27|
+|Duration of the day: 13:16:25|Night duration: 10:42:26|
 |Every hour duration: 01:53:46|Every hour duration: 01:31:47|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Jupiter|Ruler|18:48:04|20:19:49|
 |Late evening|Mars|Servant|20:19:50|21:51:36|
-|Midnight|Sun|Servant|21:51:37|23:23:23|
-|Late at night|Venus|Servant|23:23:24|00:55:09|
-|Rooster song|Mercury|Servant|00:55:10|02:26:56|
-|False Dawn|Moon|Servant|02:26:57|03:58:43|
-|Dawn|Saturn|Servant|03:58:44|05:30:30|
+|Midnight|Sun|Servant|21:51:37|23:23:22|
+|Late at night|Venus|Servant|23:23:23|00:55:09|
+|Rooster song|Mercury|Servant|00:55:10|02:26:55|
+|False Dawn|Moon|Servant|02:26:56|03:58:42|
+|Dawn|Saturn|Servant|03:58:43|05:30:29|
 
 {{< /tab >}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°40'41.77" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°43'16.65" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°28'51.87" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°58'4.43" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|9°1'54.14" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°26'33.98" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°41'23.77" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°40'41.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°43'16.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'51.87" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°58'4.43" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|13°43'17.25" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'52.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°1'54.14" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Arak,  Arak - sawh,  Arak - ساوه,  Arok,  Arāk,  Ehrak,  Soltanabad,  Solţānābād,  Sultanabad,  Sultānābād,  `Iraq,  arak,  sawh,  sultan abad,  Арак,  Арок,  Эрак,  اراک,  ساوه,  سُلطان آباد,  ‘Irāq
+Alternate Names: Arak, Arak - sawh, Arak - ساوه, Arok, Arāk, Ehrak, Soltanabad, Solţānābād, Sultanabad, Sultānābād, `Iraq, arak, sawh, sultan abad, Арак, Арок, Эрак, اراک, ساوه, سُلطان آباد, ‘Irāq
 
 ---

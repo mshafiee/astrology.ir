@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'2.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°42'13.42" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°2'21.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°40'28.92" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°11'55.76" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'55.27" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°53'57.16" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°42'13.59" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°2'23.79" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°40'29.71" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°12'2.62" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'3.19" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°17'2.94" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'2.75" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'13.59" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°2'23.79" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°40'28.92" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°11'55.76" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'55.27" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°53'57.16" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°42'14.16" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°2'26.01" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°40'32.81" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°12'2.62" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'3.19" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°17'2.94" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Bichkek,  Biscecum,  Bischkek,  Bishkek,  Bishkek osh,  Bisjkek,  Biskek,  Biskeka,  Biskekas,  Biskeko,  Biskekʻ,  Bisqeq,  Bisqueque,  Biszkek,  Bixkek,  Biŝkeko,  Bişkek,  Bişqeq,  Biškek,  Biškeka,  Biškekas,  Bișkek,  Bîşkek,  FRU,  Frunze,  Mpiskek,  Pishkek,  Pishpek,  bi shen kai ke,  bichkhek,  bisakeka,  bishukeku,  biskek,  biskeka,  biskekk,  bisyukekeu,  bshkyk,  byshkk,  byshkyk,  bysqq,  picukkek,  Μπισκέκ,  Бишкек,  Бишкек ош,  Бішкек,  Բիշկեք,  בישקעק,  בישקק,  بشکیک,  بيشكك,  بيشكيك,  بيشکک,  بیشکک,  بیشکێک,  बिश्केक,  বিশকেক,  ਬਿਸ਼ਕੇਕ,  பிசுக்கெக்,  ಬಿಷ್ಕೆಕ್,  ബിഷ്കെക്ക്,  บิชเคก,  པི་སི་ཁེག,  ბიშკეკი,  ቢሽኬክ,  ビシュケク,  比什凯克,  비슈케크
+Alternate Names: Bichkek, Biscecum, Bischkek, Bishkek, Bishkek osh, Bisjkek, Biskek, Biskeka, Biskekas, Biskeko, Biskekʻ, Bisqeq, Bisqueque, Biszkek, Bixkek, Biŝkeko, Bişkek, Bişqeq, Biškek, Biškeka, Biškekas, Bișkek, Bîşkek, FRU, Frunze, Mpiskek, Pishkek, Pishpek, bi shen kai ke, bichkhek, bisakeka, bishukeku, biskek, biskeka, biskekk, bisyukekeu, bshkyk, byshkk, byshkyk, bysqq, picukkek, Μπισκέκ, Бишкек, Бишкек ош, Бішкек, Բիշկեք, בישקעק, בישקק, بشکیک, بيشكك, بيشكيك, بيشکک, بیشکک, بیشکێک, बिश्केक, বিশকেক, ਬਿਸ਼ਕੇਕ, பிசுக்கெக், ಬಿಷ್ಕೆಕ್, ബിഷ്കെക്ക്, บิชเคก, པི་སི་ཁེག, ბიშკეკი, ቢሽኬክ, ビシュケク, 比什凯克, 비슈케크
 
 ---

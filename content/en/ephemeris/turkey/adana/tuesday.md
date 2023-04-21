@@ -20,7 +20,7 @@ Latitude: 36.9862
 \-
 Longitude: 35.3253
 \-
-Altitude: 30 meters
+Altitude: 38 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adana, Turkey" lat="36.9862" lng="35.3253" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'24.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'49.20" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°47'26.19" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°39'41.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°2'23.85" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'13.14" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°55'19.71" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°55'49.61" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°47'21.68" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°39'44.24" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°2'20.09" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'14.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°18'13.68" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°57'24.77" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°55'49.60" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°47'21.53" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°39'44.18" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°2'23.85" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'13.14" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°55'19.71" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°39'44.24" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°2'20.09" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'14.88" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°18'13.68" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: ADA,  Adana,  Adane,  Adano,  Adanë,  Adhanah,  Antiocheia,  Edene,  a da na,  adana,  adnt,  xa da na,  yadana,  Άδανα,  Αδανα,  Αντιόχεια,  Адана,  Ադանա,  אדנה,  آدانا,  أضنة,  ئادانا,  अदना,  আদানা,  อาดานา,  ადანა,  アダナ,  阿达纳,  아다나
+Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나
 
 ---

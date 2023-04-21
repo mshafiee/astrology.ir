@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'55.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'21.55" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°54'21.07" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°44'1.07" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°33'44.01" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°55'23.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'23.35" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°28'53.18" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°55'19.08" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'17.55" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°1'21.90" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'55.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'21.55" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°44'3.35" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'46.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'23.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'23.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°28'53.18" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'21.00" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°44'0.87" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'43.62" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°55'19.08" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'17.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°1'21.90" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: LHE,  Lachori,  Lahaur,  Lahor,  Lahora,  Lahoras,  Lahore,  Lahorium,  Lahoro,  Lakhor,  Lohur,  Láhaur,  Lâhore,  Lāhaur,  la h xr,  la he er,  lahaura,  laholeu,  lahor,  lahora,  lahori,  lahwr,  lakur,  lwہwr,  rahoru,  Λαχόρη,  Лахор,  Լահոր,  לאהור,  لاهور,  لاھور,  لاھۆر,  لاہور,  لوہوٗر,  لہور,  लाहोर,  लाहौर,  লাহোর,  ਲਹੌਰ,  લાહોર,  லாகூர்,  లాహోర్,  ಲಾಹೋರ್,  ലാഹോർ,  ลาฮอร์,  ლაჰორი,  ラホール,  ラーホール,  拉合尔,  拉合爾,  라호르
+Alternate Names: LHE, Lachori, Lahaur, Lahor, Lahora, Lahoras, Lahore, Lahorium, Lakhor, Lohur, Láhaur, Lâhore, Lāhaur, la h xr, la he er, lahaura, laholeu, lahor, lahora, lahori, lahwr, lakur, lwہwr, rahoru, Λαχόρη, Лахор, Լահոր, לאהור, لاهور, لاھور, لاھۆر, لاہور, لوہوٗر, لہور, लाहोर, लाहौर, লাহোর, ਲਹੌਰ, લાહોર, லாகூர், లాహోర్, ಲಾಹೋರ್, ലാഹോർ, ลาฮอร์, ლაჰორი, ラホール, ラーホール, 拉合尔, 拉合爾, 라호르
 
 ---

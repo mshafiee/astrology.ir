@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°34'15.89" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°48'28.62" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°16'15.92" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°5'49.17" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°41'49.22" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'55.39" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°52'32.62" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°5'54.63" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°41'47.88" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'59.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°26'53.70" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°48'28.62" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°16'15.92" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°5'54.63" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°41'49.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'55.39" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°52'32.62" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°41'47.88" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'59.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°26'53.70" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,9 +374,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: CBB,  Ciudad Cochabamba,  Cochabamba,  Kocabamb,  Kocabamba,  Kochabamba,  Kočabamb,  Kočabamba,  Kuchawampa,  Quchapampa,  ke qia ban ba,  ko cha bam ba,  kochabamba,  kochabanba,  kwchabamba,  kwtshabamba,  qwzbmbh,  Кочабамба,  קוצבמבה,  كوتشابامبا,  کوچابامبا,  โกชาบัมบา,  ཀོ་ཅ་བང་ལྦ་,  კოჩაბამბა,  コチャバンバ,  科恰班巴,  코차밤바
+Alternate Names: CBB, Ciudad Cochabamba, Cochabamba, Kocabamb, Kocabamba, Kochabamba, Kočabamb, Kočabamba, Kuchawampa, Quchapampa, ke qia ban ba, ko cha bam ba, kochabamba, kochabanba, kwchabamba, kwtshabamba, qwzbmbh, Кочабамба, קוצבמבה, كوتشابامبا, کوچابامبا, โกชาบัมบา, ཀོ་ཅ་བང་ལྦ་, კოჩაბამბა, コチャバンバ, 科恰班巴, 코차밤바
 
 ---

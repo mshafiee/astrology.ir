@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°46'36.40" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°23'52.71" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°35'21.41" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°29'44.82" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°30'26.98" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'34.72" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°27'31.42" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°29'46.43" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°30'22.64" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'28.24" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°58'37.83" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'36.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'52.42" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°35'20.18" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°29'44.82" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°30'26.98" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'34.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°27'31.42" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°23'51.77" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°35'18.04" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°29'41.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°30'22.64" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'28.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°58'37.83" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Gaosjun,  Gaosyongshih,  Gaoxiong,  Gaoxiongshi,  KHH,  Kao-hsiung,  Kao-hsiung-shih,  Kaohsiung,  Kaohsiung City,  Takao,  gao xiong,  gao xiong fu,  gao xiong shi,  gaosyung si,  Гаосюн,  高雄,  高雄巿,  高雄市,  가오슝 시
+Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시
 
 ---

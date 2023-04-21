@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'11.75" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°39'50.37" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°57'5.66" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°30'50.70" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°0'33.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'35.85" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°6'3.77" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°57'5.55" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°30'48.26" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°0'34.58" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'34.11" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°47'31.60" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°31'11.75" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°39'50.37" |Aries|Butain|Venus|
 |♂ Mars|Direct|12°57'5.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°30'50.70" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°0'33.74" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'35.85" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°6'3.77" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|29°30'48.25" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°0'34.69" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'34.16" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°47'31.60" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: NGO,  Nagoia,  Nagoja,  Nagojo,  Nagoya,  Nagoya City,  Nagoya-shi,  ming gu wu,  ming gu wu shi,  na ngoa ya,  naghwya,  nagoya si,  nagoyashi,  nagwya  aychy,  Нагоя,  ناغويا,  ناگویا، آیچی,  นะโงะยะ,  なごやし,  名古屋,  名古屋市,  나고야 시
+Alternate Names: NGO, Nagoia, Nagoja, Nagojo, Nagoya, Nagoya City, Nagoya-shi, ming gu wu, ming gu wu shi, na ngoa ya, naghwya, nagoya si, nagoyashi, nagwya  aychy, Нагоя, ناغويا, ناگویا، آیچی, นะโงะยะ, なごやし, 名古屋, 名古屋市, 나고야 시
 
 ---

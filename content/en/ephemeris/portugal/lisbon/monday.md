@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'11.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°43'11.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°18'55.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°48'16.45" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°2'25.33" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°13'50.15" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°32'29.68" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°43'12.32" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°18'47.60" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°48'21.24" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°2'19.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°13'53.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°43'42.40" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'11.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°43'12.88" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°18'51.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°48'24.49" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°2'25.33" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°13'50.15" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°32'29.68" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°43'12.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°18'47.60" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°48'21.24" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°2'19.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°13'53.30" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°43'42.40" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Felicitas Julia,  Felicitas Julia Olissipo,  LIS,  Liospoin,  Liospóin,  Lisabon,  Lisabona,  Lisboa,  Lisbon,  Lisbona,  Lisbonne,  Lisbono,  Lisbonum,  Lisimba,  Lisimbã,  Lissabon,  Lisszabon,  Lizboa,  Lizbon,  Lizbona,  Olisipo,  Olissipo,  li si ben,  lisabana,  lisaboni,  lisbana,  lisbxn,  liseubon,  lshbwnt,  lysabwn,  lysbwn,  risubon,  Λισαβώνα,  Лисабон,  Лиссабон,  Лісабон,  Լիսբոնա,  ליסבון,  لشبونة,  لىسابون,  لیسبون,  ܠܫܒܘܢܐ,  लिस्बन,  লিসবন,  ลิสบอน,  ལ་ས་བན།,  ལི་སི་བཱོན།,  ლისაბონი,  ሊዝቦን,  リスボン,  里斯本,  리스본
+Alternate Names: Felicitas Julia, Felicitas Julia Olissipo, LIS, Liospoin, Liospóin, Lisabon, Lisabona, Lisboa, Lisbon, Lisbona, Lisbonne, Lisbono, Lisbonum, Lisimba, Lisimbã, Lissabon, Lisszabon, Lizboa, Lizbon, Lizbona, Olisipo, Olissipo, li si ben, lisabana, lisaboni, lisbana, lisbxn, liseubon, lshbwnt, lysabwn, lysbwn, risubon, Λισαβώνα, Лисабон, Лиссабон, Лісабон, Լիսբոնա, ליסבון, لشبونة, لىسابون, لیسبون, ܠܫܒܘܢܐ, लिस्बन, লিসবন, ลิสบอน, ལ་ས་བན།, ལི་སི་བཱོན།, ლისაბონი, ሊዝቦን, リスボン, 里斯本, 리스본
 
 ---

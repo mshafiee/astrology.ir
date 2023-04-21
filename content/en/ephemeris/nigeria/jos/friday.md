@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'12.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'38.99" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°41'5.99" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°51'17.52" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°59'39.40" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°41'10.37" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°51'19.74" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°35'7.34" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°37'23.92" |Aries|Butain|Sun|
 |☾ Moon|Direct|14°47'59.64" |Aries|Butain|Sun|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'12.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'38.99" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°41'5.99" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°51'17.52" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°35'1.88" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'18.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°25'23.94" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°59'39.40" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°41'9.98" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°51'19.66" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°35'7.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'24.06" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°48'27.86" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Dzhos,  Dzos,  Dżos,  JOS,  Jos,  joseu,  josu,  jws,  jws  nayjyrya,  qiao si,  Џос,  Джос,  Йос,  جوس,  جوس، نائجیریا,  ジョス,  乔斯,  조스
+Alternate Names: Dzhos, Dzos, Dżos, JOS, Jos, joseu, josu, jws, jws  nayjyrya, qiao si, Џос, Джос, Йос, جوس, جوس، نائجیریا, ジョス, 乔斯, 조스
 
 ---

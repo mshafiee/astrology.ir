@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'29.82" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°56'4.88" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°47'56.38" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°40'51.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°3'35.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'58.03" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°29'5.14" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°47'56.64" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°40'45.75" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°3'32.70" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'49.15" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°22'54.72" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Barsobia,  Varsa,  Varsava,  Varsavia,  Varsavja,  Varshava,  Varshavae,  Varsja,  Varsjá,  Varso,  Varsova,  Varsovia,  Varsovia - Warszawa,  Varsovie,  Varsovio,  Varssavi,  Varsuva,  Varsòvia,  Varsó,  Varsóvia,  Varşova,  Varšava,  Varšuva,  Varșovia,  Vársá,  WAW,  Warsaw,  Warsawa,  Warschau,  Warskou,  Warszaw,  Warszawa,  Waršawa,  baleusyaba,  hua sha,  varshava,  vorso,  warsw,  warushawa,  wrsh,  wrshw,  wrsw,  wxrsx,  Βαρσοβία,  Варшавæ,  Варшава,  Վարշավա,  ווארשע,  ורשה,  װאַרשע,  وارسو,  ورشو,  ۋارشاۋا,  ܘܪܣܘ,  वॉर्सो,  วอร์ซอ,  ვარშავა,  ዋርሶው,  ワルシャワ,  华沙,  華沙,  바르샤바
+Alternate Names: Barsobia, Varsa, Varsava, Varsavia, Varsavja, Varshava, Varshavae, Varsja, Varsjá, Varso, Varsova, Varsovia, Varsovia - Warszawa, Varsovie, Varsovio, Varssavi, Varsuva, Varsòvia, Varsó, Varsóvia, Varşova, Varšava, Varšuva, Varșovia, Vársá, WAW, Warsaw, Warsawa, Warschau, Warskou, Warszaw, Warszawa, Waršawa, baleusyaba, hua sha, varshava, vorso, warsw, warushawa, wrsh, wrshw, wrsw, wxrsx, Βαρσοβία, Варшавæ, Варшава, Վարշավա, ווארשע, ורשה, װאַרשע, وارسو, ورشو, ۋارشاۋا, ܘܪܣܘ, वॉर्सो, วอร์ซอ, ვარშავა, ዋርሶው, ワルシャワ, 华沙, 華沙, 바르샤바
 
 ---

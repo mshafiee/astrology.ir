@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'51.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'9.01" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'33.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°32'55.08" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°54'22.19" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'35.69" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°55'23.70" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'9.05" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'34.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°32'55.33" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°54'22.70" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'36.23" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°58'53.36" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: LKO,  Lakhnau,  Lakkhnau,  Lakkhnau shaary,  Laknaou,  Laknau,  Laknauo,  Laknava,  Laknaú,  Laknaŭo,  Lucknow,  Lucknow City,  Luknow,  ilakno,  lakh nea,  lakhana'u,  lakhanau,  laknau,  lakno,  laksnau,  lei ke nao,  leokeunau,  lkhnw,  lknaw,  rakunau,  Λάκναου,  Лакнау,  Лакхнау,  Лакхнау шаары,  לאקנאו,  لكهنؤ,  لكهنو,  لکناو,  لکهنو,  لکھنؤ,  लखनऊ,  लखनौ,  লক্ষ্ণৌ,  লখনৌ,  ਲਖਨਊ,  લખનૌ,  ଲକ୍ଷ୍ନୌ,  இலக்னோ,  లక్నో,  ಲಕ್ನೋ,  ലഖ്
+Alternate Names: LKO, Lakhnau, Lakkhnau, Lakkhnau shaary, Laknaou, Laknau, Laknauo, Laknava, Laknaú, Laknaŭo, Lucknow, Lucknow City, Luknow, ilakno, lakh nea, lakhana'u, lakhanau, laknau, lakno, laksnau, lei ke nao, leokeunau, lkhnw, lknaw, rakunau, Λάκναου, Лакнау, Лакхнау, Лакхнау шаары, לאקנאו, لكهنؤ, لكهنو, لکناو, لکهنو, لکھنؤ, लखनऊ, लखनौ, লক্ষ্ণৌ, লখনৌ, ਲਖਨਊ, લખનૌ, ଲକ୍ଷ୍ନୌ, இலக்னோ, లక్నో, ಲಕ್ನೋ, ലഖ്‌നൗ, ลัคเนา, ლაქნაუ, ラクナウ, ラクナウー, 勒克瑙, 러크나우
 
 ---

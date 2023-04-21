@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'33.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°0'38.51" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°43'28.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°55'17.05" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°39'55.15" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'17.37" |Aries|Butain|Sun|
-|☾ Moon|Direct|15°1'25.00" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°0'39.35" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°43'28.58" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°55'22.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°39'57.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'24.01" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°31'41.14" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°38'32.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°0'38.51" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°43'28.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°55'25.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°39'55.48" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'25.96" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°1'25.00" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°38'33.39" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°0'39.35" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°43'28.58" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°55'22.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°39'57.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'24.01" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|15°31'41.14" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: DKR,  Dacar,  Dacár,  Dakaa,  Dakar,  Dakara,  Dakaras,  Dakaro,  Ndakaaru,  Ntakar,  da ka er,  dakaleu,  dakar,  dakara,  dakaru,  dqr,  takkar,  Ντακάρ,  Дакар,  Դակար,  דאקאר,  דקר,  داكار,  داکار,  ڈا کار,  ڈاکار,  डकार,  ডাকার,  ਡਾਕਾਰ,  டக்கார்,  ഡാക്കർ,  ดาการ์,  ཌ་ཀར།,  დაკარი,  ዳካር,  ダカール,  達喀爾,  다카르
+Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르
 
 ---

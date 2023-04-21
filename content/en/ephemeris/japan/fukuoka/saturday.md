@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°8'56.78" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°1'55.05" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°29'4.10" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°19'22.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'36.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°55'17.25" |Aries|Butain|Venus|
+|♀ Venus|Direct|12°19'23.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'39.65" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°6'25.86" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'26.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°8'56.78" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°1'55.05" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°29'2.27" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°19'22.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'36.96" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°55'17.25" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°8'54.85" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°1'56.64" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°28'52.47" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°19'19.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'24.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°6'42.40" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: FUK,  Fucuoca,  Fukuoka,  Fukuoka-shi,  Fukuokashi,  Fukuoko,  Hukuoka,  fu gang,  fu gang shi,  fukuoka,  fukuokashi,  fwkwka,  hukuoka si,  Фукуока,  فوكوكا,  ふくおか,  ふくおかし,  フクオカ,  フクオカシ,  福岡,  福岡市,  후쿠오카 시
+Alternate Names: FUK, Fucuoca, Fukuoka, Fukuoka-shi, Fukuokashi, Hukuoka, fu gang, fu gang shi, fukuoka, fukuokashi, fwkwka, hukuoka si, Фукуока, فوكوكا, ふくおか, ふくおかし, フクオカ, フクオカシ, 福岡, 福岡市, 후쿠오카 시
 
 ---

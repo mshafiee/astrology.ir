@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°54'55.64" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°30'38.05" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°32'6.11" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°12'33.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'43.53" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°1'15.41" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|11°12'34.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'45.37" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°9'27.21" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'32.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°54'55.42" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°30'37.71" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°32'4.88" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°12'33.56" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'43.53" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°1'15.41" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°54'54.04" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°30'37.78" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°31'56.35" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°12'28.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'32.12" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°6'19.70" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: SHA,  San'nkae,  Sanchajus,  Sangaj,  Sangay,  Sanghaj,  Sanghay,  Sanhaja,  Sanhajo,  Sanxay,  Schanghai,  Shang-hai,  Shang-hai-shih,  Shangai,  Shangaj,  Shanghai,  Shanghai - shang hai,  Shanghai - 上海,  Shankhaj,  Sjanghae,  Sjanghai,  Sjanghæ,  Szanghaj,  Thuong Hai,  Thượng Hải,  Xangai,  cankay,  sangha'i,  sanghae,  sanghai,  seiynghi,  shang hai,  shang hai shi,  shanghay,  shanghhay,  shanhai,  zhong guo shang hai,  Ŝanhajo,  Şangay,  Şanghay,  Şanxay,  Šanchajus,  Šangaj,  Šanghaj,  Šanhaja,  Σανγκάη,  Шангај,  Шанхай,  שאנגחאי,  شانغهاي,  شانگهای,  شاڭخەي,  شاڭخەي شەھىرى,  সাংঘাই,  சாங்காய்,  เซี่ยงไฮ้,  შანჰაი,  上海,  上海市,  中国上海,  상하이,  상해
+Alternate Names: SHA, San'nkae, Sanchajus, Sangaj, Sangay, Sanghaj, Sanghay, Sanhaja, Sanhajo, Sanxay, Schanghai, Shang-hai, Shang-hai-shih, Shangai, Shangaj, Shanghai, Shanghai - shang hai, Shanghai - 上海, Shankhaj, Sjanghae, Sjanghai, Sjanghæ, Szanghaj, Thuong Hai, Thượng Hải, Xangai, cankay, sangha'i, sanghae, sanghai, seiynghi, shang hai, shang hai shi, shanghay, shanghhay, shanhai, zhong guo shang hai, Ŝanhajo, Şangay, Şanghay, Şanxay, Šanchajus, Šangaj, Šanghaj, Šanhaja, Σανγκάη, Шангај, Шанхай, שאנגחאי, شانغهاي, شانگهای, شاڭخەي, شاڭخەي شەھىرى, সাংঘাই, சாங்காய், เซี่ยงไฮ้, შანჰაი, 上海, 上海市, 中国上海, 상하이, 상해
 
 ---

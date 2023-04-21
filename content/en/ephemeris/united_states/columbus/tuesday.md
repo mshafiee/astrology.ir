@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'57.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'29.61" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°57'55.70" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°58'44.08" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°24'21.24" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°51'8.09" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°45'45.95" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|25°0'29.59" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°57'55.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°58'43.98" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°24'28.76" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'27.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°10'8.33" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'57.86" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'29.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°57'55.70" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°58'44.08" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°24'29.07" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'27.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°45'45.95" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'29.59" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°57'55.48" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°58'43.98" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°24'28.76" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'27.72" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°10'8.33" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: CMH,  Columbopolis,  Columbus,  Columbus i Ohio,  Franklin,  Franklinton,  Kalumbus,  Kolambus,  Kolompous,  Kolumbas,  Kolumbo,  Kolumbs,  Kolumbu,  Kolumbus,  Kolumbusa,  Kulumbus,  ge lun bu,  kalabasa,  kalambasa,  kholambas,  klmbws  awhayw,  kolambas,  kolambasa,  kolampas,  kolleombeoseu,  koronbasu,  kwlwmbws,  qwlwmbws,  Κολόμπους,  Калумбус,  Коламбус,  Колумбус,  Кълъмбъс,  Կոլումբուս,  קאלומבוס,  קולומבוס,  كولومبوس,  کلمبوس، اوهایو,  کولمبس، اوہائیو,  कोलंबस,  कोलम्बस,  कोलम्बस्,  কলম্বাস,  ਕਲੰਬਸ,  கொலம்பஸ்,  โคลัมบัส,  კოლუმბუსი,  コロンバス,  哥伦布,  哥倫布,  콜럼버스
+Alternate Names: CMH, Columbopolis, Columbus, Columbus i Ohio, Franklin, Franklinton, Kalumbus, Kolambus, Kolompous, Kolumbas, Kolumbs, Kolumbu, Kolumbus, Kolumbusa, Kulumbus, ge lun bu, kalabasa, kalambasa, kholambas, klmbws  awhayw, kolambas, kolambasa, kolampas, kolleombeoseu, koronbasu, kwlwmbws, qwlwmbws, Κολόμπους, Калумбус, Коламбус, Колумбус, Кълъмбъс, Կոլումբուս, קאלומבוס, קולומבוס, كولومبوس, کلمبوس، اوهایو, کولمبس، اوہائیو, कोलंबस, कोलम्बस, कोलम्बस्, কলম্বাস, ਕਲੰਬਸ, கொலம்பஸ், โคลัมบัส, კოლუმბუსი, コロンバス, 哥伦布, 哥倫布, 콜럼버스
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'1.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°45'43.04" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°24'30.54" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°58'36.63" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°14'19.61" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°11'18.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°0'30.77" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°45'42.94" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°24'31.67" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°58'36.10" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°14'20.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°11'18.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°8'45.24" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'1.69" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°45'43.04" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°24'30.54" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°58'36.63" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°14'19.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°11'18.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°0'30.77" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°45'42.97" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°24'29.71" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°58'36.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°14'18.50" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°11'17.90" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°52'56.45" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Barra do Rio Negro,  MAO,  Manaos,  Manaus,  Manauso,  Manaŭso,  Manos,  Manáos,  ma nao si,  manausu,  Манаус,  Манаўс,  מנאוס,  マナウス,  马瑙斯
+Alternate Names: Barra do Rio Negro, MAO, Manaos, Manaus, Manos, Manáos, ma nao si, manausu, Манаус, Манаўс, מנאוס, マナウス, 马瑙斯
 
 ---

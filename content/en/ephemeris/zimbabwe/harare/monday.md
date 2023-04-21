@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'51.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°42'13.32" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°16'36.69" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°44'14.09" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°57'41.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'1.02" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°56'37.94" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°42'13.31" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°16'36.50" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°44'23.31" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°57'42.12" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'12.73" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°53'5.00" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°52'51.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'13.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°16'36.69" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|4°52'51.05" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°42'13.31" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°16'36.50" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°44'23.36" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°57'42.36" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'12.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°54'43.14" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|15°15'12.73" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°53'5.00" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Arare,  Charare,  HRE,  Harare,  Hararensis Urbs,  Harareo,  Hararė,  Kharare,  Kharareh,  Salisbury,  ha la lei,  halale,  harare,  harary,  hrarh,  hrary,  Χαράρε,  Хараре,  Харарэ,  Հարարե,  הארארה,  هارارى,  هراره,  هراري,  ھارارې,  ھەرارێ,  ہرارے,  हरारे,  ਹਰਾਰੇ,  ହାରାରେ,  ஹராரே,  ฮาราเร,  ཧ་ར་རི།,  ჰარარე,  ሀራሬ,  ハラレ,  哈拉雷,  하라레
+Alternate Names: Arare, Charare, HRE, Harare, Hararensis Urbs, Harareo, Hararė, Kharare, Kharareh, Salisbury, ha la lei, halale, harare, harary, hrarh, hrary, Χαράρε, Хараре, Харарэ, Հարարե, הארארה, هارارى, هراره, هراري, ھارارې, ھەرارێ, ہرارے, हरारे, ਹਰਾਰੇ, ହାରାରେ, ஹராரே, ฮาราเร, ཧ་ར་རི།, ჰარარე, ሀራሬ, ハラレ, 哈拉雷, 하라레
 
 ---

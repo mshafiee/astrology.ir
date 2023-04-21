@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'7.10" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°45'14.06" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°9'10.86" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°52'40.51" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°26'25.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'25.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°7'34.07" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°45'14.73" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°9'6.49" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°52'45.12" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°26'23.51" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'28.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°40'14.05" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'7.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°45'14.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°9'10.86" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°52'40.51" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°26'25.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'25.66" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°7'34.07" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°45'15.22" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°9'9.87" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°52'47.60" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°26'28.39" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'34.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°56'6.39" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Baile Atha Cliath,  Baile Átha Cliath,  Ciuda de Dublin,  Ciudá de Dublín,  DUB,  Dablin,  Diblin,  Difelin,  Divlyn,  Doublino,  Dublin,  Dublin city,  Dublina,  Dublinas,  Dublini,  Dublino,  Dublinu,  Dublín,  Dublîn,  Dueblin,  Dulenn,  Dulyn,  Dyflinn,  Düblin,  Eblana,  dabalina,  dablin,  dablina,  daburin,  dbln,  dblyn,  deobeullin,  dou bai lin,  dublini,  dwblyn,  taplin,  Δουβλίνο,  Даблин,  Дублин,  Дублін,  Дъблин,  Դուբլին,  דבלין,  דובלין,  دبلن,  دوبلين,  دوبلین,  دۇبلىن,  ڈبلن,  ډبلن,  ܕܒܠܢ,  डब्लिन,  दब्लिन,  ডাবলিন,  ਡਬਲਿਨ,  டப்லின்,  ಡಬ್ಲಿನ್,  ഡബ്ലിൻ,  ดับลิน,  དུབ་ལིན།,  ဒပ်ဗလင်မြို့,  დუბლინი,  ደብሊን,  ダブリン,  都柏林,  더블린
+Alternate Names: Baile Atha Cliath, Baile Átha Cliath, Ciuda de Dublin, Ciudá de Dublín, DUB, Dablin, Diblin, Difelin, Divlyn, Doublino, Dublin, Dublin city, Dublina, Dublinas, Dublini, Dublino, Dublinu, Dublín, Dublîn, Dueblin, Dulenn, Dulyn, Dyflinn, Düblin, Eblana, dabalina, dablin, dablina, daburin, dbln, dblyn, deobeullin, dou bai lin, dublini, dwblyn, taplin, Δουβλίνο, Даблин, Дублин, Дублін, Дъблин, Դուբլին, דבלין, דובלין, دبلن, دوبلين, دوبلین, دۇبلىن, ڈبلن, ډبلن, ܕܒܠܢ, डब्लिन, दब्लिन, ডাবলিন, ਡਬਲਿਨ, டப்லின், ಡಬ್ಲಿನ್, ഡബ്ലിൻ, ดับลิน, དུབ་ལིན།, ဒပ်ဗလင်မြို့, დუბლინი, ደብሊን, ダブリン, 都柏林, 더블린
 
 ---

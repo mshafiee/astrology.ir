@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'37.25" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'59.21" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°37'31.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°44'30.83" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°27'14.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'11.05" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°50'32.55" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°57'59.80" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°37'28.23" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°44'34.61" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°27'12.65" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'13.50" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°5'40.26" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'37.25" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°57'59.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°37'28.23" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°44'34.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°27'12.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'13.78" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°6'27.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°37'27.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°44'34.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°27'12.05" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'13.50" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°5'40.26" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al-Riad,  Al-Riyad,  Ar Riyadh,  Ar Riyādh,  Ar-Riaad,  Ar-Rijad,  Ar-Riyad,  Ar-Riyod,  Ar-Riyāḑ,  Ehr-Rijad,  Ehr-Ryjad,  Er-Rijad,  Er-riyad,  RUH,  Riaad,  Riad,  Riade,  Riadi,  Riado,  Riadum,  Riant,  Rihad,  Rijad,  Rijada,  Rijadas,  Rijád,  Rijāda,  Riyad,  Riyadh,  Riyaḍ,  Ríad,  alryad,  er-riadi,  li ya de,  liyadeu,  raiyadha,  ri'ada,  ri'adha,  riyad,  riyada,  riyadh,  riyadha,  riyado,  riyat,  ryad,  ryyad,  Ər-Riyad,  Ριάντ,  Ар-Рияд,  Ер-Ріяд,  Рияд,  Ријад,  Эр-Рияд,  Эр-Рыяд,  Ալ-Ռիադ,  ריאד,  الرياض,  رىياد,  رياض,  ریاض,  ڕیاز,  रियाद,  रियाध,  রিয়াদ,  ৰিয়াধ,  ਰਿਆਧ,  ରିଆଦ,  ரியாத்,  ರಿಯಾಧ್,  റിയാദ്,  ริยาด,  རིས་ཡག,  ერ-რიადი,  ሪያድ,  リヤド,  利雅得,  利雅德,  리야드
+Alternate Names: Al-Riad, Al-Riyad, Ar Riyadh, Ar Riyādh, Ar-Riaad, Ar-Rijad, Ar-Riyad, Ar-Riyod, Ar-Riyāḑ, Ehr-Rijad, Ehr-Ryjad, Er-Rijad, Er-riyad, RUH, Riaad, Riad, Riade, Riadi, Riado, Riadum, Riant, Rihad, Rijad, Rijada, Rijadas, Rijád, Rijāda, Riyad, Riyadh, Riyaḍ, Ríad, alryad, er-riadi, li ya de, liyadeu, raiyadha, ri'ada, ri'adha, riyad, riyada, riyadh, riyadha, riyado, riyat, ryad, ryyad, Ər-Riyad, Ριάντ, Ар-Рияд, Ер-Ріяд, Рияд, Ријад, Эр-Рияд, Эр-Рыяд, Ալ-Ռիադ, ריאד, الرياض, رىياد, رياض, ریاض, ڕیاز, रियाद, रियाध, রিয়াদ, ৰিয়াধ, ਰਿਆਧ, ରିଆଦ, ரியாத், ರಿಯಾಧ್, റിയാദ്, ริยาด, རིས་ཡག, ერ-რიადი, ሪያድ, リヤド, 利雅得, 利雅德, 리야드
 
 ---

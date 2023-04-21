@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°46'56.94" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°24'52.57" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°37'35.70" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°33'41.25" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°35'5.38" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'46.68" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°37'13.08" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°33'44.29" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°35'4.71" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'49.77" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°37'27.90" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'56.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'51.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°37'32.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°33'41.25" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°35'5.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'46.68" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°37'13.08" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'51.61" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°37'30.03" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°33'44.29" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°35'4.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'49.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°37'27.90" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kyatpyay,  Kyetpyay,  NYT,  Naipidau,  Nay Pyi Taw,  Naypyidaw,  Naypyitaw,  Ne Pyi Daw,  Pyinmana,  naepido,  nepido,  내피도,  네피도
+Alternate Names: Kyatpyay, Kyetpyay, NYT, Naipidau, Nay Pyi Taw, Naypyidaw, Naypyitaw, Ne Pyi Daw, Pyinmana, naepido, nepido, 내피도, 네피도
 
 ---

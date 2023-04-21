@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'20.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°0'2.96" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°42'2.56" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°52'55.41" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°36'56.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'12.05" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°8'51.22" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°0'3.10" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°42'5.06" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°52'55.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°37'2.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'27.10" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°17'35.25" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°38'20.47" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°0'2.96" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°42'2.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°52'44.49" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°36'56.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'12.05" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°8'51.22" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°52'55.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°36'59.67" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'27.10" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|15°17'35.25" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Huagadugu,  OUA,  Ouagadouga,  Ouagadougou,  Ouankantounkou,  Ougadougou,  Owagadugu,  Uagadougou,  Uagadugu,  Uagaduguo,  Uagadugú,  Uaqaduqu,  Vagadugu,  Waaduu,  Wagadugu,  Wàadúu,  awagadwgw,  uagadugu,  vagadugu,  vakatuku,  wa jia du gu,  wa ka du ku,  wagadougu,  wagadugu,  wagadwgw,  wagadwwgww,  waghadwghw,  Ουαγκαντουγκού,  Ουαγκαντούγκου,  Уагадугу,  Ուագադուգու,  ואגאדוגו,  וואגאדוגו,  آواگادوگو,  اوآگادوگو,  اوگاڈوگو,  واغادوغو,  واگادووگوو,  واگادوگو,  वागाडुगू,  ਵਾਗਾਦੁਗੂ,  வாகடூகு,  วากาดูกู,  ཨོ་འ་ག་དོའུ་གོའུ།,  უაგადუგუ,  ዋጋዱጉ,  ワガドゥグー,  瓦加杜古,  와가두구
+Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구
 
 ---

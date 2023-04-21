@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'43.25" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'7.81" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°42'39.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°42'59.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°46'2.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'31.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°55'30.92" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°27'7.22" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°42'39.21" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°42'55.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°45'55.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'23.56" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°10'43.43" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'43.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°27'7.81" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°42'39.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°42'59.35" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°45'57.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'31.22" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°55'30.92" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°27'7.22" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°42'39.21" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°42'55.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°45'55.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'23.56" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°10'43.43" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BEY,  Baeyrut,  Bairut,  Bayrut,  Bayrūt,  Beiriut,  Beiroet,  Beirot,  Beirots,  Beirout,  Beiroūt,  Beirut,  Beiruta,  Beirutas,  Beirute,  Beirút,  Beirût,  Beirūta,  Bejrut,  Bejrut oshs',  Bejruti,  Bejruto,  Bejrút,  Berut,  Berytos,  Berytus,  Bewout,  Beyrouth,  Beyrut,  Bey
+Alternate Names: BEY, Baeyrut, Bairut, Bayrut, Bayrūt, Beiriut, Beiroet, Beirot, Beirots, Beirout, Beiroūt, Beirut, Beiruta, Beirutas, Beirute, Beirút, Beirût, Beirūta, Bejrut, Bejrut oshs', Bejruti, Bejruto, Bejrút, Berut, Berytos, Berytus, Bewout, Beyrouth, Beyrut, Bey­rutʻ, Birut, Bäyrut, Béiriút, Bêrût, bairut, bairuta, bayrut, bei lu te, beiluteu, beiruti, beiruto, berut, beruta, beyaruta, beyruta, bey‌rutt, biruta, byrwt, byyrwt, peyrut, Βηρυτός, Бейрут, Бейрут ошсь, Бејрут, Бәйрут, Բեյ­րութ, ביירוט, ביירות, بيروت, بَيْرُوت, بیروت, بېيرۇت, بەیرووت, ܒܝܪܘܬ, बेयरूत, बेय्रुत, बैरूत, বৈরুত, ਬੇਰੂਤ, ବିରୁଟ, பெய்ரூத், ಬೈರುತ್, ബെയ്‌റൂത്ത്, เบรุต, པ་ར་ཐ།, པེ་རུ་ཐེ།, ဘေရွတ်မြို့, ბეირუთი, ቤይሩት, ベイルート, 貝魯特, 贝鲁特, 베이루트
 
 ---

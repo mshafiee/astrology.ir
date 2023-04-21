@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°9'46.35" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°3'45.08" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°32'26.50" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°23'12.83" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'14.64" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°54'53.06" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°23'19.50" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'34.22" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°11'38.15" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Djumpandang,  Kota Makassar,  Macassar,  Makasar,  Makasaras,  Makassar,  Makasser,  UPG,  Udjung Pandang,  Ujungpandang,  makasaleu,  makasar,  makassaru,  Макассар,  ماکاسار,  マカッサル,  마카사르
+Alternate Names: Djumpandang, Kota Makassar, Macassar, Makasar, Makasaras, Makassar, Makasser, UPG, Udjung Pandang, Ujungpandang, makasaleu, makasar, makassaru, Макассар, ماکاسار, マカッサル, 마카사르
 
 ---

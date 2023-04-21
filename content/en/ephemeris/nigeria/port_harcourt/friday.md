@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'14.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'44.85" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°41'25.52" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°51'48.32" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°35'40.69" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'24.85" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°56'47.66" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'46.39" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°41'25.40" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°51'48.18" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°35'40.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'24.60" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°55'44.59" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°38'14.67" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'46.41" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°41'25.52" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°51'48.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°35'40.69" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'14.29" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°6'56.54" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°38'14.68" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°59'46.39" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°41'25.40" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°51'48.18" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°35'40.50" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'24.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°55'44.59" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: PHC,  Port Harcourt,  Port Harkortas,  Port Kharkurt,  Port-Kharkort,  Ugwu Ocha,  Ugwu Ọcha,  bwrt harkwrt,  ha ke te gang,  poteuhakeoteu,  potohakoto,  pwrt hrqwrt,  Порт Харкурт,  Порт-Харкорт,  פורט הרקורט,  بورت هاركورت,  ポートハーコート,  哈科特港,  포트하커트
+Alternate Names: PHC, Port Harcourt, Port Harkortas, Port Kharkurt, Port-Kharkort, Ugwu Ocha, Ugwu Ọcha, bwrt harkwrt, ha ke te gang, poteuhakeoteu, potohakoto, pwrt hrqwrt, Порт Харкурт, Порт-Харкорт, פורט הרקורט, بورت هاركورت, ポートハーコート, 哈科特港, 포트하커트
 
 ---

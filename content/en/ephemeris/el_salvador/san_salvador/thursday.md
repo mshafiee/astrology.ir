@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'29.76" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°49'5.90" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°17'45.39" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°8'22.07" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°44'50.94" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°49'7.78" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°17'43.36" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°8'22.20" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°44'51.95" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'12.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°40'36.30" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°54'1.44" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: SAL,  Salvador,  San Salbador,  San Salvado,  San Salvador,  San Salvadoras,  San Salvadori,  San Salvadò,  San Salwador,  San-Sal'vador,  San-Salvador,  San-Salvadoro,  Sansalvadora,  Urbs Sancti Salvatoris,  can calvator,  san salvadwr,  san salwadwr,  san slfadwr,  san-salvadori,  sana salavadora,  sana salvhadora,  sana-salvadora,  sansalbadoleu,  sansalwadxr,  sansarubadoru,  sheng sa er wa duo,  sn slwwdwr,  Σαν Σαλβαδόρ,  Сан Салвадор,  Сан-Сальвадор,  Սան Սալվադոր,  סאן סאלוואדאר,  סן סלוודור,  سان سالوادور,  سان سالۋادور,  سان سلفادور,  سان سلواڈور,  सान साल्व्हाडोर,  सान-साल्वाडोर,  ਸਾਨ ਸਾਲਵਾਦੋਰ,  சான் சல்வடோர்,  ซันซัลวาดอร์,  སན་སལ་ཝ་ཌོར།,  სან-სალვადორი,  ሳን ሳልቫዶር,  サンサルバドル,  聖薩爾瓦多,  산살바도르
+Alternate Names: SAL, Salvador, San Salbador, San Salvado, San Salvador, San Salvadoras, San Salvadori, San Salvadò, San Salwador, San-Sal'vador, San-Salvador, San-Salvadoro, Sansalvadora, Urbs Sancti Salvatoris, can calvator, san salvadwr, san salwadwr, san slfadwr, san-salvadori, sana salavadora, sana salvhadora, sana-salvadora, sansalbadoleu, sansalwadxr, sansarubadoru, sheng sa er wa duo, sn slwwdwr, Σαν Σαλβαδόρ, Сан Салвадор, Сан-Сальвадор, Սան Սալվադոր, סאן סאלוואדאר, סן סלוודור, سان سالوادور, سان سالۋادور, سان سلفادور, سان سلواڈور, सान साल्व्हाडोर, सान-साल्वाडोर, ਸਾਨ ਸਾਲਵਾਦੋਰ, சான் சல்வடோர், ซันซัลวาดอร์, སན་སལ་ཝ་ཌོར།, სან-სალვადორი, ሳን ሳልቫዶር, サンサルバドル, 聖薩爾瓦多, 산살바도르
 
 ---

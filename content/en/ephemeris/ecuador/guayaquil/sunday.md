@@ -20,7 +20,7 @@ Latitude: -2.1962
 \-
 Longitude: -79.8862
 \-
-Altitude: 14 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Guayaquil, Ecuador" lat="-2.1962" lng="-79.8862" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'25.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°32'7.14" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°53'54.21" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°3'17.23" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°9'43.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'48.03" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°21'35.95" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°32'6.93" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°53'52.72" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°3'16.27" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°9'41.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'45.87" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°8'25.08" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'25.50" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°32'7.14" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°53'54.21" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°3'17.23" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°9'43.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'48.03" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°21'35.95" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°32'6.93" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°53'52.72" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°3'16.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°9'41.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'45.87" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°8'25.08" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: GYE,  Gouagiakil,  Guaiaquil,  Guaiaquilum,  Guajakil,  Guajakil',  Guayaquil,  Gvajakil,  Gvajakila,  Gvajakilis,  Gvajakilo,  Santiago de Guayaquil,  Wayakil,  ghwayakyl,  gu'a'i'akila,  gua ya ji er,  guayakiru,  gvayakila,  gwayakil,  gwayakl,  gwayakwyl,  gwayakywl,  kwa yaki l,  Γουαγιακίλ,  Гвајакил,  Гуаякил,  Гуаякиль,  Гуаякіль,  Ґуаякіль,  גואיאקיל,  غواياكيل,  گوآیاکوئل,  گوایاکل,  گوایاکیول,  ग्वायाकिल,  ਗੁਆਇਆਕੀਲ,  กวายากิล,  გუაიაკილი,  グアヤキル,  瓜亞基爾,  과야킬
+Alternate Names: GYE, Gouagiakil, Guaiaquil, Guaiaquilum, Guajakil, Guajakil', Guayaquil, Gvajakil, Gvajakila, Gvajakilis, Santiago de Guayaquil, Wayakil, ghwayakyl, gu'a'i'akila, gua ya ji er, guayakiru, gvayakila, gwayakil, gwayakl, gwayakwyl, gwayakywl, kwa yaki l, Γουαγιακίλ, Гвајакил, Гуаякил, Гуаякиль, Гуаякіль, Ґуаякіль, גואיאקיל, غواياكيل, گوآیاکوئل, گوایاکل, گوایاکیول, ग्वायाकिल, ਗੁਆਇਆਕੀਲ, กวายากิล, გუაიაკილი, グアヤキル, 瓜亞基爾, 과야킬
 
 ---

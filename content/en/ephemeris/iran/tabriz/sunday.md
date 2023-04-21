@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'33.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°26'38.74" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°41'38.77" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°41'0.88" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°43'43.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'51.06" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°59'28.89" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°26'38.67" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°41'34.59" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°41'0.80" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°43'39.27" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'48.65" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°3'19.90" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'33.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°26'38.74" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°41'38.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°41'0.88" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°43'43.86" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'51.06" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°29'10.53" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°26'38.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°41'34.59" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°41'0.80" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°43'39.27" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'48.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°3'19.90" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: TBZ,  Tabrez,  Tabris,  Tabriz,  Tabrizo,  Tabríz,  Tabrīz,  Taebris,  Taebriz,  Tampriz,  Tauris,  Tebriz,  Tebriza,  Tebrizas,  Tebrīza,  Tehbryz,  Tewrez,  Tewrêz,  Toewriz,  Täbris,  Täbriz,  Töwriz,  Təbriz,  da bu li shi,  ta bris,  tabareza,  tabariza,  tabeulijeu,  tabris,  taburizu,  tavrizi,  tbryz,  Ταμπρίζ,  Табрез,  Табриз,  Тебриз,  Тэбрыз,  Тәбриз,  Թավրիզ,  טאבריז,  תבריז,  تبريز,  تبریز,  تەورێز,  तबरेज़,  ਤਬਰੀਜ਼,  ടാബ്രിസ്,  ตาบริซ,  ཊ་བི་རི་ཛ།,  თავრიზი,  タブリーズ,  大不里士,  타브리즈
+Alternate Names: TBZ, Tabrez, Tabris, Tabriz, Tabrizo, Tabríz, Tabrīz, Taebris, Taebriz, Tampriz, Tauris, Tebriz, Tebriza, Tebrizas, Tebrīza, Tehbryz, Tewrez, Tewrêz, Toewriz, Täbris, Täbriz, Töwriz, Təbriz, da bu li shi, ta bris, tabareza, tabariza, tabeulijeu, tabris, taburizu, tavrizi, tbryz, Ταμπρίζ, Табрез, Табриз, Тебриз, Тэбрыз, Тәбриз, Թավրիզ, טאבריז, תבריז, تبريز, تبریز, تەورێز, तबरेज़, ਤਬਰੀਜ਼, ടാബ്രിസ്, ตาบริซ, ཊ་བི་རི་ཛ།, თავრიზი, タブリーズ, 大不里士, 타브리즈
 
 ---

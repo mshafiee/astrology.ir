@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'49.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'35.32" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°38'48.28" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°46'57.83" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°30'2.46" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'19.87" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°52'14.50" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°58'35.19" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°38'53.40" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°46'56.45" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°30'7.10" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'13.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°17'26.01" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'49.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'36.39" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°38'48.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°47'3.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°30'5.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'19.87" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°52'14.50" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'35.19" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°38'53.40" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°46'56.45" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°30'7.10" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'13.12" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°17'26.01" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Barsobia,  Varsa,  Varsava,  Varsavia,  Varsavja,  Varshava,  Varshavae,  Varsja,  Varsjá,  Varso,  Varsova,  Varsovia,  Varsovia - Warszawa,  Varsovie,  Varsovio,  Varssavi,  Varsuva,  Varsòvia,  Varsó,  Varsóvia,  Varşova,  Varšava,  Varšuva,  Varșovia,  Vársá,  WAW,  Warsaw,  Warsawa,  Warschau,  Warskou,  Warszaw,  Warszawa,  Waršawa,  baleusyaba,  hua sha,  varshava,  vorso,  warsw,  warushawa,  wrsh,  wrshw,  wrsw,  wxrsx,  Βαρσοβία,  Варшавæ,  Варшава,  Վարշավա,  ווארשע,  ורשה,  װאַרשע,  وارسو,  ورشو,  ۋارشاۋا,  ܘܪܣܘ,  वॉर्सो,  วอร์ซอ,  ვარშავა,  ዋርሶው,  ワルシャワ,  华沙,  華沙,  바르샤바
+Alternate Names: Barsobia, Varsa, Varsava, Varsavia, Varsavja, Varshava, Varshavae, Varsja, Varsjá, Varso, Varsova, Varsovia, Varsovia - Warszawa, Varsovie, Varsovio, Varssavi, Varsuva, Varsòvia, Varsó, Varsóvia, Varşova, Varšava, Varšuva, Varșovia, Vársá, WAW, Warsaw, Warsawa, Warschau, Warskou, Warszaw, Warszawa, Waršawa, baleusyaba, hua sha, varshava, vorso, warsw, warushawa, wrsh, wrshw, wrsw, wxrsx, Βαρσοβία, Варшавæ, Варшава, Վարշավա, ווארשע, ורשה, װאַרשע, وارسو, ورشو, ۋارشاۋا, ܘܪܣܘ, वॉर्सो, วอร์ซอ, ვარშავა, ዋርሶው, ワルシャワ, 华沙, 華沙, 바르샤바
 
 ---

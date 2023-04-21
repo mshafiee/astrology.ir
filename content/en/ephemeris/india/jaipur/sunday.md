@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°47'10.87" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°25'34.27" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°39'12.93" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°36'34.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°38'34.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'10.53" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°59'5.67" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°47'12.04" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°25'36.65" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°39'14.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°36'48.91" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°38'43.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'31.46" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°11'37.23" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'12.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°25'34.27" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°39'12.93" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°36'34.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°38'34.20" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'10.53" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°59'5.67" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°25'36.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°39'15.24" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°36'49.05" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°38'44.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'31.89" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°14'45.13" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Caypur,  Dzaipur,  Dzaipuras,  Dzajpur,  Dzajpura,  Dzhajpur,  Dzsaipur,  Dźajpur,  Džaipur,  Džaipuras,  Džajpur,  Džajpura,  Gajpuro,  Iaipura,  JAI,  Jainagar,  Jaipur,  Jaipur City,  Jayapur,  Jaypur,  Jeypore,  Tzaipour,  Zhajpur,  ceyppur,  chay pu ra,  gʼypwr,  jaipuleu,  jaipura,  jaipuru,  jayapura,  jayapuram,  jaybwr,  jaypwr,  jypwr,  zhai pu er,  zhai pu ya,  Ĝajpuro,  Τζαϊπούρ,  Џајпур,  Джайпур,  Жайпур,  Ջայպուր,  גאיפור,  جايبور,  جایپور,  جيپور,  جے پور,  जयपुर,  जयपुरम्,  जयपूर,  জয়পুর,  জয়পুৰ,  ਜੈਪੁਰ,  જયપુર,  ଜୟପୁର,  செய்ப்பூர்,  ജയ്
+Alternate Names: Caypur, Dzaipur, Dzaipuras, Dzajpur, Dzajpura, Dzhajpur, Dzsaipur, Dźajpur, Džaipur, Džaipuras, Džajpur, Džajpura, Gajpuro, Iaipura, JAI, Jainagar, Jaipur, Jaipur City, Jayapur, Jaypur, Jeypore, Tzaipour, Zhajpur, ceyppur, chay pu ra, gʼypwr, jaipuleu, jaipura, jaipuru, jayapura, jayapuram, jaybwr, jaypwr, jypwr, zhai pu er, zhai pu ya, Ĝajpuro, Τζαϊπούρ, Џајпур, Джайпур, Жайпур, Ջայպուր, גאיפור, جايبور, جایپور, جيپور, جے پور, जयपुर, जयपुरम्, जयपूर, জয়পুর, জয়পুৰ, ਜੈਪੁਰ, જયપુર, ଜୟପୁର, செய்ப்பூர், ജയ്‌പൂർ, ชัยปุระ, ჯაიპური, ジャイプル, 齋浦爾, 齋葡亞, 자이푸르
 
 ---

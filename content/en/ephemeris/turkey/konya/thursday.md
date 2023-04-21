@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|29°47'39.80" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|10°20'23.70" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°32'55.09" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°43'17.64" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|29°44'44.50" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°6'18.62" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°47'39.80" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°20'23.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'55.09" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°43'17.64" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|15°32'55.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°44'44.50" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Conia,  Iconio,  Iconium,  Ikonio,  Ikoniow,  KYA,  Ko'niya,  Kon'ja,  Koni,  Konia,  Konieh,  Konija,  Konja,  Konjao,  Konya,  Koʻniya,  Kuniyah,  Kuon'ja,  Qonia,  Qonya,  Qonye,  ke ni ya,  kean'ya,  kon'ya,  konia,  qwnyh,  qwnyt,  Ικόνιο,  Кония,  Конија,  Конья,  Къонья,  Կոնիա,  קוניה,  قونية,  قونیه,  قونیہ,  कोन्या,  കോന്യ,  კონია,  コンヤ,  科尼亞,  코니아
+Alternate Names: Conia, Iconio, Iconium, Ikonio, Ikoniow, KYA, Ko'niya, Kon'ja, Koni, Konia, Konieh, Konija, Konja, Konjao, Konya, Koʻniya, Kuniyah, Kuon'ja, Qonia, Qonya, Qonye, ke ni ya, kean'ya, kon'ya, konia, qwnyh, qwnyt, Ικόνιο, Кония, Конија, Конья, Къонья, Կոնիա, קוניה, قونية, قونیه, قونیہ, कोन्या, കോന്യ, კონია, コンヤ, 科尼亞, 코니아
 
 ---

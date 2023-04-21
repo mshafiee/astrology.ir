@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|0°28'33.54" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°8'25.49" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'33.41" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°13'48.99" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|9°14'34.63" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'14.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°54'1.85" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°28'37.68" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°28'24.78" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°8'16.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'19.15" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°13'48.99" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°54'3.39" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°28'41.89" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°28'33.54" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°8'25.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'33.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°14'34.63" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: SDJ,  Sendai,  Sendai-shi,  Sendaishi,  Sendaj,  sendai,  sendaishi,  xian tai,  xian tai shi,  Сендай,  せんだい,  せんだいし,  センダイ,  センダイシ,  仙台,  仙台市
+Alternate Names: SDJ, Sendai, Sendai-shi, Sendaishi, Sendaj, sendai, sendaishi, xian tai, xian tai shi, Сендай, せんだい, せんだいし, センダイ, センダイシ, 仙台, 仙台市
 
 ---

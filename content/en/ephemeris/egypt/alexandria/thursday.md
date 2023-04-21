@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'44.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'10.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°6'43.12" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°48'25.26" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°21'16.69" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'1.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°59'32.65" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°44'10.57" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°6'43.23" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°48'25.43" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°21'16.89" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'2.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°0'39.19" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'44.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'10.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'43.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°48'21.40" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°21'14.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'56.88" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°33'38.46" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°44'10.57" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°6'43.23" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°48'25.43" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°21'16.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'2.12" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°0'39.19" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ALY,  Al Iskandariyah,  Al Iskandarīyah,  Alegsandiri,  Alegsàndiri,  Alehandriya,  Aleixandria,  Aleixandría,  Alejandria,  Alejandría,  Aleksandria,  Aleksandrii,  Aleksandrij,  Aleksandrija,  Aleksandrio,  Aleksandriya,  Aleksandrje,  Aleksandryja,  Aleksandryjo,  Alesandria dEgito,  Alessandria,  Alessandria d'Egitto,  Alessandria dEggittu,  Alessandria e Naggitto,  Alexandreia,  Alexandria,  Alexandria Magna,  Alexandrie,  Alexandrië,  Alexandría,  Alexàndria,  Ałesandria dEgito,  Cathair Alastair,  El Iskandariya,  El Iskandarīya,  Iskandariah,  Iskandariya,  Iskandariyah,  Iskandri,  Iskenderiye,  Iskindiriya,  Iskindirîya,  Lisandria dEgittu,  Lisàndria dEgittu,  Ol'oksandrija,  Taskendrit,  alaksantriya,  alaskndryt,  alegjandriya,  alekajandriya,  alekcantiriya,  alekjhandriya,  aleksandria,  aleksandriya,  allegsandeulia,  arekusandoria,  askndryh,  elekjhandriya,  sikadari'a,  sikandariya,  xa lek san de riy,  ya li shan da gang,  ya li shan zhuo,  yەskەndەryە,  İsgəndəriyyə,  İskenderiye,  Αλεξάνδρεια,  Александрий,  Александрия,  Александрија,  Александрыя,  Александрія,  Искандри,  Искәндәриә,  Ӧльӧксандрия,  Ալեքսանդրիա,  אלכסנדריה,  אלעקסאנדריע,  ئەسکەندەریە,  اسكندريه,  اسکندریه,  اسکندریہ,  الإسكندرية,  ܐܠܟܣܢܕܪܝܐ,  अलेक्झांड्रिया,  सिकन्दरिया,  আলেকজান্দ্রিয়া,  আলেক্সান্ড্রিয়া,  ਸਿਕੰਦਰੀਆ,  એલેક્ઝાન્ડ્રિયા,  அலெக்சாந்திரியா,  అలెగ్జాండ్రియా,  ಅಲೆಕ್ಸಾಂಡ್ರಿಯ,  അലക്സാണ്ട്രിയ,  อะเล็กซานเดรีย,  ཡ་ལི་ཧྲན་ད,  အလက်ဇန္ဒရီးယားမြို့,  ალექსანდრია,  እስክንድርያ,  アレクサンドリア,  亚历山大港,  亞歷山卓,  亞歷山大港,  알렉산드리아
+Alternate Names: ALY, Al Iskandariyah, Al Iskandarīyah, Alegsandiri, Alegsàndiri, Alehandriya, Aleixandria, Aleixandría, Alejandria, Alejandría, Aleksandria, Aleksandrii, Aleksandrij, Aleksandrija, Aleksandrio, Aleksandriya, Aleksandrje, Aleksandryja, Aleksandryjo, Alesandria dEgito, Alessandria, Alessandria d'Egitto, Alessandria dEggittu, Alessandria e Naggitto, Alexandreia, Alexandria, Alexandria Magna, Alexandrie, Alexandrië, Alexandría, Alexàndria, Ałesandria dEgito, Cathair Alastair, El Iskandariya, El Iskandarīya, Iskandariah, Iskandariya, Iskandariyah, Iskandri, Iskenderiye, Iskindiriya, Iskindirîya, Lisandria dEgittu, Lisàndria dEgittu, Ol'oksandrija, Taskendrit, alaksantriya, alaskndryt, alegjandriya, alekajandriya, alekcantiriya, alekjhandriya, aleksandria, aleksandriya, allegsandeulia, arekusandoria, askndryh, elekjhandriya, sikadari'a, sikandariya, xa lek san de riy, ya li shan da gang, ya li shan zhuo, yەskەndەryە, İsgəndəriyyə, İskenderiye, Αλεξάνδρεια, Александрий, Александрия, Александрија, Александрыя, Александрія, Искандри, Искәндәриә, Ӧльӧксандрия, Ալեքսանդրիա, אלכסנדריה, אלעקסאנדריע, ئەسکەندەریە, اسكندريه, اسکندریه, اسکندریہ, الإسكندرية, ܐܠܟܣܢܕܪܝܐ, अलेक्झांड्रिया, सिकन्दरिया, আলেকজান্দ্রিয়া, আলেক্সান্ড্রিয়া, ਸਿਕੰਦਰੀਆ, એલેક્ઝાન્ડ્રિયા, அலெக்சாந்திரியா, అలెగ్జాండ్రియా, ಅಲೆಕ್ಸಾಂಡ್ರಿಯ, അലക്സാണ്ട്രിയ, อะเล็กซานเดรีย, ཡ་ལི་ཧྲན་ད, အလက်ဇန္ဒရီးယားမြို့, ალექსანდრია, እስክንድርያ, アレクサンドリア, 亚历山大港, 亞歷山卓, 亞歷山大港, 알렉산드리아
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'22.27" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°8'42.26" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°1'19.99" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°28'2.66" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°18'10.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'27.20" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°53'37.17" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°8'43.69" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°1'25.94" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°28'10.86" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°18'21.62" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'42.10" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°53'56.32" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'22.27" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°8'42.26" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°1'19.99" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°28'2.66" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°18'21.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'42.05" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°53'37.17" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°8'43.69" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°1'25.83" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°28'10.87" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°18'21.62" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'42.10" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°53'56.32" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: OSA,  Osaacke,  Osaca,  Osaca - da ban shi,  Osaca - 大阪市,  Osaka,  Osaka-shi,  Osako,  Oszaka,  awsaka,  awzaka,  da ban,  da ban shi,  oosakashi,  osaka,  osaka si,  xo sa ka,  ywsaka,  Ósaka,  Ószaka,  Ōsaka,  Ōsaka-shi,  Осака,  אוסקה,  أوساكا,  ئوساكا,  اوزاکا,  ওসাকা,  โอซะกะ,  ოსაკა,  おおさかし,  大阪,  大阪市,  오사카 시
+Alternate Names: OSA, Osaacke, Osaca, Osaca - da ban shi, Osaca - 大阪市, Osaka, Osaka-shi, Osako, Oszaka, awsaka, awzaka, da ban, da ban shi, oosakashi, osaka, osaka si, xo sa ka, ywsaka, Ósaka, Ószaka, Ōsaka, Ōsaka-shi, Осака, אוסקה, أوساكا, ئوساكا, اوزاکا, ওসাকা, โอซะกะ, ოსაკა, おおさかし, 大阪, 大阪市, 오사카 시
 
 ---

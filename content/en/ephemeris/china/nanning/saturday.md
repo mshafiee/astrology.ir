@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°41'47.96" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°9'57.52" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°4'10.55" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°33'11.44" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°24'13.83" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'29.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°12'45.97" |Aries|Butain|Venus|
+|☉ Sun|Direct|1°33'11.34" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°24'3.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'7.82" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°44'46.88" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'47.96" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°9'57.55" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°4'11.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°33'11.44" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°24'13.83" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'29.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°12'45.97" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°9'57.52" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°4'10.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°33'11.34" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°24'13.02" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'28.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°9'26.63" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Lam-leng-chhi,  Lâm-lêng-chhī,  NNG,  Nam Ninh,  Nam-nen-su,  Namzningz,  Nan'nin,  Nan-ning,  Nan-ning-shih,  Nang-ning,  Nanin,  Naning,  Naningas,  Naningo,  Nannin,  Nannina,  Nanning,  Nanning Shi,  Naņnina,  Nàm-nèn-sṳ,  Nàng-nìng,  Yung-ning,  Yung-ning-hsien,  hnan hning,  nan ning,  nan ning shi,  nananinga,  nanning si,  nannyng,  nanyng,  nanyngh,  Нанин,  Нанинг,  Наньнин,  Наньнін,  ناننینگ,  نانينغ,  نانینگ,  نان
+Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시
 
 ---

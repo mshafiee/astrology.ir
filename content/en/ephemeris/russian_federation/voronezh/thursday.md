@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°32'29.23" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°43'28.11" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°5'9.56" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°45'32.03" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°17'54.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'36.34" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°10'21.67" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°45'32.25" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°17'55.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'36.87" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°1'31.09" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'29.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'28.37" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°5'9.85" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°45'33.56" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°17'55.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'38.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°10'21.67" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'28.15" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°5'9.96" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°45'32.25" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°17'55.05" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'36.87" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°1'31.09" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: VOZ,  Voronej,  Voronejo,  Voronez,  Voroneza,  Voronezas,  Voronezh,  Voronezhskaja oblast',  Voronezj,  Voroneĵo,  Voronež,  Voronežas,  Voronjez,  Voronjež,  Voroněž,  Voroņeža,  Woronesch,  Woronesh,  Woronez,  Woroneż,  bolonesi,  vuoroneji,  Воронеж,  Воронежская область,  ヴォロネジ,  보로네시
+Alternate Names: VOZ, Voronej, Voronez, Voroneza, Voronezas, Voronezh, Voronezhskaja oblast', Voronezj, Voroneĵ, Voronež, Voronežas, Voroněž, Voroņeža, Woronesch, Woronesh, Woronez, Woroneż, bolonesi, vu~oroneji, Воронеж, Воронежская область, ヴォロネジ, 보로네시
 
 ---

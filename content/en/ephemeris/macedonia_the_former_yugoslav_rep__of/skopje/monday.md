@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'45.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°41'57.23" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°15'59.54" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°43'17.79" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°56'24.85" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'29.23" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°32'26.61" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°41'56.39" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°15'59.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°43'13.17" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°56'22.51" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'22.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°20'46.67" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'45.28" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'56.39" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°15'59.54" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°43'17.79" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°56'24.85" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'29.23" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°32'26.61" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'56.49" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°16'2.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°43'13.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°56'26.27" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'24.89" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°47'12.89" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Escopia,  Escópia,  SKP,  Scopia,  Scupi,  Shkup,  Shkupi,  Skop'e,  Skope,  Skopeia,  Skopia,  Skopie,  Skopiye,  Skopje,  Skopjo,  Skopjė,  Skople,  Skoplie,  Skoplje,  Skopye,  Szkopje,  UEskuep,  Uskub,  Usküb,  askwbyt,  askwpyh,  s ko peiy,  sakopi'e,  seukope,  si ke pu li,  skopje,  skopye,  skwbyh,  sqwpyh,  sukopie,  Üsküp,  Σκόπια,  Скоп'е,  Скоп'є,  Скопе,  Скопие,  Скопье,  Скопје,  Скопље,  Съкопиѥ,  Սկոպյե,  סקאפיע,  סקופיה,  إسكوبية,  اسکوپیه,  اسکوپیہ,  سكوبيه,  سكوپليې,  سکوپ جے,  स्कोप्ये,  ਸਕੋਪੀਏ,  ஸ்கோப்ஜே,  สโกเปีย,  སི་ཀོཔ་ཇི།,  სკოპიე,  ስኮፕዬ,  スコピエ,  斯科普里,  스코페
+Alternate Names: Escopia, Escópia, SKP, Scopia, Scupi, Shkup, Shkupi, Skop'e, Skope, Skopeia, Skopia, Skopie, Skopiye, Skopje, Skopjo, Skopjė, Skople, Skoplie, Skoplje, Skopye, Szkopje, UEskuep, Uskub, Usküb, askwbyt, askwpyh, s ko peiy, sakopi'e, seukope, si ke pu li, skopje, skopye, skwbyh, sqwpyh, sukopie, Üsküp, Σκόπια, Скоп'е, Скоп'є, Скопе, Скопие, Скопье, Скопје, Скопље, Съкопиѥ, Սկոպյե, סקאפיע, סקופיה, إسكوبية, اسکوپیه, اسکوپیہ, سكوبيه, سكوپليې, سکوپ جے, स्कोप्ये, ਸਕੋਪੀਏ, ஸ்கோப்ஜே, สโกเปีย, སི་ཀོཔ་ཇི།, სკოპიე, ስኮፕዬ, スコピエ, 斯科普里, 스코페
 
 ---

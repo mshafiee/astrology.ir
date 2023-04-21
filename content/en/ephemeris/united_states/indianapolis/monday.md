@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°54'12.84" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°46'16.26" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°25'45.81" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°0'37.94" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°16'47.60" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°10'11.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°11'7.35" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°0'50.70" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°16'57.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°10'31.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°8'11.69" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°54'12.84" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°46'16.26" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°25'45.81" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°0'37.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°16'47.60" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°10'11.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°11'7.35" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|4°0'50.62" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°16'57.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°10'31.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°6'7.41" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: IND,  Indianapoles,  Indianapoli,  Indianapolis,  Indianapolisa,  Indianapolės,  Indianapòlis,  Indianàpolis,  Indianápolis,  Indijanapolis,  Indiyanapolis,  Indyjanapalis,  andyanabwlys,  ayndyanapwlys,  idi'anapolisa,  indiaenapolliseu,  indianaporisu,  indiyanapolis,  indiyanapolisa,  intiyanapolis,  xin deiy næ pho lis,  yin di an na bo li si,  İndianapolis,  Ινδιανάπολη,  Індыянапаліс,  Індіанаполіс,  Индианаполис,  Индијанаполис,  Ինդիանապոլիս,  אינדיאנאפאליס,  אינדיאנפוליס,  إنديانابوليس,  انڈیاناپولس,  انڈیاناپولس، انڈیانا,  ایندیاناپولیس,  इंडियानापोलिस,  इन्डियानापोलिस,  इन्डियानापोलिस्,  इन्दियानापोलिस,  ইন্ডিয়ানাপোলিস,  ਇੰਡੀਆਨਾਪੋਲਿਸ,  இண்டியானாபொலிஸ்,  อินเดียแนโพลิส,  ინდიანაპოლისი,  ኢንዲያናፖሊስ,  インディアナポリス,  印第安納波利斯,  인디애나폴리스
+Alternate Names: IND, Indianapoles, Indianapoli, Indianapolis, Indianapolisa, Indianapolės, Indianapòlis, Indianàpolis, Indianápolis, Indijanapolis, Indiyanapolis, Indyjanapalis, andyanabwlys, ayndyanapwlys, idi'anapolisa, indiaenapolliseu, indianaporisu, indiyanapolis, indiyanapolisa, intiyanapolis, xin deiy næ pho lis, yin di an na bo li si, İndianapolis, Ινδιανάπολη, Індыянапаліс, Індіанаполіс, Индианаполис, Индијанаполис, Ինդիանապոլիս, אינדיאנאפאליס, אינדיאנפוליס, إنديانابوليس, انڈیاناپولس, انڈیاناپولس، انڈیانا, ایندیاناپولیس, इंडियानापोलिस, इन्डियानापोलिस, इन्डियानापोलिस्, इन्दियानापोलिस, ইন্ডিয়ানাপোলিস, ਇੰਡੀਆਨਾਪੋਲਿਸ, இண்டியானாபொலிஸ், อินเดียแนโพลิส, ინდიანაპოლისი, ኢንዲያናፖሊስ, インディアナポリス, 印第安納波利斯, 인디애나폴리스
 
 ---

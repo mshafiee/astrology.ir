@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'17.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'27.12" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°46'29.53" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°38'12.64" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°0'31.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'45.29" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°46'36.87" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°55'26.52" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°46'30.12" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°38'9.20" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°0'30.71" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'40.36" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°46'19.59" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'17.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'26.52" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'30.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°38'12.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°0'31.86" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'45.29" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°46'36.87" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°57'16.81" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°55'26.70" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'32.58" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°38'10.28" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°0'34.08" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'43.15" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°10'57.16" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Agia Petroupole,  Betuyrbukh,  Cankt-Peterburg,  LED,  Leningrad,  Leningrado,  Lungsod ng Sankt-Peterburg,  Peterburg,  Peterburgo,  Peterburi,  Petersburg,  Petrapilis,  Petrograd,  Petrogrado,  Petrohrad,  Petropolis,  Petursborg,  Pietari,  Piiteri,  Piter,  Pétursborg,  SPb,  Saint Petersbourg,  Saint Petersburg,  Saint Pétersbourg,  Saint-Petersbourg,  Saint-Pétersbourg,  San Petersburgo,  San Pietroburgo,  San Pietruburgu,  Sankt Peitersbuerg,  Sankt Peterburg,  Sankt Peterburgas,  Sankt Petersborg,  Sankt Petersburg,  Sankt Peterzburg,  Sankt Péitersbuerg,  Sankt-Peterburg,  Sankt-Peterburgo,  Sankt-Peterburq,  Sankt-Petersburg,  Sankti Petursborg,  Sankti Pétursborg,  Sanktpeterburga,  Sanktpēterburga,  Sant Petersburg,  Sant Petersburgo,  Sant-Petersbourg,  Santa Peterburg,  Sao Petersburgo,  Sint Petersbork,  Sint-Petersburg,  St Petersburg,  St. Petersburg,  St.-Petersburg,  Szentpetervar,  Szentpétervár,  São Petersburgo,  leningeuladeu,  sangteupeteleubuleukeu,  sankt. peterburg,  sankutopeteruburuku,  sant btrsbrgh,  seinteupiteojeubeogeu,  sent pi te xrs beirk,  senta pitarsabarga,  sheng bi de bao,  sn ptrzbwrg,  snqt ptrbwrg,  Αγία Πετρούπολη,  Бетъырбух,  Ленинград,  Петербург,  Петроград,  Питер,  СПб,  Санкт Петербург,  Санкт Петерзбург,  Санкт-Петербург,  Սանկտ Պետերբուրգ,  סנקט פטרבורג,  سانت بطرسبرغ,  سن پترزبورگ,  সেন্ট পিটার্সবার্গ,  เซนต์ปีเตอร์สเบิร์ก,  სანკტ-პეტერბურგი,  სანქტ-პეტერბურგი,  サンクトペテルブルク,  圣彼得堡,  聖彼得堡,  레닌그라드,  상트페테르부르크,  세인트피터즈버그
+Alternate Names: Agia Petroupole, Betuyrbukh, Cankt-Peterburg, LED, Leningrad, Leningrado, Lungsod ng Sankt-Peterburg, Peterburg, Peterburgo, Peterburi, Petersburg, Petrapilis, Petrograd, Petrogrado, Petrohrad, Petropolis, Petursborg, Pietari, Piiteri, Piter, Pétursborg, SPb, Saint Petersbourg, Saint Petersburg, Saint Pétersbourg, Saint-Petersbourg, Saint-Pétersbourg, San Petersburgo, San Pietroburgo, San Pietruburgu, Sankt Peitersbuerg, Sankt Peterburg, Sankt Peterburgas, Sankt Petersborg, Sankt Petersburg, Sankt Peterzburg, Sankt Péitersbuerg, Sankt-Peterburg, Sankt-Peterburgo, Sankt-Peterburq, Sankt-Petersburg, Sankti Petursborg, Sankti Pétursborg, Sanktpeterburga, Sanktpēterburga, Sant Petersburg, Sant Petersburgo, Sant-Petersbourg, Santa Peterburg, Sao Petersburgo, Sint Petersbork, Sint-Petersburg, St Petersburg, St. Petersburg, St.-Petersburg, Szentpetervar, Szentpétervár, São Petersburgo, leningeuladeu, sangteupeteleubuleukeu, sankt. peterburg, sankutopeteruburuku, sant btrsbrgh, seinteupiteojeubeogeu, sent pi te xrs beirk, senta pitarsabarga, sheng bi de bao, sn ptrzbwrg, snqt ptrbwrg, Αγία Πετρούπολη, Бетъырбух, Ленинград, Петербург, Петроград, Питер, СПб, Санкт Петербург, Санкт Петерзбург, Санкт-Петербург, Սանկտ Պետերբուրգ, סנקט פטרבורג, سانت بطرسبرغ, سن پترزبورگ, সেন্ট পিটার্সবার্গ, เซนต์ปีเตอร์สเบิร์ก, სანკტ-პეტერბურგი, სანქტ-პეტერბურგი, サンクトペテルブルク, 圣彼得堡, 레닌그라드, 상트페테르부르크, 세인트피터즈버그
 
 ---

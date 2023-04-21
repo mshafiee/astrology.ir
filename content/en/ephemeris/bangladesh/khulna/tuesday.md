@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°53'51.20" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°42'53.29" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°31'42.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°53'0.67" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°1'2.68" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°4'56.75" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°52'57.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°1'0.66" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°41'42.67" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°42'53.29" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°31'42.73" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°52'57.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'2.68" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°4'56.75" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|15°1'0.66" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°41'42.67" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Khulna,  Khulnâ,  Kkhelna,  Kkhulna,  Kulna,  Kulno,  khulana,  khwlna,  ku er na shi,  kulna,  kuruna,  Кулна,  Кхелна,  Кхулна,  خولنا,  کھلنا,  खुलना,  খুলনা,  குல்னா,  クルナ,  库尔纳市,  쿨나
+Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나
 
 ---

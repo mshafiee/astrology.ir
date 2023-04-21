@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°32'59.03" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°44'51.94" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°8'15.55" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°51'14.89" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°24'39.29" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'24.51" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°39'5.68" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|29°51'12.90" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°24'35.43" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'20.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°31'36.73" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'59.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'51.94" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°8'15.55" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|23°44'52.08" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°8'15.99" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°51'12.90" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°24'39.29" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'24.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°39'5.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°24'34.57" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'20.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°31'36.73" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Augusta Taurinorum,  Julia Augusta Taurinorum,  Lungsod ng Turino,  TRN,  Tori,  Torin,  Torino,  Torinu,  Torí,  Tueri,  Turen,  Turijn,  Turim,  Turin,  Turina,  Turinas,  Turino,  Turinu,  Turyn,  Turén,  Turìn,  Turín,  Turīna,  Tórínó,  Türì,  dou ling,  tolino,  torino,  tu rin,  tulin,  turin,  turina,  twryn,  twrynw,  Τορίνο,  Торино,  Турин,  Турын,  Թուրին,  טורין,  טורינו,  تورينو,  تورین,  टोरीनो,  तोरिनो,  তুরিন,  துரின்,  ตูริน,  ཊུ་རིན།,  ტურინი,  トリノ,  都灵,  토리노,  투린
+Alternate Names: Augusta Taurinorum, Julia Augusta Taurinorum, Lungsod ng Turino, TRN, Tori, Torin, Torino, Torinu, Torí, Tueri, Turen, Turijn, Turim, Turin, Turina, Turinas, Turino, Turinu, Turyn, Turén, Turìn, Turín, Turīna, Tórínó, Türì, dou ling, tolino, torino, tu rin, tulin, turin, turina, twryn, twrynw, Τορίνο, Торино, Турин, Турын, Թուրին, טורין, טורינו, تورينو, تورین, टोरीनो, तोरिनो, তুরিন, துரின், ตูริน, ཊུ་རིན།, ტურინი, トリノ, 都灵, 토리노, 투린
 
 ---

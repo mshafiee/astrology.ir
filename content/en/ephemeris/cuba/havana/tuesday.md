@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'2.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'39.83" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°58'22.14" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°59'21.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°25'19.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°50'49.80" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°52'1.61" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|25°0'42.31" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°58'26.99" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°59'27.01" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°25'27.54" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°50'59.79" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°46'4.32" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'2.11" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'42.31" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°58'23.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°59'36.37" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°25'29.08" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'12.85" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°52'1.61" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'40.69" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°58'26.99" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°59'27.01" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°25'27.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°50'59.79" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°46'4.32" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: A Habana,  Abana,  Gavana,  Gavanae,  Gavane,  HAV,  Habana,  Hafana,  Hahvaxnaz,  Havan,  Havana,  Havanna,  Havano,  Hawana,  Khavana,  L'Avana,  LAvan-a,  LAvana,  LAvann-a,  LHabana,  LHavana,  La Ahuana,  La Avan,  La Avàn,  La Habana,  La Havana,  La Havane,  abana,  avana,  ha wa na,  habana,  habhana,  hafana,  havana,  hawana,  xia wan na,  Ħavana,  ŁAvana,  Αβάνα,  Гaванa,  Гаванæ,  Гавана,  Гаване,  Хавана,  Ҳавана,  Հավանա,  האוואנע,  הוואנה,  هافانا,  هاوانا,  ہوانا,  हवाना,  হাভানা,  ਹਵਾਨਾ,  ହାଭାନା,  அவானா,  ഹവാന,  ฮาวานา,  ཧ་ཝན,  ဟာဗားနားမြို့,  ჰავანა,  ሀቫና,  ሀኖይ,  ハバナ,  哈瓦那,  夏灣拿,  아바나
+Alternate Names: A Habana, Abana, Gavana, Gavanae, Gavane, HAV, Habana, Hafana, Hahvaxnaz, Havan, Havana, Havanna, Havano, Hawana, Khavana, L'Avana, LAvan-a, LAvana, LAvann-a, LHabana, LHavana, La Ahuana, La Avan, La Avàn, La Habana, La Havana, La Havane, abana, avana, ha wa na, habana, habhana, hafana, havana, hawana, xia wan na, Ħavana, ŁAvana, Αβάνα, Гaванa, Гаванæ, Гавана, Гаване, Хавана, Ҳавана, Հավանա, האוואנע, הוואנה, هافانا, هاوانا, ہوانا, हवाना, হাভানা, ਹਵਾਨਾ, ହାଭାନା, அவானா, ഹവാന, ฮาวานา, ཧ་ཝན, ဟာဗားနားမြို့, ჰავანა, ሀቫና, ሀኖይ, ハバナ, 哈瓦那, 夏灣拿, 아바나
 
 ---

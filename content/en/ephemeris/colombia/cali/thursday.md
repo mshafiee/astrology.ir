@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'20.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'42.68" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°16'50.44" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°6'51.16" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°42'58.10" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'5.14" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°32'22.89" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'42.71" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°16'47.60" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°6'51.66" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°42'55.41" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'4.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°34'23.51" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'20.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'42.74" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°16'50.44" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°6'51.16" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°42'58.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'5.14" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°32'22.89" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'42.71" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°16'47.60" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°6'51.66" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°42'55.41" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'4.00" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°34'23.51" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CLO,  Cali,  Calium,  Cáli,  Kali,  Kalio,  Kalis,  Santiago de Cali,  ka li,  kali,  kalli,  kaly,  santiago・de・kari,  Кали,  Калі,  סנטיאגו דה קאלי,  كالي,  کالی,  กาลี,  サンティアゴ・デ・カリ,  卡利,  칼리
+Alternate Names: CLO, Cali, Calium, Cáli, Kali, Kalis, Santiago de Cali, ka li, kali, kalli, kaly, santiago・de・kari, Кали, Калі, סנטיאגו דה קאלי, كالي, کالی, กาลี, サンティアゴ・デ・カリ, 卡利, 칼리
 
 ---

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'54.25" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°24'44.71" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°37'15.32" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°33'16.40" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°34'32.71" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'4.29" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°14'13.81" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°37'17.72" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°33'18.36" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°34'36.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'8.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°36'57.08" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Baru,  Bharu,  Dzhokhor Bakhru,  Dzhokhor-Baru,  Dzohor Baru,  Dzokhor Bakhru,  Džohor Baru,  JHB,  Jahore Bahru,  Johor,  Johor Baharu,  Johor Bahru,  Johore,  Johore Bahru,  Johore Baru,  Johore Bharu,  Sin-san-su,  Sîn-sân-sṳ,  joholeubalu,  johora baru,  johorubaru,  jokur paru,  jwhr bhrw,  jwhwr bhrw,  xin shan,  ya hor bah ru,  Џохор Бахру,  Джохор Бахру,  Джохор-Бару,  גוהור באהרו,  جوهر بهرو,  جوهور بهرو,  جوھر بھرو,  जोहोर बारू,  ஜொகூர் பாரு,  ยะโฮร์บาห์รู,  ဂျဟိုးဘာရူးမြို့,  ジョホールバル,  新山,  조호르바루
+Alternate Names: Baru, Bharu, Dzhokhor Bakhru, Dzhokhor-Baru, Dzohor Baru, Dzokhor Bakhru, Džohor Baru, JHB, Jahore Bahru, Johor, Johor Baharu, Johor Bahru, Johore, Johore Bahru, Johore Baru, Johore Bharu, Sin-san-su, Sîn-sân-sṳ, joholeubalu, johora baru, johorubaru, jokur paru, jwhr bhrw, jwhwr bhrw, xin shan, ya hor bah ru, Џохор Бахру, Джохор Бахру, Джохор-Бару, גוהור באהרו, جوهر بهرو, جوهور بهرو, جوھر بھرو, जोहोर बारू, ஜொகூர் பாரு, ยะโฮร์บาห์รู, ဂျဟိုးဘာရူးမြို့, ジョホールバル, 新山, 조호르바루
 
 ---

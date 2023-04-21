@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°39'23.77" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°48'6.98" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°31'20.66" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'22.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°11'7.19" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|15°37'17.60" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°46'50.36" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'55.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'51.89" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°39'23.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°48'6.98" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°31'20.66" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'22.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°11'7.19" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'51.03" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°39'27.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°48'1.55" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°31'22.06" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'17.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°46'50.36" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: LLW,  Lilon'nkoue,  Lilonguee,  Lilongve,  Lilongveh,  Lilongvo,  Lilongvė,  Lilongwe,  Lilongüe,  Lilonhue,  Lilonqve,  Lílongve,  li lang wei,  li long gui,  li lxng we,  lilamgve,  lilangave,  lillong-gwe,  lilongve,  lilonve,  lylwnghwy,  lylwngwh,  lylwngwwh,  rironguue,  Λιλόνγκουε,  Лилонгве,  Лілонгве,  Лілонгвэ,  Լիլոնգվե,  לילאנגווע,  לילונגווה,  ليلونغوي,  لیلونگوه,  لیلونگوے,  لیلۆنگوێ,  لیلیونگوے,  लिलाँग्वे,  ਲਿਲਾਂਗਵੇ,  லிலொங்வே,  ลิลองเว,  ལི་ལོང་ཀུའེ།,  ლილონგვე,  ሊሎንጔ,  リロングウェ,  利隆圭,  里朗威,  릴롱궤
+Alternate Names: LLW, Lilon'nkoue, Lilonguee, Lilongve, Lilongveh, Lilongvo, Lilongvė, Lilongwe, Lilongüe, Lilonhue, Lilonqve, Lílongve, li lang wei, li long gui, li lxng we, lilamgve, lilangave, lillong-gwe, lilongve, lilonve, lylwnghwy, lylwngwh, lylwngwwh, rironguu~e, Λιλόνγκουε, Лилонгве, Лілонгве, Лілонгвэ, Լիլոնգվե, לילאנגווע, לילונגווה, ليلونغوي, لیلونگوه, لیلونگوے, لیلۆنگوێ, لیلیونگوے, लिलाँग्वे, ਲਿਲਾਂਗਵੇ, லிலொங்வே, ลิลองเว, ལི་ལོང་ཀུའེ།, ლილონგვე, ሊሎንጔ, リロングウェ, 利隆圭, 里朗威, 릴롱궤
 
 ---

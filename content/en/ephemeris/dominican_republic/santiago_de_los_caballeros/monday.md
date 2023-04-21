@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°54'5.85" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°45'55.37" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°24'58.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°59'11.37" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°15'8.68" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°10'37.76" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°10'21.45" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°59'26.30" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°15'17.65" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°11'0.48" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°57'22.61" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°45'55.37" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°24'58.08" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°59'26.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°15'8.68" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°10'37.76" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°10'21.45" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|15°15'17.65" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°11'0.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°57'22.61" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: STI,  Sant'jago-de-los-Kabal'eros,  Sant'jago-de-los-Trejnta-Kabal'eros,  Santiago,  Santiago de los Caballeros,  Santiago de los Kampagieros,  Santjago de los Kabaljerosas,  santiagodeloseukabayeloseu,  sheng de ya ge,  Σαντιάγο δε λος Καμπαγιέρος,  Сантьяго-де-лос-Кабальерос,  Сантьяго-де-лос-Трейнта-Кабальерос,  Сантьяго-де-лос-Трейнта-Кабальєрос,  סנטיאגו דה לוס קביירוס,  سانتیاغو دے لوس کابائیروس,  サンティアゴ・デ・ロス・カバリェロス,  聖地牙哥,  산티아고데로스카바예로스
+Alternate Names: STI, Sant'jago-de-los-Kabal'eros, Sant'jago-de-los-Trejnta-Kabal'eros, Santiago, Santiago de los Caballeros, Santiago de los Kampagieros, Santjago de los Kabaljerosas, santiagodeloseukabayeloseu, sheng de ya ge, Σαντιάγο δε λος Καμπαγιέρος, Сантьяго-де-лос-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальєрос, סנטיאגו דה לוס קביירוס, سانتیاغو دے لوس کابائیروس, サンティアゴ・デ・ロス・カバリェロス, 聖地牙哥, 산티아고데로스카바예로스
 
 ---

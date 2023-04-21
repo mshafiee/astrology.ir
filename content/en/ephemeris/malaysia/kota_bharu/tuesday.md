@@ -20,7 +20,7 @@ Latitude: 6.1236
 \-
 Longitude: 102.2433
 \-
-Altitude: 10 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Kota Bharu, Malaysia" lat="6.1236" lng="102.2433" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:55:58 |
-| Sunrise | 06:59:50 |
+| Sunrise | 06:59:49 |
 | Dhuhr | 13:09:05 |
 | Medium Coeli | 13:09:05 |
 | Sunset | 19:18:25 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:48:52 |
-| Sunrise | 06:59:50 |
+| Sunrise | 06:59:49 |
 | Dhuhr | 13:09:05 |
 | Medium Coeli | 13:09:05 |
 | Sunset | 19:18:25 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:47:37 |
-| Sunrise | 06:59:50 |
+| Sunrise | 06:59:49 |
 | Dhuhr | 13:09:05 |
 | Medium Coeli | 13:09:05 |
 | Sunset | 19:18:25 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 06:00:08 |
-| Sunrise | 06:59:50 |
+| Sunrise | 06:59:49 |
 | Dhuhr | 13:09:05 |
 | Medium Coeli | 13:09:05 |
 | Sunset | 19:18:25 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:41:20 |
-| Sunrise | 06:59:50 |
+| Sunrise | 06:59:49 |
 | Dhuhr | 13:09:05 |
 | Medium Coeli | 13:09:05 |
 | Sunset | 19:18:25 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:47:37 |
-| Sunrise | 06:59:50 |
+| Sunrise | 06:59:49 |
 | Dhuhr | 13:09:05 |
 | Medium Coeli | 13:09:05 |
 | Sunset | 19:18:25 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:45:31 |
-| Sunrise | 06:59:50 |
+| Sunrise | 06:59:49 |
 | Dhuhr | 13:09:05 |
 | Medium Coeli | 13:09:05 |
 | Sunset | 19:18:25 |
@@ -204,13 +204,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:18:35|Night duration: 11:41:05|
+|Duration of the day: 12:18:36|Night duration: 11:41:05|
 |Every hour of day duration: 01:01:33|Every hour of night duration: 00:58:25|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:59:50|08:01:21|Creating corruption, hatred, and enmity|
+|1|Mars|Ruler|06:59:49|08:01:21|Creating corruption, hatred, and enmity|
 |2|Sun|Servant|08:01:22|09:02:54|Attracting negativity, and avoiding any harmful action|
 |3|Venus|Servant|09:02:55|10:04:27|Attracting connection and marriage proposals|
 |4|Mercury|Servant|10:04:28|11:06:00|Attracting material wealth, prosperity, and business growth|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:18:35|Night duration: 11:41:05|
+|Duration of the day: 12:18:36|Night duration: 11:41:05|
 |Every hour duration: 01:45:31|Every hour duration: 01:40:09|
 
  
@@ -258,10 +258,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|06:59:50|08:45:19|
-|Mid-morning|Sun|Servant|08:45:20|10:30:50|
-|Late morning|Venus|Servant|10:30:51|12:16:21|
-|Noon|Mercury|Servant|12:16:22|14:01:51|
+|Early morning|Mars|Ruler|06:59:49|08:45:18|
+|Mid-morning|Sun|Servant|08:45:19|10:30:49|
+|Late morning|Venus|Servant|10:30:50|12:16:20|
+|Noon|Mercury|Servant|12:16:21|14:01:51|
 |Early afternoon|Moon|Servant|14:01:52|15:47:22|
 |Mid-afternoon|Saturn|Servant|15:47:23|17:32:53|
 |Late afternoon|Jupiter|Servant|17:32:54|19:18:24|
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'38.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°53'31.40" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°42'8.20" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°30'22.72" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°51'23.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°1'31.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°33'35.93" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°53'31.26" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°42'7.85" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°30'21.96" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°51'22.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°1'30.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°29'30.23" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'38.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°53'31.40" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°42'8.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°30'22.72" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°51'23.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'31.50" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°33'35.93" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°53'31.29" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°42'7.77" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°30'22.13" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°51'22.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°1'30.50" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°29'5.42" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bharu,  KBR,  Khota Baharu,  Khota Bahru,  Ko-ta-hap-lu-su,  Kota Baharu,  Kota Bahru,  Kota Baru,  Kota Bharu,  Kota-Baru,  Kô-tá-ha̍p-lû-sṳ,  ge da ba lu,  kotabalu,  kotabaru,  kwta bharw,  Кота Бару,  Кота-Бару,  كوتا بهارو,  โกตาบารู,  コタバル,  哥打巴鲁,  코타바루
+Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루
 
 ---

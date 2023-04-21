@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'58.83" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|25°0'32.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°58'1.26" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°58'56.93" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°24'42.17" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'31.86" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°26'14.57" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°58'0.89" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°58'56.87" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°24'41.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'31.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°22'34.47" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: COR,  Ciudad de Cordoba,  Ciudad de Córdoba,  Cordoba,  Cordoba i Argentina,  Cordova,  Corduba,  Còrdoba,  Córdoba,  Córdoba i Argentina,  Córdova,  Kordava,  Kordoba,  Kordobo,  Kordov,  Kordova,  Kordova khot,  Kordovae,  Kuorduoba,  Vila de Cordoba,  Vila de Córdoba,  kardwba,  ke er duo wa,  koleudoba,  kordoba,  korudoba,  kwrdwba,  kwrdwba  arzhantyn,  kxr do ba,  qwrdwbh,  Κόρδοβα,  Кордава,  Кордоба,  Кордовæ,  Кордова,  Кордова хот,  Կորդովա,  קארדאבע,  קורדובה,  قرطبہ، ارجنٹائن,  كوردوبا,  کاردوبا,  کوردوبا، آرژانتین,  कोर्दोबा,  กอร์โดบา,  კორდოვა,  コルドバ,  科尔多瓦,  코르도바
+Alternate Names: COR, Ciudad de Cordoba, Ciudad de Córdoba, Cordoba, Cordoba i Argentina, Cordova, Corduba, Còrdoba, Córdoba, Córdoba i Argentina, Córdova, Kordava, Kordoba, Kordobo, Kordov, Kordova, Kordova khot, Kordovae, Kuorduoba, Vila de Cordoba, Vila de Córdoba, kardwba, ke er duo wa, koleudoba, kordoba, korudoba, kwrdwba, kwrdwba  arzhantyn, kxr do ba, qwrdwbh, Κόρδοβα, Кордава, Кордоба, Кордовæ, Кордова, Кордова хот, Կորդովա, קארדאבע, קורדובה, قرطبہ، ارجنٹائن, كوردوبا, کاردوبا, کوردوبا، آرژانتین, कोर्दोबा, กอร์โดบา, კორდოვა, コルドバ, 科尔多瓦, 코르도바
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'59.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'31.66" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°58'3.32" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°58'48.47" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°24'40.05" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°51'0.77" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°38'45.03" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|25°0'34.53" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°58'6.00" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°59'5.13" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°24'51.97" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'27.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°26'33.69" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°58'59.54" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|25°0'34.53" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°58'6.00" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°58'48.47" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°24'40.05" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'0.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°38'45.03" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°59'5.13" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°24'40.62" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'1.06" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°43'28.65" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BOG,  Bagata,  Bogot,  Bogota,  Bogoto,  Bogotà,  Bogotá,  Boqota,  Buoguota,  Bógóta,  Mponkota,  Santa-Fe-de-Bogota,  Santafe de Bogota,  Santafe de Bogotá,  Santafé de Bogotá,  Wukuta,  beageatta,  bo ge da,  bogota,  bokota,  bwghwta,  bwgwta,  bwgwth,  bwjwta,  pokotta,  Μπογκοτά,  Багата,  Богота,  Боґота,  Санта-Фе-де-Богота,  Բոգոտա,  באגאטא,  בוגוטה,  بوجوتا,  بوغوتا,  بوگوتا,  بگوٹا,  بۆگۆتا,  बोगोटा,  बोगोता,  বোগোতা,  ਬੋਗੋਤਾ,  ବୋଗୋଟା,  பொகோட்டா,  ಬೊಗೋಟ,  ബൊഗോട്ട,  โบโกตา,  པོ་གོ་ཏ,  ဘိုဂိုတာမြို့,  ბოგოტა,  ቦጎታ,  ទីក្រុងបូកូតា,  ボゴタ,  波哥大,  보고타
+Alternate Names: BOG, Bagata, Bogot, Bogota, Bogoto, Bogotà, Bogotá, Boqota, Buoguota, Bógóta, Mponkota, Santa-Fe-de-Bogota, Santafe de Bogota, Santafe de Bogotá, Santafé de Bogotá, Wukuta, beageatta, bo ge da, bogota, bokota, bwghwta, bwgwta, bwgwth, bwjwta, pokotta, Μπογκοτά, Багата, Богота, Боґота, Санта-Фе-де-Богота, Բոգոտա, באגאטא, בוגוטה, بوجوتا, بوغوتا, بوگوتا, بگوٹا, بۆگۆتا, बोगोटा, बोगोता, বোগোতা, ਬੋਗੋਤਾ, ବୋଗୋଟା, பொகோட்டா, ಬೊಗೋಟ, ബൊഗോട്ട, โบโกตา, པོ་གོ་ཏ, ဘိုဂိုတာမြို့, ბოგოტა, ቦጎታ, ទីក្រុងបូកូតា, ボゴタ, 波哥大, 보고타
 
 ---

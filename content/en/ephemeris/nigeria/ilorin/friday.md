@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'16.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'49.29" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°41'29.20" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°51'58.21" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°35'50.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'12.62" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°7'41.46" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'50.46" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°41'34.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°52'4.69" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°36'0.02" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'24.68" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°58'55.03" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'16.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'49.29" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°41'29.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°51'58.21" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°35'50.75" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'12.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°7'41.46" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°59'50.46" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°41'34.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°52'4.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°36'0.02" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'24.68" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°58'55.03" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ILR,  Illorin,  Ilorin,  Ilorinas,  Iloryn,  alwrn,  illolin,  irorin,  yi luo lin,  Ілорын,  Илорин,  אילורין,  الورن,  イロリン,  伊洛林,  일로린
+Alternate Names: ILR, Illorin, Ilorin, Ilorinas, Iloryn, alwrn, illolin, irorin, yi luo lin, Ілорын, Илорин, אילורין, الورن, イロリン, 伊洛林, 일로린
 
 ---

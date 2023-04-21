@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°57'59.25" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°57'33.13" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°51'15.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°46'39.65" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°10'32.23" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°55'41.06" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°10'2.25" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|4°46'45.76" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°10'31.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°55'48.77" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°45'34.05" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'59.25" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°57'33.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°51'19.49" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°46'39.65" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°10'32.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°55'41.06" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°10'2.25" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°51'15.79" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°46'45.76" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°10'31.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°55'48.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°45'34.05" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
-|☾ Moon|Mars|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: RBA,  Raba,  Rabat,  Rabata,  Rabatas,  Rabato,  Rabatum,  Rabot,  Rabāt,  Rabāta,  Rampat,  Rbat,  Rbaṭ,  alrbat,  la ba,  la ba te,  labateu,  raba t,  rabat,  rabata,  rabato,  rabota,  rapat,  rbat,  Ραμπάτ,  Рабат,  Ռաբատ,  ראבאט,  רבאט,  الرباط,  رابات,  ربات,  رباط,  ڕەبات,  रबाट,  रबात,  রাবাত,  ਰਬਾਤ,  ରବୋଟ,  ரபாத்,  ราบัต,  ར་བ་ཐ།,  ར་བ་ཐེ།,  რაბატი,  ራባት,  ラバト,  剌八,  拉巴特,  라바트
+Alternate Names: RBA, Raba, Rabat, Rabata, Rabatas, Rabato, Rabatum, Rabot, Rabāt, Rabāta, Rampat, Rbat, Rbaṭ, alrbat, la ba, la ba te, labateu, raba t, rabat, rabata, rabato, rabota, rapat, rbat, Ραμπάτ, Рабат, Ռաբատ, ראבאט, רבאט, الرباط, رابات, ربات, رباط, ڕەبات, रबाट, रबात, রাবাত, ਰਬਾਤ, ରବୋଟ, ரபாத், ราบัต, ར་བ་ཐ།, ར་བ་ཐེ།, რაბატი, ራባት, ラバト, 剌八, 拉巴特, 라바트
 
 ---

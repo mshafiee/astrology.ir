@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'12.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'19.99" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°15'57.21" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°5'19.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°41'7.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'53.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°5'15.51" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'20.01" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°15'57.28" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°5'19.15" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°41'7.15" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'53.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°6'1.53" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: STI,  Sant'jago-de-los-Kabal'eros,  Sant'jago-de-los-Trejnta-Kabal'eros,  Santiago,  Santiago de los Caballeros,  Santiago de los Kampagieros,  Santjago de los Kabaljerosas,  santiagodeloseukabayeloseu,  sheng de ya ge,  Σαντιάγο δε λος Καμπαγιέρος,  Сантьяго-де-лос-Кабальерос,  Сантьяго-де-лос-Трейнта-Кабальерос,  Сантьяго-де-лос-Трейнта-Кабальєрос,  סנטיאגו דה לוס קביירוס,  سانتیاغو دے لوس کابائیروس,  サンティアゴ・デ・ロス・カバリェロス,  聖地牙哥,  산티아고데로스카바예로스
+Alternate Names: STI, Sant'jago-de-los-Kabal'eros, Sant'jago-de-los-Trejnta-Kabal'eros, Santiago, Santiago de los Caballeros, Santiago de los Kampagieros, Santjago de los Kabaljerosas, santiagodeloseukabayeloseu, sheng de ya ge, Σαντιάγο δε λος Καμπαγιέρος, Сантьяго-де-лос-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальєрос, סנטיאגו דה לוס קביירוס, سانتیاغو دے لوس کابائیروس, サンティアゴ・デ・ロス・カバリェロス, 聖地牙哥, 산티아고데로스카바예로스
 
 ---

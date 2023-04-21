@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°38'13.41" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°59'42.81" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°41'17.41" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°51'28.31" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°35'22.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'19.09" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°27'22.99" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°51'33.74" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°35'23.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'2.53" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°15'32.47" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'13.41" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'42.81" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°41'17.41" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°51'33.74" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°59'40.26" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°41'13.44" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°51'18.86" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°35'23.46" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'25.03" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°55'6.64" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'2.53" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°15'32.47" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: LBV,  Libarwil,  Liberopolis,  Librefille,  Librehvil',  Librevil,  Librevil',  Librevila,  Librevilis,  Libreville,  Librevilo,  Librvil,  Libvil,  Limprebil,  Limprvil,  Liuravila,  lbrwl,  lbrywyl,  li be rx wil,  li bo wei er,  libaravila,  libarevile,  libeuleubil,  librevhila,  librevili,  lipravil,  lybrfyl,  lybrwwyl,  lybrwyl,  riburuvuiru,  Λιμπρβίλ,  Λιμπρεβίλ,  Либрвил,  Либревил,  Либревиль,  Лібревіль,  Лібрэвіль,  Լիբրևիլ,  ליברוויל,  ליברעוויל,  لبرول,  لبریویل,  ليبرفيل,  لیبرویل,  لیبرێڤیل,  लिबरेविले,  लिब्रेव्हिल,  ਲਿਬਰਵਿਲ,  லிப்ரவில்,  ลีเบรอวิล,  ལིབ་རེ་ཝིལ།,  ლიბრევილი,  ሊብረቪል,  リーブルヴィル,  利伯維爾,  利伯维尔,  리브르빌
+Alternate Names: LBV, Libarwil, Liberopolis, Librefille, Librehvil', Librevil, Librevil', Librevila, Librevilis, Libreville, Librevilo, Librvil, Libvil, Limprebil, Limprvil, Liuravila, lbrwl, lbrywyl, li be rx wil, li bo wei er, libaravila, libarevile, libeuleubil, librevhila, librevili, lipravil, lybrfyl, lybrwwyl, lybrwyl, riburuvu~iru, Λιμπρβίλ, Λιμπρεβίλ, Либрвил, Либревил, Либревиль, Лібревіль, Лібрэвіль, Լիբրևիլ, ליברוויל, ליברעוויל, لبرول, لبریویل, ليبرفيل, لیبرویل, لیبرێڤیل, लिबरेविले, लिब्रेव्हिल, ਲਿਬਰਵਿਲ, லிப்ரவில், ลีเบรอวิล, ལིབ་རེ་ཝིལ།, ლიბრევილი, ሊብረቪል, リーブルヴィル, 利伯維爾, 利伯维尔, 리브르빌
 
 ---

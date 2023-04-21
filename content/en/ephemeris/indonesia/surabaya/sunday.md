@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'48.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'27.79" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°36'39.65" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°32'9.66" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°33'15.82" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'19.70" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°24'0.14" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°24'27.61" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°36'38.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°32'8.71" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°33'14.03" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'17.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°13'5.08" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'48.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'27.79" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°36'39.65" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°32'9.66" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°33'15.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'19.70" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°24'0.14" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'27.61" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°36'38.48" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°32'8.71" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°33'14.03" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'17.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°13'5.08" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kota Surabaya,  Kutha Surabaya,  SUB,  Soerabaja,  Soerabaya,  Sourabaya,  Sourampagia,  Surabaia,  Surabaja,  Surabajo,  Surabaya,  si shui,  sulabaya,  sura ba ya,  surabaia,  surabaya,  swrabaya,  swrbyh,  Σουραμπάγια,  Сурабайа,  Сурабая,  Сурабаја,  סורביה,  سورابايا,  سورابایا,  สุราบายา,  სურაბაია,  スラバヤ,  泗水,  수라바야
+Alternate Names: Kota Surabaya, Kutha Surabaya, SUB, Soerabaja, Soerabaya, Sourabaya, Sourampagia, Surabaia, Surabaja, Surabajo, Surabaya, si shui, sulabaya, sura ba ya, surabaia, surabaya, swrabaya, swrbyh, Σουραμπάγια, Сурабайа, Сурабая, Сурабаја, סורביה, سورابايا, سورابایا, สุราบายา, სურაბაია, スラバヤ, 泗水, 수라바야
 
 ---

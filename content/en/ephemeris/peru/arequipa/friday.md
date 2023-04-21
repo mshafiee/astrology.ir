@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'24.73" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°3'6.57" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°48'51.91" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°5'21.85" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°51'34.61" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'27.60" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°7'4.49" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°48'51.49" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°5'21.69" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°51'34.08" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'27.14" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°5'0.79" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'24.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°3'6.57" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°48'51.91" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°5'21.85" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°51'34.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'27.60" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°7'4.49" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°3'6.53" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°48'51.49" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°5'21.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°51'34.08" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'27.14" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°5'0.79" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: AQP,  Arecipa,  Arehkipa,  Arekip,  Arekipa,  Arekipo,  Arequipa,  Arikipa,  Ariqipa,  a lei ji pa,  alekipa,  arekipa,  arekkippa,  arkypa,  arykyba,  arykypa,  xareki pa,  Αρεκίπα,  Арекипа,  Арекіпа,  Арэкіпа,  ארקיפה,  أريكيبا,  ارکیپا,  اریکیپا,  अरेकिपा,  அரேக்கிப்பா,  อาเรกีปา,  არეკიპა,  アレキパ,  阿雷基帕,  아레키파
+Alternate Names: AQP, Arecipa, Arehkipa, Arekip, Arekipa, Arekipo, Arequipa, Arikipa, Ariqipa, a lei ji pa, alekipa, arekipa, arekkippa, arkypa, arykyba, arykypa, xareki pa, Αρεκίπα, Арекипа, Арекіпа, Арэкіпа, ארקיפה, أريكيبا, ارکیپا, اریکیپا, अरेकिपा, அரேக்கிப்பா, อาเรกีปา, არეკიპა, アレキパ, 阿雷基帕, 아레키파
 
 ---

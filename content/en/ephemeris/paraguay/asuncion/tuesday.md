@@ -20,7 +20,7 @@ Latitude: -25.2865
 \-
 Longitude: -57.6470
 \-
-Altitude: 113 meters
+Altitude: 107 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Asuncion, Paraguay" lat="-25.2865" lng="-57.6470" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 11:48:34 |
 | Medium Coeli | 11:48:34 |
 | Sunset | 17:26:47 |
-| Maghrib | 17:28:27 |
+| Maghrib | 17:28:25 |
 | Isha | 18:40:35 |
 | Sharia Midnight | 23:09:28 |
 | Imum Coeli | 23:48:29 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 11:48:34 |
 | Medium Coeli | 11:48:34 |
 | Sunset | 17:26:47 |
-| Maghrib | 17:28:27 |
+| Maghrib | 17:28:25 |
 | Isha | 18:31:40 |
 | Sharia Midnight | 23:16:09 |
 | Imum Coeli | 23:48:29 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 11:48:34 |
 | Medium Coeli | 11:48:34 |
 | Sunset | 17:26:47 |
-| Maghrib | 17:28:27 |
+| Maghrib | 17:28:25 |
 | Isha | 18:42:49 |
 | Sharia Midnight | 23:06:08 |
 | Imum Coeli | 23:48:29 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 11:48:34 |
 | Medium Coeli | 11:48:34 |
 | Sunset | 17:26:47 |
-| Maghrib | 17:28:27 |
+| Maghrib | 17:28:25 |
 | Isha | 18:45:02 |
 | Sharia Midnight | 23:09:28 |
 | Imum Coeli | 23:48:29 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 11:48:34 |
 | Medium Coeli | 11:48:34 |
 | Sunset | 17:26:47 |
-| Maghrib | 17:28:27 |
-| Isha | 18:58:27 |
+| Maghrib | 17:28:25 |
+| Isha | 18:58:25 |
 | Sharia Midnight | 23:08:21 |
 | Imum Coeli | 23:48:29 |
 {{< /tab >}}
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'52.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'9.52" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°57'13.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°57'18.45" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°22'55.99" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°51'35.03" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°29'31.01" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|25°0'10.04" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°57'17.29" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°57'21.49" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°23'1.40" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'41.22" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°6'9.77" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'52.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'12.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°57'15.89" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°57'35.53" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°23'7.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°52'2.12" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°9'52.15" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'10.04" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°57'17.29" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°57'21.49" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°23'1.40" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'41.22" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°6'9.77" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: ASU,  Asounsion,  Asounsyon,  Asounsyòn,  Asounthion,  Assumptio,  Assuncao,  Assuncion,  Assunção,  Asuncion,  Asunciono,  Asunción,  Asuns'jon,  Asuns'on,  Asunsaun,  Asunsion,  Asunsjon,  Asunsjona,  Asunsjonas,  Asunson,  Asunsyon,  Asunsyun,  Asúnsjón,  Gunung Berapi Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion,  La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción,  Nuestra Senora Santa Maria de la Asuncion,  Nuestra Señora Santa María de la Asunción,  Paraguay,  acunciyon,  asnshn,  asunshion,  asunsion,  asunsioni,  asunsiyona,  asusi'ona,  aswnsywn,  xa sun si xxng,  ya song sen,  Ασουνθιόν,  Ασουνσιόν,  Асунсион,  Асунсьйон,  Асунсьон,  Асунсьён,  Ասունսյոն,  אסונסיאן,  אסונסיון,  آسونسیون,  أسونسيون,  ئاسۇنسىئون,  اسنشن,  اسونسیون,  आसुन्सियोन,  ਅਸੂੰਸੀਓਨ,  அசுன்சியோன்,  ಅಸೂನ್
+Alternate Names: ASU, Asounsion, Asounsyon, Asounsyòn, Asounthion, Assumptio, Assuncao, Assuncion, Assunção, Asuncion, Asunciono, Asunción, Asuns'jon, Asuns'on, Asunsaun, Asunsion, Asunsjon, Asunsjona, Asunsjonas, Asunson, Asunsyon, Asunsyun, Asúnsjón, Gunung Berapi Asuncion, La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion, La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción, Nuestra Senora Santa Maria de la Asuncion, Nuestra Señora Santa María de la Asunción, Paraguay, acunciyon, asnshn, asunshion, asunsion, asunsioni, asunsiyona, asusi'ona, aswnsywn, xa sun si xxng, ya song sen, Ασουνθιόν, Ασουνσιόν, Асунсион, Асунсьйон, Асунсьон, Асунсьён, Ասունսյոն, אסונסיאן, אסונסיון, آسونسیون, أسونسيون, ئاسۇنسىئون, اسنشن, اسونسیون, आसुन्सियोन, ਅਸੂੰਸੀਓਨ, அசுன்சியோன், ಅಸೂನ್‌ಸಿಯಾನ್, อะซุนซิออง, ཨ་སུན་སི་འན།, ასუნსიონი, አሱንሲዮን, アスンシオン, 亞松森, 아순시온
 
 ---

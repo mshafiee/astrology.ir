@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'40.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°32'49.18" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°55'29.49" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°6'3.37" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°13'1.83" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°23'43.77" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°34'10.09" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°32'51.70" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°55'32.81" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°6'18.16" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°13'13.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'7.04" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°39'4.34" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'40.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°32'49.18" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°55'29.49" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°6'3.37" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°13'1.83" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°23'43.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°19'27.31" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°32'51.70" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°55'32.81" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°6'18.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°13'13.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'7.04" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°39'4.34" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Altepetl Chihuahuah,  Byen Chihuahua,  CUU,  Chihuahua,  Chihuahua City,  Chihuahua by,  Chiuaua,  Chiuauae,  Chivava,  Cihuahua,  Cihuahuo,  Ciuaua,  Dakbayan sa Chihuahua,  Tsiouaoua,  chiuaua,  chiwawa,  chyywaywa. chyywaywa,  qi wa wa shi,  zhi hua hua shi,  Ĉihuahuo,  Čihuahua,  Čiuaua,  Τσιουάουα,  Чивава,  Чиуауæ,  Чиуауа,  Чіуауа,  ציוואווה,  چہواہوا,  چیئوائوا٬ چیئوائوا,  ჩიუაუა,  チワワ,  奇瓦瓦市,  芝華華市,  치와와
+Alternate Names: Altepetl Chihuahuah, Byen Chihuahua, CUU, Chihuahua, Chihuahua City, Chihuahua by, Chiuaua, Chiuauae, Chivava, Cihuahua, Ciuaua, Dakbayan sa Chihuahua, Tsiouaoua, chiuaua, chiwawa, chyywaywa. chyywaywa, qi wa wa shi, zhi hua hua shi, Čihuahua, Čiuaua, Τσιουάουα, Чивава, Чиуауæ, Чиуауа, Чіуауа, ציוואווה, چہواہوا, چیئوائوا٬ چیئوائوا, ჩიუაუა, チワワ, 奇瓦瓦市, 芝華華市, 치와와
 
 ---

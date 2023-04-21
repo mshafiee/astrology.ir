@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'16.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°43'27.67" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°19'31.78" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°49'22.27" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°3'42.14" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°13'33.30" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°50'6.33" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°43'29.46" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°19'28.71" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°49'32.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°3'44.33" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°13'47.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°1'11.91" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'16.72" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°43'29.46" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°43'29.03" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°19'28.71" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°49'22.27" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°3'42.14" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°13'33.30" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°50'6.33" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°49'32.78" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°3'44.83" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°13'44.57" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°1'11.91" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BKO,  Bamaco - Bamako,  Bamakas,  Bamako,  Bamaku,  Bamakó,  Bamakɔ,  Bammaco,  Bammako,  Bàmakɔ,  Mpamako,  ba ma ke,  bamako,  bamakw,  bmqw,  Μπαμάκο,  Бамако,  Բամակո,  במקו,  باماكو,  باماکو,  ባማኮ,  バマコ,  巴馬科,  바마코
+Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코
 
 ---

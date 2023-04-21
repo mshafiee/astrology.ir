@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'29.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'40.05" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°58'55.80" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°34'10.18" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°4'30.67" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'5.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°45'31.97" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°40'40.09" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°58'55.43" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°34'10.44" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°4'31.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'5.42" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°39'53.40" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'29.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'40.05" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°58'55.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°34'11.11" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°4'30.67" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'5.47" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°45'31.97" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°40'40.09" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°58'55.43" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°34'10.44" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°4'31.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'5.42" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°39'53.40" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Che-fej,  Chefei,  HFE,  Hak-bui,  Hap-pui-chhi,  Ha̍p-pûi-chhī,  Hefei,  Hefei Shi,  Hefejo,  Hefejus,  Hefėjus,  Heyfey,  Ho-fei,  Ho-fei-hsien,  Ho-fei-shih,  Hofej,  Hop Phi,  Hozfeiz,  Hăk-bùi,  Hợp Phì,  Khefej,  Khehfehj,  Khufej,  Lu-chou,  Luchow,  Luchowfu,  Lunchow,  haphai,  he fei,  he fei shi,  hefe'i,  heopei si,  hexfey,  hfyy,  khfy,  Χεφέι,  Хефей,  Хефеј,  Хъфей,  Хэфэй,  Хөфэй,  Հեյֆեյ,  خفي,  خېفېي شەھىر,  هفئی,  ہیفئی,  ہیفیئی,  हफै,  हेफ़ेई,  เหอเฝย์,  合肥,  合肥市,  허페이 시
+Alternate Names: Che-fej, Chefei, HFE, Hak-bui, Hap-pui-chhi, Ha̍p-pûi-chhī, Hefei, Hefei Shi, Hefejo, Hefejus, Hefėjus, Heyfey, Ho-fei, Ho-fei-hsien, Ho-fei-shih, Hofej, Hop Phi, Hozfeiz, Hăk-bùi, Hợp Phì, Khefej, Khehfehj, Khufej, Lu-chou, Luchow, Luchowfu, Lunchow, haphai, he fei, he fei shi, hefe'i, heopei si, hexfey, hfyy, khfy, Χεφέι, Хефей, Хефеј, Хъфей, Хэфэй, Хөфэй, Հեյֆեյ, خفي, خېفېي شەھىر, هفئی, ہیفئی, ہیفیئی, हफै, हेफ़ेई, เหอเฝย์, 合肥, 合肥市, 허페이 시
 
 ---

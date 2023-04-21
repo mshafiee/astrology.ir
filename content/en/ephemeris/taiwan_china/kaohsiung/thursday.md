@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|12°58'52.88" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°34'5.61" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°4'25.96" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'52.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°20'18.69" |Aries|Butain|Venus|
+|☿ Mercury|Retrograde|15°31'5.98" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°43'39.23" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Gaosjun,  Gaosyongshih,  Gaoxiong,  Gaoxiongshi,  KHH,  Kao-hsiung,  Kao-hsiung-shih,  Kaohsiung,  Kaohsiung City,  Takao,  gao xiong,  gao xiong fu,  gao xiong shi,  gaosyung si,  Гаосюн,  高雄,  高雄巿,  高雄市,  가오슝 시
+Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시
 
 ---

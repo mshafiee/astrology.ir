@@ -20,7 +20,7 @@ Latitude: 34.0949
 \-
 Longitude: 49.6981
 \-
-Altitude: 1,738 meters
+Altitude: 1,728 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Arak, Iran" lat="34.0949" lng="49.6981" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:09:59 |
 | Medium Coeli | 12:09:59 |
 | Sunset | 18:46:31 |
-| Maghrib | 18:51:43 |
+| Maghrib | 18:51:44 |
 | Isha | 20:12:24 |
 | Sharia Midnight | 23:23:59 |
 | Imum Coeli | 00:09:53 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:09:59 |
 | Medium Coeli | 12:09:59 |
 | Sunset | 18:46:31 |
-| Maghrib | 18:51:43 |
+| Maghrib | 18:51:44 |
 | Isha | 20:01:31 |
 | Sharia Midnight | 23:32:10 |
 | Imum Coeli | 00:09:53 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:09:59 |
 | Medium Coeli | 12:09:59 |
 | Sunset | 18:46:31 |
-| Maghrib | 18:51:43 |
+| Maghrib | 18:51:44 |
 | Isha | 20:15:09 |
 | Sharia Midnight | 23:19:48 |
 | Imum Coeli | 00:09:53 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:09:59 |
 | Medium Coeli | 12:09:59 |
 | Sunset | 18:46:31 |
-| Maghrib | 18:51:43 |
+| Maghrib | 18:51:44 |
 | Isha | 20:17:54 |
 | Sharia Midnight | 23:23:59 |
 | Imum Coeli | 00:09:53 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:09:59 |
 | Medium Coeli | 12:09:59 |
 | Sunset | 18:46:31 |
-| Maghrib | 18:51:43 |
-| Isha | 20:21:43 |
+| Maghrib | 18:51:44 |
+| Isha | 20:21:44 |
 | Sharia Midnight | 23:22:36 |
 | Imum Coeli | 00:09:53 |
 {{< /tab >}}
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'32.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'46.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°36'58.12" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°43'38.93" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°26'7.85" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'10.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°45'46.67" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°57'46.21" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°36'58.20" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°43'39.44" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°26'8.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'11.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°49'45.79" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'32.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°57'46.21" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°36'58.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°43'39.05" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°26'8.00" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'10.71" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°46'40.75" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°57'46.28" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°36'58.56" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°43'39.44" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°26'8.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'11.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°49'45.79" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Arak,  Arak - sawh,  Arak - ساوه,  Arok,  Arāk,  Ehrak,  Soltanabad,  Solţānābād,  Sultanabad,  Sultānābād,  `Iraq,  arak,  sawh,  sultan abad,  Арак,  Арок,  Эрак,  اراک,  ساوه,  سُلطان آباد,  ‘Irāq
+Alternate Names: Arak, Arak - sawh, Arak - ساوه, Arok, Arāk, Ehrak, Soltanabad, Solţānābād, Sultanabad, Sultānābād, `Iraq, arak, sawh, sultan abad, Арак, Арок, Эрак, اراک, ساوه, سُلطان آباد, ‘Irāq
 
 ---

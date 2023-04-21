@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°36'38.74" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°55'13.38" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°31'17.55" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°33'15.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°13'54.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'43.97" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°7'55.13" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°33'18.23" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°13'59.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'48.81" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°26'34.90" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bu-han-chhi,  Bú-hàn-chhī,  Gouchan,  Owhan,  U-hang,  Uhan,  Uhana,  Uhanas,  Uhaņa,  Ukhan,  Ukhan',  Uxan,  Vu Han,  Vu-hon-su,  Vuhan,  Vuhani,  Vuhano,  Vujhan,  Vukhan,  Vú-hon-sṳ,  Vũ Hán,  WUH,  Wu-chan,  Wu-han-shih,  Wuhan,  Wuhan Shi,  uhan si,  ukhani,  uuxan,  vuhana,  vukan,  vukhana,  wu han,  wu han shi,  wwhan,  xu han,  Ū-háng,  Γουχάν,  Вухан,  Вухан балһсн,  Ухан,  Ухань,  Үkhan',  Үхань,  Үһән,  Ուհան,  ווהאן,  ووهان,  ووھان,  ووہان,  ۋۇخەن شەھىرى,  ܘܘܗܐܢ,  वूहान,  ਵੂਖ਼ਨ,  வுகான்,  വൂഹാൻ,  อู่ฮั่น,  ཝུའུ་ཧན་གྲོང་ཁྱེར།,  ဝူဟန့်မြို့,  უხანი,  ዉሃን,  武汉,  武汉市,  武漢,  武漢市,  우한 시,  𐍅𐌿𐌷𐌰𐌽
+Alternate Names: Bu-han-chhi, Bú-hàn-chhī, Gouchan, Owhan, U-hang, Uhan, Uhana, Uhanas, Uhaņa, Ukhan, Ukhan', Uxan, Vu Han, Vu-hon-su, Vuhan, Vuhani, Vuhano, Vujhan, Vukhan, Vú-hon-sṳ, Vũ Hán, WUH, Wu-chan, Wu-han-shih, Wuhan, Wuhan Shi, uhan si, ukhani, uuxan, vuhana, vukan, vukhana, wu han, wu han shi, wwhan, xu han, Ū-háng, Γουχάν, Вухан, Вухан балһсн, Ухан, Ухань, Үkhan', Үхань, Үһән, Ուհան, ווהאן, ووهان, ووھان, ووہان, ۋۇخەن شەھىرى, ܘܘܗܐܢ, वूहान, ਵੂਖ਼ਨ, வுகான், വൂഹാൻ, อู่ฮั่น, ཝུའུ་ཧན་གྲོང་ཁྱེར།, ဝူဟန့်မြို့, უხანი, ዉሃን, 武汉, 武汉市, 武漢, 武漢市, 우한 시, 𐍅𐌿𐌷𐌰𐌽
 
 ---

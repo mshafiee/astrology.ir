@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°16'22.54" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°6'6.57" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|10°42'1.98" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'0.81" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°28'37.37" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|15°35'0.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°27'49.73" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°48'31.58" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°16'22.54" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°6'6.57" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°41'57.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'53.40" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°57'13.90" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°42'1.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'0.81" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°27'49.73" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: COR,  Ciudad de Cordoba,  Ciudad de Córdoba,  Cordoba,  Cordoba i Argentina,  Cordova,  Corduba,  Còrdoba,  Córdoba,  Córdoba i Argentina,  Córdova,  Kordava,  Kordoba,  Kordobo,  Kordov,  Kordova,  Kordova khot,  Kordovae,  Kuorduoba,  Vila de Cordoba,  Vila de Córdoba,  kardwba,  ke er duo wa,  koleudoba,  kordoba,  korudoba,  kwrdwba,  kwrdwba  arzhantyn,  kxr do ba,  qwrdwbh,  Κόρδοβα,  Кордава,  Кордоба,  Кордовæ,  Кордова,  Кордова хот,  Կորդովա,  קארדאבע,  קורדובה,  قرطبہ، ارجنٹائن,  كوردوبا,  کاردوبا,  کوردوبا، آرژانتین,  कोर्दोबा,  กอร์โดบา,  კორდოვა,  コルドバ,  科尔多瓦,  코르도바
+Alternate Names: COR, Ciudad de Cordoba, Ciudad de Córdoba, Cordoba, Cordoba i Argentina, Cordova, Corduba, Còrdoba, Córdoba, Córdoba i Argentina, Córdova, Kordava, Kordoba, Kordobo, Kordov, Kordova, Kordova khot, Kordovae, Kuorduoba, Vila de Cordoba, Vila de Córdoba, kardwba, ke er duo wa, koleudoba, kordoba, korudoba, kwrdwba, kwrdwba  arzhantyn, kxr do ba, qwrdwbh, Κόρδοβα, Кордава, Кордоба, Кордовæ, Кордова, Кордова хот, Կորդովա, קארדאבע, קורדובה, قرطبہ، ارجنٹائن, كوردوبا, کاردوبا, کوردوبا، آرژانتین, कोर्दोबा, กอร์โดบา, კორდოვა, コルドバ, 科尔多瓦, 코르도바
 
 ---

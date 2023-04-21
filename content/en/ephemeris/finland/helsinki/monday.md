@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'32.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°41'16.80" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°14'30.29" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°40'28.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°53'12.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'43.81" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°39'13.55" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°41'18.20" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°14'34.15" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°40'36.94" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°53'21.33" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'58.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°31'45.62" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'32.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'16.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°14'30.29" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°40'28.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°53'12.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'43.81" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°39'13.55" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'18.20" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°14'33.36" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°40'37.65" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°53'20.82" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'58.69" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°31'45.62" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Elsin'ki,  Elsinki,  Elzinki,  Gel'sinki,  HEL,  Heilsinci,  Heilsincí,  Hel'sinki,  Helsenkis,  Helsingfors,  Helsingi,  Helsingia,  Helsinki,  Helsinkis,  Helsinkium,  Helsinko,  Helsinky,  Helsinqui,  Helsinquia,  Helsset,  Helsínquia,  Helsînkî,  Helsėnkis,  Hèlsinki,  Khel'sinki,  Khel'sinki osh,  Khelsinki,  Khelzinki,  Lungsod ng Helsinki,  Stadi,  Xelsinki,  Xélsinki,  elcinki,  hailasiki,  he er xin ji,  helasinki,  helsingki,  helsinki,  herushinki,  hlsnky,  hlsnqy,  hlsynky,  hlsynqy,  hylsynky,  Èlzinki,  Ħelsinki,  Ελσίνκι,  Гельсінкі,  Хелзинки,  Хелсинки,  Хельсинки,  Хельсинки ош,  Хельсінкі,  Ҳелсинкӣ,  Һel'sinki,  Һельсинки,  Հելսինկի,  הלסינקי,  העלסינקי,  هلسنكي,  هلسنڪي,  هلسینکی,  هيلسينكى,  هیلسینکی,  ھێلسینکی,  ہلسنکی,  ہیلسنکی,  ܗܠܣܢܩܝ,  हेलसिंकी,  हेल्सिन्की,  হেলসিঙ্কি,  ਹੈਲਸਿੰਕੀ,  எல்சிங்கி,  ಹೆಲ್ಸಿಂಕಿ,  ഹെൽസിങ്കി,  เฮลซิงกิ,  ཧེལ་སིན་ཀི།,  ဟယ်လ်ဆင်ကီမြို့,  ჰელსინკი,  ሄልሲንኪ,  Ḥélsinki,  ヘルシンキ,  赫尔辛基,  赫爾辛基,  헬싱키
+Alternate Names: Elsin'ki, Elsinki, Elzinki, Gel'sinki, HEL, Heilsinci, Heilsincí, Hel'sinki, Helsenkis, Helsingfors, Helsingi, Helsingia, Helsinki, Helsinkis, Helsinkium, Helsinko, Helsinky, Helsinqui, Helsinquia, Helsset, Helsínquia, Helsînkî, Helsėnkis, Hèlsinki, Khel'sinki, Khel'sinki osh, Khelsinki, Khelzinki, Lungsod ng Helsinki, Stadi, Xelsinki, Xélsinki, elcinki, hailasiki, he er xin ji, helasinki, helsingki, helsinki, herushinki, hlsnky, hlsnqy, hlsynky, hlsynqy, hylsynky, Èlzinki, Ħelsinki, Ελσίνκι, Гельсінкі, Хелзинки, Хелсинки, Хельсинки, Хельсинки ош, Хельсінкі, Ҳелсинкӣ, Һel'sinki, Һельсинки, Հելսինկի, הלסינקי, העלסינקי, هلسنكي, هلسنڪي, هلسینکی, هيلسينكى, هیلسینکی, ھێلسینکی, ہلسنکی, ہیلسنکی, ܗܠܣܢܩܝ, हेलसिंकी, हेल्सिन्की, হেলসিঙ্কি, ਹੈਲਸਿੰਕੀ, எல்சிங்கி, ಹೆಲ್ಸಿಂಕಿ, ഹെൽസിങ്കി, เฮลซิงกิ, ཧེལ་སིན་ཀི།, ဟယ်လ်ဆင်ကီမြို့, ჰელსინკი, ሄልሲንኪ, Ḥélsinki, ヘルシンキ, 赫尔辛基, 赫爾辛基, 헬싱키
 
 ---

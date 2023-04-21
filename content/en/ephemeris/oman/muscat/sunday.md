@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°47'27.08" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°26'20.53" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°40'53.28" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°39'45.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°42'9.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'59.13" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°33'22.05" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°39'47.47" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°42'12.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'3.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°52'23.61" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'27.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°26'20.17" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°40'51.58" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°39'45.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°42'9.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'59.13" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°33'22.05" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°26'20.53" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°40'53.28" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°39'47.47" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°42'12.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'3.00" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°52'23.61" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MCT,  Maeskat,  Mascat,  Mascate,  Maskat,  Maskata,  Maskatas,  Maskate,  Maskato,  Maskˌat,  Masqat,  Masqaţ,  Masqaṭ,  Masquat,  Maszkat,  Mouskat,  Muscat,  Muskat,  Mäskat,  Múskat,  ma si ka te,  ma si ke te,  masakata,  maskarr,  maskat,  maskata,  masqata,  masukatto,  msqt,  museukateu,  Μουσκάτ,  Маскат,  Масқат,  Мускат,  Մասկատ,  מסקט,  مسقط,  مسقط، عمان,  مۇسكات,  مەسقەت,  मस्कत,  मस्क़त,  মাস্কাট,  ਮਸਕਟ,  ମସ୍କଟ,  மஸ்கத்,  మస్కట్,  മസ്കറ്റ്,  มัสกัต,  མི་སི་ཁ་ཁྲི།,  მასკატი,  መስከት,  マスカット,  馬斯喀特,  马斯喀特,  무스카트
+Alternate Names: MCT, Maeskat, Mascat, Mascate, Maskat, Maskata, Maskatas, Maskate, Maskato, Maskˌat, Masqat, Masqaţ, Masqaṭ, Masquat, Maszkat, Mouskat, Muscat, Muskat, Mäskat, Múskat, ma si ka te, ma si ke te, masakata, maskarr, maskat, maskata, masqata, masukatto, msqt, museukateu, Μουσκάτ, Маскат, Масқат, Мускат, Մասկատ, מסקט, مسقط, مسقط، عمان, مۇسكات, مەسقەت, मस्कत, मस्क़त, মাস্কাট, ਮਸਕਟ, ମସ୍କଟ, மஸ்கத், మస్కట్, മസ്കറ്റ്, มัสกัต, མི་སི་ཁ་ཁྲི།, მასკატი, መስከት, マスカット, 馬斯喀特, 马斯喀特, 무스카트
 
 ---

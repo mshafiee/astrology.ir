@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'1.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°45'0.31" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°8'38.32" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°51'42.38" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°25'16.40" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'19.88" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°0'11.54" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°45'0.37" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°8'30.73" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°51'47.07" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°25'11.00" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'21.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°33'31.31" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'1.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°45'0.31" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°8'34.28" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°51'46.74" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°25'14.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'22.99" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°31'1.02" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°45'0.37" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°8'30.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°51'47.07" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°25'11.00" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'21.05" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°33'31.31" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Baariis,  Bahliz,  Baris,  Ile-de-France,  Lungsod ng Paris,  Lutece,  Lutetia,  Lutetia Parisorum,  Lutèce,  PAR,  Pa-ri,  Paarys,  Palika,  Paname,  Pantruche,  Paraeis,  Paras,  Pari,  Paries,  Parigge,  Pariggi,  Parighji,  Parigi,  Pariis,  Pariisi,  Pariizu,  Pariižu,  Parij,  Parijs,  Paris,  Parisi,  Parixe,  Pariz,  Parize,  Parizh,  Parizh osh,  Parizh',  Parizo,  Parizs,  Pariž,  Parys,  Paryz,  Paryzh,  Paryzius,  Paryż,  Paryžius,  Paräis,  París,  Paríž,  Parîs,  Parĩ,  Parī,  Parīze,  Paříž,  Páras,  Párizs,  Ville-Lumiere,  Ville-Lumière,  ba li,  barys,  pairisa,  pali,  pari,  paris,  parys,  paryzh,  perisa,  pryz,  pyaris,  pyarisa,  pyrs,  Île-de-France,  Παρίσι,  Париж,  Париж ош,  Парижь,  Париз,  Парис,  Парыж,  Паріж,  Փարիզ,  פאריז,  פריז,  باريس,  پارىژ,  پاريس,  پاریس,  پیرس,  ܦܐܪܝܣ,  पॅरिस,  पेरिस,  पैरिस,  প্যারিস,  ਪੈਰਿਸ,  પૅરિસ,  பாரிஸ்,  పారిస్,  ಪ್ಯಾರಿಸ್,  പാരിസ്,  ปารีส,  ཕ་རི།,  ပါရီမြို့,  პარიზი,  ፓሪስ,  ប៉ារីស,  パリ,  巴黎,  파리
+Alternate Names: Baariis, Bahliz, Ile-de-France, Lungsod ng Paris, Lutece, Lutetia, Lutetia Parisorum, Lutèce, PAR, Pa-ri, Paarys, Palika, Paname, Pantruche, Paraeis, Paras, Pari, Paries, Parigge, Pariggi, Parighji, Parigi, Pariis, Pariisi, Pariizu, Pariižu, Parij, Parijs, Paris, Parisi, Parixe, Pariz, Parize, Parizh, Parizh osh, Parizh', Parizo, Parizs, Pariž, Parys, Paryz, Paryzh, Paryzius, Paryż, Paryžius, Paräis, París, Paríž, Parîs, Parĩ, Parī, Parīze, Paříž, Páras, Párizs, Ville-Lumiere, Ville-Lumière, ba li, barys, pairisa, pali, pari, paris, parys, paryzh, perisa, pryz, pyaris, pyarisa, pyrs, Île-de-France, Παρίσι, Париж, Париж ош, Парижь, Париз, Парис, Парыж, Паріж, Փարիզ, פאריז, פריז, باريس, پارىژ, پاريس, پاریس, پیرس, ܦܐܪܝܣ, पॅरिस, पेरिस, पैरिस, প্যারিস, ਪੈਰਿਸ, પૅરિસ, பாரிஸ், పారిస్, ಪ್ಯಾರಿಸ್, പാരിസ്, ปารีส, ཕ་རི།, ပါရီမြို့, პარიზი, ፓሪስ, ប៉ារីស, パリ, 巴黎, 파리
 
 ---

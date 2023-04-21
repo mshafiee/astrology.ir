@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'17.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°17'7.28" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°20'17.76" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°2'16.47" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|24°17'8.35" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°20'14.51" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°2'22.85" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°58'24.48" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°34'8.67" |Aries|Butain|Sun|
 |☾ Moon|Direct|0°46'24.67" |Taurus|Thurayya|Mercury|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Balenzia,  VLN,  Valencia,  Valencio,  Valens,  Valensi,  Valensia,  Valensii,  Valensija,  Valensiya,  Valentia,  Valentzia,  Valincia,  Valência,  ba lun xi ya,  balainsi'a,  ballensia,  barenshia,  blnsyt,  valensia,  walnsya  wnzwyla,  wlnsyh,  Валенс,  Валенси,  Валенсия,  Валенсија,  Валенсія,  Վալենսիա,  ולנסיה,  بلنسية,  والنسیا، ونزوئلا,  والیںسیا، کارابوبو,  ਬਾਲੈਂਸੀਆ,  ვალენსია,  バレンシア,  巴伦西亚,  발렌시아
+Alternate Names: Balenzia, VLN, Valencia, Valencio, Valens, Valensi, Valensia, Valensii, Valensija, Valensiya, Valentia, Valentzia, Valincia, Valência, ba lun xi ya, balainsi'a, ballensia, barenshia, blnsyt, valensia, walnsya  wnzwyla, wlnsyh, Валенс, Валенси, Валенсия, Валенсија, Валенсія, Վալենսիա, ולנסיה, بلنسية, والنسیا، ونزوئلا, والیںسیا، کارابوبو, ਬਾਲੈਂਸੀਆ, ვალენსია, バレンシア, 巴伦西亚, 발렌시아
 
 ---

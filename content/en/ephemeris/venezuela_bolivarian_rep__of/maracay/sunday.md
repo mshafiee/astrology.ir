@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'13.14" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°31'30.93" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°52'30.47" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°52'30.43" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°0'50.06" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°6'48.78" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°25'15.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°32'0.27" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|14°6'48.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'15.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°31'43.76" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°31'30.93" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°52'30.47" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°0'50.06" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°6'37.83" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'51.15" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°14'57.69" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|14°6'48.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°25'15.67" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°32'0.27" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MYC,  Maracay,  Marakai,  Marakaj,  Marakajo,  Marakajus,  Marakay,  ma la kai,  malakai,  marakai,  marakay,  Μαρακάι,  Маракай,  ماراکای,  მარაკაი,  マラカイ,  马拉凯,  마라카이
+Alternate Names: MYC, Maracay, Marakai, Marakaj, Marakajo, Marakajus, Marakay, ma la kai, malakai, marakai, marakay, Μαρακάι, Маракай, ماراکای, მარაკაი, マラカイ, 马拉凯, 마라카이
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'51.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'30.02" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°7'24.27" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°49'42.08" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°22'46.53" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'57.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°25'8.45" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°44'31.18" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°7'29.44" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°49'48.51" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°22'55.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'9.47" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°6'13.20" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'51.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'30.02" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°7'24.27" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°49'42.08" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°22'46.53" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'57.79" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°25'8.45" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°44'31.18" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°7'29.44" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°49'48.51" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°22'55.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'9.47" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°6'13.20" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Agram,  Andautonia,  Lungsod ng Zagreb,  Sagrab,  Sagreb,  Sagwzlwgbouh,  Sakreb,  Ságrab,  ZAG,  Zabrag,  Zabreg,  Zagabbria,  Zagabria,  Zagavria,  Zagrab,  Zagrabia,  Zagreb,  Zagreba,  Zagrebas,  Zagrebi,  Zagrebo,  Zagrebs,  Zagrep,  Zagrev,  Zagrzeb,  Zagrèb,  Zagréb,  Zagrėbs,  Zagàbria,  Zahreb,  Zankremp,  Zaqreb,  Zágráb,  Záhreb,  Záhřeb,  cakirep,  jagareba,  jageulebeu,  jagriba,  jhagreba,  sa ge lei bu,  sa kerb,  sagreb,  zagaraba,  zaghrb,  zagrb,  zagrebi,  zagurebu,  zajryb,  zghrb,  Żagreb,  Ζάγκρεμπ,  Заграб,  Загреб,  Զագրեբ,  זאגרב,  זאגרעב,  زاجريب,  زاغرب,  زاگرب,  زاگرێب,  زغرب,  जग्रिब,  झाग्रेब,  জাগরেব,  ਜ਼ਾਗਰਬ,  சாகிரேப்,  സാഗ്രെബ്,  ซาเกร็บ,  ཛག་རེབ།,  ზაგრები,  ዛግሬብ,  ザグレブ,  萨格勒布,  薩格勒布,  Ꙁагрєбъ,  자그레브
+Alternate Names: Agram, Andautonia, Lungsod ng Zagreb, Sagrab, Sagreb, Sagwzlwgbouh, Sakreb, Ságrab, ZAG, Zabrag, Zabreg, Zagabbria, Zagabria, Zagavria, Zagrab, Zagrabia, Zagreb, Zagreba, Zagrebas, Zagrebi, Zagrebo, Zagrebs, Zagrep, Zagrev, Zagrzeb, Zagrèb, Zagréb, Zagrėbs, Zagàbria, Zahreb, Zankremp, Zaqreb, Zágráb, Záhreb, Záhřeb, cakirep, jagareba, jageulebeu, jagriba, jhagreba, sa ge lei bu, sa kerb, sagreb, zagaraba, zaghrb, zagrb, zagrebi, zagurebu, zajryb, zghrb, Żagreb, Ζάγκρεμπ, Заграб, Загреб, Զագրեբ, זאגרב, זאגרעב, زاجريب, زاغرب, زاگرب, زاگرێب, زغرب, जग्रिब, झाग्रेब, জাগরেব, ਜ਼ਾਗਰਬ, சாகிரேப், സാഗ്രെബ്, ซาเกร็บ, ཛག་རེབ།, ზაგრები, ዛግሬብ, ザグレブ, 萨格勒布, 薩格勒布, Ꙁагрєбъ, 자그레브
 
 ---

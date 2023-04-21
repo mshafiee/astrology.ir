@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'21.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°0'5.39" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°42'11.14" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°53'3.88" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°37'13.99" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'19.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°48'14.45" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°0'6.23" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°42'9.52" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°53'5.81" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°37'13.33" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'21.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°56'7.48" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°38'21.62" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°0'6.23" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°42'9.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°53'8.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°37'13.99" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'19.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°48'14.45" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°53'5.81" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°37'13.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'21.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°56'7.48" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Coomassie,  KMS,  Kumase,  Kumasi,  Kumasi shaary,  Kumasis,  Kumaso,  Kumassi,  Kumasy,  ku ma xi,  kumashi,  kumasi,  kwmasy,  Кумаси,  Кумаси шаары,  Кумасі,  Կումասի,  كوماسي,  کوماسی,  ਕੁਮਾਸੀ,  クマシ,  库马西,  쿠마시
+Alternate Names: Coomassie, KMS, Kumase, Kumasi, Kumasi shaary, Kumasis, Kumassi, Kumasy, ku ma xi, kumashi, kumasi, kwmasy, Кумаси, Кумаси шаары, Кумасі, Կումասի, كوماسي, کوماسی, ਕੁਮਾਸੀ, クマシ, 库马西, 쿠마시
 
 ---

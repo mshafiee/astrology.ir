@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°43'8.80" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°13'50.75" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°12'53.22" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°48'53.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°42'37.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'6.92" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°36'0.45" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|1°49'1.01" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°42'49.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'22.42" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°50'44.70" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'8.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'50.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°12'53.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°48'58.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°42'37.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'6.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°36'0.45" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°13'51.28" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°12'56.98" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°49'1.01" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°42'49.86" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'22.42" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°50'44.70" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Mars|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ILondon,  LON,  Lakana,  Landan,  Landen,  Ljondan,  Llundain,  Lodoni,  Londain,  Londan,  Londar,  Londe,  Londen,  Londin,  Londinium,  Londino,  Londn,  London,  London osh,  Londona,  Londonas,  Londoni,  Londono,  Londons,  Londonu,  Londra,  Londres,  Londrez,  Londri,  Londro,  Londye,  Londyn,  Londýn,  Lonn,  Lontoo,  Loundres,  Luan GJon,  Lun-tun,  Lunden,  Lundra,  Lundun,  Lundunir,  Lundúnir,  Lung-dung,  Lunnainn,  Lunnin,  Lunnon,  Luân Đôn,  Lùn-tûn,  Lùng-dŭng,  Lûn-tun,  Lākana,  Lůndůn,  Lọndọnu,  Ranana,  Rānana,  ilantan,  ladana,  landan,  landana,  leondeon,  lndn,  london,  londoni,  lun dui,  lun dun,  lwndwn,  lxndxn,  rondon,  Łondra,  Λονδίνο,  Лондан,  Лондон,  Лондон ош,  Лондонъ,  Лёндан,  Լոնդոն,  לאנדאן,  לונדון,  لأندأن,  لندن,  لوندون,  لەندەن,  ܠܘܢܕܘܢ,  लंडन,  लंदन,  लण्डन,  लन्डन्,  लन्दन,  লন্ডন,  ਲੰਡਨ,  લંડન,  ଲଣ୍ଡନ,  இலண்டன்,  లండన్,  ಲಂಡನ್,  ലണ്ടൻ,  ලන්ඩන්,  ลอนดอน,  ລອນດອນ,  ལོན་ཊོན།,  လန်ဒန်မြို့,  ლონდონი,  ለንደን,  ᎫᎴ ᏗᏍᎪᏂᎯᏱ,  ロンドン,  伦敦,  倫敦,  런던
+Alternate Names: ILondon, LON, Lakana, Landan, Landen, Ljondan, Llundain, Lodoni, Londain, Londan, Londar, Londe, Londen, Londin, Londinium, Londino, Londn, London, London osh, Londona, Londonas, Londoni, Londono, Londons, Londonu, Londra, Londres, Londrez, Londri, Londro, Londye, Londyn, Londýn, Lonn, Lontoo, Loundres, Luan GJon, Lun-tun, Lunden, Lundra, Lundun, Lundunir, Lundúnir, Lung-dung, Lunnainn, Lunnin, Lunnon, Luân Đôn, Lùn-tûn, Lùng-dŭng, Lûn-tun, Lākana, Lůndůn, Lọndọnu, Ranana, Rānana, ilantan, ladana, landan, landana, leondeon, lndn, london, londoni, lun dui, lun dun, lwndwn, lxndxn, rondon, Łondra, Λονδίνο, Лондан, Лондон, Лондон ош, Лондонъ, Лёндан, Լոնդոն, לאנדאן, לונדון, لأندأن, لندن, لوندون, لەندەن, ܠܘܢܕܘܢ, लंडन, लंदन, लण्डन, लन्डन्, लन्दन, লন্ডন, ਲੰਡਨ, લંડન, ଲଣ୍ଡନ, இலண்டன், లండన్, ಲಂಡನ್, ലണ്ടൻ, ලන්ඩන්, ลอนดอน, ລອນດອນ, ལོན་ཊོན།, လန်ဒန်မြို့, ლონდონი, ለንደን, ᎫᎴ ᏗᏍᎪᏂᎯᏱ, ロンドン, 伦敦, 倫敦, 런던
 
 ---

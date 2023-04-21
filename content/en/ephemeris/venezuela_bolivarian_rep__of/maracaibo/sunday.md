@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'16.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°31'40.43" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°52'52.33" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°1'28.89" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°7'34.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°25'9.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°49'28.19" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°31'40.27" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°52'51.43" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°1'27.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°7'33.10" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'8.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°43'12.75" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'16.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'40.43" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°52'52.33" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°1'28.89" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°7'34.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°25'9.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°49'28.19" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°31'40.27" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°52'51.84" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°1'28.05" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°7'33.61" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°25'8.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°43'12.75" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MAR,  Maracaibo,  Marakaibas,  Marakaibo,  Marakaimpo,  Marakajba,  Marakajbo,  Marakaybo,  Marakaypu,  ma la kai bo,  ma ra ki bo,  malakaibo,  maraka'ibo,  marakaibo,  marakaybw,  Μαρακάιμπο,  Маракаибо,  Маракайба,  Маракайбо,  Մարակայբո,  מרקאיבו,  ماراكايبو,  माराकाईबो,  ਮਾਰਾਕਾਈਬੋ,  มาราไกโบ,  მარაკაიბო,  マラカイボ,  马拉开波,  마라카이보
+Alternate Names: MAR, Maracaibo, Marakaibas, Marakaibo, Marakaimpo, Marakajba, Marakajbo, Marakaybo, Marakaypu, ma la kai bo, ma ra ki bo, malakaibo, maraka'ibo, marakaibo, marakaybw, Μαρακάιμπο, Маракаибо, Маракайба, Маракайбо, Մարակայբո, מרקאיבו, ماراكايبو, माराकाईबो, ਮਾਰਾਕਾਈਬੋ, มาราไกโบ, მარაკაიბო, マラカイボ, 马拉开波, 마라카이보
 
 ---

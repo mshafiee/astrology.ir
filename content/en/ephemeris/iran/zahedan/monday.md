@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°40'33.49" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°12'52.35" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°37'36.38" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°49'44.32" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'46.85" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°49'47.72" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°49'48.36" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'52.61" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°15'53.09" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Dowzdab,  Dowzdāb,  Duzdab,  Duzdap,  Duzdāb,  Duzdāp,  ZAH,  Zahedan,  Zahedan-e (Yek),  Zahedanas,  Zahedano,  Zahedán,  Zahidan,  Zaidan,  Zaidān,  Zakhedan,  Záhedán,  Zāhedān,  Zāhedān-e (Yek),  cakitan,  jahedan,  jahedana,  zahdan,  zahedan,  zahedana,  zahedani,  zha hei dan,  Захедан,  Зоҳидон,  Զահեդան,  زاهدان,  زاہدان,  ज़ाहेदान,  জহেদন,  சாகிதன்,  ზაჰედანი,  ザーヘダーン,  扎黑丹,  자헤단
+Alternate Names: Dowzdab, Dowzdāb, Duzdab, Duzdap, Duzdāb, Duzdāp, ZAH, Zahedan, Zahedan-e (Yek), Zahedanas, Zahedano, Zahedán, Zahidan, Zaidan, Zaidān, Zakhedan, Záhedán, Zāhedān, Zāhedān-e (Yek), cakitan, jahedan, jahedana, zahdan, zahedan, zahedana, zahedani, zha hei dan, Захедан, Зоҳидон, Զահեդան, زاهدان, زاہدان, ज़ाहेदान, জহেদন, சாகிதன், ზაჰედანი, ザーヘダーン, 扎黑丹, 자헤단
 
 ---

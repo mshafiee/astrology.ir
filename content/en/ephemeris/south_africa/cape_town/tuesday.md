@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'53.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°57'16.10" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°50'39.67" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°45'36.77" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°9'13.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'16.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°59'27.97" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°57'16.56" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°50'38.38" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°45'39.22" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°9'13.21" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'19.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°50'4.43" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'53.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°57'16.10" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°50'39.67" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°45'36.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°9'13.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'16.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°59'27.97" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°57'53.72" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°57'16.55" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°50'37.49" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°45'39.12" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°9'12.13" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'18.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°41'25.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Altepetl In Cabo,  Ar Chab,  CPT,  Cape Toun,  Cape Town,  Cidade do Cabo,  Cita del Cap,  Citati du Capu,  Citati dû Capu,  Citta del Capo,  Cittae do Cavo,  Città del Capo,  Cità del Cap,  Ciuda del Cabu,  Ciudad del Cabo,  Ciudat do Cabo,  Ciudá del Cabu,  Ciutat del Cap,  Civitas Capitis,  El Cabo,  Fokvaros,  Fokváros,  Hoefdaborg,  Hovdastadur,  Höfðaborg,  Høvdastaður,  IKapa,  Kaapstad,  Kaapsted,  Kaapstêd,  Kab town,  Kabe Urbe,  Kaburbo,  Kaepstad,  Kapetown,  Kapkaupunki,  Kaplinn,  Kapske Mesto,  Kapske Misto,  Kapské Mesto,  Kapské Město,  Kapstad,  Kapstaden,  Kapstadt,  Kapsztad,  Kapétown,  Keip Taoun,  Keiptaun,  Keiptauna,  Keiptaunas,  Keiptauns,  Kejptaun,  Kep Taun,  Keyptaun,  Keyptawn,  Keýptaun,  Le Cap,  Li Kap,  Lo Cap,  Lurmutur Hiria,  Lé Cap,  Sita del Cao,  Sita del Cap,  Sità del Cao,  Sità dël Cap,  Tref y Penrhyn,  Yvy akua Tava,  Yvy akua Táva,  hao wang jiao zhen,  iKapa,  kai pu dui,  kai pu dun,  keipeutaun,  kep taun,  kep tavun,  kepa ta'una,  kepata'una,  keputaun,  khep thawn,  kyb tawn,  kېp ټawn,  Çittæ do Cavo,  Κέιπ Τάουν,  Капске Місто,  Кейптаун,  Кейптаўн,  Кејптаун,  Քեյփթաուն,  קאפשטאט,  קייפטאון,  كيب تاون,  کیپ ٹاؤن,  کیپ
+Alternate Names: Altepetl In Cabo, Ar Chab, CPT, Cape Toun, Cape Town, Cidade do Cabo, Cita del Cap, Citati du Capu, Citati dû Capu, Citta del Capo, Cittae do Cavo, Città del Capo, Cità del Cap, Ciuda del Cabu, Ciudad del Cabo, Ciudat do Cabo, Ciudá del Cabu, Ciutat del Cap, Civitas Capitis, El Cabo, Fokvaros, Fokváros, Hoefdaborg, Hovdastadur, Höfðaborg, Høvdastaður, IKapa, Kaapstad, Kaapsted, Kaapstêd, Kab town, Kabe Urbe, Kaburbo, Kaepstad, Kapetown, Kapkaupunki, Kaplinn, Kapske Mesto, Kapske Misto, Kapské Mesto, Kapské Město, Kapstad, Kapstaden, Kapstadt, Kapsztad, Kapétown, Keip Taoun, Keiptaun, Keiptauna, Keiptaunas, Keiptauns, Kejptaun, Keyptaun, Keyptawn, Keýptaun, Le Cap, Li Kap, Lo Cap, Lurmutur Hiria, Lé Cap, Sita del Cao, Sita del Cap, Sità del Cao, Sità dël Cap, Tref y Penrhyn, Yvy akua Tava, Yvy akua Táva, hao wang jiao zhen, iKapa, kai pu dui, kai pu dun, keipeutaun, kep taun, kep tavun, kepa ta'una, kepata'una, keputaun, khep thawn, kyb tawn, kېp ټawn, Çittæ do Cavo, Κέιπ Τάουν, Капске Місто, Кейптаун, Кейптаўн, Кејптаун, Քեյփթաուն, קאפשטאט, קייפטאון, كيب تاون, کیپ ٹاؤن, کیپ‌تاون, کېپ ټاون, کەیپ تاون, केपटाउन, केपताउन, কেপ টাউন, ਕੇਪਟਾਊਨ, કેપ ટાઉન, କେପ ଟାଉନ, கேப் டவுன், కేప్ టౌన్, ಕೇಪ್ ಟೌನ್, കേപ് ടൗൺ, เคปทาวน์, ကိပ်တောင်းမြို့, კეიპტაუნი, ኬፕ ታውን, ケープタウン, 好望角鎮, 開普敦, 케이프타운
 
 ---

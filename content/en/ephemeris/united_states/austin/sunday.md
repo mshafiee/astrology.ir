@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'33.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°32'27.81" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°54'40.40" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°4'36.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°11'19.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'2.19" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°57'21.57" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°32'29.93" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°54'42.95" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°4'49.16" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°11'28.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'21.68" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°3'2.94" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'33.28" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°32'27.81" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°54'40.40" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°4'36.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°11'19.20" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'2.19" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°57'21.57" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°32'29.93" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°54'42.95" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°4'49.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°11'28.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'21.68" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°3'2.94" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: AUS,  Austin,  Austino,  Austinopolis,  Aŭstino,  Montopolis,  Oscin,  Ostin,  Ostina,  Ostinas,  Ostins,  Waterloo,  ao si ting,  asatina,  astin,  astina,  astyn  tgzas,  awstn,  ke shi dian,  oseutin,  ostina,  ostʼini,  osutin,  xxstin,  Ώστιν,  Остин,  Остін,  Осцін,  Օստին,  אוסטין,  אסטין,  آستین، تگزاس,  آسٹن,  آسٹن، ٹیکساس,  أوستن,  अस्टिन,  अस्तिन,  आस्टिन्,  ऑस्टिन,  অস্টিন,  ਆਸਟਿਨ,  ஆஸ்டின்,  ഓസ്റ്റിൻ,  ออสติน,  ოსტინი,  ኦስቲን፣ ቴክሳስ,  ᎠᏍᏘᏂ,  オースティン,  奧斯汀,  柯士甸,  오스틴
+Alternate Names: AUS, Austin, Austino, Austinopolis, Aŭstino, Montopolis, Oscin, Ostin, Ostina, Ostinas, Ostins, Waterloo, ao si ting, asatina, astin, astina, astyn  tgzas, awstn, ke shi dian, oseutin, ostina, ostʼini, osutin, xxstin, Ώστιν, Остин, Остін, Осцін, Օստին, אוסטין, אסטין, آستین، تگزاس, آسٹن, آسٹن، ٹیکساس, أوستن, अस्टिन, अस्तिन, आस्टिन्, ऑस्टिन, অস্টিন, ਆਸਟਿਨ, ஆஸ்டின், ഓസ്റ്റിൻ, ออสติน, ოსტინი, ኦስቲን፣ ቴክሳስ, ᎠᏍᏘᏂ, オースティン, 奧斯汀, 柯士甸, 오스틴
 
 ---

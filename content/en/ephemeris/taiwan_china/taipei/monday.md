@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°51'29.12" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°38'11.12" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°7'31.43" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°27'57.36" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°38'31.62" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'16.59" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°14'34.81" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|3°27'57.57" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°38'31.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'16.83" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°14'21.72" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'29.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°38'11.12" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°7'31.43" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°27'57.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°38'31.62" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'16.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°14'34.81" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|24°38'11.16" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°7'31.32" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°27'57.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°38'31.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'16.83" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°14'21.72" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: GJai Bac,  Kota Taipei,  Pan Kiao,  Pan-ch'iao,  Pan-ch'iao-chen,  Pan-ch'iao-chieh,  Pan-ch’iao,  Pan-ch’iao-chen,  Pan-ch’iao-chieh,  T'ai-pei,  T'ai-pei Shih,  T'ai-pei-hsien,  TPE,  Taibei Shi,  Taibei Shih,  Taibejus,  Taibėjus,  Taipe,  Taipeh,  Taipei,  Taipeium,  Taipejus,  Taipé,  Taipéi,  Taipėjus,  Tajbehj,  Tajpej,  Tajpeo,  Tayipeh,  Tayipèh,  Tchaj-pej,  T’ai-pei,  T’ai-pei Shih,  T’ai-pei-hsien,  ta'ipe,  ta'ipe'i,  tai bei,  tai bei shi,  taibei,  taibei si,  taipei,  taippei,  thipe,  Đài Bắc,  Ταϊπέι,  Тайбэй,  Тайпей,  Тајпеј,  טאיפי,  טאיפיי,  تەيبېي,  ताइपे,  টাইপেই,  ไทเป,  ཐའེ་པེ,  ታይፔ,  台北,  台北市,  臺北市,  타이베이,  타이베이 시,  타이뻬이,  타이페이
+Alternate Names: GJai Bac, Kota Taipei, Pan Kiao, Pan-ch'iao, Pan-ch'iao-chen, Pan-ch'iao-chieh, Pan-ch’iao, Pan-ch’iao-chen, Pan-ch’iao-chieh, T'ai-pei, T'ai-pei Shih, T'ai-pei-hsien, TPE, Taibei Shi, Taibei Shih, Taibejus, Taibėjus, Taipe, Taipeh, Taipei, Taipeium, Taipejus, Taipé, Taipéi, Taipėjus, Tajbehj, Tajpej, Tajpeo, Tayipeh, Tayipèh, Tchaj-pej, T’ai-pei, T’ai-pei Shih, T’ai-pei-hsien, ta'ipe, ta'ipe'i, tai bei, tai bei shi, taibei, taibei si, taipei, taippei, thipe, Đài Bắc, Ταϊπέι, Тайбэй, Тайпей, Тајпеј, טאיפי, טאיפיי, تەيبېي, ताइपे, টাইপেই, ไทเป, ཐའེ་པེ, ታይፔ, 台北, 台北市, 臺北市, 타이베이, 타이베이 시, 타이뻬이, 타이페이
 
 ---

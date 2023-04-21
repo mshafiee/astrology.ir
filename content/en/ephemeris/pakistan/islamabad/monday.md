@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°52'6.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°40'0.75" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°11'38.67" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°35'23.03" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°47'12.82" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°17'25.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°45'56.52" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Direct|4°52'5.73" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°40'0.85" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°11'42.86" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°35'23.42" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°47'17.67" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°17'28.07" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°18'46.06" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'6.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°40'0.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°11'38.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°35'23.08" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°47'12.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°17'25.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°45'56.52" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°40'0.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°11'38.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°35'23.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°47'12.82" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°17'25.33" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°45'16.87" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ISB,  Islamabad,  Islamabada,  Islamabadas,  Islamabade,  Islamabadi,  Islamabado,  Islamahbad,  Islamampant,  Islàmabad,  Islámábád,  Islāmābād,  Islāmābāda,  Iszlamabad,  Iszlámábád,  aslam abad,  isalamabada,  iseullamabadeu,  islamabad,  islamabada,  islamabadi,  islamapat,  isuramabado,  xislamabad,  yi si lan bao,  yyslamabad,  yyslamyabad,  Îslamabad,  İslamabad,  Ισλαμαμπάντ,  Ісламабад,  Исламабад,  Իսլամաբադ,  איסלאמאבאד,  איסלמבאד,  إسلام آباد,  ئىسلامئاباد,  ئیسلاماباد,  اسلام آباد,  اسلام اباد,  اسلام
+Alternate Names: ISB, Islamabad, Islamabada, Islamabadas, Islamabade, Islamabadi, Islamabado, Islamahbad, Islamampant, Islàmabad, Islámábád, Islāmābād, Islāmābāda, Iszlamabad, Iszlámábád, aslam abad, isalamabada, iseullamabadeu, islamabad, islamabada, islamabadi, islamapat, isuramabado, xislamabad, yi si lan bao, yyslamabad, yyslamyabad, Îslamabad, İslamabad, Ισλαμαμπάντ, Ісламабад, Исламабад, Իսլամաբադ, איסלאמאבאד, איסלמבאד, إسلام آباد, ئىسلامئاباد, ئیسلاماباد, اسلام آباد, اسلام اباد, اسلام‌آباد, އިސްލާމްއާބާދު, इस्लामाबाद, ইসলামাবাদ, ਇਸਲਾਮਾਬਾਦ, ઇસ્લામાબાદ, ଇସଲାମାବାଦ, இஸ்லாமாபாத், ಇಸ್ಲಾಮಾಬಾದ್, ഇസ്ലാമബാദ്, อิสลามาบัด, ཨི་སི་ལམ་བོ།, ისლამაბადი, ኢስላማባድ, イスラマバード, 伊斯兰堡, 伊斯蘭堡, 이슬라마바드
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'11.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°45'28.29" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°9'35.42" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°53'41.66" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°27'27.55" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'29.92" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°12'52.39" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°45'28.34" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°9'35.98" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°53'41.89" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°27'28.27" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'42.56" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°27'24.04" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'11.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°45'28.29" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°9'35.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°53'41.66" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°27'27.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'41.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°25'54.80" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°45'28.34" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°9'35.98" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°53'41.89" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°27'28.27" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'42.56" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°27'24.04" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: NIM,  Niame,  Niamei,  Niamej,  Niameja,  Niamejus,  Niameo,  Niamey,  Niamè,  Niamėjus,  Nijamej,  Níamey,  ni ya mei,  ni'ami,  niame,  niamei,  nixame,  niyame,  niyami,  nyamy,  nyʼmyy,  Νιαμέι,  Νιαμέυ,  Ниамей,  Нијамеј,  Ніамей,  Ніямей,  Նիամեյ,  ניאמיי,  نيامي,  نیامی,  نیامەی,  ܢܝܐܡܝ,  नियामे,  নিয়ামে,  ਨਿਆਮੀ,  நியாமி,  นีอาเม,  ནི་ཡ་མེ།,  ნიამეი,  ኒያሜ,  ニアメ,  尼亞美,  니아메
+Alternate Names: NIM, Niame, Niamei, Niamej, Niameja, Niamejus, Niameo, Niamey, Niamè, Niamėjus, Nijamej, Níamey, ni ya mei, ni'ami, niame, niamei, nixame, niyame, niyami, nyamy, nyʼmyy, Νιαμέι, Νιαμέυ, Ниамей, Нијамеј, Ніамей, Ніямей, Նիամեյ, ניאמיי, نيامي, نیامی, نیامەی, ܢܝܐܡܝ, नियामे, নিয়ামে, ਨਿਆਮੀ, நியாமி, นีอาเม, ནི་ཡ་མེ།, ნიამეი, ኒያሜ, ニアメ, 尼亞美, 니아메
 
 ---

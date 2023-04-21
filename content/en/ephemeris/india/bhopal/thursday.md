@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|29°41'3.54" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|10°12'37.20" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°32'5.56" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°21'43.12" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|28°20'36.97" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BHO,  Bhojpal,  Bhopal,  Bhopala,  Bhopalas,  Bhopalo,  Bhopál,  Bhopāl,  Bhopāla,  Bhópál,  Bkhapal,  Bkhopal,  Bopal,  Bópal,  bhopal,  bhopala,  bo pa er,  bopal,  boparu,  bwbal,  bwpal,  popal,  Μποπάλ,  Бопал,  Бхапал,  Бхопал,  בופאל,  بوبال,  بوپال,  بھوپال,  بہوپال,  भोपाल,  भोपाळ,  ভোপাল,  ਭੋਪਾਲ,  ભોપાલ,  ଭୋପାଳ,  போபால்,  భోపాల్,  ಭೊಪಾಲ್,  ഭോപ്പാൽ,  ბჰოპალი,  ボパール,  ボーパール,  博帕尔,  보팔
+Alternate Names: BHO, Bhojpal, Bhopal, Bhopala, Bhopalas, Bhopalo, Bhopál, Bhopāl, Bhopāla, Bhópál, Bkhapal, Bkhopal, Bopal, Bópal, bhopal, bhopala, bo pa er, bopal, boparu, bwbal, bwpal, popal, Μποπάλ, Бопал, Бхапал, Бхопал, בופאל, بوبال, بوپال, بھوپال, بہوپال, भोपाल, भोपाळ, ভোপাল, ਭੋਪਾਲ, ભોપાલ, ଭୋପାଳ, போபால், భోపాల్, ಭೊಪಾಲ್, ഭോപ്പാൽ, ბჰოპალი, ボパール, ボーパール, 博帕尔, 보팔
 
 ---

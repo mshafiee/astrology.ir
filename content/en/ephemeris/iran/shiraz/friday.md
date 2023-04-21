@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'31.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'42.45" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°36'54.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°43'23.12" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°25'54.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'11.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°42'53.39" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°57'42.70" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°36'50.26" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°43'24.97" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°25'51.21" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'11.11" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°46'56.64" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'31.24" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°57'42.70" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°36'54.08" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°43'23.12" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°25'54.25" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'11.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°42'53.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°36'50.26" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°43'24.97" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°25'51.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'11.11" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°46'56.64" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Chimaz,  Chiraz,  SYZ,  Schiras,  Sheroz,  Shiraz,  Shyraz,  Shīrāz,  Siraz,  Siraza,  Sirazas,  Sirazo,  Siráz,  Sjiraz,  Sziraz,  Xiraz,  chi ras,  she la zi,  shirazi,  shirazu,  shyraz,  silajeu,  Ŝirazo,  Şiraz,  Şîraz,  Širaz,  Širazas,  Šíráz,  Šīrāz,  Šīrāza,  Σιράζ,  Шероз,  Шираз,  Шыраз,  Շիրազ,  שיראז,  شيراز,  شیراز,  ชีราซ,  შირაზი,  シーラーズ,  設拉子,  시라즈
+Alternate Names: Chimaz, Chiraz, SYZ, Schiras, Sheroz, Shiraz, Shyraz, Shīrāz, Siraz, Siraza, Sirazas, Sirazo, Siráz, Sjiraz, Sziraz, Xiraz, chi ras, she la zi, shirazi, shirazu, shyraz, silajeu, Ŝirazo, Şiraz, Şîraz, Širaz, Širazas, Šíráz, Šīrāz, Šīrāza, Σιράζ, Шероз, Шираз, Шыраз, Շիրազ, שיראז, شيراز, شیراز, ชีราซ, შირაზი, シーラーズ, 設拉子, 시라즈
 
 ---

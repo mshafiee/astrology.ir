@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'18.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°37'40.13" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°6'22.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°25'50.52" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°36'4.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'41.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°35'52.96" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°37'40.25" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°6'21.49" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°25'51.18" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°36'4.13" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'42.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°32'5.76" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Cap Nhi Tan,  Charbin,  Charbinas,  Charmpin,  Cáp Nhĩ Tân,  HRB,  Ha'erbin,  Ha-erh-pin,  Ha-erh-pin-shih,  Harbin,  Harbin Shi,  Harbin-chhi,  Harbin-chhī,  Harbina,  Harbino,  Ha’erbin,  Kharbin,  Lungsod ng Harbin,  Pin-chiang,  Pin-chiang-hsien,  Pinkiang,  Xarbin,  ha er bin,  ha er bin shi,  ha-eolbin si,  har bin,  harabina,  harbn,  harbyn,  harpina,  harubin,  harubin shi,  hrbyn,  kharbini,  Χαρμπίν,  Харбин,  Харбін,  Խարբին,  חרבין,  خاربىن شەھىرى,  هاربن,  هاربین,  ہاربن,  हारबिन,  हार्पिन,  ਹਾਰਬਿਨ,  ฮาร์บิน,  ဟာရ်ပင်းမြို့,  ხარბინი,  ハルビン,  ハルビン市,  哈尔滨,  哈尔滨市,  哈爾濱,  하얼빈 시
+Alternate Names: Cap Nhi Tan, Charbin, Charbinas, Charmpin, Cáp Nhĩ Tân, HRB, Ha'erbin, Ha-erh-pin, Ha-erh-pin-shih, Harbin, Harbin Shi, Harbin-chhi, Harbin-chhī, Harbina, Harbino, Ha’erbin, Kharbin, Lungsod ng Harbin, Pin-chiang, Pin-chiang-hsien, Pinkiang, Xarbin, ha er bin, ha er bin shi, ha-eolbin si, har bin, harabina, harbn, harbyn, harpina, harubin, harubin shi, hrbyn, kharbini, Χαρμπίν, Харбин, Харбін, Խարբին, חרבין, خاربىن شەھىرى, هاربن, هاربین, ہاربن, हारबिन, हार्पिन, ਹਾਰਬਿਨ, ฮาร์บิน, ဟာရ်ပင်းမြို့, ხარბინი, ハルビン, ハルビン市, 哈尔滨, 哈尔滨市, 哈爾濱, 하얼빈 시
 
 ---

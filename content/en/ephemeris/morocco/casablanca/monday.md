@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°53'10.19" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°43'12.38" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°18'57.02" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°48'19.87" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°2'29.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°13'48.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°30'31.65" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°53'11.44" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°43'13.33" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°18'49.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°48'25.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°2'24.01" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°13'53.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°47'44.96" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°53'11.44" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°43'12.38" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°18'57.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°48'19.87" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°2'29.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°13'48.75" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°30'31.65" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|4°53'11.63" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°43'13.33" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°18'49.78" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°48'28.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°2'30.62" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°13'53.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°47'44.96" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ad Dar al Bayda,  Ad Dar al Bayda',  Ad Dār al Bayḑā’,  Anafi,  Anfa,  CMN,  Casa Branca,  Casablanca,  Casabranca,  Dar-el-Beida,  Dar-uel-Beyda,  Darul Baidha,  Dâr-ül-Beydâ,  Ed Dar el Baida,  Ed Dār el Baida,  Kasablank,  Kasablanka,  Kasablankae,  Kazablanka,  Kazablanko,  Kazamplan'ka,  Tigemmi Tamellalt,  White House,  ad-Dar al-Baydaʼ,  ad-Dar al-baydaʾ,  ad-Dār al-Bayḍāʼ,  ad-Dār al-bayḍāʾ,  aldar albydaʾ,  anfa,  dar albydaʾ,  daralbyda,  ka sa bu lan ka,  ka sab l xng ka,  kacapilanka,  kasabalanka,  kasabeullangka,  kasablanka,  kasaburanka,  kazablanka,  qzblnqh,  Καζαμπλάνκα,  Казабланка,  Касабланкæ,  Касабланка,  Կասաբլանկա,  קזבלנקה,  أنفا,  الدار البيضاء,  دار البیضاء,  دارالبیضا,  كازابلانكا,  کازابلانکا,  کاسابلانکا,  कासाब्लांका,  কাসাব্লাংকা,  ਕਾਸਾਬਲਾਂਕਾ,  காசாபிளாங்கா,  కాసాబ్లాంకా,  ಕಾಸಾಬ್ಲಾಂಕಾ,  കാസബ്ലങ്ക,  กาซาบล็องกา,  ກາຊາບັງກາ,  ကာဆာဘလန်ကာမြို့,  კასაბლანკა,  ⴰⵏⴼⴰ,  カサブランカ,  卡萨布兰卡,  카사블랑카
+Alternate Names: Ad Dar al Bayda, Ad Dar al Bayda', Ad Dār al Bayḑā’, Anafi, Anfa, CAS, Casa Branca, Casablanca, Casabranca, Dar-el-Beida, Dar-uel-Beyda, Darul Baidha, Dâr-ül-Beydâ, Ed Dar el Baida, Ed Dār el Baida, Kasablank, Kasablanka, Kasablankae, Kazablanka, Kazablanko, Kazamplan'ka, Tigemmi Tamellalt, White House, ad-Dar al-Baydaʼ, ad-Dar al-baydaʾ, ad-Dār al-Bayḍāʼ, ad-Dār al-bayḍāʾ, aldar albydaʾ, anfa, dar albydaʾ, daralbyda, ka sa bu lan ka, ka sab l xng ka, kacapilanka, kasabalanka, kasabeullangka, kasablanka, kasaburanka, kazablanka, qzblnqh, Καζαμπλάνκα, Казабланка, Касабланкæ, Касабланка, Կասաբլանկա, קזבלנקה, أنفا, الدار البيضاء, دار البیضاء, دارالبیضا, كازابلانكا, کازابلانکا, کاسابلانکا, कासाब्लांका, কাসাব্লাংকা, ਕਾਸਾਬਲਾਂਕਾ, காசாபிளாங்கா, కాసాబ్లాంకా, ಕಾಸಾಬ್ಲಾಂಕಾ, കാസബ്ലങ്ക, กาซาบล็องกา, ກາຊາບັງກາ, ကာဆာဘလန်ကာမြို့, კასაბლანკა, ⴰⵏⴼⴰ, カサブランカ, 卡萨布兰卡, 카사블랑카
 
 ---

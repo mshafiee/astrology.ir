@@ -294,8 +294,8 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°36'25.19" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°54'34.91" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°29'52.01" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°30'41.71" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°10'55.79" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°30'41.61" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°10'55.65" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'40.45" |Aries|Butain|Sun|
 |☾ Moon|Direct|9°46'12.82" |Aries|Sharatain|Mars|
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'25.19" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°54'34.91" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°29'52.01" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°30'45.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°10'59.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'46.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°12'33.40" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°54'34.89" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°29'51.92" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°30'41.61" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°10'55.65" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'40.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°45'27.94" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Daegu,  Daegu Kong-hek-chhi,  Daegu Kóng-he̍k-chhī,  Daegu-si,  Daikyu,  Daikyū,  GJai Khau,  Ntenkou,  TAE,  Taegu,  Taikando,  Taikandō,  Taiku,  Taikyu,  Taikyū,  Tegu,  Teguo,  Tehgu,  Tägu,  da qiu guang yu shi,  daegu,  daegugwang-yeogsi,  daegusi,  daigu,  dayjw,  degu,  dyghw,  tgw,  Đại Khâu,  Ντέγκου,  Тегу,  Тэгу,  Тэгү,  טגו,  دائجو,  ديغو,  ڈیگو,  दैगू,  ദേഗു,  แทกู,  大邱广域市,  大邱広域市,  大邱廣域市,  대구,  대구광역시,  대구시
+Alternate Names: Daegu, Daegu Kong-hek-chhi, Daegu Kóng-he̍k-chhī, Daegu-si, Daikyu, Daikyū, GJai Khau, Ntenkou, TAE, Taegu, Taikando, Taikandō, Taiku, Taikyu, Taikyū, Tegu, Teguo, Tehgu, Tägu, da qiu guang yu shi, daegu, daegugwang-yeogsi, daegusi, daigu, dayjw, degu, dyghw, tgw, Đại Khâu, Ντέγκου, Тегу, Тэгу, Тэгү, טגו, دائجو, ديغو, ڈیگو, दैगू, ദേഗു, แทกู, 大邱广域市, 大邱広域市, 大邱廣域市, 대구, 대구광역시, 대구시
 
 ---

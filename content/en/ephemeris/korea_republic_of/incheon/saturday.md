@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°41'28.79" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°9'2.47" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°2'7.88" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°29'27.06" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°19'50.99" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'37.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°8'37.26" |Aries|Butain|Venus|
+|☉ Sun|Direct|1°29'30.16" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°19'55.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'43.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°34'45.96" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'28.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°9'2.47" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°2'7.88" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°29'27.06" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°19'50.99" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'37.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°8'37.26" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°9'3.04" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°2'10.39" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°29'30.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°19'55.34" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'43.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°34'45.96" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Chemulpo,  Incchon,  Inch'on,  Inch'ŏn,  Incheon,  Incheon-si,  Inchkhon,  Inchkhun,  Inchon,  Inchona,  Inconas,  Incono,  Incshon,  Intson,  Inĉono,  Inčchon,  Inčhona,  Inčonas,  JCN,  Nhan Xuyen,  Nhân Xuyên,  anchn,  antshwn,  aynchywn,  incevona,  incheon,  incheongwang-yeogsi,  incheonsi,  inkiyon,  ren chuan guang yu shi,  xin chxn,  İncheon,  Ίντσον,  Інчхон,  Инчон,  Инчхон,  Инчхън,  אינצ'ון,  إنتشون,  انچن,  اینچئون,  इंचेवॉन,  இங்கியோன்,  อินช็อน,  仁川广域市,  仁川広域市,  仁川廣域市,  인천,  인천광역시,  인천시
+Alternate Names: Chemulpo, Incchon, Inch'on, Inch'ŏn, Incheon, Incheon-si, Inchkhon, Inchkhun, Inchon, Inchona, Incon, Inconas, Incshon, Intson, Inĉon, Inčchon, Inčhona, Inčonas, JCN, Nhan Xuyen, Nhân Xuyên, anchn, antshwn, aynchywn, incevona, incheon, incheongwang-yeogsi, incheonsi, inkiyon, ren chuan guang yu shi, xin chxn, İncheon, Ίντσον, Інчхон, Инчон, Инчхон, Инчхън, אינצ'ון, إنتشون, انچن, اینچئون, इंचेवॉन, இங்கியோன், อินช็อน, 仁川广域市, 仁川広域市, 仁川廣域市, 인천, 인천광역시, 인천시
 
 ---

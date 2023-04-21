@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'6.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'58.52" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°18'25.89" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°47'23.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°1'26.35" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'20.14" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°31'31.43" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°43'0.45" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°18'23.24" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°47'34.94" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°1'26.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'20.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°32'45.00" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BNI,  Benim,  Benin,  Benin City,  Benin Siti,  Benin by,  Benin-Siti,  Benin-Stadt,  Benin-stad,  Beninas,  Beninborg,  Beninurbo,  Benínborg,  Bénin,  Ciudad de Benin,  Ciudad de Benín,  Ilu Benin,  Kota Benin,  Thanh pho Benin,  Thành phố Benin,  bei ning cheng,  beni n si ti,  benina sahira,  benina siti,  beninshiti,  beninsiti,  bnyn,  Ìlú Benin,  Бенин,  Бенин-Сити,  Бенін-Сіті,  بنين,  بنین,  بینن شہر,  बेनिन सिटी,  ਬੇਨਿਨ ਸ਼ਹਿਰ,  เบนินซิตี,  ベニンシティ,  贝宁城,  베닌시티
+Alternate Names: BNI, Benim, Benin, Benin City, Benin Siti, Benin by, Benin-Siti, Benin-Stadt, Benin-stad, Beninas, Beninborg, Beninurbo, Benínborg, Bénin, Ciudad de Benin, Ciudad de Benín, Ilu Benin, Kota Benin, Thanh pho Benin, Thành phố Benin, bei ning cheng, beni n si ti, benina sahira, benina siti, beninshiti, beninsiti, bnyn, Ìlú Benin, Бенин, Бенин-Сити, Бенін-Сіті, بنين, بنین, بینن شہر, बेनिन सिटी, ਬੇਨਿਨ ਸ਼ਹਿਰ, เบนินซิตี, ベニンシティ, 贝宁城, 베닌시티
 
 ---

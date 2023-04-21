@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°50'29.33" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°45'21.71" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|16°8'53.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'16.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°26'0.16" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|14°56'18.06" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°8'19.11" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'52.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°57'12.53" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°50'29.33" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°45'21.71" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°8'53.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'16.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°2'57.53" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°57'12.45" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°50'34.01" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°45'21.08" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°8'58.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'18.06" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°8'19.11" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Balenzia,  Pa-lun-si-a,  Pâ-lùn-sî-â,  VLC,  Valantsa,  Valence,  Valencia,  Valencia - Valencia,  Valencia - València,  Valencie,  Valencija,  Valencio,  Valenseje,  Valensi,  Valensia,  Valensii,  Valensij,  Valensija,  Valensiya,  Valensyaa,  Valensėjė,  Valenthia,  Valentia,  Valentzia,  Valenza,  València,  Valéncia,  Valência,  Vałénsia,  Walencja,  Walensiye,  Walénsiye,  ba len seiy,  ba lun xi ya,  ballensia,  barenshia,  blnsyt,  hua lun xi ya,  valainsi'a,  valenciya,  valensia,  valensiya,  valynsya,  wa lun xi ya,  walnsya,  wlnsyh,  wylnsya,  Βαλένθια,  Валенси,  Валенсиа,  Валенсий,  Валенсия,  Валенсија,  Валенсія,  Վալենսիա,  וואלענציע,  ולנסיה,  بلنسية,  والنسیا,  ویلنسیا,  ویلنسیہ,  ڤالينسيا,  ڤالێنسیا,  वालेन्सिया,  ਵਾਲੈਂਸੀਆ,  வாலேன்சியா,  บาเลนเซีย,  ვალენსია,  バレンシア,  巴倫西亞,  瓦伦西亚,  瓦倫西亞,  華倫西亞,  발렌시아
+Alternate Names: Balenzia, Pa-lun-si-a, Pâ-lùn-sî-â, VLC, Valantsa, Valence, Valencia, Valencia - Valencia, Valencia - València, Valencie, Valencija, Valencio, Valenseje, Valensi, Valensia, Valensii, Valensij, Valensija, Valensiya, Valensyaa, Valensėjė, Valenthia, Valentia, Valentzia, Valenza, València, Valéncia, Valência, Vałénsia, Walencja, Walensiye, Walénsiye, ba len seiy, ba lun xi ya, ballensia, barenshia, blnsyt, hua lun xi ya, valainsi'a, valenciya, valensia, valensiya, valynsya, wa lun xi ya, walnsya, wlnsyh, wylnsya, Βαλένθια, Валенси, Валенсиа, Валенсий, Валенсия, Валенсија, Валенсія, Վալենսիա, וואלענציע, ולנסיה, بلنسية, والنسیا, ویلنسیا, ویلنسیہ, ڤالينسيا, ڤالێنسیا, वालेन्सिया, ਵਾਲੈਂਸੀਆ, வாலேன்சியா, บาเลนเซีย, ვალენსია, バレンシア, 巴倫西亞, 瓦伦西亚, 瓦倫西亞, 華倫西亞, 발렌시아
 
 ---

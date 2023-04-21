@@ -20,7 +20,7 @@ Latitude: 32.8874
 \-
 Longitude: 13.1873
 \-
-Altitude: 15 meters
+Altitude: 7 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Tripoli, Libyan Arab Jamahiriya" lat="32.8874" lng="13.1873" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'4.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°13'38.52" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°12'26.31" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°48'8.91" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°41'46.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'23.44" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°21'35.44" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°13'38.69" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°12'25.41" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°48'8.01" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°41'45.28" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'21.66" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°12'56.92" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°43'4.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'38.52" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°12'26.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°48'8.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°41'46.74" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'23.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°21'35.44" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°43'4.67" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°13'38.35" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°12'25.41" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°48'8.01" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°41'45.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'21.66" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°12'56.92" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Aea,  Ea,  Oea,  TIP,  Tarables,  Tarabulus,  Tarabulus al Gharb,  Tarabulus el Gharb,  Taràbles,  Trables,  Trablus,  Trablûs,  Triboli,  Tripili,  Tripilí,  Tripol,  Tripole,  Tripoli,  Tripolis,  Tripolo,  Tripoly,  Tripołi,  Tripul,  Tripuli,  Trypali,  Trypolis,  Trìpoli,  Trìpuli,  Trípol,  Trípoli,  Trípólí,  de li bo li,  tarabalasa,  tarabulasa,  tarabulus,  teulipolli,  tirippoli,  toripori,  trabls,  trabls  lybya,  tripoli,  trippeali,  trypwly,  Ţarābulus,  Ţarābulus al Gharb,  Τρίπολη,  Триполи,  Триполі,  Трыпалі,  Տրիպոլի,  טריפאלי,  טריפולי,  ترابلس,  ترىپولى,  تەرابلوس,  طرابلس,  طرابلس، لیبیا,  طَرَابُلُس,  ताराबूलस,  त्रिपोली,  ত্রিপোলি,  ਤਰਾਬਲਸ,  திரிப்பொலி,  ട്രിപ്പോളി,  ตริโปลี,  ཐི་རི་ཕོ་ལི,  ტრიპოლი,  ትሪፖሊ,  Ṭrables,  トリポリ,  的黎波里,  트리폴리
+Alternate Names: Aea, Ea, Oea, TIP, Tarables, Tarabulus, Tarabulus al Gharb, Tarabulus el Gharb, Taràbles, Trables, Trablus, Trablûs, Triboli, Tripili, Tripilí, Tripol, Tripole, Tripoli, Tripolis, Tripolo, Tripoly, Tripołi, Tripul, Tripuli, Trypali, Trypolis, Trìpoli, Trìpuli, Trípol, Trípoli, Trípólí, de li bo li, tarabalasa, tarabulasa, tarabulus, teulipolli, tirippoli, toripori, trabls, trabls  lybya, tripoli, trippeali, trypwly, Ţarābulus, Ţarābulus al Gharb, Τρίπολη, Триполи, Триполі, Трыпалі, Տրիպոլի, טריפאלי, טריפולי, ترابلس, ترىپولى, تەرابلوس, طرابلس, طرابلس، لیبیا, طَرَابُلُس, ताराबूलस, त्रिपोली, ত্রিপোলি, ਤਰਾਬਲਸ, திரிப்பொலி, ട്രിപ്പോളി, ตริโปลี, ཐི་རི་ཕོ་ལི, ტრიპოლი, ትሪፖሊ, Ṭrables, トリポリ, 的黎波里, 트리폴리
 
 ---

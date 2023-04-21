@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°26'10.76" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°40'31.48" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°39'7.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°41'22.08" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'2.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°14'1.12" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°41'26.11" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'8.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°40'22.48" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'23.72" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°26'10.20" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°40'29.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°39'4.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°41'22.08" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'2.75" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°14'1.12" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°26'10.76" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°40'31.48" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°39'7.51" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°41'26.11" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'8.44" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°40'22.48" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Dowzdab,  Dowzdāb,  Duzdab,  Duzdap,  Duzdāb,  Duzdāp,  ZAH,  Zahedan,  Zahedan-e (Yek),  Zahedanas,  Zahedano,  Zahedán,  Zahidan,  Zaidan,  Zaidān,  Zakhedan,  Záhedán,  Zāhedān,  Zāhedān-e (Yek),  cakitan,  jahedan,  jahedana,  zahdan,  zahedan,  zahedana,  zahedani,  zha hei dan,  Захедан,  Зоҳидон,  Զահեդան,  زاهدان,  زاہدان,  ज़ाहेदान,  জহেদন,  சாகிதன்,  ზაჰედანი,  ザーヘダーン,  扎黑丹,  자헤단
+Alternate Names: Dowzdab, Dowzdāb, Duzdab, Duzdap, Duzdāb, Duzdāp, ZAH, Zahedan, Zahedan-e (Yek), Zahedanas, Zahedano, Zahedán, Zahidan, Zaidan, Zaidān, Zakhedan, Záhedán, Zāhedān, Zāhedān-e (Yek), cakitan, jahedan, jahedana, zahdan, zahedan, zahedana, zahedani, zha hei dan, Захедан, Зоҳидон, Զահեդան, زاهدان, زاہدان, ज़ाहेदान, জহেদন, சாகிதன், ზაჰედანი, ザーヘダーン, 扎黑丹, 자헤단
 
 ---

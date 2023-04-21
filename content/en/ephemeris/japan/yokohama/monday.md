@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°51'11.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°37'19.59" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°5'34.01" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°24'27.34" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°34'24.96" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°20'2.97" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°11'0.42" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°51'11.65" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°37'19.61" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°5'35.71" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°24'27.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°34'26.54" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°20'3.80" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°21'41.80" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'11.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°37'19.59" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°5'34.01" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°24'27.34" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°34'24.96" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°20'2.97" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°11'0.42" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|24°37'19.60" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°5'35.40" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°24'27.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°34'26.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°20'3.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°21'41.80" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Iokogama,  Jokohama,  Jokohamo,  Jokokhama,  YOK,  Yokohama,  Yokohama-shi,  Yokohamashi,  heng bang,  heng bang shi,  heng bin shi,  yoa koa ha ma,  yokohama,  yokohama si,  yokohamashi,  ywkwhama,  ywqwhmh,  Јокохама,  Иокогама,  יוקוהמה,  يوكوهاما,  โยะโกะฮะมะ,  იოკოჰამა,  よこはま,  よこはまし,  ヨコハマ,  ヨコハマシ,  横浜,  横浜市,  横滨市,  요코하마 시
+Alternate Names: Iokogama, Jokohama, Jokohamo, Jokokhama, YOK, Yokohama, Yokohama-shi, Yokohamashi, heng bang, heng bang shi, heng bin shi, yoa koa ha ma, yokohama, yokohama si, yokohamashi, ywkwhama, ywqwhmh, Јокохама, Иокогама, יוקוהמה, يوكوهاما, โยะโกะฮะมะ, იოკოჰამა, よこはま, よこはまし, ヨコハマ, ヨコハマシ, 横浜, 横浜市, 横滨市, 요코하마 시
 
 ---

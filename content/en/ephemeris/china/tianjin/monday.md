@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°38'10.00" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°7'29.31" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°27'52.28" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°38'26.49" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'14.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°5'59.39" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|14°38'26.37" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'14.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°5'12.57" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: T'ien-chin,  T'ien-ching,  T'ien-ching-shih,  TSN,  Tchien-tin,  Tchien-ťin,  Tehnd'iin,  Thien Tan,  Thien-tsin,  Thiên Tân,  Thiên-tsîn,  Tiandzinas,  Tianjin,  Tianjin Shi,  Tianjing,  Tianjín,  Tiantzin,  Tiencin,  Tiencsin,  Tiendzin,  Tientsin,  Tiençin,  Tjan'czin',  Tjandzina,  Tjangino,  Tjanĝino,  Tjaņdziņa,  Tjencin,  Tyantszin,  T’ien-chin,  T’ien-ching,  T’ien-ching-shih,  cheonjin,  theiyn cin,  ti'anjina,  tian jin,  tian jin shi,  tiyanjin,  tyanjina,  tyanjn,  tyanjyn,  tyenjin si,  tyyng'yn,  Τιαντζίν,  Тиендзин,  Тэндьиин,  Тяньцзинь,  Тяньцзінь,  Тјенцин,  טיינג'ין,  تيانجين,  تيەنجىن شەھىرى,  تیانجن,  تیانجین,  तिआंजिन,  त्यांजिन,  ਤਿਆਂਜਿਨ,  தியான்ஜின்,  ടിയാൻജിൻ,  เทียนจิน,  ཐན་ཅིན ་གྲོང་ཁྱེར།,  ထျန်းကျင်းမြို့,  ტიანძინი,  天津,  天津市,  천진,  톈진 시
+Alternate Names: T'ien-chin, T'ien-ching, T'ien-ching-shih, TSN, Tchien-tin, Tchien-ťin, Tehnd'iin, Thien Tan, Thien-tsin, Thiên Tân, Thiên-tsîn, Tiandzinas, Tianjin, Tianjin Shi, Tianjing, Tianjín, Tiantzin, Tiencin, Tiencsin, Tiendzin, Tientsin, Tiençin, Tjan'czin', Tjandzina, Tjangino, Tjanĝino, Tjaņdziņa, Tjencin, Tyantszin, T’ien-chin, T’ien-ching, T’ien-ching-shih, cheonjin, theiyn cin, ti'anjina, tian jin, tian jin shi, tiyanjin, tyanjina, tyanjn, tyanjyn, tyenjin si, tyyng'yn, Τιαντζίν, Тиендзин, Тэндьиин, Тяньцзинь, Тяньцзінь, Тјенцин, טיינג'ין, تيانجين, تيەنجىن شەھىرى, تیانجن, تیانجین, तिआंजिन, त्यांजिन, ਤਿਆਂਜਿਨ, தியான்ஜின், ടിയാൻജിൻ, เทียนจิน, ཐན་ཅིན ་གྲོང་ཁྱེར།, ထျန်းကျင်းမြို့, ტიანძინი, 天津, 天津市, 천진, 톈진 시
 
 ---

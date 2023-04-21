@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'21.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°2'56.57" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°48'29.55" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°4'39.94" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°50'46.41" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'20.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°25'17.67" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°2'57.41" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°48'31.55" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°4'44.64" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°50'51.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'27.73" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°57'40.97" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'21.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'56.57" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°48'29.55" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°4'39.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°50'51.04" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°2'57.41" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°48'31.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°4'44.49" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°50'51.32" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°37'27.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°57'36.87" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°57'40.97" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: COR,  Ciudad de Cordoba,  Ciudad de Córdoba,  Cordoba,  Cordoba i Argentina,  Cordova,  Corduba,  Còrdoba,  Córdoba,  Córdoba i Argentina,  Córdova,  Kordava,  Kordoba,  Kordobo,  Kordov,  Kordova,  Kordova khot,  Kordovae,  Kuorduoba,  Vila de Cordoba,  Vila de Córdoba,  kardwba,  ke er duo wa,  koleudoba,  kordoba,  korudoba,  kwrdwba,  kwrdwba  arzhantyn,  kxr do ba,  qwrdwbh,  Κόρδοβα,  Кордава,  Кордоба,  Кордовæ,  Кордова,  Кордова хот,  Կորդովա,  קארדאבע,  קורדובה,  قرطبہ، ارجنٹائن,  كوردوبا,  کاردوبا,  کوردوبا، آرژانتین,  कोर्दोबा,  กอร์โดบา,  კორდოვა,  コルドバ,  科尔多瓦,  코르도바
+Alternate Names: COR, Ciudad de Cordoba, Ciudad de Córdoba, Cordoba, Cordoba i Argentina, Cordova, Corduba, Còrdoba, Córdoba, Córdoba i Argentina, Córdova, Kordava, Kordoba, Kordobo, Kordov, Kordova, Kordova khot, Kordovae, Kuorduoba, Vila de Cordoba, Vila de Córdoba, kardwba, ke er duo wa, koleudoba, kordoba, korudoba, kwrdwba, kwrdwba  arzhantyn, kxr do ba, qwrdwbh, Κόρδοβα, Кордава, Кордоба, Кордовæ, Кордова, Кордова хот, Կորդովա, קארדאבע, קורדובה, قرطبہ، ارجنٹائن, كوردوبا, کاردوبا, کوردوبا، آرژانتین, कोर्दोबा, กอร์โดบา, კორდოვა, コルドバ, 科尔多瓦, 코르도바
 
 ---

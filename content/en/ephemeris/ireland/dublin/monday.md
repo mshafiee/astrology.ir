@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'2.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°42'47.51" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°17'59.61" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°46'40.94" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°0'30.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'29.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°42'10.89" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°42'47.69" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°17'57.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°46'39.44" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°0'24.21" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'24.65" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°57'49.81" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°53'2.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'47.21" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°17'54.60" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°46'40.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°0'30.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'29.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°42'10.89" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|4°53'2.25" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°42'47.69" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°17'57.89" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°46'42.09" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°0'29.30" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'30.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°31'50.41" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Baile Atha Cliath,  Baile Átha Cliath,  Ciuda de Dublin,  Ciudá de Dublín,  DUB,  Dablin,  Diblin,  Difelin,  Divlyn,  Doublino,  Dublin,  Dublin city,  Dublina,  Dublinas,  Dublini,  Dublino,  Dublinu,  Dublín,  Dublîn,  Dueblin,  Dulenn,  Dulyn,  Dyflinn,  Düblin,  Eblana,  dabalina,  dablin,  dablina,  daburin,  dbln,  dblyn,  deobeullin,  dou bai lin,  dublini,  dwblyn,  taplin,  Δουβλίνο,  Даблин,  Дублин,  Дублін,  Дъблин,  Դուբլին,  דבלין,  דובלין,  دبلن,  دوبلين,  دوبلین,  دۇبلىن,  ڈبلن,  ډبلن,  ܕܒܠܢ,  डब्लिन,  दब्लिन,  ডাবলিন,  ਡਬਲਿਨ,  டப்லின்,  ಡಬ್ಲಿನ್,  ഡബ്ലിൻ,  ดับลิน,  དུབ་ལིན།,  ဒပ်ဗလင်မြို့,  დუბლინი,  ደብሊን,  ダブリン,  都柏林,  더블린
+Alternate Names: Baile Atha Cliath, Baile Átha Cliath, Ciuda de Dublin, Ciudá de Dublín, DUB, Dablin, Diblin, Difelin, Divlyn, Doublino, Dublin, Dublin city, Dublina, Dublinas, Dublini, Dublino, Dublinu, Dublín, Dublîn, Dueblin, Dulenn, Dulyn, Dyflinn, Düblin, Eblana, dabalina, dablin, dablina, daburin, dbln, dblyn, deobeullin, dou bai lin, dublini, dwblyn, taplin, Δουβλίνο, Даблин, Дублин, Дублін, Дъблин, Դուբլին, דבלין, דובלין, دبلن, دوبلين, دوبلین, دۇبلىن, ڈبلن, ډبلن, ܕܒܠܢ, डब्लिन, दब्लिन, ডাবলিন, ਡਬਲਿਨ, டப்லின், ಡಬ್ಲಿನ್, ഡബ്ലിൻ, ดับลิน, དུབ་ལིན།, ဒပ်ဗလင်မြို့, დუბლინი, ደብሊን, ダブリン, 都柏林, 더블린
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'57.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'46.75" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°8'2.78" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°50'53.25" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°24'9.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'24.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°56'1.46" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°44'46.68" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°8'1.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°50'52.92" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°24'7.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'23.18" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°53'55.69" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'57.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'46.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°8'2.78" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°50'53.25" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°24'9.02" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'24.18" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°56'1.46" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°44'46.68" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°8'1.89" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°50'52.92" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°24'7.90" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'23.18" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°53'55.69" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: EGoli,  Giochanesmpournk,  IGoli,  IJohannesburg,  Ioannesburgum,  JNB,  Jo'anna,  Joanesburgo,  Joburg,  Jog'annesburg,  Joganesburg,  Jogannesburg,  Johanesburgas,  Johanesburgo,  Johannesarborg,  Johannesbourg,  Johannesburg,  Johannesburga,  Johannesburgo,  Johannesburgu,  Jokhanesburg,  Jokhanezburg,  Jokhannesburg,  J·ohanesbôrg,  Jóhannesarborg,  Xohanesburgo,  Yohannesburg,  Yohannesburq,  Yohannésburg,  Yok-hon-ni-su-pau,  Yok-hon-nì-sṳ̂-páu,  Yoxannesburg,  cohannes beirk,  iohanesburgi,  johanisabaraga,  johannesbarga,  johansabarga,  jokanasperk,  jwhansbrgh,  yohaneseubeogeu,  yohanesuburugu,  yue han nei si bao,  yue han ni si bao,  ywhnsbwrg,  zhwhansbwrg,  Γιοχάνεσμπουργκ,  Ёганесбург,  Јоханезбург,  Јоханесбург,  Йоганнесбург,  Йогьаннесбург,  Йоханесбург,  Йоханнесбург,  Յոհաննեսբուրգ,  יאהאנעסבורג,  יוהנסבורג,  جوهانسبرغ,  جوہانسبرگ,  جۆھانسبێرگ,  ژوهانسبورگ,  یوہانس برگ,  जोहन्नेस्बर्ग,  जोहान्सबर्ग,  ਜੋਹਾਨਿਸਬਰਗ,  ஜோகானஸ்பேர்க்,  ജൊഹാനസ്
+Alternate Names: EGoli, Giochanesmpournk, IGoli, IJohannesburg, Ioannesburgum, JNB, Jo'anna, Joanesburgo, Joburg, Jog'annesburg, Joganesburg, Jogannesburg, Johanesburgas, Johanesburgo, Johannesarborg, Johannesbourg, Johannesburg, Johannesburga, Johannesburgo, Johannesburgu, Jokhanesburg, Jokhanezburg, Jokhannesburg, J·ohanesbôrg, Jóhannesarborg, Xohanesburgo, Yohannesburg, Yohannesburq, Yohannésburg, Yok-hon-ni-su-pau, Yok-hon-nì-sṳ̂-páu, Yoxannesburg, cohannes beirk, iohanesburgi, johanisabaraga, johannesbarga, johansabarga, jokanasperk, jwhansbrgh, yohaneseubeogeu, yohanesuburugu, yue han nei si bao, yue han ni si bao, ywhnsbwrg, zhwhansbwrg, Γιοχάνεσμπουργκ, Ёганесбург, Јоханезбург, Јоханесбург, Йоганнесбург, Йогьаннесбург, Йоханесбург, Йоханнесбург, Յոհաննեսբուրգ, יאהאנעסבורג, יוהנסבורג, جوهانسبرغ, جوہانسبرگ, جۆھانسبێرگ, ژوهانسبورگ, یوہانس برگ, जोहन्नेस्बर्ग, जोहान्सबर्ग, ਜੋਹਾਨਿਸਬਰਗ, ஜோகானஸ்பேர்க், ജൊഹാനസ്‌ബർഗ്, โจฮันเนสเบิร์ก, ဂျိုဟန္နက်စဗတ်မြို့, იოჰანესბურგი, ጆሃንስበርግ, ヨハネスブルグ, 約翰尼斯堡, 约翰内斯堡, 요하네스버그
 
 ---

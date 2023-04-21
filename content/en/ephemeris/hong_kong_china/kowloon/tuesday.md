@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°52'52.64" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°40'40.84" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°27'44.39" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°48'19.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°2'18.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°55'41.59" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°48'19.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°2'19.27" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°52'12.16" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'25.74" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°52'52.64" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°40'41.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°27'43.71" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°48'19.77" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°2'18.50" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°55'41.59" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°40'40.84" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°27'44.39" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°48'19.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°2'19.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°52'12.16" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Chiu-lung,  Czjulun,  Kaulunas,  Koulun,  Kowloon,  jiu long,  julung,  yi fa ban,  Цзюлун,  九龍,  意法半,  주룽
+Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'28.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'25.89" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°5'4.61" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°45'23.04" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°17'43.92" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'35.11" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°57'57.80" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'26.16" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°5'4.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°45'24.57" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°17'45.04" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'37.26" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°8'5.37" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'28.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'25.89" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°5'4.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°45'23.04" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°17'43.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'35.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°57'57.80" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'26.16" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°5'4.89" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°45'24.57" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°17'45.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'37.26" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°8'5.37" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: TBS,  Tbilis,  Tbilisi,  Tbilisi - tbilisi,  Tbilisi - თბილისი,  Tbilisi osh,  Tbilisis,  Tbiliso,  Tbilissi,  Tbilisy,  Tbiliszi,  Tbilsi,  Tblisi,  Thbilisi,  Tibilisi,  Tiblisi,  Tiblissi,  Tiblíssi,  Tibîlîsî,  Tiflis,  Tiphlida,  Tpilisi,  Triphelis,  Ttuplis,  Tíblisi,  Tíflis,  Tıflis,  di bi li si,  karti,  tbilisi,  tblys,  tblysy,  tbylysy,  teubillisi,  tfls,  tflys,  thbi li si,  thbilisi,  tipilici,  tobirishi,  Τιφλίδα,  Тбилис,  Тбилиси,  Тбилиси ош,  Тбилисӣ,  Тбілісі,  Ттуплис,  Қарҭ,  Թբիլիսի,  טביליסי,  تبليسي,  تبلیس,  تبلیسی,  تبىلىسى,  تفلیس,  طفلس,  ܛܒܝܠܝܣܝ,  त्बिलिसी,  थ्बिलीसी,  তিবি
+Alternate Names: TBS, Tbilis, Tbilisi, Tbilisi - tbilisi, Tbilisi - თბილისი, Tbilisi osh, Tbilisis, Tbiliso, Tbilissi, Tbilisy, Tbiliszi, Tbilsi, Tblisi, Thbilisi, Tibilisi, Tiblisi, Tiblissi, Tiblíssi, Tibîlîsî, Tiflis, Tiphlida, Tpilisi, Triphelis, Ttuplis, Tíblisi, Tíflis, Tıflis, di bi li si, karti, tbilisi, tblys, tblysy, tbylysy, teubillisi, tfls, tflys, thbi li si, thbilisi, tipilici, tobirishi, Τιφλίδα, Тбилис, Тбилиси, Тбилиси ош, Тбилисӣ, Тбілісі, Ттуплис, Қарҭ, Թբիլիսի, טביליסי, تبليسي, تبلیس, تبلیسی, تبىلىسى, تفلیس, طفلس, ܛܒܝܠܝܣܝ, त्बिलिसी, थ्बिलीसी, তিবি‌লিসি, திபிலீசி, ทบิลิซิ, ཁྲེ་བྷི་ལི་སི།, თბილისი, ქართი, ትብሊሲ, トビリシ, 第比利斯, 트빌리시
 
 ---

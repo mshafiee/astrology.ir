@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'56.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'14.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°11'37.41" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°46'28.38" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°39'55.40" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'30.32" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°56'0.18" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°13'14.21" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°11'28.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°46'28.28" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°39'46.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'18.35" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°59'50.49" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: TIA,  Terana,  Theranda,  Tiorana,  Tiorána,  Tiran,  Tiran khot,  Tiran-a,  Tirana,  Tiranae,  Tirane,  Tirano,  Tiranë,  Tirāna,  Trnava,  Tyrana,  Tyranna,  Tírana,  Tîrana,  Tėrana,  de la na,  tilana,  tirana,  tyrana,  tyrnh,  Τίρανα,  Тиран хот,  Тиранæ,  Тирана,  Тиране,  Трнава,  Тырана,  Տիրանա,  טיראנא,  טירנה,  تىرانا,  تيرانا,  تیرانا,  तिराना,  তিরানা,  ਤਿਰਾਨਾ,  ଟିରାନା,  டிரானா,  ടിറാന,  ติรานา,  ཐིས་རན།,  ტირანა,  ቲራና,  ティラナ,  地拉那,  티라나
+Alternate Names: TIA, Terana, Theranda, Tiorana, Tiorána, Tiran, Tiran khot, Tiran-a, Tirana, Tiranae, Tirane, Tirano, Tiranë, Tirāna, Trnava, Tyrana, Tyranna, Tírana, Tîrana, Tėrana, de la na, tilana, tirana, tyrana, tyrnh, Τίρανα, Тиран хот, Тиранæ, Тирана, Тиране, Трнава, Тырана, Տիրանա, טיראנא, טירנה, تىرانا, تيرانا, تیرانا, तिराना, তিরানা, ਤਿਰਾਨਾ, ଟିରାନା, டிரானா, ടിറാന, ติรานา, ཐིས་རན།, ტირანა, ቲራና, ティラナ, 地拉那, 티라나
 
 ---

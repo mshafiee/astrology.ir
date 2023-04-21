@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°24'6.48" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°35'52.47" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°30'42.27" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°31'25.54" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'13.80" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°47'57.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°31'34.81" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'28.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°50'44.17" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°46'41.12" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°24'6.48" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°35'52.47" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°30'42.27" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°31'34.81" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'28.28" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°50'44.17" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|2°30'41.96" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°31'35.03" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'28.04" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°51'28.97" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CSX,  Cangsa,  Cangzsah,  Cansa,  Cchang-sa,  Ch'ang-sha-hsien,  Ch'ang-sha-shih,  Changsha,  Changsja,  Chansha,  Chhong-sa-su,  Chhòng-sâ-sṳ,  Ch’ang-sha-hsien,  Ch’ang-sha-shih,  Csangsa,  Diong-sa,  Diòng-să,  Tng-soa-chhi,  Tn̂g-soa-chhī,  Truong Sa,  Trường Sa,  Tsan'nksa,  cangasa,  chang cha,  changsa,  changsa si,  changsha,  changsha shەھyr,  channasa,  tshanghsha,  zhang sha,  zhang sha shi,  Ĉangŝa,  Čangša,  Čanša,  Čchang-ša,  Τσανγκσά,  Чангша,  Чанша,  Չանշա,  تشانغشا,  چانگشا,  چاڭشا شەھىر,  चांगशा,  छांग्षा,  ਛਾਂਙਸ਼ਾ,  ฉางชา,  ချနဆားမြ,  ချန်ဆားမြို့,  長沙,  長沙市,  长沙,  长沙市,  창사 시
+Alternate Names: CSX, Cangsa, Cangzsah, Cansa, Cchang-sa, Ch'ang-sha-hsien, Ch'ang-sha-shih, Changsha, Changsja, Chansha, Chhong-sa-su, Chhòng-sâ-sṳ, Ch’ang-sha-hsien, Ch’ang-sha-shih, Csangsa, Diong-sa, Diòng-să, Tng-soa-chhi, Tn̂g-soa-chhī, Truong Sa, Trường Sa, Tsan'nksa, cangasa, chang cha, changsa, changsa si, changsha, changsha shەھyr, channasa, tshanghsha, zhang sha, zhang sha shi, Ĉangŝa, Čangša, Čanša, Čchang-ša, Τσανγκσά, Чангша, Чанша, Չանշա, تشانغشا, چانگشا, چاڭشا شەھىر, चांगशा, छांग्षा, ਛਾਂਙਸ਼ਾ, ฉางชา, ချနဆားမြ, ချန်ဆားမြို့, 長沙, 長沙市, 长沙, 长沙市, 창사 시
 
 ---

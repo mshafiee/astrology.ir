@@ -20,7 +20,7 @@ Latitude: 6.9355
 \-
 Longitude: 79.8487
 \-
-Altitude: 7 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Colombo, Sri Lanka" lat="6.9355" lng="79.8487" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'12.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°56'50.25" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°34'52.84" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°39'36.09" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°21'29.94" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'44.64" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°26'8.45" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°56'49.50" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°34'48.87" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°39'48.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°21'34.40" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'59.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°39'39.83" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CMB,  Colombo,  Columbo,  Columbum,  Kalomba,  Kolombas,  Kolombo,  Kolompo,  Kolonbo,  ge lin bao,  kalambo,  kalombo,  ke lun po,  kealambea,  kholambo,  klmbw,  kolabo,  kolambo,  kollombo,  kolumpu,  kolunbu,  koronbo,  kwlmbw,  kwlwmbw,  qwlwmbw,  Κολόμπο,  Каломба,  Коломбо,  Կոլոմբո,  קולומבו,  كولمبو,  كولومبو,  کلمبو,  کولمبو,  ކޮޅުނބު,  कोलंबो,  कोलम्बो,  কলম্বো,  ਕੋਲੰਬੋ,  કોલંબો,  କଲୋମ୍ବୋ,  கொழும்பு,  కొలంబో,  ಕೊಲಂಬೊ,  കൊളംബോ,  කොළඹ,  ෙකාළඹ,  โคลัมโบ,  ཁོ་ལུམ་པོ།,  ကိုလံဘိုမြို့,  კოლომბო,  ኮሎምቦ,  コロンボ,  可倫坡,  哥林堡,  콜롬보
+Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보
 
 ---

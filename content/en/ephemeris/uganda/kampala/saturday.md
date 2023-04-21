@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'55.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°13'12.01" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°11'23.61" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°46'21.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°39'37.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'34.26" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°59'18.40" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°13'12.30" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°11'25.85" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°46'23.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°39'40.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'37.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°17'11.62" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°13'12.30" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°11'25.85" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°46'23.53" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°39'37.20" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'34.26" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°59'18.40" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°39'40.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'37.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°17'11.62" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Mars|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Campala,  IKampala,  KLA,  Kaempaala,  Kambaala,  Kampal,  Kampala,  Kampalo,  Kanpala,  kam pa la,  kambala,  kampala,  kampalla,  kan pa la,  kanpara,  kapala,  kmbala,  kmpala,  qmplh,  Καμπάλα,  Кампала,  Կամպալա,  קאמפאלא,  קמפלה,  كامبالا,  كامپالا,  كمبالا,  کامپالا,  کمپالا,  کمپالہ,  कंपाला,  कम्पाला,  ਕੰਪਾਲਾ,  କାମ୍ପାଲା,  கம்பாலா,  กัมปาลา,  ཀམ་པ་ལ།,  კამპალა,  ካምፓላ,  カンパラ,  坎帕拉,  캄팔라
+Alternate Names: Campala, IKampala, KLA, Kaempaala, Kambaala, Kampal, Kampala, Kampalo, Kanpala, kam pa la, kambala, kampala, kampalla, kan pa la, kanpara, kapala, kmbala, kmpala, qmplh, Καμπάλα, Кампала, Կամպալա, קאמפאלא, קמפלה, كامبالا, كامپالا, كمبالا, کامپالا, کمپالا, کمپالہ, कंपाला, कम्पाला, ਕੰਪਾਲਾ, କାମ୍ପାଲା, கம்பாலா, กัมปาลา, ཀམ་པ་ལ།, კამპალა, ካምፓላ, カンパラ, 坎帕拉, 캄팔라
 
 ---

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°49'12.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°31'30.12" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°52'28.44" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°49'12.57" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°31'29.35" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°52'27.55" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°0'46.90" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°6'44.71" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°25'9.62" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°32'26.02" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|14°6'41.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'11.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°14'41.38" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'12.83" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'28.93" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°52'31.90" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°0'39.84" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°6'44.74" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°25'9.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°32'26.02" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°31'30.12" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°52'27.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°0'42.70" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°6'41.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°25'11.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°14'41.38" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ciudad de Montevideo,  MVD,  Mantehvideha,  Montebideo,  Montevidejas,  Montevideo,  Montevideu,  Montevidiejos,  Montevidéu,  Montevidėjas,  Montevídeó,  Muntivideu,  Muntividew,  Muntividèu,  Muntividëw,  Urbs Montis Videi,  mantibhiri'o,  meantevidiyea,  meng de wei de ya,  meng te wei duo,  montebide'o,  montebide-o,  montebideo,  montevide'o,  montevidi'o,  montevidiyo,  montevitiyo,  mwntfydw,  mwnth wydyw,  mwntybydyw,  mxn te wi de xo,  Μοντεβιδέο,  Мантэвідэа,  Монтевидео,  Монтевідео,  Մոնտևիդեո,  מאנטעווידעא,  מונטווידאו,  مونتفيدو,  مونته ویدئو,  مونته
+Alternate Names: Ciudad de Montevideo, MVD, Mantehvideha, Montebideo, Montevidejas, Montevideo, Montevideu, Montevidiejos, Montevidéu, Montevidėjas, Montevídeó, Muntivideu, Muntividew, Muntividèu, Muntividëw, Urbs Montis Videi, mantibhiri'o, meantevidiyea, meng de wei de ya, meng te wei duo, montebide'o, montebide-o, montebideo, montevide'o, montevidi'o, montevidiyo, montevitiyo, mwntfydw, mwnth wydyw, mwntybydyw, mxn te wi de xo, Μοντεβιδέο, Мантэвідэа, Монтевидео, Монтевідео, Մոնտևիդեո, מאנטעווידעא, מונטווידאו, مونتفيدو, مونته ویدئو, مونته‌ویدئ, مونته‌ویدئو, مونتیبیدیو, مونتېۋىدېئو, मोण्टेवीडियो, मोन्तेविदेओ, মোন্তেবিদেও, ਮੋਂਤੇਵੀਦਿਓ, ମଣ୍ଟିଭିଡ଼ିଓ, மொண்டேவீடியோ, മൊണ്ടേവീഡിയോ, มอนเตวิเดโอ, མཱོན་ཊི་ཝི་ཌོ།, မွန်တီဗစ်ဒီအိုမြို့, მონტევიდეო, ሞንቴቪዴዎ, モンテビデオ, 蒙得维的亚, 蒙特維多, 몬테비데오
 
 ---

@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ADU,  Ardabel,  Ardabil,  Ardabīl,  Ardebil,  Ardebīl,  Erdebil,  aardibyl,  ardbyl,  Ərdəbil,  Ардабел,  اردبيل,  اردبیل,  اَردِبيل
+Alternate Names: ADU, Ardabel, Ardabil, Ardabīl, Ardebil, Ardebīl, Erdebil, aardibyl, ardbyl, Ərdəbil, Ардабел, اردبيل, اردبیل, اَردِبيل
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'40.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°59'36.35" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°55'54.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°55'8.45" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°20'16.43" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°52'56.16" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°45'16.04" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°59'36.37" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°55'54.06" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°55'8.50" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°20'15.80" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°52'55.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°39'46.14" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'40.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°59'36.35" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°55'54.63" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°55'8.45" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°20'16.43" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°52'56.16" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°45'16.04" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°59'36.37" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°55'53.80" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°55'8.44" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°20'15.48" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°52'55.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°37'19.86" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: B.H.,  BH,  BHZ,  Bel-Horizonto,  Bello Horizonte,  Belo Horizonte,  Belo Horizontė,  Belo Hte,  Belo Khorizonte,  Belo Orizonte,  Belo Orizonti,  Belu Orizonti,  Belu-Aryzonty,  Belu-Orizonti,  Bhte,  Cidade de Minas,  Urbs Pulchri Horizontis,  bailo orizonti,  bei luo ao li cang te,  belluolijonchi,  belo horijhonte,  belo horijonte,  belo xo ri sxn chi,  beroorizonchi,  beroorizonte,  blw hwryzwnth,  bylw hwryzwnty,  pelo aricanc,  Μπέλο Οριζόντε,  Бело Оризонте,  Бело Оризонти,  Бело Хоризонте,  Белу-Арызонты,  Белу-Оризонти,  Белу-Оризонті,  בלו הוריזונטה,  بلو هوریزونته,  بيلو هوريزونتي,  بیلو ہوریزونتے,  बेलो होरिझोन्ते,  বেলো হোরিজোন্টে,  ਬੈਲੋ ਓਰੀਜ਼ੋਂਤੀ,  பெலோ அரிசாஞ்ச்,  เบโลโอรีซอนชี,  ბელუ-ორიზონტი,  ベロオリゾンチ,  ベロオリゾンテ,  貝洛奥里藏特,  贝洛奥里藏特,  벨루오리존치
+Alternate Names: B.H., BH, BHZ, Bel-Horizonto, Bello Horizonte, Belo Horizonte, Belo Horizontė, Belo Hte, Belo Khorizonte, Belo Orizonte, Belo Orizonti, Belu Orizonti, Belu-Aryzonty, Belu-Orizonti, Bhte, Cidade de Minas, Urbs Pulchri Horizontis, bailo orizonti, bei luo ao li cang te, belluolijonchi, belo horijhonte, belo horijonte, belo xo ri sxn chi, beroorizonchi, beroorizonte, blw hwryzwnth, bylw hwryzwnty, pelo aricanc, Μπέλο Οριζόντε, Бело Оризонте, Бело Оризонти, Бело Хоризонте, Белу-Арызонты, Белу-Оризонти, Белу-Оризонті, בלו הוריזונטה, بلو هوریزونته, بيلو هوريزونتي, بیلو ہوریزونتے, बेलो होरिझोन्ते, বেলো হোরিজোন্টে, ਬੈਲੋ ਓਰੀਜ਼ੋਂਤੀ, பெலோ அரிசாஞ்ச், เบโลโอรีซอนชี, ბელუ-ორიზონტი, ベロオリゾンチ, ベロオリゾンテ, 貝洛奥里藏特, 贝洛奥里藏特, 벨루오리존치
 
 ---

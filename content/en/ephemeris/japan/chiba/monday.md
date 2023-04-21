@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'11.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°37'18.09" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°5'30.85" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°24'20.89" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°34'17.91" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°20'2.15" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°3'27.94" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°37'18.34" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°5'32.85" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°24'10.30" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°34'11.76" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'46.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°23'59.86" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°51'11.22" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°37'18.34" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°5'32.85" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°24'20.89" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°34'17.91" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°20'2.15" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°3'27.94" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|3°24'22.28" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°34'11.76" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'46.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°23'59.86" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Chiba,  Chiba-shi,  Chibashi,  Ciba,  QCB,  Tiba,  chiba,  chibashi,  jiba si,  qian ye,  qian ye shi,  tshyba,  Ĉiba,  Čiba,  Чиба,  تشيبا,  ちば,  ちばし,  チバ,  チバシ,  千葉,  千葉市,  지바 시
+Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시
 
 ---

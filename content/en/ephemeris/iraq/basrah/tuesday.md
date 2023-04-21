@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°55'25.44" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°46'26.67" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°38'6.07" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°0'29.82" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'52.04" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°36'14.96" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|16°0'25.10" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'49.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°58'48.67" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'16.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'25.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'30.79" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°38'6.23" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°0'29.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'52.04" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°36'14.96" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°57'16.69" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°55'25.29" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'26.35" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°38'5.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°0'24.29" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'48.47" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°54'28.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Al Basrah,  Al Başrah,  Al-Basra,  BSR,  Bacora,  Basora,  Basra,  Basrah,  Bassora,  Bassorah,  Bassra,  Baçorá,  Busra,  Busrah,  Bussora,  Bàssora,  albsrt,  ba shi la,  ba si la,  basara,  basura,  bsrh,  bsrt,  bzrh,  Басра,  בצרה,  البصرة,  بصرة,  بصره,  ܒܨܪܐ,  বসরা,  バスラ,  巴士拉,  巴斯拉
+Alternate Names: Al Basrah, Al Başrah, Al-Basra, BSR, Bacora, Basora, Basra, Basrah, Bassora, Bassorah, Bassra, Baçorá, Busra, Busrah, Bussora, Bàssora, albsrt, ba shi la, ba si la, basura, bsrh, bsrt, bzrh, Басра, בצרה, البصرة, بصرة, بصره, ܒܨܪܐ, バスラ, 巴士拉, 巴斯拉
 
 ---

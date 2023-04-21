@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'9.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°40'9.60" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°11'58.65" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°35'59.01" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°47'54.90" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°17'16.11" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°52'35.77" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°40'10.00" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°11'56.36" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°36'1.19" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°47'53.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°17'18.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°40'34.00" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'9.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°40'9.60" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°11'58.65" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°35'59.01" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°47'54.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°17'16.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°52'35.77" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°40'10.00" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°11'56.36" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°36'1.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°47'53.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°17'18.05" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°40'34.00" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Cabool,  Caboul,  Cabul,  Cabul - kabl,  Cabul - کابل,  Cabura,  Cabúl,  Caubul,  KBL,  Kabil,  Kaboel,  Kabol,  Kaboul,  Kabul,  Kabula,  Kabulas,  Kabuli,  Kabulo,  Kabura,  Kabúl,  Kabûl,  Kampoul,  Kobul,  Kubha,  Kábul,  Kâbil,  Kābol,  ka bu er,  kabl,  kabul,  kabula,  kabuli,  kaburu,  kabwl,  kapul,  ke bu er,  khabul,  Καμπούλ,  Кабул,  Кобул,  Քաբուլ,  קאבול,  كابل,  كابۇل,  کابل,  کابول,  काबुल,  কাবুল,  ਕਾਬੁਲ,  କାବୁଲ,  காபூல்,  ಕಾಬುಲ್,  കാബൂൾ,  කාබුල්,  คาบูล,  ཁ་པལ།,  ཁ་པུལ།,  ქაბული,  ካቡል,  ទីក្រុងកាបូល,  カブール,  カーブル,  喀布尔,  喀布爾,  카불
+Alternate Names: Cabool, Caboul, Cabul, Cabul - kabl, Cabul - کابل, Cabura, Cabúl, Caubul, KBL, Kabil, Kaboel, Kabol, Kaboul, Kabul, Kabula, Kabulas, Kabuli, Kabulo, Kabura, Kabúl, Kabûl, Kampoul, Kobul, Kubha, Kábul, Kâbil, Kābol, ka bu er, kabl, kabul, kabula, kabuli, kaburu, kabwl, kapul, ke bu er, khabul, Καμπούλ, Кабул, Кобул, Քաբուլ, קאבול, كابل, كابۇل, کابل, کابول, काबुल, কাবুল, ਕਾਬੁਲ, କାବୁଲ, காபூல், ಕಾಬುಲ್, കാബൂൾ, කාබුල්, คาบูล, ཁ་པལ།, ཁ་པུལ།, ქაბული, ካቡል, ទីក្រុងកាបូល, カブール, カーブル, 喀布尔, 喀布爾, 카불
 
 ---

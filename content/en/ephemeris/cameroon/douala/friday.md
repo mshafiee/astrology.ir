@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°38'12.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'40.33" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°41'11.95" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°51'23.62" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°35'11.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'24.57" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°51'26.99" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°38'12.53" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°59'40.34" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°41'12.11" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°51'23.67" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°35'11.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'24.73" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°52'5.80" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: DLA,  Douala,  Doula,  Dual,  Duala,  Dualao,  Dóúala,  Ntouala,  dau'ala,  douara,  du a la,  du xa la,  dualla,  dwala,  Ντουάλα,  Дуала,  דואלה,  دوالا,  दौआला,  ਦੌਆਲਾ,  ดูอาลา,  ドゥアラ,  杜阿拉,  두알라
+Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라
 
 ---

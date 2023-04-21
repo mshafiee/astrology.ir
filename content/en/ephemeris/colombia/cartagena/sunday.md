@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'19.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'49.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°53'12.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°2'6.62" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°8'18.31" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°31'49.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°53'12.87" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°2'6.59" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°8'18.37" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°25'0.39" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°48'24.62" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|13°48'47.50" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CTG,  Caratagena de Indias,  Cartagena,  Cartagena das Indias,  Cartagena das Índias,  Cartagena de Indias,  Cartaxena de Indias,  Carthagene,  Carthagene des Indes,  Carthagène,  Carthagène des Indes,  Kartachena,  Kartageno,  Kartakhena,  Kartakhena de Indijas,  ka ta he na,  kaleutahena,  kartagyna,  kartajyna,  karutahena,  qrtajnt  kwlwmbya,  qrthnh,  Картахена,  Картахена де Индијас,  קרטחנה,  قرطاجنة، كولومبيا,  کارتاجینا,  کارتاگینا,  კარტახენა,  カルタヘナ,  卡塔赫纳,  카르타헤나
+Alternate Names: CTG, Caratagena de Indias, Cartagena, Cartagena das Indias, Cartagena das Índias, Cartagena de Indias, Cartaxena de Indias, Carthagene, Carthagene des Indes, Carthagène, Carthagène des Indes, Kartachena, Kartageno, Kartakhena, Kartakhena de Indijas, ka ta he na, kaleutahena, kartagyna, kartajyna, karutahena, qrtajnt  kwlwmbya, qrthnh, Картахена, Картахена де Индијас, קרטחנה, قرطاجنة، كولومبيا, کارتاجینا, کارتاگینا, კარტახენა, カルタヘナ, 卡塔赫纳, 카르타헤나
 
 ---

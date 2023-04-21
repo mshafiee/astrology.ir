@@ -20,7 +20,7 @@ Latitude: 18.4719
 \-
 Longitude: -69.8923
 \-
-Altitude: 24 meters
+Altitude: 9 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Santo Domingo, Dominican Republic" lat="18.4719" lng="-69.8923" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'53.25" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'13.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°57'20.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°57'35.48" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°23'12.96" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°51'33.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°26'44.74" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|25°0'15.57" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°57'23.29" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°57'47.63" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°23'22.11" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'53.66" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°6'45.30" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'53.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'13.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°57'20.97" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°57'35.48" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°23'12.96" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'33.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°26'44.74" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'15.59" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°57'23.35" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°57'47.74" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°23'22.25" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'53.86" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°7'29.23" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Ciudad Trujillo,  SDQ,  Saint Domingue,  Santo Domingo,  Santo Domingo City,  Santo Domingo de Guzman,  Santo Domingo de Guzmán,  Santo Ntomin'nko,  Santo-Domingo,  santodoming-go,  Σάντο Ντομίνγκο,  Санто-Доминго,  산토도밍고
+Alternate Names: Ciudad Trujillo, SDQ, Saint Domingue, Santo Domingo, Santo Domingo City, Santo Domingo de Guzman, Santo Domingo de Guzmán, Santo Ntomin'nko, Santo-Domingo, santodoming-go, Σάντο Ντομίνγκο, Санто-Доминго, 산토도밍고
 
 ---

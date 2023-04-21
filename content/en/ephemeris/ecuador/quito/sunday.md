@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kita,  Kitas,  Kito,  Kitu,  Kuito,  Quito,  Quitu,  Quitum,  San Francisco de Quito,  UIO,  ji duo,  ki to,  kito,  kitto,  kvirrea,  kvito,  kwytw,  kytw,  qytw,  Κίτο,  Кито,  Кіта,  Кіто,  Կիտո,  קיטא,  קיטו,  كىتو,  كيتو,  کوئتو,  کیتو,  کیٹو,  क्वितो,  क्वीटो,  ਕੀਤੋ,  கித்தோ,  ക്വിറ്റോ,  กีโต,  ཁེ་ཐོ།,  კიტო,  ኪቶ,  キト,  基多,  키토
+Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토
 
 ---

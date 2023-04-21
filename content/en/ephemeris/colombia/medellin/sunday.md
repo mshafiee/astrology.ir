@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°49'18.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°31'50.06" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°53'19.72" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°2'3.61" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°8'24.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'38.69" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°3'56.02" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°49'20.49" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°31'52.48" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°53'18.76" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°2'17.94" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°8'31.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'58.87" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°52'6.36" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'20.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'52.48" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°53'18.87" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°2'3.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°8'24.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'38.69" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°3'56.02" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°31'52.51" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°53'18.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°2'17.94" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°8'31.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'58.87" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°52'6.36" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MDE,  Medegin,  Medehl'in,  Medel'in,  Medelim,  Medelin,  Medeljina,  Medeljinas,  Medeljino,  Medellin,  Medellín,  mai de lin,  mdlyn,  mdyyn,  me de yin,  medein,  medejin,  medelini,  medeyina,  meteyin,  mydyllyn,  mydylyn,  Μεδεγίν,  Меделин,  Медельин,  Медельїн,  Медељин,  Медэльін,  מדיין,  مدلین,  ميديللين,  ميديلين,  میڈیلن,  मेदेयीन,  মেদেয়িন,  ਮੇਦੇਯੀਨ,  மெதெயின்,  เมเดยิน,  მედელინი,  ទីក្រុងមេឌេយីណ,  メデジン,  麦德林,  메데인
+Alternate Names: MDE, Medegin, Medehl'in, Medel'in, Medelim, Medelin, Medeljina, Medeljinas, Medeljino, Medellin, Medellín, mai de lin, mdlyn, mdyyn, me de yin, medein, medejin, medelini, medeyina, meteyin, mydyllyn, mydylyn, Μεδεγίν, Меделин, Медельин, Медельїн, Медељин, Медэльін, מדיין, مدلین, ميديللين, ميديلين, میڈیلن, मेदेयीन, মেদেয়িন, ਮੇਦੇਯੀਨ, மெதெயின், เมเดยิน, მედელინი, ទីក្រុងមេឌេយីណ, メデジン, 麦德林, 메데인
 
 ---

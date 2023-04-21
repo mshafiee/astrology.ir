@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'35.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°53'21.05" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°41'43.99" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°29'39.29" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°50'32.82" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°1'35.92" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°53'5.58" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°53'21.68" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°41'46.27" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°29'42.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°50'37.27" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°1'42.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°20'5.37" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'35.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°53'21.05" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°41'43.99" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°29'39.29" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°50'32.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'35.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°53'5.58" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°53'21.69" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°41'46.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°29'42.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°50'37.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°1'42.44" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°20'1.08" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Krong Chaktomuk,  Nam Van,  Nam-Vang,  Nom Pen,  PNH,  Phnom Pen,  Phnom Penh,  Phnom Pénh,  Phnom-Penh,  Phnompen,  Phnompenh,  Phnum Penh,  Phnum Peny,  Phnum Pénh,  Phnum Pény,  Phnôm Pênh,  Phon Phen,  Pnampen',  Pnom Pehn',  Pnom Pen,  Pnom Pen'ch,  Pnom Pene,  Pnom Penh,  Pnompen,  Pnompen',  Pnompena,  Pnompenis,  Pnompeno,  Pnompeņa,  Ville de Phnom Penh,  bnwm bnh,  fnwm pn,  fnwm pېn,  jin bian,  namapenha,  panoma pena,  peunompen,  phnm pen,  phnmpey,  pnwm pn,  punom pen,  punonpen,  Πνομ Πενχ,  Пнампень,  Пном Пен,  Пном Пэнь,  Пномпень,  Պնոմպեն,  פנום פן,  بنوم بنه,  فنوم پن,  فنوم پېن,  پنوم پن,  پنوم
+Alternate Names: Krong Chaktomuk, Nam Van, Nam-Vang, Nom Pen, PNH, Phnom Pen, Phnom Penh, Phnom Pénh, Phnom-Penh, Phnompen, Phnompenh, Phnum Penh, Phnum Peny, Phnum Pénh, Phnum Pény, Phnôm Pênh, Phon Phen, Pnampen', Pnom Pehn', Pnom Pen, Pnom Pen'ch, Pnom Pene, Pnom Penh, Pnom-Peno, Pnompen, Pnompen', Pnompena, Pnompenis, Pnompeņa, Ville de Phnom Penh, bnwm bnh, fnwm pn, fnwm pېn, jin bian, namapenha, panoma pena, peunompen, phnm pen, phnmpey, pnwm pn, punom pen, punonpen, Πνομ Πενχ, Пнампень, Пном Пен, Пном Пэнь, Пномпень, Պնոմպեն, פנום פן, بنوم بنه, فنوم پن, فنوم پېن, پنوم پن, پنوم‌پن, پنۆم پێن, नामपेन्ह, पनॉम पेन, প্‌নম পেন, புனோம் பென், พนมเปญ, พนมเปณ, ཕོམ་ཕེན།, ဖနွမ်းပင်မြို့, პნომპენი, ፕኖም ፔን, ភនកពងតរាច, ភនពេញ, ភ្នំកំពង់ត្រាច, ភ្នំពេញ, プノンペン, 金边, 프놈펜
 
 ---

@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°45'14.19" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°23'24.68" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°56'39.24" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°12'2.33" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°11'52.04" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°34'31.45" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|15°12'1.71" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°11'51.82" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°27'30.79" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°45'14.19" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°23'24.68" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°56'39.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°12'2.33" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°11'52.04" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°34'31.45" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|15°12'1.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°11'51.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°27'30.79" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: B.H.,  BH,  BHZ,  Bel-Horizonto,  Bello Horizonte,  Belo Horizonte,  Belo Horizontė,  Belo Hte,  Belo Khorizonte,  Belo Orizonte,  Belo Orizonti,  Belu Orizonti,  Belu-Aryzonty,  Belu-Orizonti,  Bhte,  Cidade de Minas,  Urbs Pulchri Horizontis,  bailo orizonti,  bei luo ao li cang te,  belluolijonchi,  belo horijhonte,  belo horijonte,  belo xo ri sxn chi,  beroorizonchi,  beroorizonte,  blw hwryzwnth,  bylw hwryzwnty,  pelo aricanc,  Μπέλο Οριζόντε,  Бело Оризонте,  Бело Оризонти,  Бело Хоризонте,  Белу-Арызонты,  Белу-Оризонти,  Белу-Оризонті,  בלו הוריזונטה,  بلو هوریزونته,  بيلو هوريزونتي,  بیلو ہوریزونتے,  बेलो होरिझोन्ते,  বেলো হোরিজোন্টে,  ਬੈਲੋ ਓਰੀਜ਼ੋਂਤੀ,  பெலோ அரிசாஞ்ச்,  เบโลโอรีซอนชี,  ბელუ-ორიზონტი,  ベロオリゾンチ,  ベロオリゾンテ,  貝洛奥里藏特,  贝洛奥里藏特,  벨루오리존치
+Alternate Names: B.H., BH, BHZ, Bel-Horizonto, Bello Horizonte, Belo Horizonte, Belo Horizontė, Belo Hte, Belo Khorizonte, Belo Orizonte, Belo Orizonti, Belu Orizonti, Belu-Aryzonty, Belu-Orizonti, Bhte, Cidade de Minas, Urbs Pulchri Horizontis, bailo orizonti, bei luo ao li cang te, belluolijonchi, belo horijhonte, belo horijonte, belo xo ri sxn chi, beroorizonchi, beroorizonte, blw hwryzwnth, bylw hwryzwnty, pelo aricanc, Μπέλο Οριζόντε, Бело Оризонте, Бело Оризонти, Бело Хоризонте, Белу-Арызонты, Белу-Оризонти, Белу-Оризонті, בלו הוריזונטה, بلو هوریزونته, بيلو هوريزونتي, بیلو ہوریزونتے, बेलो होरिझोन्ते, বেলো হোরিজোন্টে, ਬੈਲੋ ਓਰੀਜ਼ੋਂਤੀ, பெலோ அரிசாஞ்ச், เบโลโอรีซอนชี, ბელუ-ორიზონტი, ベロオリゾンチ, ベロオリゾンテ, 貝洛奥里藏特, 贝洛奥里藏特, 벨루오리존치
 
 ---

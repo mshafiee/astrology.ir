@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°48'18.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°28'52.77" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°46'41.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°50'3.77" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°54'22.78" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'4.35" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°56'35.75" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°48'19.57" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°28'54.54" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°46'40.76" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°50'14.07" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°54'26.94" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'18.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°29'35.76" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,11 +330,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°48'18.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°28'52.77" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°46'41.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°50'3.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°54'22.79" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°48'19.57" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°28'54.54" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°46'40.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°50'14.07" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°54'26.94" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°27'13.17" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|11°3'25.53" |Gemini|HanAh|Mars|
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Marakes,  Marakesh,  Marakeso,  Marakeŝo,  Marakeš,  Maraksh,  Marrakech,  Marrakes,  Marrakesch,  Marrakesh,  Marrakesz,  Marraqueix,  Marraquexe,  Marràqueix,  Marrákes,  Marrákeš,  Merrakex,  Morocco City,  RAK,  ma la ke shen,  marakeshu,  mraksh,  Маракеш,  Марракеш,  مراكش,  ⴰⵎⵓⵔⴰⴽⵓⵛ,  マラケシュ,  马拉喀什
+Alternate Names: Marakes, Marakesh, Marakeso, Marakeŝo, Marakeš, Maraksh, Marrakech, Marrakes, Marrakesch, Marrakesh, Marrakesz, Marraqueix, Marraquexe, Marràqueix, Marrákes, Marrákeš, Merrakex, Morocco City, RAK, ma la ke shen, marakeshu, mraksh, Маракеш, Марракеш, مراكش, ⴰⵎⵓⵔⴰⴽⵓⵛ, マラケシュ, 马拉喀什
 
 ---

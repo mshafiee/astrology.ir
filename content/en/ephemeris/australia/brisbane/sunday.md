@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'19.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°23'1.95" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°33'27.39" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°26'19.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°26'27.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'4.43" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°42'53.59" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'2.67" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°33'27.95" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°26'22.23" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°26'26.95" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'10.19" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°2'25.92" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'19.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'1.95" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°33'27.39" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°26'19.51" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°26'27.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'4.43" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°42'53.59" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°46'19.41" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°23'2.44" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°33'25.81" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°26'22.23" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°26'26.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'7.30" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°44'58.46" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BNE,  Bresbens,  Brisbane,  Brisbane City,  Brisbano,  Brisbehn,  Brisben,  Brisbena,  Brisbenas,  Brisbin,  Brismpein,  Brizbejn,  Brysben,  Brėsbens,  Pu-li-su-pan,  Pu-lî-sṳ̂-pân,  beulijeubeon,  brisabena,  brisben,  brisbena,  brizabana,  brizbeni,  brsbyn,  brysban,  bryzbn,  bryzbyn,  bryzbyyn,  bu li si ban,  bu li si ben,  burisuben,  pirispen,  Μπρίσμπεϊν,  Бризбейн,  Бризбејн,  Брисбен,  Брисбэн,  Брысбен,  בריזביין,  בריזבן,  برسبین,  برىسبان,  بريزبن,  بریزبن,  بریزبین,  بریزبێن,  ब्रिसबेन,  ब्रिस्बेन,  ব্রিসবেন,  ਬ੍ਰਿਜ਼ਬਨ,  பிரிஸ்பேன்,  బ్రిస్బేన్,  ಬ್ರಿಸ್ಬೇನ್
+Alternate Names: BNE, Bresbens, Brisbane, Brisbane City, Brisbano, Brisbehn, Brisben, Brisbena, Brisbenas, Brisbin, Brismpein, Brizbejn, Brysben, Brėsbens, Pu-li-su-pan, Pu-lî-sṳ̂-pân, beulijeubeon, brisabena, brisben, brisbena, brizabana, brizbeni, brsbyn, brysban, bryzbn, bryzbyn, bryzbyyn, bu li si ban, bu li si ben, burisuben, pirispen, Μπρίσμπεϊν, Бризбейн, Бризбејн, Брисбен, Брисбэн, Брысбен, בריזביין, בריזבן, برسبین, برىسبان, بريزبن, بریزبن, بریزبین, بریزبێن, ब्रिसबेन, ब्रिस्बेन, ব্রিসবেন, ਬ੍ਰਿਜ਼ਬਨ, பிரிஸ்பேன், బ్రిస్బేన్, ಬ್ರಿಸ್ಬೇನ್‌, ബ്രിസ്ബെയ്ൻ, บริสเบน, ဘရစ်စဘိန်းမြို့, ბრიზბენი, ብርዝበን, ブリスベン, 布里司班, 布里斯本, 布里斯班, 브리즈번
 
 ---

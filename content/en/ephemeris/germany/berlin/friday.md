@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'55.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'53.10" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°39'27.93" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°48'10.05" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°31'27.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'13.27" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°32'17.83" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'53.45" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°39'29.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°48'11.94" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°31'30.37" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'17.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°48'0.80" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BER,  Beirlin,  Beirlín,  Belin,  Berleno,  Berlien,  Berliin,  Berliini,  Berlijn,  Berlim,  Berlin,  Berline,  Berlini,  Berlino,  Berlyn,  Berlynas,  Berlëno,  Berlín,  Berlîn,  Berlīne,  Berolino,  Berolinum,  Birlinu,  Bèrlîn,  Estat de Berlin,  Estat de Berlín,  bai lin,  barlina,  beleullin,  berlini,  berurin,  bexrlin,  brlyn,  perlin,  Βερολίνο,  Берлин,  Берлін,  Бэрлін,  Բերլին,  בערלין,  ברלין,  برلين,  برلین,  بېرلىن,  ܒܪܠܝܢ,  बर्लिन,  বার্লিন,  பெர்லின்,  เบอร์ลิน,  ბერლინი,  ベルリン,  柏林,  베를린
+Alternate Names: BER, Beirlin, Beirlín, Berleno, Berlien, Berliin, Berliini, Berlijn, Berlim, Berlin, Berline, Berlini, Berlino, Berlyn, Berlynas, Berlëno, Berlín, Berlîn, Berlīne, Berolino, Berolinum, Birlinu, Bèrlîn, Estat de Berlin, Estat de Berlín, bai lin, barlina, beleullin, berlini, berurin, bexrlin, brlyn, perlin, Βερολίνο, Берлин, Берлін, Бэрлін, Բերլին, בערלין, ברלין, برلين, برلین, بېرلىن, ܒܪܠܝܢ, बर्लिन, বার্লিন, பெர்லின், เบอร์ลิน, ბერლინი, ベルリン, 柏林, 베를린
 
 ---

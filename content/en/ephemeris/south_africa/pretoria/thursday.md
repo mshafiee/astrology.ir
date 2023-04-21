@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'56.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'44.32" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°8'4.52" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°50'40.00" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°24'3.44" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'12.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°44'21.48" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°44'46.05" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°8'1.22" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°50'50.40" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°24'5.67" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'23.85" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°55'23.98" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'56.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'44.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°8'4.52" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°50'40.00" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°24'3.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'12.50" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°44'21.48" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°44'46.05" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°8'1.22" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°50'50.40" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°24'5.67" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'23.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°55'23.98" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: E-Pitoli,  IPitoli,  PRY,  Pitoli,  Praetoria,  Prehtoryja,  Pretori,  Pretoria,  Pretoria/Pole tou Akroteriou,  Pretoriae,  Pretorii,  Pretorija,  Pretorio,  Pretoriya,  Pretoriye,  Pretoriä,  Pretoría,  Pretòria,  Pretória,  Prétoriye,  Pta,  Tshwane,  bi lei tuo li ya,  brytwrya,  peulitolia,  phri thx reiy,  pirittoriya,  pritori'a,  pritoriya,  pritteariya,  prtwrya,  prtwryh,  pu li tuo li ya,  puretoria,  Πρετόρια,  Πρετόρια/Πόλη του Ακρωτηρίου,  Претори,  Претория,  Преторија,  Преторія,  Прэторыя,  Պրետորիա,  פרטוריה,  بريتوريا,  پرتوریا,  پریٹوریا,  پرێتۆریا,  प्रिटोरिया,  ਪ੍ਰਿਟੋਰੀਆ,  பிரிட்டோரியா,  ప్రిటోరియా,  പ്രിട്ടോറിയ,  พริทอเรีย,  ཕི་རི་ཐོ་རི་ཡ།,  პრეტორია,  ፕሪቶሪያ,  プレトリア,  普利托里亞,  比勒陀利亞,  프리토리아
+Alternate Names: E-Pitoli, IPitoli, PRY, Pitoli, Praetoria, Prehtoryja, Pretori, Pretoria, Pretoria/Pole tou Akroteriou, Pretoriae, Pretorii, Pretorija, Pretorio, Pretoriya, Pretoriye, Pretoriä, Pretoría, Pretòria, Pretória, Prétoriye, Pta, Tshwane, bi lei tuo li ya, brytwrya, peulitolia, phri thx reiy, pirittoriya, pritori'a, pritoriya, pritteariya, prtwrya, prtwryh, pu li tuo li ya, puretoria, Πρετόρια, Πρετόρια/Πόλη του Ακρωτηρίου, Претори, Претория, Преторија, Преторія, Прэторыя, Պրետորիա, פרטוריה, بريتوريا, پرتوریا, پریٹوریا, پرێتۆریا, प्रिटोरिया, ਪ੍ਰਿਟੋਰੀਆ, பிரிட்டோரியா, ప్రిటోరియా, പ്രിട്ടോറിയ, พริทอเรีย, ཕི་རི་ཐོ་རི་ཡ།, პრეტორია, ፕሪቶሪያ, プレトリア, 普利托里亞, 比勒陀利亞, 프리토리아
 
 ---

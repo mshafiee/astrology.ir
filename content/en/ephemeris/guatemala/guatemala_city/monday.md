@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'22.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°46'46.09" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°26'52.48" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°2'52.82" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°19'18.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°10'1.71" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°42'34.81" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°46'43.77" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°26'47.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°2'39.28" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°19'5.14" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°9'38.68" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°21'10.48" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Cidade da Guatemala,  Citta del Guatemala,  Città del Guatemala,  Ciudad Guatemala,  Ciudad de Guatemala,  Ciutat de Guatemala,  GUA,  Guate,  Guatemala,  Guatemala City,  Guatemala Hiria,  Guatemala by,  Guatemala la Nueva,  Guatemala-Stadt,  Guatemala-Urbo,  Guatemala-stad,  Gvatemala,  Gvatemalurbo,  Gwatemala,  New Guatemala,  Nueva Guatemala,  Nueva Guatemala de la Asuncion,  Nueva Guatemala de la Asunción,  Pole tes Gouatemalas,  Santiago de Guatimala,  gua de ma la shi,  guatemarashiti,  gwatemalla si,  gwatemallasiti,  kawtemalasiti,  mdynt ghwatymala,  shhr gwatmala,  Πόλη της Γουατεμάλας,  Гватемала,  גואטמלה סיטי,  גוואטמלה סיטי,  شهر گواتمالا,  مدينة غواتيمالا,  กัวเตมาลาซิตี,  グアテマラシティ,  瓜地馬拉市,  과테말라 시,  과테말라시티
+Alternate Names: Cidade da Guatemala, Citta del Guatemala, Città del Guatemala, Ciudad Guatemala, Ciudad de Guatemala, Ciutat de Guatemala, GUA, Guate, Guatemala, Guatemala City, Guatemala Hiria, Guatemala by, Guatemala la Nueva, Guatemala-Stadt, Guatemala-Urbo, Guatemala-stad, Gvatemala, Gvatemalurbo, Gwatemala, New Guatemala, Nueva Guatemala, Nueva Guatemala de la Asuncion, Nueva Guatemala de la Asunción, Pole tes Gouatemalas, Santiago de Guatimala, gua de ma la shi, guatemarashiti, gwatemalla si, gwatemallasiti, kawtemalasiti, mdynt ghwatymala, shhr gwatmala, Πόλη της Γουατεμάλας, Гватемала, גואטמלה סיטי, גוואטמלה סיטי, شهر گواتمالا, مدينة غواتيمالا, กัวเตมาลาซิตี, グアテマラシティ, 瓜地馬拉市, 과테말라 시, 과테말라시티
 
 ---

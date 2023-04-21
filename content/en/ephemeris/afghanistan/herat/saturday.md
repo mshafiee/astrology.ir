@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°42'23.56" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°11'40.11" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°8'0.31" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°40'1.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°32'12.66" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'48.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°39'46.08" |Aries|Butain|Venus|
+|☉ Sun|Direct|1°40'7.90" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°32'21.82" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'0.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°58'54.51" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'23.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'39.02" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°7'54.94" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°40'1.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°32'12.66" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'48.50" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°39'46.08" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°11'40.11" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°8'0.31" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°40'7.90" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°32'21.82" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'0.30" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°34'56.03" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Gerat,  HEA,  Herat,  Herāt,  Hérat,  Kherat,  Shahr-e Herat,  Shahr-e Herāt,  he la te,  herato,  hrat,  Герат,  Херат,  هراة,  هرات,  ヘラート,  赫拉特
+Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特
 
 ---

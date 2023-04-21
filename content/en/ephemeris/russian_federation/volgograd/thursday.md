@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'26.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'19.22" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°4'49.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°44'45.95" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°17'5.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'18.58" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°46'39.96" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'19.14" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°4'50.40" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°44'55.50" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°17'12.44" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'31.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°50'27.28" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'26.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'17.51" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'48.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°44'45.95" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°17'5.56" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'18.58" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°46'39.96" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'19.22" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°4'49.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°44'56.08" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°17'12.06" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'32.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°54'43.88" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Caricyn,  Estalingrado,  Stalingrad,  Stalingrado,  Staljingrad,  Tsaritsyn,  VOG,  Valgagrad,  Vl'gogradu,  Volgograd,  Volgograda,  Volgogradas,  Volgogrado,  Volgogradum,  Volgográd,  Volnkonkrant,  Volqoqrad,  Wolgograd,  Wołgograd,  Zarizyn,  bolgogeuladeu,  fu er jia ge lei,  fwlghwghrad,  fwljwjrad,  volagagarata,  volgograda,  volgogradi,  volkokirat,  vuorugogurado,  wlgwgrad,  wwlgw grad,  wwlgwgrad,  wwlgwgrd,  wxl kok rad,  Βόλγκογκραντ,  Аһш балһсн,  Валгаград,  Вльгоградъ,  Волгоград,  Сталинград,  Царицын,  Վոլգոգրադ,  וולגוגרד,  فولجوجراد,  فولغوغراد,  ولگوگراد,  وولگو گراد,  وولگوگراد,  ڤۆڵگۆگراد,  वोल्गोग्राद,  ਵੋਲਗਾਗਰਾਤ,  வோல்கோகிராட்,  වොල්ගාග්
+Alternate Names: Caricyn, Estalingrado, Stalingrad, Stalingrado, Tsaritsyn, VOG, Valgagrad, Vl'gogradu, Volgograd, Volgograda, Volgogradas, Volgogrado, Volgogradum, Volgográd, Volnkonkrant, Volqoqrad, Wolgograd, Wołgograd, Zarizyn, bolgogeuladeu, fu er jia ge lei, fwlghwghrad, fwljwjrad, volagagarata, volgograda, volgogradi, volkokirat, vu~orugogurado, wlgwgrad, wwlgw grad, wwlgwgrad, wwlgwgrd, wxl kok rad, Βόλγκογκραντ, Аһш балһсн, Валгаград, Вльгоградъ, Волгоград, Сталинград, Царицын, Վոլգոգրադ, וולגוגרד, فولجوجراد, فولغوغراد, ولگوگراد, وولگو گراد, وولگوگراد, ڤۆڵگۆگراد, वोल्गोग्राद, ਵੋਲਗਾਗਰਾਤ, வோல்கோகிராட், වොල්ගාග්‍රාද්, วอลโกกราด, စတာလင်ဂရက်မြို့, ვოლგოგრადი, ヴォルゴグラード, 伏尔加格勒, 伏爾加格勒, 볼고그라드
 
 ---

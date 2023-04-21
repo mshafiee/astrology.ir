@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°48'15.91" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°15'47.95" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°5'2.69" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°40'38.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'32.61" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°23'48.44" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°40'47.44" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'53.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°6'41.44" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'11.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'13.28" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°15'47.28" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°4'47.18" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°40'38.25" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'32.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°23'48.44" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'15.91" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°15'47.95" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°5'2.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°40'47.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'53.33" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°6'41.44" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: CCS,  Caracae,  Caracas,  Caraques,  Karakas,  Karakasa,  Karakasas,  Karakaso,  ka la ka si,  ka raka s,  kalakaseu,  karakas,  karakasa,  karakasu,  karakkas,  kraks,  Καράκας,  Каракас,  Կարակաս,  קאראקאס,  קראקס,  كاراكاس,  کاراکاس,  کراکس,  काराकास,  কারাকাস,  ਕਾਰਾਕਾਸ,  કારાકાસ,  କାରାକାସ,  கரகஸ்,  ಕರಾಕಸ್,  കാരക്കാസ്,  การากัส,  ཁ་ར་ཁ་སི,  ကရာကက်စ်မြို့,  კარაკასი,  ካራካስ,  カラカス,  卡拉卡斯,  카라카스
+Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스
 
 ---

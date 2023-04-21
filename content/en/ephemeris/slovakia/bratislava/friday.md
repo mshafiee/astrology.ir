@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°37'54.92" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°58'50.30" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°39'21.54" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°48'2.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°31'14.17" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'17.81" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°52'0.15" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°47'58.89" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°31'13.71" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'14.14" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°34'38.37" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°37'54.92" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°58'50.30" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°39'21.54" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°48'2.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°31'14.17" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'17.81" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°52'0.15" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°47'58.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°31'13.81" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'14.01" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°34'38.37" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: An Bhrataslaiv,  An Bhratasláiv,  BTS,  Baratislawa,  Bracislava,  Bratislav,  Bratislava,  Bratislava osh,  Bratislavae,  Bratislavo,  Bratislawa,  Bratisllava,  Bratisława,  Bratyslawa,  Bratysława,  Bratîslava,  Mpratislaba,  Posonium,  Pozsony,  Presbourg,  Presburg,  Presporok,  Prespurk,  Pressburg,  Preszburg,  Preßburg,  Prešporok,  Prešpurk,  beulatiseullaba,  bra ti sla wa,  bratisalava,  bratislabha,  bratislava,  bratislavha,  bratslawa,  bratsylava,  bratyslafa,  bratyslava,  bratyslaw,  bratyslawa,  bu la di si la fa,  burachisuravua,  pirattislava,  Μπρατισλάβα,  Братислав,  Братиславæ,  Братислава,  Братислава ош,  Братіслава,  Братїслава,  Браціслава,  Բրատիսլավա,  בראטיסלאווא,  ברטיסלאבה,  براتسلاوا,  براتسیلاڤا,  براتىسلاۋا,  براتيسلافا,  براتیسلاو,  براتیسلاوا,  براٹیسلاوا,  ܒܪܛܝܣܠܐܒܐ,  ब्रातिस्लाभा,  ब्रातिस्लाव्हा,  ব্রাতিস্লাভা,  ਬ੍ਰਾਤਿਸਲਾਵਾ,  பிராத்திஸ்லாவா,  ಬ್ರಾಟಿಸ್ಲಾವಾ,  ബ്രാട്ടിസ്
+Alternate Names: An Bhrataslaiv, An Bhratasláiv, BTS, Baratislawa, Bracislava, Bratislav, Bratislava, Bratislava osh, Bratislavae, Bratislavo, Bratislawa, Bratisllava, Bratisława, Bratyslawa, Bratysława, Bratîslava, Mpratislaba, Posonium, Pozsony, Presburg, Presporok, Prespurk, Pressburg, Preszburg, Preßburg, Prešporok, Prešpurk, beulatiseullaba, bra ti sla wa, bratisalava, bratislabha, bratislava, bratislavha, bratslawa, bratsylava, bratyslafa, bratyslava, bratyslaw, bratyslawa, bu la di si la fa, burachisuravu~a, pirattislava, Μπρατισλάβα, Братислав, Братиславæ, Братислава, Братислава ош, Братіслава, Братїслава, Браціслава, Բրատիսլավա, בראטיסלאווא, ברטיסלאבה, براتسلاوا, براتسیلاڤا, براتىسلاۋا, براتيسلافا, براتیسلاو, براتیسلاوا, براٹیسلاوا, ܒܪܛܝܣܠܐܒܐ, ब्रातिस्लाभा, ब्रातिस्लाव्हा, ব্রাতিস্লাভা, ਬ੍ਰਾਤਿਸਲਾਵਾ, பிராத்திஸ்லாவா, ಬ್ರಾಟಿಸ್ಲಾವಾ, ബ്രാട്ടിസ്‌ലാവ, บราติสลาวา, བ་ར་ཏིསི་ལ་བ།, ბრატისლავა, ብራቲስላቫ, ブラチスラヴァ, 布拉迪斯拉发, 布拉迪斯拉發, 브라티슬라바
 
 ---

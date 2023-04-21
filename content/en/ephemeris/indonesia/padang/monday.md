@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°39'17.48" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°10'0.44" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°32'27.91" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°43'46.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°18'14.72" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°21'10.37" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|14°43'48.22" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'15.75" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°30'55.26" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°39'17.48" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°10'0.44" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°32'27.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°43'46.77" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°18'11.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°22'0.94" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°43'48.22" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°18'15.75" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°30'55.26" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kota Padang,  Kuta Padang,  Kutha Padang,  PDG,  Padang,  Padangas,  Padango,  ba dong,  badangh,  pa dang,  padan,  padang,  padanga,  padng  andwnzy,  Паданг,  بادانغ,  پادانگ,  پادنگ، اندونزی,  پاڈانگ,  पादांग,  ปาดัง,  パダン,  巴東,  파당
+Alternate Names: Kota Padang, Kuta Padang, Kutha Padang, PDG, Padang, Padangas, Padango, ba dong, badangh, pa dang, padan, padang, padanga, padng  andwnzy, Паданг, بادانغ, پادانگ, پادنگ، اندونزی, پاڈانگ, पादांग, ปาดัง, パダン, 巴東, 파당
 
 ---

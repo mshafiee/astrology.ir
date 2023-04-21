@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'14.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°22'49.83" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°33'0.03" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°25'27.63" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°25'37.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'11.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°37'4.82" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°46'15.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°22'51.41" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°33'4.13" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°25'36.75" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°25'37.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'11.39" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°38'0.54" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SDJ,  Sendai,  Sendai-shi,  Sendaishi,  Sendaj,  sendai,  sendaishi,  xian tai,  xian tai shi,  Сендай,  せんだい,  せんだいし,  センダイ,  センダイシ,  仙台,  仙台市
+Alternate Names: SDJ, Sendai, Sendai-shi, Sendaishi, Sendaj, sendai, sendaishi, xian tai, xian tai shi, Сендай, せんだい, せんだいし, センダイ, センダイシ, 仙台, 仙台市
 
 ---

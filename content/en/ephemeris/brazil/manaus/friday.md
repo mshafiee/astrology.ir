@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'12.50" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°2'31.56" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°47'34.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°2'59.90" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°48'48.96" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'29.13" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°36'51.27" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°47'33.86" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°2'59.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°48'47.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'28.11" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°32'24.55" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°39'12.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'31.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°47'34.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°2'59.90" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°48'48.96" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'29.13" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°36'51.27" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°39'12.50" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°2'31.56" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°47'33.86" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°2'59.53" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°48'47.84" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'28.11" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°32'24.55" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Barra do Rio Negro,  MAO,  Manaos,  Manaus,  Manauso,  Manaŭso,  Manos,  Manáos,  ma nao si,  manausu,  Манаус,  Манаўс,  מנאוס,  マナウス,  马瑙斯
+Alternate Names: Barra do Rio Negro, MAO, Manaos, Manaus, Manos, Manáos, ma nao si, manausu, Манаус, Манаўс, מנאוס, マナウス, 马瑙斯
 
 ---

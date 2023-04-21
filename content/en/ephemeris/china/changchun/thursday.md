@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'18.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'10.50" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°57'50.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°32'9.67" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°2'10.97" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'45.18" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°58'47.03" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°40'10.59" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°57'49.66" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°32'10.25" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°2'10.30" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'45.31" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°3'45.74" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: CGQ,  Cancuna,  Cangcun,  Cangcunas,  Cangcuno,  Cangzcenh,  Cchang-cchun,  Ch'ang-ch'un-hsien,  Ch'ang-ch'un-shih,  Chanchun,  Chanchun',  Changchuen,  Changchun,  Changchun Shi,  Chhong-chhun-su,  Chhòng-chhûn-sṳ,  Chángchūn,  Ch’ang-ch’un-hsien,  Ch’ang-ch’un-shih,  Csangcsun,  Diong-chung,  Diòng-chŭng,  Hsin-chin,  Hsin-ching,  Hsinking,  K'ua-ch'eng-tzu,  Kwan-cheng-tze,  K’ua-ch’eng-tzu,  Tiong-chhun-chhi,  Tiông-chhun-chhī,  Truong Xuan,  Trường Xuân,  cangacuna,  changachuna,  changchun si,  changchwn,  jangchun,  tshanghtshwn,  zhang chun,  zhang chun shi,  Çangçun,  Ĉangĉuno,  Čangčun,  Čangčunas,  Čančuņa,  Čchang-čchun,  Чангчуен,  Чанчун,  Чанчунь,  Чанчүнь хот,  Չանչուն,  צאנגצון,  تشانغتشون,  چانگچون,  چاڭچۈن شەھىرى,  चांगचून,  छांगछुन,  ਚਾਂਗਚੁਨ,  ചാങ്ചൻ,  ချောင်ချွန်းမြို့,  長春,  長春市,  长春,  长春市,  장춘,  창춘 시
+Alternate Names: CGQ, Cancuna, Cangcun, Cangcunas, Cangcuno, Cangzcenh, Cchang-cchun, Ch'ang-ch'un-hsien, Ch'ang-ch'un-shih, Chanchun, Chanchun', Changchuen, Changchun, Changchun Shi, Chhong-chhun-su, Chhòng-chhûn-sṳ, Chángchūn, Ch’ang-ch’un-hsien, Ch’ang-ch’un-shih, Csangcsun, Diong-chung, Diòng-chŭng, Hsin-chin, Hsin-ching, Hsinking, K'ua-ch'eng-tzu, Kwan-cheng-tze, K’ua-ch’eng-tzu, Tiong-chhun-chhi, Tiông-chhun-chhī, Truong Xuan, Trường Xuân, cangacuna, changachuna, changchun si, changchwn, jangchun, tshanghtshwn, zhang chun, zhang chun shi, Çangçun, Ĉangĉuno, Čangčun, Čangčunas, Čančuņa, Čchang-čchun, Чангчуен, Чанчун, Чанчунь, Чанчүнь хот, Չանչուն, צאנגצון, تشانغتشون, چانگچون, چاڭچۈن شەھىرى, चांगचून, छांगछुन, ਚਾਂਗਚੁਨ, ചാങ്ചൻ, ချောင်ချွန်းမြို့, 長春, 長春市, 长春, 长春市, 장춘, 창춘 시
 
 ---

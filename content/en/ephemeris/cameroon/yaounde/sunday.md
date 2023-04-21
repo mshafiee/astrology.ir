@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°48'13.35" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°52'3.57" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°27'39.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°50'42.97" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°49'27.63" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'9.62" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°28'24.82" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°45'32.06" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°48'11.88" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°52'0.94" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'35.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°34'7.06" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°28'24.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°45'31.90" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°48'13.29" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°52'3.36" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'38.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°49'27.63" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Giaounte,  Jande,  Jaunde,  Jaundeh,  Jaundeo,  Jaundė,  Jaúnde,  Jánde,  YAO,  Yaounde,  Yaoundé,  Yaunde,  Yaundé,  Yawunde,  iaunde,  ya wen de,  ya'unde,  yaunde,  yavunte,  yawndy,  yaxunde,  yaywndh,  ye wen de,  Γιαουντέ,  Јаунде,  Яунде,  Яўндэ,  Յաունդե,  יאונדה,  יאונדע,  ياوندي,  یاؤندے,  یائونده,  یائوندێ,  یاونڈی,  याउंदे,  ਯਾਊਂਦੇ,  யாவுண்டே,  ยาอุนเด,  ཡོན་དྷི།,  იაუნდე,  ያዉንዴ,  ヤウンデ,  耶溫得,  雅温得,  야운데
+Alternate Names: Giaounte, Jande, Jaunde, Jaundeh, Jaundeo, Jaundė, Jaúnde, Jánde, YAO, Yaounde, Yaoundé, Yaunde, Yaundé, Yawunde, iaunde, ya wen de, ya'unde, yaunde, yavunte, yawndy, yaxunde, yaywndh, ye wen de, Γιαουντέ, Јаунде, Яунде, Яўндэ, Յաունդե, יאונדה, יאונדע, ياوندي, یاؤندے, یائونده, یائوندێ, یاونڈی, याउंदे, ਯਾਊਂਦੇ, யாவுண்டே, ยาอุนเด, ཡོན་དྷི།, იაუნდე, ያዉንዴ, ヤウンデ, 耶溫得, 雅温得, 야운데
 
 ---

@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°4'33.50" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°44'26.09" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|10°16'37.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'29.59" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°36'57.32" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|15°32'27.82" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°44'53.02" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'23.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'11.83" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'37.85" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°44'25.32" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°16'41.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'29.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°36'57.32" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'11.87" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°4'33.50" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°44'26.09" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°16'37.02" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'27.82" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°44'53.02" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ISaratov,  RTW,  Saratau,  Saratof,  Saratov,  Saratov osh,  Saratova,  Saratovas,  Saratovia,  Saratovu,  Saratow,  Saratu,  Saratuovs,  Saratów,  Saretow,  Sarytau,  Saràtov,  Sarátov,  Szaratov,  sa la tuo fu,  salatopeu,  saratofu,  saratova,  saratwf,  srʼtwb,  Σαράτοφ,  Сарăту,  Саратаў,  Саратов,  Саратов балһсн,  Саратов ош,  Саратовъ,  Сарытау,  Һарытау,  Սարատով,  סראטוב,  ساراتوف,  ساراٹوف,  सारातोव,  სარატოვი,  サラトフ,  薩拉托夫,  사라토프
+Alternate Names: ISaratov, RTW, Saratau, Saratof, Saratov, Saratov osh, Saratova, Saratovas, Saratovia, Saratovu, Saratow, Saratu, Saratuovs, Saratów, Saretow, Sarytau, Saràtov, Sarátov, Szaratov, sa la tuo fu, salatopeu, saratofu, saratova, saratwf, srʼtwb, Σαράτοφ, Сарăту, Саратаў, Саратов, Саратов балһсн, Саратов ош, Саратовъ, Сарытау, Һарытау, Սարատով, סראטוב, ساراتوف, ساراٹوف, सारातोव, სარატოვი, サラトフ, 薩拉托夫, 사라토프
 
 ---

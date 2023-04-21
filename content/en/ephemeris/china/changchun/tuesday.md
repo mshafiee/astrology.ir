@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'10.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°52'7.14" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°38'53.74" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°24'32.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°44'34.91" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°3'2.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°6'26.22" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°52'7.26" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°38'56.62" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°24'39.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°44'41.89" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°3'14.32" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°47'58.10" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'10.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°52'6.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°38'53.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°24'32.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°44'34.91" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°3'14.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°6'26.22" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°56'10.79" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°52'7.26" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°38'56.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°24'39.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°44'41.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°3'14.32" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°47'58.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CGQ,  Cancuna,  Cangcun,  Cangcunas,  Cangcuno,  Cangzcenh,  Cchang-cchun,  Ch'ang-ch'un-hsien,  Ch'ang-ch'un-shih,  Chanchun,  Chanchun',  Changchuen,  Changchun,  Changchun Shi,  Chhong-chhun-su,  Chhòng-chhûn-sṳ,  Chángchūn,  Ch’ang-ch’un-hsien,  Ch’ang-ch’un-shih,  Csangcsun,  Diong-chung,  Diòng-chŭng,  Hsin-chin,  Hsin-ching,  Hsinking,  K'ua-ch'eng-tzu,  Kwan-cheng-tze,  K’ua-ch’eng-tzu,  Tiong-chhun-chhi,  Tiông-chhun-chhī,  Truong Xuan,  Trường Xuân,  cangacuna,  changachuna,  changchun si,  changchwn,  jangchun,  tshanghtshwn,  zhang chun,  zhang chun shi,  Çangçun,  Ĉangĉuno,  Čangčun,  Čangčunas,  Čančuņa,  Čchang-čchun,  Чангчуен,  Чанчун,  Чанчунь,  Чанчүнь хот,  Չանչուն,  צאנגצון,  تشانغتشون,  چانگچون,  چاڭچۈن شەھىرى,  चांगचून,  छांगछुन,  ਚਾਂਗਚੁਨ,  ചാങ്ചൻ,  ချောင်ချွန်းမြို့,  長春,  長春市,  长春,  长春市,  장춘,  창춘 시
+Alternate Names: CGQ, Cancuna, Cangcun, Cangcunas, Cangcuno, Cangzcenh, Cchang-cchun, Ch'ang-ch'un-hsien, Ch'ang-ch'un-shih, Chanchun, Chanchun', Changchuen, Changchun, Changchun Shi, Chhong-chhun-su, Chhòng-chhûn-sṳ, Chángchūn, Ch’ang-ch’un-hsien, Ch’ang-ch’un-shih, Csangcsun, Diong-chung, Diòng-chŭng, Hsin-chin, Hsin-ching, Hsinking, K'ua-ch'eng-tzu, Kwan-cheng-tze, K’ua-ch’eng-tzu, Tiong-chhun-chhi, Tiông-chhun-chhī, Truong Xuan, Trường Xuân, cangacuna, changachuna, changchun si, changchwn, jangchun, tshanghtshwn, zhang chun, zhang chun shi, Çangçun, Ĉangĉuno, Čangčun, Čangčunas, Čančuņa, Čchang-čchun, Чангчуен, Чанчун, Чанчунь, Чанчүнь хот, Չանչուն, צאנגצון, تشانغتشون, چانگچون, چاڭچۈن شەھىرى, चांगचून, छांगछुन, ਚਾਂਗਚੁਨ, ചാങ്ചൻ, ချောင်ချွန်းမြို့, 長春, 長春市, 长春, 长春市, 장춘, 창춘 시
 
 ---

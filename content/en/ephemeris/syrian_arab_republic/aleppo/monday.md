@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°14'47.47" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°41'3.57" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°53'50.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'57.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°56'26.04" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|15°15'52.60" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°33'51.30" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'34.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'24.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°14'52.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°41'3.57" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°53'54.73" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'57.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°19'24.99" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'23.97" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°14'45.71" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°41'0.64" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°53'47.25" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'52.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°33'51.30" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ALP,  Alep,  Alepas,  Alepo,  Aleppe,  Aleppo,  Aleppu,  Aleppó,  Alèp,  Berea,  Beroea,  Chalepi,  Halab,  Haleb,  Haleba,  Halep,  Heleb,  Hələb,  Khaleb,  Khaleb khot,  Khalepion,  Madinat Halab,  Madīnat Ḩalab,  Xalab,  a lei po,  aleppea,  aleppo,  allepo,  areppo,  halaba,  hlb,  xa lep po,  Χαλέπι,  Алеп,  Алеппо,  Халеб,  Халеб хот,  ХӀалаб,  Хәлеб,  Հալեպ,  חאלב,  حلب,  ܚܠܒ,  अलेप्पो,  हलब,  আলেপ্পো,  ਹਲਬ,  அலெப்போ,  അലെപ്പോ,  อะเลปโป,  ალეპო,  Ḥaleb,  Ḩalab,  アレッポ,  阿勒颇,  알레포
+Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포
 
 ---

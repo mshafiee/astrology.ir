@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°57'43.47" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°36'52.19" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°43'27.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°25'54.98" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'6.97" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°29'25.44" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|11°25'54.91" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'10.02" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°42'39.60" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°57'43.47" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°36'52.19" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°43'27.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°25'53.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'6.97" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°29'25.44" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°25'54.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'9.79" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°41'24.70" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: RAS,  Raixt,  Rascht,  Rasht,  Rasjt,  Rast,  Rasto,  Raszt,  Raŝto,  Rašt,  Reshh,  Resht,  Rest,  Restas,  Reşt,  Reštas,  Rəşt,  la shen te,  lasyuteu,  rashuto,  rasta,  reshti,  rsht,  Рашт,  Решт,  Рещ,  Рәшт,  Ռեշտ,  ראשת,  رشت,  ڕەشت,  रश्त,  แรชต์,  რეშთი,  ラシュト,  拉什特,  라슈트
+Alternate Names: RAS, Raixt, Rascht, Rasht, Rasjt, Rast, Rasto, Raszt, Raŝto, Rašt, Reshh, Resht, Rest, Restas, Reşt, Reštas, Rəşt, la shen te, lasyuteu, rashuto, rasta, reshti, rsht, Рашт, Решт, Рещ, Рәшт, Ռեշտ, ראשת, رشت, ڕەشت, रश्त, แรชต์, რეშთი, ラシュト, 拉什特, 라슈트
 
 ---

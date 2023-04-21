@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°53'21.90" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°43'44.82" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°20'3.30" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°50'27.76" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°4'49.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°13'17.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°20'0.72" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°50'35.35" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°4'57.29" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°13'30.74" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°8'44.00" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'21.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°43'44.82" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°20'3.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°50'35.35" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°4'49.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°13'17.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°20'0.72" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°43'44.05" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°20'3.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°50'30.99" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°4'55.69" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°13'24.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°2'27.28" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CKY,  Conacri,  Conakry,  Konakri,  Konakrio,  Konakris,  Konakry,  ke na ke li,  konakeuli,  konakuri,  Κόνακρι,  Конакри,  קונאקרי,  コナクリ,  科納克里,  코나크리
+Alternate Names: CKY, Conacri, Conakry, Konakri, Konakrio, Konakris, Konakry, ke na ke li, konakeuli, konakuri, Κόνακρι, Конакри, קונאקרי, コナクリ, 科納克里, 코나크리
 
 ---

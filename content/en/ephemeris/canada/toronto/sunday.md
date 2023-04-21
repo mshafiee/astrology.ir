@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'14.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'33.84" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°52'37.88" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°1'0.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°7'3.06" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°25'6.84" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°16'22.98" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°31'33.82" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°52'38.13" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°1'0.66" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°7'3.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°25'6.82" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°17'42.45" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Taronta,  Torontas,  Toronto,  Torontu,  Torontum,  Torontó,  YTO,  duo lun duo,  roranro,  taronto,  teareantea,  tho rxn to,  tolonto,  toramto,  toranto,  toronto,  twrntw,  twrwntw,  Τορόντο,  Таронта,  Торонто,  Տորոնտո,  טאראנטא,  טורונטו,  تورنتو,  تورونتو,  ٹورانٹو,  ٹورنٹو,  टोरण्टो,  टोरन्टो,  टोराँटो,  तोरन्तो,  টরোন্টো,  ਟੋਰਾਂਟੋ,  ரொறன்ரோ,  టొరంటో,  ಟೊರಾಂಟೋ,  ടോറോണ്ടോ,  โทรอนโต,  တိုရွန်တိုမြို့,  ტორონტო,  トロント,  多伦多,  多倫多,  토론토
+Alternate Names: Taronta, Torontas, Toronto, Torontu, Torontum, Torontó, YTO, duo lun duo, roranro, taronto, teareantea, tho rxn to, tolonto, toramto, toranto, toronto, twrntw, twrwntw, Τορόντο, Таронта, Торонто, Տորոնտո, טאראנטא, טורונטו, تورنتو, تورونتو, ٹورانٹو, ٹورنٹو, टोरण्टो, टोरन्टो, टोराँटो, तोरन्तो, টরোন্টো, ਟੋਰਾਂਟੋ, ரொறன்ரோ, టొరంటో, ಟೊರಾಂಟೋ, ടോറോണ്ടോ, โทรอนโต, တိုရွန်တိုမြို့, ტორონტო, トロント, 多伦多, 多倫多, 토론토
 
 ---

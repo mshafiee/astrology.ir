@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'5.10" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°2'10.45" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°46'46.66" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°1'33.79" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°47'7.13" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'29.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°15'15.63" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°2'9.66" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°46'50.06" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°1'28.81" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°47'8.02" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'24.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|16°54'43.08" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Mercury|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'5.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'10.45" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°46'46.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°1'33.79" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°47'7.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'29.08" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°15'15.63" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'9.66" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°46'50.06" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°1'28.81" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°47'8.02" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'24.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|16°54'43.08" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: SAO,  Sampa,  San Paolo,  San Paul ed Brasil,  San Paulas,  San Paulo,  San Paulu,  San Paulu du Brasili,  San Paulu dû Brasili,  San Pauluw,  San Pawlo,  San Polo del Braxil,  San Poulo,  San Poło del Braxil,  San Pàul ëd Brasil,  San-Paulo,  San-Paulu,  San-Paŭlo,  Sanpaulu,  Sao Paolo,  Sao Paulo,  Sao Paulo capital,  Saun Paulu,  Sawo Palo,  Sawo Pålo,  São Paolo,  São Paulo,  São Paulo capital,  Urbs Paulistana,  cavo pavulo,  sa'o pa'ulo,  sa'o paulo,  samu pa'ulu,  sangpaollo,  sangpaollu,  sangpaullo,  sangpaullu,  sankt. paulos,  sanpauro,  savea pealea,  savo palo,  saw bawlw,  saw palw,  saw pwlw,  saywpaywlw,  sea pea lu,  sheng bao luo,  Σάο Πάολο,  Сан Пауло,  Сан Паулу,  Сан-Паулу,  Сан-Паўлу,  Сао Паоло,  Сао Пауло,  Սան Պաուլու,  סאו פאולא,  סאו פאולו,  ساؤ پالو,  ساؤ پولو,  سائوپائولو,  ساو باولو,  ܣܐܘ ܦܐܘܠܘ,  ސައޮ ޕައުލޯ,  साओ पाउलो,  সাঁউ পাউলু,  সাও পাউলো,  சாவோ பாவுலோ,  శఒ పౌలొ,  ಸಾವೊ ಪಾಲೊ,  സാവോ പോളോ,  เซาเปาลู,  ဆောပိုလိုမြို့,  სან-პაულუ,  ሳው ፓውሉ,  サンパウロ,  聖保羅,  상파올로,  상파올루,  상파울로,  상파울루
+Alternate Names: SAO, Sampa, San Paolo, San Paul ed Brasil, San Paulas, San Paulo, San Paulu, San Paulu du Brasili, San Paulu dû Brasili, San Pauluw, San Pawlo, San Polo del Braxil, San Poulo, San Poło del Braxil, San Pàul ëd Brasil, San-Paulo, San-Paulu, San-Paŭlo, Sanpaulu, Sao Paolo, Sao Paulo, Sao Paulo capital, Saun Paulu, Sawo Palo, Sawo Pålo, São Paolo, São Paulo, São Paulo capital, Urbs Paulistana, cavo pavulo, sa'o pa'ulo, sa'o paulo, samu pa'ulu, sangpaollo, sangpaollu, sangpaullo, sangpaullu, sankt. paulos, sanpauro, savea pealea, savo palo, saw bawlw, saw palw, saw pwlw, saywpaywlw, sea pea lu, sheng bao luo, Σάο Πάολο, Сан Пауло, Сан Паулу, Сан-Паулу, Сан-Паўлу, Сао Паоло, Сао Пауло, Սան Պաուլու, סאו פאולא, סאו פאולו, ساؤ پالو, ساؤ پولو, سائوپائولو, ساو باولو, ܣܐܘ ܦܐܘܠܘ, ސައޮ ޕައުލޯ, साओ पाउलो, সাঁউ পাউলু, সাও পাউলো, சாவோ பாவுலோ, శఒ పౌలొ, ಸಾವೊ ಪಾಲೊ, സാവോ പോളോ, เซาเปาลู, ဆောပိုလိုမြို့, სან-პაულუ, ሳው ፓውሉ, サンパウロ, 聖保羅, 상파올로, 상파올루, 상파울로, 상파울루
 
 ---

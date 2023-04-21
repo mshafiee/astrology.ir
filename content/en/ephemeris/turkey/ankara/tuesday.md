@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°47'28.90" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°39'57.13" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|16°2'35.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'9.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°18'18.23" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|14°58'9.21" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°14'20.80" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: ANK,  Anakara,  Ancara,  Ancyra,  Ang-ka-la,  Angkara,  Angora,  Anguriyah,  Ankar,  Ankara,  Ankara khot,  Ankaro,  Ankuara,  Ankura,  Ankyra,  Ankyra (Ankyra),  Anqara,  Enguri,  Engüri,  Enqere,  akara,  an ka la,  angkala,  ankara,  anqrh,  anqrt,  xangkara,  Ăng-kā-lá,  Άγκυρα (Ankyra),  Анкара,  Анкара хот,  Анкъара,  Әнкара,  Անկարա,  אנקארא,  אנקרה,  آنکارا,  أنقرة,  ئەنقەرە,  انقره,  انقرہ,  انکرہ,  ܐܢܩܪܐ,  अंकारा,  আঙ্কারা,  ਅੰਕਾਰਾ,  ଆଙ୍କାରା,  அங்காரா,  అంకారా,  ಅಂಕಾರಾ,  അങ്കാറ,  อังการา,  ཨན་ཁ་ར།,  ანკარა,  አንካራ,  アンカラ,  安卡拉,  앙카라
+Alternate Names: ANK, Anakara, Ancara, Ancyra, Ang-ka-la, Angkara, Angora, Anguriyah, Ankar, Ankara, Ankara khot, Ankaro, Ankuara, Ankura, Ankyra, Ankyra (Ankyra), Anqara, Enguri, Engüri, Enqere, akara, an ka la, angkala, ankara, anqrh, anqrt, xangkara, Ăng-kā-lá, Άγκυρα (Ankyra), Анкара, Анкара хот, Анкъара, Әнкара, Անկարա, אנקארא, אנקרה, آنکارا, أنقرة, ئەنقەرە, انقره, انقرہ, انکرہ, ܐܢܩܪܐ, अंकारा, আঙ্কারা, ਅੰਕਾਰਾ, ଆଙ୍କାରା, அங்காரா, అంకారా, ಅಂಕಾರಾ, അങ്കാറ, อังการา, ཨན་ཁ་ར།, ანკარა, አንካራ, アンカラ, 安卡拉, 앙카라
 
 ---

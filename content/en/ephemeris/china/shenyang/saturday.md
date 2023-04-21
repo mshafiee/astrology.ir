@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°41'30.09" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°9'6.23" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°2'16.44" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°29'36.54" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°20'1.44" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'25.74" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°21'49.10" |Aries|Butain|Venus|
+|☉ Sun|Direct|1°29'42.20" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°20'9.01" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'36.04" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°8'30.43" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'30.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°9'5.23" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°2'12.26" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°29'36.54" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°20'1.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'25.74" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°21'49.10" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°9'6.23" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°2'16.44" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°29'42.20" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°20'9.01" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'36.04" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°8'30.43" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Feng-t'ien,  Feng-t’ien,  Moukden,  Mukden,  SHE,  Sen'gian'nk,  Sen-jang,  Senjana,  Senjang,  Senjangas,  Senjango,  Shehn'jan,  Shehn'jan khot,  Shen'jan,  Shen-yang-hsien,  Shen-yang-shih,  Shengking,  Shenjang,  Shenyan,  Shenyang,  Shenyang Shi,  Shunjan,  Sim-iong-chhi,  Sing-iong,  Sjenyang,  Swnjyangh,  Sím-iông-chhī,  Sīng-iòng,  Tham Duong,  Thẩm Dương,  cenyan,  chen yang,  chen yang shi,  san'yanga,  sein hyang,  sen'yan,  senayanga,  seon-yang,  seon-yang si,  shen yang,  shen yang shi,  shnyang,  shnyangh,  shynyang,  sim-yang,  Ŝenjango,  Šen-jang,  Šenjangas,  Šeņjana,  Σενγιάνγκ,  Шеньян,  Шеньяң,  Шенјанг,  Шънян,  Шэньян,  Шэньян хот,  שן-יאנג,  شنيانغ,  شنیانگ,  شن
+Alternate Names: Feng-t'ien, Feng-t’ien, Moukden, Mukden, SHE, Sen'gian'nk, Sen-jang, Senjana, Senjang, Senjangas, Senjango, Shehn'jan, Shehn'jan khot, Shen'jan, Shen-yang-hsien, Shen-yang-shih, Shengking, Shenjang, Shenyan, Shenyang, Shenyang Shi, Shunjan, Sim-iong-chhi, Sing-iong, Sjenyang, Swnjyangh, Sím-iông-chhī, Sīng-iòng, Tham Duong, Thẩm Dương, cenyan, chen yang, chen yang shi, san'yanga, sein hyang, sen'yan, senayanga, seon-yang, seon-yang si, shen yang, shen yang shi, shnyang, shnyangh, shynyang, sim-yang, Ŝenjango, Šen-jang, Šenjangas, Šeņjana, Σενγιάνγκ, Шеньян, Шеньяң, Шенјанг, Шънян, Шэньян, Шэньян хот, שן-יאנג, شنيانغ, شنیانگ, شن‌یانگ, شینیانگ, شېنياڭ شەھىرى, शेनयांग, षन्यांग, ਸ਼ੇਨਯਾਂਗ, சென்யாங், ഷെന്യാങ്, เสิ่นหยาง, 沈阳, 沈阳市, 沉阳市, 瀋陽, 瀋陽市, 선양, 선양 시, 심양
 
 ---

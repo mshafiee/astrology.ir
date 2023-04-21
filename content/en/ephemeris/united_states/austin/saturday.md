@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°44'37.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°18'6.90" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°22'23.95" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°6'6.18" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°2'53.43" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'18.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°6'18.60" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|4°44'37.42" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°18'6.72" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°22'25.08" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°6'19.28" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°3'1.76" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'37.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°17'21.90" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: AUS,  Austin,  Austino,  Austinopolis,  Aŭstino,  Montopolis,  Oscin,  Ostin,  Ostina,  Ostinas,  Ostins,  Waterloo,  ao si ting,  asatina,  astin,  astina,  astyn  tgzas,  awstn,  ke shi dian,  oseutin,  ostina,  ostʼini,  osutin,  xxstin,  Ώστιν,  Остин,  Остін,  Осцін,  Օստին,  אוסטין,  אסטין,  آستین، تگزاس,  آسٹن,  آسٹن، ٹیکساس,  أوستن,  अस्टिन,  अस्तिन,  आस्टिन्,  ऑस्टिन,  অস্টিন,  ਆਸਟਿਨ,  ஆஸ்டின்,  ഓസ്റ്റിൻ,  ออสติน,  ოსტინი,  ኦስቲን፣ ቴክሳስ,  ᎠᏍᏘᏂ,  オースティン,  奧斯汀,  柯士甸,  오스틴
+Alternate Names: AUS, Austin, Austino, Austinopolis, Aŭstino, Montopolis, Oscin, Ostin, Ostina, Ostinas, Ostins, Waterloo, ao si ting, asatina, astin, astina, astyn  tgzas, awstn, ke shi dian, oseutin, ostina, ostʼini, osutin, xxstin, Ώστιν, Остин, Остін, Осцін, Օստին, אוסטין, אסטין, آستین، تگزاس, آسٹن, آسٹن، ٹیکساس, أوستن, अस्टिन, अस्तिन, आस्टिन्, ऑस्टिन, অস্টিন, ਆਸਟਿਨ, ஆஸ்டின், ഓസ്റ്റിൻ, ออสติน, ოსტინი, ኦስቲን፣ ቴክሳስ, ᎠᏍᏘᏂ, オースティン, 奧斯汀, 柯士甸, 오스틴
 
 ---

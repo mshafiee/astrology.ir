@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'39.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'1.18" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°35'38.70" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°30'19.97" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°31'7.19" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'25.86" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°17'48.15" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°24'1.59" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°35'41.56" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°30'22.30" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°31'11.58" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'30.80" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°44'53.51" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bu-han-chhi,  Bú-hàn-chhī,  Gouchan,  Owhan,  U-hang,  Uhan,  Uhana,  Uhanas,  Uhaņa,  Ukhan,  Ukhan',  Uxan,  Vu Han,  Vu-hon-su,  Vuhan,  Vuhani,  Vuhano,  Vujhan,  Vukhan,  Vú-hon-sṳ,  Vũ Hán,  WUH,  Wu-chan,  Wu-han-shih,  Wuhan,  Wuhan Shi,  uhan si,  ukhani,  uuxan,  vuhana,  vukan,  vukhana,  wu han,  wu han shi,  wwhan,  xu han,  Ū-háng,  Γουχάν,  Вухан,  Вухан балһсн,  Ухан,  Ухань,  Үkhan',  Үхань,  Үһән,  Ուհան,  ווהאן,  ووهان,  ووھان,  ووہان,  ۋۇخەن شەھىرى,  ܘܘܗܐܢ,  वूहान,  ਵੂਖ਼ਨ,  வுகான்,  വൂഹാൻ,  อู่ฮั่น,  ཝུའུ་ཧན་གྲོང་ཁྱེར།,  ဝူဟန့်မြို့,  უხანი,  ዉሃን,  武汉,  武汉市,  武漢,  武漢市,  우한 시,  𐍅𐌿𐌷𐌰𐌽
+Alternate Names: Bu-han-chhi, Bú-hàn-chhī, Gouchan, Owhan, U-hang, Uhan, Uhana, Uhanas, Uhaņa, Ukhan, Ukhan', Uxan, Vu Han, Vu-hon-su, Vuhan, Vuhani, Vuhano, Vujhan, Vukhan, Vú-hon-sṳ, Vũ Hán, WUH, Wu-chan, Wu-han-shih, Wuhan, Wuhan Shi, uhan si, ukhani, uuxan, vuhana, vukan, vukhana, wu han, wu han shi, wwhan, xu han, Ū-háng, Γουχάν, Вухан, Вухан балһсн, Ухан, Ухань, Үkhan', Үхань, Үһән, Ուհան, ווהאן, ووهان, ووھان, ووہان, ۋۇخەن شەھىرى, ܘܘܗܐܢ, वूहान, ਵੂਖ਼ਨ, வுகான், വൂഹാൻ, อู่ฮั่น, ཝུའུ་ཧན་གྲོང་ཁྱེར།, ဝူဟန့်မြို့, უხანი, ዉሃን, 武汉, 武汉市, 武漢, 武漢市, 우한 시, 𐍅𐌿𐌷𐌰𐌽
 
 ---

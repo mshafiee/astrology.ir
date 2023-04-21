@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'16.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°40'30.36" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°12'50.00" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°37'22.67" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°49'38.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'52.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°32'19.33" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°40'30.21" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°12'45.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°37'21.93" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°49'33.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'49.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°57'17.09" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'16.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°40'30.36" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°12'50.00" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°37'22.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°49'38.25" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'52.66" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°32'19.33" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°40'30.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°12'45.12" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°37'22.56" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°49'32.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'49.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°53'40.47" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Casanum,  Caza,  Cazã,  KZN,  Kaasan,  Kasa,  Kasan,  Kasã,  Kazan,  Kazan',  Kazan' osh,  Kazana,  Kazane,  Kazani,  Kazanj,  Kazano,  Kazanė,  Kazan’,  Kazań,  Kazaņa,  Kazaň,  Kazán,  Khuazan,  Khusan,  Kozan',  Kuazan,  Kuzon,  Qazan,  Qozon,  ka shan,  kajan,  kajhana,  kazan,  kazana,  kha san,  qazan,  Καζάν,  Казан,  Казань,  Казань ош,  Казањ,  Каꙁанъ,  Козань,  Кузон,  Къазан,  Озаҥ,  Хусан,  Хъазан,  Қазан,  Ҡazan,  Ҡазан,  Կազան,  קאזאן,  قازان,  كازان,  کازان,  कझान,  काज़ान,  คาซาน,  ყაზანი,  カザン,  喀山,  카잔
+Alternate Names: Casanum, Caza, Cazã, KZN, Kaasan, Kasa, Kasan, Kasã, Kazan, Kazan', Kazan' osh, Kazana, Kazane, Kazani, Kazanj, Kazano, Kazanė, Kazan’, Kazań, Kazaņa, Kazaň, Kazán, Khuazan, Khusan, Kozan', Kuazan, Kuzon, Qazan, Qozon, ka shan, kajan, kajhana, kazan, kazana, kha san, qazan, Καζάν, Казан, Казань, Казань ош, Казањ, Каꙁанъ, Козань, Кузон, Къазан, Озаҥ, Хусан, Хъазан, Қазан, Ҡazan, Ҡазан, Կազան, קאזאן, قازان, كازان, کازان, कझान, काज़ान, คาซาน, ყაზანი, カザン, 喀山, 카잔
 
 ---

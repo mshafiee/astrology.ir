@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'1.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'37.92" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°58'17.29" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°59'14.01" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°25'9.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°50'51.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°42'48.47" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'40.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°58'20.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°59'30.46" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°25'21.67" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'18.18" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°32'47.95" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: CLO,  Cali,  Calium,  Cáli,  Kali,  Kalio,  Kalis,  Santiago de Cali,  ka li,  kali,  kalli,  kaly,  santiago・de・kari,  Кали,  Калі,  סנטיאגו דה קאלי,  كالي,  کالی,  กาลี,  サンティアゴ・デ・カリ,  卡利,  칼리
+Alternate Names: CLO, Cali, Calium, Cáli, Kali, Kalis, Santiago de Cali, ka li, kali, kalli, kaly, santiago・de・kari, Кали, Калі, סנטיאגו דה קאלי, كالي, کالی, กาลี, サンティアゴ・デ・カリ, 卡利, 칼리
 
 ---

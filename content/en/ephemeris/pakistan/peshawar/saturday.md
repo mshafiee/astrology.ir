@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°42'15.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°11'17.48" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°7'8.18" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°38'35.56" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°30'35.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'6.45" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°14'48.18" |Aries|Butain|Venus|
+|♄ Saturn|Direct|4°42'15.80" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°11'17.75" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°7'10.49" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°38'37.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°30'35.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'7.09" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°17'37.45" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'15.80" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°11'17.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°7'10.28" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°38'35.56" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°30'32.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'3.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°58'23.49" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|14°7'10.49" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°38'37.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°30'35.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'7.09" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°17'37.45" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: PEW,  Pesabar,  Pesavar,  Pesavara,  Pesavaras,  Pesavaro,  Pesaver,  Peschawar,  Peshavar,  Peshawar,  Peshovar,  Peshāwar,  Pesjawar,  Peszawar,  Pexauar,  Peŝavaro,  Peşaver,  Pešavaras,  Pešāvara,  Pişəvər,  Péšávar,  bai sha wa,  byshawr,  pecavar,  pes war,  pesa'oyara,  pesavara,  peshawaru,  pesyawaleu,  pshawr,  pyshawr,  Πεσαβάρ,  Пешавар,  Փեշավար,  פשאוור,  بيشاور,  پشاور,  پیشاور,  پېشاۋار,  پېښور,  पेशावर,  পেশাওয়ার,  ਪੇਸ਼ਾਵਰ,  பெசாவர்,  പെഷവാർ,  เปศวาร์,  პეშავარი,  ペシャーワル,  白沙瓦,  페샤와르
+Alternate Names: PEW, Pesabar, Pesavar, Pesavara, Pesavaras, Pesavaro, Pesaver, Peschawar, Peshavar, Peshawar, Peshovar, Peshāwar, Pesjawar, Peszawar, Pexauar, Peŝavaro, Peşaver, Pešavaras, Pešāvara, Pişəvər, Péšávar, bai sha wa, byshawr, pecavar, pes war, pesa'oyara, pesavara, peshawaru, pesyawaleu, pshawr, pyshawr, Πεσαβάρ, Пешавар, Փեշավար, פשאוור, بيشاور, پشاور, پیشاور, پېشاۋار, پېښور, पेशावर, পেশাওয়ার, ਪੇਸ਼ਾਵਰ, பெசாவர், പെഷവാർ, เปศวาร์, პეშავარი, ペシャーワル, 白沙瓦, 페샤와르
 
 ---

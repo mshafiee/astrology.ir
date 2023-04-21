@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'19.99" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°0'1.67" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°42'4.16" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°52'43.29" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°36'54.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'15.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°23'14.11" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°42'0.23" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°52'49.50" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°36'53.83" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'21.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°52'47.80" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°0'1.67" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°42'0.23" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°52'49.50" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°36'54.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'15.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°23'14.11" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°36'53.83" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'21.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°52'47.80" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: RBA,  Raba,  Rabat,  Rabata,  Rabatas,  Rabato,  Rabatum,  Rabot,  Rabāt,  Rabāta,  Rampat,  Rbat,  Rbaṭ,  alrbat,  la ba,  la ba te,  labateu,  raba t,  rabat,  rabata,  rabato,  rabota,  rapat,  rbat,  Ραμπάτ,  Рабат,  Ռաբատ,  ראבאט,  רבאט,  الرباط,  رابات,  ربات,  رباط,  ڕەبات,  रबाट,  रबात,  রাবাত,  ਰਬਾਤ,  ରବୋଟ,  ரபாத்,  ราบัต,  ར་བ་ཐ།,  ར་བ་ཐེ།,  რაბატი,  ራባት,  ラバト,  剌八,  拉巴特,  라바트
+Alternate Names: RBA, Raba, Rabat, Rabata, Rabatas, Rabato, Rabatum, Rabot, Rabāt, Rabāta, Rampat, Rbat, Rbaṭ, alrbat, la ba, la ba te, labateu, raba t, rabat, rabata, rabato, rabota, rapat, rbat, Ραμπάτ, Рабат, Ռաբատ, ראבאט, רבאט, الرباط, رابات, ربات, رباط, ڕەبات, रबाट, रबात, রাবাত, ਰਬਾਤ, ରବୋଟ, ரபாத், ราบัต, ར་བ་ཐ།, ར་བ་ཐེ།, რაბატი, ራባት, ラバト, 剌八, 拉巴特, 라바트
 
 ---

@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'41.89" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°41'46.34" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°15'40.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°42'28.41" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°55'37.17" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'30.29" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°35'14.46" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°15'36.84" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°42'32.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°55'34.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'33.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°14'47.92" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°52'41.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'45.68" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°15'40.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°42'28.41" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°55'37.17" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'34.12" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°14'6.74" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|4°52'41.86" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°41'46.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°15'36.84" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°42'32.28" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°55'34.79" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'33.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°14'47.92" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Azmir,  Esmirna,  IZM,  Ismir,  Izmir,  Izmira,  Izmiras,  Izmiro,  Smirne,  Smyrna,  Smyrne,  Yazmir,  azmyr,  izmiri,  izumiru,  yi zi mi er,  İzmir,  Σμύρνη,  Измир,  איזמיר,  إزمير,  იზმირი,  イズミル,  伊兹密尔
+Alternate Names: Azmir, Esmirna, IZM, Ismir, Izmir, Izmira, Izmiras, Izmiro, Smirne, Smyrna, Smyrne, Yazmir, azmyr, izmiri, izumiru, yi zi mi er, İzmir, Σμύρνη, Измир, איזמיר, إزمير, იზმირი, イズミル, 伊兹密尔
 
 ---

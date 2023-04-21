@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'29.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°41'8.98" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°14'17.59" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°39'59.55" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°52'42.27" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'11.23" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°5'40.53" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°41'9.62" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°14'13.97" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°40'3.35" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°52'40.27" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'14.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°48'15.91" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'29.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'8.98" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°14'17.59" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°39'59.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°52'42.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'11.23" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°5'40.53" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'9.54" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°14'13.72" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°40'2.92" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°52'40.27" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'14.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°48'15.91" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BGW,  Bagda,  Bagdad,  Bagdadas,  Bagdado,  Bagdat,  Bagdate,  Bagdatum,  Bagdod,  Bagdá,  Bagdád,  Baghdad,  Baghdād,  Bağdad,  Bağdat,  Beghdad,  Bexda,  Lungsod ng Baghdad,  ba ge da,  bagadada,  bageudadeu,  bagudado,  bghdad,  bەghdad,  paktat,  Βαγδάτη,  Багдад,  Бағдод,  Բաղդադ,  בגדאד,  بغداد,  بەغداد,  ܒܓܕܐܕ,  बगदाद,  বাগদাদ,  பக்தாத்,  པ་ག་ཏ,  ባግዳድ,  バグダード,  巴格达,  巴格達,  바그다드
+Alternate Names: BGW, Bagda, Bagdad, Bagdadas, Bagdado, Bagdat, Bagdate, Bagdatum, Bagdod, Bagdá, Bagdád, Baghdad, Baghdād, Bağdad, Bağdat, Beghdad, Bexda, Lungsod ng Baghdad, ba ge da, bagadada, bageudadeu, bagudado, bghdad, bەghdad, paktat, Βαγδάτη, Багдад, Бағдод, Բաղդադ, בגדאד, بغداد, بەغداد, ܒܓܕܐܕ, बगदाद, বাগদাদ, பக்தாத், པ་ག་ཏ, ባግዳድ, バグダード, 巴格达, 바그다드
 
 ---

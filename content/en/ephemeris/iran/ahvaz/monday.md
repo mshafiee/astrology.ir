@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'26.57" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°41'0.94" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°13'56.37" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°39'29.75" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°52'2.12" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'27.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°0'15.32" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°13'54.27" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°39'27.59" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°51'58.51" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'23.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°36'34.68" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'26.57" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'1.26" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°13'56.37" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°39'29.75" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°52'2.12" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'27.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°0'15.32" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'0.87" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°13'54.16" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°39'27.59" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°51'58.51" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'23.00" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°36'34.68" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: AWZ,  Ahvaz,  Ahvaz - ahwaz,  Ahvaz - اهواز,  Ahvaza,  Ahvazas,  Ahvazo,  Ahvoz,  Ahváz,  Ahvāz,  Ahvāza,  Ahwas,  Ahwaz,  Ahwāz,  Akhvaz,  Akhvaz shaary,  Axvaz,  Bandar Nasiri,  Bandar Nāsirī,  Bandar-e Naser,  Bandar-e Nāşer,  Ehvaz,  Naseri,  Nasiri,  Nāsiri,  Nāşerī,  a wa shi,  abajeu,  afuvuazu,  ahabaja,  ahavaza,  ahvazi,  ahwaz,  akvacu,  alahwaz,  Əhvaz,  Ахваз,  Ахваз шаары,  Аҳвоз,  Ախվազ,  אהוואז,  ئەھواز,  الأهواز,  اهواز,  اہواز,  अहवाज़,  আহবাজ,  ਅਹਵਾਜ਼,  ஆக்வாசு,  ཨཱ་ཝཛ།,  აჰვაზი,  アフヴァーズ,  阿瓦士,  아바즈
+Alternate Names: AWZ, Ahvaz, Ahvaz - ahwaz, Ahvaz - اهواز, Ahvaza, Ahvazas, Ahvazo, Ahvoz, Ahváz, Ahvāz, Ahvāza, Ahwas, Ahwaz, Ahwāz, Akhvaz, Akhvaz shaary, Axvaz, Bandar Nasiri, Bandar Nāsirī, Bandar-e Naser, Bandar-e Nāşer, Ehvaz, Naseri, Nasiri, Nāsiri, Nāşerī, a wa shi, abajeu, afuvu~azu, ahabaja, ahavaza, ahvazi, ahwaz, akvacu, alahwaz, Əhvaz, Ахваз, Ахваз шаары, Аҳвоз, Ախվազ, אהוואז, ئەھواز, الأهواز, اهواز, اہواز, अहवाज़, আহবাজ, ਅਹਵਾਜ਼, ஆக்வாசு, ཨཱ་ཝཛ།, აჰვაზი, アフヴァーズ, 阿瓦士, 아바즈
 
 ---

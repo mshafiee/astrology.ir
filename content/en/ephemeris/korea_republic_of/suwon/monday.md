@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'21.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°37'48.18" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°6'39.43" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°26'23.55" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°36'41.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'36.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°41'22.97" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°37'48.22" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°6'40.21" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°26'23.79" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°36'42.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'36.54" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°48'49.52" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°51'21.34" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°37'48.22" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°6'40.21" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°26'23.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°36'41.97" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'35.40" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°41'22.97" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|3°26'23.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°36'42.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'36.18" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°48'8.57" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SWU,  Sououon,  Suigen,  Suvon,  Suwon,  Suwon-si,  Suwŏn,  shui yuan shi,  suvona,  suwon,  suwonsi,  suwxn,  swwn,  Σούουον,  Сувон,  سوون,  सुवोन,  ซูว็อน,  水原市,  수원,  수원시
+Alternate Names: SWU, Sououon, Suigen, Suvon, Suwon, Suwon-si, Suwŏn, shui yuan shi, suvona, suwon, suwonsi, suwxn, swwn, Σούουον, Сувон, سوون, सुवोन, ซูว็อน, 水原市, 수원, 수원시
 
 ---

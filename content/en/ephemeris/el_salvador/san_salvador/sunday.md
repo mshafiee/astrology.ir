@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'30.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°32'20.75" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°54'22.56" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°4'12.57" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°10'45.71" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'34.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°14'18.04" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°32'19.59" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°54'26.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°4'5.56" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°10'46.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'26.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°15'45.68" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'30.11" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°32'20.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°54'22.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°4'12.57" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°10'45.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'34.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°14'18.04" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°32'19.59" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°54'26.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°4'5.56" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°10'46.39" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'26.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°15'45.68" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SAL,  Salvador,  San Salbador,  San Salvado,  San Salvador,  San Salvadoras,  San Salvadori,  San Salvadò,  San Salwador,  San-Sal'vador,  San-Salvador,  San-Salvadoro,  Sansalvadora,  Urbs Sancti Salvatoris,  can calvator,  san salvadwr,  san salwadwr,  san slfadwr,  san-salvadori,  sana salavadora,  sana salvhadora,  sana-salvadora,  sansalbadoleu,  sansalwadxr,  sansarubadoru,  sheng sa er wa duo,  sn slwwdwr,  Σαν Σαλβαδόρ,  Сан Салвадор,  Сан-Сальвадор,  Սան Սալվադոր,  סאן סאלוואדאר,  סן סלוודור,  سان سالوادور,  سان سالۋادور,  سان سلفادور,  سان سلواڈور,  सान साल्व्हाडोर,  सान-साल्वाडोर,  ਸਾਨ ਸਾਲਵਾਦੋਰ,  சான் சல்வடோர்,  ซันซัลวาดอร์,  སན་སལ་ཝ་ཌོར།,  სან-სალვადორი,  ሳን ሳልቫዶር,  サンサルバドル,  聖薩爾瓦多,  산살바도르
+Alternate Names: SAL, Salvador, San Salbador, San Salvado, San Salvador, San Salvadoras, San Salvadori, San Salvadò, San Salwador, San-Sal'vador, San-Salvador, San-Salvadoro, Sansalvadora, Urbs Sancti Salvatoris, can calvator, san salvadwr, san salwadwr, san slfadwr, san-salvadori, sana salavadora, sana salvhadora, sana-salvadora, sansalbadoleu, sansalwadxr, sansarubadoru, sheng sa er wa duo, sn slwwdwr, Σαν Σαλβαδόρ, Сан Салвадор, Сан-Сальвадор, Սան Սալվադոր, סאן סאלוואדאר, סן סלוודור, سان سالوادور, سان سالۋادور, سان سلفادور, سان سلواڈور, सान साल्व्हाडोर, सान-साल्वाडोर, ਸਾਨ ਸਾਲਵਾਦੋਰ, சான் சல்வடோர், ซันซัลวาดอร์, སན་སལ་ཝ་ཌོར།, სან-სალვადორი, ሳን ሳልቫዶር, サンサルバドル, 聖薩爾瓦多, 산살바도르
 
 ---

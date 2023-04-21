@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'40.30" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°32'50.68" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°55'33.07" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°6'4.55" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°13'6.34" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°23'56.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°22'58.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°55'30.04" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°6'14.11" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°13'8.12" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'8.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°37'28.02" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Atemaxac,  GDL,  Gouadalachara,  Guadalajara,  Guadalajara i Jalisco,  Guadalakhara,  Guadalaxara,  Gvadalachara,  Gvadalahara,  Gvadalaharo,  Gvadalakhara,  Gvadalakharae,  gatalajara,  ghwadalakhara,  gu'adalahara,  gua da la ha la,  guadarahara,  gvadalahara,  gvadalakhara,  gwadalakhara  khalyskw,  gwadallahala,  gwwdlhrh,  kwa da la ha ra,  Ātemaxac,  Γουαδαλαχάρα,  Гвадалахарæ,  Гвадалахара,  Гуадалахара,  גוודלחרה,  غوادالاخارا,  گوادالاخارا، خالیسکو,  گواڈلہارا,  ग्वादालाहारा,  ਗੁਆਦਾਲਾਹਾਰਾ,  ഗൗതലജാറ,  กวาดาลาฮารา,  გვადალახარა,  グアダラハラ,  瓜达拉哈拉,  과달라하라
+Alternate Names: Atemaxac, GDL, Gouadalachara, Guadalajara, Guadalajara i Jalisco, Guadalakhara, Guadalaxara, Gvadalachara, Gvadalahara, Gvadalaharo, Gvadalakhara, Gvadalakharae, gatalajara, ghwadalakhara, gu'adalahara, gua da la ha la, guadarahara, gvadalahara, gvadalakhara, gwadalakhara  khalyskw, gwadallahala, gwwdlhrh, kwa da la ha ra, Ātemaxac, Γουαδαλαχάρα, Гвадалахарæ, Гвадалахара, Гуадалахара, גוודלחרה, غوادالاخارا, گوادالاخارا، خالیسکو, گواڈلہارا, ग्वादालाहारा, ਗੁਆਦਾਲਾਹਾਰਾ, ഗൗതലജാറ, กวาดาลาฮารา, გვადალახარა, グアダラハラ, 瓜达拉哈拉, 과달라하라
 
 ---

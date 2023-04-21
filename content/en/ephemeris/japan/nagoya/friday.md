@@ -292,10 +292,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'18.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°54'15.91" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°54'15.49" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°29'8.75" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°29'22.84" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°9'22.14" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°9'23.17" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'36.57" |Aries|Butain|Sun|
 |☾ Moon|Direct|9°28'34.55" |Aries|Sharatain|Mars|
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: NGO,  Nagoia,  Nagoja,  Nagojo,  Nagoya,  Nagoya City,  Nagoya-shi,  ming gu wu,  ming gu wu shi,  na ngoa ya,  naghwya,  nagoya si,  nagoyashi,  nagwya  aychy,  Нагоя,  ناغويا,  ناگویا، آیچی,  นะโงะยะ,  なごやし,  名古屋,  名古屋市,  나고야 시
+Alternate Names: NGO, Nagoia, Nagoja, Nagojo, Nagoya, Nagoya City, Nagoya-shi, ming gu wu, ming gu wu shi, na ngoa ya, naghwya, nagoya si, nagoyashi, nagwya  aychy, Нагоя, ناغويا, ناگویا، آیچی, นะโงะยะ, なごやし, 名古屋, 名古屋市, 나고야 시
 
 ---

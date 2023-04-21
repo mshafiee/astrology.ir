@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'21.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°52'40.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°40'12.35" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°26'55.43" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°47'20.96" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°2'29.32" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°13'30.19" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°56'22.00" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°52'41.49" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°40'15.53" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°26'58.70" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°47'26.65" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°2'36.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°49'26.56" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: City of Manila,  Dakbayan sa Manila,  Lungsod ng Maynila,  MNL,  Mainile,  Manila,  Manilae,  Manilla,  Manillah,  Manille,  Manilo,  Manyl,  Maníla,  Maynila,  Menila,  ma ni la,  manila,  manilla,  manira,  manyl,  manyla,  mnila,  mnylh,  myanila,  Μανίλα,  Манилæ,  Манила,  Маніла,  מנילה,  مانىلا,  مانيلا,  مانیل,  مانیلا,  मनिला,  मनीला,  ম্যানিলা,  மணிலா,  ಮನಿಲ,  මැනිලා,  มนิลา,  มะนิลา,  མ་ནི་ལ།,  မနီလာမြို့,  მანილა,  ማኒላ,  マニラ,  馬尼拉,  马尼拉,  마닐라
+Alternate Names: City of Manila, Dakbayan sa Manila, Lungsod ng Maynila, MNL, Mainile, Manila, Manilae, Manilla, Manillah, Manille, Manilo, Manyl, Maníla, Maynila, Menila, ma ni la, manila, manilla, manira, manyl, manyla, mnila, mnylh, myanila, Μανίλα, Манилæ, Манила, Маніла, מנילה, مانىلا, مانيلا, مانیل, مانیلا, मनिला, मनीला, ম্যানিলা, மணிலா, ಮನಿಲ, මැනිලා, มนิลา, มะนิลา, མ་ནི་ལ།, မနီလာမြို့, მანილა, ማኒላ, マニラ, 马尼拉, 마닐라
 
 ---

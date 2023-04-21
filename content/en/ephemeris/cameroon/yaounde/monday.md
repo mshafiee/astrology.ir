@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'2.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°42'47.57" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°17'53.01" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°46'42.13" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°0'23.82" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'31.17" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°3'57.93" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°42'47.83" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°17'54.68" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°46'43.59" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°0'26.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'34.19" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°21'22.88" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'2.69" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'47.57" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°17'53.01" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°46'42.13" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°0'23.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'31.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°3'57.93" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°42'47.83" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°17'54.68" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°46'43.59" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°0'26.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'34.19" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°21'22.88" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Giaounte,  Jande,  Jaunde,  Jaundeh,  Jaundeo,  Jaundė,  Jaúnde,  Jánde,  YAO,  Yaounde,  Yaoundé,  Yaunde,  Yaundé,  Yawunde,  iaunde,  ya wen de,  ya'unde,  yaunde,  yavunte,  yawndy,  yaxunde,  yaywndh,  ye wen de,  Γιαουντέ,  Јаунде,  Яунде,  Яўндэ,  Յաունդե,  יאונדה,  יאונדע,  ياوندي,  یاؤندے,  یائونده,  یائوندێ,  یاونڈی,  याउंदे,  ਯਾਊਂਦੇ,  யாவுண்டே,  ยาอุนเด,  ཡོན་དྷི།,  იაუნდე,  ያዉንዴ,  ヤウンデ,  耶溫得,  雅温得,  야운데
+Alternate Names: Giaounte, Jande, Jaunde, Jaundeh, Jaundeo, Jaundė, Jaúnde, Jánde, YAO, Yaounde, Yaoundé, Yaunde, Yaundé, Yawunde, iaunde, ya wen de, ya'unde, yaunde, yavunte, yawndy, yaxunde, yaywndh, ye wen de, Γιαουντέ, Јаунде, Яунде, Яўндэ, Յաունդե, יאונדה, יאונדע, ياوندي, یاؤندے, یائونده, یائوندێ, یاونڈی, याउंदे, ਯਾਊਂਦੇ, யாவுண்டே, ยาอุนเด, ཡོན་དྷི།, იაუნდე, ያዉንዴ, ヤウンデ, 耶溫得, 雅温得, 야운데
 
 ---

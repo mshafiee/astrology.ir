@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°36'34.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'1.50" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°30'51.14" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°32'29.98" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°13'2.61" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'46.72" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°15'56.46" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|4°36'34.56" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°55'1.34" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°30'50.29" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°32'29.08" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°13'1.21" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'44.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°8'59.96" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'34.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°55'1.46" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°30'51.14" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°32'29.98" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°13'2.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'46.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°14'14.44" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°55'1.34" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°30'50.29" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°32'29.08" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°13'1.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'44.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°8'59.96" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Lâm-kiaⁿ-chhī,  NKG,  Nam Kinh,  Nam-kin-su,  Namkin,  Nan'czin,  Nan'zhin,  Nan-ching,  Nan-ching-shih,  Nanchino,  Nanchinum,  Nandzing,  Nandzjina,  Nandžing,  Nang-ging,  Nanjing,  Nanjing Shi,  Nankijn,  Nankin,  Nankinas,  Nanking,  Nankingo,  Nankín,  Nanquim,  Nanquin,  Nanquín,  Nantsin'nk,  Nanzging,  Naņdzjina,  Nàm-kîn-sṳ,  Nàng-gĭng,  hnan cing,  namgyeong,  nan jing,  nan jing shi,  nanajiga,  nanajinga,  nancin,  nanjina,  nanjing,  nanjing si,  nanjinga,  nanjng,  nanjyng,  nanjyngh,  nʼngyng,  Ναντσίνγκ,  Нанкин,  Нанкинг,  Нанкін,  Наньжин,  Наньцзин,  Нәнҗиң,  Նանկին,  נאנגינג,  نانجنگ,  نانجينغ,  نانجینگ,  نەنجىڭ شەھىرى,  नांजिंग,  नानजिंग,  नान्जिङ,  ਨਾਨਜਿੰਗ,  நாஞ்சிங்,  നാൻജിങ്,  หนานจิง,  နန်ကျင်းမြို့,  ნანკინი,  南京,  南京市,  난징,  난징 시,  남경
+Alternate Names: Lâm-kiaⁿ-chhī, NKG, Nam Kinh, Nam-kin-su, Namkin, Nan'czin, Nan'zhin, Nan-ching, Nan-ching-shih, Nanchino, Nanchinum, Nandzing, Nandzjina, Nandžing, Nang-ging, Nanjing, Nanjing Shi, Nankijn, Nankin, Nankinas, Nanking, Nankingo, Nankín, Nanquim, Nanquin, Nanquín, Nantsin'nk, Nanzging, Naņdzjina, Nàm-kîn-sṳ, Nàng-gĭng, hnan cing, namgyeong, nan jing, nan jing shi, nanajiga, nanajinga, nancin, nanjina, nanjing, nanjing si, nanjinga, nanjng, nanjyng, nanjyngh, nʼngyng, Ναντσίνγκ, Нанкин, Нанкинг, Нанкін, Наньжин, Наньцзин, Нәнҗиң, Նանկին, נאנגינג, نانجنگ, نانجينغ, نانجینگ, نەنجىڭ شەھىرى, नांजिंग, नानजिंग, नान्जिङ, ਨਾਨਜਿੰਗ, நாஞ்சிங், നാൻജിങ്, หนานจิง, နန်ကျင်းမြို့, ნანკინი, 南京, 南京市, 난징, 난징 시, 남경
 
 ---

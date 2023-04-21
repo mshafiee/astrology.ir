@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'57.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°13'17.97" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°11'39.80" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°46'45.01" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°40'8.16" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'27.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°50'57.50" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°13'17.78" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°11'40.38" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°46'43.84" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°40'8.15" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'26.20" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°47'24.47" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'57.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'18.18" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°11'44.81" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°46'45.72" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°40'13.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'31.36" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°15'59.84" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°13'17.97" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°11'39.80" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°46'43.84" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°40'8.15" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'26.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°47'24.47" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: PRG,  Praag,  Prag,  Praga,  Pragae,  Prago,  Prague,  Praha,  Pràg,  Prág,  Prága,  Prâg,  Prāga,  bragh,  bu la ge,  peulaha,  prag,  praga,  prak,  prg,  puraha,  Πράγα,  Праг,  Прагæ,  Прага,  פראג,  براغ,  پراگ,  پراگا,  ܦܪܓ,  প্রাগ,  ปราก,  པུ་ལ་ཁེ,  პრაღა,  ፕራግ,  プラハ,  布拉格,  프라하
+Alternate Names: PRG, Praag, Prag, Praga, Pragae, Prago, Prague, Praha, Pràg, Prág, Prága, Prâg, Prāga, bragh, bu la ge, peulaha, prag, praga, prak, prg, puraha, Πράγα, Праг, Прагæ, Прага, פראג, براغ, پراگ, پراگا, ܦܪܓ, প্রাগ, ปราก, པུ་ལ་ཁེ, პრაღა, ፕራግ, プラハ, 布拉格, 프라하
 
 ---

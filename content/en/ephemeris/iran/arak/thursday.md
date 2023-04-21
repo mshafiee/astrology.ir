@@ -20,7 +20,7 @@ Latitude: 34.0949
 \-
 Longitude: 49.6981
 \-
-Altitude: 1,738 meters
+Altitude: 1,728 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Arak, Iran" lat="34.0949" lng="49.6981" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'26.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'21.20" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°4'53.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°45'4.68" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°17'21.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'35.81" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°9'21.47" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'21.22" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°4'53.68" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°45'4.80" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°17'21.33" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'36.02" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°10'7.47" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'26.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'21.22" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'53.68" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°45'4.80" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'21.20" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°4'53.59" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°45'4.68" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°17'21.18" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°32'35.81" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°9'21.47" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|29°9'20.42" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Arak,  Arak - sawh,  Arak - ساوه,  Arok,  Arāk,  Ehrak,  Soltanabad,  Solţānābād,  Sultanabad,  Sultānābād,  `Iraq,  arak,  sawh,  sultan abad,  Арак,  Арок,  Эрак,  اراک,  ساوه,  سُلطان آباد,  ‘Irāq
+Alternate Names: Arak, Arak - sawh, Arak - ساوه, Arok, Arāk, Ehrak, Soltanabad, Solţānābād, Sultanabad, Sultānābād, `Iraq, arak, sawh, sultan abad, Арак, Арок, Эрак, اراک, ساوه, سُلطان آباد, ‘Irāq
 
 ---

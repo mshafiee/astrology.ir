@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'38.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'24.07" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°9'38.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°43'8.92" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°35'55.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'52.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°37'52.04" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°12'24.08" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°9'38.79" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°43'6.56" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°35'51.33" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'47.35" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°13'54.70" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'38.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'24.53" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°9'41.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°43'8.92" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°35'55.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'52.22" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°37'52.04" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'24.08" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°9'38.79" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°43'6.56" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°35'51.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'47.35" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°13'54.70" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al Mawsil,  Al Mawşil,  Al Mosul,  Al Musil,  Al Mūşil,  Mosel,  Mosoel,  Mosouli,  Mossoul,  Mossul,  Mosul,  Mosul khot,  Mosula,  Mosulas,  Mosulo,  Moszul,  Mousl,  Moussoul,  Musil,  Musił,  Musul,  Musıl,  Mûsil,  OSM,  almwsl,  mo su er,  mo sul,  mocul,  mosala,  mosul,  mosula,  mosuli,  mosuru,  mwsl,  mwswl,  mwsڵ,  Μοσούλη,  Мосeл,  Мосул,  Мосул хот,  Մոսուլ,  מאסול,  מוסול,  الموصل,  موسڵ,  موصل,  موصول,  مووسڵ,  ܡܘܨܠ,  मोसुल,  ਮੋਸਲ,  மோசுல்,  മൊസൂൾ,  โมซูล,  მოსული,  モースル,  摩苏尔,  摩蘇爾,  모술
+Alternate Names: Al Mawsil, Al Mawşil, Al Mosul, Al Musil, Al Mūşil, Mosel, Mosoel, Mosouli, Mossoul, Mossul, Mosul, Mosul khot, Mosula, Mosulas, Mosulo, Moszul, Mousl, Moussoul, Musil, Musił, Musul, Musıl, Mûsil, OSM, almwsl, mo su er, mo sul, mocul, mosala, mosul, mosula, mosuli, mosuru, mwsl, mwswl, mwsڵ, Μοσούλη, Мосeл, Мосул, Мосул хот, Մոսուլ, מאסול, מוסול, الموصل, موسڵ, موصل, موصول, مووسڵ, ܡܘܨܠ, मोसुल, ਮੋਸਲ, மோசுல், മൊസൂൾ, โมซูล, მოსული, モースル, 摩苏尔, 摩蘇爾, 모술
 
 ---

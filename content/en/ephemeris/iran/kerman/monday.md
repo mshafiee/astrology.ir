@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°40'42.01" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°13'11.58" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°38'11.02" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°50'28.88" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'43.62" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°22'53.05" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|14°50'29.31" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'44.06" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°25'47.51" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Carmana,  Dakbayan sa Kerman,  Dakbayan sa Kermān,  KER,  Kerman,  Kermanas,  Kermano,  Kermon,  Kermán,  Kermān,  Kirman,  Kirmon,  karmana,  ke er man,  keleuman,  kermani,  keruman,  krman,  Керман,  Кирмон,  Կերման,  כרמאן,  كرمان,  کرمان,  कर्मान,  ქერმანი,  ケルマーン,  克尔曼,  케르만
+Alternate Names: Carmana, Dakbayan sa Kerman, Dakbayan sa Kermān, KER, Kerman, Kermanas, Kermano, Kermon, Kermán, Kermān, Kirman, Kirmon, karmana, ke er man, keleuman, kermani, keruman, krman, Керман, Кирмон, Կերման, כרמאן, كرمان, کرمان, कर्मान, ქერმანი, ケルマーン, 克尔曼, 케르만
 
 ---

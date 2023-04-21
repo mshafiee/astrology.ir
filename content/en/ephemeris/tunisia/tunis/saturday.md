@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'6.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'42.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°12'34.63" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°48'25.97" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°42'5.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'22.32" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°24'22.93" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°13'41.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°12'29.36" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°48'21.07" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°41'57.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'12.36" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°35'32.51" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: TUN,  Tinis,  Tiwnis,  Tuenis,  Tuinis,  Tunes,  Tunes tamaneɣt,  Tunez,  Tunis,  Tunis khot,  Tunis shaary,  Tunis-Ville,  Tunisa,  Tunisas,  Tunisi,  Tunisin Orn,  Tunisz,  Tunixi,  Tuniz,  Tunizo,  Tunus,  Tynida,  Tùnis,  Tùnisi,  Túinis,  Túnez,  Túnis,  Túnixi,  Túniz,  Tûnis,  Tünis,  chunisu,  tu ni si,  tu ni si shi,  tunis,  tunis's,  tunisa,  twiniseu,  twns,  twnys,  twwns,  tyunisa,  Τύνιδα,  Тунис,  Тунис хот,  Тунис шаары,  Тунисин Орн,  Туніс,  Թունիս,  תוניס,  تونس,  تونس شہر,  توونس,  تۇنىس شەھىرى,  ٹیونس نگر,  ܬܘܢܣ,  ट्युनिस,  ट्यूनिस,  ਤੂਨਿਸ,  தூனிஸ்,  ടൂണിസ്സ്,  ตูนิส,  ཊུ་ནིསི།,  ტუნისი,  ቱኒስ,  チュニス,  突尼斯,  突尼斯市,  튀니스
+Alternate Names: TUN, Tinis, Tiwnis, Tuenis, Tuinis, Tunes, Tunes tamaneɣt, Tunez, Tunis, Tunis khot, Tunis shaary, Tunis-Ville, Tunisa, Tunisas, Tunisi, Tunisin Orn, Tunisz, Tunixi, Tuniz, Tunizo, Tunus, Tynida, Tùnis, Tùnisi, Túinis, Túnez, Túnis, Túnixi, Túniz, Tûnis, Tünis, chunisu, tu ni si, tu ni si shi, tunis, tunis's, tunisa, twiniseu, twns, twnys, twwns, tyunisa, Τύνιδα, Тунис, Тунис хот, Тунис шаары, Тунисин Орн, Туніс, Թունիս, תוניס, تونس, تونس شہر, توونس, تۇنىس شەھىرى, ٹیونس نگر, ܬܘܢܣ, ट्युनिस, ट्यूनिस, ਤੂਨਿਸ, தூனிஸ், ടൂണിസ്സ്, ตูนิส, ཊུ་ནིསི།, ტუნისი, ቱኒስ, チュニス, 突尼斯, 突尼斯市, 튀니스
 
 ---

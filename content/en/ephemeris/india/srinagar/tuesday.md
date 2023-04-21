@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'54.27" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'17.36" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°43'49.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°33'27.36" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°54'57.40" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'12.14" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°5'7.05" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|4°56'54.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°54'18.22" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°43'54.53" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°33'31.99" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°55'5.65" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'21.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°2'29.05" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'54.27" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'17.36" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'49.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'27.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°54'57.40" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'12.14" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°5'7.05" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'18.14" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'54.53" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'32.45" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°55'6.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'22.39" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°2'29.05" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Caspira,  SXR,  Shrinagar,  Srinagar,  Srinagaras,  Srinagaro,  Srinankar,  Srinigar,  Srynagar,  Srīnagar,  Suryanagar,  Szrinagar,  cirinakar,  seulinagaleu,  shurinagaru,  si li na jia,  sirinagara,  siry nagar,  srinagar,  srinagara,  srinagaram,  srinagari,  srinkhr,  sry nghr,  sry ngr,  srynaghar,  srynghr,  sryngr,  Śrinagar,  Šrinagaras,  Šrínagar,  Σριναγκάρ,  Сринагар,  Срынагар,  Срінагар,  Шринагар,  Սրինագար,  סרינגאר,  جموں,  سري نغر,  سري نگر,  سريناغار,  سرينغر,  سری نگر,  سرینگر,  سِری نَگَر,  श्रीनगर,  श्रीनगरम्,  सिरीनगर,  শ্রীনগর,  ਸ੍ਰੀਨਗਰ,  શ્રીનગર,  ଶ୍ରୀନଗର,  சிறிநகர்,  శ్రీనగర్,  ಶ್ರೀನಗರ,  ശ്രീനഗർ,  ศรีนคร,  სრინაგარი,  シュリーナガル,  斯利那加,  스리나가르
+Alternate Names: Caspira, SXR, Shrinagar, Srinagar, Srinagaras, Srinagaro, Srinankar, Srinigar, Srynagar, Srīnagar, Suryanagar, Szrinagar, cirinakar, seulinagaleu, shurinagaru, si li na jia, sirinagara, siry nagar, srinagar, srinagara, srinagaram, srinagari, srinkhr, sry nghr, sry ngr, srynaghar, srynghr, sryngr, Śrinagar, Šrinagaras, Šrínagar, Σριναγκάρ, Сринагар, Срынагар, Срінагар, Шринагар, Սրինագար, סרינגאר, جموں, سري نغر, سري نگر, سريناغار, سرينغر, سری نگر, سرینگر, سِری نَگَر, श्रीनगर, श्रीनगरम्, सिरीनगर, শ্রীনগর, ਸ੍ਰੀਨਗਰ, શ્રીનગર, ଶ୍ରୀନଗର, சிறிநகர், శ్రీనగర్, ಶ್ರೀನಗರ, ശ്രീനഗർ, ศรีนคร, სრინაგარი, シュリーナガル, 斯利那加, 스리나가르
 
 ---

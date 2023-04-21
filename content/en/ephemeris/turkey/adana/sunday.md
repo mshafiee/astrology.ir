@@ -20,7 +20,7 @@ Latitude: 36.9862
 \-
 Longitude: 35.3253
 \-
-Altitude: 30 meters
+Altitude: 38 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adana, Turkey" lat="36.9862" lng="35.3253" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:25:56|Night duration: 10:32:48|
+|Duration of the day: 13:25:56|Night duration: 10:32:49|
 |Every hour of day duration: 01:07:10|Every hour of night duration: 00:52:44|
 
  
@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |9|Mars|Servant|02:22:13|03:14:56|Summoning a desired person, winning hearts, and creating emotional attachment|
 |10|Sun|Servant|03:14:57|04:07:40|Attracting happiness and resolving financial problems|
 |11|Venus|Servant|04:07:41|05:00:24|Signing contracts|
-|12|Mercury|Servant|05:00:25|05:53:08|Uncovering fugitives and finding thieves|
+|12|Mercury|Servant|05:00:25|05:53:09|Uncovering fugitives and finding thieves|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:25:56|Night duration: 10:32:48|
+|Duration of the day: 13:25:56|Night duration: 10:32:49|
 |Every hour duration: 01:55:08|Every hour duration: 01:30:24|
 
  
@@ -275,7 +275,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Venus|Servant|23:51:33|01:21:56|
 |Rooster song|Mercury|Servant|01:21:57|02:52:20|
 |False Dawn|Moon|Servant|02:52:21|04:22:44|
-|Dawn|Saturn|Servant|04:22:45|05:53:08|
+|Dawn|Saturn|Servant|04:22:45|05:53:09|
 
 {{< /tab >}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'42.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'5.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°42'34.77" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°42'47.56" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°45'50.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'28.62" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°42'58.58" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°27'5.57" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°42'34.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°42'50.14" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°45'47.13" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'29.77" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°25'14.25" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'42.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°27'5.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°42'39.53" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°42'47.56" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°45'50.77" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'28.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°42'58.58" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°27'5.56" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°42'34.92" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°42'50.14" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°45'47.13" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'29.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°25'14.25" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ADA,  Adana,  Adane,  Adano,  Adanë,  Adhanah,  Antiocheia,  Edene,  a da na,  adana,  adnt,  xa da na,  yadana,  Άδανα,  Αδανα,  Αντιόχεια,  Адана,  Ադանա,  אדנה,  آدانا,  أضنة,  ئادانا,  अदना,  আদানা,  อาดานา,  ადანა,  アダナ,  阿达纳,  아다나
+Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나
 
 ---

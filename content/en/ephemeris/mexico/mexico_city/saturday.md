@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°44'41.21" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|4°44'39.94" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°18'17.94" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°22'50.64" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°7'5.53" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°3'55.91" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'36.58" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°44'26.95" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°6'53.56" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°3'49.66" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'19.86" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°45'48.69" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'41.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°18'18.05" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°22'53.78" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°7'5.78" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°3'59.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'38.70" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°1'5.47" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°18'17.94" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°22'50.64" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°7'5.53" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°3'55.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'36.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°44'26.95" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Cdmx,  Cidade de Mexico,  Cidade de México,  Cidade do Mexico,  Cidade do México,  Cita du Messicu,  Citta del Messico,  Città del Messico,  Cità dû Messicu,  Cità dû Mèssicu,  Ciudad Mexico,  Ciudad de Mejico,  Ciudad de Mexico,  Ciudad de Méjico,  Ciudad de México,  Ciutat de Mexic,  Ciutat de Mèxic,  Lungsod ng Mexico,  Lungsod ng México,  MEX,  Mehiko,  Mekhiko,  Meksikas,  Meksiko,  Meksiko Siti,  Meksikurbo,  Meksyk,  Mexico,  Mexico City,  Mexico D.F.,  Mexico DF,  Mexico Distrito Federal,  Mexico by,  Mexico-stad,  Mexicopolis,  Mexiko,  Mexiko Hiria,  Mexiko-Stadt,  Mexikoborg,  Mexíkóborg,  México,  México Distrito Federal,  Nkoyo,  Pole tou Mexikou,  Valle de Mexico,  Valle de México,  mdynt mksykw,  megsiko si,  megsikositi,  mekishikoshiti,  meksiko,  meksiko siti,  meksikositi,  mkzykw,  mkzykwsyty,  mo xi ge cheng,  mqsyqw syty,  Πόλη του Μεξικού,  Мексико,  Мексико Сити,  Мехико,  Мехіко,  מקסיקו סיטי,  مدينة مكسيكو,  مکزیکو,  مکزیکوسیتی,  مېكسىكا شەھىرى,  मेक्सिको सिटी,  মেক্সিকো,  เม็กซิโกซิตี,  მეხიკო,  メキシコシティ,  墨西哥城,  멕시코 시,  멕시코시티
+Alternate Names: Cdmx, Cidade de Mexico, Cidade de México, Cidade do Mexico, Cidade do México, Cita du Messicu, Citta del Messico, Città del Messico, Cità dû Messicu, Cità dû Mèssicu, Ciudad Mexico, Ciudad de Mejico, Ciudad de Mexico, Ciudad de Méjico, Ciudad de México, Ciutat de Mexic, Ciutat de Mèxic, Lungsod ng Mexico, Lungsod ng México, MEX, Mehiko, Mekhiko, Meksikas, Meksiko, Meksiko Siti, Meksikurbo, Meksyk, Mexico, Mexico City, Mexico D.F., Mexico DF, Mexico Distrito Federal, Mexico by, Mexico-stad, Mexicopolis, Mexiko, Mexiko Hiria, Mexiko-Stadt, Mexikoborg, Mexíkóborg, México, México Distrito Federal, Nkoyo, Pole tou Mexikou, Valle de Mexico, Valle de México, mdynt mksykw, megsiko si, megsikositi, mekishikoshiti, meksiko, meksiko siti, meksikositi, mkzykw, mkzykwsyty, mo xi ge cheng, mqsyqw syty, Πόλη του Μεξικού, Мексико, Мексико Сити, Мехико, Мехіко, מקסיקו סיטי, مدينة مكسيكو, مکزیکو, مکزیکوسیتی, مېكسىكا شەھىرى, मेक्सिको सिटी, মেক্সিকো, เม็กซิโกซิตี, მეხიკო, メキシコシティ, 墨西哥城, 멕시코 시, 멕시코시티
 
 ---

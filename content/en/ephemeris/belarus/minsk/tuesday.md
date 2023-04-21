@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'23.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'46.41" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°47'14.12" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°55'46.33" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°47'14.73" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°39'30.16" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°2'4.21" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'14.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°1'23.87" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°2'4.68" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'14.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°6'19.47" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'23.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'46.41" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°47'14.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°39'30.57" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°2'4.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'14.96" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°1'23.87" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'46.18" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°47'13.42" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°39'29.26" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°2'2.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'12.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°52'37.81" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: MSQ,  Mins'k,  Minsc,  Minscum,  Minsk,  Minsk - Minsk,  Minsk - Мінск,  Minsk osh,  Minska,  Minskaj,  Minskas,  Minsko,  Minszk,  Mińsk,  Myensk,  Myenyesk,  Mînsk,  ming si ke,  ming si ke shi,  minseukeu,  minsk,  minsuku,  mnsk,  mynsk,  mynsq,  mynysky,  Μινσκ,  Минск,  Минск ош,  Минскай,  Мінск,  Мінськ,  Мѣньскъ,  Մինսկ,  מינסק,  منسک,  مىنىسكى,  مينسك,  مینسک,  मिन्
+Alternate Names: MSQ, Mins'k, Minsc, Minscum, Minsk, Minsk - Minsk, Minsk - Мінск, Minsk osh, Minska, Minskaj, Minskas, Minsko, Minszk, Mińsk, Myensk, Myenyesk, Mînsk, ming si ke, ming si ke shi, minseukeu, minsk, minsuku, mnsk, mynsk, mynsq, mynysky, Μινσκ, Минск, Минск ош, Минскай, Мінск, Мінськ, Мѣньскъ, Մինսկ, מינסק, منسک, مىنىسكى, مينسك, مینسک, मिन्‍स्‍क, மின்ஸ்க், ಮಿನ್ಸ್ಕ್, മിൻസ്ക്, มินสก์, མིན་སིཀ།, მინსკი, ミンスク, 明斯克, 明斯克市, 민스크
 
 ---

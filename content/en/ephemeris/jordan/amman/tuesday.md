@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°55'52.73" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°47'28.49" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°39'57.14" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°2'36.96" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'13.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°36'56.72" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|16°2'34.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'11.55" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°21'26.60" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°55'52.73" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°47'28.49" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°39'57.14" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°2'36.96" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'13.79" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°36'56.72" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°2'34.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'11.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°21'26.60" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: 'Amman,  AMM,  Ama,  Aman,  Amanas,  Amani,  Amano,  Amans,  Amman,  Ammana,  Ammon,  Ammán,  Ammān,  Ammāna,  Amàn,  Amán,  Amã,  Philadelphia,  Rabbah,  Rabbath Ammon,  am'man,  am'mana,  aman,  amana,  amani,  amman,  an man,  anman,  xam man,  yamman,  ʻmʼn,  ʿman,  ʿmʾn,  Αμμάν,  Аман,  Амман,  Аммон,  Ամման,  אמאן,  עמאן,  ئاممان,  امان,  عمان,  عمان شہر,  عمّان,  عَمّان,  عەممان,  ܥܡܐܢ,  अम्मान,  আম্মান,  ਅਮਾਨ,  அம்மான்,  ಅಮ್ಮಾನ್,  അമ്മാൻ,  อัมมาน,  ཨམ་མན།,  ამანი,  አማን,  ‘Ammān,  アンマン,  安曼,  암만
+Alternate Names: 'Amman, AMM, Ama, Aman, Amanas, Amani, Amano, Amans, Amman, Ammana, Ammon, Ammán, Ammān, Ammāna, Amàn, Amán, Amã, Philadelphia, Rabbah, Rabbath Ammon, am'man, am'mana, aman, amana, amani, amman, an man, anman, xam man, yamman, ʻmʼn, ʿman, ʿmʾn, Αμμάν, Аман, Амман, Аммон, Ամման, אמאן, עמאן, ئاممان, امان, عمان, عمان شہر, عمّان, عَمّان, عەممان, ܥܡܐܢ, अम्मान, আম্মান, ਅਮਾਨ, அம்மான், ಅಮ್ಮಾನ್, അമ്മാൻ, อัมมาน, ཨམ་མན།, ამანი, አማን, ‘Ammān, アンマン, 安曼, 암만
 
 ---

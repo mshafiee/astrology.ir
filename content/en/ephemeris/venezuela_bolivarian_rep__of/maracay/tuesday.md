@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'53.17" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|25°0'15.33" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°57'22.58" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°57'46.86" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°23'20.89" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°51'55.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°26'56.38" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°57'22.55" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°57'46.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°23'20.85" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'55.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°8'52.96" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'53.17" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'12.55" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°57'20.46" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°57'30.66" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°23'9.86" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'29.76" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°26'56.38" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'15.33" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°57'22.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°57'46.85" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°23'20.85" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'55.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°8'52.96" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: MYC,  Maracay,  Marakai,  Marakaj,  Marakajo,  Marakajus,  Marakay,  ma la kai,  malakai,  marakai,  marakay,  Μαρακάι,  Маракай,  ماراکای,  მარაკაი,  マラカイ,  马拉凯,  마라카이
+Alternate Names: MYC, Maracay, Marakai, Marakaj, Marakajo, Marakajus, Marakay, ma la kai, malakai, marakai, marakay, Μαρακάι, Маракай, ماراکای, მარაკაი, マラカイ, 马拉凯, 마라카이
 
 ---

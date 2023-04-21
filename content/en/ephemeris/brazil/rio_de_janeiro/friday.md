@@ -20,7 +20,7 @@ Latitude: -22.9064
 \-
 Longitude: -43.1822
 \-
-Altitude: 12 meters
+Altitude: 6 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Rio de Janeiro, Brazil" lat="-22.9064" lng="-43.1822" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'2.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°2'1.62" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°46'26.95" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°0'57.91" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°46'25.03" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'29.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°7'6.91" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°2'1.61" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°46'26.65" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°0'57.87" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°46'24.70" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'28.94" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°6'5.45" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'2.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'1.62" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°46'26.95" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°0'57.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°46'20.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'12.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°52'37.20" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'1.61" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°46'26.65" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°0'57.87" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°46'24.70" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'28.94" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°6'5.45" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Ciutat de Rio de Janeiro,  RIO,  Rio,  Rio De Janeiro,  Rio d Janeiro,  Rio de Janeiro,  Rio de Janeiru,  Rio de Janero,  Rio de Janeyro,  Rio de Janèro,  Rio de Janêro,  Rio de Zaneiras,  Rio de Zaneiros,  Rio de Zaneyro,  Rio de Zhaneiro,  Rio de Zhanejro,  Rio de Žaneiras,  Rio dé Janéyro,  Rio dė Žaneiros,  Rio nte Tzaneiro,  Rio-de-Janejro,  Rio-de-Janeyro,  Rio-de-Zaneiro,  Rio-de-Zanejro,  Rio-de-Zaneyro,  Rio-de-Zhanejro,  Rio-de-janeiro,  Rio-de-Ĵanejro,  Rio-de-Žaneiro,  Rio-de-Žaneýro,  Riodezaneiro,  Riodežaneiro,  Riu de Janeiro,  Riu de Janeiru,  Riviethe de Janvyi,  Riviéthe dé Janvyi,  Rya-deh-Zhanehjra,  Río de Janeiro,  Sao Sebastiao do Rio de Janeiro,  São Sebastião do Rio de Janeiro,  Urbs Fluminensis,  iriyo ti ceniro,  li yue re nei lu,  liudejaneilu,  rath ri xode ca ne ro,  ri xode ca ne ro,  ri'o di janero,  ri'o di jeneri'o,  ri'o di jeniro,  rio-de-zhaneiro,  riodejaneiro,  rios. dis. djaneiros,  riyea di janirea,  riyo di janairo,  riyo di janero,  riyo di jeneriyo,  riyo di jenero,  riyo di jyaneriyo,  ryw dh znyyrw,  ryw dw zhanyrw,  ryw dwzhanyrw,  ryw dy janyrw,  Ρίο ντε Τζανέιρο,  Рио де Жанеиро,  Рио де Жанейро,  Рио-де-Жанейро,  Рыа-дэ-Жанэйра,  Ріо де Жанейро,  Ріо-де-Жанейро,  Ռիո դե Ժանեյրո,  ריא דע זשאנערא,  ריו דה זניירו,  ريو دى جانيرو,  ريو دي جانيرو,  ریو دو ژانیرو,  ریو دوژانیرو,  ریو دے جینیرو,  ریو ڈی جینرو,  ڕیۆ دێ ژانێرۆ,  रियो डि जेनेरो,  रियो दि जानेरो,  रियो दि ज्यानेरियो,  रियो दी जेनेरियो,  রিও ডি জেনিরো,  রিও দি জেনেরিও,  ਰਿਓ ਡੀ ਜਨੇਰੋ,  இரியோ டி செனீரோ,  ರಿಯೋ ಡಿ ಜನೈರೊ,  റിയോ ഡി ജനീറോ,  รัฐรีโอเดจาเนโร,  รีโอเดจาเนโร,  རིའོ་ཌེ་ཇ་ནེའུ་རའོ།,  ရီယို ဒီ ဂျီးနေးရိုးမြို့,  რიო-დე-ჟანეირო,  ሪዮ ዴ ጃኔይሮ,  リオデジャネイロ,  里約熱內盧,  里约热内卢,  리우데자네이루
+Alternate Names: Ciutat de Rio de Janeiro, RIO, Rio, Rio De Janeiro, Rio d Janeiro, Rio de Janeiro, Rio de Janeiru, Rio de Janero, Rio de Janeyro, Rio de Janèro, Rio de Janêro, Rio de Zaneiras, Rio de Zaneiros, Rio de Zaneyro, Rio de Zhaneiro, Rio de Zhanejro, Rio de Žaneiras, Rio dé Janéyro, Rio dė Žaneiros, Rio nte Tzaneiro, Rio-de-Janejro, Rio-de-Janeyro, Rio-de-Zaneiro, Rio-de-Zanejro, Rio-de-Zaneyro, Rio-de-Zhanejro, Rio-de-janeiro, Rio-de-Ĵanejro, Rio-de-Žaneiro, Rio-de-Žaneýro, Riodezaneiro, Riodežaneiro, Riu de Janeiro, Riu de Janeiru, Riviethe de Janvyi, Riviéthe dé Janvyi, Rya-deh-Zhanehjra, Río de Janeiro, Sao Sebastiao do Rio de Janeiro, São Sebastião do Rio de Janeiro, Urbs Fluminensis, iriyo ti ceniro, li yue re nei lu, liudejaneilu, rath ri xode ca ne ro, ri xode ca ne ro, ri'o di janero, ri'o di jeneri'o, ri'o di jeniro, rio-de-zhaneiro, riodejaneiro, rios. dis. djaneiros, riyea di janirea, riyo di janairo, riyo di janero, riyo di jeneriyo, riyo di jenero, riyo di jyaneriyo, ryw dh znyyrw, ryw dw zhanyrw, ryw dwzhanyrw, ryw dy janyrw, Ρίο ντε Τζανέιρο, Рио де Жанеиро, Рио де Жанейро, Рио-де-Жанейро, Рыа-дэ-Жанэйра, Ріо де Жанейро, Ріо-де-Жанейро, Ռիո դե Ժանեյրո, ריא דע זשאנערא, ריו דה זניירו, ريو دى جانيرو, ريو دي جانيرو, ریو دو ژانیرو, ریو دوژانیرو, ریو دے جینیرو, ریو ڈی جینرو, ڕیۆ دێ ژانێرۆ, रियो डि जेनेरो, रियो दि जानेरो, रियो दि ज्यानेरियो, रियो दी जेनेरियो, রিও ডি জেনিরো, রিও দি জেনেরিও, ਰਿਓ ਡੀ ਜਨੇਰੋ, இரியோ டி செனீரோ, ರಿಯೋ ಡಿ ಜನೈರೊ, റിയോ ഡി ജനീറോ, รัฐรีโอเดจาเนโร, รีโอเดจาเนโร, རིའོ་ཌེ་ཇ་ནེའུ་རའོ།, ရီယို ဒီ ဂျီးနေးရိုးမြို့, რიო-დე-ჟანეირო, ሪዮ ዴ ጃኔይሮ, リオデジャネイロ, 里約熱內盧, 里约热内卢, 리우데자네이루
 
 ---

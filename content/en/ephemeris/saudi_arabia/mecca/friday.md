@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'43.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'18.13" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°38'6.58" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°45'48.96" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°28'37.34" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'12.74" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°12'41.16" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°58'18.36" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°38'9.52" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°45'50.13" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°28'41.10" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'16.15" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°25'58.02" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°58'18.36" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°38'9.52" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°45'50.13" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°28'37.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'12.74" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°12'41.16" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°28'41.10" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'16.15" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°25'58.02" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: A Meca,  La Meca,  La Mecca,  La Mecque,  Macoraba,  Maekkae,  Makka,  Makkah,  Makkah al Mukarramah,  Makkah al Mukarraman,  Makkah al-Mukarramah,  Meca,  Mecca,  Mecka,  Meice,  Meka,  Mekao,  Meke,  Mekka,  Mekkah,  Mekke,  Mekko,  Mäkkä,  mai jia,  mak kah,  makka,  meka,  mekka,  mkh,  mkt,  mkt almkrmt,  Μέκκα,  Мека,  Мекка,  מכה,  مكة,  مكة المكرمة,  مکه,  مکہ,  মক্কা,  มักกะฮ์,  མ་ཁ།,  მექა,  メッカ,  麥加,  메카
+Alternate Names: A Meca, La Meca, La Mecca, La Mecque, Macoraba, Maekkae, Makka, Makkah, Makkah al Mukarramah, Makkah al Mukarraman, Makkah al-Mukarramah, Meca, Mecca, Mecka, Meice, Meka, Mekao, Meke, Mekka, Mekkah, Mekke, Mekko, Mäkkä, mai jia, mak kah, makka, meka, mekka, mkh, mkt, mkt almkrmt, Μέκκα, Мека, Мекка, מכה, مكة, مكة المكرمة, مکه, مکہ, মক্কা, มักกะฮ์, མ་ཁ།, მექა, メッカ, 麥加, 메카
 
 ---

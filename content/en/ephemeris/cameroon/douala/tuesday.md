@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'52.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°57'12.40" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°50'35.23" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°45'19.59" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°8'59.21" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'9.85" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°57'47.21" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°57'13.95" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°50'31.84" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°45'28.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°9'0.09" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'21.92" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°39'27.50" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'52.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°57'12.40" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°50'35.23" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°45'19.59" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°8'59.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'9.85" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°57'47.21" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°57'13.94" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°50'31.68" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°45'28.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°9'0.09" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'21.92" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°39'27.50" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: DLA,  Douala,  Doula,  Dual,  Duala,  Dualao,  Dóúala,  Ntouala,  dau'ala,  douara,  du a la,  du xa la,  dualla,  dwala,  Ντουάλα,  Дуала,  דואלה,  دوالا,  दौआला,  ਦੌਆਲਾ,  ดูอาลา,  ドゥアラ,  杜阿拉,  두알라
+Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라
 
 ---

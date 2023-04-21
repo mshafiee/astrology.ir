@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°18'9.82" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°47'11.06" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°0'58.44" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'27.20" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°27'55.60" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|15°14'22.90" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°4'23.73" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: LBV,  Libarwil,  Liberopolis,  Librefille,  Librehvil',  Librevil,  Librevil',  Librevila,  Librevilis,  Libreville,  Librevilo,  Librvil,  Libvil,  Limprebil,  Limprvil,  Liuravila,  lbrwl,  lbrywyl,  li be rx wil,  li bo wei er,  libaravila,  libarevile,  libeuleubil,  librevhila,  librevili,  lipravil,  lybrfyl,  lybrwwyl,  lybrwyl,  riburuvuiru,  Λιμπρβίλ,  Λιμπρεβίλ,  Либрвил,  Либревил,  Либревиль,  Лібревіль,  Лібрэвіль,  Լիբրևիլ,  ליברוויל,  ליברעוויל,  لبرول,  لبریویل,  ليبرفيل,  لیبرویل,  لیبرێڤیل,  लिबरेविले,  लिब्रेव्हिल,  ਲਿਬਰਵਿਲ,  லிப்ரவில்,  ลีเบรอวิล,  ལིབ་རེ་ཝིལ།,  ლიბრევილი,  ሊብረቪል,  リーブルヴィル,  利伯維爾,  利伯维尔,  리브르빌
+Alternate Names: LBV, Libarwil, Liberopolis, Librefille, Librehvil', Librevil, Librevil', Librevila, Librevilis, Libreville, Librevilo, Librvil, Libvil, Limprebil, Limprvil, Liuravila, lbrwl, lbrywyl, li be rx wil, li bo wei er, libaravila, libarevile, libeuleubil, librevhila, librevili, lipravil, lybrfyl, lybrwwyl, lybrwyl, riburuvu~iru, Λιμπρβίλ, Λιμπρεβίλ, Либрвил, Либревил, Либревиль, Лібревіль, Лібрэвіль, Լիբրևիլ, ליברוויל, ליברעוויל, لبرول, لبریویل, ليبرفيل, لیبرویل, لیبرێڤیل, लिबरेविले, लिब्रेव्हिल, ਲਿਬਰਵਿਲ, லிப்ரவில், ลีเบรอวิล, ལིབ་རེ་ཝིལ།, ლიბრევილი, ሊብረቪል, リーブルヴィル, 利伯維爾, 利伯维尔, 리브르빌
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'48.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'21.98" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°7'7.95" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°49'6.69" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°22'12.04" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'6.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°46'37.42" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°44'21.04" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°7'5.54" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°49'7.22" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°22'5.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'2.60" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°52'55.03" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'48.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'21.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°7'12.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°49'6.69" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°22'12.04" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'6.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°46'37.42" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°44'21.98" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°7'5.54" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°49'7.22" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°22'5.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'2.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°52'55.03" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Djouba,  Dschuba,  Dzhuba,  Goba,  JUB,  Juba,  Uula,  g'wbh,  juba,  jwba,  Джуба,  ג'ובה,  جوبا,  주바
+Alternate Names: Djouba, Dschuba, Dzhuba, Goba, JUB, Juba, Uula, g'wbh, juba, jwba, Джуба, ג'ובה, جوبا, 주바
 
 ---

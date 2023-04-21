@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°39'16.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°2'44.36" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°48'9.28" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°3'46.90" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°49'54.07" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'8.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|16°23'4.77" |Aries|Butain|Sun|
+|♄ Saturn|Direct|4°39'16.25" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°2'44.11" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°48'7.96" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°3'45.55" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°49'51.93" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'6.10" |Aries|Butain|Sun|
+|☾ Moon|Direct|16°11'33.60" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'17.86" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'44.36" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°48'9.28" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°3'46.90" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°49'54.07" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'8.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°23'4.77" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'44.11" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°48'7.96" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°3'45.55" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°49'51.93" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'6.10" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|16°11'33.60" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Ciudad Santa Cruz,  Ciudad de Santa Cruz de la Sierra,  SRZ,  Santa Cruz,  Santa Cruz da Serra,  Santa Cruz de la Sierra,  Santa-Krus-de-la-Sierra,  Santa-Kruzo,  santakurusu,  Санта-Крус-де-ла-Сиерра,  سانتا کروز دلاسیه
+Alternate Names: Ciudad Santa Cruz, Ciudad de Santa Cruz de la Sierra, SRZ, Santa Cruz, Santa Cruz da Serra, Santa Cruz de la Sierra, Santa-Krus-de-la-Sierra, santakurusu, Санта-Крус-де-ла-Сиерра, سانتا کروز دلاسیه‌را, サンタクルス
 
 ---

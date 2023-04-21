@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'54.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°10'16.67" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°4'51.46" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°34'29.10" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°25'42.15" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'22.15" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°16'37.40" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°10'17.14" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°4'53.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°34'31.67" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°25'46.17" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'27.14" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°39'54.85" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'54.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°10'16.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°4'51.46" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°34'29.10" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°25'42.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'22.15" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°16'37.40" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°10'17.14" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°4'53.92" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°34'31.67" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°25'46.17" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'14.06" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°42'40.78" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Batavia,  Big Durian,  Cakarta,  D'akarta,  Daerah Khusus Ibukota Jakarta,  Djakarta,  Djogkarta,  Dki Jakarta,  Dzakarta,  Dzhakarta,  Dzhakartae,  Dżakarta,  Džakarta,  Gakarto,  Giacarta,  Iacarta,  Iacárta,  JKT,  Jacarta,  Jakarta,  Jayakarta,  Jogkarta,  Nga-ka-that Su-tu Thit-khi,  Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî,  Sakata,  Sunda Kelapa,  Tzakarta,  Xacarta,  Xhakarta,  Yajgyadaz,  Yakarta,  Zhakarta,  cakarta,  g'qrth,  jakaleuta,  jakarata,  jakarta,  jakartta,  jakaruta,  jkarta,  ya jia da,  ye jia da,  Ĝakarto,  Τζακάρτα,  Џакарта,  Джакартæ,  Джакарта,  Дьакарта,  Жакарта,  Ջակարտա,  ג'קרטה,  דזשאקארטא,  جاكارتا,  جاکارتا,  جکارتا,  جکارتہ,  जकार्ता,  জাকার্তা,  ਜਕਾਰਤਾ,  જાકાર્તા,  ଜାକର୍ତା,  ஜகார்த்தா,  జకార్తా,  ಜಕಾರ್ತ,  ജക്കാർത്ത,  จาการ์ตา,  ཊ་ཁར་ཏ།,  ဂျကာတာမြို့,  ჯაკარტა,  ጃካርታ,  ចាការតា,  ジャカルタ,  耶加達,  雅加达,  雅加達,  자카르타
+Alternate Names: Batavia, Big Durian, Cakarta, D'akarta, Daerah Khusus Ibukota Jakarta, Djakarta, Djogkarta, Dki Jakarta, Dzakarta, Dzhakarta, Dzhakartae, Dżakarta, Džakarta, Gakarto, Giacarta, Iacarta, Iacárta, JKT, Jacarta, Jakarta, Jayakarta, Jogkarta, Nga-ka-that Su-tu Thit-khi, Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî, Sunda Kelapa, Tzakarta, Xacarta, Xhakarta, Yajgyadaz, Yakarta, Zhakarta, cakarta, g'qrth, jakaleuta, jakarata, jakarta, jakartta, jakaruta, jkarta, ya jia da, Ĝakarto, Τζακάρτα, Џакарта, Джакартæ, Джакарта, Дьакарта, Жакарта, Ջակարտա, ג'קרטה, דזשאקארטא, جاكارتا, جاکارتا, جکارتا, جکارتہ, जकार्ता, জাকার্তা, ਜਕਾਰਤਾ, જાકાર્તા, ଜାକର୍ତା, ஜகார்த்தா, జకార్తా, ಜಕಾರ್ತ, ജക്കാർത്ത, จาการ์ตา, ཊ་ཁར་ཏ།, ဂျကာတာမြို့, ჯაკარტა, ጃካርታ, ចាការតា, ジャカルタ, 雅加达, 자카르타
 
 ---

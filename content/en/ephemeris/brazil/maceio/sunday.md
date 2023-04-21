@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'50.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°30'25.36" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°50'2.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°56'23.64" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°1'36.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°26'9.44" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°39'34.47" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°30'25.27" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°50'2.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°56'23.19" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°1'35.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°26'8.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°33'20.56" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°48'50.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°30'25.36" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°50'2.79" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°56'23.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°1'36.75" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°26'9.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°39'34.47" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°48'50.82" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°30'25.27" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°50'2.10" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°56'23.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°1'35.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°26'8.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°33'20.56" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MCZ,  Macayo,  Maceio,  Maceió,  Masejas,  Masejo,  Maseyo,  Maçayó,  ma sai yue,  ma se xo,  masayw,  mase'i'o,  maseio,  masyyw,  msyyʼw,  Масейо,  Масејо,  מסייאו,  ماسئیو,  ماسايو,  মাসেইও,  มาเซโอ,  მასეიო,  マセイオ,  马塞约,  마세이오
+Alternate Names: MCZ, Macayo, Maceio, Maceió, Masejas, Masejo, Maseyo, Maçayó, ma sai yue, ma se xo, masayw, mase'i'o, maseio, masyyw, msyyʼw, Масейо, Масејо, מסייאו, ماسئیو, ماسايو, মাসেইও, มาเซโอ, მასეიო, マセイオ, 马塞约, 마세이오
 
 ---

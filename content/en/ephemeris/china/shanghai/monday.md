@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'27.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°38'6.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°7'21.32" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°27'37.96" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°38'9.70" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'17.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°1'13.99" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°38'6.70" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°7'21.65" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°27'39.19" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°38'10.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'19.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°7'36.55" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'27.62" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°38'6.70" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°7'21.32" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°27'37.96" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°38'9.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'17.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°1'13.99" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|15°7'21.65" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°27'39.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°38'10.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'19.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°7'36.55" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SHA,  San'nkae,  Sanchajus,  Sangaj,  Sangay,  Sanghaj,  Sanghay,  Sanhaja,  Sanhajo,  Sanxay,  Schanghai,  Shang-hai,  Shang-hai-shih,  Shangai,  Shangaj,  Shanghai,  Shanghai - shang hai,  Shanghai - 上海,  Shankhaj,  Sjanghae,  Sjanghai,  Sjanghæ,  Szanghaj,  Thuong Hai,  Thượng Hải,  Xangai,  cankay,  sangha'i,  sanghae,  sanghai,  seiynghi,  shang hai,  shang hai shi,  shanghay,  shanghhay,  shanhai,  zhong guo shang hai,  Ŝanhajo,  Şangay,  Şanghay,  Şanxay,  Šanchajus,  Šangaj,  Šanghaj,  Šanhaja,  Σανγκάη,  Шангај,  Шанхай,  שאנגחאי,  شانغهاي,  شانگهای,  شاڭخەي,  شاڭخەي شەھىرى,  সাংঘাই,  சாங்காய்,  เซี่ยงไฮ้,  შანჰაი,  上海,  上海市,  中国上海,  상하이,  상해
+Alternate Names: SHA, San'nkae, Sanchajus, Sangaj, Sangay, Sanghaj, Sanghay, Sanhaja, Sanhajo, Sanxay, Schanghai, Shang-hai, Shang-hai-shih, Shangai, Shangaj, Shanghai, Shanghai - shang hai, Shanghai - 上海, Shankhaj, Sjanghae, Sjanghai, Sjanghæ, Szanghaj, Thuong Hai, Thượng Hải, Xangai, cankay, sangha'i, sanghae, sanghai, seiynghi, shang hai, shang hai shi, shanghay, shanghhay, shanhai, zhong guo shang hai, Ŝanhajo, Şangay, Şanghay, Şanxay, Šanchajus, Šangaj, Šanghaj, Šanhaja, Σανγκάη, Шангај, Шанхай, שאנגחאי, شانغهاي, شانگهای, شاڭخەي, شاڭخەي شەھىرى, সাংঘাই, சாங்காய், เซี่ยงไฮ้, შანჰაი, 上海, 上海市, 中国上海, 상하이, 상해
 
 ---

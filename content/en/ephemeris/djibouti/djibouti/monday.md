@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|3°41'16.60" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°54'4.78" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°15'59.37" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°6'44.13" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|22°9'55.98" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -332,10 +332,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'35.57" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°41'27.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°14'51.49" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°41'1.38" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°53'54.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'35.77" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°14'53.65" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°41'16.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°54'4.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'59.37" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|22°9'55.98" |Gemini|Dhira|Sun|
 
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Byen Djibouti,  Cibuti,  Dinas Jibwti,  Diobuiti,  Diobúití,  Djiboeti,  Djibouti,  Djibouti Chhi,  Djibouti Chhī,  Djibuti,  Dschibuti,  Dzhibuti,  Dzhybuci,  Dzibuti,  Dzibutis,  Dzjibuty,  Dzjibûty,  Dzsibuti,  Dżibuti,  Džibuti,  Džibutis,  Džíbútí,  Gibuti,  Gibuto,  Gibutum,  Ilu Djibouti,  JIB,  Jabuuti,  Jiboti,  Jibouti,  Jibuti,  Lungsod ng Djibouti,  Mbanza ya Djibuti,  Sita Jibouti,  Syudad han Djibouti,  Tzimpouti,  Xibuti,  Xibutí,  Yibuti,  Zhibuti shaary,  ci buti,  ciputti,  dzsybwty,  gybwty,  jbwty,  jbwty ʿlaqہ,  ji bu de shi,  ji bu ti cheng,  jibuchi shi,  jibuti,  jybwty,  jybwwty,  Ìlú Djibouti,  Ĝibuto,  Τζιμπουτί,  Џибути,  Джибути,  Джибуті,  Джыбуці,  Жибути шаары,  Ҷибути,  Ջիբութի,  גיבוטי,  דזשיבוטי,  جبوتی,  جبوتی علاقہ,  جيبوتي,  جیبوتی,  جیبووتی,  जिबूती,  জিবুতি,  ਜਿਬੂਤੀ,  சீபூத்தீ,  จิบูตี,  ཇི་བའོ་ཊི།,  ჯიბუტი,  ジブチ市,  吉布地市,  吉布提城,  지부티
+Alternate Names: Byen Djibouti, Cibuti, Dinas Jibwti, Diobuiti, Diobúití, Djiboeti, Djibouti, Djibouti Chhi, Djibouti Chhī, Djibuti, Dschibuti, Dzhibuti, Dzhybuci, Dzibuti, Dzibutis, Dzjibuty, Dzjibûty, Dzsibuti, Dżibuti, Džibuti, Džibutis, Džíbútí, Gibuti, Gibuto, Gibutum, Ilu Djibouti, JIB, Jabuuti, Jiboti, Jibouti, Jibuti, Lungsod ng Djibouti, Mbanza ya Djibuti, Sita Jibouti, Syudad han Djibouti, Tzimpouti, Xibuti, Xibutí, Yibuti, Zhibuti shaary, ci buti, ciputti, dzsybwty, gybwty, jbwty, jbwty ʿlaqہ, ji bu de shi, ji bu ti cheng, jibuchi shi, jibuti, jybwty, jybwwty, Ìlú Djibouti, Ĝibuto, Τζιμπουτί, Џибути, Джибути, Джибуті, Джыбуці, Жибути шаары, Ҷибути, Ջիբութի, גיבוטי, דזשיבוטי, جبوتی, جبوتی علاقہ, جيبوتي, جیبوتی, جیبووتی, जिबूती, জিবুতি, ਜਿਬੂਤੀ, சீபூத்தீ, จิบูตี, ཇི་བའོ་ཊི།, ჯიბუტი, ジブチ市, 吉布地市, 吉布提城, 지부티
 
 ---

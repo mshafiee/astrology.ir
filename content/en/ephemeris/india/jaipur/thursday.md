@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°32'6.23" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°42'23.29" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°2'44.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°41'9.72" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°12'35.10" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'46.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°47'29.93" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°41'9.85" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°12'45.17" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'6.32" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°21'6.24" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'6.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'23.29" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°2'44.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°40'55.81" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°12'35.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'46.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°47'29.93" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°42'23.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°2'45.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°41'9.85" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°12'45.17" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'6.32" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°21'6.24" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Caypur,  Dzaipur,  Dzaipuras,  Dzajpur,  Dzajpura,  Dzhajpur,  Dzsaipur,  Dźajpur,  Džaipur,  Džaipuras,  Džajpur,  Džajpura,  Gajpuro,  Iaipura,  JAI,  Jainagar,  Jaipur,  Jaipur City,  Jayapur,  Jaypur,  Jeypore,  Tzaipour,  Zhajpur,  ceyppur,  chay pu ra,  gʼypwr,  jaipuleu,  jaipura,  jaipuru,  jayapura,  jayapuram,  jaybwr,  jaypwr,  jypwr,  zhai pu er,  zhai pu ya,  Ĝajpuro,  Τζαϊπούρ,  Џајпур,  Джайпур,  Жайпур,  Ջայպուր,  גאיפור,  جايبور,  جایپور,  جيپور,  جے پور,  जयपुर,  जयपुरम्,  जयपूर,  জয়পুর,  জয়পুৰ,  ਜੈਪੁਰ,  જયપુર,  ଜୟପୁର,  செய்ப்பூர்,  ജയ്
+Alternate Names: Caypur, Dzaipur, Dzaipuras, Dzajpur, Dzajpura, Dzhajpur, Dzsaipur, Dźajpur, Džaipur, Džaipuras, Džajpur, Džajpura, Gajpuro, Iaipura, JAI, Jainagar, Jaipur, Jaipur City, Jayapur, Jaypur, Jeypore, Tzaipour, Zhajpur, ceyppur, chay pu ra, gʼypwr, jaipuleu, jaipura, jaipuru, jayapura, jayapuram, jaybwr, jaypwr, jypwr, zhai pu er, zhai pu ya, Ĝajpuro, Τζαϊπούρ, Џајпур, Джайпур, Жайпур, Ջայպուր, גאיפור, جايبور, جایپور, جيپور, جے پور, जयपुर, जयपुरम्, जयपूर, জয়পুর, জয়পুৰ, ਜੈਪੁਰ, જયપુર, ଜୟପୁର, செய்ப்பூர், ജയ്‌പൂർ, ชัยปุระ, ჯაიპური, ジャイプル, 齋浦爾, 齋葡亞, 자이푸르
 
 ---

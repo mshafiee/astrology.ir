@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°24'32.67" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°36'50.85" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°32'29.24" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°33'28.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'55.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°7'23.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°33'39.21" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'14.92" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°22'57.94" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'50.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'30.58" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°36'46.99" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°32'17.22" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°33'28.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'55.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°7'23.27" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'32.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°36'50.85" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°32'29.24" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°33'28.16" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'50.86" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°58'14.51" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Cathair Ho Chi Minh,  Cidade de Ho Chi Minh,  Ciudad Ho Chi Minh,  Gia GJinh,  Gia Định,  HCMC,  HCMV,  Ho Chi Minh,  Ho Chi Minh City,  Ho Chi Minh Ville,  Ho Chi Minh-borg,  Ho Chi Minh-byen,  Ho Chi Minh-staden,  Ho Chi Minhin kaupunki,  Ho Chi Minhstad,  Ho Ci Minovo Mesto,  Ho Si Minh-varos,  Ho Si Minh-város,  Ho Či Minovo Město,  Ho-Chi-Minh-Stadt,  Ho-Chi-Minh-Ville,  Ho-Ci-Min-urbo,  Ho-Ĉi-Min-urbo,  Hociminovo Mesto,  Hosimina,  Hosiminh,  Hočiminovo Mesto,  Hošimina,  Hošiminh,  Hô Chi Minh Ville,  Hô-Chi-Minh-Ville,  Hồ Chí Minhin kaupunki,  Khoshimin,  Kota Ho Chi Minh,  Kota Hồ Chí Minh,  SGN,  Sai Gon,  Saigon,  Saïgon,  Sài Gòn,  TPHCM,  Thanh pho Ho Chi Minh,  Thành phố Hồ Chí Minh,  hochimin,  hochimin shi,  hojjimin,  hu zhi ming shi,  hw z'y myn syty,  mdynt hw tshy mynh,  saigon,  saygwn,  Хошимин,  הו צ'י מין סיטי,  سايگون,  مدينة هو تشي مينه,  サイゴン,  ホーチミン,  ホーチミン市,  胡志明市,  호찌민,  호치민
+Alternate Names: Cathair Ho Chi Minh, Cidade de Ho Chi Minh, Ciudad Ho Chi Minh, HCMC, HCMV, Ho Chi Minh, Ho Chi Minh City, Ho Chi Minh Ville, Ho Chi Minh-borg, Ho Chi Minh-byen, Ho Chi Minhin kaupunki, Ho Chi Minhstad, Ho Ci Minovo Mesto, Ho Si Minh-varos, Ho Si Minh-város, Ho Či Minovo Město, Ho-Chi-Minh-Stadt, Ho-Chi-Minh-Ville, Ho-Ci-Min-urbo, Ho-Ĉi-Min-urbo, Hociminovo Mesto, Hosimina, Hosiminh, Hočiminovo Mesto, Hošimina, Hošiminh, Hô Chi Minh Ville, Hô-Chi-Minh-Ville, Hồ Chí Minhin kaupunki, Khoshimin, Kota Ho Chi Minh, Kota Hồ Chí Minh, SGN, Sai Gon, Saigon, Saïgon, Sài Gòn, TPHCM, Thanh pho Ho Chi Minh, Thành phố Hồ Chí Minh, hochimin, hochimin shi, hojjimin, hu zhi ming shi, hw z'y myn syty, mdynt hw tshy mynh, saigon, saygwn, Хошимин, הו צ'י מין סיטי, سايگون, مدينة هو تشي مينه, サイゴン, ホーチミン, ホーチミン市, 胡志明市, 호찌민, 호치민
 
 ---

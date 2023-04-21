@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'33.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'16.77" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°48'23.28" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°41'34.48" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°4'29.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'34.56" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°36'27.41" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°56'16.93" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°48'20.11" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°41'35.27" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°4'25.80" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'34.24" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°7'50.04" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'33.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°56'16.35" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°48'18.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°41'31.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°4'21.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'27.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°45'3.62" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°56'16.93" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°48'20.11" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°41'35.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°4'25.80" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'34.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°7'50.04" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BEG,  Belehrad,  Belgrad,  Belgrada,  Belgradas,  Belgrade,  Belgrado,  Belgradu,  Belgrau,  Belgrað,  Belgrád,  Belgráu,  Beligradi,  Belogradum,  Belohrod,  Beograd,  Beogradi,  Beogrado,  Bèlgrade,  Bělehrad,  Běłohród,  Nandorfehervar,  Nándorfehérvár,  Singidunum,  be-ogeuladeu,  bei er ge lai de,  belgradi,  beogurado,  blghrad,  blgrd,  pelkiret,  Βελιγράδι,  Белград,  Београд,  Бѣлъ Градъ · Срьбїи,  Բելգրադ,  בלגרד,  بلغراد,  بېلگراد,  பெல்கிறேட்,  ბელგრადი,  በልግራድ,  ベオグラード,  贝尔格莱德,  베오그라드
+Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드
 
 ---

@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|4°37'17.28" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°59'28.50" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|14°59'5.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°46'41.72" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|3°42'55.60" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'12.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'13.66" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'2.32" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°37'18.22" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°59'28.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'7.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°11'14.38" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'13.42" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°45'59.50" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°37'16.82" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°59'27.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°59'4.36" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°42'55.60" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Heredi,  Karadj,  Karadje,  Karadsch,  Karadz,  Karadzs,  Karadż,  Karadž,  Karago,  Karaj,  Karatz,  Karaĝo,  Karej,  Kerec,  Keredi,  Keredzas,  Keredzh,  Keredžas,  Kerezh,  Kərəc,  Leredi,  PYK,  QKC,  Qasabeh-e Karaj,  Qaşabeh-e Karaj,  ka la ji,  kairaija,  kalaji,  karaj,  karaji,  kha rac,  krj,  kyaraji,  qasabihi karaj,  Καράτζ,  Карай,  Караџ,  Караҷ,  Кередж,  Кереж,  כאראג,  قَصَبِهِ كَرَج,  كرج,  کرج,  کەرەج,  कैरैज,  கராஜ்,  คาราจ,  ქარაჯი,  キャラジ,  卡拉季,  카라지
+Alternate Names: Heredi, Karadj, Karadje, Karadsch, Karadz, Karadzs, Karadż, Karadž, Karag, Karaj, Karatz, Karaĝ, Karej, Kerec, Keredi, Keredzas, Keredzh, Keredžas, Kerezh, Kərəc, Leredi, PYK, QKC, Qasabeh-e Karaj, Qaşabeh-e Karaj, ka la ji, kairaija, kalaji, karaj, karaji, kha rac, krj, kyaraji, qasabihi karaj, Καράτζ, Карай, Караџ, Караҷ, Кередж, Кереж, כאראג, قَصَبِهِ كَرَج, كرج, کرج, کەرەج, कैरैज, கராஜ், คาราจ, ქარაჯი, キャラジ, 卡拉季, 카라지
 
 ---

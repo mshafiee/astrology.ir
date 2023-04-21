@@ -294,9 +294,9 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°49'14.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°31'35.29" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°52'40.27" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°1'7.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°7'9.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°25'12.17" |Aries|Butain|Sun|
+|☉ Sun|Direct|3°0'51.87" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°6'59.26" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'48.29" |Aries|Butain|Sun|
 |☾ Moon|Direct|13°35'53.82" |Taurus|Dabaran|Moon|
 
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'14.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'35.29" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°52'40.27" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°1'7.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°7'9.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°25'12.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°35'53.82" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°31'32.58" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°52'38.75" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°0'51.87" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°6'59.26" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'48.29" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°23'13.76" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Venus|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BRM,  Barkisimeta,  Barkisimetas,  Barkisimeto,  Barquisimeto,  Barquisimetum,  Barquisimito,  ba ji xi mei tuo,  baleukisimeto,  barkysymtw,  barukishimeto,  brqysymtw,  Баркисимето,  Баркісімета,  Баркісімето,  ברקיסימטו,  بارکیسیمتو,  ბარკისიმეტო,  バルキシメト,  巴基西梅托,  바르키시메토
+Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토
 
 ---

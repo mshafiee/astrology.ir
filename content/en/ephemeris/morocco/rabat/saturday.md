@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°43'19.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°14'24.86" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°14'15.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°51'15.34" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°45'31.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'1.70" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°50'17.92" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°43'20.99" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°14'25.84" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°14'11.30" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°51'21.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°45'31.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'8.23" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°6'31.86" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: RBA,  Raba,  Rabat,  Rabata,  Rabatas,  Rabato,  Rabatum,  Rabot,  Rabāt,  Rabāta,  Rampat,  Rbat,  Rbaṭ,  alrbat,  la ba,  la ba te,  labateu,  raba t,  rabat,  rabata,  rabato,  rabota,  rapat,  rbat,  Ραμπάτ,  Рабат,  Ռաբատ,  ראבאט,  רבאט,  الرباط,  رابات,  ربات,  رباط,  ڕەبات,  रबाट,  रबात,  রাবাত,  ਰਬਾਤ,  ରବୋଟ,  ரபாத்,  ราบัต,  ར་བ་ཐ།,  ར་བ་ཐེ།,  რაბატი,  ራባት,  ラバト,  剌八,  拉巴特,  라바트
+Alternate Names: RBA, Raba, Rabat, Rabata, Rabatas, Rabato, Rabatum, Rabot, Rabāt, Rabāta, Rampat, Rbat, Rbaṭ, alrbat, la ba, la ba te, labateu, raba t, rabat, rabata, rabato, rabota, rapat, rbat, Ραμπάτ, Рабат, Ռաբատ, ראבאט, רבאט, الرباط, رابات, ربات, رباط, ڕەبات, रबाट, रबात, রাবাত, ਰਬਾਤ, ରବୋଟ, ரபாத், ราบัต, ར་བ་ཐ།, ར་བ་ཐེ།, რაბატი, ራባት, ラバト, 剌八, 拉巴特, 라바트
 
 ---

@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°12'18.57" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°9'26.46" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°42'44.11" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°35'14.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'28.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°44'15.20" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°35'25.06" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'48.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°7'29.33" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: OMH,  Orumiyeh,  Orūmīyeh,  Ourmia,  Reza'iyeh,  Rezaeyeh,  Rezaiyye,  Rezâiyye,  Rezā’īyeh,  Rizaiyeh,  Rizāiyeh,  Urmia,  Urmija,  Urmiya,  Urmiye,  Urmía,  Urumija,  Urumiyeh,  Urūmiyeh,  arwmyh,  arwmyt,  shhrstan arwmyh,  Úrmia,  Ûrmiye,  Урмия,  Урумия,  אורמיה,  أرومية,  ارومیه,  ارومیّه,  شهرستان ارومیه,  ܐܘܪܡܝܐ
+Alternate Names: OMH, Orumiyeh, Orūmīyeh, Ourmia, Reza'iyeh, Rezaeyeh, Rezaiyye, Rezâiyye, Rezā’īyeh, Rizaiyeh, Rizāiyeh, Urmia, Urmija, Urmiya, Urmiye, Urmía, Urumija, Urumiyeh, Urūmiyeh, arwmyh, arwmyt, shhrstan arwmyh, Úrmia, Ûrmiye, Урмия, Урумия, אורמיה, أرومية, ارومیه, ارومیّه, شهرستان ارومیه, ܐܘܪܡܝܐ
 
 ---

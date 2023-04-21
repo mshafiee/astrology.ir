@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'27.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'57.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°47'39.30" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°40'15.81" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°2'53.63" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'3.57" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°0'45.92" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°55'56.68" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°47'38.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°40'12.10" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°2'54.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'58.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°15'26.24" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: ASM,  Asmar,  Asmara,  Asmaro,  Asmehra,  Asmera,  Aszmara,  a si ma la,  asamara,  aseumala,  asmara,  asmera,  asmrh,  asmrt,  asumara,  yەsmەrە,  Əsməra,  Ασμάρα,  Асмара,  Асмэра,  Асмєра,  Ասմարա,  אסמרה,  أسمرة,  ئەسمەرە,  اسمارا,  اسمره,  अस्मारा,  ਅਸਮਾਰਾ,  அஸ்மாரா,  അസ്മാറ,  แอสมารา,  ཨཱ་སི་མི་ར།,  ასმერა,  አስመራ,  ኣስመራ,  アスマラ,  阿斯馬拉,  아스마라
+Alternate Names: ASM, Asmar, Asmara, Asmaro, Asmehra, Asmera, Aszmara, a si ma la, asamara, aseumala, asmara, asmera, asmrh, asmrt, asumara, yەsmەrە, Əsməra, Ασμάρα, Асмара, Асмэра, Асмєра, Ասմարա, אסמרה, أسمرة, ئەسمەرە, اسمارا, اسمره, अस्मारा, ਅਸਮਾਰਾ, அஸ்மாரா, അസ്മാറ, แอสมารา, ཨཱ་སི་མི་ར།, ასმერა, አስመራ, ኣስመራ, アスマラ, 阿斯馬拉, 아스마라
 
 ---

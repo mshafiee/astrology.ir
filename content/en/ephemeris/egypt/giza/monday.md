@@ -20,7 +20,7 @@ Latitude: 30.0094
 \-
 Longitude: 31.2086
 \-
-Altitude: 19 meters
+Altitude: 26 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Giza, Egypt" lat="30.0094" lng="31.2086" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:03:20 |
-| Sunrise | 05:19:11 |
+| Sunrise | 05:19:12 |
 | Dhuhr | 11:53:22 |
 | Medium Coeli | 11:53:22 |
 | Sunset | 18:27:59 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:54:35 |
-| Sunrise | 05:19:11 |
+| Sunrise | 05:19:12 |
 | Dhuhr | 11:53:22 |
 | Medium Coeli | 11:53:22 |
 | Sunset | 18:27:59 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:53:01 |
-| Sunrise | 05:19:11 |
+| Sunrise | 05:19:12 |
 | Dhuhr | 11:53:22 |
 | Medium Coeli | 11:53:22 |
 | Sunset | 18:27:59 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:08:26 |
-| Sunrise | 05:19:11 |
+| Sunrise | 05:19:12 |
 | Dhuhr | 11:53:22 |
 | Medium Coeli | 11:53:22 |
 | Sunset | 18:27:59 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:45:11 |
-| Sunrise | 05:19:11 |
+| Sunrise | 05:19:12 |
 | Dhuhr | 11:53:22 |
 | Medium Coeli | 11:53:22 |
 | Sunset | 18:27:59 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:53:01 |
-| Sunrise | 05:19:11 |
+| Sunrise | 05:19:12 |
 | Dhuhr | 11:53:22 |
 | Medium Coeli | 11:53:22 |
 | Sunset | 18:27:59 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 03:50:25 |
-| Sunrise | 05:19:11 |
+| Sunrise | 05:19:12 |
 | Dhuhr | 11:53:22 |
 | Medium Coeli | 11:53:22 |
 | Sunset | 18:27:59 |
@@ -204,13 +204,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:08:48|Night duration: 10:50:13|
+|Duration of the day: 13:08:47|Night duration: 10:50:13|
 |Every hour of day duration: 01:05:44|Every hour of night duration: 00:54:11|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:19:11|06:24:54|Repelling sorcery and attracting discharged energy|
+|1|Moon|Ruler|05:19:12|06:24:54|Repelling sorcery and attracting discharged energy|
 |2|Saturn|Servant|06:24:55|07:30:38|Traveling inward and outward|
 |3|Jupiter|Servant|07:30:39|08:36:22|Marriage bond is favorable|
 |4|Mars|Servant|08:36:23|09:42:06|Eliminating and destroying enemies and releasing their energy|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:08:48|Night duration: 10:50:13|
+|Duration of the day: 13:08:47|Night duration: 10:50:13|
 |Every hour duration: 01:52:41|Every hour duration: 01:32:53|
 
  
@@ -258,13 +258,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|05:19:11|07:11:51|
-|Mid-morning|Saturn|Servant|07:11:52|09:04:32|
-|Late morning|Jupiter|Servant|09:04:33|10:57:13|
-|Noon|Mars|Servant|10:57:14|12:49:54|
-|Early afternoon|Sun|Servant|12:49:55|14:42:35|
-|Mid-afternoon|Venus|Servant|14:42:36|16:35:16|
-|Late afternoon|Mercury|Servant|16:35:17|18:27:58|
+|Early morning|Moon|Ruler|05:19:12|07:11:52|
+|Mid-morning|Saturn|Servant|07:11:53|09:04:33|
+|Late morning|Jupiter|Servant|09:04:34|10:57:14|
+|Noon|Mars|Servant|10:57:15|12:49:55|
+|Early afternoon|Sun|Servant|12:49:56|14:42:36|
+|Mid-afternoon|Venus|Servant|14:42:37|16:35:17|
+|Late afternoon|Mercury|Servant|16:35:18|18:27:58|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'41.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°41'43.82" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°15'30.90" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°42'17.47" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°55'24.41" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'33.39" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°33'49.23" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°41'43.83" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°15'30.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°42'22.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°55'10.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'18.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°58'47.99" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'41.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'43.82" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°15'30.90" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°42'22.49" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°55'22.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'38.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°16'20.75" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'41.80" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°15'25.74" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°42'10.64" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°55'10.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'18.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°58'47.99" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Al Jizah,  Al Jīzah,  El Gizeh,  El-Giza,  El-Gîza,  Ghizeh,  Giza,  Gizah,  Gize,  Gizeh,  Gizo,  Gizé,  Guiza,  Gíza,  Gîza,  SPX,  aljyzt,  giza,  jyzh,  Гиза,  الجيزة,  جیزه,  ギーザ
+Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ
 
 ---

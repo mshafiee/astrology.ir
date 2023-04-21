@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'37.10" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°59'26.92" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°55'32.74" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°54'29.97" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°19'31.04" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°53'4.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°2'39.79" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°59'24.57" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°55'27.19" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°54'16.14" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°19'17.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°52'45.34" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°17'31.36" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°58'37.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°59'26.50" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°55'30.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°54'27.52" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°19'26.74" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°53'4.21" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°2'39.79" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°58'37.10" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°59'24.57" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°55'27.19" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°54'16.14" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°19'17.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°52'45.34" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°17'31.36" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Maranham,  Maranhao,  Maranhão,  SLZ,  San Luisas,  San-Luis,  Sao Louis,  Sao Luis,  Sao Luis do Maranhao,  Sao Luiz,  Sao Luiz de Maranhao,  Sao Luiz do Maranhao,  Saun Luis,  Saun Luís,  São Luis,  São Luiz,  São Luiz de Maranhão,  São Luiz do Maranhão,  São Luís,  São Luís do Maranhão,  cavo luyicu,  sa'o lu'isa,  san-luisi,  sanglu-iseu,  saw lwyys,  saw lwyz,  sayw lwyys  maranhaw,  sheng lu yi si,  Σάο Λουίς,  Сан-Луис,  Сан-Луіс,  Сан-Луїс,  Сао Луис,  סאו לואיס,  ساؤ لوئیس,  ساؤ لوئیس، مارانہاؤ,  سائو لوئیس، مارانهاو,  ساو لويز,  साओ लुईस,  সাও লুইস,  சாவோ லூயிசு,  სან-ლუისი,  サン・ルイス,  圣路易斯,  상루이스
+Alternate Names: Maranham, Maranhao, Maranhão, SLZ, San Luisas, San-Luis, Sao Louis, Sao Luis, Sao Luis do Maranhao, Sao Luiz, Sao Luiz de Maranhao, Sao Luiz do Maranhao, Saun Luis, Saun Luís, São Luis, São Luiz, São Luiz de Maranhão, São Luiz do Maranhão, São Luís, São Luís do Maranhão, cavo luyicu, sa'o lu'isa, san-luisi, sanglu-iseu, saw lwyys, saw lwyz, sayw lwyys  maranhaw, sheng lu yi si, Σάο Λουίς, Сан-Луис, Сан-Луіс, Сан-Луїс, Сао Луис, סאו לואיס, ساؤ لوئیس, ساؤ لوئیس، مارانہاؤ, سائو لوئیس، مارانهاو, ساو لويز, साओ लुईस, সাও লুইস, சாவோ லூயிசு, სან-ლუისი, サン・ルイス, 圣路易斯, 상루이스
 
 ---

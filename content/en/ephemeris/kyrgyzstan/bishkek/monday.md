@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'1.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°39'48.47" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°11'13.78" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°34'32.90" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°46'17.46" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°17'38.58" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°54'8.54" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°39'48.30" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°11'10.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°34'32.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°46'13.82" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°17'35.82" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°29'15.45" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'1.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°39'48.30" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°11'10.92" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°34'32.04" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°46'13.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°17'35.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°29'15.45" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°39'48.86" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°11'13.06" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°34'35.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°46'17.88" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°17'41.56" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°55'20.95" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bichkek,  Biscecum,  Bischkek,  Bishkek,  Bishkek osh,  Bisjkek,  Biskek,  Biskeka,  Biskekas,  Biskeko,  Biskekʻ,  Bisqeq,  Bisqueque,  Biszkek,  Bixkek,  Biŝkeko,  Bişkek,  Bişqeq,  Biškek,  Biškeka,  Biškekas,  Bișkek,  Bîşkek,  FRU,  Frunze,  Mpiskek,  Pishkek,  Pishpek,  bi shen kai ke,  bichkhek,  bisakeka,  bishukeku,  biskek,  biskeka,  biskekk,  bisyukekeu,  bshkyk,  byshkk,  byshkyk,  bysqq,  picukkek,  Μπισκέκ,  Бишкек,  Бишкек ош,  Бішкек,  Բիշկեք,  בישקעק,  בישקק,  بشکیک,  بيشكك,  بيشكيك,  بيشکک,  بیشکک,  بیشکێک,  बिश्केक,  বিশকেক,  ਬਿਸ਼ਕੇਕ,  பிசுக்கெக்,  ಬಿಷ್ಕೆಕ್,  ബിഷ്കെക്ക്,  บิชเคก,  པི་སི་ཁེག,  ბიშკეკი,  ቢሽኬክ,  ビシュケク,  比什凯克,  비슈케크
+Alternate Names: Bichkek, Biscecum, Bischkek, Bishkek, Bishkek osh, Bisjkek, Biskek, Biskeka, Biskekas, Biskeko, Biskekʻ, Bisqeq, Bisqueque, Biszkek, Bixkek, Biŝkeko, Bişkek, Bişqeq, Biškek, Biškeka, Biškekas, Bișkek, Bîşkek, FRU, Frunze, Mpiskek, Pishkek, Pishpek, bi shen kai ke, bichkhek, bisakeka, bishukeku, biskek, biskeka, biskekk, bisyukekeu, bshkyk, byshkk, byshkyk, bysqq, picukkek, Μπισκέκ, Бишкек, Бишкек ош, Бішкек, Բիշկեք, בישקעק, בישקק, بشکیک, بيشكك, بيشكيك, بيشکک, بیشکک, بیشکێک, बिश्केक, বিশকেক, ਬਿਸ਼ਕੇਕ, பிசுக்கெக், ಬಿಷ್ಕೆಕ್, ബിഷ്കെക്ക്, บิชเคก, པི་སི་ཁེག, ბიშკეკი, ቢሽኬክ, ビシュケク, 比什凯克, 비슈케크
 
 ---

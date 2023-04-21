@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'50.53" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°57'6.95" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°50'20.53" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°44'52.74" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°8'28.17" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'17.62" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°48'51.42" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°50'16.62" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°44'59.11" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°8'27.12" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'25.56" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°22'23.17" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: ALG,  Al Jazair,  Al-jezair,  Alcher,  Alge,  Algeirsborg,  Alger,  Algeri,  Algero,  Algier,  Algiers,  Algir,  Alg·èr,  Algê,  Algír,  Alje,  Aljer,  Aljir,  Alse,  Alxer,  Alzer,  Alzhir,  Alzhir khot,  Alzhir shaary,  Alzhyr,  Alziir,  Alzir,  Alzira,  Alzirs,  Alzyras,  Alĝero,  Alžiir,  Alžir,  Alžyras,  Alžír,  Alžěr,  Alžīra,  Alžīrs,  Argel,  Argier,  Argièr,  Arhel,  Arjel,  Arxel,  Caesair,  Cathair na hAilgeire,  Cathair na hAilgéire,  Cezayir,  Cäsair,  Icosium,  Jazoir,  Zzayer,  a er ji er,  ala-jaza'ira,  alajiyarsa,  alje,  alji'ersa,  aljiyars,  aljiyarsa,  aljyrz,  aljzayr,  aljzayr (mdynt),  aljzayr alʿasmt,  aljzyrh,  alzhiri,  aruje,  jەzayyr,  mdynt aljzayr,  yaljyr,  Əlcəzair,  ʼlgyr,  Αλγέρι,  Алжир,  Алжир хот,  Алжир шаары,  Алжыр,  Алҷазоир,  Ալժիր,  אלגיר,  אלזשירס,  ئالجىر,  الجزائر,  الجزائر (مدينة),  الجزائر العاصمة,  الجزائر شہر,  الجزيره,  الجزیره,  الجیرز,  جەزائیر,  مدينة الجزائر,  ܓܙܐܐܪ,  अल्जीएर्स,  अल्जीयर्स,  আলজিয়ার্স,  ਅਲ-ਜਜ਼ਾਇਰ,  அல்ஜியர்ஸ்,  അൾജിയേഴ്സ്,  แอลเจียร์,  ཨཱལ་ཇི་ཡར་སི།,  အယ်လဂျီးယားမြို့,  ალჟირი,  አልጀርስ,  アルジェ,  阿爾及爾,  알제
+Alternate Names: ALG, Al Jazair, Al-jezair, Alcher, Alge, Algeirsborg, Alger, Algeri, Algero, Algier, Algiers, Algir, Alg·èr, Algê, Algír, Alje, Aljer, Aljir, Alse, Alxer, Alzer, Alzhir, Alzhir khot, Alzhir shaary, Alzhyr, Alziir, Alzir, Alzira, Alzirs, Alzyras, Alĝero, Alžiir, Alžir, Alžyras, Alžír, Alžěr, Alžīra, Alžīrs, Argel, Argier, Argièr, Arhel, Arjel, Arxel, Caesair, Cathair na hAilgeire, Cathair na hAilgéire, Cezayir, Cäsair, Icosium, Jazoir, Zzayer, a er ji er, ala-jaza'ira, alajiyarsa, alje, alji'ersa, aljiyars, aljiyarsa, aljyrz, aljzayr, aljzayr (mdynt), aljzayr alʿasmt, aljzyrh, alzhiri, aruje, jەzayyr, mdynt aljzayr, yaljyr, Əlcəzair, ʼlgyr, Αλγέρι, Алжир, Алжир хот, Алжир шаары, Алжыр, Алҷазоир, Ալժիր, אלגיר, אלזשירס, ئالجىر, الجزائر, الجزائر (مدينة), الجزائر العاصمة, الجزائر شہر, الجزيره, الجزیره, الجیرز, جەزائیر, مدينة الجزائر, ܓܙܐܐܪ, अल्जीएर्स, अल्जीयर्स, আলজিয়ার্স, ਅਲ-ਜਜ਼ਾਇਰ, அல்ஜியர்ஸ், അൾജിയേഴ്സ്, แอลเจียร์, ཨཱལ་ཇི་ཡར་སི།, အယ်လဂျီးယားမြို့, ალჟირი, አልጀርስ, アルジェ, 阿爾及爾, 알제
 
 ---

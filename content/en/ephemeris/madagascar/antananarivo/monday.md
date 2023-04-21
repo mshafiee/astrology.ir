@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'37.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°41'34.42" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°15'8.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°41'45.09" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°54'34.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'49.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°5'37.56" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°41'34.35" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°15'7.87" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°41'44.72" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°54'36.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'53.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°11'29.54" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Antananarifo,  Antananarivo,  Antananarivu,  Antananariwo,  Antananaryvas,  Antananaryvu,  Antananarywa,  Antananarívó,  Antenenerivo,  TNR,  Tana,  Tananaribe,  Tananarive,  an ta na na li fu,  anatananaribho,  anrananarivea,  antananalibo,  antananaribho,  antananaribo,  antananarivho,  antananarivo,  antananaryfw,  antananaryww,  antʼananarivu,  atananarivo,  ta na na li fu,  xan ta nana ri wo,  Ανταναναρίβο,  Ταναναρίβη,  Антананариво,  Антананариву,  Антананарыву,  Антананаріву,  Тананариве,  Անտանանարիվու,  אנטאנאנאריווא,  אנטננריבו,  آنتاناناریوو,  أنتاناناريفو,  ئانتاناناریڤۆ,  انٹاناناریوو,  اینٹانانیریو,  अंतानानारिव्हो,  अन्टाननरीवो,  আনতানানারিভো,  আন্তানানারিভো,  ਅੰਤਾਨਾਨਾਰੀਵੋ,  அண்டனானரீவோ,  ആന്റനനറീവൊ,  อันตานานาริโว,  ཨེན་ཊ་ན་ན་རི་བོ།,  ანტანანარივუ,  አንታናናሪቮ,  アンタナナリボ,  塔那那利佛,  安塔那那利佛,  안타나나리보
+Alternate Names: Antananarifo, Antananarivo, Antananarivu, Antananariwo, Antananaryvas, Antananaryvu, Antananarywa, Antananarívó, TNR, Tana, Tananaribe, Tananarive, an ta na na li fu, anatananaribho, anrananarivea, antananalibo, antananaribho, antananaribo, antananarivho, antananarivo, antananaryfw, antananaryww, antʼananarivu, atananarivo, ta na na li fu, xan ta nana ri wo, Ανταναναρίβο, Ταναναρίβη, Антананариво, Антананариву, Антананарыву, Антананаріву, Тананариве, Անտանանարիվու, אנטאנאנאריווא, אנטננריבו, آنتاناناریوو, أنتاناناريفو, ئانتاناناریڤۆ, انٹاناناریوو, اینٹانانیریو, अंतानानारिव्हो, अन्टाननरीवो, আনতানানারিভো, আন্তানানারিভো, ਅੰਤਾਨਾਨਾਰੀਵੋ, அண்டனானரீவோ, ആന്റനനറീവൊ, อันตานานาริโว, ཨེན་ཊ་ན་ན་རི་བོ།, ანტანანარივუ, አንታናናሪቮ, アンタナナリボ, 塔那那利佛, 安塔那那利佛, 안타나나리보
 
 ---

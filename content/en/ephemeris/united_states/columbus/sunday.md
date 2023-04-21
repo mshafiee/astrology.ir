@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'18.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°31'46.38" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°53'5.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°1'51.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°8'2.66" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'57.57" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°29'56.96" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°31'46.36" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°53'5.75" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°1'51.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°8'2.36" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'57.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°28'2.81" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'18.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'44.24" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°53'5.03" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°1'39.33" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°8'2.66" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'57.57" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°33'54.96" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°31'46.36" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°53'5.75" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°1'51.85" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°8'2.36" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'57.30" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°28'2.81" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CMH,  Columbopolis,  Columbus,  Columbus i Ohio,  Franklin,  Franklinton,  Kalumbus,  Kolambus,  Kolompous,  Kolumbas,  Kolumbo,  Kolumbs,  Kolumbu,  Kolumbus,  Kolumbusa,  Kulumbus,  ge lun bu,  kalabasa,  kalambasa,  kholambas,  klmbws  awhayw,  kolambas,  kolambasa,  kolampas,  kolleombeoseu,  koronbasu,  kwlwmbws,  qwlwmbws,  Κολόμπους,  Калумбус,  Коламбус,  Колумбус,  Кълъмбъс,  Կոլումբուս,  קאלומבוס,  קולומבוס,  كولومبوس,  کلمبوس، اوهایو,  کولمبس، اوہائیو,  कोलंबस,  कोलम्बस,  कोलम्बस्,  কলম্বাস,  ਕਲੰਬਸ,  கொலம்பஸ்,  โคลัมบัส,  კოლუმბუსი,  コロンバス,  哥伦布,  哥倫布,  콜럼버스
+Alternate Names: CMH, Columbopolis, Columbus, Columbus i Ohio, Franklin, Franklinton, Kalumbus, Kolambus, Kolompous, Kolumbas, Kolumbs, Kolumbu, Kolumbus, Kolumbusa, Kulumbus, ge lun bu, kalabasa, kalambasa, kholambas, klmbws  awhayw, kolambas, kolambasa, kolampas, kolleombeoseu, koronbasu, kwlwmbws, qwlwmbws, Κολόμπους, Калумбус, Коламбус, Колумбус, Кълъмбъс, Կոլումբուս, קאלומבוס, קולומבוס, كولومبوس, کلمبوس، اوهایو, کولمبس، اوہائیو, कोलंबस, कोलम्बस, कोलम्बस्, কলম্বাস, ਕਲੰਬਸ, கொலம்பஸ், โคลัมบัส, კოლუმბუსი, コロンバス, 哥伦布, 哥倫布, 콜럼버스
 
 ---

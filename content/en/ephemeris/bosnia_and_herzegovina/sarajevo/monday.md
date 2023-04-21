@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|3°43'34.96" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°56'48.09" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°15'16.30" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°24'21.97" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|22°37'37.68" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bosna-Sarai,  SJJ,  Saarayego,  Saireavo,  Sairéavó,  Saraeva,  Saraevo,  Saraevo osh,  Saragebo,  Saragiebo,  Saragievo,  Sarajeva,  Sarajevas,  Sarajevo,  Sarajevs,  Sarajevu,  Sarajevó,  Sarajewo,  Sarajèvo,  Saraxevo,  Saraybosna,  Sarayevo,  Sarayevu,  Seraium,  Serayevo,  Szarajevo,  Szarajevó,  Vrh Bosna,  carayevo,  sa la re wo,  sai la ye fu,  salayebo,  saraevo,  saraevuo,  sarajyww,  sarayavea,  sarayebho,  sarayevho,  sarayevo,  sarayewo,  sarayh ww,  sarayww,  sarayyfw,  srayyfw,  srayyww,  sryybw,  Σαράγεβο,  Σαράγιεβο,  Σαραγιεβο,  Сараева,  Сараево,  Сараево ош,  Сараєво,  Сарајево,  Сараѥво,  Սարաևո,  סאראיעווא,  סרייבו,  ساراجیوو,  ساراييفو,  سارايېۋو,  سارایه وو,  سارایوو,  سارایێڤۆ,  سرائیوو,  سراييفو,  सारायेव्हो,  সারায়েভো,  ਸਾਰਾਯੇਵੋ,  சாரயேவோ,  സരയാവോ,  ซาราเยโว,  ས་ར་ཇི་བོ།,  სარაევო,  ሳራዬቮ,  サラエヴォ,  塞拉耶佛,  薩拉熱窩,  사라예보
+Alternate Names: Bosna-Sarai, SJJ, Saarayego, Saireavo, Sairéavó, Saraeva, Saraevo, Saraevo osh, Saragebo, Saragiebo, Saragievo, Sarajeva, Sarajevas, Sarajevo, Sarajevs, Sarajevu, Sarajevó, Sarajewo, Sarajèvo, Saraxevo, Saraybosna, Sarayevo, Sarayevu, Seraium, Serayevo, Szarajevo, Szarajevó, Vrh Bosna, carayevo, sa la re wo, sai la ye fu, salayebo, saraevo, saraevu~o, sarajyww, sarayavea, sarayebho, sarayevho, sarayevo, sarayewo, sarayh ww, sarayww, sarayyfw, srayyfw, srayyww, sryybw, Σαράγεβο, Σαράγιεβο, Σαραγιεβο, Сараева, Сараево, Сараево ош, Сараєво, Сарајево, Сараѥво, Սարաևո, סאראיעווא, סרייבו, ساراجیوو, ساراييفو, سارايېۋو, سارایه وو, سارایوو, سارایێڤۆ, سرائیوو, سراييفو, सारायेव्हो, সারায়েভো, ਸਾਰਾਯੇਵੋ, சாரயேவோ, സരയാവോ, ซาราเยโว, ས་ར་ཇི་བོ།, სარაევო, ሳራዬቮ, サラエヴォ, 塞拉耶佛, 薩拉熱窩, 사라예보
 
 ---

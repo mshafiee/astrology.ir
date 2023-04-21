@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°56'40.29" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°53'36.20" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°42'19.32" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°30'41.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°51'46.33" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'21.07" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°29'16.50" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°30'42.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°51'46.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°1'21.79" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°29'54.51" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MDL,  Mandalaj,  Mandalaja,  Mandalajo,  Mandalajus,  Mandalay,  Mandalay piirkond,  Mandale,  Mandalej,  man de lei,  mandalay,  mandale,  mandallei,  mandaly,  mandare,  mantalai,  manth a ley,  Мандалай,  Мандалеј,  ماندالاي,  ماندالی,  ماندالے,  मांडले,  माण्डले,  மண்டலை,  మాండలే,  มัณฑะเลย์,  မန္တလေးမြို့,  マンダレー,  曼德勒,  만달레이
+Alternate Names: MDL, Mandalaj, Mandalaja, Mandalajo, Mandalajus, Mandalay, Mandalay piirkond, Mandale, Mandalej, man de lei, mandalay, mandale, mandallei, mandaly, mandare, mantalai, manth a ley, Мандалай, Мандалеј, ماندالاي, ماندالی, ماندالے, मांडले, माण्डले, மண்டலை, మాండలే, มัณฑะเลย์, မန္တလေးမြို့, マンダレー, 曼德勒, 만달레이
 
 ---

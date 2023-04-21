@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°41'39.35" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°44'23.89" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°28'42.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°30'21.08" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|9°11'49.94" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Al Najaf al Ashraf,  An Najaf,  An Najaf al Ashraf,  An-Nadzaf,  An-Nadzhaf,  An-Nadżaf,  An-Najaf,  Ehn-Nadzhaf,  Meshed 'Ali,  Meshed ’Ali,  NJF,  Nachaf,  Nadjaf,  Nadschaf,  Nadzaf,  Nadzafas,  Nadzhaf,  Nadžaf,  Nadžafas,  Nagafo,  Najaf,  Najaf - njf,  Najaf - نجف,  Natzaf,  Nayaf,  Naĝafo,  Necef,  Nedjef,  Nedzsef,  Neshed Ali,  Nəcəf,  alnjf,  alnjf alashrf,  na jie fu,  najafa,  najafu,  najap,  najapeu,  najapi,  ngp,  njf,  Νατζάφ,  Ан-Наджаф,  Наджаф,  Наџаф,  Эн-Наджаф,  נגף,  النجف,  النجف الاشرف,  نجف,  नजफ़,  நஜாப்,  നജഫ്
+Alternate Names: Al Najaf al Ashraf, An Najaf, An Najaf al Ashraf, An-Nadzaf, An-Nadzhaf, An-Nadżaf, An-Najaf, Ehn-Nadzhaf, Meshed 'Ali, Meshed ’Ali, NJF, Nachaf, Nadjaf, Nadschaf, Nadzaf, Nadzafas, Nadzhaf, Nadžaf, Nadžafas, Nagafo, Najaf, Najaf - njf, Najaf - نجف, Natzaf, Nayaf, Naĝafo, Necef, Nedjef, Nedzsef, Neshed Ali, Nəcəf, alnjf, alnjf alashrf, na jie fu, najafa, najafu, najap, najapeu, najapi, ngp, njf, Νατζάφ, Ан-Наджаф, Наджаф, Наџаф, Эн-Наджаф, נגף, النجف, النجف الاشرف, نجف, नजफ़, நஜாப், നജഫ്‌, ნაჯაფი, ナジャフ, 納杰夫, 나자프
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'18.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°8'32.72" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°1'1.33" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°27'26.21" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°17'29.23" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'43.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°42'37.43" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°8'32.71" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°1'1.03" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°27'26.17" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°17'28.89" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'43.71" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°41'18.67" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'18.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°8'30.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°1'1.33" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°27'13.51" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°17'19.35" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'24.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°21'22.98" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°8'32.71" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°1'1.03" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°27'26.17" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°17'28.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'43.71" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°41'18.67" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Saitama,  saitama,  Саитама,  さいたま
+Alternate Names: Saitama, saitama, Саитама, さいたま
 
 ---

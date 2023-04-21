@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'20.27" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'38.04" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°16'41.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°6'27.67" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°42'35.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'40.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°44'27.50" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'40.95" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°16'43.01" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°6'44.74" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°42'46.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'4.06" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°37'20.00" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'20.27" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'38.04" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°16'41.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°6'27.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°42'35.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'40.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°44'27.50" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'40.99" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°16'43.44" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°6'44.74" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°42'46.39" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'4.06" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°37'20.00" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: AQP,  Arecipa,  Arehkipa,  Arekip,  Arekipa,  Arekipo,  Arequipa,  Arikipa,  Ariqipa,  a lei ji pa,  alekipa,  arekipa,  arekkippa,  arkypa,  arykyba,  arykypa,  xareki pa,  Αρεκίπα,  Арекипа,  Арекіпа,  Арэкіпа,  ארקיפה,  أريكيبا,  ارکیپا,  اریکیپا,  अरेकिपा,  அரேக்கிப்பா,  อาเรกีปา,  არეკიპა,  アレキパ,  阿雷基帕,  아레키파
+Alternate Names: AQP, Arecipa, Arehkipa, Arekip, Arekipa, Arekipo, Arequipa, Arikipa, Ariqipa, a lei ji pa, alekipa, arekipa, arekkippa, arkypa, arykyba, arykypa, xareki pa, Αρεκίπα, Арекипа, Арекіпа, Арэкіпа, ארקיפה, أريكيبا, ارکیپا, اریکیپا, अरेकिपा, அரேக்கிப்பா, อาเรกีปา, არეკიპა, アレキパ, 阿雷基帕, 아레키파
 
 ---

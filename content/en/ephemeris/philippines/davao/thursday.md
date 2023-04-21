@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'27.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'34.61" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°58'43.14" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°33'48.79" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°4'5.53" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'5.23" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°48'47.52" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°40'34.48" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°58'42.77" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°33'48.08" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°4'4.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'4.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°44'20.71" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'27.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'34.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°58'43.14" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°33'48.79" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°4'5.53" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'5.23" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°48'47.52" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°40'34.48" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°58'42.77" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°33'48.08" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°4'4.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'4.08" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°44'20.71" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Central,  Ciudad ti Davao,  DVO,  Dakbayan sa Davao,  Davao,  Davao City,  Davao Lakanbalen,  Davao Stad,  Davaó,  Lungsod ng Dabaw,  Syudad han Davao,  da wo shi,  dabao,  dafaw,  dawayw syty,  Давао,  دافاو,  داوائو سیتی,  ダバオ,  达沃市,  다바오
+Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오
 
 ---

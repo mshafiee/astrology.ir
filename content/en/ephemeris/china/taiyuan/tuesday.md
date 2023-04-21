@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'22.89" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°52'44.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°40'22.22" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°27'9.84" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°47'39.89" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°2'27.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°38'53.66" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|15°40'22.15" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°27'9.42" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°47'39.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°2'27.02" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°43'29.59" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°52'44.19" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°40'22.15" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°27'9.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°47'39.89" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°2'27.67" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°40'15.18" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°47'40.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°2'28.49" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°43'29.59" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Daiyienz,  T'ai-yuan-shih,  TYN,  Tai-nguong,  Taigiouan,  Taijuan,  Taijuana,  Taijuaņa,  Taiyuan,  Taiyuan Shi,  Taiyuan-fu,  Taiyuenum,  Taiyüan-fu,  Tajjuan',  Tajjuean,  Tajjuen,  Tajjüan,  Tajuanas,  Tajuano,  Tayyuan,  Tchaj-juean,  Tchaj-jüan,  Thai Nguyen,  Thai-goan-chhi,  Thài-goân-chhī,  Thái Nguyên,  Tái-nguòng,  T’ai-yüan-shih,  Yang-ch'u,  Yang-ch’ü,  Yangku,  Yangkü,  Yanka,  ta'iyu'ana,  tai yuan,  tai yuan shi,  taiwian si,  tay ywan,  tayy ywan,  tayywan,  thayyu'ana,  thi hywn,  Ταϊγιουάν,  Таијуан,  Тайюань,  Тайюен,  טאי-יואן,  تائی یوآن,  تائی
+Alternate Names: Daiyienz, T'ai-yuan-shih, TYN, Tai-nguong, Taigiouan, Taijuan, Taijuana, Taijuaņa, Taiyuan, Taiyuan Shi, Taiyuan-fu, Taiyuenum, Taiyüan-fu, Tajjuan', Tajjuean, Tajjuen, Tajjüan, Tajuanas, Tajuano, Tayyuan, Tchaj-juean, Tchaj-jüan, Thai Nguyen, Thai-goan-chhi, Thài-goân-chhī, Thái Nguyên, Tái-nguòng, T’ai-yüan-shih, Yang-ch'u, Yang-ch’ü, Yangku, Yangkü, Yanka, ta'iyu'ana, tai yuan, tai yuan shi, taiwian si, tay ywan, tayy ywan, tayywan, thayyu'ana, thi hywn, Ταϊγιουάν, Таијуан, Тайюань, Тайюен, טאי-יואן, تائی یوآن, تائی‌یوان, تاي يوان, تاییوان, تەييۈەن شەھىرى, ताइयुआन, थाय्युआन, ਤਾਈਯੂਆਨ, ไท่หยวน, 太原, 太原市, 타이위안 시
 
 ---

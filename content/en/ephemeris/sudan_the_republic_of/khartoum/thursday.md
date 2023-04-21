@@ -294,8 +294,8 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°32'45.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°44'14.06" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°6'50.55" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°48'40.05" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°21'33.27" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|29°48'39.24" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°21'36.54" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°33'5.84" |Aries|Butain|Sun|
 |☾ Moon|Direct|0°14'1.50" |Aries|Sharatain|Mars|
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'45.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'14.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'50.55" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°48'40.05" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°21'33.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'5.84" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°14'1.50" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°44'13.99" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°6'54.13" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°48'39.24" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°21'36.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'7.05" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°7'16.49" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Al Khartum,  Al Kharţūm,  Al Khurtum,  Al Khurţūm,  Cartum,  Cartúm,  Chartoum,  Chartum,  Chartumas,  Chartúm,  Hartum,  Hartumo,  Jartum,  KRT,  Kartum,  Kartúm,  Khartoem,  Khartoum,  Khartoun,  Khartum,  Khartun - alkhrtwm,  Khartún - الخرطوم,  aaalkhrtwm,  haleutum,  harutsumu,  hrtwm,  karttaum,  ke tu mu,  khartwm,  khrtwm,  Ĥartumo,  Χαρτούμ,  Картум,  Хартум,  חרטום,  ااالخرطوم,  خارطوم,  خرطوم,  கார்த்தௌம்,  ཁར་ཏུམ,  ካርቱም,  ハルツーム,  喀土穆,  하르툼
+Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼
 
 ---

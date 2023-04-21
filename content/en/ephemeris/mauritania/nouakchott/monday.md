@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'22.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°43'43.08" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°20'6.12" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°50'24.35" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|24°43'45.16" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°20'4.24" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°50'36.54" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°4'59.01" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°13'29.02" |Aries|Butain|Sun|
 |☾ Moon|Direct|24°6'7.39" |Taurus|HaqAh|Saturn|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: NKC,  Naevakjut,  Nawakshot,  Nawakszut,  Nouakchat,  Nouakchot,  Nouakchott,  Nouaksot,  Nouaxot,  Nuakchot,  Nuakshot,  Nuaksjott,  Nuaksot,  Nuaksota,  Nuaksotas,  Nuaksoto,  Nuaksott,  Nuakxot,  Nuakŝoto,  Nuakşot,  Nuakšot,  Nuakšota,  Nuakšotas,  Nuakšott,  Nwaqcut,  Nwaqcuṭ,  Nävakjut,  Núaksjott,  huo suo,  navakasuta,  nu wa ke xiao te,  nu'akacota,  nu'oyakasuta,  nuagsyoteu,  nuakushotto,  nuvakcut,  nwakshwt,  Νουακσότ,  Νουαξότ,  Нуакшот,  Նուակշոտ,  נואקשוט,  نواكشوط,  نواکشوت,  نواکشوط,  نواکشۆت,  نوواکوٹ,  नवाकसुत,  নুওয়াকশুত,  ਨੁਆਕਚੋਤ,  நுவாக்சூத்,  นูแอกชอต,  ནའུ་ཀ་ཅོ་ཊི།,  ნუაქშოტი,  ኑዋክሾት,  ヌアクショット,  努瓦克肖特,  或索,  누악쇼트
+Alternate Names: NKC, Naevakjut, Nawakshot, Nawakszut, Nouakchat, Nouakchot, Nouakchott, Nouaksot, Nouaxot, Nuakchot, Nuakshot, Nuaksjott, Nuaksot, Nuaksota, Nuaksotas, Nuaksoto, Nuaksott, Nuakxot, Nuakŝoto, Nuakşot, Nuakšot, Nuakšota, Nuakšotas, Nuakšott, Nwaqcut, Nwaqcuṭ, Nävakjut, Núaksjott, huo suo, navakasuta, nu wa ke xiao te, nu'akacota, nu'oyakasuta, nuagsyoteu, nuakushotto, nuvakcut, nwakshwt, Νουακσότ, Νουαξότ, Нуакшот, Նուակշոտ, נואקשוט, نواكشوط, نواکشوت, نواکشوط, نواکشۆت, نوواکوٹ, नवाकसुत, নুওয়াকশুত, ਨੁਆਕਚੋਤ, நுவாக்சூத், นูแอกชอต, ནའུ་ཀ་ཅོ་ཊི།, ნუაქშოტი, ኑዋክሾት, ヌアクショット, 努瓦克肖特, 或索, 누악쇼트
 
 ---

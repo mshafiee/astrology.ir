@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'12.34" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°43'16.53" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°19'0.00" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°48'39.60" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°2'43.14" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°13'58.04" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°35'34.49" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°19'2.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°48'42.34" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°2'47.29" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'3.27" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°1'55.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'12.34" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°43'15.26" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°19'3.67" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°48'32.08" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°2'43.20" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°13'58.04" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°43'57.72" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°43'16.53" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°19'0.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°48'39.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°2'43.14" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'3.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°1'55.77" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Marakes,  Marakesh,  Marakeso,  Marakeŝo,  Marakeš,  Maraksh,  Marrakech,  Marrakes,  Marrakesch,  Marrakesh,  Marrakesz,  Marraqueix,  Marraquexe,  Marràqueix,  Marrákes,  Marrákeš,  Merrakex,  Morocco City,  RAK,  ma la ke shen,  marakeshu,  mraksh,  Маракеш,  Марракеш,  مراكش,  ⴰⵎⵓⵔⴰⴽⵓⵛ,  マラケシュ,  马拉喀什
+Alternate Names: Marakes, Marakesh, Marakeso, Marakeŝo, Marakeš, Maraksh, Marrakech, Marrakes, Marrakesch, Marrakesh, Marrakesz, Marraqueix, Marraquexe, Marràqueix, Marrákes, Marrákeš, Merrakex, Morocco City, RAK, ma la ke shen, marakeshu, mraksh, Маракеш, Марракеш, مراكش, ⴰⵎⵓⵔⴰⴽⵓⵛ, マラケシュ, 马拉喀什
 
 ---

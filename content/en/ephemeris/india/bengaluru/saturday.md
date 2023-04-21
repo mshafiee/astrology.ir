@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'15.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°11'16.55" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°7'12.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°38'31.18" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°30'34.15" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'5.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°16'5.53" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°11'17.34" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°7'8.83" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°38'36.01" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°30'33.07" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'10.07" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°27'44.51" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'15.69" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'17.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°7'8.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°38'36.01" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°30'33.07" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'10.07" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°16'5.53" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°11'17.21" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°7'9.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°38'35.25" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°30'33.66" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'9.59" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°27'36.71" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BLR,  Ban'nkalor,  Bangalor,  Bangalora,  Bangalore,  Bangalore - bengaluru,  Bangalore - ಬೆಂಗಳೂರು,  Bangalore City,  Bangalur,  Bangaluri,  Bangalúr,  Bengalour,  Bengaluras,  Bengaluro,  Bengaluru,  Bengalurus,  Bengalúru,  Bengalūras,  Bengalūru,  baeng-geollo,  bagalaura,  ban jia luo er,  bang kha l xr,  bang-galloleu,  bangalaura,  bangalora,  bangalura,  bangaroru,  beng-gallulu,  bengalora,  bengaluru,  benguluru,  bnghalwr,  bnglwr,  bynglwr,  penkalur,  Μπανγκαλόρ,  Бангалор,  Бенгалуру,  Бенґалуру,  בנגלור,  بنغالور,  بنگلور,  بینگلور,  बंगलौर,  बंगळूर,  बेङ्गलूरु,  बेङ्गलोर,  बेङ्गळूरु,  বাঙ্গালোর,  বেঙ্গালুরু,  ਬੰਗਲੌਰ,  બેંગલોર,  ବେଙ୍ଗାଳୁରୁ,  பெங்களூர்,  బెంగుళూరు,  ಬೆಂಗಳೂರು,  ബെംഗളൂരു,  බැංගලෝර්,  บังคาลอร์,  ဘန်ဂလိုမြို့,  ბენგალურუ,  バンガロール,  班加罗尔,  班加羅爾,  방갈로르,  뱅걸로,  벵갈루루
+Alternate Names: BLR, Ban'nkalor, Bangalor, Bangalora, Bangalore, Bangalore - bengaluru, Bangalore - ಬೆಂಗಳೂರು, Bangalore City, Bangalur, Bangaluri, Bangalúr, Bengalour, Bengaluras, Bengaluro, Bengaluru, Bengalurus, Bengalúru, Bengalūras, Bengalūru, baeng-geollo, bagalaura, ban jia luo er, bang kha l xr, bang-galloleu, bangalaura, bangalora, bangalura, bangaroru, beng-gallulu, bengalora, bengaluru, benguluru, bnghalwr, bnglwr, bynglwr, penkalur, Μπανγκαλόρ, Бангалор, Бенгалуру, Бенґалуру, בנגלור, بنغالور, بنگلور, بینگلور, बंगलौर, बंगळूर, बेङ्गलूरु, बेङ्गलोर, बेङ्गळूरु, বাঙ্গালোর, বেঙ্গালুরু, ਬੰਗਲੌਰ, બેંગલોર, ବେଙ୍ଗାଳୁରୁ, பெங்களூர், బెంగుళూరు, ಬೆಂಗಳೂರು, ബെംഗളൂരു, බැංගලෝර්, บังคาลอร์, ဘန်ဂလိုမြို့, ბენგალურუ, バンガロール, 班加罗尔, 班加羅爾, 방갈로르, 뱅걸로, 벵갈루루
 
 ---

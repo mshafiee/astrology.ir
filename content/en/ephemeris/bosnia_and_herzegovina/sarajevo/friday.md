@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'55.65" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°58'52.33" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°39'29.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°48'4.20" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°31'24.99" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'12.70" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°26'3.57" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°39'25.93" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°48'7.35" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°31'23.44" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'15.09" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°39'50.75" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'55.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'51.90" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°39'29.08" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°48'4.20" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°31'24.99" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'12.70" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°26'3.57" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'52.33" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°39'25.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°48'3.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°31'15.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'5.81" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°1'39.84" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bosna-Sarai,  SJJ,  Saarayego,  Saireavo,  Sairéavó,  Saraeva,  Saraevo,  Saraevo osh,  Saragebo,  Saragiebo,  Saragievo,  Sarajeva,  Sarajevas,  Sarajevo,  Sarajevs,  Sarajevu,  Sarajevó,  Sarajewo,  Sarajèvo,  Saraxevo,  Saraybosna,  Sarayevo,  Sarayevu,  Seraium,  Serayevo,  Szarajevo,  Szarajevó,  Vrh Bosna,  carayevo,  sa la re wo,  sai la ye fu,  salayebo,  saraevo,  saraevuo,  sarajyww,  sarayavea,  sarayebho,  sarayevho,  sarayevo,  sarayewo,  sarayh ww,  sarayww,  sarayyfw,  srayyfw,  srayyww,  sryybw,  Σαράγεβο,  Σαράγιεβο,  Σαραγιεβο,  Сараева,  Сараево,  Сараево ош,  Сараєво,  Сарајево,  Сараѥво,  Սարաևո,  סאראיעווא,  סרייבו,  ساراجیوو,  ساراييفو,  سارايېۋو,  سارایه وو,  سارایوو,  سارایێڤۆ,  سرائیوو,  سراييفو,  सारायेव्हो,  সারায়েভো,  ਸਾਰਾਯੇਵੋ,  சாரயேவோ,  സരയാവോ,  ซาราเยโว,  ས་ར་ཇི་བོ།,  სარაევო,  ሳራዬቮ,  サラエヴォ,  塞拉耶佛,  薩拉熱窩,  사라예보
+Alternate Names: Bosna-Sarai, SJJ, Saarayego, Saireavo, Sairéavó, Saraeva, Saraevo, Saraevo osh, Saragebo, Saragiebo, Saragievo, Sarajeva, Sarajevas, Sarajevo, Sarajevs, Sarajevu, Sarajevó, Sarajewo, Sarajèvo, Saraxevo, Saraybosna, Sarayevo, Sarayevu, Seraium, Serayevo, Szarajevo, Szarajevó, Vrh Bosna, carayevo, sa la re wo, sai la ye fu, salayebo, saraevo, saraevu~o, sarajyww, sarayavea, sarayebho, sarayevho, sarayevo, sarayewo, sarayh ww, sarayww, sarayyfw, srayyfw, srayyww, sryybw, Σαράγεβο, Σαράγιεβο, Σαραγιεβο, Сараева, Сараево, Сараево ош, Сараєво, Сарајево, Сараѥво, Սարաևո, סאראיעווא, סרייבו, ساراجیوو, ساراييفو, سارايېۋو, سارایه وو, سارایوو, سارایێڤۆ, سرائیوو, سراييفو, सारायेव्हो, সারায়েভো, ਸਾਰਾਯੇਵੋ, சாரயேவோ, സരയാവോ, ซาราเยโว, ས་ར་ཇི་བོ།, სარაევო, ሳራዬቮ, サラエヴォ, 塞拉耶佛, 薩拉熱窩, 사라예보
 
 ---

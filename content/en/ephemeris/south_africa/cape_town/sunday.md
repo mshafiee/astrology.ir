@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°48'35.70" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°52'29.52" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°27'35.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°57'50.66" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°59'42.28" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°48'11.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°28'30.31" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°45'44.27" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°48'35.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°52'29.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'35.89" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°57'50.66" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°48'10.00" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°28'27.85" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°45'44.48" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°48'21.25" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°52'21.97" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'15.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°59'42.28" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Altepetl In Cabo,  Ar Chab,  CPT,  Cape Toun,  Cape Town,  Cidade do Cabo,  Cita del Cap,  Citati du Capu,  Citati dû Capu,  Citta del Capo,  Cittae do Cavo,  Città del Capo,  Cità del Cap,  Ciuda del Cabu,  Ciudad del Cabo,  Ciudat do Cabo,  Ciudá del Cabu,  Ciutat del Cap,  Civitas Capitis,  El Cabo,  Fokvaros,  Fokváros,  Hoefdaborg,  Hovdastadur,  Höfðaborg,  Høvdastaður,  IKapa,  Kaapstad,  Kaapsted,  Kaapstêd,  Kab town,  Kabe Urbe,  Kaburbo,  Kaepstad,  Kapetown,  Kapkaupunki,  Kaplinn,  Kapske Mesto,  Kapske Misto,  Kapské Mesto,  Kapské Město,  Kapstad,  Kapstaden,  Kapstadt,  Kapsztad,  Kapétown,  Keip Taoun,  Keiptaun,  Keiptauna,  Keiptaunas,  Keiptauns,  Kejptaun,  Kep Taun,  Keyptaun,  Keyptawn,  Keýptaun,  Le Cap,  Li Kap,  Lo Cap,  Lurmutur Hiria,  Lé Cap,  Sita del Cao,  Sita del Cap,  Sità del Cao,  Sità dël Cap,  Tref y Penrhyn,  Yvy akua Tava,  Yvy akua Táva,  hao wang jiao zhen,  iKapa,  kai pu dui,  kai pu dun,  keipeutaun,  kep taun,  kep tavun,  kepa ta'una,  kepata'una,  keputaun,  khep thawn,  kyb tawn,  kېp ټawn,  Çittæ do Cavo,  Κέιπ Τάουν,  Капске Місто,  Кейптаун,  Кейптаўн,  Кејптаун,  Քեյփթաուն,  קאפשטאט,  קייפטאון,  كيب تاون,  کیپ ٹاؤن,  کیپ
+Alternate Names: Altepetl In Cabo, Ar Chab, CPT, Cape Toun, Cape Town, Cidade do Cabo, Cita del Cap, Citati du Capu, Citati dû Capu, Citta del Capo, Cittae do Cavo, Città del Capo, Cità del Cap, Ciuda del Cabu, Ciudad del Cabo, Ciudat do Cabo, Ciudá del Cabu, Ciutat del Cap, Civitas Capitis, El Cabo, Fokvaros, Fokváros, Hoefdaborg, Hovdastadur, Höfðaborg, Høvdastaður, IKapa, Kaapstad, Kaapsted, Kaapstêd, Kab town, Kabe Urbe, Kaburbo, Kaepstad, Kapetown, Kapkaupunki, Kaplinn, Kapske Mesto, Kapske Misto, Kapské Mesto, Kapské Město, Kapstad, Kapstaden, Kapstadt, Kapsztad, Kapétown, Keip Taoun, Keiptaun, Keiptauna, Keiptaunas, Keiptauns, Kejptaun, Keyptaun, Keyptawn, Keýptaun, Le Cap, Li Kap, Lo Cap, Lurmutur Hiria, Lé Cap, Sita del Cao, Sita del Cap, Sità del Cao, Sità dël Cap, Tref y Penrhyn, Yvy akua Tava, Yvy akua Táva, hao wang jiao zhen, iKapa, kai pu dui, kai pu dun, keipeutaun, kep taun, kep tavun, kepa ta'una, kepata'una, keputaun, khep thawn, kyb tawn, kېp ټawn, Çittæ do Cavo, Κέιπ Τάουν, Капске Місто, Кейптаун, Кейптаўн, Кејптаун, Քեյփթաուն, קאפשטאט, קייפטאון, كيب تاون, کیپ ٹاؤن, کیپ‌تاون, کېپ ټاون, کەیپ تاون, केपटाउन, केपताउन, কেপ টাউন, ਕੇਪਟਾਊਨ, કેપ ટાઉન, କେପ ଟାଉନ, கேப் டவுன், కేప్ టౌన్, ಕೇಪ್ ಟೌನ್, കേപ് ടൗൺ, เคปทาวน์, ကိပ်တောင်းမြို့, კეიპტაუნი, ኬፕ ታውን, ケープタウン, 好望角鎮, 開普敦, 케이프타운
 
 ---

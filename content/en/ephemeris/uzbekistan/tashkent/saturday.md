@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°11'16.96" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°7'8.74" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°38'33.52" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°30'24.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'55.78" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°25'6.13" |Aries|Butain|Venus|
+|♀ Venus|Direct|12°30'35.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'5.16" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°15'54.63" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'15.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'16.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°7'4.78" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°38'28.44" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°30'24.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'55.78" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°25'6.13" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°11'16.96" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°7'8.74" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°38'33.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°30'31.67" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'5.16" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°8'21.52" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Daskent,  Daşkent,  Daşkənd,  Lithopolis,  TAS,  Tachkent,  Tachkènt,  Taixkent,  Taschkent,  Tashken,  Tashkend,  Tashkent,  Tashkent osh,  Tashkenti,  Tasjkent,  Taskende,  Taskent,  Taskenta,  Taskentas,  Taskento,  Taszkent,  Taxkent,  Taŝkento,  Taşkent,  Taškent,  Taškenta,  Taškentas,  Tașkent,  Tochkent,  Toshkand,  Toshkent,  Toshkent shahri,  ta shen gan,  tasakada,  tasakanda,  tasakhanda,  tashknd,  tashqnd,  tashukento,  taskanda,  taskanr,  taskantu,  taskent,  tasyukenteu,  thach khen t,  tshqnd,  tsqnt,  Τασκένδη,  Ташкен,  Ташкент,  Ташкент ош,  Тошканд,  Տաշքենդ,  טאשקענט,  טשקנט,  تاشقند,  تاشكند,  تاشكەنت,  تاشکند,  تاشکەند,  طشقند,  ताशकन्द,  ताश्कंद,  তাশখন্দ,  ਤਾਸ਼ਕੰਦ,  தாஷ்கந்து,  తాష్కెంట్,  ತಾಷ್ಕೆಂಟ್,  താഷ്കന്റ്,  ทาชเคนต์,  ཐ་ཧྲི་ཀན།,  ტაშკენტი,  ታሽኬንት,  タシュケント,  塔什干,  타슈켄트
+Alternate Names: Daskent, Daşkent, Daşkənd, Lithopolis, TAS, Tachkent, Tachkènt, Taixkent, Taschkent, Tashken, Tashkend, Tashkent, Tashkent osh, Tashkenti, Tasjkent, Taskende, Taskent, Taskenta, Taskentas, Taskento, Taszkent, Taxkent, Taŝkento, Taşkent, Taškent, Taškenta, Taškentas, Tașkent, Tochkent, Toshkand, Toshkent, Toshkent shahri, ta shen gan, tasakada, tasakanda, tasakhanda, tashknd, tashqnd, tashukento, taskanda, taskanr, taskantu, taskent, tasyukenteu, thach khen t, tshqnd, tsqnt, Τασκένδη, Ташкен, Ташкент, Ташкент ош, Тошканд, Տաշքենդ, טאשקענט, טשקנט, تاشقند, تاشكند, تاشكەنت, تاشکند, تاشکەند, طشقند, ताशकन्द, ताश्कंद, তাশখন্দ, ਤਾਸ਼ਕੰਦ, தாஷ்கந்து, తాష్కెంట్, ತಾಷ್ಕೆಂಟ್, താഷ്കന്റ്, ทาชเคนต์, ཐ་ཧྲི་ཀན།, ტაშკენტი, ታሽኬንት, タシュケント, 塔什干, 타슈켄트
 
 ---

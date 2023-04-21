@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°42'44.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'40.26" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°10'17.02" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°44'12.69" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°37'10.71" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'46.54" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°48'59.40" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°42'44.55" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°12'40.53" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°10'14.77" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°44'14.37" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°37'9.18" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'47.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°47'48.31" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°12'40.53" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°10'14.77" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°44'14.37" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°37'10.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'46.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°48'59.40" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°37'9.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'47.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°47'48.31" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: MGQ,  Magadiscio,  Magadysha,  Maqdishu,  Mogadiisho,  Mogadis,  Mogadisas,  Mogadischu,  Mogadiscio,  Mogadish,  Mogadisho,  Mogadishu,  Mogadisjoe,  Mogadisju,  Mogadisjû,  Mogadiso,  Mogadiss,  Mogadisu,  Mogadisxo,  Mogadiszu,  Mogadixo,  Mogadiŝo,  Mogadişu,  Mogadiš,  Mogadišas,  Mogadišo,  Mogadišu,  Mogadíscio,  Mogadīšo,  Mogaidisiu,  Mogaidisiú,  Monkantisou,  Moqadiso,  Moqadişo,  Moukdicho,  Moukntiso,  Mugadiccu,  Mugadishu,  Mugadiss,  Muqdisho,  Muqdishow,  Muqdishu,  Mógadisjú,  Xamar,  makadisu,  meagadisu,  mo jia di sha,  mo jia di xiu,  mo kadi chu,  mogadisho,  mogadishu,  mogadisu,  mogadisyu,  mogarisu,  mqdyshw,  mqdyshyw,  mukticu,  mwgadyshw,  mwgdysw,  mwghadyshw,  mۆgadyshۆ,  Μογκαντίσου,  Μουκντίσο,  Магадыша,  Могадишо,  Могадишу,  Могадішо,  Մոգադիշո,  מאגאדישו,  מוגדישו,  مقديشو,  مقديشيو,  موغادیشو,  موگادیشو,  مۆگادیشۆ,  मोगादिशू,  मोगादीशू,  মোগাদিশু,  ਮਕਦੀਸ਼ੂ,  ମୋଗାଡ଼ିସୁ,  முக்தீசூ,  മൊഗാദിഷു,  โมกาดิชู,  མོ་ག་དི་ཤུ།,  მოგადიშო,  ሞቃዲሾ,  モガディシュ,  摩加迪休,  摩加迪沙,  모가디슈
+Alternate Names: MGQ, Magadiscio, Magadysha, Maqdishu, Mogadiisho, Mogadis, Mogadisas, Mogadischu, Mogadiscio, Mogadish, Mogadisho, Mogadishu, Mogadisjoe, Mogadisju, Mogadisjû, Mogadiso, Mogadiss, Mogadisu, Mogadisxo, Mogadiszu, Mogadixo, Mogadiŝo, Mogadişu, Mogadiš, Mogadišas, Mogadišo, Mogadišu, Mogadíscio, Mogadīšo, Mogaidisiu, Mogaidisiú, Monkantisou, Moqadiso, Moqadişo, Moukdicho, Moukntiso, Mugadiccu, Mugadishu, Mugadiss, Muqdisho, Muqdishow, Muqdishu, Mógadisjú, Xamar, makadisu, meagadisu, mo jia di sha, mo jia di xiu, mo kadi chu, mogadisho, mogadishu, mogadisu, mogadisyu, mogarisu, mqdyshw, mqdyshyw, mukticu, mwgadyshw, mwgdysw, mwghadyshw, mۆgadyshۆ, Μογκαντίσου, Μουκντίσο, Магадыша, Могадишо, Могадишу, Могадішо, Մոգադիշո, מאגאדישו, מוגדישו, مقديشو, مقديشيو, موغادیشو, موگادیشو, مۆگادیشۆ, मोगादिशू, मोगादीशू, মোগাদিশু, ਮਕਦੀਸ਼ੂ, ମୋଗାଡ଼ିସୁ, முக்தீசூ, മൊഗാദിഷു, โมกาดิชู, མོ་ག་དི་ཤུ།, მოგადიშო, ሞቃዲሾ, モガディシュ, 摩加迪休, 摩加迪沙, 모가디슈
 
 ---

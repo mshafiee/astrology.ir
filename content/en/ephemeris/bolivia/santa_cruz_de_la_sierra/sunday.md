@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'14.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°31'33.24" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°52'42.28" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°0'55.17" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°7'4.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'52.71" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°51'52.51" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°31'35.81" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°52'40.93" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°1'10.17" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°7'11.52" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'13.63" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°40'8.96" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'14.80" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°31'35.81" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°52'41.17" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°1'10.20" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°7'11.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°25'13.81" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°41'56.34" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°52'40.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°1'10.17" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°7'11.52" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°25'13.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°40'8.96" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ciudad Santa Cruz,  Ciudad de Santa Cruz de la Sierra,  SRZ,  Santa Cruz,  Santa Cruz da Serra,  Santa Cruz de la Sierra,  Santa-Krus-de-la-Sierra,  Santa-Kruzo,  santakurusu,  Санта-Крус-де-ла-Сиерра,  سانتا کروز دلاسیه
+Alternate Names: Ciudad Santa Cruz, Ciudad de Santa Cruz de la Sierra, SRZ, Santa Cruz, Santa Cruz da Serra, Santa Cruz de la Sierra, Santa-Krus-de-la-Sierra, santakurusu, Санта-Крус-де-ла-Сиерра, سانتا کروز دلاسیه‌را, サンタクルス
 
 ---

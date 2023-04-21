@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'37.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°49'28.85" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°18'33.31" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°9'58.53" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°46'38.48" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'21.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°13'33.20" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°49'28.72" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°18'30.08" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°9'58.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°46'34.99" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'18.90" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°10'21.45" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'37.16" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°49'28.72" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°18'30.08" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°9'58.28" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°46'34.99" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'18.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°13'33.20" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°18'30.47" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°9'46.34" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°46'28.81" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'3.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°51'27.31" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Cdmx,  Cidade de Mexico,  Cidade de México,  Cidade do Mexico,  Cidade do México,  Cita du Messicu,  Citta del Messico,  Città del Messico,  Cità dû Messicu,  Cità dû Mèssicu,  Ciudad Mexico,  Ciudad de Mejico,  Ciudad de Mexico,  Ciudad de Méjico,  Ciudad de México,  Ciutat de Mexic,  Ciutat de Mèxic,  Lungsod ng Mexico,  Lungsod ng México,  MEX,  Mehiko,  Mekhiko,  Meksikas,  Meksiko,  Meksiko Siti,  Meksikurbo,  Meksyk,  Mexico,  Mexico City,  Mexico D.F.,  Mexico DF,  Mexico Distrito Federal,  Mexico by,  Mexico-stad,  Mexicopolis,  Mexiko,  Mexiko Hiria,  Mexiko-Stadt,  Mexikoborg,  Mexíkóborg,  México,  México Distrito Federal,  Nkoyo,  Pole tou Mexikou,  Valle de Mexico,  Valle de México,  mdynt mksykw,  megsiko si,  megsikositi,  mekishikoshiti,  meksiko,  meksiko siti,  meksikositi,  mkzykw,  mkzykwsyty,  mo xi ge cheng,  mqsyqw syty,  Πόλη του Μεξικού,  Мексико,  Мексико Сити,  Мехико,  Мехіко,  מקסיקו סיטי,  مدينة مكسيكو,  مکزیکو,  مکزیکوسیتی,  مېكسىكا شەھىرى,  मेक्सिको सिटी,  মেক্সিকো,  เม็กซิโกซิตี,  მეხიკო,  メキシコシティ,  墨西哥城,  멕시코 시,  멕시코시티
+Alternate Names: Cdmx, Cidade de Mexico, Cidade de México, Cidade do Mexico, Cidade do México, Cita du Messicu, Citta del Messico, Città del Messico, Cità dû Messicu, Cità dû Mèssicu, Ciudad Mexico, Ciudad de Mejico, Ciudad de Mexico, Ciudad de Méjico, Ciudad de México, Ciutat de Mexic, Ciutat de Mèxic, Lungsod ng Mexico, Lungsod ng México, MEX, Mehiko, Mekhiko, Meksikas, Meksiko, Meksiko Siti, Meksikurbo, Meksyk, Mexico, Mexico City, Mexico D.F., Mexico DF, Mexico Distrito Federal, Mexico by, Mexico-stad, Mexicopolis, Mexiko, Mexiko Hiria, Mexiko-Stadt, Mexikoborg, Mexíkóborg, México, México Distrito Federal, Nkoyo, Pole tou Mexikou, Valle de Mexico, Valle de México, mdynt mksykw, megsiko si, megsikositi, mekishikoshiti, meksiko, meksiko siti, meksikositi, mkzykw, mkzykwsyty, mo xi ge cheng, mqsyqw syty, Πόλη του Μεξικού, Мексико, Мексико Сити, Мехико, Мехіко, מקסיקו סיטי, مدينة مكسيكو, مکزیکو, مکزیکوسیتی, مېكسىكا شەھىرى, मेक्सिको सिटी, মেক্সিকো, เม็กซิโกซิตี, მეხიკო, メキシコシティ, 墨西哥城, 멕시코 시, 멕시코시티
 
 ---

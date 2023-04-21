@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|3°42'7.31" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°55'3.93" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°15'46.56" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°21'37.70" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|21°42'58.51" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|3°42'7.31" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°55'3.93" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°15'46.56" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°21'37.70" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|21°42'58.51" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ADD,  Addis Ababa,  Addis Abaeba,  Addis Abbaba,  Addis Abeba,  Addis Abäba,  Addis-Abeba,  Addis-Abebae,  Addisz-Abeba,  Adis Ababa,  Adis Abeba,  Adis-Abebo,  Adisabeba,  Adís Abeba,  Antis Ampempa,  Finfinne,  Neanthopolis,  a di si a bei ba,  addisa ababa,  adisa ababa,  adiseuababa,  adisuabeba,  adys ababa,  Ādīs Ābeba,  Αντίς Αμπέμπα,  Аддис-Абебæ,  Аддис-Абеба,  Адис Абеба,  Ադիս Աբեբա,  אדיס אבבה,  آدیس آبابا,  أديس أبابا,  ئەددىس -ئەبىبە,  अदिस अबाबा,  আদ্দিস আবাবা,  አዲስ አበባ,  アディスアベバ,  阿迪斯阿貝巴,  아디스아바바
+Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바
 
 ---

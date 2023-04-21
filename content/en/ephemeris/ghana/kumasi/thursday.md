@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'16.45" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°45'40.86" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°10'3.22" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°54'32.86" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°28'27.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'48.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°41'24.50" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°10'3.34" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°54'32.97" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°28'27.64" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'48.63" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°42'5.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Coomassie,  KMS,  Kumase,  Kumasi,  Kumasi shaary,  Kumasis,  Kumaso,  Kumassi,  Kumasy,  ku ma xi,  kumashi,  kumasi,  kwmasy,  Кумаси,  Кумаси шаары,  Кумасі,  Կումասի,  كوماسي,  کوماسی,  ਕੁਮਾਸੀ,  クマシ,  库马西,  쿠마시
+Alternate Names: Coomassie, KMS, Kumase, Kumasi, Kumasi shaary, Kumasis, Kumassi, Kumasy, ku ma xi, kumashi, kumasi, kwmasy, Кумаси, Кумаси шаары, Кумасі, Կումասի, كوماسي, کوماسی, ਕੁਮਾਸੀ, クマシ, 库马西, 쿠마시
 
 ---

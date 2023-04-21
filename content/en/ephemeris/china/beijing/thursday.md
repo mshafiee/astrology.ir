@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°31'27.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'35.71" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°58'46.43" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°33'52.24" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°4'11.27" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'1.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°26'38.34" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°31'27.91" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°40'35.73" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°58'46.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°33'52.37" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°4'11.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'1.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°27'25.26" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'27.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'35.93" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°58'46.78" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°33'53.46" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°4'12.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'1.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°26'38.34" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°40'35.73" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°58'46.48" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°33'52.37" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°4'11.39" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'1.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°27'25.26" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BJS,  Bac Kinh,  Baek-ging,  Baekging,  Behehzhin,  Beijing,  Beijing Shi,  Beising,  Beixin,  Beixín,  Bejdzing,  Bejdżing,  Bejing,  Beyjing,  Beȝcinȝ,  Báe̤k-gĭng,  Béising,  Bắc Kinh,  Pechin,  Pechino,  Pechinu,  Pechinum,  Pecinum,  Pei-ching,  Pei-ching-shih,  Pei-p'ing,  Pei-p'ing-shih,  Peken,  Pekin,  Pekin',  Pekina,  Pekinas,  Peking,  Pekini,  Pekino,  Pekín,  Pekîn,  Peping,  Pequim,  Pequin,  Pequín,  Pet-kin,  Pet-kîn,  Peycing,  Pikkin,  Pèquin,  Pékin,  Péqùin,  Péycing,  be'ijim,  be'ijina,  be'ijinga,  bei jing,  bei jing shi,  beidjin,  beijing,  bijiga,  bijing,  bijinga,  bkyn,  buggyeong,  byjng,  bykyn,  byyg'yng,  byyzsyng,  pakking,  peyjin,  pkn,  Πεκίνο,  Бейжің,  Бээжин,  Бәәҗң балһсн,  Пекин,  Пекинг,  Пекін,  Пекінґ,  Պեկին,  בייג'ינג,  בייזשינג,  بكين,  بيكين,  بیجنگ,  بېجینګ,  بېيجىڭ,  بېيجىڭ شەھىرى,  پکن,  پێکەن,  ބީޖިންގ,  बीजिंग,  बेइजिङ,  বেইজিং,  ਬੀਜਿੰਗ,  બેઇજિંગ,  பெய்ஜிங்,  బీజింగ్,  ಬೀಜಿಂಗ್,  ബെയ്
+Alternate Names: BJS, Bac Kinh, Baek-ging, Baekging, Behehzhin, Beijing, Beijing Shi, Beising, Beixin, Beixín, Bejdzing, Bejdżing, Bejing, Beyjing, Beȝcinȝ, Báe̤k-gĭng, Béising, Bắc Kinh, Pechin, Pechino, Pechinu, Pechinum, Pecinum, Pei-ching, Pei-ching-shih, Pei-p'ing, Pei-p'ing-shih, Peken, Pekin, Pekin', Pekina, Pekinas, Peking, Pekini, Pekino, Pekín, Pekîn, Peping, Pequim, Pequin, Pequín, Pet-kin, Pet-kîn, Peycing, Pikkin, Pèquin, Pékin, Péqùin, Péycing, be'ijim, be'ijina, be'ijinga, bei jing, bei jing shi, beidjin, beijing, bijiga, bijing, bijinga, bkyn, buggyeong, byjng, bykyn, byyg'yng, byyzsyng, pakking, peyjin, pkn, Πεκίνο, Бейжің, Бээжин, Бәәҗң балһсн, Пекин, Пекинг, Пекін, Пекінґ, Պեկին, בייג'ינג, בייזשינג, بكين, بيكين, بیجنگ, بېجینګ, بېيجىڭ, بېيجىڭ شەھىرى, پکن, پێکەن, ބީޖިންގ, बीजिंग, बेइजिङ, বেইজিং, ਬੀਜਿੰਗ, બેઇજિંગ, பெய்ஜிங், బీజింగ్, ಬೀಜಿಂಗ್, ബെയ്‌ജിങ്ങ്‌, බෙයිජිං, ปักกิ่ง, པེ་ཅིང་གྲོང་ཁྱེར།, ပေကျင်းမြို့, პეკინი, ቤዪጂንግ, ប៉េកាំង, 北京, 北京市, 베이징, 북경
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'32.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'13.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°48'19.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°41'21.84" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°4'18.29" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'39.78" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°4'14.20" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°56'13.34" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°48'16.07" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°41'19.79" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°4'12.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'34.92" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°26'14.47" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°57'32.61" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°56'13.34" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°48'16.07" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°41'19.79" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°4'18.29" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'39.78" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°4'14.20" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°41'24.92" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°4'19.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'44.16" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°2'54.32" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Asloa,  Christiania,  Kristiania,  OSL,  Ohoro,  Osla,  Oslas,  Oslo,  Oslo osh,  Oslu,  Osló,  ajalo,  ao si lu,  asalo,  aslw,  awslw,  osalo,  oseullo,  oslea,  oslo,  osuro,  xxslo,  ywslw,  Òslo,  Ósló,  Ōhoro,  Όσλο,  Осла,  Осло,  Осло ош,  Օսլո,  אוסלו,  أوسلو,  ئوسلو,  ئۆسلۆ,  اسلو,  اوسلو,  ܐܘܣܠܘ,  ओस्लो,  অজলো,  ওসলো,  ਓਸਲੋ,  ଅସଲୋ,  ஒஸ்லோ,  ഓസ്ലൊ,  ออสโล,  ཨོ་སི་ལོ།,  အော့စလိုမြို့,  ოსლო,  ኦስሎ,  オスロ,  奥斯陆,  奧斯陸,  오슬로
+Alternate Names: Asloa, Christiania, Kristiania, OSL, Ohoro, Osla, Oslas, Oslo, Oslo osh, Oslu, Osló, ajalo, ao si lu, asalo, aslw, awslw, osalo, oseullo, oslea, oslo, osuro, xxslo, ywslw, Òslo, Ósló, Ōhoro, Όσλο, Осла, Осло, Осло ош, Օսլո, אוסלו, أوسلو, ئوسلو, ئۆسلۆ, اسلو, اوسلو, ܐܘܣܠܘ, ओस्लो, অজলো, ওসলো, ਓਸਲੋ, ଅସଲୋ, ஒஸ்லோ, ഓസ്ലൊ, ออสโล, ཨོ་སི་ལོ།, အော့စလိုမြို့, ოსლო, ኦስሎ, オスロ, 奥斯陆, 오슬로
 
 ---

@@ -20,7 +20,7 @@ Latitude: 32.8874
 \-
 Longitude: 13.1873
 \-
-Altitude: 15 meters
+Altitude: 7 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Tripoli, Libyan Arab Jamahiriya" lat="32.8874" lng="13.1873" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:07:17 |
-| Sunrise | 06:26:23 |
+| Sunrise | 06:26:22 |
 | Dhuhr | 13:05:16 |
 | Medium Coeli | 13:05:16 |
 | Sunset | 19:44:39 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:58:03 |
-| Sunrise | 06:26:23 |
+| Sunrise | 06:26:22 |
 | Dhuhr | 13:05:16 |
 | Medium Coeli | 13:05:16 |
 | Sunset | 19:44:39 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:56:24 |
-| Sunrise | 06:26:23 |
+| Sunrise | 06:26:22 |
 | Dhuhr | 13:05:16 |
 | Medium Coeli | 13:05:16 |
 | Sunset | 19:44:39 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:12:39 |
-| Sunrise | 06:26:23 |
+| Sunrise | 06:26:22 |
 | Dhuhr | 13:05:16 |
 | Medium Coeli | 13:05:16 |
 | Sunset | 19:44:39 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:48:07 |
-| Sunrise | 06:26:23 |
+| Sunrise | 06:26:22 |
 | Dhuhr | 13:05:16 |
 | Medium Coeli | 13:05:16 |
 | Sunset | 19:44:39 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:56:24 |
-| Sunrise | 06:26:23 |
+| Sunrise | 06:26:22 |
 | Dhuhr | 13:05:16 |
 | Medium Coeli | 13:05:16 |
 | Sunset | 19:44:39 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:53:40 |
-| Sunrise | 06:26:23 |
+| Sunrise | 06:26:22 |
 | Dhuhr | 13:05:16 |
 | Medium Coeli | 13:05:16 |
 | Sunset | 19:44:39 |
@@ -204,22 +204,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:18:16|Night duration: 10:40:39|
+|Duration of the day: 13:18:17|Night duration: 10:40:39|
 |Every hour of day duration: 01:06:31|Every hour of night duration: 00:53:23|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:26:23|07:32:53|Creating corruption, hatred, and enmity|
-|2|Sun|Servant|07:32:54|08:39:24|Attracting negativity, and avoiding any harmful action|
-|3|Venus|Servant|08:39:25|09:45:56|Attracting connection and marriage proposals|
-|4|Mercury|Servant|09:45:57|10:52:27|Attracting material wealth, prosperity, and business growth|
-|5|Moon|Servant|10:52:28|11:58:58|Attracting negativity and creating chaos|
-|6|Saturn|Servant|11:58:59|13:05:30|Removing negative energy caused by the evil eye|
-|7|Jupiter|Servant|13:05:31|14:12:01|Attracting love, affection, and winning hearts|
-|8|Mars|Ruler|14:12:02|15:18:32|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Sun|Servant|15:18:33|16:25:04|Creating emotional attachment|
-|10|Venus|Servant|16:25:05|17:31:35|Attracting negativity, and avoiding any harmful action|
+|1|Mars|Ruler|06:26:22|07:32:52|Creating corruption, hatred, and enmity|
+|2|Sun|Servant|07:32:53|08:39:23|Attracting negativity, and avoiding any harmful action|
+|3|Venus|Servant|08:39:24|09:45:55|Attracting connection and marriage proposals|
+|4|Mercury|Servant|09:45:56|10:52:26|Attracting material wealth, prosperity, and business growth|
+|5|Moon|Servant|10:52:27|11:58:58|Attracting negativity and creating chaos|
+|6|Saturn|Servant|11:58:59|13:05:29|Removing negative energy caused by the evil eye|
+|7|Jupiter|Servant|13:05:30|14:12:00|Attracting love, affection, and winning hearts|
+|8|Mars|Ruler|14:12:01|15:18:32|Creating corruption, destroying enemies, and causing illness to enemies|
+|9|Sun|Servant|15:18:33|16:25:03|Creating emotional attachment|
+|10|Venus|Servant|16:25:04|17:31:35|Attracting negativity, and avoiding any harmful action|
 |11|Mercury|Servant|17:31:36|18:38:06|Attracting connection and marriage proposals|
 |12|Moon|Servant|18:38:07|19:44:38|Creating hatred and corruption to disrupt harmony|
 
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:18:16|Night duration: 10:40:39|
+|Duration of the day: 13:18:17|Night duration: 10:40:39|
 |Every hour duration: 01:54:02|Every hour duration: 01:31:31|
 
  
@@ -258,11 +258,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|06:26:23|08:20:24|
-|Mid-morning|Sun|Servant|08:20:25|10:14:26|
-|Late morning|Venus|Servant|10:14:27|12:08:28|
-|Noon|Mercury|Servant|12:08:29|14:02:31|
-|Early afternoon|Moon|Servant|14:02:32|15:56:33|
+|Early morning|Mars|Ruler|06:26:22|08:20:23|
+|Mid-morning|Sun|Servant|08:20:24|10:14:25|
+|Late morning|Venus|Servant|10:14:26|12:08:28|
+|Noon|Mercury|Servant|12:08:29|14:02:30|
+|Early afternoon|Moon|Servant|14:02:31|15:56:33|
 |Mid-afternoon|Saturn|Servant|15:56:34|17:50:35|
 |Late afternoon|Jupiter|Servant|17:50:36|19:44:38|
 
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'43.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'46.22" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°49'29.57" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°43'34.85" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°6'48.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'55.99" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°6'18.98" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°57'43.63" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°56'45.87" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°49'29.36" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°43'32.89" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°6'47.37" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'53.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°1'40.33" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'43.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°56'46.22" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°49'29.57" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°43'34.85" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°6'48.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'55.99" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°6'18.98" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|4°57'43.63" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°56'46.21" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°49'29.55" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°43'34.81" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°6'48.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'56.01" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°6'18.28" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Aea,  Ea,  Oea,  TIP,  Tarables,  Tarabulus,  Tarabulus al Gharb,  Tarabulus el Gharb,  Taràbles,  Trables,  Trablus,  Trablûs,  Triboli,  Tripili,  Tripilí,  Tripol,  Tripole,  Tripoli,  Tripolis,  Tripolo,  Tripoly,  Tripołi,  Tripul,  Tripuli,  Trypali,  Trypolis,  Trìpoli,  Trìpuli,  Trípol,  Trípoli,  Trípólí,  de li bo li,  tarabalasa,  tarabulasa,  tarabulus,  teulipolli,  tirippoli,  toripori,  trabls,  trabls  lybya,  tripoli,  trippeali,  trypwly,  Ţarābulus,  Ţarābulus al Gharb,  Τρίπολη,  Триполи,  Триполі,  Трыпалі,  Տրիպոլի,  טריפאלי,  טריפולי,  ترابلس,  ترىپولى,  تەرابلوس,  طرابلس,  طرابلس، لیبیا,  طَرَابُلُس,  ताराबूलस,  त्रिपोली,  ত্রিপোলি,  ਤਰਾਬਲਸ,  திரிப்பொலி,  ട്രിപ്പോളി,  ตริโปลี,  ཐི་རི་ཕོ་ལི,  ტრიპოლი,  ትሪፖሊ,  Ṭrables,  トリポリ,  的黎波里,  트리폴리
+Alternate Names: Aea, Ea, Oea, TIP, Tarables, Tarabulus, Tarabulus al Gharb, Tarabulus el Gharb, Taràbles, Trables, Trablus, Trablûs, Triboli, Tripili, Tripilí, Tripol, Tripole, Tripoli, Tripolis, Tripolo, Tripoly, Tripołi, Tripul, Tripuli, Trypali, Trypolis, Trìpoli, Trìpuli, Trípol, Trípoli, Trípólí, de li bo li, tarabalasa, tarabulasa, tarabulus, teulipolli, tirippoli, toripori, trabls, trabls  lybya, tripoli, trippeali, trypwly, Ţarābulus, Ţarābulus al Gharb, Τρίπολη, Триполи, Триполі, Трыпалі, Տրիպոլի, טריפאלי, טריפולי, ترابلس, ترىپولى, تەرابلوس, طرابلس, طرابلس، لیبیا, طَرَابُلُس, ताराबूलस, त्रिपोली, ত্রিপোলি, ਤਰਾਬਲਸ, திரிப்பொலி, ട്രിപ്പോളി, ตริโปลี, ཐི་རི་ཕོ་ལི, ტრიპოლი, ትሪፖሊ, Ṭrables, トリポリ, 的黎波里, 트리폴리
 
 ---

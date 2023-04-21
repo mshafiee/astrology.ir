@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'37.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°53'26.78" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°41'56.19" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°30'3.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°50'59.44" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°1'31.92" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°2'4.52" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°53'27.23" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°41'58.59" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°30'5.74" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°51'3.51" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°1'36.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°28'9.82" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°41'58.59" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°30'5.74" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°51'3.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°1'31.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°2'4.52" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|15°1'36.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°28'9.82" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Batavia,  Big Durian,  Cakarta,  D'akarta,  Daerah Khusus Ibukota Jakarta,  Djakarta,  Djogkarta,  Dki Jakarta,  Dzakarta,  Dzhakarta,  Dzhakartae,  Dżakarta,  Džakarta,  Gakarto,  Giacarta,  Iacarta,  Iacárta,  JKT,  Jacarta,  Jakarta,  Jayakarta,  Jogkarta,  Nga-ka-that Su-tu Thit-khi,  Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî,  Sakata,  Sunda Kelapa,  Tzakarta,  Xacarta,  Xhakarta,  Yajgyadaz,  Yakarta,  Zhakarta,  cakarta,  g'qrth,  jakaleuta,  jakarata,  jakarta,  jakartta,  jakaruta,  jkarta,  ya jia da,  ye jia da,  Ĝakarto,  Τζακάρτα,  Џакарта,  Джакартæ,  Джакарта,  Дьакарта,  Жакарта,  Ջակարտա,  ג'קרטה,  דזשאקארטא,  جاكارتا,  جاکارتا,  جکارتا,  جکارتہ,  जकार्ता,  জাকার্তা,  ਜਕਾਰਤਾ,  જાકાર્તા,  ଜାକର୍ତା,  ஜகார்த்தா,  జకార్తా,  ಜಕಾರ್ತ,  ജക്കാർത്ത,  จาการ์ตา,  ཊ་ཁར་ཏ།,  ဂျကာတာမြို့,  ჯაკარტა,  ጃካርታ,  ចាការតា,  ジャカルタ,  耶加達,  雅加达,  雅加達,  자카르타
+Alternate Names: Batavia, Big Durian, Cakarta, D'akarta, Daerah Khusus Ibukota Jakarta, Djakarta, Djogkarta, Dki Jakarta, Dzakarta, Dzhakarta, Dzhakartae, Dżakarta, Džakarta, Gakarto, Giacarta, Iacarta, Iacárta, JKT, Jacarta, Jakarta, Jayakarta, Jogkarta, Nga-ka-that Su-tu Thit-khi, Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî, Sunda Kelapa, Tzakarta, Xacarta, Xhakarta, Yajgyadaz, Yakarta, Zhakarta, cakarta, g'qrth, jakaleuta, jakarata, jakarta, jakartta, jakaruta, jkarta, ya jia da, Ĝakarto, Τζακάρτα, Џакарта, Джакартæ, Джакарта, Дьакарта, Жакарта, Ջակարտա, ג'קרטה, דזשאקארטא, جاكارتا, جاکارتا, جکارتا, جکارتہ, जकार्ता, জাকার্তা, ਜਕਾਰਤਾ, જાકાર્તા, ଜାକର୍ତା, ஜகார்த்தா, జకార్తా, ಜಕಾರ್ತ, ജക്കാർത്ത, จาการ์ตา, ཊ་ཁར་ཏ།, ဂျကာတာမြို့, ჯაკარტა, ጃካርታ, ចាការតា, ジャカルタ, 雅加达, 자카르타
 
 ---

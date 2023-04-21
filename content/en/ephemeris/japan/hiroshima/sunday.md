@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'23.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°23'14.94" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°33'56.99" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°27'12.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°27'27.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'56.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°48'40.20" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'14.90" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°33'57.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°27'12.20" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°27'30.18" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'58.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°3'12.08" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'23.41" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'14.88" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°33'55.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°27'12.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°27'27.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'56.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°48'40.20" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°23'14.94" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°33'56.99" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°27'12.48" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°27'30.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'58.00" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°3'12.08" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Chirosima,  HIJ,  Hiroshima,  Hiroshima-shi,  Hiroshimashi,  Hirosima,  Hirosimo,  Hiroszima,  Hiroxima,  Hiroxima - guang dao shi,  Hiroxima - 広島市,  Hiroŝimo,  Hiroşima,  Hirošima,  Hiroșima,  Khiroshima,  Khirosima,  canghwad hi roa chi ma,  guang dao,  guang dao shi,  hi ro chi ma,  hilosima si,  hiroshima,  hiroshimashi,  hirosima,  hyrwshyma,  hyrwsymh,  Χιροσίμα,  Хиросима,  Хирошима,  Хіросіма,  הירושימה,  هيروشيما,  هیروشیما,  हिरोशिमा,  จังหวัดฮิโระชิมะ,  ฮิโรชิมา,  ჰიროსიმა,  ჰიროშიმა,  ひろしま,  ひろしまし,  ヒロシマ,  ヒロシマシ,  広島,  広島市,  廣島市,  히로시마 시
+Alternate Names: Chirosima, HIJ, Hiroshima, Hiroshima-shi, Hiroshimashi, Hirosima, Hirosimo, Hiroszima, Hiroxima, Hiroxima - guang dao shi, Hiroxima - 広島市, Hiroŝimo, Hiroşima, Hirošima, Hiroșima, Khiroshima, Khirosima, canghwad hi roa chi ma, guang dao, guang dao shi, hi ro chi ma, hilosima si, hiroshima, hiroshimashi, hirosima, hyrwshyma, hyrwsymh, Χιροσίμα, Хиросима, Хирошима, Хіросіма, הירושימה, هيروشيما, هیروشیما, हिरोशिमा, จังหวัดฮิโระชิมะ, ฮิโรชิมา, ჰიროსიმა, ჰიროშიმა, ひろしま, ひろしまし, ヒロシマ, ヒロシマシ, 広島, 広島市, 廣島市, 히로시마 시
 
 ---

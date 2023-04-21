@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°45'16.75" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°9'10.47" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°52'53.91" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°26'30.54" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'22.10" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°51'25.97" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°26'32.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'32.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°55'32.85" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°45'16.75" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°9'10.47" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°52'53.91" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°26'30.54" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'22.10" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°51'25.97" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°26'32.86" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'32.57" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°55'32.85" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Balenzia,  Pa-lun-si-a,  Pâ-lùn-sî-â,  VLC,  Valantsa,  Valence,  Valencia,  Valencia - Valencia,  Valencia - València,  Valencie,  Valencija,  Valencio,  Valenseje,  Valensi,  Valensia,  Valensii,  Valensij,  Valensija,  Valensiya,  Valensyaa,  Valensėjė,  Valenthia,  Valentia,  Valentzia,  Valenza,  València,  Valéncia,  Valência,  Vałénsia,  Walencja,  Walensiye,  Walénsiye,  ba len seiy,  ba lun xi ya,  ballensia,  barenshia,  blnsyt,  hua lun xi ya,  valainsi'a,  valenciya,  valensia,  valensiya,  valynsya,  wa lun xi ya,  walnsya,  wlnsyh,  wylnsya,  Βαλένθια,  Валенси,  Валенсиа,  Валенсий,  Валенсия,  Валенсија,  Валенсія,  Վալենսիա,  וואלענציע,  ולנסיה,  بلنسية,  والنسیا,  ویلنسیا,  ویلنسیہ,  ڤالينسيا,  ڤالێنسیا,  वालेन्सिया,  ਵਾਲੈਂਸੀਆ,  வாலேன்சியா,  บาเลนเซีย,  ვალენსია,  バレンシア,  巴倫西亞,  瓦伦西亚,  瓦倫西亞,  華倫西亞,  발렌시아
+Alternate Names: Balenzia, Pa-lun-si-a, Pâ-lùn-sî-â, VLC, Valantsa, Valence, Valencia, Valencia - Valencia, Valencia - València, Valencie, Valencija, Valencio, Valenseje, Valensi, Valensia, Valensii, Valensij, Valensija, Valensiya, Valensyaa, Valensėjė, Valenthia, Valentia, Valentzia, Valenza, València, Valéncia, Valência, Vałénsia, Walencja, Walensiye, Walénsiye, ba len seiy, ba lun xi ya, ballensia, barenshia, blnsyt, hua lun xi ya, valainsi'a, valenciya, valensia, valensiya, valynsya, wa lun xi ya, walnsya, wlnsyh, wylnsya, Βαλένθια, Валенси, Валенсиа, Валенсий, Валенсия, Валенсија, Валенсія, Վալենսիա, וואלענציע, ולנסיה, بلنسية, والنسیا, ویلنسیا, ویلنسیہ, ڤالينسيا, ڤالێنسیا, वालेन्सिया, ਵਾਲੈਂਸੀਆ, வாலேன்சியா, บาเลนเซีย, ვალენსია, バレンシア, 巴倫西亞, 瓦伦西亚, 瓦倫西亞, 華倫西亞, 발렌시아
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'28.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°32'13.24" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°54'7.95" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°3'37.56" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°10'10.33" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'14.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°48'24.09" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°32'15.81" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°54'11.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°3'52.50" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°10'23.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'38.80" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°17'33.52" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'28.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°32'13.24" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°54'7.95" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°3'37.56" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°10'22.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'38.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°9'50.23" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°32'15.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°54'11.48" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°3'52.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°10'23.50" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'38.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°17'33.52" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: TGU,  Tegousigalpa,  Tegousigoualpa,  Tegucigalpa,  Tegucigalpo,  Tegucigucigalpa,  Tegusigal'pa,  Tegusigalp,  Tegusigalpa,  Teguzigalpa,  Tehgusigal'pa,  Tenkousinkalpa,  Tequsiqalpa,  Teuctzincalpan,  Tègucigalpa,  de gu si jia ba,  te gu xi jia er ba,  tegushigarupa,  tegusigalapa,  tegusigalpa,  tekucikalpa,  tekusikalpa,  tgwsygalpa,  tgwsyglph,  tyghwsyghalba,  Τεγκουσιγκάλπα,  Τεγουσιγάλπα,  Тегусигалпа,  Тегусигальпа,  Тегусігальпа,  Тэгусігальпа,  Տեգուսիգալպա,  טגוסיגלפה,  טעגוסיגאלפע,  تيغوسيغالبا,  تگوسیگالپا,  ٹیگوسیگلپا,  तेगुसिगल्पा,  তেগুসিগালপা,  ਤੇਗੂਸੀਗਾਲਪਾ,  டெகுசிகல்பா,  ടെഗൂസിഗാൽപ,  เตกูซิกัลปา,  ཐེ་གུ་སི་གེ་པ།,  ტეგუსიგალპა,  ቴጉሲጋልፓ,  テグシガルパ,  德古斯加巴,  特古西加爾巴,  테구시갈파
+Alternate Names: TGU, Tegousigalpa, Tegousigoualpa, Tegucigalpa, Tegucigalpo, Tegucigucigalpa, Tegusigal'pa, Tegusigalp, Tegusigalpa, Teguzigalpa, Tehgusigal'pa, Tenkousinkalpa, Tequsiqalpa, Teuctzincalpan, Tègucigalpa, de gu si jia ba, te gu xi jia er ba, tegushigarupa, tegusigalapa, tegusigalpa, tekucikalpa, tekusikalpa, tgwsygalpa, tgwsyglph, tyghwsyghalba, Τεγκουσιγκάλπα, Τεγουσιγάλπα, Тегусигалпа, Тегусигальпа, Тегусігальпа, Тэгусігальпа, Տեգուսիգալպա, טגוסיגלפה, טעגוסיגאלפע, تيغوسيغالبا, تگوسیگالپا, ٹیگوسیگلپا, तेगुसिगल्पा, তেগুসিগালপা, ਤੇਗੂਸੀਗਾਲਪਾ, டெகுசிகல்பா, ടെഗൂസിഗാൽപ, เตกูซิกัลปา, ཐེ་གུ་སི་གེ་པ།, ტეგუსიგალპა, ቴጉሲጋልፓ, テグシガルパ, 德古斯加巴, 特古西加爾巴, 테구시갈파
 
 ---

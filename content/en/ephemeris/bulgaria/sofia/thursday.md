@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'46.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'17.01" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°6'56.75" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°48'51.36" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°21'46.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'3.40" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°0'47.29" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°44'16.89" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°6'57.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°48'50.62" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°21'47.23" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'2.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°55'34.04" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'46.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'17.01" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'56.75" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°48'51.36" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°21'46.74" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'3.40" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°0'47.29" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°44'16.74" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°7'2.63" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°48'49.00" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°21'51.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'2.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°55'34.04" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: SOF,  Safija,  Serdica,  Sofi,  Sofia,  Sofiae,  Sofie,  Sofii,  Sofij,  Sofija,  Sofija osh,  Sofijo,  Sofio,  Sofiya,  Sofiä,  Sofiýa,  Sofja,  Sofya,  Sofía,  Soifia,  Sophia,  Sredets,  Suofeje,  Suofėjė,  Szofia,  Szófia,  Sòfia,  Sófia,  Sófía,  Sóifia,  Ulpia Serdica,  cohviya,  saphiya,  seaphiya,  sofeiy,  sofi'a,  sofia,  sophiya,  sopia,  suo fei ya,  swfya,  swfyh,  swpyh,  Σόφια,  Сафія,  Софи,  Софий,  София,  София ош,  Софија,  Софія,  Софїꙗ,  Սոֆիա,  סאפיע,  סופיה,  سوفىيە,  سۆفیا,  صوفيا,  صوفیه,  صوفیہ,  صوٙفیە,  सोफिया,  সফিয়া,  ਸੋਫ਼ੀਆ,  சோஃவியா,  സോഫിയ,  โซเฟีย,  སོ་ཧྥི་ཡ།,  სოფია,  ሶፊያ,  ソフィア,  索菲亞,  소피아,  𐍃𐍉𐍆𐌹𐌰
+Alternate Names: SOF, Safija, Serdica, Sofi, Sofia, Sofiae, Sofie, Sofii, Sofij, Sofija, Sofija osh, Sofijo, Sofio, Sofiya, Sofiä, Sofiýa, Sofja, Sofya, Sofía, Soifia, Sophia, Sredets, Suofeje, Suofėjė, Szofia, Szófia, Sòfia, Sófia, Sófía, Sóifia, Ulpia Serdica, cohviya, saphiya, seaphiya, sofeiy, sofi'a, sofia, sophiya, sopia, suo fei ya, swfya, swfyh, swpyh, Σόφια, Сафія, Софи, Софий, София, София ош, Софија, Софія, Софїꙗ, Սոֆիա, סאפיע, סופיה, سوفىيە, سۆفیا, صوفيا, صوفیه, صوفیہ, صوٙفیە, सोफिया, সফিয়া, ਸੋਫ਼ੀਆ, சோஃவியா, സോഫിയ, โซเฟีย, སོ་ཧྥི་ཡ།, სოფია, ሶፊያ, ソフィア, 索菲亞, 소피아, 𐍃𐍉𐍆𐌹𐌰
 
 ---

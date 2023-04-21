@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'26.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°3'11.70" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°49'2.51" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°5'41.90" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°51'57.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'21.58" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°47'13.27" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°3'12.10" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°49'4.50" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°5'44.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°51'47.93" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'3.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|16°30'25.40" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'26.67" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°3'11.70" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°49'2.51" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°5'41.90" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°51'57.86" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'21.58" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°47'13.27" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°3'12.10" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°49'4.50" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°5'44.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°52'1.14" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'25.69" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°5'14.75" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Ciudad de Panama,  Ciudad de Panamá,  Ciutat de Panama,  Ciutat de Panamà,  PTY,  Panama,  Panama City,  Panama Hiria,  Panama by,  Panama-Stadt,  Panama-Urbo,  Panama-stad,  Panamurbo,  Panamá,  Pole tou Panama,  Ziuda de Panama,  Ziudá de Panamá,  ba na ma cheng,  panama si,  panama siti,  panamashiti,  panamasiti,  pnmh syty,  shhr panama,  Πόλη του Παναμά,  Панама,  פנמה סיטי,  شهر پاناما,  पनामा सिटी,  ปานามาซิตี,  ፓናማ ከተማ,  パナマシティ,  巴拿馬城,  파나마 시,  파나마시티
+Alternate Names: Ciudad de Panama, Ciudad de Panamá, Ciutat de Panama, Ciutat de Panamà, PTY, Panama, Panama City, Panama Hiria, Panama by, Panama-Stadt, Panama-Urbo, Panama-stad, Panamurbo, Panamá, Pole tou Panama, Ziuda de Panama, Ziudá de Panamá, ba na ma cheng, panama si, panama siti, panamashiti, panamasiti, pnmh syty, shhr panama, Πόλη του Παναμά, Панама, פנמה סיטי, شهر پاناما, पनामा सिटी, ปานามาซิตี, ፓናማ ከተማ, パナマシティ, 巴拿馬城, 파나마 시, 파나마시티
 
 ---

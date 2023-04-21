@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'45.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'33.20" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°32'0.96" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°34'39.61" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°55'33.04" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°31'59.67" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°34'38.83" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°15'33.25" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'56.80" |Aries|Butain|Sun|
 |☾ Moon|Direct|11°5'5.90" |Aries|Sharatain|Sun|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'45.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°55'32.59" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°32'1.95" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°34'36.05" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°15'32.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'52.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°44'44.48" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°55'33.04" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°31'59.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°34'38.83" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°15'31.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'54.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°58'10.59" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: DPS,  Dehnpasar,  Dempasar,  Dempassar,  Denpasar,  Denpasar - Bali,  Denpasar Bali,  Denpasaras,  Kota Denpasar,  Kutha Denpasar,  Ntenpasar,  dan pa sha,  denapasara,  denpasaleu,  denpasaru,  dnpasar,  Ντενπασάρ,  Денпасар,  Дэнпасар,  דנפסאר,  دنپاسار,  ڈنپاسار,  ڈنپسار,  देनपसार,  દેનપસાર,  ဒန်ပါဆာမြို့,  დენპასარი,  デンパサール,  丹帕沙,  덴파사르
+Alternate Names: DPS, Dehnpasar, Dempasar, Dempassar, Denpasar, Denpasar - Bali, Denpasar Bali, Denpasaras, Kota Denpasar, Kutha Denpasar, Ntenpasar, dan pa sha, denapasara, denpasaleu, denpasaru, dnpasar, Ντενπασάρ, Денпасар, Дэнпасар, דנפסאר, دنپاسار, ڈنپاسار, ڈنپسار, देनपसार, દેનપસાર, ဒန်ပါဆာမြို့, დენპასარი, デンパサール, 丹帕沙, 덴파사르
 
 ---

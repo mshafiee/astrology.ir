@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'54.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'38.17" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°7'50.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°50'14.44" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°23'33.96" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'6.80" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°25'58.03" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°44'40.20" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°7'48.24" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°50'26.67" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°23'37.80" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'20.90" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°49'25.76" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'54.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'38.17" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°7'50.97" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°50'14.44" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°23'33.96" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'6.80" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°25'58.03" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°44'40.20" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°7'48.24" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°50'26.10" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°23'36.41" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'19.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°45'55.24" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: E'ville,  Elisabethville,  Elizabethstad,  Elizabethville,  E’ville,  FBM,  Lubumbashi,  Lubumbashi shaary,  Lubumbashy,  Lubumbasi,  Lubumbasis,  Lubumbaši,  Lubumbašis,  Lumumbashi,  lu ben ba xi,  lubumabasi,  lubumbasi,  lubumbasi si,  lwbmbashy,  lwbwmbashy,  rubunbashi,  Élisabethville,  Лубумбаши,  Лубумбаши шаары,  Лубумбашы,  Лубумбаші,  לובומבאשי,  لوبمباشی,  لوبومباشي,  لوبومباشی,  ਲੂਬੁਮਬਾਸ਼ੀ,  ルブンバシ,  盧本巴希,  루붐바시,  루붐바시 시
+Alternate Names: E'ville, Elisabethville, Elizabethstad, Elizabethville, E’ville, FBM, Lubumbashi, Lubumbashi shaary, Lubumbashy, Lubumbasi, Lubumbasis, Lubumbaši, Lubumbašis, Lumumbashi, lu ben ba xi, lubumabasi, lubumbasi, lubumbasi si, lwbmbashy, lwbwmbashy, rubunbashi, Élisabethville, Лубумбаши, Лубумбаши шаары, Лубумбашы, Лубумбаші, לובומבאשי, لوبمباشی, لوبومباشي, لوبومباشی, ਲੂਬੁਮਬਾਸ਼ੀ, ルブンバシ, 盧本巴希, 루붐바시, 루붐바시 시
 
 ---

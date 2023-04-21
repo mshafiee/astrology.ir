@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°32'18.42" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°42'57.74" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°4'2.29" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°43'28.93" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°15'34.34" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'22.71" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°27'11.93" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°43'28.49" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°15'31.29" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'20.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°29'58.58" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'18.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'57.74" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'2.29" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°43'28.49" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°15'34.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'22.71" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°27'11.93" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°42'57.86" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°4'3.56" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°43'29.05" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°15'31.29" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'20.95" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°29'58.58" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Casanum,  Caza,  Cazã,  KZN,  Kaasan,  Kasa,  Kasan,  Kasã,  Kazan,  Kazan',  Kazan' osh,  Kazana,  Kazane,  Kazani,  Kazanj,  Kazano,  Kazanė,  Kazan’,  Kazań,  Kazaņa,  Kazaň,  Kazán,  Khuazan,  Khusan,  Kozan',  Kuazan,  Kuzon,  Qazan,  Qozon,  ka shan,  kajan,  kajhana,  kazan,  kazana,  kha san,  qazan,  Καζάν,  Казан,  Казань,  Казань ош,  Казањ,  Каꙁанъ,  Козань,  Кузон,  Къазан,  Озаҥ,  Хусан,  Хъазан,  Қазан,  Ҡazan,  Ҡазан,  Կազան,  קאזאן,  قازان,  كازان,  کازان,  कझान,  काज़ान,  คาซาน,  ყაზანი,  カザン,  喀山,  카잔
+Alternate Names: Casanum, Caza, Cazã, KZN, Kaasan, Kasa, Kasan, Kasã, Kazan, Kazan', Kazan' osh, Kazana, Kazane, Kazani, Kazanj, Kazano, Kazanė, Kazan’, Kazań, Kazaņa, Kazaň, Kazán, Khuazan, Khusan, Kozan', Kuazan, Kuzon, Qazan, Qozon, ka shan, kajan, kajhana, kazan, kazana, kha san, qazan, Καζάν, Казан, Казань, Казань ош, Казањ, Каꙁанъ, Козань, Кузон, Къазан, Озаҥ, Хусан, Хъазан, Қазан, Ҡazan, Ҡазан, Կազան, קאזאן, قازان, كازان, کازان, कझान, काज़ान, คาซาน, ყაზანი, カザン, 喀山, 카잔
 
 ---

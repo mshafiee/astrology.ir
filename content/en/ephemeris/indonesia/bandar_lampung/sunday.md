@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'54.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'44.81" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°37'17.85" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°33'18.83" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°34'36.79" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'8.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°38'44.46" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°24'43.60" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°37'14.21" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°33'12.03" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°34'29.16" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'57.24" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°48'1.97" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'54.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'42.82" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°37'13.76" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°33'7.49" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°34'26.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'50.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°25'24.91" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'44.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°37'17.85" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°33'18.83" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°34'36.79" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'8.94" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°38'44.46" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bandar Lampung,  Bandar-Lampung,  Bandarlampung,  Kota Bandar Lampung,  TKG,  Tanjungkarang,  Tanjungkarang-Telukbetung,  Telukbetung,  ban da nan bang,  bandaleulampung,  bandaruranpun,  bndr lampwng,  Бандар-Лампунг,  بندر لامپونگ,  バンダールランプン,  班達楠榜,  반다르람풍
+Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍
 
 ---

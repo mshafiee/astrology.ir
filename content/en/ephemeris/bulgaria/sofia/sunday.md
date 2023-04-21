@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°44'24.56" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°47'37.84" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°28'12.06" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°38'11.32" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|9°40'44.70" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'50.42" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°27'28.85" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°43'27.28" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°44'24.56" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°47'37.28" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'12.57" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°38'11.32" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|14°43'32.16" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°44'23.09" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°47'42.37" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'12.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°5'3.06" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SOF,  Safija,  Serdica,  Sofi,  Sofia,  Sofiae,  Sofie,  Sofii,  Sofij,  Sofija,  Sofija osh,  Sofijo,  Sofio,  Sofiya,  Sofiä,  Sofiýa,  Sofja,  Sofya,  Sofía,  Soifia,  Sophia,  Sredets,  Suofeje,  Suofėjė,  Szofia,  Szófia,  Sòfia,  Sófia,  Sófía,  Sóifia,  Ulpia Serdica,  cohviya,  saphiya,  seaphiya,  sofeiy,  sofi'a,  sofia,  sophiya,  sopia,  suo fei ya,  swfya,  swfyh,  swpyh,  Σόφια,  Сафія,  Софи,  Софий,  София,  София ош,  Софија,  Софія,  Софїꙗ,  Սոֆիա,  סאפיע,  סופיה,  سوفىيە,  سۆفیا,  صوفيا,  صوفیه,  صوفیہ,  صوٙفیە,  सोफिया,  সফিয়া,  ਸੋਫ਼ੀਆ,  சோஃவியா,  സോഫിയ,  โซเฟีย,  སོ་ཧྥི་ཡ།,  სოფია,  ሶፊያ,  ソフィア,  索菲亞,  소피아,  𐍃𐍉𐍆𐌹𐌰
+Alternate Names: SOF, Safija, Serdica, Sofi, Sofia, Sofiae, Sofie, Sofii, Sofij, Sofija, Sofija osh, Sofijo, Sofio, Sofiya, Sofiä, Sofiýa, Sofja, Sofya, Sofía, Soifia, Sophia, Sredets, Suofeje, Suofėjė, Szofia, Szófia, Sòfia, Sófia, Sófía, Sóifia, Ulpia Serdica, cohviya, saphiya, seaphiya, sofeiy, sofi'a, sofia, sophiya, sopia, suo fei ya, swfya, swfyh, swpyh, Σόφια, Сафія, Софи, Софий, София, София ош, Софија, Софія, Софїꙗ, Սոֆիա, סאפיע, סופיה, سوفىيە, سۆفیا, صوفيا, صوفیه, صوفیہ, صوٙفیە, सोफिया, সফিয়া, ਸੋਫ਼ੀਆ, சோஃவியா, സോഫിയ, โซเฟีย, སོ་ཧྥི་ཡ།, სოფია, ሶፊያ, ソフィア, 索菲亞, 소피아, 𐍃𐍉𐍆𐌹𐌰
 
 ---

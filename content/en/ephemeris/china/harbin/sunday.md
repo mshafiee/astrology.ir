@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°23'17.62" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°34'3.37" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°27'22.92" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°27'42.60" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'53.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°54'56.24" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°27'42.10" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'54.39" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°53'20.75" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Cap Nhi Tan,  Charbin,  Charbinas,  Charmpin,  Cáp Nhĩ Tân,  HRB,  Ha'erbin,  Ha-erh-pin,  Ha-erh-pin-shih,  Harbin,  Harbin Shi,  Harbin-chhi,  Harbin-chhī,  Harbina,  Harbino,  Ha’erbin,  Kharbin,  Lungsod ng Harbin,  Pin-chiang,  Pin-chiang-hsien,  Pinkiang,  Xarbin,  ha er bin,  ha er bin shi,  ha-eolbin si,  har bin,  harabina,  harbn,  harbyn,  harpina,  harubin,  harubin shi,  hrbyn,  kharbini,  Χαρμπίν,  Харбин,  Харбін,  Խարբին,  חרבין,  خاربىن شەھىرى,  هاربن,  هاربین,  ہاربن,  हारबिन,  हार्पिन,  ਹਾਰਬਿਨ,  ฮาร์บิน,  ဟာရ်ပင်းမြို့,  ხარბინი,  ハルビン,  ハルビン市,  哈尔滨,  哈尔滨市,  哈爾濱,  하얼빈 시
+Alternate Names: Cap Nhi Tan, Charbin, Charbinas, Charmpin, Cáp Nhĩ Tân, HRB, Ha'erbin, Ha-erh-pin, Ha-erh-pin-shih, Harbin, Harbin Shi, Harbin-chhi, Harbin-chhī, Harbina, Harbino, Ha’erbin, Kharbin, Lungsod ng Harbin, Pin-chiang, Pin-chiang-hsien, Pinkiang, Xarbin, ha er bin, ha er bin shi, ha-eolbin si, har bin, harabina, harbn, harbyn, harpina, harubin, harubin shi, hrbyn, kharbini, Χαρμπίν, Харбин, Харбін, Խարբին, חרבין, خاربىن شەھىرى, هاربن, هاربین, ہاربن, हारबिन, हार्पिन, ਹਾਰਬਿਨ, ฮาร์บิน, ဟာရ်ပင်းမြို့, ხარბინი, ハルビン, ハルビン市, 哈尔滨, 哈尔滨市, 哈爾濱, 하얼빈 시
 
 ---

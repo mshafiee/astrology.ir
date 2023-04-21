@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°11'11.92" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°45'55.15" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°39'9.24" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'33.59" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°46'2.24" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|15°35'33.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°59'3.06" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'53.19" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'5.74" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°11'11.07" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°45'55.87" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°39'8.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'33.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°46'2.24" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°13'5.63" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°11'11.92" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°45'55.15" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°39'9.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'33.12" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°46'5.45" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: SOF,  Safija,  Serdica,  Sofi,  Sofia,  Sofiae,  Sofie,  Sofii,  Sofij,  Sofija,  Sofija osh,  Sofijo,  Sofio,  Sofiya,  Sofiä,  Sofiýa,  Sofja,  Sofya,  Sofía,  Soifia,  Sophia,  Sredets,  Suofeje,  Suofėjė,  Szofia,  Szófia,  Sòfia,  Sófia,  Sófía,  Sóifia,  Ulpia Serdica,  cohviya,  saphiya,  seaphiya,  sofeiy,  sofi'a,  sofia,  sophiya,  sopia,  suo fei ya,  swfya,  swfyh,  swpyh,  Σόφια,  Сафія,  Софи,  Софий,  София,  София ош,  Софија,  Софія,  Софїꙗ,  Սոֆիա,  סאפיע,  סופיה,  سوفىيە,  سۆفیا,  صوفيا,  صوفیه,  صوفیہ,  صوٙفیە,  सोफिया,  সফিয়া,  ਸੋਫ਼ੀਆ,  சோஃவியா,  സോഫിയ,  โซเฟีย,  སོ་ཧྥི་ཡ།,  სოფია,  ሶፊያ,  ソフィア,  索菲亞,  소피아,  𐍃𐍉𐍆𐌹𐌰
+Alternate Names: SOF, Safija, Serdica, Sofi, Sofia, Sofiae, Sofie, Sofii, Sofij, Sofija, Sofija osh, Sofijo, Sofio, Sofiya, Sofiä, Sofiýa, Sofja, Sofya, Sofía, Soifia, Sophia, Sredets, Suofeje, Suofėjė, Szofia, Szófia, Sòfia, Sófia, Sófía, Sóifia, Ulpia Serdica, cohviya, saphiya, seaphiya, sofeiy, sofi'a, sofia, sophiya, sopia, suo fei ya, swfya, swfyh, swpyh, Σόφια, Сафія, Софи, Софий, София, София ош, Софија, Софія, Софїꙗ, Սոֆիա, סאפיע, סופיה, سوفىيە, سۆفیا, صوفيا, صوفیه, صوفیہ, صوٙفیە, सोफिया, সফিয়া, ਸੋਫ਼ੀਆ, சோஃவியா, സോഫിയ, โซเฟีย, སོ་ཧྥི་ཡ།, სოფია, ሶፊያ, ソフィア, 索菲亞, 소피아, 𐍃𐍉𐍆𐌹𐌰
 
 ---

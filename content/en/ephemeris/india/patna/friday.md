@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°56'26.81" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°34'1.01" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°38'16.75" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°19'49.28" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'1.85" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°39'1.67" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|11°19'48.54" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'1.36" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°37'30.93" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°34'1.01" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°38'16.75" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°19'49.28" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'1.36" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°37'30.93" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'1.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°39'1.67" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: 'Azimabad,  New Patna,  PAT,  Patna,  Patna New City,  Patnao,  ba te na,  batna,  pat na,  patana,  pateuna,  patna,  patona,  ptnh,  ʿAẓīmābād,  Πάτνα,  Патна,  Պատնա,  פטנה,  باتنا,  پتنه,  پٹنہ,  پټنا,  पटना,  पाटणा,  पाट्ना,  পাটনা,  ਪਟਨਾ,  પટના,  ପାଟଣା,  பட்னா,  பாட்னா,  పాట్నా,  ಪಟ್ನಾ,  പട്ന,  ปัฏนา,  პატნა,  パトナ,  パトナー,  巴特那,  파트나
+Alternate Names: 'Azimabad, New Patna, PAT, Patna, Patna New City, Patnao, ba te na, batna, pat na, patana, pateuna, patna, patona, ptnh, ʿAẓīmābād, Πάτνα, Патна, Պատնա, פטנה, باتنا, پتنه, پٹنہ, پټنا, पटना, पाटणा, पाट्ना, পাটনা, ਪਟਨਾ, પટના, ପାଟଣା, பட்னா, பாட்னா, పాట్నా, ಪಟ್ನಾ, പട്ന, ปัฏนา, პატნა, パトナ, パトナー, 巴特那, 파트나
 
 ---

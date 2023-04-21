@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°42'36.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'19.13" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°9'32.43" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°42'45.78" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°35'32.49" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'49.32" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°20'6.27" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°42'37.16" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°12'19.31" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°9'27.99" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°42'47.14" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°35'28.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'48.58" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°8'36.05" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'37.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'19.33" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°9'28.09" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°42'47.26" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°35'28.63" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'48.81" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°9'41.41" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'19.31" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°9'27.99" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°42'47.14" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°35'28.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'48.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°8'36.05" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al-Sulaimaniya,  As Sulaymaniyah,  As Sulaymānīyah,  As-Sulajmanijja,  ISU,  Silemani,  Silêmanî,  Sleimani,  Sleimāni,  Slemani,  Slêmanî,  Slēmānī,  Solimania,  Souleimaniye,  Sueleymaniye,  Sulaimani,  Sulaimania,  Sulaimanieh,  Sulaimaniya,  Sulaimaniyya,  Sulaimany,  Sulaymaniyah,  Sulaymaniyya,  Sulaymānīyah,  Suleimania,  Suleimaniya,  Suleimaniyah,  Sulejmanija,  Süleymaniye,  alslymanyt,  slymanyh,  Сулеймания,  السليمانية,  سلیمانیه,  سلێمانى,  سلێمانی
+Alternate Names: Al-Sulaimaniya, As Sulaymaniyah, As Sulaymānīyah, As-Sulajmanijja, ISU, Silemani, Silêmanî, Sleimani, Sleimāni, Slemani, Slêmanî, Slēmānī, Solimania, Souleimaniye, Sueleymaniye, Sulaimani, Sulaimania, Sulaimanieh, Sulaimaniya, Sulaimaniyya, Sulaimany, Sulaymaniyah, Sulaymaniyya, Sulaymānīyah, Suleimania, Suleimaniya, Suleimaniyah, Sulejmanija, Süleymaniye, alslymanyt, slymanyh, Сулеймания, السليمانية, سلیمانیه, سلێمانى, سلێمانی
 
 ---

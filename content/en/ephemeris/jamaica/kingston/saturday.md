@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°44'22.88" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°17'24.82" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°20'51.57" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°3'27.27" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°59'46.29" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'59.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°6'51.92" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|2°3'29.61" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°59'42.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'0.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°57'22.67" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: KIN,  Kin'nkston,  Kingston,  Kingstono,  jing si dui,  kingseuteon,  kingusuton,  kyngstwn,  Κίνγκστον,  Кингстон,  کینگستون,  キングストン,  京斯敦,  킹스턴
+Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴
 
 ---

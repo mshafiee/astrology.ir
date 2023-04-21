@@ -20,7 +20,7 @@ Latitude: 36.9862
 \-
 Longitude: 35.3253
 \-
-Altitude: 30 meters
+Altitude: 38 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adana, Turkey" lat="36.9862" lng="35.3253" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'38.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'53.09" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°6'8.87" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°47'10.58" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°19'56.04" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'50.16" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°11'44.64" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'52.97" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°6'4.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°47'13.51" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°19'52.69" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'50.92" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°33'56.71" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'38.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'52.57" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'8.87" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°47'10.58" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°19'56.04" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'50.16" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°11'44.64" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'53.09" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°6'4.54" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°47'14.14" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°19'53.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'52.02" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°38'1.05" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ADA,  Adana,  Adane,  Adano,  Adanë,  Adhanah,  Antiocheia,  Edene,  a da na,  adana,  adnt,  xa da na,  yadana,  Άδανα,  Αδανα,  Αντιόχεια,  Адана,  Ադանա,  אדנה,  آدانا,  أضنة,  ئادانا,  अदना,  আদানা,  อาดานา,  ადანა,  アダナ,  阿达纳,  아다나
+Alternate Names: ADA, Adana, Adane, Adanë, Adhanah, Antiocheia, Edene, a da na, adana, adnt, xa da na, yadana, Άδανα, Αδανα, Αντιόχεια, Адана, Ադանա, אדנה, آدانا, أضنة, ئادانا, अदना, আদানা, อาดานา, ადანა, アダナ, 阿达纳, 아다나
 
 ---

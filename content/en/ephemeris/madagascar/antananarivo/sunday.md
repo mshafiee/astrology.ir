@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'44.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'10.37" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°42'45.15" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°43'9.86" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°46'9.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'27.44" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°30'45.08" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°27'10.98" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°42'46.01" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°43'13.25" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°46'12.18" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'32.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°49'24.77" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'44.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°27'10.37" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°42'45.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°43'9.86" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°46'9.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'27.44" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°30'45.08" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°27'10.98" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°42'46.01" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°43'13.25" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°46'12.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'32.72" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°49'24.77" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Antananarifo,  Antananarivo,  Antananarivu,  Antananariwo,  Antananaryvas,  Antananaryvu,  Antananarywa,  Antananarívó,  Antenenerivo,  TNR,  Tana,  Tananaribe,  Tananarive,  an ta na na li fu,  anatananaribho,  anrananarivea,  antananalibo,  antananaribho,  antananaribo,  antananarivho,  antananarivo,  antananaryfw,  antananaryww,  antʼananarivu,  atananarivo,  ta na na li fu,  xan ta nana ri wo,  Ανταναναρίβο,  Ταναναρίβη,  Антананариво,  Антананариву,  Антананарыву,  Антананаріву,  Тананариве,  Անտանանարիվու,  אנטאנאנאריווא,  אנטננריבו,  آنتاناناریوو,  أنتاناناريفو,  ئانتاناناریڤۆ,  انٹاناناریوو,  اینٹانانیریو,  अंतानानारिव्हो,  अन्टाननरीवो,  আনতানানারিভো,  আন্তানানারিভো,  ਅੰਤਾਨਾਨਾਰੀਵੋ,  அண்டனானரீவோ,  ആന്റനനറീവൊ,  อันตานานาริโว,  ཨེན་ཊ་ན་ན་རི་བོ།,  ანტანანარივუ,  አንታናናሪቮ,  アンタナナリボ,  塔那那利佛,  安塔那那利佛,  안타나나리보
+Alternate Names: Antananarifo, Antananarivo, Antananarivu, Antananariwo, Antananaryvas, Antananaryvu, Antananarywa, Antananarívó, TNR, Tana, Tananaribe, Tananarive, an ta na na li fu, anatananaribho, anrananarivea, antananalibo, antananaribho, antananaribo, antananarivho, antananarivo, antananaryfw, antananaryww, antʼananarivu, atananarivo, ta na na li fu, xan ta nana ri wo, Ανταναναρίβο, Ταναναρίβη, Антананариво, Антананариву, Антананарыву, Антананаріву, Тананариве, Անտանանարիվու, אנטאנאנאריווא, אנטננריבו, آنتاناناریوو, أنتاناناريفو, ئانتاناناریڤۆ, انٹاناناریوو, اینٹانانیریو, अंतानानारिव्हो, अन्टाननरीवो, আনতানানারিভো, আন্তানানারিভো, ਅੰਤਾਨਾਨਾਰੀਵੋ, அண்டனானரீவோ, ആന്റനനറീവൊ, อันตานานาริโว, ཨེན་ཊ་ན་ན་རི་བོ།, ანტანანარივუ, አንታናናሪቮ, アンタナナリボ, 塔那那利佛, 安塔那那利佛, 안타나나리보
 
 ---

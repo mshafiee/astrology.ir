@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'58.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°13'19.60" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°11'42.15" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°46'53.22" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°40'15.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'35.61" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°24'28.77" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°13'18.65" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°11'42.63" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°46'47.75" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°40'12.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'28.36" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°58'42.35" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'58.09" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°13'19.60" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°11'42.75" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°46'48.38" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°40'13.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'29.31" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°2'31.07" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|14°11'42.15" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°46'53.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°40'15.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'35.61" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°24'28.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: KGL,  Kigale,  Kigali,  Kigalis,  Kigalo,  Kigaly,  Kinkali,  Kiqali,  Kígalí,  ji jia li,  khikali,  kigali,  kigalli,  kigari,  kikali,  kygaly,  kyghaly,  Κιγκάλι,  Кигали,  Кігалі,  Կիգալի,  קיגאלי,  كيغالي,  کیگالی,  किगाली,  ਕਿਗਾਲੀ,  கிகாலி,  කිගාලි,  คิกาลี,  ཀི་ག་ལི།,  კიგალი,  ኪጋሊ,  キガリ,  吉佳利,  키갈리
+Alternate Names: KGL, Kigale, Kigali, Kigalis, Kigalo, Kigaly, Kinkali, Kiqali, Kígalí, ji jia li, khikali, kigali, kigalli, kigari, kikali, kygaly, kyghaly, Κιγκάλι, Кигали, Кігалі, Կիգալի, קיגאלי, كيغالي, کیگالی, किगाली, ਕਿਗਾਲੀ, கிகாலி, කිගාලි, คิกาลี, ཀི་ག་ལི།, კიგალი, ኪጋሊ, キガリ, 吉佳利, 키갈리
 
 ---

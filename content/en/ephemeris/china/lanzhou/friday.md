@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'46.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'34.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°32'4.85" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°34'43.98" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°15'40.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'51.62" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°41'59.17" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°55'34.75" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°32'5.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°34'45.11" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°15'41.77" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'53.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°50'30.09" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'46.17" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°55'32.31" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°32'3.32" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°34'30.75" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°15'40.18" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'51.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°41'59.17" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°55'34.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°32'5.78" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°34'45.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°15'41.77" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'53.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°50'30.09" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Kao-lan-hsien,  Kaolan,  LHW,  Lan Chau,  Lan Châu,  Lan'chzhou,  Lan'chzhou shaary,  Lan'zhou,  Lan-chiu-chhi,  Lan-chou,  Lan-chou-shih,  Lan-cou,  Lan-čou,  Lanchjou,  Lanchow,  Lanchowfu,  Lancsou,  Landzhou,  Landzou,  Landžou,  Lang-ciu,  Langouo,  Lantsjou,  Lantsoou,  Lanzcouh,  Lanzhou,  Lanzhou Shi,  Lanĝoŭo,  Laņdžou,  Làng-ciŭ,  Lân-chiu-chhī,  hlan cow,  lan zhou,  lan zhou shi,  lanazu,  lanjeou si,  lanjhu,  lantshw,  lanzhw,  Λαντσόου,  Ланджоу,  Ланьжоу,  Ланьчжоу,  Ланьчжоу шаары,  Ланџоу,  لانتشو,  لانزہو,  لانژو,  لەنجۇ شەھىرى,  लान्झू,  ਲਾਨਜ਼ੂ,  หลานโจว,  ལན་ཀྲོའུ།,  兰州,  兰州市,  蘭州,  蘭州市,  란저우 시
+Alternate Names: Kao-lan-hsien, Kaolan, LHW, Lan Chau, Lan Châu, Lan'chzhou, Lan'chzhou shaary, Lan'zhou, Lan-chiu-chhi, Lan-chou, Lan-chou-shih, Lan-cou, Lan-čou, Lanchjou, Lanchow, Lanchowfu, Lancsou, Landzhou, Landzou, Landžou, Lang-ciu, Langouo, Lantsjou, Lantsoou, Lanzcouh, Lanzhou, Lanzhou Shi, Lanĝoŭo, Laņdžou, Làng-ciŭ, Lân-chiu-chhī, hlan cow, lan zhou, lan zhou shi, lanazu, lanjeou si, lanjhu, lantshw, lanzhw, Λαντσόου, Ланджоу, Ланьжоу, Ланьчжоу, Ланьчжоу шаары, Ланџоу, لانتشو, لانزہو, لانژو, لەنجۇ شەھىرى, लान्झू, ਲਾਨਜ਼ੂ, หลานโจว, ལན་ཀྲོའུ།, 兰州, 兰州市, 蘭州, 蘭州市, 란저우 시
 
 ---

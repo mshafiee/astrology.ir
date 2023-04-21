@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°32'5.26" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°42'20.51" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°2'38.33" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°40'58.08" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°12'31.54" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'5.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°21'25.30" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°40'58.85" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°12'30.83" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'5.54" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°24'18.41" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°32'5.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'20.39" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°2'39.05" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°40'58.08" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°12'31.54" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'5.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°21'25.30" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°32'5.26" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°42'20.51" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°2'38.33" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°40'58.85" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°12'31.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'6.17" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°27'3.16" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Cenaj,  Cenajo,  Cenajus,  Cenay,  Cennai,  Cennaj,  Chehnai,  Chenaj,  Chennai,  Chennai - cennai,  Chennai - சென்னை,  Chennaj,  Csennai,  MAA,  Maderaspatanum,  Madras,  Madrás,  Tamizhagam,  Tamulinadu,  Tsennai,  cen ni,  cena'i,  cenna'i,  cennai,  chen'nai,  chenai,  chennai,  chnay,  chnayy,  chynay,  chynayy,  jin nai,  qing nai,  tshynay,  znʼy,  Çenay,  Çennai,  Ćennaj,  Ĉenajo,  Čenaj,  Čenajus,  Čennai,  Čennaí,  Τσεννάι,  Ченай,  Ченај,  Ченнаи,  Ченнай,  Ченнаї,  Чэнаі,  Չեննայ,  צנאי,  تشيناي,  چنائی,  چنای,  چينای,  چینائی,  चेन्नई,  चेन्नै,  চেন্নাই,  ਚੇਨਈ,  ચેન્નઈ,  ଚେନ୍ନାଇ,  சென்னை,  చెన్నై,  ಚೆನ್ನೈ,  ചെന്നൈ,  චෙන්නායි,  เจนไน,  ချန်နိုင်းမြို့,  ჩენაი,  チェンナイ,  清奈,  金奈,  첸나이
+Alternate Names: Cenaj, Cenajo, Cenajus, Cenay, Cennai, Cennaj, Chehnai, Chenaj, Chennai, Chennai - cennai, Chennai - சென்னை, Chennaj, Csennai, MAA, Maderaspatanum, Madras, Madrás, Tamizhagam, Tamulinadu, Tsennai, cen ni, cena'i, cenna'i, cennai, chen'nai, chenai, chennai, chnay, chnayy, chynay, chynayy, jin nai, qing nai, tshynay, znʼy, Çenay, Çennai, Ćennaj, Ĉenajo, Čenaj, Čenajus, Čennai, Čennaí, Τσεννάι, Ченай, Ченај, Ченнаи, Ченнай, Ченнаї, Чэнаі, Չեննայ, צנאי, تشيناي, چنائی, چنای, چينای, چینائی, चेन्नई, चेन्नै, চেন্নাই, ਚੇਨਈ, ચેન્નઈ, ଚେନ୍ନାଇ, சென்னை, చెన్నై, ಚೆನ್ನೈ, ചെന്നൈ, චෙන්නායි, เจนไน, ချန်နိုင်းမြို့, ჩენაი, チェンナイ, 清奈, 金奈, 첸나이
 
 ---

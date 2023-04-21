@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'36.10" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°26'46.93" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°41'52.82" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°41'34.47" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°44'18.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'43.20" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°9'56.47" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|14°41'53.07" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°41'34.90" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°44'18.76" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'43.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°13'18.30" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'36.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°26'46.38" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°41'56.72" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°41'31.06" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°44'20.69" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'40.52" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°20'1.16" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°26'46.93" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°41'52.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°41'34.47" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°44'18.25" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'43.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°9'56.47" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BGW,  Bagda,  Bagdad,  Bagdadas,  Bagdado,  Bagdat,  Bagdate,  Bagdatum,  Bagdod,  Bagdá,  Bagdád,  Baghdad,  Baghdād,  Bağdad,  Bağdat,  Beghdad,  Bexda,  Lungsod ng Baghdad,  ba ge da,  bagadada,  bageudadeu,  bagudado,  bghdad,  bەghdad,  paktat,  Βαγδάτη,  Багдад,  Бағдод,  Բաղդադ,  בגדאד,  بغداد,  بەغداد,  ܒܓܕܐܕ,  बगदाद,  বাগদাদ,  பக்தாத்,  པ་ག་ཏ,  ባግዳድ,  バグダード,  巴格达,  巴格達,  바그다드
+Alternate Names: BGW, Bagda, Bagdad, Bagdadas, Bagdado, Bagdat, Bagdate, Bagdatum, Bagdod, Bagdá, Bagdád, Baghdad, Baghdād, Bağdad, Bağdat, Beghdad, Bexda, Lungsod ng Baghdad, ba ge da, bagadada, bageudadeu, bagudado, bghdad, bەghdad, paktat, Βαγδάτη, Багдад, Бағдод, Բաղդադ, בגדאד, بغداد, بەغداد, ܒܓܕܐܕ, बगदाद, বাগদাদ, பக்தாத், པ་ག་ཏ, ባግዳድ, バグダード, 巴格达, 바그다드
 
 ---

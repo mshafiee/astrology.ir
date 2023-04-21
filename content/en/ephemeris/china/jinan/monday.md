@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'29.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°38'12.77" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°7'35.48" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°28'3.67" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°38'39.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'12.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°9'51.52" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°38'12.61" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°7'36.13" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°28'2.72" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°38'39.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'11.43" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°11'46.41" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°7'35.48" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°28'3.67" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|14°38'39.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'12.48" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°9'51.52" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|15°19'11.43" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°11'46.41" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ca-nang,  Che-lam-chhi,  Chi-nam-su,  Chi-nan,  Chi-nan-shih,  Chi-nàm-sṳ,  Chè-lâm-chhī,  Cijnanz,  Cinanum,  Csinan,  Czinan',  Cá̤-nàng,  Dzinan,  Dzinanas,  Dzjinana,  Dzjinaņa,  Ginano,  Jinan,  Jinan Shi,  Li-ch'eng,  Li-ch’eng,  Szinan,  TNA,  Te Nam,  Ti-nan,  Tsi-nan-fu,  Tsinah,  Tsinan,  Tzinan,  Tế Nam,  Zhinan',  ci hnan,  cinana,  gynʼn,  ji nan,  ji nan shi,  jinan si,  jinana,  jynan,  Ĝinano,  Ťi-nan,  Τζινάν,  Ђинан,  Дзинан,  Жинань,  Цзинань,  Цзінань,  Ցզինան,  גינאן,  جىنەن شەھىرى,  جينان,  جینان,  जीनान,  ਚੀਨਾਨ,  จี่หนาน,  ཅི་ནན།,  ကျီနန်မြို့,  济南,  济南市,  済南,  済南市,  濟南,  濟南市,  지난 시
+Alternate Names: Ca-nang, Che-lam-chhi, Chi-nam-su, Chi-nan, Chi-nan-shih, Chi-nàm-sṳ, Chè-lâm-chhī, Cijnanz, Cinanum, Csinan, Czinan', Cá̤-nàng, Dzinan, Dzinanas, Dzjinana, Dzjinaņa, Ginano, Jinan, Jinan Shi, Li-ch'eng, Li-ch’eng, Szinan, TNA, Te Nam, Ti-nan, Tsi-nan-fu, Tsinah, Tsinan, Tzinan, Tế Nam, Zhinan', ci hnan, cinana, gynʼn, ji nan, ji nan shi, jinan si, jinana, jynan, Ĝinano, Ťi-nan, Τζινάν, Ђинан, Дзинан, Жинань, Цзинань, Цзінань, Ցզինան, גינאן, جىنەن شەھىرى, جينان, جینان, जीनान, ਚੀਨਾਨ, จี่หนาน, ཅི་ནན།, ကျီနန်မြို့, 济南, 济南市, 済南, 済南市, 濟南, 濟南市, 지난 시
 
 ---

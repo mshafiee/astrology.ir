@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SAH,  Sano,  San'ah,  San`a',  Sana,  Sana'a,  Sana'a',  Sanaa,  Sanao,  Sanaà,  Sanaá,  San’ah,  sa na,  sana,  sanua,  snʿaʾ,  Şana‘ā',  Şan‘ā’,  Σάνα,  Сана,  Санъо,  צנעא,  صنعاء,  ሳና,  サヌア,  萨那,  사나
+Alternate Names: SAH, Sano, San'ah, San`a', Sana, Sana'a, Sana'a', Sanaa, Sanaà, Sanaá, San’ah, sa na, sana, sanua, snʿaʾ, Şana‘ā', Şan‘ā’, Σάνα, Сана, Санъо, צנעא, صنعاء, ሳና, サヌア, 萨那, 사나
 
 ---

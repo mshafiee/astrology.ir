@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°12'43.29" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°10'22.44" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°44'23.71" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°37'21.71" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'35.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°6'14.88" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|12°37'23.12" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'36.71" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°13'5.13" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'45.41" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'43.29" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°10'22.44" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°44'23.31" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°37'21.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'35.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°6'14.88" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'43.88" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°10'22.96" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°44'27.12" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°37'25.52" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'41.73" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°33'7.61" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: RIX,  Reiga,  Riga,  Rigae,  Rige,  Rigg-a,  Rigo,  Riia,  Riigaa,  Riika,  Rija,  Riqa,  Ryga,  Ríga,  Ríge,  Rīga,  li jia,  liga,  ri ka,  riga,  rika,  ryga,  rygh,  rygha,  ryja,  Ρίγα,  Ригæ,  Рига,  Рыга,  Ріґа,  Ռիգա,  ריגה,  ריגע,  رىگا,  ريجا,  ريغا,  ریگا,  रिगा,  रीगा,  রিগা,  ரீகா,  รีกา,  རི་ག,  რიგა,  ሪጋ,  リガ,  里加,  리가
+Alternate Names: RIX, Reiga, Riga, Rigae, Rige, Rigg-a, Rigo, Riia, Riigaa, Riika, Rija, Riqa, Ryga, Ríga, Ríge, Rīga, li jia, liga, ri ka, riga, rika, ryga, rygh, rygha, ryja, Ρίγα, Ригæ, Рига, Рыга, Ріґа, Ռիգա, ריגה, ריגע, رىگا, ريجا, ريغا, ریگا, रिगा, रीगा, রিগা, ரீகா, รีกา, རི་ག, რიგა, ሪጋ, リガ, 里加, 리가
 
 ---

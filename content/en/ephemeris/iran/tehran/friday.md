@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'30.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'40.17" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°36'49.54" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°43'13.21" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°25'43.68" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'7.71" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°26'59.12" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°57'40.66" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°36'45.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°43'18.51" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°25'46.77" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'14.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°0'4.10" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'30.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°57'40.66" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°36'45.89" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°43'16.46" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°25'41.58" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'9.78" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°40'10.03" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°57'41.09" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°36'49.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°43'18.51" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°25'46.77" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'14.89" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°0'4.10" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: THR,  Taekhran,  Tahran,  Techerane,  Teera,  Teerao,  Teerã,  Teerão,  Tegeran,  Teheran,  Teherana,  Teheranas,  Teherano,  Teherán,  Teherāna,  Tehran,  Tehrano,  Tekheran,  Téhéran,  de hei lan,  teharan,  teharana,  tehelan,  teheran,  tehran,  teirani,  thran,  thrn,  thrwn,  tihiran,  tihran,  Τεχεράνη,  Тæхран,  Тегеран,  Техеран,  Теҳрон,  Թեհրան,  טהראן,  טהרן,  تهران,  تهرون,  تِهران,  تِهِرَن,  تہران,  طهران,  ܛܗܪܐܢ,  तेहरान,  তেহরান,  தெஹ்ரான்,  เตหะราน,  ཏེ་ཧི་རན
+Alternate Names: THR, Taekhran, Tahran, Techerane, Teera, Teerao, Teerã, Teerão, Tegeran, Teheran, Teherana, Teheranas, Teherano, Teherán, Teherāna, Tehran, Tehrano, Tekheran, Téhéran, de hei lan, teharan, teharana, tehelan, teheran, tehran, teirani, thran, thrn, thrwn, tihiran, tihran, Τεχεράνη, Тæхран, Тегеран, Техеран, Теҳрон, Թեհրան, טהראן, טהרן, تهران, تهرون, تِهران, تِهِرَن, تہران, طهران, ܛܗܪܐܢ, तेहरान, তেহরান, தெஹ்ரான், เตหะราน, ཏེ་ཧི་རན​།, თეირანი, ቴህራን, テヘラン, 德黑兰, 테헤란
 
 ---

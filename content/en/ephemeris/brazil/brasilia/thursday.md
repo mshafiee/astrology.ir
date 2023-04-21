@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'59.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°47'43.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°14'35.04" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°2'51.40" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°38'12.08" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'40.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°39'40.64" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°47'43.68" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°14'36.00" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°2'52.06" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°38'13.44" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'42.63" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°44'33.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'59.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°47'43.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°14'35.04" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°2'51.40" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°38'12.08" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'40.96" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°39'40.64" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°47'43.68" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°14'36.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°2'52.06" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°38'13.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'42.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°44'12.76" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BSB,  Bahsihleihya,  Brasilia,  Brasiliopolis,  Brasilía,  Brasília,  Braxilia,  Braxiłia,  Braxìlia,  Brazileje,  Brazilia,  Braziliavaros,  Brazilija,  Brazilija shaary,  Brazilja,  Braziljo,  Brazilėjė,  Brazília,  Brazíliaváros,  Breselya,  Bràsílíà,  Mprazilia,  ba xi li ya,  beulajillia,  bra si leiy,  brajhiliya,  brasili'a,  brasiliya,  brasylya,  brazili'a,  brazilia,  brazylya,  bresiliya,  brzylyh,  burajiria,  byrazylya,  piraciliya,  Μπραζίλια,  Бразилиа,  Бразилия,  Бразилия шаары,  Бразилија,  Бразиліа,  Бразілія,  Ҳавзаи федералии Бразилиа,  Բրազիլիա,  בראזיליא,  ברזיליה,  بئرازیلیا,  برازيليا,  برازیلیا,  برازیلیہ,  براسیلیا,  بەڕازیلیا,  ބްރަސީލިއާ,  ब्रसिलिया,  ब्राझिलिया,  ब्रासीलिया,  ব্রাসিলিয়া,  ਬ੍ਰਾਜ਼ੀਲੀਆ,  ବ୍ରାସିଲିଆ,  பிரசிலியா,  ಬ್ರೆಸಿಲಿಯಾ,  ബ്രസീലിയ,  บราซีเลีย,  པུ་རུ་ཟི་ལི་ཡ།,  ဘရာစေးလေးယားမြို့,  ბრაზილია,  ብራዚሊያ,  ブラジリア,  巴西利亚,  巴西利亞,  브라질리아
+Alternate Names: BSB, Bahsihleihya, Brasilia, Brasiliopolis, Brasilía, Brasília, Braxilia, Braxiłia, Braxìlia, Brazileje, Brazilia, Braziliavaros, Brazilija, Brazilija shaary, Brazilja, Braziljo, Brazilėjė, Brazília, Brazíliaváros, Breselya, Bràsílíà, Mprazilia, ba xi li ya, beulajillia, bra si leiy, brajhiliya, brasili'a, brasiliya, brasylya, brazili'a, brazilia, brazylya, bresiliya, brzylyh, burajiria, byrazylya, piraciliya, Μπραζίλια, Бразилиа, Бразилия, Бразилия шаары, Бразилија, Бразиліа, Бразілія, Ҳавзаи федералии Бразилиа, Բրազիլիա, בראזיליא, ברזיליה, بئرازیلیا, برازيليا, برازیلیا, برازیلیہ, براسیلیا, بەڕازیلیا, ބްރަސީލިއާ, ब्रसिलिया, ब्राझिलिया, ब्रासीलिया, ব্রাসিলিয়া, ਬ੍ਰਾਜ਼ੀਲੀਆ, ବ୍ରାସିଲିଆ, பிரசிலியா, ಬ್ರೆಸಿಲಿಯಾ, ബ്രസീലിയ, บราซีเลีย, པུ་རུ་ཟི་ལི་ཡ།, ဘရာစေးလေးယားမြို့, ბრაზილია, ብራዚሊያ, ブラジリア, 巴西利亚, 巴西利亞, 브라질리아
 
 ---

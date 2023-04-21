@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'54.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°10'15.67" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°4'50.22" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°34'25.52" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°25'38.66" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'26.10" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°32'17.34" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°10'15.81" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°4'50.94" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°34'26.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°25'39.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'27.10" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°36'57.27" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°41'54.34" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°10'15.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°4'50.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°34'25.52" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°25'38.66" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'26.10" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°32'17.34" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°41'54.32" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°10'15.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°4'50.94" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°34'26.25" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°25'39.81" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'27.51" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°36'57.27" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BDO,  Bandoeng,  Banduna,  Bandung,  Bandungas,  Bandungo,  Bantoun'nk,  Kota Bandung,  Kuta Bandung,  Kutha Bandhung,  ban dung,  bandon,  bandung,  bandungi,  bandwng,  bandwnj,  bndwng,  pantun,  wan long,  Μπαντούνγκ,  Бандунг,  Бандуң,  Բանդունգ,  באנדונג,  باندونج,  باندونگ,  بندونگ,  بنڈونگ,  பண்டுங்,  บันดุง,  ဘန်ဒေါင်းမြို့,  ბანდუნგი,  バンドン,  万隆,  萬隆,  반둥
+Alternate Names: BDO, Bandoeng, Banduna, Bandung, Bandungas, Bandungo, Bantoun'nk, Kota Bandung, Kuta Bandung, Kutha Bandhung, ban dung, bandon, bandung, bandungi, bandwng, bandwnj, bndwng, pantun, wan long, Μπαντούνγκ, Бандунг, Бандуң, Բանդունգ, באנדונג, باندونج, باندونگ, بندونگ, بنڈونگ, பண்டுங், บันดุง, ဘန်ဒေါင်းမြို့, ბანდუნგი, バンドン, 万隆, 萬隆, 반둥
 
 ---

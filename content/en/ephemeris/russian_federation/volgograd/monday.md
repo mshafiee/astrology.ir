@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°52'23.82" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°40'52.91" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°13'36.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°38'44.54" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°51'14.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'12.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°43'11.44" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|3°38'54.63" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°51'20.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'27.79" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°21'40.31" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'23.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°40'52.91" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°13'36.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°38'44.54" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°51'14.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'12.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°43'11.44" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°40'52.74" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°13'37.38" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°38'53.63" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°51'21.17" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'26.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°23'49.06" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Caricyn,  Estalingrado,  Stalingrad,  Stalingrado,  Staljingrad,  Tsaritsyn,  VOG,  Valgagrad,  Vl'gogradu,  Volgograd,  Volgograda,  Volgogradas,  Volgogrado,  Volgogradum,  Volgográd,  Volnkonkrant,  Volqoqrad,  Wolgograd,  Wołgograd,  Zarizyn,  bolgogeuladeu,  fu er jia ge lei,  fwlghwghrad,  fwljwjrad,  volagagarata,  volgograda,  volgogradi,  volkokirat,  vuorugogurado,  wlgwgrad,  wwlgw grad,  wwlgwgrad,  wwlgwgrd,  wxl kok rad,  Βόλγκογκραντ,  Аһш балһсн,  Валгаград,  Вльгоградъ,  Волгоград,  Сталинград,  Царицын,  Վոլգոգրադ,  וולגוגרד,  فولجوجراد,  فولغوغراد,  ولگوگراد,  وولگو گراد,  وولگوگراد,  ڤۆڵگۆگراد,  वोल्गोग्राद,  ਵੋਲਗਾਗਰਾਤ,  வோல்கோகிராட்,  වොල්ගාග්
+Alternate Names: Caricyn, Estalingrado, Stalingrad, Stalingrado, Tsaritsyn, VOG, Valgagrad, Vl'gogradu, Volgograd, Volgograda, Volgogradas, Volgogrado, Volgogradum, Volgográd, Volnkonkrant, Volqoqrad, Wolgograd, Wołgograd, Zarizyn, bolgogeuladeu, fu er jia ge lei, fwlghwghrad, fwljwjrad, volagagarata, volgograda, volgogradi, volkokirat, vu~orugogurado, wlgwgrad, wwlgw grad, wwlgwgrad, wwlgwgrd, wxl kok rad, Βόλγκογκραντ, Аһш балһсн, Валгаград, Вльгоградъ, Волгоград, Сталинград, Царицын, Վոլգոգրադ, וולגוגרד, فولجوجراد, فولغوغراد, ولگوگراد, وولگو گراد, وولگوگراد, ڤۆڵگۆگراد, वोल्गोग्राद, ਵੋਲਗਾਗਰਾਤ, வோல்கோகிராட், වොල්ගාග්‍රාද්, วอลโกกราด, စတာလင်ဂရက်မြို့, ვოლგოგრადი, ヴォルゴグラード, 伏尔加格勒, 伏爾加格勒, 볼고그라드
 
 ---

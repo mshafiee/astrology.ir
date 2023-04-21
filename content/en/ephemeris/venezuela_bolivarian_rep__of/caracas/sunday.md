@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'12.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°31'26.51" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°52'25.69" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°0'27.36" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°6'31.15" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'54.24" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°24'40.29" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°31'29.16" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°52'26.49" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°0'42.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°6'40.36" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'17.06" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°30'22.93" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°49'12.54" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°31'29.16" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°52'26.49" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°0'27.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°6'31.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'54.24" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°24'40.29" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°0'42.85" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°6'40.36" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°25'17.06" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°30'22.93" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CCS,  Caracae,  Caracas,  Caraques,  Karakas,  Karakasa,  Karakasas,  Karakaso,  ka la ka si,  ka raka s,  kalakaseu,  karakas,  karakasa,  karakasu,  karakkas,  kraks,  Καράκας,  Каракас,  Կարակաս,  קאראקאס,  קראקס,  كاراكاس,  کاراکاس,  کراکس,  काराकास,  কারাকাস,  ਕਾਰਾਕਾਸ,  કારાકાસ,  କାରାକାସ,  கரகஸ்,  ಕರಾಕಸ್,  കാരക്കാസ്,  การากัส,  ཁ་ར་ཁ་སི,  ကရာကက်စ်မြို့,  კარაკასი,  ካራካስ,  カラカス,  卡拉卡斯,  카라카스
+Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스
 
 ---

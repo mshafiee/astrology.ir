@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'35.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'22.53" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°48'36.58" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°41'55.97" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°5'0.73" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'23.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°16'59.12" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°56'22.48" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°48'36.41" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°41'57.29" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°4'56.13" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'23.75" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°35'43.52" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°56'22.53" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°48'36.58" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°41'57.56" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°5'0.73" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'23.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°16'59.12" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°4'56.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'23.75" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°35'43.52" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BER,  Beirlin,  Beirlín,  Belin,  Berleno,  Berlien,  Berliin,  Berliini,  Berlijn,  Berlim,  Berlin,  Berline,  Berlini,  Berlino,  Berlyn,  Berlynas,  Berlëno,  Berlín,  Berlîn,  Berlīne,  Berolino,  Berolinum,  Birlinu,  Bèrlîn,  Estat de Berlin,  Estat de Berlín,  bai lin,  barlina,  beleullin,  berlini,  berurin,  bexrlin,  brlyn,  perlin,  Βερολίνο,  Берлин,  Берлін,  Бэрлін,  Բերլին,  בערלין,  ברלין,  برلين,  برلین,  بېرلىن,  ܒܪܠܝܢ,  बर्लिन,  বার্লিন,  பெர்லின்,  เบอร์ลิน,  ბერლინი,  ベルリン,  柏林,  베를린
+Alternate Names: BER, Beirlin, Beirlín, Berleno, Berlien, Berliin, Berliini, Berlijn, Berlim, Berlin, Berline, Berlini, Berlino, Berlyn, Berlynas, Berlëno, Berlín, Berlîn, Berlīne, Berolino, Berolinum, Birlinu, Bèrlîn, Estat de Berlin, Estat de Berlín, bai lin, barlina, beleullin, berlini, berurin, bexrlin, brlyn, perlin, Βερολίνο, Берлин, Берлін, Бэрлін, Բերլին, בערלין, ברלין, برلين, برلین, بېرلىن, ܒܪܠܝܢ, बर्लिन, বার্লিন, பெர்லின், เบอร์ลิน, ბერლინი, ベルリン, 柏林, 베를린
 
 ---

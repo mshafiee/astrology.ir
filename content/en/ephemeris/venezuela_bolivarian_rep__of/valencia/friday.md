@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'16.81" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°2'43.89" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°48'1.58" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°3'49.41" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°49'46.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'19.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°10'3.23" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°48'1.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°3'49.42" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°49'46.78" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'26.55" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°38'40.50" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'16.81" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'42.84" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°48'4.87" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°3'43.01" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°49'46.78" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'19.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°10'3.23" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'43.89" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°48'1.58" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°3'49.41" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°49'46.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'26.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°38'40.50" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Balenzia,  VLN,  Valencia,  Valencio,  Valens,  Valensi,  Valensia,  Valensii,  Valensija,  Valensiya,  Valentia,  Valentzia,  Valincia,  Valência,  ba lun xi ya,  balainsi'a,  ballensia,  barenshia,  blnsyt,  valensia,  walnsya  wnzwyla,  wlnsyh,  Валенс,  Валенси,  Валенсия,  Валенсија,  Валенсія,  Վալենսիա,  ולנסיה,  بلنسية,  والنسیا، ونزوئلا,  والیںسیا، کارابوبو,  ਬਾਲੈਂਸੀਆ,  ვალენსია,  バレンシア,  巴伦西亚,  발렌시아
+Alternate Names: Balenzia, VLN, Valencia, Valencio, Valens, Valensi, Valensia, Valensii, Valensija, Valensiya, Valentia, Valentzia, Valincia, Valência, ba lun xi ya, balainsi'a, ballensia, barenshia, blnsyt, valensia, walnsya  wnzwyla, wlnsyh, Валенс, Валенси, Валенсия, Валенсија, Валенсія, Վալենսիա, ולנסיה, بلنسية, والنسیا، ونزوئلا, والیںسیا، کارابوبو, ਬਾਲੈਂਸੀਆ, ვალენსია, バレンシア, 巴伦西亚, 발렌시아
 
 ---

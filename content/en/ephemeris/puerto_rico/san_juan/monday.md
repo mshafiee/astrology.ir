@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°54'1.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°45'44.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°24'38.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°58'39.23" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°14'30.15" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°11'7.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°9'36.85" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°54'2.35" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°45'44.96" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°24'34.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°58'43.99" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°14'28.21" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°11'12.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°48'48.68" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'2.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°45'44.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°24'38.60" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°58'39.23" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°14'30.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°11'7.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°9'36.85" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°45'44.96" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°24'34.57" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°58'43.99" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°14'28.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°11'12.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°48'48.23" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Caparra,  Ciudad de Puerto Rico,  Portorico,  Prico,  Puerto Rico,  SJU,  Saint Iuan,  Saint John de Porto Rico,  Sainte Jean de Porto-rico,  San Chouan,  San Chuanas,  San Huan,  San Ian de Porto Rico,  San Ioanni,  San Jean de Portorico,  San Juan,  San Juan Batista de Puerto Rico,  San Juan Bautistade de Puerto Rico,  San Juan de Puerto Rico,  San Khuan,  San Xoan,  San Xoán,  San Xuan,  San-Juano,  San-Khuan,  Sanhuana,  The City of Saint John,  Ville de Porto-Rico,  Ville de Sainte Jean de Porto Rico,  can van,  saenhwan,  san hwn,  san khwan,  san-khuani,  sana hu'ana,  sana huraana,  sanfuan,  sanhuan,  sheng hu an,  Σαν Χουάν,  Сан Хуан,  Сан-Хуан,  Սան Խուան,  סן חואן,  سان خوآن,  سان خوان,  सान हुआन,  সান হুৱান,  ਸਾਨ ਹੁਆਨ,  சான் வான்,  ซานฮวน,  სან-ხუანი,  サンフアン,  圣胡安,  산후안,  샌환
+Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환
 
 ---

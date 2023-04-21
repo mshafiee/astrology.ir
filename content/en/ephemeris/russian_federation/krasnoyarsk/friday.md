@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'46.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'36.92" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°32'8.48" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°34'53.40" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°15'49.67" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'49.17" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°33'44.13" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°55'36.63" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°32'8.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°34'49.39" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°15'47.63" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'43.93" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°8'58.74" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,10 +332,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'46.85" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°55'36.63" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°32'8.48" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°34'53.40" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°15'49.67" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'49.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°32'10.19" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°34'51.58" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°15'50.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'47.83" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|10°25'7.17" |Taurus|Dabaran|Moon|
 
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: KJA,  Krasnoiarsk,  Krasnojarsk,  Krasnojarsko,  Krasnoyarsk,  Krasnoïarsk,  Krsk,  keulaseunoyaleuseukeu,  Красноярск,  크라스노야르스크
+Alternate Names: KJA, Krasnoiarsk, Krasnojarsk, Krasnoyarsk, Krasnoïarsk, Krsk, keulaseunoyaleuseukeu, Красноярск, 크라스노야르스크
 
 ---

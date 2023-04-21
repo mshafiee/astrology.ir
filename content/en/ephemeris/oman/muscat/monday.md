@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'20.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°40'43.36" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°13'14.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°38'16.71" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°50'35.17" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'43.57" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°27'8.00" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°40'43.37" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°13'15.13" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°38'16.76" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°50'35.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'44.00" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°32'49.14" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MCT,  Maeskat,  Mascat,  Mascate,  Maskat,  Maskata,  Maskatas,  Maskate,  Maskato,  Maskˌat,  Masqat,  Masqaţ,  Masqaṭ,  Masquat,  Maszkat,  Mouskat,  Muscat,  Muskat,  Mäskat,  Múskat,  ma si ka te,  ma si ke te,  masakata,  maskarr,  maskat,  maskata,  masqata,  masukatto,  msqt,  museukateu,  Μουσκάτ,  Маскат,  Масқат,  Мускат,  Մասկատ,  מסקט,  مسقط,  مسقط، عمان,  مۇسكات,  مەسقەت,  मस्कत,  मस्क़त,  মাস্কাট,  ਮਸਕਟ,  ମସ୍କଟ,  மஸ்கத்,  మస్కట్,  മസ്കറ്റ്,  มัสกัต,  མི་སི་ཁ་ཁྲི།,  მასკატი,  መስከት,  マスカット,  馬斯喀特,  马斯喀特,  무스카트
+Alternate Names: MCT, Maeskat, Mascat, Mascate, Maskat, Maskata, Maskatas, Maskate, Maskato, Maskˌat, Masqat, Masqaţ, Masqaṭ, Masquat, Maszkat, Mouskat, Muscat, Muskat, Mäskat, Múskat, ma si ka te, ma si ke te, masakata, maskarr, maskat, maskata, masqata, masukatto, msqt, museukateu, Μουσκάτ, Маскат, Масқат, Мускат, Մասկատ, מסקט, مسقط, مسقط، عمان, مۇسكات, مەسقەت, मस्कत, मस्क़त, মাস্কাট, ਮਸਕਟ, ମସ୍କଟ, மஸ்கத், మస్కట్, മസ്കറ്റ്, มัสกัต, མི་སི་ཁ་ཁྲི།, მასკატი, መስከት, マスカット, 馬斯喀特, 马斯喀特, 무스카트
 
 ---

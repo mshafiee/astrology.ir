@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°53'54.91" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°45'22.88" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°23'44.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°57'14.60" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°12'43.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°11'41.79" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°37'6.88" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°57'14.61" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°12'43.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°11'41.95" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°39'30.58" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SAO,  Sampa,  San Paolo,  San Paul ed Brasil,  San Paulas,  San Paulo,  San Paulu,  San Paulu du Brasili,  San Paulu dû Brasili,  San Pauluw,  San Pawlo,  San Polo del Braxil,  San Poulo,  San Poło del Braxil,  San Pàul ëd Brasil,  San-Paulo,  San-Paulu,  San-Paŭlo,  Sanpaulu,  Sao Paolo,  Sao Paulo,  Sao Paulo capital,  Saun Paulu,  Sawo Palo,  Sawo Pålo,  São Paolo,  São Paulo,  São Paulo capital,  Urbs Paulistana,  cavo pavulo,  sa'o pa'ulo,  sa'o paulo,  samu pa'ulu,  sangpaollo,  sangpaollu,  sangpaullo,  sangpaullu,  sankt. paulos,  sanpauro,  savea pealea,  savo palo,  saw bawlw,  saw palw,  saw pwlw,  saywpaywlw,  sea pea lu,  sheng bao luo,  Σάο Πάολο,  Сан Пауло,  Сан Паулу,  Сан-Паулу,  Сан-Паўлу,  Сао Паоло,  Сао Пауло,  Սան Պաուլու,  סאו פאולא,  סאו פאולו,  ساؤ پالو,  ساؤ پولو,  سائوپائولو,  ساو باولو,  ܣܐܘ ܦܐܘܠܘ,  ސައޮ ޕައުލޯ,  साओ पाउलो,  সাঁউ পাউলু,  সাও পাউলো,  சாவோ பாவுலோ,  శఒ పౌలొ,  ಸಾವೊ ಪಾಲೊ,  സാവോ പോളോ,  เซาเปาลู,  ဆောပိုလိုမြို့,  სან-პაულუ,  ሳው ፓውሉ,  サンパウロ,  聖保羅,  상파올로,  상파올루,  상파울로,  상파울루
+Alternate Names: SAO, Sampa, San Paolo, San Paul ed Brasil, San Paulas, San Paulo, San Paulu, San Paulu du Brasili, San Paulu dû Brasili, San Pauluw, San Pawlo, San Polo del Braxil, San Poulo, San Poło del Braxil, San Pàul ëd Brasil, San-Paulo, San-Paulu, San-Paŭlo, Sanpaulu, Sao Paolo, Sao Paulo, Sao Paulo capital, Saun Paulu, Sawo Palo, Sawo Pålo, São Paolo, São Paulo, São Paulo capital, Urbs Paulistana, cavo pavulo, sa'o pa'ulo, sa'o paulo, samu pa'ulu, sangpaollo, sangpaollu, sangpaullo, sangpaullu, sankt. paulos, sanpauro, savea pealea, savo palo, saw bawlw, saw palw, saw pwlw, saywpaywlw, sea pea lu, sheng bao luo, Σάο Πάολο, Сан Пауло, Сан Паулу, Сан-Паулу, Сан-Паўлу, Сао Паоло, Сао Пауло, Սան Պաուլու, סאו פאולא, סאו פאולו, ساؤ پالو, ساؤ پولو, سائوپائولو, ساو باولو, ܣܐܘ ܦܐܘܠܘ, ސައޮ ޕައުލޯ, साओ पाउलो, সাঁউ পাউলু, সাও পাউলো, சாவோ பாவுலோ, శఒ పౌలొ, ಸಾವೊ ಪಾಲೊ, സാവോ പോളോ, เซาเปาลู, ဆောပိုလိုမြို့, სან-პაულუ, ሳው ፓውሉ, サンパウロ, 聖保羅, 상파올로, 상파올루, 상파울로, 상파울루
 
 ---

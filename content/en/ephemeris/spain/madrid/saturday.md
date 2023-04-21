@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'16.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°14'11.44" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°13'45.17" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°50'20.02" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°44'27.81" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'1.61" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°19'1.90" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°14'12.79" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°13'42.17" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°50'31.80" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°44'33.92" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'17.82" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°19'14.56" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'16.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°14'11.44" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°13'45.17" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°50'20.02" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°44'27.81" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'1.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°19'1.90" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°14'12.79" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°13'44.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°50'31.80" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°44'33.92" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'17.82" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°19'14.56" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: La Villa y Corte de Madrid,  Los Madriles,  Lungsod ng Madrid,  MAD,  Ma-daik-li,  Ma-tet-li,  Madrid,  Madrid osh,  Madridas,  Madride,  Madridi,  Madrido,  Madrids,  Madril,  Madrit,  Madrite,  Madryd,  Madryt,  Madríd,  Madrîd,  Magerit,  Maidrid,  Mairil,  Makelika,  Matritum,  Mâ-tet-lî,  Mā-dáik-lī,  ma de li,  madarida,  madeulideu,  madorido,  madorido shi,  madri,  madrid,  madrida,  madridi,  madryd,  matrit,  mdryd,  myadrida,  mydrd,  Μαδρίτη,  Мaдрид,  Мадрид,  Мадрид ош,  Мадрыд,  Мадрід,  Մադրիդ,  מאדריד,  מדריד,  مادرىد,  مادرید,  مدريد,  میدرد,  مەدرید,  ܡܕܪܝܕ,  मद्रिद,  मद्रिद्,  माद्रिद,  माद्री,  म्याड्रिड,  মাদ্রিদ,  ਮਾਦਰੀਦ,  ମାଡ୍ରିଦ,  மத்ரித்,  ಮಡ್ರಿಡ್,  മാഡ്രിഡ്,  มาดริด,  མ་ད་རིད།,  မဒရစ်မြို့,  მადრიდი,  ማድሪድ,  マドリード,  マドリード市,  馬德里,  马德里,  마드리드
+Alternate Names: La Villa y Corte de Madrid, Los Madriles, Lungsod ng Madrid, MAD, Ma-daik-li, Ma-tet-li, Madrid, Madrid osh, Madridas, Madride, Madridi, Madrido, Madrids, Madril, Madrit, Madrite, Madryd, Madryt, Madríd, Madrîd, Magerit, Maidrid, Mairil, Makelika, Matritum, Mâ-tet-lî, Mā-dáik-lī, ma de li, madarida, madeulideu, madorido, madorido shi, madri, madrid, madrida, madridi, madryd, matrit, mdryd, myadrida, mydrd, Μαδρίτη, Мaдрид, Мадрид, Мадрид ош, Мадрыд, Мадрід, Մադրիդ, מאדריד, מדריד, مادرىد, مادرید, مدريد, میدرد, مەدرید, ܡܕܪܝܕ, मद्रिद, मद्रिद्, माद्रिद, माद्री, म्याड्रिड, মাদ্রিদ, ਮਾਦਰੀਦ, ମାଡ୍ରିଦ, மத்ரித், ಮಡ್ರಿಡ್, മാഡ്രിഡ്, มาดริด, མ་ད་རིད།, မဒရစ်မြို့, მადრიდი, ማድሪድ, マドリード, マドリード市, 馬德里, 马德里, 마드리드
 
 ---

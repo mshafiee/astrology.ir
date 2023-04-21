@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'44.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°38'56.66" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°9'14.71" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°31'2.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°42'8.91" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°18'32.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°2'12.90" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°38'56.58" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°9'13.84" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°31'2.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°42'7.70" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'31.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°55'42.52" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°38'56.58" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°9'13.84" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°31'2.28" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°42'8.91" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°18'32.96" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°2'12.90" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°42'7.70" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°18'31.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°54'8.56" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Con Minh,  Côn Minh,  Gvwnhmingz,  K'un-ming-hsien,  K'un-ming-shih,  KMG,  Kchun-ming,  Khun-beng-chhi,  Khun-bêng-chhī,  Kong-ming,  Kounmink,  Kuenming,  Kun'min,  Kun'min shaary,  Kun'min',  Kunmin,  Kunmina,  Kunming,  Kunming Shi,  Kunmingas,  Kunmingo,  Kuņmina,  Kŏng-mìng,  Kүn'min,  K’un-ming-hsien,  K’un-ming-shih,  Yun-nan,  Yunnanfu,  Yün-nan,  Yünnanfu,  kanamiga,  khunh ming,  kun ming,  kun ming shi,  kunaminga,  kunming si,  kunminga,  kwnmng,  kwnmyng,  kwnmyngh,  qwnmyng,  Κουνμίγκ,  Куенминг,  Кунмин,  Куньмин,  Куньмин шаары,  Куньминь,  Куньмін,  Күньмин,  Կունմին,  קונמינג,  كونمينغ,  كۈنمىڭ شەھىرى,  کونمنگ,  کونمینگ,  کون
+Alternate Names: Con Minh, Côn Minh, Gvwnhmingz, K'un-ming-hsien, K'un-ming-shih, KMG, Kchun-ming, Khun-beng-chhi, Khun-bêng-chhī, Kong-ming, Kounmink, Kuenming, Kun'min, Kun'min shaary, Kun'min', Kunmin, Kunmina, Kunming, Kunming Shi, Kunmingas, Kunmingo, Kuņmina, Kŏng-mìng, Kүn'min, K’un-ming-hsien, K’un-ming-shih, Yun-nan, Yunnanfu, Yün-nan, Yünnanfu, kanamiga, khunh ming, kun ming, kun ming shi, kunaminga, kunming si, kunminga, kwnmng, kwnmyng, kwnmyngh, qwnmyng, Κουνμίγκ, Куенминг, Кунмин, Куньмин, Куньмин шаары, Куньминь, Куньмін, Күньмин, Կունմին, קונמינג, كونمينغ, كۈنمىڭ شەھىرى, کونمنگ, کونمینگ, کون‌مینگ, कुनमिंग, कुन्मिंग, ਕਨਮਿੰਗ, คุนหมิง, ကူမင်းမြို့, კუნმინი, 昆明, 昆明市, 쿤밍 시
 
 ---

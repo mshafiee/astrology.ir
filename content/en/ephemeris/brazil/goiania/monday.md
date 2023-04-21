@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°53'55.62" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°45'24.97" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°23'49.02" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°57'6.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°12'40.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°11'12.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°29'51.26" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°57'23.13" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°12'52.96" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°11'39.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°38'56.96" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'55.62" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°45'24.97" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°23'49.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°57'6.04" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°12'40.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°11'12.50" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°29'51.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°23'48.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°57'22.97" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°12'52.40" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°11'38.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°34'51.09" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ciutat de Goiania,  Ciutat de Goiânia,  GYN,  Goiana,  Goiania,  Goianá,  Goiânia,  Gojani,  Gojanija,  Goyania,  Goyaniya,  ge ya ni ya,  ghwyanya,  go'iyaniya,  goiania,  gwyyanya,  ko ya neiy,  Гояни,  Гояния,  Гоянія,  Гојанија,  גואיאניה,  غويانيا,  گوئیانیا,  গোইয়ানিয়া,  โกยาเนีย,  გოიანია,  ゴイアニア,  戈亚尼亚,  고이아니아
+Alternate Names: Ciutat de Goiania, Ciutat de Goiânia, GYN, Goiana, Goiania, Goianá, Goiânia, Gojani, Gojanija, Goyania, Goyaniya, ge ya ni ya, ghwyanya, go'iyaniya, goiania, gwyyanya, ko ya neiy, Гояни, Гояния, Гоянія, Гојанија, גואיאניה, غويانيا, گوئیانیا, গোইয়ানিয়া, โกยาเนีย, გოიანია, ゴイアニア, 戈亚尼亚, 고이아니아
 
 ---

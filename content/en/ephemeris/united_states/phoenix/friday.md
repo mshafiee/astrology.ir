@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°4'14.90" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°51'25.30" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°9'58.54" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°56'49.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'59.37" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°24'47.19" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°57'0.78" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'18.37" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°47'40.42" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'48.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°4'12.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°51'25.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°9'58.54" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°57'0.78" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'18.37" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°47'40.42" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°4'15.02" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°51'26.41" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°9'59.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°57'2.30" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'19.90" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°54'38.30" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: East Phoenix,  Feniks,  Fenikso,  Finiks,  Finiksa,  Finiksas,  Finiksos,  Foinix,  Féniks,  Fīniksa,  Hellings Mill,  Hoozdoh,  Mill City,  PHX,  Peniki,  Phenix,  Phoeniks,  Phoenix,  Pumpkinsville,  Pēniki,  Salt River,  Smith Station,  Smith Station Phenix,  Smiths Station,  feng huang cheng,  fenikkusu,  finikasa,  finiks,  finiksa,  fynks,  fynyks,  fynyks  aryzwna,  phiniks,  phiniks nagaram,  phiniksa,  pinigseu,  piniks,  piniksi,  pnyqs,  pynyqs,  Φοίνιξ,  Финикс,  Фінікс,  Ֆինիքս,  פיניקס,  פניקס,  فينيكس,  فینکس,  فینیکس، آریزونا,  फ़ीनिक्स,  फिनिक्स,  फिनिक्स्,  फीनिक्स,  ফিনিক্স,  ਫ਼ੀਨਿਕਸ,  பீனிக்ஸ்,  ఫీనిక్స్ నగరం,  ಫೀನಿಕ್ಸ್,  ഫീനിക്സ്,  ฟีนิกซ์,  ფინიქსი,  ፊኒክስ፥ አሪዞና,  フェニックス,  凤凰城,  鳳凰城,  피닉스
+Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스
 
 ---

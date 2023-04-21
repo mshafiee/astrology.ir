@@ -333,9 +333,9 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°47'42.16" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°27'4.54" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°42'31.69" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°42'45.26" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°45'43.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'34.94" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°42'46.93" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°45'41.66" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'36.06" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|9°40'27.16" |Gemini|HanAh|Jupiter|
 
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MGQ,  Magadiscio,  Magadysha,  Maqdishu,  Mogadiisho,  Mogadis,  Mogadisas,  Mogadischu,  Mogadiscio,  Mogadish,  Mogadisho,  Mogadishu,  Mogadisjoe,  Mogadisju,  Mogadisjû,  Mogadiso,  Mogadiss,  Mogadisu,  Mogadisxo,  Mogadiszu,  Mogadixo,  Mogadiŝo,  Mogadişu,  Mogadiš,  Mogadišas,  Mogadišo,  Mogadišu,  Mogadíscio,  Mogadīšo,  Mogaidisiu,  Mogaidisiú,  Monkantisou,  Moqadiso,  Moqadişo,  Moukdicho,  Moukntiso,  Mugadiccu,  Mugadishu,  Mugadiss,  Muqdisho,  Muqdishow,  Muqdishu,  Mógadisjú,  Xamar,  makadisu,  meagadisu,  mo jia di sha,  mo jia di xiu,  mo kadi chu,  mogadisho,  mogadishu,  mogadisu,  mogadisyu,  mogarisu,  mqdyshw,  mqdyshyw,  mukticu,  mwgadyshw,  mwgdysw,  mwghadyshw,  mۆgadyshۆ,  Μογκαντίσου,  Μουκντίσο,  Магадыша,  Могадишо,  Могадишу,  Могадішо,  Մոգադիշո,  מאגאדישו,  מוגדישו,  مقديشو,  مقديشيو,  موغادیشو,  موگادیشو,  مۆگادیشۆ,  मोगादिशू,  मोगादीशू,  মোগাদিশু,  ਮਕਦੀਸ਼ੂ,  ମୋଗାଡ଼ିସୁ,  முக்தீசூ,  മൊഗാദിഷു,  โมกาดิชู,  མོ་ག་དི་ཤུ།,  მოგადიშო,  ሞቃዲሾ,  モガディシュ,  摩加迪休,  摩加迪沙,  모가디슈
+Alternate Names: MGQ, Magadiscio, Magadysha, Maqdishu, Mogadiisho, Mogadis, Mogadisas, Mogadischu, Mogadiscio, Mogadish, Mogadisho, Mogadishu, Mogadisjoe, Mogadisju, Mogadisjû, Mogadiso, Mogadiss, Mogadisu, Mogadisxo, Mogadiszu, Mogadixo, Mogadiŝo, Mogadişu, Mogadiš, Mogadišas, Mogadišo, Mogadišu, Mogadíscio, Mogadīšo, Mogaidisiu, Mogaidisiú, Monkantisou, Moqadiso, Moqadişo, Moukdicho, Moukntiso, Mugadiccu, Mugadishu, Mugadiss, Muqdisho, Muqdishow, Muqdishu, Mógadisjú, Xamar, makadisu, meagadisu, mo jia di sha, mo jia di xiu, mo kadi chu, mogadisho, mogadishu, mogadisu, mogadisyu, mogarisu, mqdyshw, mqdyshyw, mukticu, mwgadyshw, mwgdysw, mwghadyshw, mۆgadyshۆ, Μογκαντίσου, Μουκντίσο, Магадыша, Могадишо, Могадишу, Могадішо, Մոգադիշո, מאגאדישו, מוגדישו, مقديشو, مقديشيو, موغادیشو, موگادیشو, مۆگادیشۆ, मोगादिशू, मोगादीशू, মোগাদিশু, ਮਕਦੀਸ਼ੂ, ମୋଗାଡ଼ିସୁ, முக்தீசூ, മൊഗാദിഷു, โมกาดิชู, མོ་ག་དི་ཤུ།, მოგადიშო, ሞቃዲሾ, モガディシュ, 摩加迪休, 摩加迪沙, 모가디슈
 
 ---

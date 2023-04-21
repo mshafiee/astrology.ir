@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'39.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°41'39.15" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°15'25.42" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°42'2.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°55'5.55" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'40.86" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°35'42.60" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°41'39.38" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°15'21.49" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°42'4.27" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°55'2.10" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'40.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°6'36.43" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'39.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'39.38" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°15'21.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°42'4.00" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°55'1.66" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'40.88" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°6'36.43" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'39.43" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°15'21.49" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°42'4.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°55'2.10" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'41.42" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°9'30.67" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bizanc,  Bizánc,  Byzance,  Byzantion,  Byzantium,  Byzanz,  Constantinoble,  Constantinopla,  Constantinople,  Constantinopolen,  Constantinopoli,  Constantinopolis,  Costantinopoli,  Estambul,  IST,  Istamboul,  Istambul,  Istambuł,  Istampoul,  Istanbul,  Istanbúl,  Isztambul,  Konstantinapoly,  Konstantinopel,  Konstantinopolo,  Konstantinoupoli,  Konstantinoupolis,  Konstantinápoly,  Kustantiniyah,  Micklagard,  Micklagård,  Mikligardur,  Mikligarður,  Stamboul,  Stambul,  Stambula,  Stambuł,  Tsarigrad,  Vizantija (Vizantija),  Vyzantio,  astnbwl,  bijantium,  byuzantion,  byzntywn,  iseutanbul,  istambula,  isutanburu,  stin Poli [stimˈboli],  yi si tan bao,  yi si tan bu er,  İstanbul,  Βυζάντιο,  Βυζαντιο,  Ισταμπουλ,  Ισταμπούλ,  Κωνσταντινουπολη,  Κωνσταντινούπολη,  Κωνσταντινούπολις,  στην Πόλι [stimˈboli],  Византија (Vizantija),  Истанбул,  Стамбул,  ביזנטיון,  اسطنبول,  इस्तांबुल,  ইস্তাম্বুল,  イスタンブール,  ビュザンティオン,  伊斯坦堡,  伊斯坦布尔,  비잔티움,  이스탄불
+Alternate Names: Bizanc, Bizánc, Byzance, Byzantion, Byzantium, Byzanz, Constantinoble, Constantinopla, Constantinople, Constantinopolen, Constantinopoli, Constantinopolis, Costantinopoli, Estambul, IST, Istamboul, Istambul, Istambuł, Istampoul, Istanbul, Istanbúl, Isztambul, Konstantinapoly, Konstantinopel, Konstantinopolo, Konstantinoupoli, Konstantinoupolis, Konstantinápoly, Kustantiniyah, Micklagard, Micklagård, Mikligardur, Mikligarður, Stamboul, Stambul, Stambula, Stambuł, Tsarigrad, Vizantija (Vizantija), Vyzantio, astnbwl, bijantium, byuzantion, byzntywn, iseutanbul, istambula, isutanburu, stin Poli [stimˈboli], yi si tan bu er, İstanbul, Βυζάντιο, Βυζαντιο, Ισταμπουλ, Ισταμπούλ, Κωνσταντινουπολη, Κωνσταντινούπολη, Κωνσταντινούπολις, στην Πόλι [stimˈboli], Византија (Vizantija), Истанбул, Стамбул, ביזנטיון, اسطنبول, इस्तांबुल, ইস্তাম্বুল, イスタンブール, ビュザンティオン, 伊斯坦布尔, 비잔티움, 이스탄불
 
 ---

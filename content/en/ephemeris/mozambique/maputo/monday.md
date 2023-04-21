@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°42'14.41" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°16'39.15" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°44'27.74" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°57'47.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'46.59" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°26'16.33" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|14°57'41.93" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'3.01" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°20'57.71" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'51.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'11.81" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°16'33.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°44'12.78" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°57'33.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'46.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°26'16.33" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°42'13.51" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°16'36.50" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°44'22.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°57'41.93" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'3.01" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°20'57.71" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Can Pfumo,  Kapfumo,  Lourenco Marques,  Lourenço Marques,  MPM,  Mabuto,  Mabutu,  Mapouto,  Maputo,  Maputu,  Mapútó,  ma pu to,  ma pu tuo,  mabwtw,  maputo,  maputto,  maputu,  mapwtw,  mpwtw,  Μαπούτο,  Мапуто,  Мапуту,  Մապուտու,  מפוטו,  مابوتو,  ماپوتو,  ماپوتۆ,  ماپوٹو,  मापुतो,  ਮਾਪੂਤੋ,  மபூட்டோ,  มาปูโต,  མ་པུ་ཊོ།,  მაპუტუ,  ማፑቶ,  マプト,  马普托,  마푸토,  마푸투
+Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투
 
 ---

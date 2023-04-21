@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°42'38.89" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°12'24.27" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°9'38.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°43'3.97" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°35'53.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'46.41" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°17'51.86" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|1°43'7.72" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°35'51.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'49.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°19'34.29" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'38.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'23.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°9'42.54" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°43'3.97" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°35'53.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'46.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°17'51.86" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'24.27" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°9'38.22" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°43'7.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°35'51.37" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'49.12" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°19'34.29" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al-Riad,  Al-Riyad,  Ar Riyadh,  Ar Riyādh,  Ar-Riaad,  Ar-Rijad,  Ar-Riyad,  Ar-Riyod,  Ar-Riyāḑ,  Ehr-Rijad,  Ehr-Ryjad,  Er-Rijad,  Er-riyad,  RUH,  Riaad,  Riad,  Riade,  Riadi,  Riado,  Riadum,  Riant,  Rihad,  Rijad,  Rijada,  Rijadas,  Rijád,  Rijāda,  Riyad,  Riyadh,  Riyaḍ,  Ríad,  alryad,  er-riadi,  li ya de,  liyadeu,  raiyadha,  ri'ada,  ri'adha,  riyad,  riyada,  riyadh,  riyadha,  riyado,  riyat,  ryad,  ryyad,  Ər-Riyad,  Ριάντ,  Ар-Рияд,  Ер-Ріяд,  Рияд,  Ријад,  Эр-Рияд,  Эр-Рыяд,  Ալ-Ռիադ,  ריאד,  الرياض,  رىياد,  رياض,  ریاض,  ڕیاز,  रियाद,  रियाध,  রিয়াদ,  ৰিয়াধ,  ਰਿਆਧ,  ରିଆଦ,  ரியாத்,  ರಿಯಾಧ್,  റിയാദ്,  ริยาด,  རིས་ཡག,  ერ-რიადი,  ሪያድ,  リヤド,  利雅得,  利雅德,  리야드
+Alternate Names: Al-Riad, Al-Riyad, Ar Riyadh, Ar Riyādh, Ar-Riaad, Ar-Rijad, Ar-Riyad, Ar-Riyod, Ar-Riyāḑ, Ehr-Rijad, Ehr-Ryjad, Er-Rijad, Er-riyad, RUH, Riaad, Riad, Riade, Riadi, Riado, Riadum, Riant, Rihad, Rijad, Rijada, Rijadas, Rijád, Rijāda, Riyad, Riyadh, Riyaḍ, Ríad, alryad, er-riadi, li ya de, liyadeu, raiyadha, ri'ada, ri'adha, riyad, riyada, riyadh, riyadha, riyado, riyat, ryad, ryyad, Ər-Riyad, Ριάντ, Ар-Рияд, Ер-Ріяд, Рияд, Ријад, Эр-Рияд, Эр-Рыяд, Ալ-Ռիադ, ריאד, الرياض, رىياد, رياض, ریاض, ڕیاز, रियाद, रियाध, রিয়াদ, ৰিয়াধ, ਰਿਆਧ, ରିଆଦ, ரியாத், ರಿಯಾಧ್, റിയാദ്, ริยาด, རིས་ཡག, ერ-რიადი, ሪያድ, リヤド, 利雅得, 利雅德, 리야드
 
 ---

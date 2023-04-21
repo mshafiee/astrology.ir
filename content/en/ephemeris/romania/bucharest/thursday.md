@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'43.54" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°44'8.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'42.46" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°48'11.06" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°21'7.77" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'54.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°12'22.03" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|13°6'38.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°48'15.71" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°21'6.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'58.37" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°45'44.73" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BUH,  Boekarest,  Boukouresti,  Bucarest,  Bucaresta,  Bucareste,  Bucarèst,  Bucharest,  Bucuresti,  Bucureşti,  București,  Buekres,  Bukarest,  Bukarestas,  Bukareste,  Bukaresto,  Bukareszt,  Bukareŝto,  Bukareštas,  Bukharest,  Bukureshh,  Bukuresht,  Bukureshta,  Bukureshti,  Bukurest,  Bukurešt,  Bukurešť,  Buxarest,  Búkarest,  Bûkarest,  Bükreş,  bkharst,  bu jia lei si te,  bukaresuto,  bukulesyuti,  bwkharst,  bwqrst,  Βουκουρέστι,  Букурешт,  Букурещ,  Бухарест,  Բուխարեստ,  בוקאַרעשט,  בוקרשט,  بخارست,  بوخارست,  بۇخارېست,  པུ་ཁ་རེ་སིད,  ბუქარესტი,  ቡካረስት,  ブカレスト,  布加勒斯特,  부쿠레슈티
+Alternate Names: BUH, Boekarest, Boukouresti, Bucarest, Bucaresta, Bucareste, Bucarèst, Bucharest, Bucuresti, Bucureşti, București, Buekres, Bukarest, Bukarestas, Bukareste, Bukaresto, Bukareszt, Bukareŝto, Bukareštas, Bukharest, Bukureshh, Bukuresht, Bukureshta, Bukureshti, Bukurest, Bukurešt, Bukurešť, Buxarest, Búkarest, Bûkarest, Bükreş, bkharst, bu jia lei si te, bukaresuto, bukulesyuti, bwkharst, bwqrst, Βουκουρέστι, Букурешт, Букурещ, Бухарест, Բուխարեստ, בוקאַרעשט, בוקרשט, بخارست, بوخارست, بۇخارېست, པུ་ཁ་རེ་སིད, ბუქარესტი, ቡካረስት, ブカレスト, 布加勒斯特, 부쿠레슈티
 
 ---

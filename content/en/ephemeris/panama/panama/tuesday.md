@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|25°0'44.52" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°58'28.70" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°59'45.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°25'36.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°51'8.61" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°16'33.88" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|16°25'39.41" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'12.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°33'57.77" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'2.85" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'44.21" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°58'27.08" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°59'44.00" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°25'36.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'8.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°16'33.88" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'44.52" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°58'28.70" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°59'45.73" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°25'39.41" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'12.00" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°33'57.77" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Ciudad de Panama,  Ciudad de Panamá,  Ciutat de Panama,  Ciutat de Panamà,  PTY,  Panama,  Panama City,  Panama Hiria,  Panama by,  Panama-Stadt,  Panama-Urbo,  Panama-stad,  Panamurbo,  Panamá,  Pole tou Panama,  Ziuda de Panama,  Ziudá de Panamá,  ba na ma cheng,  panama si,  panama siti,  panamashiti,  panamasiti,  pnmh syty,  shhr panama,  Πόλη του Παναμά,  Панама,  פנמה סיטי,  شهر پاناما,  पनामा सिटी,  ปานามาซิตี,  ፓናማ ከተማ,  パナマシティ,  巴拿馬城,  파나마 시,  파나마시티
+Alternate Names: Ciudad de Panama, Ciudad de Panamá, Ciutat de Panama, Ciutat de Panamà, PTY, Panama, Panama City, Panama Hiria, Panama by, Panama-Stadt, Panama-Urbo, Panama-stad, Panamurbo, Panamá, Pole tou Panama, Ziuda de Panama, Ziudá de Panamá, ba na ma cheng, panama si, panama siti, panamashiti, panamasiti, pnmh syty, shhr panama, Πόλη του Παναμά, Панама, פנמה סיטי, شهر پاناما, पनामा सिटी, ปานามาซิตี, ፓናማ ከተማ, パナマシティ, 巴拿馬城, 파나마 시, 파나마시티
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'25.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'17.80" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°4'46.10" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°44'50.89" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°17'5.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'34.12" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°6'22.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'17.91" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°4'46.21" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°44'51.53" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°17'5.48" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'35.02" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°10'39.04" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'25.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'17.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'46.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°44'50.89" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°17'5.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'34.12" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°6'22.82" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'17.91" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°4'46.21" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°44'51.53" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°17'5.48" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'35.02" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°10'39.04" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Dakbayan sa Qom,  Ghom,  Homo,  Kom,  Kum,  Kum shaary,  Kumas,  QUM,  Qom,  Qum,  Qûm,  gomu,  koma,  ku mu,  kum,  kuvom,  qm,  qwm,  Ĥomo,  Ком,  Кум,  Кум шаары,  Қум,  קום,  قم,  قوم,  कोम,  குவோம்,  ゴム,  库姆,  쿰
+Alternate Names: Dakbayan sa Qom, Ghom, Homo, Kom, Kum, Kum shaary, Kumas, QUM, Qom, Qum, Qûm, gomu, koma, ku mu, kum, kuvom, qm, qwm, Ĥomo, Ком, Кум, Кум шаары, Қум, קום, قم, قوم, कोम, குவோம், ゴム, 库姆, 쿰
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'26.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'53.88" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°47'31.56" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°40'1.21" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°2'40.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'6.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°16'1.21" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°55'53.75" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°47'30.16" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°40'0.41" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°2'38.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'4.19" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°1'40.43" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'26.17" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'53.88" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°47'31.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°40'1.21" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°2'40.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'6.07" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°16'1.21" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'53.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°47'30.16" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°40'0.41" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°2'38.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'4.19" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°1'40.43" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Chisinau,  Chişinău,  Chișinău,  KIV,  Kischinew,  Kiscinev,  Kishinef,  Kishinehu,  Kishinev,  Kishiniv,  Kishinjov,  Kishinëv,  Kisinaou,  Kisinev,  Kisineva,  Kisinevo,  Kisiniovas,  Kisinjev,  Kisinov,  Kisinyov,  Kisyneu,  Kiszyniow,  Kiszyniów,  Kiŝinevo,  Kişinev,  Kišiniovas,  Kišinjev,  Kišiněv,  Kišiņeva,  Kišiňov,  cisina'u,  cisinau,  ji xi ne wu,  kishinau,  kisineou,  kyshynaw,  qysynb,  qysynyʼww,  qʻsʻnʻww,  Κισινάου,  Κισιναου,  Кишинев,  Кишинэу,  Кишинёв,  Кишињев,  Кішынёў,  Կիշինյով,  קישינאו,  קישינב,  קישיניאוו,  קעשענעוו,  كيشيناو,  चिशिनाउ,  चिशिनौ,  კიშინიოვი,  ኪሺንው,  キシナウ,  基希讷乌,  키시너우
+Alternate Names: Chisinau, Chişinău, Chișinău, KIV, Kischinew, Kiscinev, Kishinef, Kishinehu, Kishinev, Kishiniv, Kishinjov, Kishinëv, Kisinaou, Kisinev, Kisineva, Kisinevo, Kisiniovas, Kisinjev, Kisinov, Kisinyov, Kisyneu, Kiszyniow, Kiszyniów, Kiŝinevo, Kişinev, Kišiniovas, Kišinjev, Kišiněv, Kišiņeva, Kišiňov, cisina'u, cisinau, ji xi ne wu, kishinau, kisineou, kyshynaw, qysynb, qysynyʼww, qʻsʻnʻww, Κισινάου, Κισιναου, Кишинев, Кишинэу, Кишинёв, Кишињев, Кішынёў, Կիշինյով, קישינאו, קישינב, קישיניאוו, קעשענעוו, كيشيناو, चिशिनाउ, चिशिनौ, კიშინიოვი, ኪሺንው, キシナウ, 基希讷乌, 키시너우
 
 ---

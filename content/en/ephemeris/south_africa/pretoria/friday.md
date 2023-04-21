@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'2.57" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°59'11.97" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°40'8.53" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°49'28.52" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°32'56.33" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'23.88" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°29'49.33" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°40'8.51" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°49'28.51" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°32'56.30" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'23.86" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°29'43.61" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°59'11.97" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°40'8.53" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°49'28.52" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°32'54.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'11.99" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°33'33.79" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|11°32'56.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'23.88" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°29'49.33" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: E-Pitoli,  IPitoli,  PRY,  Pitoli,  Praetoria,  Prehtoryja,  Pretori,  Pretoria,  Pretoria/Pole tou Akroteriou,  Pretoriae,  Pretorii,  Pretorija,  Pretorio,  Pretoriya,  Pretoriye,  Pretoriä,  Pretoría,  Pretòria,  Pretória,  Prétoriye,  Pta,  Tshwane,  bi lei tuo li ya,  brytwrya,  peulitolia,  phri thx reiy,  pirittoriya,  pritori'a,  pritoriya,  pritteariya,  prtwrya,  prtwryh,  pu li tuo li ya,  puretoria,  Πρετόρια,  Πρετόρια/Πόλη του Ακρωτηρίου,  Претори,  Претория,  Преторија,  Преторія,  Прэторыя,  Պրետորիա,  פרטוריה,  بريتوريا,  پرتوریا,  پریٹوریا,  پرێتۆریا,  प्रिटोरिया,  ਪ੍ਰਿਟੋਰੀਆ,  பிரிட்டோரியா,  ప్రిటోరియా,  പ്രിട്ടോറിയ,  พริทอเรีย,  ཕི་རི་ཐོ་རི་ཡ།,  პრეტორია,  ፕሪቶሪያ,  プレトリア,  普利托里亞,  比勒陀利亞,  프리토리아
+Alternate Names: E-Pitoli, IPitoli, PRY, Pitoli, Praetoria, Prehtoryja, Pretori, Pretoria, Pretoria/Pole tou Akroteriou, Pretoriae, Pretorii, Pretorija, Pretorio, Pretoriya, Pretoriye, Pretoriä, Pretoría, Pretòria, Pretória, Prétoriye, Pta, Tshwane, bi lei tuo li ya, brytwrya, peulitolia, phri thx reiy, pirittoriya, pritori'a, pritoriya, pritteariya, prtwrya, prtwryh, pu li tuo li ya, puretoria, Πρετόρια, Πρετόρια/Πόλη του Ακρωτηρίου, Претори, Претория, Преторија, Преторія, Прэторыя, Պրետորիա, פרטוריה, بريتوريا, پرتوریا, پریٹوریا, پرێتۆریا, प्रिटोरिया, ਪ੍ਰਿਟੋਰੀਆ, பிரிட்டோரியா, ప్రిటోరియా, പ്രിട്ടോറിയ, พริทอเรีย, ཕི་རི་ཐོ་རི་ཡ།, პრეტორია, ፕሪቶሪያ, プレトリア, 普利托里亞, 比勒陀利亞, 프리토리아
 
 ---

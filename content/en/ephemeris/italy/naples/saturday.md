@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'1.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°13'29.03" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°12'9.21" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°47'29.77" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°41'5.68" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'27.64" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°25'28.94" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°13'28.94" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°12'3.95" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°47'29.79" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°41'0.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'24.61" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°2'57.84" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: NAP,  Napels,  Naples,  Naplés,  Napoles,  Napoli,  Napolo,  Napols,  Napoly,  Nappoli,  Napul,  Napule,  Napuli,  Napulj,  Napólí,  Neapal',  Neapel,  Neapelj,  Neapol,  Neapol',  Neapole,  Neapolis,  Noapels,  Nàpoli,  Nàpols,  Nàpuli,  Nàpułi,  Nápoles,  Nápoli,  Nápols,  Nápoly,  Parthenope,  na bu lei si,  nabwly,  napl,  napoli,  napolli,  napori,  napwly,  nepalasa,  nepalsa,  nepeils,  nyplz,  Νάπολη,  Напуљ,  Неапаль,  Неапол,  Неаполь,  Նեապոլ,  נאפאלי,  נאפולי,  نابولي,  ناپل,  ناپولی,  نیپلز,  नापोलि,  नापोली,  नेपल्स,  নেপলস,  நாபொலி,  เนเปิลส์,  ნეაპოლი,  ナポリ,  那不勒斯,  나폴리
+Alternate Names: NAP, Napels, Naples, Naplés, Napoles, Napoli, Napolo, Napols, Napoly, Nappoli, Napul, Napule, Napuli, Napulj, Napólí, Neapal', Neapel, Neapelj, Neapol, Neapol', Neapole, Neapolis, Noapels, Nàpoli, Nàpols, Nàpuli, Nàpułi, Nápoles, Nápoli, Nápols, Nápoly, Parthenope, na bu lei si, nabwly, napl, napoli, napolli, napori, napwly, nepalasa, nepalsa, nepeils, nyplz, Νάπολη, Напуљ, Неапаль, Неапол, Неаполь, Նեապոլ, נאפאלי, נאפולי, نابولي, ناپل, ناپولی, نیپلز, नापोलि, नापोली, नेपल्स, নেপলস, நாபொலி, เนเปิลส์, ნეაპოლი, ナポリ, 那不勒斯, 나폴리
 
 ---

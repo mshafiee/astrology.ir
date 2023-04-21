@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'17.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°22'56.32" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°33'12.74" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°25'56.50" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°25'58.21" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'5.70" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°43'28.16" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°22'56.48" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°33'15.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°25'57.38" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°26'1.83" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'8.59" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°43'34.54" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'17.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°22'56.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°33'12.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°25'56.50" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°25'58.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'5.70" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°22'58.85" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°46'17.07" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°22'56.48" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°33'15.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°25'57.38" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°26'1.83" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'8.59" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°43'28.16" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Edo,  TYO,  Tochiu,  Tocio,  Tokija,  Tokijas,  Tokio,  Tokió,  Tokjo,  Tokyo,  Toquio,  Toquio - dong jing,  Toquio - 東京,  Tòquio,  Tókýó,  Tóquio,  Tōkyō,  dokyo,  dong jing,  dong jing dou,  dong-gyeong,  tokeiyw,  toki'o,  tokkiyo,  tokyo,  twkyw,  twqyw,  Τόκιο,  Токио,  Токё,  Токіо,  Տոկիո,  טוקיו,  توكيو,  توکیو,  طوكيو,  ܛܘܟܝܘ,  ܜܘܟܝܘ,  टोक्यो,  টোকিও,  டோக்கியோ,  โตเกียว,  ტოკიო,  东京,  東京,  東京都,  도쿄,  동경
+Alternate Names: Edo, TYO, Tochiu, Tocio, Tokija, Tokijas, Tokio, Tokió, Tokjo, Tokyo, Toquio, Toquio - dong jing, Toquio - 東京, Tòquio, Tókýó, Tóquio, Tōkyō, dokyo, dong jing, dong jing dou, dong-gyeong, tokeiyw, toki'o, tokkiyo, tokyo, twkyw, twqyw, Τόκιο, Токио, Токё, Токіо, Տոկիո, טוקיו, توكيو, توکیو, طوكيو, ܛܘܟܝܘ, ܜܘܟܝܘ, टोक्यो, টোকিও, டோக்கியோ, โตเกียว, ტოკიო, 东京, 東京, 東京都, 도쿄, 동경
 
 ---

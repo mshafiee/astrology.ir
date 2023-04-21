@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'3.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°25'10.56" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°38'15.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°34'59.44" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°36'37.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'28.68" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°32'1.85" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°25'11.55" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°38'18.56" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°35'5.45" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°36'43.82" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'39.04" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°17'32.91" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'3.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°25'11.73" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°38'19.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°35'6.44" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°36'45.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'41.14" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°29'18.18" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°25'11.55" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°38'18.56" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°35'5.45" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°36'43.82" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'39.04" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°17'32.91" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: OMS,  Om'sku,  Omby,  Omium,  Oms'k,  Omsc,  Omsk,  Omska,  Omskas,  Omsko,  Omszk,  Omva,  amsk,  awmsk,  e mu si ke,  omseukeu,  omska,  omusuku,  xxm skh,  Ομσκ,  Омбы,  Омва,  Омск,  Омськ,  Омьскъ,  Օմսկ,  אומסק,  أومسك,  امسک,  اومسک,  ओम्स्क,  ออมสค์,  ომსკი,  オムスク,  鄂木斯克,  옴스크
+Alternate Names: OMS, Om'sku, Omby, Omium, Oms'k, Omsc, Omsk, Omska, Omskas, Omszk, Omva, amsk, awmsk, e mu si ke, omseukeu, omska, omusuku, xxm skh, Ομσκ, Омбы, Омва, Омск, Омськ, Омьскъ, Օմսկ, אומסק, أومسك, امسک, اومسک, ओम्स्क, ออมสค์, ომსკი, オムスク, 鄂木斯克, 옴스크
 
 ---

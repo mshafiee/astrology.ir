@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°36'24.28" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°54'32.33" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°29'46.19" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°30'29.46" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°10'42.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'37.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°33'42.97" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|0°30'31.30" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°10'43.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'40.34" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°45'40.83" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: FUK,  Fucuoca,  Fukuoka,  Fukuoka-shi,  Fukuokashi,  Fukuoko,  Hukuoka,  fu gang,  fu gang shi,  fukuoka,  fukuokashi,  fwkwka,  hukuoka si,  Фукуока,  فوكوكا,  ふくおか,  ふくおかし,  フクオカ,  フクオカシ,  福岡,  福岡市,  후쿠오카 시
+Alternate Names: FUK, Fucuoca, Fukuoka, Fukuoka-shi, Fukuokashi, Hukuoka, fu gang, fu gang shi, fukuoka, fukuokashi, fwkwka, hukuoka si, Фукуока, فوكوكا, ふくおか, ふくおかし, フクオカ, フクオカシ, 福岡, 福岡市, 후쿠오카 시
 
 ---

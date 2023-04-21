@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'39.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°26'57.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°42'13.42" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°42'17.93" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°45'5.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'36.02" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°5'47.34" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°26'56.77" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°42'14.77" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°42'13.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°45'4.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'30.53" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°56'26.72" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'39.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°26'57.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°42'13.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°42'17.93" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°45'5.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'36.02" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°5'47.34" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°26'56.77" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°42'14.77" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°42'13.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°45'4.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'30.53" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°56'26.72" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Elsin'ki,  Elsinki,  Elzinki,  Gel'sinki,  HEL,  Heilsinci,  Heilsincí,  Hel'sinki,  Helsenkis,  Helsingfors,  Helsingi,  Helsingia,  Helsinki,  Helsinkis,  Helsinkium,  Helsinko,  Helsinky,  Helsinqui,  Helsinquia,  Helsset,  Helsínquia,  Helsînkî,  Helsėnkis,  Hèlsinki,  Khel'sinki,  Khel'sinki osh,  Khelsinki,  Khelzinki,  Lungsod ng Helsinki,  Stadi,  Xelsinki,  Xélsinki,  elcinki,  hailasiki,  he er xin ji,  helasinki,  helsingki,  helsinki,  herushinki,  hlsnky,  hlsnqy,  hlsynky,  hlsynqy,  hylsynky,  Èlzinki,  Ħelsinki,  Ελσίνκι,  Гельсінкі,  Хелзинки,  Хелсинки,  Хельсинки,  Хельсинки ош,  Хельсінкі,  Ҳелсинкӣ,  Һel'sinki,  Һельсинки,  Հելսինկի,  הלסינקי,  העלסינקי,  هلسنكي,  هلسنڪي,  هلسینکی,  هيلسينكى,  هیلسینکی,  ھێلسینکی,  ہلسنکی,  ہیلسنکی,  ܗܠܣܢܩܝ,  हेलसिंकी,  हेल्सिन्की,  হেলসিঙ্কি,  ਹੈਲਸਿੰਕੀ,  எல்சிங்கி,  ಹೆಲ್ಸಿಂಕಿ,  ഹെൽസിങ്കി,  เฮลซิงกิ,  ཧེལ་སིན་ཀི།,  ဟယ်လ်ဆင်ကီမြို့,  ჰელსინკი,  ሄልሲንኪ,  Ḥélsinki,  ヘルシンキ,  赫尔辛基,  赫爾辛基,  헬싱키
+Alternate Names: Elsin'ki, Elsinki, Elzinki, Gel'sinki, HEL, Heilsinci, Heilsincí, Hel'sinki, Helsenkis, Helsingfors, Helsingi, Helsingia, Helsinki, Helsinkis, Helsinkium, Helsinko, Helsinky, Helsinqui, Helsinquia, Helsset, Helsínquia, Helsînkî, Helsėnkis, Hèlsinki, Khel'sinki, Khel'sinki osh, Khelsinki, Khelzinki, Lungsod ng Helsinki, Stadi, Xelsinki, Xélsinki, elcinki, hailasiki, he er xin ji, helasinki, helsingki, helsinki, herushinki, hlsnky, hlsnqy, hlsynky, hlsynqy, hylsynky, Èlzinki, Ħelsinki, Ελσίνκι, Гельсінкі, Хелзинки, Хелсинки, Хельсинки, Хельсинки ош, Хельсінкі, Ҳелсинкӣ, Һel'sinki, Һельсинки, Հելսինկի, הלסינקי, העלסינקי, هلسنكي, هلسنڪي, هلسینکی, هيلسينكى, هیلسینکی, ھێلسینکی, ہلسنکی, ہیلسنکی, ܗܠܣܢܩܝ, हेलसिंकी, हेल्सिन्की, হেলসিঙ্কি, ਹੈਲਸਿੰਕੀ, எல்சிங்கி, ಹೆಲ್ಸಿಂಕಿ, ഹെൽസിങ്കി, เฮลซิงกิ, ཧེལ་སིན་ཀི།, ဟယ်လ်ဆင်ကီမြို့, ჰელსინკი, ሄልሲንኪ, Ḥélsinki, ヘルシンキ, 赫尔辛基, 赫爾辛基, 헬싱키
 
 ---

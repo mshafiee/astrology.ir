@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'44.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°4'1.68" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°51'2.33" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°9'2.30" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°56'3.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'11.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°5'55.66" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°4'3.08" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°50'58.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°9'10.93" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°56'4.26" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'21.39" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°45'52.84" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'44.48" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°4'1.68" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°51'2.33" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°9'2.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°56'3.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'11.94" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°5'55.66" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°4'3.08" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°50'58.57" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°9'10.93" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°56'4.26" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'21.39" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°45'52.84" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Atemaxac,  GDL,  Gouadalachara,  Guadalajara,  Guadalajara i Jalisco,  Guadalakhara,  Guadalaxara,  Gvadalachara,  Gvadalahara,  Gvadalaharo,  Gvadalakhara,  Gvadalakharae,  gatalajara,  ghwadalakhara,  gu'adalahara,  gua da la ha la,  guadarahara,  gvadalahara,  gvadalakhara,  gwadalakhara  khalyskw,  gwadallahala,  gwwdlhrh,  kwa da la ha ra,  Ātemaxac,  Γουαδαλαχάρα,  Гвадалахарæ,  Гвадалахара,  Гуадалахара,  גוודלחרה,  غوادالاخارا,  گوادالاخارا، خالیسکو,  گواڈلہارا,  ग्वादालाहारा,  ਗੁਆਦਾਲਾਹਾਰਾ,  ഗൗതലജാറ,  กวาดาลาฮารา,  გვადალახარა,  グアダラハラ,  瓜达拉哈拉,  과달라하라
+Alternate Names: Atemaxac, GDL, Gouadalachara, Guadalajara, Guadalajara i Jalisco, Guadalakhara, Guadalaxara, Gvadalachara, Gvadalahara, Gvadalaharo, Gvadalakhara, Gvadalakharae, gatalajara, ghwadalakhara, gu'adalahara, gua da la ha la, guadarahara, gvadalahara, gvadalakhara, gwadalakhara  khalyskw, gwadallahala, gwwdlhrh, kwa da la ha ra, Ātemaxac, Γουαδαλαχάρα, Гвадалахарæ, Гвадалахара, Гуадалахара, גוודלחרה, غوادالاخارا, گوادالاخارا، خالیسکو, گواڈلہارا, ग्वादालाहारा, ਗੁਆਦਾਲਾਹਾਰਾ, ഗൗതലജാറ, กวาดาลาฮารา, გვადალახარა, グアダラハラ, 瓜达拉哈拉, 과달라하라
 
 ---

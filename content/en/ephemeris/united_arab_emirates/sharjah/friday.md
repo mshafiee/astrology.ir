@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'29.73" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°57'38.37" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°36'38.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°43'5.86" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°25'28.00" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'8.17" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°32'57.08" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|13°36'40.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°43'7.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°25'30.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'11.32" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°46'8.38" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'29.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°57'38.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°36'38.97" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°43'7.52" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°25'28.00" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'8.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°32'57.08" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°57'38.38" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°36'40.47" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°43'7.55" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°25'30.50" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'11.32" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°46'0.53" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al Sharjah,  Ash 'Mariqah,  Ash Shariqa,  Ash Shariqah,  Ash Shāriqa,  Ash Shāriqah,  Ash ’Mariqah,  Ash-Shariqah emiraat,  Ash-Shāriqah emiraat,  Charjah,  Ch·ardj·a,  SHJ,  Sardza,  Sardzsa,  Sarika,  Sarja,  Sarjo,  Sarza,  Schardscha,  Shardza,  Shardzha,  Shardzha kuorat,  Sharga,  Sharijah,  Shariqah,  Sharja,  Sharjah,  Sharjah city,  Shārijah,  Shāriqah,  Shārja,  Szardza,  Szardża,  Xarja,  Xarjah,  alsharqt,  amart alsharqt,  carja,  charc ah,  mdynt alsharqt,  saraja,  sarajaha,  sarja,  sharja,  sharjh,  sharuja,  syaleuja,  sʼrgh,  xia er jia,  Ŝarĵo,  Şarika,  Şarja,  Šardža,  Šardžá,  Шарджа,  Шарджа куорат,  Шарџа,  Шарҗә,  Շարժա,  שארגה,  إمارة الشارقة,  الشارقة,  شارجه,  شارجہ,  مدينة الشارقة,  शारजा,  शारजाह,  ਸ਼ਾਰਜਾ,  சார்ஜா,  షార్జా,  ಶಾರ್ಜ,  ഷാർജ,  ชาร์จาห์,  შარჯა,  シャールジャ,  夏尔迦,  샤르자
+Alternate Names: Al Sharjah, Ash 'Mariqah, Ash Shariqa, Ash Shariqah, Ash Shāriqa, Ash Shāriqah, Ash ’Mariqah, Ash-Shariqah emiraat, Ash-Shāriqah emiraat, Charjah, Ch·ardj·a, SHJ, Sardza, Sardzsa, Sarika, Sarja, Sarjo, Sarza, Schardscha, Shardza, Shardzha, Shardzha kuorat, Sharga, Sharijah, Shariqah, Sharja, Sharjah, Sharjah city, Shārijah, Shāriqah, Shārja, Szardza, Szardża, Xarja, Xarjah, alsharqt, amart alsharqt, carja, charc ah, mdynt alsharqt, saraja, sarajaha, sarja, sharja, sharjh, sharuja, syaleuja, sʼrgh, xia er jia, Ŝarĵo, Şarika, Şarja, Šardža, Šardžá, Шарджа, Шарджа куорат, Шарџа, Шарҗә, Շարժա, שארגה, إمارة الشارقة, الشارقة, شارجه, شارجہ, مدينة الشارقة, शारजा, शारजाह, ਸ਼ਾਰਜਾ, சார்ஜா, షార్జా, ಶಾರ್ಜ, ഷാർജ, ชาร์จาห์, შარჯა, シャールジャ, 夏尔迦, 샤르자
 
 ---

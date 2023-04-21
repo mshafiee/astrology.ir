@@ -292,11 +292,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'54.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°13'9.67" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°11'26.80" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°46'10.26" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°39'34.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'29.98" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°13'10.08" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°11'21.96" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°46'13.19" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°39'30.51" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'31.22" |Aries|Butain|Sun|
 |☾ Moon|Direct|26°48'21.69" |Aries|Thurayya|Venus|
 
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'54.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'9.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°11'26.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°46'10.26" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°39'34.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'29.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°53'26.68" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°13'10.08" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°11'21.96" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°46'13.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°39'30.51" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'31.22" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°48'21.69" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BEG,  Belehrad,  Belgrad,  Belgrada,  Belgradas,  Belgrade,  Belgrado,  Belgradu,  Belgrau,  Belgrað,  Belgrád,  Belgráu,  Beligradi,  Belogradum,  Belohrod,  Beograd,  Beogradi,  Beogrado,  Bèlgrade,  Bělehrad,  Běłohród,  Nandorfehervar,  Nándorfehérvár,  Singidunum,  be-ogeuladeu,  bei er ge lai de,  belgradi,  beogurado,  blghrad,  blgrd,  pelkiret,  Βελιγράδι,  Белград,  Београд,  Бѣлъ Градъ · Срьбїи,  Բելգրադ,  בלגרד,  بلغراد,  بېلگراد,  பெல்கிறேட்,  ბელგრადი,  በልግራድ,  ベオグラード,  贝尔格莱德,  베오그라드
+Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드
 
 ---

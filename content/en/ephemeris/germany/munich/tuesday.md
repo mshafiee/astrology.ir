@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'39.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'33.65" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°49'3.57" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°42'42.84" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°5'51.34" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'9.16" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°3'28.83" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°57'39.97" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°56'34.43" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°49'0.46" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°42'47.16" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°5'50.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'14.23" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°40'47.31" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'39.46" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°56'33.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°49'1.94" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°42'43.65" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°5'51.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'9.16" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°3'28.83" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°49'0.46" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°42'47.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°5'50.05" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'14.23" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°40'47.31" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Lungsod ng Muenchen,  Lungsod ng München,  MUC,  Minca,  Minche,  Minga,  Minhen,  Minhene,  Minkhen,  Miunchenas,  Mjunkhen,  Mnichov,  Mnichow,  Mníchov,  Monachium,  Monacho,  Monaco de Baviera,  Monaco di Baviera,  Monaco e Baviera,  Monacu,  Monacu di Baviera,  Monacum,  Muenchen,  Muenegh,  Muenhen,  Muenih,  Munchen,  Munhen,  Munic,  Munich,  Munich ed Baviera,  Munih,  Munike,  Munique,  Munix,  Munkeno,  Munkhen,  Munîh,  Mynihu,  Myunxen,  Myunxén,  Mònacu,  Mùnich ëd Baviera,  Múnic,  Múnich,  München,  Münegh,  Münhen,  Münih,  mi wnik,  mi'unikha,  miunkheni,  miyunik,  mu ni hei,  mwinhen,  mwnykh,  mynkn,  myunhen,  myunik,  myunikha,  myunsena,  mywnkh,  mywnykh,  Μόναχο,  Минхен,  Мюнхен,  Мүнхен,  Мүнхэн,  Мӱнхен,  Մյունխեն,  מינכן,  مونیخ,  ميونخ,  ميونيخ,  میونخ,  म्युन्शेन,  म्यूनिख,  মিউনিখ,  மியூனிக்,  ಮ್ಯೂನಿಕ್,  มิวนิก,  မြူးနစ်ချ်မြို့,  მიუნხენი,  ミュンヘン,  慕尼黑,  뮌헨
+Alternate Names: Lungsod ng Muenchen, Lungsod ng München, MUC, Minca, Minche, Minga, Minhen, Minhene, Minkhen, Miunchenas, Mjunkhen, Mnichov, Mnichow, Mníchov, Monachium, Monacho, Monaco de Baviera, Monaco di Baviera, Monaco e Baviera, Monacu, Monacu di Baviera, Monacum, Muenchen, Muenegh, Muenhen, Muenih, Munchen, Munhen, Munic, Munich, Munich ed Baviera, Munih, Munike, Munique, Munix, Munkeno, Munkhen, Munîh, Mynihu, Myunxen, Myunxén, Mònacu, Mùnich ëd Baviera, Múnic, Múnich, München, Münegh, Münhen, Münih, mi wnik, mi'unikha, miunkheni, miyunik, mu ni hei, mwinhen, mwnykh, mynkn, myunhen, myunik, myunikha, myunsena, mywnkh, mywnykh, Μόναχο, Минхен, Мюнхен, Мүнхен, Мүнхэн, Мӱнхен, Մյունխեն, מינכן, مونیخ, ميونخ, ميونيخ, میونخ, म्युन्शेन, म्यूनिख, মিউনিখ, மியூனிக், ಮ್ಯೂನಿಕ್, มิวนิก, မြူးနစ်ချ်မြို့, მიუნხენი, ミュンヘン, 慕尼黑, 뮌헨
 
 ---

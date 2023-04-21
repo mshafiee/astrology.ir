@@ -291,10 +291,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°58'52.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'12.86" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°57'17.77" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°57'35.69" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|4°58'52.58" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|25°0'13.55" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°57'18.56" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°57'39.61" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|16°23'12.46" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|14°51'58.27" |Aries|Butain|Sun|
 |☾ Moon|Direct|8°7'43.56" |Gemini|HanAh|Jupiter|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°58'52.58" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|25°0'13.55" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°57'18.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°57'35.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°23'9.50" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°51'51.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°55'40.33" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°57'39.61" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°23'12.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'58.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°7'43.56" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: CCS,  Caracae,  Caracas,  Caraques,  Karakas,  Karakasa,  Karakasas,  Karakaso,  ka la ka si,  ka raka s,  kalakaseu,  karakas,  karakasa,  karakasu,  karakkas,  kraks,  Καράκας,  Каракас,  Կարակաս,  קאראקאס,  קראקס,  كاراكاس,  کاراکاس,  کراکس,  काराकास,  কারাকাস,  ਕਾਰਾਕਾਸ,  કારાકાસ,  କାରାକାସ,  கரகஸ்,  ಕರಾಕಸ್,  കാരക്കാസ്,  การากัส,  ཁ་ར་ཁ་སི,  ကရာကက်စ်မြို့,  კარაკასი,  ካራካስ,  カラカス,  卡拉卡斯,  카라카스
+Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스
 
 ---

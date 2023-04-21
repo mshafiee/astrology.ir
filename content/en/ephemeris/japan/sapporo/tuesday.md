@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°51'29.69" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°37'33.89" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°22'5.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°41'35.47" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°3'43.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°33'54.01" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|15°41'45.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°4'3.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°32'53.79" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SPK,  Sapara,  Saporas,  Saporo,  Sapporo,  Sapporo-chhi,  Sapporo-chhī,  Sapporo-shi,  Sapporoshi,  Sapporum,  Szapporo,  capporo,  sabwrw,  sap poa roa,  sapporo,  sapporoshi,  sapwrw,  saspolo si,  sypwrw,  zha huang,  zha huang shi,  Σαππόρο,  Сапара,  Сапоро,  Саппоро,  Սապորո,  סאפורו,  سابورو,  ساپورو,  سیپورو,  सप्पोरो,  சப்போரோ,  ซัปโปะโระ,  საპორო,  さっぽろ,  さっぽろし,  サッポロ,  サッポロシ,  札幌,  札幌市,  삿포로 시
+Alternate Names: SPK, Sapara, Saporas, Saporo, Sapporo, Sapporo-chhi, Sapporo-chhī, Sapporo-shi, Sapporoshi, Sapporum, Szapporo, capporo, sabwrw, sap poa roa, sapporo, sapporoshi, sapwrw, saspolo si, sypwrw, zha huang, zha huang shi, Σαππόρο, Сапара, Сапоро, Саппоро, Սապորո, סאפורו, سابورو, ساپورو, سیپورو, सप्पोरो, சப்போரோ, ซัปโปะโระ, საპორო, さっぽろ, さっぽろし, サッポロ, サッポロシ, 札幌, 札幌市, 삿포로 시
 
 ---

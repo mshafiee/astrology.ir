@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°17'9.99" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°20'18.93" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°2'28.63" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°58'28.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'48.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°43'7.47" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°58'35.90" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'9.22" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°54'14.05" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: District of Columbia,  Federal Capital,  Federal City,  Federal Town,  Ouasinkton,  Ranatakariahshne,  Ranatakariáhshne,  Territory of Columbia,  Vashington,  Vasingtonas,  Vasingtonia,  Vasingtono,  Vaŝingtono,  Vašingtonas,  WAS,  Washington,  Washington City,  Washington D. C.,  Washington D.C.,  Washington DC,  Waszyngton,  hua sheng dun te qu,  wosingteon D.C.,  wosingteon DC,  Ουάσιγκτον,  Вашингтон,  华盛顿特区,  워싱턴 D.C.,  워싱턴 DC
+Alternate Names: District of Columbia, Federal Capital, Federal City, Federal Town, Ouasinkton, Ranatakariahshne, Ranatakariáhshne, Territory of Columbia, Vashington, Vasingtonas, Vasingtonia, Vašingtonas, WAS, Washington, Washington City, Washington D. C., Washington D.C., Washington DC, Waszyngton, hua sheng dun te qu, wosingteon D.C., wosingteon DC, Ουάσιγκτον, Вашингтон, 华盛顿特区, 워싱턴 D.C., 워싱턴 DC
 
 ---

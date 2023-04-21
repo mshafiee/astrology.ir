@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'16.71" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°8'27.75" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°0'50.31" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°27'5.96" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°17'5.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'44.41" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°36'11.78" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°8'27.77" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°0'49.65" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°27'6.06" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°17'4.99" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'44.15" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°34'20.88" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'16.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°8'27.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°0'50.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°27'5.96" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°17'5.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'44.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°36'11.78" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°8'27.77" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°0'49.65" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°27'6.06" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°17'4.99" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'44.15" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°34'20.88" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: SDJ,  Sendai,  Sendai-shi,  Sendaishi,  Sendaj,  sendai,  sendaishi,  xian tai,  xian tai shi,  Сендай,  せんだい,  せんだいし,  センダイ,  センダイシ,  仙台,  仙台市
+Alternate Names: SDJ, Sendai, Sendai-shi, Sendaishi, Sendaj, sendai, sendaishi, xian tai, xian tai shi, Сендай, せんだい, せんだいし, センダイ, センダイシ, 仙台, 仙台市
 
 ---

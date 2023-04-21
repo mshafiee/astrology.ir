@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'33.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°54'59.02" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°30'43.05" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°32'18.90" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°12'47.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'38.77" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°44'26.47" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°54'59.50" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°30'46.90" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°32'21.38" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°12'53.02" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'44.46" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°5'36.33" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'33.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°54'59.02" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°30'43.05" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°32'18.90" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°12'47.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'38.77" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°44'26.47" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|23°54'59.50" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°30'46.90" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°32'21.51" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°12'53.15" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'44.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°6'27.32" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: T'ien-chin,  T'ien-ching,  T'ien-ching-shih,  TSN,  Tchien-tin,  Tchien-ťin,  Tehnd'iin,  Thien Tan,  Thien-tsin,  Thiên Tân,  Thiên-tsîn,  Tiandzinas,  Tianjin,  Tianjin Shi,  Tianjing,  Tianjín,  Tiantzin,  Tiencin,  Tiencsin,  Tiendzin,  Tientsin,  Tiençin,  Tjan'czin',  Tjandzina,  Tjangino,  Tjanĝino,  Tjaņdziņa,  Tjencin,  Tyantszin,  T’ien-chin,  T’ien-ching,  T’ien-ching-shih,  cheonjin,  theiyn cin,  ti'anjina,  tian jin,  tian jin shi,  tiyanjin,  tyanjina,  tyanjn,  tyanjyn,  tyenjin si,  tyyng'yn,  Τιαντζίν,  Тиендзин,  Тэндьиин,  Тяньцзинь,  Тяньцзінь,  Тјенцин,  טיינג'ין,  تيانجين,  تيەنجىن شەھىرى,  تیانجن,  تیانجین,  तिआंजिन,  त्यांजिन,  ਤਿਆਂਜਿਨ,  தியான்ஜின்,  ടിയാൻജിൻ,  เทียนจิน,  ཐན་ཅིན ་གྲོང་ཁྱེར།,  ထျန်းကျင်းမြို့,  ტიანძინი,  天津,  天津市,  천진,  톈진 시
+Alternate Names: T'ien-chin, T'ien-ching, T'ien-ching-shih, TSN, Tchien-tin, Tchien-ťin, Tehnd'iin, Thien Tan, Thien-tsin, Thiên Tân, Thiên-tsîn, Tiandzinas, Tianjin, Tianjin Shi, Tianjing, Tianjín, Tiantzin, Tiencin, Tiencsin, Tiendzin, Tientsin, Tiençin, Tjan'czin', Tjandzina, Tjangino, Tjanĝino, Tjaņdziņa, Tjencin, Tyantszin, T’ien-chin, T’ien-ching, T’ien-ching-shih, cheonjin, theiyn cin, ti'anjina, tian jin, tian jin shi, tiyanjin, tyanjina, tyanjn, tyanjyn, tyenjin si, tyyng'yn, Τιαντζίν, Тиендзин, Тэндьиин, Тяньцзинь, Тяньцзінь, Тјенцин, טיינג'ין, تيانجين, تيەنجىن شەھىرى, تیانجن, تیانجین, तिआंजिन, त्यांजिन, ਤਿਆਂਜਿਨ, தியான்ஜின், ടിയാൻജിൻ, เทียนจิน, ཐན་ཅིན ་གྲོང་ཁྱེར།, ထျန်းကျင်းမြို့, ტიანძინი, 天津, 天津市, 천진, 톈진 시
 
 ---

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°31'32.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'47.78" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°59'10.96" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°34'41.11" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°5'6.51" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'5.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°34'3.21" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°31'32.38" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°40'48.21" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°59'13.87" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°34'43.36" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°5'10.77" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'10.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°46'36.62" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'32.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'47.78" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°59'10.96" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°34'41.11" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°5'6.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'5.67" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°34'3.21" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°40'48.21" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°59'13.87" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°34'43.36" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°5'10.77" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'10.44" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°46'36.62" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Bu-han-chhi,  Bú-hàn-chhī,  Gouchan,  Owhan,  U-hang,  Uhan,  Uhana,  Uhanas,  Uhaņa,  Ukhan,  Ukhan',  Uxan,  Vu Han,  Vu-hon-su,  Vuhan,  Vuhani,  Vuhano,  Vujhan,  Vukhan,  Vú-hon-sṳ,  Vũ Hán,  WUH,  Wu-chan,  Wu-han-shih,  Wuhan,  Wuhan Shi,  uhan si,  ukhani,  uuxan,  vuhana,  vukan,  vukhana,  wu han,  wu han shi,  wwhan,  xu han,  Ū-háng,  Γουχάν,  Вухан,  Вухан балһсн,  Ухан,  Ухань,  Үkhan',  Үхань,  Үһән,  Ուհան,  ווהאן,  ووهان,  ووھان,  ووہان,  ۋۇخەن شەھىرى,  ܘܘܗܐܢ,  वूहान,  ਵੂਖ਼ਨ,  வுகான்,  വൂഹാൻ,  อู่ฮั่น,  ཝུའུ་ཧན་གྲོང་ཁྱེར།,  ဝူဟန့်မြို့,  უხანი,  ዉሃን,  武汉,  武汉市,  武漢,  武漢市,  우한 시,  𐍅𐌿𐌷𐌰𐌽
+Alternate Names: Bu-han-chhi, Bú-hàn-chhī, Gouchan, Owhan, U-hang, Uhan, Uhana, Uhanas, Uhaņa, Ukhan, Ukhan', Uxan, Vu Han, Vu-hon-su, Vuhan, Vuhani, Vuhano, Vujhan, Vukhan, Vú-hon-sṳ, Vũ Hán, WUH, Wu-chan, Wu-han-shih, Wuhan, Wuhan Shi, uhan si, ukhani, uuxan, vuhana, vukan, vukhana, wu han, wu han shi, wwhan, xu han, Ū-háng, Γουχάν, Вухан, Вухан балһсн, Ухан, Ухань, Үkhan', Үхань, Үһән, Ուհան, ווהאן, ووهان, ووھان, ووہان, ۋۇخەن شەھىرى, ܘܘܗܐܢ, वूहान, ਵੂਖ਼ਨ, வுகான், വൂഹാൻ, อู่ฮั่น, ཝུའུ་ཧན་གྲོང་ཁྱེར།, ဝူဟန့်မြို့, უხანი, ዉሃን, 武汉, 武汉市, 武漢, 武漢市, 우한 시, 𐍅𐌿𐌷𐌰𐌽
 
 ---

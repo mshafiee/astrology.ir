@@ -20,7 +20,7 @@ Latitude: 36.3491
 \-
 Longitude: 127.3849
 \-
-Altitude: 58 meters
+Altitude: 46 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Daejeon, Korea, Republic of" lat="36.3491" lng="127.3849" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:29:05 |
 | Medium Coeli | 12:29:05 |
 | Sunset | 19:10:04 |
-| Maghrib | 19:11:25 |
+| Maghrib | 19:11:16 |
 | Isha | 20:38:41 |
 | Sharia Midnight | 23:41:34 |
 | Imum Coeli | 00:28:59 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:29:05 |
 | Medium Coeli | 12:29:05 |
 | Sunset | 19:10:04 |
-| Maghrib | 19:11:25 |
+| Maghrib | 19:11:16 |
 | Isha | 20:27:17 |
 | Sharia Midnight | 23:50:09 |
 | Imum Coeli | 00:28:59 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:29:05 |
 | Medium Coeli | 12:29:05 |
 | Sunset | 19:10:04 |
-| Maghrib | 19:11:25 |
+| Maghrib | 19:11:16 |
 | Isha | 20:41:34 |
 | Sharia Midnight | 23:37:10 |
 | Imum Coeli | 00:28:59 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:29:05 |
 | Medium Coeli | 12:29:05 |
 | Sunset | 19:10:04 |
-| Maghrib | 19:11:25 |
+| Maghrib | 19:11:16 |
 | Isha | 20:44:28 |
 | Sharia Midnight | 23:41:34 |
 | Imum Coeli | 00:28:59 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:29:05 |
 | Medium Coeli | 12:29:05 |
 | Sunset | 19:10:04 |
-| Maghrib | 19:11:25 |
-| Isha | 20:41:25 |
+| Maghrib | 19:11:16 |
+| Isha | 20:41:16 |
 | Sharia Midnight | 23:40:06 |
 | Imum Coeli | 00:28:59 |
 {{< /tab >}}
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'28.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°9'1.80" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°2'6.36" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°29'24.79" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°19'48.54" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'38.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°12'49.74" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°9'1.82" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°2'6.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°29'24.50" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°19'47.95" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'38.27" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°9'45.41" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'28.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°9'1.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°2'6.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°29'24.40" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°19'47.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'38.09" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°12'49.74" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°9'1.82" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°2'6.45" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°29'24.50" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°19'47.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'38.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°9'45.41" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Daejeon,  Daejeon-si,  Daejon,  Daiden,  Daigono,  Daiĝono,  QTW,  Taejon,  Taejŏn,  Taiden,  Tehdzhon,  Tetyan,  Thai-tyen,  Thāi-tyen,  Tētyan,  da tian guang yu shi,  daejeon,  daejeongwang-yeogsi,  daejeonsi,  Тэджон,  大田广域市,  大田広域市,  대전,  대전광역시,  대전시
+Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시
 
 ---

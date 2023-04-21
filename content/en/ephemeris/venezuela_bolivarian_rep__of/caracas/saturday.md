@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'16.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°17'2.89" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°20'7.46" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°1'55.90" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°58'1.88" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'47.71" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°22'17.18" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°17'5.53" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°20'8.21" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°2'11.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°58'11.09" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'9.83" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°43'45.35" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Saturn|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°44'14.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°17'2.89" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°20'7.46" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°1'55.90" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°58'1.88" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'47.71" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°22'17.18" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°44'16.23" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°17'5.53" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°20'8.21" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°2'11.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°58'11.09" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'9.83" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°43'45.35" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CCS,  Caracae,  Caracas,  Caraques,  Karakas,  Karakasa,  Karakasas,  Karakaso,  ka la ka si,  ka raka s,  kalakaseu,  karakas,  karakasa,  karakasu,  karakkas,  kraks,  Καράκας,  Каракас,  Կարակաս,  קאראקאס,  קראקס,  كاراكاس,  کاراکاس,  کراکس,  काराकास,  কারাকাস,  ਕਾਰਾਕਾਸ,  કારાકાસ,  କାରାକାସ,  கரகஸ்,  ಕರಾಕಸ್,  കാരക്കാസ്,  การากัส,  ཁ་ར་ཁ་སི,  ကရာကက်စ်မြို့,  კარაკასი,  ካራካስ,  カラカス,  卡拉卡斯,  카라카스
+Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스
 
 ---

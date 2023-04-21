@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'5.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°45'10.79" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°8'57.15" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°52'29.81" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°26'4.37" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'29.24" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°34'20.82" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°45'10.90" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°8'54.39" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°52'30.42" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°26'1.76" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'29.18" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°56'15.76" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'5.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°45'10.43" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°9'0.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°52'27.27" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°26'6.73" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'29.24" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°34'20.82" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°45'10.79" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°8'57.15" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°52'29.81" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°26'4.37" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'30.25" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°52'18.20" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ALG,  Al Jazair,  Al-jezair,  Alcher,  Alge,  Algeirsborg,  Alger,  Algeri,  Algero,  Algier,  Algiers,  Algir,  Alg·èr,  Algê,  Algír,  Alje,  Aljer,  Aljir,  Alse,  Alxer,  Alzer,  Alzhir,  Alzhir khot,  Alzhir shaary,  Alzhyr,  Alziir,  Alzir,  Alzira,  Alzirs,  Alzyras,  Alĝero,  Alžiir,  Alžir,  Alžyras,  Alžír,  Alžěr,  Alžīra,  Alžīrs,  Argel,  Argier,  Argièr,  Arhel,  Arjel,  Arxel,  Caesair,  Cathair na hAilgeire,  Cathair na hAilgéire,  Cezayir,  Cäsair,  Icosium,  Jazoir,  Zzayer,  a er ji er,  ala-jaza'ira,  alajiyarsa,  alje,  alji'ersa,  aljiyars,  aljiyarsa,  aljyrz,  aljzayr,  aljzayr (mdynt),  aljzayr alʿasmt,  aljzyrh,  alzhiri,  aruje,  jەzayyr,  mdynt aljzayr,  yaljyr,  Əlcəzair,  ʼlgyr,  Αλγέρι,  Алжир,  Алжир хот,  Алжир шаары,  Алжыр,  Алҷазоир,  Ալժիր,  אלגיר,  אלזשירס,  ئالجىر,  الجزائر,  الجزائر (مدينة),  الجزائر العاصمة,  الجزائر شہر,  الجزيره,  الجزیره,  الجیرز,  جەزائیر,  مدينة الجزائر,  ܓܙܐܐܪ,  अल्जीएर्स,  अल्जीयर्स,  আলজিয়ার্স,  ਅਲ-ਜਜ਼ਾਇਰ,  அல்ஜியர்ஸ்,  അൾജിയേഴ്സ്,  แอลเจียร์,  ཨཱལ་ཇི་ཡར་སི།,  အယ်လဂျီးယားမြို့,  ალჟირი,  አልጀርስ,  アルジェ,  阿爾及爾,  알제
+Alternate Names: ALG, Al Jazair, Al-jezair, Alcher, Alge, Algeirsborg, Alger, Algeri, Algero, Algier, Algiers, Algir, Alg·èr, Algê, Algír, Alje, Aljer, Aljir, Alse, Alxer, Alzer, Alzhir, Alzhir khot, Alzhir shaary, Alzhyr, Alziir, Alzir, Alzira, Alzirs, Alzyras, Alĝero, Alžiir, Alžir, Alžyras, Alžír, Alžěr, Alžīra, Alžīrs, Argel, Argier, Argièr, Arhel, Arjel, Arxel, Caesair, Cathair na hAilgeire, Cathair na hAilgéire, Cezayir, Cäsair, Icosium, Jazoir, Zzayer, a er ji er, ala-jaza'ira, alajiyarsa, alje, alji'ersa, aljiyars, aljiyarsa, aljyrz, aljzayr, aljzayr (mdynt), aljzayr alʿasmt, aljzyrh, alzhiri, aruje, jەzayyr, mdynt aljzayr, yaljyr, Əlcəzair, ʼlgyr, Αλγέρι, Алжир, Алжир хот, Алжир шаары, Алжыр, Алҷазоир, Ալժիր, אלגיר, אלזשירס, ئالجىر, الجزائر, الجزائر (مدينة), الجزائر العاصمة, الجزائر شہر, الجزيره, الجزیره, الجیرز, جەزائیر, مدينة الجزائر, ܓܙܐܐܪ, अल्जीएर्स, अल्जीयर्स, আলজিয়ার্স, ਅਲ-ਜਜ਼ਾਇਰ, அல்ஜியர்ஸ், അൾജിയേഴ്സ്, แอลเจียร์, ཨཱལ་ཇི་ཡར་སི།, အယ်လဂျီးယားမြို့, ალჟირი, አልጀርስ, アルジェ, 阿爾及爾, 알제
 
 ---

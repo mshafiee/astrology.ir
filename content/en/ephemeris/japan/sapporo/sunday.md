@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°22'45.40" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°32'50.99" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°25'12.03" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°24'58.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'54.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°12'51.47" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|13°25'9.23" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'13.36" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°28'12.71" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SPK,  Sapara,  Saporas,  Saporo,  Sapporo,  Sapporo-chhi,  Sapporo-chhī,  Sapporo-shi,  Sapporoshi,  Sapporum,  Szapporo,  capporo,  sabwrw,  sap poa roa,  sapporo,  sapporoshi,  sapwrw,  saspolo si,  sypwrw,  zha huang,  zha huang shi,  Σαππόρο,  Сапара,  Сапоро,  Саппоро,  Սապորո,  סאפורו,  سابورو,  ساپورو,  سیپورو,  सप्पोरो,  சப்போரோ,  ซัปโปะโระ,  საპორო,  さっぽろ,  さっぽろし,  サッポロ,  サッポロシ,  札幌,  札幌市,  삿포로 시
+Alternate Names: SPK, Sapara, Saporas, Saporo, Sapporo, Sapporo-chhi, Sapporo-chhī, Sapporo-shi, Sapporoshi, Sapporum, Szapporo, capporo, sabwrw, sap poa roa, sapporo, sapporoshi, sapwrw, saspolo si, sypwrw, zha huang, zha huang shi, Σαππόρο, Сапара, Сапоро, Саппоро, Սապորո, סאפורו, سابورو, ساپورو, سیپورو, सप्पोरो, சப்போரோ, ซัปโปะโระ, საპორო, さっぽろ, さっぽろし, サッポロ, サッポロシ, 札幌, 札幌市, 삿포로 시
 
 ---

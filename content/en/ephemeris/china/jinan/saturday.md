@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'37.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°9'26.40" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°3'1.17" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°31'4.28" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°21'44.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'32.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°28'16.45" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°9'26.46" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°3'1.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°31'4.59" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°21'45.25" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'32.83" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°31'11.15" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'37.13" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°9'26.40" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°3'1.17" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°31'4.28" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°21'44.74" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'32.21" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°28'16.45" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°9'26.46" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°3'1.48" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°31'4.59" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°21'45.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'31.89" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°28'23.87" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Ca-nang,  Che-lam-chhi,  Chi-nam-su,  Chi-nan,  Chi-nan-shih,  Chi-nàm-sṳ,  Chè-lâm-chhī,  Cijnanz,  Cinanum,  Csinan,  Czinan',  Cá̤-nàng,  Dzinan,  Dzinanas,  Dzjinana,  Dzjinaņa,  Ginano,  Jinan,  Jinan Shi,  Li-ch'eng,  Li-ch’eng,  Szinan,  TNA,  Te Nam,  Ti-nan,  Tsi-nan-fu,  Tsinah,  Tsinan,  Tzinan,  Tế Nam,  Zhinan',  ci hnan,  cinana,  gynʼn,  ji nan,  ji nan shi,  jinan si,  jinana,  jynan,  Ĝinano,  Ťi-nan,  Τζινάν,  Ђинан,  Дзинан,  Жинань,  Цзинань,  Цзінань,  Ցզինան,  גינאן,  جىنەن شەھىرى,  جينان,  جینان,  जीनान,  ਚੀਨਾਨ,  จี่หนาน,  ཅི་ནན།,  ကျီနန်မြို့,  济南,  济南市,  済南,  済南市,  濟南,  濟南市,  지난 시
+Alternate Names: Ca-nang, Che-lam-chhi, Chi-nam-su, Chi-nan, Chi-nan-shih, Chi-nàm-sṳ, Chè-lâm-chhī, Cijnanz, Cinanum, Csinan, Czinan', Cá̤-nàng, Dzinan, Dzinanas, Dzjinana, Dzjinaņa, Ginano, Jinan, Jinan Shi, Li-ch'eng, Li-ch’eng, Szinan, TNA, Te Nam, Ti-nan, Tsi-nan-fu, Tsinah, Tsinan, Tzinan, Tế Nam, Zhinan', ci hnan, cinana, gynʼn, ji nan, ji nan shi, jinan si, jinana, jynan, Ĝinano, Ťi-nan, Τζινάν, Ђинан, Дзинан, Жинань, Цзинань, Цзінань, Ցզինան, גינאן, جىنەن شەھىرى, جينان, جینان, जीनान, ਚੀਨਾਨ, จี่หนาน, ཅི་ནན།, ကျီနန်မြို့, 济南, 济南市, 済南, 済南市, 濟南, 濟南市, 지난 시
 
 ---

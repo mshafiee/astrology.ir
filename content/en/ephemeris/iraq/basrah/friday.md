@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°57'53.15" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°37'13.56" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°44'7.38" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°26'45.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'14.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°4'37.93" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°26'41.02" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'12.10" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°55'56.42" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al Basrah,  Al Başrah,  Al-Basra,  BSR,  Bacora,  Basora,  Basra,  Basrah,  Bassora,  Bassorah,  Bassra,  Baçorá,  Busra,  Busrah,  Bussora,  Bàssora,  albsrt,  ba shi la,  ba si la,  basara,  basura,  bsrh,  bsrt,  bzrh,  Басра,  בצרה,  البصرة,  بصرة,  بصره,  ܒܨܪܐ,  বসরা,  バスラ,  巴士拉,  巴斯拉
+Alternate Names: Al Basrah, Al Başrah, Al-Basra, BSR, Bacora, Basora, Basra, Basrah, Bassora, Bassorah, Bassra, Baçorá, Busra, Busrah, Bussora, Bàssora, albsrt, ba shi la, ba si la, basura, bsrh, bsrt, bzrh, Басра, בצרה, البصرة, بصرة, بصره, ܒܨܪܐ, バスラ, 巴士拉, 巴斯拉
 
 ---

@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°42'20.36" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°11'31.05" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°7'40.74" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°39'34.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°31'43.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'5.64" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°41'28.11" |Aries|Butain|Venus|
+|☉ Sun|Direct|1°39'30.20" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°31'39.42" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'58.58" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°11'9.16" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'20.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'31.85" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°7'42.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°39'34.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°31'43.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'5.64" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°41'28.11" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°11'31.05" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°7'40.74" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°39'30.20" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°31'39.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'58.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°9'18.40" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Ephu,  Oefa,  Oufa,  Ouffa,  Owfa,  UFA,  Uf,  Ufa,  Uffa,  Ufà,  Ufá,  Ufа,  Upo,  awfa,  ufa,  upa,  wu fa,  Ĕпхӳ,  Оуфа,  Уфа,  Үфі,  Өфө,  Ӱпӧ,  Ուֆա,  אופה,  أوفا,  اوفا,  ऊफ़ा,  უფა,  ウファ,  烏法,  우파
+Alternate Names: Ephu, Oefa, Oufa, Ouffa, Owfa, UFA, Uf, Ufa, Uffa, Ufà, Ufá, Ufа, Upo, awfa, ufa, upa, wu fa, Ĕпхӳ, Оуфа, Уфа, Үфі, Өфө, Ӱпӧ, Ուֆա, אופה, أوفا, اوفا, ऊफ़ा, უფა, ウファ, 烏法, 우파
 
 ---

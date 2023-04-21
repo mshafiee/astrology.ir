@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'19.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'12.31" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°57'54.42" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°32'17.28" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°2'19.49" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'47.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°6'17.53" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°40'12.27" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°57'54.34" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°32'17.05" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°2'19.28" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'47.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°4'50.73" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Hanyang,  SEL,  Seoel,  Seol,  Seoul,  Seoul-si,  Seuel,  Seul,  Seula,  Seulas,  Seulo,  Seulum,  Seúl,  Seül,  Siul,  Soeul,  Sol,  Soul,  Sye-ul,  Syou-ouen,  Szoeul,  Szöul,  Séoul,  Sêûl,  Söul,  Sŏul,  Wang-ching,  Wo-jo,  Wō-jō,  ciyol,  han-yang,  saul,  seoul,  seoulsi,  seoulteugbyeolsi,  seuli,  shou er,  shou er te bie shi,  si'ula,  siyola,  sol,  sola,  souru,  souru te bie shi,  sywl,  Σεούλ,  Сеул,  Соул,  Сөүл,  Սեուլ,  סאול,  סיאול,  סעאל,  سئول,  سيول,  سیول,  سێئول,  سېئول,  सियोल,  सोल,  সিউল,  சியோல்,  ಸೌಲ್,  സോൾ,  โซล,  སེ་ཨུལ།,  ဆိုးလ်မြို့,  სეული,  ሶል,  សេអ៊ូល,  ソウル,  ソウル特別市,  首尔,  首尔特别市,  首爾,  서울,  서울시,  서울특별시,  한양
+Alternate Names: Hanyang, SEL, Seoel, Seol, Seoul, Seoul-si, Seuel, Seul, Seula, Seulas, Seulo, Seulum, Seúl, Seül, Siul, Soeul, Sol, Soul, Sye-ul, Syou-ouen, Szoeul, Szöul, Séoul, Sêûl, Söul, Sŏul, Wang-ching, Wo-jo, Wō-jō, ciyol, han-yang, saul, seoul, seoulsi, seoulteugbyeolsi, seuli, shou er, shou er te bie shi, si'ula, siyola, sol, sola, souru, souru te bie shi, sywl, Σεούλ, Сеул, Соул, Сөүл, Սեուլ, סאול, סיאול, סעאל, سئول, سيول, سیول, سێئول, سېئول, सियोल, सोल, সিউল, சியோல், ಸೌಲ್, സോൾ, โซล, སེ་ཨུལ།, ဆိုးလ်မြို့, სეული, ሶል, សេអ៊ូល, ソウル, ソウル特別市, 首尔, 首尔特别市, 서울, 서울시, 서울특별시, 한양
 
 ---

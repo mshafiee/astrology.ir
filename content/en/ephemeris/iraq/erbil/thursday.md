@@ -20,7 +20,7 @@ Latitude: 36.1833
 \-
 Longitude: 44.0119
 \-
-Altitude: 412 meters
+Altitude: 428 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Erbil, Iraq" lat="36.1833" lng="44.0119" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:02:56 |
 | Medium Coeli | 12:02:56 |
 | Sunset | 18:41:40 |
-| Maghrib | 18:45:19 |
+| Maghrib | 18:45:23 |
 | Isha | 20:09:40 |
 | Sharia Midnight | 23:15:45 |
 | Imum Coeli | 00:02:50 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:02:56 |
 | Medium Coeli | 12:02:56 |
 | Sunset | 18:41:40 |
-| Maghrib | 18:45:19 |
+| Maghrib | 18:45:23 |
 | Isha | 19:58:24 |
 | Sharia Midnight | 23:24:14 |
 | Imum Coeli | 00:02:50 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:02:56 |
 | Medium Coeli | 12:02:56 |
 | Sunset | 18:41:40 |
-| Maghrib | 18:45:19 |
+| Maghrib | 18:45:23 |
 | Isha | 20:12:31 |
 | Sharia Midnight | 23:11:25 |
 | Imum Coeli | 00:02:50 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:02:56 |
 | Medium Coeli | 12:02:56 |
 | Sunset | 18:41:40 |
-| Maghrib | 18:45:19 |
+| Maghrib | 18:45:23 |
 | Isha | 20:15:22 |
 | Sharia Midnight | 23:15:45 |
 | Imum Coeli | 00:02:50 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:02:56 |
 | Medium Coeli | 12:02:56 |
 | Sunset | 18:41:40 |
-| Maghrib | 18:45:19 |
-| Isha | 20:15:19 |
+| Maghrib | 18:45:23 |
+| Isha | 20:15:23 |
 | Sharia Midnight | 23:14:19 |
 | Imum Coeli | 00:02:50 |
 {{< /tab >}}
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|29°45'52.41" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|10°18'17.40" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°32'41.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°19'31.04" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|29°19'31.05" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°45'52.41" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°18'17.40" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°32'41.79" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°19'31.04" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|29°19'31.05" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Arbeel,  Arbela,  Arbil,  Arbēla,  Arbīl,  EBL,  Erbil,  Hawler,  Hawlēr,  Hewler,  Hewlêr,  Irbil,  Irbīl,  Viloati Arbil,  ai er bi lei sheng,  arbl,  arbyl,  arubiru xian,  hەwlێr,  mhafzt arbl,  mhafzt arbyl,  Арбил,  Вилояти Арбӣл,  מחוז ארביל,  أربيل,  إربل,  إربيل,  اربیل,  محافظة أربيل,  محافظة إربل,  هەولێر,  アルビール県,  埃爾比勒省
+Alternate Names: Arbeel, Arbela, Arbil, Arbēla, Arbīl, EBL, Erbil, Hawler, Hawlēr, Hewler, Hewlêr, Irbil, Irbīl, Viloati Arbil, ai er bi lei sheng, arbl, arbyl, arubiru xian, hەwlێr, mhafzt arbl, mhafzt arbyl, Арбил, Вилояти Арбӣл, מחוז ארביל, أربيل, إربل, إربيل, اربیل, محافظة أربيل, محافظة إربل, هەولێر, アルビール県, 埃爾比勒省
 
 ---

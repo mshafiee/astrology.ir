@@ -292,10 +292,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'31.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°59'10.46" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°54'54.30" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°53'22.90" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°18'11.55" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°59'10.48" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°54'55.44" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°53'23.09" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°18'12.97" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|14°53'33.92" |Aries|Butain|Sun|
 |☾ Moon|Direct|7°17'38.53" |Gemini|HanAh|Jupiter|
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'31.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°59'10.46" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°54'54.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°53'22.90" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°18'11.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°53'33.09" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°6'16.33" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°59'10.48" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°54'55.44" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°53'23.09" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°18'12.97" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°53'33.92" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°17'38.53" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: MCZ,  Macayo,  Maceio,  Maceió,  Masejas,  Masejo,  Maseyo,  Maçayó,  ma sai yue,  ma se xo,  masayw,  mase'i'o,  maseio,  masyyw,  msyyʼw,  Масейо,  Масејо,  מסייאו,  ماسئیو,  ماسايو,  মাসেইও,  มาเซโอ,  მასეიო,  マセイオ,  马塞约,  마세이오
+Alternate Names: MCZ, Macayo, Maceio, Maceió, Masejas, Masejo, Maseyo, Maçayó, ma sai yue, ma se xo, masayw, mase'i'o, maseio, masyyw, msyyʼw, Масейо, Масејо, מסייאו, ماسئیو, ماسايو, মাসেইও, มาเซโอ, მასეიო, マセイオ, 马塞约, 마세이오
 
 ---

@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°44'43.53" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°7'56.76" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°50'38.88" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°23'54.37" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'16.25" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°21'41.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°23'56.99" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'19.36" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°31'44.32" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: An Roimh,  An Ròimh,  An Róimh,  Erroma,  Hrom,  Lungsod ng Roma,  Mji wa Roma,  ROM,  Ramma,  Rhufain,  Rim,  Rim,  Roeme,  Rom,  Roma,  Rome,  Romma,  Romo,  Romë,  Rooma,  Roum,  Rym,  Rzym,  Råmma,  Rím,  Róm,  Róma,  Urbs,  loma,  luo ma,  luo ma shi,  rm,  rom,  roma,  romi,  rwm,  rwma,  rym,  Řím,  Ρώμη,  Рим,  Римъ,  Ром,  Рым,  Հռոմ,  רומא,  رم,  روم,  روما,  رىم,  ܪܘܡܐ,  रोम,  रोमा,  রোম,  โรม,  რომი,  ሮማ,  ローマ,  罗马市,  羅馬,  로마
+Alternate Names: An Roimh, An Ròimh, An Róimh, Erroma, Hrom, Lungsod ng Roma, Mji wa Roma, ROM, Ramma, Rhufain, Rim, Rim, Roeme, Rom, Roma, Rome, Romma, Romo, Romë, Rooma, Roum, Rym, Rzym, Råmma, Rím, Róm, Róma, Urbs, loma, luo ma shi, rm, rom, roma, romi, rwm, rwma, rym, Řím, Ρώμη, Рим, Римъ, Ром, Рым, Հռոմ, רומא, رم, روم, روما, رىم, ܪܘܡܐ, रोम, रोमा, রোম, โรม, რომი, ሮማ, ローマ, 罗马市, 로마
 
 ---

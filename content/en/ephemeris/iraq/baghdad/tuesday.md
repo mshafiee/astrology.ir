@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'18.64" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°55'31.18" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°46'39.75" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°38'29.34" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°0'52.40" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'38.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°32'28.02" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|15°46'40.00" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°38'29.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°0'52.91" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'42.05" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°5'35.83" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'18.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'30.61" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'43.58" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°38'26.01" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°0'54.98" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'38.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°32'28.02" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'31.25" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'40.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°38'29.78" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°0'52.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'42.05" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°5'35.83" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BGW,  Bagda,  Bagdad,  Bagdadas,  Bagdado,  Bagdat,  Bagdate,  Bagdatum,  Bagdod,  Bagdá,  Bagdád,  Baghdad,  Baghdād,  Bağdad,  Bağdat,  Beghdad,  Bexda,  Lungsod ng Baghdad,  ba ge da,  bagadada,  bageudadeu,  bagudado,  bghdad,  bەghdad,  paktat,  Βαγδάτη,  Багдад,  Бағдод,  Բաղդադ,  בגדאד,  بغداد,  بەغداد,  ܒܓܕܐܕ,  बगदाद,  বাগদাদ,  பக்தாத்,  པ་ག་ཏ,  ባግዳድ,  バグダード,  巴格达,  巴格達,  바그다드
+Alternate Names: BGW, Bagda, Bagdad, Bagdadas, Bagdado, Bagdat, Bagdate, Bagdatum, Bagdod, Bagdá, Bagdád, Baghdad, Baghdād, Bağdad, Bağdat, Beghdad, Bexda, Lungsod ng Baghdad, ba ge da, bagadada, bageudadeu, bagudado, bghdad, bەghdad, paktat, Βαγδάτη, Багдад, Бағдод, Բաղդադ, בגדאד, بغداد, بەغداد, ܒܓܕܐܕ, बगदाद, বাগদাদ, பக்தாத், པ་ག་ཏ, ባግዳድ, バグダード, 巴格达, 바그다드
 
 ---

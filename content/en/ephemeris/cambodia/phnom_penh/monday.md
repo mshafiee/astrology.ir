@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°38'59.51" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°9'20.14" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°31'14.57" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°42'17.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°18'24.78" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°33'36.18" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|14°42'21.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'31.20" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°2'7.40" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'45.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°38'58.88" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°9'17.85" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°31'11.01" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°42'17.02" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°18'24.78" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°33'36.18" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|24°38'59.51" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°9'20.14" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°31'14.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°42'21.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°18'31.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°2'7.40" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Krong Chaktomuk,  Nam Van,  Nam-Vang,  Nom Pen,  PNH,  Phnom Pen,  Phnom Penh,  Phnom Pénh,  Phnom-Penh,  Phnompen,  Phnompenh,  Phnum Penh,  Phnum Peny,  Phnum Pénh,  Phnum Pény,  Phnôm Pênh,  Phon Phen,  Pnampen',  Pnom Pehn',  Pnom Pen,  Pnom Pen'ch,  Pnom Pene,  Pnom Penh,  Pnompen,  Pnompen',  Pnompena,  Pnompenis,  Pnompeno,  Pnompeņa,  Ville de Phnom Penh,  bnwm bnh,  fnwm pn,  fnwm pېn,  jin bian,  namapenha,  panoma pena,  peunompen,  phnm pen,  phnmpey,  pnwm pn,  punom pen,  punonpen,  Πνομ Πενχ,  Пнампень,  Пном Пен,  Пном Пэнь,  Пномпень,  Պնոմպեն,  פנום פן,  بنوم بنه,  فنوم پن,  فنوم پېن,  پنوم پن,  پنوم
+Alternate Names: Krong Chaktomuk, Nam Van, Nam-Vang, Nom Pen, PNH, Phnom Pen, Phnom Penh, Phnom Pénh, Phnom-Penh, Phnompen, Phnompenh, Phnum Penh, Phnum Peny, Phnum Pénh, Phnum Pény, Phnôm Pênh, Phon Phen, Pnampen', Pnom Pehn', Pnom Pen, Pnom Pen'ch, Pnom Pene, Pnom Penh, Pnom-Peno, Pnompen, Pnompen', Pnompena, Pnompenis, Pnompeņa, Ville de Phnom Penh, bnwm bnh, fnwm pn, fnwm pېn, jin bian, namapenha, panoma pena, peunompen, phnm pen, phnmpey, pnwm pn, punom pen, punonpen, Πνομ Πενχ, Пнампень, Пном Пен, Пном Пэнь, Пномпень, Պնոմպեն, פנום פן, بنوم بنه, فنوم پن, فنوم پېن, پنوم پن, پنوم‌پن, پنۆم پێن, नामपेन्ह, पनॉम पेन, প্‌নম পেন, புனோம் பென், พนมเปญ, พนมเปณ, ཕོམ་ཕེན།, ဖနွမ်းပင်မြို့, პნომპენი, ፕኖም ፔን, ភនកពងតរាច, ភនពេញ, ភ្នំកំពង់ត្រាច, ភ្នំពេញ, プノンペン, 金边, 프놈펜
 
 ---

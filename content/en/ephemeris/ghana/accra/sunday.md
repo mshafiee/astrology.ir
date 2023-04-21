@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'18.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°28'51.86" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°46'32.83" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°50'0.65" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°54'6.10" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'12.88" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°35'35.79" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°28'51.08" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°46'33.52" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°49'58.77" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°54'10.56" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'13.01" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°0'57.68" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'18.86" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°28'51.86" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°46'28.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°50'0.65" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°54'6.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'12.88" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°35'35.79" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°28'51.08" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°46'33.52" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°49'58.77" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°54'10.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'13.01" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°0'57.68" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ACC,  Aakra,  Aakrá,  Accra,  Acra,  Akara,  Akkr,  Akkra,  Akkrae,  Akra,  Akrao,  Akʻra,  Nkran,  a ke la,  akara,  akeula,  akra,  akura,  xak kra,  yەkra,  ΄Aκκρα,  Άκκρα,  Аккрæ,  Аккра,  Акра,  Աքրա,  אקרא,  אקרה,  آکرا,  أكرا,  ئەکرا,  اكرا,  اکرا,  عکرہ,  अक्रा,  आक्रा,  আক্রা,  ਅਕਰਾ,  ଆକ୍ରା,  அக்ரா,  അക്ര,  อักกรา,  ཨ་ཁ་ར།,  အက်ခရာမြို့,  აკრა,  አክራ,  アクラ,  阿克拉,  아크라
+Alternate Names: ACC, Aakra, Aakrá, Accra, Acra, Akara, Akkr, Akkra, Akkrae, Akra, Akrao, Akʻra, Nkran, a ke la, akara, akeula, akra, akura, xak kra, yەkra, ΄Aκκρα, Άκκρα, Аккрæ, Аккра, Акра, Աքրա, אקרא, אקרה, آکرا, أكرا, ئەکرا, اكرا, اکرا, عکرہ, अक्रा, आक्रा, আক্রা, ਅਕਰਾ, ଆକ୍ରା, அக்ரா, അക്ര, อักกรา, ཨ་ཁ་ར།, အက်ခရာမြို့, აკრა, አክራ, アクラ, 阿克拉, 아크라
 
 ---

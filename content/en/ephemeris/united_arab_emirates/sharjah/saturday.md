@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'31.46" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°12'2.84" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°8'49.40" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°41'38.93" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°34'7.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'52.35" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°46'53.38" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|14°8'50.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°41'40.62" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°34'9.94" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'55.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°1'59.77" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'31.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'2.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°8'49.40" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°41'38.93" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°34'7.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'52.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°46'53.38" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'2.84" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°8'50.90" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°41'40.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°34'9.94" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'55.54" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°1'54.61" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al Sharjah,  Ash 'Mariqah,  Ash Shariqa,  Ash Shariqah,  Ash Shāriqa,  Ash Shāriqah,  Ash ’Mariqah,  Ash-Shariqah emiraat,  Ash-Shāriqah emiraat,  Charjah,  Ch·ardj·a,  SHJ,  Sardza,  Sardzsa,  Sarika,  Sarja,  Sarjo,  Sarza,  Schardscha,  Shardza,  Shardzha,  Shardzha kuorat,  Sharga,  Sharijah,  Shariqah,  Sharja,  Sharjah,  Sharjah city,  Shārijah,  Shāriqah,  Shārja,  Szardza,  Szardża,  Xarja,  Xarjah,  alsharqt,  amart alsharqt,  carja,  charc ah,  mdynt alsharqt,  saraja,  sarajaha,  sarja,  sharja,  sharjh,  sharuja,  syaleuja,  sʼrgh,  xia er jia,  Ŝarĵo,  Şarika,  Şarja,  Šardža,  Šardžá,  Шарджа,  Шарджа куорат,  Шарџа,  Шарҗә,  Շարժա,  שארגה,  إمارة الشارقة,  الشارقة,  شارجه,  شارجہ,  مدينة الشارقة,  शारजा,  शारजाह,  ਸ਼ਾਰਜਾ,  சார்ஜா,  షార్జా,  ಶಾರ್ಜ,  ഷാർജ,  ชาร์จาห์,  შარჯა,  シャールジャ,  夏尔迦,  샤르자
+Alternate Names: Al Sharjah, Ash 'Mariqah, Ash Shariqa, Ash Shariqah, Ash Shāriqa, Ash Shāriqah, Ash ’Mariqah, Ash-Shariqah emiraat, Ash-Shāriqah emiraat, Charjah, Ch·ardj·a, SHJ, Sardza, Sardzsa, Sarika, Sarja, Sarjo, Sarza, Schardscha, Shardza, Shardzha, Shardzha kuorat, Sharga, Sharijah, Shariqah, Sharja, Sharjah, Sharjah city, Shārijah, Shāriqah, Shārja, Szardza, Szardża, Xarja, Xarjah, alsharqt, amart alsharqt, carja, charc ah, mdynt alsharqt, saraja, sarajaha, sarja, sharja, sharjh, sharuja, syaleuja, sʼrgh, xia er jia, Ŝarĵo, Şarika, Şarja, Šardža, Šardžá, Шарджа, Шарджа куорат, Шарџа, Шарҗә, Շարժա, שארגה, إمارة الشارقة, الشارقة, شارجه, شارجہ, مدينة الشارقة, शारजा, शारजाह, ਸ਼ਾਰਜਾ, சார்ஜா, షార్జా, ಶಾರ್ಜ, ഷാർജ, ชาร์จาห์, შარჯა, シャールジャ, 夏尔迦, 샤르자
 
 ---

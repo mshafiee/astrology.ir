@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°52'52.71" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°42'18.29" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°16'47.92" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°44'34.40" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°58'5.16" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'55.69" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°58'39.24" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°44'43.58" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°58'6.01" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'6.07" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°49'16.59" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'52.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'18.29" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°16'47.92" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°44'43.58" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°58'6.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'55.69" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°1'46.02" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°42'18.19" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°16'46.93" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°44'43.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°58'4.61" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'6.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°49'16.59" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: E'ville,  Elisabethville,  Elizabethstad,  Elizabethville,  E’ville,  FBM,  Lubumbashi,  Lubumbashi shaary,  Lubumbashy,  Lubumbasi,  Lubumbasis,  Lubumbaši,  Lubumbašis,  Lumumbashi,  lu ben ba xi,  lubumabasi,  lubumbasi,  lubumbasi si,  lwbmbashy,  lwbwmbashy,  rubunbashi,  Élisabethville,  Лубумбаши,  Лубумбаши шаары,  Лубумбашы,  Лубумбаші,  לובומבאשי,  لوبمباشی,  لوبومباشي,  لوبومباشی,  ਲੂਬੁਮਬਾਸ਼ੀ,  ルブンバシ,  盧本巴希,  루붐바시,  루붐바시 시
+Alternate Names: E'ville, Elisabethville, Elizabethstad, Elizabethville, E’ville, FBM, Lubumbashi, Lubumbashi shaary, Lubumbashy, Lubumbasi, Lubumbasis, Lubumbaši, Lubumbašis, Lumumbashi, lu ben ba xi, lubumabasi, lubumbasi, lubumbasi si, lwbmbashy, lwbwmbashy, rubunbashi, Élisabethville, Лубумбаши, Лубумбаши шаары, Лубумбашы, Лубумбаші, לובומבאשי, لوبمباشی, لوبومباشي, لوبومباشی, ਲੂਬੁਮਬਾਸ਼ੀ, ルブンバシ, 盧本巴希, 루붐바시, 루붐바시 시
 
 ---

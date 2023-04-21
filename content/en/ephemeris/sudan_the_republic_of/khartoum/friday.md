@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'51.15" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'39.36" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°38'56.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°47'15.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°30'21.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'18.89" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°49'8.87" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'39.28" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°38'59.74" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°47'14.81" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°30'24.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'19.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°51'41.55" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al Khartum,  Al Kharţūm,  Al Khurtum,  Al Khurţūm,  Cartum,  Cartúm,  Chartoum,  Chartum,  Chartumas,  Chartúm,  Hartum,  Hartumo,  Jartum,  KRT,  Kartum,  Kartúm,  Khartoem,  Khartoum,  Khartoun,  Khartum,  Khartun - alkhrtwm,  Khartún - الخرطوم,  aaalkhrtwm,  haleutum,  harutsumu,  hrtwm,  karttaum,  ke tu mu,  khartwm,  khrtwm,  Ĥartumo,  Χαρτούμ,  Картум,  Хартум,  חרטום,  ااالخرطوم,  خارطوم,  خرطوم,  கார்த்தௌம்,  ཁར་ཏུམ,  ካርቱም,  ハルツーム,  喀土穆,  하르툼
+Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼
 
 ---

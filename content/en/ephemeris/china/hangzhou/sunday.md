@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°46'34.66" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°23'47.67" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°35'10.31" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°29'26.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°30'4.90" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'39.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°31'3.71" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°29'25.70" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°30'5.33" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'39.32" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°32'40.89" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'34.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'47.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°35'9.68" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°29'26.19" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'47.44" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°35'10.56" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°29'24.37" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°30'4.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'39.65" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°31'3.71" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°30'37.59" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°28'24.09" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Chan'nktsoou,  Chang-cou,  Chang-čou,  HGH,  Hancheum,  Hanchow-fu,  Hanczou,  Handzou,  Handžou,  Hang,  Hang Chau,  Hang-chiu-chhi,  Hang-chou,  Hang-chou-shih,  Hang-hsien,  Hangchow,  Hangcsou,  Hangdzou,  Hangdžou,  Hanggouo,  Hangtsjou,  Hangzcouh,  Hangzhou,  Hangzhou Shi,  Hangĝoŭo,  Hančžou,  Hong-chu-su,  Hong-ciu,  Hàng Châu,  Hâng-chiu-chhī,  Hòng-chû-sṳ,  Hòng-ciŭ,  Khanchzhou,  Khandzhou,  Khangdzou,  Khanzhou,  Xanchjou,  hang cow,  hang zhou,  hang zhou shi,  hangacau,  hangajho'u,  hanghtshw,  hangjeou,  hangjeou si,  hangju,  hangzhw,  hanjha,  hannaco,  hʼnggwʼw,  kancu,  Χανγκτσόου,  Хангџоу,  Ханджоу,  Ханжоу,  Ханчжоу,  האנגגואו,  خاڭجۇ شەھىر,  هانغتشو,  هانگژو,  ہانگژو,  हांगचौ,  हांगझोऊ,  ਹਾਂਙਚੋ,  காங்சூ,  ഹാങ്ഝൗ,  หางโจว,  ཧང་ཀྲོའུ།,  杭州,  杭州市,  항저우,  항저우 시,  항주
+Alternate Names: Chan'nktsoou, Chang-cou, Chang-čou, HGH, Hancheum, Hanchow-fu, Hanczou, Handzou, Handžou, Hang, Hang Chau, Hang-chiu-chhi, Hang-chou, Hang-chou-shih, Hang-hsien, Hangchow, Hangcsou, Hangdzou, Hangdžou, Hanggouo, Hangtsjou, Hangzcouh, Hangzhou, Hangzhou Shi, Hangĝoŭo, Hančžou, Hong-chu-su, Hong-ciu, Hàng Châu, Hâng-chiu-chhī, Hòng-chû-sṳ, Hòng-ciŭ, Khanchzhou, Khandzhou, Khangdzou, Khanzhou, Xanchjou, hang cow, hang zhou, hang zhou shi, hangacau, hangajho'u, hanghtshw, hangjeou, hangjeou si, hangju, hangzhw, hanjha, hannaco, hʼnggwʼw, kancu, Χανγκτσόου, Хангџоу, Ханджоу, Ханжоу, Ханчжоу, האנגגואו, خاڭجۇ شەھىر, هانغتشو, هانگژو, ہانگژو, हांगचौ, हांगझोऊ, ਹਾਂਙਚੋ, காங்சூ, ഹാങ്ഝൗ, หางโจว, ཧང་ཀྲོའུ།, 杭州, 杭州市, 항저우, 항저우 시, 항주
 
 ---

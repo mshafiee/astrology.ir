@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°45'38.92" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°48'25.47" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°52'17.94" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'36.10" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°51'17.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'36.22" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°53'31.90" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'10.64" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°28'27.83" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°45'38.92" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°48'25.47" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°52'17.94" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'36.10" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°51'17.24" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°45'39.31" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°48'25.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°52'18.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'36.22" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°53'31.90" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Dzhos,  Dzos,  Dżos,  JOS,  Jos,  joseu,  josu,  jws,  jws  nayjyrya,  qiao si,  Џос,  Джос,  Йос,  جوس,  جوس، نائجیریا,  ジョス,  乔斯,  조스
+Alternate Names: Dzhos, Dzos, Dżos, JOS, Jos, joseu, josu, jws, jws  nayjyrya, qiao si, Џос, Джос, Йос, جوس, جوس، نائجیریا, ジョス, 乔斯, 조스
 
 ---

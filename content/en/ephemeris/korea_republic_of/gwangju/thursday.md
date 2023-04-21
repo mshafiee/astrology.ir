@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°31'19.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'12.91" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°58'2.13" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°32'16.47" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°2'27.52" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'38.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°1'39.40" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°31'20.32" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°40'14.41" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°57'59.01" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°32'25.91" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°2'29.48" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'49.13" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°10'24.35" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'20.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'12.91" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°58'2.13" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°32'16.47" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°2'27.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'38.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°1'39.40" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|23°40'14.41" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°57'59.01" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°32'25.91" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°2'29.48" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'49.13" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°10'24.35" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Gouanjou,  Gwangju,  Gwangju Kong-hek-chhi,  Gwangju Kóng-he̍k-chhī,  Gwangju-si,  KWJ,  Koshu,  Kosyu,  Kuandzhu,  Kuangju,  Kuangjuo,  Kvandzhu,  Kvandzu,  Kvandžu,  Kvangdzsu,  Kvangdzu,  Kvanju,  Kvanzhe,  Kvaңdzhu,  Kwang-choo,  Kwang-dschu,  Kwangdzu,  Kwangdžu,  Kwangju,  Kōshū,  Kōsyū,  Kŭangĵuo,  Quansua,  ghwanghjw,  guang zhou,  guang zhou guang yu shi,  guang zhou shi,  gvangaju,  gwang jw,  gwangju,  gwangjugwang-yeogsi,  gwangjusi,  gwangjw,  kh wang cu,  Квангџу,  Кванджу,  Кванже,  Кваңджу,  Куанджу,  Куанжү,  קוואנגגו,  غوانغجو,  گوانگ جو,  گوانگجو,  ग्वांगजू,  ควังจู,  光州,  光州市,  光州广域市,  光州広域市,  光州廣域市,  광주,  광주광역시,  광주시
+Alternate Names: Gouanjou, Gwangju, Gwangju Kong-hek-chhi, Gwangju Kóng-he̍k-chhī, Gwangju-si, KWJ, Koshu, Kosyu, Kuandzhu, Kuangju, Kuangjuo, Kvandzhu, Kvandzu, Kvandžu, Kvangdzsu, Kvangdzu, Kvanju, Kvanzhe, Kvaңdzhu, Kwang-choo, Kwang-dschu, Kwangdzu, Kwangdžu, Kwangju, Kōshū, Kōsyū, Kŭangĵuo, Quansua, ghwanghjw, guang zhou, guang zhou guang yu shi, guang zhou shi, gvangaju, gwang jw, gwangju, gwangjugwang-yeogsi, gwangjusi, gwangjw, kh wang cu, Квангџу, Кванджу, Кванже, Кваңджу, Куанджу, Куанжү, קוואנגגו, غوانغجو, گوانگ جو, گوانگجو, ग्वांगजू, ควังจู, 光州, 光州市, 光州广域市, 光州広域市, 光州廣域市, 광주, 광주광역시, 광주시
 
 ---

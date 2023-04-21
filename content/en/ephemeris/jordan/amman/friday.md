@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'44.57" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°58'20.68" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°38'14.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°45'59.20" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°28'52.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'14.64" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°20'29.90" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°38'12.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°45'55.01" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°28'47.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'7.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°50'36.45" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°37'44.57" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°58'20.68" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°38'14.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°45'59.20" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°28'52.32" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'14.64" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°20'29.90" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°45'55.01" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°28'47.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'7.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°50'36.45" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: 'Amman,  AMM,  Ama,  Aman,  Amanas,  Amani,  Amano,  Amans,  Amman,  Ammana,  Ammon,  Ammán,  Ammān,  Ammāna,  Amàn,  Amán,  Amã,  Philadelphia,  Rabbah,  Rabbath Ammon,  am'man,  am'mana,  aman,  amana,  amani,  amman,  an man,  anman,  xam man,  yamman,  ʻmʼn,  ʿman,  ʿmʾn,  Αμμάν,  Аман,  Амман,  Аммон,  Ամման,  אמאן,  עמאן,  ئاممان,  امان,  عمان,  عمان شہر,  عمّان,  عَمّان,  عەممان,  ܥܡܐܢ,  अम्मान,  আম্মান,  ਅਮਾਨ,  அம்மான்,  ಅಮ್ಮಾನ್,  അമ്മാൻ,  อัมมาน,  ཨམ་མན།,  ამანი,  አማን,  ‘Ammān,  アンマン,  安曼,  암만
+Alternate Names: 'Amman, AMM, Ama, Aman, Amanas, Amani, Amano, Amans, Amman, Ammana, Ammon, Ammán, Ammān, Ammāna, Amàn, Amán, Amã, Philadelphia, Rabbah, Rabbath Ammon, am'man, am'mana, aman, amana, amani, amman, an man, anman, xam man, yamman, ʻmʼn, ʿman, ʿmʾn, Αμμάν, Аман, Амман, Аммон, Ամման, אמאן, עמאן, ئاممان, امان, عمان, عمان شہر, عمّان, عَمّان, عەممان, ܥܡܐܢ, अम्मान, আম্মান, ਅਮਾਨ, அம்மான், ಅಮ್ಮಾನ್, അമ്മാൻ, อัมมาน, ཨམ་མན།, ამანი, አማን, ‘Ammān, アンマン, 安曼, 암만
 
 ---

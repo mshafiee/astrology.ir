@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'12.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°56'46.12" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°34'42.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°39'32.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°21'18.35" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'48.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°47'16.99" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°56'47.99" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°34'48.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°39'43.05" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°21'30.16" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'6.12" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°4'16.76" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bhaganagar,  HYD,  Haidarabadas,  Haiderabad,  Hajdarabad,  Hajdarábád,  Hyderabad,  Hyderābād,  Khajdarabad,  Khajderabad,  hai de la ba,  haidarabada,  haidarabadu,  haiderabado,  haitarapat,  hayadarabada ema. karporesana,  hayadrabada,  hydr abad,  hydr abad dkn,  hydrabad,  Хайдарабад,  Хајдерабад,  حیدر آباد,  حیدر آباد دکن,  حیدرآباد,  हैदराबाद,  হায়দরাবাদ এম. কর্পোরেশন,  হায়দ্রাবাদ,  ஹைதராபாத்,  హైదరాబాదు,  ハイデラバード,  海得拉巴
+Alternate Names: Bhaganagar, HYD, Haidarabadas, Haiderabad, Hajdarabad, Hajdarábád, Hyderabad, Hyderabad-Deccan, Hyderābād, Khajdarabad, Khajderabad, hai de la ba, haidarabada, haidarabadu, haiderabado, haitarapat, hayadarabada ema. karporesana, hayadrabada, hydr abad, hydr abad dkn, hydrabad, Хайдарабад, Хајдерабад, حیدر آباد, حیدر آباد دکن, حیدرآباد, हैदराबाद, হায়দরাবাদ এম. কর্পোরেশন, হায়দ্রাবাদ, ஹைதராபாத், హైదరాబాదు, ハイデラバード, 海得拉巴
 
 ---

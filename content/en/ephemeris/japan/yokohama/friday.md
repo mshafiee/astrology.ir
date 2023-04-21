@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°36'15.95" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°54'8.69" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°28'53.61" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°28'55.21" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°8'50.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'35.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°21'59.06" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°28'55.18" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°8'50.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'35.04" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°21'48.08" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'15.95" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°54'8.69" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°28'53.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°28'55.21" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°8'50.75" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'35.08" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°21'59.06" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|13°28'53.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°28'55.18" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°8'50.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'35.04" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°21'48.08" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Iokogama,  Jokohama,  Jokohamo,  Jokokhama,  YOK,  Yokohama,  Yokohama-shi,  Yokohamashi,  heng bang,  heng bang shi,  heng bin shi,  yoa koa ha ma,  yokohama,  yokohama si,  yokohamashi,  ywkwhama,  ywqwhmh,  Јокохама,  Иокогама,  יוקוהמה,  يوكوهاما,  โยะโกะฮะมะ,  იოკოჰამა,  よこはま,  よこはまし,  ヨコハマ,  ヨコハマシ,  横浜,  横浜市,  横滨市,  요코하마 시
+Alternate Names: Iokogama, Jokohama, Jokohamo, Jokokhama, YOK, Yokohama, Yokohama-shi, Yokohamashi, heng bang, heng bang shi, heng bin shi, yoa koa ha ma, yokohama, yokohama si, yokohamashi, ywkwhama, ywqwhmh, Јокохама, Иокогама, יוקוהמה, يوكوهاما, โยะโกะฮะมะ, იოკოჰამა, よこはま, よこはまし, ヨコハマ, ヨコハマシ, 横浜, 横浜市, 横滨市, 요코하마 시
 
 ---

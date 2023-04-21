@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°42'14.15" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°11'12.99" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°6'59.57" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°38'20.45" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°30'16.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'13.24" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°35'48.61" |Aries|Butain|Venus|
+|☉ Sun|Direct|1°38'17.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°30'12.62" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'8.20" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°12'16.58" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: LHE,  Lachori,  Lahaur,  Lahor,  Lahora,  Lahoras,  Lahore,  Lahorium,  Lahoro,  Lakhor,  Lohur,  Láhaur,  Lâhore,  Lāhaur,  la h xr,  la he er,  lahaura,  laholeu,  lahor,  lahora,  lahori,  lahwr,  lakur,  lwہwr,  rahoru,  Λαχόρη,  Лахор,  Լահոր,  לאהור,  لاهور,  لاھور,  لاھۆر,  لاہور,  لوہوٗر,  لہور,  लाहोर,  लाहौर,  লাহোর,  ਲਹੌਰ,  લાહોર,  லாகூர்,  లాహోర్,  ಲಾಹೋರ್,  ലാഹോർ,  ลาฮอร์,  ლაჰორი,  ラホール,  ラーホール,  拉合尔,  拉合爾,  라호르
+Alternate Names: LHE, Lachori, Lahaur, Lahor, Lahora, Lahoras, Lahore, Lahorium, Lakhor, Lohur, Láhaur, Lâhore, Lāhaur, la h xr, la he er, lahaura, laholeu, lahor, lahora, lahori, lahwr, lakur, lwہwr, rahoru, Λαχόρη, Лахор, Լահոր, לאהור, لاهور, لاھور, لاھۆر, لاہور, لوہوٗر, لہور, लाहोर, लाहौर, লাহোর, ਲਹੌਰ, લાહોર, லாகூர், లాహోర్, ಲಾಹೋರ್, ലാഹോർ, ลาฮอร์, ლაჰორი, ラホール, ラーホール, 拉合尔, 拉合爾, 라호르
 
 ---

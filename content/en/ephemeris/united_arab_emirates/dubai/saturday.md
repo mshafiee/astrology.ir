@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°42'31.61" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|4°42'31.60" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°12'3.26" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°8'51.85" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°41'42.34" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°8'51.86" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°41'42.31" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°34'11.96" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'55.47" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°2'28.04" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|15°35'55.44" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°2'22.86" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: DXB,  Dabei,  Dibai,  Dibay,  Doubayi,  Dubae,  Dubai,  Dubai City,  Dubai emiraat,  Dubaija,  Dubaj,  Dubajo,  Dubajus,  Dubay,  Dubayy,  Dubaï,  Dubái,  Dúbæ,  Ehmirat Dubaj,  Fort Dabei,  Ntoumpai,  dby,  dbyy,  di bai,  dobai,  du bai,  duba'i,  dubai,  dubay,  dubi,  dwbyy,  tupai,  Ντουμπάι,  Дубаи,  Дубай,  Эмірат Дубай,  Դուբայի Էմիրություն,  דובאי,  דוביי,  دبئی,  دبى,  دبي,  دبی,  دوبەی,  دۇبائى,  दुबई,  দুবাই,  துபை,  దుబాయ్,  ದುಬೈ,  ദുബായ്,  ดูไบ,  დუბაი,  ドバイ,  杜拜,  迪拜,  두바이
+Alternate Names: DXB, Dabei, Dibai, Dibay, Doubayi, Dubae, Dubai, Dubai City, Dubai emiraat, Dubaija, Dubaj, Dubajo, Dubajus, Dubay, Dubayy, Dubaï, Dubái, Dúbæ, Ehmirat Dubaj, Fort Dabei, Ntoumpai, dby, dbyy, di bai, dobai, du bai, duba'i, dubai, dubay, dubi, dwbyy, tupai, Ντουμπάι, Дубаи, Дубай, Эмірат Дубай, Դուբայի Էմիրություն, דובאי, דוביי, دبئی, دبى, دبي, دبی, دوبەی, دۇبائى, दुबई, দুবাই, துபை, దుబాయ్, ದುಬೈ, ദുബായ്, ดูไบ, დუბაი, ドバイ, 杜拜, 迪拜, 두바이
 
 ---

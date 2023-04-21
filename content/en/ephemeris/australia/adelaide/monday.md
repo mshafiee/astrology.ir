@@ -20,7 +20,7 @@ Latitude: -34.9287
 \-
 Longitude: 138.5986
 \-
-Altitude: 59 meters
+Altitude: 56 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Adelaide, Australia" lat="-34.9287" lng="138.5986" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:13:51 |
 | Medium Coeli | 12:13:51 |
 | Sunset | 17:41:39 |
-| Maghrib | 17:42:58 |
+| Maghrib | 17:42:56 |
 | Isha | 19:02:47 |
 | Sharia Midnight | 23:30:56 |
 | Imum Coeli | 00:13:46 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:13:51 |
 | Medium Coeli | 12:13:51 |
 | Sunset | 17:41:39 |
-| Maghrib | 17:42:58 |
+| Maghrib | 17:42:56 |
 | Isha | 18:53:00 |
 | Sharia Midnight | 23:38:17 |
 | Imum Coeli | 00:13:46 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:13:51 |
 | Medium Coeli | 12:13:51 |
 | Sunset | 17:41:39 |
-| Maghrib | 17:42:58 |
+| Maghrib | 17:42:56 |
 | Isha | 19:05:14 |
 | Sharia Midnight | 23:27:16 |
 | Imum Coeli | 00:13:46 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:13:51 |
 | Medium Coeli | 12:13:51 |
 | Sunset | 17:41:39 |
-| Maghrib | 17:42:58 |
+| Maghrib | 17:42:56 |
 | Isha | 19:07:40 |
 | Sharia Midnight | 23:30:56 |
 | Imum Coeli | 00:13:46 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:13:51 |
 | Medium Coeli | 12:13:51 |
 | Sunset | 17:41:39 |
-| Maghrib | 17:42:58 |
-| Isha | 19:12:58 |
+| Maghrib | 17:42:56 |
+| Isha | 19:12:56 |
 | Sharia Midnight | 23:29:43 |
 | Imum Coeli | 00:13:46 |
 {{< /tab >}}
@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°51'27.54" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°38'6.51" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°7'20.54" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°27'38.54" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°38'7.61" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'23.61" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°9'16.79" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|3°27'39.17" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°38'9.36" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'25.18" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°20'26.03" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'27.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°38'6.38" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°7'19.24" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°27'38.54" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°38'7.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'23.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°9'16.79" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|24°38'6.51" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°7'20.54" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°27'39.17" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°38'9.36" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'25.18" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°20'26.03" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ADL,  Adalet,  Adehlaida,  Adelaida,  Adelaidae,  Adelaide,  Adelaidis,  Adelaidė,  Adelajda,  Adelajdo,  Adelaïda,  Adelaïde,  Adelejd,  Adelàida,  Adélaïde,  Edelaid,  Tarndanya,  Tarndarnya,  a de lai de,  adelaida,  aderedo,  adilaid,  adiled,  adlayd,  adylyd,  aedeulleideu,  atileyit,  edile'ida,  edileda,  Αδελαΐδα,  Аделаидæ,  Аделаида,  Аделаїда,  Аделейд,  Аделејд,  Адэлаіда,  Ադելաիդա,  אדלייד,  آدلاید,  أديليد,  ئادېلايدې,  ایڈیلیڈ,  एडिलेड,  ॲdaleda,  ॲडलेड,  એડિલેઇડ,  அடிலெயிட்,  అడిలైడ్,  ಅಡಿಲೇಡ್,  അഡിലെയ്
+Alternate Names: ADL, Adehlaida, Adelaida, Adelaidae, Adelaide, Adelaidis, Adelaidė, Adelajda, Adelajdo, Adelaïda, Adelaïde, Adelejd, Adelàida, Adélaïde, Edelaid, Tarndanya, Tarndarnya, a de lai de, adelaida, aderedo, adilaid, adiled, adlayd, adylyd, aedeulleideu, atileyit, edile'ida, edileda, Αδελαΐδα, Аделаидæ, Аделаида, Аделаїда, Аделейд, Аделејд, Адэлаіда, Ադելաիդա, אדלייד, آدلاید, أديليد, ئادېلايدې, ایڈیلیڈ, एडिलेड, ॲdaleda, ॲडलेड, એડિલેઇડ, அடிலெயிட், అడిలైడ్, ಅಡಿಲೇಡ್, അഡിലെയ്‌ഡ്, แอดิเลด, အက်ဒလိတ်မြို့, ადელაიდა, アデレード, 阿德来得, 阿德莱德, 애들레이드
 
 ---

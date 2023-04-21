@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'54.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'39.17" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°7'47.29" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°50'20.90" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°23'33.68" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'12.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°11'35.66" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°44'39.04" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°7'47.25" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°50'20.10" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°23'33.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'11.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°6'18.14" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'54.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°44'39.17" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°7'47.29" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°50'20.90" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°23'33.68" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'12.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°11'35.66" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°44'39.04" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°7'47.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°50'20.10" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°23'33.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'11.88" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°6'18.14" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Lungsod ng Muenchen,  Lungsod ng München,  MUC,  Minca,  Minche,  Minga,  Minhen,  Minhene,  Minkhen,  Miunchenas,  Mjunkhen,  Mnichov,  Mnichow,  Mníchov,  Monachium,  Monacho,  Monaco de Baviera,  Monaco di Baviera,  Monaco e Baviera,  Monacu,  Monacu di Baviera,  Monacum,  Muenchen,  Muenegh,  Muenhen,  Muenih,  Munchen,  Munhen,  Munic,  Munich,  Munich ed Baviera,  Munih,  Munike,  Munique,  Munix,  Munkeno,  Munkhen,  Munîh,  Mynihu,  Myunxen,  Myunxén,  Mònacu,  Mùnich ëd Baviera,  Múnic,  Múnich,  München,  Münegh,  Münhen,  Münih,  mi wnik,  mi'unikha,  miunkheni,  miyunik,  mu ni hei,  mwinhen,  mwnykh,  mynkn,  myunhen,  myunik,  myunikha,  myunsena,  mywnkh,  mywnykh,  Μόναχο,  Минхен,  Мюнхен,  Мүнхен,  Мүнхэн,  Мӱнхен,  Մյունխեն,  מינכן,  مونیخ,  ميونخ,  ميونيخ,  میونخ,  म्युन्शेन,  म्यूनिख,  মিউনিখ,  மியூனிக்,  ಮ್ಯೂನಿಕ್,  มิวนิก,  မြူးနစ်ချ်မြို့,  მიუნხენი,  ミュンヘン,  慕尼黑,  뮌헨
+Alternate Names: Lungsod ng Muenchen, Lungsod ng München, MUC, Minca, Minche, Minga, Minhen, Minhene, Minkhen, Miunchenas, Mjunkhen, Mnichov, Mnichow, Mníchov, Monachium, Monacho, Monaco de Baviera, Monaco di Baviera, Monaco e Baviera, Monacu, Monacu di Baviera, Monacum, Muenchen, Muenegh, Muenhen, Muenih, Munchen, Munhen, Munic, Munich, Munich ed Baviera, Munih, Munike, Munique, Munix, Munkeno, Munkhen, Munîh, Mynihu, Myunxen, Myunxén, Mònacu, Mùnich ëd Baviera, Múnic, Múnich, München, Münegh, Münhen, Münih, mi wnik, mi'unikha, miunkheni, miyunik, mu ni hei, mwinhen, mwnykh, mynkn, myunhen, myunik, myunikha, myunsena, mywnkh, mywnykh, Μόναχο, Минхен, Мюнхен, Мүнхен, Мүнхэн, Мӱнхен, Մյունխեն, מינכן, مونیخ, ميونخ, ميونيخ, میونخ, म्युन्शेन, म्यूनिख, মিউনিখ, மியூனிக், ಮ್ಯೂನಿಕ್, มิวนิก, မြူးနစ်ချ်မြို့, მიუნხენი, ミュンヘン, 慕尼黑, 뮌헨
 
 ---

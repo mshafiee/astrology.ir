@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'11.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°52'9.80" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°39'4.40" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°24'49.49" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°44'56.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°3'12.46" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°9'41.41" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°52'8.80" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°38'58.77" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°24'43.50" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°44'46.72" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°3'0.61" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°6'12.98" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°56'11.40" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°52'9.80" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°39'4.40" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°24'49.49" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°44'56.32" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°3'12.46" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°9'41.41" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°24'43.50" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°44'46.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°3'0.61" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°6'12.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Hanyang,  SEL,  Seoel,  Seol,  Seoul,  Seoul-si,  Seuel,  Seul,  Seula,  Seulas,  Seulo,  Seulum,  Seúl,  Seül,  Siul,  Soeul,  Sol,  Soul,  Sye-ul,  Syou-ouen,  Szoeul,  Szöul,  Séoul,  Sêûl,  Söul,  Sŏul,  Wang-ching,  Wo-jo,  Wō-jō,  ciyol,  han-yang,  saul,  seoul,  seoulsi,  seoulteugbyeolsi,  seuli,  shou er,  shou er te bie shi,  si'ula,  siyola,  sol,  sola,  souru,  souru te bie shi,  sywl,  Σεούλ,  Сеул,  Соул,  Сөүл,  Սեուլ,  סאול,  סיאול,  סעאל,  سئول,  سيول,  سیول,  سێئول,  سېئول,  सियोल,  सोल,  সিউল,  சியோல்,  ಸೌಲ್,  സോൾ,  โซล,  སེ་ཨུལ།,  ဆိုးလ်မြို့,  სეული,  ሶል,  សេអ៊ូល,  ソウル,  ソウル特別市,  首尔,  首尔特别市,  首爾,  서울,  서울시,  서울특별시,  한양
+Alternate Names: Hanyang, SEL, Seoel, Seol, Seoul, Seoul-si, Seuel, Seul, Seula, Seulas, Seulo, Seulum, Seúl, Seül, Siul, Soeul, Sol, Soul, Sye-ul, Syou-ouen, Szoeul, Szöul, Séoul, Sêûl, Söul, Sŏul, Wang-ching, Wo-jo, Wō-jō, ciyol, han-yang, saul, seoul, seoulsi, seoulteugbyeolsi, seuli, shou er, shou er te bie shi, si'ula, siyola, sol, sola, souru, souru te bie shi, sywl, Σεούλ, Сеул, Соул, Сөүл, Սեուլ, סאול, סיאול, סעאל, سئول, سيول, سیول, سێئول, سېئول, सियोल, सोल, সিউল, சியோல், ಸೌಲ್, സോൾ, โซล, སེ་ཨུལ།, ဆိုးလ်မြို့, სეული, ሶል, សេអ៊ូល, ソウル, ソウル特別市, 首尔, 首尔特别市, 서울, 서울시, 서울특별시, 한양
 
 ---

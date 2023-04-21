@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|3°39'42.21" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°52'15.83" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°16'18.53" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°38'27.32" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|22°15'18.68" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: OMH,  Orumiyeh,  Orūmīyeh,  Ourmia,  Reza'iyeh,  Rezaeyeh,  Rezaiyye,  Rezâiyye,  Rezā’īyeh,  Rizaiyeh,  Rizāiyeh,  Urmia,  Urmija,  Urmiya,  Urmiye,  Urmía,  Urumija,  Urumiyeh,  Urūmiyeh,  arwmyh,  arwmyt,  shhrstan arwmyh,  Úrmia,  Ûrmiye,  Урмия,  Урумия,  אורמיה,  أرومية,  ارومیه,  ارومیّه,  شهرستان ارومیه,  ܐܘܪܡܝܐ
+Alternate Names: OMH, Orumiyeh, Orūmīyeh, Ourmia, Reza'iyeh, Rezaeyeh, Rezaiyye, Rezâiyye, Rezā’īyeh, Rizaiyeh, Rizāiyeh, Urmia, Urmija, Urmiya, Urmiye, Urmía, Urumija, Urumiyeh, Urūmiyeh, arwmyh, arwmyt, shhrstan arwmyh, Úrmia, Ûrmiye, Урмия, Урумия, אורמיה, أرومية, ارومیه, ارومیّه, شهرستان ارومیه, ܐܘܪܡܝܐ
 
 ---

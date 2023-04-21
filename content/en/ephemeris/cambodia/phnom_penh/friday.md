@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°36'50.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'45.53" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°32'27.09" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°35'26.08" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°16'29.09" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'57.60" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°11'6.44" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|4°36'50.80" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°55'47.56" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°32'33.20" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°35'37.68" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°16'41.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'57.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°11'20.22" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'50.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°55'45.53" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°32'27.09" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°35'26.08" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°16'29.09" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'38.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°49'21.77" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|23°55'47.55" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°32'33.21" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°35'37.64" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°16'41.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'57.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°11'6.44" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Krong Chaktomuk,  Nam Van,  Nam-Vang,  Nom Pen,  PNH,  Phnom Pen,  Phnom Penh,  Phnom Pénh,  Phnom-Penh,  Phnompen,  Phnompenh,  Phnum Penh,  Phnum Peny,  Phnum Pénh,  Phnum Pény,  Phnôm Pênh,  Phon Phen,  Pnampen',  Pnom Pehn',  Pnom Pen,  Pnom Pen'ch,  Pnom Pene,  Pnom Penh,  Pnompen,  Pnompen',  Pnompena,  Pnompenis,  Pnompeno,  Pnompeņa,  Ville de Phnom Penh,  bnwm bnh,  fnwm pn,  fnwm pېn,  jin bian,  namapenha,  panoma pena,  peunompen,  phnm pen,  phnmpey,  pnwm pn,  punom pen,  punonpen,  Πνομ Πενχ,  Пнампень,  Пном Пен,  Пном Пэнь,  Пномпень,  Պնոմպեն,  פנום פן,  بنوم بنه,  فنوم پن,  فنوم پېن,  پنوم پن,  پنوم
+Alternate Names: Krong Chaktomuk, Nam Van, Nam-Vang, Nom Pen, PNH, Phnom Pen, Phnom Penh, Phnom Pénh, Phnom-Penh, Phnompen, Phnompenh, Phnum Penh, Phnum Peny, Phnum Pénh, Phnum Pény, Phnôm Pênh, Phon Phen, Pnampen', Pnom Pehn', Pnom Pen, Pnom Pen'ch, Pnom Pene, Pnom Penh, Pnom-Peno, Pnompen, Pnompen', Pnompena, Pnompenis, Pnompeņa, Ville de Phnom Penh, bnwm bnh, fnwm pn, fnwm pېn, jin bian, namapenha, panoma pena, peunompen, phnm pen, phnmpey, pnwm pn, punom pen, punonpen, Πνομ Πενχ, Пнампень, Пном Пен, Пном Пэнь, Пномпень, Պնոմպեն, פנום פן, بنوم بنه, فنوم پن, فنوم پېن, پنوم پن, پنوم‌پن, پنۆم پێن, नामपेन्ह, पनॉम पेन, প্‌নম পেন, புனோம் பென், พนมเปญ, พนมเปณ, ཕོམ་ཕེན།, ဖနွမ်းပင်မြို့, პნომპენი, ፕኖም ፔን, ភនកពងតរាច, ភនពេញ, ភ្នំកំពង់ត្រាច, ភ្នំពេញ, プノンペン, 金边, 프놈펜
 
 ---

@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: CMH,  Columbopolis,  Columbus,  Columbus i Ohio,  Franklin,  Franklinton,  Kalumbus,  Kolambus,  Kolompous,  Kolumbas,  Kolumbo,  Kolumbs,  Kolumbu,  Kolumbus,  Kolumbusa,  Kulumbus,  ge lun bu,  kalabasa,  kalambasa,  kholambas,  klmbws  awhayw,  kolambas,  kolambasa,  kolampas,  kolleombeoseu,  koronbasu,  kwlwmbws,  qwlwmbws,  Κολόμπους,  Калумбус,  Коламбус,  Колумбус,  Кълъмбъс,  Կոլումբուս,  קאלומבוס,  קולומבוס,  كولومبوس,  کلمبوس، اوهایو,  کولمبس، اوہائیو,  कोलंबस,  कोलम्बस,  कोलम्बस्,  কলম্বাস,  ਕਲੰਬਸ,  கொலம்பஸ்,  โคลัมบัส,  კოლუმბუსი,  コロンバス,  哥伦布,  哥倫布,  콜럼버스
+Alternate Names: CMH, Columbopolis, Columbus, Columbus i Ohio, Franklin, Franklinton, Kalumbus, Kolambus, Kolompous, Kolumbas, Kolumbs, Kolumbu, Kolumbus, Kolumbusa, Kulumbus, ge lun bu, kalabasa, kalambasa, kholambas, klmbws  awhayw, kolambas, kolambasa, kolampas, kolleombeoseu, koronbasu, kwlwmbws, qwlwmbws, Κολόμπους, Калумбус, Коламбус, Колумбус, Кълъмбъс, Կոլումբուս, קאלומבוס, קולומבוס, كولومبوس, کلمبوس، اوهایو, کولمبس، اوہائیو, कोलंबस, कोलम्बस, कोलम्बस्, কলম্বাস, ਕਲੰਬਸ, கொலம்பஸ், โคลัมบัส, კოლუმბუსი, コロンバス, 哥伦布, 哥倫布, 콜럼버스
 
 ---

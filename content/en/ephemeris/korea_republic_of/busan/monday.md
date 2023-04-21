@@ -20,7 +20,7 @@ Latitude: 35.1017
 \-
 Longitude: 129.0300
 \-
-Altitude: 15 meters
+Altitude: 26 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Busan, Korea, Republic of" lat="35.1017" lng="129.0300" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:22:00|Night duration: 10:36:49|
+|Duration of the day: 13:22:00|Night duration: 10:36:50|
 |Every hour of day duration: 01:06:50|Every hour of night duration: 00:53:04|
 
  
@@ -231,13 +231,13 @@ Timetable of twelve day and night planetary hours
 |3|Moon|Servant|20:49:32|21:42:35|Marriage bond is favorable|
 |4|Saturn|Servant|21:42:36|22:35:39|Eliminating and destroying enemies and releasing their energy|
 |5|Jupiter|Servant|22:35:40|23:28:43|Granting wishes, attracting love and wealth|
-|6|Mars|Servant|23:28:44|00:21:47|Summoning the desired person, creating love and domination|
-|7|Sun|Servant|00:21:48|01:14:51|Mutual agreement|
-|8|Venus|Ruler|01:14:52|02:07:55|Reconciling two individuals, attracting love|
-|9|Mercury|Servant|02:07:56|03:00:59|Attracting and repelling enemies, and separating them|
-|10|Moon|Servant|03:01:00|03:54:03|Favorable for any good deed|
-|11|Saturn|Servant|03:54:04|04:47:07|Creating enmity and negative energy|
-|12|Jupiter|Servant|04:47:08|05:40:12|Showing kindness and affection|
+|6|Mars|Servant|23:28:44|00:21:48|Summoning the desired person, creating love and domination|
+|7|Sun|Servant|00:21:49|01:14:52|Mutual agreement|
+|8|Venus|Ruler|01:14:53|02:07:56|Reconciling two individuals, attracting love|
+|9|Mercury|Servant|02:07:57|03:01:00|Attracting and repelling enemies, and separating them|
+|10|Moon|Servant|03:01:01|03:54:04|Favorable for any good deed|
+|11|Saturn|Servant|03:54:05|04:47:08|Creating enmity and negative energy|
+|12|Jupiter|Servant|04:47:09|05:40:13|Showing kindness and affection|
 
  
  
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:22:00|Night duration: 10:36:49|
-|Every hour duration: 01:54:34|Every hour duration: 01:30:58|
+|Duration of the day: 13:22:00|Night duration: 10:36:50|
+|Every hour duration: 01:54:34|Every hour duration: 01:30:59|
 
  
  
@@ -270,12 +270,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Venus|Ruler|19:03:24|20:34:21|
-|Late evening|Mercury|Servant|20:34:22|22:05:19|
-|Midnight|Moon|Servant|22:05:20|23:36:18|
-|Late at night|Saturn|Servant|23:36:19|01:07:16|
-|Rooster song|Jupiter|Servant|01:07:17|02:38:15|
-|False Dawn|Mars|Servant|02:38:16|04:09:13|
-|Dawn|Sun|Servant|04:09:14|05:40:12|
+|Late evening|Mercury|Servant|20:34:22|22:05:20|
+|Midnight|Moon|Servant|22:05:21|23:36:18|
+|Late at night|Saturn|Servant|23:36:19|01:07:17|
+|Rooster song|Jupiter|Servant|01:07:18|02:38:15|
+|False Dawn|Mars|Servant|02:38:16|04:09:14|
+|Dawn|Sun|Servant|04:09:15|05:40:13|
 
 {{< /tab >}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'20.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°37'45.34" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°6'33.65" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°26'12.14" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°36'29.23" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'39.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°46'53.54" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°37'44.03" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°6'27.98" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°26'4.47" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°36'18.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'25.17" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°38'14.21" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°51'20.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°37'45.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°6'33.65" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°26'12.14" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°36'29.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'39.47" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°46'53.54" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|4°51'20.26" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°37'44.03" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°6'27.98" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°26'4.47" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°36'18.79" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'25.17" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°38'14.21" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bousan,  Busan,  Busan-si,  Busán,  Fousan,  Fusan,  Fuzan,  PUS,  Phu San,  Phủ San,  Pusan,  Pusana,  Pusano,  Tsau-liang-hai,  busan,  busangwang-yeogsi,  busansi,  fu shan,  fu shan guang yu shi,  fu shan shi,  pu san,  Μπούσαν,  Пусан,  ปูซาน,  釜山,  釜山市,  釜山广域市,  釜山広域市,  부산,  부산광역시,  부산시
+Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시
 
 ---

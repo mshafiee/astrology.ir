@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'31.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'46.63" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°59'10.49" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°34'36.80" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°5'3.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'8.81" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°41'38.41" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°40'46.48" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°59'11.30" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°34'35.83" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°5'3.63" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'8.09" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°34'17.06" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'31.81" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'46.63" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°59'10.49" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°34'36.80" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°5'3.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'8.81" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°41'38.41" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°40'46.48" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°59'11.30" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°34'35.83" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°5'3.63" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'8.09" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°34'17.06" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: CGO,  Cencou,  Ceng-cou,  Cengcou,  Cheng,  Cheng-chou,  Cheng-chou-shih,  Cheng-hsien,  Chengchow,  Chhiang-chu-su,  Chhiáng-chû-sṳ,  Chzhehnchzhou,  Chzhenchzhou,  Cjencjou,  Csengcsou,  Cwngcouh,  Czengczou,  Dang-ciu,  Dzendzou,  Dzengdzou,  Dzhundzhou,  Dâng-ciŭ,  Džendžou,  Džengdžou,  Genggouo,  Trinh Chau,  Trịnh Châu,  Tsentsoou,  Tēⁿ-chiu-chhī,  Zengzou,  Zhengtsjou,  Zhengzhou,  Zhengzhou Shi,  canaco,  cancau,  ceing cow,  cencavu,  jeongjeou si,  jhengajho'u,  tshnghtshw,  zheng zhou,  zheng zhou shi,  zhngzhw,  zhyngzhw,  Çengçou,  Çjençjou,  Čeng-čou,  Ĝengĝoŭo,  Žengžou,  Τσεντσόου,  Џенгџоу,  Джънджоу,  Жөнжоу,  Чженчжоу,  Чжэнчжоу,  Чжэнчжоў,  تشنغتشو,  جېڭجۇ شەھىرى,  ژنگژو,  ژینگژو,  चंचौ,  झेंगझोऊ,  ਚੰਙਚੋ,  செங்சவு,  เจิ้งโจว,  ကျင့်ကျိုးမြို့,  郑州,  郑州市,  鄭州,  鄭州市,  정저우 시
+Alternate Names: CGO, Cencou, Ceng-cou, Cengcou, Cheng, Cheng-chou, Cheng-chou-shih, Cheng-hsien, Chengchow, Chhiang-chu-su, Chhiáng-chû-sṳ, Chzhehnchzhou, Chzhenchzhou, Cjencjou, Csengcsou, Cwngcouh, Czengczou, Dang-ciu, Dzendzou, Dzengdzou, Dzhundzhou, Dâng-ciŭ, Džendžou, Džengdžou, Genggouo, Trinh Chau, Trịnh Châu, Tsentsoou, Tēⁿ-chiu-chhī, Zengzou, Zhengtsjou, Zhengzhou, Zhengzhou Shi, canaco, cancau, ceing cow, cencavu, jeongjeou si, jhengajho'u, tshnghtshw, zheng zhou, zheng zhou shi, zhngzhw, zhyngzhw, Çengçou, Çjençjou, Čeng-čou, Ĝengĝoŭo, Žengžou, Τσεντσόου, Џенгџоу, Джънджоу, Жөнжоу, Чженчжоу, Чжэнчжоу, Чжэнчжоў, تشنغتشو, جېڭجۇ شەھىرى, ژنگژو, ژینگژو, चंचौ, झेंगझोऊ, ਚੰਙਚੋ, செங்சவு, เจิ้งโจว, ကျင့်ကျိုးမြို့, 郑州, 郑州市, 鄭州, 鄭州市, 정저우 시
 
 ---

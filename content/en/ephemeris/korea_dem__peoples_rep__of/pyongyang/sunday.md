@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'27.50" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°23'26.88" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°34'23.92" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°28'0.84" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°34'24.00" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°28'1.07" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°28'26.54" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'49.95" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°8'13.54" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°30'50.31" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°9'41.30" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Binh Nhuong,  Bình Nhưỡng,  FNJ,  Heijo,  Heijo-fu,  Heijō,  Heijō-fu,  Heizyo,  Heizyo Hu,  Heizyō,  Heizyō Hu,  Hpyeng-yang,  P'yongyang,  P'yongyang-si,  P'yŏngyang,  P'yŏngyang-si,  P-hjong-jang,  P-hjöng-jang,  Pchenjanas,  Pchjongjang,  Phenian,  Phenjan,  Phenjana,  Phyeng-yang,  Phyong-yang,  Pienyang,  Pingyang,  Pion'gian'nk,  Pion'nkgian'nk,  Piongiang,  Pionguiangue,  Pionyang,  Pjoengjang,  Pjongian,  Pjongjang,  Pjongjango,  Pjöngjang,  Pkhen'jan,  Pkhenjan,  Pxenyan,  Pyeongyang,  Pyoengyang,  Pyongyang,  Pyongyang-si,  Pyöngyang,  bywnghyangh,  peiyngyang,  pi'ongayanga,  ping rang,  ping rang shi,  piyam iyam,  piyonyan,  pkheniani,  pyamgayanga,  pyang yang,  pyeong-yang,  pyeong-yangjighalsi,  pyeong-yangsi,  pyon'gyang,  pyongayanga,  pywng yang,  pywngyang,  Πιονγιάνγκ,  Πιονγκγιάνγκ,  Пхеньян,  Пхенян,  Пјонгјанг,  Փխենյան,  פיאנגיאנג,  פיונגיאנג,  بيونغيانغ,  پيونګيانګ,  پيونگ يانگ,  پيوڭياڭ,  پیانگ یانگ,  پیونگ
+Alternate Names: Binh Nhuong, Bình Nhưỡng, FNJ, Heijo, Heijo-fu, Heijō, Heijō-fu, Heizyo, Heizyo Hu, Heizyō, Heizyō Hu, Hpyeng-yang, P'yongyang, P'yongyang-si, P'yŏngyang, P'yŏngyang-si, P-hjong-jang, P-hjöng-jang, Pchenjanas, Pchjongjang, Phenian, Phenjan, Phenjana, Phyeng-yang, Phyong-yang, Pienyang, Pingyang, Pion'gian'nk, Pion'nkgian'nk, Piongiang, Pionguiangue, Pionyang, Pjoengjang, Pjongian, Pjongjang, Pjongjango, Pjöngjang, Pkhen'jan, Pkhenjan, Pxenyan, Pyeongyang, Pyoengyang, Pyongyang, Pyongyang-si, Pyöngyang, bywnghyangh, peiyngyang, pi'ongayanga, ping rang, ping rang shi, piyam iyam, piyonyan, pkheniani, pyamgayanga, pyang yang, pyeong-yang, pyeong-yangjighalsi, pyeong-yangsi, pyon'gyang, pyongayanga, pywng yang, pywngyang, Πιονγιάνγκ, Πιονγκγιάνγκ, Пхеньян, Пхенян, Пјонгјанг, Փխենյան, פיאנגיאנג, פיונגיאנג, بيونغيانغ, پيونګيانګ, پيونگ يانگ, پيوڭياڭ, پیانگ یانگ, پیونگ‌یانگ, پیۆنگیانگ, प्याँगयांग, प्योंगयांग, পিয়ং ইয়াং, ਪਿਓਂਗਯਾਂਗ, பியொங்யாங், ಪ್ಯೊನ್ಗ್ಯಾಂಗ್, เปียงยาง, ཕོང་ཡང་།, ფხენიანი, ፕዮንግያንግ, 平壌, 平壤, 平壤市, 평양, 평양시, 평양직할시
 
 ---

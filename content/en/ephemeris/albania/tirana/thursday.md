@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'50.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°44'25.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°7'22.87" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°49'23.46" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°22'33.76" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'2.24" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°21'8.73" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°44'26.53" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°7'18.96" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°49'29.82" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°22'33.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'8.03" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°6'0.82" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'50.01" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°44'26.53" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°7'22.87" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°49'23.46" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°22'33.76" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'2.24" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°21'8.73" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|13°7'18.96" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°49'29.82" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°22'33.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'8.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°6'0.82" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: TIA,  Terana,  Theranda,  Tiorana,  Tiorána,  Tiran,  Tiran khot,  Tiran-a,  Tirana,  Tiranae,  Tirane,  Tirano,  Tiranë,  Tirāna,  Trnava,  Tyrana,  Tyranna,  Tírana,  Tîrana,  Tėrana,  de la na,  tilana,  tirana,  tyrana,  tyrnh,  Τίρανα,  Тиран хот,  Тиранæ,  Тирана,  Тиране,  Трнава,  Тырана,  Տիրանա,  טיראנא,  טירנה,  تىرانا,  تيرانا,  تیرانا,  तिराना,  তিরানা,  ਤਿਰਾਨਾ,  ଟିରାନା,  டிரானா,  ടിറാന,  ติรานา,  ཐིས་རན།,  ტირანა,  ቲራና,  ティラナ,  地拉那,  티라나
+Alternate Names: TIA, Terana, Theranda, Tiorana, Tiorána, Tiran, Tiran khot, Tiran-a, Tirana, Tiranae, Tirane, Tirano, Tiranë, Tirāna, Trnava, Tyrana, Tyranna, Tírana, Tîrana, Tėrana, de la na, tilana, tirana, tyrana, tyrnh, Τίρανα, Тиран хот, Тиранæ, Тирана, Тиране, Трнава, Тырана, Տիրանա, טיראנא, טירנה, تىرانا, تيرانا, تیرانا, तिराना, তিরানা, ਤਿਰਾਨਾ, ଟିରାନା, டிரானா, ടിറാന, ติรานา, ཐིས་རན།, ტირანა, ቲራና, ティラナ, 地拉那, 티라나
 
 ---

@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°39'22.21" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°2'59.47" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°48'37.12" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°4'51.77" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°51'1.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'21.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°32'40.14" |Aries|Butain|Sun|
+|☉ Sun|Direct|1°4'51.68" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°51'1.13" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'20.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°31'30.07" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'22.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'57.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°48'36.21" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°4'39.15" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°50'53.56" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'3.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°14'47.17" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'59.47" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°48'36.90" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°4'51.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°51'1.13" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'20.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°31'30.07" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CMH,  Columbopolis,  Columbus,  Columbus i Ohio,  Franklin,  Franklinton,  Kalumbus,  Kolambus,  Kolompous,  Kolumbas,  Kolumbo,  Kolumbs,  Kolumbu,  Kolumbus,  Kolumbusa,  Kulumbus,  ge lun bu,  kalabasa,  kalambasa,  kholambas,  klmbws  awhayw,  kolambas,  kolambasa,  kolampas,  kolleombeoseu,  koronbasu,  kwlwmbws,  qwlwmbws,  Κολόμπους,  Калумбус,  Коламбус,  Колумбус,  Кълъмбъс,  Կոլումբուս,  קאלומבוס,  קולומבוס,  كولومبوس,  کلمبوس، اوهایو,  کولمبس، اوہائیو,  कोलंबस,  कोलम्बस,  कोलम्बस्,  কলম্বাস,  ਕਲੰਬਸ,  கொலம்பஸ்,  โคลัมบัส,  კოლუმბუსი,  コロンバス,  哥伦布,  哥倫布,  콜럼버스
+Alternate Names: CMH, Columbopolis, Columbus, Columbus i Ohio, Franklin, Franklinton, Kalumbus, Kolambus, Kolompous, Kolumbas, Kolumbs, Kolumbu, Kolumbus, Kolumbusa, Kulumbus, ge lun bu, kalabasa, kalambasa, kholambas, klmbws  awhayw, kolambas, kolambasa, kolampas, kolleombeoseu, koronbasu, kwlwmbws, qwlwmbws, Κολόμπους, Калумбус, Коламбус, Колумбус, Кълъмбъс, Կոլումբուս, קאלומבוס, קולומבוס, كولومبوس, کلمبوس، اوهایو, کولمبس، اوہائیو, कोलंबस, कोलम्बस, कोलम्बस्, কলম্বাস, ਕਲੰਬਸ, கொலம்பஸ், โคลัมบัส, კოლუმბუსი, コロンバス, 哥伦布, 哥倫布, 콜럼버스
 
 ---

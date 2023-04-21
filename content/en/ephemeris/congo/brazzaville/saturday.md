@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'10.72" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'56.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°13'3.75" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°49'21.49" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°43'10.49" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'19.67" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°51'57.44" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°13'56.05" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°13'5.89" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°49'21.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°43'8.86" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'23.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°58'0.75" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BZV,  Braza,  Brazavil,  Brazavilis,  Brazavilo,  Brazzavil',  Brazzaville,  Maya-Maya,  Mprazabil,  N'Tamo,  beulajabil,  brazafyl,  brazawyl,  brzwwyl,  bu la chai wei er,  burazavuiru,  Μπραζαβίλ,  Браззавиль,  ברזוויל,  برازافيل,  برازاویل,  ብራዛቪል,  ブラザヴィル,  布拉柴维尔,  브라자빌
+Alternate Names: BZV, Braza, Brazavil, Brazavilis, Brazavilo, Brazzavil', Brazzaville, Maya-Maya, Mprazabil, N'Tamo, beulajabil, brazafyl, brazawyl, brzwwyl, bu la chai wei er, burazavu~iru, Μπραζαβίλ, Браззавиль, ברזוויל, برازافيل, برازاویل, ብራዛቪል, ブラザヴィル, 布拉柴维尔, 브라자빌
 
 ---

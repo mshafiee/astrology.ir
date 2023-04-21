@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'21.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°52'39.32" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°40'9.05" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°26'49.64" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°47'14.12" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°2'32.92" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°17'11.12" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°52'39.26" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°40'11.02" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°26'49.38" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°47'16.22" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°2'33.49" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°34'34.47" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'21.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°52'39.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°40'9.05" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°26'49.64" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°47'14.12" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°2'32.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°17'11.12" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°52'38.88" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°40'9.33" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°26'47.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°47'13.14" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°2'29.36" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°15'2.32" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Chen-t'ou,  Chen-t’ou,  Chentow,  Chioh-ka-chng-chhi,  Chio̍h-ka-chng-chhī,  S'-tia-cuang,  SJW,  Shiczjachzhuan,  Shih-chia-chuang,  Shih-chia-chuang-shih,  Shih-chuang-shih,  Shih-men,  Shih-men-shih,  Shihjiazhuang,  Shihkiachwan,  Shihkiachwang,  Shijiazhuang,  Shijiazhuang Shi,  Shitszyachzhuan,  Shizhjazhuan,  Shudzjadzhuan,  Sicsiacsuang,  Sidziadzuangas,  Sidzjadzuana,  Sigjaguango,  Sioh-ga-cong,  Sitziazouank,  Siŏh-gă-cŏng,  Swzgyahcuengh,  Thach Gia Trang,  Thạch Gia Trang,  chux ceiy cwng,  sa-cyacvanga,  seujajwang si,  sh-gyʼgwwʼng,  shi jia zhuang,  shi jia zhuang shi,  shidziajuani,  shyjyatshwangh,  shyjyazhwang,  sijiyajhu'anga,  sizi'azu'anga,  Ŝiĝjaĝŭango,  Šidziadžuangas,  Šidzjadžuana,  Š’-ťia-čuang,  Σιτζιαζουάγκ,  Шижяжуан,  Шицзячжуан,  Шиђаџуанг,  Шъдзяджуан,  Շիցզյաչժուան,  שה-גיאגוואנג,  شىجياجۇاڭ شەھىرى,  شيجياتشوانغ,  شیجیاژوانگ,  शिजियाझुआंग,  ष-च्याच्वांग,  ਸ਼ੀਜ਼ੀਆਜ਼ੂਆਂਗ,  ฉือเจียจวง,  შიძიაჯუანი,  石家庄,  石家庄市,  石家荘,  石家荘市,  石家莊,  石家莊市,  스자좡 시
+Alternate Names: Chen-t'ou, Chen-t’ou, Chentow, Chioh-ka-chng-chhi, Chio̍h-ka-chng-chhī, S'-tia-cuang, SJW, Shiczjachzhuan, Shih-chia-chuang, Shih-chia-chuang-shih, Shih-chuang-shih, Shih-men, Shih-men-shih, Shihjiazhuang, Shihkiachwan, Shihkiachwang, Shijiazhuang, Shijiazhuang Shi, Shitszyachzhuan, Shizhjazhuan, Shudzjadzhuan, Sicsiacsuang, Sidziadzuangas, Sidzjadzuana, Sigjaguango, Sioh-ga-cong, Sitziazouank, Siŏh-gă-cŏng, Swzgyahcuengh, Thach Gia Trang, Thạch Gia Trang, chux ceiy cwng, sa-cyacvanga, seujajwang si, sh-gyʼgwwʼng, shi jia zhuang, shi jia zhuang shi, shidziajuani, shyjyatshwangh, shyjyazhwang, sijiyajhu'anga, sizi'azu'anga, Ŝiĝjaĝŭango, Šidziadžuangas, Šidzjadžuana, Š’-ťia-čuang, Σιτζιαζουάγκ, Шижяжуан, Шицзячжуан, Шиђаџуанг, Шъдзяджуан, Շիցզյաչժուան, שה-גיאגוואנג, شىجياجۇاڭ شەھىرى, شيجياتشوانغ, شیجیاژوانگ, शिजियाझुआंग, ष-च्याच्वांग, ਸ਼ੀਜ਼ੀਆਜ਼ੂਆਂਗ, ฉือเจียจวง, შიძიაჯუანი, 石家庄, 石家庄市, 石家荘, 石家荘市, 石家莊, 石家莊市, 스자좡 시
 
 ---

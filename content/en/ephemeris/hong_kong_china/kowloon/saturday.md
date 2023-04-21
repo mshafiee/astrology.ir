@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'43.17" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°9'43.76" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°3'39.77" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°3'39.76" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|1°32'15.42" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°23'7.45" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'31.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°57'12.32" |Aries|Butain|Venus|
+|☾ Moon|Direct|23°57'13.25" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|1°32'15.42" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°23'7.45" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°36'31.66" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°57'12.32" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|23°57'13.25" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Chiu-lung,  Czjulun,  Kaulunas,  Koulun,  Kowloon,  jiu long,  julung,  yi fa ban,  Цзюлун,  九龍,  意法半,  주룽
+Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽
 
 ---

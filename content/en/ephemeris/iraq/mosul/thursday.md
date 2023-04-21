@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°46'0.45" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°18'26.85" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°32'42.79" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°21'16.36" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|29°26'41.78" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Al Mawsil,  Al Mawşil,  Al Mosul,  Al Musil,  Al Mūşil,  Mosel,  Mosoel,  Mosouli,  Mossoul,  Mossul,  Mosul,  Mosul khot,  Mosula,  Mosulas,  Mosulo,  Moszul,  Mousl,  Moussoul,  Musil,  Musił,  Musul,  Musıl,  Mûsil,  OSM,  almwsl,  mo su er,  mo sul,  mocul,  mosala,  mosul,  mosula,  mosuli,  mosuru,  mwsl,  mwswl,  mwsڵ,  Μοσούλη,  Мосeл,  Мосул,  Мосул хот,  Մոսուլ,  מאסול,  מוסול,  الموصل,  موسڵ,  موصل,  موصول,  مووسڵ,  ܡܘܨܠ,  मोसुल,  ਮੋਸਲ,  மோசுல்,  മൊസൂൾ,  โมซูล,  მოსული,  モースル,  摩苏尔,  摩蘇爾,  모술
+Alternate Names: Al Mawsil, Al Mawşil, Al Mosul, Al Musil, Al Mūşil, Mosel, Mosoel, Mosouli, Mossoul, Mossul, Mosul, Mosul khot, Mosula, Mosulas, Mosulo, Moszul, Mousl, Moussoul, Musil, Musił, Musul, Musıl, Mûsil, OSM, almwsl, mo su er, mo sul, mocul, mosala, mosul, mosula, mosuli, mosuru, mwsl, mwswl, mwsڵ, Μοσούλη, Мосeл, Мосул, Мосул хот, Մոսուլ, מאסול, מוסול, الموصل, موسڵ, موصل, موصول, مووسڵ, ܡܘܨܠ, मोसुल, ਮੋਸਲ, மோசுல், മൊസൂൾ, โมซูล, მოსული, モースル, 摩苏尔, 摩蘇爾, 모술
 
 ---

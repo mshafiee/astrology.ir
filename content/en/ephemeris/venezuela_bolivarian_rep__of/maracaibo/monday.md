@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°54'8.38" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°46'3.11" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°25'15.88" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°59'58.26" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°15'55.00" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°10'54.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°6'48.61" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°54'8.40" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°46'2.94" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°25'14.99" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°59'57.32" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°15'54.03" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°10'53.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°10'31.56" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'8.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°46'3.11" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°25'15.88" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°59'58.26" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°15'55.00" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°10'54.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°16'23.11" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°46'2.94" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°25'14.99" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°59'57.43" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°15'54.03" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°10'53.44" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°10'31.56" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MAR,  Maracaibo,  Marakaibas,  Marakaibo,  Marakaimpo,  Marakajba,  Marakajbo,  Marakaybo,  Marakaypu,  ma la kai bo,  ma ra ki bo,  malakaibo,  maraka'ibo,  marakaibo,  marakaybw,  Μαρακάιμπο,  Маракаибо,  Маракайба,  Маракайбо,  Մարակայբո,  מרקאיבו,  ماراكايبو,  माराकाईबो,  ਮਾਰਾਕਾਈਬੋ,  มาราไกโบ,  მარაკაიბო,  マラカイボ,  马拉开波,  마라카이보
+Alternate Names: MAR, Maracaibo, Marakaibas, Marakaibo, Marakaimpo, Marakajba, Marakajbo, Marakaybo, Marakaypu, ma la kai bo, ma ra ki bo, malakaibo, maraka'ibo, marakaibo, marakaybw, Μαρακάιμπο, Маракаибо, Маракайба, Маракайбо, Մարակայբո, מרקאיבו, ماراكايبو, माराकाईबो, ਮਾਰਾਕਾਈਬੋ, มาราไกโบ, მარაკაიბო, マラカイボ, 马拉开波, 마라카이보
 
 ---

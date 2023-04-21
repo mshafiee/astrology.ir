@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'36.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°26'48.65" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°42'1.92" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°41'40.35" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°44'31.63" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'39.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°24'9.84" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°26'48.74" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°41'57.44" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°41'41.47" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°44'27.42" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'38.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°1'28.51" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'36.68" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°26'48.74" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°41'57.44" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°41'40.35" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°44'31.63" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'39.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°24'9.84" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°26'48.80" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°41'57.52" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°41'41.47" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°44'27.42" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'38.57" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°1'28.51" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Carcovia,  Carcóvia,  Charcovia,  Charkiv,  Charkiw,  Charkov,  Charkovas,  Charkow,  Charków,  HRK,  Harkiv,  Harkiva,  Harkivo,  Harkov,  Harkova,  Jarkov,  Khar'kov,  Kharkiv,  Kharkov,  Khar’kov,  ha er ke fu,  haleukiu,  harikofu,  hrqwb,  kaleukipeu,  kalipeu,  kharkwf,  Ĥarkivo,  Ĥarkov,  Харков,  Харків,  Харьков,  חרקוב,  خاركوف,  ხარკოვი,  ハリコフ,  哈爾科夫,  카르키프,  카리프,  하르키우
+Alternate Names: Carcovia, Carcóvia, Charcovia, Charkiv, Charkiw, Charkov, Charkovas, Charkow, Charków, HRK, Harkiv, Harkiva, Harkivo, Harkov, Harkova, Jarkov, Khar'kov, Kharkiv, Kharkov, Khar’kov, ha er ke fu, haleukiu, harikofu, hrqwb, kaleukipeu, kalipeu, kharkwf, Ĥarkivo, Ĥarkov, Харков, Харків, Харьков, חרקוב, خاركوف, ხარკოვი, ハリコフ, 哈爾科夫, 카르키프, 카리프, 하르키우
 
 ---

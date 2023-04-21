@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'40.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'58.83" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°6'20.78" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°47'37.25" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°20'24.37" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'57.67" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°43'50.93" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'59.14" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°6'17.41" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°47'39.45" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°20'22.07" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'58.36" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°59'57.62" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'40.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'59.14" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'17.41" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°47'39.45" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°20'22.07" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'58.36" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°43'50.93" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'58.93" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°6'14.58" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°47'38.49" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°20'18.58" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'55.29" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°54'26.64" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ASM,  Asmar,  Asmara,  Asmaro,  Asmehra,  Asmera,  Aszmara,  a si ma la,  asamara,  aseumala,  asmara,  asmera,  asmrh,  asmrt,  asumara,  yەsmەrە,  Əsməra,  Ασμάρα,  Асмара,  Асмэра,  Асмєра,  Ասմարա,  אסמרה,  أسمرة,  ئەسمەرە,  اسمارا,  اسمره,  अस्मारा,  ਅਸਮਾਰਾ,  அஸ்மாரா,  അസ്മാറ,  แอสมารา,  ཨཱ་སི་མི་ར།,  ასმერა,  አስመራ,  ኣስመራ,  アスマラ,  阿斯馬拉,  아스마라
+Alternate Names: ASM, Asmar, Asmara, Asmaro, Asmehra, Asmera, Aszmara, a si ma la, asamara, aseumala, asmara, asmera, asmrh, asmrt, asumara, yەsmەrە, Əsməra, Ασμάρα, Асмара, Асмэра, Асмєра, Ասմարա, אסמרה, أسمرة, ئەسمەرە, اسمارا, اسمره, अस्मारा, ਅਸਮਾਰਾ, அஸ்மாரா, അസ്മാറ, แอสมารา, ཨཱ་སི་མི་ར།, ასმერა, አስመራ, ኣስመራ, アスマラ, 阿斯馬拉, 아스마라
 
 ---

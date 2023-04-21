@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°44'28.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°17'41.82" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°21'29.23" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°4'39.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°1'3.63" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'55.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°22'41.68" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°17'41.84" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°21'29.63" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°4'39.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°1'4.11" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'56.32" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°25'5.81" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: LIM,  Lim,  Lima,  Limae,  Limaq,  Lime,  Limma,  Limo,  Lioma,  Lungsod ng Lima,  Lìmma,  Líma,  Líoma,  Lîma,  li ma,  lima,  lyma,  lymh,  rima,  Λίμα,  Лимæ,  Лима,  Лиме,  Ліма,  Լիմա,  לימא,  לימה,  لىما,  ليما,  لیما,  लिमा,  लीमा,  লিমা,  ਲੀਮਾ,  ଲିମା,  லிமா,  ലിമ,  ลิมา,  ལི་མ།,  ლიმა,  ሊማ,  リマ,  利馬,  리마
+Alternate Names: LIM, Lim, Lima, Limae, Limaq, Lime, Limma, Limo, Lioma, Lungsod ng Lima, Lìmma, Líma, Líoma, Lîma, li ma, lima, lyma, lymh, rima, Λίμα, Лимæ, Лима, Лиме, Ліма, Լիմա, לימא, לימה, لىما, ليما, لیما, लिमा, लीमा, লিমা, ਲੀਮਾ, ଲିମା, லிமா, ലിമ, ลิมา, ལི་མ།, ლიმა, ሊማ, リマ, 利馬, 리마
 
 ---

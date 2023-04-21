@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'39.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'55.67" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°6'10.12" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°47'25.78" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°20'7.88" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'56.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°50'33.14" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'54.92" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°6'7.95" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°47'20.64" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°20'1.18" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'47.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°17'43.51" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'39.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'55.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'10.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°47'24.82" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°20'7.88" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'56.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°50'33.14" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'54.92" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°6'7.95" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°47'20.64" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°20'1.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'47.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°17'43.51" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: 'Amman,  AMM,  Ama,  Aman,  Amanas,  Amani,  Amano,  Amans,  Amman,  Ammana,  Ammon,  Ammán,  Ammān,  Ammāna,  Amàn,  Amán,  Amã,  Philadelphia,  Rabbah,  Rabbath Ammon,  am'man,  am'mana,  aman,  amana,  amani,  amman,  an man,  anman,  xam man,  yamman,  ʻmʼn,  ʿman,  ʿmʾn,  Αμμάν,  Аман,  Амман,  Аммон,  Ամման,  אמאן,  עמאן,  ئاممان,  امان,  عمان,  عمان شہر,  عمّان,  عَمّان,  عەممان,  ܥܡܐܢ,  अम्मान,  আম্মান,  ਅਮਾਨ,  அம்மான்,  ಅಮ್ಮಾನ್,  അമ്മാൻ,  อัมมาน,  ཨམ་མན།,  ამანი,  አማን,  ‘Ammān,  アンマン,  安曼,  암만
+Alternate Names: 'Amman, AMM, Ama, Aman, Amanas, Amani, Amano, Amans, Amman, Ammana, Ammon, Ammán, Ammān, Ammāna, Amàn, Amán, Amã, Philadelphia, Rabbah, Rabbath Ammon, am'man, am'mana, aman, amana, amani, amman, an man, anman, xam man, yamman, ʻmʼn, ʿman, ʿmʾn, Αμμάν, Аман, Амман, Аммон, Ամման, אמאן, עמאן, ئاممان, امان, عمان, عمان شہر, عمّان, عَمّان, عەممان, ܥܡܐܢ, अम्मान, আম্মান, ਅਮਾਨ, அம்மான், ಅಮ್ಮಾನ್, അമ്മാൻ, อัมมาน, ཨམ་མན།, ამანი, አማን, ‘Ammān, アンマン, 安曼, 암만
 
 ---

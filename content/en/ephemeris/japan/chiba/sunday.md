@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'16.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°22'55.29" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°33'11.47" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°25'52.15" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°25'54.38" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'6.06" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°24'58.36" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°22'55.53" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°33'13.48" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°25'53.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°25'57.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'9.16" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°42'41.04" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°22'55.53" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°33'13.48" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°25'53.53" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°25'54.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'6.06" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°24'58.36" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|13°25'57.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'9.16" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°42'41.04" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Chiba,  Chiba-shi,  Chibashi,  Ciba,  QCB,  Tiba,  chiba,  chibashi,  jiba si,  qian ye,  qian ye shi,  tshyba,  Ĉiba,  Čiba,  Чиба,  تشيبا,  ちば,  ちばし,  チバ,  チバシ,  千葉,  千葉市,  지바 시
+Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시
 
 ---

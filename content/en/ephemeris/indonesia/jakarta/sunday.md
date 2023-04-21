@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'53.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'41.41" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°37'10.23" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°33'5.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°34'16.60" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'6.11" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°10'31.63" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°24'40.03" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°37'6.25" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°32'57.26" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°34'12.11" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'57.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°38'54.05" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'53.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'40.94" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°37'7.79" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°33'2.47" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°34'16.60" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'6.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°10'31.63" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'40.03" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°37'6.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°32'57.26" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°34'12.11" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'57.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°38'54.05" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Batavia,  Big Durian,  Cakarta,  D'akarta,  Daerah Khusus Ibukota Jakarta,  Djakarta,  Djogkarta,  Dki Jakarta,  Dzakarta,  Dzhakarta,  Dzhakartae,  Dżakarta,  Džakarta,  Gakarto,  Giacarta,  Iacarta,  Iacárta,  JKT,  Jacarta,  Jakarta,  Jayakarta,  Jogkarta,  Nga-ka-that Su-tu Thit-khi,  Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî,  Sakata,  Sunda Kelapa,  Tzakarta,  Xacarta,  Xhakarta,  Yajgyadaz,  Yakarta,  Zhakarta,  cakarta,  g'qrth,  jakaleuta,  jakarata,  jakarta,  jakartta,  jakaruta,  jkarta,  ya jia da,  ye jia da,  Ĝakarto,  Τζακάρτα,  Џакарта,  Джакартæ,  Джакарта,  Дьакарта,  Жакарта,  Ջակարտա,  ג'קרטה,  דזשאקארטא,  جاكارتا,  جاکارتا,  جکارتا,  جکارتہ,  जकार्ता,  জাকার্তা,  ਜਕਾਰਤਾ,  જાકાર્તા,  ଜାକର୍ତା,  ஜகார்த்தா,  జకార్తా,  ಜಕಾರ್ತ,  ജക്കാർത്ത,  จาการ์ตา,  ཊ་ཁར་ཏ།,  ဂျကာတာမြို့,  ჯაკარტა,  ጃካርታ,  ចាការតា,  ジャカルタ,  耶加達,  雅加达,  雅加達,  자카르타
+Alternate Names: Batavia, Big Durian, Cakarta, D'akarta, Daerah Khusus Ibukota Jakarta, Djakarta, Djogkarta, Dki Jakarta, Dzakarta, Dzhakarta, Dzhakartae, Dżakarta, Džakarta, Gakarto, Giacarta, Iacarta, Iacárta, JKT, Jacarta, Jakarta, Jayakarta, Jogkarta, Nga-ka-that Su-tu Thit-khi, Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî, Sunda Kelapa, Tzakarta, Xacarta, Xhakarta, Yajgyadaz, Yakarta, Zhakarta, cakarta, g'qrth, jakaleuta, jakarata, jakarta, jakartta, jakaruta, jkarta, ya jia da, Ĝakarto, Τζακάρτα, Џакарта, Джакартæ, Джакарта, Дьакарта, Жакарта, Ջակարտա, ג'קרטה, דזשאקארטא, جاكارتا, جاکارتا, جکارتا, جکارتہ, जकार्ता, জাকার্তা, ਜਕਾਰਤਾ, જાકાર્તા, ଜାକର୍ତା, ஜகார்த்தா, జకార్తా, ಜಕಾರ್ತ, ജക്കാർത്ത, จาการ์ตา, ཊ་ཁར་ཏ།, ဂျကာတာမြို့, ჯაკარტა, ጃካርታ, ចាការតា, ジャカルタ, 雅加达, 자카르타
 
 ---

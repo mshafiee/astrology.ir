@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'20.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°0'3.22" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°42'3.84" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°52'55.62" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°37'1.30" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'20.58" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°44'18.70" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°0'2.65" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°41'59.41" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°52'52.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°36'54.89" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'13.65" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°21'25.50" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'20.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°0'2.85" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°42'8.37" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|24°0'3.22" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°42'3.84" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°52'55.62" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°37'1.30" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|11°36'54.89" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°37'20.58" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°44'18.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°50'19.59" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Felicitas Julia,  Felicitas Julia Olissipo,  LIS,  Liospoin,  Liospóin,  Lisabon,  Lisabona,  Lisboa,  Lisbon,  Lisbona,  Lisbonne,  Lisbono,  Lisbonum,  Lisimba,  Lisimbã,  Lissabon,  Lisszabon,  Lizboa,  Lizbon,  Lizbona,  Olisipo,  Olissipo,  li si ben,  lisabana,  lisaboni,  lisbana,  lisbxn,  liseubon,  lshbwnt,  lysabwn,  lysbwn,  risubon,  Λισαβώνα,  Лисабон,  Лиссабон,  Лісабон,  Լիսբոնա,  ליסבון,  لشبونة,  لىسابون,  لیسبون,  ܠܫܒܘܢܐ,  लिस्बन,  লিসবন,  ลิสบอน,  ལ་ས་བན།,  ལི་སི་བཱོན།,  ლისაბონი,  ሊዝቦን,  リスボン,  里斯本,  리스본
+Alternate Names: Felicitas Julia, Felicitas Julia Olissipo, LIS, Liospoin, Liospóin, Lisabon, Lisabona, Lisboa, Lisbon, Lisbona, Lisbonne, Lisbono, Lisbonum, Lisimba, Lisimbã, Lissabon, Lisszabon, Lizboa, Lizbon, Lizbona, Olisipo, Olissipo, li si ben, lisabana, lisaboni, lisbana, lisbxn, liseubon, lshbwnt, lysabwn, lysbwn, risubon, Λισαβώνα, Лисабон, Лиссабон, Лісабон, Լիսբոնա, ליסבון, لشبونة, لىسابون, لیسبون, ܠܫܒܘܢܐ, लिस्बन, লিসবন, ลิสบอน, ལ་ས་བན།, ལི་སི་བཱོན།, ლისაბონი, ሊዝቦን, リスボン, 里斯本, 리스본
 
 ---

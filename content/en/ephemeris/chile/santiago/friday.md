@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'27.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°3'14.41" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°49'9.47" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°5'53.62" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°52'11.98" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'26.97" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°12'50.87" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°3'11.47" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°49'6.11" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°5'36.69" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°51'59.22" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'2.03" |Aries|Butain|Sun|
+|☾ Moon|Direct|16°24'15.75" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Ciles Santjagas,  CiudadSantiago,  SCL,  Sanctiacobi,  Sant'jago,  Santiago,  Santiago de Chile,  Santiago de Xile,  Santiago del Cile,  Santiago do Chile,  Santiago du Chili,  Santiago du Ch·ili,  Santianko,  Santjago,  Santjago de Chile,  Santjago de Chili,  Stgo.,  santiago,  santixako,  santiyago,  santyaghw,  santyagw,  santyyagw,  sheng de ya ge,  Čilės Santjagas,  Σαντιάγκο,  Σαντιάγο,  Сантьяго,  Сантяго де Чиле,  Сантяго де Чили,  סנטיאגו דה צ'ילה,  سانتىياگو,  سانتياغو,  سانتیاگو,  সান্টিয়াগো,  ซันติอาโก,  სანტიაგო დე ჩილე,  ሳንቲያጎ,  サンティアゴ,  圣地亚哥,  聖地亞哥,  산티아고
+Alternate Names: Ciles Santjagas, CiudadSantiago, SCL, Sanctiacobi, Sant'jago, Santiago, Santiago de Chile, Santiago de Xile, Santiago del Cile, Santiago do Chile, Santiago du Chili, Santiago du Ch·ili, Santianko, Santjago, Santjago de Chile, Santjago de Chili, Stgo., santiago, santixako, santiyago, santyaghw, santyagw, santyyagw, sheng de ya ge, Čilės Santjagas, Σαντιάγκο, Σαντιάγο, Сантьяго, Сантяго де Чиле, Сантяго де Чили, סנטיאגו דה צ'ילה, سانتىياگو, سانتياغو, سانتیاگو, সান্টিয়াগো, ซันติอาโก, სანტიაგო დე ჩილე, ሳንቲያጎ, サンティアゴ, 圣地亚哥, 산티아고
 
 ---

@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°41'38.81" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°9'31.30" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°3'12.35" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°31'14.81" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°21'57.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'15.26" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°22'13.84" |Aries|Butain|Venus|
+|☉ Sun|Direct|1°31'24.22" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°22'8.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'31.50" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°34'31.12" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°41'38.81" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°9'31.30" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°3'12.35" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°31'14.81" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°21'57.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'15.26" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°22'13.84" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°31'24.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°22'8.34" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'31.50" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°34'31.12" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Chen-t'ou,  Chen-t’ou,  Chentow,  Chioh-ka-chng-chhi,  Chio̍h-ka-chng-chhī,  S'-tia-cuang,  SJW,  Shiczjachzhuan,  Shih-chia-chuang,  Shih-chia-chuang-shih,  Shih-chuang-shih,  Shih-men,  Shih-men-shih,  Shihjiazhuang,  Shihkiachwan,  Shihkiachwang,  Shijiazhuang,  Shijiazhuang Shi,  Shitszyachzhuan,  Shizhjazhuan,  Shudzjadzhuan,  Sicsiacsuang,  Sidziadzuangas,  Sidzjadzuana,  Sigjaguango,  Sioh-ga-cong,  Sitziazouank,  Siŏh-gă-cŏng,  Swzgyahcuengh,  Thach Gia Trang,  Thạch Gia Trang,  chux ceiy cwng,  sa-cyacvanga,  seujajwang si,  sh-gyʼgwwʼng,  shi jia zhuang,  shi jia zhuang shi,  shidziajuani,  shyjyatshwangh,  shyjyazhwang,  sijiyajhu'anga,  sizi'azu'anga,  Ŝiĝjaĝŭango,  Šidziadžuangas,  Šidzjadžuana,  Š’-ťia-čuang,  Σιτζιαζουάγκ,  Шижяжуан,  Шицзячжуан,  Шиђаџуанг,  Шъдзяджуан,  Շիցզյաչժուան,  שה-גיאגוואנג,  شىجياجۇاڭ شەھىرى,  شيجياتشوانغ,  شیجیاژوانگ,  शिजियाझुआंग,  ष-च्याच्वांग,  ਸ਼ੀਜ਼ੀਆਜ਼ੂਆਂਗ,  ฉือเจียจวง,  შიძიაჯუანი,  石家庄,  石家庄市,  石家荘,  石家荘市,  石家莊,  石家莊市,  스자좡 시
+Alternate Names: Chen-t'ou, Chen-t’ou, Chentow, Chioh-ka-chng-chhi, Chio̍h-ka-chng-chhī, S'-tia-cuang, SJW, Shiczjachzhuan, Shih-chia-chuang, Shih-chia-chuang-shih, Shih-chuang-shih, Shih-men, Shih-men-shih, Shihjiazhuang, Shihkiachwan, Shihkiachwang, Shijiazhuang, Shijiazhuang Shi, Shitszyachzhuan, Shizhjazhuan, Shudzjadzhuan, Sicsiacsuang, Sidziadzuangas, Sidzjadzuana, Sigjaguango, Sioh-ga-cong, Sitziazouank, Siŏh-gă-cŏng, Swzgyahcuengh, Thach Gia Trang, Thạch Gia Trang, chux ceiy cwng, sa-cyacvanga, seujajwang si, sh-gyʼgwwʼng, shi jia zhuang, shi jia zhuang shi, shidziajuani, shyjyatshwangh, shyjyazhwang, sijiyajhu'anga, sizi'azu'anga, Ŝiĝjaĝŭango, Šidziadžuangas, Šidzjadžuana, Š’-ťia-čuang, Σιτζιαζουάγκ, Шижяжуан, Шицзячжуан, Шиђаџуанг, Шъдзяджуан, Շիցզյաչժուան, שה-גיאגוואנג, شىجياجۇاڭ شەھىرى, شيجياتشوانغ, شیجیاژوانگ, शिजियाझुआंग, ष-च्याच्वांग, ਸ਼ੀਜ਼ੀਆਜ਼ੂਆਂਗ, ฉือเจียจวง, შიძიაჯუანი, 石家庄, 石家庄市, 石家荘, 石家荘市, 石家莊, 石家莊市, 스자좡 시
 
 ---

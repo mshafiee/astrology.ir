@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°38'34.05" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°8'22.55" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°29'31.28" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°40'13.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°18'37.12" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°4'54.61" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|14°40'20.31" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'58.21" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°44'25.55" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°38'34.05" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°8'22.55" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°29'31.28" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°40'13.64" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°18'37.12" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°4'54.61" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|14°40'20.31" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°18'58.21" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°44'25.55" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Djumpandang,  Kota Makassar,  Macassar,  Makasar,  Makasaras,  Makassar,  Makasser,  UPG,  Udjung Pandang,  Ujungpandang,  makasaleu,  makasar,  makassaru,  Макассар,  ماکاسار,  マカッサル,  마카사르
+Alternate Names: Djumpandang, Kota Makassar, Macassar, Makasar, Makasaras, Makassar, Makasser, UPG, Udjung Pandang, Ujungpandang, makasaleu, makasar, makassaru, Макассар, ماکاسار, マカッサル, 마카사르
 
 ---

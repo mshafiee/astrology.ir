@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'7.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°25'22.66" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°38'41.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°35'49.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°37'33.71" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'22.54" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°44'28.54" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°25'24.32" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°38'47.15" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°35'58.79" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°37'45.14" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'39.48" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°57'19.46" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'7.81" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°25'22.66" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°38'41.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°35'49.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°37'33.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'22.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°44'28.54" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°25'24.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°38'47.15" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°35'58.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°37'45.14" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'39.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°0'42.76" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: LKO,  Lakhnau,  Lakkhnau,  Lakkhnau shaary,  Laknaou,  Laknau,  Laknauo,  Laknava,  Laknaú,  Laknaŭo,  Lucknow,  Lucknow City,  Luknow,  ilakno,  lakh nea,  lakhana'u,  lakhanau,  laknau,  lakno,  laksnau,  lei ke nao,  leokeunau,  lkhnw,  lknaw,  rakunau,  Λάκναου,  Лакнау,  Лакхнау,  Лакхнау шаары,  לאקנאו,  لكهنؤ,  لكهنو,  لکناو,  لکهنو,  لکھنؤ,  लखनऊ,  लखनौ,  লক্ষ্ণৌ,  লখনৌ,  ਲਖਨਊ,  લખનૌ,  ଲକ୍ଷ୍ନୌ,  இலக்னோ,  లక్నో,  ಲಕ್ನೋ,  ലഖ്
+Alternate Names: LKO, Lakhnau, Lakkhnau, Lakkhnau shaary, Laknaou, Laknau, Laknauo, Laknava, Laknaú, Laknaŭo, Lucknow, Lucknow City, Luknow, ilakno, lakh nea, lakhana'u, lakhanau, laknau, lakno, laksnau, lei ke nao, leokeunau, lkhnw, lknaw, rakunau, Λάκναου, Лакнау, Лакхнау, Лакхнау шаары, לאקנאו, لكهنؤ, لكهنو, لکناو, لکهنو, لکھنؤ, लखनऊ, लखनौ, লক্ষ্ণৌ, লখনৌ, ਲਖਨਊ, લખનૌ, ଲକ୍ଷ୍ନୌ, இலக்னோ, లక్నో, ಲಕ್ನೋ, ലഖ്‌നൗ, ลัคเนา, ლაქნაუ, ラクナウ, ラクナウー, 勒克瑙, 러크나우
 
 ---

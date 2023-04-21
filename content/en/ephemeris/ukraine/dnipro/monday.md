@@ -20,7 +20,7 @@ Latitude: 48.4666
 \-
 Longitude: 35.0407
 \-
-Altitude: 61 meters
+Altitude: 59 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Dnipro, Ukraine" lat="48.4666" lng="35.0407" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:38:02 |
 | Medium Coeli | 12:38:02 |
 | Sunset | 19:43:42 |
-| Maghrib | 19:45:25 |
+| Maghrib | 19:45:24 |
 | Isha | 21:41:54 |
 | Sharia Midnight | 23:34:13 |
 | Imum Coeli | 00:37:57 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:38:02 |
 | Medium Coeli | 12:38:02 |
 | Sunset | 19:43:42 |
-| Maghrib | 19:45:25 |
+| Maghrib | 19:45:24 |
 | Isha | 21:25:22 |
 | Sharia Midnight | 23:46:48 |
 | Imum Coeli | 00:37:57 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:38:02 |
 | Medium Coeli | 12:38:02 |
 | Sunset | 19:43:42 |
-| Maghrib | 19:45:25 |
+| Maghrib | 19:45:24 |
 | Isha | 21:46:12 |
 | Sharia Midnight | 23:27:23 |
 | Imum Coeli | 00:37:57 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:38:02 |
 | Medium Coeli | 12:38:02 |
 | Sunset | 19:43:42 |
-| Maghrib | 19:45:25 |
+| Maghrib | 19:45:24 |
 | Isha | 21:50:34 |
 | Sharia Midnight | 23:34:13 |
 | Imum Coeli | 00:37:57 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:38:02 |
 | Medium Coeli | 12:38:02 |
 | Sunset | 19:43:42 |
-| Maghrib | 19:45:25 |
-| Isha | 21:15:25 |
+| Maghrib | 19:45:24 |
+| Isha | 21:15:24 |
 | Sharia Midnight | 23:31:59 |
 | Imum Coeli | 00:37:57 |
 {{< /tab >}}
@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°52'31.59" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°41'15.91" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°14'28.56" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°40'32.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°53'10.97" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'9.56" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°42'18.80" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°40'28.20" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°53'10.25" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°16'3.77" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°41'47.02" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°41'15.91" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°14'28.56" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°40'28.20" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°53'10.97" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'9.56" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°42'18.80" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°53'10.25" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'3.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°41'47.02" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: DNK,  Dnepr,  Dnepropetrovsk,  Dniepr,  Dniepropetrovskas,  Dnipro,  Dnipropetrovs'k,  Dnipropetrovsk,  Dnipropetrovsko,  Dnipropetrowsk,  Dniproslav,  Dnipró,  Dnjepropetrovsk,  Dnjipro,  Dnjipropetrovsk,  Dnyipro,  Dněpropetrovsk,  Dņipro,  Ekaterinoslav,  Katerinoslav,  Katerynoslav,  Novij Kodak,  Novorosiynsk,  Novyy Kodak,  Ntnipro,  Sicheslav,  Sichoslav,  d ni por pet rxfskh,  deunipeulopeteulousikeu,  dnepropetrovska,  dnepʼri,  dnybrw,  dnyprwptrwbsq,  dnyprwptrwfsk,  dnyprwptrwwsk,  dnyprʼ,  donipuropetoroushiku,  nie bo cheng,  Ντνίπρο,  Днепр,  Днепропетровск,  Днипро,  Дніпро,  Дніпропетровськ,  Дніпрослав,  Днїпро,  Дњипро,  Екатеринослав,  Катеринослав,  Новий Кодак,  Січослав,  Դնեպր,  דניפרא,  דניפרופטרובסק,  دنيبرو,  دنیپروپتروفسک,  دنیپروپترووسک,  द्नेप्रोपेत्रोव्स्क,  ดนีโปรเปตรอฟสค์,  დნეპრი,  ドニプロペトロウシク,  聶伯城,  드니프로페트로우시크
+Alternate Names: DNK, Dnepr, Dnepropetrovsk, Dniepr, Dniepropetrovskas, Dnipro, Dnipropetrovs'k, Dnipropetrovsk, Dnipropetrovsko, Dnipropetrowsk, Dniproslav, Dnipró, Dnjepropetrovsk, Dnjipropetrovsk, Dnyipro, Dněpropetrovsk, Dņipro, Ekaterinoslav, Katerinoslav, Katerynoslav, Novij Kodak, Novorosiynsk, Novyy Kodak, Ntnipro, Sicheslav, Sichoslav, d ni por pet rxfskh, deunipeulopeteulousikeu, dnepropetrovska, dnepʼri, dnybrw, dnyprwptrwbsq, dnyprwptrwfsk, dnyprwptrwwsk, dnyprʼ, donipuropetoroushiku, nie bo cheng, Ντνίπρο, Днепр, Днепропетровск, Днипро, Дніпро, Дніпропетровськ, Дніпрослав, Днїпро, Дњипро, Екатеринослав, Катеринослав, Новий Кодак, Січослав, Դնեպր, דניפרא, דניפרופטרובסק, دنيبرو, دنیپروپتروفسک, دنیپروپترووسک, द्नेप्रोपेत्रोव्स्क, ดนีโปรเปตรอฟสค์, დნეპრი, ドニプロペトロウシク, 聶伯城, 드니프로페트로우시크
 
 ---

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°36'19.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°54'20.03" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°29'18.84" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°29'41.30" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°9'44.81" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'37.86" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°33'52.04" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|4°36'19.81" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°54'19.88" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°29'19.29" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°29'40.37" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°9'44.78" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'36.67" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°28'3.63" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'19.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°54'20.03" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°29'19.19" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°29'41.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°9'45.19" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'37.86" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°33'52.04" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|23°54'19.88" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°29'19.29" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°29'40.37" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°9'44.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'36.67" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°28'3.63" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Kobe,  Kobe-chhi,  Kobe-shi,  Kobeh,  Kobeo,  Kobė,  Kompe,  Kóbe,  Kôbe-chhī,  Kōbe,  Kōbe-shi,  Lungsod ng Kobe,  gobe si,  kaube,  kho bea,  kobe,  kope,  koubeshi,  kwbh,  qwbh,  shen hu,  shen hu shi,  Κόμπε,  Кобе,  Кобэ,  Կոբե,  קובה,  كوبه,  کوبه,  کوبے,  कोबे,  কৌবে,  கோபே,  โคเบะ,  კობე,  こうべし,  神戶,  神户市,  神戸,  神戸市,  고베 시
+Alternate Names: Kobe, Kobe-chhi, Kobe-shi, Kobeh, Kobė, Kompe, Kóbe, Kôbe-chhī, Kōbe, Kōbe-shi, Lungsod ng Kobe, gobe si, kaube, kho bea, kobe, kope, koubeshi, kwbh, qwbh, shen hu, shen hu shi, Κόμπε, Кобе, Кобэ, Կոբե, קובה, كوبه, کوبه, کوبے, कोबे, কৌবে, கோபே, โคเบะ, კობე, こうべし, 神戶, 神户市, 神戸, 神戸市, 고베 시
 
 ---

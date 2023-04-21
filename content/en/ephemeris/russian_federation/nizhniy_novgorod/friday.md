@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'27.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'33.14" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°36'28.31" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°42'44.77" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°25'4.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'2.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°4'20.56" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°57'33.39" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°36'31.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°42'46.08" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°25'8.06" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'5.58" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°17'39.43" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'27.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°57'33.33" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°36'30.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°42'45.75" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°25'4.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'2.08" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°4'20.56" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°57'33.39" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°36'31.10" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°42'46.08" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°25'8.06" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'5.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°17'39.43" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: GOJ,  Gor'kij,  Gor'kiy,  Gorkey,  Gorki,  Gorkii,  Gorkij,  Gorky,  Nijni Novgorod,  Nijnii Novgorod,  Nischni Nowgorod,  Nishni-Nowgorod,  Nishnii Nowgorod,  Nishnij Nowgorod,  Nizhni Novgorod,  Nizhnii Novgorod,  Nizhnij Novgorod,  Nizhniy Novgorod,  Nizhny Novgorod,  Nizjnij Novgorod,  Nizni Novgorod,  Niznij Nowgorod,  Niznji Novgorod,  Nižni Novgorod,  Nižnij Nowgorod,  Nižnji Novgorod,  Nyizsnyij Novgorod,  Горький,  Нижний Новгород
+Alternate Names: GOJ, Gor'kij, Gor'kiy, Gorkey, Gorki, Gorkii, Gorkij, Gorky, Nijni Novgorod, Nijnii Novgorod, Nischni Nowgorod, Nishni-Nowgorod, Nishnii Nowgorod, Nishnij Nowgorod, Nizhni Novgorod, Nizhnii Novgorod, Nizhnij Novgorod, Nizhniy Novgorod, Nizhny Novgorod, Nizjnij Novgorod, Nizni Novgorod, Niznij Nowgorod, Nižni Novgorod, Nižnij Nowgorod, Горький, Нижний Новгород
 
 ---

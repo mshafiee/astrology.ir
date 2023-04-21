@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°54'21.49" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°44'1.67" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°33'46.16" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°55'21.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'1.09" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°56'4.56" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°55'21.69" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'21.25" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°9'8.25" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'55.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'21.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'56.05" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'35.16" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'9.04" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'1.09" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°56'4.56" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'21.56" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°44'1.80" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'46.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°55'21.69" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'20.57" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°9'8.25" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Bhaganagar,  HYD,  Haidarabadas,  Haiderabad,  Hajdarabad,  Hajdarábád,  Hyderabad,  Hyderābād,  Khajdarabad,  Khajderabad,  hai de la ba,  haidarabada,  haidarabadu,  haiderabado,  haitarapat,  hayadarabada ema. karporesana,  hayadrabada,  hydr abad,  hydr abad dkn,  hydrabad,  Хайдарабад,  Хајдерабад,  حیدر آباد,  حیدر آباد دکن,  حیدرآباد,  हैदराबाद,  হায়দরাবাদ এম. কর্পোরেশন,  হায়দ্রাবাদ,  ஹைதராபாத்,  హైదరాబాదు,  ハイデラバード,  海得拉巴
+Alternate Names: Bhaganagar, HYD, Haidarabadas, Haiderabad, Hajdarabad, Hajdarábád, Hyderabad, Hyderabad-Deccan, Hyderābād, Khajdarabad, Khajderabad, hai de la ba, haidarabada, haidarabadu, haiderabado, haitarapat, hayadarabada ema. karporesana, hayadrabada, hydr abad, hydr abad dkn, hydrabad, Хайдарабад, Хајдерабад, حیدر آباد, حیدر آباد دکن, حیدرآباد, हैदराबाद, হায়দরাবাদ এম. কর্পোরেশন, হায়দ্রাবাদ, ஹைதராபாத், హైదరాబాదు, ハイデラバード, 海得拉巴
 
 ---

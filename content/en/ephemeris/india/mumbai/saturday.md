@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'18.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°11'24.67" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°7'28.16" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°39'5.11" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°31'10.82" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'6.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°32'56.22" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°11'24.90" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°7'25.88" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°39'6.59" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°31'9.16" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'7.16" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°31'17.05" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'18.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'24.67" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°7'28.16" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°39'5.11" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°31'10.82" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'6.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°32'56.22" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°11'24.90" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°7'25.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°39'6.59" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°31'9.16" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'7.16" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°31'17.05" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Asumumbay,  BOM,  Bombai,  Bombaim,  Bombaj,  Bombay,  Bombaya,  Bombej,  Bombejus,  Bombėjus,  Bumbaj,  Bůmbaj,  Dakbayan sa Bombay,  Lungsod ng Mumbai,  Moembaai,  Mumbai,  Mumbai - मुम़बई,  Mumbaj,  Mumbaja,  Mumbajo,  Mumbajus,  Mumbay,  Mumbaî,  Numbai,  Vomvai,  bamba'i,  bmbyy,  bwmbay,  gretara mumba'i,  meng mai,  mmbay,  mmbyy,  mu0bai,  muba'i,  mum bi,  mumba'i,  mumbai,  mumpai,  munbai,  mwmbay,  mwmbyy,  mymbais,  pullapa mumba'i,  Βομβάη,  Бомбай,  Бомбей,  Мумбаи,  Мумбай,  Мумбаі,  Мумбаї,  Мумбај,  Մումբայ,  מומבאי,  מומביי,  بمبئی,  بومباي,  بَمبَے,  ممبئي,  ممبئی,  ممبای,  مومباى,  مومباي,  مومبای,  މުންބާއީ,  ग्रेटर मुम्बई,  बम्बई,  मुंबई,  मुम्बई,  পুল্লাপ মুম্বাই,  মুম্বই,  মুম্বাই,  ਮੁੰਬਈ,  મુંબઈ,  ମୁମ୍ବାଇ,  மும்பை,  ముంబై,  ಮುಂಬೈ,  ಮು೦ಬೈ,  മുംബൈ,  มุมไบ,  འབོམ་སྦེ,  မွမ်ဘိုင်းမြို့,  მუმბაი,  ムンバイ,  孟买,  孟買,  뭄바이
+Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이
 
 ---

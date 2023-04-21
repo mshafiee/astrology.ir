@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'19.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°40'13.06" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|12°57'56.07" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°32'20.30" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°2'23.04" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'47.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°7'6.16" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°40'13.64" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|12°57'58.62" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°32'23.38" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°2'27.36" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'53.46" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°25'22.92" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'19.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°40'13.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|12°57'56.07" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°32'20.30" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°2'23.04" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'47.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°7'6.16" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°40'13.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|12°57'58.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°32'23.38" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°2'27.36" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'53.46" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°25'22.92" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Chemulpo,  Incchon,  Inch'on,  Inch'ŏn,  Incheon,  Incheon-si,  Inchkhon,  Inchkhun,  Inchon,  Inchona,  Inconas,  Incono,  Incshon,  Intson,  Inĉono,  Inčchon,  Inčhona,  Inčonas,  JCN,  Nhan Xuyen,  Nhân Xuyên,  anchn,  antshwn,  aynchywn,  incevona,  incheon,  incheongwang-yeogsi,  incheonsi,  inkiyon,  ren chuan guang yu shi,  xin chxn,  İncheon,  Ίντσον,  Інчхон,  Инчон,  Инчхон,  Инчхън,  אינצ'ון,  إنتشون,  انچن,  اینچئون,  इंचेवॉन,  இங்கியோன்,  อินช็อน,  仁川广域市,  仁川広域市,  仁川廣域市,  인천,  인천광역시,  인천시
+Alternate Names: Chemulpo, Incchon, Inch'on, Inch'ŏn, Incheon, Incheon-si, Inchkhon, Inchkhun, Inchon, Inchona, Incon, Inconas, Incshon, Intson, Inĉon, Inčchon, Inčhona, Inčonas, JCN, Nhan Xuyen, Nhân Xuyên, anchn, antshwn, aynchywn, incevona, incheon, incheongwang-yeogsi, incheonsi, inkiyon, ren chuan guang yu shi, xin chxn, İncheon, Ίντσον, Інчхон, Инчон, Инчхон, Инчхън, אינצ'ון, إنتشون, انچن, اینچئون, इंचेवॉन, இங்கியோன், อินช็อน, 仁川广域市, 仁川広域市, 仁川廣域市, 인천, 인천광역시, 인천시
 
 ---

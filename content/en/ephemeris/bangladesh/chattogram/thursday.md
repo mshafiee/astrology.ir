@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°31'53.51" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°41'47.50" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°1'25.25" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°38'31.46" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°9'47.93" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'30.41" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°19'14.61" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°38'44.50" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°9'53.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'46.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°49'36.46" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°31'53.51" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°41'47.50" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°1'25.25" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°38'31.46" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°9'47.93" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'30.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°19'14.61" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|29°38'44.50" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°9'53.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'46.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°49'36.46" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: CGP,  Cattagram,  Caṭṭagrām,  Cetagons,  Chattogram,  Chitagong,  Chittagong,  Chittagong Ghat,  Chottogram,  Chôţţogram,  Citagaon,  Citagong,  Citagonga,  Citagongas,  Citagongo,  Cittaqonq,  Cottogram,  Csittagong,  Islamabad,  Tsitankon'nk,  catagamva,  cattagrama,  chitagong,  chittagon,  chytagwng,  cirragean,  cit ta kxng,  citagonga,  cittagang,  cittagonga,  cittakon,  ji da gang,  ji da gang shi,  shytaghwngh,  shytajwnj,  zytgwng,  Çitagong,  Çittaqonq,  Ćottogram,  Ĉitagongo,  Čattagrám,  Čitagonga,  Čitagongas,  Čitágáon,  Čėtagons,  Τσιταγκόνγκ,  Читагонг,  Читтагонг,  Читтаґонґ,  טשיטאגאנג,  ציטגונג,  شيتاجونج,  شيتاغونغ,  چٹاگانگ,  چیتاگونگ,  चटगाँव,  चट्टग्राम,  चिटागोंग,  চট্টগ্রাম,  ચિત્તાગોંગ,  சிட்டகொங்,  చిట్టగాంగ్,  ಚಿತ್ತಗಾಂಗ್,  ചിറ്റഗോങ്,  จิตตะกอง,  စစ်တကောင်းမြို့,  ჩიტაგონგი,  チッタゴン,  吉大港,  吉大港市,  치타공
+Alternate Names: CGP, Cattagram, Caṭṭagrām, Cetagons, Chattogram, Chitagong, Chittagong, Chittagong Ghat, Chottogram, Chôţţogram, Citagaon, Citagong, Citagonga, Citagongas, Citagongo, Cittaqonq, Cottogram, Csittagong, Islamabad, Tsitankon'nk, catagamva, cattagrama, chitagong, chittagon, chytagwng, cirragean, cit ta kxng, citagonga, cittagang, cittagonga, cittakon, ji da gang, ji da gang shi, shytaghwngh, shytajwnj, zytgwng, Çitagong, Çittaqonq, Ćottogram, Ĉitagongo, Čattagrám, Čitagonga, Čitagongas, Čitágáon, Čėtagons, Τσιταγκόνγκ, Читагонг, Читтагонг, Читтаґонґ, טשיטאגאנג, ציטגונג, شيتاجونج, شيتاغونغ, چٹاگانگ, چیتاگونگ, चटगाँव, चट्टग्राम, चिटागोंग, চট্টগ্রাম, ચિત્તાગોંગ, சிட்டகொங், చిట్టగాంగ్, ಚಿತ್ತಗಾಂಗ್, ചിറ്റഗോങ്, จิตตะกอง, စစ်တကောင်းမြို့, ჩიტაგონგი, チッタゴン, 吉大港, 吉大港市, 치타공
 
 ---

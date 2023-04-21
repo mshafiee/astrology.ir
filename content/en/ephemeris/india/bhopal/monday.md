@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'5.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°39'58.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°11'32.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°35'12.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°47'2.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°17'29.36" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°5'33.07" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°39'58.18" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°11'33.26" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°35'12.91" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°47'1.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°17'30.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°52'58.92" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°39'58.19" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°11'32.63" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°35'12.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°47'0.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°17'30.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°48'15.49" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°47'1.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°17'30.33" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°52'58.92" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BHO,  Bhojpal,  Bhopal,  Bhopala,  Bhopalas,  Bhopalo,  Bhopál,  Bhopāl,  Bhopāla,  Bhópál,  Bkhapal,  Bkhopal,  Bopal,  Bópal,  bhopal,  bhopala,  bo pa er,  bopal,  boparu,  bwbal,  bwpal,  popal,  Μποπάλ,  Бопал,  Бхапал,  Бхопал,  בופאל,  بوبال,  بوپال,  بھوپال,  بہوپال,  भोपाल,  भोपाळ,  ভোপাল,  ਭੋਪਾਲ,  ભોપાલ,  ଭୋପାଳ,  போபால்,  భోపాల్,  ಭೊಪಾಲ್,  ഭോപ്പാൽ,  ბჰოპალი,  ボパール,  ボーパール,  博帕尔,  보팔
+Alternate Names: BHO, Bhojpal, Bhopal, Bhopala, Bhopalas, Bhopalo, Bhopál, Bhopāl, Bhopāla, Bhópál, Bkhapal, Bkhopal, Bopal, Bópal, bhopal, bhopala, bo pa er, bopal, boparu, bwbal, bwpal, popal, Μποπάλ, Бопал, Бхапал, Бхопал, בופאל, بوبال, بوپال, بھوپال, بہوپال, भोपाल, भोपाळ, ভোপাল, ਭੋਪਾਲ, ભોપાલ, ଭୋପାଳ, போபால், భోపాల్, ಭೊಪಾಲ್, ഭോപ്പാൽ, ბჰოპალი, ボパール, ボーパール, 博帕尔, 보팔
 
 ---

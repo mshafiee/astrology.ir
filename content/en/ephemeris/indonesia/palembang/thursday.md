@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'47.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°41'29.76" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°0'45.40" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°37'32.97" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°8'28.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'38.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°45'32.39" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°41'29.80" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°0'45.62" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°37'33.17" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°8'29.07" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'39.14" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°46'42.05" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'47.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°41'29.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°0'45.40" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°37'32.97" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°8'28.74" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'35.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°24'14.74" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°41'29.80" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°0'45.62" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°37'33.17" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°8'29.07" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'39.14" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°46'42.05" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Kota Palembang,  Kutha Palembang,  PLM,  Palembang,  Palembangas,  Palempan'nk,  Palimbao,  Palimbão,  Palèmbang,  balymbanj,  ju gang,  pa lem bang,  palembanga,  pallembang,  palmbang,  palymbang,  parenban,  Παλεμπάνγκ,  Палембанг,  باليمبانج,  پالمبانگ,  پالم
+Alternate Names: Kota Palembang, Kutha Palembang, PLM, Palembang, Palembangas, Palempan'nk, Palimbao, Palimbão, Palèmbang, balymbanj, ju gang, pa lem bang, palembanga, pallembang, palmbang, palymbang, parenban, Παλεμπάνγκ, Палембанг, باليمبانج, پالمبانگ, پالم‌بانگ, پالیمبانگ, पालेंबांग, ปาเล็มบัง, パレンバン, 巨港, 팔렘방
 
 ---

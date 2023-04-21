@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'19.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°37'43.30" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°6'29.00" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°26'3.89" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°36'19.49" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'41.77" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°45'57.50" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°37'43.29" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°6'29.69" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°26'3.86" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°36'20.25" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'42.10" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°51'5.33" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: FUK,  Fucuoca,  Fukuoka,  Fukuoka-shi,  Fukuokashi,  Fukuoko,  Hukuoka,  fu gang,  fu gang shi,  fukuoka,  fukuokashi,  fwkwka,  hukuoka si,  Фукуока,  فوكوكا,  ふくおか,  ふくおかし,  フクオカ,  フクオカシ,  福岡,  福岡市,  후쿠오카 시
+Alternate Names: FUK, Fucuoca, Fukuoka, Fukuoka-shi, Fukuokashi, Hukuoka, fu gang, fu gang shi, fukuoka, fukuokashi, fwkwka, hukuoka si, Фукуока, فوكوكا, ふくおか, ふくおかし, フクオカ, フクオカシ, 福岡, 福岡市, 후쿠오카 시
 
 ---

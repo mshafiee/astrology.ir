@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'32.44" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°26'36.25" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°41'28.89" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°40'50.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°43'27.48" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'50.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°59'38.07" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°26'36.27" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°41'28.98" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°40'51.11" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°43'27.64" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'50.41" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°0'41.02" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'32.44" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°26'36.25" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°41'28.89" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°40'50.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°43'27.48" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'50.18" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°59'38.07" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°26'36.27" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°41'28.98" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°40'51.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°43'27.64" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'50.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°0'41.02" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ecbatana,  HDM,  Hamadan,  Hamadān,  Hamedan,  Hamedān,  Khamadan,  hmdan,  Хамадан,  همدان
+Alternate Names: Ecbatana, HDM, Hamadan, Hamadān, Hamedan, Hamedān, Khamadan, hmdan, Хамадан, همدان
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'58.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'59.07" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°39'46.87" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°48'33.09" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°32'1.04" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'12.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°30'34.41" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'0.60" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°39'42.99" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°48'42.34" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°32'1.95" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'22.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°18'45.60" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'58.60" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'59.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°39'46.87" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°48'33.09" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°32'1.04" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'12.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°30'34.41" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°59'0.61" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°39'43.20" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°48'42.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°32'1.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'22.89" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°18'45.60" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Arare,  Charare,  HRE,  Harare,  Hararensis Urbs,  Harareo,  Hararė,  Kharare,  Kharareh,  Salisbury,  ha la lei,  halale,  harare,  harary,  hrarh,  hrary,  Χαράρε,  Хараре,  Харарэ,  Հարարե,  הארארה,  هارارى,  هراره,  هراري,  ھارارې,  ھەرارێ,  ہرارے,  हरारे,  ਹਰਾਰੇ,  ହାରାରେ,  ஹராரே,  ฮาราเร,  ཧ་ར་རི།,  ჰარარე,  ሀራሬ,  ハラレ,  哈拉雷,  하라레
+Alternate Names: Arare, Charare, HRE, Harare, Hararensis Urbs, Harareo, Hararė, Kharare, Kharareh, Salisbury, ha la lei, halale, harare, harary, hrarh, hrary, Χαράρε, Хараре, Харарэ, Հարարե, הארארה, هارارى, هراره, هراري, ھارارې, ھەرارێ, ہرارے, हरारे, ਹਰਾਰੇ, ହାରାରେ, ஹராரே, ฮาราเร, ཧ་ར་རི།, ჰარარე, ሀራሬ, ハラレ, 哈拉雷, 하라레
 
 ---

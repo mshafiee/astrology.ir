@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°51'17.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°37'37.70" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°6'14.69" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°25'41.00" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°35'50.93" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°19'45.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°25'36.33" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°51'17.80" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°37'37.71" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°6'17.16" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°25'41.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°35'53.70" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°19'46.87" |Aries|Butain|Sun|
+|☾ Moon|Direct|18°44'28.99" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'17.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°37'37.70" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°6'14.69" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°25'41.00" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°35'50.93" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'45.48" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°25'36.33" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|24°37'37.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°6'16.54" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°25'41.31" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°35'53.16" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'46.93" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°40'41.40" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Chirosima,  HIJ,  Hiroshima,  Hiroshima-shi,  Hiroshimashi,  Hirosima,  Hirosimo,  Hiroszima,  Hiroxima,  Hiroxima - guang dao shi,  Hiroxima - 広島市,  Hiroŝimo,  Hiroşima,  Hirošima,  Hiroșima,  Khiroshima,  Khirosima,  canghwad hi roa chi ma,  guang dao,  guang dao shi,  hi ro chi ma,  hilosima si,  hiroshima,  hiroshimashi,  hirosima,  hyrwshyma,  hyrwsymh,  Χιροσίμα,  Хиросима,  Хирошима,  Хіросіма,  הירושימה,  هيروشيما,  هیروشیما,  हिरोशिमा,  จังหวัดฮิโระชิมะ,  ฮิโรชิมา,  ჰიროსიმა,  ჰიროშიმა,  ひろしま,  ひろしまし,  ヒロシマ,  ヒロシマシ,  広島,  広島市,  廣島市,  히로시마 시
+Alternate Names: Chirosima, HIJ, Hiroshima, Hiroshima-shi, Hiroshimashi, Hirosima, Hirosimo, Hiroszima, Hiroxima, Hiroxima - guang dao shi, Hiroxima - 広島市, Hiroŝimo, Hiroşima, Hirošima, Hiroșima, Khiroshima, Khirosima, canghwad hi roa chi ma, guang dao, guang dao shi, hi ro chi ma, hilosima si, hiroshima, hiroshimashi, hirosima, hyrwshyma, hyrwsymh, Χιροσίμα, Хиросима, Хирошима, Хіросіма, הירושימה, هيروشيما, هیروشیما, हिरोशिमा, จังหวัดฮิโระชิมะ, ฮิโรชิมา, ჰიროსიმა, ჰიროშიმა, ひろしま, ひろしまし, ヒロシマ, ヒロシマシ, 広島, 広島市, 廣島市, 히로시마 시
 
 ---

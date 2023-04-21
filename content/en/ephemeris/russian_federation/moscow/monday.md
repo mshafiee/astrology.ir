@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°13'48.10" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°39'14.36" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°51'44.53" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°16'20.70" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°21'20.48" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Retrograde|15°16'19.32" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°16'41.53" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°52'25.46" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°40'57.84" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°13'48.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°39'18.31" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°51'50.60" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'28.36" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°1'5.88" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°39'14.36" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°51'44.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'20.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°21'20.48" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MOW,  Maeskuy,  Maskav,  Maskava,  Maskva,  Mat-xco-va,  Matxcova,  Matxcơva,  Mosca,  Moscfa,  Moscha,  Mosco,  Moscou,  Moscova,  Moscovo,  Moscow,  Moscoƿ,  Moscu,  Moscua,  Moscòu,  Moscó,  Moscù,  Moscú,  Moskva,  Moska,  Moskau,  Mosko,  Moskokh,  Moskou,  Moskov,  Moskova,  Moskovu,  Moskow,  Moskowa,  Mosku,  Moskuas,  Moskva,  Moskve,  Moskvo,  Moskvy,  Moskwa,  Moszkva,  Muskav,  Musko,  Mát-xcơ-va,  Mòskwa,  Məskeu,  Məskəү,  masko,  maskw,  mo si ke,  moseukeuba,  mosko,  mosukuwa,  mskw,  mwskva,  mwskw,  mwsqbh,  mx s ko,  Μόσχα,  Мæскуы,  Маскав,  Масква,  Москва,  Москве,  Москвы,  Москова,  Москох,  Москъва,  Мускав,  Муско,  Мәскеу,  Мәскәү,  Մոսկվա,  מאָסקװע,  מאסקווע,  מוסקבה,  ماسکو,  مسکو,  موسكو,  موسكۋا,  ܡܘܣܩܒܐ,  मास्को,  मॉस्को,  মস্কো,  மாஸ்கோ,  มอสโก,  མོ་སི་ཁོ།,  მოსკოვი,  ሞስኮ,  モスクワ,  莫斯科,  모스크바
+Alternate Names: MOW, Maeskuy, Maskav, Maskava, Maskva, Mat-xco-va, Matxcova, Matxcơva, Mosca, Moscfa, Moscha, Mosco, Moscou, Moscova, Moscovo, Moscow, Moscoƿ, Moscu, Moscua, Moscòu, Moscó, Moscù, Moscú, Moskva, Moska, Moskau, Mosko, Moskokh, Moskou, Moskov, Moskova, Moskovu, Moskow, Moskowa, Mosku, Moskuas, Moskva, Moskvo, Moskwa, Moszkva, Muskav, Musko, Mát-xcơ-va, Mòskwa, Məskeu, Məskəү, masko, maskw, mo si ke, moseukeuba, mosko, mosukuwa, mskw, mwskva, mwskw, mwsqbh, mx s ko, Μόσχα, Мæскуы, Маскав, Масква, Москва, Москова, Москох, Москъва, Мускав, Муско, Мәскеу, Мәскәү, Մոսկվա, מאָסקװע, מאסקווע, מוסקבה, ماسکو, مسکو, موسكو, موسكۋا, ܡܘܣܩܒܐ, मास्को, मॉस्को, মস্কো, மாஸ்கோ, มอสโก, མོ་སི་ཁོ།, მოსკოვი, ሞስኮ, モスクワ, 莫斯科, 모스크바
 
 ---

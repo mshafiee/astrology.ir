@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°47'36.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°26'46.90" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°41'58.11" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°41'32.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°44'23.29" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'38.95" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°16'54.85" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°47'36.08" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°26'46.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°41'51.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°41'31.72" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°44'15.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'33.68" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°32'37.03" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Al Hilla,  Al Hillah,  Al Ḩillah,  Al'-Khilla,  Al-Hella,  Hilah,  Hilla,  Hille,  Hillé,  alhlt,  Аль-Хилла,  الحلة
+Alternate Names: Al Hilla, Al Hillah, Al Ḩillah, Al'-Khilla, Al-Hella, Hilah, Hilla, Hille, Hillé, alhlt, Аль-Хилла, الحلة
 
 ---

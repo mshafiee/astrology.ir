@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°31'7.16" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°51'36.76" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°59'13.65" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°4'45.85" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°25'12.62" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°7'45.15" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|14°4'55.54" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'36.74" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°16'41.79" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°49'3.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'4.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°51'35.96" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°58'57.21" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°4'45.85" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°25'12.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°7'45.15" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°49'5.02" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°31'7.16" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°51'36.76" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°59'13.65" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°4'55.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°25'36.74" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°16'41.79" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CWB,  Corityba,  Curitiba,  Curityba,  Curytiba,  Kouritiba,  Kouritimpa,  Kuritib,  Kuritiba,  Kuritibae,  Kuritibo,  Kuritiwa,  Kuritiyba,  Kuriytyva,  Kuriytýva,  Kuriṭiba,  Kuryciba,  Kurytyba,  Kùrìtíbà,  gu li ti ba,  ku li qi ba,  ku ri ti ba,  kulichiba,  kurichiba,  kuritcibas,  kuritiba,  kuritipe,  kwrytyba,  qwrytybh,  Κουριτίμπα,  Коуритиба,  Куритибæ,  Куритиба,  Курытыба,  Курыціба,  Կուրիտիբա,  קוריטיבא,  קוריטיבה,  كوريتيبا,  کوریتیبا,  ܩܘܪܝܛܝܒܐ,  कुरितिबा,  কুরিটিবা,  কুরিতিবা,  ਕੁਰੀਤੀਬਾ,  குரிடிபே,  కురితీబా,  ಕುರಿಟಿಬ,  กูรีตีบา,  კურიტიბა,  ኩሪቺባ,  ᎫᎵᏘᎦ,  クリチバ,  古里提巴,  庫里奇巴,  쿠리치바,  𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰
+Alternate Names: CWB, Corityba, Curitiba, Curityba, Curytiba, Kouritiba, Kouritimpa, Kuritib, Kuritiba, Kuritibae, Kuritibo, Kuritiwa, Kuritiyba, Kuriytyva, Kuriytýva, Kuriṭiba, Kuryciba, Kurytyba, Kùrìtíbà, gu li ti ba, ku li qi ba, ku ri ti ba, kulichiba, kurichiba, kuritcibas, kuritiba, kuritipe, kwrytyba, qwrytybh, Κουριτίμπα, Коуритиба, Куритибæ, Куритиба, Курытыба, Курыціба, Կուրիտիբա, קוריטיבא, קוריטיבה, كوريتيبا, کوریتیبا, ܩܘܪܝܛܝܒܐ, कुरितिबा, কুরিটিবা, কুরিতিবা, ਕੁਰੀਤੀਬਾ, குரிடிபே, కురితీబా, ಕುರಿಟಿಬ, กูรีตีบา, კურიტიბა, ኩሪቺባ, ᎫᎵᏘᎦ, クリチバ, 古里提巴, 庫里奇巴, 쿠리치바, 𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰
 
 ---

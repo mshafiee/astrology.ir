@@ -20,7 +20,7 @@ Latitude: 30.0094
 \-
 Longitude: 31.2086
 \-
-Altitude: 19 meters
+Altitude: 26 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Giza, Egypt" lat="30.0094" lng="31.2086" zoom="12">}}
 
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'50.45" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°12'57.65" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°10'53.67" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°45'23.22" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°38'31.03" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'33.61" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°48'31.78" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|14°10'53.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°45'23.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°38'30.83" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'37.93" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°47'11.00" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al Jizah,  Al Jīzah,  El Gizeh,  El-Giza,  El-Gîza,  Ghizeh,  Giza,  Gizah,  Gize,  Gizeh,  Gizo,  Gizé,  Guiza,  Gíza,  Gîza,  SPX,  aljyzt,  giza,  jyzh,  Гиза,  الجيزة,  جیزه,  ギーザ
+Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ
 
 ---

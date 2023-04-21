@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°42'39.25" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°17'35.45" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°46'8.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°59'45.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'42.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°11'39.84" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|14°59'45.31" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'42.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°8'31.50" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°52'59.79" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°42'39.25" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°17'35.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°45'59.37" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°59'44.49" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'30.63" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°11'54.12" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°46'8.51" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°59'45.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'42.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°11'39.84" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MIU,  Maidiguri,  Maidugari,  Maiduguri,  Maiduguris,  Majduguri,  mai du gu li,  maidouguri,  maiduguli,  maydwghwry,  maydwgwrw,  maydwjwry,  mydghry,  mydwgwry,  Маидугури,  Майдугури,  Майдугурі,  מידוגורי,  مايدوجوري,  مايدوغوري,  مايدوگورو,  ميدغري,  マイドゥグリ,  邁杜古里,  마이두구리
+Alternate Names: MIU, Maidiguri, Maidugari, Maiduguri, Maiduguris, Majduguri, mai du gu li, maido~uguri, maiduguli, maydwghwry, maydwgwrw, maydwjwry, mydghry, mydwgwry, Маидугури, Майдугури, Майдугурі, מידוגורי, مايدوجوري, مايدوغوري, مايدوگورو, ميدغري, マイドゥグリ, 邁杜古里, 마이두구리
 
 ---

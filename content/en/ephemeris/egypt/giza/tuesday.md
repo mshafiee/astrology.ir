@@ -20,7 +20,7 @@ Latitude: 30.0094
 \-
 Longitude: 31.2086
 \-
-Altitude: 19 meters
+Altitude: 26 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Giza, Egypt" lat="30.0094" lng="31.2086" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'30.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'4.63" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°48'1.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°40'44.16" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°3'36.89" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'48.38" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°0'5.73" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°56'5.48" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°47'57.28" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°40'49.11" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°3'35.21" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'54.14" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°32'54.66" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'30.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°56'4.63" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°48'1.08" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°40'44.16" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°3'36.89" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'48.38" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°0'5.73" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°56'5.48" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°47'57.28" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°40'49.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°3'35.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'54.14" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°32'54.66" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Al Jizah,  Al Jīzah,  El Gizeh,  El-Giza,  El-Gîza,  Ghizeh,  Giza,  Gizah,  Gize,  Gizeh,  Gizo,  Gizé,  Guiza,  Gíza,  Gîza,  SPX,  aljyzt,  giza,  jyzh,  Гиза,  الجيزة,  جیزه,  ギーザ
+Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ
 
 ---

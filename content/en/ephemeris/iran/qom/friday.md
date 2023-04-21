@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'31.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'42.39" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°36'49.80" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°43'22.89" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°25'49.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'6.79" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°27'57.11" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°57'42.78" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°36'50.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°43'25.10" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°25'51.66" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'10.22" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°43'0.45" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Dakbayan sa Qom,  Ghom,  Homo,  Kom,  Kum,  Kum shaary,  Kumas,  QUM,  Qom,  Qum,  Qûm,  gomu,  koma,  ku mu,  kum,  kuvom,  qm,  qwm,  Ĥomo,  Ком,  Кум,  Кум шаары,  Қум,  קום,  قم,  قوم,  कोम,  குவோம்,  ゴム,  库姆,  쿰
+Alternate Names: Dakbayan sa Qom, Ghom, Homo, Kom, Kum, Kum shaary, Kumas, QUM, Qom, Qum, Qûm, gomu, koma, ku mu, kum, kuvom, qm, qwm, Ĥomo, Ком, Кум, Кум шаары, Қум, קום, قم, قوم, कोम, குவோம், ゴム, 库姆, 쿰
 
 ---

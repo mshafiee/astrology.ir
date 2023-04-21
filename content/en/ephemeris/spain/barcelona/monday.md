@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'1.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°42'42.38" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°17'39.82" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°46'18.94" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°59'56.44" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'23.06" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°6'49.10" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°42'43.13" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°17'44.97" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°46'23.34" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°0'4.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'32.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°1'31.89" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -306,7 +306,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Mars|Mars|Mars|Mars|
 |♂ Mars|Venus|Venus|Venus|Mars|
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
-|♀ Venus|Jupiter|Mercury|Mercury|Mercury|
+|♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
 |☾ Moon|Saturn|Saturn|Saturn|Venus|
 
@@ -317,9 +317,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♂ Mars|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
-|♀ Venus|Saturn|Venus|Libra|Moon|Venus|
+|♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'1.05" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'42.38" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°17'39.82" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°46'18.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°59'56.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'23.06" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°6'49.10" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°42'43.13" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°17'44.97" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°46'23.34" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°0'4.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'32.28" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°0'22.77" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -356,9 +356,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Saturn|Mars|Capricorn|Moon|Saturn|
 |♂ Mars|Mars|Mars|Capricorn|Sun|Mars|
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
-|♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
+|♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BCN,  Barcellona,  Barcellonn-a,  Barcelona,  Barcelone,  Barcelono,  Barceluna,  Barcelůna,  Barcełona,  Barcillona,  Barcino,  Barkelone,  Barseloana,  Barselon,  Barselona,  Barselonae,  Barselono,  Barseluna,  Barseluona,  Barselóna,  Barslon-a,  Barsélona,  Bartzellona,  Bartzelona,  Barzelona,  Barçellonn-a,  Barċellona,  Baselona,  Lungsod ng Barcelona,  ba sa long na,  ba sai long na,  ba sai luo na,  baleusellona,  balsaleana,  bar se lon a,  barasilona,  barselona,  barsilona,  barslwn,  barslwna,  barsylwna,  barsێlۆna,  baruserona,  brshlwnt,  brshlwnہ,  brzlwnh,  la Ciudad Condal,  parcelona,  Βαρκελώνη,  Барселон,  Барселонæ,  Барселона,  Барселоно,  Բարսելոնա,  בארצעלאנע,  ברצלונה,  بارسلون,  بارسلونا,  بارسیلونا,  بارسێلۆنا,  برشلونة,  برشلونہ,  बार्सिलोना,  बार्सेलोना,  বার্সেলোনা,  ਬਾਰਸੀਲੋਨਾ,  பார்செலோனா,  ബാഴ്സലോണ,  บาร์เซโลนา,  ບາກເຊໂລນ,  བྷར་སེ་ལོ་ནཱ།,  ဘာစီလိုနာမြို့,  ბარსელონა,  ባርሴሎና,  バルセロナ,  巴塞罗那,  巴塞隆納,  巴薩隆拿,  바르셀로나
+Alternate Names: BCN, Barcellona, Barcellonn-a, Barcelona, Barcelone, Barcelono, Barceluna, Barcelůna, Barcełona, Barcillona, Barcino, Barkelone, Barseloana, Barselon, Barselona, Barselonae, Barselono, Barseluna, Barseluona, Barselóna, Barslon-a, Barsélona, Bartzellona, Bartzelona, Barzelona, Barçellonn-a, Barċellona, Lungsod ng Barcelona, ba sa long na, ba sai luo na, baleusellona, balsaleana, bar se lon a, barasilona, barselona, barsilona, barslwn, barslwna, barsylwna, barsێlۆna, baruserona, brshlwnt, brshlwnہ, brzlwnh, la Ciudad Condal, parcelona, Βαρκελώνη, Барселон, Барселонæ, Барселона, Барселоно, Բարսելոնա, בארצעלאנע, ברצלונה, بارسلون, بارسلونا, بارسیلونا, بارسێلۆنا, برشلونة, برشلونہ, बार्सिलोना, बार्सेलोना, বার্সেলোনা, ਬਾਰਸੀਲੋਨਾ, பார்செலோனா, ബാഴ്സലോണ, บาร์เซโลนา, ບາກເຊໂລນ, བྷར་སེ་ལོ་ནཱ།, ဘာစီလိုနာမြို့, ბარსელონა, ባርሴሎና, バルセロナ, 巴塞罗那, 巴薩隆拿, 바르셀로나
 
 ---

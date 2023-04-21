@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'10.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°52'6.09" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°38'55.94" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°24'34.45" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°44'38.66" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°3'17.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°7'25.54" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°52'4.85" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°38'51.18" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°24'27.20" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°44'29.40" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°3'4.54" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°9'35.71" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'10.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°52'6.09" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°38'55.94" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°24'34.45" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°44'38.66" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°3'17.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°7'25.54" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°52'4.85" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°38'51.18" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°24'27.20" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°44'29.40" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°3'4.54" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°9'35.71" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: USN,  Ul'san,  Ulsan,  Ulsan-si,  Ulsano,  Urusan,  ulsan,  ulsangwang-yeogsi,  ulsansi,  wei shan,  wei shan guang yu shi,  Ульсан,  蔚山,  蔚山広域市,  울산,  울산광역시,  울산시
+Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시
 
 ---

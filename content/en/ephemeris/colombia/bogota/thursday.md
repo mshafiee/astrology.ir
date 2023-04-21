@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'18.71" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'36.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°16'33.74" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°6'26.63" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°42'25.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'1.75" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°29'3.24" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'33.72" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°16'31.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°6'10.04" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°42'14.69" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'38.77" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°38'56.29" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'18.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'36.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°16'33.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°6'26.63" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°42'25.84" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'1.75" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°29'3.24" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|23°48'33.72" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°16'31.78" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°6'10.04" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°42'14.69" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°34'38.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°38'56.29" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BOG,  Bagata,  Bogot,  Bogota,  Bogoto,  Bogotà,  Bogotá,  Boqota,  Buoguota,  Bógóta,  Mponkota,  Santa-Fe-de-Bogota,  Santafe de Bogota,  Santafe de Bogotá,  Santafé de Bogotá,  Wukuta,  beageatta,  bo ge da,  bogota,  bokota,  bwghwta,  bwgwta,  bwgwth,  bwjwta,  pokotta,  Μπογκοτά,  Багата,  Богота,  Боґота,  Санта-Фе-де-Богота,  Բոգոտա,  באגאטא,  בוגוטה,  بوجوتا,  بوغوتا,  بوگوتا,  بگوٹا,  بۆگۆتا,  बोगोटा,  बोगोता,  বোগোতা,  ਬੋਗੋਤਾ,  ବୋଗୋଟା,  பொகோட்டா,  ಬೊಗೋಟ,  ബൊഗോട്ട,  โบโกตา,  པོ་གོ་ཏ,  ဘိုဂိုတာမြို့,  ბოგოტა,  ቦጎታ,  ទីក្រុងបូកូតា,  ボゴタ,  波哥大,  보고타
+Alternate Names: BOG, Bagata, Bogot, Bogota, Bogoto, Bogotà, Bogotá, Boqota, Buoguota, Bógóta, Mponkota, Santa-Fe-de-Bogota, Santafe de Bogota, Santafe de Bogotá, Santafé de Bogotá, Wukuta, beageatta, bo ge da, bogota, bokota, bwghwta, bwgwta, bwgwth, bwjwta, pokotta, Μπογκοτά, Багата, Богота, Боґота, Санта-Фе-де-Богота, Բոգոտա, באגאטא, בוגוטה, بوجوتا, بوغوتا, بوگوتا, بگوٹا, بۆگۆتا, बोगोटा, बोगोता, বোগোতা, ਬੋਗੋਤਾ, ବୋଗୋଟା, பொகோட்டா, ಬೊಗೋಟ, ബൊഗോട്ട, โบโกตา, པོ་གོ་ཏ, ဘိုဂိုတာမြို့, ბოგოტა, ቦጎታ, ទីក្រុងបូកូតា, ボゴタ, 波哥大, 보고타
 
 ---

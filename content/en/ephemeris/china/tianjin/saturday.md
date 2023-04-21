@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'36.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°9'23.32" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°2'51.80" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°30'51.07" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°21'27.09" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'26.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°57'45.27" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°9'23.80" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°2'55.64" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°30'53.72" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°21'32.66" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'32.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°26'46.47" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'36.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°9'23.32" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°2'51.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°30'51.07" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°21'27.09" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'26.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°57'45.27" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°9'23.80" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°2'55.64" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°30'53.72" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°21'32.66" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'32.89" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°26'46.47" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: T'ien-chin,  T'ien-ching,  T'ien-ching-shih,  TSN,  Tchien-tin,  Tchien-ťin,  Tehnd'iin,  Thien Tan,  Thien-tsin,  Thiên Tân,  Thiên-tsîn,  Tiandzinas,  Tianjin,  Tianjin Shi,  Tianjing,  Tianjín,  Tiantzin,  Tiencin,  Tiencsin,  Tiendzin,  Tientsin,  Tiençin,  Tjan'czin',  Tjandzina,  Tjangino,  Tjanĝino,  Tjaņdziņa,  Tjencin,  Tyantszin,  T’ien-chin,  T’ien-ching,  T’ien-ching-shih,  cheonjin,  theiyn cin,  ti'anjina,  tian jin,  tian jin shi,  tiyanjin,  tyanjina,  tyanjn,  tyanjyn,  tyenjin si,  tyyng'yn,  Τιαντζίν,  Тиендзин,  Тэндьиин,  Тяньцзинь,  Тяньцзінь,  Тјенцин,  טיינג'ין,  تيانجين,  تيەنجىن شەھىرى,  تیانجن,  تیانجین,  तिआंजिन,  त्यांजिन,  ਤਿਆਂਜਿਨ,  தியான்ஜின்,  ടിയാൻജിൻ,  เทียนจิน,  ཐན་ཅིན ་གྲོང་ཁྱེར།,  ထျန်းကျင်းမြို့,  ტიანძინი,  天津,  天津市,  천진,  톈진 시
+Alternate Names: T'ien-chin, T'ien-ching, T'ien-ching-shih, TSN, Tchien-tin, Tchien-ťin, Tehnd'iin, Thien Tan, Thien-tsin, Thiên Tân, Thiên-tsîn, Tiandzinas, Tianjin, Tianjin Shi, Tianjing, Tianjín, Tiantzin, Tiencin, Tiencsin, Tiendzin, Tientsin, Tiençin, Tjan'czin', Tjandzina, Tjangino, Tjanĝino, Tjaņdziņa, Tjencin, Tyantszin, T’ien-chin, T’ien-ching, T’ien-ching-shih, cheonjin, theiyn cin, ti'anjina, tian jin, tian jin shi, tiyanjin, tyanjina, tyanjn, tyanjyn, tyenjin si, tyyng'yn, Τιαντζίν, Тиендзин, Тэндьиин, Тяньцзинь, Тяньцзінь, Тјенцин, טיינג'ין, تيانجين, تيەنجىن شەھىرى, تیانجن, تیانجین, तिआंजिन, त्यांजिन, ਤਿਆਂਜਿਨ, தியான்ஜின், ടിയാൻജിൻ, เทียนจิน, ཐན་ཅིན ་གྲོང་ཁྱེར།, ထျန်းကျင်းမြို့, ტიანძინი, 天津, 天津市, 천진, 톈진 시
 
 ---

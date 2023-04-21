@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°47'1.65" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°25'6.32" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°38'6.64" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°34'46.29" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°36'22.48" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'53.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°4'24.10" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°34'45.75" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°36'19.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'51.80" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°47'1.96" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'1.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°25'6.44" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°38'9.14" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°34'46.29" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°36'22.48" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'53.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°4'24.10" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°25'6.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°38'6.64" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°34'45.75" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°36'19.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'51.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°47'1.96" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Khulna,  Khulnâ,  Kkhelna,  Kkhulna,  Kulna,  Kulno,  khulana,  khwlna,  ku er na shi,  kulna,  kuruna,  Кулна,  Кхелна,  Кхулна,  خولنا,  کھلنا,  खुलना,  খুলনা,  குல்னா,  クルナ,  库尔纳市,  쿨나
+Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나
 
 ---

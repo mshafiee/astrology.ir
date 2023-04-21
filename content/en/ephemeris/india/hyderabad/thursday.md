@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'6.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°42'20.76" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°2'37.61" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°40'56.61" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°12'29.71" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'49.35" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°17'49.07" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°42'22.64" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°2'43.14" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°41'7.37" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°12'41.41" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'6.84" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°26'31.19" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'6.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'20.76" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°2'37.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°40'56.61" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°12'29.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'49.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°17'49.07" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°42'22.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°2'43.14" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°41'7.37" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°12'41.41" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'6.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°26'31.19" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Bhaganagar,  HYD,  Haidarabadas,  Haiderabad,  Hajdarabad,  Hajdarábád,  Hyderabad,  Hyderābād,  Khajdarabad,  Khajderabad,  hai de la ba,  haidarabada,  haidarabadu,  haiderabado,  haitarapat,  hayadarabada ema. karporesana,  hayadrabada,  hydr abad,  hydr abad dkn,  hydrabad,  Хайдарабад,  Хајдерабад,  حیدر آباد,  حیدر آباد دکن,  حیدرآباد,  हैदराबाद,  হায়দরাবাদ এম. কর্পোরেশন,  হায়দ্রাবাদ,  ஹைதராபாத்,  హైదరాబాదు,  ハイデラバード,  海得拉巴
+Alternate Names: Bhaganagar, HYD, Haidarabadas, Haiderabad, Hajdarabad, Hajdarábád, Hyderabad, Hyderabad-Deccan, Hyderābād, Khajdarabad, Khajderabad, hai de la ba, haidarabada, haidarabadu, haiderabado, haitarapat, hayadarabada ema. karporesana, hayadrabada, hydr abad, hydr abad dkn, hydrabad, Хайдарабад, Хајдерабад, حیدر آباد, حیدر آباد دکن, حیدرآباد, हैदराबाद, হায়দরাবাদ এম. কর্পোরেশন, হায়দ্রাবাদ, ஹைதராபாத், హైదరాబాదు, ハイデラバード, 海得拉巴
 
 ---

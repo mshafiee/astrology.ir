@@ -292,10 +292,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'15.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°54'7.44" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°28'50.82" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°28'50.10" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°8'44.76" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°54'7.38" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°28'50.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°28'49.79" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°8'44.67" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'34.78" |Aries|Butain|Sun|
 |☾ Moon|Direct|9°20'39.90" |Aries|Sharatain|Mars|
 
@@ -331,10 +331,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'15.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°54'7.44" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°28'50.82" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°28'50.10" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°8'44.76" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|23°54'7.38" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°28'50.89" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°28'49.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°8'44.67" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°36'34.78" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|9°20'39.90" |Taurus|Dabaran|Mercury|
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Chiba,  Chiba-shi,  Chibashi,  Ciba,  QCB,  Tiba,  chiba,  chibashi,  jiba si,  qian ye,  qian ye shi,  tshyba,  Ĉiba,  Čiba,  Чиба,  تشيبا,  ちば,  ちばし,  チバ,  チバシ,  千葉,  千葉市,  지바 시
+Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시
 
 ---

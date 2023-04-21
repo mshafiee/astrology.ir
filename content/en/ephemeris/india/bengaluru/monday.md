@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°52'7.45" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°40'4.32" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°11'46.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°35'33.40" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°47'30.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°17'20.36" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°9'38.22" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°35'37.43" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°47'30.13" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°17'25.02" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°2'45.29" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BLR,  Ban'nkalor,  Bangalor,  Bangalora,  Bangalore,  Bangalore - bengaluru,  Bangalore - ಬೆಂಗಳೂರು,  Bangalore City,  Bangalur,  Bangaluri,  Bangalúr,  Bengalour,  Bengaluras,  Bengaluro,  Bengaluru,  Bengalurus,  Bengalúru,  Bengalūras,  Bengalūru,  baeng-geollo,  bagalaura,  ban jia luo er,  bang kha l xr,  bang-galloleu,  bangalaura,  bangalora,  bangalura,  bangaroru,  beng-gallulu,  bengalora,  bengaluru,  benguluru,  bnghalwr,  bnglwr,  bynglwr,  penkalur,  Μπανγκαλόρ,  Бангалор,  Бенгалуру,  Бенґалуру,  בנגלור,  بنغالور,  بنگلور,  بینگلور,  बंगलौर,  बंगळूर,  बेङ्गलूरु,  बेङ्गलोर,  बेङ्गळूरु,  বাঙ্গালোর,  বেঙ্গালুরু,  ਬੰਗਲੌਰ,  બેંગલોર,  ବେଙ୍ଗାଳୁରୁ,  பெங்களூர்,  బెంగుళూరు,  ಬೆಂಗಳೂರು,  ബെംഗളൂരു,  බැංගලෝර්,  บังคาลอร์,  ဘန်ဂလိုမြို့,  ბენგალურუ,  バンガロール,  班加罗尔,  班加羅爾,  방갈로르,  뱅걸로,  벵갈루루
+Alternate Names: BLR, Ban'nkalor, Bangalor, Bangalora, Bangalore, Bangalore - bengaluru, Bangalore - ಬೆಂಗಳೂರು, Bangalore City, Bangalur, Bangaluri, Bangalúr, Bengalour, Bengaluras, Bengaluro, Bengaluru, Bengalurus, Bengalúru, Bengalūras, Bengalūru, baeng-geollo, bagalaura, ban jia luo er, bang kha l xr, bang-galloleu, bangalaura, bangalora, bangalura, bangaroru, beng-gallulu, bengalora, bengaluru, benguluru, bnghalwr, bnglwr, bynglwr, penkalur, Μπανγκαλόρ, Бангалор, Бенгалуру, Бенґалуру, בנגלור, بنغالور, بنگلور, بینگلور, बंगलौर, बंगळूर, बेङ्गलूरु, बेङ्गलोर, बेङ्गळूरु, বাঙ্গালোর, বেঙ্গালুরু, ਬੰਗਲੌਰ, બેંગલોર, ବେଙ୍ଗାଳୁରୁ, பெங்களூர், బెంగుళూరు, ಬೆಂಗಳೂರು, ബെംഗളൂരു, බැංගලෝර්, บังคาลอร์, ဘန်ဂလိုမြို့, ბენგალურუ, バンガロール, 班加罗尔, 班加羅爾, 방갈로르, 뱅걸로, 벵갈루루
 
 ---

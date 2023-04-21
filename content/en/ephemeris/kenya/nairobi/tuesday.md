@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'32.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'10.98" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°48'15.62" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°41'9.89" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°4'7.17" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'38.88" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°5'30.32" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°56'12.39" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°48'12.29" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°41'17.96" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°4'7.64" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'29.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°47'2.90" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'32.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°56'12.39" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°48'12.29" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°41'9.89" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°4'7.17" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'38.88" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°5'30.32" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°56'10.07" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°48'13.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°41'4.43" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°4'2.00" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'29.57" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°36'57.00" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: NBO,  Nairoba,  Nairobi,  Nairobia,  Nairobis,  Nairobo,  Nairoby,  Nairobî,  Nairompi,  Nairòbi,  Nairóbi,  Najrobi,  Najrobo,  Nayrobi,  Nayroobi,  Naíróbí,  Naýrobi,  na'irobi,  nai luo bi,  nailobi,  nairobi,  nairopi,  nayreabi,  nayrwby,  nei luo bi,  nirobi,  nyrwby,  nyyrwby,  Ναϊρόμπι,  Найроби,  Найробі,  Најроби,  Նայրոբի,  נייראבי,  ניירובי,  نايروبى,  نایروبی,  نایرۆبی,  نيروبي,  نیروبی,  नैरोबी,  নাইরোবি,  ਨੈਰੋਬੀ,  நைரோபி,  ನೈರೋಬಿ,  നയ്റോബി,  ไนโรบี,  ནའི་རོ་བི།,  နိုင်ရိုဘီမြို့,  ნაირობი,  ናይሮቢ,  ナイロビ,  内罗毕,  奈洛比,  나이로비
+Alternate Names: NBO, Nairoba, Nairobi, Nairobia, Nairobis, Nairobo, Nairoby, Nairobî, Nairompi, Nairòbi, Nairóbi, Najrobi, Najrobo, Nayrobi, Nayroobi, Naíróbí, Naýrobi, na'irobi, nai luo bi, nailobi, nairobi, nairopi, nayreabi, nayrwby, nei luo bi, nirobi, nyrwby, nyyrwby, Ναϊρόμπι, Найроби, Найробі, Најроби, Նայրոբի, נייראבי, ניירובי, نايروبى, نایروبی, نایرۆبی, نيروبي, نیروبی, नैरोबी, নাইরোবি, ਨੈਰੋਬੀ, நைரோபி, ನೈರೋಬಿ, നയ്റോബി, ไนโรบี, ནའི་རོ་བི།, နိုင်ရိုဘီမြို့, ნაირობი, ናይሮቢ, ナイロビ, 内罗毕, 奈洛比, 나이로비
 
 ---

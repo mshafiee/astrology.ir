@@ -292,9 +292,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'53.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'45.73" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°39'17.03" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°47'39.16" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°58'46.14" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°39'12.15" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°47'42.14" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|11°30'53.92" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°37'14.38" |Aries|Butain|Sun|
 |☾ Moon|Direct|13°33'11.07" |Aries|Butain|Sun|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BEG,  Belehrad,  Belgrad,  Belgrada,  Belgradas,  Belgrade,  Belgrado,  Belgradu,  Belgrau,  Belgrað,  Belgrád,  Belgráu,  Beligradi,  Belogradum,  Belohrod,  Beograd,  Beogradi,  Beogrado,  Bèlgrade,  Bělehrad,  Běłohród,  Nandorfehervar,  Nándorfehérvár,  Singidunum,  be-ogeuladeu,  bei er ge lai de,  belgradi,  beogurado,  blghrad,  blgrd,  pelkiret,  Βελιγράδι,  Белград,  Београд,  Бѣлъ Градъ · Срьбїи,  Բելգրադ,  בלגרד,  بلغراد,  بېلگراد,  பெல்கிறேட்,  ბელგრადი,  በልግራድ,  ベオグラード,  贝尔格莱德,  베오그라드
+Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드
 
 ---

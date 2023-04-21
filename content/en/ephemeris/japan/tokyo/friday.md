@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°36'15.85" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°54'8.39" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°28'52.94" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°28'53.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°8'49.30" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'32.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°12'25.65" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°28'53.98" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°8'49.31" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'35.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°21'39.83" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|23°54'8.39" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°28'52.94" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°28'53.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°8'45.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'32.07" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°12'25.65" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|11°8'49.30" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'34.97" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°21'28.87" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Edo,  TYO,  Tochiu,  Tocio,  Tokija,  Tokijas,  Tokio,  Tokió,  Tokjo,  Tokyo,  Toquio,  Toquio - dong jing,  Toquio - 東京,  Tòquio,  Tókýó,  Tóquio,  Tōkyō,  dokyo,  dong jing,  dong jing dou,  dong-gyeong,  tokeiyw,  toki'o,  tokkiyo,  tokyo,  twkyw,  twqyw,  Τόκιο,  Токио,  Токё,  Токіо,  Տոկիո,  טוקיו,  توكيو,  توکیو,  طوكيو,  ܛܘܟܝܘ,  ܜܘܟܝܘ,  टोक्यो,  টোকিও,  டோக்கியோ,  โตเกียว,  ტოკიო,  东京,  東京,  東京都,  도쿄,  동경
+Alternate Names: Edo, TYO, Tochiu, Tocio, Tokija, Tokijas, Tokio, Tokió, Tokjo, Tokyo, Toquio, Toquio - dong jing, Toquio - 東京, Tòquio, Tókýó, Tóquio, Tōkyō, dokyo, dong jing, dong jing dou, dong-gyeong, tokeiyw, toki'o, tokkiyo, tokyo, twkyw, twqyw, Τόκιο, Токио, Токё, Токіо, Տոկիո, טוקיו, توكيو, توکیو, طوكيو, ܛܘܟܝܘ, ܜܘܟܝܘ, टोक्यो, টোকিও, டோக்கியோ, โตเกียว, ტოკიო, 东京, 東京, 東京都, 도쿄, 동경
 
 ---

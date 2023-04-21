@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°35'1.76" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°29'10.14" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°29'47.16" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'39.52" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°21'23.35" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°30'41.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°28'41.13" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SHA,  San'nkae,  Sanchajus,  Sangaj,  Sangay,  Sanghaj,  Sanghay,  Sanhaja,  Sanhajo,  Sanxay,  Schanghai,  Shang-hai,  Shang-hai-shih,  Shangai,  Shangaj,  Shanghai,  Shanghai - shang hai,  Shanghai - 上海,  Shankhaj,  Sjanghae,  Sjanghai,  Sjanghæ,  Szanghaj,  Thuong Hai,  Thượng Hải,  Xangai,  cankay,  sangha'i,  sanghae,  sanghai,  seiynghi,  shang hai,  shang hai shi,  shanghay,  shanghhay,  shanhai,  zhong guo shang hai,  Ŝanhajo,  Şangay,  Şanghay,  Şanxay,  Šanchajus,  Šangaj,  Šanghaj,  Šanhaja,  Σανγκάη,  Шангај,  Шанхай,  שאנגחאי,  شانغهاي,  شانگهای,  شاڭخەي,  شاڭخەي شەھىرى,  সাংঘাই,  சாங்காய்,  เซี่ยงไฮ้,  შანჰაი,  上海,  上海市,  中国上海,  상하이,  상해
+Alternate Names: SHA, San'nkae, Sanchajus, Sangaj, Sangay, Sanghaj, Sanghay, Sanhaja, Sanhajo, Sanxay, Schanghai, Shang-hai, Shang-hai-shih, Shangai, Shangaj, Shanghai, Shanghai - shang hai, Shanghai - 上海, Shankhaj, Sjanghae, Sjanghai, Sjanghæ, Szanghaj, Thuong Hai, Thượng Hải, Xangai, cankay, sangha'i, sanghae, sanghai, seiynghi, shang hai, shang hai shi, shanghay, shanghhay, shanhai, zhong guo shang hai, Ŝanhajo, Şangay, Şanghay, Şanxay, Šanchajus, Šangaj, Šanghaj, Šanhaja, Σανγκάη, Шангај, Шанхай, שאנגחאי, شانغهاي, شانگهای, شاڭخەي, شاڭخەي شەھىرى, সাংঘাই, சாங்காய், เซี่ยงไฮ้, შანჰაი, 上海, 上海市, 中国上海, 상하이, 상해
 
 ---

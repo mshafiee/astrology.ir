@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°37'32.40" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°57'46.05" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°36'57.98" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°43'35.44" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°26'9.70" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'8.43" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°32'39.54" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|0°43'38.25" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°26'7.32" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'9.90" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°49'41.99" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,11 +331,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'32.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°57'45.63" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°37'1.69" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°43'35.44" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°26'9.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'8.43" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°57'46.05" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°36'57.98" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°43'38.25" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°26'7.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'9.90" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|12°43'2.33" |Taurus|Dabaran|Moon|
 
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ADU,  Ardabel,  Ardabil,  Ardabīl,  Ardebil,  Ardebīl,  Erdebil,  aardibyl,  ardbyl,  Ərdəbil,  Ардабел,  اردبيل,  اردبیل,  اَردِبيل
+Alternate Names: ADU, Ardabel, Ardabil, Ardabīl, Ardebil, Ardebīl, Erdebil, aardibyl, ardbyl, Ərdəbil, Ардабел, اردبيل, اردبیل, اَردِبيل
 
 ---

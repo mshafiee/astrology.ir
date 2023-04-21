@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'40.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°9'36.12" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°3'23.03" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°31'43.94" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°22'31.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'31.10" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°41'30.65" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°9'35.96" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°3'23.83" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°31'43.00" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°22'31.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'30.29" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°39'28.84" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'40.50" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°9'36.12" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°3'23.03" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°31'43.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°22'31.25" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'31.10" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°41'30.65" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°9'35.96" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°3'23.83" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°31'43.00" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°22'31.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'30.29" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°39'28.84" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CGO,  Cencou,  Ceng-cou,  Cengcou,  Cheng,  Cheng-chou,  Cheng-chou-shih,  Cheng-hsien,  Chengchow,  Chhiang-chu-su,  Chhiáng-chû-sṳ,  Chzhehnchzhou,  Chzhenchzhou,  Cjencjou,  Csengcsou,  Cwngcouh,  Czengczou,  Dang-ciu,  Dzendzou,  Dzengdzou,  Dzhundzhou,  Dâng-ciŭ,  Džendžou,  Džengdžou,  Genggouo,  Trinh Chau,  Trịnh Châu,  Tsentsoou,  Tēⁿ-chiu-chhī,  Zengzou,  Zhengtsjou,  Zhengzhou,  Zhengzhou Shi,  canaco,  cancau,  ceing cow,  cencavu,  jeongjeou si,  jhengajho'u,  tshnghtshw,  zheng zhou,  zheng zhou shi,  zhngzhw,  zhyngzhw,  Çengçou,  Çjençjou,  Čeng-čou,  Ĝengĝoŭo,  Žengžou,  Τσεντσόου,  Џенгџоу,  Джънджоу,  Жөнжоу,  Чженчжоу,  Чжэнчжоу,  Чжэнчжоў,  تشنغتشو,  جېڭجۇ شەھىرى,  ژنگژو,  ژینگژو,  चंचौ,  झेंगझोऊ,  ਚੰਙਚੋ,  செங்சவு,  เจิ้งโจว,  ကျင့်ကျိုးမြို့,  郑州,  郑州市,  鄭州,  鄭州市,  정저우 시
+Alternate Names: CGO, Cencou, Ceng-cou, Cengcou, Cheng, Cheng-chou, Cheng-chou-shih, Cheng-hsien, Chengchow, Chhiang-chu-su, Chhiáng-chû-sṳ, Chzhehnchzhou, Chzhenchzhou, Cjencjou, Csengcsou, Cwngcouh, Czengczou, Dang-ciu, Dzendzou, Dzengdzou, Dzhundzhou, Dâng-ciŭ, Džendžou, Džengdžou, Genggouo, Trinh Chau, Trịnh Châu, Tsentsoou, Tēⁿ-chiu-chhī, Zengzou, Zhengtsjou, Zhengzhou, Zhengzhou Shi, canaco, cancau, ceing cow, cencavu, jeongjeou si, jhengajho'u, tshnghtshw, zheng zhou, zheng zhou shi, zhngzhw, zhyngzhw, Çengçou, Çjençjou, Čeng-čou, Ĝengĝoŭo, Žengžou, Τσεντσόου, Џенгџоу, Джънджоу, Жөнжоу, Чженчжоу, Чжэнчжоу, Чжэнчжоў, تشنغتشو, جېڭجۇ شەھىرى, ژنگژو, ژینگژو, चंचौ, झेंगझोऊ, ਚੰਙਚੋ, செங்சவு, เจิ้งโจว, ကျင့်ကျိုးမြို့, 郑州, 郑州市, 鄭州, 鄭州市, 정저우 시
 
 ---

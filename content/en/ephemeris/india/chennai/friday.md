@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°37'11.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°56'45.80" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°34'44.02" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°39'34.02" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°21'20.61" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'5.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°1'28.60" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|4°37'11.31" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°56'45.85" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°34'43.17" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°39'34.36" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°21'19.89" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'5.74" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°1'59.72" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'11.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°56'45.80" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°34'44.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°39'34.02" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°21'20.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'5.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°1'28.60" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°56'45.85" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°34'43.17" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°39'34.36" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°21'19.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'5.74" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°1'59.72" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Cenaj,  Cenajo,  Cenajus,  Cenay,  Cennai,  Cennaj,  Chehnai,  Chenaj,  Chennai,  Chennai - cennai,  Chennai - சென்னை,  Chennaj,  Csennai,  MAA,  Maderaspatanum,  Madras,  Madrás,  Tamizhagam,  Tamulinadu,  Tsennai,  cen ni,  cena'i,  cenna'i,  cennai,  chen'nai,  chenai,  chennai,  chnay,  chnayy,  chynay,  chynayy,  jin nai,  qing nai,  tshynay,  znʼy,  Çenay,  Çennai,  Ćennaj,  Ĉenajo,  Čenaj,  Čenajus,  Čennai,  Čennaí,  Τσεννάι,  Ченай,  Ченај,  Ченнаи,  Ченнай,  Ченнаї,  Чэнаі,  Չեննայ,  צנאי,  تشيناي,  چنائی,  چنای,  چينای,  چینائی,  चेन्नई,  चेन्नै,  চেন্নাই,  ਚੇਨਈ,  ચેન્નઈ,  ଚେନ୍ନାଇ,  சென்னை,  చెన్నై,  ಚೆನ್ನೈ,  ചെന്നൈ,  චෙන්නායි,  เจนไน,  ချန်နိုင်းမြို့,  ჩენაი,  チェンナイ,  清奈,  金奈,  첸나이
+Alternate Names: Cenaj, Cenajo, Cenajus, Cenay, Cennai, Cennaj, Chehnai, Chenaj, Chennai, Chennai - cennai, Chennai - சென்னை, Chennaj, Csennai, MAA, Maderaspatanum, Madras, Madrás, Tamizhagam, Tamulinadu, Tsennai, cen ni, cena'i, cenna'i, cennai, chen'nai, chenai, chennai, chnay, chnayy, chynay, chynayy, jin nai, qing nai, tshynay, znʼy, Çenay, Çennai, Ćennaj, Ĉenajo, Čenaj, Čenajus, Čennai, Čennaí, Τσεννάι, Ченай, Ченај, Ченнаи, Ченнай, Ченнаї, Чэнаі, Չեննայ, צנאי, تشيناي, چنائی, چنای, چينای, چینائی, चेन्नई, चेन्नै, চেন্নাই, ਚੇਨਈ, ચેન્નઈ, ଚେନ୍ନାଇ, சென்னை, చెన్నై, ಚೆನ್ನೈ, ചെന്നൈ, චෙන්නායි, เจนไน, ချန်နိုင်းမြို့, ჩენაი, チェンナイ, 清奈, 金奈, 첸나이
 
 ---

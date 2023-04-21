@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|3°28'2.53" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°38'38.04" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°19'13.84" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°12'8.95" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°4'24.43" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'29.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°38'12.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°7'34.72" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°28'2.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°38'38.28" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'14.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°13'41.79" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|24°38'12.33" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°7'33.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°28'1.85" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°38'36.86" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'12.46" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°4'24.43" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Lâm-kiaⁿ-chhī,  NKG,  Nam Kinh,  Nam-kin-su,  Namkin,  Nan'czin,  Nan'zhin,  Nan-ching,  Nan-ching-shih,  Nanchino,  Nanchinum,  Nandzing,  Nandzjina,  Nandžing,  Nang-ging,  Nanjing,  Nanjing Shi,  Nankijn,  Nankin,  Nankinas,  Nanking,  Nankingo,  Nankín,  Nanquim,  Nanquin,  Nanquín,  Nantsin'nk,  Nanzging,  Naņdzjina,  Nàm-kîn-sṳ,  Nàng-gĭng,  hnan cing,  namgyeong,  nan jing,  nan jing shi,  nanajiga,  nanajinga,  nancin,  nanjina,  nanjing,  nanjing si,  nanjinga,  nanjng,  nanjyng,  nanjyngh,  nʼngyng,  Ναντσίνγκ,  Нанкин,  Нанкинг,  Нанкін,  Наньжин,  Наньцзин,  Нәнҗиң,  Նանկին,  נאנגינג,  نانجنگ,  نانجينغ,  نانجینگ,  نەنجىڭ شەھىرى,  नांजिंग,  नानजिंग,  नान्जिङ,  ਨਾਨਜਿੰਗ,  நாஞ்சிங்,  നാൻജിങ്,  หนานจิง,  နန်ကျင်းမြို့,  ნანკინი,  南京,  南京市,  난징,  난징 시,  남경
+Alternate Names: Lâm-kiaⁿ-chhī, NKG, Nam Kinh, Nam-kin-su, Namkin, Nan'czin, Nan'zhin, Nan-ching, Nan-ching-shih, Nanchino, Nanchinum, Nandzing, Nandzjina, Nandžing, Nang-ging, Nanjing, Nanjing Shi, Nankijn, Nankin, Nankinas, Nanking, Nankingo, Nankín, Nanquim, Nanquin, Nanquín, Nantsin'nk, Nanzging, Naņdzjina, Nàm-kîn-sṳ, Nàng-gĭng, hnan cing, namgyeong, nan jing, nan jing shi, nanajiga, nanajinga, nancin, nanjina, nanjing, nanjing si, nanjinga, nanjng, nanjyng, nanjyngh, nʼngyng, Ναντσίνγκ, Нанкин, Нанкинг, Нанкін, Наньжин, Наньцзин, Нәнҗиң, Նանկին, נאנגינג, نانجنگ, نانجينغ, نانجینگ, نەنجىڭ شەھىرى, नांजिंग, नानजिंग, नान्जिङ, ਨਾਨਜਿੰਗ, நாஞ்சிங், നാൻജിങ്, หนานจิง, နန်ကျင်းမြို့, ნანკინი, 南京, 南京市, 난징, 난징 시, 남경
 
 ---

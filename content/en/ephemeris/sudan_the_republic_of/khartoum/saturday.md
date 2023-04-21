@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°42'51.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°13'2.29" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°11'10.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°45'39.38" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°39'0.80" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'38.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°3'9.81" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°42'52.65" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°13'3.94" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°11'7.39" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°45'48.45" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°39'4.15" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'39.63" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°14'19.69" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'52.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°13'3.94" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°11'7.39" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°45'49.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°39'0.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'38.66" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°3'9.81" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°13'3.85" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°11'10.90" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°45'48.45" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°39'4.15" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'39.63" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°14'19.69" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Al Khartum,  Al Kharţūm,  Al Khurtum,  Al Khurţūm,  Cartum,  Cartúm,  Chartoum,  Chartum,  Chartumas,  Chartúm,  Hartum,  Hartumo,  Jartum,  KRT,  Kartum,  Kartúm,  Khartoem,  Khartoum,  Khartoun,  Khartum,  Khartun - alkhrtwm,  Khartún - الخرطوم,  aaalkhrtwm,  haleutum,  harutsumu,  hrtwm,  karttaum,  ke tu mu,  khartwm,  khrtwm,  Ĥartumo,  Χαρτούμ,  Картум,  Хартум,  חרטום,  ااالخرطوم,  خارطوم,  خرطوم,  கார்த்தௌம்,  ཁར་ཏུམ,  ካርቱም,  ハルツーム,  喀土穆,  하르툼
+Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼
 
 ---

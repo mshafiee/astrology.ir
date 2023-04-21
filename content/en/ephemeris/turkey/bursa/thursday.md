@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°32'42.51" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°44'5.39" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°6'31.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°48'3.99" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°20'52.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'57.68" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°46'53.46" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°48'4.15" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°20'52.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'57.79" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°48'0.64" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'42.51" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°44'5.39" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'31.97" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°48'3.99" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°20'52.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'57.68" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°46'53.46" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|13°6'31.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°48'4.15" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°20'52.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'57.79" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°48'0.64" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Boursa,  Brossa,  Broussa,  Brousse,  Brusa,  Brussa,  Burs,  Bursa,  Bursae,  Burso,  Prousa,  YEI,  bu er sa,  buleusa,  bur sa,  bursa,  burusa,  bwrsa,  bwrsh,  bwrst,  Προύσα,  Бурсæ,  Бурса,  Бурсо,  בורסה,  برصہ,  بورسا,  بورصة,  بورصه,  بورصہ,  بۇرسا,  बुर्सा,  บูร์ซา,  ბურსა,  ブルサ,  布尔萨,  부르사
+Alternate Names: Boursa, Brossa, Broussa, Brousse, Brusa, Brussa, Burs, Bursa, Bursae, Burso, Prousa, YEI, bu er sa, buleusa, bur sa, bursa, burusa, bwrsa, bwrsh, bwrst, Προύσα, Бурсæ, Бурса, Бурсо, בורסה, برصہ, بورسا, بورصة, بورصه, بورصہ, بۇرسا, बुर्सा, บูร์ซา, ბურსა, ブルサ, 布尔萨, 부르사
 
 ---

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°47'29.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°26'28.99" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°41'16.03" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°47'30.51" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°26'30.71" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°41'16.91" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°40'27.89" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°42'54.94" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'35.71" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°55'21.55" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°43'1.36" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'50.66" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°44'37.83" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'30.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°26'28.99" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°41'16.03" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°40'17.79" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°42'54.94" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'35.71" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°55'21.55" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°26'30.71" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°41'16.91" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°40'27.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°43'1.36" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'50.66" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°44'37.83" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Caricyn,  Estalingrado,  Stalingrad,  Stalingrado,  Staljingrad,  Tsaritsyn,  VOG,  Valgagrad,  Vl'gogradu,  Volgograd,  Volgograda,  Volgogradas,  Volgogrado,  Volgogradum,  Volgográd,  Volnkonkrant,  Volqoqrad,  Wolgograd,  Wołgograd,  Zarizyn,  bolgogeuladeu,  fu er jia ge lei,  fwlghwghrad,  fwljwjrad,  volagagarata,  volgograda,  volgogradi,  volkokirat,  vuorugogurado,  wlgwgrad,  wwlgw grad,  wwlgwgrad,  wwlgwgrd,  wxl kok rad,  Βόλγκογκραντ,  Аһш балһсн,  Валгаград,  Вльгоградъ,  Волгоград,  Сталинград,  Царицын,  Վոլգոգրադ,  וולגוגרד,  فولجوجراد,  فولغوغراد,  ولگوگراد,  وولگو گراد,  وولگوگراد,  ڤۆڵگۆگراد,  वोल्गोग्राद,  ਵੋਲਗਾਗਰਾਤ,  வோல்கோகிராட்,  වොල්ගාග්
+Alternate Names: Caricyn, Estalingrado, Stalingrad, Stalingrado, Tsaritsyn, VOG, Valgagrad, Vl'gogradu, Volgograd, Volgograda, Volgogradas, Volgogrado, Volgogradum, Volgográd, Volnkonkrant, Volqoqrad, Wolgograd, Wołgograd, Zarizyn, bolgogeuladeu, fu er jia ge lei, fwlghwghrad, fwljwjrad, volagagarata, volgograda, volgogradi, volkokirat, vu~orugogurado, wlgwgrad, wwlgw grad, wwlgwgrad, wwlgwgrd, wxl kok rad, Βόλγκογκραντ, Аһш балһсн, Валгаград, Вльгоградъ, Волгоград, Сталинград, Царицын, Վոլգոգրադ, וולגוגרד, فولجوجراد, فولغوغراد, ولگوگراد, وولگو گراد, وولگوگراد, ڤۆڵگۆگراد, वोल्गोग्राद, ਵੋਲਗਾਗਰਾਤ, வோல்கோகிராட், වොල්ගාග්‍රාද්, วอลโกกราด, စတာလင်ဂရက်မြို့, ვოლგოგრადი, ヴォルゴグラード, 伏尔加格勒, 伏爾加格勒, 볼고그라드
 
 ---

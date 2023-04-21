@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|25°1'13.69" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°59'35.30" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|5°1'43.94" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°27'46.75" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°50'1.29" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°59'56.35" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|16°27'58.12" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°50'23.83" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°52'54.05" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°59'12.50" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°1'13.69" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°59'35.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°1'30.41" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°27'46.75" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°50'1.29" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°59'56.35" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°1'13.52" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°59'34.23" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°1'42.90" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°27'58.12" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°50'23.83" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°52'54.05" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: AUS,  Austin,  Austino,  Austinopolis,  Aŭstino,  Montopolis,  Oscin,  Ostin,  Ostina,  Ostinas,  Ostins,  Waterloo,  ao si ting,  asatina,  astin,  astina,  astyn  tgzas,  awstn,  ke shi dian,  oseutin,  ostina,  ostʼini,  osutin,  xxstin,  Ώστιν,  Остин,  Остін,  Осцін,  Օստին,  אוסטין,  אסטין,  آستین، تگزاس,  آسٹن,  آسٹن، ٹیکساس,  أوستن,  अस्टिन,  अस्तिन,  आस्टिन्,  ऑस्टिन,  অস্টিন,  ਆਸਟਿਨ,  ஆஸ்டின்,  ഓസ്റ്റിൻ,  ออสติน,  ოსტინი,  ኦስቲን፣ ቴክሳስ,  ᎠᏍᏘᏂ,  オースティン,  奧斯汀,  柯士甸,  오스틴
+Alternate Names: AUS, Austin, Austino, Austinopolis, Aŭstino, Montopolis, Oscin, Ostin, Ostina, Ostinas, Ostins, Waterloo, ao si ting, asatina, astin, astina, astyn  tgzas, awstn, ke shi dian, oseutin, ostina, ostʼini, osutin, xxstin, Ώστιν, Остин, Остін, Осцін, Օստին, אוסטין, אסטין, آستین، تگزاس, آسٹن, آسٹن، ٹیکساس, أوستن, अस्टिन, अस्तिन, आस्टिन्, ऑस्टिन, অস্টিন, ਆਸਟਿਨ, ஆஸ்டின், ഓസ്റ്റിൻ, ออสติน, ოსტინი, ኦስቲን፣ ቴክሳስ, ᎠᏍᏘᏂ, オースティン, 奧斯汀, 柯士甸, 오스틴
 
 ---

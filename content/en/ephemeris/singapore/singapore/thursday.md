@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°41'29.85" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°0'45.65" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°37'33.27" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°8'24.67" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'31.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°18'37.73" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°8'29.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'38.52" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°44'10.70" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'47.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°41'29.11" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°0'43.41" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°37'29.22" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°8'24.67" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'31.89" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°18'37.73" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°41'29.85" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°0'45.65" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°37'33.27" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°8'29.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'38.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°44'10.70" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: SIN,  Sin-ka-po,  Singapore,  Singapore City,  Singapour,  Singapur,  Singapura,  Sinkapoure,  Sîn-kâ-po,  Tumasik,  cinkappur,  prathes singkhpor,  shingaporu,  sigapura,  sing-gapol,  sing-gapoleu,  singapura,  singkh por,  sngapwr,  snghafwrt,  syngpwr,  xin jia po,  xing jia po,  Σιγκαπούρη,  Сингапур,  Сінгапур,  סינגפור,  سنغافورة,  سنگاپور,  सिंगापुर,  सिंगापूर,  ਸਿੰਗਾਪੁਰ,  சிங்கப்பூர்,  ประเทศสิงคโปร์,  สิงค์โปร,  ປະເທດສງກະໂປ,  ປະເທດສິງກະໂປ,  စငကာပနငင,  စင်ကာပူနိုင်ငံ,  សងហបរ,  សិង្ហបុរី,  シンガポール,  新加坡,  星架坡,  싱가포르,  싱가폴
+Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴
 
 ---

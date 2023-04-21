@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'47.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°56'56.47" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°49'52.27" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°44'17.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°7'37.03" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'45.57" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°21'29.57" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°56'56.58" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°49'52.52" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°44'17.81" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°7'37.64" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'46.61" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°24'38.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Fort-Lamy,  Indschamina,  Ingamina,  Injamina,  Injamīnā,  Inǧamīnā,  Lamy,  N'Djamena,  NDJ,  Ndjamena,  Ndjemena,  Ndzamena,  Ndzhamena,  Ndżamena,  Ndžamena,  Ngameno,  Nigamina,  Niǧāmīnā,  Nĝameno,  N’Djamena,  N’Dj·amèna,  Tzamena,  Yamena,  anjamna,  anjamyna,  anjmyna,  en jia mei na,  eunjamena,  fwr lamy,  ng'mnh,  ngmynʾ,  njamena,  njamyna,  njamێna,  njmyna,  Τζαμένα,  Нджамена,  נג'מנה,  أنجمينا,  إنجامينا,  انجامنا,  انجمينا,  فور لامي,  نجامينا,  نجامینا,  نجامێنا,  نجمینا,  ܢܓܡܝܢܐ,  ንጃሜና,  ンジャメナ,  恩賈梅納,  은자메나
+Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나
 
 ---

@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°31'56.68" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°22'47.05" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°36'27.58" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°33'35.84" |Aries|Butain|Venus|
+|☾ Moon|Direct|22°40'58.14" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Da Hueryee,  Da Hüryee,  Da Khure,  Da-Kure,  K'u-lun,  Orgoo,  Oulan Mpator,  Oulan-Bator,  Ourga,  ULN,  Ula Bator,  Ulaan Baatar,  Ulaan Baatar Hoto,  Ulaanbaatar,  Ulaanbaataro,  Ulaanbaator,  Ulaanbaator hota,  Ulaanbaatur,  Ulan Bator,  Ulan Bator Hoto,  Ulan Batoras,  Ulan Batur,  Ulan-Bator,  Ulan-Bator Khoto,  Ulanbatar,  Ulanbator,  Ulanbátar,  Ulán Bator,  Ulán Bátor,  Ulánbátar,  Ulánbátor,  Ulã Bator,  Uranbatoru,  Urga,  Uruga,  Ułan Bator,  awlan batwr,  ulanabatara,  ullanbataleu,  ullanbatoleu,  uranbatoru,  wu lan ba tuo,  xulanbatxr,  Örgöö,  Úlan Bator,  Ουλάν Μπατόρ,  Улаанбаатар,  Улан Батор,  Улан-Батор,  אולן בטור,  أولان باتور,  اولان
+Alternate Names: Da Hueryee, Da Hüryee, Da Khure, Da-Kure, K'u-lun, Orgoo, Oulan Mpator, Oulan-Bator, Ourga, ULN, Ula Bator, Ulaan Baatar, Ulaan Baatar Hoto, Ulaanbaatar, Ulaanbaataro, Ulaanbaator, Ulaanbaator hota, Ulaanbaatur, Ulan Bator, Ulan Bator Hoto, Ulan Batoras, Ulan Batur, Ulan-Bator, Ulan-Bator Khoto, Ulanbatar, Ulanbator, Ulanbátar, Ulán Bator, Ulán Bátor, Ulánbátar, Ulánbátor, Ulã Bator, Uranbatoru, Urga, Uruga, Ułan Bator, awlan batwr, ulanabatara, ullanbataleu, ullanbatoleu, uranbatoru, wu lan ba tuo, xulanbatxr, Örgöö, Úlan Bator, Ουλάν Μπατόρ, Улаанбаатар, Улан Батор, Улан-Батор, אולן בטור, أولان باتور, اولان‌باتور, उलानबातर, อูลานบาตอร์, ཝུ་ལན་བ་ཐུར, ኡላዓን ባዓታር, ウランバートル, 乌兰巴托, 울란바타르, 울란바토르
 
 ---

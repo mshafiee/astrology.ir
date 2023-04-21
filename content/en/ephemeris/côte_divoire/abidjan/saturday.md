@@ -20,7 +20,7 @@ Latitude: 5.3544
 \-
 Longitude: -4.0017
 \-
-Altitude: 50 meters
+Altitude: 76 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Abidjan, Côte d'Ivoire" lat="5.3544" lng="-4.0017" zoom="12">}}
 
@@ -71,7 +71,7 @@ __Muslim World League Calculation Method__
 | Dhuhr | 12:14:33 |
 | Medium Coeli | 12:14:33 |
 | Sunset | 18:22:46 |
-| Maghrib | 18:23:46 |
+| Maghrib | 18:24:00 |
 | Isha | 19:30:29 |
 | Sharia Midnight | 23:38:28 |
 | Imum Coeli | 00:14:28 |
@@ -87,7 +87,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr | 12:14:33 |
 | Medium Coeli | 12:14:33 |
 | Sunset | 18:22:46 |
-| Maghrib | 18:23:46 |
+| Maghrib | 18:24:00 |
 | Isha | 19:22:11 |
 | Sharia Midnight | 23:44:42 |
 | Imum Coeli | 00:14:28 |
@@ -103,7 +103,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr | 12:14:33 |
 | Medium Coeli | 12:14:33 |
 | Sunset | 18:22:46 |
-| Maghrib | 18:23:46 |
+| Maghrib | 18:24:00 |
 | Isha | 19:32:34 |
 | Sharia Midnight | 23:35:21 |
 | Imum Coeli | 00:14:28 |
@@ -119,7 +119,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr | 12:14:33 |
 | Medium Coeli | 12:14:33 |
 | Sunset | 18:22:46 |
-| Maghrib | 18:23:46 |
+| Maghrib | 18:24:00 |
 | Isha | 19:34:39 |
 | Sharia Midnight | 23:38:28 |
 | Imum Coeli | 00:14:28 |
@@ -135,8 +135,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr | 12:14:33 |
 | Medium Coeli | 12:14:33 |
 | Sunset | 18:22:46 |
-| Maghrib | 18:23:46 |
-| Isha | 19:53:46 |
+| Maghrib | 18:24:00 |
+| Isha | 19:54:00 |
 | Sharia Midnight | 23:37:26 |
 | Imum Coeli | 00:14:28 |
 {{< /tab >}}
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:16:21|Night duration: 11:43:19|
+|Duration of the day: 12:16:21|Night duration: 11:43:20|
 |Every hour of day duration: 01:01:22|Every hour of night duration: 00:58:37|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|18:22:46|19:21:21|Creating peace among people|
 |2|Moon|Servant|19:21:22|20:19:58|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|20:19:59|21:18:34|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|21:18:35|22:17:11|Bringing luck and favor|
-|5|Mars|Servant|22:17:12|23:15:47|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|23:15:48|00:14:24|Avoiding any harmful action|
-|7|Venus|Servant|00:14:25|01:13:01|Destroying enemies|
-|8|Mercury|Ruler|01:13:02|02:11:37|Performing all good deeds|
-|9|Moon|Servant|02:11:38|03:10:14|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:10:15|04:08:50|Achieving marital harmony|
-|11|Jupiter|Servant|04:08:51|05:07:27|Gaining respect and honor|
-|12|Mars|Servant|05:07:28|06:06:04||
+|3|Saturn|Servant|20:19:59|21:18:35|Conquering, judging, and issuing verdicts|
+|4|Jupiter|Servant|21:18:36|22:17:11|Bringing luck and favor|
+|5|Mars|Servant|22:17:12|23:15:48|Writing, exchanging, and signing contracts|
+|6|Sun|Servant|23:15:49|00:14:25|Avoiding any harmful action|
+|7|Venus|Servant|00:14:26|01:13:01|Destroying enemies|
+|8|Mercury|Ruler|01:13:02|02:11:38|Performing all good deeds|
+|9|Moon|Servant|02:11:39|03:10:15|Performing evil deeds for the purpose of gaining power and control|
+|10|Saturn|Servant|03:10:16|04:08:51|Achieving marital harmony|
+|11|Jupiter|Servant|04:08:52|05:07:28|Gaining respect and honor|
+|12|Mars|Servant|05:07:29|06:06:05||
 
  
  
@@ -250,8 +250,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:16:21|Night duration: 11:43:19|
-|Every hour duration: 01:45:12|Every hour duration: 01:40:28|
+|Duration of the day: 12:16:21|Night duration: 11:43:20|
+|Every hour duration: 01:45:12|Every hour duration: 01:40:29|
 
  
  
@@ -270,12 +270,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|18:22:46|20:03:13|
-|Late evening|Moon|Servant|20:03:14|21:43:41|
-|Midnight|Saturn|Servant|21:43:42|23:24:10|
-|Late at night|Jupiter|Servant|23:24:11|01:04:38|
-|Rooster song|Mars|Servant|01:04:39|02:45:07|
-|False Dawn|Sun|Servant|02:45:08|04:25:35|
-|Dawn|Venus|Servant|04:25:36|06:06:04|
+|Late evening|Moon|Servant|20:03:14|21:43:42|
+|Midnight|Saturn|Servant|21:43:43|23:24:10|
+|Late at night|Jupiter|Servant|23:24:11|01:04:39|
+|Rooster song|Mars|Servant|01:04:40|02:45:07|
+|False Dawn|Sun|Servant|02:45:08|04:25:36|
+|Dawn|Venus|Servant|04:25:37|06:06:05|
 
 {{< /tab >}}
 
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°52'8.76" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°46'25.04" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'8.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°32'12.16" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|28°32'12.17" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|1°52'8.76" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°46'25.04" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°35'8.50" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°32'12.16" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|28°32'12.17" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: ABJ,  Abican,  Abidjan,  Abidzan,  Abidzana,  Abidzanas,  Abidzans,  Abidzhan,  Abidzhan shaary,  Abidżan,  Abidžan,  Abidžana,  Abidžanas,  Abidžans,  Abigano,  Abijan,  Abiyan,  Abiyán,  Abizhan khot,  Abiĝano,  Ampitzan,  a bi rang,  a bi ren,  abdjan,  abijan,  abijana,  abijang,  abijani,  abydjan,  abyjan,  xabi can,  ʼbydgʼn,  Αμπιτζάν,  Абиджан,  Абиджан шаары,  Абижан хот,  Абиџан,  Абіджан,  Աբիջան,  אבידגאן,  אבידזשאן,  آبدجان,  آبیجان,  أبيدجان,  आबिजान,  আবিজান,  ਅਬੀਜਾਨ,  അബിജാൻ,  อาบีจาน,  აბიჯანი,  アビジャン,  阿必仁,  阿比让,  아비장
+Alternate Names: ABJ, Abican, Abidjan, Abidzan, Abidzana, Abidzanas, Abidzans, Abidzhan, Abidzhan shaary, Abidżan, Abidžan, Abidžana, Abidžanas, Abidžans, Abigano, Abijan, Abiyan, Abiyán, Abizhan khot, Abiĝano, Ampitzan, a bi rang, a bi ren, abdjan, abijan, abijana, abijang, abijani, abydjan, abyjan, xabi can, ʼbydgʼn, Αμπιτζάν, Абиджан, Абиджан шаары, Абижан хот, Абиџан, Абіджан, Աբիջան, אבידגאן, אבידזשאן, آبدجان, آبیجان, أبيدجان, आबिजान, আবিজান, ਅਬੀਜਾਨ, അബിജാൻ, อาบีจาน, აბიჯანი, アビジャン, 阿必仁, 阿比让, 아비장
 
 ---

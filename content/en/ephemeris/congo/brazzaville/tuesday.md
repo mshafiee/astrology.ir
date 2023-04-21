@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'50.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°57'4.57" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°50'15.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°44'49.17" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°8'20.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'29.74" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°59'35.79" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°57'5.36" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°50'12.16" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°44'53.64" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°8'21.28" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'35.37" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°50'37.79" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'50.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°57'4.57" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°50'15.79" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°44'49.17" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°8'19.08" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'34.86" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°31'58.31" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°57'5.31" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°50'14.22" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°44'53.36" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°8'21.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'35.37" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°50'37.79" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BZV,  Braza,  Brazavil,  Brazavilis,  Brazavilo,  Brazzavil',  Brazzaville,  Maya-Maya,  Mprazabil,  N'Tamo,  beulajabil,  brazafyl,  brazawyl,  brzwwyl,  bu la chai wei er,  burazavuiru,  Μπραζαβίλ,  Браззавиль,  ברזוויל,  برازافيل,  برازاویل,  ብራዛቪል,  ブラザヴィル,  布拉柴维尔,  브라자빌
+Alternate Names: BZV, Braza, Brazavil, Brazavilis, Brazavilo, Brazzavil', Brazzaville, Maya-Maya, Mprazabil, N'Tamo, beulajabil, brazafyl, brazawyl, brzwwyl, bu la chai wei er, burazavu~iru, Μπραζαβίλ, Браззавиль, ברזוויל, برازافيل, برازاویل, ብራዛቪል, ブラザヴィル, 布拉柴维尔, 브라자빌
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'52.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°57'12.19" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°50'27.85" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°45'21.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°8'51.65" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'23.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°34'47.01" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°57'12.13" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°50'27.30" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°45'20.86" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°8'50.85" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'22.42" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°29'9.54" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'52.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°57'12.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°50'27.85" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°45'21.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°8'51.65" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'23.18" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°34'47.01" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°57'12.13" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°50'27.30" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°45'20.86" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°8'50.85" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'22.42" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°29'9.54" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Byen Kano,  Cano,  KAN,  Kanas,  Kano,  Kánò,  ka nuo,  kano,  kanw,  kanw  nyjryh,  qnw,  Кано,  קנו,  كانو,  کانو,  کانو، نیجریه,  कानो,  ਕਾਨੋ,  கனோ,  カノ,  卡諾,  카노
+Alternate Names: Byen Kano, Cano, KAN, Kanas, Kano, Kánò, ka nuo, kano, kanw, kanw  nyjryh, qnw, Кано, קנו, كانو, کانو, کانو، نیجریه, कानो, ਕਾਨੋ, கனோ, カノ, 卡諾, 카노
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'44.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°33'1.97" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°55'51.77" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°6'47.40" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°13'51.00" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°23'36.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°26'6.33" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°33'2.09" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°55'56.88" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°7'0.27" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°14'3.57" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°23'57.89" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°50'26.33" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'44.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°32'59.87" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°55'51.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°6'47.40" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°13'51.00" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°23'36.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°26'6.33" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°33'2.09" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°55'56.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°7'0.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°14'3.57" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°23'57.89" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°50'26.33" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: East Phoenix,  Feniks,  Fenikso,  Finiks,  Finiksa,  Finiksas,  Finiksos,  Foinix,  Féniks,  Fīniksa,  Hellings Mill,  Hoozdoh,  Mill City,  PHX,  Peniki,  Phenix,  Phoeniks,  Phoenix,  Pumpkinsville,  Pēniki,  Salt River,  Smith Station,  Smith Station Phenix,  Smiths Station,  feng huang cheng,  fenikkusu,  finikasa,  finiks,  finiksa,  fynks,  fynyks,  fynyks  aryzwna,  phiniks,  phiniks nagaram,  phiniksa,  pinigseu,  piniks,  piniksi,  pnyqs,  pynyqs,  Φοίνιξ,  Финикс,  Фінікс,  Ֆինիքս,  פיניקס,  פניקס,  فينيكس,  فینکس,  فینیکس، آریزونا,  फ़ीनिक्स,  फिनिक्स,  फिनिक्स्,  फीनिक्स,  ফিনিক্স,  ਫ਼ੀਨਿਕਸ,  பீனிக்ஸ்,  ఫీనిక్స్ నగరం,  ಫೀನಿಕ್ಸ್,  ഫീനിക്സ്,  ฟีนิกซ์,  ფინიქსი,  ፊኒክስ፥ አሪዞና,  フェニックス,  凤凰城,  鳳凰城,  피닉스
+Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스
 
 ---

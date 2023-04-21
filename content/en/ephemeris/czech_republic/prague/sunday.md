@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'54.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'40.92" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°43'54.65" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°45'13.33" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°48'35.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'1.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°19'57.96" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°27'40.73" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°43'55.22" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°45'12.17" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°48'35.40" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'0.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°44'50.25" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'54.53" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°27'40.92" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°43'59.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°45'14.10" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°48'41.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'5.54" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°19'57.96" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°43'55.22" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°45'12.17" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°48'35.40" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'0.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°44'50.25" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: PRG,  Praag,  Prag,  Praga,  Pragae,  Prago,  Prague,  Praha,  Pràg,  Prág,  Prága,  Prâg,  Prāga,  bragh,  bu la ge,  peulaha,  prag,  praga,  prak,  prg,  puraha,  Πράγα,  Праг,  Прагæ,  Прага,  פראג,  براغ,  پراگ,  پراگا,  ܦܪܓ,  প্রাগ,  ปราก,  པུ་ལ་ཁེ,  პრაღა,  ፕራግ,  プラハ,  布拉格,  프라하
+Alternate Names: PRG, Praag, Prag, Praga, Pragae, Prago, Prague, Praha, Pràg, Prág, Prága, Prâg, Prāga, bragh, bu la ge, peulaha, prag, praga, prak, prg, puraha, Πράγα, Праг, Прагæ, Прага, פראג, براغ, پراگ, پراگا, ܦܪܓ, প্রাগ, ปราก, པུ་ལ་ཁེ, პრაღა, ፕራግ, プラハ, 布拉格, 프라하
 
 ---

@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°47'52.86" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°27'36.08" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°43'43.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°44'54.16" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°48'15.03" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'5.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°52'52.90" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|2°44'53.37" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°48'12.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'3.68" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°37'9.88" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°47'52.86" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°27'36.08" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°43'43.97" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°44'54.16" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°48'15.03" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'5.91" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°52'52.90" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|2°44'53.37" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°48'12.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'3.68" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°37'9.88" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CPH,  Cobanhavan,  Copenaga,  Copenaghen,  Copenaguen,  Copenhaga,  Copenhagen,  Copenhague,  Copenhaguen,  Copenhaguen - Kobenhavn,  Copenhaguen - København,  Cóbanhávan,  Hafnia,  Kapehngagen,  Kaupmannahoefn,  Kaupmannahöfn,  Keypmannahavn,  Kjobenhavn,  Kjopenhamn,  Kjøpenhamn,  Kobenhamman,  Kobenhaven,  Kobenhavn,  Kodan,  Kodaň,  Koebenhavn,  Koeoepenhamina,  Koepenhamn,  Kopenage,  Kopenchage,  Kopengagen,  Kopenhaagen,  Kopenhag,  Kopenhaga,  Kopenhage,  Kopenhagen,  Kopenhagena,  Kopenhago,  Kopenhāgena,  Kopenkhagen,  Koppenhaga,  Koppenhága,  Kòpenhaga,  Köbenhavn,  Köpenhamn,  Kööpenhamina,  København,  Københámman,  ge ben ha gen,  khopenheken,  kopanahagana,  kopenahagena,  kopenahegena,  kopenhagen,  kwbnhaghn,  kwpnhgn,  qwpnhgn,  Κοπεγχάγη,  Капэнгаген,  Копенгаген,  Копенхаген,  Կոպենհագեն,  קופנהאגן,  קופנהגן,  كوبنهاغن,  كوپېنھاگېن,  ܟܘܦܢܗܓܢ,  कोपनहागन,  কোপেনহাগেন,  কোপেনহেগেন,  โคเปนเฮเกน,  ཀའོ་པེན་ཧ་ཀེན,  კოპენჰაგენი,  ኮፐንሀገን,  ኮፕንሀግ,  コペンハーゲン,  哥本哈根,  코펜하겐
+Alternate Names: CPH, Cobanhavan, Copenaga, Copenaghen, Copenaguen, Copenhaga, Copenhagen, Copenhague, Copenhaguen, Copenhaguen - Kobenhavn, Copenhaguen - København, Cóbanhávan, Hafnia, Kapehngagen, Kaupmannahoefn, Kaupmannahöfn, Keypmannahavn, Kjobenhavn, Kjopenhamn, Kjøpenhamn, Kobenhamman, Kobenhaven, Kobenhavn, Kodan, Kodaň, Koebenhavn, Koeoepenhamina, Koepenhamn, Kopenage, Kopenchage, Kopengagen, Kopenhaagen, Kopenhag, Kopenhaga, Kopenhage, Kopenhagen, Kopenhagena, Kopenhago, Kopenhāgena, Kopenkhagen, Koppenhaga, Koppenhága, Kòpenhaga, Köbenhavn, Köpenhamn, Kööpenhamina, København, Københámman, ge ben ha gen, khopenheken, kopanahagana, kopenahagena, kopenahegena, kopenhagen, kwbnhaghn, kwpnhgn, qwpnhgn, Κοπεγχάγη, Капэнгаген, Копенгаген, Копенхаген, Կոպենհագեն, קופנהאגן, קופנהגן, كوبنهاغن, كوپېنھاگېن, ܟܘܦܢܗܓܢ, कोपनहागन, কোপেনহাগেন, কোপেনহেগেন, โคเปนเฮเกน, ཀའོ་པེན་ཧ་ཀེན, კოპენჰაგენი, ኮፐንሀገን, ኮፕንሀግ, コペンハーゲン, 哥本哈根, 코펜하겐
 
 ---

@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'46.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°53'54.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'2.33" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°31'55.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°53'14.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'47.73" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°30'40.35" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°53'54.52" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'1.17" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°31'54.55" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°53'12.92" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'45.11" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°17'32.70" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: OMS,  Om'sku,  Omby,  Omium,  Oms'k,  Omsc,  Omsk,  Omska,  Omskas,  Omsko,  Omszk,  Omva,  amsk,  awmsk,  e mu si ke,  omseukeu,  omska,  omusuku,  xxm skh,  Ομσκ,  Омбы,  Омва,  Омск,  Омськ,  Омьскъ,  Օմսկ,  אומסק,  أومسك,  امسک,  اومسک,  ओम्स्क,  ออมสค์,  ომსკი,  オムスク,  鄂木斯克,  옴스크
+Alternate Names: OMS, Om'sku, Omby, Omium, Oms'k, Omsc, Omsk, Omska, Omskas, Omszk, Omva, amsk, awmsk, e mu si ke, omseukeu, omska, omusuku, xxm skh, Ομσκ, Омбы, Омва, Омск, Омськ, Омьскъ, Օմսկ, אומסק, أومسك, امسک, اومسک, ओम्स्क, ออมสค์, ომსკი, オムスク, 鄂木斯克, 옴스크
 
 ---

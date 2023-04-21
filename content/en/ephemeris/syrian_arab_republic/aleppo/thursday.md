@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°32'36.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'49.41" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°5'56.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°46'56.85" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°19'39.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'50.23" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°16'38.84" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|4°32'36.75" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°43'48.89" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°5'54.54" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°46'56.35" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°19'32.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'45.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°16'42.38" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'36.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'49.11" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'1.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°46'56.85" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°19'39.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'50.23" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°16'38.84" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'48.89" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°5'54.54" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°46'56.35" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°19'32.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'45.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°16'42.38" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ALP,  Alep,  Alepas,  Alepo,  Aleppe,  Aleppo,  Aleppu,  Aleppó,  Alèp,  Berea,  Beroea,  Chalepi,  Halab,  Haleb,  Haleba,  Halep,  Heleb,  Hələb,  Khaleb,  Khaleb khot,  Khalepion,  Madinat Halab,  Madīnat Ḩalab,  Xalab,  a lei po,  aleppea,  aleppo,  allepo,  areppo,  halaba,  hlb,  xa lep po,  Χαλέπι,  Алеп,  Алеппо,  Халеб,  Халеб хот,  ХӀалаб,  Хәлеб,  Հալեպ,  חאלב,  حلب,  ܚܠܒ,  अलेप्पो,  हलब,  আলেপ্পো,  ਹਲਬ,  அலெப்போ,  അലെപ്പോ,  อะเลปโป,  ალეპო,  Ḥaleb,  Ḩalab,  アレッポ,  阿勒颇,  알레포
+Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포
 
 ---

@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|13°4'27.56" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°44'14.66" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|10°16'23.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'25.37" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°37'18.08" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|15°32'26.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°38'55.18" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,10 +330,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°32'22.57" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'8.92" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'25.60" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°44'13.71" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°32'22.46" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°43'9.11" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°4'27.56" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°44'14.66" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°16'23.95" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°32'25.37" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|28°37'18.08" |Aries|Thurayya|Venus|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: GOJ,  Gor'kij,  Gor'kiy,  Gorkey,  Gorki,  Gorkii,  Gorkij,  Gorky,  Nijni Novgorod,  Nijnii Novgorod,  Nischni Nowgorod,  Nishni-Nowgorod,  Nishnii Nowgorod,  Nishnij Nowgorod,  Nizhni Novgorod,  Nizhnii Novgorod,  Nizhnij Novgorod,  Nizhniy Novgorod,  Nizhny Novgorod,  Nizjnij Novgorod,  Nizni Novgorod,  Niznij Nowgorod,  Niznji Novgorod,  Nižni Novgorod,  Nižnij Nowgorod,  Nižnji Novgorod,  Nyizsnyij Novgorod,  Горький,  Нижний Новгород
+Alternate Names: GOJ, Gor'kij, Gor'kiy, Gorkey, Gorki, Gorkii, Gorkij, Gorky, Nijni Novgorod, Nijnii Novgorod, Nischni Nowgorod, Nishni-Nowgorod, Nishnii Nowgorod, Nishnij Nowgorod, Nizhni Novgorod, Nizhnii Novgorod, Nizhnij Novgorod, Nizhniy Novgorod, Nizhny Novgorod, Nizjnij Novgorod, Nizni Novgorod, Niznij Nowgorod, Nižni Novgorod, Nižnij Nowgorod, Горький, Нижний Новгород
 
 ---

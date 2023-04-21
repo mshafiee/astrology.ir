@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'12.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°56'48.60" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°34'49.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°39'45.08" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°21'33.28" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'3.97" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°54'53.31" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°56'48.53" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°34'49.53" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°39'44.70" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°21'32.85" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'3.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°52'9.90" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'12.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°56'49.10" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°34'52.11" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°39'47.74" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°21'37.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'3.97" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°54'53.31" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°56'48.60" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°34'49.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°39'45.08" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°21'32.85" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'3.33" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°52'9.90" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: LHE,  Lachori,  Lahaur,  Lahor,  Lahora,  Lahoras,  Lahore,  Lahorium,  Lahoro,  Lakhor,  Lohur,  Láhaur,  Lâhore,  Lāhaur,  la h xr,  la he er,  lahaura,  laholeu,  lahor,  lahora,  lahori,  lahwr,  lakur,  lwہwr,  rahoru,  Λαχόρη,  Лахор,  Լահոր,  לאהור,  لاهور,  لاھور,  لاھۆر,  لاہور,  لوہوٗر,  لہور,  लाहोर,  लाहौर,  লাহোর,  ਲਹੌਰ,  લાહોર,  லாகூர்,  లాహోర్,  ಲಾಹೋರ್,  ലാഹോർ,  ลาฮอร์,  ლაჰორი,  ラホール,  ラーホール,  拉合尔,  拉合爾,  라호르
+Alternate Names: LHE, Lachori, Lahaur, Lahor, Lahora, Lahoras, Lahore, Lahorium, Lakhor, Lohur, Láhaur, Lâhore, Lāhaur, la h xr, la he er, lahaura, laholeu, lahor, lahora, lahori, lahwr, lakur, lwہwr, rahoru, Λαχόρη, Лахор, Լահոր, לאהור, لاهور, لاھور, لاھۆر, لاہور, لوہوٗر, لہور, लाहोर, लाहौर, লাহোর, ਲਹੌਰ, લાહોર, லாகூர், లాహోర్, ಲಾಹೋರ್, ലാഹോർ, ลาฮอร์, ლაჰორი, ラホール, ラーホール, 拉合尔, 拉合爾, 라호르
 
 ---

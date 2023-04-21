@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°32'16.01" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°42'50.81" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°3'46.16" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°43'1.27" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°14'56.18" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'19.76" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°40'50.95" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|29°42'55.96" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°14'51.29" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'11.69" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°6'17.37" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Gerat,  HEA,  Herat,  Herāt,  Hérat,  Kherat,  Shahr-e Herat,  Shahr-e Herāt,  he la te,  herato,  hrat,  Герат,  Херат,  هراة,  هرات,  ヘラート,  赫拉特
+Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特
 
 ---

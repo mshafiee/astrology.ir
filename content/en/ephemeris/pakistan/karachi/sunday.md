@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°25'59.03" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°40'5.03" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°38'20.00" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°40'30.26" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'17.12" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°32'37.94" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°40'29.35" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'16.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°27'14.11" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'19.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°25'58.58" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°40'8.01" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°38'17.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°40'32.05" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'14.86" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°39'22.59" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°25'58.99" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°40'4.30" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°38'19.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°40'29.35" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'16.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°27'14.11" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Carachi,  KHI,  Karaaji,  Karaces,  Karachi,  Karachi - krachy,  Karachi - كراچى,  Karachy,  Karaci,  Karacio,  Karacis,  Karacsi,  Karaczi,  Karanchi,  Karasi,  Karatschi,  Karatsi,  Karatsji,  Karatxi,  Karaçi,  Karaĉio,  Karači,  Karačis,  Karačės,  Karochi,  Karáči,  Karáčí,  Karâchi,  Karāchi,  Karāči,  Keraci,  Keraçî,  Kurrachee,  Kurrachi,  Kəraçi,  ka la qi,  ka ra ci,  kalachi,  karaaci,  karacci,  karachi,  karachy,  karaci,  karatshy,  ke la chi,  krachy,  kratshy,  pechs,  qrʼzy,  Καράτσι,  Карачи,  Карачы,  Карачі,  Կարաչի,  קאראטשי,  קראצי,  كاراتشى,  كاراچى,  كراتشي,  کراچی,  کراچۍ,  کَرٲچی,  کەراچی,  ڪراچي,  ކަރާޗީ,  कराची,  করাচী,  কৰাচী,  ਕਰਾਚੀ,  કરાચી,  କରାଚୀ,  கராச்சி,  కరాచీ,  ಕರಾಚಿ,  കറാച്ചി,  การาจี,  ཀ་ར་ཆི,  ကရာချိမြို့,  კარაჩი,  ከራቺ,  カラチ,  カラーチー,  卡拉奇,  喀拉蚩,  카라치
+Alternate Names: Carachi, KHI, Karaaji, Karaces, Karachi, Karachi - krachy, Karachi - كراچى, Karachy, Karaci, Karacio, Karacis, Karacsi, Karaczi, Karanchi, Karatschi, Karatsi, Karatsji, Karatxi, Karaçi, Karaĉio, Karači, Karačis, Karačės, Karochi, Karáči, Karáčí, Karâchi, Karāchi, Karāči, Keraci, Keraçî, Kurrachee, Kurrachi, Kəraçi, ka la qi, ka ra ci, kalachi, karaaci, karacci, karachi, karachy, karaci, karatshy, ke la chi, krachy, kratshy, pechs, qrʼzy, Καράτσι, Карачи, Карачы, Карачі, Կարաչի, קאראטשי, קראצי, كاراتشى, كاراچى, كراتشي, کراچی, کراچۍ, کَرٲچی, کەراچی, ڪراچي, ކަރާޗީ, कराची, করাচী, কৰাচী, ਕਰਾਚੀ, કરાચી, କରାଚୀ, கராச்சி, కరాచీ, ಕರಾಚಿ, കറാച്ചി, การาจี, ཀ་ར་ཆི, ကရာချိမြို့, კარაჩი, ከራቺ, カラチ, カラーチー, 卡拉奇, 喀拉蚩, 카라치
 
 ---

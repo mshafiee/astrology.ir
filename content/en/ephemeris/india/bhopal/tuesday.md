@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'54.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°54'19.84" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°44'1.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°33'38.87" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°55'17.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'20.41" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°28'53.81" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°54'20.10" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°43'58.67" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°33'40.36" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°55'14.82" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'21.34" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°6'5.67" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'54.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'19.84" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°44'1.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'38.87" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'17.18" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'20.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°28'53.81" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°54'20.10" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'58.67" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'40.36" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°55'14.82" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°0'19.34" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°2'27.47" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BHO,  Bhojpal,  Bhopal,  Bhopala,  Bhopalas,  Bhopalo,  Bhopál,  Bhopāl,  Bhopāla,  Bhópál,  Bkhapal,  Bkhopal,  Bopal,  Bópal,  bhopal,  bhopala,  bo pa er,  bopal,  boparu,  bwbal,  bwpal,  popal,  Μποπάλ,  Бопал,  Бхапал,  Бхопал,  בופאל,  بوبال,  بوپال,  بھوپال,  بہوپال,  भोपाल,  भोपाळ,  ভোপাল,  ਭੋਪਾਲ,  ભોપાલ,  ଭୋପାଳ,  போபால்,  భోపాల్,  ಭೊಪಾಲ್,  ഭോപ്പാൽ,  ბჰოპალი,  ボパール,  ボーパール,  博帕尔,  보팔
+Alternate Names: BHO, Bhojpal, Bhopal, Bhopala, Bhopalas, Bhopalo, Bhopál, Bhopāl, Bhopāla, Bhópál, Bkhapal, Bkhopal, Bopal, Bópal, bhopal, bhopala, bo pa er, bopal, boparu, bwbal, bwpal, popal, Μποπάλ, Бопал, Бхапал, Бхопал, בופאל, بوبال, بوپال, بھوپال, بہوپال, भोपाल, भोपाळ, ভোপাল, ਭੋਪਾਲ, ભોપાલ, ଭୋପାଳ, போபால், భోపాల్, ಭೊಪಾಲ್, ഭോപ്പാൽ, ბჰოპალი, ボパール, ボーパール, 博帕尔, 보팔
 
 ---

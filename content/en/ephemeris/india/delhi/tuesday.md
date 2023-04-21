@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°56'53.74" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°54'16.49" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°43'50.64" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°33'24.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°55'0.43" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'25.61" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°23'58.04" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|4°33'25.49" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°54'57.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°0'25.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°1'4.77" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,10 +331,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'53.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°54'16.41" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°43'53.24" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°33'24.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°55'0.43" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°54'16.49" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°43'50.64" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°33'25.49" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°54'57.74" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°0'25.12" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|3°1'4.77" |Cancer|Nathrah|Venus|
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: DEL,  Daehli,  Dehli,  Dehlī,  Delchi,  Delhi,  Delhio,  Delhí,  Delhî,  Deli,  Delis,  Delkhi,  Dellium,  Delí,  Dilhi,  Dilli,  Dillí,  Dillī,  Dähli,  Déhli,  Faritani Delhi,  New Delhi,  Old Delhi,  Sahdzahanabad,  Stare Deli,  de li,  dehali,  deli,  delli,  deri,  dhilli,  dhly,  dhly qdym,  dil'hi,  dili,  dilli,  dlhy,  dly,  dlھy,  dylhy,  na'i dilli,  prany dہly,  tilli,  Šáhdžahanabád,  Δελχί,  Дели,  Делхи,  Делі,  Деҳли,  Дэлі,  Старе Делі,  Դելի,  דלהי,  דעלהי,  دلهي,  دلھی,  دلی,  دهلي,  دهلی قدیم,  ديلهى,  دہلی,  دێھلی,  پرانی دہلی,  ډېلي,  ދިއްލީ,  दिल्ली,  देहली,  नई दिल्ली,  দিল্লি,  দিল্লী,  ਦਿੱਲੀ,  દિલ્હી,  ଦିଲ୍ଲୀ,  தில்லி,  ఢిల్లీ,  ದೆಹಲಿ,  ഡെൽഹി,  เดลี,  დელი,  デリー,  德里,  델리
+Alternate Names: DEL, Daehli, Dehli, Dehlī, Delchi, Delhi, Delhio, Delhí, Delhî, Deli, Delis, Delkhi, Dellium, Delí, Dilhi, Dilli, Dillí, Dillī, Dähli, Déhli, Faritani Delhi, New Delhi, Old Delhi, Sahdzahanabad, Stare Deli, de li, dehali, deli, delli, deri, dhilli, dhly, dhly qdym, dil'hi, dili, dilli, dlhy, dly, dlھy, dylhy, na'i dilli, prany dہly, tilli, Šáhdžahanabád, Δελχί, Дели, Делхи, Делі, Деҳли, Дэлі, Старе Делі, Դելի, דלהי, דעלהי, دلهي, دلھی, دلی, دهلي, دهلی قدیم, ديلهى, دہلی, دێھلی, پرانی دہلی, ډېلي, ދިއްލީ, दिल्ली, देहली, नई दिल्ली, দিল্লি, দিল্লী, ਦਿੱਲੀ, દિલ્હી, ଦିଲ୍ଲୀ, தில்லி, ఢిల్లీ, ದೆಹಲಿ, ഡെൽഹി, เดลี, დელი, デリー, 德里, 델리
 
 ---

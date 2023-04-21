@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'37.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°23'54.42" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°35'24.00" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°29'50.92" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°30'34.80" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'20.97" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°39'44.12" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°23'56.06" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°35'28.75" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°30'0.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°30'45.03" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'36.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°48'48.06" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,10 +316,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Jupiter|Mars|Pisces|Sun|Saturn|
 |♃ Jupiter|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♂ Mars|Jupiter|Saturn|Scorpio|Sun|Mercury|
-|☉ Sun|Mars|Mars|Aries|Sun|Mars|
+|☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'37.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°23'54.42" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°35'24.00" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°29'50.92" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°30'34.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'20.97" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°39'44.12" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°23'56.06" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°35'28.75" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°30'0.28" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°30'45.03" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'36.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°48'48.06" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -355,10 +355,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Mars|Sun|Aries|Moon|Jupiter|
 |♃ Jupiter|Saturn|Mars|Capricorn|Moon|Saturn|
 |♂ Mars|Mars|Mars|Sagittarius|Moon|Moon|
-|☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
+|☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: City of Manila,  Dakbayan sa Manila,  Lungsod ng Maynila,  MNL,  Mainile,  Manila,  Manilae,  Manilla,  Manillah,  Manille,  Manilo,  Manyl,  Maníla,  Maynila,  Menila,  ma ni la,  manila,  manilla,  manira,  manyl,  manyla,  mnila,  mnylh,  myanila,  Μανίλα,  Манилæ,  Манила,  Маніла,  מנילה,  مانىلا,  مانيلا,  مانیل,  مانیلا,  मनिला,  मनीला,  ম্যানিলা,  மணிலா,  ಮನಿಲ,  මැනිලා,  มนิลา,  มะนิลา,  མ་ནི་ལ།,  မနီလာမြို့,  მანილა,  ማኒላ,  マニラ,  馬尼拉,  马尼拉,  마닐라
+Alternate Names: City of Manila, Dakbayan sa Manila, Lungsod ng Maynila, MNL, Mainile, Manila, Manilae, Manilla, Manillah, Manille, Manilo, Manyl, Maníla, Maynila, Menila, ma ni la, manila, manilla, manira, manyl, manyla, mnila, mnylh, myanila, Μανίλα, Манилæ, Манила, Маніла, מנילה, مانىلا, مانيلا, مانیل, مانیلا, मनिला, मनीला, ম্যানিলা, மணிலா, ಮನಿಲ, මැනිලා, มนิลา, มะนิลา, མ་ནི་ལ།, မနီလာမြို့, მანილა, ማኒላ, マニラ, 马尼拉, 마닐라
 
 ---

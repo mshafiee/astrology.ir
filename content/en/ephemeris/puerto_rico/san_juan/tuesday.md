@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'50.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°0'6.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°57'2.84" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°57'6.13" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°22'41.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°52'1.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°31'3.34" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|25°0'4.82" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°57'5.90" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°57'0.90" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°22'37.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°51'53.42" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°16'16.72" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°58'50.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°0'5.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°57'6.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°57'6.13" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°22'41.25" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°52'1.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°31'3.34" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|25°0'4.82" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°57'5.90" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°57'0.90" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°22'37.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°51'53.42" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°16'16.72" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Caparra,  Ciudad de Puerto Rico,  Portorico,  Prico,  Puerto Rico,  SJU,  Saint Iuan,  Saint John de Porto Rico,  Sainte Jean de Porto-rico,  San Chouan,  San Chuanas,  San Huan,  San Ian de Porto Rico,  San Ioanni,  San Jean de Portorico,  San Juan,  San Juan Batista de Puerto Rico,  San Juan Bautistade de Puerto Rico,  San Juan de Puerto Rico,  San Khuan,  San Xoan,  San Xoán,  San Xuan,  San-Juano,  San-Khuan,  Sanhuana,  The City of Saint John,  Ville de Porto-Rico,  Ville de Sainte Jean de Porto Rico,  can van,  saenhwan,  san hwn,  san khwan,  san-khuani,  sana hu'ana,  sana huraana,  sanfuan,  sanhuan,  sheng hu an,  Σαν Χουάν,  Сан Хуан,  Сан-Хуан,  Սան Խուան,  סן חואן,  سان خوآن,  سان خوان,  सान हुआन,  সান হুৱান,  ਸਾਨ ਹੁਆਨ,  சான் வான்,  ซานฮวน,  სან-ხუანი,  サンフアン,  圣胡安,  산후안,  샌환
+Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환
 
 ---

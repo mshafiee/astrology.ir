@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'26.50" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°46'9.20" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°11'6.44" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°56'27.75" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°30'42.88" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'59.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°2'3.08" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°11'2.58" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°56'24.68" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°30'37.17" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'53.47" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°41'43.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°56'27.75" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°30'42.88" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°33'59.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°2'3.08" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|1°41'43.94" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: NKC,  Naevakjut,  Nawakshot,  Nawakszut,  Nouakchat,  Nouakchot,  Nouakchott,  Nouaksot,  Nouaxot,  Nuakchot,  Nuakshot,  Nuaksjott,  Nuaksot,  Nuaksota,  Nuaksotas,  Nuaksoto,  Nuaksott,  Nuakxot,  Nuakŝoto,  Nuakşot,  Nuakšot,  Nuakšota,  Nuakšotas,  Nuakšott,  Nwaqcut,  Nwaqcuṭ,  Nävakjut,  Núaksjott,  huo suo,  navakasuta,  nu wa ke xiao te,  nu'akacota,  nu'oyakasuta,  nuagsyoteu,  nuakushotto,  nuvakcut,  nwakshwt,  Νουακσότ,  Νουαξότ,  Нуакшот,  Նուակշոտ,  נואקשוט,  نواكشوط,  نواکشوت,  نواکشوط,  نواکشۆت,  نوواکوٹ,  नवाकसुत,  নুওয়াকশুত,  ਨੁਆਕਚੋਤ,  நுவாக்சூத்,  นูแอกชอต,  ནའུ་ཀ་ཅོ་ཊི།,  ნუაქშოტი,  ኑዋክሾት,  ヌアクショット,  努瓦克肖特,  或索,  누악쇼트
+Alternate Names: NKC, Naevakjut, Nawakshot, Nawakszut, Nouakchat, Nouakchot, Nouakchott, Nouaksot, Nouaxot, Nuakchot, Nuakshot, Nuaksjott, Nuaksot, Nuaksota, Nuaksotas, Nuaksoto, Nuaksott, Nuakxot, Nuakŝoto, Nuakşot, Nuakšot, Nuakšota, Nuakšotas, Nuakšott, Nwaqcut, Nwaqcuṭ, Nävakjut, Núaksjott, huo suo, navakasuta, nu wa ke xiao te, nu'akacota, nu'oyakasuta, nuagsyoteu, nuakushotto, nuvakcut, nwakshwt, Νουακσότ, Νουαξότ, Нуакшот, Նուակշոտ, נואקשוט, نواكشوط, نواکشوت, نواکشوط, نواکشۆت, نوواکوٹ, नवाकसुत, নুওয়াকশুত, ਨੁਆਕਚੋਤ, நுவாக்சூத், นูแอกชอต, ནའུ་ཀ་ཅོ་ཊི།, ნუაქშოტი, ኑዋክሾት, ヌアクショット, 努瓦克肖特, 或索, 누악쇼트
 
 ---

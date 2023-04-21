@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°47'53.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'39.34" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°43'56.29" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°45'6.04" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°48'33.13" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'2.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°4'21.79" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°47'54.07" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°27'39.54" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°43'51.56" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°45'7.51" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°48'28.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'1.56" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°40'35.65" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'54.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°27'39.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°43'56.29" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°45'6.04" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°48'33.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'2.08" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°4'21.79" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°27'39.54" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°43'51.56" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°45'7.51" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°48'28.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'1.56" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°40'35.65" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BER,  Beirlin,  Beirlín,  Belin,  Berleno,  Berlien,  Berliin,  Berliini,  Berlijn,  Berlim,  Berlin,  Berline,  Berlini,  Berlino,  Berlyn,  Berlynas,  Berlëno,  Berlín,  Berlîn,  Berlīne,  Berolino,  Berolinum,  Birlinu,  Bèrlîn,  Estat de Berlin,  Estat de Berlín,  bai lin,  barlina,  beleullin,  berlini,  berurin,  bexrlin,  brlyn,  perlin,  Βερολίνο,  Берлин,  Берлін,  Бэрлін,  Բերլին,  בערלין,  ברלין,  برلين,  برلین,  بېرلىن,  ܒܪܠܝܢ,  बर्लिन,  বার্লিন,  பெர்லின்,  เบอร์ลิน,  ბერლინი,  ベルリン,  柏林,  베를린
+Alternate Names: BER, Beirlin, Beirlín, Berleno, Berlien, Berliin, Berliini, Berlijn, Berlim, Berlin, Berline, Berlini, Berlino, Berlyn, Berlynas, Berlëno, Berlín, Berlîn, Berlīne, Berolino, Berolinum, Birlinu, Bèrlîn, Estat de Berlin, Estat de Berlín, bai lin, barlina, beleullin, berlini, berurin, bexrlin, brlyn, perlin, Βερολίνο, Берлин, Берлін, Бэрлін, Բերլին, בערלין, ברלין, برلين, برلین, بېرلىن, ܒܪܠܝܢ, बर्लिन, বার্লিন, பெர்லின், เบอร์ลิน, ბერლინი, ベルリン, 柏林, 베를린
 
 ---

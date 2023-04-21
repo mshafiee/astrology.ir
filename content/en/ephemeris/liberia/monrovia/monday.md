@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'20.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°43'38.62" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°19'46.90" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°50'8.26" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°4'24.19" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°13'24.34" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°6'29.93" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°43'39.78" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°19'53.63" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°50'12.27" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°4'33.88" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°13'33.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°12'48.55" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'20.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°43'38.62" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°19'46.90" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°50'8.26" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°4'24.19" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°13'24.34" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°6'29.93" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°43'39.32" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°19'53.63" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°50'12.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°4'33.88" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°13'33.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°12'48.55" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MLW,  Manrovija,  Monrobia,  Monrofia,  Monrovi,  Monrovia,  Monrovii,  Monrovija,  Monrovio,  Monroviya,  Monrowia,  Monròvia,  Monróvia,  Monróvía,  manarobhiya,  manroweiy,  manrwwya,  meng luo wei ya,  monarovi'a,  monlobia,  monrobia,  monrovhiya,  monrovia,  monroviya,  mwnrwbyh,  mwnrwfya,  mwnrwwya,  Μονρόβια,  Манровія,  Монрови,  Монровия,  Монровија,  Монровія,  Մոնրովիա,  מאנראוויע,  מונרוביה,  مانروویا,  مونروفيا,  مونروویا,  مۆنرۆڤیا,  मोन्रोव्हिया,  মনরোভিয়া,  ਮੋਨਰੋਵੀਆ,  மொன்றோவியா,  มันโรเวีย,  མོང་རོ་ཝི་ཡ།,  მონროვია,  ሞንሮቪያ,  モンロビア,  蒙罗维亚,  蒙羅維亞,  몬로비아
+Alternate Names: MLW, Manrovija, Monrobia, Monrofia, Monrovi, Monrovia, Monrovii, Monrovija, Monrovio, Monroviya, Monrowia, Monròvia, Monróvia, Monróvía, manarobhiya, manroweiy, manrwwya, meng luo wei ya, monarovi'a, monlobia, monrobia, monrovhiya, monrovia, monroviya, mwnrwbyh, mwnrwfya, mwnrwwya, Μονρόβια, Манровія, Монрови, Монровия, Монровија, Монровія, Մոնրովիա, מאנראוויע, מונרוביה, مانروویا, مونروفيا, مونروویا, مۆنرۆڤیا, मोन्रोव्हिया, মনরোভিয়া, ਮੋਨਰੋਵੀਆ, மொன்றோவியா, มันโรเวีย, མོང་རོ་ཝི་ཡ།, მონროვია, ሞንሮቪያ, モンロビア, 蒙罗维亚, 蒙羅維亞, 몬로비아
 
 ---

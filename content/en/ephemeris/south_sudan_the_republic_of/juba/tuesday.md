@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'35.34" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°56'21.21" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°48'32.35" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°41'53.81" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°4'49.60" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'36.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°53'22.22" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°48'30.01" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°41'48.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°4'44.20" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'27.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°23'43.75" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Djouba,  Dschuba,  Dzhuba,  Goba,  JUB,  Juba,  Uula,  g'wbh,  juba,  jwba,  Джуба,  ג'ובה,  جوبا,  주바
+Alternate Names: Djouba, Dschuba, Dzhuba, Goba, JUB, Juba, Uula, g'wbh, juba, jwba, Джуба, ג'ובה, جوبا, 주바
 
 ---

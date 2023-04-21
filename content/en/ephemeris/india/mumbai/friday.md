@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°37'16.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°57'0.29" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°35'15.45" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°40'32.98" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°22'28.83" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'7.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°14'41.73" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|4°37'16.23" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°57'0.14" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°35'15.83" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°40'32.07" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°22'28.74" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'6.58" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°9'51.35" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'16.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°57'0.07" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°35'17.75" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°40'31.48" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°22'30.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'6.99" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°9'43.15" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°57'0.14" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°35'15.83" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°40'32.07" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°22'28.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'6.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°9'51.35" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Asumumbay,  BOM,  Bombai,  Bombaim,  Bombaj,  Bombay,  Bombaya,  Bombej,  Bombejus,  Bombėjus,  Bumbaj,  Bůmbaj,  Dakbayan sa Bombay,  Lungsod ng Mumbai,  Moembaai,  Mumbai,  Mumbai - मुम़बई,  Mumbaj,  Mumbaja,  Mumbajo,  Mumbajus,  Mumbay,  Mumbaî,  Numbai,  Vomvai,  bamba'i,  bmbyy,  bwmbay,  gretara mumba'i,  meng mai,  mmbay,  mmbyy,  mu0bai,  muba'i,  mum bi,  mumba'i,  mumbai,  mumpai,  munbai,  mwmbay,  mwmbyy,  mymbais,  pullapa mumba'i,  Βομβάη,  Бомбай,  Бомбей,  Мумбаи,  Мумбай,  Мумбаі,  Мумбаї,  Мумбај,  Մումբայ,  מומבאי,  מומביי,  بمبئی,  بومباي,  بَمبَے,  ممبئي,  ممبئی,  ممبای,  مومباى,  مومباي,  مومبای,  މުންބާއީ,  ग्रेटर मुम्बई,  बम्बई,  मुंबई,  मुम्बई,  পুল্লাপ মুম্বাই,  মুম্বই,  মুম্বাই,  ਮੁੰਬਈ,  મુંબઈ,  ମୁମ୍ବାଇ,  மும்பை,  ముంబై,  ಮುಂಬೈ,  ಮು೦ಬೈ,  മുംബൈ,  มุมไบ,  འབོམ་སྦེ,  မွမ်ဘိုင်းမြို့,  მუმბაი,  ムンバイ,  孟买,  孟買,  뭄바이
+Alternate Names: Asumumbay, BOM, Bombai, Bombaim, Bombaj, Bombay, Bombaya, Bombej, Bombejus, Bombėjus, Bumbaj, Bůmbaj, Dakbayan sa Bombay, Lungsod ng Mumbai, Moembaai, Mumbai, Mumbai - मुम़बई, Mumbaj, Mumbaja, Mumbajo, Mumbajus, Mumbay, Mumbaî, Numbai, Vomvai, bamba'i, bmbyy, bwmbay, gretara mumba'i, meng mai, mmbay, mmbyy, mu0bai, muba'i, mum bi, mumba'i, mumbai, mumpai, munbai, mwmbay, mwmbyy, mymbais, pullapa mumba'i, Βομβάη, Бомбай, Бомбей, Мумбаи, Мумбай, Мумбаі, Мумбаї, Мумбај, Մումբայ, מומבאי, מומביי, بمبئی, بومباي, بَمبَے, ممبئي, ممبئی, ممبای, مومباى, مومباي, مومبای, މުންބާއީ, ग्रेटर मुम्बई, बम्बई, मुंबई, मुम्बई, পুল্লাপ মুম্বাই, মুম্বই, মুম্বাই, ਮੁੰਬਈ, મુંબઈ, ମୁମ୍ବାଇ, மும்பை, ముంబై, ಮುಂಬೈ, ಮು೦ಬೈ, മുംബൈ, มุมไบ, འབོམ་སྦེ, မွမ်ဘိုင်းမြို့, მუმბაი, ムンバイ, 孟买, 뭄바이
 
 ---

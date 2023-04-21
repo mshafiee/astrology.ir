@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°34'1.25" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°47'47.27" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°14'43.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°2'49.80" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°38'20.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'21.29" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°55'54.65" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°3'6.65" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°38'30.07" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'43.42" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°46'33.20" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°14'43.97" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°3'6.65" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|10°38'30.56" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°34'21.29" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°55'54.65" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Retrograde|15°34'43.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°47'40.40" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Ciutat de Goiania,  Ciutat de Goiânia,  GYN,  Goiana,  Goiania,  Goianá,  Goiânia,  Gojani,  Gojanija,  Goyania,  Goyaniya,  ge ya ni ya,  ghwyanya,  go'iyaniya,  goiania,  gwyyanya,  ko ya neiy,  Гояни,  Гояния,  Гоянія,  Гојанија,  גואיאניה,  غويانيا,  گوئیانیا,  গোইয়ানিয়া,  โกยาเนีย,  გოიანია,  ゴイアニア,  戈亚尼亚,  고이아니아
+Alternate Names: Ciutat de Goiania, Ciutat de Goiânia, GYN, Goiana, Goiania, Goianá, Goiânia, Gojani, Gojanija, Goyania, Goyaniya, ge ya ni ya, ghwyanya, go'iyaniya, goiania, gwyyanya, ko ya neiy, Гояни, Гояния, Гоянія, Гојанија, גואיאניה, غويانيا, گوئیانیا, গোইয়ানিয়া, โกยาเนีย, გოიანია, ゴイアニア, 戈亚尼亚, 고이아니아
 
 ---

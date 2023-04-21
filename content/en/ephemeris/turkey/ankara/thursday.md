@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'39.42" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'57.08" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°6'14.41" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°47'30.73" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°20'13.71" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'57.09" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°51'51.54" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'56.64" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°6'12.38" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°47'28.40" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°20'10.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'52.80" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°37'5.93" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'39.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'57.08" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°6'14.41" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°47'30.73" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°20'13.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'57.09" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°51'51.54" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'56.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°6'12.38" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°47'28.40" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°20'10.34" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'52.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°37'5.93" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ANK,  Anakara,  Ancara,  Ancyra,  Ang-ka-la,  Angkara,  Angora,  Anguriyah,  Ankar,  Ankara,  Ankara khot,  Ankaro,  Ankuara,  Ankura,  Ankyra,  Ankyra (Ankyra),  Anqara,  Enguri,  Engüri,  Enqere,  akara,  an ka la,  angkala,  ankara,  anqrh,  anqrt,  xangkara,  Ăng-kā-lá,  Άγκυρα (Ankyra),  Анкара,  Анкара хот,  Анкъара,  Әнкара,  Անկարա,  אנקארא,  אנקרה,  آنکارا,  أنقرة,  ئەنقەرە,  انقره,  انقرہ,  انکرہ,  ܐܢܩܪܐ,  अंकारा,  আঙ্কারা,  ਅੰਕਾਰਾ,  ଆଙ୍କାରା,  அங்காரா,  అంకారా,  ಅಂಕಾರಾ,  അങ്കാറ,  อังการา,  ཨན་ཁ་ར།,  ანკარა,  አንካራ,  アンカラ,  安卡拉,  앙카라
+Alternate Names: ANK, Anakara, Ancara, Ancyra, Ang-ka-la, Angkara, Angora, Anguriyah, Ankar, Ankara, Ankara khot, Ankaro, Ankuara, Ankura, Ankyra, Ankyra (Ankyra), Anqara, Enguri, Engüri, Enqere, akara, an ka la, angkala, ankara, anqrh, anqrt, xangkara, Ăng-kā-lá, Άγκυρα (Ankyra), Анкара, Анкара хот, Анкъара, Әнкара, Անկարա, אנקארא, אנקרה, آنکارا, أنقرة, ئەنقەرە, انقره, انقرہ, انکرہ, ܐܢܩܪܐ, अंकारा, আঙ্কারা, ਅੰਕਾਰਾ, ଆଙ୍କାରା, அங்காரா, అంకారా, ಅಂಕಾರಾ, അങ്കാറ, อังการา, ཨན་ཁ་ར།, ანკარა, አንካራ, アンカラ, 安卡拉, 앙카라
 
 ---

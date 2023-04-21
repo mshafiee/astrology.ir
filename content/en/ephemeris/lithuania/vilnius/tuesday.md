@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°55'50.28" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°47'23.69" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°39'46.19" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°2'23.43" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'8.87" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°9'16.83" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°2'21.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'7.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°57'50.77" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: IVilnyusi,  VNO,  Vil'njus,  Vil'no,  Vil'nyus,  Viln',  Vilna,  Vilnia,  Vilnias,  Vilniaus miestas,  Vilnious,  Vilnis,  Vilnius,  Vilnjus,  Vilnjûs,  Vilno,  Vilnues,  Vilnus,  Vilnyus,  Vilníus,  Vilnüs,  Viļņa,  Vílnius,  Wilna,  Wilnius,  Wilno,  Wilnus,  Wilñus,  bhilani'usa,  bilnyuseu,  fylnyws,  vhilniyasa,  vilniusi,  vilniyas,  vuirinyusu,  vylnyws,  wei er niu si,  wi lni xus,  wlnys,  wylnh,  wylnyws,  Βίλνα,  Βίλνιους,  Βιλνιους,  Вилниус,  Вилнус,  Вилнюс,  Вилн҄ь,  Вильнюс,  Вилњус,  Виљнус,  Вільнюс,  Վիլնյուս,  ווילנע,  וילנה,  فيلنيوس,  ولنیس,  ویلنیوس,  ڤیلنیوس,  व्हिल्नियस,  ভিলনিউস,  வில்னியஸ்,  วิลนีอุส,  ལྦེ་ནི་སུ་ནི།,  ვილნიუსი,  ቪልኒውስ,  ᕕᓪᓂᐅᔅ/vilnius,  ヴィリニュス,  维尔纽斯,  빌뉴스
+Alternate Names: IVilnyusi, VNO, Vil'njus, Vil'no, Vil'nyus, Viln', Vilna, Vilnia, Vilnias, Vilniaus miestas, Vilnious, Vilnis, Vilnius, Vilnjus, Vilnjûs, Vilnues, Vilnus, Vilnyus, Vilníus, Vilnüs, Viļņa, Vílnius, Wilna, Wilnius, Wilno, Wilnus, Wilñus, bhilani'usa, bilnyuseu, fylnyws, vhilniyasa, vilniusi, vilniyas, vu~irinyusu, vylnyws, wei er niu si, wi lni xus, wlnys, wylnh, wylnyws, Βίλνα, Βίλνιους, Βιλνιους, Вилниус, Вилнус, Вилнюс, Вилн҄ь, Вильнюс, Вилњус, Виљнус, Вільнюс, Վիլնյուս, ווילנע, וילנה, فيلنيوس, ولنیس, ویلنیوس, ڤیلنیوس, व्हिल्नियस, ভিলনিউস, வில்னியஸ், วิลนีอุส, ལྦེ་ནི་སུ་ནི།, ვილნიუსი, ቪልኒውስ, ᕕᓪᓂᐅᔅ/vilnius, ヴィリニュス, 维尔纽斯, 빌뉴스
 
 ---

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'9.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'3.74" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°45'37.58" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°36'37.75" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°58'42.09" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°59'20.01" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°40'37.83" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|4°57'9.48" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°55'3.77" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°45'37.88" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°36'37.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°58'42.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°59'20.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°43'39.68" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'9.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'3.74" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°45'34.26" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°36'25.65" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°58'31.89" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°59'0.02" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°47'57.13" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'3.77" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°45'37.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°36'37.95" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°58'42.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°59'20.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°43'39.68" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Carmana,  Dakbayan sa Kerman,  Dakbayan sa Kermān,  KER,  Kerman,  Kermanas,  Kermano,  Kermon,  Kermán,  Kermān,  Kirman,  Kirmon,  karmana,  ke er man,  keleuman,  kermani,  keruman,  krman,  Керман,  Кирмон,  Կերման,  כרמאן,  كرمان,  کرمان,  कर्मान,  ქერმანი,  ケルマーン,  克尔曼,  케르만
+Alternate Names: Carmana, Dakbayan sa Kerman, Dakbayan sa Kermān, KER, Kerman, Kermanas, Kermano, Kermon, Kermán, Kermān, Kirman, Kirmon, karmana, ke er man, keleuman, kermani, keruman, krman, Керман, Кирмон, Կերման, כרמאן, كرمان, کرمان, कर्मान, ქერმანი, ケルマーン, 克尔曼, 케르만
 
 ---

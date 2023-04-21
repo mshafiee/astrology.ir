@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'49.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°10'2.40" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°4'21.68" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°33'30.92" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°24'36.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'25.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°8'35.24" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°10'2.44" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°4'21.88" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°33'31.12" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°24'36.71" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'26.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°10'25.03" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'49.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°10'2.40" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°4'21.68" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°33'30.92" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°24'36.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'25.94" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°8'35.24" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°10'2.44" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°4'21.88" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°33'31.12" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°24'36.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'26.33" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°10'25.03" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CTU,  Ccheng-tu,  Cendu,  Cengdu,  Cengduo,  Ch'eng-tu,  Ch'eng-tu-hsien,  Ch'eng-tu-shih,  Chehndu,  Chendu,  Chengdu,  Chengdu Shi,  Chengdú,  Chundu,  Chөndү,  Ch’eng-tu,  Ch’eng-tu-hsien,  Ch’eng-tu-shih,  Csengtu,  Cwngzduh,  Hua-yang,  Sang-tu-su,  Seng-to-chhi,  Sing-du,  Sàng-tû-sṳ,  Sêng-to͘-chhī,  Sìng-dŭ,  Thanh Do,  Thành Đô,  Tsen'nkntou,  Txengdu,  cengadu,  centu,  chantu,  cheing tu,  cheng dou,  cheng dou shi,  cheongdu si,  chngdw,  chyngdw,  chېngdۇ shەھyr,  tshnghdw,  zngdw,  Çengdu,  Ĉengduo,  Čcheng-tu,  Čendu,  Čengdu,  Τσενγκντού,  Ченгду,  Ченду,  Чънду,  Чыңду,  Чэнду,  Чөндү,  Չենդու,  צנגדו,  تشنغدو,  چنگدو,  چینگدو,  چېڭدۇ شەھىر,  चेंगदू,  छंतू,  ਚੇਂਗਦੂ,  செங்டூ,  เฉิงตู,  ချင်းဒူမြို့,  成都,  成都市,  청두 시
+Alternate Names: CTU, Ccheng-tu, Cendu, Cengdu, Cengduo, Ch'eng-tu, Ch'eng-tu-hsien, Ch'eng-tu-shih, Chehndu, Chendu, Chengdu, Chengdu Shi, Chengdú, Chundu, Chөndү, Ch’eng-tu, Ch’eng-tu-hsien, Ch’eng-tu-shih, Csengtu, Cwngzduh, Hua-yang, Sang-tu-su, Seng-to-chhi, Sing-du, Sàng-tû-sṳ, Sêng-to͘-chhī, Sìng-dŭ, Thanh Do, Thành Đô, Tsen'nkntou, Txengdu, cengadu, centu, chantu, cheing tu, cheng dou, cheng dou shi, cheongdu si, chngdw, chyngdw, chېngdۇ shەھyr, tshnghdw, zngdw, Çengdu, Ĉengduo, Čcheng-tu, Čendu, Čengdu, Τσενγκντού, Ченгду, Ченду, Чънду, Чыңду, Чэнду, Чөндү, Չենդու, צנגדו, تشنغدو, چنگدو, چینگدو, چېڭدۇ شەھىر, चेंगदू, छंतू, ਚੇਂਗਦੂ, செங்டூ, เฉิงตู, ချင်းဒူမြို့, 成都, 成都市, 청두 시
 
 ---

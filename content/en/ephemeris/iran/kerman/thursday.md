@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'21.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'6.26" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°4'20.35" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°44'6.05" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°16'8.45" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'29.63" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°12'29.04" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'6.06" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°4'19.81" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°44'3.06" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°16'8.69" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'26.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°51'49.64" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'21.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'6.57" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'18.04" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°44'6.05" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°16'8.45" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'29.63" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°12'29.04" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'6.06" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°4'19.81" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°44'3.06" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°16'8.69" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'26.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°51'49.64" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Carmana,  Dakbayan sa Kerman,  Dakbayan sa Kermān,  KER,  Kerman,  Kermanas,  Kermano,  Kermon,  Kermán,  Kermān,  Kirman,  Kirmon,  karmana,  ke er man,  keleuman,  kermani,  keruman,  krman,  Керман,  Кирмон,  Կերման,  כרמאן,  كرمان,  کرمان,  कर्मान,  ქერმანი,  ケルマーン,  克尔曼,  케르만
+Alternate Names: Carmana, Dakbayan sa Kerman, Dakbayan sa Kermān, KER, Kerman, Kermanas, Kermano, Kermon, Kermán, Kermān, Kirman, Kirmon, karmana, ke er man, keleuman, kermani, keruman, krman, Керман, Кирмон, Կերման, כרמאן, كرمان, کرمان, कर्मान, ქერმანი, ケルマーン, 克尔曼, 케르만
 
 ---

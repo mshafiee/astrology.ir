@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°37'45.23" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°58'22.57" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|13°38'19.18" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°46'4.72" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°29'0.17" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'11.99" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°9'21.35" |Aries|Butain|Sun|
+|☉ Sun|Direct|0°46'6.87" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°29'1.31" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'14.85" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°22'24.18" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,10 +331,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'45.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'22.19" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°38'19.20" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°46'4.72" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°29'0.17" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|23°58'22.57" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°38'19.18" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°46'6.87" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°29'1.31" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°37'14.85" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|13°22'24.18" |Taurus|Dabaran|Moon|
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Adonai-jireh,  Aelia Capitolina,  Al Quds,  Al-Kuds,  Al-Qudis,  Al-Quds,  Al-Qudıs,  Ariel,  Baitul Maqdis,  Baitulmuqaddis,  Bajtul Makudis,  Bayt al-Maqdis,  Bayt al-Muqaddas,  Cherusalem,  City of David,  Colonia Aelia Capitolina,  Djeruzalem,  El Kuds,  El Quds esh Sherif,  Erusagem,  Erusalim,  Geruesalem,  Gerusalem,  Gerusalemme,  Gerüsalem,  Gierusalemme,  Girusalemmi,  Herusale,  Herusalem,  Herusalẽ,  Hierosolyma,  Hierousalem,  Hierousalēm,  Hierusalem,  Hiruharama,  IJerusalem,  Ia-lo-sak-leng,  Ia-lo-sat-leng,  Iarusaileim,  Iarúsailéim,  Iebous,  Iebus,  Ierosolyma,  Ierousalem,  Ierousalimu,  Ierusalem,  Ierusalema,  Ierusalim,  Ir David,  Ir Ha-Qdoosha,  Ir Ha-Qodesh,  Iyerusalim,  Ià-lô-sák-lēng,  Iâ-lō͘-sat-léng,  Iýerusalim,  JRS,  Jarusalen,  Jeriwsalem,  Jerozale,  Jerozalė,  Jerozolema,  Jerozolima,  Jerozolëma,  Jerusalem,  Jerusalemi,  Jerusalemo,  Jerusalemu,  Jerusalen,  Jerusalim,  Jerusalèm,  Jerusalém,  Jerusalén,  Jeruusalemm,  Jeruzale,  Jeruzalem,  Jeruzaleme,  Jeruzalim,  Jeruzalém,  Jeruzalė,  Jeruzsalem,  Jeruzsálem,  Jerúsalem,  Jerúsálẹ́mù,  Jorsala,  Jorsalaborg,  Jorsalir,  Jérusalem,  Jórsalaborg,  Jórsalir,  Kouds,  Kudues,  Kudus,  Kudüs,  Kuuds-GӀala,  Moria,  Morias,  Orcalim,  Orselim,  Orşelîm,  Quddus,  Qudus,  Queds,  Qüds,  Salem,  Shalem,  Sion,  Solyma,  Ursalimmu,  Urselim,  Urshalim,  Urusalim,  Urušalim,  Urşelim,  Uršalimmu,  Xerusalen,  Xerusalén,  Ya-lu-sat-lang,  Yerusalem,  Yerusalemi,  Yerusalemu,  Yerusalémi,  Yerushalayim,  Yirushalayim,  Yirushalāyim,  Yâ-lu-sat-lâng,  Yérusalem,  Zion,  al-Balat,  al-Quds as-Sarif,  al-Quds aš-Šarīf,  albla,  alqds,  alqds alshryf,  alquds,  aryyyl,  auwrshalym,  awly alqbltyn,  awrsalm,  awrshlym,  awrshlym alqds,  awrslyman,  bayt
+Alternate Names: Adonai-jireh, Aelia Capitolina, Al Quds, Al-Kuds, Al-Qudis, Al-Quds, Al-Qudıs, Ariel, Baitul Maqdis, Baitulmuqaddis, Bajtul Makudis, Bayt al-Maqdis, Bayt al-Muqaddas, Cherusalem, Colonia Aelia Capitolina, Djeruzalem, El Kuds, El Quds esh Sherif, Erusagem, Erusalim, Geruesalem, Gerusalem, Gerusalemme, Gerüsalem, Gierusalemme, Girusalemmi, Herusale, Herusalem, Herusalẽ, Hierosolyma, Hierousalem, Hierousalēm, Hierusalem, Hiruharama, IJerusalem, Ia-lo-sak-leng, Ia-lo-sat-leng, Iarusaileim, Iarúsailéim, Iebous, Iebus, Ierosolyma, Ierousalem, Ierousalimu, Ierusalem, Ierusalema, Ierusalim, Ir David, Ir Ha-Qdoosha, Ir Ha-Qodesh, Iyerusalim, Ià-lô-sák-lēng, Iâ-lō͘-sat-léng, Iýerusalim, JRS, Jarusalen, Jeriwsalem, Jerozale, Jerozalė, Jerozolema, Jerozolima, Jerozolëma, Jerusalem, Jerusalemi, Jerusalemo, Jerusalemu, Jerusalen, Jerusalim, Jerusalèm, Jerusalém, Jerusalén, Jeruusalemm, Jeruzale, Jeruzalem, Jeruzaleme, Jeruzalim, Jeruzalém, Jeruzalė, Jeruzsalem, Jeruzsálem, Jerúsalem, Jerúsálẹ́mù, Jorsala, Jorsalaborg, Jorsalir, Jérusalem, Jórsalaborg, Jórsalir, Kouds, Kudues, Kudus, Kudüs, Kuuds-GӀala, Moria, Morias, Orcalim, Orselim, Orşelîm, Quddus, Qudus, Queds, Qüds, Salem, Shalem, Sion, Solyma, Ursalimmu, Urselim, Urshalim, Urusalim, Urušalim, Urşelim, Uršalimmu, Xerusalen, Xerusalén, Ya-lu-sat-lang, Yerusalem, Yerusalemi, Yerusalemu, Yerusalémi, Yerushalayim, Yirushalayim, Yirushalāyim, Yâ-lu-sat-lâng, Yérusalem, Zion, al-Balat, al-Quds as-Sarif, al-Quds aš-Šarīf, albla, alqds, alqds alshryf, alquds, aryyyl, auwrshalym, awly alqbltyn, awrsalm, awrshlym, awrshlym alqds, awrslyman, bayt‌almuqdas, byt almqds, erucalem, erusaremu, haqodes, ierusalimi, jerusalama, jerusalem, jerusalema, jeruselama, lqds, mdynt alqds, mrya, mworiyah, mwryh, quds, qudus, qۇds, salem, salym, shywn, slm, wrshlym, yarusalama, ybws, ye lu sa leng, ye ru sa lem, yebws, yelusallem, yerwsalami, yerwsalayim, yerwselem, yrwshlm, yrwslm, yrwslym, ywrshەlym, ziywon, zywn, Αριηλ, Ιεβους, Ιεροσολυμα, Ιεροσόλυμα, Ιερουσαλήμ, Ιερουσαλημ, Μωριας, Σαλημ, Σιων, Σολυμα, Єрусалим, Іерусалім, Їєроусалимъ, Јерусалим, Байтул Макъдис, Ерусалим, Иерусалим, Йерусалим, Кудус, Къудс-ГӀала, Уршалим, Երուսաղեմ, אֵילִיָּה קַפִּיטוֹלִינָה, הַקֹּדֶשׁ, יְבוּס, יְרוּשְׁלֶם, יְרוּשָׁלַיִם, יְרוּשָׁלַםִ, יְרוּשָׁלָםִ, יבוס, ירושלים, ירושלם, מוֹרִיָּה, מוריה, צִיּוֹן, ציון, שָׁלֵם, שלם, أورسالم, أورشليم, أورشليم القدس, أولى القبلتين, أُورشَليم, إيلياء, ئورشەلیم, اريئيل, البلا, القدس, القدس الشريف, القُدس, القُدْس, اورسلیمان, اورشلیم, بيت المقدس, بَیْت‌المُقدَّس, بیت المقدس, ساليم, صهيون, قُدس, قۇدس, لقدس, مدينة القدس, مريّا, ورشليم, يبوس, یروشلم, ܐܘܪܫܠܡ, ܨܗܝܘܢ, ޤުދުސް, जेरुसलेम, जेरुसेलम, जेरूसलम, यरुशलम, জেরুসালেম, ਜੇਰੂਸਲਮ, ଜେରୁସାଲେମ, எருசலேம், జెరూసలేం, ಜೆರುಸಲೆಂ, ജെറുസലേം, เยรูซาเลม, ເຢ​ຣູ​ຊາ​ເລັມ, ཇེ་རུ་ས་ལེམ།, ဂျေရုဆလင်မြို့, იერუსალიმი, እየሩሳሌም, エルサレム, 耶路撒冷, 예루살렘, 𐌹𐌰𐌹𐍂𐌿𐍃𐌰𐌿𐌻𐍅𐌼𐌰
 
 ---

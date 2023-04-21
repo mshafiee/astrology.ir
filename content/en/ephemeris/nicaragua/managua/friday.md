@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'31.73" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°3'26.58" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°49'36.89" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°6'42.82" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°53'10.19" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'24.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|18°17'3.80" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°49'31.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°6'35.46" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°53'0.51" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'11.37" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°18'32.27" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'31.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°3'23.89" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°49'33.79" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°6'27.18" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°52'58.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'1.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°36'15.47" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°3'26.58" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°49'36.89" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°6'42.82" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°53'0.51" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'11.37" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°18'32.27" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: MGA,  Managoua,  Managua,  Managuae,  Managva,  Managvo,  Managûa,  Manahuac,  Manankoua,  Manaqua,  Manawa,  Manágua,  Mānāhuac,  ma na gua,  managhwa,  managu'a,  managua,  managva,  managwa,  manakaw,  manakuva,  Μανάγκουα,  Μανάγουα,  Манагва,  Манагуæ,  Манагуа,  Մանագուա,  מנגואה,  ماناغوا,  ماناگوآ,  ماناگوا,  ماناگۇئا,  मानाग्वा,  ਮਾਨਾਗੁਆ,  மனாகுவா,  มานากัว,  མ་ན་གུ་འ།,  მანაგუა,  ማናጓ,  マナグア,  馬拿瓜,  馬納瓜,  마나과
+Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과
 
 ---

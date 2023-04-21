@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'50.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°10'3.49" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°4'23.38" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°33'36.18" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°24'41.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'30.43" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°27'42.32" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°10'3.30" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°4'22.20" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°33'35.23" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°24'39.35" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'28.41" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°18'2.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Kota Surabaya,  Kutha Surabaya,  SUB,  Soerabaja,  Soerabaya,  Sourabaya,  Sourampagia,  Surabaia,  Surabaja,  Surabajo,  Surabaya,  si shui,  sulabaya,  sura ba ya,  surabaia,  surabaya,  swrabaya,  swrbyh,  Σουραμπάγια,  Сурабайа,  Сурабая,  Сурабаја,  סורביה,  سورابايا,  سورابایا,  สุราบายา,  სურაბაია,  スラバヤ,  泗水,  수라바야
+Alternate Names: Kota Surabaya, Kutha Surabaya, SUB, Soerabaja, Soerabaya, Sourabaya, Sourampagia, Surabaia, Surabaja, Surabajo, Surabaya, si shui, sulabaya, sura ba ya, surabaia, surabaya, swrabaya, swrbyh, Σουραμπάγια, Сурабайа, Сурабая, Сурабаја, סורביה, سورابايا, سورابایا, สุราบายา, სურაბაია, スラバヤ, 泗水, 수라바야
 
 ---

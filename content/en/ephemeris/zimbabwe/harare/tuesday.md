@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'38.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'34.08" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°49'8.37" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°42'43.68" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°5'57.22" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'5.10" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°25'55.98" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°57'40.15" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°56'35.69" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°49'4.76" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°42'52.90" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°5'57.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'17.44" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°6'12.55" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'40.15" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°56'34.08" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°49'8.37" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°42'43.68" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°5'57.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'5.10" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°25'55.98" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°56'35.70" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°49'4.95" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°42'52.94" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°5'57.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'17.44" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°6'12.55" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Arare,  Charare,  HRE,  Harare,  Hararensis Urbs,  Harareo,  Hararė,  Kharare,  Kharareh,  Salisbury,  ha la lei,  halale,  harare,  harary,  hrarh,  hrary,  Χαράρε,  Хараре,  Харарэ,  Հարարե,  הארארה,  هارارى,  هراره,  هراري,  ھارارې,  ھەرارێ,  ہرارے,  हरारे,  ਹਰਾਰੇ,  ହାରାରେ,  ஹராரே,  ฮาราเร,  ཧ་ར་རི།,  ჰარარე,  ሀራሬ,  ハラレ,  哈拉雷,  하라레
+Alternate Names: Arare, Charare, HRE, Harare, Hararensis Urbs, Harareo, Hararė, Kharare, Kharareh, Salisbury, ha la lei, halale, harare, harary, hrarh, hrary, Χαράρε, Хараре, Харарэ, Հարարե, הארארה, هارارى, هراره, هراري, ھارارې, ھەرارێ, ہرارے, हरारे, ਹਰਾਰੇ, ହାରାରେ, ஹராரே, ฮาราเร, ཧ་ར་རི།, ჰარარე, ሀራሬ, ハラレ, 哈拉雷, 하라레
 
 ---

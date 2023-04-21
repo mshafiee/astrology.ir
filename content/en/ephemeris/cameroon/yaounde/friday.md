@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'11.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°59'35.92" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°41'1.02" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°51'5.37" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°34'49.39" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'21.34" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°35'4.89" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°59'36.19" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°41'2.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°51'6.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°34'51.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'24.18" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°47'0.91" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°38'11.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°59'35.92" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°41'1.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°51'5.37" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°34'49.39" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'21.34" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°35'4.89" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°59'36.19" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°41'2.57" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°51'6.78" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°34'51.79" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'24.18" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°47'0.91" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Giaounte,  Jande,  Jaunde,  Jaundeh,  Jaundeo,  Jaundė,  Jaúnde,  Jánde,  YAO,  Yaounde,  Yaoundé,  Yaunde,  Yaundé,  Yawunde,  iaunde,  ya wen de,  ya'unde,  yaunde,  yavunte,  yawndy,  yaxunde,  yaywndh,  ye wen de,  Γιαουντέ,  Јаунде,  Яунде,  Яўндэ,  Յաունդե,  יאונדה,  יאונדע,  ياوندي,  یاؤندے,  یائونده,  یائوندێ,  یاونڈی,  याउंदे,  ਯਾਊਂਦੇ,  யாவுண்டே,  ยาอุนเด,  ཡོན་དྷི།,  იაუნდე,  ያዉንዴ,  ヤウンデ,  耶溫得,  雅温得,  야운데
+Alternate Names: Giaounte, Jande, Jaunde, Jaundeh, Jaundeo, Jaundė, Jaúnde, Jánde, YAO, Yaounde, Yaoundé, Yaunde, Yaundé, Yawunde, iaunde, ya wen de, ya'unde, yaunde, yavunte, yawndy, yaxunde, yaywndh, ye wen de, Γιαουντέ, Јаунде, Яунде, Яўндэ, Յաունդե, יאונדה, יאונדע, ياوندي, یاؤندے, یائونده, یائوندێ, یاونڈی, याउंदे, ਯਾਊਂਦੇ, யாவுண்டே, ยาอุนเด, ཡོན་དྷི།, იაუნდე, ያዉንዴ, ヤウンデ, 耶溫得, 雅温得, 야운데
 
 ---

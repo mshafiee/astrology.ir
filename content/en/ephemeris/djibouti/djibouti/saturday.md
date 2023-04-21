@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'44.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°12'38.03" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°10'13.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°43'59.43" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°36'59.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'24.10" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°14'12.56" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°12'40.65" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°10'15.18" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°44'14.66" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°37'9.82" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'46.42" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°44'0.81" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°12'40.65" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°10'15.18" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°44'14.66" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°36'59.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'24.10" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°14'12.56" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°37'9.82" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'46.42" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°44'0.81" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Byen Djibouti,  Cibuti,  Dinas Jibwti,  Diobuiti,  Diobúití,  Djiboeti,  Djibouti,  Djibouti Chhi,  Djibouti Chhī,  Djibuti,  Dschibuti,  Dzhibuti,  Dzhybuci,  Dzibuti,  Dzibutis,  Dzjibuty,  Dzjibûty,  Dzsibuti,  Dżibuti,  Džibuti,  Džibutis,  Džíbútí,  Gibuti,  Gibuto,  Gibutum,  Ilu Djibouti,  JIB,  Jabuuti,  Jiboti,  Jibouti,  Jibuti,  Lungsod ng Djibouti,  Mbanza ya Djibuti,  Sita Jibouti,  Syudad han Djibouti,  Tzimpouti,  Xibuti,  Xibutí,  Yibuti,  Zhibuti shaary,  ci buti,  ciputti,  dzsybwty,  gybwty,  jbwty,  jbwty ʿlaqہ,  ji bu de shi,  ji bu ti cheng,  jibuchi shi,  jibuti,  jybwty,  jybwwty,  Ìlú Djibouti,  Ĝibuto,  Τζιμπουτί,  Џибути,  Джибути,  Джибуті,  Джыбуці,  Жибути шаары,  Ҷибути,  Ջիբութի,  גיבוטי,  דזשיבוטי,  جبوتی,  جبوتی علاقہ,  جيبوتي,  جیبوتی,  جیبووتی,  जिबूती,  জিবুতি,  ਜਿਬੂਤੀ,  சீபூத்தீ,  จิบูตี,  ཇི་བའོ་ཊི།,  ჯიბუტი,  ジブチ市,  吉布地市,  吉布提城,  지부티
+Alternate Names: Byen Djibouti, Cibuti, Dinas Jibwti, Diobuiti, Diobúití, Djiboeti, Djibouti, Djibouti Chhi, Djibouti Chhī, Djibuti, Dschibuti, Dzhibuti, Dzhybuci, Dzibuti, Dzibutis, Dzjibuty, Dzjibûty, Dzsibuti, Dżibuti, Džibuti, Džibutis, Džíbútí, Gibuti, Gibuto, Gibutum, Ilu Djibouti, JIB, Jabuuti, Jiboti, Jibouti, Jibuti, Lungsod ng Djibouti, Mbanza ya Djibuti, Sita Jibouti, Syudad han Djibouti, Tzimpouti, Xibuti, Xibutí, Yibuti, Zhibuti shaary, ci buti, ciputti, dzsybwty, gybwty, jbwty, jbwty ʿlaqہ, ji bu de shi, ji bu ti cheng, jibuchi shi, jibuti, jybwty, jybwwty, Ìlú Djibouti, Ĝibuto, Τζιμπουτί, Џибути, Джибути, Джибуті, Джыбуці, Жибути шаары, Ҷибути, Ջիբութի, גיבוטי, דזשיבוטי, جبوتی, جبوتی علاقہ, جيبوتي, جیبوتی, جیبووتی, जिबूती, জিবুতি, ਜਿਬੂਤੀ, சீபூத்தீ, จิบูตี, ཇི་བའོ་ཊི།, ჯიბუტი, ジブチ市, 吉布地市, 吉布提城, 지부티
 
 ---

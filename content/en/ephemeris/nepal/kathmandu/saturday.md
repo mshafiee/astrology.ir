@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'6.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°10'49.70" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°6'7.36" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°36'43.24" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°28'21.61" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'14.97" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°53'50.10" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°10'49.34" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°6'11.95" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°36'40.66" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°28'25.12" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'14.12" |Aries|Butain|Sun|
+|☾ Moon|Direct|24°57'58.21" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'6.07" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°10'49.70" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°6'7.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°36'43.24" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°28'21.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'14.97" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°56'57.56" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|14°6'11.95" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°36'40.66" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°28'25.12" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'14.12" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°57'58.21" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Catmandu,  Catmandum,  KTM,  Kantipur,  Kantipura,  Katemandu,  Kathmandau,  Kathmandou,  Kathmandu,  Katmando,  Katmandoe,  Katmandou,  Katmandu,  Katmanduo,  Katmandó,  Katmandú,  Katmandû,  Katmandū,  Katmantou,  Khatmandu,  Káthmandu,  Káthmándú,  jia de man dou,  kateumandu,  kath manthu,  kathamadaum,  kathamadaum mahanagarapalika,  kathamadu,  kathamandu,  kathmandu,  katmandw,  katmandww,  katmantu,  katomanzu,  qtmndw,  yem jilla,  Κατμαντού,  Катманду,  Կատմանդու,  קאטמאנדו,  קטמנדו,  كاتماندو,  كاتماندۇ,  کاتماندو,  کاتماندوو,  کھٹمنڈو,  काठमांडू,  काठमाडौं,  काठमाडौं महानगरपालिका,  काठमाण्डू,  येँ जिल्ला,  কাঠমাণ্ডু,  কাঠমান্ডু,  ਕਠਮੰਡੂ,  કાઠમંડુ,  କାଠମାଣ୍ଡୁ,  காட்மாண்டு,  కాఠ్మండు,  ಕಠ್ಮಂಡು,  കാഠ്മണ്ഡു,  කත්මන්ඩු,  กาฐมาณฑุ,  ཀ་ཏ་མན་ཏ།,  ཀ་ཏ་མན་ཏུ།,  კატმანდუ,  ካትማንዱ,  カトマンズ,  加德滿都,  카트만두
+Alternate Names: Catmandu, Catmandum, KTM, Kantipur, Kantipura, Katemandu, Kathmandau, Kathmandou, Kathmandu, Katmando, Katmandoe, Katmandou, Katmandu, Katmanduo, Katmandó, Katmandú, Katmandû, Katmandū, Katmantou, Khatmandu, Káthmandu, Káthmándú, jia de man dou, kateumandu, kath manthu, kathamadaum, kathamadaum mahanagarapalika, kathamadu, kathamandu, kathmandu, katmandw, katmandww, katmantu, katomanzu, qtmndw, yem jilla, Κατμαντού, Катманду, Կատմանդու, קאטמאנדו, קטמנדו, كاتماندو, كاتماندۇ, کاتماندو, کاتماندوو, کھٹمنڈو, काठमांडू, काठमाडौं, काठमाडौं महानगरपालिका, काठमाण्डू, येँ जिल्ला, কাঠমাণ্ডু, কাঠমান্ডু, ਕਠਮੰਡੂ, કાઠમંડુ, କାଠମାଣ୍ଡୁ, காட்மாண்டு, కాఠ్మండు, ಕಠ್ಮಂಡು, കാഠ്മണ്ഡു, කත්මන්ඩු, กาฐมาณฑุ, ཀ་ཏ་མན་ཏ།, ཀ་ཏ་མན་ཏུ།, კატმანდუ, ካትማንዱ, カトマンズ, 加德滿都, 카트만두
 
 ---

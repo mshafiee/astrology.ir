@@ -20,7 +20,7 @@ Latitude: 59.3294
 \-
 Longitude: 18.0687
 \-
-Altitude: 17 meters
+Altitude: 12 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Stockholm, Sweden" lat="59.3294" lng="18.0687" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'47.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'30.13" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°38'38.53" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°46'37.46" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°29'39.93" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'17.11" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°34'39.96" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°58'30.07" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°38'38.14" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°46'37.15" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°29'39.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'16.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°31'58.23" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'47.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'30.13" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°38'38.53" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°46'37.46" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°29'39.93" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'17.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°34'39.96" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'30.07" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°38'38.14" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°46'37.15" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°29'39.34" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'16.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°31'58.23" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Estocolm,  Estocolme,  Estocolmo,  Estocolmu,  Estocòlme,  Estokolma,  Estokolmo,  Holmia,  STO,  Stakgol'm,  Stjokolna,  Stoccholm,  Stoccolma,  Stockholbma,  Stockholm,  Stockolm,  Stocolm,  Stocolma,  Stocòlma,  Stocólma,  Stokcholme,  Stokgol'm,  Stokgol'm osh,  Stokgolm,  Stokhol'm,  Stokholm,  Stokholma,  Stokholmas,  Stokholmi,  Stokholmo,  Stokkholm,  Stokkholmur,  Stokkhólmur,  Stokkolma,  Stokol'ma,  Stokolm,  Stuculma,  Stuokhuolms,  Stócólm,  Sztokholm,  Sztokhòlm,  Tukholma,  astkhlm,  satakahoma,  seutogholleum,  si de ge er mo,  stak'hom,  stakahoma,  stokahoma,  stwkhwlm,  stwqhwlm,  stxkholm,  sutokkuhorumu,  Štokholm,  Στοκχόλμη,  Стакгольм,  Стокhольм,  Стокгольм,  Стокгольм ош,  Стокольма,  Стокхолм,  Стокҳолм,  Стёколна,  Ստոկհոլմ,  סטוקהולם,  שטאקהאלם,  استکهلم,  ستوكهولم,  ستۆکھۆڵم,  سٹاکہوم,  ܣܛܘܩܗܘܠܡ,  स्टकहोम,  स्टॉकहोम,  स्तकहोम,  স্টকহোম,  ਸਟਾਕਹੋਮ,  ஸ்டாக்ஹோம்,  స్టాక్
+Alternate Names: Estocolm, Estocolme, Estocolmo, Estocolmu, Estocòlme, Estokolma, Estokolmo, Holmia, STO, Stakgol'm, Stjokolna, Stoccholm, Stoccolma, Stockholbma, Stockholm, Stockolm, Stocolm, Stocolma, Stocòlma, Stocólma, Stokcholme, Stokgol'm, Stokgol'm osh, Stokgolm, Stokhol'm, Stokholm, Stokholma, Stokholmas, Stokholmi, Stokholmo, Stokkholm, Stokkholmur, Stokkhólmur, Stokkolma, Stokol'ma, Stokolm, Stuculma, Stuokhuolms, Stócólm, Sztokholm, Sztokhòlm, Tukholma, astkhlm, satakahoma, seutogholleum, si de ge er mo, stak'hom, stakahoma, stokahoma, stwkhwlm, stwqhwlm, stxkholm, sutokkuhorumu, Štokholm, Στοκχόλμη, Стакгольм, Стокhольм, Стокгольм, Стокгольм ош, Стокольма, Стокхолм, Стокҳолм, Стёколна, Ստոկհոլմ, סטוקהולם, שטאקהאלם, استکهلم, ستوكهولم, ستۆکھۆڵم, سٹاکہوم, ܣܛܘܩܗܘܠܡ, स्टकहोम, स्टॉकहोम, स्तकहोम, স্টকহোম, ਸਟਾਕਹੋਮ, ஸ்டாக்ஹோம், స్టాక్‌హోమ్, ಸ್ಟಾಕ್‍ಹೋಮ್, സ്റ്റോക്ക്‌ഹോം, สตอกโฮล์ม, སི་ཏོག་ཧོ་ལིམ།, စတော့ဟုမ်းမြို့, სტოკჰოლმი, ስቶኮልም, ᔅᑑᒃᓱᓪᒻ/stuukhulm, ストックホルム, 斯德哥尔摩, 斯德哥爾摩, 스톡홀름, 𐍃𐍄𐌿𐌺𐌺𐌰𐌷𐌿𐌻𐌼𐍃
 
 ---

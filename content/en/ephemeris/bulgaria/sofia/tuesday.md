@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'32.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°56'12.65" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°48'12.77" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°41'17.96" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°4'8.23" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'41.10" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°33'48.95" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°56'12.77" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°48'11.22" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°41'18.60" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°4'6.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'41.94" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°13'25.65" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'32.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°56'12.65" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°48'12.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°41'17.96" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°4'8.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'41.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°27'0.74" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°56'12.52" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°48'11.22" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°41'18.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°4'6.79" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'41.94" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°13'25.65" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: SOF,  Safija,  Serdica,  Sofi,  Sofia,  Sofiae,  Sofie,  Sofii,  Sofij,  Sofija,  Sofija osh,  Sofijo,  Sofio,  Sofiya,  Sofiä,  Sofiýa,  Sofja,  Sofya,  Sofía,  Soifia,  Sophia,  Sredets,  Suofeje,  Suofėjė,  Szofia,  Szófia,  Sòfia,  Sófia,  Sófía,  Sóifia,  Ulpia Serdica,  cohviya,  saphiya,  seaphiya,  sofeiy,  sofi'a,  sofia,  sophiya,  sopia,  suo fei ya,  swfya,  swfyh,  swpyh,  Σόφια,  Сафія,  Софи,  Софий,  София,  София ош,  Софија,  Софія,  Софїꙗ,  Սոֆիա,  סאפיע,  סופיה,  سوفىيە,  سۆفیا,  صوفيا,  صوفیه,  صوفیہ,  صوٙفیە,  सोफिया,  সফিয়া,  ਸੋਫ਼ੀਆ,  சோஃவியா,  സോഫിയ,  โซเฟีย,  སོ་ཧྥི་ཡ།,  სოფია,  ሶፊያ,  ソフィア,  索菲亞,  소피아,  𐍃𐍉𐍆𐌹𐌰
+Alternate Names: SOF, Safija, Serdica, Sofi, Sofia, Sofiae, Sofie, Sofii, Sofij, Sofija, Sofija osh, Sofijo, Sofio, Sofiya, Sofiä, Sofiýa, Sofja, Sofya, Sofía, Soifia, Sophia, Sredets, Suofeje, Suofėjė, Szofia, Szófia, Sòfia, Sófia, Sófía, Sóifia, Ulpia Serdica, cohviya, saphiya, seaphiya, sofeiy, sofi'a, sofia, sophiya, sopia, suo fei ya, swfya, swfyh, swpyh, Σόφια, Сафія, Софи, Софий, София, София ош, Софија, Софія, Софїꙗ, Սոֆիա, סאפיע, סופיה, سوفىيە, سۆفیا, صوفيا, صوفیه, صوفیہ, صوٙفیە, सोफिया, সফিয়া, ਸੋਫ਼ੀਆ, சோஃவியா, സോഫിയ, โซเฟีย, སོ་ཧྥི་ཡ།, სოფია, ሶፊያ, ソフィア, 索菲亞, 소피아, 𐍃𐍉𐍆𐌹𐌰
 
 ---

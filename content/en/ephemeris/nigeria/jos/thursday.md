@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°33'6.94" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|4°33'6.89" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°45'14.06" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°9'3.74" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°52'43.95" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°26'19.61" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'35.65" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°14'20.60" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°9'4.13" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°52'43.87" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°26'19.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'35.80" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°13'47.55" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°33'7.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°45'13.64" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°8'59.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°52'43.95" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°26'14.22" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°33'30.22" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°0'12.96" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°33'6.94" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|23°45'14.06" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°9'4.13" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°52'43.87" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°26'19.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°33'35.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°13'47.55" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Dzhos,  Dzos,  Dżos,  JOS,  Jos,  joseu,  josu,  jws,  jws  nayjyrya,  qiao si,  Џос,  Джос,  Йос,  جوس,  جوس، نائجیریا,  ジョス,  乔斯,  조스
+Alternate Names: Dzhos, Dzos, Dżos, JOS, Jos, joseu, josu, jws, jws  nayjyrya, qiao si, Џос, Джос, Йос, جوس, جوس، نائجیریا, ジョス, 乔斯, 조스
 
 ---

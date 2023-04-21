@@ -331,9 +331,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'47.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'25.92" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°36'33.85" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°32'0.96" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°24'26.09" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°36'36.54" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°32'1.89" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°33'8.14" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°30'15.69" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|7°6'39.53" |Gemini|HanAh|Jupiter|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CTU,  Ccheng-tu,  Cendu,  Cengdu,  Cengduo,  Ch'eng-tu,  Ch'eng-tu-hsien,  Ch'eng-tu-shih,  Chehndu,  Chendu,  Chengdu,  Chengdu Shi,  Chengdú,  Chundu,  Chөndү,  Ch’eng-tu,  Ch’eng-tu-hsien,  Ch’eng-tu-shih,  Csengtu,  Cwngzduh,  Hua-yang,  Sang-tu-su,  Seng-to-chhi,  Sing-du,  Sàng-tû-sṳ,  Sêng-to͘-chhī,  Sìng-dŭ,  Thanh Do,  Thành Đô,  Tsen'nkntou,  Txengdu,  cengadu,  centu,  chantu,  cheing tu,  cheng dou,  cheng dou shi,  cheongdu si,  chngdw,  chyngdw,  chېngdۇ shەھyr,  tshnghdw,  zngdw,  Çengdu,  Ĉengduo,  Čcheng-tu,  Čendu,  Čengdu,  Τσενγκντού,  Ченгду,  Ченду,  Чънду,  Чыңду,  Чэнду,  Чөндү,  Չենդու,  צנגדו,  تشنغدو,  چنگدو,  چینگدو,  چېڭدۇ شەھىر,  चेंगदू,  छंतू,  ਚੇਂਗਦੂ,  செங்டூ,  เฉิงตู,  ချင်းဒူမြို့,  成都,  成都市,  청두 시
+Alternate Names: CTU, Ccheng-tu, Cendu, Cengdu, Cengduo, Ch'eng-tu, Ch'eng-tu-hsien, Ch'eng-tu-shih, Chehndu, Chendu, Chengdu, Chengdu Shi, Chengdú, Chundu, Chөndү, Ch’eng-tu, Ch’eng-tu-hsien, Ch’eng-tu-shih, Csengtu, Cwngzduh, Hua-yang, Sang-tu-su, Seng-to-chhi, Sing-du, Sàng-tû-sṳ, Sêng-to͘-chhī, Sìng-dŭ, Thanh Do, Thành Đô, Tsen'nkntou, Txengdu, cengadu, centu, chantu, cheing tu, cheng dou, cheng dou shi, cheongdu si, chngdw, chyngdw, chېngdۇ shەھyr, tshnghdw, zngdw, Çengdu, Ĉengduo, Čcheng-tu, Čendu, Čengdu, Τσενγκντού, Ченгду, Ченду, Чънду, Чыңду, Чэнду, Чөндү, Չենդու, צנגדו, تشنغدو, چنگدو, چینگدو, چېڭدۇ شەھىر, चेंगदू, छंतू, ਚੇਂਗਦੂ, செங்டூ, เฉิงตู, ချင်းဒူမြို့, 成都, 成都市, 청두 시
 
 ---

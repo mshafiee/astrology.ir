@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'58.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°42'2.70" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°1'59.02" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°39'46.21" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°11'6.31" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°31'54.90" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°30'13.90" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°42'2.54" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°1'58.38" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°39'45.35" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°11'5.17" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'53.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°58'6.82" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°31'58.91" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°42'2.70" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°1'59.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°39'46.21" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°11'6.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'54.90" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°3'27.01" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|29°39'45.35" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°11'5.17" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'53.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°58'6.82" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: IXR,  Ranchi,  Ranci,  Rancis,  Rancsi,  Ranĉi,  Rančis,  Ráncsí,  Ráňčí,  Rānchi,  Rānchī,  lan qi,  lanchi,  raci,  ramci,  ranchi,  ranchy,  ranci,  ranci jilla,  ranshy,  rʼnzy,  Ранчи,  Ранчі,  ראנצי,  رانشي,  رانچي,  رانچی,  राँची,  रांची,  रांची जिल्ला,  রাঁচি,  রাচি,  ਰਾਂਚੀ,  રાંચી,  ରାଞ୍ଚି,  ராஞ்சி,  రాంచీ,  ರಾಂಚಿ,  റാഞ്ചി,  რანჩი,  ラーンチー,  蘭契,  란치
+Alternate Names: IXR, Ranchi, Ranci, Rancis, Rancsi, Ranĉi, Rančis, Ráncsí, Ráňčí, Rānchi, Rānchī, lan qi, lanchi, raci, ramci, ranchi, ranchy, ranci, ranci jilla, ranshy, rʼnzy, Ранчи, Ранчі, ראנצי, رانشي, رانچي, رانچی, राँची, रांची, रांची जिल्ला, রাঁচি, রাচি, ਰਾਂਚੀ, રાંચી, ରାଞ୍ଚି, ராஞ்சி, రాంచీ, ರಾಂಚಿ, റാഞ്ചി, რანჩი, ラーンチー, 蘭契, 란치
 
 ---

@@ -291,9 +291,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°56'4.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°51'49.53" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°38'18.52" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°56'5.17" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°51'51.17" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°38'22.19" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°23'33.73" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|15°43'27.78" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°3'37.49" |Aries|Butain|Sun|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'5.17" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°51'49.53" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°38'18.52" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°23'24.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°43'18.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°3'21.28" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°2'1.42" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°51'51.17" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°38'22.19" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°23'33.74" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°43'28.12" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°3'37.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°57'34.28" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kejuots,  Kiaⁿ-to͘-chhī,  Kijota,  Kiotas,  Kioto,  Kiotó,  Kjoto,  Kjóto,  Kyoto,  Kyoto-shi,  Kyotu,  Kyotum,  Kyōto,  Kyōto-shi,  Kėjuots,  Lungsod ng Kyoto,  Quioto,  UKY,  gyoto si,  jing dou,  jing dou shi,  kheiyw toa,  ki'oto,  kiyoto,  kiyotto,  kyeattea,  kyoto,  kyouto,  kyoutoshi,  kywtw,  qywtw,  Κιότο,  Киото,  Кёто,  Кіото,  Кіёта,  Кјото,  Կիոտո,  קיאטא,  קיוטו,  كيوتو,  کیوتو,  کیوٹو,  ܩܝܘܛܘ,  क्योटो,  क्योतो,  কিয়োটো,  ਕਿਓਤੋ,  கியோத்தோ,  ക്യോത്തോ,  ක්යෝතෝ,  เคียวโตะ,  ཁེཡོ་ཐྲོ།,  ကျိုတိုမြို့,  კიოტო,  きょうとし,  キョウト,  京都,  京都市,  교토 시
+Alternate Names: Kejuots, Kiaⁿ-to͘-chhī, Kijota, Kiotas, Kioto, Kiotó, Kjoto, Kjóto, Kyoto, Kyoto-shi, Kyotu, Kyotum, Kyōto, Kyōto-shi, Kėjuots, Lungsod ng Kyoto, Quioto, UKY, gyoto si, jing dou, jing dou shi, kheiyw toa, ki'oto, kiyoto, kiyotto, kyeattea, kyoto, kyoutoshi, kywtw, qywtw, Κιότο, Киото, Кёто, Кіото, Кіёта, Кјото, Կիոտո, קיאטא, קיוטו, كيوتو, کیوتو, کیوٹو, ܩܝܘܛܘ, क्योटो, क्योतो, কিয়োটো, ਕਿਓਤੋ, கியோத்தோ, ക്യോത്തോ, ක්යෝතෝ, เคียวโตะ, ཁེཡོ་ཐྲོ།, ကျိုတိုမြို့, კიოტო, きょうとし, 京都, 京都市, 교토 시
 
 ---

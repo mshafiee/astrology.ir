@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'44.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'21.15" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°38'16.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°46'0.14" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°29'1.40" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'15.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°22'47.71" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°58'21.08" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°38'15.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°45'59.81" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°28'53.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'8.85" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°55'58.33" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'44.67" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'21.15" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°38'16.79" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°46'0.14" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°28'54.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'10.02" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°0'20.58" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'21.08" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°38'15.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°45'59.81" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°28'53.53" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'8.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°55'58.33" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: IVilnyusi,  VNO,  Vil'njus,  Vil'no,  Vil'nyus,  Viln',  Vilna,  Vilnia,  Vilnias,  Vilniaus miestas,  Vilnious,  Vilnis,  Vilnius,  Vilnjus,  Vilnjûs,  Vilno,  Vilnues,  Vilnus,  Vilnyus,  Vilníus,  Vilnüs,  Viļņa,  Vílnius,  Wilna,  Wilnius,  Wilno,  Wilnus,  Wilñus,  bhilani'usa,  bilnyuseu,  fylnyws,  vhilniyasa,  vilniusi,  vilniyas,  vuirinyusu,  vylnyws,  wei er niu si,  wi lni xus,  wlnys,  wylnh,  wylnyws,  Βίλνα,  Βίλνιους,  Βιλνιους,  Вилниус,  Вилнус,  Вилнюс,  Вилн҄ь,  Вильнюс,  Вилњус,  Виљнус,  Вільнюс,  Վիլնյուս,  ווילנע,  וילנה,  فيلنيوس,  ولنیس,  ویلنیوس,  ڤیلنیوس,  व्हिल्नियस,  ভিলনিউস,  வில்னியஸ்,  วิลนีอุส,  ལྦེ་ནི་སུ་ནི།,  ვილნიუსი,  ቪልኒውስ,  ᕕᓪᓂᐅᔅ/vilnius,  ヴィリニュス,  维尔纽斯,  빌뉴스
+Alternate Names: IVilnyusi, VNO, Vil'njus, Vil'no, Vil'nyus, Viln', Vilna, Vilnia, Vilnias, Vilniaus miestas, Vilnious, Vilnis, Vilnius, Vilnjus, Vilnjûs, Vilnues, Vilnus, Vilnyus, Vilníus, Vilnüs, Viļņa, Vílnius, Wilna, Wilnius, Wilno, Wilnus, Wilñus, bhilani'usa, bilnyuseu, fylnyws, vhilniyasa, vilniusi, vilniyas, vu~irinyusu, vylnyws, wei er niu si, wi lni xus, wlnys, wylnh, wylnyws, Βίλνα, Βίλνιους, Βιλνιους, Вилниус, Вилнус, Вилнюс, Вилн҄ь, Вильнюс, Вилњус, Виљнус, Вільнюс, Վիլնյուս, ווילנע, וילנה, فيلنيوس, ولنیس, ویلنیوس, ڤیلنیوس, व्हिल्नियस, ভিলনিউস, வில்னியஸ், วิลนีอุส, ལྦེ་ནི་སུ་ནི།, ვილნიუსი, ቪልኒውስ, ᕕᓪᓂᐅᔅ/vilnius, ヴィリニュス, 维尔纽斯, 빌뉴스
 
 ---

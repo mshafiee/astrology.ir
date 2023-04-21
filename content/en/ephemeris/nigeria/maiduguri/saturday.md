@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'9.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°13'51.03" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°12'59.47" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°48'57.76" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°42'50.92" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'12.51" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°16'9.27" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°13'52.56" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°12'56.12" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°49'6.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°42'52.28" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'23.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°49'2.39" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°13'52.56" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°12'56.12" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°49'6.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°42'52.28" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'23.28" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°16'9.27" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°42'51.86" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'23.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°47'20.72" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: MIU,  Maidiguri,  Maidugari,  Maiduguri,  Maiduguris,  Majduguri,  mai du gu li,  maidouguri,  maiduguli,  maydwghwry,  maydwgwrw,  maydwjwry,  mydghry,  mydwgwry,  Маидугури,  Майдугури,  Майдугурі,  מידוגורי,  مايدوجوري,  مايدوغوري,  مايدوگورو,  ميدغري,  マイドゥグリ,  邁杜古里,  마이두구리
+Alternate Names: MIU, Maidiguri, Maidugari, Maiduguri, Maiduguris, Majduguri, mai du gu li, maido~uguri, maiduguli, maydwghwry, maydwgwrw, maydwjwry, mydghry, mydwgwry, Маидугури, Майдугури, Майдугурі, מידוגורי, مايدوجوري, مايدوغوري, مايدوگورو, ميدغري, マイドゥグリ, 邁杜古里, 마이두구리
 
 ---

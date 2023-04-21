@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'7.41" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°43'1.84" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°18'26.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°47'40.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°1'33.07" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'18.32" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°32'8.36" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|15°18'26.61" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°47'40.53" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°1'33.37" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'18.48" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°34'20.06" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°53'7.41" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°43'1.84" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°18'26.34" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°47'27.33" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°1'20.16" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°13'56.09" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°11'53.21" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°18'26.61" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°47'40.53" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°1'33.37" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'18.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°34'20.06" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: ILR,  Illorin,  Ilorin,  Ilorinas,  Iloryn,  alwrn,  illolin,  irorin,  yi luo lin,  Ілорын,  Илорин,  אילורין,  الورن,  イロリン,  伊洛林,  일로린
+Alternate Names: ILR, Illorin, Ilorin, Ilorinas, Iloryn, alwrn, illolin, irorin, yi luo lin, Ілорын, Илорин, אילורין, الورن, イロリン, 伊洛林, 일로린
 
 ---

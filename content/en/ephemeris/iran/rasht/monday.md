@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°52'24.09" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°40'53.63" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°13'37.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°38'58.04" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°51'24.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'29.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°29'6.86" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|3°38'59.09" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°51'25.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'31.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°36'30.99" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: RAS,  Raixt,  Rascht,  Rasht,  Rasjt,  Rast,  Rasto,  Raszt,  Raŝto,  Rašt,  Reshh,  Resht,  Rest,  Restas,  Reşt,  Reštas,  Rəşt,  la shen te,  lasyuteu,  rashuto,  rasta,  reshti,  rsht,  Рашт,  Решт,  Рещ,  Рәшт,  Ռեշտ,  ראשת,  رشت,  ڕەشت,  रश्त,  แรชต์,  რეშთი,  ラシュト,  拉什特,  라슈트
+Alternate Names: RAS, Raixt, Rascht, Rasht, Rasjt, Rast, Rasto, Raszt, Raŝto, Rašt, Reshh, Resht, Rest, Restas, Reşt, Reštas, Rəşt, la shen te, lasyuteu, rashuto, rasta, reshti, rsht, Рашт, Решт, Рещ, Рәшт, Ռեշտ, ראשת, رشت, ڕەشت, रश्त, แรชต์, რეშთი, ラシュト, 拉什特, 라슈트
 
 ---

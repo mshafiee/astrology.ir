@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'50.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°39'14.20" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°9'53.47" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°32'14.08" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°43'31.43" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°18'14.81" |Aries|Butain|Sun|
-|☾ Moon|Direct|20°10'42.82" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|24°39'14.29" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°9'53.45" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°32'14.56" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°43'31.66" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°18'15.51" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°12'0.52" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'50.49" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°39'14.20" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°9'53.47" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°32'14.08" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°43'31.43" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°18'14.81" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°10'42.82" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°9'53.45" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°32'14.56" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°43'31.66" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°18'15.51" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°12'0.52" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: MDL,  Mandalaj,  Mandalaja,  Mandalajo,  Mandalajus,  Mandalay,  Mandalay piirkond,  Mandale,  Mandalej,  man de lei,  mandalay,  mandale,  mandallei,  mandaly,  mandare,  mantalai,  manth a ley,  Мандалай,  Мандалеј,  ماندالاي,  ماندالی,  ماندالے,  मांडले,  माण्डले,  மண்டலை,  మాండలే,  มัณฑะเลย์,  မန္တလေးမြို့,  マンダレー,  曼德勒,  만달레이
+Alternate Names: MDL, Mandalaj, Mandalaja, Mandalajo, Mandalajus, Mandalay, Mandalay piirkond, Mandale, Mandalej, man de lei, mandalay, mandale, mandallei, mandaly, mandare, mantalai, manth a ley, Мандалай, Мандалеј, ماندالاي, ماندالی, ماندالے, मांडले, माण्डले, மண்டலை, మాండలే, มัณฑะเลย์, မန္တလေးမြို့, マンダレー, 曼德勒, 만달레이
 
 ---

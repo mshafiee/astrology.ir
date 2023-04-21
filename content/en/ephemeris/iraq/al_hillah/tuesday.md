@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°55'31.88" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°46'41.30" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|4°38'32.22" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°0'57.72" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'35.88" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°31'3.71" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|16°0'49.99" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'30.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°31'26.93" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: Al Hilla,  Al Hillah,  Al Ḩillah,  Al'-Khilla,  Al-Hella,  Hilah,  Hilla,  Hille,  Hillé,  alhlt,  Аль-Хилла,  الحلة
+Alternate Names: Al Hilla, Al Hillah, Al Ḩillah, Al'-Khilla, Al-Hella, Hilah, Hilla, Hille, Hillé, alhlt, Аль-Хилла, الحلة
 
 ---

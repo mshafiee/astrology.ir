@@ -20,7 +20,7 @@ Latitude: 53.5507
 \-
 Longitude: 9.9930
 \-
-Altitude: 9 meters
+Altitude: 2 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Hamburg, Germany" lat="53.5507" lng="9.9930" zoom="12">}}
 
@@ -38,7 +38,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:04:52 |
 | Dhuhr | 13:18:35 |
 | Medium Coeli | 13:18:35 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 20:58:42 |
 | Isha | 22:22:48 |
 | Sharia Midnight | 00:13:25 |
@@ -54,10 +54,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:04:52 |
 | Dhuhr | 13:18:35 |
 | Medium Coeli | 13:18:35 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 21:02:31 |
 | Isha | 22:22:48 |
-| Sharia Midnight | 00:03:59 |
+| Sharia Midnight | 00:04:00 |
 | Imum Coeli | 01:18:29 |
 {{< /tab >}}
 
@@ -70,10 +70,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:04:52 |
 | Dhuhr | 13:18:35 |
 | Medium Coeli | 13:18:35 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 20:35:08 |
 | Isha | 22:53:49 |
-| Sharia Midnight | 00:02:13 |
+| Sharia Midnight | 00:02:14 |
 | Imum Coeli | 01:18:29 |
 {{< /tab >}}
 
@@ -86,7 +86,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:04:52 |
 | Dhuhr | 13:18:35 |
 | Medium Coeli | 13:18:35 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 20:35:08 |
 | Isha | 22:32:39 |
 | Sharia Midnight | 00:18:34 |
@@ -102,7 +102,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:04:52 |
 | Dhuhr | 13:18:35 |
 | Medium Coeli | 13:18:35 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 20:35:08 |
 | Isha | 22:59:29 |
 | Sharia Midnight | 23:52:41 |
@@ -118,10 +118,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:04:52 |
 | Dhuhr | 13:18:35 |
 | Medium Coeli | 13:18:35 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 20:35:08 |
 | Isha | 23:05:22 |
-| Sharia Midnight | 00:02:13 |
+| Sharia Midnight | 00:02:14 |
 | Imum Coeli | 01:18:29 |
 {{< /tab >}}
 
@@ -134,10 +134,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:04:52 |
 | Dhuhr | 13:18:35 |
 | Medium Coeli | 13:18:35 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 20:35:08 |
 | Isha | 22:05:08 |
-| Sharia Midnight | 23:59:10 |
+| Sharia Midnight | 23:59:11 |
 | Imum Coeli | 01:18:29 |
 {{< /tab >}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:28:39|Night duration: 09:29:09|
+|Duration of the day: 14:28:40|Night duration: 09:29:07|
 |Every hour of day duration: 01:12:23|Every hour of night duration: 00:47:26|
 
  
@@ -212,32 +212,32 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|06:04:52|07:17:14|Creating peace among people|
 |2|Jupiter|Servant|07:17:15|08:29:37|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|08:29:38|09:42:00|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|09:42:01|10:54:24|Bringing luck and favor|
+|3|Mars|Servant|08:29:38|09:42:01|Conquering, judging, and issuing verdicts|
+|4|Sun|Servant|09:42:02|10:54:24|Bringing luck and favor|
 |5|Venus|Servant|10:54:25|12:06:47|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|12:06:48|13:19:10|Avoiding any harmful action|
-|7|Moon|Servant|13:19:11|14:31:33|Destroying enemies|
-|8|Saturn|Ruler|14:31:34|15:43:57|Performing all good deeds|
-|9|Jupiter|Servant|15:43:58|16:56:20|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|16:56:21|18:08:43|Achieving marital harmony|
-|11|Sun|Servant|18:08:44|19:21:06|Gaining respect and honor|
-|12|Venus|Servant|19:21:07|20:33:30||
+|6|Mercury|Servant|12:06:48|13:19:11|Avoiding any harmful action|
+|7|Moon|Servant|13:19:12|14:31:34|Destroying enemies|
+|8|Saturn|Ruler|14:31:35|15:43:57|Performing all good deeds|
+|9|Jupiter|Servant|15:43:58|16:56:21|Performing evil deeds for the purpose of gaining power and control|
+|10|Mars|Servant|16:56:22|18:08:44|Achieving marital harmony|
+|11|Sun|Servant|18:08:45|19:21:07|Gaining respect and honor|
+|12|Venus|Servant|19:21:08|20:33:31||
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|20:33:31|21:20:55|Creating peace among people|
-|2|Moon|Servant|21:20:56|22:08:21|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|22:08:22|22:55:47|Conquering, judging, and issuing verdicts|
+|1|Mercury|Ruler|20:33:32|21:20:56|Creating peace among people|
+|2|Moon|Servant|21:20:57|22:08:22|Engaging in hateful actions and evil deeds|
+|3|Saturn|Servant|22:08:23|22:55:47|Conquering, judging, and issuing verdicts|
 |4|Jupiter|Servant|22:55:48|23:43:13|Bringing luck and favor|
 |5|Mars|Servant|23:43:14|00:30:38|Writing, exchanging, and signing contracts|
 |6|Sun|Servant|00:30:39|01:18:04|Avoiding any harmful action|
 |7|Venus|Servant|01:18:05|02:05:30|Destroying enemies|
-|8|Mercury|Ruler|02:05:31|02:52:56|Performing all good deeds|
-|9|Moon|Servant|02:52:57|03:40:21|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:40:22|04:27:47|Achieving marital harmony|
-|11|Jupiter|Servant|04:27:48|05:15:13|Gaining respect and honor|
-|12|Mars|Servant|05:15:14|06:02:39||
+|8|Mercury|Ruler|02:05:31|02:52:55|Performing all good deeds|
+|9|Moon|Servant|02:52:56|03:40:21|Performing evil deeds for the purpose of gaining power and control|
+|10|Saturn|Servant|03:40:22|04:27:46|Achieving marital harmony|
+|11|Jupiter|Servant|04:27:47|05:15:12|Gaining respect and honor|
+|12|Mars|Servant|05:15:13|06:02:38||
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:28:39|Night duration: 09:29:09|
+|Duration of the day: 14:28:40|Night duration: 09:29:07|
 |Every hour duration: 02:04:06|Every hour duration: 01:21:18|
 
  
@@ -260,22 +260,22 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Saturn|Ruler|06:04:52|08:08:56|
 |Mid-morning|Jupiter|Servant|08:08:57|10:13:02|
-|Late morning|Mars|Servant|10:13:03|12:17:07|
-|Noon|Sun|Servant|12:17:08|14:21:13|
-|Early afternoon|Venus|Servant|14:21:14|16:25:18|
-|Mid-afternoon|Mercury|Servant|16:25:19|18:29:24|
-|Late afternoon|Moon|Servant|18:29:25|20:33:30|
+|Late morning|Mars|Servant|10:13:03|12:17:08|
+|Noon|Sun|Servant|12:17:09|14:21:13|
+|Early afternoon|Venus|Servant|14:21:14|16:25:19|
+|Mid-afternoon|Mercury|Servant|16:25:20|18:29:25|
+|Late afternoon|Moon|Servant|18:29:26|20:33:31|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|20:33:31|21:54:48|
-|Late evening|Moon|Servant|21:54:49|23:16:06|
-|Midnight|Saturn|Servant|23:16:07|00:37:25|
+|Evening|Mercury|Ruler|20:33:32|21:54:49|
+|Late evening|Moon|Servant|21:54:50|23:16:07|
+|Midnight|Saturn|Servant|23:16:08|00:37:25|
 |Late at night|Jupiter|Servant|00:37:26|01:58:43|
-|Rooster song|Mars|Servant|01:58:44|03:20:02|
-|False Dawn|Sun|Servant|03:20:03|04:41:20|
-|Dawn|Venus|Servant|04:41:21|06:02:39|
+|Rooster song|Mars|Servant|01:58:44|03:20:01|
+|False Dawn|Sun|Servant|03:20:02|04:41:19|
+|Dawn|Venus|Servant|04:41:20|06:02:38|
 
 {{< /tab >}}
 
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Amborg,  Ambourgo,  Amburgo,  Amburgu,  Augusta Gambriviorum,  Ciutat d'Hamburg,  Estat d'Hamburg,  Gamburg,  HAM,  HH,  Hamboarch,  Hamboerg,  Hamboerj,  Hamborg,  Hambourg,  Hamburch,  Hamburg,  Hamburga,  Hamburgas,  Hamburgo,  Hamburgu,  Hamburgum,  Hamburk,  Hambuurich,  Hambörg,  Hambörj,  Hambùrk,  Hambûrg,  Hamepuka,  Hammaburg [a. 832],  Hampuri,  Hanburgo,  Khamburg,  ham bur k,  hambuleukeu,  hamburgi,  hambwrg,  hambwrgh,  han bao,  han bao shi,  hanburuku,  hemburga,  hmbwrg,  hyambarg,  hʼambwrg,  Ħamburg,  Αμβούργο,  Гамбург,  Гамбурґ,  Хамбург,  Համբուրգ,  האַמבורג,  המבורג,  هامبورغ,  هامبورگ,  ہymbrg,  ہیمبرگ,  ܗܡܒܘܪܓ,  हॅम्बुर्ग,  ಹ್ಯಾಂಬರ್ಗ್,  ฮัมบูร์ก,  ჰამბურგი,  ハンブルク,  汉堡,  汉堡市,  漢堡,  함부르크
+Alternate Names: Amborg, Ambourgo, Amburgo, Amburgu, Augusta Gambriviorum, Ciutat d'Hamburg, Estat d'Hamburg, Gamburg, HAM, HH, Hamboarch, Hamboerg, Hamboerj, Hamborg, Hambourg, Hamburch, Hamburg, Hamburga, Hamburgas, Hamburgo, Hamburgu, Hamburgum, Hamburk, Hambuurich, Hambörg, Hambörj, Hambùrk, Hambûrg, Hamepuka, Hammaburg [a. 832], Hampuri, Hanburgo, Khamburg, ham bur k, hambuleukeu, hamburgi, hambwrg, hambwrgh, han bao, han bao shi, hanburuku, hemburga, hmbwrg, hyambarg, hʼambwrg, Ħamburg, Αμβούργο, Гамбург, Гамбурґ, Хамбург, Համբուրգ, האַמבורג, המבורג, هامبورغ, هامبورگ, ہymbrg, ہیمبرگ, ܗܡܒܘܪܓ, हॅम्बुर्ग, ಹ್ಯಾಂಬರ್ಗ್, ฮัมบูร์ก, ჰამბურგი, ハンブルク, 汉堡, 汉堡市, 漢堡, 함부르크
 
 ---

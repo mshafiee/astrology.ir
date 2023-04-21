@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'29.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°26'27.87" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°41'14.84" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°40'15.79" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°42'52.29" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'52.81" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°0'59.79" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|24°26'28.38" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°41'11.24" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°40'18.96" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°42'50.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'55.31" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°52'1.69" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°26'28.38" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°41'11.24" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°40'18.96" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°42'52.29" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'52.81" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°0'59.79" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|13°42'50.05" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'55.31" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°52'1.69" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: THR,  Taekhran,  Tahran,  Techerane,  Teera,  Teerao,  Teerã,  Teerão,  Tegeran,  Teheran,  Teherana,  Teheranas,  Teherano,  Teherán,  Teherāna,  Tehran,  Tehrano,  Tekheran,  Téhéran,  de hei lan,  teharan,  teharana,  tehelan,  teheran,  tehran,  teirani,  thran,  thrn,  thrwn,  tihiran,  tihran,  Τεχεράνη,  Тæхран,  Тегеран,  Техеран,  Теҳрон,  Թեհրան,  טהראן,  טהרן,  تهران,  تهرون,  تِهران,  تِهِرَن,  تہران,  طهران,  ܛܗܪܐܢ,  तेहरान,  তেহরান,  தெஹ்ரான்,  เตหะราน,  ཏེ་ཧི་རན
+Alternate Names: THR, Taekhran, Tahran, Techerane, Teera, Teerao, Teerã, Teerão, Tegeran, Teheran, Teherana, Teheranas, Teherano, Teherán, Teherāna, Tehran, Tehrano, Tekheran, Téhéran, de hei lan, teharan, teharana, tehelan, teheran, tehran, teirani, thran, thrn, thrwn, tihiran, tihran, Τεχεράνη, Тæхран, Тегеран, Техеран, Теҳрон, Թեհրան, טהראן, טהרן, تهران, تهرون, تِهران, تِهِرَن, تہران, طهران, ܛܗܪܐܢ, तेहरान, তেহরান, தெஹ்ரான், เตหะราน, ཏེ་ཧི་རན​།, თეირანი, ቴህራን, テヘラン, 德黑兰, 테헤란
 
 ---

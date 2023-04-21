@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°51'21.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°37'49.57" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°6'43.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°26'29.20" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°36'49.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°19'34.46" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°48'16.97" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|24°37'49.61" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°6'43.38" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°26'29.43" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°36'49.62" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°19'34.83" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|18°49'36.93" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Binh Nhuong,  Bình Nhưỡng,  FNJ,  Heijo,  Heijo-fu,  Heijō,  Heijō-fu,  Heizyo,  Heizyo Hu,  Heizyō,  Heizyō Hu,  Hpyeng-yang,  P'yongyang,  P'yongyang-si,  P'yŏngyang,  P'yŏngyang-si,  P-hjong-jang,  P-hjöng-jang,  Pchenjanas,  Pchjongjang,  Phenian,  Phenjan,  Phenjana,  Phyeng-yang,  Phyong-yang,  Pienyang,  Pingyang,  Pion'gian'nk,  Pion'nkgian'nk,  Piongiang,  Pionguiangue,  Pionyang,  Pjoengjang,  Pjongian,  Pjongjang,  Pjongjango,  Pjöngjang,  Pkhen'jan,  Pkhenjan,  Pxenyan,  Pyeongyang,  Pyoengyang,  Pyongyang,  Pyongyang-si,  Pyöngyang,  bywnghyangh,  peiyngyang,  pi'ongayanga,  ping rang,  ping rang shi,  piyam iyam,  piyonyan,  pkheniani,  pyamgayanga,  pyang yang,  pyeong-yang,  pyeong-yangjighalsi,  pyeong-yangsi,  pyon'gyang,  pyongayanga,  pywng yang,  pywngyang,  Πιονγιάνγκ,  Πιονγκγιάνγκ,  Пхеньян,  Пхенян,  Пјонгјанг,  Փխենյան,  פיאנגיאנג,  פיונגיאנג,  بيونغيانغ,  پيونګيانګ,  پيونگ يانگ,  پيوڭياڭ,  پیانگ یانگ,  پیونگ
+Alternate Names: Binh Nhuong, Bình Nhưỡng, FNJ, Heijo, Heijo-fu, Heijō, Heijō-fu, Heizyo, Heizyo Hu, Heizyō, Heizyō Hu, Hpyeng-yang, P'yongyang, P'yongyang-si, P'yŏngyang, P'yŏngyang-si, P-hjong-jang, P-hjöng-jang, Pchenjanas, Pchjongjang, Phenian, Phenjan, Phenjana, Phyeng-yang, Phyong-yang, Pienyang, Pingyang, Pion'gian'nk, Pion'nkgian'nk, Piongiang, Pionguiangue, Pionyang, Pjoengjang, Pjongian, Pjongjang, Pjongjango, Pjöngjang, Pkhen'jan, Pkhenjan, Pxenyan, Pyeongyang, Pyoengyang, Pyongyang, Pyongyang-si, Pyöngyang, bywnghyangh, peiyngyang, pi'ongayanga, ping rang, ping rang shi, piyam iyam, piyonyan, pkheniani, pyamgayanga, pyang yang, pyeong-yang, pyeong-yangjighalsi, pyeong-yangsi, pyon'gyang, pyongayanga, pywng yang, pywngyang, Πιονγιάνγκ, Πιονγκγιάνγκ, Пхеньян, Пхенян, Пјонгјанг, Փխենյան, פיאנגיאנג, פיונגיאנג, بيونغيانغ, پيونګيانګ, پيونگ يانگ, پيوڭياڭ, پیانگ یانگ, پیونگ‌یانگ, پیۆنگیانگ, प्याँगयांग, प्योंगयांग, পিয়ং ইয়াং, ਪਿਓਂਗਯਾਂਗ, பியொங்யாங், ಪ್ಯೊನ್ಗ್ಯಾಂಗ್, เปียงยาง, ཕོང་ཡང་།, ფხენიანი, ፕዮንግያንግ, 平壌, 平壤, 平壤市, 평양, 평양시, 평양직할시
 
 ---

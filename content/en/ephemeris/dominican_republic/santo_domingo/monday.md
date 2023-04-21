@@ -20,7 +20,7 @@ Latitude: 18.4719
 \-
 Longitude: -69.8923
 \-
-Altitude: 24 meters
+Altitude: 9 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Santo Domingo, Dominican Republic" lat="18.4719" lng="-69.8923" zoom="12">}}
 
@@ -35,7 +35,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:08:42 |
-| Sunrise | 06:16:30 |
+| Sunrise | 06:16:29 |
 | Dhuhr | 12:37:43 |
 | Medium Coeli | 12:37:43 |
 | Sunset | 18:59:11 |
@@ -51,7 +51,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:01:04 |
-| Sunrise | 06:16:30 |
+| Sunrise | 06:16:29 |
 | Dhuhr | 12:37:43 |
 | Medium Coeli | 12:37:43 |
 | Sunset | 18:59:11 |
@@ -67,7 +67,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:59:43 |
-| Sunrise | 06:16:30 |
+| Sunrise | 06:16:29 |
 | Dhuhr | 12:37:43 |
 | Medium Coeli | 12:37:43 |
 | Sunset | 18:59:11 |
@@ -83,7 +83,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 05:13:11 |
-| Sunrise | 06:16:30 |
+| Sunrise | 06:16:29 |
 | Dhuhr | 12:37:43 |
 | Medium Coeli | 12:37:43 |
 | Sunset | 18:59:11 |
@@ -99,7 +99,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:52:56 |
-| Sunrise | 06:16:30 |
+| Sunrise | 06:16:29 |
 | Dhuhr | 12:37:43 |
 | Medium Coeli | 12:37:43 |
 | Sunset | 18:59:11 |
@@ -115,7 +115,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:59:43 |
-| Sunrise | 06:16:30 |
+| Sunrise | 06:16:29 |
 | Dhuhr | 12:37:43 |
 | Medium Coeli | 12:37:43 |
 | Sunset | 18:59:11 |
@@ -131,7 +131,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Dawn | 04:57:27 |
-| Sunrise | 06:16:30 |
+| Sunrise | 06:16:29 |
 | Dhuhr | 12:37:43 |
 | Medium Coeli | 12:37:43 |
 | Sunset | 18:59:11 |
@@ -204,18 +204,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:42:41|Night duration: 11:16:40|
+|Duration of the day: 12:42:42|Night duration: 11:16:40|
 |Every hour of day duration: 01:03:33|Every hour of night duration: 00:56:23|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:16:30|07:20:02|Repelling sorcery and attracting discharged energy|
-|2|Saturn|Servant|07:20:03|08:23:35|Traveling inward and outward|
-|3|Jupiter|Servant|08:23:36|09:27:09|Marriage bond is favorable|
-|4|Mars|Servant|09:27:10|10:30:42|Eliminating and destroying enemies and releasing their energy|
-|5|Sun|Servant|10:30:43|11:34:16|Granting wishes, attracting love and wealth|
-|6|Venus|Servant|11:34:17|12:37:49|Summoning the desired person, creating love and domination|
+|1|Moon|Ruler|06:16:29|07:20:01|Repelling sorcery and attracting discharged energy|
+|2|Saturn|Servant|07:20:02|08:23:35|Traveling inward and outward|
+|3|Jupiter|Servant|08:23:36|09:27:08|Marriage bond is favorable|
+|4|Mars|Servant|09:27:09|10:30:42|Eliminating and destroying enemies and releasing their energy|
+|5|Sun|Servant|10:30:43|11:34:15|Granting wishes, attracting love and wealth|
+|6|Venus|Servant|11:34:16|12:37:49|Summoning the desired person, creating love and domination|
 |7|Mercury|Servant|12:37:50|13:41:22|Mutual agreement|
 |8|Moon|Ruler|13:41:23|14:44:56|Reconciling two individuals, attracting love|
 |9|Saturn|Servant|14:44:57|15:48:29|Attracting and repelling enemies, and separating them|
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:42:41|Night duration: 11:16:40|
+|Duration of the day: 12:42:42|Night duration: 11:16:40|
 |Every hour duration: 01:48:57|Every hour duration: 01:36:40|
 
  
@@ -258,11 +258,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:16:30|08:05:26|
-|Mid-morning|Saturn|Servant|08:05:27|09:54:23|
-|Late morning|Jupiter|Servant|09:54:24|11:43:20|
-|Noon|Mars|Servant|11:43:21|13:32:18|
-|Early afternoon|Sun|Servant|13:32:19|15:21:15|
+|Early morning|Moon|Ruler|06:16:29|08:05:25|
+|Mid-morning|Saturn|Servant|08:05:26|09:54:22|
+|Late morning|Jupiter|Servant|09:54:23|11:43:20|
+|Noon|Mars|Servant|11:43:21|13:32:17|
+|Early afternoon|Sun|Servant|13:32:18|15:21:15|
 |Mid-afternoon|Venus|Servant|15:21:16|17:10:12|
 |Late afternoon|Mercury|Servant|17:10:13|18:59:10|
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'5.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°45'51.99" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°24'52.73" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°59'8.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°15'2.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°10'42.71" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°3'23.58" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°45'54.03" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°24'55.03" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°59'20.87" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°15'11.27" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°11'2.22" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°56'34.61" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'5.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°45'51.99" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°24'52.73" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°59'8.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°15'2.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°10'42.71" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°3'23.58" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°45'54.03" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°24'55.03" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°59'20.87" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°15'11.27" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°11'2.22" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°56'34.61" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ciudad Trujillo,  SDQ,  Saint Domingue,  Santo Domingo,  Santo Domingo City,  Santo Domingo de Guzman,  Santo Domingo de Guzmán,  Santo Ntomin'nko,  Santo-Domingo,  santodoming-go,  Σάντο Ντομίνγκο,  Санто-Доминго,  산토도밍고
+Alternate Names: Ciudad Trujillo, SDQ, Saint Domingue, Santo Domingo, Santo Domingo City, Santo Domingo de Guzman, Santo Domingo de Guzmán, Santo Ntomin'nko, Santo-Domingo, santodoming-go, Σάντο Ντομίνγκο, Санто-Доминго, 산토도밍고
 
 ---

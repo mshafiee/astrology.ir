@@ -331,9 +331,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'14.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'17.21" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'12.93" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°37'31.51" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°55'17.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'9.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°37'34.16" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°59'48.35" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|14°58'58.83" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|3°49'13.85" |Cancer|Nathrah|Venus|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: ADU,  Ardabel,  Ardabil,  Ardabīl,  Ardebil,  Ardebīl,  Erdebil,  aardibyl,  ardbyl,  Ərdəbil,  Ардабел,  اردبيل,  اردبیل,  اَردِبيل
+Alternate Names: ADU, Ardabel, Ardabil, Ardabīl, Ardebil, Ardebīl, Erdebil, aardibyl, ardbyl, Ərdəbil, Ардабел, اردبيل, اردبیل, اَردِبيل
 
 ---

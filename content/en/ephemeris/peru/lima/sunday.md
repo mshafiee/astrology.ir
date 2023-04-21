@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'25.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°32'5.74" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°53'48.47" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°3'11.88" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°9'34.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'49.30" |Aries|Butain|Sun|
-|☾ Moon|Direct|14°7'44.22" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°32'5.76" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°53'48.87" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°3'11.97" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°9'34.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°24'49.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°10'42.55" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'25.00" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°32'5.74" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°53'48.47" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°3'11.88" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°9'34.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'49.30" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°7'44.22" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°32'5.76" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°53'48.87" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°3'11.97" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°9'34.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°24'49.64" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°10'42.55" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: LIM,  Lim,  Lima,  Limae,  Limaq,  Lime,  Limma,  Limo,  Lioma,  Lungsod ng Lima,  Lìmma,  Líma,  Líoma,  Lîma,  li ma,  lima,  lyma,  lymh,  rima,  Λίμα,  Лимæ,  Лима,  Лиме,  Ліма,  Լիմա,  לימא,  לימה,  لىما,  ليما,  لیما,  लिमा,  लीमा,  লিমা,  ਲੀਮਾ,  ଲିମା,  லிமா,  ലിമ,  ลิมา,  ལི་མ།,  ლიმა,  ሊማ,  リマ,  利馬,  리마
+Alternate Names: LIM, Lim, Lima, Limae, Limaq, Lime, Limma, Limo, Lioma, Lungsod ng Lima, Lìmma, Líma, Líoma, Lîma, li ma, lima, lyma, lymh, rima, Λίμα, Лимæ, Лима, Лиме, Ліма, Լիմա, לימא, לימה, لىما, ليما, لیما, लिमा, लीमा, লিমা, ਲੀਮਾ, ଲିମା, லிமா, ലിമ, ลิมา, ལི་མ།, ლიმა, ሊማ, リマ, 利馬, 리마
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'7.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°48'6.26" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°15'26.97" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°4'23.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|10°40'1.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°34'51.78" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°5'47.18" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°48'6.17" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°15'26.08" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°4'23.35" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°40'0.82" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°34'50.74" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°3'4.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,7 +331,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°34'7.96" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°48'6.26" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|23°48'6.17" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°15'26.08" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|0°4'23.35" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|10°40'0.82" |Gemini|HanAh|Mars|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Barra do Rio Negro,  MAO,  Manaos,  Manaus,  Manauso,  Manaŭso,  Manos,  Manáos,  ma nao si,  manausu,  Манаус,  Манаўс,  מנאוס,  マナウス,  马瑙斯
+Alternate Names: Barra do Rio Negro, MAO, Manaos, Manaus, Manos, Manáos, ma nao si, manausu, Манаус, Манаўс, מנאוס, マナウス, 马瑙斯
 
 ---

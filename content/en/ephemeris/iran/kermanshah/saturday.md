@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°42'36.04" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°35'15.41" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'49.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°8'8.39" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°10'43.62" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,7 +331,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'36.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'16.10" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°12'16.56" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°9'21.85" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°42'36.04" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°35'15.41" |Gemini|HanAh|Mars|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bahtaran,  Bakhtaran,  Bākhtarān,  KSH,  Kermansah,  Kermansaho,  Kermanschah,  Kermanshah,  Kermanshahan,  Kermanshakh,  Kermanŝaho,  Kermânsâh,  Kermānschāh,  Kermānshāh,  Kermānshāhān,  Kirmansah,  Kirmanşah,  Kirmasan,  Kirmaşan,  Province de Kermanshah,  Provincia de Kermanshah,  Provinco Kermansah,  Provinco Kermanŝah,  Província de Kermanshah,  Qahremanshahr,  Qahremānshahr,  astan krmanshah,  ke er man sha he,  kerumansha,  krmanshah,  Керманшах,  Кирмоншоҳ,  Устони Кирмоншоҳ,  استان کرمانشاه,  كرمانشاه,  کرمانشاه,  ケルマーンシャー,  克尔曼沙赫
+Alternate Names: Bahtaran, Bakhtaran, Bākhtarān, KSH, Kermansah, Kermansaho, Kermanschah, Kermanshah, Kermanshahan, Kermanshakh, Kermanŝaho, Kermânsâh, Kermānschāh, Kermānshāh, Kermānshāhān, Kirmansah, Kirmanşah, Kirmasan, Kirmaşan, Province de Kermanshah, Provincia de Kermanshah, Provinco Kermansah, Provinco Kermanŝah, Província de Kermanshah, Qahremanshahr, Qahremānshahr, astan krmanshah, ke er man sha he, kerumansha, krmanshah, Керманшах, Кирмоншоҳ, Устони Кирмоншоҳ, استان کرمانشاه, كرمانشاه, کرمانشاه, ケルマーンシャー, 克尔曼沙赫
 
 ---

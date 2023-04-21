@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'44.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'19.77" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°38'12.88" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°45'54.38" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°28'47.44" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'8.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°52'16.60" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|23°58'19.85" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°38'13.98" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°45'54.76" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°28'51.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'14.27" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°18'45.18" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'44.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°58'19.85" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°38'13.98" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°45'54.38" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°28'47.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'8.18" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°52'16.60" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°58'20.44" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°38'14.52" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°45'58.18" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°28'51.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'14.27" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°18'45.18" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: RIX,  Reiga,  Riga,  Rigae,  Rige,  Rigg-a,  Rigo,  Riia,  Riigaa,  Riika,  Rija,  Riqa,  Ryga,  Ríga,  Ríge,  Rīga,  li jia,  liga,  ri ka,  riga,  rika,  ryga,  rygh,  rygha,  ryja,  Ρίγα,  Ригæ,  Рига,  Рыга,  Ріґа,  Ռիգա,  ריגה,  ריגע,  رىگا,  ريجا,  ريغا,  ریگا,  रिगा,  रीगा,  রিগা,  ரீகா,  รีกา,  རི་ག,  რიგა,  ሪጋ,  リガ,  里加,  리가
+Alternate Names: RIX, Reiga, Riga, Rigae, Rige, Rigg-a, Rigo, Riia, Riigaa, Riika, Rija, Riqa, Ryga, Ríga, Ríge, Rīga, li jia, liga, ri ka, riga, rika, ryga, rygh, rygha, ryja, Ρίγα, Ригæ, Рига, Рыга, Ріґа, Ռիգա, ריגה, ריגע, رىگا, ريجا, ريغا, ریگا, रिगा, रीगा, রিগা, ரீகா, รีกา, རི་ག, რიგა, ሪጋ, リガ, 里加, 리가
 
 ---

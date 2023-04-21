@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°57'57.08" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°57'26.54" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°51'0.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°46'19.56" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°9'59.77" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'2.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°46'28.99" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°46'19.80" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°10'0.51" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'3.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°51'53.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: NIM,  Niame,  Niamei,  Niamej,  Niameja,  Niamejus,  Niameo,  Niamey,  Niamè,  Niamėjus,  Nijamej,  Níamey,  ni ya mei,  ni'ami,  niame,  niamei,  nixame,  niyame,  niyami,  nyamy,  nyʼmyy,  Νιαμέι,  Νιαμέυ,  Ниамей,  Нијамеј,  Ніамей,  Ніямей,  Նիամեյ,  ניאמיי,  نيامي,  نیامی,  نیامەی,  ܢܝܐܡܝ,  नियामे,  নিয়ামে,  ਨਿਆਮੀ,  நியாமி,  นีอาเม,  ནི་ཡ་མེ།,  ნიამეი,  ኒያሜ,  ニアメ,  尼亞美,  니아메
+Alternate Names: NIM, Niame, Niamei, Niamej, Niameja, Niamejus, Niameo, Niamey, Niamè, Niamėjus, Nijamej, Níamey, ni ya mei, ni'ami, niame, niamei, nixame, niyame, niyami, nyamy, nyʼmyy, Νιαμέι, Νιαμέυ, Ниамей, Нијамеј, Ніамей, Ніямей, Նիամեյ, ניאמיי, نيامي, نیامی, نیامەی, ܢܝܐܡܝ, नियामे, নিয়ামে, ਨਿਆਮੀ, நியாமி, นีอาเม, ནི་ཡ་མེ།, ნიამეი, ኒያሜ, ニアメ, 尼亞美, 니아메
 
 ---

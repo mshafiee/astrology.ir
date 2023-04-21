@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°37'52.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°58'45.51" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°39'16.46" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°47'38.15" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°30'56.28" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'12.35" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°20'7.02" |Aries|Butain|Sun|
+|♄ Saturn|Direct|4°37'53.25" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|23°58'45.05" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°39'15.97" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°47'35.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°30'54.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'8.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°1'42.84" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°37'53.25" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°58'45.63" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°39'11.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°47'38.15" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°30'56.28" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'12.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°20'7.02" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°47'39.35" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°30'54.24" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'8.33" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°1'42.84" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Asloa,  Christiania,  Kristiania,  OSL,  Ohoro,  Osla,  Oslas,  Oslo,  Oslo osh,  Oslu,  Osló,  ajalo,  ao si lu,  asalo,  aslw,  awslw,  osalo,  oseullo,  oslea,  oslo,  osuro,  xxslo,  ywslw,  Òslo,  Ósló,  Ōhoro,  Όσλο,  Осла,  Осло,  Осло ош,  Օսլո,  אוסלו,  أوسلو,  ئوسلو,  ئۆسلۆ,  اسلو,  اوسلو,  ܐܘܣܠܘ,  ओस्लो,  অজলো,  ওসলো,  ਓਸਲੋ,  ଅସଲୋ,  ஒஸ்லோ,  ഓസ്ലൊ,  ออสโล,  ཨོ་སི་ལོ།,  အော့စလိုမြို့,  ოსლო,  ኦስሎ,  オスロ,  奥斯陆,  奧斯陸,  오슬로
+Alternate Names: Asloa, Christiania, Kristiania, OSL, Ohoro, Osla, Oslas, Oslo, Oslo osh, Oslu, Osló, ajalo, ao si lu, asalo, aslw, awslw, osalo, oseullo, oslea, oslo, osuro, xxslo, ywslw, Òslo, Ósló, Ōhoro, Όσλο, Осла, Осло, Осло ош, Օսլո, אוסלו, أوسلو, ئوسلو, ئۆسلۆ, اسلو, اوسلو, ܐܘܣܠܘ, ओस्लो, অজলো, ওসলো, ਓਸਲੋ, ଅସଲୋ, ஒஸ்லோ, ഓസ്ലൊ, ออสโล, ཨོ་སི་ལོ།, အော့စလိုမြို့, ოსლო, ኦስሎ, オスロ, 奥斯陆, 오슬로
 
 ---

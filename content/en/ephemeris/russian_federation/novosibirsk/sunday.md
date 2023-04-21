@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°24'48.75" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°37'28.22" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°33'33.01" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°34'52.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'53.03" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°48'24.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°34'56.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'55.78" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°8'46.67" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'55.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'48.60" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°37'25.41" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°33'32.22" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°34'52.86" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'53.03" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°48'24.52" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'48.75" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°37'28.22" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°33'33.01" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°34'56.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'55.78" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°8'46.67" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Cen Ceper,  Nobosimpirsk,  Novasibirsk,  Novo-Nikolaevsk,  Novo-Nikolaievsk,  Novo-Nikolaïevsk,  Novonikolaevsk,  Novonikolayevsk,  Novosibir,  Novosibir'sku,  Novosibirs'k,  Novosibirscum,  Novosibirsk,  Novosibirska,  Novosibirskaj,  Novosibirskas,  Novosibirsko,  Novosimpirsk,  Novossibirsk,  Novoszibirszk,  Nowosibirsk,  Nowosibirski,  Nowosybirsk,  OVB,  Odsibiren' osh,  Vil' Sibirkar,  no wo sibiskh,  nobosibileuseukeu,  novosibirsk,  novosibirska,  novuoshibirusuku,  nwbwsybyrsq,  nwfwsybyrsk,  nwwsybrsk,  nwwsybyrsk,  xin xi bo li ya,  Çĕн Çĕпĕр,  Νοβοσιμπίρσκ,  Νοβοσιμπιρσκ,  Виль Сибиркар,  Новасібірск,  Новониколаевск,  Новосибирск,  Новосибирскай,  Новосибирьскъ,  Новосибірськ,  Новосібір,  Одсибирень ош,  Նովոսիբիրսկ,  נובוסיבירסק,  نوفوسيبيرسك,  نووسیبرسک,  نووسیبیرسک,  नोवोसिबिर्स्क,  โนโวซีบีสค์,  ნოვოსიბირსკი,  ノヴォシビルスク,  新西伯利亚,  新西伯利亞,  노보시비르스크
+Alternate Names: Cen Ceper, Nobosimpirsk, Novasibirsk, Novo-Nikolaevsk, Novo-Nikolaievsk, Novo-Nikolaïevsk, Novonikolaevsk, Novonikolayevsk, Novosibir, Novosibir'sku, Novosibirs'k, Novosibirscum, Novosibirsk, Novosibirska, Novosibirskaj, Novosibirskas, Novosibirsko, Novosimpirsk, Novossibirsk, Novoszibirszk, Nowosibirsk, Nowosibirski, Nowosybirsk, OVB, Odsibiren' osh, Vil' Sibirkar, no wo sibiskh, nobosibileuseukeu, novosibirsk, novosibirska, novu~oshibirusuku, nwbwsybyrsq, nwfwsybyrsk, nwwsybrsk, nwwsybyrsk, xin xi bo li ya, Çĕн Çĕпĕр, Νοβοσιμπίρσκ, Νοβοσιμπιρσκ, Виль Сибиркар, Новасібірск, Новониколаевск, Новосибирск, Новосибирскай, Новосибирьскъ, Новосибірськ, Новосібір, Одсибирень ош, Նովոսիբիրսկ, נובוסיבירסק, نوفوسيبيرسك, نووسیبرسک, نووسیبیرسک, नोवोसिबिर्स्क, โนโวซีบีสค์, ნოვოსიბირსკი, ノヴォシビルスク, 新西伯利亚, 新西伯利亞, 노보시비르스크
 
 ---

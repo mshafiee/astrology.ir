@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°37'11.68" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°56'46.99" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°34'46.56" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°39'38.72" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°21'26.11" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'5.40" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°0'7.88" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|13°34'45.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°39'38.82" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°21'25.47" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'5.13" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°59'32.39" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -333,7 +333,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°37'11.68" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°56'46.99" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°34'45.92" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°39'38.72" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|0°39'38.82" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°21'26.11" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°37'5.40" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|12°0'7.88" |Taurus|Dabaran|Moon|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BHO,  Bhojpal,  Bhopal,  Bhopala,  Bhopalas,  Bhopalo,  Bhopál,  Bhopāl,  Bhopāla,  Bhópál,  Bkhapal,  Bkhopal,  Bopal,  Bópal,  bhopal,  bhopala,  bo pa er,  bopal,  boparu,  bwbal,  bwpal,  popal,  Μποπάλ,  Бопал,  Бхапал,  Бхопал,  בופאל,  بوبال,  بوپال,  بھوپال,  بہوپال,  भोपाल,  भोपाळ,  ভোপাল,  ਭੋਪਾਲ,  ભોપાલ,  ଭୋପାଳ,  போபால்,  భోపాల్,  ಭೊಪಾಲ್,  ഭോപ്പാൽ,  ბჰოპალი,  ボパール,  ボーパール,  博帕尔,  보팔
+Alternate Names: BHO, Bhojpal, Bhopal, Bhopala, Bhopalas, Bhopalo, Bhopál, Bhopāl, Bhopāla, Bhópál, Bkhapal, Bkhopal, Bopal, Bópal, bhopal, bhopala, bo pa er, bopal, boparu, bwbal, bwpal, popal, Μποπάλ, Бопал, Бхапал, Бхопал, בופאל, بوبال, بوپال, بھوپال, بہوپال, भोपाल, भोपाळ, ভোপাল, ਭੋਪਾਲ, ભોપાલ, ଭୋପାଳ, போபால், భోపాల్, ಭೊಪಾಲ್, ഭോപ്പാൽ, ბჰოპალი, ボパール, ボーパール, 博帕尔, 보팔
 
 ---

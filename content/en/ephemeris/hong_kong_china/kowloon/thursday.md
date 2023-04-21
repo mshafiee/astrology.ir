@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°31'34.38" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°40'53.78" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|12°59'26.01" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°34'53.14" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°5'31.40" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'58.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°26'37.63" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°35'6.28" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°5'37.25" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°31'15.00" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°58'10.67" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°35'6.28" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°5'37.25" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°31'15.00" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°58'10.67" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°58'12.19" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Chiu-lung,  Czjulun,  Kaulunas,  Koulun,  Kowloon,  jiu long,  julung,  yi fa ban,  Цзюлун,  九龍,  意法半,  주룽
+Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽
 
 ---

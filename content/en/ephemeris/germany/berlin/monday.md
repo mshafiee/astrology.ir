@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'46.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°42'1.54" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°16'11.59" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°43'33.67" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°56'47.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°15'14.21" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°50'3.25" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°42'1.50" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°16'11.42" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°43'33.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°56'46.84" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°15'13.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°16'35.81" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'46.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'1.54" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°16'16.12" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°43'32.00" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°56'51.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°15'14.08" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°50'3.25" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°42'1.50" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°16'11.42" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°43'33.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°56'46.84" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°15'13.72" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°16'35.81" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: BER,  Beirlin,  Beirlín,  Belin,  Berleno,  Berlien,  Berliin,  Berliini,  Berlijn,  Berlim,  Berlin,  Berline,  Berlini,  Berlino,  Berlyn,  Berlynas,  Berlëno,  Berlín,  Berlîn,  Berlīne,  Berolino,  Berolinum,  Birlinu,  Bèrlîn,  Estat de Berlin,  Estat de Berlín,  bai lin,  barlina,  beleullin,  berlini,  berurin,  bexrlin,  brlyn,  perlin,  Βερολίνο,  Берлин,  Берлін,  Бэрлін,  Բերլին,  בערלין,  ברלין,  برلين,  برلین,  بېرلىن,  ܒܪܠܝܢ,  बर्लिन,  বার্লিন,  பெர்லின்,  เบอร์ลิน,  ბერლინი,  ベルリン,  柏林,  베를린
+Alternate Names: BER, Beirlin, Beirlín, Berleno, Berlien, Berliin, Berliini, Berlijn, Berlim, Berlin, Berline, Berlini, Berlino, Berlyn, Berlynas, Berlëno, Berlín, Berlîn, Berlīne, Berolino, Berolinum, Birlinu, Bèrlîn, Estat de Berlin, Estat de Berlín, bai lin, barlina, beleullin, berlini, berurin, bexrlin, brlyn, perlin, Βερολίνο, Берлин, Берлін, Бэрлін, Բերլին, בערלין, ברלין, برلين, برلین, بېرلىن, ܒܪܠܝܢ, बर्लिन, বার্লিন, பெர்லின், เบอร์ลิน, ბერლინი, ベルリン, 柏林, 베를린
 
 ---

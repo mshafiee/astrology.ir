@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'18.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°28'49.91" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°46'35.42" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°49'51.68" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°54'8.81" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°27'3.45" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°42'18.87" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°28'51.41" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°46'32.46" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°50'0.63" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°54'10.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°27'7.61" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°18'31.90" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°48'18.67" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°28'49.91" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°46'35.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°49'51.68" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°28'51.41" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°46'32.46" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°50'0.63" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°54'10.38" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'3.45" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°42'18.87" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'14.68" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°59'52.59" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ad Dar al Bayda,  Ad Dar al Bayda',  Ad Dār al Bayḑā’,  Anafi,  Anfa,  CMN,  Casa Branca,  Casablanca,  Casabranca,  Dar-el-Beida,  Dar-uel-Beyda,  Darul Baidha,  Dâr-ül-Beydâ,  Ed Dar el Baida,  Ed Dār el Baida,  Kasablank,  Kasablanka,  Kasablankae,  Kazablanka,  Kazablanko,  Kazamplan'ka,  Tigemmi Tamellalt,  White House,  ad-Dar al-Baydaʼ,  ad-Dar al-baydaʾ,  ad-Dār al-Bayḍāʼ,  ad-Dār al-bayḍāʾ,  aldar albydaʾ,  anfa,  dar albydaʾ,  daralbyda,  ka sa bu lan ka,  ka sab l xng ka,  kacapilanka,  kasabalanka,  kasabeullangka,  kasablanka,  kasaburanka,  kazablanka,  qzblnqh,  Καζαμπλάνκα,  Казабланка,  Касабланкæ,  Касабланка,  Կասաբլանկա,  קזבלנקה,  أنفا,  الدار البيضاء,  دار البیضاء,  دارالبیضا,  كازابلانكا,  کازابلانکا,  کاسابلانکا,  कासाब्लांका,  কাসাব্লাংকা,  ਕਾਸਾਬਲਾਂਕਾ,  காசாபிளாங்கா,  కాసాబ్లాంకా,  ಕಾಸಾಬ್ಲಾಂಕಾ,  കാസബ്ലങ്ക,  กาซาบล็องกา,  ກາຊາບັງກາ,  ကာဆာဘလန်ကာမြို့,  კასაბლანკა,  ⴰⵏⴼⴰ,  カサブランカ,  卡萨布兰卡,  카사블랑카
+Alternate Names: Ad Dar al Bayda, Ad Dar al Bayda', Ad Dār al Bayḑā’, Anafi, Anfa, CAS, Casa Branca, Casablanca, Casabranca, Dar-el-Beida, Dar-uel-Beyda, Darul Baidha, Dâr-ül-Beydâ, Ed Dar el Baida, Ed Dār el Baida, Kasablank, Kasablanka, Kasablankae, Kazablanka, Kazablanko, Kazamplan'ka, Tigemmi Tamellalt, White House, ad-Dar al-Baydaʼ, ad-Dar al-baydaʾ, ad-Dār al-Bayḍāʼ, ad-Dār al-bayḍāʾ, aldar albydaʾ, anfa, dar albydaʾ, daralbyda, ka sa bu lan ka, ka sab l xng ka, kacapilanka, kasabalanka, kasabeullangka, kasablanka, kasaburanka, kazablanka, qzblnqh, Καζαμπλάνκα, Казабланка, Касабланкæ, Касабланка, Կասաբլանկա, קזבלנקה, أنفا, الدار البيضاء, دار البیضاء, دارالبیضا, كازابلانكا, کازابلانکا, کاسابلانکا, कासाब्लांका, কাসাব্লাংকা, ਕਾਸਾਬਲਾਂਕਾ, காசாபிளாங்கா, కాసాబ్లాంకా, ಕಾಸಾಬ್ಲಾಂಕಾ, കാസബ്ലങ്ക, กาซาบล็องกา, ກາຊາບັງກາ, ကာဆာဘလန်ကာမြို့, კასაბლანკა, ⴰⵏⴼⴰ, カサブランカ, 卡萨布兰卡, 카사블랑카
 
 ---

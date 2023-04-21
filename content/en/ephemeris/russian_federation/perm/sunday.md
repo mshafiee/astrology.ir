@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'15.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°25'47.06" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°39'42.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°37'30.29" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°39'37.32" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'21.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°27'24.67" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°25'46.91" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°39'40.34" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°37'29.52" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°39'34.80" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'19.73" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°12'24.77" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'15.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°25'47.06" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°39'42.26" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°37'30.29" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°39'37.32" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'21.89" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°27'24.67" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°25'46.91" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°39'40.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°37'29.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°39'34.80" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°29'19.73" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°12'24.77" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Molotov,  PEE,  Perem,  Perm,  Perm',  Perma,  Perme,  Permia,  Permjo,  Permė,  Perym,  bi er mu,  byrm,  parma,  peiy rm,  peleum,  perumi,  prm,  pyrm,  Περμ,  Молотов,  Перĕм,  Перем,  Перм,  Пермь,  Перым,  Пєрмь,  Պերմ,  פרם,  بيرم,  پرم,  پیرم,  पर्म,  เปียร์ม,  პერმი,  ペルミ,  彼尔姆,  페름
+Alternate Names: Molotov, PEE, Perem, Perm, Perm', Perma, Perme, Permia, Permjo, Permė, Perym, bi er mu, byrm, parma, peiy rm, peleum, perumi, prm, pyrm, Περμ, Молотов, Перĕм, Перем, Перм, Пермь, Перым, Пєрмь, Պերմ, פרם, بيرم, پرم, پیرم, पर्म, เปียร์ม, პერმი, ペルミ, 彼尔姆, 페름
 
 ---

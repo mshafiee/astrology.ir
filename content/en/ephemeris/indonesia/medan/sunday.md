@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'58.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'55.79" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°37'42.61" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°34'3.36" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°35'29.10" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'1.23" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°9'28.92" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°24'55.90" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°37'43.71" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°34'3.90" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°35'30.60" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'2.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°54'56.30" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'58.05" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'53.29" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°37'37.19" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°33'48.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°35'15.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'37.40" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°9'28.92" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'55.90" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°37'43.71" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°34'3.90" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°35'30.60" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'2.62" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°54'56.30" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kota Medan,  Kuta Medan,  Kuta Mèdan,  Kutha Medan,  MES,  Medan,  Medana,  Medanas,  Medano,  Mentan,  mdan,  me dan,  medan,  metan,  mian lan,  mydan,  Μεντάν,  Медан,  مدان,  ميدان,  میدان ، انڈونیشیا,  மேடான்,  เมดาน,  メダン,  棉蘭,  메단
+Alternate Names: Kota Medan, Kuta Medan, Kuta Mèdan, Kutha Medan, MES, Medan, Medana, Medanas, Medano, Mentan, mdan, me dan, medan, metan, mian lan, mydan, Μεντάν, Медан, مدان, ميدان, میدان ، انڈونیشیا, மேடான், เมดาน, メダン, 棉蘭, 메단
 
 ---

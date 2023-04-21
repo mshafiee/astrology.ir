@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°31'19.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°40'12.47" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|12°57'54.76" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°32'10.64" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°2'13.13" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'36.29" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°20'26.25" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|29°32'17.92" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°2'20.23" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'47.57" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°6'41.10" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: SWU,  Sououon,  Suigen,  Suvon,  Suwon,  Suwon-si,  Suwŏn,  shui yuan shi,  suvona,  suwon,  suwonsi,  suwxn,  swwn,  Σούουον,  Сувон,  سوون,  सुवोन,  ซูว็อน,  水原市,  수원,  수원시
+Alternate Names: SWU, Sououon, Suigen, Suvon, Suwon, Suwon-si, Suwŏn, shui yuan shi, suvona, suwon, suwonsi, suwxn, swwn, Σούουον, Сувон, سوون, सुवोन, ซูว็อน, 水原市, 수원, 수원시
 
 ---

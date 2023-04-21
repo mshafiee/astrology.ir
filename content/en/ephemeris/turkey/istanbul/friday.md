@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°37'47.69" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|23°58'29.64" |Aries|Butain|Venus|
 |♂ Mars|Direct|13°38'35.23" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°46'36.88" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°29'33.36" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'14.30" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°25'37.11" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°46'35.25" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°29'35.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'13.73" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°21'13.52" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bizanc,  Bizánc,  Byzance,  Byzantion,  Byzantium,  Byzanz,  Constantinoble,  Constantinopla,  Constantinople,  Constantinopolen,  Constantinopoli,  Constantinopolis,  Costantinopoli,  Estambul,  IST,  Istamboul,  Istambul,  Istambuł,  Istampoul,  Istanbul,  Istanbúl,  Isztambul,  Konstantinapoly,  Konstantinopel,  Konstantinopolo,  Konstantinoupoli,  Konstantinoupolis,  Konstantinápoly,  Kustantiniyah,  Micklagard,  Micklagård,  Mikligardur,  Mikligarður,  Stamboul,  Stambul,  Stambula,  Stambuł,  Tsarigrad,  Vizantija (Vizantija),  Vyzantio,  astnbwl,  bijantium,  byuzantion,  byzntywn,  iseutanbul,  istambula,  isutanburu,  stin Poli [stimˈboli],  yi si tan bao,  yi si tan bu er,  İstanbul,  Βυζάντιο,  Βυζαντιο,  Ισταμπουλ,  Ισταμπούλ,  Κωνσταντινουπολη,  Κωνσταντινούπολη,  Κωνσταντινούπολις,  στην Πόλι [stimˈboli],  Византија (Vizantija),  Истанбул,  Стамбул,  ביזנטיון,  اسطنبول,  इस्तांबुल,  ইস্তাম্বুল,  イスタンブール,  ビュザンティオン,  伊斯坦堡,  伊斯坦布尔,  비잔티움,  이스탄불
+Alternate Names: Bizanc, Bizánc, Byzance, Byzantion, Byzantium, Byzanz, Constantinoble, Constantinopla, Constantinople, Constantinopolen, Constantinopoli, Constantinopolis, Costantinopoli, Estambul, IST, Istamboul, Istambul, Istambuł, Istampoul, Istanbul, Istanbúl, Isztambul, Konstantinapoly, Konstantinopel, Konstantinopolo, Konstantinoupoli, Konstantinoupolis, Konstantinápoly, Kustantiniyah, Micklagard, Micklagård, Mikligardur, Mikligarður, Stamboul, Stambul, Stambula, Stambuł, Tsarigrad, Vizantija (Vizantija), Vyzantio, astnbwl, bijantium, byuzantion, byzntywn, iseutanbul, istambula, isutanburu, stin Poli [stimˈboli], yi si tan bu er, İstanbul, Βυζάντιο, Βυζαντιο, Ισταμπουλ, Ισταμπούλ, Κωνσταντινουπολη, Κωνσταντινούπολη, Κωνσταντινούπολις, στην Πόλι [stimˈboli], Византија (Vizantija), Истанбул, Стамбул, ביזנטיון, اسطنبول, इस्तांबुल, ইস্তাম্বুল, イスタンブール, ビュザンティオン, 伊斯坦布尔, 비잔티움, 이스탄불
 
 ---

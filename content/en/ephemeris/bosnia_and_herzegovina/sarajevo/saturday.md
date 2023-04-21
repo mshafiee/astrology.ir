@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'56.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°13'15.86" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°11'38.95" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°46'35.37" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°40'1.68" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'26.84" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°50'34.45" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|24°13'16.30" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°11'35.85" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°46'38.51" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°40'0.11" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'29.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°54'50.13" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°13'16.30" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°11'35.85" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°46'38.51" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°40'1.68" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'26.84" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°50'34.45" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°40'0.11" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'36.32" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°20'6.58" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Mars|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Bosna-Sarai,  SJJ,  Saarayego,  Saireavo,  Sairéavó,  Saraeva,  Saraevo,  Saraevo osh,  Saragebo,  Saragiebo,  Saragievo,  Sarajeva,  Sarajevas,  Sarajevo,  Sarajevs,  Sarajevu,  Sarajevó,  Sarajewo,  Sarajèvo,  Saraxevo,  Saraybosna,  Sarayevo,  Sarayevu,  Seraium,  Serayevo,  Szarajevo,  Szarajevó,  Vrh Bosna,  carayevo,  sa la re wo,  sai la ye fu,  salayebo,  saraevo,  saraevuo,  sarajyww,  sarayavea,  sarayebho,  sarayevho,  sarayevo,  sarayewo,  sarayh ww,  sarayww,  sarayyfw,  srayyfw,  srayyww,  sryybw,  Σαράγεβο,  Σαράγιεβο,  Σαραγιεβο,  Сараева,  Сараево,  Сараево ош,  Сараєво,  Сарајево,  Сараѥво,  Սարաևո,  סאראיעווא,  סרייבו,  ساراجیوو,  ساراييفو,  سارايېۋو,  سارایه وو,  سارایوو,  سارایێڤۆ,  سرائیوو,  سراييفو,  सारायेव्हो,  সারায়েভো,  ਸਾਰਾਯੇਵੋ,  சாரயேவோ,  സരയാവോ,  ซาราเยโว,  ས་ར་ཇི་བོ།,  სარაევო,  ሳራዬቮ,  サラエヴォ,  塞拉耶佛,  薩拉熱窩,  사라예보
+Alternate Names: Bosna-Sarai, SJJ, Saarayego, Saireavo, Sairéavó, Saraeva, Saraevo, Saraevo osh, Saragebo, Saragiebo, Saragievo, Sarajeva, Sarajevas, Sarajevo, Sarajevs, Sarajevu, Sarajevó, Sarajewo, Sarajèvo, Saraxevo, Saraybosna, Sarayevo, Sarayevu, Seraium, Serayevo, Szarajevo, Szarajevó, Vrh Bosna, carayevo, sa la re wo, sai la ye fu, salayebo, saraevo, saraevu~o, sarajyww, sarayavea, sarayebho, sarayevho, sarayevo, sarayewo, sarayh ww, sarayww, sarayyfw, srayyfw, srayyww, sryybw, Σαράγεβο, Σαράγιεβο, Σαραγιεβο, Сараева, Сараево, Сараево ош, Сараєво, Сарајево, Сараѥво, Սարաևո, סאראיעווא, סרייבו, ساراجیوو, ساراييفو, سارايېۋو, سارایه وو, سارایوو, سارایێڤۆ, سرائیوو, سراييفو, सारायेव्हो, সারায়েভো, ਸਾਰਾਯੇਵੋ, சாரயேவோ, സരയാവോ, ซาราเยโว, ས་ར་ཇི་བོ།, სარაევო, ሳራዬቮ, サラエヴォ, 塞拉耶佛, 薩拉熱窩, 사라예보
 
 ---

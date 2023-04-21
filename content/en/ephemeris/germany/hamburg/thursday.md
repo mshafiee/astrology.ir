@@ -20,7 +20,7 @@ Latitude: 53.5507
 \-
 Longitude: 9.9930
 \-
-Altitude: 9 meters
+Altitude: 2 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Hamburg, Germany" lat="53.5507" lng="9.9930" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 14:20:32|Night duration: 09:37:14|
+|Duration of the day: 14:20:32|Night duration: 09:37:13|
 |Every hour of day duration: 01:11:43|Every hour of night duration: 00:48:06|
 
  
@@ -231,13 +231,13 @@ Timetable of twelve day and night planetary hours
 |3|Jupiter|Servant|22:06:04|22:54:09|Attracting financial and emotional love|
 |4|Mars|Servant|22:54:10|23:42:15|Creating love and connection, and finding a partner|
 |5|Sun|Servant|23:42:16|00:30:21|Engaging in sensual acts|
-|6|Venus|Servant|00:30:22|01:18:28|Traveling in the physical and spiritual realm|
-|7|Mercury|Servant|01:18:29|02:06:34|Achieving status, position, and attracting opportunities|
-|8|Moon|Ruler|02:06:35|02:54:40|Attracting happiness and prosperity|
-|9|Saturn|Servant|02:54:41|03:42:46|Attaining status, position, and promoting rank|
-|10|Jupiter|Servant|03:42:47|04:30:52|Fulfilling needs|
-|11|Mars|Servant|04:30:53|05:18:58|Attracting love, affection, and winning hearts|
-|12|Sun|Servant|05:18:59|06:07:05|Attracting negativity, and avoiding any harmful action|
+|6|Venus|Servant|00:30:22|01:18:27|Traveling in the physical and spiritual realm|
+|7|Mercury|Servant|01:18:28|02:06:33|Achieving status, position, and attracting opportunities|
+|8|Moon|Ruler|02:06:34|02:54:39|Attracting happiness and prosperity|
+|9|Saturn|Servant|02:54:40|03:42:45|Attaining status, position, and promoting rank|
+|10|Jupiter|Servant|03:42:46|04:30:51|Fulfilling needs|
+|11|Mars|Servant|04:30:52|05:18:57|Attracting love, affection, and winning hearts|
+|12|Sun|Servant|05:18:58|06:07:04|Attracting negativity, and avoiding any harmful action|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 14:20:32|Night duration: 09:37:14|
+|Duration of the day: 14:20:32|Night duration: 09:37:13|
 |Every hour duration: 02:02:56|Every hour duration: 01:22:28|
 
  
@@ -271,11 +271,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Moon|Ruler|20:29:52|21:52:18|
 |Late evening|Saturn|Servant|21:52:19|23:14:46|
-|Midnight|Jupiter|Servant|23:14:47|00:37:14|
-|Late at night|Mars|Servant|00:37:15|01:59:41|
-|Rooster song|Sun|Servant|01:59:42|03:22:09|
-|False Dawn|Venus|Servant|03:22:10|04:44:37|
-|Dawn|Mercury|Servant|04:44:38|06:07:05|
+|Midnight|Jupiter|Servant|23:14:47|00:37:13|
+|Late at night|Mars|Servant|00:37:14|01:59:41|
+|Rooster song|Sun|Servant|01:59:42|03:22:08|
+|False Dawn|Venus|Servant|03:22:09|04:44:36|
+|Dawn|Mercury|Servant|04:44:37|06:07:04|
 
 {{< /tab >}}
 
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'53.13" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|23°44'35.39" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°7'39.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°50'5.27" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°23'15.72" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'9.98" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°2'31.34" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°7'39.26" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°50'5.53" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°23'16.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'10.42" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°4'9.22" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Amborg,  Ambourgo,  Amburgo,  Amburgu,  Augusta Gambriviorum,  Ciutat d'Hamburg,  Estat d'Hamburg,  Gamburg,  HAM,  HH,  Hamboarch,  Hamboerg,  Hamboerj,  Hamborg,  Hambourg,  Hamburch,  Hamburg,  Hamburga,  Hamburgas,  Hamburgo,  Hamburgu,  Hamburgum,  Hamburk,  Hambuurich,  Hambörg,  Hambörj,  Hambùrk,  Hambûrg,  Hamepuka,  Hammaburg [a. 832],  Hampuri,  Hanburgo,  Khamburg,  ham bur k,  hambuleukeu,  hamburgi,  hambwrg,  hambwrgh,  han bao,  han bao shi,  hanburuku,  hemburga,  hmbwrg,  hyambarg,  hʼambwrg,  Ħamburg,  Αμβούργο,  Гамбург,  Гамбурґ,  Хамбург,  Համբուրգ,  האַמבורג,  המבורג,  هامبورغ,  هامبورگ,  ہymbrg,  ہیمبرگ,  ܗܡܒܘܪܓ,  हॅम्बुर्ग,  ಹ್ಯಾಂಬರ್ಗ್,  ฮัมบูร์ก,  ჰამბურგი,  ハンブルク,  汉堡,  汉堡市,  漢堡,  함부르크
+Alternate Names: Amborg, Ambourgo, Amburgo, Amburgu, Augusta Gambriviorum, Ciutat d'Hamburg, Estat d'Hamburg, Gamburg, HAM, HH, Hamboarch, Hamboerg, Hamboerj, Hamborg, Hambourg, Hamburch, Hamburg, Hamburga, Hamburgas, Hamburgo, Hamburgu, Hamburgum, Hamburk, Hambuurich, Hambörg, Hambörj, Hambùrk, Hambûrg, Hamepuka, Hammaburg [a. 832], Hampuri, Hanburgo, Khamburg, ham bur k, hambuleukeu, hamburgi, hambwrg, hambwrgh, han bao, han bao shi, hanburuku, hemburga, hmbwrg, hyambarg, hʼambwrg, Ħamburg, Αμβούργο, Гамбург, Гамбурґ, Хамбург, Համբուրգ, האַמבורג, המבורג, هامبورغ, هامبورگ, ہymbrg, ہیمبرگ, ܗܡܒܘܪܓ, हॅम्बुर्ग, ಹ್ಯಾಂಬರ್ಗ್, ฮัมบูร์ก, ჰამბურგი, ハンブルク, 汉堡, 汉堡市, 漢堡, 함부르크
 
 ---

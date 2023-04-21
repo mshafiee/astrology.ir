@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'53.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°42'21.62" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°16'56.80" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°44'55.53" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°58'22.61" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'53.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°39'34.09" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°42'21.69" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°16'56.78" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°44'55.97" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°58'23.58" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°14'55.76" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°45'20.67" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°52'53.81" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'21.62" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°16'56.80" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°44'55.53" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°58'22.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'53.82" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°39'34.09" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|4°52'53.85" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°42'21.69" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°16'57.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°44'56.74" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°58'23.58" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'55.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°45'20.67" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Lungsod ng Milano,  MIL,  Mailand,  Mediolan,  Mediolanum,  Mila,  Milaan,  Milan,  Milana,  Milanas,  Milano,  Milanu,  Milao,  Milà,  Milán,  Miláno,  Milánó,  Milão,  Milāna,  Mílanó,  Mилан,  mi lan,  milan,  milana,  milani,  millano,  mirano,  mylan,  mylanw,  Милан,  Милано,  Мілан,  מילאנו,  مىلان,  ميلانو,  মিলান,  மிலன்,  มิลาน,  მილანი,  ミラノ,  米蘭,  밀라노
+Alternate Names: Lungsod ng Milano, MIL, Mailand, Mediolan, Mediolanum, Mila, Milaan, Milan, Milana, Milanas, Milano, Milanu, Milao, Milà, Milán, Miláno, Milánó, Milão, Milāna, Mílanó, Mилан, mi lan, milan, milana, milani, millano, mirano, mylan, mylanw, Милан, Милано, Мілан, מילאנו, مىلان, ميلانو, মিলান, மிலன், มิลาน, მილანი, ミラノ, 米蘭, 밀라노
 
 ---

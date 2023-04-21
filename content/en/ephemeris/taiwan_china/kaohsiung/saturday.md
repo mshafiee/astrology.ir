@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°41'37.98" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°9'28.83" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°3'6.39" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°31'13.12" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°21'54.15" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'31.95" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°29'58.17" |Aries|Butain|Venus|
+|☉ Sun|Direct|1°31'14.73" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°21'56.34" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'34.90" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°43'23.27" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°9'28.83" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°3'6.39" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°31'14.73" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°21'54.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'31.95" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°29'58.17" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°21'56.34" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'34.90" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°43'23.27" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Gaosjun,  Gaosyongshih,  Gaoxiong,  Gaoxiongshi,  KHH,  Kao-hsiung,  Kao-hsiung-shih,  Kaohsiung,  Kaohsiung City,  Takao,  gao xiong,  gao xiong fu,  gao xiong shi,  gaosyung si,  Гаосюн,  高雄,  高雄巿,  高雄市,  가오슝 시
+Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시
 
 ---

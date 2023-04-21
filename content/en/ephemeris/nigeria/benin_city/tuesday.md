@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'55.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°57'22.39" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°50'50.85" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°46'2.83" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°9'40.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°56'9.41" |Aries|Butain|Sun|
-|☾ Moon|Direct|5°44'35.90" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°57'22.41" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°50'50.96" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°46'2.96" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°9'40.21" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°56'9.65" |Aries|Butain|Sun|
+|☾ Moon|Direct|5°45'47.15" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°57'54.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°57'20.46" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°50'53.55" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|4°57'55.70" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°57'22.39" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°50'50.85" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|4°46'2.83" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°9'40.02" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°56'9.41" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°44'35.90" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°9'40.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°56'9.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|5°45'47.15" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BNI,  Benim,  Benin,  Benin City,  Benin Siti,  Benin by,  Benin-Siti,  Benin-Stadt,  Benin-stad,  Beninas,  Beninborg,  Beninurbo,  Benínborg,  Bénin,  Ciudad de Benin,  Ciudad de Benín,  Ilu Benin,  Kota Benin,  Thanh pho Benin,  Thành phố Benin,  bei ning cheng,  beni n si ti,  benina sahira,  benina siti,  beninshiti,  beninsiti,  bnyn,  Ìlú Benin,  Бенин,  Бенин-Сити,  Бенін-Сіті,  بنين,  بنین,  بینن شہر,  बेनिन सिटी,  ਬੇਨਿਨ ਸ਼ਹਿਰ,  เบนินซิตี,  ベニンシティ,  贝宁城,  베닌시티
+Alternate Names: BNI, Benim, Benin, Benin City, Benin Siti, Benin by, Benin-Siti, Benin-Stadt, Benin-stad, Beninas, Beninborg, Beninurbo, Benínborg, Bénin, Ciudad de Benin, Ciudad de Benín, Ilu Benin, Kota Benin, Thanh pho Benin, Thành phố Benin, bei ning cheng, beni n si ti, benina sahira, benina siti, beninshiti, beninsiti, bnyn, Ìlú Benin, Бенин, Бенин-Сити, Бенін-Сіті, بنين, بنین, بینن شہر, बेनिन सिटी, ਬੇਨਿਨ ਸ਼ਹਿਰ, เบนินซิตี, ベニンシティ, 贝宁城, 베닌시티
 
 ---

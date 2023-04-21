@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'20.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°2'54.21" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°48'24.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°4'31.65" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°50'35.73" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°37'28.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|17°55'44.53" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|24°2'54.22" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°48'24.58" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°4'31.66" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°50'36.00" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'28.24" |Aries|Butain|Sun|
+|☾ Moon|Direct|17°56'30.62" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°39'20.41" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°2'52.05" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°48'26.82" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°4'18.80" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°50'31.41" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'12.23" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°46'38.47" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°2'54.22" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°48'24.58" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°4'31.66" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°50'36.00" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'28.24" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°56'30.62" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: CBB,  Ciudad Cochabamba,  Cochabamba,  Kocabamb,  Kocabamba,  Kochabamba,  Kočabamb,  Kočabamba,  Kuchawampa,  Quchapampa,  ke qia ban ba,  ko cha bam ba,  kochabamba,  kochabanba,  kwchabamba,  kwtshabamba,  qwzbmbh,  Кочабамба,  קוצבמבה,  كوتشابامبا,  کوچابامبا,  โกชาบัมบา,  ཀོ་ཅ་བང་ལྦ་,  კოჩაბამბა,  コチャバンバ,  科恰班巴,  코차밤바
+Alternate Names: CBB, Ciudad Cochabamba, Cochabamba, Kocabamb, Kocabamba, Kochabamba, Kočabamb, Kočabamba, Kuchawampa, Quchapampa, ke qia ban ba, ko cha bam ba, kochabamba, kochabanba, kwchabamba, kwtshabamba, qwzbmbh, Кочабамба, קוצבמבה, كوتشابامبا, کوچابامبا, โกชาบัมบา, ཀོ་ཅ་བང་ལྦ་, კოჩაბამბა, コチャバンバ, 科恰班巴, 코차밤바
 
 ---

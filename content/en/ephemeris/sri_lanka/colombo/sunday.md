@@ -20,7 +20,7 @@ Latitude: 6.9355
 \-
 Longitude: 79.8487
 \-
-Altitude: 7 meters
+Altitude: 1 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Colombo, Sri Lanka" lat="6.9355" lng="79.8487" zoom="12">}}
 
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'12.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°25'36.30" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°39'17.96" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°36'42.99" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°38'44.24" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°29'8.45" |Aries|Butain|Sun|
-|☾ Moon|Direct|6°59'46.81" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°25'39.10" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°39'19.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°36'59.40" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°38'55.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°29'32.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°23'19.94" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°39'19.89" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°36'59.40" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|13°38'55.20" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°29'8.45" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°59'46.81" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|15°29'32.97" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°23'19.94" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CMB,  Colombo,  Columbo,  Columbum,  Kalomba,  Kolombas,  Kolombo,  Kolompo,  Kolonbo,  ge lin bao,  kalambo,  kalombo,  ke lun po,  kealambea,  kholambo,  klmbw,  kolabo,  kolambo,  kollombo,  kolumpu,  kolunbu,  koronbo,  kwlmbw,  kwlwmbw,  qwlwmbw,  Κολόμπο,  Каломба,  Коломбо,  Կոլոմբո,  קולומבו,  كولمبو,  كولومبو,  کلمبو,  کولمبو,  ކޮޅުނބު,  कोलंबो,  कोलम्बो,  কলম্বো,  ਕੋਲੰਬੋ,  કોલંબો,  କଲୋମ୍ବୋ,  கொழும்பு,  కొలంబో,  ಕೊಲಂಬೊ,  കൊളംബോ,  කොළඹ,  ෙකාළඹ,  โคลัมโบ,  ཁོ་ལུམ་པོ།,  ကိုလံဘိုမြို့,  კოლომბო,  ኮሎምቦ,  コロンボ,  可倫坡,  哥林堡,  콜롬보
+Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'43.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°53'43.88" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°42'42.82" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°31'9.03" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°52'27.69" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°0'48.48" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°22'29.08" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°53'46.10" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°42'41.74" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°31'21.99" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°52'33.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°1'7.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°37'32.93" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'43.60" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°53'43.88" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°42'42.82" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°31'9.03" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°52'27.69" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°0'48.48" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°22'29.08" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°53'46.10" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°42'41.74" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°31'21.99" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°52'33.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°1'7.64" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°37'32.93" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: CGP,  Cattagram,  Caṭṭagrām,  Cetagons,  Chattogram,  Chitagong,  Chittagong,  Chittagong Ghat,  Chottogram,  Chôţţogram,  Citagaon,  Citagong,  Citagonga,  Citagongas,  Citagongo,  Cittaqonq,  Cottogram,  Csittagong,  Islamabad,  Tsitankon'nk,  catagamva,  cattagrama,  chitagong,  chittagon,  chytagwng,  cirragean,  cit ta kxng,  citagonga,  cittagang,  cittagonga,  cittakon,  ji da gang,  ji da gang shi,  shytaghwngh,  shytajwnj,  zytgwng,  Çitagong,  Çittaqonq,  Ćottogram,  Ĉitagongo,  Čattagrám,  Čitagonga,  Čitagongas,  Čitágáon,  Čėtagons,  Τσιταγκόνγκ,  Читагонг,  Читтагонг,  Читтаґонґ,  טשיטאגאנג,  ציטגונג,  شيتاجونج,  شيتاغونغ,  چٹاگانگ,  چیتاگونگ,  चटगाँव,  चट्टग्राम,  चिटागोंग,  চট্টগ্রাম,  ચિત્તાગોંગ,  சிட்டகொங்,  చిట్టగాంగ్,  ಚಿತ್ತಗಾಂಗ್,  ചിറ്റഗോങ്,  จิตตะกอง,  စစ်တကောင်းမြို့,  ჩიტაგონგი,  チッタゴン,  吉大港,  吉大港市,  치타공
+Alternate Names: CGP, Cattagram, Caṭṭagrām, Cetagons, Chattogram, Chitagong, Chittagong, Chittagong Ghat, Chottogram, Chôţţogram, Citagaon, Citagong, Citagonga, Citagongas, Citagongo, Cittaqonq, Cottogram, Csittagong, Islamabad, Tsitankon'nk, catagamva, cattagrama, chitagong, chittagon, chytagwng, cirragean, cit ta kxng, citagonga, cittagang, cittagonga, cittakon, ji da gang, ji da gang shi, shytaghwngh, shytajwnj, zytgwng, Çitagong, Çittaqonq, Ćottogram, Ĉitagongo, Čattagrám, Čitagonga, Čitagongas, Čitágáon, Čėtagons, Τσιταγκόνγκ, Читагонг, Читтагонг, Читтаґонґ, טשיטאגאנג, ציטגונג, شيتاجونج, شيتاغونغ, چٹاگانگ, چیتاگونگ, चटगाँव, चट्टग्राम, चिटागोंग, চট্টগ্রাম, ચિત્તાગોંગ, சிட்டகொங், చిట్టగాంగ్, ಚಿತ್ತಗಾಂಗ್, ചിറ്റഗോങ്, จิตตะกอง, စစ်တကောင်းမြို့, ჩიტაგონგი, チッタゴン, 吉大港, 吉大港市, 치타공
 
 ---

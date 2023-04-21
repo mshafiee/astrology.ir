@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'16.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°55'23.85" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°46'24.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°37'55.36" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°0'17.24" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°58'26.10" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°0'43.33" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°55'26.03" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°46'28.24" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°38'8.24" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°0'28.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°58'47.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°56'37.19" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'16.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°55'23.85" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°46'24.79" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°37'55.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°0'17.24" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°58'26.10" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°0'43.33" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|24°55'26.36" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°46'32.30" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°38'9.98" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°0'33.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°58'51.91" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°36'12.24" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: OMH,  Orumiyeh,  Orūmīyeh,  Ourmia,  Reza'iyeh,  Rezaeyeh,  Rezaiyye,  Rezâiyye,  Rezā’īyeh,  Rizaiyeh,  Rizāiyeh,  Urmia,  Urmija,  Urmiya,  Urmiye,  Urmía,  Urumija,  Urumiyeh,  Urūmiyeh,  arwmyh,  arwmyt,  shhrstan arwmyh,  Úrmia,  Ûrmiye,  Урмия,  Урумия,  אורמיה,  أرومية,  ارومیه,  ارومیّه,  شهرستان ارومیه,  ܐܘܪܡܝܐ
+Alternate Names: OMH, Orumiyeh, Orūmīyeh, Ourmia, Reza'iyeh, Rezaeyeh, Rezaiyye, Rezâiyye, Rezā’īyeh, Rizaiyeh, Rizāiyeh, Urmia, Urmija, Urmiya, Urmiye, Urmía, Urumija, Urumiyeh, Urūmiyeh, arwmyh, arwmyt, shhrstan arwmyh, Úrmia, Ûrmiye, Урмия, Урумия, אורמיה, أرومية, ارومیه, ارومیّه, شهرستان ارومیه, ܐܘܪܡܝܐ
 
 ---

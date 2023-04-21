@@ -292,7 +292,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'42.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'11.64" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|24°24'11.55" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|14°36'4.77" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|2°31'3.14" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|13°32'0.10" |Taurus|Dabaran|Moon|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'42.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'11.55" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°36'4.02" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°31'2.65" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°31'59.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'23.94" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°51'22.32" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'11.64" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°36'4.77" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°31'3.14" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°32'0.10" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'25.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°57'57.01" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Ch'ang-an,  Ch'ang-an-hsien,  Ch’ang-an,  Ch’ang-an-hsien,  Hsi Gnan Fu,  Hsi-an,  Hsi-an-shih,  Hsi-ching,  Hsi-ching-shih,  Hsingan,  SIA,  Si-Gan-Fu,  Sian,  Sian',  Siana,  Sianas,  Sianfu,  Siano,  Siaņa,  Siking,  Singan,  Singano,  Tay An,  Tây An,  Xi'an,  Xi'an - xi an,  Xi'an - 西安,  Xi'an Shi,  Xian,  Xi’an,  Xi’an Shi,  Xī'ān,  si xan,  sian si,  xi an,  xi an shi,  Ŝiano,  Ŝingano,  Сиань,  شىئەن شەھىرى,  ซีอาน,  西安,  西安市,  시안 시
+Alternate Names: Ch'ang-an, Ch'ang-an-hsien, Ch’ang-an, Ch’ang-an-hsien, Hsi Gnan Fu, Hsi-an, Hsi-an-shih, Hsi-ching, Hsi-ching-shih, Hsingan, SIA, Si-Gan-Fu, Sian, Sian', Siana, Sianas, Sianfu, Siano, Siaņa, Siking, Singan, Tay An, Tây An, Xi'an, Xi'an - xi an, Xi'an - 西安, Xi'an Shi, Xian, Xi’an, Xi’an Shi, Xī'ān, si xan, sian si, xi an, xi an shi, Ŝiano, Сиань, شىئەن شەھىرى, ซีอาน, 西安, 西安市, 시안 시
 
 ---

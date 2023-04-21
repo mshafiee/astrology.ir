@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°57'29.46" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°56'3.72" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|15°47'53.75" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°40'41.35" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|16°3'22.95" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°57'51.20" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°51'46.39" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|4°40'41.38" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°3'27.07" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°57'52.99" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°25'32.77" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°57'29.46" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°56'3.72" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°47'50.16" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°40'41.35" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°3'22.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|14°57'51.20" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°51'46.39" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°47'53.75" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°40'41.38" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°3'27.07" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|14°57'52.99" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°25'32.77" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
-Alternate Names: BUH,  Boekarest,  Boukouresti,  Bucarest,  Bucaresta,  Bucareste,  Bucarèst,  Bucharest,  Bucuresti,  Bucureşti,  București,  Buekres,  Bukarest,  Bukarestas,  Bukareste,  Bukaresto,  Bukareszt,  Bukareŝto,  Bukareštas,  Bukharest,  Bukureshh,  Bukuresht,  Bukureshta,  Bukureshti,  Bukurest,  Bukurešt,  Bukurešť,  Buxarest,  Búkarest,  Bûkarest,  Bükreş,  bkharst,  bu jia lei si te,  bukaresuto,  bukulesyuti,  bwkharst,  bwqrst,  Βουκουρέστι,  Букурешт,  Букурещ,  Бухарест,  Բուխարեստ,  בוקאַרעשט,  בוקרשט,  بخارست,  بوخارست,  بۇخارېست,  པུ་ཁ་རེ་སིད,  ბუქარესტი,  ቡካረስት,  ブカレスト,  布加勒斯特,  부쿠레슈티
+Alternate Names: BUH, Boekarest, Boukouresti, Bucarest, Bucaresta, Bucareste, Bucarèst, Bucharest, Bucuresti, Bucureşti, București, Buekres, Bukarest, Bukarestas, Bukareste, Bukaresto, Bukareszt, Bukareŝto, Bukareštas, Bukharest, Bukureshh, Bukuresht, Bukureshta, Bukureshti, Bukurest, Bukurešt, Bukurešť, Buxarest, Búkarest, Bûkarest, Bükreş, bkharst, bu jia lei si te, bukaresuto, bukulesyuti, bwkharst, bwqrst, Βουκουρέστι, Букурешт, Букурещ, Бухарест, Բուխարեստ, בוקאַרעשט, בוקרשט, بخارست, بوخارست, بۇخارېست, པུ་ཁ་རེ་སིད, ბუქარესტი, ቡካረስት, ブカレスト, 布加勒斯特, 부쿠레슈티
 
 ---

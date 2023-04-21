@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'42.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°27'3.30" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°42'27.70" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°42'38.07" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°45'32.58" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°28'13.87" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°9'45.90" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|24°27'5.12" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°42'33.44" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°42'48.75" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°45'44.67" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°28'32.45" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°31'24.22" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°47'42.34" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°27'3.30" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°42'27.70" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°42'38.07" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°45'32.58" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°28'13.87" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|8°9'45.90" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°27'5.12" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°42'33.44" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°42'48.75" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°45'44.67" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°28'32.45" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|9°31'24.22" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Al Madina,  Al Madinah,  Al Madinah al Munawwarah,  Al Madīnah,  Al Madīnah al Munawwarah,  Al Medina,  El Medina,  Lathrippa,  MED,  Madina,  Madinah,  Madinah al-Munawwarah,  Madinat,  Madīna,  Maedinae,  Mediina,  Medin,  Medina,  Medinae,  Medine,  Medino,  Medyna,  Medzina,  Medína,  Medîne,  Medīna,  Mädinä,  Médine,  Mədinə,  Yathrib,  almdynt,  almdynt almnwrh,  almdynt almnwrt,  ma di nah,  madina,  mai de na,  matina,  mdynh,  medina,  Μεδίνα,  Мадина,  Мадинат,  Медзіна,  Мединæ,  Медина,  Медине,  Медіна,  Мәдинә,  Մադինա,  אל-מדינה,  المدينة,  المدينة المنورة,  المدينة المنوره,  مدينه,  مدینه,  مدینھ,  مدینہ منورہ,  مەدینە,  މަދީނާ,  मदिना,  मदीना,  মদিনা,  মেডিনা,  ਮਦੀਨਾ,  મદીના,  மதீனா,  మదీనా,  മദീന,  มะดีนะฮ์,  მედინა,  መዲና,  マディーナ,  麥地那,  麦地那,  메디나
+Alternate Names: Al Madina, Al Madinah, Al Madinah al Munawwarah, Al Madīnah, Al Madīnah al Munawwarah, Al Medina, El Medina, Lathrippa, MED, Madina, Madinah, Madinah al-Munawwarah, Madinat, Madīna, Maedinae, Mediina, Medin, Medina, Medinae, Medine, Medino, Medyna, Medzina, Medína, Medîne, Medīna, Mädinä, Médine, Mədinə, Yathrib, almdynt, almdynt almnwrh, almdynt almnwrt, ma di nah, madina, mai de na, matina, mdynh, medina, Μεδίνα, Мадина, Мадинат, Медзіна, Мединæ, Медина, Медине, Медіна, Мәдинә, Մադինա, אל-מדינה, المدينة, المدينة المنورة, المدينة المنوره, مدينه, مدینه, مدینھ, مدینہ منورہ, مەدینە, މަދީނާ, मदिना, मदीना, মদিনা, মেডিনা, ਮਦੀਨਾ, મદીના, மதீனா, మదీనా, മദീന, มะดีนะฮ์, მედინა, መዲና, マディーナ, 麥地那, 麦地那, 메디나
 
 ---

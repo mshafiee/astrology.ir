@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'26.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°11'46.58" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°8'13.77" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°40'33.52" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°32'51.25" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°35'53.66" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°19'26.50" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|24°11'47.14" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°8'15.91" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°40'36.66" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°32'55.25" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°35'59.27" |Aries|Butain|Sun|
+|☾ Moon|Direct|25°44'53.31" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Moon|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -330,10 +330,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°42'25.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°11'46.58" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°8'13.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°40'33.52" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°42'26.01" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°11'47.14" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°8'15.91" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°40'36.66" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|12°32'55.25" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°35'59.27" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|25°44'53.31" |Taurus|HaqAh|Saturn|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Dowzdab,  Dowzdāb,  Duzdab,  Duzdap,  Duzdāb,  Duzdāp,  ZAH,  Zahedan,  Zahedan-e (Yek),  Zahedanas,  Zahedano,  Zahedán,  Zahidan,  Zaidan,  Zaidān,  Zakhedan,  Záhedán,  Zāhedān,  Zāhedān-e (Yek),  cakitan,  jahedan,  jahedana,  zahdan,  zahedan,  zahedana,  zahedani,  zha hei dan,  Захедан,  Зоҳидон,  Զահեդան,  زاهدان,  زاہدان,  ज़ाहेदान,  জহেদন,  சாகிதன்,  ზაჰედანი,  ザーヘダーン,  扎黑丹,  자헤단
+Alternate Names: Dowzdab, Dowzdāb, Duzdab, Duzdap, Duzdāb, Duzdāp, ZAH, Zahedan, Zahedan-e (Yek), Zahedanas, Zahedano, Zahedán, Zahidan, Zaidan, Zaidān, Zakhedan, Záhedán, Zāhedān, Zāhedān-e (Yek), cakitan, jahedan, jahedana, zahdan, zahedan, zahedana, zahedani, zha hei dan, Захедан, Зоҳидон, Զահեդան, زاهدان, زاہدان, ज़ाहेदान, জহেদন, சாகிதன், ზაჰედანი, ザーヘダーン, 扎黑丹, 자헤단
 
 ---

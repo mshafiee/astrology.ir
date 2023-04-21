@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°52'29.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°41'10.04" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°14'14.94" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°40'4.84" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°52'42.18" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°16'12.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°43'51.45" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°41'10.05" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°14'15.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°40'4.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°52'42.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°16'13.09" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°44'31.00" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Al Mawsil,  Al Mawşil,  Al Mosul,  Al Musil,  Al Mūşil,  Mosel,  Mosoel,  Mosouli,  Mossoul,  Mossul,  Mosul,  Mosul khot,  Mosula,  Mosulas,  Mosulo,  Moszul,  Mousl,  Moussoul,  Musil,  Musił,  Musul,  Musıl,  Mûsil,  OSM,  almwsl,  mo su er,  mo sul,  mocul,  mosala,  mosul,  mosula,  mosuli,  mosuru,  mwsl,  mwswl,  mwsڵ,  Μοσούλη,  Мосeл,  Мосул,  Мосул хот,  Մոսուլ,  מאסול,  מוסול,  الموصل,  موسڵ,  موصل,  موصول,  مووسڵ,  ܡܘܨܠ,  मोसुल,  ਮੋਸਲ,  மோசுல்,  മൊസൂൾ,  โมซูล,  მოსული,  モースル,  摩苏尔,  摩蘇爾,  모술
+Alternate Names: Al Mawsil, Al Mawşil, Al Mosul, Al Musil, Al Mūşil, Mosel, Mosoel, Mosouli, Mossoul, Mossul, Mosul, Mosul khot, Mosula, Mosulas, Mosulo, Moszul, Mousl, Moussoul, Musil, Musił, Musul, Musıl, Mûsil, OSM, almwsl, mo su er, mo sul, mocul, mosala, mosul, mosula, mosuli, mosuru, mwsl, mwswl, mwsڵ, Μοσούλη, Мосeл, Мосул, Мосул хот, Մոսուլ, מאסול, מוסול, الموصل, موسڵ, موصل, موصول, مووسڵ, ܡܘܨܠ, मोसुल, ਮੋਸਲ, மோசுல், മൊസൂൾ, โมซูล, მოსული, モースル, 摩苏尔, 摩蘇爾, 모술
 
 ---

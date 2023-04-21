@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°39'56.44" |Aries|Butain|Venus|
 |♂ Mars|Direct|15°11'28.97" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|3°35'5.48" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°46'52.33" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°17'29.66" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°41'24.73" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|14°46'52.73" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°17'30.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|20°43'51.60" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Caspira,  SXR,  Shrinagar,  Srinagar,  Srinagaras,  Srinagaro,  Srinankar,  Srinigar,  Srynagar,  Srīnagar,  Suryanagar,  Szrinagar,  cirinakar,  seulinagaleu,  shurinagaru,  si li na jia,  sirinagara,  siry nagar,  srinagar,  srinagara,  srinagaram,  srinagari,  srinkhr,  sry nghr,  sry ngr,  srynaghar,  srynghr,  sryngr,  Śrinagar,  Šrinagaras,  Šrínagar,  Σριναγκάρ,  Сринагар,  Срынагар,  Срінагар,  Шринагар,  Սրինագար,  סרינגאר,  جموں,  سري نغر,  سري نگر,  سريناغار,  سرينغر,  سری نگر,  سرینگر,  سِری نَگَر,  श्रीनगर,  श्रीनगरम्,  सिरीनगर,  শ্রীনগর,  ਸ੍ਰੀਨਗਰ,  શ્રીનગર,  ଶ୍ରୀନଗର,  சிறிநகர்,  శ్రీనగర్,  ಶ್ರೀನಗರ,  ശ്രീനഗർ,  ศรีนคร,  სრინაგარი,  シュリーナガル,  斯利那加,  스리나가르
+Alternate Names: Caspira, SXR, Shrinagar, Srinagar, Srinagaras, Srinagaro, Srinankar, Srinigar, Srynagar, Srīnagar, Suryanagar, Szrinagar, cirinakar, seulinagaleu, shurinagaru, si li na jia, sirinagara, siry nagar, srinagar, srinagara, srinagaram, srinagari, srinkhr, sry nghr, sry ngr, srynaghar, srynghr, sryngr, Śrinagar, Šrinagaras, Šrínagar, Σριναγκάρ, Сринагар, Срынагар, Срінагар, Шринагар, Սրինագար, סרינגאר, جموں, سري نغر, سري نگر, سريناغار, سرينغر, سری نگر, سرینگر, سِری نَگَر, श्रीनगर, श्रीनगरम्, सिरीनगर, শ্রীনগর, ਸ੍ਰੀਨਗਰ, શ્રીનગર, ଶ୍ରୀନଗର, சிறிநகர், శ్రీనగర్, ಶ್ರೀನಗರ, ശ്രീനഗർ, ศรีนคร, სრინაგარი, シュリーナガル, 斯利那加, 스리나가르
 
 ---

@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°45'19.84" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|12°38'27.98" |Taurus|Dabaran|Moon|
 |☿ Mercury|Retrograde|15°35'35.46" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°28'51.37" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°36'44.24" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°42'50.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°12'56.23" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°10'56.35" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°45'15.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°38'29.58" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°35'31.39" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°28'51.37" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°12'56.74" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°10'53.24" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°45'18.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°38'27.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°35'34.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°32'44.80" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: BUH,  Boekarest,  Boukouresti,  Bucarest,  Bucaresta,  Bucareste,  Bucarèst,  Bucharest,  Bucuresti,  Bucureşti,  București,  Buekres,  Bukarest,  Bukarestas,  Bukareste,  Bukaresto,  Bukareszt,  Bukareŝto,  Bukareštas,  Bukharest,  Bukureshh,  Bukuresht,  Bukureshta,  Bukureshti,  Bukurest,  Bukurešt,  Bukurešť,  Buxarest,  Búkarest,  Bûkarest,  Bükreş,  bkharst,  bu jia lei si te,  bukaresuto,  bukulesyuti,  bwkharst,  bwqrst,  Βουκουρέστι,  Букурешт,  Букурещ,  Бухарест,  Բուխարեստ,  בוקאַרעשט,  בוקרשט,  بخارست,  بوخارست,  بۇخارېست,  པུ་ཁ་རེ་སིད,  ბუქარესტი,  ቡካረስት,  ブカレスト,  布加勒斯特,  부쿠레슈티
+Alternate Names: BUH, Boekarest, Boukouresti, Bucarest, Bucaresta, Bucareste, Bucarèst, Bucharest, Bucuresti, Bucureşti, București, Buekres, Bukarest, Bukarestas, Bukareste, Bukaresto, Bukareszt, Bukareŝto, Bukareštas, Bukharest, Bukureshh, Bukuresht, Bukureshta, Bukureshti, Bukurest, Bukurešt, Bukurešť, Buxarest, Búkarest, Bûkarest, Bükreş, bkharst, bu jia lei si te, bukaresuto, bukulesyuti, bwkharst, bwqrst, Βουκουρέστι, Букурешт, Букурещ, Бухарест, Բուխարեստ, בוקאַרעשט, בוקרשט, بخارست, بوخارست, بۇخارېست, པུ་ཁ་རེ་སིད, ბუქარესტი, ቡካረስት, ブカレスト, 布加勒斯特, 부쿠레슈티
 
 ---

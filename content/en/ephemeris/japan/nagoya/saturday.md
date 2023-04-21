@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°41'20.96" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|24°8'39.93" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°1'17.43" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|1°27'55.55" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|12°18'3.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'42.69" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°49'47.81" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°1'17.32" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°27'55.56" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|12°18'3.48" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°36'42.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°49'27.01" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°8'39.93" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°1'17.43" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|1°27'55.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°18'3.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°36'42.69" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|22°49'47.81" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°18'3.48" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°36'42.64" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°49'27.01" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: NGO,  Nagoia,  Nagoja,  Nagojo,  Nagoya,  Nagoya City,  Nagoya-shi,  ming gu wu,  ming gu wu shi,  na ngoa ya,  naghwya,  nagoya si,  nagoyashi,  nagwya  aychy,  Нагоя,  ناغويا,  ناگویا، آیچی,  นะโงะยะ,  なごやし,  名古屋,  名古屋市,  나고야 시
+Alternate Names: NGO, Nagoia, Nagoja, Nagojo, Nagoya, Nagoya City, Nagoya-shi, ming gu wu, ming gu wu shi, na ngoa ya, naghwya, nagoya si, nagoyashi, nagwya  aychy, Нагоя, ناغويا, ناگویا، آیچی, นะโงะยะ, なごやし, 名古屋, 名古屋市, 나고야 시
 
 ---

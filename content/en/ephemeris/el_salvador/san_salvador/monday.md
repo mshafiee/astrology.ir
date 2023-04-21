@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'21.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°46'40.77" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|15°26'45.28" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°2'26.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|15°18'56.43" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°9'42.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°54'9.64" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|24°46'43.34" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|15°26'46.25" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°2'34.65" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|15°19'6.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°9'56.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°56'28.28" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°54'21.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°46'40.77" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°26'45.28" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|4°2'26.73" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°18'56.43" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°9'42.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°54'9.64" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°46'43.34" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°26'46.25" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°2'41.65" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°19'5.47" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°10'5.11" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°40'28.95" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: SAL,  Salvador,  San Salbador,  San Salvado,  San Salvador,  San Salvadoras,  San Salvadori,  San Salvadò,  San Salwador,  San-Sal'vador,  San-Salvador,  San-Salvadoro,  Sansalvadora,  Urbs Sancti Salvatoris,  can calvator,  san salvadwr,  san salwadwr,  san slfadwr,  san-salvadori,  sana salavadora,  sana salvhadora,  sana-salvadora,  sansalbadoleu,  sansalwadxr,  sansarubadoru,  sheng sa er wa duo,  sn slwwdwr,  Σαν Σαλβαδόρ,  Сан Салвадор,  Сан-Сальвадор,  Սան Սալվադոր,  סאן סאלוואדאר,  סן סלוודור,  سان سالوادور,  سان سالۋادور,  سان سلفادور,  سان سلواڈور,  सान साल्व्हाडोर,  सान-साल्वाडोर,  ਸਾਨ ਸਾਲਵਾਦੋਰ,  சான் சல்வடோர்,  ซันซัลวาดอร์,  སན་སལ་ཝ་ཌོར།,  სან-სალვადორი,  ሳን ሳልቫዶር,  サンサルバドル,  聖薩爾瓦多,  산살바도르
+Alternate Names: SAL, Salvador, San Salbador, San Salvado, San Salvador, San Salvadoras, San Salvadori, San Salvadò, San Salwador, San-Sal'vador, San-Salvador, San-Salvadoro, Sansalvadora, Urbs Sancti Salvatoris, can calvator, san salvadwr, san salwadwr, san slfadwr, san-salvadori, sana salavadora, sana salvhadora, sana-salvadora, sansalbadoleu, sansalwadxr, sansarubadoru, sheng sa er wa duo, sn slwwdwr, Σαν Σαλβαδόρ, Сан Салвадор, Сан-Сальвадор, Սան Սալվադոր, סאן סאלוואדאר, סן סלוודור, سان سالوادور, سان سالۋادور, سان سلفادور, سان سلواڈور, सान साल्व्हाडोर, सान-साल्वाडोर, ਸਾਨ ਸਾਲਵਾਦੋਰ, சான் சல்வடோர், ซันซัลวาดอร์, སན་སལ་ཝ་ཌོར།, სან-სალვადორი, ሳን ሳልቫዶር, サンサルバドル, 聖薩爾瓦多, 산살바도르
 
 ---

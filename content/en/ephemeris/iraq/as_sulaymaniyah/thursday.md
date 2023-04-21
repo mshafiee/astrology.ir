@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°5'13.53" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°45'40.97" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°18'3.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'40.43" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°17'22.01" |Aries|Thurayya|Venus|
+|☿ Mercury|Retrograde|15°32'40.21" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°16'35.45" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: Al-Sulaimaniya,  As Sulaymaniyah,  As Sulaymānīyah,  As-Sulajmanijja,  ISU,  Silemani,  Silêmanî,  Sleimani,  Sleimāni,  Slemani,  Slêmanî,  Slēmānī,  Solimania,  Souleimaniye,  Sueleymaniye,  Sulaimani,  Sulaimania,  Sulaimanieh,  Sulaimaniya,  Sulaimaniyya,  Sulaimany,  Sulaymaniyah,  Sulaymaniyya,  Sulaymānīyah,  Suleimania,  Suleimaniya,  Suleimaniyah,  Sulejmanija,  Süleymaniye,  alslymanyt,  slymanyh,  Сулеймания,  السليمانية,  سلیمانیه,  سلێمانى,  سلێمانی
+Alternate Names: Al-Sulaimaniya, As Sulaymaniyah, As Sulaymānīyah, As-Sulajmanijja, ISU, Silemani, Silêmanî, Sleimani, Sleimāni, Slemani, Slêmanî, Slēmānī, Solimania, Souleimaniye, Sueleymaniye, Sulaimani, Sulaimania, Sulaimanieh, Sulaimaniya, Sulaimaniyya, Sulaimany, Sulaymaniyah, Sulaymaniyya, Sulaymānīyah, Suleimania, Suleimaniya, Suleimaniyah, Sulejmanija, Süleymaniye, alslymanyt, slymanyh, Сулеймания, السليمانية, سلیمانیه, سلێمانى, سلێمانی
 
 ---

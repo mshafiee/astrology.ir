@@ -20,7 +20,7 @@ Latitude: 32.8874
 \-
 Longitude: 13.1873
 \-
-Altitude: 15 meters
+Altitude: 7 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Tripoli, Libyan Arab Jamahiriya" lat="32.8874" lng="13.1873" zoom="12">}}
 
@@ -204,7 +204,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:16:27|Night duration: 10:42:28|
+|Duration of the day: 13:16:27|Night duration: 10:42:27|
 |Every hour of day duration: 01:06:22|Every hour of night duration: 00:53:32|
 
  
@@ -228,16 +228,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|19:43:55|20:37:26|Repelling sorcery and attracting discharged energy|
 |2|Mercury|Servant|20:37:27|21:30:58|Traveling inward and outward|
-|3|Moon|Servant|21:30:59|22:24:31|Marriage bond is favorable|
-|4|Saturn|Servant|22:24:32|23:18:03|Eliminating and destroying enemies and releasing their energy|
+|3|Moon|Servant|21:30:59|22:24:30|Marriage bond is favorable|
+|4|Saturn|Servant|22:24:31|23:18:03|Eliminating and destroying enemies and releasing their energy|
 |5|Jupiter|Servant|23:18:04|00:11:35|Granting wishes, attracting love and wealth|
-|6|Mars|Servant|00:11:36|01:05:08|Summoning the desired person, creating love and domination|
-|7|Sun|Servant|01:05:09|01:58:40|Mutual agreement|
-|8|Venus|Ruler|01:58:41|02:52:12|Reconciling two individuals, attracting love|
-|9|Mercury|Servant|02:52:13|03:45:45|Attracting and repelling enemies, and separating them|
-|10|Moon|Servant|03:45:46|04:39:17|Favorable for any good deed|
-|11|Saturn|Servant|04:39:18|05:32:49|Creating enmity and negative energy|
-|12|Jupiter|Servant|05:32:50|06:26:22|Showing kindness and affection|
+|6|Mars|Servant|00:11:36|01:05:07|Summoning the desired person, creating love and domination|
+|7|Sun|Servant|01:05:08|01:58:39|Mutual agreement|
+|8|Venus|Ruler|01:58:40|02:52:12|Reconciling two individuals, attracting love|
+|9|Mercury|Servant|02:52:13|03:45:44|Attracting and repelling enemies, and separating them|
+|10|Moon|Servant|03:45:45|04:39:16|Favorable for any good deed|
+|11|Saturn|Servant|04:39:17|05:32:48|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:32:49|06:26:21|Showing kindness and affection|
 
  
  
@@ -250,7 +250,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:16:27|Night duration: 10:42:28|
+|Duration of the day: 13:16:27|Night duration: 10:42:27|
 |Every hour duration: 01:53:47|Every hour duration: 01:31:47|
 
  
@@ -272,10 +272,10 @@ Timetable of septet day and night planetary hours
 |Evening|Venus|Ruler|19:43:55|21:15:40|
 |Late evening|Mercury|Servant|21:15:41|22:47:27|
 |Midnight|Moon|Servant|22:47:28|00:19:14|
-|Late at night|Saturn|Servant|00:19:15|01:51:01|
-|Rooster song|Jupiter|Servant|01:51:02|03:22:48|
-|False Dawn|Mars|Servant|03:22:49|04:54:35|
-|Dawn|Sun|Servant|04:54:36|06:26:22|
+|Late at night|Saturn|Servant|00:19:15|01:51:00|
+|Rooster song|Jupiter|Servant|01:51:01|03:22:47|
+|False Dawn|Mars|Servant|03:22:48|04:54:34|
+|Dawn|Sun|Servant|04:54:35|06:26:21|
 
 {{< /tab >}}
 
@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°17'3.08" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|3°45'8.56" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|14°58'36.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°14'47.03" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°2'25.38" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|15°14'54.31" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°50'10.54" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°52'53.76" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°42'23.62" |Aries|Butain|Venus|
-|♂ Mars|Direct|15°17'6.84" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°45'2.34" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°58'37.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°14'47.03" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°2'25.38" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|4°52'54.84" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|24°42'24.67" |Aries|Butain|Venus|
+|♂ Mars|Direct|15°17'3.08" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°45'8.56" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°58'36.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°14'54.31" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°50'10.54" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Aea,  Ea,  Oea,  TIP,  Tarables,  Tarabulus,  Tarabulus al Gharb,  Tarabulus el Gharb,  Taràbles,  Trables,  Trablus,  Trablûs,  Triboli,  Tripili,  Tripilí,  Tripol,  Tripole,  Tripoli,  Tripolis,  Tripolo,  Tripoly,  Tripołi,  Tripul,  Tripuli,  Trypali,  Trypolis,  Trìpoli,  Trìpuli,  Trípol,  Trípoli,  Trípólí,  de li bo li,  tarabalasa,  tarabulasa,  tarabulus,  teulipolli,  tirippoli,  toripori,  trabls,  trabls  lybya,  tripoli,  trippeali,  trypwly,  Ţarābulus,  Ţarābulus al Gharb,  Τρίπολη,  Триполи,  Триполі,  Трыпалі,  Տրիպոլի,  טריפאלי,  טריפולי,  ترابلس,  ترىپولى,  تەرابلوس,  طرابلس,  طرابلس، لیبیا,  طَرَابُلُس,  ताराबूलस,  त्रिपोली,  ত্রিপোলি,  ਤਰਾਬਲਸ,  திரிப்பொலி,  ട്രിപ്പോളി,  ตริโปลี,  ཐི་རི་ཕོ་ལི,  ტრიპოლი,  ትሪፖሊ,  Ṭrables,  トリポリ,  的黎波里,  트리폴리
+Alternate Names: Aea, Ea, Oea, TIP, Tarables, Tarabulus, Tarabulus al Gharb, Tarabulus el Gharb, Taràbles, Trables, Trablus, Trablûs, Triboli, Tripili, Tripilí, Tripol, Tripole, Tripoli, Tripolis, Tripolo, Tripoly, Tripołi, Tripul, Tripuli, Trypali, Trypolis, Trìpoli, Trìpuli, Trípol, Trípoli, Trípólí, de li bo li, tarabalasa, tarabulasa, tarabulus, teulipolli, tirippoli, toripori, trabls, trabls  lybya, tripoli, trippeali, trypwly, Ţarābulus, Ţarābulus al Gharb, Τρίπολη, Триполи, Триполі, Трыпалі, Տրիպոլի, טריפאלי, טריפולי, ترابلس, ترىپولى, تەرابلوس, طرابلس, طرابلس، لیبیا, طَرَابُلُس, ताराबूलस, त्रिपोली, ত্রিপোলি, ਤਰਾਬਲਸ, திரிப்பொலி, ട്രിപ്പോളി, ตริโปลี, ཐི་རི་ཕོ་ལི, ტრიპოლი, ትሪፖሊ, Ṭrables, トリポリ, 的黎波里, 트리폴리
 
 ---

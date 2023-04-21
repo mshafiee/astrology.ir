@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'53.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°55'54.95" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°32'51.64" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°36'7.00" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|11°17'18.93" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°36'56.91" |Aries|Butain|Sun|
-|☾ Moon|Direct|11°7'41.17" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°55'55.50" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°32'50.83" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°36'10.22" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|11°17'19.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°37'0.64" |Aries|Butain|Sun|
+|☾ Moon|Direct|11°26'1.94" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°36'53.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°55'55.46" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°32'50.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°36'10.02" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°17'19.46" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°37'0.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°24'28.79" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|23°55'55.50" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°32'50.83" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°36'10.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°17'19.79" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°37'0.64" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°26'1.94" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
-Alternate Names: Kota Palembang,  Kutha Palembang,  PLM,  Palembang,  Palembangas,  Palempan'nk,  Palimbao,  Palimbão,  Palèmbang,  balymbanj,  ju gang,  pa lem bang,  palembanga,  pallembang,  palmbang,  palymbang,  parenban,  Παλεμπάνγκ,  Палембанг,  باليمبانج,  پالمبانگ,  پالم
+Alternate Names: Kota Palembang, Kutha Palembang, PLM, Palembang, Palembangas, Palempan'nk, Palimbao, Palimbão, Palèmbang, balymbanj, ju gang, pa lem bang, palembanga, pallembang, palmbang, palymbang, parenban, Παλεμπάνγκ, Палембанг, باليمبانج, پالمبانگ, پالم‌بانگ, پالیمبانگ, पालेंबांग, ปาเล็มบัง, パレンバン, 巨港, 팔렘방
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'18.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°42'56.90" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°3'59.79" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°43'17.04" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°15'14.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'7.34" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°47'43.81" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°42'56.63" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°3'57.93" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°43'24.44" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°15'22.59" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'19.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°35'3.03" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'18.17" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°42'55.35" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°3'54.15" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°43'17.04" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°15'14.56" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'7.34" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°47'43.81" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°42'56.90" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°3'59.79" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°43'24.44" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°15'22.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'19.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°35'3.03" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: ASB,  Achgabat,  Achkhabad,  Aschabad,  Aschabadas,  Aschchabad,  Aschgabat,  Asgabat,  Asgabata,  Asgabate,  Asgabato,  Ashabad,  Ashabat,  Ashgabad,  Ashgabat,  Ashkabad,  Ashkhabad,  Ashkhabad osh,  Ashkˌobod,  Ashqabad,  Ashxabad,  Ashxobod,  Asjabad,  Asjchabad,  Asjchabat,  Asjkhabad,  Askabad,  Askabat,  Askhabad,  Asnkampat,  Asqabad,  Asxabad,  Aszchabad,  Aŝgabato,  Aşgabat,  Aşkabat,  Aşqabad,  Aşğabat,  Ašchabad,  Ašchabadas,  Ašgabat,  Ašgabata,  Ašhabad,  Așgabat,  GIashkuabad,  Poltoratsk,  a shen ha ba de,  acukapat,  asagabata,  asakhabada,  asgabad,  asgabada,  asgabat,  ashigabato,  ashk abad,  ashkhabadi,  asigabateu,  asqabada,  asyuhabateu,  xa chka bat,  yashkhabad,  ʼsgbʼt,  ʿەshqabad,  Ασγκαμπάτ,  Ашгабад,  Ашгабат,  Ашкабад,  Ашхабад,  Ашхабад ош,  Ашқобод,  ГІашкъабад,  Աշխաբադ,  אשגאבאט,  אשגבאט,  ئاشخاباد,  اشک آباد,  عاشق
+Alternate Names: ASB, Achgabat, Achkhabad, Aschabad, Aschabadas, Aschchabad, Aschgabat, Asgabat, Asgabata, Asgabate, Asgabato, Ashabad, Ashabat, Ashgabad, Ashgabat, Ashkabad, Ashkhabad, Ashkhabad osh, Ashkˌobod, Ashqabad, Ashxabad, Ashxobod, Asjabad, Asjchabad, Asjchabat, Asjkhabad, Askabad, Askabat, Askhabad, Asnkampat, Asqabad, Asxabad, Aszchabad, Aŝgabato, Aşgabat, Aşkabat, Aşqabad, Aşğabat, Ašchabad, Ašchabadas, Ašgabat, Ašgabata, Ašhabad, Așgabat, GIashkuabad, Poltoratsk, a shen ha ba de, acukapat, asagabata, asakhabada, asgabad, asgabada, asgabat, ashigabato, ashk abad, ashkhabadi, asigabateu, asqabada, asyuhabateu, xa chka bat, yashkhabad, ʼsgbʼt, ʿەshqabad, Ασγκαμπάτ, Ашгабад, Ашгабат, Ашкабад, Ашхабад, Ашхабад ош, Ашқобод, ГІашкъабад, Աշխաբադ, אשגאבאט, אשגבאט, ئاشخاباد, اشک آباد, عاشق‌آباد, عشق آباد, عشق اباد, عشق‌آباد, عەشقاباد, अश्क़ाबाद, अश्गाबाद, আশখাবাদ, ਅਸ਼ਗ਼ਾਬਾਤ, அசுகாபாத், ಅಶ್ಗಾಬಾತ್, അഷ്ഗാബാദ്, อาชกาบัต, ཨ་ཧྲི་ཁ་པད།, აშხაბადი, አሽጋባት, アシガバート, 阿什哈巴德, 아슈하바트, 아시가바트
 
 ---

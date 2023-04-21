@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'24.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°43'15.04" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°4'44.54" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°44'38.84" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°16'56.17" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°32'33.23" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°50'16.65" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|23°43'14.59" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°4'38.34" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°44'36.90" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°16'48.67" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°32'26.79" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°40'51.40" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'24.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°43'15.04" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°4'44.54" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°44'38.84" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°16'56.17" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°32'33.23" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°50'16.65" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|23°43'14.59" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°4'38.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°44'36.90" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°16'48.67" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°32'26.79" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°40'51.40" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: BAK,  Bacu,  Bacú,  Baki,  Bako,  Bakoe,  Bakou,  Baku,  Bakue,  Bakuo,  Bakuu,  Baky,  Bakó,  Bakú,  Bakû,  Bakü,  Bakı,  Baqu,  Boku,  Mpakou,  ba ku,  bakku,  bako,  baku,  bakw,  bakww,  pakku,  Μπακού,  Баку,  Бакы,  Баҡы,  Боку,  Բաքու,  באקו,  باكو,  باکو,  باکوو,  बाकु,  बाकू,  বাকু,  பாக்கு,  ബക്കു,  บากู,  པཱ་ཁི།,  ბაქო,  ባኩ,  バクー,  巴库,  바쿠
+Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠
 
 ---

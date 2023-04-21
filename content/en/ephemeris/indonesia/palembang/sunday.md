@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°46'53.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°24'44.16" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°37'18.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|2°33'15.33" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|13°34'35.77" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°30'5.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°31'49.89" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°46'54.24" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|24°24'44.72" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°37'17.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°33'18.50" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|13°34'36.56" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°30'9.23" |Aries|Butain|Sun|
+|☾ Moon|Direct|7°40'6.03" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°46'54.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°24'44.69" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°37'17.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°33'15.33" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°34'35.77" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°30'5.22" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°31'49.89" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|24°24'44.72" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°37'17.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°33'18.50" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°34'36.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°30'9.23" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|7°40'6.03" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Kota Palembang,  Kutha Palembang,  PLM,  Palembang,  Palembangas,  Palempan'nk,  Palimbao,  Palimbão,  Palèmbang,  balymbanj,  ju gang,  pa lem bang,  palembanga,  pallembang,  palmbang,  palymbang,  parenban,  Παλεμπάνγκ,  Палембанг,  باليمبانج,  پالمبانگ,  پالم
+Alternate Names: Kota Palembang, Kutha Palembang, PLM, Palembang, Palembangas, Palempan'nk, Palimbao, Palimbão, Palèmbang, balymbanj, ju gang, pa lem bang, palembanga, pallembang, palmbang, palymbang, parenban, Παλεμπάνγκ, Палембанг, باليمبانج, پالمبانگ, پالم‌بانگ, پالیمبانگ, पालेंबांग, ปาเล็มบัง, パレンバン, 巨港, 팔렘방
 
 ---

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'10.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|24°31'20.99" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|14°52'13.08" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°0'4.78" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|14°6'4.59" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°24'58.32" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°17'13.26" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|24°31'22.92" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|14°52'13.39" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°0'16.37" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°6'10.92" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°25'15.17" |Aries|Butain|Sun|
+|☾ Moon|Direct|13°4'4.12" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°49'10.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°31'20.99" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°52'13.08" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|3°0'4.78" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°6'4.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°24'58.32" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|12°17'13.26" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|24°31'22.93" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°52'13.13" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|3°0'16.37" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°6'10.92" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°25'15.17" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°4'4.12" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Atava,  Otava,  Otavo,  Otawa,  Ottaba,  Ottahua,  Ottava,  Ottavae,  Ottawa,  YOW,  atawa,  atoya,  attava,  awtawa,  otava,  otawa,  ottava,  wo tai hua,  xxttawa,  AA¬²±,  Οττάβα,  Οτταβα,  Атава,  Отава,  Оттавæ,  Оттава,  Օտտավա,  אוטווה,  אטאווא,  أوتاوا,  ئۆتاوا,  اتاوا,  اوتآوآ,  اوٹاوا,  اٹاوہ,  ओटावा,  অটোয়া,  ਓਟਾਵਾ,  ଓଟାୱା,  ஒட்டாவா,  ಆಟ್ಟಾವಾ,  ഓട്ടവ,  ออตตาวา,  ཨོ་ཏ་ཝ།,  အော့တဝမြို့,  ოტავა,  ኦታዋ,  ᎠᏔᏩ,  ᐊᑐᕚ/atavaa,  オタワ,  渥太華,  오타와
+Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, AA¬²±, Οττάβα, Οτταβα, Атава, Отава, Оттавæ, Оттава, Օտտավա, אוטווה, אטאווא, أوتاوا, ئۆتاوا, اتاوا, اوتآوآ, اوٹاوا, اٹاوہ, ओटावा, অটোয়া, ਓਟਾਵਾ, ଓଟାୱା, ஒட்டாவா, ಆಟ್ಟಾವಾ, ഓട്ടവ, ออตตาวา, ཨོ་ཏ་ཝ།, အော့တဝမြို့, ოტავა, ኦታዋ, ᎠᏔᏩ, ᐊᑐᕚ/atavaa, オタワ, 渥太華, 오타와
 
 ---

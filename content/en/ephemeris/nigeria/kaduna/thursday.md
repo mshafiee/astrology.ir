@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'8.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|23°45'16.93" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|13°9'13.14" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|29°52'54.96" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°26'36.17" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|15°33'37.03" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°16'57.05" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|23°45'17.16" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|13°9'10.59" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|29°52'56.57" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°26'34.02" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|15°33'36.98" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°17'51.82" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°33'8.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|23°45'16.93" |Aries|Butain|Venus|
-|♂ Mars|Direct|13°9'13.14" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°52'54.96" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°26'36.17" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|23°45'17.16" |Aries|Butain|Venus|
+|♂ Mars|Direct|13°9'10.59" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°52'56.44" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°26'34.31" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|15°33'37.03" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°6'45.01" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|1°16'57.05" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> </sub>|
 
 ---
-Alternate Names: KAD,  Kadun,  Kaduna,  Kaduno,  Kàdúná,  ka du na,  kadouna,  kaduna,  kadwna,  qdwnh,  Кадуна,  קדונה,  كادونا,  کادونا,  ਕਾਦੂਨਾ,  カドゥナ,  卡杜納,  카두나
+Alternate Names: KAD, Kadun, Kaduna, Kaduno, Kàdúná, ka du na, kado~una, kaduna, kadwna, qdwnh, Кадуна, קדונה, كادونا, کادونا, ਕਾਦੂਨਾ, カドゥナ, 卡杜納, 카두나
 
 ---

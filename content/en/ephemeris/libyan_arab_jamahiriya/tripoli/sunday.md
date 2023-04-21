@@ -20,7 +20,7 @@ Latitude: 32.8874
 \-
 Longitude: 13.1873
 \-
-Altitude: 15 meters
+Altitude: 7 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Tripoli, Libyan Arab Jamahiriya" lat="32.8874" lng="13.1873" zoom="12">}}
 
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°48'1.83" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|24°28'2.12" |Aries|Butain|Venus|
 |♂ Mars|Direct|14°44'41.71" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°46'39.23" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°50'16.18" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°27'49.60" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°17'13.43" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|2°46'40.25" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°50'15.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°27'50.66" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°16'46.68" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,6 +377,6 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
-Alternate Names: Aea,  Ea,  Oea,  TIP,  Tarables,  Tarabulus,  Tarabulus al Gharb,  Tarabulus el Gharb,  Taràbles,  Trables,  Trablus,  Trablûs,  Triboli,  Tripili,  Tripilí,  Tripol,  Tripole,  Tripoli,  Tripolis,  Tripolo,  Tripoly,  Tripołi,  Tripul,  Tripuli,  Trypali,  Trypolis,  Trìpoli,  Trìpuli,  Trípol,  Trípoli,  Trípólí,  de li bo li,  tarabalasa,  tarabulasa,  tarabulus,  teulipolli,  tirippoli,  toripori,  trabls,  trabls  lybya,  tripoli,  trippeali,  trypwly,  Ţarābulus,  Ţarābulus al Gharb,  Τρίπολη,  Триполи,  Триполі,  Трыпалі,  Տրիպոլի,  טריפאלי,  טריפולי,  ترابلس,  ترىپولى,  تەرابلوس,  طرابلس,  طرابلس، لیبیا,  طَرَابُلُس,  ताराबूलस,  त्रिपोली,  ত্রিপোলি,  ਤਰਾਬਲਸ,  திரிப்பொலி,  ട്രിപ്പോളി,  ตริโปลี,  ཐི་རི་ཕོ་ལི,  ტრიპოლი,  ትሪፖሊ,  Ṭrables,  トリポリ,  的黎波里,  트리폴리
+Alternate Names: Aea, Ea, Oea, TIP, Tarables, Tarabulus, Tarabulus al Gharb, Tarabulus el Gharb, Taràbles, Trables, Trablus, Trablûs, Triboli, Tripili, Tripilí, Tripol, Tripole, Tripoli, Tripolis, Tripolo, Tripoly, Tripołi, Tripul, Tripuli, Trypali, Trypolis, Trìpoli, Trìpuli, Trípol, Trípoli, Trípólí, de li bo li, tarabalasa, tarabulasa, tarabulus, teulipolli, tirippoli, toripori, trabls, trabls  lybya, tripoli, trippeali, trypwly, Ţarābulus, Ţarābulus al Gharb, Τρίπολη, Триполи, Триполі, Трыпалі, Տրիպոլի, טריפאלי, טריפולי, ترابلس, ترىپولى, تەرابلوس, طرابلس, طرابلس، لیبیا, طَرَابُلُس, ताराबूलस, त्रिपोली, ত্রিপোলি, ਤਰਾਬਲਸ, திரிப்பொலி, ട്രിപ്പോളി, ตริโปลี, ཐི་རི་ཕོ་ལི, ტრიპოლი, ትሪፖሊ, Ṭrables, トリポリ, 的黎波里, 트리폴리
 
 ---
