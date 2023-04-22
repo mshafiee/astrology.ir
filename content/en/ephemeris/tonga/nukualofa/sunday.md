@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°45'51.69" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|24°21'39.63" |Aries|Butain|Venus|
-|♂ Mars|Direct|14°30'26.47" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°20'40.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|13°19'57.63" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|15°31'31.13" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°24'36.62" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|24°21'42.58" |Aries|Butain|Venus|
+|♂ Mars|Direct|14°30'28.92" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°20'57.97" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|13°20'9.58" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|15°31'56.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°58'20.47" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파
