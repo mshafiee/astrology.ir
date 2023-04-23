@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°3'31.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°14'18.06" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|16°29'17.65" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|5°54'54.54" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|17°29'58.36" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|14°28'16.47" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°10'20.35" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|25°14'20.75" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|16°29'21.66" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|5°55'10.32" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|17°30'11.36" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|14°28'43.07" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°53'35.50" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -317,7 +317,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Moon|Saturn|Capricorn|Sun|Jupiter|
 |♂ Mars|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☉ Sun|Sun|Venus|Gemini|Sun|Mars|
-|♀ Venus|Jupiter|Mercury|Scorpio|Sun|Saturn|
+|♀ Venus|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
 |☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°3'31.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°14'20.75" |Aries|Butain|Venus|
-|♂ Mars|Direct|16°29'21.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|5°55'10.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|17°30'11.36" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|14°28'43.07" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|19°53'35.50" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|25°14'19.63" |Aries|Butain|Venus|
+|♂ Mars|Direct|16°29'21.91" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|5°55'4.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|17°30'8.37" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|14°28'33.26" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°56'52.64" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
