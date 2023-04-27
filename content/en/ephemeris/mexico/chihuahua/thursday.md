@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°8'41.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°30'14.34" |Aries|Butain|Venus|
-|♂ Mars|Direct|17°5'35.37" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|6°59'57.18" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°45'30.72" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|13°57'47.16" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°59'15.53" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|25°30'12.50" |Aries|Butain|Venus|
+|♂ Mars|Direct|17°5'37.17" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|6°59'46.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°45'27.36" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|13°57'30.59" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°34'14.71" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Altepetl Chihuahuah, Byen Chihuahua, CUU, Chihuahua, Chihuahua City, Chihuahua by, Chiuaua, Chiuauae, Chivava, Cihuahua, Ciuaua, Dakbayan sa Chihuahua, Tsiouaoua, chiuaua, chiwawa, chyywaywa. chyywaywa, qi wa wa shi, zhi hua hua shi, Čihuahua, Čiuaua, Τσιουάουα, Чивава, Чиуауæ, Чиуауа, Чіуауа, ציוואווה, چہواہوا, چیئوائوا٬ چیئوائوا, ჩიუაუა, チワワ, 奇瓦瓦市, 芝華華市, 치와와

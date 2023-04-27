@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°19'47.44" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|26°5'19.82" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|18°26'7.17" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|9°23'14.45" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|21°31'32.68" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|12°35'38.48" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°57'17.51" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|18°26'4.26" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|9°23'0.21" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|21°31'21.73" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|12°35'13.42" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°27'21.55" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부

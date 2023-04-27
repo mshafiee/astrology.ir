@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°20'1.24" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|26°6'4.32" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|18°27'45.48" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|9°26'4.91" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|21°34'53.35" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|12°33'22.33" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|2°51'32.78" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|18°27'50.06" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|9°26'16.09" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|21°35'3.12" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|12°33'42.13" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|2°37'16.48" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MZR, Masar-e Scharif, Mazar-e Sarif, Mazar-e Sharif, Mazar-e Šarif, Mazar-e-Sharif, Mazar-i Szarif, Mazar-i-Sharif, Mazare Srif, Mazari Sharif, Mazari-Sharif, Mazār-e Sharīf, Mazār-e Šarīf, Mazār-i-Sharīf, Mazāre S̄rīf, majaleu-isyalipeu, mazarisharifu, mzar shryf, Мазари-Шариф, مزار شريف, مزار شریف, マザーリシャリーフ, 마자르이샤리프

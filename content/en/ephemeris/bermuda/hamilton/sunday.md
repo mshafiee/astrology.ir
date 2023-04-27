@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°21'39.42" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|26°11'21.70" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|18°40'3.47" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|9°47'42.26" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|21°59'57.90" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|12°19'42.93" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|8°7'42.99" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|18°40'2.45" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|9°47'54.16" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|22°0'2.75" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|12°20'3.66" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|7°1'12.63" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -306,7 +306,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Mars|Saturn|Mars|Mars|
 |♂ Mars|Mars|Venus|Venus|Mars|
 |☉ Sun|Venus|Venus|Mars|Mars|
-|♀ Venus|Jupiter|Jupiter|Saturn|Venus|
+|♀ Venus|Saturn|Saturn|Saturn|Venus|
 |☿ Mercury|Mercury|Venus|Sun|Jupiter|
 |☾ Moon|Venus|Mercury|Sun|Venus|
 
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Mars|Moon|Capricorn|Sun|Saturn|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -330,9 +330,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°21'39.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|26°11'21.70" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|18°40'2.45" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|5°21'38.08" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|26°11'19.59" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|18°40'3.47" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|9°47'42.26" |Taurus|Dabaran|Mercury|
 |♀ Venus|Direct|21°59'57.90" |Gemini|Dhira|Sun|
 |☿ Mercury|Retrograde|12°19'42.93" |Taurus|Dabaran|Moon|

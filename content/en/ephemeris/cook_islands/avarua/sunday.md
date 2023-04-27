@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°23'0.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|26°15'43.51" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|18°50'13.37" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|10°5'44.64" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|22°20'46.32" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|12°8'29.57" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|11°40'39.65" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|26°15'44.82" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|18°50'9.84" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|10°5'51.50" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|22°20'45.37" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|12°8'41.38" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|10°31'23.33" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Sun|Jupiter|
 |♀ Venus|Saturn|Saturn|Saturn|Venus|
 |☿ Mercury|Mercury|Venus|Sun|Jupiter|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
+|☾ Moon|Venus|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°22'59.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|26°15'43.51" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|18°50'13.37" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|10°5'44.64" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°20'46.32" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|12°8'29.57" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°40'39.65" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|5°23'0.39" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|26°15'44.82" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|18°50'9.84" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|10°5'51.50" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°20'45.37" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|12°8'41.38" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°31'23.33" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
