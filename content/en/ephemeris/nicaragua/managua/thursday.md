@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|5°8'29.90" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|25°29'38.53" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|17°4'13.19" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|6°57'17.05" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|18°42'33.50" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|13°58'41.50" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°52'23.85" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°57'31.58" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|18°42'40.88" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|13°59'5.13" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°30'14.35" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°8'29.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°29'38.53" |Aries|Butain|Venus|
-|♂ Mars|Direct|17°4'13.19" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|6°57'31.58" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°42'40.88" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|13°59'5.13" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°30'14.35" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|25°29'37.40" |Aries|Butain|Venus|
+|♂ Mars|Direct|17°4'17.13" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|6°57'25.29" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°42'42.25" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|13°58'56.14" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°21'57.85" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과

@@ -292,11 +292,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°12'52.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|25°43'15.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|17°35'22.31" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|7°53'1.77" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|19°47'7.12" |Taurus|Dabaran|Moon|
-|☿ Mercury|Retrograde|13°28'53.78" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|25°43'17.63" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|17°35'27.16" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|7°53'13.58" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|19°47'19.19" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|13°29'14.84" |Aries|Butain|Sun|
 |☾ Moon|Direct|13°42'39.95" |Cancer|Tarf|Mercury|
 
 
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°12'51.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|25°43'15.69" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|17°35'22.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|7°53'1.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|19°47'7.12" |Gemini|Dhira|Mars|
-|☿ Mercury|Retrograde|13°28'53.78" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°17'2.36" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|5°12'52.08" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|25°43'17.63" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|17°35'27.16" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|7°53'13.58" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|19°47'19.19" |Gemini|Dhira|Mars|
+|☿ Mercury|Retrograde|13°29'14.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|13°42'39.95" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
