@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°30'29.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|26°40'27.86" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|19°47'31.58" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|11°47'5.82" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|24°17'25.03" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|11°1'53.66" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|1°45'55.53" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|26°40'25.36" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|19°47'27.83" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|11°46'51.16" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|24°17'12.75" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|11°1'27.47" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|2°49'54.65" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Mars|Sun|Aquarius|Sun|Saturn|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|26°40'27.86" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|19°47'31.58" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|11°47'5.82" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|24°17'25.03" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|11°1'53.66" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°45'55.53" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|24°17'12.75" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|11°1'27.47" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°49'54.65" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Sun|Venus|Pisces|Moon|Jupiter|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Venus|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴
