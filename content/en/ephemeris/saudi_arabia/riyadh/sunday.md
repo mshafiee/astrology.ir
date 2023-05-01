@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°20'20.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|26°7'3.53" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|18°30'6.68" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|9°30'19.25" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|21°39'43.55" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|12°31'10.27" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|2°51'10.94" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|5°20'19.67" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|26°7'3.71" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|18°30'6.10" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|9°30'19.27" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|21°39'42.84" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|12°31'13.17" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|3°22'57.49" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Mars|Moon|Capricorn|Sun|Saturn|
 |☿ Mercury|Venus|Moon|Virgo|Sun|Mars|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°20'19.67" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|26°7'3.53" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|18°30'3.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|9°30'17.83" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|21°39'38.34" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|12°31'10.27" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°51'10.94" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|26°7'3.71" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|18°30'6.10" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|9°30'19.27" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|21°39'42.84" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|12°31'13.17" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°16'44.69" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

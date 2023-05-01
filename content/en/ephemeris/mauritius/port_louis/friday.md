@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°41'28.87" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|27°18'6.43" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|21°15'33.28" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°21'27.52" |Aries|Butain|Sun|
-|♀ Venus|Direct|27°14'28.65" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|9°19'54.23" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°23'16.93" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|21°15'38.05" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°21'44.39" |Aries|Butain|Sun|
+|♀ Venus|Direct|27°14'43.45" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|9°20'24.03" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|5°36'32.06" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mars|Mars|Saturn|Venus|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Saturn|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Mercury|Jupiter|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -331,10 +331,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°41'28.87" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°18'6.43" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|21°15'38.05" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°21'44.39" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|27°14'43.45" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|27°18'3.57" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|21°15'33.28" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°21'27.52" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|27°14'28.65" |Gemini|Dhira|Sun|
 |☿ Mercury|Retrograde|9°19'54.23" |Taurus|Dabaran|Mercury|
 |☾ Moon|Direct|7°23'16.93" |Scorpio|Akleel|Mars|
 

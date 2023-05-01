@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°30'39.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|26°41'0.79" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|19°48'47.95" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|11°49'16.50" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|24°19'56.85" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|10°59'53.66" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|2°59'45.86" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|26°41'3.06" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|19°48'53.50" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|11°49'30.25" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|24°20'11.01" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|11°0'18.04" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|2°15'9.73" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Mars|Sun|Aquarius|Sun|Saturn|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°30'39.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|26°41'0.79" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|19°48'47.95" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|11°49'16.50" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|24°20'11.01" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|11°0'18.04" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°15'9.73" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|5°30'39.90" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|26°41'1.56" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|19°48'55.99" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|11°49'22.35" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|24°20'10.28" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|11°0'3.50" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°24'15.33" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Sun|Venus|Pisces|Moon|Jupiter|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Venus|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Cidade da Guatemala, Citta del Guatemala, Città del Guatemala, Ciudad Guatemala, Ciudad de Guatemala, Ciutat de Guatemala, GUA, Guate, Guatemala, Guatemala City, Guatemala Hiria, Guatemala by, Guatemala la Nueva, Guatemala-Stadt, Guatemala-Urbo, Guatemala-stad, Gvatemala, Gvatemalurbo, Gwatemala, New Guatemala, Nueva Guatemala, Nueva Guatemala de la Asuncion, Nueva Guatemala de la Asunción, Pole tes Gouatemalas, Santiago de Guatimala, gua de ma la shi, guatemarashiti, gwatemalla si, gwatemallasiti, kawtemalasiti, mdynt ghwatymala, shhr gwatmala, Πόλη της Γουατεμάλας, Гватемала, גואטמלה סיטי, גוואטמלה סיטי, شهر گواتمالا, مدينة غواتيمالا, กัวเตมาลาซิตี, グアテマラシティ, 瓜地馬拉市, 과테말라 시, 과테말라시티

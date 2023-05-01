@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°42'47.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°22'43.28" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|21°26'30.23" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°40'43.86" |Aries|Butain|Sun|
-|♀ Venus|Direct|27°36'25.86" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|9°8'25.64" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|10°5'5.43" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Direct|27°22'41.36" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|21°26'25.16" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°40'31.71" |Aries|Butain|Sun|
+|♀ Venus|Direct|27°36'12.84" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|9°8'4.79" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°22'27.55" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mars|Mars|Saturn|Venus|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°42'47.69" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°22'41.36" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|21°26'25.16" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°40'31.71" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|27°36'12.84" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|9°8'4.79" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|11°22'27.55" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|27°22'41.29" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|21°26'32.31" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°40'33.38" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|27°36'23.53" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|9°8'5.24" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|11°18'49.12" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
