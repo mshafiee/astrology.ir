@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |5|Venus|Servant|11:13:00|12:20:23|Writing, exchanging, and signing contracts|
 |6|Mercury|Servant|12:20:24|13:27:46|Avoiding any harmful action|
 |7|Moon|Servant|13:27:47|14:35:09|Destroying enemies|
-|8|Saturn|Ruler|14:35:10|15:42:33|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Saturn|Ruler|14:35:10|15:42:33|Performing all good deeds|
 |9|Jupiter|Servant|15:42:34|16:49:56|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mars|Servant|16:49:57|17:57:20|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Sun|Servant|17:57:21|19:04:43|The moon is in Scorpio, Not suitable for doing anything.|
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°46'59.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°37'38.82" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|22°1'46.71" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|15°42'14.05" |Aries|Butain|Sun|
-|♀ Venus|Direct|28°46'37.56" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|8°31'8.56" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|24°39'48.68" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|27°37'39.02" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|22°1'45.75" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|15°42'14.85" |Aries|Butain|Sun|
+|♀ Venus|Direct|28°46'36.60" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|8°31'10.52" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|24°36'18.99" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°46'59.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°37'38.82" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|22°1'46.71" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|15°42'14.05" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|28°46'37.56" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|8°31'8.56" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|24°39'48.68" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|27°37'39.02" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|22°1'45.75" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|15°42'14.85" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|28°46'36.60" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|8°31'10.52" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|24°36'18.99" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

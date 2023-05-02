@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |9|Moon|Servant|02:09:04|03:03:43|Performing evil deeds for the purpose of gaining power and control|
 |10|Saturn|Servant|03:03:44|03:58:22|Achieving marital harmony|
 |11|Jupiter|Servant|03:58:23|04:53:01|Gaining respect and honor|
-|12|Mars|Servant|04:53:02|05:47:41|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Mars|Servant|04:53:02|05:47:41||
 
  
  
@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|21°42'26.78" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|15°8'33.92" |Aries|Butain|Sun|
 |♀ Venus|Direct|28°8'12.51" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|8°51'16.38" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|16°37'10.07" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|8°51'16.39" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|16°37'8.80" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
