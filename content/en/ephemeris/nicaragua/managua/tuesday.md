@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°30'37.35" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|26°40'54.50" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|19°48'33.51" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|11°48'55.20" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|24°19'30.62" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|11°0'41.94" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|2°6'35.88" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|19°48'28.08" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|11°48'47.27" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|24°19'19.49" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|11°0'28.03" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|2°14'2.70" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°30'37.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|26°40'54.50" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|19°48'33.51" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|11°48'55.20" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|24°19'30.62" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|11°0'41.94" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°6'35.88" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|5°30'37.33" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|26°40'53.30" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|19°48'28.08" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|11°48'47.27" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|24°19'19.49" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|11°0'28.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°14'2.70" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과

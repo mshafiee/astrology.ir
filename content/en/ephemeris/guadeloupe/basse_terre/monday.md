@@ -1,6 +1,6 @@
 ---
-date: 2023-05-01T00:00:00-04:00
-lastmod: 2023-05-01T00:00:00-04:00
+date: 2023-05-08T00:00:00-04:00
+lastmod: 2023-05-08T00:00:00-04:00
 title: BasseTerre Monday
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - BasseTerre
-description: 🗓 Monday, 01 May 2023
+description: 🗓 Monday, 08 May 2023
 
 toc: false
 ---
@@ -153,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
-|♐ Sagittarius|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
+|♑ Capricorn|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -175,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -330,9 +330,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub> |<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>△ Trn|<sub>□ Sqr|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르

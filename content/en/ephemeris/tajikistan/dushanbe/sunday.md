@@ -293,7 +293,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°49'2.73" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|27°45'3.60" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|22°19'19.16" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|22°19'16.27" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|16°12'49.92" |Aries|Butain|Sun|
 |♀ Venus|Direct|29°21'21.25" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Retrograde|8°13'40.86" |Aries|Sharatain|Mars|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|27°45'3.60" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|22°19'19.16" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|16°12'49.06" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|29°21'21.25" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|8°13'40.86" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°2'28.73" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|29°21'24.96" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|8°13'37.72" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|1°58'5.77" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: DYU, Djuschambe, Doesjanbe, Douchanbe, Douchanbé, Dusanbe, Dusanbeo, Duschanbe, Dushambe, Dushanbe, Dusjanbe, Duszanbe, Duŝanbeo, Duşanbe, Dušanbe, Dušanbė, Dušhanbe, Dyushambe, Düşənbə, Jushambe, Ntousanmpe, Stalinabad, do~ushanbe, du shang bie, dusyanbe, dwshnbh, dwsnbh, Ντουσάνμπε, Душанбе, דושנבה, دوشنبه, ዱሻንቤ, ドゥシャンベ, 杜尚别, 두샨베
