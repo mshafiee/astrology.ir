@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°49'35.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°47'1.08" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|22°23'59.14" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°20'53.98" |Aries|Butain|Sun|
-|♀ Venus|Direct|29°30'38.23" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|8°9'4.15" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°58'16.25" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|27°47'2.00" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|22°23'59.24" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|16°20'58.84" |Aries|Butain|Sun|
+|♀ Venus|Direct|29°30'40.68" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|8°9'13.25" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°30'35.63" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°49'35.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°47'1.08" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|22°23'59.14" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|16°20'53.98" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|29°30'38.23" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|8°9'4.15" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°58'16.25" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|27°46'59.46" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|22°23'58.82" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|16°20'44.66" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|29°30'33.14" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|8°8'46.74" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°53'13.59" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Campala, IKampala, KLA, Kaempaala, Kambaala, Kampal, Kampala, Kampalo, Kanpala, kam pa la, kambala, kampala, kampalla, kan pa la, kanpara, kapala, kmbala, kmpala, qmplh, Καμπάλα, Кампала, Կամպալա, קאמפאלא, קמפלה, كامبالا, كامپالا, كمبالا, کامپالا, کمپالا, کمپالہ, कंपाला, कम्पाला, ਕੰਪਾਲਾ, କାମ୍ପାଲା, கம்பாலா, กัมปาลา, ཀམ་པ་ལ།, კამპალა, ካምፓላ, カンパラ, 坎帕拉, 캄팔라

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°37'31.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°4'20.75" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|20°43'18.82" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|13°25'8.53" |Aries|Butain|Sun|
-|♀ Venus|Direct|26°9'57.25" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|9°56'52.89" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|22°53'22.81" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|27°4'19.87" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|20°43'17.49" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|13°25'3.60" |Aries|Butain|Sun|
+|♀ Venus|Direct|26°9'53.09" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|9°56'44.17" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|23°21'21.74" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Sun|Sun|Pisces|Sun|Saturn|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
+|☾ Moon|Sun|Sun|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|27°4'20.75" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|20°43'18.82" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|13°25'8.53" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°9'57.25" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|9°56'52.89" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|22°53'22.81" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|26°9'53.09" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|9°56'44.17" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|23°21'21.74" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Venus|Venus|Aries|Moon|Jupiter|
 |☿ Mercury|Moon|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
+|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
 
 
 {{< /tab >}}

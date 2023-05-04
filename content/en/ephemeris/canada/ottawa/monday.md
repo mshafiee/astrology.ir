@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°54'21.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°4'34.23" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|23°5'45.82" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|17°33'28.58" |Aries|Butain|Sun|
-|♀ Venus|Direct|0°53'3.21" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|7°31'16.19" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|20°54'36.61" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Direct|28°4'33.83" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|23°5'42.49" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|17°33'25.49" |Aries|Butain|Sun|
+|♀ Venus|Direct|0°52'56.95" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|7°31'12.54" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|21°30'9.33" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
+|☾ Moon|Jupiter|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -331,8 +331,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°54'21.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°4'33.83" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|23°5'42.49" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|28°4'34.23" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|23°5'45.82" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|17°33'28.58" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|0°53'3.21" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|7°31'16.19" |Taurus|Thurayya|Mercury|

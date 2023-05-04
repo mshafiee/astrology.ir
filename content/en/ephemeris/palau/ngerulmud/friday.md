@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°40'31.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°14'45.33" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|21°7'45.21" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°7'56.68" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°58'57.36" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|9°29'8.28" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|2°34'6.49" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|27°14'42.78" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|21°7'45.50" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°7'42.53" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°58'50.71" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|9°28'41.81" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|4°12'56.31" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Venus|Mercury|Aries|Moon|Jupiter|
 |☿ Mercury|Moon|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

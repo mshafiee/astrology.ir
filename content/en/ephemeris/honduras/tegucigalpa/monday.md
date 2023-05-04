@@ -227,7 +227,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|18:06:38|19:03:02|Repelling sorcery and attracting discharged energy|
-|2|Mercury|Servant|19:03:03|19:59:28|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Mercury|Servant|19:03:03|19:59:28|Traveling inward and outward|
 |3|Moon|Servant|19:59:29|20:55:54|Marriage bond is favorable|
 |4|Saturn|Servant|20:55:55|21:52:20|Eliminating and destroying enemies and releasing their energy|
 |5|Jupiter|Servant|21:52:21|22:48:46|Granting wishes, attracting love and wealth|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°54'36.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°5'31.95" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|23°8'3.08" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|17°37'22.25" |Aries|Butain|Sun|
-|♀ Venus|Direct|0°57'28.94" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|7°28'50.39" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|23°42'13.92" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|5°54'37.73" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°5'34.65" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|23°8'6.79" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|17°37'38.21" |Aries|Butain|Sun|
+|♀ Venus|Direct|0°57'42.02" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|7°29'18.07" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|22°9'47.34" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°54'37.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°5'31.95" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|23°8'3.08" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|17°37'22.25" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|0°57'28.94" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°28'50.39" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|23°42'13.92" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|28°5'34.65" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|23°8'6.79" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|17°37'38.21" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|0°57'42.02" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°29'18.07" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|22°9'47.34" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
