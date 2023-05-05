@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°54'27.35" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|5°54'27.35" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|28°4'55.98" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|23°6'34.48" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|17°34'58.25" |Aries|Butain|Sun|
 |♀ Venus|Direct|0°54'40.64" |Gemini|HaqAh|Jupiter|
 |☿ Mercury|Retrograde|7°30'36.43" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|21°28'50.60" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|22°52'34.10" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°54'27.35" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|5°54'27.35" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|28°4'55.98" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|23°6'34.48" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|17°34'58.25" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|0°54'40.64" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|7°30'36.43" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|21°28'50.60" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|22°52'34.10" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}

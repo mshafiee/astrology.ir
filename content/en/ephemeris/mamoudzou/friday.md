@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°41'35.58" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|5°41'35.58" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|27°18'29.91" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|21°16'33.29" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|14°23'21.01" |Aries|Butain|Sun|
-|♀ Venus|Direct|27°16'33.89" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|9°19'22.90" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°58'34.99" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|27°16'19.02" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|9°19'1.28" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°14'7.65" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mars|Mars|Saturn|Venus|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Saturn|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -330,9 +330,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°41'35.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°18'29.91" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|21°16'33.29" |Cancer|Tarf|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|5°41'35.58" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|27°18'27.85" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|21°16'27.00" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|14°23'21.01" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|27°16'33.89" |Gemini|Dhira|Sun|
 |☿ Mercury|Retrograde|9°19'22.90" |Taurus|Dabaran|Mercury|

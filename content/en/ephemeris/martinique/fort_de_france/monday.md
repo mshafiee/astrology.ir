@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°54'21.18" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|5°54'21.18" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|28°4'32.99" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|23°5'39.70" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|17°33'23.00" |Aries|Butain|Sun|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°54'21.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°4'30.76" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|23°5'34.03" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|17°33'8.97" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|0°52'37.83" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°30'59.27" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|22°47'15.22" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|5°54'21.18" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|28°4'32.99" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|23°5'39.70" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|17°33'23.00" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|0°52'56.26" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°31'17.70" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|20°54'9.77" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}

@@ -227,7 +227,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|17:56:06|19:03:16|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mercury|Servant|19:03:17|20:10:28|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Mercury|Servant|19:03:17|20:10:28|Traveling inward and outward|
 |3|Moon|Servant|20:10:29|21:17:40|Marriage bond is favorable|
 |4|Saturn|Servant|21:17:41|22:24:52|Eliminating and destroying enemies and releasing their energy|
 |5|Jupiter|Servant|22:24:53|23:32:04|Granting wishes, attracting love and wealth|
@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°54'37.36" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|5°54'37.36" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|28°5'33.42" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|23°8'3.66" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|17°37'33.21" |Aries|Butain|Sun|
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°54'37.36" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|5°54'37.36" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|28°5'33.42" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|23°8'3.66" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|17°37'33.21" |Taurus|Dabaran|Moon|

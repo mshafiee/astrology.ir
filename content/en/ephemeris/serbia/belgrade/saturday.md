@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°45'37.03" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|5°45'37.03" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|27°32'43.86" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|21°50'8.20" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|15°21'57.21" |Aries|Butain|Sun|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°45'37.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°32'44.65" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|21°50'10.42" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|15°22'1.95" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|28°23'35.06" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|8°43'13.45" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|19°32'33.75" |Scorpio|Qalb|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|5°45'37.03" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|27°32'43.86" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|21°50'8.20" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|15°21'56.56" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|28°23'24.88" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|8°43'5.78" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|20°10'37.84" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Saturn|Saturn|Saturn|Jupiter|
 |☿ Mercury|Mercury|Mercury|Venus|Moon|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
