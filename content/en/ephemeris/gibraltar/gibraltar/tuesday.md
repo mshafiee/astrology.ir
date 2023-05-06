@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°57'25.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°16'2.66" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|23°33'9.97" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|18°20'59.08" |Aries|Butain|Sun|
-|♀ Venus|Direct|1°46'46.75" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|7°9'11.58" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°44'58.64" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|5°57'25.28" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°16'3.26" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|23°33'8.22" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|18°21'1.61" |Aries|Butain|Sun|
+|♀ Venus|Direct|1°46'48.07" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|7°9'16.66" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°53'30.38" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|5°57'25.04" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|28°16'2.74" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|23°33'8.18" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°20'59.08" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°46'49.47" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°9'10.64" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°44'58.64" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|18°20'58.90" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°46'46.75" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°9'16.66" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°53'30.38" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Calpe, Cebelitarik, Cebelitarık, Djibraltar, GIB, Gibbilterra, Gibilterra, Gibraltar, Gibraltaras, Gibraltaro, Gibraltár, Gíbraltar, Kamaka, Xibraltar, Xibraltar - Gibraltar, gybrltr, jbl tarq, jibeulolteo, jiburarutaru, mhmyt jbl tarq, zhi bu luo tuo, Ĝibraltaro, Γιβραλτάρ, Гибралтар, Ґібралтар, גיברלטר, جبل طارق, جبل‌الطارق, محمية جبل طارق, ジブラルタル, 直布罗陀, 지브롤터

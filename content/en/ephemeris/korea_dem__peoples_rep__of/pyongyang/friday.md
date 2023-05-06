@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°40'29.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°14'38.23" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|21°7'32.39" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°7'29.60" |Aries|Butain|Sun|
-|♀ Venus|Direct|26°58'29.92" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|9°29'23.90" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°37'35.16" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|27°14'38.27" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|21°7'29.32" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°7'26.81" |Aries|Butain|Sun|
+|♀ Venus|Direct|26°58'24.43" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|9°29'19.74" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°47'58.57" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|5°40'29.31" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|27°14'38.23" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|21°7'29.25" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°7'29.60" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°58'29.92" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|9°29'23.90" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|2°37'35.16" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|14°7'26.59" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°58'24.22" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|9°29'19.35" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|2°47'58.57" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Binh Nhuong, Bình Nhưỡng, FNJ, Heijo, Heijo-fu, Heijō, Heijō-fu, Heizyo, Heizyo Hu, Heizyō, Heizyō Hu, Hpyeng-yang, P'yongyang, P'yongyang-si, P'yŏngyang, P'yŏngyang-si, P-hjong-jang, P-hjöng-jang, Pchenjanas, Pchjongjang, Phenian, Phenjan, Phenjana, Phyeng-yang, Phyong-yang, Pienyang, Pingyang, Pion'gian'nk, Pion'nkgian'nk, Piongiang, Pionguiangue, Pionyang, Pjoengjang, Pjongian, Pjongjang, Pjongjango, Pjöngjang, Pkhen'jan, Pkhenjan, Pxenyan, Pyeongyang, Pyoengyang, Pyongyang, Pyongyang-si, Pyöngyang, bywnghyangh, peiyngyang, pi'ongayanga, ping rang, ping rang shi, piyam iyam, piyonyan, pkheniani, pyamgayanga, pyang yang, pyeong-yang, pyeong-yangjighalsi, pyeong-yangsi, pyon'gyang, pyongayanga, pywng yang, pywngyang, Πιονγιάνγκ, Πιονγκγιάνγκ, Пхеньян, Пхенян, Пјонгјанг, Փխենյան, פיאנגיאנג, פיונגיאנג, بيونغيانغ, پيونګيانګ, پيونگ يانگ, پيوڭياڭ, پیانگ یانگ, پیونگ‌یانگ, پیۆنگیانگ, प्याँगयांग, प्योंगयांग, পিয়ং ইয়াং, ਪਿਓਂਗਯਾਂਗ, பியொங்யாங், ಪ್ಯೊನ್ಗ್ಯಾಂಗ್, เปียงยาง, ཕོང་ཡང་།, ფხენიანი, ፕዮንግያንግ, 平壌, 平壤, 平壤市, 평양, 평양시, 평양직할시

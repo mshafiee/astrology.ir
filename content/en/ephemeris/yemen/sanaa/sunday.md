@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°49'24.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°46'21.68" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|22°22'29.43" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°18'9.19" |Aries|Butain|Sun|
-|♀ Venus|Direct|29°27'36.50" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|8°10'16.29" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°5'1.38" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|27°46'23.79" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|22°22'28.82" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|16°18'20.84" |Aries|Butain|Sun|
+|♀ Venus|Direct|29°27'41.37" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|8°10'38.60" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°59'31.89" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: SAH, Sano, San'ah, San`a', Sana, Sana'a, Sana'a', Sanaa, Sanaà, Sanaá, San’ah, sa na, sana, sanua, snʿaʾ, Şana‘ā', Şan‘ā’, Σάνα, Сана, Санъо, צנעא, صنعاء, ሳና, サヌア, 萨那, 사나

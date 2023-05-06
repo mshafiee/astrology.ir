@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°40'48.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°15'46.76" |Pisces|Rescha|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|5°40'49.08" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|27°15'47.18" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|21°10'11.01" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°12'10.78" |Aries|Butain|Sun|
-|♀ Venus|Direct|27°3'48.56" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|9°26'22.31" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°59'14.22" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|14°12'9.25" |Aries|Butain|Sun|
+|♀ Venus|Direct|27°3'52.32" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|9°26'18.30" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°1'43.50" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°40'49.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°15'46.76" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|21°10'12.34" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°12'8.80" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|27°3'49.41" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|9°26'18.19" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|3°59'14.22" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|27°15'46.81" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|21°10'14.38" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°12'9.25" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|27°3'52.32" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|9°26'18.30" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|4°1'43.50" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Con Minh, Côn Minh, Gvwnhmingz, K'un-ming-hsien, K'un-ming-shih, KMG, Kchun-ming, Khun-beng-chhi, Khun-bêng-chhī, Kong-ming, Kounmink, Kuenming, Kun'min, Kun'min shaary, Kun'min', Kunmin, Kunmina, Kunming, Kunming Shi, Kunmingas, Kunmingo, Kuņmina, Kŏng-mìng, Kүn'min, K’un-ming-hsien, K’un-ming-shih, Yun-nan, Yunnanfu, Yün-nan, Yünnanfu, kanamiga, khunh ming, kun ming, kun ming shi, kunaminga, kunming si, kunminga, kwnmng, kwnmyng, kwnmyngh, qwnmyng, Κουνμίγκ, Куенминг, Кунмин, Куньмин, Куньмин шаары, Куньминь, Куньмін, Күньмин, Կունմին, קונמינג, كونمينغ, كۈنمىڭ شەھىرى, کونمنگ, کونمینگ, کون‌مینگ, कुनमिंग, कुन्मिंग, ਕਨਮਿੰਗ, คุนหมิง, ကူမင်းမြို့, კუნმინი, 昆明, 昆明市, 쿤밍 시

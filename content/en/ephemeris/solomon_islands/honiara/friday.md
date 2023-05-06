@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°40'17.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°13'57.40" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|21°5'45.93" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|14°4'26.79" |Aries|Butain|Sun|
-|♀ Venus|Direct|26°54'56.63" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|9°30'54.31" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°55'51.25" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|27°13'55.30" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|21°5'46.92" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|14°4'26.61" |Aries|Butain|Sun|
+|♀ Venus|Direct|26°54'57.83" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|9°30'53.62" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°0'8.65" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°40'17.62" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°13'55.34" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|21°5'45.93" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|14°4'26.79" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°54'56.63" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|9°30'54.31" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|2°55'51.25" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|27°13'55.30" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|21°5'46.92" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|14°4'26.61" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°54'57.83" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|9°30'53.62" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|3°0'8.65" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

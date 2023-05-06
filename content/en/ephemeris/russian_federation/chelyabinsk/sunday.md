@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|5°48'59.36" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|27°44'51.52" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|22°18'51.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°11'57.90" |Aries|Butain|Sun|
-|♀ Venus|Direct|29°20'26.22" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|8°13'59.66" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°10'51.41" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|16°11'58.46" |Aries|Butain|Sun|
+|♀ Venus|Direct|29°20'28.36" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|8°14'0.04" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°3'23.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°48'59.51" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|5°48'59.36" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|27°44'51.49" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|22°18'49.74" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|16°11'57.90" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|29°20'26.22" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|8°13'59.66" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°10'51.41" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|22°18'50.79" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|16°11'58.24" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|29°20'27.87" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|8°13'59.76" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°5'33.91" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: CEK, Celabinsk, Celabinska, Celaebinsk, Celeabinsk, Celiabinsc, Celiabinsca, Celiabinskas, Celjabinsk, Celyabinsk, Chaljabinsk, Chelepi, Cheliabinsk, Cheliábinsk, Cheljaba, Cheljaba osh, Cheljabe, Cheljabi, Cheljabins'k, Cheljabinsk, Chelyabinsk, Cseljabinszk, Czelabinsk, Czelabińsk, Tcheliabinsk, Tchelyabinsk, Tchéliabïnsk, Tjeljabinsk, Tscheljabinsk, Tseliampinsk, Tseljabinsk, Tsjeljabinsk, Tsyelyabinsk, Txeliabinsk, Txeliàbinsk, Tšeljabinsk, celiyabinska, celyabinska, che li ya bin si ke, chellyabinseukeu, cheryabinsuku, chlyabnsk, chlyabynsk, chylyabnsk, tshylyabnsk, zlyʼbynsq, Çelyabinsk, Ĉeljabinsk, Čeliabinskas, Čeljabinsk, Čeläbinsk, Čeļabinska, Čeľabinsk, Τσελιάμπινσκ, Силәбе, Чалябінск, Челепи, Челяба, Челяба ош, Челябе, Челябинск, Челябі, Челябінськ, Чељабинск, Чиләбе, Чєлѣбиньскъ, Չելյաբինսկ, טשעליאבינסק, צליאבינסק, تشيليابنسك, چلیابنسک, چلیابینسک, چیلیابنسک, चेलियाबिन्स्क, चेल्याबिंस्क, চেলিয়াবিন্‌স্ক, ჩელიაბინსკი, チェリャビンスク, 車里雅賓斯克, 첼랴빈스크

@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°49'8.35" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|27°45'23.98" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|22°20'3.63" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|16°13'59.81" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|29°22'48.70" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|8°12'28.26" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°45'39.89" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|22°20'7.38" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|16°14'13.36" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|29°23'0.65" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|8°12'51.82" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°14'23.90" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特

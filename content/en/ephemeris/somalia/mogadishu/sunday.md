@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|5°49'26.74" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|27°46'30.63" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|22°22'44.84" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°18'39.22" |Aries|Butain|Sun|
-|♀ Venus|Direct|29°28'11.12" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|8°10'4.84" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°52'23.89" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|16°18'49.32" |Aries|Butain|Sun|
+|♀ Venus|Direct|29°28'13.42" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|8°10'24.93" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°0'14.44" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°49'26.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°46'28.72" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|22°22'46.74" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|16°18'39.22" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|29°28'11.12" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|8°10'4.84" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°52'23.89" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|27°46'30.63" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|22°22'44.84" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|16°18'49.32" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|29°28'13.42" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|8°10'24.93" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°0'14.44" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: MGQ, Magadiscio, Magadysha, Maqdishu, Mogadiisho, Mogadis, Mogadisas, Mogadischu, Mogadiscio, Mogadish, Mogadisho, Mogadishu, Mogadisjoe, Mogadisju, Mogadisjû, Mogadiso, Mogadiss, Mogadisu, Mogadisxo, Mogadiszu, Mogadixo, Mogadiŝo, Mogadişu, Mogadiš, Mogadišas, Mogadišo, Mogadišu, Mogadíscio, Mogadīšo, Mogaidisiu, Mogaidisiú, Monkantisou, Moqadiso, Moqadişo, Moukdicho, Moukntiso, Mugadiccu, Mugadishu, Mugadiss, Muqdisho, Muqdishow, Muqdishu, Mógadisjú, Xamar, makadisu, meagadisu, mo jia di sha, mo jia di xiu, mo kadi chu, mogadisho, mogadishu, mogadisu, mogadisyu, mogarisu, mqdyshw, mqdyshyw, mukticu, mwgadyshw, mwgdysw, mwghadyshw, mۆgadyshۆ, Μογκαντίσου, Μουκντίσο, Магадыша, Могадишо, Могадишу, Могадішо, Մոգադիշո, מאגאדישו, מוגדישו, مقديشو, مقديشيو, موغادیشو, موگادیشو, مۆگادیشۆ, मोगादिशू, मोगादीशू, মোগাদিশু, ਮਕਦੀਸ਼ੂ, ମୋଗାଡ଼ିସୁ, முக்தீசூ, മൊഗാദിഷു, โมกาดิชู, མོ་ག་དི་ཤུ།, მოგადიშო, ሞቃዲሾ, モガディシュ, 摩加迪休, 摩加迪沙, 모가디슈

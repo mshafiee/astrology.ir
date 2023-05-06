@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°49'3.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°45'5.36" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|22°19'23.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°12'55.47" |Aries|Butain|Sun|
-|♀ Venus|Direct|29°21'32.14" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|8°13'28.67" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°18'38.48" |Scorpio|Akleel|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|5°49'3.16" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|27°45'5.34" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|22°19'24.04" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|16°12'55.63" |Aries|Butain|Sun|
+|♀ Venus|Direct|29°21'33.63" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|8°13'28.45" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°14'33.19" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°49'3.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°45'5.32" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|22°19'23.77" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|16°12'55.45" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|29°21'33.15" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|8°13'28.24" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°18'38.48" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|27°45'5.34" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|22°19'24.04" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|16°12'55.63" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|29°21'33.63" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|8°13'28.45" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°14'33.19" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Ephu, Oefa, Oufa, Ouffa, Owfa, UFA, Uf, Ufa, Uffa, Ufà, Ufá, Ufа, Upo, awfa, ufa, upa, wu fa, Ĕпхӳ, Оуфа, Уфа, Үфі, Өфө, Ӱпӧ, Ուֆա, אופה, أوفا, اوفا, ऊफ़ा, უფა, ウファ, 烏法, 우파

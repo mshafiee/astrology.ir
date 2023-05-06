@@ -293,9 +293,9 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°49'8.12" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|27°45'23.07" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|22°19'58.99" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°14'1.63" |Aries|Butain|Sun|
-|♀ Venus|Direct|29°22'44.02" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|22°20'4.59" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|16°14'10.34" |Aries|Butain|Sun|
+|♀ Venus|Direct|29°22'56.15" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Retrograde|8°13'0.28" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|1°54'24.20" |Scorpio|Akleel|Mars|
 
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|16°14'1.63" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|29°22'44.02" |Gemini|Dhira|Sun|
 |☿ Mercury|Retrograde|8°12'46.86" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°3'18.66" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|1°54'24.20" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레

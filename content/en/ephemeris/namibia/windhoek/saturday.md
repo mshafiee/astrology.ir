@@ -230,7 +230,7 @@ Timetable of twelve day and night planetary hours
 |2|Moon|Servant|19:27:27|20:31:37|Engaging in hateful actions and evil deeds|
 |3|Saturn|Servant|20:31:38|21:35:49|Conquering, judging, and issuing verdicts|
 |4|Jupiter|Servant|21:35:50|22:40:00|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Mars|Servant|22:40:01|23:44:11|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Mars|Servant|22:40:01|23:44:11|Writing, exchanging, and signing contracts|
 |6|Sun|Servant|23:44:12|00:48:23|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Venus|Servant|00:48:24|01:52:34|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mercury|Ruler|01:52:35|02:56:45|The moon is in Scorpio, Not suitable for doing anything.|
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°45'55.69" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|5°45'54.44" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|27°33'48.83" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|21°52'47.54" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|15°26'25.03" |Taurus|Dabaran|Moon|
