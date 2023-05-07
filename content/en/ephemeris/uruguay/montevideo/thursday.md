@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°5'24.71" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|28°46'57.99" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|24°47'29.44" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°29'12.70" |Aries|Butain|Venus|
-|♀ Venus|Direct|4°11'27.56" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|6°21'59.05" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°30'47.40" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|24°47'29.28" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°29'26.40" |Aries|Butain|Venus|
+|♀ Venus|Direct|4°11'33.66" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|6°22'24.75" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°45'9.18" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|28°46'57.99" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|24°47'29.28" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|20°29'26.40" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|4°11'27.56" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|6°21'59.05" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|4°30'47.40" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|4°11'33.66" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|6°22'24.75" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°45'9.18" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ciudad de Montevideo, MVD, Mantehvideha, Montebideo, Montevidejas, Montevideo, Montevideu, Montevidiejos, Montevidéu, Montevidėjas, Montevídeó, Muntivideu, Muntividew, Muntividèu, Muntividëw, Urbs Montis Videi, mantibhiri'o, meantevidiyea, meng de wei de ya, meng te wei duo, montebide'o, montebide-o, montebideo, montevide'o, montevidi'o, montevidiyo, montevitiyo, mwntfydw, mwnth wydyw, mwntybydyw, mxn te wi de xo, Μοντεβιδέο, Мантэвідэа, Монтевидео, Монтевідео, Մոնտևիդեո, מאנטעווידעא, מונטווידאו, مونتفيدو, مونته ویدئو, مونته‌ویدئ, مونته‌ویدئو, مونتیبیدیو, مونتېۋىدېئو, मोण्टेवीडियो, मोन्तेविदेओ, মোন্তেবিদেও, ਮੋਂਤੇਵੀਦਿਓ, ମଣ୍ଟିଭିଡ଼ିଓ, மொண்டேவீடியோ, മൊണ്ടേവീഡിയോ, มอนเตวิเดโอ, མཱོན་ཊི་ཝི་ཌོ།, မွန်တီဗစ်ဒီအိုမြို့, მონტევიდეო, ሞንቴቪዴዎ, モンテビデオ, 蒙得维的亚, 蒙特維多, 몬테비데오

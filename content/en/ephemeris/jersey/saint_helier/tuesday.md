@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°57'17.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°15'35.79" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|23°32'5.51" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°19'7.90" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°44'43.49" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°10'1.05" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°14'18.27" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|5°57'17.79" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|28°15'35.41" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|23°32'3.18" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°19'5.10" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°44'38.75" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°9'57.45" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°43'29.39" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: JER, Saint Helier, Saint-Helier, Saint-Hélier, Sent-Khel'er, St Helier, St. Helier, seinteuhellieo, Сент-Хельер, 세인트헬리어

@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|18:43:40|19:39:03|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Venus|Ruler|18:43:40|19:39:03|Repelling sorcery and attracting discharged energy|
 |2|Mercury|Servant|19:39:04|20:34:27|Traveling inward and outward|
 |3|Moon|Servant|20:34:28|21:29:52|Marriage bond is favorable|
 |4|Saturn|Servant|21:29:53|22:25:16|Eliminating and destroying enemies and releasing their energy|
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|17°33'47.62" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|0°53'20.83" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|7°31'9.31" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|21°15'41.33" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|22°28'30.25" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°49'3.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°45'7.62" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|22°19'28.59" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°13'2.46" |Aries|Butain|Sun|
-|♀ Venus|Direct|29°21'47.52" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|8°13'21.20" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°7'8.34" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|27°45'7.24" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|22°19'32.58" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|16°13'4.71" |Aries|Butain|Sun|
+|♀ Venus|Direct|29°21'48.86" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|8°13'25.38" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°53'21.35" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°49'3.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°45'7.62" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|27°45'7.24" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|22°19'28.59" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|16°13'5.82" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|29°21'43.83" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|8°13'29.60" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|1°58'25.42" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|8°13'25.38" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|1°53'21.35" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Cabool, Caboul, Cabul, Cabul - kabl, Cabul - کابل, Cabura, Cabúl, Caubul, KBL, Kabil, Kaboel, Kabol, Kaboul, Kabul, Kabula, Kabulas, Kabuli, Kabulo, Kabura, Kabúl, Kabûl, Kampoul, Kobul, Kubha, Kábul, Kâbil, Kābol, ka bu er, kabl, kabul, kabula, kabuli, kaburu, kabwl, kapul, ke bu er, khabul, Καμπούλ, Кабул, Кобул, Քաբուլ, קאבול, كابل, كابۇل, کابل, کابول, काबुल, কাবুল, ਕਾਬੁਲ, କାବୁଲ, காபூல், ಕಾಬುಲ್, കാബൂൾ, කාබුල්, คาบูล, ཁ་པལ།, ཁ་པུལ།, ქაბული, ካቡል, ទីក្រុងកាបូល, カブール, カーブル, 喀布尔, 喀布爾, 카불

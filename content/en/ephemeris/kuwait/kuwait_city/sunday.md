@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°49'18.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|27°46'1.98" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|22°21'39.72" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|16°16'50.43" |Aries|Butain|Sun|
-|♀ Venus|Direct|29°26'2.15" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Retrograde|8°11'21.45" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°50'40.00" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|27°46'2.31" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|22°21'38.16" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|16°16'51.76" |Aries|Butain|Sun|
+|♀ Venus|Direct|29°26'0.58" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|8°11'24.79" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°48'3.35" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°49'18.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|27°46'1.98" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|22°21'39.72" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|16°16'50.43" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|29°26'2.15" |Gemini|Dhira|Sun|
-|☿ Mercury|Retrograde|8°11'21.45" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°50'40.00" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|27°46'2.31" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|22°21'38.16" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|16°16'51.76" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|29°26'0.58" |Gemini|Dhira|Sun|
+|☿ Mercury|Retrograde|8°11'24.79" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°48'3.35" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Al Kuwait, Al Kuwayt, Al-Kuwait, Ciudad de Kuwait, Ehl'-Kuvejt, KWI, Koeweit, Kota Kuwait, Koveyit, Koweit, Koweït, Kuvaeyt, Kuvajt, Kuvajto, Kuvajturbo, Kuveitas, Kuväyt, Kuwait, Kuwait City, Kuwait Stad, Kuwait by, Kuwait-Stadt, Kuwait-Urbo, Kuwayt, Kuweit, Kuwejt, Madinat al Kuwayt, Madinat al-Kuwait, Madīnat al Kuwayt, Pole tou Koubeit, aalkuayt, ke wei te shi, khuwet si ti, kuu~eto shi, kuweiteu, kuweiteusiti, kwwyt syty, mdynt alkwyt, Πόλη του Κουβέιτ, Эль-Кувейт, כווית סיטי, اَلْكُوَيْت, مدينة الكويت, คูเวตซิตี, クウェート市, 科威特市, 쿠웨이트, 쿠웨이트시티

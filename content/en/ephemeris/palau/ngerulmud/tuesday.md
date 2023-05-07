@@ -212,7 +212,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|05:44:58|06:47:07|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Sun|Servant|06:47:08|07:49:17|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Venus|Servant|07:49:18|08:51:28|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Venus|Servant|07:49:18|08:51:28|Attracting connection and marriage proposals|
 |4|Mercury|Servant|08:51:29|09:53:38|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|09:53:39|10:55:49|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Saturn|Servant|10:55:50|11:57:59|Removing negative energy caused by the evil eye|
@@ -331,9 +331,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°56'5.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°10'59.71" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|23°21'9.10" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°0'0.72" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|28°11'2.31" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|23°21'9.06" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°0'14.91" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|1°23'11.56" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|7°18'11.04" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|28°30'41.28" |Sagittarius|Baldah|Saturn|
