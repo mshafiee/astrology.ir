@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|24°42'46.36" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|20°21'18.54" |Aries|Butain|Venus|
 |♀ Venus|Direct|4°2'25.61" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|6°24'45.90" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°44'58.35" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|6°24'39.34" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°35'26.14" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°4'55.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°45'0.82" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|24°42'46.36" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|20°21'18.54" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|4°2'25.61" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|6°24'45.90" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°44'58.35" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°45'0.10" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|24°42'42.17" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|20°21'13.06" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|4°2'16.67" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|6°24'39.34" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°35'26.14" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Moon|Sun|Leo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Braia, Cidade da Praia, Municipio da Praia, Município da Praia, Pragia, Praia, Praja, Praje, Prajo, Prajė, Praya, RAI, braya, pei ya, peulaia, pirxa, pra'i'a, pra'iya, praya, prayya, puraia, Πράγια, Πράια, Прая, Праја, Պրայա, פראיה, برايا, پرائا, پرائیا, پرايا, پرایا, پڕایا, प्राईया, ਪ੍ਰਾਈਆ, ไปรอา, ཕུ་ར་ཡ།, პრაია, ፕራያ, プライア, 培亞, 프라이아

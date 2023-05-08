@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|5°57'9.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°15'5.53" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|23°30'51.95" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°17'1.14" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°42'18.95" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°10'50.90" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°14'49.50" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|28°15'5.66" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|23°30'51.97" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°17'1.88" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°42'19.34" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°10'52.29" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°12'19.70" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Lungsod ng Muenchen, Lungsod ng München, MUC, Minca, Minche, Minga, Minhen, Minhene, Minkhen, Miunchenas, Mjunkhen, Mnichov, Mnichow, Mníchov, Monachium, Monacho, Monaco de Baviera, Monaco di Baviera, Monaco e Baviera, Monacu, Monacu di Baviera, Monacum, Muenchen, Muenegh, Muenhen, Muenih, Munchen, Munhen, Munic, Munich, Munich ed Baviera, Munih, Munike, Munique, Munix, Munkeno, Munkhen, Munîh, Mynihu, Myunxen, Myunxén, Mònacu, Mùnich ëd Baviera, Múnic, Múnich, München, Münegh, Münhen, Münih, mi wnik, mi'unikha, miunkheni, miyunik, mu ni hei, mwinhen, mwnykh, mynkn, myunhen, myunik, myunikha, myunsena, mywnkh, mywnykh, Μόναχο, Минхен, Мюнхен, Мүнхен, Мүнхэн, Мӱнхен, Մյունխեն, מינכן, مونیخ, ميونخ, ميونيخ, میونخ, म्युन्शेन, म्यूनिख, মিউনিখ, மியூனிக், ಮ್ಯೂನಿಕ್, มิวนิก, မြူးနစ်ချ်မြို့, მიუნხენი, ミュンヘン, 慕尼黑, 뮌헨
