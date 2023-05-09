@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|29°15'7.02" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°55'49.96" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°26'56.09" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°23'9.61" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°57'39.41" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°51'19.11" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|6°23'7.88" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°57'20.19" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°58'0.93" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°12'21.96" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°15'7.02" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°55'49.96" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°26'56.09" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°23'7.33" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'17.49" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°51'19.11" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|22°26'46.52" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°23'7.88" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°57'20.19" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°58'0.93" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°54'26.48" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|5°54'26.49" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|28°4'52.73" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|23°6'26.75" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|17°34'44.79" |Aries|Butain|Sun|
-|♀ Venus|Direct|0°54'25.43" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|7°30'42.98" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|21°25'35.96" |Scorpio|Qalb|Venus|
+|♂ Mars|Direct|23°6'26.60" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|17°34'44.75" |Aries|Butain|Sun|
+|♀ Venus|Direct|0°54'25.20" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|7°30'42.99" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|21°26'29.89" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°6'26.71" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|17°34'44.78" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|0°54'25.38" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°30'42.97" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|21°25'20.13" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|7°30'42.98" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|21°26'29.89" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}

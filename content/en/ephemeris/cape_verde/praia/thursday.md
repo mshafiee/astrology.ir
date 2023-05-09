@@ -295,7 +295,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|28°45'0.82" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|24°42'46.36" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|20°21'18.54" |Aries|Butain|Venus|
-|♀ Venus|Direct|4°2'25.61" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°2'16.67" |Gemini|HaqAh|Jupiter|
 |☿ Mercury|Retrograde|6°24'39.34" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°35'26.14" |Capricorn|SaadAlDhabib|Jupiter|
 
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°4'55.12" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°4'55.34" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|28°45'0.10" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|24°42'42.17" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|20°21'13.06" |Taurus|Dabaran|Saturn|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Braia, Cidade da Praia, Municipio da Praia, Município da Praia, Pragia, Praia, Praja, Praje, Prajo, Prajė, Praya, RAI, braya, pei ya, peulaia, pirxa, pra'i'a, pra'iya, praya, prayya, puraia, Πράγια, Πράια, Прая, Праја, Պրայա, פראיה, برايا, پرائا, پرائیا, پرايا, پرایا, پڕایا, प्राईया, ਪ੍ਰਾਈਆ, ไปรอา, ཕུ་ར་ཡ།, პრაია, ፕራያ, プライア, 培亞, 프라이아
