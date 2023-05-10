@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°1'12.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°30'29.44" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|24°7'44.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°20'53.28" |Aries|Butain|Sun|
-|♀ Venus|Direct|2°54'21.44" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|6°44'52.12" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|18°33'8.94" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|6°1'12.05" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°30'28.95" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|24°7'51.43" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°20'53.18" |Aries|Butain|Sun|
+|♀ Venus|Direct|2°54'32.39" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|6°44'46.03" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|17°11'11.95" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Cancer|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -330,10 +330,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°1'12.05" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°30'30.04" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|24°7'48.08" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°20'57.95" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|6°1'12.05" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|28°30'28.95" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|24°7'51.43" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°20'53.18" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|2°54'29.70" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|6°44'57.67" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|17°41'27.37" |Capricorn|SaadAlBula|Mars|

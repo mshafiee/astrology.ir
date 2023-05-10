@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°3'1.37" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°3'1.37" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|28°37'31.69" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|24°24'45.74" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|19°50'5.60" |Aries|Butain|Sun|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°3'1.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°37'34.41" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|24°24'49.35" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°50'21.52" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|3°27'36.45" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|6°34'35.10" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|24°59'47.35" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|6°3'1.37" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|28°37'31.69" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|24°24'45.74" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°50'5.60" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|3°27'23.51" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|6°34'8.31" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|25°48'37.25" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Sun|Leo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

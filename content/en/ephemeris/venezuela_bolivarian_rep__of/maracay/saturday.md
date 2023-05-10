@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'13.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°14'30.79" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°54'21.79" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°24'19.24" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°20'15.49" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°57'35.65" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°39'37.98" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°12'13.79" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°14'33.13" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°54'27.40" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°24'34.18" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°20'31.28" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°57'57.45" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°26'21.73" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'13.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°14'30.79" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°54'21.79" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°24'19.24" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°20'15.49" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'35.65" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°39'37.98" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|6°12'13.79" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°14'33.13" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°54'27.40" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°24'34.18" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°20'31.28" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°57'57.45" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°26'21.73" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MYC, Maracay, Marakai, Marakaj, Marakajo, Marakajus, Marakay, ma la kai, malakai, marakai, marakay, Μαρακάι, Маракай, ماراکای, მარაკაი, マラカイ, 马拉凯, 마라카이

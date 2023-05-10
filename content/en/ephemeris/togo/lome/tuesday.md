@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°57'28.23" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|5°57'28.23" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|28°16'14.71" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|23°33'38.37" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|18°21'49.15" |Aries|Butain|Sun|
-|♀ Venus|Direct|1°47'45.78" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|7°8'54.15" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°40'6.95" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|23°33'36.20" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|18°21'34.33" |Aries|Butain|Sun|
+|♀ Venus|Direct|1°47'30.47" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|7°8'30.22" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°15'13.24" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°57'28.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°16'14.56" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|23°33'38.37" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°21'49.15" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°47'45.78" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°8'54.15" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°40'6.95" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|5°57'28.23" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|28°16'14.71" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|23°33'36.20" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°21'34.33" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°47'30.47" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°8'30.22" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°15'13.24" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

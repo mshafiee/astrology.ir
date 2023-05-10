@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°1'58.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°33'30.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|24°15'4.59" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°33'22.94" |Aries|Butain|Sun|
-|♀ Venus|Direct|3°8'33.78" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|6°39'55.02" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|21°49'14.74" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|6°1'59.35" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°33'31.47" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|24°15'11.33" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°33'30.58" |Aries|Butain|Sun|
+|♀ Venus|Direct|3°8'47.47" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|6°40'3.87" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|20°26'5.69" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -318,8 +318,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Sun|Venus|Pisces|Moon|Jupiter|
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Cancer|Sun|Mercury|
-|☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
+|☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°1'59.35" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°1'59.35" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|28°33'33.29" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|24°15'8.70" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|19°33'39.27" |Taurus|Dabaran|Moon|

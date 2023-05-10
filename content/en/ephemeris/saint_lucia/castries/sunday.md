@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°15'27.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°28'2.64" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|26°27'33.09" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°21'3.99" |Aries|Butain|Venus|
-|♀ Venus|Direct|7°23'40.20" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°52'8.85" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|17°23'8.32" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|6°15'27.57" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°28'4.39" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|26°27'30.44" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°21'12.01" |Aries|Butain|Venus|
+|♀ Venus|Direct|7°23'38.61" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°52'19.98" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|17°1'3.47" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Venus|Jupiter|Leo|Moon|Mars|
+|☾ Moon|Sun|Jupiter|Leo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -330,11 +330,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°15'27.57" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°28'4.39" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|26°27'30.44" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°21'12.01" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°23'39.61" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|6°15'27.22" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°28'3.72" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|26°27'30.72" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|23°21'8.75" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°23'38.61" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°52'26.20" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|17°23'8.32" |Pisces|Rescha|Jupiter|
 

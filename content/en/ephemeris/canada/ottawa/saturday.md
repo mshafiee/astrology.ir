@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'8.77" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°12'8.77" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°14'12.51" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°53'37.97" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°23'6.88" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°18'55.09" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°58'2.33" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°0'19.62" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|25°53'41.17" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°23'10.03" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°19'1.56" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°58'4.92" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°30'13.69" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'8.77" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°14'12.51" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°53'37.97" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°23'6.88" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°18'55.09" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°58'2.33" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°0'19.62" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|6°12'8.77" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°14'12.87" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°53'41.17" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°23'10.03" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°19'1.56" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°58'4.92" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°30'13.69" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, AA¬²±, Οττάβα, Οτταβα, Атава, Отава, Оттавæ, Оттава, Օտտավա, אוטווה, אטאווא, أوتاوا, ئۆتاوا, اتاوا, اوتآوآ, اوٹاوا, اٹاوہ, ओटावा, অটোয়া, ਓਟਾਵਾ, ଓଟାୱା, ஒட்டாவா, ಆಟ್ಟಾವಾ, ഓട്ടവ, ออตตาวา, ཨོ་ཏ་ཝ།, အော့တဝမြို့, ოტავა, ኦታዋ, ᎠᏔᏩ, ᐊᑐᕚ/atavaa, オタワ, 渥太華, 오타와

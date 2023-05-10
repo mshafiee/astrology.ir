@@ -291,10 +291,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'18.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°14'51.38" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°55'11.75" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°25'50.68" |Aries|Butain|Venus|
+|♄ Saturn|Direct|6°12'18.17" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°14'49.41" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°55'13.67" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°25'41.34" |Aries|Butain|Venus|
 |♀ Venus|Direct|6°21'56.51" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|5°57'48.61" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°45'34.52" |Aquarius|SaadAlSaud|Venus|
@@ -330,10 +330,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'18.17" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°14'51.38" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°55'11.75" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°25'50.68" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|6°12'18.17" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°14'49.41" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°55'13.67" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°25'41.34" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|6°21'56.51" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°57'48.61" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|3°45'34.52" |Pisces|FarghAlMuqaddam|Saturn|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Chuqichaka, Ciudad Sucre, Ijoloti Sukre, SRE, Sik, Soukre, Sucre, Sucre toertenelmi ovarosa, Sucre történelmi óvárosa, Sukre, Sukreh, Sukri, Sukro, Sukrė, Súkre, su ke lei, su ker, sukare, sukeule, sukre, sukure, swkrh, swkry, swqrh, Σούκρε, Иёлоти Сукре, Сукре, Сукрэ, Սուկրե, סוקרה, سوكري, سوکره, سکرے, سۇكرې, सुक्रे, ਸੂਕਰੇ, ซูเกร, སུ་ཁུ་རེ།, სუკრე, スクレ, 苏克雷, 蘇克雷, 수크레

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°55'46.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°9'52.81" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|23°18'22.91" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|17°55'27.19" |Aries|Butain|Sun|
-|♀ Venus|Direct|1°17'52.48" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|7°20'52.21" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|26°26'43.70" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|5°55'46.80" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°9'50.46" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|23°18'17.64" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|17°55'12.55" |Aries|Butain|Sun|
+|♀ Venus|Direct|1°17'37.73" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|7°20'28.17" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|28°3'38.27" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°55'46.80" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|5°55'46.80" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|28°9'50.46" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|23°18'17.64" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|17°55'12.55" |Taurus|Dabaran|Moon|

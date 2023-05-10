@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'11.97" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°12'11.97" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°14'25.69" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°54'9.91" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°24'2.27" |Aries|Butain|Venus|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'11.97" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°14'25.63" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°54'9.34" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°24'1.68" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°19'55.47" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'55.91" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°20'12.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|6°12'11.97" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°14'25.69" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°54'9.91" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°24'2.27" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°19'58.69" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°58'2.32" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°25'38.25" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: District of Columbia, Federal Capital, Federal City, Federal Town, Ouasinkton, Ranatakariahshne, Ranatakariáhshne, Territory of Columbia, Vashington, Vasingtonas, Vasingtonia, Vašingtonas, WAS, Washington, Washington City, Washington D. C., Washington D.C., Washington DC, Waszyngton, hua sheng dun te qu, wosingteon D.C., wosingteon DC, Ουάσιγκτον, Вашингтон, 华盛顿特区, 워싱턴 D.C., 워싱턴 DC

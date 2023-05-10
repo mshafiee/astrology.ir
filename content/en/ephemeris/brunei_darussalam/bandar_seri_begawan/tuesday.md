@@ -213,7 +213,7 @@ Timetable of twelve day and night planetary hours
 |1|Mars|Ruler|06:06:58|07:08:34|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Sun|Servant|07:08:35|08:10:12|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Venus|Servant|08:10:13|09:11:50|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Mercury|Servant|09:11:51|10:13:27|Attracting material wealth, prosperity, and business growth|
+|4|Mercury|Servant|09:11:51|10:13:27|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|10:13:28|11:15:05|Attracting negativity and creating chaos|
 |6|Saturn|Servant|11:15:06|12:16:43|Removing negative energy caused by the evil eye|
 |7|Jupiter|Servant|12:16:44|13:18:20|Attracting love, affection, and winning hearts|
@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°56'18.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°11'50.21" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|23°23'3.52" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|18°3'33.36" |Aries|Butain|Sun|
-|♀ Venus|Direct|1°27'2.90" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|7°17'7.05" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|28°27'55.47" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|5°56'18.08" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°11'47.31" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|23°23'0.80" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|18°3'16.69" |Aries|Butain|Sun|
+|♀ Venus|Direct|1°26'50.94" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|7°16'37.48" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|29°48'13.18" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°56'18.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°11'50.21" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|23°23'3.52" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°3'33.36" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°27'2.90" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°17'7.05" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|28°27'55.47" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|5°56'18.08" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|28°11'47.31" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|23°23'0.80" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°3'16.69" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°26'50.94" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°16'37.48" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|29°48'13.18" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

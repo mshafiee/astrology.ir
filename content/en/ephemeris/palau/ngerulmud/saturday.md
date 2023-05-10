@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°10'20.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°6'48.23" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°35'35.07" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°52'10.67" |Aries|Butain|Venus|
-|♀ Venus|Direct|5°44'19.12" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|6°3'4.15" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°23'43.86" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|6°10'20.74" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°6'45.58" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°35'34.87" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°51'56.42" |Aries|Butain|Venus|
+|♀ Venus|Direct|5°44'12.17" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°2'38.06" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|24°40'25.11" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Saturn|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°10'20.74" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°10'20.74" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°6'48.23" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°35'35.07" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|21°52'10.67" |Taurus|HaqAh|Saturn|

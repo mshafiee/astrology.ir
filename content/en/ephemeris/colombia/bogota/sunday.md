@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°15'36.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°28'40.44" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|26°29'5.72" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°23'41.97" |Aries|Butain|Venus|
-|♀ Venus|Direct|7°26'36.10" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°51'57.42" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|16°42'57.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|6°15'36.58" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°28'42.57" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|26°29'3.89" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°23'52.32" |Aries|Butain|Venus|
+|♀ Venus|Direct|7°26'37.87" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°52'18.13" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|18°3'55.57" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Sun|Jupiter|Leo|Moon|Mars|
+|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -330,10 +330,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°15'36.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°28'42.57" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|26°29'3.89" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°23'52.32" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|6°15'36.62" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°28'42.59" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|26°29'3.69" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|23°23'52.30" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|7°26'37.87" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°52'18.13" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|18°3'55.57" |Pisces|Rescha|Jupiter|

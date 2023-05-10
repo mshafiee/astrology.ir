@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°57'8.25" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|5°57'8.25" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|28°14'59.36" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|23°30'36.80" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|18°16'35.85" |Aries|Butain|Sun|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|5°57'8.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°14'59.83" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|23°30'34.62" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|18°16'37.55" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°41'47.33" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|7°11'9.38" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°18'53.17" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|5°57'8.25" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|28°14'59.36" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|23°30'36.80" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|18°16'35.85" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°41'49.76" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|7°11'4.63" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°4'5.44" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Agram, Andautonia, Lungsod ng Zagreb, Sagrab, Sagreb, Sagwzlwgbouh, Sakreb, Ságrab, ZAG, Zabrag, Zabreg, Zagabbria, Zagabria, Zagavria, Zagrab, Zagrabia, Zagreb, Zagreba, Zagrebas, Zagrebi, Zagrebo, Zagrebs, Zagrep, Zagrev, Zagrzeb, Zagrèb, Zagréb, Zagrėbs, Zagàbria, Zahreb, Zankremp, Zaqreb, Zágráb, Záhreb, Záhřeb, cakirep, jagareba, jageulebeu, jagriba, jhagreba, sa ge lei bu, sa kerb, sagreb, zagaraba, zaghrb, zagrb, zagrebi, zagurebu, zajryb, zghrb, Żagreb, Ζάγκρεμπ, Заграб, Загреб, Զագրեբ, זאגרב, זאגרעב, زاجريب, زاغرب, زاگرب, زاگرێب, زغرب, जग्रिब, झाग्रेब, জাগরেব, ਜ਼ਾਗਰਬ, சாகிரேப், സാഗ്രെബ്, ซาเกร็บ, ཛག་རེབ།, ზაგრები, ዛግሬብ, ザグレブ, 萨格勒布, 薩格勒布, Ꙁагрєбъ, 자그레브

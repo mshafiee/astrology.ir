@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°9'6.65" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°9'6.65" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°1'46.74" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°23'22.55" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|21°31'11.46" |Aries|Butain|Venus|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°9'6.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°1'46.74" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°23'22.55" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|21°31'11.46" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|5°20'50.05" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|6°7'5.81" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|20°10'31.91" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|6°9'5.56" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°1'44.51" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°23'21.60" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|21°30'58.92" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|5°20'42.64" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|6°6'43.51" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|19°51'8.60" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mars|Jupiter|Venus|Mercury|
+|☾ Moon|Jupiter|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Venus|Mars|Libra|Moon|Mars|
+|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
 
 
 {{< /tab >}}
