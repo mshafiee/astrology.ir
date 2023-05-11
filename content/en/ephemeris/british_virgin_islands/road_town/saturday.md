@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'10.43" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°12'10.43" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°14'19.26" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°53'53.73" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°23'35.98" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°19'15.42" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°57'38.37" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°41'32.51" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|6°19'26.54" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°58'4.20" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°10'53.42" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'10.43" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°12'10.43" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°14'19.26" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°53'53.73" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°23'35.98" |Taurus|HaqAh|Saturn|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

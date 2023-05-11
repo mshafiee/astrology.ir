@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°3'1.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°37'34.13" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|24°24'48.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°50'18.41" |Aries|Butain|Sun|
-|♀ Venus|Direct|3°27'32.52" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|6°34'25.99" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°35'22.45" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°3'1.54" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°37'35.08" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|24°24'50.90" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°50'24.38" |Aries|Butain|Sun|
+|♀ Venus|Direct|3°27'39.57" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|6°34'34.80" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|24°59'29.05" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Saturn|Mars|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Mars|Cancer|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
+|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°3'1.54" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°3'1.54" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|28°37'34.13" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|24°24'48.06" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|19°50'18.41" |Taurus|Dabaran|Moon|

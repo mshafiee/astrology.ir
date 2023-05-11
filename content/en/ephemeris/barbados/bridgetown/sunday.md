@@ -291,10 +291,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°15'26.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°28'0.24" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|26°27'26.22" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°20'53.76" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°15'26.99" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°28'1.92" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|26°27'24.40" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°21'1.70" |Aries|Butain|Venus|
 |♀ Venus|Direct|7°23'28.12" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|5°52'26.93" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|17°20'47.62" |Aquarius|SaadAlAkhbia|Mercury|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°15'25.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°28'0.24" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|26°27'26.22" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°20'53.76" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°23'27.46" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°52'10.57" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|16°13'18.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|6°15'26.99" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°28'1.92" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|26°27'24.40" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|23°21'1.70" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°23'28.12" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°52'26.93" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|17°20'47.62" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
+|☾ Moon|Mercury|Jupiter|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}

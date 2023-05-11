@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'1.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°13'44.15" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°52'27.18" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°21'9.23" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°16'41.37" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°58'27.55" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°43'20.50" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°12'1.92" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°13'44.08" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°52'27.93" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°21'9.25" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°16'42.59" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°58'26.85" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°32'51.38" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'1.92" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°12'1.92" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°13'44.13" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°52'27.75" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°21'9.39" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°16'42.36" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°58'27.28" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°36'2.52" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|25°52'27.93" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°21'9.25" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°16'42.59" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°58'26.85" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°32'51.38" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bahia, Baia, Baía, SSA, Sal'vador, Salvador, Salvador da Bahia, Salvador de Bahia, Salvador de Bahio, Salvador de Bahía, Salvadora, Salvadoras, Sao Salvador, Soteropolis, sa er wa duo, sal wad xr, salabhadora, salfadwr  bahya, salvadori, salvhadora da ba'iya, salwadwr, sarubadoru, saruvu~adoru, saubadoleu, slbdwr, slwadwr, Σαλβαδόρ, Салвадор, Сальвадор, סלבדור, سالفادور، باهيا, سالوادور, سلوادور, साल्व्हादोर दा बाईया, সালভাদোর, ซัลวาดอร์, სალვადორი, サルバドール, サルヴァドール, 萨尔瓦多, 사우바도르

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'9.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°14'14.41" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°53'46.57" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°23'16.05" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°19'10.56" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°57'58.37" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°16'50.22" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°12'9.46" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°14'15.23" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°53'43.87" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°23'19.16" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°19'7.71" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°58'6.79" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°6'52.70" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'9.46" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°12'9.46" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°14'15.23" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°53'43.87" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°23'19.16" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°19'10.56" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'58.37" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°16'50.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|6°19'7.71" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°58'6.79" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°6'52.70" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Plimouth, Plimut, Plimutas, Plimuto, Plymouth, Plymouth pa Montserrat, Plymouth på Montserrat, blymwth, peullimeoseu, phli math, plymwt, pu li mao si, purimasu, Πλίμουθ, Плимут, Плимът, Плімут, פלימות, بليموث, پلایماؤت، مانٹسریٹ, پلی‌موث، مونتسرات, พลิมัท, პლიმუთი, プリマス, 普利茅斯, 플리머스

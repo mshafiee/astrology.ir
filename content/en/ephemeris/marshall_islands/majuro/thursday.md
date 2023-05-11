@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°3'1.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°37'31.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|24°24'45.74" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°50'5.60" |Aries|Butain|Sun|
-|♀ Venus|Direct|3°27'23.51" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|6°34'8.31" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°48'37.25" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°3'1.37" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°37'34.41" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|24°24'49.35" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°50'21.52" |Aries|Butain|Sun|
+|♀ Venus|Direct|3°27'36.45" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|6°34'35.10" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|24°59'47.35" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Saturn|Mars|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Mercury|Mars|Cancer|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°3'1.37" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°3'1.37" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|28°37'31.69" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|24°24'45.74" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|19°50'5.60" |Taurus|Dabaran|Moon|

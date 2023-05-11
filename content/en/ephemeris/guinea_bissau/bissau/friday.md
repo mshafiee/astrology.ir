@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°8'20.33" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°8'20.33" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|28°58'39.45" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°15'44.39" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°18'7.04" |Aries|Butain|Venus|
-|♀ Venus|Direct|5°6'7.69" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|6°9'53.24" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|17°35'48.90" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Direct|25°15'47.83" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°18'10.06" |Aries|Butain|Venus|
+|♀ Venus|Direct|5°6'14.45" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°9'55.61" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|16°55'44.72" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Venus|
 
 
 {{< /tab >}}
@@ -330,11 +330,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°8'20.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°58'39.16" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°15'44.39" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|21°18'7.04" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|5°6'7.69" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°8'20.33" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|28°58'39.45" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°15'47.83" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|21°18'10.06" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|5°6'14.45" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|6°9'55.61" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|16°55'44.72" |Aquarius|SaadAlAkhbia|Mercury|
 

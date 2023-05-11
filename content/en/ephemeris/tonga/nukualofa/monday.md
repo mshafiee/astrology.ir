@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°16'36.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°32'55.55" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|26°39'25.25" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°41'21.48" |Aries|Butain|Venus|
-|♀ Venus|Direct|7°46'14.70" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°51'9.90" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|20°59'1.85" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|6°16'35.06" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°32'52.60" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|26°39'20.41" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°41'16.55" |Aries|Butain|Venus|
+|♀ Venus|Direct|7°46'4.60" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°51'6.14" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|21°30'3.19" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Moon|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Venus|Mars|Libra|Moon|Mars|
+|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
@@ -330,10 +330,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°16'34.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°32'53.10" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|26°39'25.25" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°41'21.48" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°16'36.01" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°32'55.55" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|26°39'24.15" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|23°41'33.79" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|7°46'18.50" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°51'33.34" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|22°25'24.14" |Pisces|Rescha|Mars|
