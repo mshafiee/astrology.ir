@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°4'15.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°42'23.49" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|24°36'32.60" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|20°10'23.58" |Aries|Butain|Venus|
-|♀ Venus|Direct|3°50'17.43" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Retrograde|6°27'51.31" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|29°21'32.30" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|6°4'15.37" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°42'24.31" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|24°36'28.94" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|20°10'26.66" |Aries|Butain|Venus|
+|♀ Venus|Direct|3°50'13.36" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Retrograde|6°28'0.23" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°7'26.90" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Mercury|Mars|Cancer|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°4'15.37" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°4'15.37" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|28°42'24.31" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|24°36'28.94" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|20°10'26.66" |Taurus|Dabaran|Saturn|

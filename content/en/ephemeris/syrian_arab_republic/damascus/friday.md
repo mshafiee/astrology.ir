@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°7'45.38" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|28°56'18.87" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°10'7.38" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°8'23.07" |Aries|Butain|Venus|
-|♀ Venus|Direct|4°55'17.18" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|6°12'6.82" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|14°31'42.30" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|6°7'45.38" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|28°56'18.03" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°10'11.01" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°8'20.01" |Aries|Butain|Venus|
+|♀ Venus|Direct|4°55'21.32" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°11'57.78" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|13°37'12.17" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -330,10 +330,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°7'45.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°56'18.03" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°10'11.01" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|21°8'20.01" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Direct|6°7'45.38" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|28°56'18.87" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°10'7.38" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|21°8'23.07" |Taurus|Dabaran|Saturn|
 |♀ Venus|Direct|4°55'21.32" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|6°11'57.78" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|13°37'12.17" |Aquarius|SaadAlAkhbia|Mercury|

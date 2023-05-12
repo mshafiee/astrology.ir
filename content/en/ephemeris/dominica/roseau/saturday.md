@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'9.29" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°12'9.29" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°14'14.52" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°53'42.12" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°23'16.23" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°19'4.39" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°58'7.40" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°6'16.66" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|6°19'3.68" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°57'48.57" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°59'9.14" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'9.29" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°12'9.29" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°14'14.52" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°53'42.12" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°23'16.23" |Taurus|HaqAh|Saturn|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조

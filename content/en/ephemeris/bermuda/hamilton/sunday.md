@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°15'25.38" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°15'25.38" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°27'55.14" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|26°27'8.18" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|23°20'32.75" |Aries|Butain|Venus|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°15'25.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°27'52.88" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|26°27'8.66" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°20'20.95" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°22'51.82" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°52'3.48" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|15°58'47.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|6°15'25.38" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°27'55.14" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|26°27'8.18" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|23°20'32.75" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°22'56.48" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°52'25.42" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|17°8'49.16" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
 |♀ Venus|Venus|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Mercury|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
+|☾ Moon|Mercury|Jupiter|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}

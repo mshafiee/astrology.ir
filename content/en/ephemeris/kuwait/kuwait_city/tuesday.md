@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°20'48.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°51'12.08" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|27°24'24.13" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|24°58'23.57" |Aries|Butain|Venus|
-|♀ Venus|Direct|9°11'33.06" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°53'11.96" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|10°52'30.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|6°20'48.64" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°51'11.03" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|27°24'27.21" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|24°58'19.61" |Aries|Butain|Venus|
+|♀ Venus|Direct|9°11'36.38" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°53'1.46" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|9°53'30.81" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°20'48.64" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°20'48.64" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°51'12.08" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|27°24'24.13" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|24°58'23.57" |Taurus|HaqAh|Saturn|

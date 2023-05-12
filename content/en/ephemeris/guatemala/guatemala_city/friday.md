@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°9'2.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°1'28.64" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°22'38.16" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°29'51.10" |Aries|Butain|Venus|
-|♀ Venus|Direct|5°19'20.30" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|6°6'59.87" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|20°32'44.55" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|6°9'2.72" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°1'30.81" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°22'43.78" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°30'5.08" |Aries|Butain|Venus|
+|♀ Venus|Direct|5°19'35.57" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°7'20.40" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|19°53'52.48" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°9'2.38" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°9'2.38" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°1'28.64" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°22'38.16" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|21°29'51.10" |Taurus|HaqAh|Saturn|
