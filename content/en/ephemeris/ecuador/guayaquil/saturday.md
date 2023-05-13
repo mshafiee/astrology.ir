@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'22.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°15'11.20" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°56'0.14" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°27'13.62" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°23'23.26" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°57'11.39" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°3'2.21" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°12'22.98" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°15'11.18" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°56'0.28" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°27'13.58" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°23'29.34" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°57'37.02" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°4'8.41" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,11 +330,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'22.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°15'11.20" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°56'0.14" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°27'13.62" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°23'29.14" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°12'22.98" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°15'11.18" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°56'0.28" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°27'13.58" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°23'29.34" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°57'37.22" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|4°6'10.40" |Pisces|FarghAlMuqaddam|Saturn|
 

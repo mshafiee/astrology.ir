@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'6.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°14'2.57" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°53'12.72" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°22'26.49" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°18'8.48" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°58'16.45" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°55'2.58" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°12'6.37" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°14'0.45" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°53'6.45" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°22'12.46" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°17'52.08" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°57'56.97" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°21'42.88" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'6.37" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°12'6.37" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°14'2.57" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°53'12.72" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°22'26.49" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|6°18'8.48" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°58'16.65" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°57'26.78" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|5°58'16.45" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°55'2.58" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: B.H., BH, BHZ, Bel-Horizonto, Bello Horizonte, Belo Horizonte, Belo Horizontė, Belo Hte, Belo Khorizonte, Belo Orizonte, Belo Orizonti, Belu Orizonti, Belu-Aryzonty, Belu-Orizonti, Bhte, Cidade de Minas, Urbs Pulchri Horizontis, bailo orizonti, bei luo ao li cang te, belluolijonchi, belo horijhonte, belo horijonte, belo xo ri sxn chi, beroorizonchi, beroorizonte, blw hwryzwnth, bylw hwryzwnty, pelo aricanc, Μπέλο Οριζόντε, Бело Оризонте, Бело Оризонти, Бело Хоризонте, Белу-Арызонты, Белу-Оризонти, Белу-Оризонті, בלו הוריזונטה, بلو هوریزونته, بيلو هوريزونتي, بیلو ہوریزونتے, बेलो होरिझोन्ते, বেলো হোরিজোন্টে, ਬੈਲੋ ਓਰੀਜ਼ੋਂਤੀ, பெலோ அரிசாஞ்ச், เบโลโอรีซอนชี, ბელუ-ორიზონტი, ベロオリゾンチ, ベロオリゾンテ, 貝洛奥里藏特, 贝洛奥里藏特, 벨루오리존치

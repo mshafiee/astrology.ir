@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°11'16.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°10'38.27" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°44'55.82" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°8'11.03" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°2'14.19" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|6°0'15.11" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|29°19'57.48" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|6°11'16.83" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°10'37.62" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°44'50.46" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°8'4.96" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°2'2.82" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°0'9.23" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|0°11'9.96" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Jupiter|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°11'16.83" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°11'16.83" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°10'37.62" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°44'50.46" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°8'4.96" |Taurus|HaqAh|Saturn|

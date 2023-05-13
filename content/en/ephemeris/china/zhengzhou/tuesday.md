@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°20'13.04" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°20'13.04" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°48'35.36" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|27°17'57.39" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|24°47'23.47" |Aries|Butain|Venus|
-|♀ Venus|Direct|8°59'22.40" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°52'26.30" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|8°11'6.94" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|24°47'22.78" |Aries|Butain|Venus|
+|♀ Venus|Direct|8°59'23.26" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°52'24.28" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°58'58.04" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°20'13.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°48'35.36" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|27°17'57.39" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|24°47'23.47" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|8°59'22.40" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°52'26.30" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|8°11'6.94" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|6°20'13.04" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°48'35.15" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|27°17'58.09" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|24°47'22.78" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|8°59'23.26" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°52'24.28" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|7°58'58.04" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
