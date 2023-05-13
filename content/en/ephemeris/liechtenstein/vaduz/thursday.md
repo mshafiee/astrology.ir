@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|05:43:00|06:58:56|Acquiring material wealth and abundance of livelihood|
-|2|Mars|Servant|06:58:57|08:14:53|Destroying enemies|
-|3|Sun|Servant|08:14:54|09:30:50|Attracting financial and emotional love|
-|4|Venus|Servant|09:30:51|10:46:47|Creating love and connection, and finding a partner|
-|5|Mercury|Servant|10:46:48|12:02:44|Engaging in sensual acts|
-|6|Moon|Servant|12:02:45|13:18:41|Traveling in the physical and spiritual realm|
-|7|Saturn|Servant|13:18:42|14:34:38|Achieving status, position, and attracting opportunities|
-|8|Jupiter|Ruler|14:34:39|15:50:35|Attracting happiness and prosperity|
-|9|Mars|Servant|15:50:36|17:06:32|Attaining status, position, and promoting rank|
+|1|Jupiter|Ruler|05:43:00|06:58:56|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|06:58:57|08:14:53|Destruction of enemies|
+|3|Sun|Servant|08:14:54|09:30:50|Attraction of financial and emotional love|
+|4|Venus|Servant|09:30:51|10:46:47|Creating love, connection and marriage|
+|5|Mercury|Servant|10:46:48|12:02:44|Indulgence|
+|6|Moon|Servant|12:02:45|13:18:41|Outer and inner journey|
+|7|Saturn|Servant|13:18:42|14:34:38|Achieving status and power|
+|8|Jupiter|Ruler|14:34:39|15:50:35|Attraction of happiness and fortune|
+|9|Mars|Servant|15:50:36|17:06:32|Reaching status and promotion|
 |10|Sun|Servant|17:06:33|18:22:29|Fulfilling needs|
-|11|Venus|Servant|18:22:30|19:38:26|Attracting love, affection, and winning hearts|
-|12|Mercury|Servant|19:38:27|20:54:24|Attracting negativity, and avoiding any harmful action|
+|11|Venus|Servant|18:22:30|19:38:26|Attraction of love and hearts|
+|12|Mercury|Servant|19:38:27|20:54:24|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|20:54:25|21:38:21|Acquiring material wealth and abundance of livelihood|
-|2|Saturn|Servant|21:38:22|22:22:18|Destroying enemies|
-|3|Jupiter|Servant|22:22:19|23:06:16|Attracting financial and emotional love|
-|4|Mars|Servant|23:06:17|23:50:13|Creating love and connection, and finding a partner|
-|5|Sun|Servant|23:50:14|00:34:10|Engaging in sensual acts|
-|6|Venus|Servant|00:34:11|01:18:08|Traveling in the physical and spiritual realm|
-|7|Mercury|Servant|01:18:09|02:02:05|Achieving status, position, and attracting opportunities|
-|8|Moon|Ruler|02:02:06|02:46:02|Attracting happiness and prosperity|
-|9|Saturn|Servant|02:46:03|03:30:00|Attaining status, position, and promoting rank|
+|1|Moon|Ruler|20:54:25|21:38:21|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|21:38:22|22:22:18|Destruction of enemies|
+|3|Jupiter|Servant|22:22:19|23:06:16|Attraction of financial and emotional love|
+|4|Mars|Servant|23:06:17|23:50:13|Creating love, connection and marriage|
+|5|Sun|Servant|23:50:14|00:34:10|Indulgence|
+|6|Venus|Servant|00:34:11|01:18:08|Outer and inner journey|
+|7|Mercury|Servant|01:18:09|02:02:05|Achieving status and power|
+|8|Moon|Ruler|02:02:06|02:46:02|Attraction of happiness and fortune|
+|9|Saturn|Servant|02:46:03|03:30:00|Reaching status and promotion|
 |10|Jupiter|Servant|03:30:01|04:13:57|Fulfilling needs|
-|11|Mars|Servant|04:13:58|04:57:54|Attracting love, affection, and winning hearts|
-|12|Sun|Servant|04:57:55|05:41:52|Attracting negativity, and avoiding any harmful action|
+|11|Mars|Servant|04:13:58|04:57:54|Attraction of love and hearts|
+|12|Sun|Servant|04:57:55|05:41:52|Attracting misfortune, not suitable for any task|
 
  
  
@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°27'4.79" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°19'36.81" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°34'56.17" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°58'22.84" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|26°58'23.23" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|11°23'53.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°12'1.24" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|8°49'26.49" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|6°12'2.85" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|8°56'2.34" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

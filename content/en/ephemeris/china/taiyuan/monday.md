@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:20:26|06:31:24|Repelling sorcery and attracting discharged energy|
-|2|Saturn|Servant|06:31:25|07:42:23|Traveling inward and outward|
-|3|Jupiter|Servant|07:42:24|08:53:22|Marriage bond is favorable|
-|4|Mars|Servant|08:53:23|10:04:22|Eliminating and destroying enemies and releasing their energy|
-|5|Sun|Servant|10:04:23|11:15:21|Granting wishes, attracting love and wealth|
-|6|Venus|Servant|11:15:22|12:26:20|Summoning the desired person, creating love and domination|
-|7|Mercury|Servant|12:26:21|13:37:19|Mutual agreement|
-|8|Moon|Ruler|13:37:20|14:48:19|Reconciling two individuals, attracting love|
-|9|Saturn|Servant|14:48:20|15:59:18|Attracting and repelling enemies, and separating them|
-|10|Jupiter|Servant|15:59:19|17:10:17|Favorable for any good deed|
+|1|Moon|Ruler|05:20:26|06:31:24|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|06:31:25|07:42:23|Outer and inner journey|
+|3|Jupiter|Servant|07:42:24|08:53:22|Marriage connection is good|
+|4|Mars|Servant|08:53:23|10:04:22|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:04:23|11:15:21|Answering needs, attracting love and wealth|
+|6|Venus|Servant|11:15:22|12:26:20|Summoning the person of interest, love and dominance|
+|7|Mercury|Servant|12:26:21|13:37:19|Making promises|
+|8|Moon|Ruler|13:37:20|14:48:19|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|14:48:20|15:59:18|Attracting and repelling enemies and causing separation|
+|10|Jupiter|Servant|15:59:19|17:10:17|Good for any task|
 |11|Mars|Servant|17:10:18|18:21:16|Creating enmity and negative energy|
-|12|Sun|Servant|18:21:17|19:32:16|Showing kindness and affection|
+|12|Sun|Servant|18:21:17|19:32:16|Heart tenderness|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|19:32:17|20:21:12|Repelling sorcery and attracting discharged energy|
-|2|Mercury|Servant|20:21:13|21:10:09|Traveling inward and outward|
-|3|Moon|Servant|21:10:10|21:59:05|Marriage bond is favorable|
-|4|Saturn|Servant|21:59:06|22:48:02|Eliminating and destroying enemies and releasing their energy|
-|5|Jupiter|Servant|22:48:03|23:36:58|Granting wishes, attracting love and wealth|
-|6|Mars|Servant|23:36:59|00:25:55|Summoning the desired person, creating love and domination|
-|7|Sun|Servant|00:25:56|01:14:51|Mutual agreement|
-|8|Venus|Ruler|01:14:52|02:03:48|Reconciling two individuals, attracting love|
-|9|Mercury|Servant|02:03:49|02:52:44|Attracting and repelling enemies, and separating them|
-|10|Moon|Servant|02:52:45|03:41:41|Favorable for any good deed|
+|1|Venus|Ruler|19:32:17|20:21:12|Repelling magic, attracting discharged energy|
+|2|Mercury|Servant|20:21:13|21:10:09|Outer and inner journey|
+|3|Moon|Servant|21:10:10|21:59:05|Marriage connection is good|
+|4|Saturn|Servant|21:59:06|22:48:02|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:48:03|23:36:58|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:36:59|00:25:55|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|00:25:56|01:14:51|Making promises|
+|8|Venus|Ruler|01:14:52|02:03:48|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:03:49|02:52:44|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|02:52:45|03:41:41|Good for any task|
 |11|Saturn|Servant|03:41:42|04:30:37|Creating enmity and negative energy|
-|12|Jupiter|Servant|04:30:38|05:19:34|Showing kindness and affection|
+|12|Jupiter|Servant|04:30:38|05:19:34|Heart tenderness|
 
  
  

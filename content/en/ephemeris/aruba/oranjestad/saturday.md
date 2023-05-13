@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:15:45|07:19:11|Creating peace among people|
-|2|Jupiter|Servant|07:19:12|08:22:39|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|08:22:40|09:26:07|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|09:26:08|10:29:34|Bringing luck and favor|
-|5|Venus|Servant|10:29:35|11:33:02|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|11:33:03|12:36:30|Avoiding any harmful action|
-|7|Moon|Servant|12:36:31|13:39:57|Destroying enemies|
-|8|Saturn|Ruler|13:39:58|14:43:25|Performing all good deeds|
-|9|Jupiter|Servant|14:43:26|15:46:53|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|15:46:54|16:50:20|Achieving marital harmony|
-|11|Sun|Servant|16:50:21|17:53:48|Gaining respect and honor|
-|12|Venus|Servant|17:53:49|18:57:16||
+|1|Saturn|Ruler|06:15:45|07:19:11|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:19:12|08:22:39|Peace among people|
+|3|Mars|Servant|08:22:40|09:26:07|Vengeful and evil deeds|
+|4|Sun|Servant|09:26:08|10:29:34|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:29:35|11:33:02|Auspicious|
+|6|Mercury|Servant|11:33:03|12:36:30|Writing, swapping and making promises|
+|7|Moon|Servant|12:36:31|13:39:57|Not suitable for any task|
+|8|Saturn|Ruler|13:39:58|14:43:25|Destruction of enemies|
+|9|Jupiter|Servant|14:43:26|15:46:53|All good deeds|
+|10|Mars|Servant|15:46:54|16:50:20|Doing evil deeds|
+|11|Sun|Servant|16:50:21|17:53:48|Acceptance of reconciliation between couples|
+|12|Venus|Servant|17:53:49|18:57:16|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:57:17|19:53:47|Creating peace among people|
-|2|Moon|Servant|19:53:48|20:50:18|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|20:50:19|21:46:49|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|21:46:50|22:43:20|Bringing luck and favor|
-|5|Mars|Servant|22:43:21|23:39:51|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|23:39:52|00:36:22|Avoiding any harmful action|
-|7|Venus|Servant|00:36:23|01:32:53|Destroying enemies|
-|8|Mercury|Ruler|01:32:54|02:29:24|Performing all good deeds|
-|9|Moon|Servant|02:29:25|03:25:55|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:25:56|04:22:26|Achieving marital harmony|
-|11|Jupiter|Servant|04:22:27|05:18:57|Gaining respect and honor|
-|12|Mars|Servant|05:18:58|06:15:29||
+|1|Mercury|Ruler|18:57:17|19:53:47|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:53:48|20:50:18|Peace among people|
+|3|Saturn|Servant|20:50:19|21:46:49|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:46:50|22:43:20|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:43:21|23:39:51|Auspicious|
+|6|Sun|Servant|23:39:52|00:36:22|Writing, swapping and making promises|
+|7|Venus|Servant|00:36:23|01:32:53|Not suitable for any task|
+|8|Mercury|Ruler|01:32:54|02:29:24|Destruction of enemies|
+|9|Moon|Servant|02:29:25|03:25:55|All good deeds|
+|10|Saturn|Servant|03:25:56|04:22:26|Doing evil deeds|
+|11|Jupiter|Servant|04:22:27|05:18:57|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:18:58|06:15:29|For gaining dignity|
 
  
  
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°12'14.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°14'34.69" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°54'38.10" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°24'39.10" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°20'46.38" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°57'34.33" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°23'13.53" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°14'34.91" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°54'31.10" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°24'36.89" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°20'34.16" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°57'37.29" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°49'16.30" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -335,8 +335,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|25°54'36.39" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°24'49.47" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|6°20'48.44" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'34.33" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°23'13.53" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|5°57'55.06" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°29'35.08" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Aran'estad, Oran'estad, Oranestad, Oraniestat, Oranjestad, Oranjestad pa Aruba, Oranjestad på Aruba, Oranjestadas, Oranjestade, Oranjestado, Oranjested, Oranjestêd, ao la nie si ta de, awrnjstad, olanyeseutateu, oraniesutaddo, oraniyecuttatu, oranjestada, xo ran yes tad, Οράνιεστατ, Араньестад, Оранестад, Ораньестад, Ораньєстад, Орањестад, אורנייסטאד, أورنجستاد, اورنجستاد, اورنجسٹیڈ، اروبا, ओरांजेश्टाड, ஒரானியெசுத்தாடு, โอรันเยสตัด, ორანესტადი, オラニエスタッド, 奥拉涅斯塔德, 오라녜스타트

@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|04:49:16|06:04:01|Attracting love and creating emotional attachment|
-|2|Mercury|Servant|06:04:02|07:18:47|Attracting good luck|
-|3|Moon|Servant|07:18:48|08:33:33|Attracting negativity, and avoiding any harmful action|
-|4|Saturn|Servant|08:33:34|09:48:19|Being hateful for a certain period of time|
-|5|Jupiter|Servant|09:48:20|11:03:05|Gaining status, position, and attracting happiness in the workplace|
-|6|Mars|Servant|11:03:06|12:17:51|Attracting attention and acceptance from important people|
-|7|Sun|Servant|12:17:52|13:32:37|Advancing and attracting wealth|
-|8|Venus|Ruler|13:32:38|14:47:23|Extremely lucky and achieving ultimate happiness|
-|9|Mercury|Servant|14:47:24|16:02:09|Separating and making someone homeless|
-|10|Moon|Servant|16:02:10|17:16:55|Extremely hateful and causing harm|
-|11|Saturn|Servant|17:16:56|18:31:41|Creating a negative destiny for anyone|
-|12|Jupiter|Servant|18:31:42|19:46:28|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|1|Venus|Ruler|04:49:16|06:04:01|Love, creating love and attracting hearts|
+|2|Mercury|Servant|06:04:02|07:18:47|Attracting auspiciousness|
+|3|Moon|Servant|07:18:48|08:33:33|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|08:33:34|09:48:19|Unfortunate hour|
+|5|Jupiter|Servant|09:48:20|11:03:05|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:03:06|12:17:51|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|12:17:52|13:32:37|Promotion and attracting wealth|
+|8|Venus|Ruler|13:32:38|14:47:23|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|14:47:24|16:02:09|Causing separation and homelessness|
+|10|Moon|Servant|16:02:10|17:16:55|Extremely unfortunate|
+|11|Saturn|Servant|17:16:56|18:31:41|Creating an unfortunate horoscope for anyone|
+|12|Jupiter|Servant|18:31:42|19:46:28|Suitable for asking for a need|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|19:46:29|20:31:35|Attracting love and creating emotional attachment|
-|2|Sun|Servant|20:31:36|21:16:42|Attracting good luck|
-|3|Venus|Servant|21:16:43|22:01:49|Attracting negativity, and avoiding any harmful action|
-|4|Mercury|Servant|22:01:50|22:46:57|Being hateful for a certain period of time|
-|5|Moon|Servant|22:46:58|23:32:04|Gaining status, position, and attracting happiness in the workplace|
-|6|Saturn|Servant|23:32:05|00:17:11|Attracting attention and acceptance from important people|
-|7|Jupiter|Servant|00:17:12|01:02:18|Advancing and attracting wealth|
-|8|Mars|Ruler|01:02:19|01:47:26|Extremely lucky and achieving ultimate happiness|
-|9|Sun|Servant|01:47:27|02:32:33|Separating and making someone homeless|
-|10|Venus|Servant|02:32:34|03:17:40|Extremely hateful and causing harm|
-|11|Mercury|Servant|03:17:41|04:02:47|Creating a negative destiny for anyone|
-|12|Moon|Servant|04:02:48|04:47:55|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|1|Mars|Ruler|19:46:29|20:31:35|Love, creating love and attracting hearts|
+|2|Sun|Servant|20:31:36|21:16:42|Attracting auspiciousness|
+|3|Venus|Servant|21:16:43|22:01:49|Attracting misfortune, no task is suitable|
+|4|Mercury|Servant|22:01:50|22:46:57|Unfortunate hour|
+|5|Moon|Servant|22:46:58|23:32:04|Achieving position and status and attracting job fortune|
+|6|Saturn|Servant|23:32:05|00:17:11|Creating attraction and acceptance among dignitaries|
+|7|Jupiter|Servant|00:17:12|01:02:18|Promotion and attracting wealth|
+|8|Mars|Ruler|01:02:19|01:47:26|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|01:47:27|02:32:33|Causing separation and homelessness|
+|10|Venus|Servant|02:32:34|03:17:40|Extremely unfortunate|
+|11|Mercury|Servant|03:17:41|04:02:47|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|04:02:48|04:47:55|Suitable for asking for a need|
 
  
  
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°7'38.38" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|28°55'50.81" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°8'59.78" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°6'25.54" |Aries|Butain|Venus|
-|♀ Venus|Direct|4°53'6.03" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|6°12'31.10" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|14°4'43.74" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Direct|25°9'0.86" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°6'25.12" |Aries|Butain|Venus|
+|♀ Venus|Direct|4°53'7.50" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°12'29.33" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|13°49'18.59" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°7'38.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°55'50.81" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°8'59.78" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|21°6'25.54" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|4°53'6.03" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|6°12'31.10" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|14°4'43.74" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|28°55'50.65" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°9'0.86" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|21°6'25.12" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|4°53'7.50" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|6°12'29.33" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|13°49'18.59" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

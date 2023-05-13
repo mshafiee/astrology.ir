@@ -211,33 +211,33 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|06:01:25|07:02:53|Acceptance of needs|
-|2|Moon|Servant|07:02:54|08:04:22|Complaining is futile, it won't accomplish anything|
-|3|Saturn|Servant|08:04:23|09:05:51|To overcome illnesses|
-|4|Jupiter|Servant|09:05:52|10:07:21|For all actions, the goal is happiness|
-|5|Mars|Servant|10:07:22|11:08:50|Generating negative energy and disturbing peace|
-|6|Sun|Servant|11:08:51|12:10:19|Traveling inward and outward|
-|7|Venus|Servant|12:10:20|13:11:48|Attracting love and winning hearts|
-|8|Mercury|Ruler|13:11:49|14:13:18|Being concealed from the sight of people|
-|9|Moon|Servant|14:13:19|15:14:47|Separating and creating enmity|
-|10|Saturn|Servant|15:14:48|16:16:16|Subduing the elites|
-|11|Jupiter|Servant|16:16:17|17:17:45|Creating financial attraction and domination|
-|12|Mars|Servant|17:17:46|18:19:15|Generating malice and hatred|
+|2|Moon|Servant|07:02:54|08:04:22|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:04:23|09:05:51|For overcoming diseases|
+|4|Jupiter|Servant|09:05:52|10:07:21|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:07:22|11:08:50|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:08:51|12:10:19|Outer and inner journey|
+|7|Venus|Servant|12:10:20|13:11:48|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|13:11:49|14:13:18|Being invisible to the people|
+|9|Moon|Servant|14:13:19|15:14:47|Separation, causing enmity|
+|10|Saturn|Servant|15:14:48|16:16:16|Dominating the great ones|
+|11|Jupiter|Servant|16:16:17|17:17:45|Creating financial and emotional attraction and dominance|
+|12|Mars|Servant|17:17:46|18:19:15|Creating evil and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|18:19:16|19:17:45|Acceptance of needs|
-|2|Venus|Servant|19:17:46|20:16:16|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|20:16:17|21:14:46|To overcome illnesses|
-|4|Moon|Servant|21:14:47|22:13:17|For all actions, the goal is happiness|
-|5|Saturn|Servant|22:13:18|23:11:47|Generating negative energy and disturbing peace|
-|6|Jupiter|Servant|23:11:48|00:10:18|Traveling inward and outward|
-|7|Mars|Servant|00:10:19|01:08:49|Attracting love and winning hearts|
-|8|Sun|Ruler|01:08:50|02:07:19|Being concealed from the sight of people|
-|9|Venus|Servant|02:07:20|03:05:50|Separating and creating enmity|
-|10|Mercury|Servant|03:05:51|04:04:20|Subduing the elites|
-|11|Moon|Servant|04:04:21|05:02:51|Creating financial attraction and domination|
-|12|Saturn|Servant|05:02:52|06:01:22|Generating malice and hatred|
+|2|Venus|Servant|19:17:46|20:16:16|Unfortunate, no task is suitable|
+|3|Mercury|Servant|20:16:17|21:14:46|For overcoming diseases|
+|4|Moon|Servant|21:14:47|22:13:17|For all tasks, extremely auspicious|
+|5|Saturn|Servant|22:13:18|23:11:47|Creating negative energy and disrupting peace|
+|6|Jupiter|Servant|23:11:48|00:10:18|Outer and inner journey|
+|7|Mars|Servant|00:10:19|01:08:49|Attracting love and hearts and fortune|
+|8|Sun|Ruler|01:08:50|02:07:19|Being invisible to the people|
+|9|Venus|Servant|02:07:20|03:05:50|Separation, causing enmity|
+|10|Mercury|Servant|03:05:51|04:04:20|Dominating the great ones|
+|11|Moon|Servant|04:04:21|05:02:51|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|05:02:52|06:01:22|Creating evil and hatred|
 
  
  
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°24'16.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°6'40.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°2'42.04" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°3'35.60" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°23'33.67" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°0'52.60" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°49'23.77" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|0°6'41.87" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°2'46.31" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°3'46.22" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°23'45.57" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°1'6.27" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|26°36'54.71" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

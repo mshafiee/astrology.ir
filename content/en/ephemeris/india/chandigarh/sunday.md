@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|05:29:00|06:37:22|Attracting love and gaining financial capital|
-|2|Venus|Servant|06:37:23|07:45:46|Hateful actions, and avoiding any beneficial action|
-|3|Mercury|Servant|07:45:47|08:54:10|Creating emotional attachment and love|
-|4|Moon|Servant|08:54:11|10:02:34|Being hateful and rejecting kindness|
-|5|Saturn|Servant|10:02:35|11:10:57|Separation and engaging in hateful and vengeful actions|
-|6|Jupiter|Servant|11:10:58|12:19:21|Performing all good deeds for a beneficial outcome|
-|7|Mars|Servant|12:19:22|13:27:45|Avoiding any action that may lead to disaster|
-|8|Sun|Ruler|13:27:46|14:36:09|Extremely lucky and attracting good fortune|
-|9|Venus|Servant|14:36:10|15:44:32|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Mercury|Servant|15:44:33|16:52:56|Attracting happiness and resolving financial problems|
-|11|Moon|Servant|16:52:57|18:01:20|Signing contracts|
-|12|Saturn|Servant|18:01:21|19:09:44|Uncovering fugitives and finding thieves|
+|1|Sun|Ruler|05:29:00|06:37:22|Love and attraction of capital|
+|2|Venus|Servant|06:37:23|07:45:46|Unfortunate, no task is suitable|
+|3|Mercury|Servant|07:45:47|08:54:10|Operations of tenderness and attraction of love|
+|4|Moon|Servant|08:54:11|10:02:34|Unfortunate and repelling goodness|
+|5|Saturn|Servant|10:02:35|11:10:57|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|11:10:58|12:19:21|Suitable for all good deeds|
+|7|Mars|Servant|12:19:22|13:27:45|No task is suitable, causes misfortune|
+|8|Sun|Ruler|13:27:46|14:36:09|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|14:36:10|15:44:32|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Mercury|Servant|15:44:33|16:52:56|Attracting happiness, solving financial problems|
+|11|Moon|Servant|16:52:57|18:01:20|Performing promises|
+|12|Saturn|Servant|18:01:21|19:09:44|Finding the fugitive and discovering the thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|19:09:45|20:01:16|Attracting love and gaining financial capital|
-|2|Mars|Servant|20:01:17|20:52:49|Hateful actions, and avoiding any beneficial action|
-|3|Sun|Servant|20:52:50|21:44:22|Creating emotional attachment and love|
-|4|Venus|Servant|21:44:23|22:35:55|Being hateful and rejecting kindness|
-|5|Mercury|Servant|22:35:56|23:27:28|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|23:27:29|00:19:01|Performing all good deeds for a beneficial outcome|
-|7|Saturn|Servant|00:19:02|01:10:34|Avoiding any action that may lead to disaster|
-|8|Jupiter|Ruler|01:10:35|02:02:07|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|02:02:08|02:53:40|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|02:53:41|03:45:13|Attracting happiness and resolving financial problems|
-|11|Venus|Servant|03:45:14|04:36:46|Signing contracts|
-|12|Mercury|Servant|04:36:47|05:28:19|Uncovering fugitives and finding thieves|
+|1|Jupiter|Ruler|19:09:45|20:01:16|Love and attraction of capital|
+|2|Mars|Servant|20:01:17|20:52:49|Unfortunate, no task is suitable|
+|3|Sun|Servant|20:52:50|21:44:22|Operations of tenderness and attraction of love|
+|4|Venus|Servant|21:44:23|22:35:55|Unfortunate and repelling goodness|
+|5|Mercury|Servant|22:35:56|23:27:28|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|23:27:29|00:19:01|Suitable for all good deeds|
+|7|Saturn|Servant|00:19:02|01:10:34|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:10:35|02:02:07|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|02:02:08|02:53:40|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|02:53:41|03:45:13|Attracting happiness, solving financial problems|
+|11|Venus|Servant|03:45:14|04:36:46|Performing promises|
+|12|Mercury|Servant|04:36:47|05:28:19|Finding the fugitive and discovering the thief|
 
  
  
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°14'8.49" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°22'31.11" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|26°13'55.64" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°57'55.67" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°57'45.07" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°54'8.83" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°33'58.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|26°13'55.06" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°57'54.67" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°57'43.71" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°54'7.59" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|11°36'22.71" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

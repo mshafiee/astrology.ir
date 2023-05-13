@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:34:19|06:38:52|Repelling sorcery and attracting discharged energy|
-|2|Saturn|Servant|06:38:53|07:43:27|Traveling inward and outward|
-|3|Jupiter|Servant|07:43:28|08:48:02|Marriage bond is favorable|
-|4|Mars|Servant|08:48:03|09:52:37|Eliminating and destroying enemies and releasing their energy|
-|5|Sun|Servant|09:52:38|10:57:12|Granting wishes, attracting love and wealth|
-|6|Venus|Servant|10:57:13|12:01:47|Summoning the desired person, creating love and domination|
-|7|Mercury|Servant|12:01:48|13:06:22|Mutual agreement|
-|8|Moon|Ruler|13:06:23|14:10:57|Reconciling two individuals, attracting love|
-|9|Saturn|Servant|14:10:58|15:15:32|Attracting and repelling enemies, and separating them|
-|10|Jupiter|Servant|15:15:33|16:20:07|Favorable for any good deed|
+|1|Moon|Ruler|05:34:19|06:38:52|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|06:38:53|07:43:27|Outer and inner journey|
+|3|Jupiter|Servant|07:43:28|08:48:02|Marriage connection is good|
+|4|Mars|Servant|08:48:03|09:52:37|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|09:52:38|10:57:12|Answering needs, attracting love and wealth|
+|6|Venus|Servant|10:57:13|12:01:47|Summoning the person of interest, love and dominance|
+|7|Mercury|Servant|12:01:48|13:06:22|Making promises|
+|8|Moon|Ruler|13:06:23|14:10:57|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|14:10:58|15:15:32|Attracting and repelling enemies and causing separation|
+|10|Jupiter|Servant|15:15:33|16:20:07|Good for any task|
 |11|Mars|Servant|16:20:08|17:24:42|Creating enmity and negative energy|
-|12|Sun|Servant|17:24:43|18:29:17|Showing kindness and affection|
+|12|Sun|Servant|17:24:43|18:29:17|Heart tenderness|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|18:29:18|19:24:40|Repelling sorcery and attracting discharged energy|
-|2|Mercury|Servant|19:24:41|20:20:04|Traveling inward and outward|
-|3|Moon|Servant|20:20:05|21:15:27|Marriage bond is favorable|
-|4|Saturn|Servant|21:15:28|22:10:51|Eliminating and destroying enemies and releasing their energy|
-|5|Jupiter|Servant|22:10:52|23:06:14|Granting wishes, attracting love and wealth|
-|6|Mars|Servant|23:06:15|00:01:38|Summoning the desired person, creating love and domination|
-|7|Sun|Servant|00:01:39|00:57:01|Mutual agreement|
-|8|Venus|Ruler|00:57:02|01:52:25|Reconciling two individuals, attracting love|
-|9|Mercury|Servant|01:52:26|02:47:48|Attracting and repelling enemies, and separating them|
-|10|Moon|Servant|02:47:49|03:43:12|Favorable for any good deed|
+|1|Venus|Ruler|18:29:18|19:24:40|Repelling magic, attracting discharged energy|
+|2|Mercury|Servant|19:24:41|20:20:04|Outer and inner journey|
+|3|Moon|Servant|20:20:05|21:15:27|Marriage connection is good|
+|4|Saturn|Servant|21:15:28|22:10:51|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:10:52|23:06:14|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:06:15|00:01:38|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|00:01:39|00:57:01|Making promises|
+|8|Venus|Ruler|00:57:02|01:52:25|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|01:52:26|02:47:48|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|02:47:49|03:43:12|Good for any task|
 |11|Saturn|Servant|03:43:13|04:38:35|Creating enmity and negative energy|
-|12|Jupiter|Servant|04:38:36|05:33:59|Showing kindness and affection|
+|12|Jupiter|Servant|04:38:36|05:33:59|Heart tenderness|
 
  
  
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°17'16.38" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°35'48.31" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|26°46'28.59" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°53'38.85" |Aries|Butain|Venus|
-|♀ Venus|Direct|7°59'44.73" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°51'15.03" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°18'29.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Direct|26°46'28.62" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°53'38.43" |Aries|Butain|Venus|
+|♀ Venus|Direct|7°59'44.60" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°51'14.24" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|25°15'29.58" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°17'16.38" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°35'48.31" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|26°46'28.59" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°53'34.13" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°59'34.47" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°51'11.83" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|25°49'2.51" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|23°53'38.85" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°59'44.73" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°51'15.03" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|25°18'29.66" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Libra|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}

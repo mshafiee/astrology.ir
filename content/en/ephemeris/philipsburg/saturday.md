@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:39:49|06:44:36|Creating peace among people|
-|2|Jupiter|Servant|06:44:37|07:49:24|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|07:49:25|08:54:12|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|08:54:13|09:59:00|Bringing luck and favor|
-|5|Venus|Servant|09:59:01|11:03:48|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|11:03:49|12:08:36|Avoiding any harmful action|
-|7|Moon|Servant|12:08:37|13:13:24|Destroying enemies|
-|8|Saturn|Ruler|13:13:25|14:18:12|Performing all good deeds|
-|9|Jupiter|Servant|14:18:13|15:23:00|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|15:23:01|16:27:48|Achieving marital harmony|
-|11|Sun|Servant|16:27:49|17:32:36|Gaining respect and honor|
-|12|Venus|Servant|17:32:37|18:37:25||
+|1|Saturn|Ruler|05:39:49|06:44:36|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:44:37|07:49:24|Peace among people|
+|3|Mars|Servant|07:49:25|08:54:12|Vengeful and evil deeds|
+|4|Sun|Servant|08:54:13|09:59:00|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|09:59:01|11:03:48|Auspicious|
+|6|Mercury|Servant|11:03:49|12:08:36|Writing, swapping and making promises|
+|7|Moon|Servant|12:08:37|13:13:24|Not suitable for any task|
+|8|Saturn|Ruler|13:13:25|14:18:12|Destruction of enemies|
+|9|Jupiter|Servant|14:18:13|15:23:00|All good deeds|
+|10|Mars|Servant|15:23:01|16:27:48|Doing evil deeds|
+|11|Sun|Servant|16:27:49|17:32:36|Acceptance of reconciliation between couples|
+|12|Venus|Servant|17:32:37|18:37:25|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:37:26|19:32:35|Creating peace among people|
-|2|Moon|Servant|19:32:36|20:27:45|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|20:27:46|21:22:55|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|21:22:56|22:18:05|Bringing luck and favor|
-|5|Mars|Servant|22:18:06|23:13:15|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|23:13:16|00:08:25|Avoiding any harmful action|
-|7|Venus|Servant|00:08:26|01:03:35|Destroying enemies|
-|8|Mercury|Ruler|01:03:36|01:58:45|Performing all good deeds|
-|9|Moon|Servant|01:58:46|02:53:55|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|02:53:56|03:49:05|Achieving marital harmony|
-|11|Jupiter|Servant|03:49:06|04:44:15|Gaining respect and honor|
-|12|Mars|Servant|04:44:16|05:39:26||
+|1|Mercury|Ruler|18:37:26|19:32:35|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:32:36|20:27:45|Peace among people|
+|3|Saturn|Servant|20:27:46|21:22:55|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:22:56|22:18:05|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:18:06|23:13:15|Auspicious|
+|6|Sun|Servant|23:13:16|00:08:25|Writing, swapping and making promises|
+|7|Venus|Servant|00:08:26|01:03:35|Not suitable for any task|
+|8|Mercury|Ruler|01:03:36|01:58:45|Destruction of enemies|
+|9|Moon|Servant|01:58:46|02:53:55|All good deeds|
+|10|Saturn|Servant|02:53:56|03:49:05|Doing evil deeds|
+|11|Jupiter|Servant|03:49:06|04:44:15|Acceptance of reconciliation between couples|
+|12|Mars|Servant|04:44:16|05:39:26|For gaining dignity|
 
  
  
@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|29°14'15.98" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°53'45.72" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°23'22.26" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°19'12.85" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°57'53.34" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°8'21.70" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|6°19'11.21" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°58'6.15" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°7'32.02" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°12'9.64" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°14'15.98" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°53'45.72" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°23'16.72" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°19'12.85" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'53.34" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°8'21.70" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|22°23'22.26" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°19'11.21" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°58'6.15" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°7'32.02" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Filip'smpournk, Filipsburg, Filipsburgas, Great Bay, Philipsburg, fei li pu si bao, fi lipsburkh, firippusuburufu, flpsbrg, fylypsbwrg  synt martn, pilipcuparku, pillibseubwileuheu, Φίλιπσμπουργκ, Филипсбург, Філіпсбург, فلپسبرگ, فیلیپسبورگ، سینت مارتن, பிலிப்சுபர்கு, ฟีลิปส์บืร์ค, ფილიპსბურგი, フィリップスブルフ, 菲利普斯堡, 필립스뷔르흐

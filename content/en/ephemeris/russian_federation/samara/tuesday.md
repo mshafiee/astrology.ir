@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|04:39:14|05:58:43|Creating corruption, hatred, and enmity|
-|2|Sun|Servant|05:58:44|07:18:14|Attracting negativity, and avoiding any harmful action|
-|3|Venus|Servant|07:18:15|08:37:44|Attracting connection and marriage proposals|
-|4|Mercury|Servant|08:37:45|09:57:15|Attracting material wealth, prosperity, and business growth|
-|5|Moon|Servant|09:57:16|11:16:45|Attracting negativity and creating chaos|
-|6|Saturn|Servant|11:16:46|12:36:16|Removing negative energy caused by the evil eye|
-|7|Jupiter|Servant|12:36:17|13:55:47|Attracting love, affection, and winning hearts|
-|8|Mars|Ruler|13:55:48|15:15:17|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Sun|Servant|15:15:18|16:34:48|Creating emotional attachment|
-|10|Venus|Servant|16:34:49|17:54:18|Attracting negativity, and avoiding any harmful action|
-|11|Mercury|Servant|17:54:19|19:13:49|Attracting connection and marriage proposals|
-|12|Moon|Servant|19:13:50|20:33:20|Creating hatred and corruption to disrupt harmony|
+|1|Mars|Ruler|04:39:14|05:58:43|Creating corruption, hatred and enmity|
+|2|Sun|Servant|05:58:44|07:18:14|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|07:18:15|08:37:44|Attracting connection and suitors|
+|4|Mercury|Servant|08:37:45|09:57:15|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|09:57:16|11:16:45|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|11:16:46|12:36:16|Repelling negative energy of evil eye|
+|7|Jupiter|Servant|12:36:17|13:55:47|Attracting love and hearts|
+|8|Mars|Ruler|13:55:48|15:15:17|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|15:15:18|16:34:48|Heart tenderness|
+|10|Venus|Servant|16:34:49|17:54:18|Attracting misfortune, no task is suitable|
+|11|Mercury|Servant|17:54:19|19:13:49|Attracting connection and suitors|
+|12|Moon|Servant|19:13:50|20:33:20|Hatred, corruption and creating negative energy for disruption|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|20:33:21|21:13:41|Creating corruption, hatred, and enmity|
-|2|Jupiter|Servant|21:13:42|21:54:03|Attracting negativity, and avoiding any harmful action|
-|3|Mars|Servant|21:54:04|22:34:24|Attracting connection and marriage proposals|
-|4|Sun|Servant|22:34:25|23:14:46|Attracting material wealth, prosperity, and business growth|
-|5|Venus|Servant|23:14:47|23:55:07|Attracting negativity and creating chaos|
-|6|Mercury|Servant|23:55:08|00:35:29|Removing negative energy caused by the evil eye|
-|7|Moon|Servant|00:35:30|01:15:50|Attracting love, affection, and winning hearts|
-|8|Saturn|Ruler|01:15:51|01:56:12|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Jupiter|Servant|01:56:13|02:36:33|Creating emotional attachment|
-|10|Mars|Servant|02:36:34|03:16:55|Attracting negativity, and avoiding any harmful action|
-|11|Sun|Servant|03:16:56|03:57:16|Attracting connection and marriage proposals|
-|12|Venus|Servant|03:57:17|04:37:38|Creating hatred and corruption to disrupt harmony|
+|1|Saturn|Ruler|20:33:21|21:13:41|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|21:13:42|21:54:03|Attracting misfortune, no task is suitable|
+|3|Mars|Servant|21:54:04|22:34:24|Attracting connection and suitors|
+|4|Sun|Servant|22:34:25|23:14:46|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|23:14:47|23:55:07|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|23:55:08|00:35:29|Repelling negative energy of evil eye|
+|7|Moon|Servant|00:35:30|01:15:50|Attracting love and hearts|
+|8|Saturn|Ruler|01:15:51|01:56:12|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|01:56:13|02:36:33|Heart tenderness|
+|10|Mars|Servant|02:36:34|03:16:55|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|03:16:56|03:57:16|Attracting connection and suitors|
+|12|Venus|Servant|03:57:17|04:37:38|Hatred, corruption and creating negative energy for disruption|
 
  
  

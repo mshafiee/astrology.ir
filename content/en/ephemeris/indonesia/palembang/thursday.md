@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|05:57:50|06:57:44|Acquiring material wealth and abundance of livelihood|
-|2|Mars|Servant|06:57:45|07:57:40|Destroying enemies|
-|3|Sun|Servant|07:57:41|08:57:36|Attracting financial and emotional love|
-|4|Venus|Servant|08:57:37|09:57:32|Creating love and connection, and finding a partner|
-|5|Mercury|Servant|09:57:33|10:57:28|Engaging in sensual acts|
-|6|Moon|Servant|10:57:29|11:57:24|Traveling in the physical and spiritual realm|
-|7|Saturn|Servant|11:57:25|12:57:19|Achieving status, position, and attracting opportunities|
-|8|Jupiter|Ruler|12:57:20|13:57:15|Attracting happiness and prosperity|
-|9|Mars|Servant|13:57:16|14:57:11|Attaining status, position, and promoting rank|
+|1|Jupiter|Ruler|05:57:50|06:57:44|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|06:57:45|07:57:40|Destruction of enemies|
+|3|Sun|Servant|07:57:41|08:57:36|Attraction of financial and emotional love|
+|4|Venus|Servant|08:57:37|09:57:32|Creating love, connection and marriage|
+|5|Mercury|Servant|09:57:33|10:57:28|Indulgence|
+|6|Moon|Servant|10:57:29|11:57:24|Outer and inner journey|
+|7|Saturn|Servant|11:57:25|12:57:19|Achieving status and power|
+|8|Jupiter|Ruler|12:57:20|13:57:15|Attraction of happiness and fortune|
+|9|Mars|Servant|13:57:16|14:57:11|Reaching status and promotion|
 |10|Sun|Servant|14:57:12|15:57:07|Fulfilling needs|
-|11|Venus|Servant|15:57:08|16:57:03|Attracting love, affection, and winning hearts|
-|12|Mercury|Servant|16:57:04|17:56:59|Attracting negativity, and avoiding any harmful action|
+|11|Venus|Servant|15:57:08|16:57:03|Attraction of love and hearts|
+|12|Mercury|Servant|16:57:04|17:56:59|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|17:57:00|18:57:03|Acquiring material wealth and abundance of livelihood|
-|2|Saturn|Servant|18:57:04|19:57:08|Destroying enemies|
-|3|Jupiter|Servant|19:57:09|20:57:12|Attracting financial and emotional love|
-|4|Mars|Servant|20:57:13|21:57:17|Creating love and connection, and finding a partner|
-|5|Sun|Servant|21:57:18|22:57:21|Engaging in sensual acts|
-|6|Venus|Servant|22:57:22|23:57:26|Traveling in the physical and spiritual realm|
-|7|Mercury|Servant|23:57:27|00:57:31|Achieving status, position, and attracting opportunities|
-|8|Moon|Ruler|00:57:32|01:57:35|Attracting happiness and prosperity|
-|9|Saturn|Servant|01:57:36|02:57:40|Attaining status, position, and promoting rank|
+|1|Moon|Ruler|17:57:00|18:57:03|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|18:57:04|19:57:08|Destruction of enemies|
+|3|Jupiter|Servant|19:57:09|20:57:12|Attraction of financial and emotional love|
+|4|Mars|Servant|20:57:13|21:57:17|Creating love, connection and marriage|
+|5|Sun|Servant|21:57:18|22:57:21|Indulgence|
+|6|Venus|Servant|22:57:22|23:57:26|Outer and inner journey|
+|7|Mercury|Servant|23:57:27|00:57:31|Achieving status and power|
+|8|Moon|Ruler|00:57:32|01:57:35|Attraction of happiness and fortune|
+|9|Saturn|Servant|01:57:36|02:57:40|Reaching status and promotion|
 |10|Jupiter|Servant|02:57:41|03:57:44|Fulfilling needs|
-|11|Mars|Servant|03:57:45|04:57:49|Attracting love, affection, and winning hearts|
-|12|Sun|Servant|04:57:50|05:57:54|Attracting negativity, and avoiding any harmful action|
+|11|Mars|Servant|03:57:45|04:57:49|Attraction of love and hearts|
+|12|Sun|Servant|04:57:50|05:57:54|Attracting misfortune, not suitable for any task|
 
  
  
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|26°47'0.93" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|11°11'22.11" |Cancer|Nathrah|Mercury|
 |☿ Mercury|Retrograde|6°9'30.92" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|6°46'49.14" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|6°46'6.31" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -211,33 +211,33 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|05:53:52|07:05:40|Acceptance of needs|
-|2|Moon|Servant|07:05:41|08:17:29|Complaining is futile, it won't accomplish anything|
-|3|Saturn|Servant|08:17:30|09:29:19|To overcome illnesses|
-|4|Jupiter|Servant|09:29:20|10:41:08|For all actions, the goal is happiness|
-|5|Mars|Servant|10:41:09|11:52:57|Generating negative energy and disturbing peace|
-|6|Sun|Servant|11:52:58|13:04:47|Traveling inward and outward|
-|7|Venus|Servant|13:04:48|14:16:36|Attracting love and winning hearts|
-|8|Mercury|Ruler|14:16:37|15:28:25|Being concealed from the sight of people|
-|9|Moon|Servant|15:28:26|16:40:15|Separating and creating enmity|
-|10|Saturn|Servant|16:40:16|17:52:04|Subduing the elites|
-|11|Jupiter|Servant|17:52:05|19:03:53|Creating financial attraction and domination|
-|12|Mars|Servant|19:03:54|20:15:43|Generating malice and hatred|
+|2|Moon|Servant|07:05:41|08:17:29|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:17:30|09:29:19|For overcoming diseases|
+|4|Jupiter|Servant|09:29:20|10:41:08|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:41:09|11:52:57|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:52:58|13:04:47|Outer and inner journey|
+|7|Venus|Servant|13:04:48|14:16:36|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|14:16:37|15:28:25|Being invisible to the people|
+|9|Moon|Servant|15:28:26|16:40:15|Separation, causing enmity|
+|10|Saturn|Servant|16:40:16|17:52:04|Dominating the great ones|
+|11|Jupiter|Servant|17:52:05|19:03:53|Creating financial and emotional attraction and dominance|
+|12|Mars|Servant|19:03:54|20:15:43|Creating evil and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|20:15:44|21:03:49|Acceptance of needs|
-|2|Venus|Servant|21:03:50|21:51:56|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|21:51:57|22:40:02|To overcome illnesses|
-|4|Moon|Servant|22:40:03|23:28:09|For all actions, the goal is happiness|
-|5|Saturn|Servant|23:28:10|00:16:15|Generating negative energy and disturbing peace|
-|6|Jupiter|Servant|00:16:16|01:04:22|Traveling inward and outward|
-|7|Mars|Servant|01:04:23|01:52:28|Attracting love and winning hearts|
-|8|Sun|Ruler|01:52:29|02:40:35|Being concealed from the sight of people|
-|9|Venus|Servant|02:40:36|03:28:41|Separating and creating enmity|
-|10|Mercury|Servant|03:28:42|04:16:48|Subduing the elites|
-|11|Moon|Servant|04:16:49|05:04:54|Creating financial attraction and domination|
-|12|Saturn|Servant|05:04:55|05:53:01|Generating malice and hatred|
+|2|Venus|Servant|21:03:50|21:51:56|Unfortunate, no task is suitable|
+|3|Mercury|Servant|21:51:57|22:40:02|For overcoming diseases|
+|4|Moon|Servant|22:40:03|23:28:09|For all tasks, extremely auspicious|
+|5|Saturn|Servant|23:28:10|00:16:15|Creating negative energy and disrupting peace|
+|6|Jupiter|Servant|00:16:16|01:04:22|Outer and inner journey|
+|7|Mars|Servant|01:04:23|01:52:28|Attracting love and hearts and fortune|
+|8|Sun|Ruler|01:52:29|02:40:35|Being invisible to the people|
+|9|Venus|Servant|02:40:36|03:28:41|Separation, causing enmity|
+|10|Mercury|Servant|03:28:42|04:16:48|Dominating the great ones|
+|11|Moon|Servant|04:16:49|05:04:54|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|05:04:55|05:53:01|Creating evil and hatred|
 
  
  
@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|0°9'28.09" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°9'39.96" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|26°15'27.75" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°36'39.60" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°3'3.16" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|29°3'2.88" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°36'41.37" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°3'8.48" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|29°25'6.58" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

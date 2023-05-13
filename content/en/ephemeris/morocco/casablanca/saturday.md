@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:31:26|07:40:40|Creating peace among people|
-|2|Jupiter|Servant|07:40:41|08:49:56|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|08:49:57|09:59:12|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|09:59:13|11:08:27|Bringing luck and favor|
-|5|Venus|Servant|11:08:28|12:17:43|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|12:17:44|13:26:59|Avoiding any harmful action|
-|7|Moon|Servant|13:27:00|14:36:14|Destroying enemies|
-|8|Saturn|Ruler|14:36:15|15:45:30|Performing all good deeds|
-|9|Jupiter|Servant|15:45:31|16:54:46|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|16:54:47|18:04:01|Achieving marital harmony|
-|11|Sun|Servant|18:04:02|19:13:17|Gaining respect and honor|
-|12|Venus|Servant|19:13:18|20:22:33||
+|1|Saturn|Ruler|06:31:26|07:40:40|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:40:41|08:49:56|Peace among people|
+|3|Mars|Servant|08:49:57|09:59:12|Vengeful and evil deeds|
+|4|Sun|Servant|09:59:13|11:08:27|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|11:08:28|12:17:43|Auspicious|
+|6|Mercury|Servant|12:17:44|13:26:59|Writing, swapping and making promises|
+|7|Moon|Servant|13:27:00|14:36:14|Not suitable for any task|
+|8|Saturn|Ruler|14:36:15|15:45:30|Destruction of enemies|
+|9|Jupiter|Servant|15:45:31|16:54:46|All good deeds|
+|10|Mars|Servant|16:54:47|18:04:01|Doing evil deeds|
+|11|Sun|Servant|18:04:02|19:13:17|Acceptance of reconciliation between couples|
+|12|Venus|Servant|19:13:18|20:22:33|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|20:22:34|21:13:13|Creating peace among people|
-|2|Moon|Servant|21:13:14|22:03:54|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|22:03:55|22:54:34|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|22:54:35|23:45:15|Bringing luck and favor|
-|5|Mars|Servant|23:45:16|00:35:55|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|00:35:56|01:26:36|Avoiding any harmful action|
-|7|Venus|Servant|01:26:37|02:17:17|Destroying enemies|
-|8|Mercury|Ruler|02:17:18|03:07:57|Performing all good deeds|
-|9|Moon|Servant|03:07:58|03:58:38|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:58:39|04:49:18|Achieving marital harmony|
-|11|Jupiter|Servant|04:49:19|05:39:59|Gaining respect and honor|
-|12|Mars|Servant|05:40:00|06:30:40||
+|1|Mercury|Ruler|20:22:34|21:13:13|Related to talismans, amulets and responses|
+|2|Moon|Servant|21:13:14|22:03:54|Peace among people|
+|3|Saturn|Servant|22:03:55|22:54:34|Vengeful and evil deeds|
+|4|Jupiter|Servant|22:54:35|23:45:15|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|23:45:16|00:35:55|Auspicious|
+|6|Sun|Servant|00:35:56|01:26:36|Writing, swapping and making promises|
+|7|Venus|Servant|01:26:37|02:17:17|Not suitable for any task|
+|8|Mercury|Ruler|02:17:18|03:07:57|Destruction of enemies|
+|9|Moon|Servant|03:07:58|03:58:38|All good deeds|
+|10|Saturn|Servant|03:58:39|04:49:18|Doing evil deeds|
+|11|Jupiter|Servant|04:49:19|05:39:59|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:40:00|06:30:40|For gaining dignity|
 
  
  

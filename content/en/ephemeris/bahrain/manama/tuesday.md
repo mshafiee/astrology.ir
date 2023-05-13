@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|04:50:45|05:57:58|Creating corruption, hatred, and enmity|
-|2|Sun|Servant|05:57:59|07:05:12|Attracting negativity, and avoiding any harmful action|
-|3|Venus|Servant|07:05:13|08:12:26|Attracting connection and marriage proposals|
-|4|Mercury|Servant|08:12:27|09:19:40|Attracting material wealth, prosperity, and business growth|
-|5|Moon|Servant|09:19:41|10:26:54|Attracting negativity and creating chaos|
-|6|Saturn|Servant|10:26:55|11:34:09|Removing negative energy caused by the evil eye|
-|7|Jupiter|Servant|11:34:10|12:41:23|Attracting love, affection, and winning hearts|
-|8|Mars|Ruler|12:41:24|13:48:37|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Sun|Servant|13:48:38|14:55:51|Creating emotional attachment|
-|10|Venus|Servant|14:55:52|16:03:05|Attracting negativity, and avoiding any harmful action|
-|11|Mercury|Servant|16:03:06|17:10:19|Attracting connection and marriage proposals|
-|12|Moon|Servant|17:10:20|18:17:34|Creating hatred and corruption to disrupt harmony|
+|1|Mars|Ruler|04:50:45|05:57:58|Creating corruption, hatred and enmity|
+|2|Sun|Servant|05:57:59|07:05:12|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|07:05:13|08:12:26|Attracting connection and suitors|
+|4|Mercury|Servant|08:12:27|09:19:40|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|09:19:41|10:26:54|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|10:26:55|11:34:09|Repelling negative energy of evil eye|
+|7|Jupiter|Servant|11:34:10|12:41:23|Attracting love and hearts|
+|8|Mars|Ruler|12:41:24|13:48:37|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|13:48:38|14:55:51|Heart tenderness|
+|10|Venus|Servant|14:55:52|16:03:05|Attracting misfortune, no task is suitable|
+|11|Mercury|Servant|16:03:06|17:10:19|Attracting connection and suitors|
+|12|Moon|Servant|17:10:20|18:17:34|Hatred, corruption and creating negative energy for disruption|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|18:17:35|19:10:17|Creating corruption, hatred, and enmity|
-|2|Jupiter|Servant|19:10:18|20:03:00|Attracting negativity, and avoiding any harmful action|
-|3|Mars|Servant|20:03:01|20:55:44|Attracting connection and marriage proposals|
-|4|Sun|Servant|20:55:45|21:48:27|Attracting material wealth, prosperity, and business growth|
-|5|Venus|Servant|21:48:28|22:41:10|Attracting negativity and creating chaos|
-|6|Mercury|Servant|22:41:11|23:33:54|Removing negative energy caused by the evil eye|
-|7|Moon|Servant|23:33:55|00:26:37|Attracting love, affection, and winning hearts|
-|8|Saturn|Ruler|00:26:38|01:19:20|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Jupiter|Servant|01:19:21|02:12:04|Creating emotional attachment|
-|10|Mars|Servant|02:12:05|03:04:47|Attracting negativity, and avoiding any harmful action|
-|11|Sun|Servant|03:04:48|03:57:30|Attracting connection and marriage proposals|
-|12|Venus|Servant|03:57:31|04:50:14|Creating hatred and corruption to disrupt harmony|
+|1|Saturn|Ruler|18:17:35|19:10:17|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|19:10:18|20:03:00|Attracting misfortune, no task is suitable|
+|3|Mars|Servant|20:03:01|20:55:44|Attracting connection and suitors|
+|4|Sun|Servant|20:55:45|21:48:27|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|21:48:28|22:41:10|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|22:41:11|23:33:54|Repelling negative energy of evil eye|
+|7|Moon|Servant|23:33:55|00:26:37|Attracting love and hearts|
+|8|Saturn|Ruler|00:26:38|01:19:20|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|01:19:21|02:12:04|Heart tenderness|
+|10|Mars|Servant|02:12:05|03:04:47|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|03:04:48|03:57:30|Attracting connection and suitors|
+|12|Venus|Servant|03:57:31|04:50:14|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°20'48.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°51'7.35" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|27°24'12.93" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|24°57'59.17" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|9°11'7.01" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°52'52.83" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|10°4'4.92" |Aries|Sharatain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|6°20'47.58" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°51'9.25" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|27°24'20.07" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|24°58'12.73" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|9°11'24.97" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°53'8.97" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|10°27'15.15" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

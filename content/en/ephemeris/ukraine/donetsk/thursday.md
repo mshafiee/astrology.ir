@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|04:46:45|06:03:12|Acquiring material wealth and abundance of livelihood|
-|2|Mars|Servant|06:03:13|07:19:41|Destroying enemies|
-|3|Sun|Servant|07:19:42|08:36:09|Attracting financial and emotional love|
-|4|Venus|Servant|08:36:10|09:52:38|Creating love and connection, and finding a partner|
-|5|Mercury|Servant|09:52:39|11:09:06|Engaging in sensual acts|
-|6|Moon|Servant|11:09:07|12:25:35|Traveling in the physical and spiritual realm|
-|7|Saturn|Servant|12:25:36|13:42:03|Achieving status, position, and attracting opportunities|
-|8|Jupiter|Ruler|13:42:04|14:58:32|Attracting happiness and prosperity|
-|9|Mars|Servant|14:58:33|16:15:00|Attaining status, position, and promoting rank|
+|1|Jupiter|Ruler|04:46:45|06:03:12|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|06:03:13|07:19:41|Destruction of enemies|
+|3|Sun|Servant|07:19:42|08:36:09|Attraction of financial and emotional love|
+|4|Venus|Servant|08:36:10|09:52:38|Creating love, connection and marriage|
+|5|Mercury|Servant|09:52:39|11:09:06|Indulgence|
+|6|Moon|Servant|11:09:07|12:25:35|Outer and inner journey|
+|7|Saturn|Servant|12:25:36|13:42:03|Achieving status and power|
+|8|Jupiter|Ruler|13:42:04|14:58:32|Attraction of happiness and fortune|
+|9|Mars|Servant|14:58:33|16:15:00|Reaching status and promotion|
 |10|Sun|Servant|16:15:01|17:31:29|Fulfilling needs|
-|11|Venus|Servant|17:31:30|18:47:57|Attracting love, affection, and winning hearts|
-|12|Mercury|Servant|18:47:58|20:04:26|Attracting negativity, and avoiding any harmful action|
+|11|Venus|Servant|17:31:30|18:47:57|Attraction of love and hearts|
+|12|Mercury|Servant|18:47:58|20:04:26|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|20:04:27|20:47:51|Acquiring material wealth and abundance of livelihood|
-|2|Saturn|Servant|20:47:52|21:31:17|Destroying enemies|
-|3|Jupiter|Servant|21:31:18|22:14:42|Attracting financial and emotional love|
-|4|Mars|Servant|22:14:43|22:58:08|Creating love and connection, and finding a partner|
-|5|Sun|Servant|22:58:09|23:41:33|Engaging in sensual acts|
-|6|Venus|Servant|23:41:34|00:24:59|Traveling in the physical and spiritual realm|
-|7|Mercury|Servant|00:25:00|01:08:25|Achieving status, position, and attracting opportunities|
-|8|Moon|Ruler|01:08:26|01:51:50|Attracting happiness and prosperity|
-|9|Saturn|Servant|01:51:51|02:35:16|Attaining status, position, and promoting rank|
+|1|Moon|Ruler|20:04:27|20:47:51|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|20:47:52|21:31:17|Destruction of enemies|
+|3|Jupiter|Servant|21:31:18|22:14:42|Attraction of financial and emotional love|
+|4|Mars|Servant|22:14:43|22:58:08|Creating love, connection and marriage|
+|5|Sun|Servant|22:58:09|23:41:33|Indulgence|
+|6|Venus|Servant|23:41:34|00:24:59|Outer and inner journey|
+|7|Mercury|Servant|00:25:00|01:08:25|Achieving status and power|
+|8|Moon|Ruler|01:08:26|01:51:50|Attraction of happiness and fortune|
+|9|Saturn|Servant|01:51:51|02:35:16|Reaching status and promotion|
 |10|Jupiter|Servant|02:35:17|03:18:41|Fulfilling needs|
-|11|Mars|Servant|03:18:42|04:02:07|Attracting love, affection, and winning hearts|
-|12|Sun|Servant|04:02:08|04:45:33|Attracting negativity, and avoiding any harmful action|
+|11|Mars|Servant|03:18:42|04:02:07|Attraction of love and hearts|
+|12|Sun|Servant|04:02:08|04:45:33|Attracting misfortune, not suitable for any task|
 
  
  
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|26°53'42.94" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|11°18'45.34" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|6°10'56.51" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°50'31.86" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°50'15.11" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

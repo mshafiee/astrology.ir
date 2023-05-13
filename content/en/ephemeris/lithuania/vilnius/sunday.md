@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|05:14:58|06:35:05|Attracting love and gaining financial capital|
-|2|Venus|Servant|06:35:06|07:55:13|Hateful actions, and avoiding any beneficial action|
-|3|Mercury|Servant|07:55:14|09:15:22|Creating emotional attachment and love|
-|4|Moon|Servant|09:15:23|10:35:30|Being hateful and rejecting kindness|
-|5|Saturn|Servant|10:35:31|11:55:39|Separation and engaging in hateful and vengeful actions|
-|6|Jupiter|Servant|11:55:40|13:15:47|Performing all good deeds for a beneficial outcome|
-|7|Mars|Servant|13:15:48|14:35:55|Avoiding any action that may lead to disaster|
-|8|Sun|Ruler|14:35:56|15:56:04|Extremely lucky and attracting good fortune|
-|9|Venus|Servant|15:56:05|17:16:12|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Mercury|Servant|17:16:13|18:36:21|Attracting happiness and resolving financial problems|
-|11|Moon|Servant|18:36:22|19:56:29|Signing contracts|
-|12|Saturn|Servant|19:56:30|21:16:38|Uncovering fugitives and finding thieves|
+|1|Sun|Ruler|05:14:58|06:35:05|Love and attraction of capital|
+|2|Venus|Servant|06:35:06|07:55:13|Unfortunate, no task is suitable|
+|3|Mercury|Servant|07:55:14|09:15:22|Operations of tenderness and attraction of love|
+|4|Moon|Servant|09:15:23|10:35:30|Unfortunate and repelling goodness|
+|5|Saturn|Servant|10:35:31|11:55:39|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|11:55:40|13:15:47|Suitable for all good deeds|
+|7|Mars|Servant|13:15:48|14:35:55|No task is suitable, causes misfortune|
+|8|Sun|Ruler|14:35:56|15:56:04|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|15:56:05|17:16:12|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Mercury|Servant|17:16:13|18:36:21|Attracting happiness, solving financial problems|
+|11|Moon|Servant|18:36:22|19:56:29|Performing promises|
+|12|Saturn|Servant|19:56:30|21:16:38|Finding the fugitive and discovering the thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|21:16:39|21:56:20|Attracting love and gaining financial capital|
-|2|Mars|Servant|21:56:21|22:36:03|Hateful actions, and avoiding any beneficial action|
-|3|Sun|Servant|22:36:04|23:15:46|Creating emotional attachment and love|
-|4|Venus|Servant|23:15:47|23:55:29|Being hateful and rejecting kindness|
-|5|Mercury|Servant|23:55:30|00:35:12|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|00:35:13|01:14:55|Performing all good deeds for a beneficial outcome|
-|7|Saturn|Servant|01:14:56|01:54:37|Avoiding any action that may lead to disaster|
-|8|Jupiter|Ruler|01:54:38|02:34:20|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|02:34:21|03:14:03|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|03:14:04|03:53:46|Attracting happiness and resolving financial problems|
-|11|Venus|Servant|03:53:47|04:33:29|Signing contracts|
-|12|Mercury|Servant|04:33:30|05:13:12|Uncovering fugitives and finding thieves|
+|1|Jupiter|Ruler|21:16:39|21:56:20|Love and attraction of capital|
+|2|Mars|Servant|21:56:21|22:36:03|Unfortunate, no task is suitable|
+|3|Sun|Servant|22:36:04|23:15:46|Operations of tenderness and attraction of love|
+|4|Venus|Servant|23:15:47|23:55:29|Unfortunate and repelling goodness|
+|5|Mercury|Servant|23:55:30|00:35:12|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|00:35:13|01:14:55|Suitable for all good deeds|
+|7|Saturn|Servant|01:14:56|01:54:37|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:54:38|02:34:20|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|02:34:21|03:14:03|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|03:14:04|03:53:46|Attracting happiness, solving financial problems|
+|11|Venus|Servant|03:53:47|04:33:29|Performing promises|
+|12|Mercury|Servant|04:33:30|05:13:12|Finding the fugitive and discovering the thief|
 
  
  
@@ -292,10 +292,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°14'26.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°23'48.80" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|26°17'5.82" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°3'19.22" |Aries|Butain|Venus|
-|♀ Venus|Direct|7°3'46.49" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|29°23'48.76" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|26°17'4.76" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°3'18.49" |Aries|Butain|Venus|
+|♀ Venus|Direct|7°3'44.46" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|5°53'33.17" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|12°58'46.42" |Aquarius|SaadAlAkhbia|Mercury|
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°14'26.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°23'48.76" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|26°17'4.76" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°3'18.49" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°3'44.46" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°53'33.17" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|12°58'46.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°23'48.80" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|26°17'5.82" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|23°3'19.22" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°3'46.49" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°53'33.43" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|12°48'43.36" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}

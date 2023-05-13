@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:57:14|06:56:51|Creating peace among people|
-|2|Jupiter|Servant|06:56:52|07:56:29|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|07:56:30|08:56:08|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|08:56:09|09:55:46|Bringing luck and favor|
-|5|Venus|Servant|09:55:47|10:55:24|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|10:55:25|11:55:03|Avoiding any harmful action|
-|7|Moon|Servant|11:55:04|12:54:41|Destroying enemies|
-|8|Saturn|Ruler|12:54:42|13:54:19|Performing all good deeds|
-|9|Jupiter|Servant|13:54:20|14:53:58|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|14:53:59|15:53:36|Achieving marital harmony|
-|11|Sun|Servant|15:53:37|16:53:14|Gaining respect and honor|
-|12|Venus|Servant|16:53:15|17:52:53||
+|1|Saturn|Ruler|05:57:14|06:56:51|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:56:52|07:56:29|Peace among people|
+|3|Mars|Servant|07:56:30|08:56:08|Vengeful and evil deeds|
+|4|Sun|Servant|08:56:09|09:55:46|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|09:55:47|10:55:24|Auspicious|
+|6|Mercury|Servant|10:55:25|11:55:03|Writing, swapping and making promises|
+|7|Moon|Servant|11:55:04|12:54:41|Not suitable for any task|
+|8|Saturn|Ruler|12:54:42|13:54:19|Destruction of enemies|
+|9|Jupiter|Servant|13:54:20|14:53:58|All good deeds|
+|10|Mars|Servant|14:53:59|15:53:36|Doing evil deeds|
+|11|Sun|Servant|15:53:37|16:53:14|Acceptance of reconciliation between couples|
+|12|Venus|Servant|16:53:15|17:52:53|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|17:52:54|18:53:15|Creating peace among people|
-|2|Moon|Servant|18:53:16|19:53:37|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|19:53:38|20:53:59|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|20:54:00|21:54:21|Bringing luck and favor|
-|5|Mars|Servant|21:54:22|22:54:43|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|22:54:44|23:55:05|Avoiding any harmful action|
-|7|Venus|Servant|23:55:06|00:55:27|Destroying enemies|
-|8|Mercury|Ruler|00:55:28|01:55:49|Performing all good deeds|
-|9|Moon|Servant|01:55:50|02:56:11|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|02:56:12|03:56:33|Achieving marital harmony|
-|11|Jupiter|Servant|03:56:34|04:56:55|Gaining respect and honor|
-|12|Mars|Servant|04:56:56|05:57:17||
+|1|Mercury|Ruler|17:52:54|18:53:15|Related to talismans, amulets and responses|
+|2|Moon|Servant|18:53:16|19:53:37|Peace among people|
+|3|Saturn|Servant|19:53:38|20:53:59|Vengeful and evil deeds|
+|4|Jupiter|Servant|20:54:00|21:54:21|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|21:54:22|22:54:43|Auspicious|
+|6|Sun|Servant|22:54:44|23:55:05|Writing, swapping and making promises|
+|7|Venus|Servant|23:55:06|00:55:27|Not suitable for any task|
+|8|Mercury|Ruler|00:55:28|01:55:49|Destruction of enemies|
+|9|Moon|Servant|01:55:50|02:56:11|All good deeds|
+|10|Saturn|Servant|02:56:12|03:56:33|Doing evil deeds|
+|11|Jupiter|Servant|03:56:34|04:56:55|Acceptance of reconciliation between couples|
+|12|Mars|Servant|04:56:56|05:57:17|For gaining dignity|
 
  
  
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°11'30.18" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°11'33.12" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°47'8.49" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°12'1.49" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|22°12'1.50" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|6°6'30.32" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°59'47.36" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|0°19'54.19" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|0°19'53.70" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|05:51:14|07:03:49|Attracting love and gaining financial capital|
-|2|Venus|Servant|07:03:50|08:16:25|Hateful actions, and avoiding any beneficial action|
-|3|Mercury|Servant|08:16:26|09:29:01|Creating emotional attachment and love|
-|4|Moon|Servant|09:29:02|10:41:37|Being hateful and rejecting kindness|
-|5|Saturn|Servant|10:41:38|11:54:13|Separation and engaging in hateful and vengeful actions|
-|6|Jupiter|Servant|11:54:14|13:06:49|Performing all good deeds for a beneficial outcome|
-|7|Mars|Servant|13:06:50|14:19:25|Avoiding any action that may lead to disaster|
-|8|Sun|Ruler|14:19:26|15:32:01|Extremely lucky and attracting good fortune|
-|9|Venus|Servant|15:32:02|16:44:37|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Mercury|Servant|16:44:38|17:57:13|Attracting happiness and resolving financial problems|
-|11|Moon|Servant|17:57:14|19:09:49|Signing contracts|
-|12|Saturn|Servant|19:09:50|20:22:25|Uncovering fugitives and finding thieves|
+|1|Sun|Ruler|05:51:14|07:03:49|Love and attraction of capital|
+|2|Venus|Servant|07:03:50|08:16:25|Unfortunate, no task is suitable|
+|3|Mercury|Servant|08:16:26|09:29:01|Operations of tenderness and attraction of love|
+|4|Moon|Servant|09:29:02|10:41:37|Unfortunate and repelling goodness|
+|5|Saturn|Servant|10:41:38|11:54:13|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|11:54:14|13:06:49|Suitable for all good deeds|
+|7|Mars|Servant|13:06:50|14:19:25|No task is suitable, causes misfortune|
+|8|Sun|Ruler|14:19:26|15:32:01|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|15:32:02|16:44:37|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Mercury|Servant|16:44:38|17:57:13|Attracting happiness, solving financial problems|
+|11|Moon|Servant|17:57:14|19:09:49|Performing promises|
+|12|Saturn|Servant|19:09:50|20:22:25|Finding the fugitive and discovering the thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|20:22:26|21:09:43|Attracting love and gaining financial capital|
-|2|Mars|Servant|21:09:44|21:57:02|Hateful actions, and avoiding any beneficial action|
-|3|Sun|Servant|21:57:03|22:44:21|Creating emotional attachment and love|
-|4|Venus|Servant|22:44:22|23:31:40|Being hateful and rejecting kindness|
-|5|Mercury|Servant|23:31:41|00:18:59|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|00:19:00|01:06:18|Performing all good deeds for a beneficial outcome|
-|7|Saturn|Servant|01:06:19|01:53:37|Avoiding any action that may lead to disaster|
-|8|Jupiter|Ruler|01:53:38|02:40:56|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|02:40:57|03:28:15|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|03:28:16|04:15:34|Attracting happiness and resolving financial problems|
-|11|Venus|Servant|04:15:35|05:02:53|Signing contracts|
-|12|Mercury|Servant|05:02:54|05:50:12|Uncovering fugitives and finding thieves|
+|1|Jupiter|Ruler|20:22:26|21:09:43|Love and attraction of capital|
+|2|Mars|Servant|21:09:44|21:57:02|Unfortunate, no task is suitable|
+|3|Sun|Servant|21:57:03|22:44:21|Operations of tenderness and attraction of love|
+|4|Venus|Servant|22:44:22|23:31:40|Unfortunate and repelling goodness|
+|5|Mercury|Servant|23:31:41|00:18:59|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|00:19:00|01:06:18|Suitable for all good deeds|
+|7|Saturn|Servant|01:06:19|01:53:37|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:53:38|02:40:56|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|02:40:57|03:28:15|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|03:28:16|04:15:34|Attracting happiness, solving financial problems|
+|11|Venus|Servant|04:15:35|05:02:53|Performing promises|
+|12|Mercury|Servant|05:02:54|05:50:12|Finding the fugitive and discovering the thief|
 
  
  

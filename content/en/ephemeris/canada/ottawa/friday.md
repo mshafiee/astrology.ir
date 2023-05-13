@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:36:04|06:49:57|Attracting love and creating emotional attachment|
-|2|Mercury|Servant|06:49:58|08:03:52|Attracting good luck|
-|3|Moon|Servant|08:03:53|09:17:46|Attracting negativity, and avoiding any harmful action|
-|4|Saturn|Servant|09:17:47|10:31:41|Being hateful for a certain period of time|
-|5|Jupiter|Servant|10:31:42|11:45:35|Gaining status, position, and attracting happiness in the workplace|
-|6|Mars|Servant|11:45:36|12:59:30|Attracting attention and acceptance from important people|
-|7|Sun|Servant|12:59:31|14:13:24|Advancing and attracting wealth|
-|8|Venus|Ruler|14:13:25|15:27:19|Extremely lucky and achieving ultimate happiness|
-|9|Mercury|Servant|15:27:20|16:41:13|Separating and making someone homeless|
-|10|Moon|Servant|16:41:14|17:55:08|Extremely hateful and causing harm|
-|11|Saturn|Servant|17:55:09|19:09:02|Creating a negative destiny for anyone|
-|12|Jupiter|Servant|19:09:03|20:22:57|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|1|Venus|Ruler|05:36:04|06:49:57|Love, creating love and attracting hearts|
+|2|Mercury|Servant|06:49:58|08:03:52|Attracting auspiciousness|
+|3|Moon|Servant|08:03:53|09:17:46|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:17:47|10:31:41|Unfortunate hour|
+|5|Jupiter|Servant|10:31:42|11:45:35|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:45:36|12:59:30|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|12:59:31|14:13:24|Promotion and attracting wealth|
+|8|Venus|Ruler|14:13:25|15:27:19|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|15:27:20|16:41:13|Causing separation and homelessness|
+|10|Moon|Servant|16:41:14|17:55:08|Extremely unfortunate|
+|11|Saturn|Servant|17:55:09|19:09:02|Creating an unfortunate horoscope for anyone|
+|12|Jupiter|Servant|19:09:03|20:22:57|Suitable for asking for a need|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|20:22:58|21:08:56|Attracting love and creating emotional attachment|
-|2|Sun|Servant|21:08:57|21:54:55|Attracting good luck|
-|3|Venus|Servant|21:54:56|22:40:55|Attracting negativity, and avoiding any harmful action|
-|4|Mercury|Servant|22:40:56|23:26:54|Being hateful for a certain period of time|
-|5|Moon|Servant|23:26:55|00:12:54|Gaining status, position, and attracting happiness in the workplace|
-|6|Saturn|Servant|00:12:55|00:58:53|Attracting attention and acceptance from important people|
-|7|Jupiter|Servant|00:58:54|01:44:52|Advancing and attracting wealth|
-|8|Mars|Ruler|01:44:53|02:30:52|Extremely lucky and achieving ultimate happiness|
-|9|Sun|Servant|02:30:53|03:16:51|Separating and making someone homeless|
-|10|Venus|Servant|03:16:52|04:02:51|Extremely hateful and causing harm|
-|11|Mercury|Servant|04:02:52|04:48:50|Creating a negative destiny for anyone|
-|12|Moon|Servant|04:48:51|05:34:50|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|1|Mars|Ruler|20:22:58|21:08:56|Love, creating love and attracting hearts|
+|2|Sun|Servant|21:08:57|21:54:55|Attracting auspiciousness|
+|3|Venus|Servant|21:54:56|22:40:55|Attracting misfortune, no task is suitable|
+|4|Mercury|Servant|22:40:56|23:26:54|Unfortunate hour|
+|5|Moon|Servant|23:26:55|00:12:54|Achieving position and status and attracting job fortune|
+|6|Saturn|Servant|00:12:55|00:58:53|Creating attraction and acceptance among dignitaries|
+|7|Jupiter|Servant|00:58:54|01:44:52|Promotion and attracting wealth|
+|8|Mars|Ruler|01:44:53|02:30:52|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:30:53|03:16:51|Causing separation and homelessness|
+|10|Venus|Servant|03:16:52|04:02:51|Extremely unfortunate|
+|11|Mercury|Servant|04:02:52|04:48:50|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|04:48:51|05:34:50|Suitable for asking for a need|
 
  
  

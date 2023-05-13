@@ -211,33 +211,33 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|05:55:39|06:55:43|Acceptance of needs|
-|2|Moon|Servant|06:55:44|07:55:48|Complaining is futile, it won't accomplish anything|
-|3|Saturn|Servant|07:55:49|08:55:53|To overcome illnesses|
-|4|Jupiter|Servant|08:55:54|09:55:58|For all actions, the goal is happiness|
-|5|Mars|Servant|09:55:59|10:56:03|Generating negative energy and disturbing peace|
-|6|Sun|Servant|10:56:04|11:56:08|Traveling inward and outward|
-|7|Venus|Servant|11:56:09|12:56:13|Attracting love and winning hearts|
-|8|Mercury|Ruler|12:56:14|13:56:18|Being concealed from the sight of people|
-|9|Moon|Servant|13:56:19|14:56:23|Separating and creating enmity|
-|10|Saturn|Servant|14:56:24|15:56:28|Subduing the elites|
-|11|Jupiter|Servant|15:56:29|16:56:33|Creating financial attraction and domination|
-|12|Mars|Servant|16:56:34|17:56:38|Generating malice and hatred|
+|2|Moon|Servant|06:55:44|07:55:48|Unfortunate, no task is suitable|
+|3|Saturn|Servant|07:55:49|08:55:53|For overcoming diseases|
+|4|Jupiter|Servant|08:55:54|09:55:58|For all tasks, extremely auspicious|
+|5|Mars|Servant|09:55:59|10:56:03|Creating negative energy and disrupting peace|
+|6|Sun|Servant|10:56:04|11:56:08|Outer and inner journey|
+|7|Venus|Servant|11:56:09|12:56:13|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|12:56:14|13:56:18|Being invisible to the people|
+|9|Moon|Servant|13:56:19|14:56:23|Separation, causing enmity|
+|10|Saturn|Servant|14:56:24|15:56:28|Dominating the great ones|
+|11|Jupiter|Servant|15:56:29|16:56:33|Creating financial and emotional attraction and dominance|
+|12|Mars|Servant|16:56:34|17:56:38|Creating evil and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|17:56:39|18:56:33|Acceptance of needs|
-|2|Venus|Servant|18:56:34|19:56:28|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|19:56:29|20:56:23|To overcome illnesses|
-|4|Moon|Servant|20:56:24|21:56:19|For all actions, the goal is happiness|
-|5|Saturn|Servant|21:56:20|22:56:14|Generating negative energy and disturbing peace|
-|6|Jupiter|Servant|22:56:15|23:56:09|Traveling inward and outward|
-|7|Mars|Servant|23:56:10|00:56:04|Attracting love and winning hearts|
-|8|Sun|Ruler|00:56:05|01:56:00|Being concealed from the sight of people|
-|9|Venus|Servant|01:56:01|02:55:55|Separating and creating enmity|
-|10|Mercury|Servant|02:55:56|03:55:50|Subduing the elites|
-|11|Moon|Servant|03:55:51|04:55:45|Creating financial attraction and domination|
-|12|Saturn|Servant|04:55:46|05:55:41|Generating malice and hatred|
+|2|Venus|Servant|18:56:34|19:56:28|Unfortunate, no task is suitable|
+|3|Mercury|Servant|19:56:29|20:56:23|For overcoming diseases|
+|4|Moon|Servant|20:56:24|21:56:19|For all tasks, extremely auspicious|
+|5|Saturn|Servant|21:56:20|22:56:14|Creating negative energy and disrupting peace|
+|6|Jupiter|Servant|22:56:15|23:56:09|Outer and inner journey|
+|7|Mars|Servant|23:56:10|00:56:04|Attracting love and hearts and fortune|
+|8|Sun|Ruler|00:56:05|01:56:00|Being invisible to the people|
+|9|Venus|Servant|01:56:01|02:55:55|Separation, causing enmity|
+|10|Mercury|Servant|02:55:56|03:55:50|Dominating the great ones|
+|11|Moon|Servant|03:55:51|04:55:45|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|04:55:46|05:55:41|Creating evil and hatred|
 
  
  
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°24'8.48" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°6'4.33" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°1'10.21" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°1'5.98" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|10°20'45.04" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|6°0'40.81" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|26°8'12.22" |Aries|Thurayya|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°24'8.08" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°6'4.39" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°1'13.20" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°1'7.93" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|10°20'51.00" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|6°0'40.78" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|26°0'50.86" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

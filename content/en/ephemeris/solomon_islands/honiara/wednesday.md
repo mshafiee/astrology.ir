@@ -211,33 +211,33 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|06:26:05|07:24:28|Acceptance of needs|
-|2|Moon|Servant|07:24:29|08:22:53|Complaining is futile, it won't accomplish anything|
-|3|Saturn|Servant|08:22:54|09:21:17|To overcome illnesses|
-|4|Jupiter|Servant|09:21:18|10:19:42|For all actions, the goal is happiness|
-|5|Mars|Servant|10:19:43|11:18:06|Generating negative energy and disturbing peace|
-|6|Sun|Servant|11:18:07|12:16:31|Traveling inward and outward|
-|7|Venus|Servant|12:16:32|13:14:55|Attracting love and winning hearts|
-|8|Mercury|Ruler|13:14:56|14:13:20|Being concealed from the sight of people|
-|9|Moon|Servant|14:13:21|15:11:44|Separating and creating enmity|
-|10|Saturn|Servant|15:11:45|16:10:09|Subduing the elites|
-|11|Jupiter|Servant|16:10:10|17:08:33|Creating financial attraction and domination|
-|12|Mars|Servant|17:08:34|18:06:58|Generating malice and hatred|
+|2|Moon|Servant|07:24:29|08:22:53|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:22:54|09:21:17|For overcoming diseases|
+|4|Jupiter|Servant|09:21:18|10:19:42|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:19:43|11:18:06|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:18:07|12:16:31|Outer and inner journey|
+|7|Venus|Servant|12:16:32|13:14:55|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|13:14:56|14:13:20|Being invisible to the people|
+|9|Moon|Servant|14:13:21|15:11:44|Separation, causing enmity|
+|10|Saturn|Servant|15:11:45|16:10:09|Dominating the great ones|
+|11|Jupiter|Servant|16:10:10|17:08:33|Creating financial and emotional attraction and dominance|
+|12|Mars|Servant|17:08:34|18:06:58|Creating evil and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|18:06:59|19:08:34|Acceptance of needs|
-|2|Venus|Servant|19:08:35|20:10:11|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|20:10:12|21:11:47|To overcome illnesses|
-|4|Moon|Servant|21:11:48|22:13:24|For all actions, the goal is happiness|
-|5|Saturn|Servant|22:13:25|23:15:00|Generating negative energy and disturbing peace|
-|6|Jupiter|Servant|23:15:01|00:16:37|Traveling inward and outward|
-|7|Mars|Servant|00:16:38|01:18:13|Attracting love and winning hearts|
-|8|Sun|Ruler|01:18:14|02:19:50|Being concealed from the sight of people|
-|9|Venus|Servant|02:19:51|03:21:26|Separating and creating enmity|
-|10|Mercury|Servant|03:21:27|04:23:03|Subduing the elites|
-|11|Moon|Servant|04:23:04|05:24:39|Creating financial attraction and domination|
-|12|Saturn|Servant|05:24:40|06:26:16|Generating malice and hatred|
+|2|Venus|Servant|19:08:35|20:10:11|Unfortunate, no task is suitable|
+|3|Mercury|Servant|20:10:12|21:11:47|For overcoming diseases|
+|4|Moon|Servant|21:11:48|22:13:24|For all tasks, extremely auspicious|
+|5|Saturn|Servant|22:13:25|23:15:00|Creating negative energy and disrupting peace|
+|6|Jupiter|Servant|23:15:01|00:16:37|Outer and inner journey|
+|7|Mars|Servant|00:16:38|01:18:13|Attracting love and hearts and fortune|
+|8|Sun|Ruler|01:18:14|02:19:50|Being invisible to the people|
+|9|Venus|Servant|02:19:51|03:21:26|Separation, causing enmity|
+|10|Mercury|Servant|03:21:27|04:23:03|Dominating the great ones|
+|11|Moon|Servant|04:23:04|05:24:39|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|05:24:40|06:26:16|Creating evil and hatred|
 
  
  
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|25°40'39.66" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|9°58'15.78" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°57'40.10" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|20°20'46.23" |Aries|Butain|Venus|
+|☾ Moon|Direct|21°10'43.32" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
 |♀ Venus|Venus|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

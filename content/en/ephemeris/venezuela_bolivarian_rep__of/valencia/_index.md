@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:11:07|07:13:59|Creating peace among people|
-|2|Jupiter|Servant|07:14:00|08:16:52|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|08:16:53|09:19:45|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|09:19:46|10:22:38|Bringing luck and favor|
-|5|Venus|Servant|10:22:39|11:25:31|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|11:25:32|12:28:24|Avoiding any harmful action|
-|7|Moon|Servant|12:28:25|13:31:17|Destroying enemies|
-|8|Saturn|Ruler|13:31:18|14:34:10|Performing all good deeds|
-|9|Jupiter|Servant|14:34:11|15:37:03|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|15:37:04|16:39:56|Achieving marital harmony|
-|11|Sun|Servant|16:39:57|17:42:49|Gaining respect and honor|
-|12|Venus|Servant|17:42:50|18:45:42||
+|1|Saturn|Ruler|06:11:07|07:13:59|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:14:00|08:16:52|Peace among people|
+|3|Mars|Servant|08:16:53|09:19:45|Vengeful and evil deeds|
+|4|Sun|Servant|09:19:46|10:22:38|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:22:39|11:25:31|Auspicious|
+|6|Mercury|Servant|11:25:32|12:28:24|Writing, swapping and making promises|
+|7|Moon|Servant|12:28:25|13:31:17|Not suitable for any task|
+|8|Saturn|Ruler|13:31:18|14:34:10|Destruction of enemies|
+|9|Jupiter|Servant|14:34:11|15:37:03|All good deeds|
+|10|Mars|Servant|15:37:04|16:39:56|Doing evil deeds|
+|11|Sun|Servant|16:39:57|17:42:49|Acceptance of reconciliation between couples|
+|12|Venus|Servant|17:42:50|18:45:42|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:45:43|19:42:48|Creating peace among people|
-|2|Moon|Servant|19:42:49|20:39:54|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|20:39:55|21:37:00|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|21:37:01|22:34:06|Bringing luck and favor|
-|5|Mars|Servant|22:34:07|23:31:12|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|23:31:13|00:28:18|Avoiding any harmful action|
-|7|Venus|Servant|00:28:19|01:25:24|Destroying enemies|
-|8|Mercury|Ruler|01:25:25|02:22:30|Performing all good deeds|
-|9|Moon|Servant|02:22:31|03:19:36|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:19:37|04:16:42|Achieving marital harmony|
-|11|Jupiter|Servant|04:16:43|05:13:48|Gaining respect and honor|
-|12|Mars|Servant|05:13:49|06:10:54||
+|1|Mercury|Ruler|18:45:43|19:42:48|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:42:49|20:39:54|Peace among people|
+|3|Saturn|Servant|20:39:55|21:37:00|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:37:01|22:34:06|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:34:07|23:31:12|Auspicious|
+|6|Sun|Servant|23:31:13|00:28:18|Writing, swapping and making promises|
+|7|Venus|Servant|00:28:19|01:25:24|Not suitable for any task|
+|8|Mercury|Ruler|01:25:25|02:22:30|Destruction of enemies|
+|9|Moon|Servant|02:22:31|03:19:36|All good deeds|
+|10|Saturn|Servant|03:19:37|04:16:42|Doing evil deeds|
+|11|Jupiter|Servant|04:16:43|05:13:48|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:13:49|06:10:54|For gaining dignity|
 
  
  
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°12'14.03" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°14'34.15" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°54'29.95" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°24'38.47" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°20'36.16" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'56.84" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°26'35.33" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|25°54'29.92" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°24'38.46" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°20'36.10" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°57'56.86" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°27'0.44" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

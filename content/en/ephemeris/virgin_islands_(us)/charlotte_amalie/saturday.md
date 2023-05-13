@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:46:53|06:51:44|Creating peace among people|
-|2|Jupiter|Servant|06:51:45|07:56:37|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|07:56:38|09:01:30|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|09:01:31|10:06:23|Bringing luck and favor|
-|5|Venus|Servant|10:06:24|11:11:16|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|11:11:17|12:16:09|Avoiding any harmful action|
-|7|Moon|Servant|12:16:10|13:21:01|Destroying enemies|
-|8|Saturn|Ruler|13:21:02|14:25:54|Performing all good deeds|
-|9|Jupiter|Servant|14:25:55|15:30:47|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|15:30:48|16:35:40|Achieving marital harmony|
-|11|Sun|Servant|16:35:41|17:40:33|Gaining respect and honor|
-|12|Venus|Servant|17:40:34|18:45:26||
+|1|Saturn|Ruler|05:46:53|06:51:44|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:51:45|07:56:37|Peace among people|
+|3|Mars|Servant|07:56:38|09:01:30|Vengeful and evil deeds|
+|4|Sun|Servant|09:01:31|10:06:23|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:06:24|11:11:16|Auspicious|
+|6|Mercury|Servant|11:11:17|12:16:09|Writing, swapping and making promises|
+|7|Moon|Servant|12:16:10|13:21:01|Not suitable for any task|
+|8|Saturn|Ruler|13:21:02|14:25:54|Destruction of enemies|
+|9|Jupiter|Servant|14:25:55|15:30:47|All good deeds|
+|10|Mars|Servant|15:30:48|16:35:40|Doing evil deeds|
+|11|Sun|Servant|16:35:41|17:40:33|Acceptance of reconciliation between couples|
+|12|Venus|Servant|17:40:34|18:45:26|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:45:27|19:40:31|Creating peace among people|
-|2|Moon|Servant|19:40:32|20:35:36|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|20:35:37|21:30:42|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|21:30:43|22:25:47|Bringing luck and favor|
-|5|Mars|Servant|22:25:48|23:20:52|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|23:20:53|00:15:58|Avoiding any harmful action|
-|7|Venus|Servant|00:15:59|01:11:03|Destroying enemies|
-|8|Mercury|Ruler|01:11:04|02:06:08|Performing all good deeds|
-|9|Moon|Servant|02:06:09|03:01:14|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:01:15|03:56:19|Achieving marital harmony|
-|11|Jupiter|Servant|03:56:20|04:51:24|Gaining respect and honor|
-|12|Mars|Servant|04:51:25|05:46:30||
+|1|Mercury|Ruler|18:45:27|19:40:31|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:40:32|20:35:36|Peace among people|
+|3|Saturn|Servant|20:35:37|21:30:42|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:30:43|22:25:47|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:25:48|23:20:52|Auspicious|
+|6|Sun|Servant|23:20:53|00:15:58|Writing, swapping and making promises|
+|7|Venus|Servant|00:15:59|01:11:03|Not suitable for any task|
+|8|Mercury|Ruler|01:11:04|02:06:08|Destruction of enemies|
+|9|Moon|Servant|02:06:09|03:01:14|All good deeds|
+|10|Saturn|Servant|03:01:15|03:56:19|Doing evil deeds|
+|11|Jupiter|Servant|03:56:20|04:51:24|Acceptance of reconciliation between couples|
+|12|Mars|Servant|04:51:25|05:46:30|For gaining dignity|
 
  
  
@@ -297,7 +297,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|22°23'39.29" |Aries|Butain|Venus|
 |♀ Venus|Direct|6°19'30.23" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|5°58'3.76" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°47'34.15" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|3°11'42.99" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°12'10.62" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°14'18.44" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°53'49.52" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°23'27.89" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°19'15.20" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'48.98" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°47'34.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|29°14'20.05" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°53'55.66" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°23'39.29" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°19'30.23" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°58'3.76" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°11'42.99" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Amalienborg, Amalienburg, Carlota Amalia, Carlotamalio, Charlotte Amalia, Charlotte Amalie, Charlotte Amalie pa Dei amerikanske Jomfruoyane, Charlotte Amalie på Dei amerikanske Jomfruøyane, Di Dorp, Dorp, Het Dorp, Saint Thomas, Saint Thomas City, Sanct Thomas, Sarlot Amali, Sarlote Amalija, Sarlotta Amaliya, Savan, Scharlotte Amelia, Sharlot Amali, Sharlota Amalija, Sharlota-Amalija, Sharlotta-Amalija, Tap House, Tap Hus, Taphuis, Taphus, Taphuus, Taphys, Tappus, Wirtshaus, Zapfhaus, charlxttxa mali, sarlata ameli, sharlwt amaly, srlwt ʼmʼly, syalleos-amallie, xia luo te a ma li ya, Ĉarlotamalio, Şarlotta Amaliya, Šarlotė Amalija, Σαρλότ Αμαλί, Шарлот Амали, Шарлота Амалия, Шарлота Амалија, Шарлота-Амалія, Шарлотта-Амалия, Шарлотта-Амалія, שרלוט אמאלי, شارلوت آمالی, شارلوت أمالي, شارلٹ ایملی, शार्लट आमेली, ชาร์ลอตต์อะมาลี, შარლოტა-ამალია, シャーロット・アマリー, 夏洛特阿马利亚, 샬럿아말리에

@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:30:56|06:34:37|Creating peace among people|
-|2|Jupiter|Servant|06:34:38|07:38:19|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|07:38:20|08:42:02|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|08:42:03|09:45:44|Bringing luck and favor|
-|5|Venus|Servant|09:45:45|10:49:26|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|10:49:27|11:53:09|Avoiding any harmful action|
-|7|Moon|Servant|11:53:10|12:56:51|Destroying enemies|
-|8|Saturn|Ruler|12:56:52|14:00:33|Performing all good deeds|
-|9|Jupiter|Servant|14:00:34|15:04:16|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|15:04:17|16:07:58|Achieving marital harmony|
-|11|Sun|Servant|16:07:59|17:11:40|Gaining respect and honor|
-|12|Venus|Servant|17:11:41|18:15:23||
+|1|Saturn|Ruler|05:30:56|06:34:37|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:34:38|07:38:19|Peace among people|
+|3|Mars|Servant|07:38:20|08:42:02|Vengeful and evil deeds|
+|4|Sun|Servant|08:42:03|09:45:44|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|09:45:45|10:49:26|Auspicious|
+|6|Mercury|Servant|10:49:27|11:53:09|Writing, swapping and making promises|
+|7|Moon|Servant|11:53:10|12:56:51|Not suitable for any task|
+|8|Saturn|Ruler|12:56:52|14:00:33|Destruction of enemies|
+|9|Jupiter|Servant|14:00:34|15:04:16|All good deeds|
+|10|Mars|Servant|15:04:17|16:07:58|Doing evil deeds|
+|11|Sun|Servant|16:07:59|17:11:40|Acceptance of reconciliation between couples|
+|12|Venus|Servant|17:11:41|18:15:23|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:15:24|19:11:39|Creating peace among people|
-|2|Moon|Servant|19:11:40|20:07:55|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|20:07:56|21:04:11|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|21:04:12|22:00:28|Bringing luck and favor|
-|5|Mars|Servant|22:00:29|22:56:44|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|22:56:45|23:53:00|Avoiding any harmful action|
-|7|Venus|Servant|23:53:01|00:49:16|Destroying enemies|
-|8|Mercury|Ruler|00:49:17|01:45:33|Performing all good deeds|
-|9|Moon|Servant|01:45:34|02:41:49|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|02:41:50|03:38:05|Achieving marital harmony|
-|11|Jupiter|Servant|03:38:06|04:34:21|Gaining respect and honor|
-|12|Mars|Servant|04:34:22|05:30:38||
+|1|Mercury|Ruler|18:15:24|19:11:39|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:11:40|20:07:55|Peace among people|
+|3|Saturn|Servant|20:07:56|21:04:11|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:04:12|22:00:28|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:00:29|22:56:44|Auspicious|
+|6|Sun|Servant|22:56:45|23:53:00|Writing, swapping and making promises|
+|7|Venus|Servant|23:53:01|00:49:16|Not suitable for any task|
+|8|Mercury|Ruler|00:49:17|01:45:33|Destruction of enemies|
+|9|Moon|Servant|01:45:34|02:41:49|All good deeds|
+|10|Saturn|Servant|02:41:50|03:38:05|Doing evil deeds|
+|11|Jupiter|Servant|03:38:06|04:34:21|Acceptance of reconciliation between couples|
+|12|Mars|Servant|04:34:22|05:30:38|For gaining dignity|
 
  
  
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|22°27'50.86" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|6°24'11.01" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°57'30.70" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|4°14'19.87" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°5'46.28" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|05:22:01|06:32:42|Attracting love and gaining financial capital|
-|2|Venus|Servant|06:32:43|07:43:25|Hateful actions, and avoiding any beneficial action|
-|3|Mercury|Servant|07:43:26|08:54:08|Creating emotional attachment and love|
-|4|Moon|Servant|08:54:09|10:04:50|Being hateful and rejecting kindness|
-|5|Saturn|Servant|10:04:51|11:15:33|Separation and engaging in hateful and vengeful actions|
-|6|Jupiter|Servant|11:15:34|12:26:16|Performing all good deeds for a beneficial outcome|
-|7|Mars|Servant|12:26:17|13:36:58|Avoiding any action that may lead to disaster|
-|8|Sun|Ruler|13:36:59|14:47:41|Extremely lucky and attracting good fortune|
-|9|Venus|Servant|14:47:42|15:58:24|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Mercury|Servant|15:58:25|17:09:06|Attracting happiness and resolving financial problems|
-|11|Moon|Servant|17:09:07|18:19:49|Signing contracts|
-|12|Saturn|Servant|18:19:50|19:30:32|Uncovering fugitives and finding thieves|
+|1|Sun|Ruler|05:22:01|06:32:42|Love and attraction of capital|
+|2|Venus|Servant|06:32:43|07:43:25|Unfortunate, no task is suitable|
+|3|Mercury|Servant|07:43:26|08:54:08|Operations of tenderness and attraction of love|
+|4|Moon|Servant|08:54:09|10:04:50|Unfortunate and repelling goodness|
+|5|Saturn|Servant|10:04:51|11:15:33|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|11:15:34|12:26:16|Suitable for all good deeds|
+|7|Mars|Servant|12:26:17|13:36:58|No task is suitable, causes misfortune|
+|8|Sun|Ruler|13:36:59|14:47:41|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|14:47:42|15:58:24|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Mercury|Servant|15:58:25|17:09:06|Attracting happiness, solving financial problems|
+|11|Moon|Servant|17:09:07|18:19:49|Performing promises|
+|12|Saturn|Servant|18:19:50|19:30:32|Finding the fugitive and discovering the thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|19:30:33|20:19:45|Attracting love and gaining financial capital|
-|2|Mars|Servant|20:19:46|21:08:58|Hateful actions, and avoiding any beneficial action|
-|3|Sun|Servant|21:08:59|21:58:11|Creating emotional attachment and love|
-|4|Venus|Servant|21:58:12|22:47:24|Being hateful and rejecting kindness|
-|5|Mercury|Servant|22:47:25|23:36:37|Separation and engaging in hateful and vengeful actions|
-|6|Moon|Servant|23:36:38|00:25:50|Performing all good deeds for a beneficial outcome|
-|7|Saturn|Servant|00:25:51|01:15:03|Avoiding any action that may lead to disaster|
-|8|Jupiter|Ruler|01:15:04|02:04:16|Extremely lucky and attracting good fortune|
-|9|Mars|Servant|02:04:17|02:53:29|Summoning a desired person, winning hearts, and creating emotional attachment|
-|10|Sun|Servant|02:53:30|03:42:42|Attracting happiness and resolving financial problems|
-|11|Venus|Servant|03:42:43|04:31:55|Signing contracts|
-|12|Mercury|Servant|04:31:56|05:21:09|Uncovering fugitives and finding thieves|
+|1|Jupiter|Ruler|19:30:33|20:19:45|Love and attraction of capital|
+|2|Mars|Servant|20:19:46|21:08:58|Unfortunate, no task is suitable|
+|3|Sun|Servant|21:08:59|21:58:11|Operations of tenderness and attraction of love|
+|4|Venus|Servant|21:58:12|22:47:24|Unfortunate and repelling goodness|
+|5|Mercury|Servant|22:47:25|23:36:37|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|23:36:38|00:25:50|Suitable for all good deeds|
+|7|Saturn|Servant|00:25:51|01:15:03|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:15:04|02:04:16|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|02:04:17|02:53:29|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|02:53:30|03:42:42|Attracting happiness, solving financial problems|
+|11|Venus|Servant|03:42:43|04:31:55|Performing promises|
+|12|Mercury|Servant|04:31:56|05:21:09|Finding the fugitive and discovering the thief|
 
  
  
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°14'23.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°23'36.38" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|26°16'36.38" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°2'29.19" |Aries|Butain|Venus|
-|♀ Venus|Direct|7°2'51.81" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°53'44.82" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°24'57.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|29°23'36.05" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|26°16'34.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°2'26.54" |Aries|Butain|Venus|
+|♀ Venus|Direct|7°2'46.96" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°53'42.35" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°41'15.78" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Capricorn|Moon|Saturn|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°14'23.95" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°23'36.05" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|26°16'34.09" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°2'29.19" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°2'51.81" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°53'44.82" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|12°24'57.46" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|23°2'26.54" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°2'46.96" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°53'42.35" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|12°1'50.69" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

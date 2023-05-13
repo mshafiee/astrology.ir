@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:31:46|06:31:32|Creating peace among people|
-|2|Jupiter|Servant|06:31:33|07:31:19|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|07:31:20|08:31:06|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|08:31:07|09:30:54|Bringing luck and favor|
-|5|Venus|Servant|09:30:55|10:30:41|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|10:30:42|11:30:28|Avoiding any harmful action|
-|7|Moon|Servant|11:30:29|12:30:15|Destroying enemies|
-|8|Saturn|Ruler|12:30:16|13:30:03|Performing all good deeds|
-|9|Jupiter|Servant|13:30:04|14:29:50|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|14:29:51|15:29:37|Achieving marital harmony|
-|11|Sun|Servant|15:29:38|16:29:24|Gaining respect and honor|
-|12|Venus|Servant|16:29:25|17:29:12||
+|1|Saturn|Ruler|05:31:46|06:31:32|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:31:33|07:31:19|Peace among people|
+|3|Mars|Servant|07:31:20|08:31:06|Vengeful and evil deeds|
+|4|Sun|Servant|08:31:07|09:30:54|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|09:30:55|10:30:41|Auspicious|
+|6|Mercury|Servant|10:30:42|11:30:28|Writing, swapping and making promises|
+|7|Moon|Servant|11:30:29|12:30:15|Not suitable for any task|
+|8|Saturn|Ruler|12:30:16|13:30:03|Destruction of enemies|
+|9|Jupiter|Servant|13:30:04|14:29:50|All good deeds|
+|10|Mars|Servant|14:29:51|15:29:37|Doing evil deeds|
+|11|Sun|Servant|15:29:38|16:29:24|Acceptance of reconciliation between couples|
+|12|Venus|Servant|16:29:25|17:29:12|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|17:29:13|18:29:25|Creating peace among people|
-|2|Moon|Servant|18:29:26|19:29:38|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|19:29:39|20:29:51|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|20:29:52|21:30:04|Bringing luck and favor|
-|5|Mars|Servant|21:30:05|22:30:17|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|22:30:18|23:30:30|Avoiding any harmful action|
-|7|Venus|Servant|23:30:31|00:30:43|Destroying enemies|
-|8|Mercury|Ruler|00:30:44|01:30:56|Performing all good deeds|
-|9|Moon|Servant|01:30:57|02:31:09|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|02:31:10|03:31:22|Achieving marital harmony|
-|11|Jupiter|Servant|03:31:23|04:31:35|Gaining respect and honor|
-|12|Mars|Servant|04:31:36|05:31:49||
+|1|Mercury|Ruler|17:29:13|18:29:25|Related to talismans, amulets and responses|
+|2|Moon|Servant|18:29:26|19:29:38|Peace among people|
+|3|Saturn|Servant|19:29:39|20:29:51|Vengeful and evil deeds|
+|4|Jupiter|Servant|20:29:52|21:30:04|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|21:30:05|22:30:17|Auspicious|
+|6|Sun|Servant|22:30:18|23:30:30|Writing, swapping and making promises|
+|7|Venus|Servant|23:30:31|00:30:43|Not suitable for any task|
+|8|Mercury|Ruler|00:30:44|01:30:56|Destruction of enemies|
+|9|Moon|Servant|01:30:57|02:31:09|All good deeds|
+|10|Saturn|Servant|02:31:10|03:31:22|Doing evil deeds|
+|11|Jupiter|Servant|03:31:23|04:31:35|Acceptance of reconciliation between couples|
+|12|Mars|Servant|04:31:36|05:31:49|For gaining dignity|
 
  
  
@@ -331,9 +331,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°12'0.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°13'36.95" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°52'10.30" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°20'39.36" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|29°13'37.00" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°52'10.13" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°20'39.50" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|6°16'8.64" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°58'31.64" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|2°31'34.25" |Pisces|FarghAlMuqaddam|Saturn|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ceara, Ceará, FOR, Fartaleza, Fortalaetia, Fortaleza, Fortaleza Nova de Braganca, Fortaleza Nova de Bragança, Fortaleza de Nova Braganca, Fortaleza de Nova Bragança, Fortalezae, Fortalezo, f xr tale sa, forutareza, fu ta lei sa, fwrtalyza, fwrtalza, phartalija, phortaleja, phortalejha, poleutalleja, pwrtlzh, Φορταλέζα, Фарталеза, Форталезæ, Форталеза, פורטלזה, فورتالزا, فورتاليزا, फोर्तालेझा, ফর্তালিজা, ফোর্টালেজা, ฟอร์ตาเลซา, ფორტალეზა, フォルタレザ, 福塔雷萨, 福塔雷薩, 포르탈레자

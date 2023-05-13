@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:32:23|07:27:25|Creating peace among people|
-|2|Jupiter|Servant|07:27:26|08:22:29|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|08:22:30|09:17:33|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|09:17:34|10:12:37|Bringing luck and favor|
-|5|Venus|Servant|10:12:38|11:07:41|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|11:07:42|12:02:45|Avoiding any harmful action|
-|7|Moon|Servant|12:02:46|12:57:49|Destroying enemies|
-|8|Saturn|Ruler|12:57:50|13:52:53|Performing all good deeds|
-|9|Jupiter|Servant|13:52:54|14:47:57|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|14:47:58|15:43:01|Achieving marital harmony|
-|11|Sun|Servant|15:43:02|16:38:05|Gaining respect and honor|
-|12|Venus|Servant|16:38:06|17:33:09||
+|1|Saturn|Ruler|06:32:23|07:27:25|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:27:26|08:22:29|Peace among people|
+|3|Mars|Servant|08:22:30|09:17:33|Vengeful and evil deeds|
+|4|Sun|Servant|09:17:34|10:12:37|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:12:38|11:07:41|Auspicious|
+|6|Mercury|Servant|11:07:42|12:02:45|Writing, swapping and making promises|
+|7|Moon|Servant|12:02:46|12:57:49|Not suitable for any task|
+|8|Saturn|Ruler|12:57:50|13:52:53|Destruction of enemies|
+|9|Jupiter|Servant|13:52:54|14:47:57|All good deeds|
+|10|Mars|Servant|14:47:58|15:43:01|Doing evil deeds|
+|11|Sun|Servant|15:43:02|16:38:05|Acceptance of reconciliation between couples|
+|12|Venus|Servant|16:38:06|17:33:09|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|17:33:10|18:38:07|Creating peace among people|
-|2|Moon|Servant|18:38:08|19:43:05|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|19:43:06|20:48:04|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|20:48:05|21:53:02|Bringing luck and favor|
-|5|Mars|Servant|21:53:03|22:58:01|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|22:58:02|00:02:59|Avoiding any harmful action|
-|7|Venus|Servant|00:03:00|01:07:57|Destroying enemies|
-|8|Mercury|Ruler|01:07:58|02:12:56|Performing all good deeds|
-|9|Moon|Servant|02:12:57|03:17:54|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:17:55|04:22:53|Achieving marital harmony|
-|11|Jupiter|Servant|04:22:54|05:27:51|Gaining respect and honor|
-|12|Mars|Servant|05:27:52|06:32:50||
+|1|Mercury|Ruler|17:33:10|18:38:07|Related to talismans, amulets and responses|
+|2|Moon|Servant|18:38:08|19:43:05|Peace among people|
+|3|Saturn|Servant|19:43:06|20:48:04|Vengeful and evil deeds|
+|4|Jupiter|Servant|20:48:05|21:53:02|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|21:53:03|22:58:01|Auspicious|
+|6|Sun|Servant|22:58:02|00:02:59|Writing, swapping and making promises|
+|7|Venus|Servant|00:03:00|01:07:57|Not suitable for any task|
+|8|Mercury|Ruler|01:07:58|02:12:56|Destruction of enemies|
+|9|Moon|Servant|02:12:57|03:17:54|All good deeds|
+|10|Saturn|Servant|03:17:55|04:22:53|Doing evil deeds|
+|11|Jupiter|Servant|04:22:54|05:27:51|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:27:52|06:32:50|For gaining dignity|
 
  
  
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°12'8.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°14'11.97" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°53'35.65" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°23'5.76" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°18'52.37" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°58'10.89" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°4'42.00" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°14'10.78" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°53'37.69" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°23'0.29" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°18'53.06" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°57'58.80" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°14'19.47" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -333,8 +333,8 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°12'8.64" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°14'11.97" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°53'35.65" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°23'5.76" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°18'52.37" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|22°23'0.29" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°18'53.06" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°57'58.80" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|2°14'19.47" |Pisces|FarghAlMuqaddam|Saturn|
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: SAO, Sampa, San Paolo, San Paul ed Brasil, San Paulas, San Paulo, San Paulu, San Paulu du Brasili, San Paulu dû Brasili, San Pauluw, San Pawlo, San Polo del Braxil, San Poulo, San Poło del Braxil, San Pàul ëd Brasil, San-Paulo, San-Paulu, San-Paŭlo, Sanpaulu, Sao Paolo, Sao Paulo, Sao Paulo capital, Saun Paulu, Sawo Palo, Sawo Pålo, São Paolo, São Paulo, São Paulo capital, Urbs Paulistana, cavo pavulo, sa'o pa'ulo, sa'o paulo, samu pa'ulu, sangpaollo, sangpaollu, sangpaullo, sangpaullu, sankt. paulos, sanpauro, savea pealea, savo palo, saw bawlw, saw palw, saw pwlw, saywpaywlw, sea pea lu, sheng bao luo, Σάο Πάολο, Сан Пауло, Сан Паулу, Сан-Паулу, Сан-Паўлу, Сао Паоло, Сао Пауло, Սան Պաուլու, סאו פאולא, סאו פאולו, ساؤ پالو, ساؤ پولو, سائوپائولو, ساو باولو, ܣܐܘ ܦܐܘܠܘ, ސައޮ ޕައުލޯ, साओ पाउलो, সাঁউ পাউলু, সাও পাউলো, சாவோ பாவுலோ, శఒ పౌలొ, ಸಾವೊ ಪಾಲೊ, സാവോ പോളോ, เซาเปาลู, ဆောပိုလိုမြို့, სან-პაულუ, ሳው ፓውሉ, サンパウロ, 聖保羅, 상파올로, 상파올루, 상파울로, 상파울루

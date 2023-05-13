@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:39:14|06:43:59|Creating peace among people|
-|2|Jupiter|Servant|06:44:00|07:48:45|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|07:48:46|08:53:31|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|08:53:32|09:58:17|Bringing luck and favor|
-|5|Venus|Servant|09:58:18|11:03:03|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|11:03:04|12:07:49|Avoiding any harmful action|
-|7|Moon|Servant|12:07:50|13:12:35|Destroying enemies|
-|8|Saturn|Ruler|13:12:36|14:17:21|Performing all good deeds|
-|9|Jupiter|Servant|14:17:22|15:22:07|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|15:22:08|16:26:53|Achieving marital harmony|
-|11|Sun|Servant|16:26:54|17:31:39|Gaining respect and honor|
-|12|Venus|Servant|17:31:40|18:36:26||
+|1|Saturn|Ruler|05:39:14|06:43:59|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:44:00|07:48:45|Peace among people|
+|3|Mars|Servant|07:48:46|08:53:31|Vengeful and evil deeds|
+|4|Sun|Servant|08:53:32|09:58:17|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|09:58:18|11:03:03|Auspicious|
+|6|Mercury|Servant|11:03:04|12:07:49|Writing, swapping and making promises|
+|7|Moon|Servant|12:07:50|13:12:35|Not suitable for any task|
+|8|Saturn|Ruler|13:12:36|14:17:21|Destruction of enemies|
+|9|Jupiter|Servant|14:17:22|15:22:07|All good deeds|
+|10|Mars|Servant|15:22:08|16:26:53|Doing evil deeds|
+|11|Sun|Servant|16:26:54|17:31:39|Acceptance of reconciliation between couples|
+|12|Venus|Servant|17:31:40|18:36:26|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:36:27|19:31:38|Creating peace among people|
-|2|Moon|Servant|19:31:39|20:26:50|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|20:26:51|21:22:02|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|21:22:03|22:17:14|Bringing luck and favor|
-|5|Mars|Servant|22:17:15|23:12:26|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|23:12:27|00:07:38|Avoiding any harmful action|
-|7|Venus|Servant|00:07:39|01:02:50|Destroying enemies|
-|8|Mercury|Ruler|01:02:51|01:58:02|Performing all good deeds|
-|9|Moon|Servant|01:58:03|02:53:14|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|02:53:15|03:48:26|Achieving marital harmony|
-|11|Jupiter|Servant|03:48:27|04:43:38|Gaining respect and honor|
-|12|Mars|Servant|04:43:39|05:38:51||
+|1|Mercury|Ruler|18:36:27|19:31:38|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:31:39|20:26:50|Peace among people|
+|3|Saturn|Servant|20:26:51|21:22:02|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:22:03|22:17:14|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:17:15|23:12:26|Auspicious|
+|6|Sun|Servant|23:12:27|00:07:38|Writing, swapping and making promises|
+|7|Venus|Servant|00:07:39|01:02:50|Not suitable for any task|
+|8|Mercury|Ruler|01:02:51|01:58:02|Destruction of enemies|
+|9|Moon|Servant|01:58:03|02:53:14|All good deeds|
+|10|Saturn|Servant|02:53:15|03:48:26|Doing evil deeds|
+|11|Jupiter|Servant|03:48:27|04:43:38|Acceptance of reconciliation between couples|
+|12|Mars|Servant|04:43:39|05:38:51|For gaining dignity|
 
  
  
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°12'9.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°14'14.08" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°53'46.53" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°23'13.41" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°19'8.82" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°57'51.05" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°13'48.32" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°14'15.64" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°53'44.90" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°23'20.87" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°19'9.64" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°58'6.37" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°7'11.93" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|29°14'15.64" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°53'44.90" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°23'20.87" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°19'8.82" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'51.05" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°13'48.32" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|6°19'9.64" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°58'6.37" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°7'11.93" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Goustavia, Gustaf, Gustavi, Gustavia, Gustavija, Gustavio, Gustávia, Guthavia, Qustaviya, guseutabia, gustavhiya, gusutabia, gwiseutabia, gwstawya, ju si ta wei ya, ku s ta wi ya, kucutaviya, Γουσταβία, Густави, Густавия, Густавија, Густавія, گوستاویا, گوسٹاویا, गुस्ताव्हिया, குசுதாவியா, กุสตาวียา, გუსტავია, グスタビア, 居斯塔维亚, 구스타비아, 귀스타비아

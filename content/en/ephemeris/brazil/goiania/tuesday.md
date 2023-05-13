@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:33:33|07:30:09|Creating corruption, hatred, and enmity|
-|2|Sun|Servant|07:30:10|08:26:47|Attracting negativity, and avoiding any harmful action|
-|3|Venus|Servant|08:26:48|09:23:24|Attracting connection and marriage proposals|
-|4|Mercury|Servant|09:23:25|10:20:02|Attracting material wealth, prosperity, and business growth|
-|5|Moon|Servant|10:20:03|11:16:39|Attracting negativity and creating chaos|
-|6|Saturn|Servant|11:16:40|12:13:17|Removing negative energy caused by the evil eye|
-|7|Jupiter|Servant|12:13:18|13:09:55|Attracting love, affection, and winning hearts|
-|8|Mars|Ruler|13:09:56|14:06:32|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Sun|Servant|14:06:33|15:03:10|Creating emotional attachment|
-|10|Venus|Servant|15:03:11|15:59:47|Attracting negativity, and avoiding any harmful action|
-|11|Mercury|Servant|15:59:48|16:56:25|Attracting connection and marriage proposals|
-|12|Moon|Servant|16:56:26|17:53:03|Creating hatred and corruption to disrupt harmony|
+|1|Mars|Ruler|06:33:33|07:30:09|Creating corruption, hatred and enmity|
+|2|Sun|Servant|07:30:10|08:26:47|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|08:26:48|09:23:24|Attracting connection and suitors|
+|4|Mercury|Servant|09:23:25|10:20:02|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|10:20:03|11:16:39|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|11:16:40|12:13:17|Repelling negative energy of evil eye|
+|7|Jupiter|Servant|12:13:18|13:09:55|Attracting love and hearts|
+|8|Mars|Ruler|13:09:56|14:06:32|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|14:06:33|15:03:10|Heart tenderness|
+|10|Venus|Servant|15:03:11|15:59:47|Attracting misfortune, no task is suitable|
+|11|Mercury|Servant|15:59:48|16:56:25|Attracting connection and suitors|
+|12|Moon|Servant|16:56:26|17:53:03|Hatred, corruption and creating negative energy for disruption|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|17:53:04|18:56:27|Creating corruption, hatred, and enmity|
-|2|Jupiter|Servant|18:56:28|19:59:51|Attracting negativity, and avoiding any harmful action|
-|3|Mars|Servant|19:59:52|21:03:15|Attracting connection and marriage proposals|
-|4|Sun|Servant|21:03:16|22:06:39|Attracting material wealth, prosperity, and business growth|
-|5|Venus|Servant|22:06:40|23:10:03|Attracting negativity and creating chaos|
-|6|Mercury|Servant|23:10:04|00:13:27|Removing negative energy caused by the evil eye|
-|7|Moon|Servant|00:13:28|01:16:51|Attracting love, affection, and winning hearts|
-|8|Saturn|Ruler|01:16:52|02:20:15|Creating corruption, destroying enemies, and causing illness to enemies|
-|9|Jupiter|Servant|02:20:16|03:23:39|Creating emotional attachment|
-|10|Mars|Servant|03:23:40|04:27:03|Attracting negativity, and avoiding any harmful action|
-|11|Sun|Servant|04:27:04|05:30:27|Attracting connection and marriage proposals|
-|12|Venus|Servant|05:30:28|06:33:52|Creating hatred and corruption to disrupt harmony|
+|1|Saturn|Ruler|17:53:04|18:56:27|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|18:56:28|19:59:51|Attracting misfortune, no task is suitable|
+|3|Mars|Servant|19:59:52|21:03:15|Attracting connection and suitors|
+|4|Sun|Servant|21:03:16|22:06:39|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|22:06:40|23:10:03|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|23:10:04|00:13:27|Repelling negative energy of evil eye|
+|7|Moon|Servant|00:13:28|01:16:51|Attracting love and hearts|
+|8|Saturn|Ruler|01:16:52|02:20:15|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|02:20:16|03:23:39|Heart tenderness|
+|10|Mars|Servant|03:23:40|04:27:03|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|04:27:04|05:30:27|Attracting connection and suitors|
+|12|Venus|Servant|05:30:28|06:33:52|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°21'47.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°55'34.62" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|27°35'13.88" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°16'50.85" |Aries|Butain|Venus|
-|♀ Venus|Direct|9°31'59.09" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°54'51.58" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|15°19'2.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°55'34.76" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|27°35'12.84" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°16'51.02" |Aries|Butain|Venus|
+|♀ Venus|Direct|9°31'57.42" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°54'53.07" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|15°30'0.16" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°21'47.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°55'34.62" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|27°35'13.88" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°16'50.85" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|9°31'59.09" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°54'51.58" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|15°19'2.88" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|6°21'47.97" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°55'34.75" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|27°35'12.33" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°16'50.65" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|9°31'56.38" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°54'52.99" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|15°32'4.86" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:14:21|07:15:01|Attracting love and creating emotional attachment|
-|2|Mercury|Servant|07:15:02|08:15:43|Attracting good luck|
-|3|Moon|Servant|08:15:44|09:16:25|Attracting negativity, and avoiding any harmful action|
-|4|Saturn|Servant|09:16:26|10:17:07|Being hateful for a certain period of time|
-|5|Jupiter|Servant|10:17:08|11:17:49|Gaining status, position, and attracting happiness in the workplace|
-|6|Mars|Servant|11:17:50|12:18:31|Attracting attention and acceptance from important people|
-|7|Sun|Servant|12:18:32|13:19:13|Advancing and attracting wealth|
-|8|Venus|Ruler|13:19:14|14:19:55|Extremely lucky and achieving ultimate happiness|
-|9|Mercury|Servant|14:19:56|15:20:37|Separating and making someone homeless|
-|10|Moon|Servant|15:20:38|16:21:19|Extremely hateful and causing harm|
-|11|Saturn|Servant|16:21:20|17:22:01|Creating a negative destiny for anyone|
-|12|Jupiter|Servant|17:22:02|18:22:43|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|1|Venus|Ruler|06:14:21|07:15:01|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:15:02|08:15:43|Attracting auspiciousness|
+|3|Moon|Servant|08:15:44|09:16:25|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:16:26|10:17:07|Unfortunate hour|
+|5|Jupiter|Servant|10:17:08|11:17:49|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:17:50|12:18:31|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|12:18:32|13:19:13|Promotion and attracting wealth|
+|8|Venus|Ruler|13:19:14|14:19:55|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|14:19:56|15:20:37|Causing separation and homelessness|
+|10|Moon|Servant|15:20:38|16:21:19|Extremely unfortunate|
+|11|Saturn|Servant|16:21:20|17:22:01|Creating an unfortunate horoscope for anyone|
+|12|Jupiter|Servant|17:22:02|18:22:43|Suitable for asking for a need|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|18:22:44|19:22:01|Attracting love and creating emotional attachment|
-|2|Sun|Servant|19:22:02|20:21:19|Attracting good luck|
-|3|Venus|Servant|20:21:20|21:20:37|Attracting negativity, and avoiding any harmful action|
-|4|Mercury|Servant|21:20:38|22:19:55|Being hateful for a certain period of time|
-|5|Moon|Servant|22:19:56|23:19:13|Gaining status, position, and attracting happiness in the workplace|
-|6|Saturn|Servant|23:19:14|00:18:31|Attracting attention and acceptance from important people|
-|7|Jupiter|Servant|00:18:32|01:17:49|Advancing and attracting wealth|
-|8|Mars|Ruler|01:17:50|02:17:07|Extremely lucky and achieving ultimate happiness|
-|9|Sun|Servant|02:17:08|03:16:25|Separating and making someone homeless|
-|10|Venus|Servant|03:16:26|04:15:43|Extremely hateful and causing harm|
-|11|Mercury|Servant|04:15:44|05:15:01|Creating a negative destiny for anyone|
-|12|Moon|Servant|05:15:02|06:14:19|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
+|1|Mars|Ruler|18:22:44|19:22:01|Love, creating love and attracting hearts|
+|2|Sun|Servant|19:22:02|20:21:19|Attracting auspiciousness|
+|3|Venus|Servant|20:21:20|21:20:37|Attracting misfortune, no task is suitable|
+|4|Mercury|Servant|21:20:38|22:19:55|Unfortunate hour|
+|5|Moon|Servant|22:19:56|23:19:13|Achieving position and status and attracting job fortune|
+|6|Saturn|Servant|23:19:14|00:18:31|Creating attraction and acceptance among dignitaries|
+|7|Jupiter|Servant|00:18:32|01:17:49|Promotion and attracting wealth|
+|8|Mars|Ruler|01:17:50|02:17:07|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:17:08|03:16:25|Causing separation and homelessness|
+|10|Venus|Servant|03:16:26|04:15:43|Extremely unfortunate|
+|11|Mercury|Servant|04:15:44|05:15:01|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|05:15:02|06:14:19|Suitable for asking for a need|
 
  
  
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°8'8.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|28°57'50.19" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°13'46.87" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|21°14'43.69" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|5°2'21.33" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|6°10'41.21" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|16°25'27.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|28°57'50.43" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°13'48.79" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|21°14'45.73" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|5°2'25.22" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|6°10'43.20" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|16°4'11.26" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

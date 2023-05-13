@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|07:09:31|08:04:01|Repelling sorcery and attracting discharged energy|
-|2|Saturn|Servant|08:04:02|08:58:32|Traveling inward and outward|
-|3|Jupiter|Servant|08:58:33|09:53:03|Marriage bond is favorable|
-|4|Mars|Servant|09:53:04|10:47:35|Eliminating and destroying enemies and releasing their energy|
-|5|Sun|Servant|10:47:36|11:42:06|Granting wishes, attracting love and wealth|
-|6|Venus|Servant|11:42:07|12:36:37|Summoning the desired person, creating love and domination|
-|7|Mercury|Servant|12:36:38|13:31:08|Mutual agreement|
-|8|Moon|Ruler|13:31:09|14:25:40|Reconciling two individuals, attracting love|
-|9|Saturn|Servant|14:25:41|15:20:11|Attracting and repelling enemies, and separating them|
-|10|Jupiter|Servant|15:20:12|16:14:42|Favorable for any good deed|
+|1|Moon|Ruler|07:09:31|08:04:01|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|08:04:02|08:58:32|Outer and inner journey|
+|3|Jupiter|Servant|08:58:33|09:53:03|Marriage connection is good|
+|4|Mars|Servant|09:53:04|10:47:35|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:47:36|11:42:06|Answering needs, attracting love and wealth|
+|6|Venus|Servant|11:42:07|12:36:37|Summoning the person of interest, love and dominance|
+|7|Mercury|Servant|12:36:38|13:31:08|Making promises|
+|8|Moon|Ruler|13:31:09|14:25:40|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|14:25:41|15:20:11|Attracting and repelling enemies and causing separation|
+|10|Jupiter|Servant|15:20:12|16:14:42|Good for any task|
 |11|Mars|Servant|16:14:43|17:09:13|Creating enmity and negative energy|
-|12|Sun|Servant|17:09:14|18:03:45|Showing kindness and affection|
+|12|Sun|Servant|17:09:14|18:03:45|Heart tenderness|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|18:03:46|19:09:16|Repelling sorcery and attracting discharged energy|
-|2|Mercury|Servant|19:09:17|20:14:47|Traveling inward and outward|
-|3|Moon|Servant|20:14:48|21:20:18|Marriage bond is favorable|
-|4|Saturn|Servant|21:20:19|22:25:50|Eliminating and destroying enemies and releasing their energy|
-|5|Jupiter|Servant|22:25:51|23:31:21|Granting wishes, attracting love and wealth|
-|6|Mars|Servant|23:31:22|00:36:52|Summoning the desired person, creating love and domination|
-|7|Sun|Servant|00:36:53|01:42:23|Mutual agreement|
-|8|Venus|Ruler|01:42:24|02:47:55|Reconciling two individuals, attracting love|
-|9|Mercury|Servant|02:47:56|03:53:26|Attracting and repelling enemies, and separating them|
-|10|Moon|Servant|03:53:27|04:58:57|Favorable for any good deed|
+|1|Venus|Ruler|18:03:46|19:09:16|Repelling magic, attracting discharged energy|
+|2|Mercury|Servant|19:09:17|20:14:47|Outer and inner journey|
+|3|Moon|Servant|20:14:48|21:20:18|Marriage connection is good|
+|4|Saturn|Servant|21:20:19|22:25:50|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:25:51|23:31:21|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:31:22|00:36:52|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|00:36:53|01:42:23|Making promises|
+|8|Venus|Ruler|01:42:24|02:47:55|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:47:56|03:53:26|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:53:27|04:58:57|Good for any task|
 |11|Saturn|Servant|04:58:58|06:04:28|Creating enmity and negative energy|
-|12|Jupiter|Servant|06:04:29|07:10:00|Showing kindness and affection|
+|12|Jupiter|Servant|06:04:29|07:10:00|Heart tenderness|
 
  
  
@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°19'24.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°45'0.65" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|27°9'6.98" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|24°32'16.22" |Aries|Butain|Venus|
-|♀ Venus|Direct|8°42'36.17" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°51'30.03" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°19'47.66" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°45'2.49" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|27°9'11.83" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|24°32'28.36" |Aries|Butain|Venus|
+|♀ Venus|Direct|8°42'49.70" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°51'46.41" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°48'26.61" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,11 +331,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°19'24.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°45'0.65" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|27°9'6.98" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Direct|29°45'2.49" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|27°9'11.83" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|24°32'28.36" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|8°42'36.17" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°51'30.03" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|8°42'49.70" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°51'46.41" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|4°48'26.61" |Aries|Sharatain|Mars|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

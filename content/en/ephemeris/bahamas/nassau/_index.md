@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|06:25:51|07:32:30|Creating peace among people|
-|2|Jupiter|Servant|07:32:31|08:39:10|Engaging in hateful actions and evil deeds|
-|3|Mars|Servant|08:39:11|09:45:50|Conquering, judging, and issuing verdicts|
-|4|Sun|Servant|09:45:51|10:52:30|Bringing luck and favor|
-|5|Venus|Servant|10:52:31|11:59:10|Writing, exchanging, and signing contracts|
-|6|Mercury|Servant|11:59:11|13:05:50|Avoiding any harmful action|
-|7|Moon|Servant|13:05:51|14:12:30|Destroying enemies|
-|8|Saturn|Ruler|14:12:31|15:19:10|Performing all good deeds|
-|9|Jupiter|Servant|15:19:11|16:25:50|Performing evil deeds for the purpose of gaining power and control|
-|10|Mars|Servant|16:25:51|17:32:30|Achieving marital harmony|
-|11|Sun|Servant|17:32:31|18:39:10|Gaining respect and honor|
-|12|Venus|Servant|18:39:11|19:45:50||
+|1|Saturn|Ruler|06:25:51|07:32:30|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|07:32:31|08:39:10|Peace among people|
+|3|Mars|Servant|08:39:11|09:45:50|Vengeful and evil deeds|
+|4|Sun|Servant|09:45:51|10:52:30|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:52:31|11:59:10|Auspicious|
+|6|Mercury|Servant|11:59:11|13:05:50|Writing, swapping and making promises|
+|7|Moon|Servant|13:05:51|14:12:30|Not suitable for any task|
+|8|Saturn|Ruler|14:12:31|15:19:10|Destruction of enemies|
+|9|Jupiter|Servant|15:19:11|16:25:50|All good deeds|
+|10|Mars|Servant|16:25:51|17:32:30|Doing evil deeds|
+|11|Sun|Servant|17:32:31|18:39:10|Acceptance of reconciliation between couples|
+|12|Venus|Servant|18:39:11|19:45:50|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|19:45:51|20:39:07|Creating peace among people|
-|2|Moon|Servant|20:39:08|21:32:24|Engaging in hateful actions and evil deeds|
-|3|Saturn|Servant|21:32:25|22:25:42|Conquering, judging, and issuing verdicts|
-|4|Jupiter|Servant|22:25:43|23:18:59|Bringing luck and favor|
-|5|Mars|Servant|23:19:00|00:12:17|Writing, exchanging, and signing contracts|
-|6|Sun|Servant|00:12:18|01:05:34|Avoiding any harmful action|
-|7|Venus|Servant|01:05:35|01:58:51|Destroying enemies|
-|8|Mercury|Ruler|01:58:52|02:52:09|Performing all good deeds|
-|9|Moon|Servant|02:52:10|03:45:26|Performing evil deeds for the purpose of gaining power and control|
-|10|Saturn|Servant|03:45:27|04:38:44|Achieving marital harmony|
-|11|Jupiter|Servant|04:38:45|05:32:01|Gaining respect and honor|
-|12|Mars|Servant|05:32:02|06:25:19||
+|1|Mercury|Ruler|19:45:51|20:39:07|Related to talismans, amulets and responses|
+|2|Moon|Servant|20:39:08|21:32:24|Peace among people|
+|3|Saturn|Servant|21:32:25|22:25:42|Vengeful and evil deeds|
+|4|Jupiter|Servant|22:25:43|23:18:59|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|23:19:00|00:12:17|Auspicious|
+|6|Sun|Servant|00:12:18|01:05:34|Writing, swapping and making promises|
+|7|Venus|Servant|01:05:35|01:58:51|Not suitable for any task|
+|8|Mercury|Ruler|01:58:52|02:52:09|Destruction of enemies|
+|9|Moon|Servant|02:52:10|03:45:26|All good deeds|
+|10|Saturn|Servant|03:45:27|04:38:44|Doing evil deeds|
+|11|Jupiter|Servant|04:38:45|05:32:01|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:32:02|06:25:19|For gaining dignity|
 
  
  
@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°12'16.02" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°14'42.41" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°54'51.95" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°25'2.63" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°21'12.64" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°57'29.83" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°30'32.02" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|25°54'50.33" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°25'12.68" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°21'14.72" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°57'49.89" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°34'6.43" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°12'16.02" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°14'42.41" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°54'51.95" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°25'2.63" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°21'12.64" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'29.83" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°30'32.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|25°54'50.33" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°25'12.68" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°21'14.72" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°57'49.89" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°34'6.43" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: City of Nassau, NAS, Nasau, Nasauo, Nasaŭo, Naso, Nassaou, Nassau, Nassau City, Nassau pa Bahamas, Nassau på Bahamas, Nasáu, na sao, nasa'u, nasau, nasaw, nasayw, nasea, naso, nasso, neco, nsaw, Νασσάου, Насау, Нассау, Նասաու, נסאו, ناسائو, ناساو, نساؤ, नासाउ, নাসাউ, ਨਸਾਊ, நேசோ, നാസോ, แนสซอ, ན་སའོ།, ნასაუ, ናሶ, ナッソー, 拿騷, 拿骚, 나사우, 나소

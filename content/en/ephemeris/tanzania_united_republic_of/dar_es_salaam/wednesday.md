@@ -211,33 +211,33 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|06:25:10|07:24:10|Acceptance of needs|
-|2|Moon|Servant|07:24:11|08:23:11|Complaining is futile, it won't accomplish anything|
-|3|Saturn|Servant|08:23:12|09:22:12|To overcome illnesses|
-|4|Jupiter|Servant|09:22:13|10:21:13|For all actions, the goal is happiness|
-|5|Mars|Servant|10:21:14|11:20:14|Generating negative energy and disturbing peace|
-|6|Sun|Servant|11:20:15|12:19:16|Traveling inward and outward|
-|7|Venus|Servant|12:19:17|13:18:17|Attracting love and winning hearts|
-|8|Mercury|Ruler|13:18:18|14:17:18|Being concealed from the sight of people|
-|9|Moon|Servant|14:17:19|15:16:19|Separating and creating enmity|
-|10|Saturn|Servant|15:16:20|16:15:20|Subduing the elites|
-|11|Jupiter|Servant|16:15:21|17:14:21|Creating financial attraction and domination|
-|12|Mars|Servant|17:14:22|18:13:23|Generating malice and hatred|
+|2|Moon|Servant|07:24:11|08:23:11|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:23:12|09:22:12|For overcoming diseases|
+|4|Jupiter|Servant|09:22:13|10:21:13|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:21:14|11:20:14|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:20:15|12:19:16|Outer and inner journey|
+|7|Venus|Servant|12:19:17|13:18:17|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|13:18:18|14:17:18|Being invisible to the people|
+|9|Moon|Servant|14:17:19|15:16:19|Separation, causing enmity|
+|10|Saturn|Servant|15:16:20|16:15:20|Dominating the great ones|
+|11|Jupiter|Servant|16:15:21|17:14:21|Creating financial and emotional attraction and dominance|
+|12|Mars|Servant|17:14:22|18:13:23|Creating evil and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|18:13:24|19:14:22|Acceptance of needs|
-|2|Venus|Servant|19:14:23|20:15:22|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|20:15:23|21:16:21|To overcome illnesses|
-|4|Moon|Servant|21:16:22|22:17:21|For all actions, the goal is happiness|
-|5|Saturn|Servant|22:17:22|23:18:20|Generating negative energy and disturbing peace|
-|6|Jupiter|Servant|23:18:21|00:19:20|Traveling inward and outward|
-|7|Mars|Servant|00:19:21|01:20:19|Attracting love and winning hearts|
-|8|Sun|Ruler|01:20:20|02:21:19|Being concealed from the sight of people|
-|9|Venus|Servant|02:21:20|03:22:18|Separating and creating enmity|
-|10|Mercury|Servant|03:22:19|04:23:18|Subduing the elites|
-|11|Moon|Servant|04:23:19|05:24:17|Creating financial attraction and domination|
-|12|Saturn|Servant|05:24:18|06:25:17|Generating malice and hatred|
+|2|Venus|Servant|19:14:23|20:15:22|Unfortunate, no task is suitable|
+|3|Mercury|Servant|20:15:23|21:16:21|For overcoming diseases|
+|4|Moon|Servant|21:16:22|22:17:21|For all tasks, extremely auspicious|
+|5|Saturn|Servant|22:17:22|23:18:20|Creating negative energy and disrupting peace|
+|6|Jupiter|Servant|23:18:21|00:19:20|Outer and inner journey|
+|7|Mars|Servant|00:19:21|01:20:19|Attracting love and hearts and fortune|
+|8|Sun|Ruler|01:20:20|02:21:19|Being invisible to the people|
+|9|Venus|Servant|02:21:20|03:22:18|Separation, causing enmity|
+|10|Mercury|Servant|03:22:19|04:23:18|Dominating the great ones|
+|11|Moon|Servant|04:23:19|05:24:17|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|05:24:18|06:25:17|Creating evil and hatred|
 
  
  

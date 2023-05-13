@@ -211,33 +211,33 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|04:38:27|05:57:29|Acceptance of needs|
-|2|Moon|Servant|05:57:30|07:16:33|Complaining is futile, it won't accomplish anything|
-|3|Saturn|Servant|07:16:34|08:35:37|To overcome illnesses|
-|4|Jupiter|Servant|08:35:38|09:54:41|For all actions, the goal is happiness|
-|5|Mars|Servant|09:54:42|11:13:45|Generating negative energy and disturbing peace|
-|6|Sun|Servant|11:13:46|12:32:49|Traveling inward and outward|
-|7|Venus|Servant|12:32:50|13:51:52|Attracting love and winning hearts|
-|8|Mercury|Ruler|13:51:53|15:10:56|Being concealed from the sight of people|
-|9|Moon|Servant|15:10:57|16:30:00|Separating and creating enmity|
-|10|Saturn|Servant|16:30:01|17:49:04|Subduing the elites|
-|11|Jupiter|Servant|17:49:05|19:08:08|Creating financial attraction and domination|
-|12|Mars|Servant|19:08:09|20:27:12|Generating malice and hatred|
+|2|Moon|Servant|05:57:30|07:16:33|Unfortunate, no task is suitable|
+|3|Saturn|Servant|07:16:34|08:35:37|For overcoming diseases|
+|4|Jupiter|Servant|08:35:38|09:54:41|For all tasks, extremely auspicious|
+|5|Mars|Servant|09:54:42|11:13:45|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:13:46|12:32:49|Outer and inner journey|
+|7|Venus|Servant|12:32:50|13:51:52|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|13:51:53|15:10:56|Being invisible to the people|
+|9|Moon|Servant|15:10:57|16:30:00|Separation, causing enmity|
+|10|Saturn|Servant|16:30:01|17:49:04|Dominating the great ones|
+|11|Jupiter|Servant|17:49:05|19:08:08|Creating financial and emotional attraction and dominance|
+|12|Mars|Servant|19:08:09|20:27:12|Creating evil and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|20:27:13|21:08:00|Acceptance of needs|
-|2|Venus|Servant|21:08:01|21:48:49|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|21:48:50|22:29:38|To overcome illnesses|
-|4|Moon|Servant|22:29:39|23:10:27|For all actions, the goal is happiness|
-|5|Saturn|Servant|23:10:28|23:51:16|Generating negative energy and disturbing peace|
-|6|Jupiter|Servant|23:51:17|00:32:05|Traveling inward and outward|
-|7|Mars|Servant|00:32:06|01:12:54|Attracting love and winning hearts|
-|8|Sun|Ruler|01:12:55|01:53:43|Being concealed from the sight of people|
-|9|Venus|Servant|01:53:44|02:34:32|Separating and creating enmity|
-|10|Mercury|Servant|02:34:33|03:15:21|Subduing the elites|
-|11|Moon|Servant|03:15:22|03:56:10|Creating financial attraction and domination|
-|12|Saturn|Servant|03:56:11|04:36:59|Generating malice and hatred|
+|2|Venus|Servant|21:08:01|21:48:49|Unfortunate, no task is suitable|
+|3|Mercury|Servant|21:48:50|22:29:38|For overcoming diseases|
+|4|Moon|Servant|22:29:39|23:10:27|For all tasks, extremely auspicious|
+|5|Saturn|Servant|23:10:28|23:51:16|Creating negative energy and disrupting peace|
+|6|Jupiter|Servant|23:51:17|00:32:05|Outer and inner journey|
+|7|Mars|Servant|00:32:06|01:12:54|Attracting love and hearts and fortune|
+|8|Sun|Ruler|01:12:55|01:53:43|Being invisible to the people|
+|9|Venus|Servant|01:53:44|02:34:32|Separation, causing enmity|
+|10|Mercury|Servant|02:34:33|03:15:21|Dominating the great ones|
+|11|Moon|Servant|03:15:22|03:56:10|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|03:56:11|04:36:59|Creating evil and hatred|
 
  
  
@@ -292,8 +292,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°23'58.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°5'19.30" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°59'20.49" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|0°5'19.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°59'22.46" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|25°57'54.91" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|10°17'17.13" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|6°0'2.84" |Aries|Sharatain|Mars|

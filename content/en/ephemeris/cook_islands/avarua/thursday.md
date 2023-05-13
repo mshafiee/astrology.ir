@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|07:03:18|07:58:38|Acquiring material wealth and abundance of livelihood|
-|2|Mars|Servant|07:58:39|08:54:00|Destroying enemies|
-|3|Sun|Servant|08:54:01|09:49:21|Attracting financial and emotional love|
-|4|Venus|Servant|09:49:22|10:44:43|Creating love and connection, and finding a partner|
-|5|Mercury|Servant|10:44:44|11:40:04|Engaging in sensual acts|
-|6|Moon|Servant|11:40:05|12:35:26|Traveling in the physical and spiritual realm|
-|7|Saturn|Servant|12:35:27|13:30:48|Achieving status, position, and attracting opportunities|
-|8|Jupiter|Ruler|13:30:49|14:26:09|Attracting happiness and prosperity|
-|9|Mars|Servant|14:26:10|15:21:31|Attaining status, position, and promoting rank|
+|1|Jupiter|Ruler|07:03:18|07:58:38|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|07:58:39|08:54:00|Destruction of enemies|
+|3|Sun|Servant|08:54:01|09:49:21|Attraction of financial and emotional love|
+|4|Venus|Servant|09:49:22|10:44:43|Creating love, connection and marriage|
+|5|Mercury|Servant|10:44:44|11:40:04|Indulgence|
+|6|Moon|Servant|11:40:05|12:35:26|Outer and inner journey|
+|7|Saturn|Servant|12:35:27|13:30:48|Achieving status and power|
+|8|Jupiter|Ruler|13:30:49|14:26:09|Attraction of happiness and fortune|
+|9|Mars|Servant|14:26:10|15:21:31|Reaching status and promotion|
 |10|Sun|Servant|15:21:32|16:16:52|Fulfilling needs|
-|11|Venus|Servant|16:16:53|17:12:14|Attracting love, affection, and winning hearts|
-|12|Mercury|Servant|17:12:15|18:07:36|Attracting negativity, and avoiding any harmful action|
+|11|Venus|Servant|16:16:53|17:12:14|Attraction of love and hearts|
+|12|Mercury|Servant|17:12:15|18:07:36|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|18:07:37|19:12:16|Acquiring material wealth and abundance of livelihood|
-|2|Saturn|Servant|19:12:17|20:16:57|Destroying enemies|
-|3|Jupiter|Servant|20:16:58|21:21:37|Attracting financial and emotional love|
-|4|Mars|Servant|21:21:38|22:26:18|Creating love and connection, and finding a partner|
-|5|Sun|Servant|22:26:19|23:30:58|Engaging in sensual acts|
-|6|Venus|Servant|23:30:59|00:35:39|Traveling in the physical and spiritual realm|
-|7|Mercury|Servant|00:35:40|01:40:19|Achieving status, position, and attracting opportunities|
-|8|Moon|Ruler|01:40:20|02:45:00|Attracting happiness and prosperity|
-|9|Saturn|Servant|02:45:01|03:49:40|Attaining status, position, and promoting rank|
+|1|Moon|Ruler|18:07:37|19:12:16|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|19:12:17|20:16:57|Destruction of enemies|
+|3|Jupiter|Servant|20:16:58|21:21:37|Attraction of financial and emotional love|
+|4|Mars|Servant|21:21:38|22:26:18|Creating love, connection and marriage|
+|5|Sun|Servant|22:26:19|23:30:58|Indulgence|
+|6|Venus|Servant|23:30:59|00:35:39|Outer and inner journey|
+|7|Mercury|Servant|00:35:40|01:40:19|Achieving status and power|
+|8|Moon|Ruler|01:40:20|02:45:00|Attraction of happiness and fortune|
+|9|Saturn|Servant|02:45:01|03:49:40|Reaching status and promotion|
 |10|Jupiter|Servant|03:49:41|04:54:21|Fulfilling needs|
-|11|Mars|Servant|04:54:22|05:59:01|Attracting love, affection, and winning hearts|
-|12|Sun|Servant|05:59:02|07:03:42|Attracting negativity, and avoiding any harmful action|
+|11|Mars|Servant|04:54:22|05:59:01|Attraction of love and hearts|
+|12|Sun|Servant|05:59:02|07:03:42|Attracting misfortune, not suitable for any task|
 
  
  

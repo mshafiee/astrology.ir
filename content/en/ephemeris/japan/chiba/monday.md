@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|04:35:03|05:45:12|Repelling sorcery and attracting discharged energy|
-|2|Saturn|Servant|05:45:13|06:55:23|Traveling inward and outward|
-|3|Jupiter|Servant|06:55:24|08:05:33|Marriage bond is favorable|
-|4|Mars|Servant|08:05:34|09:15:44|Eliminating and destroying enemies and releasing their energy|
-|5|Sun|Servant|09:15:45|10:25:54|Granting wishes, attracting love and wealth|
-|6|Venus|Servant|10:25:55|11:36:05|Summoning the desired person, creating love and domination|
-|7|Mercury|Servant|11:36:06|12:46:16|Mutual agreement|
-|8|Moon|Ruler|12:46:17|13:56:26|Reconciling two individuals, attracting love|
-|9|Saturn|Servant|13:56:27|15:06:37|Attracting and repelling enemies, and separating them|
-|10|Jupiter|Servant|15:06:38|16:16:47|Favorable for any good deed|
+|1|Moon|Ruler|04:35:03|05:45:12|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|05:45:13|06:55:23|Outer and inner journey|
+|3|Jupiter|Servant|06:55:24|08:05:33|Marriage connection is good|
+|4|Mars|Servant|08:05:34|09:15:44|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|09:15:45|10:25:54|Answering needs, attracting love and wealth|
+|6|Venus|Servant|10:25:55|11:36:05|Summoning the person of interest, love and dominance|
+|7|Mercury|Servant|11:36:06|12:46:16|Making promises|
+|8|Moon|Ruler|12:46:17|13:56:26|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|13:56:27|15:06:37|Attracting and repelling enemies and causing separation|
+|10|Jupiter|Servant|15:06:38|16:16:47|Good for any task|
 |11|Mars|Servant|16:16:48|17:26:58|Creating enmity and negative energy|
-|12|Sun|Servant|17:26:59|18:37:09|Showing kindness and affection|
+|12|Sun|Servant|17:26:59|18:37:09|Heart tenderness|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|18:37:10|19:26:54|Repelling sorcery and attracting discharged energy|
-|2|Mercury|Servant|19:26:55|20:16:40|Traveling inward and outward|
-|3|Moon|Servant|20:16:41|21:06:25|Marriage bond is favorable|
-|4|Saturn|Servant|21:06:26|21:56:11|Eliminating and destroying enemies and releasing their energy|
-|5|Jupiter|Servant|21:56:12|22:45:56|Granting wishes, attracting love and wealth|
-|6|Mars|Servant|22:45:57|23:35:42|Summoning the desired person, creating love and domination|
-|7|Sun|Servant|23:35:43|00:25:27|Mutual agreement|
-|8|Venus|Ruler|00:25:28|01:15:13|Reconciling two individuals, attracting love|
-|9|Mercury|Servant|01:15:14|02:04:58|Attracting and repelling enemies, and separating them|
-|10|Moon|Servant|02:04:59|02:54:44|Favorable for any good deed|
+|1|Venus|Ruler|18:37:10|19:26:54|Repelling magic, attracting discharged energy|
+|2|Mercury|Servant|19:26:55|20:16:40|Outer and inner journey|
+|3|Moon|Servant|20:16:41|21:06:25|Marriage connection is good|
+|4|Saturn|Servant|21:06:26|21:56:11|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|21:56:12|22:45:56|Answering needs, attracting love and wealth|
+|6|Mars|Servant|22:45:57|23:35:42|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|23:35:43|00:25:27|Making promises|
+|8|Venus|Ruler|00:25:28|01:15:13|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|01:15:14|02:04:58|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|02:04:59|02:54:44|Good for any task|
 |11|Saturn|Servant|02:54:45|03:44:29|Creating enmity and negative energy|
-|12|Jupiter|Servant|03:44:30|04:34:15|Showing kindness and affection|
+|12|Jupiter|Servant|03:44:30|04:34:15|Heart tenderness|
 
  
  
@@ -336,7 +336,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|23°45'11.88" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|7°50'21.95" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°51'21.79" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|23°6'6.12" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|23°8'27.92" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
