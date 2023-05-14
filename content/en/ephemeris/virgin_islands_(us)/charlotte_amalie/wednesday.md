@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°24'51.88" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°24'51.88" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°9'23.73" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°9'28.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°15'9.97" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°36'19.36" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°3'3.03" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|29°12'17.31" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|26°14'54.86" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°36'8.08" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°2'39.75" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|27°38'39.09" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°24'51.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°9'23.73" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°9'28.66" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°15'9.97" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|10°36'19.36" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|6°3'3.03" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|29°12'17.31" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|6°24'51.88" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°9'21.10" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°9'25.98" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°14'54.86" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|10°36'8.08" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|6°2'39.75" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|27°38'39.09" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

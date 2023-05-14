@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'0.20" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°12'0.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°13'36.95" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°52'10.30" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°20'39.36" |Aries|Butain|Venus|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'0.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°13'37.00" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°52'10.13" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°20'39.50" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°16'8.64" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°58'31.64" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°31'34.25" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|6°12'0.20" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°13'36.95" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°52'10.30" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°20'39.36" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°16'8.86" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°58'31.21" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°28'27.37" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ceara, Ceará, FOR, Fartaleza, Fortalaetia, Fortaleza, Fortaleza Nova de Braganca, Fortaleza Nova de Bragança, Fortaleza de Nova Braganca, Fortaleza de Nova Bragança, Fortalezae, Fortalezo, f xr tale sa, forutareza, fu ta lei sa, fwrtalyza, fwrtalza, phartalija, phortaleja, phortalejha, poleutalleja, pwrtlzh, Φορταλέζα, Фарталеза, Форталезæ, Форталеза, פורטלזה, فورتالزا, فورتاليزا, फोर्तालेझा, ফর্তালিজা, ফোর্টালেজা, ฟอร์ตาเลซา, ფორტალეზა, フォルタレザ, 福塔雷萨, 福塔雷薩, 포르탈레자

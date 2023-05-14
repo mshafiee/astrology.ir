@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'15.13" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°12'15.13" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°14'38.83" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°54'41.16" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°24'58.12" |Aries|Butain|Venus|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'15.13" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°12'14.67" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°14'36.34" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°54'35.45" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°24'42.43" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°20'41.58" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'32.38" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°43'38.28" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|22°24'58.12" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°20'57.85" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°57'55.45" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°32'33.47" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ASU, Asounsion, Asounsyon, Asounsyòn, Asounthion, Assumptio, Assuncao, Assuncion, Assunção, Asuncion, Asunciono, Asunción, Asuns'jon, Asuns'on, Asunsaun, Asunsion, Asunsjon, Asunsjona, Asunsjonas, Asunson, Asunsyon, Asunsyun, Asúnsjón, Gunung Berapi Asuncion, La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion, La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción, Nuestra Senora Santa Maria de la Asuncion, Nuestra Señora Santa María de la Asunción, Paraguay, acunciyon, asnshn, asunshion, asunsion, asunsioni, asunsiyona, asusi'ona, aswnsywn, xa sun si xxng, ya song sen, Ασουνθιόν, Ασουνσιόν, Асунсион, Асунсьйон, Асунсьон, Асунсьён, Ասունսյոն, אסונסיאן, אסונסיון, آسونسیون, أسونسيون, ئاسۇنسىئون, اسنشن, اسونسیون, आसुन्सियोन, ਅਸੂੰਸੀਓਨ, அசுன்சியோன், ಅಸೂನ್‌ಸಿಯಾನ್, อะซุนซิออง, ཨ་སུན་སི་འན།, ასუნსიონი, አሱንሲዮን, アスンシオン, 亞松森, 아순시온

@@ -291,10 +291,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'16.02" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°12'16.02" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°14'42.41" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°54'50.33" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°25'12.68" |Aries|Butain|Venus|
+|☉ Sun|Direct|22°25'2.58" |Aries|Butain|Venus|
 |♀ Venus|Direct|6°21'14.72" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|5°57'49.89" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°34'6.43" |Aquarius|SaadAlSaud|Venus|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'16.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°14'42.41" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°54'50.33" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°25'12.68" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°21'14.72" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'49.89" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°34'6.43" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|6°12'16.02" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°14'40.37" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°54'52.16" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°25'2.58" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°21'12.92" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°57'29.53" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°27'51.41" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: City of Nassau, NAS, Nasau, Nasauo, Nasaŭo, Naso, Nassaou, Nassau, Nassau City, Nassau pa Bahamas, Nassau på Bahamas, Nasáu, na sao, nasa'u, nasau, nasaw, nasayw, nasea, naso, nasso, neco, nsaw, Νασσάου, Насау, Нассау, Նասաու, נסאו, ناسائو, ناساو, نساؤ, नासाउ, নাসাউ, ਨਸਾਊ, நேசோ, നാസോ, แนสซอ, ན་སའོ།, ნასაუ, ናሶ, ナッソー, 拿騷, 拿骚, 나사우, 나소

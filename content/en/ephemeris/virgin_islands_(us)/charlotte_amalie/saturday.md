@@ -291,10 +291,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'10.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°14'20.05" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°53'55.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°23'39.29" |Aries|Butain|Venus|
+|♄ Saturn|Direct|6°12'9.64" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°14'17.41" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|25°53'53.08" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°23'24.19" |Aries|Butain|Venus|
 |♀ Venus|Direct|6°19'30.23" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Retrograde|5°58'3.76" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°11'42.99" |Aquarius|SaadAlSaud|Venus|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'10.62" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°14'20.05" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°53'55.66" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°23'39.29" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°19'30.23" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°58'3.76" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°11'42.99" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|6°12'10.62" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°14'17.41" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°53'53.08" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°23'24.19" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°19'19.19" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°57'38.63" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°44'12.57" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Amalienborg, Amalienburg, Carlota Amalia, Carlotamalio, Charlotte Amalia, Charlotte Amalie, Charlotte Amalie pa Dei amerikanske Jomfruoyane, Charlotte Amalie på Dei amerikanske Jomfruøyane, Di Dorp, Dorp, Het Dorp, Saint Thomas, Saint Thomas City, Sanct Thomas, Sarlot Amali, Sarlote Amalija, Sarlotta Amaliya, Savan, Scharlotte Amelia, Sharlot Amali, Sharlota Amalija, Sharlota-Amalija, Sharlotta-Amalija, Tap House, Tap Hus, Taphuis, Taphus, Taphuus, Taphys, Tappus, Wirtshaus, Zapfhaus, charlxttxa mali, sarlata ameli, sharlwt amaly, srlwt ʼmʼly, syalleos-amallie, xia luo te a ma li ya, Ĉarlotamalio, Şarlotta Amaliya, Šarlotė Amalija, Σαρλότ Αμαλί, Шарлот Амали, Шарлота Амалия, Шарлота Амалија, Шарлота-Амалія, Шарлотта-Амалия, Шарлотта-Амалія, שרלוט אמאלי, شارلوت آمالی, شارلوت أمالي, شارلٹ ایملی, शार्लट आमेली, ชาร์ลอตต์อะมาลี, შარლოტა-ამალია, シャーロット・アマリー, 夏洛特阿马利亚, 샬럿아말리에

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°27'18.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°20'40.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°37'33.42" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|27°2'52.86" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|11°28'48.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°13'13.57" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|10°25'27.27" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|6°27'18.40" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°20'39.15" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°37'29.35" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|27°2'45.35" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|11°28'37.98" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°13'5.40" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|9°48'43.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°27'18.40" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°27'18.40" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|0°20'40.19" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|28°37'33.42" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|27°2'52.86" |Taurus|HaqAh|Saturn|

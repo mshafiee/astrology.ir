@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°15'28.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°28'6.89" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|26°27'41.72" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|23°21'18.67" |Aries|Butain|Venus|
-|♀ Venus|Direct|7°23'54.49" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°51'58.51" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|16°25'16.28" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|6°15'28.80" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°28'9.60" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|26°27'43.30" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|23°21'33.79" |Aries|Butain|Venus|
+|♀ Venus|Direct|7°24'3.97" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|5°52'24.32" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|17°27'33.25" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Moon|Jupiter|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
+|☾ Moon|Venus|Jupiter|Leo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -330,10 +330,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°15'28.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°28'9.60" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|26°27'43.30" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|23°21'33.79" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|6°15'27.83" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°28'6.96" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|26°27'40.70" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|23°21'18.69" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|7°24'3.97" |Cancer|Nathrah|Venus|
 |☿ Mercury|Retrograde|5°52'24.32" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|17°27'33.25" |Pisces|Rescha|Jupiter|

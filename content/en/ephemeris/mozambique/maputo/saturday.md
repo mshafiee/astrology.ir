@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°11'24.79" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°11'24.79" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°11'11.05" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|25°46'12.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°10'25.09" |Aries|Butain|Venus|
-|♀ Venus|Direct|6°4'42.13" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°59'56.09" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|0°8'23.66" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|25°46'14.73" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°10'29.15" |Aries|Butain|Venus|
+|♀ Venus|Direct|6°4'47.15" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|6°0'1.51" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|29°56'53.07" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -307,8 +307,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Saturn|Mars|Saturn|Jupiter|
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Jupiter|Mercury|Mercury|Sun|
-|☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☿ Mercury|Venus|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Moon|Mars|Leo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°11'24.79" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°11'24.79" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°11'11.05" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°46'14.73" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°10'29.15" |Taurus|HaqAh|Saturn|

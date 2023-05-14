@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'13.36" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°12'13.36" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°14'31.37" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°54'23.14" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°24'26.81" |Aries|Butain|Venus|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'13.36" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°12'13.36" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°14'31.37" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|25°54'23.14" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|22°24'26.81" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°20'23.10" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°57'58.40" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°24'3.88" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|6°20'7.44" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°57'40.78" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°52'38.48" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스

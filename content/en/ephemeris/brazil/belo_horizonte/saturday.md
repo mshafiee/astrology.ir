@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'6.37" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°12'6.37" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°14'2.57" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|25°53'12.72" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|22°22'26.49" |Aries|Butain|Venus|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°12'6.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°14'2.57" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|25°53'12.72" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|22°22'26.49" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°18'8.48" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°58'16.45" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°55'2.58" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|6°12'6.37" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°14'2.47" |Aries|Thurayya|Venus|
+|♂ Mars|Direct|25°53'13.45" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|22°22'26.37" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°18'9.62" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|5°58'15.50" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°44'9.35" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: B.H., BH, BHZ, Bel-Horizonto, Bello Horizonte, Belo Horizonte, Belo Horizontė, Belo Hte, Belo Khorizonte, Belo Orizonte, Belo Orizonti, Belu Orizonti, Belu-Aryzonty, Belu-Orizonti, Bhte, Cidade de Minas, Urbs Pulchri Horizontis, bailo orizonti, bei luo ao li cang te, belluolijonchi, belo horijhonte, belo horijonte, belo xo ri sxn chi, beroorizonchi, beroorizonte, blw hwryzwnth, bylw hwryzwnty, pelo aricanc, Μπέλο Οριζόντε, Бело Оризонте, Бело Оризонти, Бело Хоризонте, Белу-Арызонты, Белу-Оризонти, Белу-Оризонті, בלו הוריזונטה, بلو هوریزونته, بيلو هوريزونتي, بیلو ہوریزونتے, बेलो होरिझोन्ते, বেলো হোরিজোন্টে, ਬੈਲੋ ਓਰੀਜ਼ੋਂਤੀ, பெலோ அரிசாஞ்ச், เบโลโอรีซอนชี, ბელუ-ორიზონტი, ベロオリゾンチ, ベロオリゾンテ, 貝洛奥里藏特, 贝洛奥里藏特, 벨루오리존치
