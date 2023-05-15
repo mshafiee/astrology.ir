@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°26'4.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°14'54.98" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°23'12.58" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°38'31.24" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|11°2'1.56" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°7'40.00" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°48'44.04" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|6°26'4.02" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°14'53.03" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°23'6.75" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°38'17.80" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|11°1'45.56" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°7'23.50" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°42'27.59" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°26'4.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°14'54.98" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°23'12.58" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°38'31.24" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|11°2'1.56" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|6°7'40.00" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|4°48'44.04" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°26'4.02" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°14'53.03" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°23'6.75" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°38'17.80" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|11°1'45.56" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|6°7'23.50" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°42'27.59" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Pisces|Sun|Saturn|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

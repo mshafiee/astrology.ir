@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°25'54.35" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°25'54.35" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°14'10.37" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|28°21'21.48" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|26°35'22.48" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°58'16.78" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°6'39.16" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°39'42.23" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|10°58'33.89" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°7'0.34" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°4'34.40" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°25'54.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°14'7.87" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°21'15.66" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°35'6.38" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|10°58'16.78" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|6°6'39.16" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°39'42.23" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°25'54.35" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°14'10.37" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°21'21.48" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°35'22.48" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|10°58'33.89" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|6°7'0.34" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°4'34.40" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

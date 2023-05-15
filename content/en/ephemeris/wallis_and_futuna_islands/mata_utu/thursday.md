@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°25'52.91" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°25'52.91" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°14'3.76" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°20'59.25" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°34'38.83" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°57'46.33" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°6'34.05" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°36'12.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°21'5.02" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°34'54.52" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°58'3.13" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°6'54.57" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°58'12.11" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°25'52.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°14'1.32" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°20'59.25" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°34'38.83" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|10°57'46.33" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|6°6'34.05" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°36'12.54" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°25'52.91" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°14'3.76" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°21'5.02" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°34'54.52" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|10°58'3.13" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|6°6'54.57" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°58'12.11" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

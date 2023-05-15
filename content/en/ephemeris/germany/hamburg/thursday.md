@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°27'1.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°19'20.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°34'15.93" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°57'14.97" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|11°22'38.09" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°11'46.30" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|8°38'43.14" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|6°27'1.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°19'20.60" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°34'15.94" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°57'14.26" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|11°22'37.79" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°11'45.08" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|8°33'32.31" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,10 +330,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°27'1.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°19'20.60" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°34'15.94" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°57'14.26" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°27'1.30" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°19'20.74" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°34'15.93" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°57'14.97" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|11°22'38.09" |Cancer|Nathrah|Mercury|
 |☿ Mercury|Retrograde|6°11'46.30" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|8°38'43.14" |Taurus|Dabaran|Mercury|

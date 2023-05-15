@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°23'10.55" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°23'10.55" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°1'44.48" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|27°50'29.10" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|25°42'49.64" |Aries|Butain|Venus|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°23'10.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°1'44.48" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°50'29.10" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°42'49.64" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|10°0'34.24" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|5°57'31.58" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|19°56'2.92" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|6°23'10.55" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°1'44.45" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°50'29.03" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|25°42'49.42" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|10°0'40.06" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|5°57'52.34" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|21°21'28.82" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Sun|Pisces|Sun|Saturn|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
 
 
 {{< /tab >}}
