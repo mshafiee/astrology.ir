@@ -292,10 +292,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°32'17.94" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°44'33.05" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°37'28.22" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°44'18.56" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°19'53.40" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|0°44'32.94" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°37'26.67" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°44'17.05" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°19'49.99" |Gemini|HanAh|Mars|
 |☿ Mercury|Retrograde|6°44'50.40" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°0'56.57" |Taurus|Thurayya|Mercury|
 
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°32'17.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°44'33.05" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°37'28.22" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|28°44'18.56" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°19'53.40" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|6°44'50.40" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°0'56.57" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|0°44'32.94" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°37'26.67" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|28°44'17.05" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°19'49.99" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|6°44'49.74" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°50'32.25" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Molotov, PEE, Perem, Perm, Perm', Perma, Perme, Permia, Permjo, Permė, Perym, bi er mu, byrm, parma, peiy rm, peleum, perumi, prm, pyrm, Περμ, Молотов, Перĕм, Перем, Перм, Пермь, Перым, Пєрмь, Պերմ, פרם, بيرم, پرم, پیرم, पर्म, เปียร์ม, პერმი, ペルミ, 彼尔姆, 페름

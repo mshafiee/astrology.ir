@@ -294,10 +294,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°32'22.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°44'55.80" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°38'23.57" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°45'52.54" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°21'33.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°45'27.16" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°15'47.54" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°45'55.36" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°21'36.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°45'30.70" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°34'7.14" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°32'22.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°44'55.36" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°38'22.59" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|28°45'52.54" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°21'33.42" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|6°45'27.16" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°15'47.54" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|0°44'55.84" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°38'23.23" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|28°45'55.34" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°21'35.77" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|6°45'31.09" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°33'47.35" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MZR, Masar-e Scharif, Mazar-e Sarif, Mazar-e Sharif, Mazar-e Šarif, Mazar-e-Sharif, Mazar-i Szarif, Mazar-i-Sharif, Mazare Srif, Mazari Sharif, Mazari-Sharif, Mazār-e Sharīf, Mazār-e Šarīf, Mazār-i-Sharīf, Mazāre S̄rīf, majaleu-isyalipeu, mazarisharifu, mzar shryf, Мазари-Шариф, مزار شريف, مزار شریف, マザーリシャリーフ, 마자르이샤리프

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°32'31.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°45'38.10" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°40'9.74" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°48'53.65" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°24'50.21" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°46'35.39" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°42'35.82" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|0°45'39.05" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°40'12.34" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°48'60.00" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°24'57.57" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°46'42.89" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°24'14.43" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°32'31.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°45'38.10" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°40'9.74" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|28°48'53.65" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°24'50.21" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|6°46'35.39" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°42'35.82" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|0°45'39.07" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°40'12.27" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|28°49'0.04" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°24'57.45" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|6°46'43.05" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°24'24.82" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: A-pu-that-pi, AEbu Saby, AUH, Aboe Dhabi, Abou Dabi, Abu Dabi, Abu Dabis, Abu Daby, Abu Daibi, Abu Dhabi, Abu Dhabi Island and Internal Islands City, Abu Dhabi emiraat, Abu Zabi, Abu Zaby, Abu Zabye, Abu Zabyo, Abu Ḍabi, Abu Ḑabi, Abu-Dabi, Abu-Dabi khot, Abu-Dabio, Abu-Dzabi, Abú Dabí, Abú Daibí, Abú Zabí, Abû Daby, Abū Dabī, Abū Z̧aby, Abū Z̧abye, Abū Z̧abyo, Abū Z̧abī, Ampou Ntampi, Ebu Dabi, Ebu Dhabi, a bu zha bi, abu dhabi, abu-dabi, abudabi, abudhabi, abw zby, abwzby, aputapi, jzyrt abwzby wjzr dakhlyt akhry, xa bud abi, Â-pu-tha̍t-pí, Äbu Saby, Əbu-Dabi, Άμπου Ντάμπι, Αμπου Νταμπι, Αμπού Ντάμπι, Абу Даби, Абу-Даби, Абу-Даби хот, Абу-Дабі, Әбу-Даби, Աբու Դաբի, אבו דאבי, أبوظبي, ئەبووزەبی, ابو ظبى, ابوظبی, ابوظہبی, جزيرة أبوظبي وجزر داخلية اخرى, अबु धाबी, अबू धाबी, আবুধাবি, ਅਬੂ ਧਾਬੀ, ଆବୁଧାବି, அபுதாபி, ಅಬು ಧಾಬಿ, അബുദാബി, අබුඩාබි, อาบูดาบี, ཨ་པོའུ་དྷ་པེ།, အဘူဒါဘီမြို့, აბუ-დაბი, አቡ ዳቢ, アブダビ, 阿布扎比, 아부다비

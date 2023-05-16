@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°32'20.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°44'46.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°38'3.09" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°45'16.12" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°20'58.78" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°45'13.03" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°33'16.44" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|0°44'46.42" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°37'59.86" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°45'15.50" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°20'52.80" |Gemini|HanAh|Mars|
+|☿ Mercury|Retrograde|6°45'15.90" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°27'38.53" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,7 +332,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°32'20.72" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|0°44'46.19" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°38'3.09" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|29°37'59.86" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|28°45'16.12" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|13°20'58.78" |Cancer|Tarf|Mercury|
 |☿ Mercury|Retrograde|6°45'13.03" |Taurus|Thurayya|Mercury|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: ISB, Islamabad, Islamabada, Islamabadas, Islamabade, Islamabadi, Islamabado, Islamahbad, Islamampant, Islàmabad, Islámábád, Islāmābād, Islāmābāda, Iszlamabad, Iszlámábád, aslam abad, isalamabada, iseullamabadeu, islamabad, islamabada, islamabadi, islamapat, isuramabado, xislamabad, yi si lan bao, yyslamabad, yyslamyabad, Îslamabad, İslamabad, Ισλαμαμπάντ, Ісламабад, Исламабад, Իսլամաբադ, איסלאמאבאד, איסלמבאד, إسلام آباد, ئىسلامئاباد, ئیسلاماباد, اسلام آباد, اسلام اباد, اسلام‌آباد, އިސްލާމްއާބާދު, इस्लामाबाद, ইসলামাবাদ, ਇਸਲਾਮਾਬਾਦ, ઇસ્લામાબાદ, ଇସଲାମାବାଦ, இஸ்லாமாபாத், ಇಸ್ಲಾಮಾಬಾದ್, ഇസ്ലാമബാദ്, อิสลามาบัด, ཨི་སི་ལམ་བོ།, ისლამაბადი, ኢስላማባድ, イスラマバード, 伊斯兰堡, 伊斯蘭堡, 이슬라마바드
