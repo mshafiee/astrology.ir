@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°35'14.14" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°35'14.14" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°59'10.81" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°14'23.06" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°46'42.69" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|14°27'46.72" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|7°11'5.56" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|16°56'32.41" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|29°46'38.02" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|14°27'36.73" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°11'3.22" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|16°16'13.93" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°35'14.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°59'10.81" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°14'23.06" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°46'42.69" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|14°27'46.72" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|7°11'5.56" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|6°35'14.14" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°59'10.45" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°14'18.71" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°46'38.02" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|14°27'36.73" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°11'5.56" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|16°56'32.41" |Gemini|HanAh|Mars|
 
 

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°36'22.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°4'58.49" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°29'4.16" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°11'29.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|14°54'40.24" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|7°22'54.58" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|22°32'6.36" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|6°36'22.35" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°4'58.43" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°29'3.79" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°11'29.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°54'39.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°22'54.17" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|22°27'50.14" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°36'22.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°4'58.49" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°29'4.16" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|6°36'22.35" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°4'58.43" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°29'3.79" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°11'29.94" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|14°54'40.24" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|7°22'54.58" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°22'54.58" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|22°32'6.36" |Gemini|Dhira|Sun|
 
 

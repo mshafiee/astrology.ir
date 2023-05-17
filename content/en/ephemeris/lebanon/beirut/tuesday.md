@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°20'53.91" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°20'53.91" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°51'35.36" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|27°25'21.74" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|25°0'1.48" |Aries|Butain|Venus|
 |♀ Venus|Direct|9°13'21.59" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°53'18.63" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|5°53'18.63" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|11°13'24.24" |Pisces|FarghAlMuakhar|Jupiter|
 
 
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°20'53.91" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°20'53.91" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°51'35.36" |Aries|Thurayya|Venus|
-|♂ Mars|Direct|27°25'21.74" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°0'1.48" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|9°13'21.59" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°53'18.63" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|11°13'24.24" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|27°25'21.28" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|24°59'58.27" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|9°13'19.40" |Cancer|Nathrah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|5°53'13.42" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|10°55'12.82" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Mars|Sun|Taurus|Moon|Jupiter|
 |♃ Jupiter|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♂ Mars|Mercury|Jupiter|Taurus|Sun|Mars|
-|☉ Sun|Mars|Sun|Pisces|Sun|Saturn|
+|☉ Sun|Mars|Sun|Aquarius|Sun|Saturn|
 |♀ Venus|Jupiter|Mercury|Libra|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
 |☾ Moon|Venus|Moon|Leo|Sun|Mars|

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°21'39.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|29°54'57.86" |Pisces|Rescha|Mars|
-|♂ Mars|Direct|27°33'41.56" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°14'15.47" |Aries|Butain|Venus|
-|♀ Venus|Direct|9°29'5.43" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°54'37.69" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|14°52'47.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|6°21'39.62" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|29°54'57.90" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|27°33'40.41" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|25°14'15.11" |Aries|Butain|Venus|
+|♀ Venus|Direct|9°29'3.34" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|5°54'38.34" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|15°0'52.03" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°21'39.62" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|29°54'57.90" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|6°21'39.62" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|29°54'57.86" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|27°33'41.56" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|25°14'15.11" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|9°29'3.34" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°54'38.34" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|5°54'38.34" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|15°0'52.03" |Aries|Butain|Sun|
 
 

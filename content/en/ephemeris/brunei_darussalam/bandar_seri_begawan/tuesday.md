@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°20'18.92" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°20'18.92" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|29°49'1.16" |Pisces|Rescha|Mars|
 |♂ Mars|Direct|27°19'0.49" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|24°49'12.81" |Aries|Butain|Venus|
 |♀ Venus|Direct|9°1'22.69" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Retrograde|5°52'37.13" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|8°49'41.73" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|5°52'37.13" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°25'39.15" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°20'18.92" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°20'18.92" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|29°49'1.16" |Aries|Thurayya|Venus|
 |♂ Mars|Direct|27°19'0.49" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|24°49'12.81" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|9°1'22.69" |Cancer|Nathrah|Venus|
-|☿ Mercury|Retrograde|5°52'37.13" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|5°52'37.13" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|8°49'41.73" |Aries|Sharatain|Mars|
 
 

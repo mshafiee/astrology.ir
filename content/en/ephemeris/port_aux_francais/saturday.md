@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°32'39.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°46'19.97" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°41'55.31" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°51'54.04" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°28'7.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Retrograde|6°47'50.37" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°2'15.34" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|6°32'40.13" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°46'19.49" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°41'50.78" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°51'48.83" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°27'56.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°47'47.16" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°25'49.99" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°32'39.68" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°46'19.97" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°41'55.31" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|28°51'54.04" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°28'7.26" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|6°47'50.37" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|5°2'15.34" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|6°32'39.68" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°46'19.49" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°41'50.78" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|28°51'48.83" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°27'56.91" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°47'47.16" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°25'49.99" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰
