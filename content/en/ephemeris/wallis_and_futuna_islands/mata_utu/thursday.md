@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°25'52.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°14'3.76" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°21'5.02" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°34'54.52" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°58'0.05" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°6'32.52" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°22'17.46" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|0°14'1.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°20'59.25" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°34'38.83" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°57'46.33" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|6°6'34.05" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°36'12.54" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°25'52.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°14'1.33" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°21'6.27" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°34'42.69" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|10°58'0.05" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°6'32.52" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°22'17.46" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|0°14'3.76" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°21'5.02" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°34'38.83" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|10°57'46.33" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|6°6'34.05" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°36'12.54" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Pisces|Sun|Saturn|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

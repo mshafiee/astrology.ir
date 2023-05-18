@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°33'38.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°51'8.27" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°54'2.11" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|29°12'23.70" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°50'26.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°56'7.63" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|9°48'10.02" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|0°51'5.50" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°53'57.20" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|29°12'6.61" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°50'10.40" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|6°55'45.13" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°57'41.01" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -333,9 +333,9 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|6°33'38.00" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|0°51'8.27" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°54'2.11" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|29°12'6.61" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°50'10.40" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°55'45.13" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°12'23.70" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°50'26.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|6°56'7.63" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|9°48'10.02" |Gemini|HanAh|Jupiter|
 
 

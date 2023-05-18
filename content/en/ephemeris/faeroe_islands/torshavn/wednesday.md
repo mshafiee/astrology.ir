@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°24'4.31" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°5'47.52" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°0'32.84" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|25°59'54.68" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|10°19'32.31" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°0'18.88" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°1'52.87" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|28°0'34.92" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°0'1.89" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|10°19'38.96" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|6°0'29.15" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|25°40'0.04" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°24'4.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°5'47.89" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°0'29.43" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|25°59'54.29" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|10°19'26.16" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°0'22.19" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|25°24'29.24" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|0°5'48.74" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°0'34.92" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°0'1.89" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|10°19'38.96" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|6°0'29.15" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|25°40'0.04" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Venus|Venus|Venus|Moon|
 |♂ Mars|Saturn|Saturn|Jupiter|Mercury|
-|☉ Sun|Saturn|Saturn|Saturn|Venus|
+|☉ Sun|Saturn|Mars|Saturn|Venus|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Venus|Venus|Venus|Moon|
 |☾ Moon|Saturn|Saturn|Jupiter|Saturn|

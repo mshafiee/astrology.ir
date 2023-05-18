@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|1°2'39.32" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°8'4.40" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°55'52.79" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°52'42.10" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°52'42.10" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|4°46'59.62" |Gemini|HanAh|Jupiter|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|1°2'39.32" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°8'4.40" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|15°55'52.79" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°52'42.10" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|7°52'42.10" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|4°46'59.62" |Cancer|Nathrah|Venus|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Capital megye, Ciuda de Mendoza, Ciudad de Mendoza, Ciudá de Mendoza, MDZ, Mendos, Mendosa, Mendosae, Mendoza, Mentosa, Vila de Mendoza, men do sa, men duo sa, mendosa, mendoza, mndwsh, mndwza, myndwza, Μεντόσα, Мендоза, Мендосæ, Мендоса, Մենդոսա, מנדוסה, مندوزا, مندوسا، ارجنٹائن, میندوزا, मेन्दोज़ा, เมนโดซา, მენდოსა, メンドーサ, 门多萨, 멘도사

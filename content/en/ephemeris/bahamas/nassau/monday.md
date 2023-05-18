@@ -293,10 +293,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°38'47.74" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°17'35.73" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°1'12.39" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°5'25.04" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°53'10.17" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°50'59.58" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°1'11.00" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°5'35.15" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°53'11.87" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|7°50'59.58" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°40'32.85" |Gemini|HaqAh|Jupiter|
 
 
@@ -335,7 +335,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|1°1'11.00" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°5'35.15" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|15°53'11.87" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°51'17.63" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|7°51'17.63" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|4°8'58.02" |Cancer|Nathrah|Venus|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: City of Nassau, NAS, Nasau, Nasauo, Nasaŭo, Naso, Nassaou, Nassau, Nassau City, Nassau pa Bahamas, Nassau på Bahamas, Nasáu, na sao, nasa'u, nasau, nasaw, nasayw, nasea, naso, nasso, neco, nsaw, Νασσάου, Насау, Нассау, Նասաու, נסאו, ناسائو, ناساو, نساؤ, नासाउ, নাসাউ, ਨਸਾਊ, நேசோ, നാസോ, แนสซอ, ན་སའོ།, ნასაუ, ናሶ, ナッソー, 拿騷, 拿骚, 나사우, 나소

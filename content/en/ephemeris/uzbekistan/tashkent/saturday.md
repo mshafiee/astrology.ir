@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°32'20.27" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°44'43.66" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°37'57.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°45'4.44" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°20'47.30" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°45'4.88" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°9'30.10" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|0°44'44.27" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°37'54.65" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°45'6.08" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°20'42.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|6°45'11.27" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°19'8.78" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°32'20.27" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°44'43.66" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°37'57.66" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|28°45'4.44" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°20'47.30" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°45'4.88" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°9'30.10" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|0°44'42.05" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°37'54.65" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|28°44'54.22" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°20'42.78" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|6°44'52.16" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°2'26.55" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Daskent, Daşkent, Daşkənd, Lithopolis, TAS, Tachkent, Tachkènt, Taixkent, Taschkent, Tashken, Tashkend, Tashkent, Tashkent osh, Tashkenti, Tasjkent, Taskende, Taskent, Taskenta, Taskentas, Taskento, Taszkent, Taxkent, Taŝkento, Taşkent, Taškent, Taškenta, Taškentas, Tașkent, Tochkent, Toshkand, Toshkent, Toshkent shahri, ta shen gan, tasakada, tasakanda, tasakhanda, tashknd, tashqnd, tashukento, taskanda, taskanr, taskantu, taskent, tasyukenteu, thach khen t, tshqnd, tsqnt, Τασκένδη, Ташкен, Ташкент, Ташкент ош, Тошканд, Տաշքենդ, טאשקענט, טשקנט, تاشقند, تاشكند, تاشكەنت, تاشکند, تاشکەند, طشقند, ताशकन्द, ताश्कंद, তাশখন্দ, ਤਾਸ਼ਕੰਦ, தாஷ்கந்து, తాష్కెంట్, ತಾಷ್ಕೆಂಟ್, താഷ്കന്റ്, ทาชเคนต์, ཐ་ཧྲི་ཀན།, ტაშკენტი, ታሽኬንት, タシュケント, 塔什干, 타슈켄트

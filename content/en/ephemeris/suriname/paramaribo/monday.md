@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|0°59'49.89" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°3'19.55" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°50'45.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°50'3.28" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°47'44.87" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|7°50'3.28" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°36'8.59" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°38'41.74" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°17'4.05" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°59'49.89" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°3'19.55" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°50'45.10" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°50'3.28" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°47'44.87" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|0°59'51.45" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°3'13.82" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°50'45.48" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|7°49'52.12" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°36'8.59" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PBM, Paramaribas, Paramaribo, Paramaribô, Paramarimpo, Paramaryba, Paramaríbó, ba la ma li bo, baramarybw, pa la ma li bo, pa rama ri bo, palamalibo, paramaribo, paramaripo, paramarybw, prmrybw, Παραμαρίμπο, Парамарибо, Парамарыба, Парамарібо, Պարամարիբո, פאראמאריבא, פרמריבו, باراماريبو, پاراماریبو, पारामरिबो, पारामारिबो, ਪਾਰਾਮਾਰੀਬੋ, પારામારિબો, பரமாரிபோ, ปารามารีโบ, པེ་ར་མེ་རི་བོ།, პარამარიბო, ፓራማሪቦ, パラマリボ, 巴拉馬利波, 帕拉马里博, 파라마리보
