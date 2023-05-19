@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'47.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°46'55.71" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°43'25.66" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°54'26.20" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°30'53.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|6°48'48.66" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°28'46.83" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'47.01" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°46'53.50" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°43'25.81" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°54'14.79" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°30'48.66" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°48'29.37" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°16'35.17" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'47.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°46'53.50" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'47.01" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°46'55.71" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°43'25.81" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|28°54'14.79" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|13°30'48.66" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|6°48'29.37" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°48'29.37" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|4°16'35.17" |Gemini|HaqAh|Jupiter|
 
 

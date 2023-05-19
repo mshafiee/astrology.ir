@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'43.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°17'12.69" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°0'18.02" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°3'57.15" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°51'33.91" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|7°50'15.12" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°51'47.73" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'43.65" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°17'14.12" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°0'15.62" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°4'2.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°51'31.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°50'27.04" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°55'29.76" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'43.65" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'43.65" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°17'14.12" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°0'15.62" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°4'2.69" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|15°51'31.75" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|7°50'27.04" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°50'27.04" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|3°55'29.76" |Cancer|Nathrah|Venus|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Acalquixohuayan Caxtillan, City of Port-of-Spain, POS, Po of Espay, Port of Spain, Port of Spein, Port of Speinas, Port of Spejn, Port of Speyn, Port oph Spein, Port ov Spejn, Port uf Spejn, Port-Of-Spejn, Port-au-Spain, Port-d'Espagne, Port-of-Spain, Port-of-Spein, Port-of-Spejn, Port-of-speyn, Porto Espana, Porto España, Portofspeina, Portospeno, Portu de Spania, Puerto Espana, Puerto España, Pò of Espay, bwrt awf sbyn, phxrt-xxf-spen, porata afa sapena, port ahp speyn, porta aba spena, porta opha spena, poteu obeu seupein, poteuobeuseupein, potoobusupein, prt aw aspayn, xi ban ya gang, Πορτ οφ Σπέιν, Πορτ-οφ-Σπέιν, Порт ов Спејн, Порт оф Спейн, Порт оф Спејн, Порт ъф Спейн, Порт-Оф-Спейн, Порт-оф-Спейн, פורט אוף ספיין, بورت أوف سبين, پرت آو اسپاین, پورٹ آف اسپین, पोर्ट ऑफ स्पेन, পোর্ট অব স্পেন, ਪੋਰਟ ਆਫ਼ ਸਪੇਨ, போர்ட் ஆஃப் ஸ்பெய்ன், പോർട്ട് ഓഫ് സ്പെയിൻ, พอร์ต-ออฟ-สเปน, པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།, პორტ-ოვ-სპეინი, ፖርት ኦፍ ስፔን, ポートオブスペイン, 西班牙港, 포트 오브 스페인, 포트오브스페인

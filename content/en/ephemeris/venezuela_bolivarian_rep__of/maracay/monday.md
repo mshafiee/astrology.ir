@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'46.31" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'46.31" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°17'28.19" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°0'51.52" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°5'3.10" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°52'19.83" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|7°50'43.43" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°31'56.22" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°52'36.99" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°51'0.70" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°8'29.82" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'46.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°17'25.97" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°0'45.76" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°4'47.99" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°52'19.83" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|7°50'43.43" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°31'56.22" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'46.31" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°17'28.20" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°0'51.49" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°5'3.09" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°52'36.93" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°51'0.73" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°8'15.19" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MYC, Maracay, Marakai, Marakaj, Marakajo, Marakajus, Marakay, ma la kai, malakai, marakai, marakay, Μαρακάι, Маракай, ماراکای, მარაკაი, マラカイ, 马拉凯, 마라카이

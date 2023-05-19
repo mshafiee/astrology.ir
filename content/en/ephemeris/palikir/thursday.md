@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°26'2.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°14'43.18" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°22'50.06" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|26°37'38.95" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|11°1'13.40" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|6°7'7.83" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°56'31.85" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|6°26'2.03" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°14'45.73" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°22'49.67" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|26°37'39.43" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|11°1'4.97" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°7'14.61" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°30'9.65" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°26'2.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°14'45.73" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°22'49.67" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|26°37'38.95" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|11°1'13.40" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|6°7'7.83" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°56'31.85" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°26'2.03" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°14'43.77" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°22'44.98" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|26°37'39.43" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|11°1'4.97" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°7'14.61" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°30'9.65" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르
