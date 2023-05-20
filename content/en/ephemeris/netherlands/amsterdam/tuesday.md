@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°40'35.57" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°40'35.57" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°27'12.75" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°25'46.54" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°46'53.82" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°37'45.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|8°15'20.71" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°35'29.51" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|1°46'47.08" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|16°37'43.61" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|8°15'9.10" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°20'49.41" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°40'35.57" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°27'12.75" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°25'46.54" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°46'53.82" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°37'45.26" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|8°15'9.10" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|6°40'35.57" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°27'11.39" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°25'47.26" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°46'47.08" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°37'43.61" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|8°15'9.10" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|12°20'49.41" |Cancer|Nathrah|Mercury|
 
 

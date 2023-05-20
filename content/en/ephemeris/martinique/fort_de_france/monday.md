@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'42.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°17'9.01" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°0'6.57" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°3'41.87" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°51'14.75" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°50'10.84" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°2'11.98" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|6°38'42.79" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°17'9.59" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°0'4.11" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°3'43.16" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°51'10.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|7°50'15.97" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°49'56.25" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'42.79" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°38'42.79" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°17'9.59" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°0'4.11" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°3'41.87" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°51'14.75" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°50'10.84" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|4°2'11.98" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°3'43.16" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°51'10.72" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|7°50'15.97" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°49'56.25" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Arx Gallica, FDF, Fod Fwans, For d'o Frans, For de Frans, For de Fransas, For-de-Frans, For-nte-Frans, Fordefransa, Fort Royal, Fort Royale, Fort-de-France, Fort-de-Frans, Fort-deh-Frans, Fòd Fwans, Fôrt-de-France, Le Fort-de-France, f xr-dex-fr xngs, fa lan xi bao, foru=do=furansu, fwr dw frans, fwr-dw-frans, phorta-de-phransa, pirancuk kottai, poleudeupeulangseu, por-de-pransi, Φορ-ντε-Φρανς, Фор де Франс, Фор дьо Франс, Фор-де-Франс, Форт-де-Франс, Форт-дэ-Франс, Ֆոր դե Ֆրանս, פור-דה-פראנס, فور دو فرانس, فور-دو-فرانس, فورٹ ڈی فرانس, फोर्ट-दे-फ्रान्स, பிரான்சுக் கோட்டை, ฟอร์-เดอ-ฟร็องส์, ფორ-დე-ფრანსი, フォール＝ド＝フランス, 法兰西堡, 포르드프랑스

@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°32'16.20" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°32'16.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°44'24.21" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°37'3.68" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|28°43'41.24" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|13°19'9.67" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°44'41.38" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|6°44'41.38" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°14'23.31" |Taurus|Thurayya|Mercury|
 
 
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°32'16.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°44'24.35" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°37'2.78" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|28°43'41.37" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°19'8.10" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°44'42.70" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°14'34.86" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|6°32'16.20" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°44'24.21" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°37'3.68" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|28°43'41.24" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°19'9.67" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|6°44'41.38" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°14'23.31" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CCU, Calcuta, Calcutta, Calcutá, Calcúta, Caligardamana, Kaelkuettae, Kal'kuta, Kal'kutta, Kal'kuttae, Kalikata, Kalikātā, Kalkata, Kalkota, Kalkouta, Kalkueta, Kalkuta, Kalkutta, Kalkútta, Kalküta, Kolkat, Kolkata, Kolkate, Kolkato, Kolkāta, Kälküttä, Kəlkətə, Sealdah, jia er ge da, jia li ji da, kalakata, kalakatta, kalikata, kalkata, keaൽkkatta, klkta, klkth, klkwth, ko l ka ta, kolakata, kolkata, kolkatta, kol‌kata, korukata, kwlkata, kʼolkʼatʼa, qwlqth, Καλκούτα, Калькута, Калькуттæ, Калькутта, Колката, Колкате, Կալկաթա, כלכותה, קאלקאטא, קולקטה, كلكتا, كولكاتا, کلکته, کلکتہ, کولکاتہ, کَلٕکَتا, کەلکەتە, कलकत्ता, कोलकाता, কলকাতা, ਕੋਲਕਾਤਾ, કોલકાતા, କଲିକତା, கொல்கத்தா, కోల్‌కాతా, ಕೊಲ್ಕತ್ತ, കൊൽക്കത്ത, โกลกาตา, ཀ་ལི་ཀུ་ཏ, ကာလကတ္တားမြို့, კოლკატა, ኮልካታ, コルカタ, 加尔各答, 架利吉打, 콜카타

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°29'23.95" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°29'23.95" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°30'32.08" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°2'13.45" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|27°44'43.23" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|12°14'41.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|6°24'39.43" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|20°2'54.64" |Aries|Butain|Venus|
+|♀ Venus|Direct|12°14'29.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|6°24'35.44" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|19°33'5.56" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°29'23.95" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°29'23.95" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|0°30'32.08" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°2'13.45" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|27°44'43.23" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|12°14'41.71" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|6°24'39.43" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|6°24'39.43" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|20°2'54.64" |Taurus|Dabaran|Saturn|
 
 
