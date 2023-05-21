@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'23.03" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'23.03" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|0°44'57.71" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°38'27.79" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°46'4.20" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°21'45.32" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|6°45'37.00" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°53'53.32" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°46'1.90" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°21'48.44" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°45'30.33" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°41'2.03" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'23.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°44'57.71" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°38'27.79" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|28°46'4.20" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°21'45.32" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|6°45'37.00" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°53'53.32" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'23.03" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°44'56.98" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°38'30.08" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|28°46'1.90" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°21'48.44" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°45'30.33" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°41'2.03" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보

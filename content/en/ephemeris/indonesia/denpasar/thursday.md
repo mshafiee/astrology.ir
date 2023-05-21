@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°44'52.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°51'6.04" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°27'13.94" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°30'1.57" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°28'18.22" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|9°24'24.16" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°20'30.35" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°44'52.31" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°51'6.08" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°27'13.32" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°30'1.32" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°28'16.90" |Gemini|Dhira|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°24'24.55" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°13'17.14" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°44'52.31" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°44'52.31" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°51'6.04" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°27'10.44" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°29'54.62" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°28'8.61" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|9°24'17.69" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|3°38'55.27" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|2°27'13.94" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°30'1.32" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°28'16.90" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°24'24.55" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|4°13'17.14" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: DPS, Dehnpasar, Dempasar, Dempassar, Denpasar, Denpasar - Bali, Denpasar Bali, Denpasaras, Kota Denpasar, Kutha Denpasar, Ntenpasar, dan pa sha, denapasara, denpasaleu, denpasaru, dnpasar, Ντενπασάρ, Денпасар, Дэнпасар, דנפסאר, دنپاسار, ڈنپاسار, ڈنپسار, देनपसार, દેનપસાર, ဒန်ပါဆာမြို့, დენპასარი, デンパサール, 丹帕沙, 덴파사르

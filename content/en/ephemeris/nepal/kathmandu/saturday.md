@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'16.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°44'25.93" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°37'8.13" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°43'48.45" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°19'17.67" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|6°44'43.56" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'16.55" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°44'25.11" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°37'11.32" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°43'45.97" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°19'22.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°44'43.56" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°12'40.35" |Taurus|Thurayya|Mercury|
 
 
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'16.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°44'25.93" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'15.61" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°44'25.11" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°37'8.13" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|28°43'48.45" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|13°19'17.67" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|6°44'43.56" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°12'40.35" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|6°44'43.56" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°58'0.53" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Catmandu, Catmandum, KTM, Kantipur, Kantipura, Katemandu, Kathmandau, Kathmandou, Kathmandu, Katmando, Katmandoe, Katmandou, Katmandu, Katmanduo, Katmandó, Katmandú, Katmandû, Katmandū, Katmantou, Khatmandu, Káthmandu, Káthmándú, jia de man dou, kateumandu, kath manthu, kathamadaum, kathamadaum mahanagarapalika, kathamadu, kathamandu, kathmandu, katmandw, katmandww, katmantu, katomanzu, qtmndw, yem jilla, Κατμαντού, Катманду, Կատմանդու, קאטמאנדו, קטמנדו, كاتماندو, كاتماندۇ, کاتماندو, کاتماندوو, کھٹمنڈو, काठमांडू, काठमाडौं, काठमाडौं महानगरपालिका, काठमाण्डू, येँ जिल्ला, কাঠমাণ্ডু, কাঠমান্ডু, ਕਠਮੰਡੂ, કાઠમંડુ, କାଠମାଣ୍ଡୁ, காட்மாண்டு, కాఠ్మండు, ಕಠ್ಮಂಡು, കാഠ്മണ്ഡു, කත්මන්ඩු, กาฐมาณฑุ, ཀ་ཏ་མན་ཏ།, ཀ་ཏ་མན་ཏུ།, კატმანდუ, ካትማንዱ, カトマンズ, 加德滿都, 카트만두

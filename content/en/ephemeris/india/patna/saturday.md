@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'17.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°44'28.39" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°37'14.26" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°43'58.95" |Aries|Thurayya|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'17.05" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°44'28.27" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°37'16.09" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°43'59.44" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|13°19'29.06" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|6°44'47.78" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°16'24.76" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°44'47.78" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°20'32.02" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'17.05" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°44'28.39" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°37'13.69" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|28°43'58.77" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°19'27.96" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|6°44'48.17" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°14'54.86" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'16.71" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°44'28.27" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°37'16.09" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|28°43'58.95" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°19'29.06" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°44'47.78" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°20'32.02" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: 'Azimabad, New Patna, PAT, Patna, Patna New City, Patnao, ba te na, batna, pat na, patana, pateuna, patna, patona, ptnh, ʿAẓīmābād, Πάτνα, Патна, Պատնա, פטנה, باتنا, پتنه, پٹنہ, پټنا, पटना, पाटणा, पाट्ना, পাটনা, ਪਟਨਾ, પટના, ପାଟଣା, பட்னா, பாட்னா, పాట్నా, ಪಟ್ನಾ, പട്ന, ปัฏนา, პატნა, パトナ, パトナー, 巴特那, 파트나

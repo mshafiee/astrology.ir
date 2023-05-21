@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'50.13" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'50.13" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°17'48.55" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°1'43.33" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°6'30.57" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°54'11.35" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|7°51'49.99" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°30'14.73" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|7°51'49.99" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°8'39.59" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'50.13" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°17'48.55" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°1'43.33" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°6'30.57" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°54'11.35" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|7°51'49.99" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|4°30'14.73" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'50.13" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°17'46.49" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°1'44.89" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°6'21.46" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°54'10.54" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°51'33.30" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°8'39.59" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chuqichaka, Ciudad Sucre, Ijoloti Sukre, SRE, Sik, Soukre, Sucre, Sucre toertenelmi ovarosa, Sucre történelmi óvárosa, Sukre, Sukreh, Sukri, Sukro, Sukrė, Súkre, su ke lei, su ker, sukare, sukeule, sukre, sukure, swkrh, swkry, swqrh, Σούκρε, Иёлоти Сукре, Сукре, Сукрэ, Սուկրե, סוקרה, سوكري, سوکره, سکرے, سۇكرې, सुक्रे, ਸੂਕਰੇ, ซูเกร, སུ་ཁུ་རེ།, სუკრე, スクレ, 苏克雷, 蘇克雷, 수크레

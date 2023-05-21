@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°44'55.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°51'25.06" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°28'1.49" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°31'20.35" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°29'39.29" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|9°25'20.37" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°47'27.34" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°44'55.78" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°51'26.02" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°28'5.79" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°31'28.12" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°29'50.82" |Gemini|Dhira|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°25'27.09" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°38'44.84" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°44'55.78" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°44'55.78" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°51'26.02" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°28'5.67" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°31'28.02" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°29'50.56" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|9°25'20.37" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|3°47'27.34" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|2°28'5.79" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°31'28.12" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°29'50.82" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°25'27.09" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|4°38'44.84" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Gizlungzpoh, KUL, Kouala Loumpou, Kouala Loumpour, Kuala Lumpor, Kuala Lumpur, Kuala-Lumpur, Kuala-Lumpuro, Kualae-Lumpur, Kualalumpura, Kualalumpūra, Kvala Lumpuras, Kvala Lumpūras, Kúala Lúmpúr, ji long po, kaulalampur, kawlalampexr, kolalampur, ku'a lalampura, ku'ala lupura, ku'alalampura, ku'alalumpura, kuallalumpuleu, kuararunpuru, kuyalalamapura, kvalalampura, kwala lambwr, kwala lmpwr, kwalalampwr, kwalalmbwr, kwalalmpwr, kwalalwmpwr, kۇyalalۇmpۇr, Κουάλα Λουμπούρ, Куалæ-Лумпур, Куала Лумпур, Куала-Лумпур, Կուալա Լումպուր, קואלה לומפור, كوالا لامبور, كوالالمبور, كۇئالالۇمپۇر, کوالا لمپور, کوالالامپور, کوالالمپور, کوالالومپور, कुआ लालम्पुर, कुआलालम्पुर, क्वालालंपूर, কুয়ালালামপুর, ਕੁਆਲਾ ਲੁੰਪੁਰ, କୁଆଲାଲୁମ୍ପୁର, கோலாலம்பூர், ಕೌಲಾಲಂಪುರ್, കോലാലമ്പൂർ, กัวลาลัมเปอร์, ཁལ་ལུང་ཕུ།, ကွာလာလမ်ပူမြို့, კუალა-ლუმპური, ኩዋላ ሉምፑር, クアラルンプール, 吉隆坡, 쿠알라룸푸르

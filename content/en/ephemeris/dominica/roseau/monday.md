@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'42.80" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'42.80" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°17'9.64" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°0'4.27" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°3'43.38" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°51'10.97" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|7°50'16.06" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|7°50'16.06" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°49'42.68" |Gemini|HaqAh|Jupiter|
 
 
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'42.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°17'9.60" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°0'3.68" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°3'42.80" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°51'9.64" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|7°50'15.84" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°43'36.71" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'42.80" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°17'9.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°0'4.27" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°3'43.38" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°51'11.92" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|7°50'3.42" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°39'38.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조

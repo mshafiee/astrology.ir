@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'41.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°46'31.02" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°42'23.60" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°52'40.76" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°28'58.68" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|6°48'6.51" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°0'0.65" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'41.99" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°46'30.25" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°42'27.23" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°52'38.92" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°29'4.32" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°47'59.00" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°51'28.38" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Gemini|Sun|Mars|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'41.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|0°46'31.02" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°42'23.60" |Cancer|Jabhah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'41.03" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|0°46'30.25" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°42'27.23" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|28°52'40.76" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|13°28'58.68" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|6°48'6.51" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°48'6.51" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|5°0'0.65" |Gemini|HanAh|Jupiter|
 
 

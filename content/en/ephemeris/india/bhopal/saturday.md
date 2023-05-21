@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'21.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|0°44'48.34" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°38'5.15" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|28°45'24.26" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|13°21'3.02" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|6°45'19.82" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°37'30.13" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'21.13" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|0°44'48.56" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°38'6.24" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°45'25.88" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|13°21'5.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Post-Retrograde Shadow|6°45'21.23" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°48'1.90" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°32'21.13" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°32'21.13" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|0°44'48.40" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°38'4.61" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|28°45'24.24" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|13°21'2.05" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|6°45'20.44" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|6°45'20.44" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|3°36'59.93" |Gemini|HaqAh|Jupiter|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BHO, Bhojpal, Bhopal, Bhopala, Bhopalas, Bhopalo, Bhopál, Bhopāl, Bhopāla, Bhópál, Bkhapal, Bkhopal, Bopal, Bópal, bhopal, bhopala, bo pa er, bopal, boparu, bwbal, bwpal, popal, Μποπάλ, Бопал, Бхапал, Бхопал, בופאל, بوبال, بوپال, بھوپال, بہوپال, भोपाल, भोपाळ, ভোপাল, ਭੋਪਾਲ, ભોપાલ, ଭୋପାଳ, போபால், భోపాల్, ಭೊಪಾಲ್, ഭോപ്പാൽ, ბჰოპალი, ボパール, ボーパール, 博帕尔, 보팔

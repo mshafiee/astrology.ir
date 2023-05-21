@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°44'39.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°49'52.87" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°24'3.55" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°24'38.85" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°22'30.70" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|9°20'25.74" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|1°57'19.18" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°44'39.85" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°49'54.28" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°24'9.07" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°24'50.35" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°22'46.52" |Gemini|Dhira|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°20'36.59" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°8'19.03" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°44'39.85" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°49'52.87" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°24'3.55" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°24'38.85" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°22'30.70" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|9°20'25.74" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|1°57'19.18" |Leo|Jabhah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°44'39.85" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°49'54.32" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°24'9.18" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°24'50.35" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°22'46.52" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°20'36.59" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|3°8'19.03" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chemulpo, Incchon, Inch'on, Inch'ŏn, Incheon, Incheon-si, Inchkhon, Inchkhun, Inchon, Inchona, Incon, Inconas, Incshon, Intson, Inĉon, Inčchon, Inčhona, Inčonas, JCN, Nhan Xuyen, Nhân Xuyên, anchn, antshwn, aynchywn, incevona, incheon, incheongwang-yeogsi, incheonsi, inkiyon, ren chuan guang yu shi, xin chxn, İncheon, Ίντσον, Інчхон, Инчон, Инчхон, Инчхън, אינצ'ון, إنتشون, انچن, اینچئون, इंचेवॉन, இங்கியோன், อินช็อน, 仁川广域市, 仁川広域市, 仁川廣域市, 인천, 인천광역시, 인천시

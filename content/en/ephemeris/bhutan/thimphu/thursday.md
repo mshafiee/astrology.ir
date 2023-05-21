@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°44'56.45" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°44'56.45" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°51'29.85" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°28'15.96" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°31'44.18" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°30'8.16" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|9°25'37.94" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°35'43.02" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°28'11.39" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°31'30.09" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°29'53.29" |Gemini|Dhira|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°25'21.84" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°36'54.01" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°44'56.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°51'29.85" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°28'15.96" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°31'44.18" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|6°44'56.45" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°51'27.74" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°28'11.39" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°31'30.09" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|18°29'53.29" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|9°25'21.84" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°25'21.84" |Taurus|Dabaran|Mercury|
 |☾ Moon|Direct|3°36'54.01" |Leo|Jabhah|Saturn|
 
 
