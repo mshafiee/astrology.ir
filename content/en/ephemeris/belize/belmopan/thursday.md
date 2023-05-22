@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°46'6.10" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°46'6.10" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°58'15.58" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°45'46.75" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|4°1'3.07" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|19°1'27.51" |Gemini|Dhira|Mars|
-|☿ Mercury|Post-Retrograde Shadow|9°47'28.91" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°6'30.82" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|19°1'23.25" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|9°47'33.02" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|10°37'46.42" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°46'6.10" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°46'6.10" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°58'15.58" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|2°45'46.75" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|4°1'2.27" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|19°1'27.51" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|9°47'28.91" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|11°6'30.82" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|4°1'3.07" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|19°1'23.25" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|9°47'33.02" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|10°37'46.42" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Mercury|Venus|Moon|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
+|☾ Moon|Venus|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

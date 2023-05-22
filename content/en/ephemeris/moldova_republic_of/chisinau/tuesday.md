@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°40'28.04" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°40'28.04" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°26'31.97" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°24'1.94" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°43'58.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|16°34'33.54" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|8°13'33.02" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|11°47'48.41" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|16°34'36.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|8°13'35.07" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°2'41.42" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°40'28.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°26'31.69" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°24'0.88" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°43'56.50" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°34'33.54" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|8°13'33.02" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|11°47'48.41" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|6°40'28.04" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°26'31.97" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°24'1.94" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°43'58.61" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|16°34'36.43" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|8°13'35.07" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|12°2'41.42" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

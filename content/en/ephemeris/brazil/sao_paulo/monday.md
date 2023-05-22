@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'42.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°17'9.40" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°0'8.42" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°3'42.45" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°51'16.46" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°50'8.16" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°44'13.95" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|6°38'42.97" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°17'10.73" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°0'6.86" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°3'48.18" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°51'15.99" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|7°50'19.36" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°55'0.68" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'42.97" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°17'9.40" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°0'8.42" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°3'42.45" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°51'16.46" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°50'8.16" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°44'13.95" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|6°38'42.97" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°17'10.73" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°0'6.86" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°3'48.18" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°51'15.99" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|7°50'19.36" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°55'0.68" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: SAO, Sampa, San Paolo, San Paul ed Brasil, San Paulas, San Paulo, San Paulu, San Paulu du Brasili, San Paulu dû Brasili, San Pauluw, San Pawlo, San Polo del Braxil, San Poulo, San Poło del Braxil, San Pàul ëd Brasil, San-Paulo, San-Paulu, San-Paŭlo, Sanpaulu, Sao Paolo, Sao Paulo, Sao Paulo capital, Saun Paulu, Sawo Palo, Sawo Pålo, São Paolo, São Paulo, São Paulo capital, Urbs Paulistana, cavo pavulo, sa'o pa'ulo, sa'o paulo, samu pa'ulu, sangpaollo, sangpaollu, sangpaullo, sangpaullu, sankt. paulos, sanpauro, savea pealea, savo palo, saw bawlw, saw palw, saw pwlw, saywpaywlw, sea pea lu, sheng bao luo, Σάο Πάολο, Сан Пауло, Сан Паулу, Сан-Паулу, Сан-Паўлу, Сао Паоло, Сао Пауло, Սան Պաուլու, סאו פאולא, סאו פאולו, ساؤ پالو, ساؤ پولو, سائوپائولو, ساو باولو, ܣܐܘ ܦܐܘܠܘ, ސައޮ ޕައުލޯ, साओ पाउलो, সাঁউ পাউলু, সাও পাউলো, சாவோ பாவுலோ, శఒ పౌలొ, ಸಾವೊ ಪಾಲೊ, സാവോ പോളോ, เซาเปาลู, ဆောပိုလိုမြို့, სან-პაულუ, ሳው ፓውሉ, サンパウロ, 聖保羅, 상파올로, 상파올루, 상파울로, 상파울루

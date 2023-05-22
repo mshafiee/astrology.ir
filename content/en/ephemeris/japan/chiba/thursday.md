@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°44'35.13" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°44'35.13" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°49'27.15" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°22'58.91" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|3°22'52.75" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|18°20'40.82" |Gemini|Dhira|Mars|
-|☿ Mercury|Post-Retrograde Shadow|9°19'11.75" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|9°19'11.75" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|2°43'36.42" |Cancer|Nathrah|Venus|
 
 
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°44'35.13" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°44'35.13" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°49'27.15" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|2°22'58.91" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°22'40.66" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°20'30.73" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|9°18'56.23" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|2°7'34.10" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°22'52.75" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°20'40.82" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|9°19'11.75" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|2°43'36.42" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시

@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'42.43" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°38'42.43" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°17'7.68" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°59'59.23" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°3'27.23" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°51'1.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°50'11.53" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°49'56.98" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°30'50.48" |Gemini|HaqAh|Jupiter|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'42.43" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°38'42.43" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°17'7.68" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|0°59'59.23" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°3'35.01" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|15°51'1.89" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°50'11.53" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|7°50'11.53" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|3°48'45.91" |Cancer|Nathrah|Venus|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운

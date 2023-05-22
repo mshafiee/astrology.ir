@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°47'31.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°6'41.14" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°7'37.64" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|4°37'36.15" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|19°40'10.27" |Gemini|Dhira|Mars|
-|☿ Mercury|Post-Retrograde Shadow|10°16'14.64" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|17°23'9.19" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|6°47'31.09" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|2°6'41.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°7'41.64" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|4°37'41.40" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|19°40'20.32" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|10°16'17.69" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|18°7'11.34" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Sun|Jupiter|Capricorn|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°47'31.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°6'41.14" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°7'37.64" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|4°37'36.15" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|6°47'31.09" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°6'41.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°7'41.64" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|4°37'41.40" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|19°40'20.32" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|10°16'17.69" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|10°16'17.69" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|18°7'11.34" |Leo|Zubrah|Jupiter|
 
 

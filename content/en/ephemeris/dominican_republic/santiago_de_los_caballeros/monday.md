@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'46.01" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°38'46.01" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°17'26.60" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°0'47.59" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°4'56.08" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°52'29.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°50'56.26" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°50'56.26" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|4°3'25.09" |Gemini|HaqAh|Jupiter|
 
 
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'46.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°17'24.68" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°0'49.71" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°4'47.73" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°52'29.94" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°50'40.14" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°46'31.46" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|6°38'46.01" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°17'26.60" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°0'47.59" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°4'56.08" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°52'29.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|7°50'56.26" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°3'25.09" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: STI, Sant'jago-de-los-Kabal'eros, Sant'jago-de-los-Trejnta-Kabal'eros, Santiago, Santiago de los Caballeros, Santiago de los Kampagieros, Santjago de los Kabaljerosas, santiagodeloseukabayeloseu, sheng de ya ge, Σαντιάγο δε λος Καμπαγιέρος, Сантьяго-де-лос-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальерос, Сантьяго-де-лос-Трейнта-Кабальєрос, סנטיאגו דה לוס קביירוס, سانتیاغو دے لوس کابائیروس, サンティアゴ・デ・ロス・カバリェロス, 聖地牙哥, 산티아고데로스카바예로스

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'45.23" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°38'45.23" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°17'22.51" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°0'36.89" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°4'34.98" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°52'13.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°50'38.16" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°10'44.17" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|1°4'38.81" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°52'10.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|7°50'47.24" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°6'0.02" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'44.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°17'21.39" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°0'39.52" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°4'34.98" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°52'13.95" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°50'38.16" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|4°10'44.17" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|6°38'45.23" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°17'22.51" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°0'36.89" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°4'38.81" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°52'10.64" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|7°50'47.63" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°6'19.35" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Barra do Rio Negro, MAO, Manaos, Manaus, Manos, Manáos, ma nao si, manausu, Манаус, Манаўс, מנאוס, マナウス, 马瑙斯

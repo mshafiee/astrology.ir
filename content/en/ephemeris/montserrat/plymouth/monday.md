@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'42.91" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°38'42.91" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°17'10.19" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°0'5.69" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°3'45.72" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|15°51'13.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Post-Retrograde Shadow|7°50'17.27" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|7°50'17.27" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|3°49'38.46" |Gemini|HaqAh|Jupiter|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°38'42.91" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°38'42.91" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°17'10.19" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°0'5.69" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°3'45.72" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|15°51'13.52" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|7°50'17.27" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|7°50'17.27" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|3°49'38.46" |Cancer|Nathrah|Venus|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Plimouth, Plimut, Plimutas, Plimuto, Plymouth, Plymouth pa Montserrat, Plymouth på Montserrat, blymwth, peullimeoseu, phli math, plymwt, pu li mao si, purimasu, Πλίμουθ, Плимут, Плимът, Плімут, פלימות, بليموث, پلایماؤت، مانٹسریٹ, پلی‌موث، مونتسرات, พลิมัท, პლიმუთი, プリマス, 普利茅斯, 플리머스
