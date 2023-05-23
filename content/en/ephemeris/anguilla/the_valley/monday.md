@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'42.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°17'9.48" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°0'9.38" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°3'43.49" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°51'18.57" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|7°50'8.44" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°51'49.90" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'42.99" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°17'10.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°0'6.85" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°3'47.59" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°51'15.57" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|7°50'18.21" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°49'23.53" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'42.99" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'42.99" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°17'10.64" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°0'9.38" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°3'43.49" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°51'18.57" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|7°50'8.44" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°51'49.90" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°0'6.85" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°3'47.59" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°51'15.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|7°50'18.21" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°49'23.53" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: De Balei, El Valle, La-Valo, The Valley, Vali, Valis, Valley, Valli, bare, d wly, deobaelli, dy wyly, hwwʼly, ti velli, vali, wa li, Δε Βάλεϊ, Вали, Валли, Валлі, Валі, הוואלי, د ولی, دی ویلی, தி வேல்லி, เดอะแวลลีย์, ვალი, バレー, 瓦利, 더밸리

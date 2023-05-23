@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°43'40.23" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°43'40.23" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°44'14.37" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°9'30.92" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|3°0'20.56" |Taurus|Thurayya|Mercury|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°43'40.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°44'12.62" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°9'24.69" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°0'7.23" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|17°56'16.84" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|9°3'3.00" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|26°50'58.52" |Cancer|Jabhah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|6°43'40.23" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°44'14.37" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°9'30.92" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°0'20.56" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|17°56'34.51" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|9°3'16.08" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|28°13'10.82" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Mercury|Venus|Moon|
-|☾ Moon|Saturn|Venus|Jupiter|Mercury|
+|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Cancer|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
+|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
 
 
 {{< /tab >}}

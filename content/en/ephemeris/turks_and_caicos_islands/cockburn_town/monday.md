@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'45.82" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'45.82" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°17'25.57" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|1°0'45.00" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°4'40.82" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|15°52'22.10" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|7°50'34.94" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°27'58.03" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|1°4'51.61" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|15°52'24.77" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|7°50'53.62" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°1'31.11" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°38'45.82" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°38'45.82" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°17'25.57" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|1°0'45.00" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|1°4'51.61" |Gemini|HaqAh|Jupiter|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Cockburn Town, Kobern Taun, Kobern Taunas, Kobern-Taun, Kobərn Taun, Kokburn Taun, Kokburno, Kokmpern Taoun, kakpern nakaram, ke bo en cheng, kh xk beir ntha wn, kobeontaun, kokabarna ta'una, kokkubantaun, kwk brn tawn  bahama, Κόκμπερν Τάουν, Коберн Таун, Коберн-Таун, Коберн-Таўн, Кокбърн Таун, קוקבורן טאון, کاک برن ٹاؤن, کوک برن تاون، باهاما, कॉकबर्न टाउन, காக்பேர்ண் நகரம், ค็อกเบิร์นทาวน์, კოკბერნ-ტაუნი, コックバーンタウン, 科伯恩城, 코번타운

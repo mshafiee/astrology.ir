@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°37'9.65" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°37'9.65" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|1°9'2.49" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°39'23.56" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|0°28'54.93" |Taurus|Thurayya|Mercury|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°37'9.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°8'59.78" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°39'23.54" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|0°28'41.27" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°13'26.30" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|7°31'18.53" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|25°26'35.48" |Gemini|Dhira|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|6°37'9.65" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°9'2.49" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°39'23.56" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|0°28'54.93" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°13'32.12" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|7°31'40.82" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|26°28'36.36" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +347,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

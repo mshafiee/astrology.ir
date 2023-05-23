@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°49'47.37" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°49'47.37" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°20'39.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°44'7.53" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°38'31.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|20°44'40.43" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°7'18.60" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|29°55'55.95" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|3°44'10.39" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°38'34.01" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|20°44'47.11" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°7'18.12" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|0°29'39.50" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Venus|Venus|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -330,8 +330,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°49'47.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°20'39.79" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°49'47.37" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°20'39.85" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°44'7.53" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|5°38'31.99" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|20°44'40.43" |Cancer|Tarf|Moon|

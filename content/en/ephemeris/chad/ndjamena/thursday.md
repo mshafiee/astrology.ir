@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°45'27.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°54'29.67" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°35'57.31" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°44'38.69" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°43'48.23" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|9°35'11.00" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|6°11'23.53" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°45'27.60" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°54'30.38" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°36'2.97" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°44'46.64" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°44'2.71" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|9°35'16.24" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|7°19'21.90" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Mars|Venus|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mars|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°45'27.60" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°45'27.60" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°54'30.38" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|2°36'2.97" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|3°44'46.64" |Gemini|HaqAh|Jupiter|
