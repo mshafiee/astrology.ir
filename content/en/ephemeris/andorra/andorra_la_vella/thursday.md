@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°45'26.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°54'24.12" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°35'47.40" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°44'18.66" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°43'33.48" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|9°34'53.75" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|7°5'15.28" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|6°45'26.52" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|1°54'22.10" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°35'45.20" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°44'6.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°43'24.10" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|9°34'38.04" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°37'45.95" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Mars|Venus|Venus|Mars|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°45'26.52" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°45'26.52" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|1°54'24.12" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|2°35'47.40" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|3°44'18.66" |Gemini|HaqAh|Jupiter|

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'17.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°23'49.02" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°52'26.48" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°52'20.54" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|20°59'19.23" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°19'23.74" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|3°17'49.61" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|6°50'17.32" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|2°23'48.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°52'26.52" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°52'20.30" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|20°59'19.22" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°19'23.33" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|3°19'9.09" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'17.35" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°50'17.35" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°23'49.02" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°52'26.48" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|5°52'20.54" |Gemini|HanAh|Jupiter|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Fort Royal, Georgetown, Grenada City, Lewis, Port Louis, Port Royal, Saint George, Saint George's, Saint George.s, Saint-Georges, Sent Dzordzas, Sent Džordžas, Sent Tzortzes, Sent-Dzhorzhes, St Georges, St. George's, seinteujojiseu, sentojojizu, snt g'wrg', Σεντ Τζόρτζες, Сент-Джоржес, סנט ג'ורג', セントジョージズ, 세인트조지스
