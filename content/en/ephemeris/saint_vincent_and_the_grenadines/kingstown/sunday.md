@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°52'18.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°36'54.54" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°26'50.13" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°49'34.71" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°59'25.08" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|12°11'49.54" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|14°27'3.40" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|6°52'18.79" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|2°36'55.92" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°26'56.45" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°49'46.72" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°59'43.09" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|12°11'59.44" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|15°4'18.85" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Sun|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Sun|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°52'18.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°36'55.92" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°26'56.45" |Leo|Jabhah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°52'18.79" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°36'54.54" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°26'50.13" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°49'34.71" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|21°59'25.08" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|12°11'49.54" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|12°11'49.54" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|14°27'3.40" |Virgo|Awwa|Venus|
 
 

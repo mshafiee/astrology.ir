@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°50'17.90" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°50'17.90" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°23'52.47" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°52'35.65" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°52'25.71" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|20°59'34.01" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°19'20.63" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|4°10'57.30" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°52'35.54" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|20°59'35.11" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|11°19'36.88" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|3°20'50.49" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°50'17.90" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°50'17.90" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°23'52.47" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°52'35.65" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|5°52'35.54" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|20°59'35.11" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°19'36.88" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°10'57.30" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Post-Retrograde Shadow|11°19'36.88" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°20'50.49" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환

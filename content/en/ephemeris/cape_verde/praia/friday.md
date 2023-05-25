@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°47'55.57" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°47'55.57" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°9'9.44" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°14'6.86" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|4°48'24.35" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|19°51'42.62" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|10°24'55.06" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|19°33'48.83" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|10°24'58.54" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|20°16'42.75" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Mars|Venus|Venus|Mars|
 |☿ Mercury|Venus|Venus|Sun|Jupiter|
-|☾ Moon|Jupiter|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
+|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°47'55.57" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°47'55.57" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°9'9.44" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°14'6.86" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|4°48'24.35" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|19°51'42.62" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|10°24'58.54" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|10°24'58.54" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|20°16'42.75" |Leo|Zubrah|Mars|
 
 

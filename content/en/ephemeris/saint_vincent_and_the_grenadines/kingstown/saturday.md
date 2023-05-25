@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°50'17.01" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°50'17.01" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°23'46.84" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°52'20.80" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|5°52'11.03" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|20°59'9.21" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°19'15.29" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|11°19'15.29" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|3°15'52.60" |Leo|Jabhah|Saturn|
 
 
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°50'17.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°23'46.84" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°52'20.80" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°52'11.03" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°59'9.21" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°19'15.29" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°15'52.60" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|6°50'17.35" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°23'45.45" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°52'14.48" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°51'59.04" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°58'51.40" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|11°19'5.21" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°24'20.34" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Leo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Venus|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Kin'nkstaoun, Kingstaun, Kingstauna, Kingstaunas, Kingstauno, Kingstaŭno, Kingstown, Kinqstaun, SVD, jin si dui, khing s thawn, kigasata'una, kincutavun, kingsata'una, kingseutaun, kingusutaun, kynghstawn, kyngztawn, Κίνγκσταουν, Κινγκστάουν, Кингстаун, Киҥстаун, Кінгстаун, Кінгстаўн, קינגסטאון, كينغستاون, کنگز ٹاؤن, کینگزتاون, किंग्सटाउन, ਕਿੰਗਸਟਾਊਨ, கிங்சுடவுன், คิงส์ทาวน์, ཁིན་སི་ཐོན།, კინგსტაუნი, ኪንግስታውን, キングスタウン, 金斯敦, 킹스타운

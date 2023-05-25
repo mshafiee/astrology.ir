@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°50'15.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°23'34.11" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°51'47.77" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°51'14.94" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|6°50'15.00" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|2°23'31.72" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°51'47.73" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°51'3.07" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|20°58'10.34" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°18'25.13" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|11°18'25.13" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|3°4'13.69" |Leo|Jabhah|Saturn|
 
 
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°50'15.00" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°23'34.11" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°51'47.77" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°51'14.94" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°58'10.34" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°18'25.13" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°4'13.69" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|6°50'15.00" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°23'31.72" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°51'47.73" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°51'3.07" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°58'5.47" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|11°18'7.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°40'28.22" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BDA, Chamilton, Gamil'tan, Gamil'ton, Hamilton, Hamilton pa Bermuda, Hamilton på Bermuda, Hamiltonas, Hamiltono, Khamilton, Khamiltun, amiltan, ha mi er dun, haemilteon, hamiruton, hamyltwn, hemiltana, hmyltwn, Χάμιλτον, Гамильтон, Гамільтан, Гамільтон, Хамилтон, Хамилтън, המילטון, هاميلتون, همیلتون, ہیملٹن, हॅमिल्टन, ஆமில்டன், แฮมิลตัน, ჰამილტონი, ハミルトン, 哈密尔顿, 해밀턴
