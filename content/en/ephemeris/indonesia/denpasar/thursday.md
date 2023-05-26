@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°44'52.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°51'6.08" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°27'13.32" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°30'1.32" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°28'16.90" |Gemini|Dhira|Mars|
-|☿ Mercury|Post-Retrograde Shadow|9°24'24.55" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°13'17.14" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|1°51'6.04" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°27'13.94" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°30'1.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°28'18.22" |Gemini|Dhira|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°24'24.16" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°20'30.35" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°44'52.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°51'6.08" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°27'13.32" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°30'1.32" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°28'16.90" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|9°24'24.55" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|4°13'17.14" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|1°51'6.06" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°27'13.04" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°30'1.04" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°28'16.24" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°24'24.45" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|4°10'4.46" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

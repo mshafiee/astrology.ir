@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'19.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°24'4.73" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°53'7.71" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°53'29.23" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°0'31.65" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|11°20'24.60" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|3°31'50.34" |Leo|Jabhah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°50'18.70" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|2°24'2.87" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°53'9.51" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°53'21.62" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°0'32.34" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|11°20'11.11" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|4°21'13.71" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°50'19.82" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°24'4.73" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°53'7.71" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°53'29.23" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|21°0'31.65" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°20'24.60" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°31'50.34" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|5°53'21.62" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|21°0'32.34" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|11°20'11.11" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°21'13.71" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Leo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Venus|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Vilemstad, Vilemstadas, Vilemstade, Vilemstado, Villemstad, Villemstant, Villemştad, Willemstad, Willemsted, Willemstêd, billemseutateu, u~iremusutatto, vilemastada, villemstatu, wei lian si ta de, willems tad, wylmstad, Βίλλεμσταντ, Вилемстад, Виллемстад, Вілемстад, Віллемстад, וילמסטאד, ويلمستاد, ویلمستاد, ویلمسٹیڈ, विलेमश्टाड, வில்லெம்ஸ்டாடு, วิลเลมสตัด, ვილემსტადი, ウィレムスタット, 威廉斯塔德, 빌렘스타트

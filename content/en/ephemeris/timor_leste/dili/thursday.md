@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°44'48.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|1°50'41.04" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°26'12.81" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|3°28'19.90" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°26'28.01" |Gemini|Dhira|Mars|
-|☿ Mercury|Post-Retrograde Shadow|9°22'57.42" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°42'15.54" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|1°50'42.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°26'14.26" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|3°28'21.65" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°26'31.52" |Gemini|Dhira|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°23'11.43" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°0'3.93" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°44'48.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°50'41.04" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°26'7.96" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°28'7.57" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°26'13.43" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|9°22'57.42" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|2°42'15.54" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|1°50'42.96" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°26'14.26" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°28'21.65" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°26'31.52" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°23'11.43" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|4°0'3.93" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: DIL, Delhi, Dilhi, Dili, Dili khot, Dilis, Dilli, Dilly, Dilo, Dily, Dyli, Díli, Nova Dili, Ntili, di li, dili, dilli, diri, dyly, tili, Ντίλι, Дили, Дили хот, Дылі, Ділі, Դիլի, דילי, دىلى, ديلي, دیلی, ڈلی, दिली, দিলি, ਦੀਲੀ, டிலி, ಡಿಲಿ, ദിലി, ดิลี, དྷི་ལི།, ဒီလီမြို့, დილი, ディリ, 帝力, 딜리

@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|1°49'52.46" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°24'4.29" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|3°24'42.28" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|18°22'37.80" |Gemini|Dhira|Mars|
-|☿ Mercury|Post-Retrograde Shadow|9°20'30.84" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|3°6'19.18" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°22'28.76" |Gemini|Dhira|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°20'19.32" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°31'59.52" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°44'39.53" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|1°49'51.43" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°23'58.92" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|3°24'33.15" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|18°22'23.50" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|9°20'23.35" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|1°59'56.69" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|1°49'52.46" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°24'4.29" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|3°24'32.75" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|18°22'28.76" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°20'19.32" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|2°31'59.52" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시

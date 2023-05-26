@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°55'2.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°55'33.75" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°16'25.06" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°11'45.73" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|23°25'29.56" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|13°32'52.13" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°29'46.46" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|2°55'36.21" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°16'24.44" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°11'57.14" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°25'32.69" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|13°33'9.07" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°13'32.53" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Sun|Venus|Pisces|Moon|Jupiter|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -331,11 +331,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°55'2.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°55'36.21" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°16'24.44" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°11'57.14" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|23°25'32.69" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|13°33'9.07" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|2°55'33.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°16'25.06" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°11'45.73" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|23°25'29.56" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|13°32'52.13" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|2°13'32.53" |Libra|Ghafr|Moon|
 
 

@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°50'16.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°23'45.18" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°52'16.46" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°52'3.71" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|20°59'1.51" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|11°19'8.77" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|3°14'22.00" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|2°23'43.21" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°52'18.36" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°51'55.50" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|20°59'2.08" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|11°18'54.30" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|4°6'8.19" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°50'16.74" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°23'45.18" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°52'15.90" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°52'3.15" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°59'0.15" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°19'8.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°8'26.10" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|3°52'16.46" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°52'3.71" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°59'2.08" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|11°18'54.30" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°6'8.19" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조
