@@ -296,7 +296,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|3°53'31.82" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|5°54'7.92" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|21°1'12.82" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|11°20'58.18" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|11°20'58.18" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|3°39'45.40" |Leo|Jabhah|Saturn|
 
 
@@ -332,11 +332,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°50'21.15" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°24'13.78" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°53'25.96" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°53'58.61" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|21°0'57.17" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°20'51.47" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°47'49.92" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|3°53'31.82" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°54'7.92" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|21°1'12.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°20'58.18" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°39'45.40" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄

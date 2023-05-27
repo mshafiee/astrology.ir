@@ -293,11 +293,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°50'16.46" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°23'43.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°52'10.82" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°51'41.59" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|20°58'45.75" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|11°18'41.76" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|3°45'37.79" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|3°52'11.65" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°51'55.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|20°58'53.14" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°19'1.80" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|3°12'46.02" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|2°23'43.36" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°52'11.65" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|5°51'55.79" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°58'45.75" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°18'41.76" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°45'37.79" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|20°58'53.14" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°19'1.80" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°12'46.02" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운

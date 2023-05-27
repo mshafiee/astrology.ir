@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°50'27.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°24'49.04" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°55'6.07" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°56'38.21" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°3'52.07" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|11°23'8.61" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|4°2'34.77" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|2°24'51.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°55'10.50" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°56'53.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°4'7.21" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°23'26.18" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|4°13'41.67" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +334,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|2°24'51.54" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°55'10.50" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|5°56'53.68" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|21°3'52.07" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°23'8.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°2'34.77" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|21°4'7.21" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°23'26.18" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°13'41.67" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ciles Santjagas, CiudadSantiago, SCL, Sanctiacobi, Sant'jago, Santiago, Santiago de Chile, Santiago de Xile, Santiago del Cile, Santiago do Chile, Santiago du Chili, Santiago du Ch·ili, Santianko, Santjago, Santjago de Chile, Santjago de Chili, Stgo., santiago, santixako, santiyago, santyaghw, santyagw, santyyagw, sheng de ya ge, Čilės Santjagas, Σαντιάγκο, Σαντιάγο, Сантьяго, Сантяго де Чиле, Сантяго де Чили, סנטיאגו דה צ'ילה, سانتىياگو, سانتياغو, سانتیاگو, সান্টিয়াগো, ซันติอาโก, სანტიაგო დე ჩილე, ሳንቲያጎ, サンティアゴ, 圣地亚哥, 산티아고

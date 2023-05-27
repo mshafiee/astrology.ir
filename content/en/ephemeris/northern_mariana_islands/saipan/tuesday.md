@@ -292,12 +292,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°55'2.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°55'30.32" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°16'11.39" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°11'27.85" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|23°25'4.09" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|13°32'37.49" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°45'23.94" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|2°55'32.41" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°16'14.36" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°11'40.35" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°25'15.24" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|13°32'51.78" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°10'19.63" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Sun|Venus|Pisces|Moon|Jupiter|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°55'2.21" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°55'32.41" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|5°16'14.36" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°11'27.85" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|23°25'4.09" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|13°32'37.49" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°45'23.94" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|8°11'40.35" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|23°25'15.24" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|13°32'51.78" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°10'19.63" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: SPN, Saipan, Sajpan, saipan, Сайпан, 사이판

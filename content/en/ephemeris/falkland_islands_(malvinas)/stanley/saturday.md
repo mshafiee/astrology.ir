@@ -296,8 +296,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|3°55'17.18" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|5°57'3.70" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|21°4'18.04" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|11°23'34.55" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|5°1'57.44" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|11°23'34.55" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|4°15'45.97" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°50'27.48" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°24'51.78" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°55'18.18" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°56'54.22" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|21°4'16.49" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°23'19.25" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|5°1'57.44" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|2°24'53.96" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°55'17.18" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°57'3.70" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|21°4'18.04" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°23'34.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°15'45.97" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Leo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Venus|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: PSY, Port Stanley, Port Stenli, Port Stenlis, Port-Stehnli, Port-Stenli, Porto Arxentino/Stanley, Puerto Archentinas/Stenlis, Puerto Argentino, Stanlef, Stanlejo, Stanley, Stanley Harbour, Stehnli, Stenli, Stenlis, astnly  jzayr falklnd, asٹynlے  jzayr faklynڈ, icutanli, porta stenli, seutaenli, si tan li, si tan li gang, stanly, stnly, sutanre, sutanri, Στάνλεϋ, Порт Стенли, Порт-Стенлі, Порт-Стэнли, Стенли, Стэнлі, Պորտ Սթենլի, סטאנלי, סטנלי, استنلی، جزایر فالکلند, اسٹینلے، جزائر فاکلینڈ, ستانلي, سٹینلے, पोर्ट स्टॅन्ली, இசுடான்லி, സ്റ്റാൻലി, สแตนลีย์, スタンリー, スタンレー, 斯坦利, 斯坦利港, 스탠리

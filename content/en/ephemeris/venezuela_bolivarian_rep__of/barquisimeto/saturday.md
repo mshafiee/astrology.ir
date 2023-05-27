@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|2°24'7.64" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°53'15.31" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|5°53'41.96" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°0'32.05" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|11°20'15.33" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|3°42'37.53" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°0'45.06" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°20'35.93" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|3°34'29.50" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -331,12 +331,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°50'20.28" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°24'4.80" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°53'12.18" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°53'25.51" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|21°0'32.05" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°20'15.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°42'37.53" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|2°24'7.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°53'15.31" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°53'41.96" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|21°0'45.06" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°20'35.93" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°34'29.50" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

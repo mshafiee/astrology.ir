@@ -295,9 +295,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|2°24'24.71" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°54'0.00" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|5°54'56.65" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°2'3.15" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|11°21'27.30" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|4°38'50.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|21°2'3.75" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°21'42.32" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|3°49'55.88" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -333,10 +333,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°50'22.94" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°24'24.71" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°54'0.00" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°54'47.68" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|21°2'3.15" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|11°21'27.30" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°38'50.90" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|5°54'56.65" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|21°2'3.75" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°21'42.32" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°49'55.88" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Leo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Venus|
-|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Chuqichaka, Ciudad Sucre, Ijoloti Sukre, SRE, Sik, Soukre, Sucre, Sucre toertenelmi ovarosa, Sucre történelmi óvárosa, Sukre, Sukreh, Sukri, Sukro, Sukrė, Súkre, su ke lei, su ker, sukare, sukeule, sukre, sukure, swkrh, swkry, swqrh, Σούκρε, Иёлоти Сукре, Сукре, Сукрэ, Սուկրե, סוקרה, سوكري, سوکره, سکرے, سۇكرې, सुक्रे, ਸੂਕਰੇ, ซูเกร, སུ་ཁུ་རེ།, სუკრე, スクレ, 苏克雷, 蘇克雷, 수크레
