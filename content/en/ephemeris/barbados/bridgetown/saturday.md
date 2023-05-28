@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'16.46" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°50'16.46" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°23'43.36" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°52'11.65" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|5°51'55.79" |Taurus|Thurayya|Mercury|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'16.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°23'43.36" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°52'11.65" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°51'55.79" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°58'53.14" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°19'1.80" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°12'46.02" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|6°50'16.46" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°23'40.52" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°52'9.13" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°51'39.89" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°58'41.61" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°18'41.29" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°27'12.26" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운

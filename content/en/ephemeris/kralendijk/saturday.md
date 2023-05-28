@@ -291,11 +291,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'19.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°24'1.40" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°53'3.75" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°53'13.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°0'21.29" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|6°50'19.59" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|2°24'3.23" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°53'3.77" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°53'22.67" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°0'24.73" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|11°20'18.78" |Aries|Sharatain|Sun|
 |☾ Moon|Direct|3°30'30.00" |Leo|Jabhah|Saturn|
 
@@ -330,11 +330,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'19.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°24'1.40" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°53'3.75" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°53'13.91" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|21°0'21.29" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|6°50'19.59" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°24'3.23" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°53'3.77" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°53'22.67" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|21°0'24.73" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|11°20'18.78" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|3°30'30.00" |Virgo|Sarfrah|Sun|
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Kralendajk, Kralendehjk, Kralendeikas, Kralendejk, Kralendijk, Kralendiyk, Kralentik, Playa, ke la lun dai ke, keulallendeikeu, kralndyk, kralyndayk, kurarendaiku, Κράλεντικ, Кралендайк, Кралендајк, Кралендейк, Кралендэйк, Կրալենդիյկ, كراليندايك, کرالندیک, کرالن‌دیک, კრალენდეიკი, クラレンダイク, 克拉伦代克, 크랄렌데이크

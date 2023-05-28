@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'19.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°23'59.12" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°52'50.65" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°52'58.74" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|20°59'54.74" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°19'57.75" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|2°38'47.98" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|6°50'19.16" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|2°24'0.51" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°52'56.78" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°53'10.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°0'12.12" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°20'7.87" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|3°27'58.92" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'19.16" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°50'19.16" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°24'0.51" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°52'56.78" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|5°53'10.60" |Gemini|HanAh|Jupiter|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Cockburn Town, Kobern Taun, Kobern Taunas, Kobern-Taun, Kobərn Taun, Kokburn Taun, Kokburno, Kokmpern Taoun, kakpern nakaram, ke bo en cheng, kh xk beir ntha wn, kobeontaun, kokabarna ta'una, kokkubantaun, kwk brn tawn  bahama, Κόκμπερν Τάουν, Коберн Таун, Коберн-Таун, Коберн-Таўн, Кокбърн Таун, קוקבורן טאון, کاک برن ٹاؤن, کوک برن تاون، باهاما, कॉकबर्न टाउन, காக்பேர்ண் நகரம், ค็อกเบิร์นทาวน์, კოკბერნ-ტაუნი, コックバーンタウン, 科伯恩城, 코번타운

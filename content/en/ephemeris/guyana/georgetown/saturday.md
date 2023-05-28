@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'16.84" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°50'16.84" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°23'45.83" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°52'18.07" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|5°52'6.69" |Taurus|Thurayya|Mercury|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'16.84" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°50'16.84" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°23'45.83" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°52'18.07" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°52'6.69" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°59'4.58" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°19'11.56" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°15'1.89" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|3°52'19.89" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°51'58.94" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°59'5.25" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°18'57.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°4'51.97" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Demerara, Dzhordzhtaun, Dzordztaun, Dzordztauna, Dzordztaunas, Dzordztauns, Džordžtaun, Džordžtauna, Džordžtaunas, Džordžtauns, GEO, Georgetown, Georgetown i Guyana, Georgiopolis, Georgurbo, Jojton, Jòjtòn, Tzortztaoun, Zhorzhtaun, cxrc thawn, gwrgtʼwn, jarajata'una, jarj ٹawn  gyana, jarjata'una, jojitaun, jorjata'una, jorjtavun, jrj‌tawn, jwrj tawn, jwrj twghn, qiao zhi dui, qiao zhi dun, zuo zhi cheng, Τζορτζτάουν, Τζώρτζταουν, Џорџтаун, Джорджтаун, Джорджтаўн, Жоржтаун, Ջորջթաուն, גורגטאון, جارج ٹاؤن، گیانا, جرج‌تاون, جورج تاون, جورج توغن, جورج‌تاو, जॉर्जटाउन, ਜਾਰਜਟਾਊਨ, ଜର୍ଜଟାଉନ, ஜோர்ஜ்டவுண், ജോർജ്ജ് ടൗൺ, จอร์จทาวน์, ཅོར་ཅི་ཐོན།, ჯორჯტაუნი, ጆርጅታውን, ジョージタウン, 乔治敦, 佐治城, 조지타운

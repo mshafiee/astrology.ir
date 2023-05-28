@@ -291,7 +291,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°59'17.20" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°59'17.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°27'23.54" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|6°41'36.34" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|10°33'0.37" |Taurus|Dabaran|Moon|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°59'17.20" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°59'17.20" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°27'23.54" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°41'36.34" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°33'0.37" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°51'9.87" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|16°8'2.78" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°3'26.40" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|25°51'0.93" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|16°8'0.48" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°5'22.56" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Ceymstaun, Dzeimstauna, Dzeimstaunas, Dzejmstaun, Dzhehjmstaun, Dzhejmstaun, Džeimstauna, Džeimstaunas, HLE, Iacobopolis, Jamestauno, Jamestown, Tzeimstaoun, Zhejmstaun, cems thawn, jeimseutaun, jemsata'una, jemstavun, jemuzutaun, jyms tawn, jymz ٹawn  synٹ ہlyna, jymztawn  synt hlyna, zhan mu si dui, Ĵamestaŭno, Τζέιμσταουν, Џејмстаун, Джеймстаун, Джэймстаўн, Жеймстаун, גיימסטאון, דזשיימסטאן, جيمس تاون, جیمز ٹاون، سینٹ ہلینا, جیمزتاون، سینت هلینا, جیمزٹاؤن, جەیمستاون, जेम्सटाउन, ஜேம்ஸ்டவுன், เจมส์ทาวน์, ჯეიმზტაუნი, ジェームズタウン, 詹姆斯敦, 제임스타운

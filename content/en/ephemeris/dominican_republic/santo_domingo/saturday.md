@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'19.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°23'59.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°52'59.11" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°53'5.19" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°0'14.21" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°19'57.13" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|4°12'46.71" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|6°50'19.20" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|2°24'0.79" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°52'57.45" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°53'11.87" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°0'13.41" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°20'9.07" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|3°28'15.55" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°50'19.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°23'59.13" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°52'59.11" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|5°53'5.19" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|21°0'14.21" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°19'57.13" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°12'46.71" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|6°50'19.20" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°24'0.79" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°52'57.45" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|5°53'11.87" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|21°0'13.41" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°20'9.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°28'15.55" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Ciudad Trujillo, SDQ, Saint Domingue, Santo Domingo, Santo Domingo City, Santo Domingo de Guzman, Santo Domingo de Guzmán, Santo Ntomin'nko, Santo-Domingo, santodoming-go, Σάντο Ντομίνγκο, Санто-Доминго, 산토도밍고

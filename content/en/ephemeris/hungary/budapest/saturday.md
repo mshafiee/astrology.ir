@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°49'41.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°20'4.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°42'39.63" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|5°36'0.01" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|20°42'5.21" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°5'2.76" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|29°56'15.38" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|6°49'41.49" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|2°20'4.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°42'41.69" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|5°36'2.00" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|20°42'10.20" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°5'3.22" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|0°18'53.47" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Venus|Venus|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -330,7 +330,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°49'41.80" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°49'41.80" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°20'4.79" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|3°42'39.63" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|5°36'0.01" |Gemini|HanAh|Jupiter|
