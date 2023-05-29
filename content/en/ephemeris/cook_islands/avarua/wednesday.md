@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°58'21.52" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°58'21.52" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°20'5.40" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°21'54.12" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°0'19.37" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|25°17'40.37" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|15°30'26.17" |Aries|Butain|Sun|
-|☾ Moon|Direct|26°37'40.96" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|6°21'55.31" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°0'28.23" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|25°17'46.49" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|15°30'36.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°56'17.40" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Sun|Venus|Aries|Moon|Jupiter|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Sun|Cancer|Sun|Moon|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°58'21.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|3°20'3.81" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°21'54.12" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°0'19.37" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°17'40.37" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|15°30'26.17" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°37'40.96" |Libra|Akleel|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|6°58'21.52" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|3°20'5.40" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°21'55.31" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°0'28.23" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|25°17'46.49" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|15°30'36.95" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|25°45'2.82" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

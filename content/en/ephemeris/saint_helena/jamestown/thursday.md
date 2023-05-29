@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°59'17.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°27'23.54" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°41'36.34" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°33'0.37" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|25°51'9.87" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|16°8'2.78" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°3'26.40" |Libra|Ghafr|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|6°59'17.20" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|3°27'23.21" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°41'33.05" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°32'55.97" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|25°51'0.93" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°8'0.48" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°5'22.56" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°59'17.20" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°59'17.20" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°27'23.54" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°41'36.34" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°33'0.37" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|6°41'33.05" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°32'55.97" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|25°51'0.93" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|16°8'0.48" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|16°8'0.48" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|3°5'22.56" |Scorpio|Akleel|Mars|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Ceymstaun, Dzeimstauna, Dzeimstaunas, Dzejmstaun, Dzhehjmstaun, Dzhejmstaun, Džeimstauna, Džeimstaunas, HLE, Iacobopolis, Jamestauno, Jamestown, Tzeimstaoun, Zhejmstaun, cems thawn, jeimseutaun, jemsata'una, jemstavun, jemuzutaun, jyms tawn, jymz ٹawn  synٹ ہlyna, jymztawn  synt hlyna, zhan mu si dui, Ĵamestaŭno, Τζέιμσταουν, Џејмстаун, Джеймстаун, Джэймстаўн, Жеймстаун, גיימסטאון, דזשיימסטאן, جيمس تاون, جیمز ٹاون، سینٹ ہلینا, جیمزتاون، سینت هلینا, جیمزٹاؤن, جەیمستاون, जेम्सटाउन, ஜேம்ஸ்டவுன், เจมส์ทาวน์, ჯეიმზტაუნი, ジェームズタウン, 詹姆斯敦, 제임스타운

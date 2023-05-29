@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°0'25.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°36'37.90" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°6'37.01" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|11°14'16.83" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°33'20.77" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|16°56'58.35" |Aries|Butain|Sun|
-|☾ Moon|Direct|12°45'31.64" |Libra|Ghafr|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°0'25.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|3°36'37.85" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°6'36.85" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|11°14'16.47" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°33'20.29" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°56'58.04" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°47'5.59" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°0'25.26" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°0'25.26" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°36'37.90" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°6'37.01" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|11°14'16.83" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|26°33'20.77" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|16°56'58.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|13°2'20.67" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°56'58.35" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°45'31.64" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -358,7 +358,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Scorpio|Sun|Saturn|
-|☾ Moon|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Venus|Venus|Aries|Moon|Mars|
 
 
 {{< /tab >}}

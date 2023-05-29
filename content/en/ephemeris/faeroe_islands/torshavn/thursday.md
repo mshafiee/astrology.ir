@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°59'1.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°25'19.07" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°36'1.81" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°23'43.47" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|25°41'46.09" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|15°57'10.08" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°24'6.43" |Libra|Ghafr|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|6°59'1.57" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|3°25'18.65" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°35'57.94" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°23'37.76" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|25°41'28.75" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|15°57'13.23" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°41'12.25" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°59'1.57" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|3°25'19.07" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°36'1.81" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°23'43.47" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°41'39.67" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|15°57'16.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°36'3.44" |Scorpio|Akleel|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|6°59'1.57" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|3°25'18.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°35'57.94" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°23'37.76" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|25°41'28.75" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|15°57'13.23" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°41'12.25" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Havn, THorshoefn, THunreshaefen, Thori Portus, Thorshavn, Torschavn, Torsgavn, Torshamn, Torshaunas, Torshavn, Torshgavn, Torshkhavn, Torskhaun, Torskhavn, Tourshavna, Touršhavna, Tórshavn, lei shen gang, thosa'una, thxrs hea n, toleuseuhaun, tosuhaun, tuo er si gang, twshhafn, twshhawn, tۆrshawn, Þunreshæfen, Þórshöfn, Τόρσχαβν, Торсгавн, Торсхавн, Торсхаўн, Торшгавн, Торшхавн, Տորսհավն, טורסהאבן, تورشھاون, توشهافن, توشهاون, تۆرشاون, ਥੋਸ਼ਾਊਨ, ทอร์สเฮาน์, ტორსჰავნი, トースハウン, 托爾斯港, 雷神港, 토르스하운

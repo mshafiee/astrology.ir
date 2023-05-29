@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°51'58.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°34'40.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°21'5.62" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|6°39'52.06" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|21°49'28.00" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|12°2'33.80" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|14°1'2.82" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|6°51'58.53" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|2°34'42.30" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°21'4.03" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|6°40'0.65" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°49'28.14" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|12°2'48.24" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|13°3'16.55" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,10 +316,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Jupiter|Jupiter|Aries|Sun|Saturn|
 |♃ Jupiter|Mars|Mars|Taurus|Sun|Mars|
 |♂ Mars|Saturn|Sun|Leo|Moon|Moon|
-|☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
+|☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Sun|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Venus|Moon|Leo|Sun|Mars|
-|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°51'58.53" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°51'58.53" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°34'42.30" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|4°21'4.03" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|6°40'0.65" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|21°49'28.14" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|12°2'48.24" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|12°2'48.24" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|13°3'16.55" |Virgo|Awwa|Venus|
 
 

@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°59'31.02" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°59'31.02" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°29'14.20" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|6°46'35.40" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|10°41'14.11" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|25°59'35.43" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|16°17'40.42" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°58'33.87" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|16°17'40.42" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°11'26.93" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +308,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Saturn|Mars|Saturn|Jupiter|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Venus|Venus|Aries|Moon|Jupiter|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°59'31.02" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°59'31.02" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°29'14.20" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°46'35.40" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°41'14.11" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|25°59'35.43" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|16°17'40.42" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|16°17'40.42" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|4°58'33.87" |Scorpio|Akleel|Mars|
 
 

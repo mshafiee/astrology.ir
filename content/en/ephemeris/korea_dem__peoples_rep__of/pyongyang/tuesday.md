@@ -291,12 +291,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°55'4.33" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°55'4.33" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°55'47.39" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|5°16'54.70" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|8°12'45.85" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|23°26'23.64" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|13°33'58.98" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|13°33'58.98" |Aries|Butain|Sun|
 |☾ Moon|Direct|2°31'8.70" |Virgo|Sarfrah|Sun|
 
 
@@ -330,12 +330,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°55'4.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°55'47.39" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°16'54.70" |Leo|Jabhah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|6°55'4.33" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°55'45.70" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°16'51.66" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°12'45.85" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|23°26'23.64" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|13°33'58.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|13°33'58.98" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|2°31'8.70" |Libra|Ghafr|Moon|
 
 
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Binh Nhuong, Bình Nhưỡng, FNJ, Heijo, Heijo-fu, Heijō, Heijō-fu, Heizyo, Heizyo Hu, Heizyō, Heizyō Hu, Hpyeng-yang, P'yongyang, P'yongyang-si, P'yŏngyang, P'yŏngyang-si, P-hjong-jang, P-hjöng-jang, Pchenjanas, Pchjongjang, Phenian, Phenjan, Phenjana, Phyeng-yang, Phyong-yang, Pienyang, Pingyang, Pion'gian'nk, Pion'nkgian'nk, Piongiang, Pionguiangue, Pionyang, Pjoengjang, Pjongian, Pjongjang, Pjongjango, Pjöngjang, Pkhen'jan, Pkhenjan, Pxenyan, Pyeongyang, Pyoengyang, Pyongyang, Pyongyang-si, Pyöngyang, bywnghyangh, peiyngyang, pi'ongayanga, ping rang, ping rang shi, piyam iyam, piyonyan, pkheniani, pyamgayanga, pyang yang, pyeong-yang, pyeong-yangjighalsi, pyeong-yangsi, pyon'gyang, pyongayanga, pywng yang, pywngyang, Πιονγιάνγκ, Πιονγκγιάνγκ, Пхеньян, Пхенян, Пјонгјанг, Փխենյան, פיאנגיאנג, פיונגיאנג, بيونغيانغ, پيونګيانګ, پيونگ يانگ, پيوڭياڭ, پیانگ یانگ, پیونگ‌یانگ, پیۆنگیانگ, प्याँगयांग, प्योंगयांग, পিয়ং ইয়াং, ਪਿਓਂਗਯਾਂਗ, பியொங்யாங், ಪ್ಯೊನ್ಗ್ಯಾಂಗ್, เปียงยาง, ཕོང་ཡང་།, ფხენიანი, ፕዮንግያንግ, 平壌, 平壤, 平壤市, 평양, 평양시, 평양직할시

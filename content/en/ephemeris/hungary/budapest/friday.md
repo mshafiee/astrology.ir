@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°0'36.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°38'8.56" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°10'41.50" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|11°20'57.51" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°40'4.61" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|17°5'6.45" |Aries|Butain|Sun|
-|☾ Moon|Direct|15°11'13.19" |Libra|Jubana|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°0'36.24" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|3°38'9.51" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°10'46.00" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|11°21'6.38" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°40'14.21" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|17°5'9.18" |Aries|Butain|Sun|
+|☾ Moon|Direct|14°57'49.67" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -319,7 +319,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Venus|Mercury|Aries|Moon|Jupiter|
 |☿ Mercury|Mercury|Mercury|Libra|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
+|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°0'36.24" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°0'36.24" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°38'9.51" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°10'46.00" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|11°21'6.38" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|26°40'18.25" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|17°5'13.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|14°34'34.55" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|7°10'44.87" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|11°21'2.35" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|26°40'14.21" |Cancer|Jabhah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|17°5'9.18" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|14°57'49.67" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

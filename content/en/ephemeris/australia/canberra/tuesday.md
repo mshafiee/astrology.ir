@@ -291,13 +291,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°55'7.99" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|6°55'7.99" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°56'13.72" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|5°18'4.24" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|8°14'42.46" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|23°28'10.87" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|13°35'50.51" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°48'3.72" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|23°28'24.67" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|13°35'59.36" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°49'36.96" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +330,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°55'7.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°56'12.38" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°17'59.55" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°14'32.38" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|23°28'10.87" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|13°35'50.51" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°48'3.72" |Libra|Ghafr|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|6°55'7.99" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°56'13.72" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°18'4.24" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°14'42.46" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|23°28'24.67" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|13°35'59.36" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°49'36.96" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +374,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: CBR, Camberra, Canberra, Canberrah, Kamberra, Kambra, Kampera, Kanapera, Kanbera, Kanbero, Kanberr, Kanberra, Kanberrae, Kanberre, Kanbérra, Kham-phi-la, Khâm-phì-là, Kānapera, kaenbeola, kainabara, kainberra, kan pei la, kanabera, kanbra, kanpara, kenabera, kyanabara, kyanabera, kyanbera, kynbra, kʼanbera, qnbrh, Καμπέρα, Канбера, Канберрæ, Канберра, Канберре, Канбєра, Կանբերրա, קאנבערא, קנברה, كانبرا, کانبرا, کانبێرا, کینبرا, कॅनबेरा, कैनबरा, कैन्बेर्रा, क्यानबरा, ক্যানবেরা, ਕੈਨਬਰਾ, କାନବେରା, கான்பரா, കാൻബറ, කැන්බරා, แคนเบอร์รา, ཁན་པེ་ར།, კანბერა, ካንበራ, キャンベラ, 坎培拉, 堪培拉, 캔버라
