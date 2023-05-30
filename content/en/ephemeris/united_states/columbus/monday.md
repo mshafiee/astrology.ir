@@ -13,7 +13,7 @@ description: 🗓 Monday, 29 May 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Columbus
 TimeZone: -04:00
 \-
 Latitude: 39.9612
@@ -27,6 +27,8 @@ Altitude: 242 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 242 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:23:36 |
+| Fajr (Dawn) | 04:23:36 |
 | Sunrise | 06:06:44 |
-| Dhuhr | 13:29:25 |
+| Dhuhr (Noon) | 13:29:25 |
 | Medium Coeli | 13:29:25 |
 | Sunset | 20:52:30 |
 | Maghrib | 21:13:21 |
-| Isha | 22:20:44 |
+| Isha (Night) | 22:20:44 |
 | Sharia Midnight | 00:37:37 |
 | Imum Coeli | 01:29:29 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:09:57 |
+| Fajr (Dawn) | 04:09:57 |
 | Sunrise | 06:06:44 |
-| Dhuhr | 13:29:25 |
+| Dhuhr (Noon) | 13:29:25 |
 | Medium Coeli | 13:29:25 |
 | Sunset | 20:52:30 |
 | Maghrib | 21:16:28 |
-| Isha | 22:20:44 |
+| Isha (Night) | 22:20:44 |
 | Sharia Midnight | 00:30:45 |
 | Imum Coeli | 01:29:29 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:07:27 |
+| Fajr (Dawn) | 04:07:27 |
 | Sunrise | 06:06:44 |
-| Dhuhr | 13:29:25 |
+| Dhuhr (Noon) | 13:29:25 |
 | Medium Coeli | 13:29:25 |
 | Sunset | 20:52:30 |
 | Maghrib | 20:55:45 |
-| Isha | 22:43:59 |
+| Isha (Night) | 22:43:59 |
 | Sharia Midnight | 00:29:29 |
 | Imum Coeli | 01:29:29 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:31:18 |
+| Fajr (Dawn) | 04:31:18 |
 | Sunrise | 06:06:44 |
-| Dhuhr | 13:29:25 |
+| Dhuhr (Noon) | 13:29:25 |
 | Medium Coeli | 13:29:25 |
 | Sunset | 20:52:30 |
 | Maghrib | 20:55:45 |
-| Isha | 22:28:15 |
+| Isha (Night) | 22:28:15 |
 | Sharia Midnight | 00:41:29 |
 | Imum Coeli | 01:29:29 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:54:30 |
+| Fajr (Dawn) | 03:54:30 |
 | Sunrise | 06:06:44 |
-| Dhuhr | 13:29:25 |
+| Dhuhr (Noon) | 13:29:25 |
 | Medium Coeli | 13:29:25 |
 | Sunset | 20:52:30 |
 | Maghrib | 20:55:45 |
-| Isha | 22:48:05 |
+| Isha (Night) | 22:48:05 |
 | Sharia Midnight | 00:22:58 |
 | Imum Coeli | 01:29:29 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:07:27 |
+| Fajr (Dawn) | 04:07:27 |
 | Sunrise | 06:06:44 |
-| Dhuhr | 13:29:25 |
+| Dhuhr (Noon) | 13:29:25 |
 | Medium Coeli | 13:29:25 |
 | Sunset | 20:52:30 |
 | Maghrib | 20:55:45 |
-| Isha | 22:52:15 |
+| Isha (Night) | 22:52:15 |
 | Sharia Midnight | 00:29:29 |
 | Imum Coeli | 01:29:29 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:03:13 |
+| Fajr (Dawn) | 04:03:13 |
 | Sunrise | 06:06:44 |
-| Dhuhr | 13:29:25 |
+| Dhuhr (Noon) | 13:29:25 |
 | Medium Coeli | 13:29:25 |
 | Sunset | 20:52:30 |
 | Maghrib | 20:55:45 |
-| Isha | 22:25:45 |
+| Isha (Night) | 22:25:45 |
 | Sharia Midnight | 00:27:22 |
 | Imum Coeli | 01:29:29 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -293,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°54'17.12" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°50'17.11" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°2'16.83" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°48'28.95" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|23°1'6.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°2'17.01" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°48'29.10" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°1'6.71" |Gemini|Dhira|Sun|
 |☿ Mercury|Post-Retrograde Shadow|13°9'16.19" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°21'21.38" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|27°23'2.10" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|7°48'29.10" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|23°1'6.71" |Cancer|Tarf|Moon|
 |☿ Mercury|Post-Retrograde Shadow|13°9'16.19" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°21'21.38" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|27°23'2.10" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

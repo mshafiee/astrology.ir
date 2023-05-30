@@ -13,7 +13,7 @@ description: 🗓 Saturday, 03 Jun 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Kinshasa
 TimeZone: +01:00
 \-
 Latitude: -4.3276
@@ -27,6 +27,8 @@ Altitude: 281 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 281 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:53:35 |
+| Fajr (Dawn) | 04:53:35 |
 | Sunrise | 06:00:15 |
-| Dhuhr | 11:56:52 |
+| Dhuhr (Noon) | 11:56:52 |
 | Medium Coeli | 11:56:52 |
 | Sunset | 17:53:29 |
 | Maghrib | 18:08:15 |
-| Isha | 18:51:31 |
+| Isha (Night) | 18:51:31 |
 | Sharia Midnight | 23:23:36 |
 | Imum Coeli | 23:56:57 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:46:14 |
+| Fajr (Dawn) | 04:46:14 |
 | Sunrise | 06:00:15 |
-| Dhuhr | 11:56:52 |
+| Dhuhr (Noon) | 11:56:52 |
 | Medium Coeli | 11:56:52 |
 | Sunset | 17:53:29 |
 | Maghrib | 18:10:25 |
-| Isha | 18:51:31 |
+| Isha (Night) | 18:51:31 |
 | Sharia Midnight | 23:19:55 |
 | Imum Coeli | 23:56:57 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:44:56 |
+| Fajr (Dawn) | 04:44:56 |
 | Sunrise | 06:00:15 |
-| Dhuhr | 11:56:52 |
+| Dhuhr (Noon) | 11:56:52 |
 | Medium Coeli | 11:56:52 |
 | Sunset | 17:53:29 |
 | Maghrib | 17:56:00 |
-| Isha | 19:04:30 |
+| Isha (Night) | 19:04:30 |
 | Sharia Midnight | 23:19:16 |
 | Imum Coeli | 23:56:57 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:57:55 |
+| Fajr (Dawn) | 04:57:55 |
 | Sunrise | 06:00:15 |
-| Dhuhr | 11:56:52 |
+| Dhuhr (Noon) | 11:56:52 |
 | Medium Coeli | 11:56:52 |
 | Sunset | 17:53:29 |
 | Maghrib | 17:56:00 |
-| Isha | 18:55:51 |
+| Isha (Night) | 18:55:51 |
 | Sharia Midnight | 23:25:46 |
 | Imum Coeli | 23:56:57 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:38:26 |
+| Fajr (Dawn) | 04:38:26 |
 | Sunrise | 06:00:15 |
-| Dhuhr | 11:56:52 |
+| Dhuhr (Noon) | 11:56:52 |
 | Medium Coeli | 11:56:52 |
 | Sunset | 17:53:29 |
 | Maghrib | 17:56:00 |
-| Isha | 19:06:40 |
+| Isha (Night) | 19:06:40 |
 | Sharia Midnight | 23:16:01 |
 | Imum Coeli | 23:56:57 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:44:56 |
+| Fajr (Dawn) | 04:44:56 |
 | Sunrise | 06:00:15 |
-| Dhuhr | 11:56:52 |
+| Dhuhr (Noon) | 11:56:52 |
 | Medium Coeli | 11:56:52 |
 | Sunset | 17:53:29 |
 | Maghrib | 17:56:00 |
-| Isha | 19:08:50 |
+| Isha (Night) | 19:08:50 |
 | Sharia Midnight | 23:19:16 |
 | Imum Coeli | 23:56:57 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:42:46 |
+| Fajr (Dawn) | 04:42:46 |
 | Sunrise | 06:00:15 |
-| Dhuhr | 11:56:52 |
+| Dhuhr (Noon) | 11:56:52 |
 | Medium Coeli | 11:56:52 |
 | Sunset | 17:53:29 |
 | Maghrib | 17:56:00 |
-| Isha | 19:26:00 |
+| Isha (Night) | 19:26:00 |
 | Sharia Midnight | 23:18:11 |
 | Imum Coeli | 23:56:57 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -331,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|7°2'13.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|3°52'7.95" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°48'47.35" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|12°23'50.13" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°43'55.41" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|18°23'0.04" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°2'41.87" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|3°52'6.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°48'42.63" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°23'39.44" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°43'40.51" |Cancer|Jabhah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|18°22'51.07" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°5'41.08" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Saturn|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -358,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}

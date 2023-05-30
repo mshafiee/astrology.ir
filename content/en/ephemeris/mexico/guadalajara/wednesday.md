@@ -13,7 +13,7 @@ description: 🗓 Wednesday, 31 May 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Guadalajara
 TimeZone: -06:00
 \-
 Latitude: 20.6668
@@ -27,6 +27,8 @@ Altitude: 1,598 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 1,598 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:57:58 |
+| Fajr (Dawn) | 04:57:58 |
 | Sunrise | 06:12:47 |
-| Dhuhr | 12:51:17 |
+| Dhuhr (Noon) | 12:51:17 |
 | Medium Coeli | 12:51:17 |
 | Sunset | 19:29:55 |
 | Maghrib | 19:46:24 |
-| Isha | 20:34:49 |
+| Isha (Night) | 20:34:49 |
 | Sharia Midnight | 00:13:50 |
 | Imum Coeli | 00:51:21 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:49:23 |
+| Fajr (Dawn) | 04:49:23 |
 | Sunrise | 06:12:47 |
-| Dhuhr | 12:51:17 |
+| Dhuhr (Noon) | 12:51:17 |
 | Medium Coeli | 12:51:17 |
 | Sunset | 19:29:55 |
 | Maghrib | 19:48:46 |
-| Isha | 20:34:49 |
+| Isha (Night) | 20:34:49 |
 | Sharia Midnight | 00:09:32 |
 | Imum Coeli | 00:51:21 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:47:51 |
+| Fajr (Dawn) | 04:47:51 |
 | Sunrise | 06:12:47 |
-| Dhuhr | 12:51:17 |
+| Dhuhr (Noon) | 12:51:17 |
 | Medium Coeli | 12:51:17 |
 | Sunset | 19:29:55 |
 | Maghrib | 19:34:48 |
-| Isha | 20:49:52 |
+| Isha (Night) | 20:49:52 |
 | Sharia Midnight | 00:08:46 |
 | Imum Coeli | 00:51:21 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:02:59 |
+| Fajr (Dawn) | 05:02:59 |
 | Sunrise | 06:12:47 |
-| Dhuhr | 12:51:17 |
+| Dhuhr (Noon) | 12:51:17 |
 | Medium Coeli | 12:51:17 |
 | Sunset | 19:29:55 |
 | Maghrib | 19:34:48 |
-| Isha | 20:39:48 |
+| Isha (Night) | 20:39:48 |
 | Sharia Midnight | 00:16:21 |
 | Imum Coeli | 00:51:21 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:40:10 |
+| Fajr (Dawn) | 04:40:10 |
 | Sunrise | 06:12:47 |
-| Dhuhr | 12:51:17 |
+| Dhuhr (Noon) | 12:51:17 |
 | Medium Coeli | 12:51:17 |
 | Sunset | 19:29:55 |
 | Maghrib | 19:34:48 |
-| Isha | 20:52:25 |
+| Isha (Night) | 20:52:25 |
 | Sharia Midnight | 00:04:55 |
 | Imum Coeli | 00:51:21 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:47:51 |
+| Fajr (Dawn) | 04:47:51 |
 | Sunrise | 06:12:47 |
-| Dhuhr | 12:51:17 |
+| Dhuhr (Noon) | 12:51:17 |
 | Medium Coeli | 12:51:17 |
 | Sunset | 19:29:55 |
 | Maghrib | 19:34:48 |
-| Isha | 20:54:58 |
+| Isha (Night) | 20:54:58 |
 | Sharia Midnight | 00:08:46 |
 | Imum Coeli | 00:51:21 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:45:18 |
+| Fajr (Dawn) | 04:45:18 |
 | Sunrise | 06:12:47 |
-| Dhuhr | 12:51:17 |
+| Dhuhr (Noon) | 12:51:17 |
 | Medium Coeli | 12:51:17 |
 | Sunset | 19:29:55 |
 | Maghrib | 19:34:48 |
-| Isha | 21:04:48 |
+| Isha (Night) | 21:04:48 |
 | Sharia Midnight | 00:07:29 |
 | Imum Coeli | 00:51:21 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -293,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°58'0.85" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°17'25.75" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°14'46.49" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|9°48'38.22" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|25°5'36.57" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°14'46.22" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°48'38.00" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|25°5'35.89" |Gemini|Dhira|Sun|
 |☿ Mercury|Post-Retrograde Shadow|15°17'14.94" |Aries|Butain|Sun|
-|☾ Moon|Direct|23°13'10.34" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|23°11'46.68" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|9°48'38.22" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|25°5'36.57" |Cancer|Tarf|Moon|
 |☿ Mercury|Post-Retrograde Shadow|15°17'14.94" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°13'10.34" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|23°11'46.68" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

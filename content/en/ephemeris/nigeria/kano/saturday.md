@@ -13,7 +13,7 @@ description: 🗓 Saturday, 03 Jun 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Kano
 TimeZone: +01:00
 \-
 Latitude: 12.0001
@@ -27,6 +27,8 @@ Altitude: 484 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 484 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:50:36 |
+| Fajr (Dawn) | 04:50:36 |
 | Sunrise | 06:00:20 |
-| Dhuhr | 12:24:04 |
+| Dhuhr (Noon) | 12:24:04 |
 | Medium Coeli | 12:24:04 |
 | Sunset | 18:47:52 |
 | Maghrib | 19:03:09 |
-| Isha | 19:48:26 |
+| Isha (Night) | 19:48:26 |
 | Sharia Midnight | 23:49:13 |
 | Imum Coeli | 00:24:09 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:42:43 |
+| Fajr (Dawn) | 04:42:43 |
 | Sunrise | 06:00:20 |
-| Dhuhr | 12:24:04 |
+| Dhuhr (Noon) | 12:24:04 |
 | Medium Coeli | 12:24:04 |
 | Sunset | 18:47:52 |
 | Maghrib | 19:05:23 |
-| Isha | 19:48:26 |
+| Isha (Night) | 19:48:26 |
 | Sharia Midnight | 23:45:16 |
 | Imum Coeli | 00:24:09 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:41:19 |
+| Fajr (Dawn) | 04:41:19 |
 | Sunrise | 06:00:20 |
-| Dhuhr | 12:24:04 |
+| Dhuhr (Noon) | 12:24:04 |
 | Medium Coeli | 12:24:04 |
 | Sunset | 18:47:52 |
 | Maghrib | 18:51:18 |
-| Isha | 20:02:17 |
+| Isha (Night) | 20:02:17 |
 | Sharia Midnight | 23:44:34 |
 | Imum Coeli | 00:24:09 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:55:13 |
+| Fajr (Dawn) | 04:55:13 |
 | Sunrise | 06:00:20 |
-| Dhuhr | 12:24:04 |
+| Dhuhr (Noon) | 12:24:04 |
 | Medium Coeli | 12:24:04 |
 | Sunset | 18:47:52 |
 | Maghrib | 18:51:18 |
-| Isha | 19:53:02 |
+| Isha (Night) | 19:53:02 |
 | Sharia Midnight | 23:51:31 |
 | Imum Coeli | 00:24:09 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:34:19 |
+| Fajr (Dawn) | 04:34:19 |
 | Sunrise | 06:00:20 |
-| Dhuhr | 12:24:04 |
+| Dhuhr (Noon) | 12:24:04 |
 | Medium Coeli | 12:24:04 |
 | Sunset | 18:47:52 |
 | Maghrib | 18:51:18 |
-| Isha | 20:04:37 |
+| Isha (Night) | 20:04:37 |
 | Sharia Midnight | 23:41:04 |
 | Imum Coeli | 00:24:09 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:41:19 |
+| Fajr (Dawn) | 04:41:19 |
 | Sunrise | 06:00:20 |
-| Dhuhr | 12:24:04 |
+| Dhuhr (Noon) | 12:24:04 |
 | Medium Coeli | 12:24:04 |
 | Sunset | 18:47:52 |
 | Maghrib | 18:51:18 |
-| Isha | 20:06:57 |
+| Isha (Night) | 20:06:57 |
 | Sharia Midnight | 23:44:34 |
 | Imum Coeli | 00:24:09 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:38:59 |
+| Fajr (Dawn) | 04:38:59 |
 | Sunrise | 06:00:20 |
-| Dhuhr | 12:24:04 |
+| Dhuhr (Noon) | 12:24:04 |
 | Medium Coeli | 12:24:04 |
 | Sunset | 18:47:52 |
 | Maghrib | 18:51:18 |
-| Isha | 20:21:18 |
+| Isha (Night) | 20:21:18 |
 | Sharia Midnight | 23:43:24 |
 | Imum Coeli | 00:24:09 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -295,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|3°52'7.85" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°48'48.43" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|12°23'50.62" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|27°43'57.97" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|18°22'59.63" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°4'33.97" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|27°43'57.11" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|18°23'0.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°2'43.87" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -334,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|3°52'7.85" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°48'48.43" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|12°23'50.62" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°43'57.97" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|18°22'59.63" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|29°4'33.97" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|27°43'57.11" |Cancer|Jabhah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|18°23'0.08" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|29°2'43.87" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

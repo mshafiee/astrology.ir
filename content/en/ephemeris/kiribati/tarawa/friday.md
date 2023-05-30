@@ -13,7 +13,7 @@ description: 🗓 Friday, 02 Jun 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Tarawa
 TimeZone: +12:00
 \-
 Latitude: 1.3278
@@ -27,6 +27,8 @@ Altitude: 6 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 6 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:13:18 |
+| Fajr (Dawn) | 05:13:18 |
 | Sunrise | 06:20:02 |
-| Dhuhr | 12:25:59 |
+| Dhuhr (Noon) | 12:25:59 |
 | Medium Coeli | 12:25:59 |
 | Sunset | 18:31:58 |
 | Maghrib | 18:46:37 |
-| Isha | 19:30:00 |
+| Isha (Night) | 19:30:00 |
 | Sharia Midnight | 23:52:40 |
 | Imum Coeli | 00:26:04 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:05:53 |
+| Fajr (Dawn) | 05:05:53 |
 | Sunrise | 06:20:02 |
-| Dhuhr | 12:25:59 |
+| Dhuhr (Noon) | 12:25:59 |
 | Medium Coeli | 12:25:59 |
 | Sunset | 18:31:58 |
 | Maghrib | 18:48:46 |
-| Isha | 19:30:00 |
+| Isha (Night) | 19:30:00 |
 | Sharia Midnight | 23:48:57 |
 | Imum Coeli | 00:26:04 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:04:34 |
+| Fajr (Dawn) | 05:04:34 |
 | Sunrise | 06:20:02 |
-| Dhuhr | 12:25:59 |
+| Dhuhr (Noon) | 12:25:59 |
 | Medium Coeli | 12:25:59 |
 | Sunset | 18:31:58 |
 | Maghrib | 18:32:55 |
-| Isha | 19:43:06 |
+| Isha (Night) | 19:43:06 |
 | Sharia Midnight | 23:48:18 |
 | Imum Coeli | 00:26:04 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:17:40 |
+| Fajr (Dawn) | 05:17:40 |
 | Sunrise | 06:20:02 |
-| Dhuhr | 12:25:59 |
+| Dhuhr (Noon) | 12:25:59 |
 | Medium Coeli | 12:25:59 |
 | Sunset | 18:31:58 |
 | Maghrib | 18:32:55 |
-| Isha | 19:34:22 |
+| Isha (Night) | 19:34:22 |
 | Sharia Midnight | 23:54:51 |
 | Imum Coeli | 00:26:04 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:58:00 |
+| Fajr (Dawn) | 04:58:00 |
 | Sunrise | 06:20:02 |
-| Dhuhr | 12:25:59 |
+| Dhuhr (Noon) | 12:25:59 |
 | Medium Coeli | 12:25:59 |
 | Sunset | 18:31:58 |
 | Maghrib | 18:32:55 |
-| Isha | 19:45:17 |
+| Isha (Night) | 19:45:17 |
 | Sharia Midnight | 23:45:00 |
 | Imum Coeli | 00:26:04 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:04:34 |
+| Fajr (Dawn) | 05:04:34 |
 | Sunrise | 06:20:02 |
-| Dhuhr | 12:25:59 |
+| Dhuhr (Noon) | 12:25:59 |
 | Medium Coeli | 12:25:59 |
 | Sunset | 18:31:58 |
 | Maghrib | 18:32:55 |
-| Isha | 19:47:28 |
+| Isha (Night) | 19:47:28 |
 | Sharia Midnight | 23:48:18 |
 | Imum Coeli | 00:26:04 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:02:23 |
+| Fajr (Dawn) | 05:02:23 |
 | Sunrise | 06:20:02 |
-| Dhuhr | 12:25:59 |
+| Dhuhr (Noon) | 12:25:59 |
 | Medium Coeli | 12:25:59 |
 | Sunset | 18:31:58 |
 | Maghrib | 18:32:55 |
-| Isha | 20:02:55 |
+| Isha (Night) | 20:02:55 |
 | Sharia Midnight | 23:47:12 |
 | Imum Coeli | 00:26:04 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -294,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|7°0'3.37" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°33'37.21" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|6°58'26.87" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|11°0'49.13" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°19'36.56" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|16°40'50.18" |Aries|Butain|Sun|
-|☾ Moon|Direct|9°25'25.59" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|11°0'43.86" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°19'29.07" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°40'45.80" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°45'33.72" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

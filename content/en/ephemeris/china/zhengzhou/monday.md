@@ -13,7 +13,7 @@ description: 🗓 Monday, 29 May 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Zhengzhou
 TimeZone: +08:00
 \-
 Latitude: 34.7578
@@ -27,6 +27,8 @@ Altitude: 104 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 104 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:43:34 |
+| Fajr (Dawn) | 03:43:34 |
 | Sunrise | 05:14:27 |
-| Dhuhr | 12:22:45 |
+| Dhuhr (Noon) | 12:22:45 |
 | Medium Coeli | 12:22:45 |
 | Sunset | 19:31:22 |
 | Maghrib | 19:50:14 |
-| Isha | 20:49:37 |
+| Isha (Night) | 20:49:37 |
 | Sharia Midnight | 23:37:09 |
 | Imum Coeli | 00:22:49 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:32:16 |
+| Fajr (Dawn) | 03:32:16 |
 | Sunrise | 05:14:27 |
-| Dhuhr | 12:22:45 |
+| Dhuhr (Noon) | 12:22:45 |
 | Medium Coeli | 12:22:45 |
 | Sunset | 19:31:22 |
 | Maghrib | 19:53:03 |
-| Isha | 20:49:37 |
+| Isha (Night) | 20:49:37 |
 | Sharia Midnight | 23:31:28 |
 | Imum Coeli | 00:22:49 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:30:14 |
+| Fajr (Dawn) | 03:30:14 |
 | Sunrise | 05:14:27 |
-| Dhuhr | 12:22:45 |
+| Dhuhr (Noon) | 12:22:45 |
 | Medium Coeli | 12:22:45 |
 | Sunset | 19:31:22 |
 | Maghrib | 19:33:18 |
-| Isha | 21:09:08 |
+| Isha (Night) | 21:09:08 |
 | Sharia Midnight | 23:30:27 |
 | Imum Coeli | 00:22:49 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:50:03 |
+| Fajr (Dawn) | 03:50:03 |
 | Sunrise | 05:14:27 |
-| Dhuhr | 12:22:45 |
+| Dhuhr (Noon) | 12:22:45 |
 | Medium Coeli | 12:22:45 |
 | Sunset | 19:31:22 |
 | Maghrib | 19:33:18 |
-| Isha | 20:56:00 |
+| Isha (Night) | 20:56:00 |
 | Sharia Midnight | 23:40:24 |
 | Imum Coeli | 00:22:49 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:19:51 |
+| Fajr (Dawn) | 03:19:51 |
 | Sunrise | 05:14:27 |
-| Dhuhr | 12:22:45 |
+| Dhuhr (Noon) | 12:22:45 |
 | Medium Coeli | 12:22:45 |
 | Sunset | 19:31:22 |
 | Maghrib | 19:33:18 |
-| Isha | 21:12:30 |
+| Isha (Night) | 21:12:30 |
 | Sharia Midnight | 23:25:14 |
 | Imum Coeli | 00:22:49 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:30:14 |
+| Fajr (Dawn) | 03:30:14 |
 | Sunrise | 05:14:27 |
-| Dhuhr | 12:22:45 |
+| Dhuhr (Noon) | 12:22:45 |
 | Medium Coeli | 12:22:45 |
 | Sunset | 19:31:22 |
 | Maghrib | 19:33:18 |
-| Isha | 21:15:54 |
+| Isha (Night) | 21:15:54 |
 | Sharia Midnight | 23:30:27 |
 | Imum Coeli | 00:22:49 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:26:49 |
+| Fajr (Dawn) | 03:26:49 |
 | Sunrise | 05:14:27 |
-| Dhuhr | 12:22:45 |
+| Dhuhr (Noon) | 12:22:45 |
 | Medium Coeli | 12:22:45 |
 | Sunset | 19:31:22 |
 | Maghrib | 19:33:18 |
-| Isha | 21:03:18 |
+| Isha (Night) | 21:03:18 |
 | Sharia Midnight | 23:28:44 |
 | Imum Coeli | 00:22:49 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -294,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Pre-Retrograde Shadow|6°53'15.66" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|2°43'16.38" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|4°43'42.00" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|7°17'36.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|22°28'54.11" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|12°38'41.33" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|21°5'23.80" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|7°17'37.37" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|22°28'52.98" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|12°38'42.96" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|20°53'30.82" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -336,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|7°17'37.37" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|22°28'52.98" |Cancer|Tarf|Moon|
 |☿ Mercury|Post-Retrograde Shadow|12°38'42.96" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|20°53'30.82" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|20°56'38.03" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

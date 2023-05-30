@@ -13,7 +13,7 @@ description: 🗓 Tuesday, 30 May 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Johor Bahru
 TimeZone: +08:00
 \-
 Latitude: 1.4655
@@ -27,6 +27,8 @@ Altitude: 32 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 32 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:49:48 |
+| Fajr (Dawn) | 05:49:48 |
 | Sunrise | 06:56:20 |
-| Dhuhr | 13:02:27 |
+| Dhuhr (Noon) | 13:02:27 |
 | Medium Coeli | 13:02:27 |
 | Sunset | 19:08:35 |
 | Maghrib | 19:23:12 |
-| Isha | 20:06:29 |
+| Isha (Night) | 20:06:29 |
 | Sharia Midnight | 00:29:12 |
 | Imum Coeli | 01:02:32 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:42:23 |
+| Fajr (Dawn) | 05:42:23 |
 | Sunrise | 06:56:20 |
-| Dhuhr | 13:02:27 |
+| Dhuhr (Noon) | 13:02:27 |
 | Medium Coeli | 13:02:27 |
 | Sunset | 19:08:35 |
 | Maghrib | 19:25:22 |
-| Isha | 20:06:29 |
+| Isha (Night) | 20:06:29 |
 | Sharia Midnight | 00:25:30 |
 | Imum Coeli | 01:02:32 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:41:05 |
+| Fajr (Dawn) | 05:41:05 |
 | Sunrise | 06:56:20 |
-| Dhuhr | 13:02:27 |
+| Dhuhr (Noon) | 13:02:27 |
 | Medium Coeli | 13:02:27 |
 | Sunset | 19:08:35 |
 | Maghrib | 19:09:33 |
-| Isha | 20:19:32 |
+| Isha (Night) | 20:19:32 |
 | Sharia Midnight | 00:24:51 |
 | Imum Coeli | 01:02:32 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:54:08 |
+| Fajr (Dawn) | 05:54:08 |
 | Sunrise | 06:56:20 |
-| Dhuhr | 13:02:27 |
+| Dhuhr (Noon) | 13:02:27 |
 | Medium Coeli | 13:02:27 |
 | Sunset | 19:08:35 |
 | Maghrib | 19:09:33 |
-| Isha | 20:10:50 |
+| Isha (Night) | 20:10:50 |
 | Sharia Midnight | 00:31:23 |
 | Imum Coeli | 01:02:32 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:34:32 |
+| Fajr (Dawn) | 05:34:32 |
 | Sunrise | 06:56:20 |
-| Dhuhr | 13:02:27 |
+| Dhuhr (Noon) | 13:02:27 |
 | Medium Coeli | 13:02:27 |
 | Sunset | 19:08:35 |
 | Maghrib | 19:09:33 |
-| Isha | 20:21:43 |
+| Isha (Night) | 20:21:43 |
 | Sharia Midnight | 00:21:34 |
 | Imum Coeli | 01:02:32 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:41:05 |
+| Fajr (Dawn) | 05:41:05 |
 | Sunrise | 06:56:20 |
-| Dhuhr | 13:02:27 |
+| Dhuhr (Noon) | 13:02:27 |
 | Medium Coeli | 13:02:27 |
 | Sunset | 19:08:35 |
 | Maghrib | 19:09:33 |
-| Isha | 20:23:54 |
+| Isha (Night) | 20:23:54 |
 | Sharia Midnight | 00:24:51 |
 | Imum Coeli | 01:02:32 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:38:54 |
+| Fajr (Dawn) | 05:38:54 |
 | Sunrise | 06:56:20 |
-| Dhuhr | 13:02:27 |
+| Dhuhr (Noon) | 13:02:27 |
 | Medium Coeli | 13:02:27 |
 | Sunset | 19:08:35 |
 | Maghrib | 19:09:33 |
-| Isha | 20:39:33 |
+| Isha (Night) | 20:39:33 |
 | Sharia Midnight | 00:23:45 |
 | Imum Coeli | 01:02:32 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -334,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|2°57'16.05" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|5°20'50.05" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°19'18.09" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|23°33'5.80" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|13°40'44.55" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°27'34.94" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|23°33'11.10" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|13°40'44.53" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°45'22.03" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Baru, Bharu, Dzhokhor Bakhru, Dzhokhor-Baru, Dzohor Baru, Dzokhor Bakhru, Džohor Baru, JHB, Jahore Bahru, Johor, Johor Baharu, Johor Bahru, Johore, Johore Bahru, Johore Baru, Johore Bharu, Sin-san-su, Sîn-sân-sṳ, joholeubalu, johora baru, johorubaru, jokur paru, jwhr bhrw, jwhwr bhrw, xin shan, ya hor bah ru, Џохор Бахру, Джохор Бахру, Джохор-Бару, גוהור באהרו, جوهر بهرو, جوهور بهرو, جوھر بھرو, जोहोर बारू, ஜொகூர் பாரு, ยะโฮร์บาห์รู, ဂျဟိုးဘာရူးမြို့, ジョホールバル, 新山, 조호르바루

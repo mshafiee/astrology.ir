@@ -13,7 +13,7 @@ description: 🗓 Monday, 29 May 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Budapest
 TimeZone: +02:00
 \-
 Latitude: 47.4984
@@ -27,6 +27,8 @@ Altitude: 75 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 75 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 02:36:16 |
+| Fajr (Dawn) | 02:36:16 |
 | Sunrise | 04:52:50 |
-| Dhuhr | 12:41:13 |
+| Dhuhr (Noon) | 12:41:13 |
 | Medium Coeli | 12:41:13 |
 | Sunset | 20:30:11 |
 | Maghrib | 20:55:15 |
-| Isha | 22:24:05 |
+| Isha (Night) | 22:24:05 |
 | Sharia Midnight | 23:32:22 |
 | Imum Coeli | 00:41:17 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 02:12:32 |
+| Fajr (Dawn) | 02:12:32 |
 | Sunrise | 04:52:50 |
-| Dhuhr | 12:41:13 |
+| Dhuhr (Noon) | 12:41:13 |
 | Medium Coeli | 12:41:13 |
 | Sunset | 20:30:11 |
 | Maghrib | 20:59:05 |
-| Isha | 22:24:05 |
+| Isha (Night) | 22:24:05 |
 | Sharia Midnight | 23:20:15 |
 | Imum Coeli | 00:41:17 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 02:07:45 |
+| Fajr (Dawn) | 02:07:45 |
 | Sunrise | 04:52:50 |
-| Dhuhr | 12:41:13 |
+| Dhuhr (Noon) | 12:41:13 |
 | Medium Coeli | 12:41:13 |
 | Sunset | 20:30:11 |
 | Maghrib | 20:32:19 |
-| Isha | 23:01:21 |
+| Isha (Night) | 23:01:21 |
 | Sharia Midnight | 23:17:47 |
 | Imum Coeli | 00:41:17 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 02:48:24 |
+| Fajr (Dawn) | 02:48:24 |
 | Sunrise | 04:52:50 |
-| Dhuhr | 12:41:13 |
+| Dhuhr (Noon) | 12:41:13 |
 | Medium Coeli | 12:41:13 |
 | Sunset | 20:30:11 |
 | Maghrib | 20:32:19 |
-| Isha | 22:35:26 |
+| Isha (Night) | 22:35:26 |
 | Sharia Midnight | 23:38:31 |
 | Imum Coeli | 00:41:17 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 01:38:34 |
+| Fajr (Dawn) | 01:38:34 |
 | Sunrise | 04:52:50 |
-| Dhuhr | 12:41:13 |
+| Dhuhr (Noon) | 12:41:13 |
 | Medium Coeli | 12:41:13 |
 | Sunset | 20:30:11 |
 | Maghrib | 20:32:19 |
-| Isha | 23:08:49 |
+| Isha (Night) | 23:08:49 |
 | Sharia Midnight | 23:02:32 |
 | Imum Coeli | 00:41:17 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 02:07:45 |
+| Fajr (Dawn) | 02:07:45 |
 | Sunrise | 04:52:50 |
-| Dhuhr | 12:41:13 |
+| Dhuhr (Noon) | 12:41:13 |
 | Medium Coeli | 12:41:13 |
 | Sunset | 20:30:11 |
 | Maghrib | 20:32:19 |
-| Isha | 23:16:53 |
+| Isha (Night) | 23:16:53 |
 | Sharia Midnight | 23:17:47 |
 | Imum Coeli | 00:41:17 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 01:59:10 |
+| Fajr (Dawn) | 01:59:10 |
 | Sunrise | 04:52:50 |
-| Dhuhr | 12:41:13 |
+| Dhuhr (Noon) | 12:41:13 |
 | Medium Coeli | 12:41:13 |
 | Sunset | 20:30:11 |
 | Maghrib | 20:32:19 |
-| Isha | 22:02:19 |
+| Isha (Night) | 22:02:19 |
 | Sharia Midnight | 23:13:22 |
 | Imum Coeli | 00:41:17 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -332,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°53'42.75" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|2°46'20.59" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°51'53.59" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|7°31'6.49" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|22°43'6.73" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|12°51'52.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°38'13.52" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|4°51'50.06" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°31'7.24" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|22°42'59.63" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|12°51'57.36" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°46'16.03" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -347,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Mercury|Mercury|Mercury|Mercury|
-|☾ Moon|Mars|Mars|Venus|Moon|
+|☾ Moon|Mars|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

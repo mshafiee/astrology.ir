@@ -13,7 +13,7 @@ description: 🗓 Thursday, 01 Jun 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Novosibirsk
 TimeZone: +07:00
 \-
 Latitude: 55.0415
@@ -27,6 +27,8 @@ Altitude: 164 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 164 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | Circumpolar Angle |
+| Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:56:56 |
-| Dhuhr | 13:26:03 |
+| Dhuhr (Noon) | 13:26:03 |
 | Medium Coeli | 13:26:03 |
 | Sunset | 21:55:58 |
 | Maghrib | 22:30:21 |
-| Isha | Circumpolar Angle |
+| Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:26:07 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | Circumpolar Angle |
+| Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:56:56 |
-| Dhuhr | 13:26:03 |
+| Dhuhr (Noon) | 13:26:03 |
 | Medium Coeli | 13:26:03 |
 | Sunset | 21:55:58 |
 | Maghrib | 22:35:50 |
-| Isha | Circumpolar Angle |
+| Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:26:07 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | Circumpolar Angle |
+| Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:56:56 |
-| Dhuhr | 13:26:03 |
+| Dhuhr (Noon) | 13:26:03 |
 | Medium Coeli | 13:26:03 |
 | Sunset | 21:55:58 |
 | Maghrib | 22:00:12 |
-| Isha | Circumpolar Angle |
+| Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:26:07 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | Circumpolar Angle |
+| Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:56:56 |
-| Dhuhr | 13:26:03 |
+| Dhuhr (Noon) | 13:26:03 |
 | Medium Coeli | 13:26:03 |
 | Sunset | 21:55:58 |
 | Maghrib | 22:00:12 |
-| Isha | Circumpolar Angle |
+| Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:26:07 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | Circumpolar Angle |
+| Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:56:56 |
-| Dhuhr | 13:26:03 |
+| Dhuhr (Noon) | 13:26:03 |
 | Medium Coeli | 13:26:03 |
 | Sunset | 21:55:58 |
 | Maghrib | 22:00:12 |
-| Isha | Circumpolar Angle |
+| Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:26:07 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | Circumpolar Angle |
+| Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:56:56 |
-| Dhuhr | 13:26:03 |
+| Dhuhr (Noon) | 13:26:03 |
 | Medium Coeli | 13:26:03 |
 | Sunset | 21:55:58 |
 | Maghrib | 22:00:12 |
-| Isha | Circumpolar Angle |
+| Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:26:07 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | Circumpolar Angle |
+| Fajr (Dawn) | Circumpolar Angle |
 | Sunrise | 04:56:56 |
-| Dhuhr | 13:26:03 |
+| Dhuhr (Noon) | 13:26:03 |
 | Medium Coeli | 13:26:03 |
 | Sunset | 21:55:58 |
 | Maghrib | 22:00:12 |
-| Isha | 23:30:12 |
+| Isha (Night) | 23:30:12 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:26:07 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -292,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°58'41.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°22'39.35" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°28'50.63" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°11'51.44" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|25°29'28.15" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|15°43'37.09" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°50'35.60" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|3°22'39.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°28'51.47" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°11'53.10" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|25°29'30.63" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|15°43'38.42" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°46'43.89" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

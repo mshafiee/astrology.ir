@@ -13,7 +13,7 @@ description: 🗓 Tuesday, 30 May 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Singapore
 TimeZone: +08:00
 \-
 Latitude: 1.2897
@@ -27,6 +27,8 @@ Altitude: 23 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 23 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:49:43 |
+| Fajr (Dawn) | 05:49:43 |
 | Sunrise | 06:56:15 |
-| Dhuhr | 13:02:05 |
+| Dhuhr (Noon) | 13:02:05 |
 | Medium Coeli | 13:02:05 |
 | Sunset | 19:07:56 |
 | Maghrib | 19:22:33 |
-| Isha | 20:05:49 |
+| Isha (Night) | 20:05:49 |
 | Sharia Midnight | 00:28:51 |
 | Imum Coeli | 01:02:09 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:42:19 |
+| Fajr (Dawn) | 05:42:19 |
 | Sunrise | 06:56:15 |
-| Dhuhr | 13:02:05 |
+| Dhuhr (Noon) | 13:02:05 |
 | Medium Coeli | 13:02:05 |
 | Sunset | 19:07:56 |
 | Maghrib | 19:24:42 |
-| Isha | 20:05:49 |
+| Isha (Night) | 20:05:49 |
 | Sharia Midnight | 00:25:09 |
 | Imum Coeli | 01:02:09 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:41:01 |
+| Fajr (Dawn) | 05:41:01 |
 | Sunrise | 06:56:15 |
-| Dhuhr | 13:02:05 |
+| Dhuhr (Noon) | 13:02:05 |
 | Medium Coeli | 13:02:05 |
 | Sunset | 19:07:56 |
 | Maghrib | 19:08:54 |
-| Isha | 20:18:52 |
+| Isha (Night) | 20:18:52 |
 | Sharia Midnight | 00:24:29 |
 | Imum Coeli | 01:02:09 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:54:04 |
+| Fajr (Dawn) | 05:54:04 |
 | Sunrise | 06:56:15 |
-| Dhuhr | 13:02:05 |
+| Dhuhr (Noon) | 13:02:05 |
 | Medium Coeli | 13:02:05 |
 | Sunset | 19:07:56 |
 | Maghrib | 19:08:54 |
-| Isha | 20:10:10 |
+| Isha (Night) | 20:10:10 |
 | Sharia Midnight | 00:31:01 |
 | Imum Coeli | 01:02:09 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:34:28 |
+| Fajr (Dawn) | 05:34:28 |
 | Sunrise | 06:56:15 |
-| Dhuhr | 13:02:05 |
+| Dhuhr (Noon) | 13:02:05 |
 | Medium Coeli | 13:02:05 |
 | Sunset | 19:07:56 |
 | Maghrib | 19:08:54 |
-| Isha | 20:21:03 |
+| Isha (Night) | 20:21:03 |
 | Sharia Midnight | 00:21:13 |
 | Imum Coeli | 01:02:09 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:41:01 |
+| Fajr (Dawn) | 05:41:01 |
 | Sunrise | 06:56:15 |
-| Dhuhr | 13:02:05 |
+| Dhuhr (Noon) | 13:02:05 |
 | Medium Coeli | 13:02:05 |
 | Sunset | 19:07:56 |
 | Maghrib | 19:08:54 |
-| Isha | 20:23:13 |
+| Isha (Night) | 20:23:13 |
 | Sharia Midnight | 00:24:29 |
 | Imum Coeli | 01:02:09 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:38:50 |
+| Fajr (Dawn) | 05:38:50 |
 | Sunrise | 06:56:15 |
-| Dhuhr | 13:02:05 |
+| Dhuhr (Noon) | 13:02:05 |
 | Medium Coeli | 13:02:05 |
 | Sunset | 19:07:56 |
 | Maghrib | 19:08:54 |
-| Isha | 20:38:54 |
+| Isha (Night) | 20:38:54 |
 | Sharia Midnight | 00:23:24 |
 | Imum Coeli | 01:02:09 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -282,6 +288,8 @@ Timetable of septet day and night planetary hours
 {{< /tabs >}}
 
 ## The position of the planets at sunrise
+
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
 
 {{< tabs tabTotal="2" >}}
 
@@ -374,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴

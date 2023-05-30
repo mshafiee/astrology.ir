@@ -1,6 +1,6 @@
 ---
-date: 2023-05-28T00:00:00+04:00
-lastmod: 2023-05-28T00:00:00+04:00
+date: 2023-06-04T00:00:00+04:00
+lastmod: 2023-06-04T00:00:00+04:00
 title: Victoria Sunday
 slug: sunday
 categories:
@@ -9,11 +9,11 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Sunday, 28 May 2023
+description: 🗓 Sunday, 04 Jun 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Victoria
 TimeZone: +04:00
 \-
 Latitude: -4.6200
@@ -27,6 +27,8 @@ Altitude: -9,999 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: -9,999 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 01:30:00 |
+| Isha (Night) | 01:30:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -153,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -175,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -332,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

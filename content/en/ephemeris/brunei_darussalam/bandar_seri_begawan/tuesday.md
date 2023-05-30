@@ -13,7 +13,7 @@ description: 🗓 Tuesday, 30 May 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Bandar Seri Begawan
 TimeZone: +08:00
 \-
 Latitude: 4.8903
@@ -27,6 +27,8 @@ Altitude: 10 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 10 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:59:03 |
+| Fajr (Dawn) | 04:59:03 |
 | Sunrise | 06:06:07 |
-| Dhuhr | 12:17:43 |
+| Dhuhr (Noon) | 12:17:43 |
 | Medium Coeli | 12:17:43 |
 | Sunset | 18:29:22 |
 | Maghrib | 18:44:03 |
-| Isha | 19:27:41 |
+| Isha (Night) | 19:27:41 |
 | Sharia Midnight | 23:44:12 |
 | Imum Coeli | 00:17:48 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:51:33 |
+| Fajr (Dawn) | 04:51:33 |
 | Sunrise | 06:06:07 |
-| Dhuhr | 12:17:43 |
+| Dhuhr (Noon) | 12:17:43 |
 | Medium Coeli | 12:17:43 |
 | Sunset | 18:29:22 |
 | Maghrib | 18:46:13 |
-| Isha | 19:27:41 |
+| Isha (Night) | 19:27:41 |
 | Sharia Midnight | 23:40:27 |
 | Imum Coeli | 00:17:48 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:50:13 |
+| Fajr (Dawn) | 04:50:13 |
 | Sunrise | 06:06:07 |
-| Dhuhr | 12:17:43 |
+| Dhuhr (Noon) | 12:17:43 |
 | Medium Coeli | 12:17:43 |
 | Sunset | 18:29:22 |
 | Maghrib | 18:30:19 |
-| Isha | 19:40:54 |
+| Isha (Night) | 19:40:54 |
 | Sharia Midnight | 23:39:47 |
 | Imum Coeli | 00:17:48 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:03:27 |
+| Fajr (Dawn) | 05:03:27 |
 | Sunrise | 06:06:07 |
-| Dhuhr | 12:17:43 |
+| Dhuhr (Noon) | 12:17:43 |
 | Medium Coeli | 12:17:43 |
 | Sunset | 18:29:22 |
 | Maghrib | 18:30:19 |
-| Isha | 19:32:05 |
+| Isha (Night) | 19:32:05 |
 | Sharia Midnight | 23:46:24 |
 | Imum Coeli | 00:17:48 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:43:35 |
+| Fajr (Dawn) | 04:43:35 |
 | Sunrise | 06:06:07 |
-| Dhuhr | 12:17:43 |
+| Dhuhr (Noon) | 12:17:43 |
 | Medium Coeli | 12:17:43 |
 | Sunset | 18:29:22 |
 | Maghrib | 18:30:19 |
-| Isha | 19:43:07 |
+| Isha (Night) | 19:43:07 |
 | Sharia Midnight | 23:36:27 |
 | Imum Coeli | 00:17:48 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:50:13 |
+| Fajr (Dawn) | 04:50:13 |
 | Sunrise | 06:06:07 |
-| Dhuhr | 12:17:43 |
+| Dhuhr (Noon) | 12:17:43 |
 | Medium Coeli | 12:17:43 |
 | Sunset | 18:29:22 |
 | Maghrib | 18:30:19 |
-| Isha | 19:45:19 |
+| Isha (Night) | 19:45:19 |
 | Sharia Midnight | 23:39:47 |
 | Imum Coeli | 00:17:48 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 04:48:00 |
+| Fajr (Dawn) | 04:48:00 |
 | Sunrise | 06:06:07 |
-| Dhuhr | 12:17:43 |
+| Dhuhr (Noon) | 12:17:43 |
 | Medium Coeli | 12:17:43 |
 | Sunset | 18:29:22 |
 | Maghrib | 18:30:19 |
-| Isha | 20:00:19 |
+| Isha (Night) | 20:00:19 |
 | Sharia Midnight | 23:38:40 |
 | Imum Coeli | 00:17:48 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -292,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°55'12.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°56'46.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°19'32.26" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°17'1.36" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|23°30'48.37" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|13°38'22.83" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°49'4.31" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|2°56'48.76" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°19'37.42" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°17'17.55" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°31'5.81" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|13°38'39.70" |Aries|Butain|Sun|
+|☾ Moon|Direct|3°20'8.85" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -330,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°55'12.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°56'46.36" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°19'32.26" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|8°17'1.36" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|23°30'48.37" |Cancer|Tarf|Moon|
-|☿ Mercury|Post-Retrograde Shadow|13°38'22.83" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°49'4.31" |Libra|Ghafr|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|6°55'12.99" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|2°56'48.76" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°19'37.42" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|8°17'17.55" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|23°31'5.81" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|13°38'39.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°20'8.85" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -374,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BWN, Banda Seri, Bandar Seri Begauan, Bandar Seri Begavan, Bandar Seri Begavanas, Bandar Seri Begawan, Bandar Sery Begawan, Bandar-Seri-Begavan, Bandar-Seri-Begavano, Bandar-Sery-Begavan, Bandarseribegavana, Brunei, Brunei Town, Bruni, Mpantar Seri Mpenkaban, badara seri begavana, ban dar se ribe ka wan, bandaleuseulibeugawan, bandar seri bagevan, bandar-seri-begavani, bandara seri bega'oyana, bandara seri begavana, bandara sri bagavana, bandarusuribugawan, bndr sry bgawan, bndr sry bkawan, bndr sry bygwan, pantar ceri pekavan, si li ba jia wan, si li ba jia wan shi, sry bgawan, Μπαντάρ Σερί Μπεγκαβάν, Бандар Сери Бегаван, Бандар-Сери-Бегаван, Бандар-Серы-Бегаван, Бандар-Сері-Бегаван, Բանդար Սերի Բեգավան, בנדר סרי בגוואן, باندار سەرى بەگاۋان, بندر سري بكاوان, بندر سری بگاوان, بندر سری بیگوان, بەندەر سێری بێگاوان, سری بگاوان, बंदर स्री बगवान, बन्दर सेरी बेगवान, बन्दर सेरी बेगावान, বন্দর সেরি বেগাওয়ান, ਬੰਦਰ ਸੇਰੀ ਬੇਗਵਾਨ, பண்டர் செரி பெகாவான், ಬಂದರ್ ಸೆರಿ ಬಗೆವನ್, ബന്ദർ സെരി ബെഗവൻ, บันดาร์เสรีเบกาวัน, སི་རི་པེ་ཀ་མཚོ་ཁུགས་གྲོང་ཁྱེར།, ဘန်ဒါဆရီဘဂါဝမ်မြို့, ბანდარ-სერი-ბეგავანი, ባንዳር ሰሪ ቤጋዋን, バンダルスリブガワン, 斯里巴加湾市, 斯里巴加灣, 斯里巴加灣市, 반다르스리브가완

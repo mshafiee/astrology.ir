@@ -13,7 +13,7 @@ description: 🗓 Tuesday, 30 May 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Pyongyang
 TimeZone: +09:00
 \-
 Latitude: 39.0339
@@ -27,6 +27,8 @@ Altitude: 43 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 43 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:33:30 |
+| Fajr (Dawn) | 03:33:30 |
 | Sunrise | 05:14:07 |
-| Dhuhr | 12:34:28 |
+| Dhuhr (Noon) | 12:34:28 |
 | Medium Coeli | 12:34:28 |
 | Sunset | 19:55:11 |
 | Maghrib | 20:15:33 |
-| Isha | 21:21:22 |
+| Isha (Night) | 21:21:22 |
 | Sharia Midnight | 23:43:56 |
 | Imum Coeli | 00:34:32 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:20:20 |
+| Fajr (Dawn) | 03:20:20 |
 | Sunrise | 05:14:07 |
-| Dhuhr | 12:34:28 |
+| Dhuhr (Noon) | 12:34:28 |
 | Medium Coeli | 12:34:28 |
 | Sunset | 19:55:11 |
 | Maghrib | 20:18:37 |
-| Isha | 21:21:22 |
+| Isha (Night) | 21:21:22 |
 | Sharia Midnight | 23:37:19 |
 | Imum Coeli | 00:34:32 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:17:56 |
+| Fajr (Dawn) | 03:17:56 |
 | Sunrise | 05:14:07 |
-| Dhuhr | 12:34:28 |
+| Dhuhr (Noon) | 12:34:28 |
 | Medium Coeli | 12:34:28 |
 | Sunset | 19:55:11 |
 | Maghrib | 19:56:30 |
-| Isha | 21:43:50 |
+| Isha (Night) | 21:43:50 |
 | Sharia Midnight | 23:36:07 |
 | Imum Coeli | 00:34:32 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:40:56 |
+| Fajr (Dawn) | 03:40:56 |
 | Sunrise | 05:14:07 |
-| Dhuhr | 12:34:28 |
+| Dhuhr (Noon) | 12:34:28 |
 | Medium Coeli | 12:34:28 |
 | Sunset | 19:55:11 |
 | Maghrib | 19:56:30 |
-| Isha | 21:28:39 |
+| Isha (Night) | 21:28:39 |
 | Sharia Midnight | 23:47:41 |
 | Imum Coeli | 00:34:32 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:05:32 |
+| Fajr (Dawn) | 03:05:32 |
 | Sunrise | 05:14:07 |
-| Dhuhr | 12:34:28 |
+| Dhuhr (Noon) | 12:34:28 |
 | Medium Coeli | 12:34:28 |
 | Sunset | 19:55:11 |
 | Maghrib | 19:56:30 |
-| Isha | 21:47:47 |
+| Isha (Night) | 21:47:47 |
 | Sharia Midnight | 23:29:52 |
 | Imum Coeli | 00:34:32 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:17:56 |
+| Fajr (Dawn) | 03:17:56 |
 | Sunrise | 05:14:07 |
-| Dhuhr | 12:34:28 |
+| Dhuhr (Noon) | 12:34:28 |
 | Medium Coeli | 12:34:28 |
 | Sunset | 19:55:11 |
 | Maghrib | 19:56:30 |
-| Isha | 21:51:47 |
+| Isha (Night) | 21:51:47 |
 | Sharia Midnight | 23:36:07 |
 | Imum Coeli | 00:34:32 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 03:13:53 |
+| Fajr (Dawn) | 03:13:53 |
 | Sunrise | 05:14:07 |
-| Dhuhr | 12:34:28 |
+| Dhuhr (Noon) | 12:34:28 |
 | Medium Coeli | 12:34:28 |
 | Sunset | 19:55:11 |
 | Maghrib | 19:56:30 |
-| Isha | 21:26:30 |
+| Isha (Night) | 21:26:30 |
 | Sharia Midnight | 23:34:04 |
 | Imum Coeli | 00:34:32 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -331,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°55'4.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|2°55'45.70" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°16'51.66" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|2°55'47.39" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°16'54.70" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|8°12'45.85" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|23°26'23.64" |Cancer|Tarf|Moon|
 |☿ Mercury|Post-Retrograde Shadow|13°33'58.98" |Taurus|Dabaran|Moon|
@@ -374,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Binh Nhuong, Bình Nhưỡng, FNJ, Heijo, Heijo-fu, Heijō, Heijō-fu, Heizyo, Heizyo Hu, Heizyō, Heizyō Hu, Hpyeng-yang, P'yongyang, P'yongyang-si, P'yŏngyang, P'yŏngyang-si, P-hjong-jang, P-hjöng-jang, Pchenjanas, Pchjongjang, Phenian, Phenjan, Phenjana, Phyeng-yang, Phyong-yang, Pienyang, Pingyang, Pion'gian'nk, Pion'nkgian'nk, Piongiang, Pionguiangue, Pionyang, Pjoengjang, Pjongian, Pjongjang, Pjongjango, Pjöngjang, Pkhen'jan, Pkhenjan, Pxenyan, Pyeongyang, Pyoengyang, Pyongyang, Pyongyang-si, Pyöngyang, bywnghyangh, peiyngyang, pi'ongayanga, ping rang, ping rang shi, piyam iyam, piyonyan, pkheniani, pyamgayanga, pyang yang, pyeong-yang, pyeong-yangjighalsi, pyeong-yangsi, pyon'gyang, pyongayanga, pywng yang, pywngyang, Πιονγιάνγκ, Πιονγκγιάνγκ, Пхеньян, Пхенян, Пјонгјанг, Փխենյան, פיאנגיאנג, פיונגיאנג, بيونغيانغ, پيونګيانګ, پيونگ يانگ, پيوڭياڭ, پیانگ یانگ, پیونگ‌یانگ, پیۆنگیانگ, प्याँगयांग, प्योंगयांग, পিয়ং ইয়াং, ਪਿਓਂਗਯਾਂਗ, பியொங்யாங், ಪ್ಯೊನ್ಗ್ಯಾಂಗ್, เปียงยาง, ཕོང་ཡང་།, ფხენიანი, ፕዮንግያንግ, 平壌, 平壤, 平壤市, 평양, 평양시, 평양직할시

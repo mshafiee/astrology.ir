@@ -13,7 +13,7 @@ description: 🗓 Saturday, 03 Jun 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of Alofi
 TimeZone: -11:00
 \-
 Latitude: -19.0545
@@ -27,6 +27,8 @@ Altitude: 44 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: 44 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:36:45 |
+| Fajr (Dawn) | 05:36:45 |
 | Sunrise | 06:46:29 |
-| Dhuhr | 12:17:53 |
+| Dhuhr (Noon) | 12:17:53 |
 | Medium Coeli | 12:17:53 |
 | Sunset | 17:49:12 |
 | Maghrib | 18:04:46 |
-| Isha | 18:50:00 |
+| Isha (Night) | 18:50:00 |
 | Sharia Midnight | 23:43:07 |
 | Imum Coeli | 00:17:58 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:29:10 |
+| Fajr (Dawn) | 05:29:10 |
 | Sunrise | 06:46:29 |
-| Dhuhr | 12:17:53 |
+| Dhuhr (Noon) | 12:17:53 |
 | Medium Coeli | 12:17:53 |
 | Sunset | 17:49:12 |
 | Maghrib | 18:07:03 |
-| Isha | 18:50:00 |
+| Isha (Night) | 18:50:00 |
 | Sharia Midnight | 23:39:19 |
 | Imum Coeli | 00:17:58 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:27:50 |
+| Fajr (Dawn) | 05:27:50 |
 | Sunrise | 06:46:29 |
-| Dhuhr | 12:17:53 |
+| Dhuhr (Noon) | 12:17:53 |
 | Medium Coeli | 12:17:53 |
 | Sunset | 17:49:12 |
 | Maghrib | 17:50:15 |
-| Isha | 19:03:25 |
+| Isha (Night) | 19:03:25 |
 | Sharia Midnight | 23:38:39 |
 | Imum Coeli | 00:17:58 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:41:13 |
+| Fajr (Dawn) | 05:41:13 |
 | Sunrise | 06:46:29 |
-| Dhuhr | 12:17:53 |
+| Dhuhr (Noon) | 12:17:53 |
 | Medium Coeli | 12:17:53 |
 | Sunset | 17:49:12 |
 | Maghrib | 17:50:15 |
-| Isha | 18:54:29 |
+| Isha (Night) | 18:54:29 |
 | Sharia Midnight | 23:45:21 |
 | Imum Coeli | 00:17:58 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:21:09 |
+| Fajr (Dawn) | 05:21:09 |
 | Sunrise | 06:46:29 |
-| Dhuhr | 12:17:53 |
+| Dhuhr (Noon) | 12:17:53 |
 | Medium Coeli | 12:17:53 |
 | Sunset | 17:49:12 |
 | Maghrib | 17:50:15 |
-| Isha | 19:05:38 |
+| Isha (Night) | 19:05:38 |
 | Sharia Midnight | 23:35:19 |
 | Imum Coeli | 00:17:58 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:27:50 |
+| Fajr (Dawn) | 05:27:50 |
 | Sunrise | 06:46:29 |
-| Dhuhr | 12:17:53 |
+| Dhuhr (Noon) | 12:17:53 |
 | Medium Coeli | 12:17:53 |
 | Sunset | 17:49:12 |
 | Maghrib | 17:50:15 |
-| Isha | 19:07:52 |
+| Isha (Night) | 19:07:52 |
 | Sharia Midnight | 23:38:39 |
 | Imum Coeli | 00:17:58 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 05:25:36 |
+| Fajr (Dawn) | 05:25:36 |
 | Sunrise | 06:46:29 |
-| Dhuhr | 12:17:53 |
+| Dhuhr (Noon) | 12:17:53 |
 | Medium Coeli | 12:17:53 |
 | Sunset | 17:49:12 |
 | Maghrib | 17:50:15 |
-| Isha | 19:20:15 |
+| Isha (Night) | 19:20:15 |
 | Sharia Midnight | 23:37:33 |
 | Imum Coeli | 00:17:58 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -283,6 +289,8 @@ Timetable of septet day and night planetary hours
 
 ## The position of the planets at sunrise
 
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
+
 {{< tabs tabTotal="2" >}}
 
 {{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
@@ -296,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|8°7'22.89" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|12°54'25.27" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|28°14'49.07" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|19°2'9.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|7°5'1.51" |Scorpio|Akleel|Mars|
+|☿ Mercury|Post-Retrograde Shadow|19°2'12.30" |Aries|Butain|Sun|
+|☾ Moon|Direct|6°28'47.22" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -308,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Saturn|Saturn|Saturn|Jupiter|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Mars|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -319,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Libra|Moon|Venus|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
