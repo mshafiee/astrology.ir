@@ -1,6 +1,6 @@
 ---
-date: 2023-05-29T00:00:00-04:00
-lastmod: 2023-05-29T00:00:00-04:00
+date: 2023-06-05T00:00:00-04:00
+lastmod: 2023-06-05T00:00:00-04:00
 title: BasseTerre Monday
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - BasseTerre
-description: 🗓 Monday, 29 May 2023
+description: 🗓 Monday, 05 Jun 2023
 
 toc: false
 ---
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
-|♑ Capricorn|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르

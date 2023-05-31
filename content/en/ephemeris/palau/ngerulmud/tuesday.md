@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°55'6.63" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|2°56'3.69" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°17'37.48" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|8°13'43.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|23°27'30.69" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|13°34'54.82" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°50'14.55" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|2°56'2.92" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°17'33.94" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|8°13'51.90" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|23°27'28.79" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|13°35'8.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°30'44.57" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

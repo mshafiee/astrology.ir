@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|3°26'27.92" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|6°39'6.17" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|10°28'52.34" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|25°46'38.22" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|16°3'4.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°38'20.29" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|25°46'55.72" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|16°3'14.10" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°12'25.71" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Venus|Venus|Aries|Moon|Jupiter|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|6°59'10.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|3°26'26.58" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°39'0.30" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°28'40.72" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°46'38.22" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|16°3'4.89" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°38'20.29" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|3°26'27.92" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°39'6.17" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°28'52.34" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|25°46'55.72" |Cancer|Jabhah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|16°3'14.10" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°6'45.70" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: FIH, Kincasa, Kinchasa, Kinchassa, Kinsas, Kinsasa, Kinsaso, Kinshasa, Kinshase, Kinsjasa, Kinszasa, Kinsásá, Kinxasa, Kinŝaso, Kinşasa, Kinšas, Kinšasa, Kînşasa, Leopoldstad, Leopoldville, Léopoldville, Quinxassa, jin sha sa, jin xia sha, kin cha sa, kinasasa, kinsaca, kinsasa, kinshasa, kinsyasa, knshasa, kynshasa, Κινσάσα, Киншаса, Киншасе, Кіншаса, Կինշասա, קינשאזע, קינשאסה, كينشاسا, کنشاسا, کنشاسہ, کینشاسا, किन्शासा, কিনশাসা, ਕਿਨਸ਼ਾਸਾ, கின்ஷாசா, കിൻഷസ, กินชาซา, ཀིན་ཤ་ས།, ကင်ရှာဆာမြို့, კინშასა, ኪንሻሳ, キンシャサ, 金夏沙, 金沙薩, 킨샤사
