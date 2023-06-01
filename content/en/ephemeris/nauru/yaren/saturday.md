@@ -225,9 +225,9 @@ Timetable of twelve day and night planetary hours
 |7|Moon|Servant|12:50:21|13:50:49|Not suitable for any task|
 |8|Saturn|Ruler|13:50:50|14:51:18|Destruction of enemies|
 |9|Jupiter|Servant|14:51:19|15:51:47|All good deeds|
-|10|Mars|Servant|15:51:48|16:52:16|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Mars|Servant|15:51:48|16:52:16|Doing evil deeds|
 |11|Sun|Servant|16:52:17|17:52:45|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Venus|Servant|17:52:46|18:53:15|For gaining dignity|
+|12|Venus|Servant|17:52:46|18:53:15|The moon is in Scorpio, Not suitable for doing anything.|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°1'36.23" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°1'36.23" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°46'41.53" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°33'57.74" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|11°59'23.62" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|27°19'12.70" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|17°52'14.93" |Aries|Butain|Sun|
+|☿ Mercury|Direct|17°52'14.93" |Aries|Butain|Sun|
 |☾ Moon|Direct|23°9'14.87" |Libra|Jubana|Jupiter|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°1'36.23" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°1'36.23" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°46'41.53" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°33'57.74" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|11°59'23.62" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|27°19'12.70" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|17°52'14.93" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|17°52'14.93" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|23°9'14.87" |Scorpio|Shaulah|Venus|
 
 

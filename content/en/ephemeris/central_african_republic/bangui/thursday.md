@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°59'8.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°26'11.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°38'28.57" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°27'38.92" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|25°45'49.71" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|16°1'45.28" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°13'14.37" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|6°59'8.41" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|3°26'12.03" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°38'21.33" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°27'36.06" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|25°45'32.42" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|16°1'49.55" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°24'47.68" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Venus|Venus|Aries|Moon|Jupiter|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|6°59'8.41" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|6°59'8.41" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°26'13.35" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°38'28.57" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|10°27'38.92" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°45'49.71" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|16°1'45.28" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°13'14.37" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|6°38'26.90" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|10°27'47.34" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|25°45'49.12" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|16°1'58.64" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°53'9.78" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: BGF, Bangi, Bangis, Bangui, Mpan'nkoui, ban ji, bang-gi, bangi, bangwyy, Μπανγκουί, Банги, Бангі, בנגואי, بانگوئی, ባንጊ, バンギ, 班基, 방기

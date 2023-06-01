@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°2'32.78" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°2'32.78" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°55'3.43" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°56'48.67" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|12°37'1.09" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|27°57'16.42" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|18°39'47.23" |Aries|Butain|Sun|
+|☿ Mercury|Direct|18°39'47.23" |Aries|Butain|Sun|
 |☾ Moon|Direct|2°18'53.63" |Scorpio|Akleel|Mars|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°2'32.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|3°55'1.69" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°56'50.40" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|12°36'54.71" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°57'18.17" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|18°39'37.01" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°12'12.55" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|7°2'32.78" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|3°55'1.16" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°56'44.44" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°36'46.39" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°57'1.17" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|18°39'32.52" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°56'2.44" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴

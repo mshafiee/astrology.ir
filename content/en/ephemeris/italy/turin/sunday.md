@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°3'31.87" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°3'31.87" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|4°4'11.12" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°21'51.58" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|13°18'11.99" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|28°38'43.73" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|19°33'18.19" |Aries|Butain|Sun|
-|☾ Moon|Direct|13°43'49.03" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|8°21'46.91" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°18'3.66" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|28°38'29.55" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|19°33'12.37" |Aries|Butain|Sun|
+|☾ Moon|Direct|12°47'34.20" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Libra|Moon|Venus|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
+|☾ Moon|Venus|Venus|Aries|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°3'31.87" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|4°4'11.12" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°21'51.58" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|13°18'11.99" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|28°38'43.73" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|19°33'12.37" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|7°3'31.87" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|4°4'10.36" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°21'46.91" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|13°18'3.66" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|28°38'29.55" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|19°33'12.37" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|13°43'49.03" |Sagittarius|NaAaem|Moon|
 
 

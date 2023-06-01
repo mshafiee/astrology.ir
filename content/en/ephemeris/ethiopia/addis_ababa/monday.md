@@ -221,7 +221,7 @@ Timetable of twelve day and night planetary hours
 |3|Jupiter|Servant|08:11:19|09:14:20|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mars|Servant|09:14:21|10:17:23|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Sun|Servant|10:17:24|11:20:25|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Venus|Servant|11:20:26|12:23:28|Summoning the person of interest, love and dominance|
+|6|Venus|Servant|11:20:26|12:23:28|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Mercury|Servant|12:23:29|13:26:31|Making promises|
 |8|Moon|Ruler|13:26:32|14:29:33|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|14:29:34|15:32:36|Attracting and repelling enemies and causing separation|
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°4'47.37" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°4'47.37" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|4°16'31.76" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|8°55'53.54" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|14°14'9.02" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|29°34'41.60" |Gemini|Dhira|Sun|
-|☿ Mercury|Post-Retrograde Shadow|20°48'24.32" |Aries|Butain|Venus|
+|☿ Mercury|Direct|20°48'24.32" |Aries|Butain|Venus|
 |☾ Moon|Direct|26°23'20.13" |Scorpio|Shaulah|Venus|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°4'47.37" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°4'47.37" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|4°16'31.76" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|8°55'53.54" |Leo|Zubrah|Saturn|
 |☉ Sun|Direct|14°14'9.02" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|29°34'41.60" |Cancer|Jabhah|Moon|
-|☿ Mercury|Post-Retrograde Shadow|20°48'24.32" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|20°48'24.32" |Taurus|Dabaran|Saturn|
 |☾ Moon|Direct|26°23'20.13" |Sagittarius|Baldah|Saturn|
 
 
