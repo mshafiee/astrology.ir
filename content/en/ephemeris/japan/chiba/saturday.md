@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°1'38.47" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|7°1'38.47" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°47'0.88" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°34'51.02" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|12°0'49.91" |Taurus|Dabaran|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°1'38.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|3°46'58.87" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°34'48.28" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|12°0'37.82" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°20'29.52" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|17°53'50.09" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|25°7'3.95" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|7°1'38.47" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|3°47'0.88" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°34'51.02" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°0'49.91" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°20'40.31" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|17°54'3.10" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°47'31.18" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Jupiter|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
 
 
 {{< /tab >}}

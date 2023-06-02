@@ -225,7 +225,7 @@ Timetable of twelve day and night planetary hours
 |7|Moon|Servant|12:50:21|13:50:49|Not suitable for any task|
 |8|Saturn|Ruler|13:50:50|14:51:18|Destruction of enemies|
 |9|Jupiter|Servant|14:51:19|15:51:47|All good deeds|
-|10|Mars|Servant|15:51:48|16:52:16|Doing evil deeds|
+|10|Mars|Servant|15:51:48|16:52:16|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Sun|Servant|16:52:17|17:52:45|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Venus|Servant|17:52:46|18:53:15|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°1'36.23" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|7°1'36.23" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°46'41.53" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°33'57.74" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|11°59'23.62" |Taurus|Dabaran|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°1'36.23" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°1'36.23" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°46'41.53" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°33'57.74" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|11°59'23.62" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|27°19'12.70" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|17°52'14.93" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°9'14.87" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|17°52'1.04" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°37'37.63" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Jupiter|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

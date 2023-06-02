@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°0'0.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°33'13.28" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°57'26.66" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|10°58'58.91" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°17'47.64" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|16°38'39.60" |Aries|Butain|Sun|
-|☾ Moon|Direct|10°41'3.00" |Libra|Ghafr|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°0'0.78" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|3°33'16.06" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°57'29.57" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°59'14.57" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°17'60.00" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|16°38'57.51" |Aries|Butain|Sun|
+|☾ Moon|Direct|9°3'17.08" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Saturn|Saturn|Saturn|Jupiter|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Venus|Venus|Aries|Moon|Jupiter|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°0'0.78" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°0'0.78" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°33'16.06" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°57'29.57" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|10°59'14.57" |Gemini|HanAh|Mars|

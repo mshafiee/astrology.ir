@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°5'32.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|4°24'21.43" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°17'35.20" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°49'39.66" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|0°9'55.09" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|21°37'39.31" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°16'5.40" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|7°5'32.75" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|4°24'23.43" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°17'41.07" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°49'54.84" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|0°10'14.78" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|21°37'52.45" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°27'38.43" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°5'32.75" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|4°24'23.43" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°17'41.07" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|14°49'54.84" |Gemini|HanAh|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|7°5'32.75" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|4°24'21.43" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°17'35.20" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|14°49'39.66" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|0°10'14.78" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|21°37'52.45" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|5°27'38.43" |Capricorn|SaadAlDhabib|Jupiter|

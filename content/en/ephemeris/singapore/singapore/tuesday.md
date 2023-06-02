@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°5'47.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|4°26'57.14" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°24'48.30" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°1'32.03" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|0°21'42.71" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|21°54'16.60" |Aries|Butain|Venus|
-|☾ Moon|Direct|9°35'57.36" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|7°5'47.23" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|4°26'56.91" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°24'45.84" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°1'28.17" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|0°21'35.17" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|21°54'14.28" |Aries|Butain|Venus|
+|☾ Moon|Direct|10°10'34.28" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°5'47.23" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°5'47.23" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|4°26'58.42" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°24'51.99" |Leo|Zubrah|Saturn|
 |☉ Sun|Direct|15°1'41.53" |Gemini|HanAh|Mars|
