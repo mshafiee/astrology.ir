@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|7°2'35.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°55'29.33" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°58'1.03" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|12°38'58.75" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|27°59'17.38" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|18°42'16.92" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°49'26.39" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|3°55'29.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°58'1.66" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°38'58.96" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|27°59'18.88" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|18°42'16.54" |Aries|Butain|Sun|
+|☾ Moon|Direct|2°50'1.87" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|7°2'35.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|3°55'29.33" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°58'1.03" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|12°38'58.75" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°59'17.38" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|18°42'16.92" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°49'26.39" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|3°55'29.55" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°58'0.11" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°38'58.85" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°59'15.25" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|18°42'16.54" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°50'1.87" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: TGU, Tegousigalpa, Tegousigoualpa, Tegucigalpa, Tegucigalpo, Tegucigucigalpa, Tegusigal'pa, Tegusigalp, Tegusigalpa, Teguzigalpa, Tehgusigal'pa, Tenkousinkalpa, Tequsiqalpa, Teuctzincalpan, Tègucigalpa, de gu si jia ba, te gu xi jia er ba, tegushigarupa, tegusigalapa, tegusigalpa, tekucikalpa, tekusikalpa, tgwsygalpa, tgwsyglph, tyghwsyghalba, Τεγκουσιγκάλπα, Τεγουσιγάλπα, Тегусигалпа, Тегусигальпа, Тегусігальпа, Тэгусігальпа, Տեգուսիգալպա, טגוסיגלפה, טעגוסיגאלפע, تيغوسيغالبا, تگوسیگالپا, ٹیگوسیگلپا, तेगुसिगल्पा, তেগুসিগালপা, ਤੇਗੂਸੀਗਾਲਪਾ, டெகுசிகல்பா, ടെഗൂസിഗാൽപ, เตกูซิกัลปา, ཐེ་གུ་སི་གེ་པ།, ტეგუსიგალპა, ቴጉሲጋልፓ, テグシガルパ, 德古斯加巴, 特古西加爾巴, 테구시갈파
