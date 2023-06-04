@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°8'13.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|4°55'58.99" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°46'12.59" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|17°14'46.49" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°32'19.07" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|25°9'44.64" |Aries|Butain|Venus|
-|☾ Moon|Direct|13°34'46.05" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|7°8'13.50" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|4°55'59.00" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°46'12.68" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|17°14'50.28" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°32'28.71" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|25°9'46.16" |Aries|Butain|Venus|
+|☾ Moon|Direct|12°48'48.70" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Leo|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
+|☾ Moon|Mars|Mars|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°8'13.50" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|4°55'58.95" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°46'9.42" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|17°14'46.49" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|7°8'13.50" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|4°55'58.99" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°46'12.59" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|17°14'50.14" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|2°32'28.44" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|25°9'46.07" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|12°50'2.77" |Aquarius|SaadAlAkhbia|Mercury|

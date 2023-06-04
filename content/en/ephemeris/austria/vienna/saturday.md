@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|04:57:13|06:16:28|Related to talismans, amulets and responses|
 |2|Jupiter|Servant|06:16:29|07:35:45|Peace among people|
-|3|Mars|Servant|07:35:46|08:55:02|Vengeful and evil deeds|
+|3|Mars|Servant|07:35:46|08:55:02|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Sun|Servant|08:55:03|10:14:18|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Venus|Servant|10:14:19|11:33:35|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mercury|Servant|11:33:36|12:52:52|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°2'5.83" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°2'5.83" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°51'1.66" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°45'48.35" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|12°18'51.78" |Taurus|Dabaran|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°2'5.83" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°2'5.83" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°51'1.66" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°45'48.35" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|12°18'51.78" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°38'56.19" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|18°16'35.31" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°58'41.86" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|27°38'55.95" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|18°16'42.15" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°19'33.73" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

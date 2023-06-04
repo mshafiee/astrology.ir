@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|03:50:31|05:26:24|Related to talismans, amulets and responses|
 |2|Jupiter|Servant|05:26:25|07:02:18|Peace among people|
-|3|Mars|Servant|07:02:19|08:38:13|Vengeful and evil deeds|
+|3|Mars|Servant|07:02:19|08:38:13|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Sun|Servant|08:38:14|10:14:07|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Venus|Servant|10:14:08|11:50:02|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mercury|Servant|11:50:03|13:25:56|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°2'5.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°50'58.88" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°45'37.26" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|12°18'37.94" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|27°38'37.30" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|18°16'26.26" |Aries|Butain|Sun|
-|☾ Moon|Direct|27°52'54.28" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|7°2'5.37" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|3°50'57.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°45'37.88" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°18'32.92" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|27°38'37.00" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|18°16'18.96" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°34'2.74" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Saturn|Saturn|Saturn|Jupiter|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°2'5.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|3°50'58.88" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°45'37.26" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|12°18'37.94" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°38'37.30" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|18°16'26.26" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|27°52'54.28" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|7°2'5.37" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|3°50'57.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°45'37.88" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°18'32.92" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°38'37.00" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|18°16'18.96" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°34'2.74" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°5'48.01" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°5'48.13" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|4°27'5.66" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|9°25'13.92" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|15°2'9.08" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|0°22'20.34" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|21°55'11.51" |Aries|Butain|Venus|
-|☾ Moon|Direct|8°47'47.96" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|10°31'30.43" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°5'48.13" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|4°27'5.66" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°25'13.92" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|15°2'9.08" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|7°5'48.13" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|4°27'7.95" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°25'18.73" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|15°2'24.71" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|0°22'20.34" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|21°55'11.51" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|10°31'30.43" |Capricorn|SaadAlDhabib|Mars|

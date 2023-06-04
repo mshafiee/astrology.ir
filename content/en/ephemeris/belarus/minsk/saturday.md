@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°2'1.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°50'21.44" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°43'56.41" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|12°15'45.88" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|27°35'42.70" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|18°12'52.12" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°28'48.08" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|7°2'1.39" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|3°50'22.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°44'0.95" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°15'54.30" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|27°35'56.44" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|18°12'58.28" |Aries|Butain|Sun|
+|☾ Moon|Direct|27°43'32.03" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Saturn|Saturn|Saturn|Jupiter|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°2'1.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|3°50'21.44" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°43'56.41" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|12°15'45.88" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°35'42.70" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|18°12'52.12" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|7°2'1.39" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|3°50'22.26" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°44'0.95" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°15'54.30" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°35'56.44" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|18°12'58.28" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|27°43'32.03" |Scorpio|Shaulah|Venus|
 
 

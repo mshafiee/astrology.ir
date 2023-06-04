@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°2'36.19" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°2'36.19" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|3°55'34.35" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°58'13.53" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|12°39'20.15" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|27°59'36.78" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|18°42'45.73" |Aries|Butain|Sun|
-|☾ Moon|Direct|3°0'37.75" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°7'19.99" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°2'36.19" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°2'36.19" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°55'34.35" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°58'13.53" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|12°39'21.31" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°59'41.41" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|18°42'45.33" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°57'55.74" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|12°39'20.15" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°59'36.78" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|18°42'45.73" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°0'37.75" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: AUS, Austin, Austino, Austinopolis, Aŭstino, Montopolis, Oscin, Ostin, Ostina, Ostinas, Ostins, Waterloo, ao si ting, asatina, astin, astina, astyn  tgzas, awstn, ke shi dian, oseutin, ostina, ostʼini, osutin, xxstin, Ώστιν, Остин, Остін, Осцін, Օստին, אוסטין, אסטין, آستین، تگزاس, آسٹن, آسٹن، ٹیکساس, أوستن, अस्टिन, अस्तिन, आस्टिन्, ऑस्टिन, অস্টিন, ਆਸਟਿਨ, ஆஸ்டின், ഓസ്റ്റിൻ, ออสติน, ოსტინი, ኦስቲን፣ ቴክሳስ, ᎠᏍᏘᏂ, オースティン, 奧斯汀, 柯士甸, 오스틴

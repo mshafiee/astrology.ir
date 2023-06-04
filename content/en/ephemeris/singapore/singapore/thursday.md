@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°7'55.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|4°52'0.88" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°35'0.19" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|16°56'31.36" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°14'40.21" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|24°41'59.21" |Aries|Butain|Venus|
-|☾ Moon|Direct|8°5'20.46" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|7°7'55.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|4°51'59.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°34'56.53" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|16°56'21.96" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°14'27.74" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|24°41'51.29" |Aries|Butain|Venus|
+|☾ Moon|Direct|9°0'21.44" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°7'55.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|4°51'59.64" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°34'56.53" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|16°56'21.96" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|7°7'55.26" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|4°52'0.88" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°35'0.19" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|16°56'31.36" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|2°14'27.74" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|24°41'51.29" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|9°0'21.44" |Aquarius|SaadAlAkhbia|Venus|

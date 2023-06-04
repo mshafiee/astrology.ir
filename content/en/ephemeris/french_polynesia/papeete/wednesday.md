@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°7'39.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|4°48'33.58" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°25'20.47" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|16°40'32.48" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°59'7.00" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|24°18'7.04" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°9'47.16" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|7°7'39.12" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|4°48'36.39" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°25'24.02" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|16°40'49.14" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°59'21.78" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|24°18'23.85" |Aries|Butain|Venus|
+|☾ Moon|Direct|4°2'55.63" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°7'39.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|4°48'36.39" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°25'24.02" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|7°7'39.12" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|4°48'33.58" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°25'20.47" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|16°40'32.48" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|1°59'7.00" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|24°18'7.04" |Taurus|HaqAh|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: PPT, Pape'ete, Papeehte, Papeehteh, Papeete, Papeetė, Papeiti, Papete, Pape’ete, Papiete, Papiti, Vaiete, babyty, pa pe xe te, pa pi ti, papeete, papete, papiti, papyth, Παπεέτε, Папеете, Папете, Папеэте, Папеэтэ, Պապեետե, بابيتي, پاپیته, پاپیٹی, पापीती, ปาเปเอเต, პაპეეტე, パペーテ, 帕皮提, 파페에테

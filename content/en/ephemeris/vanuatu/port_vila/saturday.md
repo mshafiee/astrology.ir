@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°1'37.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|3°46'52.65" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°34'27.44" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|12°0'9.44" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|27°19'55.96" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|17°53'15.87" |Aries|Butain|Sun|
-|☾ Moon|Direct|24°18'16.16" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|7°1'37.64" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|3°46'53.99" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°34'31.71" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°0'19.52" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|27°20'9.39" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|17°53'24.61" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°23'11.40" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Saturn|Saturn|Saturn|Jupiter|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°1'37.64" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°1'37.64" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|3°46'53.99" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°34'27.44" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|12°0'9.44" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°19'55.96" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|7°34'31.71" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°0'19.52" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°20'9.39" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|17°53'24.61" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|23°23'11.40" |Scorpio|Shaulah|Venus|
 

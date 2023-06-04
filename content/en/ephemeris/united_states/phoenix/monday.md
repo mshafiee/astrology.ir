@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°5'15.63" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°5'15.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|4°21'22.61" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°9'18.43" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°35'57.93" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|29°56'29.34" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|21°18'30.56" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°28'35.92" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|9°9'19.62" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°36'10.92" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|29°56'36.93" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|21°18'45.71" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°13'13.73" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°5'15.63" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°5'15.63" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|4°21'22.61" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°9'19.62" |Leo|Zubrah|Saturn|
 |☉ Sun|Direct|14°36'10.92" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|29°56'29.34" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|21°18'30.56" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|3°28'35.92" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°56'36.93" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|21°18'45.71" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|2°13'13.73" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스
