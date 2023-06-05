@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°7'36.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|4°48'2.31" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|4°48'3.45" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|10°23'51.34" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|16°38'17.36" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°56'53.61" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|24°14'28.70" |Aries|Butain|Venus|
-|☾ Moon|Direct|5°0'35.23" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|16°38'4.78" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°56'35.48" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|24°14'27.13" |Aries|Butain|Venus|
+|☾ Moon|Direct|4°50'32.38" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°7'36.48" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|4°48'3.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°23'51.34" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|16°38'17.36" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|1°56'53.61" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|24°14'37.22" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°0'35.23" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|10°23'45.95" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|16°38'4.78" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|1°56'35.48" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|24°14'27.13" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|4°50'32.38" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Sun|Mars|Leo|Sun|Sun|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

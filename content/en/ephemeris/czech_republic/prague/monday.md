@@ -220,7 +220,7 @@ Timetable of twelve day and night planetary hours
 |2|Saturn|Servant|06:16:12|07:37:09|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Jupiter|Servant|07:37:10|08:58:07|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mars|Servant|08:58:08|10:19:05|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Sun|Servant|10:19:06|11:40:03|Answering needs, attracting love and wealth|
+|5|Sun|Servant|10:19:06|11:40:03|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|11:40:04|13:01:01|Summoning the person of interest, love and dominance|
 |7|Mercury|Servant|13:01:02|14:21:58|Making promises|
 |8|Moon|Ruler|14:21:59|15:42:56|Reconciliation of two persons, attracting love|
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|7°4'46.79" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|4°16'25.76" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|8°55'37.76" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|14°13'40.63" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|29°34'13.31" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|20°47'47.18" |Aries|Butain|Venus|
-|☾ Moon|Direct|26°47'17.24" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|14°13'39.94" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|29°34'13.03" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|20°47'46.31" |Aries|Butain|Venus|
+|☾ Moon|Direct|26°51'25.46" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°4'46.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|4°16'26.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°55'39.14" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|14°13'45.06" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|29°34'18.14" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|20°47'51.40" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|26°17'14.85" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|4°16'25.76" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°55'37.76" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|14°13'40.63" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|29°34'13.03" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|20°47'46.31" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|26°51'25.46" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
