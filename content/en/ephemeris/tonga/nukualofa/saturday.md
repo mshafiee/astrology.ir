@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°9'30.25" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°14'20.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°38'22.25" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|18°39'58.63" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|3°54'34.90" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|27°22'40.41" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|4°32'59.12" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|7°9'30.25" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°14'17.68" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°38'21.89" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|18°39'46.22" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|3°54'29.81" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|27°22'26.25" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|4°5'13.07" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Sun|Leo|Moon|Moon|
 |☿ Mercury|Jupiter|Jupiter|Aquarius|Moon|Saturn|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°9'30.25" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°9'30.25" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|5°14'17.68" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|11°38'21.89" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|18°39'46.22" |Gemini|Dhira|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파

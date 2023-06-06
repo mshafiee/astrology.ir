@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°6'44.95" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|7°6'44.95" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|4°37'44.07" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°54'47.11" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|15°50'39.32" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°10'6.79" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|23°4'37.11" |Aries|Butain|Venus|
-|☾ Moon|Direct|22°51'12.91" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Direct|9°54'53.29" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°50'53.23" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°10'27.19" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|23°4'48.17" |Aries|Butain|Venus|
+|☾ Moon|Direct|21°8'6.63" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Capricorn|Moon|Saturn|
-|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°6'44.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|4°37'42.50" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°54'47.11" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|15°50'39.32" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|1°10'6.79" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|23°4'37.11" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°6'44.95" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|4°37'44.07" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°54'53.29" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|15°50'53.23" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|1°10'27.19" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|23°4'48.17" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|22°51'12.91" |Capricorn|SaadAlBula|Sun|
 
 

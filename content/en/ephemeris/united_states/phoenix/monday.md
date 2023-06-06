@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°5'15.63" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|7°5'15.48" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|4°21'22.59" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|9°9'20.43" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|14°36'11.66" |Taurus|Dabaran|Moon|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°5'15.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|4°21'22.59" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°9'20.43" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|14°36'11.66" |Gemini|HanAh|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|7°5'15.63" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|4°21'22.61" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°9'19.62" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|14°36'10.92" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|29°56'39.18" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|21°18'45.82" |Taurus|Dabaran|Saturn|
 |☾ Moon|Direct|2°5'37.78" |Capricorn|SaadAlDhabib|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스
