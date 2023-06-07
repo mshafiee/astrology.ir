@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°9'29.36" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|7°9'29.36" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|5°14'6.37" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|11°37'42.26" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|18°38'53.59" |Taurus|Dabaran|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°9'29.36" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°9'29.36" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|5°14'3.83" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|11°37'38.74" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|18°38'38.36" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|3°53'32.63" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|27°20'56.38" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|4°16'0.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|3°53'18.33" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|27°20'41.69" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|4°31'29.57" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Sun|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Saturn|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

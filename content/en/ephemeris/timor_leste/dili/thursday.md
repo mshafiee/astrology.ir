@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°7'52.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|4°51'24.41" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°33'16.19" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|16°53'42.02" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°11'53.11" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|24°37'45.37" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°38'14.29" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|7°7'52.40" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|4°51'24.44" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°33'17.41" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|16°53'43.36" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°11'56.61" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|24°37'45.85" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°21'43.17" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°7'52.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|4°51'24.44" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°33'17.41" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|16°53'43.36" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|7°7'52.40" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|4°51'24.41" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°33'16.19" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|16°53'42.02" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|2°11'53.11" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|24°37'45.37" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|7°38'14.29" |Aquarius|SaadAlSaud|Venus|

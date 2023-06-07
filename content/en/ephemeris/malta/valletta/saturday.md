@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°9'48.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°19'12.77" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°52'19.31" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|19°2'29.86" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|4°16'11.55" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|27°58'59.40" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|9°52'30.64" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Direct|7°9'48.58" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°19'13.18" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°52'17.52" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|19°2'41.64" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|4°16'13.05" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|27°59'13.85" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|10°48'46.21" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Moon|Sun|Leo|Moon|Moon|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°9'48.58" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°9'48.58" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|5°19'10.34" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|11°52'18.48" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|19°2'29.86" |Gemini|Dhira|Mars|

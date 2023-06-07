@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°10'33.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°32'15.60" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°29'50.68" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|20°3'49.24" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|5°14'19.41" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|29°39'33.52" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|25°27'48.65" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|7°10'33.05" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°32'15.15" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°29'46.31" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|20°3'42.24" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|5°14'5.32" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|29°39'29.17" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|26°4'42.94" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°10'33.05" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|5°32'15.60" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°29'50.68" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|20°3'49.24" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|7°10'33.05" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|5°32'15.15" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°29'46.31" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|20°3'42.24" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|5°14'5.32" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|29°39'29.17" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|29°39'33.52" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|26°4'42.94" |Pisces|Rescha|Mars|
 
 
