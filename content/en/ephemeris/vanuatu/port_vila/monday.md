@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°10'54.44" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|7°10'54.44" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|5°39'19.95" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°50'18.90" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|20°36'52.53" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|5°45'23.22" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|0°35'20.98" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°24'23.36" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|20°37'6.65" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|5°45'39.90" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|0°35'33.28" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°36'29.92" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°10'54.44" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|5°39'17.90" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°50'14.46" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|20°36'52.53" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|5°45'23.22" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|0°35'20.98" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|3°24'23.36" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|7°10'54.44" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|5°39'19.95" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°50'18.90" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|20°37'6.65" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|5°45'39.90" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|0°35'33.28" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|3°36'29.92" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

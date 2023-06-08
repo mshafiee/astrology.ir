@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°10'55.12" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|7°10'55.12" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|5°39'34.61" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°51'1.84" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|20°38'4.74" |Taurus|Dabaran|Saturn|
+|♂ Mars|Direct|12°51'1.68" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|20°38'15.15" |Taurus|Dabaran|Saturn|
 |♀ Venus|Direct|5°46'41.05" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|0°37'19.08" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|2°44'35.86" |Pisces|FarghAlMuqaddam|Saturn|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°10'55.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|5°39'32.18" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°51'1.84" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|20°38'4.74" |Gemini|Dhira|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|7°10'55.12" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|5°39'34.61" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°51'1.68" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|20°38'15.15" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|5°46'41.05" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|0°37'19.08" |Gemini|HaqAh|Jupiter|
 |☾ Moon|Direct|2°44'35.86" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Hie-ling-dong, Hiê-lìng-dóng, Ouellin'nkton, Ouellinkton, Te Whanga-nui-a-Tara, Ueligitone, Uelingtun, Velingtan, Velington, Velingtona, Velingtonas, Velingtono, Vellington, Vellingtonia, Vellinqton, WLG, Welinton, Welintòn, Wellington, Wellinton, Weolingtun, Weolingtūn, Whanga-nui-a-Tara, hui ling dun, oyelintana, raelintana, uelingtʼoni, u~erinton, vailigatana, velingatana, velingtana, velingtoni, velintan, vellingtan, wei ling dun, wellingtan, wellingteon, wlyngtwn, wylynghtwn, wylynjtwn, Ουέλλιγκτον, Ουέλλινγκτον, Велингтон, Веллингтон, Веллінгтон, Велінгтан, Уелингтън, Վելինգտոն, ולינגטון, װעלינגטאן, ولینگتون, ويلينجتون, ويلينغتون, ویلنگٹن, ۋېللىنگتون, वेलिंगटन, वेलिंग्टन, वेलिङ्गटन, ওয়েলিংটন, ৱেলিংটন, ਵੈਲਿੰਗਟਨ, વેલિંગ્ટન, வெலிங்டன், ವೆಲ್ಲಿಂಗ್ಟನ್, വെല്ലിംഗ്ടൺ, เวลลิงตัน, ཝེ་ལིང་ཐོན།, ဝယ်လင်တန်မြို့, ველინგთონი, უელინგტონი, ዌሊንግተን, ウェリントン, 威靈頓, 惠灵顿, 웰링턴

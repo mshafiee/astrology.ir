@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°7'10.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|4°42'41.34" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°8'46.22" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|16°13'36.70" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|1°32'46.71" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|23°38'1.28" |Aries|Butain|Venus|
-|☾ Moon|Direct|26°55'36.99" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°7'10.17" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|4°42'40.34" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°8'40.44" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|16°13'26.13" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|1°32'27.34" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|23°37'54.39" |Aries|Butain|Venus|
+|☾ Moon|Direct|28°27'59.02" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°7'10.17" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|7°7'10.17" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|4°42'41.34" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°8'46.70" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|16°13'36.70" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|1°32'46.71" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|10°8'46.22" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|16°13'36.82" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|1°32'45.57" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|23°38'1.90" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|27°0'12.16" |Capricorn|SaadAlSaud|Sun|
 

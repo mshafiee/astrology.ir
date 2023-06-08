@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°9'59.57" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|7°9'59.57" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|5°22'16.13" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°1'4.84" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|19°16'59.13" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|4°29'55.08" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|28°22'22.23" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|13°51'18.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|4°29'34.06" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|28°22'13.36" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|14°48'43.61" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°9'59.57" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|5°22'15.02" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°0'58.58" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|19°16'46.74" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|4°29'34.06" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|28°22'13.36" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|14°48'43.61" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|7°9'59.57" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|5°22'16.13" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°1'4.84" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|19°16'59.13" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|4°29'55.08" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|28°22'22.23" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|13°51'18.52" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Mars|Mars|Saturn|Venus|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
