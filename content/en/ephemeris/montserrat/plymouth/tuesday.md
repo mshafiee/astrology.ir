@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°11'43.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°58'39.26" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°46'47.78" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|22°8'43.40" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°11'3.45" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|3°14'26.29" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|24°42'36.72" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|7°11'43.07" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°58'40.46" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°46'45.91" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|22°8'46.34" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°10'59.11" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|3°14'30.90" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|25°32'49.08" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Gemini|Moon|Venus|
-|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°11'43.07" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°11'43.07" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|5°58'40.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°46'45.91" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°8'46.34" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°10'59.11" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|3°14'30.90" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|13°46'47.78" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°8'43.40" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°11'3.45" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|3°14'26.29" |Gemini|HaqAh|Jupiter|
 |☾ Moon|Direct|24°42'36.72" |Aries|Butain|Venus|
 
 

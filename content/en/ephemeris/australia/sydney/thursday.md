@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°7'50.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|4°50'57.07" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°32'0.44" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|16°51'36.79" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°9'53.26" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|24°34'35.92" |Aries|Butain|Venus|
-|☾ Moon|Direct|6°54'52.32" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|7°7'50.23" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|4°50'54.30" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°31'58.19" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|16°51'21.87" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°9'42.46" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|24°34'20.00" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°38'24.26" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°7'50.23" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°7'50.23" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|4°50'57.07" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°32'0.44" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|16°51'36.79" |Gemini|HanAh|Mars|

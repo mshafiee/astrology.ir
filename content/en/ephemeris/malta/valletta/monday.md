@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°11'5.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°43'35.81" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°2'48.66" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|20°57'13.41" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|6°4'34.94" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|1°9'59.90" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|7°25'45.36" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°11'6.57" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°43'38.25" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°2'49.59" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|20°57'25.58" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|6°4'41.69" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|1°10'12.69" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|8°28'21.31" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Sun|Virgo|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Taurus|Moon|Venus|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°11'6.57" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°11'6.57" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|5°43'35.81" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|13°2'48.66" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|20°57'13.41" |Gemini|Dhira|Sun|

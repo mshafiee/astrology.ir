@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°8'9.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|4°55'8.46" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°43'46.66" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|17°10'50.67" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|2°28'27.87" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|25°3'49.88" |Aries|Butain|Venus|
-|☾ Moon|Direct|13°11'21.90" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|7°8'9.73" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|4°55'9.43" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°43'52.42" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|17°11'1.34" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|2°28'46.28" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|25°3'57.31" |Aries|Butain|Venus|
+|☾ Moon|Direct|11°49'9.37" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Moon|Saturn|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Scorpio|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Mars|Gemini|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°8'9.73" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°8'9.73" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|4°55'9.43" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|10°43'52.42" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|17°11'1.34" |Gemini|Dhira|Mars|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°11'32.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°53'47.62" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°32'28.48" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|21°45'34.32" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°49'33.75" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|2°33'36.32" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|19°53'39.19" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|7°11'32.20" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|5°53'47.55" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°32'27.31" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|21°45'32.82" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°49'30.11" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|2°33'35.54" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|20°0'14.27" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mars|Mercury|Moon|Sun|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Gemini|Moon|Venus|
-|☾ Moon|Mercury|Jupiter|Libra|Sun|Jupiter|
+|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|7°11'32.20" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|7°11'32.20" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|5°53'47.55" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|13°32'27.31" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|21°45'32.82" |Gemini|Dhira|Sun|
