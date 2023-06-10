@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°11'34.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°54'42.63" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°35'8.71" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|21°49'54.32" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°53'32.28" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|2°41'15.08" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|20°59'54.92" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|5°54'42.62" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°35'8.64" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|21°49'54.20" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°53'32.03" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|2°41'15.01" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|21°0'8.43" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°11'34.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|5°54'42.63" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°35'8.71" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|21°49'54.32" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°53'32.28" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|2°41'15.08" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|20°59'54.92" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|5°54'42.62" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°35'8.64" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|21°49'54.20" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°53'32.03" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|2°41'15.01" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|21°0'8.43" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Venus|Mercury|Sun|Venus|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

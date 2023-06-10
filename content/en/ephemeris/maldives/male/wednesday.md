@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°11'58.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°6'20.57" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°9'16.78" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|6°6'21.06" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°9'21.76" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|22°45'16.42" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|7°44'23.77" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|4°19'54.30" |Gemini|HanAh|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°11'58.48" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|6°6'27.78" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°9'42.13" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|22°45'56.17" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°45'8.93" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|4°20'59.02" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|4°5'39.34" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°9'37.82" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|22°45'43.33" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°44'52.36" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|4°20'48.36" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°20'20.77" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠
