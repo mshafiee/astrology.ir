@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°11'4.90" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|7°11'4.90" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|5°43'1.85" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|13°1'3.55" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|20°54'33.92" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|6°2'1.28" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|1°5'17.86" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|7°49'0.24" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|6°1'56.96" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|1°5'15.24" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|7°47'55.21" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°11'4.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|5°42'59.72" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°1'3.84" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|20°54'24.52" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°1'58.82" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|1°5'7.18" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|6°44'27.54" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|7°11'4.90" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|5°43'1.85" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°1'3.55" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|20°54'33.92" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°1'56.96" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|1°5'15.24" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|7°47'55.21" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Venus|Venus|Libra|Sun|Sun|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}

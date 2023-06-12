@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°11'56.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°5'34.26" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°7'4.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|22°41'40.21" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|7°11'56.84" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°5'34.53" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°7'5.72" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|22°41'43.01" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|7°41'14.29" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|4°13'18.31" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°4'45.79" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|4°13'20.30" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°8'12.79" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°11'56.84" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|7°11'56.84" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|6°5'34.26" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|14°7'4.30" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|22°41'40.21" |Gemini|Dhira|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Bichkek, Biscecum, Bischkek, Bishkek, Bishkek osh, Bisjkek, Biskek, Biskeka, Biskekas, Biskeko, Biskekʻ, Bisqeq, Bisqueque, Biszkek, Bixkek, Biŝkeko, Bişkek, Bişqeq, Biškek, Biškeka, Biškekas, Bișkek, Bîşkek, FRU, Frunze, Mpiskek, Pishkek, Pishpek, bi shen kai ke, bichkhek, bisakeka, bishukeku, biskek, biskeka, biskekk, bisyukekeu, bshkyk, byshkk, byshkyk, bysqq, picukkek, Μπισκέκ, Бишкек, Бишкек ош, Бішкек, Բիշկեք, בישקעק, בישקק, بشکیک, بيشكك, بيشكيك, بيشکک, بیشکک, بیشکێک, बिश्केक, বিশকেক, ਬਿਸ਼ਕੇਕ, பிசுக்கெக், ಬಿಷ್ಕೆಕ್, ബിഷ്കെക്ക്, บิชเคก, པི་སི་ཁེག, ბიშკეკი, ቢሽኬክ, ビシュケク, 比什凯克, 비슈케크

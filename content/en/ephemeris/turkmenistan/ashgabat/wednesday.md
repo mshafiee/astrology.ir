@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°11'58.08" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|7°11'58.08" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|6°6'14.75" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|14°9'3.62" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|22°44'53.93" |Taurus|HaqAh|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°11'58.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°6'13.03" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°8'59.06" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°44'40.58" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°43'54.55" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|4°18'55.50" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|3°6'34.93" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|7°11'58.08" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°6'14.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°9'3.62" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°44'53.93" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°44'11.98" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|4°19'6.54" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|3°52'29.67" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ASB, Achgabat, Achkhabad, Aschabad, Aschabadas, Aschchabad, Aschgabat, Asgabat, Asgabata, Asgabate, Asgabato, Ashabad, Ashabat, Ashgabad, Ashgabat, Ashkabad, Ashkhabad, Ashkhabad osh, Ashkˌobod, Ashqabad, Ashxabad, Ashxobod, Asjabad, Asjchabad, Asjchabat, Asjkhabad, Askabad, Askabat, Askhabad, Asnkampat, Asqabad, Asxabad, Aszchabad, Aŝgabato, Aşgabat, Aşkabat, Aşqabad, Aşğabat, Ašchabad, Ašchabadas, Ašgabat, Ašgabata, Ašhabad, Așgabat, GIashkuabad, Poltoratsk, a shen ha ba de, acukapat, asagabata, asakhabada, asgabad, asgabada, asgabat, ashigabato, ashk abad, ashkhabadi, asigabateu, asqabada, asyuhabateu, xa chka bat, yashkhabad, ʼsgbʼt, ʿەshqabad, Ασγκαμπάτ, Ашгабад, Ашгабат, Ашкабад, Ашхабад, Ашхабад ош, Ашқобод, ГІашкъабад, Աշխաբադ, אשגאבאט, אשגבאט, ئاشخاباد, اشک آباد, عاشق‌آباد, عشق آباد, عشق اباد, عشق‌آباد, عەشقاباد, अश्क़ाबाद, अश्गाबाद, আশখাবাদ, ਅਸ਼ਗ਼ਾਬਾਤ, அசுகாபாத், ಅಶ್ಗಾಬಾತ್, അഷ്ഗാബാദ്, อาชกาบัต, ཨ་ཧྲི་ཁ་པད།, აშხაბადი, አሽጋባት, アシガバート, 阿什哈巴德, 아슈하바트, 아시가바트

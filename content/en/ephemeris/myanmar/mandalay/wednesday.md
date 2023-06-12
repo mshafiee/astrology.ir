@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°11'56.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°5'19.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°6'19.59" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|7°11'56.36" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°5'18.08" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°6'21.59" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|22°40'29.01" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|7°40'9.43" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|4°11'8.09" |Taurus|Thurayya|Mercury|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°11'56.36" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|7°11'56.36" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|6°5'19.25" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|14°6'19.59" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|22°40'29.01" |Gemini|Dhira|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: MDL, Mandalaj, Mandalaja, Mandalajo, Mandalajus, Mandalay, Mandalay piirkond, Mandale, Mandalej, man de lei, mandalay, mandale, mandallei, mandaly, mandare, mantalai, manth a ley, Мандалай, Мандалеј, ماندالاي, ماندالی, ماندالے, मांडले, माण्डले, மண்டலை, మాండలే, มัณฑะเลย์, မန္တလေးမြို့, マンダレー, 曼德勒, 만달레이
