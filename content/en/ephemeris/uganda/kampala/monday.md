@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'6.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|5°43'36.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°2'48.86" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|20°57'14.53" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|6°4'33.91" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|1°10'2.90" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|7°36'31.45" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|5°43'39.02" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°2'51.39" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|20°57'29.81" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|6°4'46.02" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|1°10'17.90" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|8°33'32.67" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'6.57" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|5°43'36.29" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°2'48.86" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|20°57'14.53" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°4'33.91" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|1°10'2.90" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|7°36'31.45" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|5°43'39.02" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°2'51.39" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|20°57'29.81" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°4'46.02" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|1°10'17.90" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|8°33'32.67" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
