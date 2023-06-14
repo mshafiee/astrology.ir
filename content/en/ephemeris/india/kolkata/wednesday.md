@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°11'57.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°5'34.26" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°7'2.65" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|22°41'39.87" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°41'12.56" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|4°13'15.99" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°22'54.95" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|7°11'56.82" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|6°5'34.05" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°7'3.27" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|22°41'39.77" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°41'14.31" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|4°13'15.42" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°13'47.45" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Libra|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Gemini|Moon|Venus|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'56.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°5'34.05" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°7'3.27" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°41'39.77" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°41'14.31" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|4°13'15.42" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|3°13'47.45" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°5'34.28" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°7'2.47" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°41'39.72" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°41'11.99" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|4°13'15.96" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|3°24'3.45" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
