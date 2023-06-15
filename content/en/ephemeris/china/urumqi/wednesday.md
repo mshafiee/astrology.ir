@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'55.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°5'6.54" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°5'42.56" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|22°39'17.49" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°38'57.65" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|4°9'12.08" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|2°6'53.54" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°5'6.70" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°5'43.86" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|22°39'29.91" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°39'17.11" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|4°9'21.53" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°33'51.25" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Aquarius|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Libra|Moon|Moon|
 |☿ Mercury|Venus|Saturn|Gemini|Moon|Venus|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'55.98" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|6°5'6.54" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°5'38.55" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°39'17.49" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°38'57.65" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|4°9'12.08" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|2°6'53.54" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°5'42.56" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°39'29.91" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°39'17.11" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|4°9'21.53" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|2°33'51.25" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Mercury|Mars|Cancer|Sun|Mercury|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Dikhua, OEremce, Ouroumtchi, Ouroumtsi, Ti-hua, Ti-hua-ch'eng, Ti-hua-ch’eng, Ti-hua-hsien, Ti-hua-shih, Tihwa, Tihwafu, Tikhua, Tikhva, UEruemchi-su, UEruemcsi, UEruemqi, UEruemqi-chhi, URC, Urumchi, Urumci, Urumcio, Urumcis, Urumczi, Urumptsi, Urumqi, Urumqi Shi, Urumtschi, Urumtsi, Urumutsi, Urumçi, Urumĉio, Urumči, Urumčis, Urunchi, Wu-lu-mu-ch'i, Wu-lu-mu-ch'i-shih, Wu-lu-mu-ch’i, Wu-lu-mu-ch’i-shih, Wulumuqi, Wurumch'ih, Wurumch’ih, arwmchy, awrwmchy, awrwmtshy, ulumuchi si, urumaci, urumaki, urumchi, urumucci, urumuchi, urumuchi shi, wu lu mu qi, wu lu mu qi shi, xu rum chi, Öremçe, Ürümchi, Ürümchi-sṳ, Ürümcsi, Ürümqi, Ürümqi Shi, Ürümqi-chhī, Ουρούμτσι, Урумчи, Урумчі, Урумћи, Үрімжі, Үрүмчи, Үрүмчү, Өрөмч хот, Ուրումչի, אורומצי, أورومتشي, ئۈرۈمچى, ئۈرۈمچى شەھىرى, ئۈرۈمچی, ارومچی, اورومچی, उरुमची, उरुम्छी, ਉਰੂਮਕੀ, உருமுச்சி, อุรุมชี, ཨུ་རུམ་ཆི་གྲོང་ཁྱེར།, ウルムチ, ウルムチ市, 乌鲁木齐, 乌鲁木齐市, 烏魯木齊, 烏魯木齊市, 우루무치 시

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'56.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°5'28.75" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|14°6'47.64" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|22°41'14.38" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°40'51.02" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|4°12'29.84" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|3°7'29.71" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|6°5'28.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|14°6'45.19" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|22°41'11.16" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°40'42.99" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|4°12'28.15" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°14'21.23" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'56.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°5'28.71" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°6'45.19" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|22°41'11.16" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°40'42.99" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|4°12'28.15" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|3°14'21.23" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°5'28.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°6'47.64" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|22°41'14.38" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°40'51.02" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|4°12'29.84" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|3°7'29.71" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: DAC, Daaka, Daca, Dacca, Dacca - dhaka, Dacca - ঢাকা, Daka, Dakah, Dakk, Dakka, Dakkae, Dakke, Dako, Deka, Dgaka, Dhaka, Dháka, Dhâkâ, Dəkkə, Mujib City, Ntaka, Ntakka, da ka, daka, dakka, dhaka, dhakka, dka, takka, thaka, Ντάκα, Ντάκκα, Даака, Дака, Даккæ, Дакка, Дакке, Дгака, Դաքքա, דאקא, דאקה, داكا, داکا, دكا, ڈھاکہ, ޑާކާ, ढाका, ঢাকা, ਢਾਕਾ, ઢાકા, ଢାକା, டாக்கா, ఢాకా, ಢಾಕಾ, ഢാക്ക, ඩකා, ธากา, དྷ་ཁ།, ဒါကာမြို့, დაკა, ዳካ, ダッカ, 达卡, 達卡, 다카
