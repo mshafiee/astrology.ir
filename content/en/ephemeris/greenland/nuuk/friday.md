@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°26'4.76" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|24°49'27.74" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|9°36'51.87" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|8°9'59.48" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|1°47'2.46" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|8°10'1.39" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°6'38.79" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|7°12'31.78" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|6°32'6.72" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|15°26'4.76" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|24°49'33.44" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|9°37'1.87" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|8°10'3.59" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|2°12'44.42" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|24°49'27.74" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|9°36'51.87" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|8°9'59.48" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|1°47'2.46" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크

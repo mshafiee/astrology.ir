@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°12'29.27" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°9'42.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°20'38.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|27°54'0.50" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|12°18'13.18" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|14°14'29.87" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°48'53.19" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|7°12'30.00" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|7°9'44.75" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°20'39.19" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|27°54'11.05" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°18'17.95" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|14°14'39.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|12°45'25.76" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Venus|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Jupiter|Mercury|Mercury|Mercury|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Libra|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'30.00" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|7°9'44.75" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|17°20'39.19" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|17°20'38.77" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|27°54'0.50" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|12°18'13.18" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|14°14'29.87" |Gemini|HanAh|Mars|

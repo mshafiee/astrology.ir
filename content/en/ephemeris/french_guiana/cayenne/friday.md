@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'33.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|6°34'17.14" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°32'30.96" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|24°59'55.08" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|9°46'0.86" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|8°30'1.00" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|4°11'0.73" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|6°34'17.67" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|15°32'37.05" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|25°0'5.45" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|9°46'22.43" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|8°30'7.77" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|4°53'7.95" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -324,10 +324,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Jupiter|Jupiter|Aries|Sun|Saturn|
 |♃ Jupiter|Sun|Venus|Gemini|Sun|Mars|
 |♂ Mars|Mars|Mars|Capricorn|Sun|Mars|
-|☉ Sun|Mars|Sun|Aquarius|Sun|Saturn|
+|☉ Sun|Mars|Sun|Pisces|Sun|Saturn|
 |♀ Venus|Jupiter|Mercury|Libra|Moon|Moon|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°12'34.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|6°34'17.14" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|15°32'30.96" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|24°59'55.08" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|9°46'0.86" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|8°30'1.00" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|7°12'33.29" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|6°34'17.67" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|15°32'37.05" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|25°0'5.45" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|9°46'22.43" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|8°30'7.77" |Gemini|HanAh|Jupiter|
 |☾ Moon|Direct|4°53'7.95" |Gemini|HanAh|Jupiter|
 
 
@@ -363,7 +363,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Mars|Mercury|Taurus|Moon|Jupiter|
 |♃ Jupiter|Mercury|Saturn|Cancer|Moon|Venus|
 |♂ Mars|Moon|Sun|Aquarius|Moon|Venus|
-|☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
+|☉ Sun|Sun|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Mercury|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Moon|Jupiter|Virgo|Sun|Mercury|
 |☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: CAY, Caiena, Caienna, Cajen-a, Cajena, Cayena, Cayene, Cayenne, Kaena, Kaenna, Kagien, Kajen, Kajena, Kajenna, Kajennae, Kajenneh, Kajeno, Kayen, Kayene, Kayenna, kai yun, kaien'nu, kaiyana, kayen, kayena, kayn, kayyn, Καγιέν, Каена, Кайен, Кайеннæ, Кайенна, Кайеннэ, Каєнна, Кајена, Կայեննա, קאיין, كايين, کائین, کاین, कायेन, ਕੈਯਨ, கயேன், กาแยน, კაიენა, カイエンヌ, 開雲, 카옌
