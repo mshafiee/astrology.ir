@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'3.19" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°29'42.82" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°22'55.48" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°34'3.66" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°42'35.18" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°42'27.43" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°40'7.42" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|7°29'44.76" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°22'54.19" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°34'9.89" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°42'32.84" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°42'33.84" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°44'44.39" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GID, Gitega, Gitege, Kitega, Гитеге
