@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'47.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°37'24.81" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°47'2.49" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°12'51.13" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|14°14'30.02" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|19°4'50.98" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°35'30.77" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Direct|7°37'24.77" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°47'2.50" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°12'50.95" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|14°14'30.01" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|19°4'50.82" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°35'23.43" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|7°37'24.81" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°47'2.49" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|0°12'51.13" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°14'30.02" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|19°4'50.98" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|11°35'30.77" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|14°14'30.01" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|19°4'50.82" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|11°35'23.43" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -379,10 +379,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub> |<sub>□ Sqr|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Gouanjou, Gwangju, Gwangju Kong-hek-chhi, Gwangju Kóng-he̍k-chhī, Gwangju-si, KWJ, Koshu, Kosyu, Kuandzhu, Kuangju, Kuangjuo, Kvandzhu, Kvandzu, Kvandžu, Kvangdzsu, Kvangdzu, Kvanju, Kvanzhe, Kvaңdzhu, Kwang-choo, Kwang-dschu, Kwangdzu, Kwangdžu, Kwangju, Kōshū, Kōsyū, Kŭangĵuo, Quansua, ghwanghjw, guang zhou, guang zhou guang yu shi, guang zhou shi, gvangaju, gwang jw, gwangju, gwangjugwang-yeogsi, gwangjusi, gwangjw, kh wang cu, Квангџу, Кванджу, Кванже, Кваңджу, Куанджу, Куанжү, קוואנגגו, غوانغجو, گوانگ جو, گوانگجو, ग्वांगजू, ควังจู, 光州, 光州市, 光州广域市, 光州広域市, 光州廣域市, 광주, 광주광역시, 광주시

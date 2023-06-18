@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°12'5.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°28'40.03" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°19'31.47" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°28'43.96" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°38'1.19" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°31'7.50" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°30'6.58" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|7°12'4.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|7°28'38.44" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°19'33.28" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°28'39.86" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°38'5.83" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°31'2.85" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°34'27.96" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al Kuwait, Al Kuwayt, Al-Kuwait, Ciudad de Kuwait, Ehl'-Kuvejt, KWI, Koeweit, Kota Kuwait, Koveyit, Koweit, Koweït, Kuvaeyt, Kuvajt, Kuvajto, Kuvajturbo, Kuveitas, Kuväyt, Kuwait, Kuwait City, Kuwait Stad, Kuwait by, Kuwait-Stadt, Kuwait-Urbo, Kuwayt, Kuweit, Kuwejt, Madinat al Kuwayt, Madinat al-Kuwait, Madīnat al Kuwayt, Pole tou Koubeit, aalkuayt, ke wei te shi, khuwet si ti, kuu~eto shi, kuweiteu, kuweiteusiti, kwwyt syty, mdynt alkwyt, Πόλη του Κουβέιτ, Эль-Кувейт, כווית סיטי, اَلْكُوَيْت, مدينة الكويت, คูเวตซิตี, クウェート市, 科威特市, 쿠웨이트, 쿠웨이트시티

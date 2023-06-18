@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|7°12'17.27" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|7°20'57.27" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|17°55'25.13" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|28°50'2.97" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°5'39.38" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|16°9'59.24" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°31'26.12" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|28°49'48.40" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°5'15.45" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|16°9'48.23" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°56'12.19" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Venus|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'17.27" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|7°20'57.27" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|17°55'25.13" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|28°50'2.97" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°5'39.38" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|16°9'59.24" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|24°31'26.12" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|17°55'19.11" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|28°49'48.40" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°5'15.45" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°9'48.23" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|22°56'12.19" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'4.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°29'13.46" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°21'15.42" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°31'31.65" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°40'20.17" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°37'0.26" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°7'3.32" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|7°29'11.59" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°21'17.32" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°31'26.75" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°40'24.99" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°36'54.81" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°11'17.57" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°12'4.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°29'13.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°21'15.42" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|29°31'31.65" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°40'20.17" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°37'0.26" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°7'3.32" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|7°12'3.25" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|7°29'11.59" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°21'17.32" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|29°31'26.75" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°40'24.99" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|17°36'54.81" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°11'17.57" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Escopia, Escópia, SKP, Scopia, Scupi, Shkup, Shkupi, Skop'e, Skope, Skopeia, Skopia, Skopie, Skopiye, Skopje, Skopjo, Skopjė, Skople, Skoplie, Skoplje, Skopye, Szkopje, UEskuep, Uskub, Usküb, askwbyt, askwpyh, s ko peiy, sakopi'e, seukope, si ke pu li, skopje, skopye, skwbyh, sqwpyh, sukopie, Üsküp, Σκόπια, Скоп'е, Скоп'є, Скопе, Скопие, Скопье, Скопје, Скопље, Съкопиѥ, Սկոպյե, סקאפיע, סקופיה, إسكوبية, اسکوپیه, اسکوپیہ, سكوبيه, سكوپليې, سکوپ جے, स्कोप्ये, ਸਕੋਪੀਏ, ஸ்கோப்ஜே, สโกเปีย, སི་ཀོཔ་ཇི།, სკოპიე, ስኮፕዬ, スコピエ, 斯科普里, 스코페

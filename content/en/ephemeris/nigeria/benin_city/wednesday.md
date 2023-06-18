@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'2.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°30'22.51" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°24'52.65" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°37'19.91" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°45'10.61" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°49'15.72" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°23'44.37" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|7°30'22.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°24'53.12" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°37'19.82" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°45'12.14" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°49'15.43" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°27'53.21" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'2.05" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°30'22.41" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°24'52.88" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|29°37'19.87" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°45'11.37" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°49'15.58" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|4°25'48.10" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|7°30'22.51" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°24'52.65" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|29°37'19.91" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°45'10.61" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|17°49'15.43" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|4°27'53.21" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BNI, Benim, Benin, Benin City, Benin Siti, Benin by, Benin-Siti, Benin-Stadt, Benin-stad, Beninas, Beninborg, Beninurbo, Benínborg, Bénin, Ciudad de Benin, Ciudad de Benín, Ilu Benin, Kota Benin, Thanh pho Benin, Thành phố Benin, bei ning cheng, beni n si ti, benina sahira, benina siti, beninshiti, beninsiti, bnyn, Ìlú Benin, Бенин, Бенин-Сити, Бенін-Сіті, بنين, بنین, بینن شہر, बेनिन सिटी, ਬੇਨਿਨ ਸ਼ਹਿਰ, เบนินซิตี, ベニンシティ, 贝宁城, 베닌시티
