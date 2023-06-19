@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'5.19" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°28'37.58" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°19'30.51" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°28'35.39" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°38'2.07" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°30'53.40" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°33'16.06" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|7°28'39.03" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°19'28.46" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°28'38.75" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°37'56.58" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°30'57.43" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°25'30.47" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'5.19" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°28'37.58" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°19'30.51" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|29°28'35.39" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°38'2.07" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°30'53.40" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°33'16.06" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|7°28'39.03" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°19'28.46" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|29°28'38.75" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°37'56.58" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|17°30'57.43" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°25'30.47" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Arbeel, Arbela, Arbil, Arbēla, Arbīl, EBL, Erbil, Hawler, Hawlēr, Hewler, Hewlêr, Irbil, Irbīl, Viloati Arbil, ai er bi lei sheng, arbl, arbyl, arubiru xian, hەwlێr, mhafzt arbl, mhafzt arbyl, Арбил, Вилояти Арбӣл, מחוז ארביל, أربيل, إربل, إربيل, اربیل, محافظة أربيل, محافظة إربل, هەولێر, アルビール県, 埃爾比勒省
