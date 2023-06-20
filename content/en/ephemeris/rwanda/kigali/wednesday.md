@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'3.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°29'43.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°22'49.45" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°34'2.30" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°42'26.53" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°42'17.79" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°43'12.19" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|7°29'42.04" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°22'50.80" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°33'59.34" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°42'30.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°42'14.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°48'11.14" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'3.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°29'43.25" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°22'49.45" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|7°29'42.04" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°22'50.80" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|29°34'2.30" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°42'26.53" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°42'17.79" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°43'12.19" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|13°42'30.15" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|17°42'14.40" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°48'11.14" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: KGL, Kigale, Kigali, Kigalis, Kigalo, Kigaly, Kinkali, Kiqali, Kígalí, ji jia li, khikali, kigali, kigalli, kigari, kikali, kygaly, kyghaly, Κιγκάλι, Кигали, Кігалі, Կիգալի, קיגאלי, كيغالي, کیگالی, किगाली, ਕਿਗਾਲੀ, கிகாலி, කිගාලි, คิกาลี, ཀི་ག་ལི།, კიგალი, ኪጋሊ, キガリ, 吉佳利, 키갈리

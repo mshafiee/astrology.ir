@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'35.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°2'4.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|16°57'1.23" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|27°16'9.69" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|11°45'39.95" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|12°57'27.80" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°36'35.27" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|7°2'1.55" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|16°57'0.50" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|27°15'57.35" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|11°45'33.89" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|12°57'16.06" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|3°22'4.13" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Saturn|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Libra|Moon|Venus|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파
