@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'25.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°14'39.39" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°35'50.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|28°18'36.47" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|12°39'5.50" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|15°4'48.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|17°56'29.16" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|7°14'36.57" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°35'48.86" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|28°18'21.95" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|12°38'55.06" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|15°4'35.31" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|16°40'27.63" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Venus|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'25.11" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°14'36.57" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|17°35'48.86" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|28°18'21.95" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|7°14'39.39" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|17°35'50.74" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|28°18'36.47" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|12°38'55.06" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|15°4'35.31" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|16°40'27.63" |Cancer|Tarf|Mercury|

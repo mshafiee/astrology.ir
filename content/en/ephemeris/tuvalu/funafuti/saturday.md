@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|7°58'55.63" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|19°55'34.69" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|2°2'34.28" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°43'8.83" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|23°2'53.98" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|4°12'1.39" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|15°42'42.77" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|23°2'42.05" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°0'57.30" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

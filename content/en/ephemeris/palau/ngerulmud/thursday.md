@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'47.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°37'38.10" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°47'41.96" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°13'54.64" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|14°15'15.63" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|19°7'12.60" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°15'32.70" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Direct|7°37'38.43" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°47'45.13" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°14'0.46" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|14°15'27.79" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|19°7'16.69" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°58'4.83" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'47.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°37'38.43" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°47'45.13" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|0°14'0.46" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°15'27.79" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|19°7'16.69" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|11°15'32.70" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|7°37'35.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°47'42.85" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|0°13'45.41" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|14°15'15.59" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|19°7'3.75" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|11°8'56.88" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -379,10 +379,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub> |<sub>□ Sqr|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

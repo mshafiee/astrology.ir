@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|7°12'5.19" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|7°28'38.68" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°19'27.26" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°28'37.08" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°37'54.94" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°30'53.23" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|2°26'8.98" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°28'29.82" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°37'56.49" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°30'46.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°15'46.60" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°12'5.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°28'38.68" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°19'27.26" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|29°28'37.08" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|7°12'5.19" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|7°28'36.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°19'28.33" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|29°28'29.82" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|13°37'55.37" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°30'53.23" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°26'8.98" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|17°30'46.03" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°15'46.60" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al `Amarah, Al ‘Amārah, Amara, Amarah, Amare, Amaré, `Amara, alʿmart, العمارة, العماره, ‘Amāra

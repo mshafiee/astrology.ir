@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'3.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°29'44.23" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°22'49.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°34'3.53" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°42'20.79" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°42'24.62" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°15'2.60" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|7°29'43.42" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°22'46.00" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°33'53.06" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°42'6.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°42'16.29" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°17'19.32" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'3.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°29'44.23" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°22'49.36" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|29°34'3.53" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°42'24.79" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°42'22.76" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°23'39.07" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|7°29'42.88" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°22'46.00" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|29°33'53.06" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°42'6.57" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|17°42'16.29" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°17'19.32" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GCI, Saint Peter Port, Saint Pierre Port, Saint-Pierre-Port, Sanktapetrurbo, Sejnt Pitur Port, Sent Piter Port, Sent Piter Portas, Sent-Pitehr-Port, Sent-Piter-Port, Sentpiterporta, Sentpīterporta, St Peter Port, St. Peter Port, san bytr bwrt, seinteupiteopoteu, sent pi texr phxrt, sheng bi de gang, sn ptr pwrt, snt pytr pwrt, Сейнт Питър Порт, Сент Питер Порт, Сент-Питер-Порт, Сент-Пітер-Порт, Сент-Пітэр-Порт, סנט פיטר פורט, سان بيتر بورت, سن پتر پورت, سینٹ پیٹر پورٹ, เซนต์ปีเตอร์พอร์ต, სენტ-პიტერ-პორტი, セント・ピーター・ポート, 圣彼得港, 세인트피터포트

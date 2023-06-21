@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'3.79" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|7°29'26.70" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°21'58.08" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°32'38.26" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°41'15.39" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°39'24.35" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|3°10'24.71" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|18°21'55.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°32'25.69" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|13°41'3.57" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°39'13.66" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|2°13'41.25" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'3.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°29'26.70" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°21'58.08" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|29°32'38.26" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°41'15.39" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°39'24.35" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°10'24.71" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|7°29'24.59" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°21'55.73" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|29°32'25.69" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|13°41'3.57" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|17°39'13.66" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°13'41.25" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Agios Marinos, Altepetl San Marino, Cathair San Mairine, Cathair San Mairíne, Ceety o San Marino, Cidade de San Marino, Cita e San Marino, Citad da San Marino, Citta di San Marino, Città di San Marino, City of San Marino, Cità e San Marino, Ciuda de San Marino, Ciudad de San Marino, Ciudá de San Marino, Ciutat de San Marino, Civitas Sancti Marini, Dinas San Marino, Ilu San Marino, Ker San Marino, Kêr San Marino, Orasul San Marino, Orașul San Marino, SAI, Saint-Marin, San Marinas, San Marino, San Marino Citta, San Marino Città, San Marino by, San Marino i San Marino, San Marino sehri, San Marino şehri, San Marins, San Maríno, San Marínó, San-Marino, San-Maryna, Sanmarino, Sanmarīno, Sant Marin, Sao Marino, Sen Maren, Sita de San Marin, Sita ed San Marin, Sità de San Marin, Sità ëd San Marin, Stadt San Marino, São Marino, Thanh pho San Marino, Thành phố San Marino, Ville de Saint-Marin, ceyint marino nakaram, san ma ri no, san marynw almdynt, san-marino, sanmalino, sanmarino, sanmarino shi, sheng ma li nuo, sheng ma lian nu cheng, sn marynw, sn mrynw, Ìlú San Màrínò, Άγιος Μαρίνος, Сан Марино, Сан-Марино, Сан-Марына, Սան Մարինո, סן מרינו, سان مارينو المدينة, سان مارینو شہر, سان مارینۆ, سان مرینو شہر, سن مارینو, செயின்ட் மரினோ நகரம், ซานมารีโน, སན་མ་རི་ནོ།, სან-მარინო, ሳን ማሪኖ, サンマリノ, サンマリノ市, 聖馬力諾, 聖馬連奴城, 산마리노

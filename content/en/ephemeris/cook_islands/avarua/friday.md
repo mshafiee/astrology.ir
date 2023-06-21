@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°10'50.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°58'25.35" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°54'5.19" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°0'2.30" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°41'14.98" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|22°57'29.14" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|4°6'40.29" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|7°10'51.42" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|7°58'27.44" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°54'4.11" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°0'9.15" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°40'49.56" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|22°57'22.74" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°40'58.57" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Mars|Moon|Aquarius|Sun|Saturn|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|7°10'51.42" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|7°58'27.44" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|19°54'4.11" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°0'9.15" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°41'13.29" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|22°57'35.59" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|4°6'40.29" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|1°59'52.69" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°40'49.56" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|22°57'22.74" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|2°40'58.57" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

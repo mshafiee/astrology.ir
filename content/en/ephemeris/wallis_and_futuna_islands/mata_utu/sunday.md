@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|8°9'56.47" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|20°31'10.00" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|2°59'25.51" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|16°27'50.12" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°8'45.28" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|15°50'2.99" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°27'44.62" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°8'35.22" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|16°16'3.92" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
