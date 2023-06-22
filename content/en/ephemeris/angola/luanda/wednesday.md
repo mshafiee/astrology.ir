@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|7°12'2.10" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|7°30'20.64" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°24'46.77" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°37'8.14" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°45'1.81" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°48'53.57" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°15'33.88" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°37'10.44" |Taurus|HaqAh|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|13°45'2.74" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°48'55.70" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°21'37.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|7°30'20.64" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°24'46.77" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|29°37'10.44" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°45'2.74" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|13°45'2.74" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|17°48'55.70" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|4°15'33.88" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|4°21'37.10" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: LAD, Loanda, Louanda, Louanta, Luand, Luanda, Luandae, Luando, Lwanda, Lúanda, Saint Paul de Loanda, Sao Paolo de Loanda, Sao Paulo da Assuncao de Luanda, Sao Paulo de Loanda, Sao Paulo de Luanda, St Paul de Loanda, São Paolo de Loanda, São Paulo da Assunção de Luanda, São Paulo de Loanda, São Paulo de Luanda, lu'anda, luanda, luo an da, luvanta, luxanda, luyanda, lwanda, ruanda, Λουάντα, Луандæ, Луанда, Լուանդա, לואנדה, לואנדע, لوآندا, لواندا, لونڈا, लुआंडा, लुआण्डा, লুয়ান্ডা, ਲੁਆਂਦਾ, லுவாண்டா, ลูอันดา, ལའུན་ཌ།, ლუანდა, ሏንዳ, ルアンダ, 罗安达, 루안다

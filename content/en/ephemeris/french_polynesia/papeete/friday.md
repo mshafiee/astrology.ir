@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°10'52.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°58'2.64" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°52'48.55" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|1°57'58.43" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|15°39'23.80" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|22°53'10.86" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|2°39'3.78" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|7°58'5.19" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°52'52.60" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|1°58'0.45" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|15°39'21.47" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|22°53'12.92" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°23'49.62" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Mars|Moon|Aquarius|Sun|Saturn|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°10'52.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°58'2.64" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|19°52'48.55" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|1°57'58.43" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°39'23.80" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|22°53'10.86" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|2°39'3.78" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|7°58'3.41" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|19°52'47.65" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|1°58'0.45" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|15°39'21.47" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|22°53'12.92" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|2°23'49.62" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Sun|Mars|Pisces|Moon|Jupiter|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PPT, Pape'ete, Papeehte, Papeehteh, Papeete, Papeetė, Papeiti, Papete, Pape’ete, Papiete, Papiti, Vaiete, babyty, pa pe xe te, pa pi ti, papeete, papete, papiti, papyth, Παπεέτε, Папеете, Папете, Папеэте, Папеэтэ, Պապեետե, بابيتي, پاپیته, پاپیٹی, पापीती, ปาเปเอเต, პაპეეტე, パペーテ, 帕皮提, 파페에테

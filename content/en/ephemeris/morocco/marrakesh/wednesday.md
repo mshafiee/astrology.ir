@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'2.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°30'23.56" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°30'23.64" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°24'56.51" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°37'25.28" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°45'14.44" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|13°45'14.44" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|17°49'29.15" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|4°17'19.79" |Cancer|Nathrah|Venus|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'2.05" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°30'23.56" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°24'56.68" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|29°37'25.21" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°45'14.96" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°49'29.01" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|4°18'39.77" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|7°30'23.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°24'56.51" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|29°37'25.28" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|13°45'14.44" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|17°49'29.15" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|4°17'19.79" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Marakes, Marakesh, Marakeso, Marakeŝo, Marakeš, Maraksh, Marrakech, Marrakes, Marrakesch, Marrakesh, Marrakesz, Marraqueix, Marraquexe, Marràqueix, Marrákes, Marrákeš, Merrakex, Morocco City, RAK, ma la ke shen, marakeshu, mraksh, Маракеш, Марракеш, مراكش, ⴰⵎⵓⵔⴰⴽⵓⵛ, マラケシュ, 马拉喀什

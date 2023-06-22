@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|7°29'23.48" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°21'47.51" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|29°32'22.73" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°41'3.58" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|13°41'3.58" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|17°38'48.00" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|3°20'30.34" |Cancer|Nathrah|Venus|
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'3.85" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|7°29'23.48" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°21'47.51" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|29°32'22.73" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°41'3.58" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°38'48.00" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°20'30.34" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|18°21'49.19" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|29°32'21.36" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|13°41'8.59" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|17°38'45.99" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°31'32.70" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|8°25'57.32" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|21°23'34.47" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|4°22'52.60" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|17°31'37.64" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|17°31'37.64" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|28°16'21.27" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°10'17.27" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°3'34.98" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|8°25'57.32" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|21°23'34.47" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|4°22'52.60" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°31'37.64" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°31'37.64" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|28°16'21.27" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°10'17.27" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°3'34.98" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자

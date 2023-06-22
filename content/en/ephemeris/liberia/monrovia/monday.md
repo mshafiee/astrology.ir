@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'1.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°26'34.81" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°25'36.22" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°26'15.24" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|17°34'21.60" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°23'33.99" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°49'9.60" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|8°26'33.99" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°25'37.28" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°26'13.67" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°34'24.97" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°23'32.43" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|4°16'5.61" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|8°26'34.81" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|21°25'36.22" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|4°26'15.24" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°34'21.60" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°34'21.60" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|28°23'33.99" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|3°49'9.60" |Libra|Ghafr|Moon|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: MLW, Manrovija, Monrobia, Monrofia, Monrovi, Monrovia, Monrovii, Monrovija, Monrovio, Monroviya, Monrowia, Monròvia, Monróvia, Monróvía, manarobhiya, manroweiy, manrwwya, meng luo wei ya, monarovi'a, monlobia, monrobia, monrovhiya, monrovia, monroviya, mwnrwbyh, mwnrwfya, mwnrwwya, Μονρόβια, Манровія, Монрови, Монровия, Монровија, Монровія, Մոնրովիա, מאנראוויע, מונרוביה, مانروویا, مونروفيا, مونروویا, مۆنرۆڤیا, मोन्रोव्हिया, মনরোভিয়া, ਮੋਨਰੋਵੀਆ, மொன்றோவியா, มันโรเวีย, མོང་རོ་ཝི་ཡ།, მონროვია, ሞንሮቪያ, モンロビア, 蒙罗维亚, 蒙羅維亞, 몬로비아

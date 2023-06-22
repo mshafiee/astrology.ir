@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'5.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°28'13.10" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°28'12.85" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°18'7.81" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°26'23.45" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°36'8.50" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°26'21.10" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°37'20.93" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°26'27.24" |Taurus|HaqAh|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|13°36'5.46" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°26'25.22" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°38'2.93" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'5.98" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|7°28'13.10" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°18'7.81" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|29°26'23.45" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°36'8.50" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°26'21.10" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|1°37'20.93" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|18°18'6.97" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|29°26'25.00" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|13°36'2.03" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|17°26'23.49" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|1°24'28.51" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Elsin'ki, Elsinki, Elzinki, Gel'sinki, HEL, Heilsinci, Heilsincí, Hel'sinki, Helsenkis, Helsingfors, Helsingi, Helsingia, Helsinki, Helsinkis, Helsinkium, Helsinko, Helsinky, Helsinqui, Helsinquia, Helsset, Helsínquia, Helsînkî, Helsėnkis, Hèlsinki, Khel'sinki, Khel'sinki osh, Khelsinki, Khelzinki, Lungsod ng Helsinki, Stadi, Xelsinki, Xélsinki, elcinki, hailasiki, he er xin ji, helasinki, helsingki, helsinki, herushinki, hlsnky, hlsnqy, hlsynky, hlsynqy, hylsynky, Èlzinki, Ħelsinki, Ελσίνκι, Гельсінкі, Хелзинки, Хелсинки, Хельсинки, Хельсинки ош, Хельсінкі, Ҳелсинкӣ, Һel'sinki, Һельсинки, Հելսինկի, הלסינקי, העלסינקי, هلسنكي, هلسنڪي, هلسینکی, هيلسينكى, هیلسینکی, ھێلسینکی, ہلسنکی, ہیلسنکی, ܗܠܣܢܩܝ, हेलसिंकी, हेल्सिन्की, হেলসিঙ্কি, ਹੈਲਸਿੰਕੀ, எல்சிங்கி, ಹೆಲ್ಸಿಂಕಿ, ഹെൽസിങ്കി, เฮลซิงกิ, ཧེལ་སིན་ཀི།, ဟယ်လ်ဆင်ကီမြို့, ჰელსინკი, ሄልሲንኪ, Ḥélsinki, ヘルシンキ, 赫尔辛基, 赫爾辛基, 헬싱키

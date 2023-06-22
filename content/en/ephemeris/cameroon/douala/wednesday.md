@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°12'1.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°30'14.38" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°24'35.05" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|29°36'41.92" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|13°44'45.89" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|17°48'5.20" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|4°1'57.73" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|7°12'2.23" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|7°30'16.68" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°24'34.34" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|29°36'50.56" |Taurus|HaqAh|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|13°44'46.26" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|17°48'13.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|4°17'51.37" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°12'2.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°30'14.38" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°24'35.05" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|29°36'41.92" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°44'45.89" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|17°48'5.20" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|4°1'57.73" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|7°30'16.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°24'34.44" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|29°36'50.58" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|13°44'46.58" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|17°48'13.56" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|4°18'46.06" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라

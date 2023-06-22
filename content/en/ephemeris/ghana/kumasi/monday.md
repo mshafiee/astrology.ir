@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|8°26'17.88" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|21°24'40.41" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|4°24'46.29" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|17°33'14.54" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|17°33'14.54" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|28°20'13.09" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|3°30'33.17" |Virgo|Sarfrah|Sun|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'2.48" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°26'17.47" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°24'40.40" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|4°24'44.77" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°33'14.16" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°20'11.79" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°38'33.63" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|8°26'17.88" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°24'40.41" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|4°24'46.29" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|17°33'14.54" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°20'13.09" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°30'33.17" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Coomassie, KMS, Kumase, Kumasi, Kumasi shaary, Kumasis, Kumassi, Kumasy, ku ma xi, kumashi, kumasi, kwmasy, Кумаси, Кумаси шаары, Кумасі, Կումասի, كوماسي, کوماسی, ਕੁਮਾਸੀ, クマシ, 库马西, 쿠마시
