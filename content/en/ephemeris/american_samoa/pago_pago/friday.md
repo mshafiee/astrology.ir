@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°10'50.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°58'41.66" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|19°54'49.80" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°1'22.40" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|15°42'11.66" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|23°0'16.14" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°56'46.69" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|7°58'39.23" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|19°54'46.17" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|2°1'7.19" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|15°41'54.74" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|23°0'3.77" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°24'3.40" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

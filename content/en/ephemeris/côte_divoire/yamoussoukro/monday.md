@@ -302,9 +302,9 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|7°9'1.97" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|8°26'24.40" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|21°25'1.90" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°25'17.96" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|17°33'42.29" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°21'28.10" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°25'20.55" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°33'40.37" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°21'30.46" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|4°4'9.22" |Virgo|Sarfrah|Sun|
 
 
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°9'1.97" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°26'24.40" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|7°9'1.57" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|8°26'23.44" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|21°25'2.63" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|4°25'17.96" |Cancer|Nathrah|Venus|
 |♀ Venus|Pre-Retrograde Shadow|17°33'42.29" |Leo|Zubrah|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ASK, Giamoussoukro, Jamusukra, Jamusukras, Jamusukro, Jamusukro khot, Yamosukro, Yamousoukro, Yamoussokro, Yamoussoukro, Yamoussoukrou, Yamussukro, Yamusukro, ya mu su ke lei, ya mu su ke luo, ya mussu kor, yamucukro, yamusasutro, yamusukaro, yamusukeulo, yamusukro, yamusukuro, yamwsswkrw, yamwswkrw, yamwwswwkrۆ, ywmwswkrw, Γιαμουσσούκρο, Јамусукро, Ямусукра, Ямусукро, Ямусукро хот, Յամուսուկրո, יאמוסאקרא, יאמוסוקרו, ياموسوكرو, يامۇسسۇكرو, یاموسسوکرو, یاموسوکرو, یامووسووکرۆ, یوموسوکرو, यामूसूक्रो, ਯਾਮੂਸੂਕਰੋ, ୟାମୁସସୁତ୍ରୋ, யாமூசூக்ரோ, ยามุสซุโกร, ཡམ་སོ་ཁེ་རོ།, იამუსუკრო, ያሙሱክሮ, ヤムスクロ, 亚穆苏克罗, 雅穆蘇克雷, 야무수크로

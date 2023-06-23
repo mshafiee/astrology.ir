@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°8'18.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°35'18.31" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°54'26.08" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|5°12'11.79" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|18°8'34.51" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|0°7'41.70" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|13°7'45.44" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|8°35'17.38" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°54'26.70" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|5°12'9.28" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|18°8'36.17" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|0°7'39.48" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|13°34'53.83" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Leo|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°8'18.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°35'18.31" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|21°54'26.08" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|5°12'11.79" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|18°8'34.51" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|0°7'41.70" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|13°7'45.44" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|8°35'17.38" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|21°54'26.70" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|5°12'9.28" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|18°8'36.17" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|0°7'39.48" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|13°34'53.83" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

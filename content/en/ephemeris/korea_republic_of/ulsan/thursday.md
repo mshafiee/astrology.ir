@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°11'48.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°37'19.75" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°46'46.52" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|0°12'25.51" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|14°14'8.95" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|19°3'56.27" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°30'1.82" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Direct|7°37'19.25" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°46'42.32" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|0°12'17.28" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|14°13'52.51" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|19°3'50.39" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°31'44.40" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|7°11'48.17" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|7°37'19.75" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°46'46.52" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|0°12'25.51" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|14°14'8.95" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|19°3'56.27" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|11°30'1.82" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|0°12'17.28" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|14°13'52.51" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|19°3'50.39" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|10°31'44.40" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
+|☾ Moon|Venus|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -379,10 +379,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub> |<sub>□ Sqr|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°8'33.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°32'20.40" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°44'38.61" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°56'34.95" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|17°57'4.94" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|29°32'13.02" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|10°12'18.19" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|8°32'17.82" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°44'38.12" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°56'23.89" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°56'59.82" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|29°32'3.88" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|11°9'13.92" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°8'33.51" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|8°32'20.40" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°44'37.22" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|4°56'32.05" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|17°56'59.15" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|29°32'10.84" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|10°4'45.56" |Libra|Ghafr|Saturn|
+|♂ Mars|Direct|21°44'38.12" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|4°56'23.89" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|17°56'59.82" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|29°32'3.88" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|11°9'13.92" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

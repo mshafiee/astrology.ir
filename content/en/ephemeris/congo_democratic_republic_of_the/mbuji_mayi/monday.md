@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'5.21" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|8°25'42.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°22'37.76" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|21°22'42.98" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|4°21'22.41" |Gemini|HanAh|Jupiter|
 |♀ Venus|Pre-Retrograde Shadow|17°30'29.36" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|28°12'57.50" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|2°42'47.82" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°51'26.80" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°10'49.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°58'53.34" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|7°58'56.02" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|19°55'35.09" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|2°2'23.79" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Pre-Retrograde Shadow|15°43'3.14" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°10'49.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|7°58'53.34" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|19°55'35.09" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°2'23.79" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|15°43'3.14" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|23°2'48.07" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|4°15'1.20" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|7°58'56.02" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|19°55'36.00" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|2°2'36.06" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|15°43'9.94" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|23°2'58.69" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|4°10'48.38" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파
