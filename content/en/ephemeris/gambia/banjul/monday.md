@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'0.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°26'37.82" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°25'52.73" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°26'35.06" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|17°34'43.04" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°24'24.93" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|4°39'45.66" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|8°26'39.03" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°25'52.40" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°26'39.25" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°34'42.98" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°24'28.55" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|4°11'32.28" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'0.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°26'37.82" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°25'52.73" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|4°26'35.06" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|17°34'43.04" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°24'24.93" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|4°39'45.66" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|8°26'39.03" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°25'52.40" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|4°26'39.25" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|17°34'42.98" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°24'28.55" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|4°11'32.28" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Sun|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Venus|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BJL, Bandzhul, Bandzul, Bandzula, Bandzulis, Bandżul, Bandžula, Bandžulis, Banjoul, Banjul, Banjulo, Banyul, Banzhul, Banĵulo, Bathurst, Bathurstopolis, Mpanzoul, bajula, ban cul, ban zhu, ban zhu er, banjul, banjula, banjuli, banjuru, banjwl, bngwl, pancul, Μπανζούλ, Банджул, Банжул, Банџул, Банҷул, Բանջուլ, באנזשול, בנגול, بانجول, बंजुल, बाञ्जुल, ਬੰਜੁਲ, பஞ்சுல், บันจูล, བཱན་ཇཱུ་ལ།, ბანჯული, ባንጁል, バンジュール, 班珠尔, 班竹, 반줄

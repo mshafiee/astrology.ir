@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'23.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°21'35.56" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°9'8.94" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|3°59'57.49" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|17°14'10.18" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|27°24'37.90" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|27°35'1.88" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|8°21'36.58" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°9'15.26" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°0'11.61" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°14'37.11" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|27°24'48.45" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|28°22'57.99" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'23.62" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|8°21'36.58" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°9'8.94" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|3°59'57.49" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|17°14'10.18" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|27°24'37.90" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|27°35'1.88" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|21°9'15.26" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|4°0'11.61" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|17°14'37.11" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|27°24'48.45" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|28°22'57.99" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Mars|Mars|Venus|Moon|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

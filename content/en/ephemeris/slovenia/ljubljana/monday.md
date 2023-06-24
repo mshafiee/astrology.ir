@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'8.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°25'3.96" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°20'37.47" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°18'17.52" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|17°28'19.12" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°5'40.06" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|2°9'6.17" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|8°25'3.89" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°20'37.59" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°18'17.44" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°28'19.53" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°5'39.97" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°11'36.27" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'8.21" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|8°25'3.96" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°20'37.47" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|4°18'17.52" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|17°28'19.12" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°5'40.06" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|2°9'6.17" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|21°20'37.59" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|4°18'17.44" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|17°28'19.53" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°5'39.97" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|2°11'36.27" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Aemona, Jubaljana, LJU, Laibach, Laiboch, Lioumpliana, Liubliana, Liublianne, Liublijana, Liuibleana, Liúibleána, Ljubljan, Ljubljana, Ljubljana osh, Ljubljanae, Ljubljano, Lubian-a, Lubiana, Lubiane, Lubiann-a, Lubjana, Lublan, Lublana, Lublaň, Lubliano, Lubljana, Luebiana, Lueblaen, Lueblana, Lyoubyana, Lyublyana, Lübiana, Lüblâna, Lüblän, li'ubali'ana, li'ubliyana, liubliana, liyubliyana, liyupliyana, lu bu er ya na, lub li ya na, lyubeullyana, lywblyana, ryuburyana, Ļubļana, Ľubľana, Łubiana, Λιουμπλιάνα, Љубљана, Люблян, Люблянæ, Любляна, Любляна ош, Люблꙗна, Լյուբլյանա, ליובליאנה, ليوبليانا, ليۇبليانا, لیوبلیانا, लियुब्लियाना, লিউব্লিয়ানা, ਲਿਊਬਲਿਆਨਾ, லியுப்லியானா, ลูบลิยานา, ལི་པོ་ཡ་ན།, ლიუბლიანა, ልዩብልያና, リュブリャナ, 卢布尔雅那, 盧布爾雅那, 류블랴나
