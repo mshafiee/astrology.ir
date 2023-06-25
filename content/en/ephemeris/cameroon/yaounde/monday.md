@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'4.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°25'56.33" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°23'29.37" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°22'53.11" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|17°31'49.19" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°15'57.44" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°6'54.10" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|8°25'55.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°23'25.55" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°22'44.13" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°31'32.87" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°15'50.64" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°44'57.18" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Giaounte, Jande, Jaunde, Jaundeh, Jaundeo, Jaundė, Jaúnde, Jánde, YAO, Yaounde, Yaoundé, Yaunde, Yaundé, Yawunde, iaunde, ya wen de, ya'unde, yaunde, yavunte, yawndy, yaxunde, yaywndh, ye wen de, Γιαουντέ, Јаунде, Яунде, Яўндэ, Յաունդե, יאונדה, יאונדע, ياوندي, یاؤندے, یائونده, یائوندێ, یاونڈی, याउंदे, ਯਾਊਂਦੇ, யாவுண்டே, ยาอุนเด, ཡོན་དྷི།, იაუნდე, ያዉንዴ, ヤウンデ, 耶溫得, 雅温得, 야운데

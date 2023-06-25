@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°10'49.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|7°58'59.21" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°55'46.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|2°2'52.79" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|15°43'23.58" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|23°3'34.55" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|4°16'7.21" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|7°58'58.90" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°55'44.09" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|2°2'48.51" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|15°43'15.12" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|23°3'31.41" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|3°51'15.56" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|7°10'49.73" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|7°58'59.21" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|19°55'46.22" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|2°2'52.79" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|15°43'23.58" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|23°3'34.55" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|4°16'7.21" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|2°2'48.51" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|15°43'15.12" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|23°3'31.41" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°51'15.56" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Juzhnaja Tarava, South Tarawa, Sued-Tarawa, Süd-Tarawa, TRW, Tarawa, Tarawa Sud, Tarawa do Sul, Tarawa-Sud, Zuid-Tarawa, namtalawa, sauseutalawa, talawa, Южная Тарава, דרום טאראווה, 남타라와, 사우스타라와, 타라와

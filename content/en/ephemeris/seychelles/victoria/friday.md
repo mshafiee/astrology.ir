@@ -1,6 +1,6 @@
 ---
-date: 2023-06-23T00:00:00+04:00
-lastmod: 2023-06-23T00:00:00+04:00
+date: 2023-06-30T00:00:00+04:00
+lastmod: 2023-06-30T00:00:00+04:00
 title: Victoria Friday
 slug: friday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Friday, 23 Jun 2023
+description: 🗓 Friday, 30 Jun 2023
 
 toc: false
 ---
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
-|♒ Aquarius|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
+|♈ Aries|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub> |<sub>□ Sqr|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

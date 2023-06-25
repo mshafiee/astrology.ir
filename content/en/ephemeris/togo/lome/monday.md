@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'2.84" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|8°26'13.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°24'24.75" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°24'21.34" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|17°32'55.73" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°19'16.73" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°25'19.00" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|21°24'19.46" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°24'4.58" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°32'31.45" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°19'3.72" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|3°16'24.96" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메
