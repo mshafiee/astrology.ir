@@ -220,7 +220,7 @@ Timetable of twelve day and night planetary hours
 |2|Mercury|Servant|07:05:35|08:08:48|Attracting auspiciousness|
 |3|Moon|Servant|08:08:49|09:12:02|Attracting misfortune, no task is suitable|
 |4|Saturn|Servant|09:12:03|10:15:16|Unfortunate hour|
-|5|Jupiter|Servant|10:15:17|11:18:30|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Jupiter|Servant|10:15:17|11:18:30|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|11:18:31|12:21:45|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Sun|Servant|12:21:46|13:24:59|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Venus|Ruler|13:25:00|14:28:13|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°4'38.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°11'19.65" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°56'21.94" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|8°25'51.60" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|20°26'3.44" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|7°30'21.75" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|26°59'32.94" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|7°4'39.83" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|9°11'18.60" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°56'15.50" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|8°25'36.52" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°25'33.63" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|7°30'10.20" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|27°50'30.74" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|9°11'19.65" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|23°56'21.94" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|8°25'51.60" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|20°26'3.44" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|20°26'3.44" |Leo|Zubrah|Mars|
 |☿ Mercury|Direct|7°30'21.75" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|26°59'32.94" |Scorpio|Shaulah|Venus|
 

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'0.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°26'43.39" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°26'4.49" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°27'0.05" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|17°34'55.12" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°25'15.79" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°58'41.20" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|8°26'42.43" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°26'5.89" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°26'58.39" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|17°34'59.64" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°25'14.10" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|4°32'0.08" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'0.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°26'43.39" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°26'4.49" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|4°27'0.05" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|17°34'55.12" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°25'15.79" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°58'41.20" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|8°26'42.43" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°26'5.89" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|4°26'58.39" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|17°34'59.64" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°25'14.10" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|4°32'0.08" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Sun|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Venus|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ceymstaun, Dzeimstauna, Dzeimstaunas, Dzejmstaun, Dzhehjmstaun, Dzhejmstaun, Džeimstauna, Džeimstaunas, HLE, Iacobopolis, Jamestauno, Jamestown, Tzeimstaoun, Zhejmstaun, cems thawn, jeimseutaun, jemsata'una, jemstavun, jemuzutaun, jyms tawn, jymz ٹawn  synٹ ہlyna, jymztawn  synt hlyna, zhan mu si dui, Ĵamestaŭno, Τζέιμσταουν, Џејмстаун, Джеймстаун, Джэймстаўн, Жеймстаун, גיימסטאון, דזשיימסטאן, جيمس تاون, جیمز ٹاون، سینٹ ہلینا, جیمزتاون، سینت هلینا, جیمزٹاؤن, جەیمستاون, जेम्सटाउन, ஜேம்ஸ்டவுன், เจมส์ทาวน์, ჯეიმზტაუნი, ジェームズタウン, 詹姆斯敦, 제임스타운

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°4'37.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°11'34.56" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°57'13.35" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|8°27'13.02" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|20°26'58.47" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|7°33'28.48" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|27°19'47.45" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Direct|9°11'32.50" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°57'13.91" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|8°27'5.97" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°26'58.42" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|7°33'23.03" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|28°30'41.97" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -341,8 +341,8 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|7°4'37.00" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|9°11'34.56" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|23°57'13.35" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°27'5.97" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|20°26'58.42" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|8°27'13.02" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°26'58.42" |Leo|Zubrah|Mars|
 |☿ Mercury|Direct|7°33'23.03" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|28°30'41.97" |Scorpio|Shaulah|Venus|
 
