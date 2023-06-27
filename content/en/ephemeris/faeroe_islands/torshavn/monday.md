@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|7°9'9.47" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|8°24'47.86" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|21°19'44.96" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°16'52.17" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|17°27'12.70" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°2'32.09" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|1°50'58.15" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|4°16'43.32" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°26'55.59" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°2'25.49" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|1°23'9.74" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°9'9.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°24'47.86" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°19'44.96" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|4°16'52.17" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°27'12.70" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°2'32.09" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|7°9'10.07" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|8°24'47.27" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°19'40.98" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|4°16'43.32" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|17°26'55.59" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°2'25.49" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|1°50'58.15" |Libra|Ghafr|Moon|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Havn, THorshoefn, THunreshaefen, Thori Portus, Thorshavn, Torschavn, Torsgavn, Torshamn, Torshaunas, Torshavn, Torshgavn, Torshkhavn, Torskhaun, Torskhavn, Tourshavna, Touršhavna, Tórshavn, lei shen gang, thosa'una, thxrs hea n, toleuseuhaun, tosuhaun, tuo er si gang, twshhafn, twshhawn, tۆrshawn, Þunreshæfen, Þórshöfn, Τόρσχαβν, Торсгавн, Торсхавн, Торсхаўн, Торшгавн, Торшхавн, Տորսհավն, טורסהאבן, تورشھاون, توشهافن, توشهاون, تۆرشاون, ਥੋਸ਼ਾਊਨ, ทอร์สเฮาน์, ტორსჰავნი, トースハウン, 托爾斯港, 雷神港, 토르스하운

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'2.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°26'16.16" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°24'34.73" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°24'37.25" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|17°33'7.73" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°19'52.64" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°28'38.59" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|8°26'15.29" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°24'35.14" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°24'34.58" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°33'8.55" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°19'50.28" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|3°50'6.76" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'2.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°26'16.16" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°24'34.73" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|4°24'37.25" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°33'7.73" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°19'52.64" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°28'38.59" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|8°26'15.29" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°24'35.14" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|4°24'34.58" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|17°33'8.55" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°19'50.28" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°50'6.76" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: ACC, Aakra, Aakrá, Accra, Acra, Akara, Akkr, Akkra, Akkrae, Akra, Akrao, Akʻra, Nkran, a ke la, akara, akeula, akra, akura, xak kra, yەkra, ΄Aκκρα, Άκκρα, Аккрæ, Аккра, Акра, Աքրա, אקרא, אקרה, آکرا, أكرا, ئەکرا, اكرا, اکرا, عکرہ, अक्रा, आक्रा, আক্রা, ਅਕਰਾ, ଆକ୍ରା, அக்ரா, അക്ര, อักกรา, ཨ་ཁ་ར།, အက်ခရာမြို့, აკრა, አክራ, アクラ, 阿克拉, 아크라

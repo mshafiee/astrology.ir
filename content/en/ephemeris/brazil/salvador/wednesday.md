@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|8°49'14.64" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|22°41'7.83" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|6°26'26.39" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|19°2'45.87" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|2°56'54.25" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|29°38'13.88" |Virgo|Simak|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|19°2'35.66" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|2°56'43.54" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°54'44.15" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Sun|
 |♀ Venus|Jupiter|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Saturn|Mars|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Leo|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Mercury|Venus|Cancer|Sun|Mercury|
-|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°7'2.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°49'14.76" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°41'7.27" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|6°26'25.88" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|19°2'43.59" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|2°56'53.91" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|29°32'23.18" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Direct|8°49'14.64" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°41'7.83" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|6°26'26.39" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|19°2'45.87" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|2°56'54.25" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|29°38'13.88" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

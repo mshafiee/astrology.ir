@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°4'10.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°15'19.66" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°10'5.61" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|8°47'35.64" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°40'23.24" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°20'23.71" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|2°39'57.07" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|7°4'9.90" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|9°15'19.60" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°10'10.99" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|8°47'44.70" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|20°40'47.23" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°20'30.67" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|2°23'16.70" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°4'9.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°15'19.59" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°10'10.74" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°47'44.24" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°40'46.09" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|8°20'30.32" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°24'11.69" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|9°15'19.60" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°10'10.99" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|8°47'44.70" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|20°40'47.23" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|8°20'30.67" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°23'16.70" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Hanyang, SEL, Seoel, Seol, Seoul, Seoul-si, Seuel, Seul, Seula, Seulas, Seulo, Seulum, Seúl, Seül, Siul, Soeul, Sol, Soul, Sye-ul, Syou-ouen, Szoeul, Szöul, Séoul, Sêûl, Söul, Sŏul, Wang-ching, Wo-jo, Wō-jō, ciyol, han-yang, saul, seoul, seoulsi, seoulteugbyeolsi, seuli, shou er, shou er te bie shi, si'ula, siyola, sol, sola, souru, souru te bie shi, sywl, Σεούλ, Сеул, Соул, Сөүл, Սեուլ, סאול, סיאול, סעאל, سئول, سيول, سیول, سێئول, سېئول, सियोल, सोल, সিউল, சியோல், ಸೌಲ್, സോൾ, โซล, སེ་ཨུལ།, ဆိုးလ်မြို့, სეული, ሶል, សេអ៊ូល, ソウル, ソウル特別市, 首尔, 首尔特别市, 서울, 서울시, 서울특별시, 한양

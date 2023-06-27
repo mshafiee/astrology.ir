@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|7°9'0.78" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|8°26'39.93" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|21°25'53.15" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°26'42.08" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|17°34'41.68" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°24'35.01" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°54'47.96" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|4°26'39.31" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°34'44.82" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°24'32.44" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|4°28'40.90" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'0.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°26'39.93" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°25'53.15" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|4°26'42.08" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°34'41.68" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°24'35.01" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°54'47.96" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|8°26'38.79" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°25'54.24" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|4°26'39.31" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|17°34'44.82" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°24'32.44" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|4°28'40.90" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Sun|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Venus|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르

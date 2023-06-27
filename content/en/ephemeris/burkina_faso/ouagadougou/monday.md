@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'2.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°26'13.06" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°24'24.57" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°24'20.98" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|17°32'58.79" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°19'15.49" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°45'49.84" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|8°26'12.15" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°24'25.45" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|4°24'18.81" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°32'57.93" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°19'14.12" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|3°52'4.84" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'2.86" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°26'12.56" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°24'25.60" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|4°24'20.44" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°32'58.79" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°19'15.49" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°45'49.84" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|8°26'13.06" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°24'25.45" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|4°24'18.81" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|17°32'55.36" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°19'16.15" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°25'15.62" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구

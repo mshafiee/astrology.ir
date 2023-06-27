@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°9'0.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°26'39.42" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|8°26'39.03" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|21°25'51.44" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|4°26'39.39" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|17°34'39.68" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|4°26'39.25" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°34'39.68" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|28°24'28.86" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|3°54'13.78" |Virgo|Sarfrah|Sun|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|8°26'39.42" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|21°25'51.44" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|4°26'39.39" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°34'39.68" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|17°34'39.68" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|28°24'28.86" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|3°54'13.78" |Libra|Ghafr|Moon|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BJL, Bandzhul, Bandzul, Bandzula, Bandzulis, Bandżul, Bandžula, Bandžulis, Banjoul, Banjul, Banjulo, Banyul, Banzhul, Banĵulo, Bathurst, Bathurstopolis, Mpanzoul, bajula, ban cul, ban zhu, ban zhu er, banjul, banjula, banjuli, banjuru, banjwl, bngwl, pancul, Μπανζούλ, Банджул, Банжул, Банџул, Банҷул, Բանջուլ, באנזשול, בנגול, بانجول, बंजुल, बाञ्जुल, ਬੰਜੁਲ, பஞ்சுல், บันจูล, བཱན་ཇཱུ་ལ།, ბანჯული, ባንጁል, バンジュール, 班珠尔, 班竹, 반줄

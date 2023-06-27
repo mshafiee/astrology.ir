@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|8°54'3.72" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|22°57'24.36" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|6°52'16.59" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|19°21'9.11" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|19°21'9.11" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|3°56'3.77" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|5°32'6.58" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|5°51'14.91" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°6'33.11" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°54'1.32" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°57'24.05" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|6°52'6.74" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|19°21'4.99" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|3°55'55.91" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|6°47'29.07" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|8°54'3.72" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°57'24.36" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|6°52'16.59" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|19°21'9.11" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|3°56'3.77" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|5°32'6.58" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Jupiter|Sun|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Moon|Sun|Leo|Moon|Moon|
-|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
