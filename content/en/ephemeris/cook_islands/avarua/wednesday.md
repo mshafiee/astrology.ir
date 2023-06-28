@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°6'39.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°52'54.95" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°53'39.57" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|6°46'19.11" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|19°16'56.89" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|3°42'22.69" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|4°5'6.04" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|7°6'39.89" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|8°52'55.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°53'33.13" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|6°46'2.77" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|19°16'31.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|3°42'10.12" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|4°43'39.56" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Leo|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Mercury|Mars|Cancer|Sun|Mercury|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°6'39.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°52'54.95" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°53'39.57" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|6°46'12.32" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|19°16'58.33" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|3°42'17.16" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|5°15'21.25" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|8°52'55.22" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°53'33.13" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|6°46'2.77" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|19°16'31.15" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|3°42'10.12" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°43'39.56" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Moon|Sun|Leo|Moon|Moon|
-|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

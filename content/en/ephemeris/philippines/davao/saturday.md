@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|9°15'50.87" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|24°11'58.63" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|8°50'36.17" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|20°42'42.66" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°27'0.98" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|2°55'23.99" |Scorpio|Akleel|Mars|
+|♀ Venus|Pre-Retrograde Shadow|20°42'25.49" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°26'53.32" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|3°42'11.19" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°4'6.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°15'50.87" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°11'58.63" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°50'36.17" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|20°42'42.66" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|8°27'0.98" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°55'23.99" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|9°15'49.84" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°11'55.00" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|8°50'26.23" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|20°42'25.49" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|8°26'53.32" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°42'11.19" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Libra|Moon|Moon|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Saturn|Mercury|Libra|Moon|Moon|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오

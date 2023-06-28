@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|9°15'18.10" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|24°10'5.51" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|8°47'36.08" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|20°40'40.80" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°20'11.30" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|2°21'0.96" |Scorpio|Akleel|Mars|
+|♀ Venus|Pre-Retrograde Shadow|20°40'22.03" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°20'5.07" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|2°44'14.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°4'10.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°15'18.10" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°10'5.51" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°47'36.08" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|20°40'40.74" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|8°20'11.32" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°20'38.58" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|9°15'17.82" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°10'1.36" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|8°47'27.97" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|20°40'22.03" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|8°20'5.07" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°44'14.90" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Libra|Moon|Moon|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Saturn|Mercury|Libra|Moon|Moon|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시
