@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'22.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°36'21.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°23'45.10" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°44'8.99" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|21°56'8.70" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|12°46'12.95" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°11'31.72" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|9°36'21.35" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°23'46.89" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°44'12.49" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|21°56'17.08" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|12°46'15.70" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°50'12.48" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'22.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°36'21.25" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|25°23'45.10" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°44'8.99" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|21°56'8.70" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|12°46'12.95" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|2°11'31.72" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|9°36'21.35" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|25°23'46.89" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°44'12.49" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|21°56'17.08" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|12°46'15.70" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°50'12.48" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: KJA, Krasnoiarsk, Krasnojarsk, Krasnoyarsk, Krasnoïarsk, Krsk, keulaseunoyaleuseukeu, Красноярск, 크라스노야르스크

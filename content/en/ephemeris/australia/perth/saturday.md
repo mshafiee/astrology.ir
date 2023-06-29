@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°4'0.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°16'38.94" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°14'47.23" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|8°55'0.41" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|20°45'39.26" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°37'10.66" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|4°27'7.65" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|9°16'39.43" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°14'46.94" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|8°55'1.86" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°45'38.61" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°37'10.05" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|4°39'27.00" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|7°4'0.02" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|9°16'39.43" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|24°14'46.94" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°55'1.86" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|20°45'38.61" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|8°37'10.66" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°27'7.65" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|8°54'59.61" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°45'40.69" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|8°37'10.05" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°39'27.00" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: PER, Peairt, Pert, Perta, Pertas, Perth, Perth City, Perthia, Perto, Perþ, Pirth, Purt, Pērta, byrth, part, partha, pasu, peoseu, pert, pheirth, po si, prt, prt', prtھ  asٹrylya, Περθ, Перт, Пертһ, Пърт, Պերթ, פרת', بيرث, پرت, پرتھ، آسٹریلیا, पर्थ, பேர்த், ಪರ್ತ್, പെർത്ത്, เพิร์ท, ပါ့သ်မြို့, პერთი, パース, 珀斯, 퍼스

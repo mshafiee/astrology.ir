@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°5'54.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°0'5.47" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°18'0.78" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|7°24'52.60" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|19°44'12.24" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|5°10'55.79" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|12°47'19.69" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|7°5'54.86" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|9°0'7.69" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°18'0.02" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|7°25'0.14" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|19°44'12.24" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|5°10'49.79" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|14°3'37.38" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Jupiter|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Mercury|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Leo|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Mars|Leo|Sun|Mercury|
-|☾ Moon|Moon|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|9°0'5.47" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|23°18'0.78" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|7°24'52.60" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|19°44'12.70" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|19°44'12.70" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|5°10'49.79" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|14°3'37.38" |Scorpio|Qalb|Sun|
 

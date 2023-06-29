@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°7'21.19" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|8°45'56.15" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°30'0.37" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|6°8'45.15" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|18°50'1.69" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|2°16'30.64" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|25°45'54.39" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|22°30'0.36" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|6°8'45.16" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|18°50'1.67" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|2°16'28.53" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|25°50'23.75" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°7'21.19" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°45'56.15" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°30'0.37" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|6°8'45.15" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|18°50'1.69" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|2°16'30.64" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|25°45'54.39" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Direct|8°45'55.80" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°29'59.47" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|6°8'42.42" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°49'57.61" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|2°16'28.53" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|25°50'23.75" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -362,7 +362,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mars|Mercury|Taurus|Moon|Jupiter|
 |♃ Jupiter|Moon|Jupiter|Leo|Moon|Venus|
-|♂ Mars|Jupiter|Venus|Taurus|Moon|Venus|
+|♂ Mars|Jupiter|Venus|Aries|Moon|Venus|
 |☉ Sun|Saturn|Sun|Virgo|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|

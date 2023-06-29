@@ -303,8 +303,8 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|9°15'7.90" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|24°9'32.19" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|8°46'37.70" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|20°39'54.42" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°18'12.82" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°39'54.42" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°18'21.60" |Gemini|HanAh|Jupiter|
 |☾ Moon|Direct|3°6'19.94" |Scorpio|Akleel|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°4'11.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°15'7.90" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°9'32.19" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°46'37.70" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|20°39'54.42" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|8°18'12.82" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°6'19.94" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|9°15'9.47" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°9'35.41" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|8°46'49.12" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°40'10.51" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|8°18'21.60" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°1'43.83" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Libra|Moon|Moon|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Saturn|Mercury|Libra|Moon|Moon|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: SPN, Saipan, Sajpan, saipan, Сайпан, 사이판

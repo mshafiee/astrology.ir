@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°7'17.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|8°46'32.51" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°32'2.78" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|6°11'58.70" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|18°52'19.18" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|2°23'56.41" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|26°31'43.51" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|8°46'31.56" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°32'5.26" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|6°11'58.38" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|18°52'28.04" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|2°23'55.88" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|27°17'0.39" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Leo|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Venus|Sun|Cancer|Sun|Moon|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°7'17.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|8°46'32.58" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°32'2.78" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|6°11'58.70" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|18°52'19.18" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|2°23'56.41" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|26°31'43.51" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Direct|8°46'32.51" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°32'2.91" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|6°11'58.66" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°52'19.65" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|2°23'56.36" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|26°34'18.16" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

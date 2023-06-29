@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°3'25.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°21'11.58" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°30'40.76" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°20'3.45" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|21°2'17.36" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°34'39.89" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|11°42'22.53" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|9°21'14.12" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°30'41.02" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°20'13.86" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|21°2'21.84" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°34'47.77" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|10°11'6.90" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°3'25.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°21'11.58" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°30'40.76" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|9°20'3.45" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|21°2'17.36" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|9°34'39.89" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|11°42'22.53" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|9°21'14.12" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°30'41.02" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|9°20'13.86" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|21°2'21.84" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|9°34'47.77" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|10°11'6.90" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

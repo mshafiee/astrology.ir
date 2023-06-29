@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'14.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°37'13.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°26'48.12" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°49'0.83" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|21°59'13.97" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|9°37'13.35" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°26'50.67" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°49'4.49" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|21°59'13.97" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|12°57'9.34" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|2°57'45.03" |Sagittarius|Shaulah|Mercury|
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|9°37'13.35" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|25°26'50.35" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|10°49'4.74" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|21°59'24.09" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|21°59'24.09" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|12°57'12.47" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°57'45.03" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°35'7.20" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍
