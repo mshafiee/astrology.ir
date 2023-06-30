@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°3'22.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°21'36.89" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°32'3.73" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|9°22'15.63" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|21°3'30.31" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°39'50.41" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|12°27'4.74" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|9°21'39.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°32'8.16" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|9°22'32.03" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|21°3'52.48" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°40'2.93" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|10°41'48.39" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°3'22.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°21'39.16" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°32'8.16" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|9°22'32.03" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|21°3'53.07" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|9°40'2.96" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|10°43'2.28" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|9°21'39.22" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°32'8.02" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|9°22'32.00" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|21°3'52.48" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|9°40'2.93" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|10°41'48.39" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

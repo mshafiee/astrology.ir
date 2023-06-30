@@ -238,7 +238,7 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|21:35:54|22:37:42|Unfortunate hour|
 |5|Moon|Servant|22:37:43|23:39:32|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|23:39:33|00:41:22|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:41:23|01:43:11|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Jupiter|Servant|00:41:23|01:43:11|Promotion and attracting wealth|
 |8|Mars|Ruler|01:43:12|02:45:01|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Sun|Servant|02:45:02|03:46:51|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Venus|Servant|03:46:52|04:48:40|The moon is in Scorpio, Not suitable for doing anything.|
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|9°5'33.99" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|23°36'34.47" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|7°54'28.44" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°4'37.62" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|6°18'27.02" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|19°28'58.06" |Libra|Jubana|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|20°4'37.62" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|6°18'27.50" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|19°36'39.79" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|9°5'33.99" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|23°36'34.47" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|7°54'28.44" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°4'37.62" |Leo|Zubrah|Mars|
+|♀ Venus|Pre-Retrograde Shadow|20°4'37.62" |Leo|Zubrah|Mars|
 |☿ Mercury|Direct|6°18'27.50" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|19°36'39.79" |Scorpio|Qalb|Sun|
 

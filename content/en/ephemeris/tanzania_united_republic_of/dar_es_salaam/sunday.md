@@ -233,7 +233,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|18:19:09|19:20:26|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mars|Servant|19:20:27|20:21:45|Unfortunate, no task is suitable|
+|2|Mars|Servant|19:20:27|20:21:45|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Sun|Servant|20:21:46|21:23:04|Operations of tenderness and attraction of love|
 |4|Venus|Servant|21:23:05|22:24:23|Unfortunate and repelling goodness|
 |5|Mercury|Servant|22:24:24|23:25:42|Separation, vengeful and hostile deeds|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°2'24.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°28'51.80" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°57'22.33" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°2'27.93" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|21°29'52.45" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°11'11.54" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|20°44'27.34" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Direct|9°28'50.84" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°57'22.98" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°2'27.86" |Gemini|HanAh|Mars|
+|♀ Venus|Pre-Retrograde Shadow|21°29'50.49" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°11'11.45" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|20°41'37.18" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°2'24.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°28'51.80" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°57'22.33" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°2'27.93" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|21°29'52.45" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|11°11'11.54" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|20°44'27.34" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|7°2'24.45" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|9°28'50.84" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°57'22.98" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°2'25.52" |Cancer|Nathrah|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|21°29'54.36" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|11°11'9.78" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|21°9'50.06" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Mercury|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
