@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|07:18:36|08:12:58|Repelling magic, attracting discharged energy|
+|1|Moon|Ruler|07:18:36|08:12:58|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Saturn|Servant|08:12:59|09:07:22|Outer and inner journey|
 |3|Jupiter|Servant|09:07:23|10:01:46|Marriage connection is good|
 |4|Mars|Servant|10:01:47|10:56:10|Repelling and destroying enemies and discharging enemy energy|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'32.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°35'7.21" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°19'31.95" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°37'20.99" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|21°52'0.55" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|12°30'54.24" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|1°15'52.22" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|9°35'7.84" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°19'28.15" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°37'16.85" |Gemini|HanAh|Mars|
+|♀ Venus|Pre-Retrograde Shadow|21°51'43.93" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|12°30'50.81" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°33'48.96" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|7°1'32.41" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|9°35'9.83" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|25°19'33.13" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°37'33.09" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|21°52'9.31" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|12°31'3.24" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|1°15'52.22" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|10°37'16.85" |Cancer|Nathrah|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|21°51'43.93" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|12°30'50.81" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|1°33'48.96" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

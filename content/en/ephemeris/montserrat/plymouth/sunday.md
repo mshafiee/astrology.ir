@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°2'3.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°31'28.23" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°6'32.66" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°16'53.99" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|21°39'11.31" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°44'9.20" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|24°56'22.11" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|9°31'26.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°6'32.16" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°16'50.95" |Gemini|HanAh|Mars|
+|♀ Venus|Pre-Retrograde Shadow|21°39'8.30" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°44'6.90" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|25°18'54.64" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°2'3.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°31'26.83" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|25°6'32.66" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°16'53.99" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|21°39'11.31" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|11°44'9.20" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Direct|9°31'28.23" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|25°6'31.28" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°16'56.99" |Cancer|Nathrah|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|21°39'6.76" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|11°44'11.30" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|24°22'19.00" |Sagittarius|Baldah|Saturn|
 
 

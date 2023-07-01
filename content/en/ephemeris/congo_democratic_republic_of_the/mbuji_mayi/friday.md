@@ -225,7 +225,7 @@ Timetable of twelve day and night planetary hours
 |7|Sun|Servant|12:29:17|13:28:07|Promotion and attracting wealth|
 |8|Venus|Ruler|13:28:08|14:26:58|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|14:26:59|15:25:49|Causing separation and homelessness|
-|10|Moon|Servant|15:25:50|16:24:40|Extremely unfortunate|
+|10|Moon|Servant|15:25:50|16:24:40|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Saturn|Servant|16:24:41|17:23:31|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Jupiter|Servant|17:23:32|18:22:23|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|7°4'58.53" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|9°8'30.96" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|23°46'41.51" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°10'31.08" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|20°15'37.54" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|6°55'13.35" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|23°24'3.15" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|8°10'31.28" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|20°15'37.58" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|6°55'13.51" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|23°22'2.99" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

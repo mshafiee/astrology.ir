@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'15.06" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|9°37'10.89" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°26'41.64" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°26'35.69" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|10°48'38.36" |Gemini|HanAh|Mars|
 |♀ Venus|Pre-Retrograde Shadow|21°58'47.42" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|12°56'31.26" |Gemini|HanAh|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'15.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°37'10.89" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|25°26'41.64" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°48'51.03" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|21°59'15.62" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|12°56'41.19" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°30'41.55" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|9°37'10.29" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|25°26'35.69" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°48'38.36" |Cancer|Nathrah|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|21°58'47.42" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|12°56'31.26" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°51'12.69" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴

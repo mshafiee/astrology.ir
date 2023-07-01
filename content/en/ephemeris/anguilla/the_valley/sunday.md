@@ -222,7 +222,7 @@ Timetable of twelve day and night planetary hours
 |4|Moon|Servant|08:58:09|10:04:11|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Saturn|Servant|10:04:12|11:10:13|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Jupiter|Servant|11:10:14|12:16:15|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Mars|Servant|12:16:16|13:22:17|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Mars|Servant|12:16:16|13:22:17|No task is suitable, causes misfortune|
 |8|Sun|Ruler|13:22:18|14:28:20|Extremely auspicious and attracts happiness|
 |9|Venus|Servant|14:28:21|15:34:22|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Mercury|Servant|15:34:23|16:40:24|Attracting happiness, solving financial problems|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°2'3.51" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|9°31'28.42" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°6'32.01" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°16'58.10" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|21°39'7.58" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°44'13.84" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|24°22'48.59" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|25°6'31.96" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°16'58.04" |Gemini|HanAh|Mars|
+|♀ Venus|Pre-Retrograde Shadow|21°39'7.36" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°44'13.78" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|24°23'1.69" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°2'3.51" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|9°31'28.42" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|25°6'32.01" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°16'58.10" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|21°39'7.58" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|11°44'13.84" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|24°22'48.59" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Direct|25°6'31.96" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°16'58.04" |Cancer|Nathrah|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|21°39'7.36" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|11°44'13.78" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|24°23'1.69" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

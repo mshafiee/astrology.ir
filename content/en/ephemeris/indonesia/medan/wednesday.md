@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'5.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°57'29.89" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°39'33.31" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|12°43'54.23" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|23°8'37.94" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|17°15'52.63" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°42'47.07" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|9°57'29.78" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°39'33.45" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|12°43'54.00" |Gemini|HanAh|Mars|
+|♀ Venus|Pre-Retrograde Shadow|23°8'38.40" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|17°15'52.50" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°43'7.66" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'5.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°57'29.89" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|26°39'33.31" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|12°43'54.23" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|23°8'37.94" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°15'52.63" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°42'47.07" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|9°57'29.78" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|26°39'33.45" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|12°43'54.00" |Cancer|Nathrah|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|23°8'38.40" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°15'52.50" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°43'7.66" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Kota Medan, Kuta Medan, Kuta Mèdan, Kutha Medan, MES, Medan, Medana, Medanas, Medano, Mentan, mdan, me dan, medan, metan, mian lan, mydan, Μεντάν, Медан, مدان, ميدان, میدان ، انڈونیشیا, மேடான், เมดาน, メダン, 棉蘭, 메단

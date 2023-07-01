@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'6.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°57'25.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°39'16.43" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Direct|9°57'25.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°39'14.24" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|12°43'23.72" |Gemini|HanAh|Mars|
 |♀ Venus|Pre-Retrograde Shadow|23°8'12.01" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|17°14'50.04" |Gemini|Dhira|Mars|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|6°58'6.61" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|9°57'25.24" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|26°39'16.43" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|12°43'23.72" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|23°8'12.01" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°14'50.04" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°8'14.90" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°43'27.53" |Cancer|Nathrah|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|23°8'22.30" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°14'53.18" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°36'46.02" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍

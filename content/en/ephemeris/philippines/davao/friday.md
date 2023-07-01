@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |3|Venus|Servant|19:51:53|20:49:12|Attracting misfortune, no task is suitable|
 |4|Mercury|Servant|20:49:13|21:46:33|Unfortunate hour|
 |5|Moon|Servant|21:46:34|22:43:53|Achieving position and status and attracting job fortune|
-|6|Saturn|Servant|22:43:54|23:41:14|Creating attraction and acceptance among dignitaries|
+|6|Saturn|Servant|22:43:54|23:41:14|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Jupiter|Servant|23:41:15|00:38:34|Promotion and attracting wealth|
 |8|Mars|Ruler|00:38:35|01:35:55|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Sun|Servant|01:35:56|02:33:15|The moon is in Scorpio, Not suitable for doing anything.|
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|7°5'20.15" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|9°5'22.08" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|23°35'53.73" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|7°53'13.91" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|20°3'36.41" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|6°15'51.74" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|19°55'25.71" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|7°53'23.91" |Gemini|HanAh|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|20°3'53.33" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|6°15'59.43" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|19°20'48.61" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°5'20.15" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°5'22.08" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|9°5'21.03" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|23°35'50.09" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|7°53'13.91" |Cancer|Nathrah|Venus|
 |♀ Venus|Pre-Retrograde Shadow|20°3'36.41" |Leo|Zubrah|Mars|
 |☿ Mercury|Direct|6°15'51.74" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|19°55'25.71" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|19°20'48.61" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

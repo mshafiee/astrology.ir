@@ -225,7 +225,7 @@ Timetable of twelve day and night planetary hours
 |7|Mars|Servant|13:12:18|14:33:04|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Sun|Ruler|14:33:05|15:53:52|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Venus|Servant|15:53:53|17:14:39|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mercury|Servant|17:14:40|18:35:27|Attracting happiness, solving financial problems|
+|10|Mercury|Servant|17:14:40|18:35:27|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Moon|Servant|18:35:28|19:56:14|Performing promises|
 |12|Saturn|Servant|19:56:15|21:17:02|Finding the fugitive and discovering the thief|
 
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|24°58'10.21" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|10°3'42.74" |Gemini|HanAh|Mars|
 |♀ Venus|Pre-Retrograde Shadow|21°30'35.81" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°14'8.84" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|21°13'21.39" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|11°14'6.98" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|21°21'36.32" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°2'23.19" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°29'5.50" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°58'11.85" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°3'45.08" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|21°30'43.04" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|11°14'8.84" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|21°13'21.39" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|9°29'3.49" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°58'10.76" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°3'35.35" |Cancer|Nathrah|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|21°30'35.41" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|11°14'1.53" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|22°29'34.80" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}

@@ -225,7 +225,7 @@ Timetable of twelve day and night planetary hours
 |7|Sun|Servant|13:30:15|14:46:39|Promotion and attracting wealth|
 |8|Venus|Ruler|14:46:40|16:03:04|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|16:03:05|17:19:28|Causing separation and homelessness|
-|10|Moon|Servant|17:19:29|18:35:53|Extremely unfortunate|
+|10|Moon|Servant|17:19:29|18:35:53|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Saturn|Servant|18:35:54|19:52:18|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Jupiter|Servant|19:52:19|21:08:43|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|9°7'44.91" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|23°44'3.85" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|8°6'20.01" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|20°12'50.36" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|6°45'39.52" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|23°24'33.85" |Libra|Jubana|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|20°12'44.01" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|6°45'41.54" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|22°34'22.50" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Jupiter|Leo|Sun|Mercury|
-|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
+|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|7°5'3.92" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|9°7'44.91" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|23°44'3.85" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|8°6'20.01" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|20°12'44.01" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|6°45'41.54" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|22°34'22.50" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|8°6'19.44" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|20°12'36.47" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|6°45'41.16" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|22°12'15.44" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Libra|Moon|Moon|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Saturn|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
