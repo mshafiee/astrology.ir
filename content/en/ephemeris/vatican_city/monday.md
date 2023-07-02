@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°0'59.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°39'8.16" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°33'33.53" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°59'40.34" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|22°5'42.65" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|13°21'28.17" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|7°0'58.08" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|9°39'8.10" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°33'37.89" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°59'47.81" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°6'2.88" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|13°21'34.13" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|6°23'46.15" |Sagittarius|NaAaem|Mercury|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°0'58.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°39'8.10" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|9°39'8.10" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|25°33'37.89" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|10°59'47.81" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|22°6'2.88" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|13°21'34.13" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|5°36'39.02" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|22°5'42.65" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|13°21'28.17" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|6°23'46.15" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mercury|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

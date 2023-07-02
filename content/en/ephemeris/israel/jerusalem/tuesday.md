@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°59'29.76" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°48'50.62" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|9°48'50.62" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°8'18.46" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|11°54'32.95" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|22°39'26.02" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|11°54'34.90" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°39'30.97" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|15°25'16.20" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|20°2'54.41" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|19°48'24.71" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Venus|Venus|Venus|Mars|
-|☾ Moon|Mercury|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Saturn|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°59'29.76" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°48'50.58" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|9°48'50.58" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|26°8'17.41" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|11°54'32.95" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|22°39'26.02" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|22°39'26.02" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|15°25'16.20" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|20°2'54.41" |Capricorn|SaadAlBula|Sun|
 

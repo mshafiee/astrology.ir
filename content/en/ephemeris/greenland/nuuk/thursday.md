@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°55'57.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°9'50.09" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|27°24'41.97" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|13°55'0.92" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|23°48'42.15" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|19°53'55.20" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|22°9'5.06" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|10°9'50.13" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|27°24'44.56" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|13°55'5.73" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°48'54.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|19°53'59.18" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|21°28'35.82" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°55'57.72" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°9'50.09" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°24'41.97" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|13°55'0.92" |Cancer|Tarf|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|23°48'42.15" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|19°53'55.20" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|10°9'50.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°24'44.56" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|13°55'5.73" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|23°48'54.82" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|19°53'59.18" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|22°9'5.06" |Aquarius|FarghAlMuqaddam|Moon|
 
 

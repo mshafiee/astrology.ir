@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°4'7.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°15'34.89" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|9°15'34.89" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|24°11'3.31" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|8°49'8.51" |Gemini|HanAh|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|20°41'44.01" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|20°41'44.01" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|8°23'40.34" |Gemini|HanAh|Jupiter|
 |☾ Moon|Direct|2°34'15.25" |Scorpio|Akleel|Mars|
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°4'7.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°15'32.18" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°11'0.67" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|9°15'34.89" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°11'3.31" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|8°48'53.34" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|20°41'28.75" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|20°41'28.75" |Leo|Zubrah|Mars|
 |☿ Mercury|Direct|8°23'28.73" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|4°20'41.85" |Sagittarius|NaAaem|Mercury|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

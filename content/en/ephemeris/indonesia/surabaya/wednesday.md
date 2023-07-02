@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'8.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°57'14.05" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°38'35.79" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|12°42'23.38" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|23°7'45.01" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|17°12'29.93" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°20'10.92" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|9°57'14.05" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°38'35.35" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|12°42'23.39" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°7'43.25" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|17°12'29.84" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°22'43.39" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'8.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°57'14.05" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|9°57'14.05" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|26°38'35.79" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|12°42'23.38" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|23°7'45.01" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°12'29.93" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°20'10.92" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|23°7'43.25" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°12'29.84" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°22'43.39" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Kota Surabaya, Kutha Surabaya, SUB, Soerabaja, Soerabaya, Sourabaya, Sourampagia, Surabaia, Surabaja, Surabajo, Surabaya, si shui, sulabaya, sura ba ya, surabaia, surabaya, swrabaya, swrbyh, Σουραμπάγια, Сурабайа, Сурабая, Сурабаја, סורביה, سورابايا, سورابایا, สุราบายา, სურაბაია, スラバヤ, 泗水, 수라바야

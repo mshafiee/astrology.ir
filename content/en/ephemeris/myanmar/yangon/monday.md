@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'14.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°37'12.17" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°26'46.58" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°48'58.45" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|21°59'20.27" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|12°56'58.75" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°36'7.96" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|9°37'12.25" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°26'41.93" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°48'52.38" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|21°58'59.31" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|12°56'53.82" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|3°8'35.31" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'14.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°37'12.17" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|25°26'46.58" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°48'58.45" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|21°59'20.27" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|12°56'58.75" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°36'7.96" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|9°37'12.25" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|25°26'46.54" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°48'52.38" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|21°58'59.31" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|12°56'53.82" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°8'35.31" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Dagon, Gian'nkon, Jangon, Jangon khot, Jangona, Jangono, Jangun, Jangún, Ngiong-kong, Ngióng-kông, RGN, Rangon, Rangoon, Rangoun, Rangum, Rangun, Rangunas, Rangún, Rangūnas, Yangjgvangh, Yangon, Yangôn, Yanqon, iangoni, iyanguna, raguna, ranguna, rngwn, yang guang, yang-gon, yanghwn, yangkung, yangon, yanguna, yangwn, yankon, Ýangon, Γιανγκόν, Јангон, Рангун, Янгон, Янгон хот, Յանգոն, יאנגון, رنگون, يانغون, یانگون, यांगून, रङ्गुन, रङ्गून, ইয়াংগুন, ਰੰਗੂਨ, யங்கோன், యాంగోన్, യംഗോൺ, ย่างกุ้ง, ཡང་ཀོང་།, ရန်ကုန်မြို့, იანგონი, ያንጎን, យ៉ាំងហ្គូន, ヤンゴン, 仰光, 양곤

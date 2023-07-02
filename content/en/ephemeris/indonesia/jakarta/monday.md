@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'15.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°37'11.22" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°26'42.78" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°48'52.77" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|21°59'16.58" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|12°56'45.33" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°32'11.95" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|9°37'11.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°26'41.78" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°48'51.25" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|21°59'12.21" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|12°56'44.09" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|2°40'12.61" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°1'15.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°37'11.09" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|25°26'43.01" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°48'52.67" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|21°59'17.44" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|12°56'45.28" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°33'50.46" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|7°1'15.26" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|9°37'11.22" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|25°26'41.78" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°48'51.25" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|21°59'12.21" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|12°56'44.09" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°40'12.61" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Batavia, Big Durian, Cakarta, D'akarta, Daerah Khusus Ibukota Jakarta, Djakarta, Djogkarta, Dki Jakarta, Dzakarta, Dzhakarta, Dzhakartae, Dżakarta, Džakarta, Gakarto, Giacarta, Iacarta, Iacárta, JKT, Jacarta, Jakarta, Jayakarta, Jogkarta, Nga-ka-that Su-tu Thit-khi, Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî, Sunda Kelapa, Tzakarta, Xacarta, Xhakarta, Yajgyadaz, Yakarta, Zhakarta, cakarta, g'qrth, jakaleuta, jakarata, jakarta, jakartta, jakaruta, jkarta, ya jia da, Ĝakarto, Τζακάρτα, Џакарта, Джакартæ, Джакарта, Дьакарта, Жакарта, Ջակարտա, ג'קרטה, דזשאקארטא, جاكارتا, جاکارتا, جکارتا, جکارتہ, जकार्ता, জাকার্তা, ਜਕਾਰਤਾ, જાકાર્તા, ଜାକର୍ତା, ஜகார்த்தா, జకార్తా, ಜಕಾರ್ತ, ജക്കാർത്ത, จาการ์ตา, ཊ་ཁར་ཏ།, ဂျကာတာမြို့, ჯაკარტა, ጃካርታ, ចាការតា, ジャカルタ, 雅加达, 자카르타

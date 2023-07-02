@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'3.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°57'41.83" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°40'21.60" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|12°45'0.85" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|23°9'6.03" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|9°57'44.06" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°40'24.76" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|12°45'15.16" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°9'6.03" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|17°18'43.34" |Gemini|Dhira|Mars|
 |☾ Moon|Direct|4°33'10.97" |Capricorn|SaadAlDhabib|Jupiter|
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'3.48" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°57'41.83" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|26°40'21.60" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|9°57'44.06" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|26°40'24.76" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|12°45'0.85" |Cancer|Nathrah|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|23°9'6.03" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|23°9'6.03" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|17°18'43.34" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|4°33'10.97" |Aquarius|SaadAlSaud|Venus|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: weseuteu seom, 웨스트 섬
