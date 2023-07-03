@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|7°1'19.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|9°36'41.28" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°24'57.46" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°46'4.15" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|21°57'27.24" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|12°50'28.89" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°17'41.55" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|7°1'19.67" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|9°36'40.94" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°24'55.94" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°46'0.18" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|21°57'19.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|12°50'25.83" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|2°43'50.98" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Saturn|Saturn|Scorpio|Sun|Mercury|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'19.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|9°36'41.28" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|9°36'41.28" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|25°24'57.46" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|10°46'4.15" |Cancer|Nathrah|Mercury|
 |♀ Venus|Direct|21°57'27.24" |Leo|Sarfrah|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Cen Ceper, Nobosimpirsk, Novasibirsk, Novo-Nikolaevsk, Novo-Nikolaievsk, Novo-Nikolaïevsk, Novonikolaevsk, Novonikolayevsk, Novosibir, Novosibir'sku, Novosibirs'k, Novosibirscum, Novosibirsk, Novosibirska, Novosibirskaj, Novosibirskas, Novosibirsko, Novosimpirsk, Novossibirsk, Novoszibirszk, Nowosibirsk, Nowosibirski, Nowosybirsk, OVB, Odsibiren' osh, Vil' Sibirkar, no wo sibiskh, nobosibileuseukeu, novosibirsk, novosibirska, novu~oshibirusuku, nwbwsybyrsq, nwfwsybyrsk, nwwsybrsk, nwwsybyrsk, xin xi bo li ya, Çĕн Çĕпĕр, Νοβοσιμπίρσκ, Νοβοσιμπιρσκ, Виль Сибиркар, Новасібірск, Новониколаевск, Новосибирск, Новосибирскай, Новосибирьскъ, Новосибірськ, Новосібір, Одсибирень ош, Նովոսիբիրսկ, נובוסיבירסק, نوفوسيبيرسك, نووسیبرسک, نووسیبیرسک, नोवोसिबिर्स्क, โนโวซีบีสค์, ნოვოსიბირსკი, ノヴォシビルスク, 新西伯利亚, 新西伯利亞, 노보시비르스크

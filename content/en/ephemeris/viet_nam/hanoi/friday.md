@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°54'40.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°16'50.42" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|10°16'50.42" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|27°50'37.84" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|14°35'54.11" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|24°10'56.41" |Cancer|Tarf|Moon|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°54'40.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°16'50.42" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°50'37.84" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|14°35'54.11" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|6°54'39.51" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°16'48.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°50'38.37" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|14°35'48.82" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|24°10'56.41" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|21°23'36.62" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|2°19'3.35" |Pisces|FarghAlMuqaddam|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이

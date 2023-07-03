@@ -238,7 +238,7 @@ Timetable of twelve day and night planetary hours
 |4|Venus|Servant|21:30:22|22:28:20|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mercury|Servant|22:28:21|23:26:19|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Moon|Servant|23:26:20|00:24:18|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Saturn|Servant|00:24:19|01:22:17|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Saturn|Servant|00:24:19|01:22:17|No task is suitable, causes misfortune|
 |8|Jupiter|Ruler|01:22:18|02:20:16|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|02:20:17|03:18:15|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|03:18:16|04:16:14|Attracting happiness, solving financial problems|
@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°2'44.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|9°26'32.78" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°26'32.78" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|24°49'12.04" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|9°49'30.13" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|21°21'16.60" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|21°21'34.53" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|10°41'51.08" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|18°13'24.76" |Scorpio|Qalb|Sun|
 
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°2'43.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|9°26'33.41" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°49'15.87" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|9°49'38.94" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|9°26'32.78" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°49'12.04" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|9°49'30.13" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|21°21'16.60" |Leo|Zubrah|Mars|
 |☿ Mercury|Direct|10°41'51.08" |Cancer|Nathrah|Mercury|
 |☾ Moon|Direct|18°13'24.76" |Sagittarius|Baldah|Moon|

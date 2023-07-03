@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'7.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|9°57'22.65" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°39'0.59" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|12°43'3.55" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°7'50.98" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|17°14'8.04" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°30'50.89" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|9°57'22.17" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°39'5.05" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|12°43'9.77" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°8'11.79" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|17°14'13.32" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°31'39.40" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'7.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|9°57'22.13" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|26°39'5.13" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|12°43'9.78" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|23°8'12.16" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°14'13.34" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°31'0.73" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|9°57'22.17" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|26°39'5.05" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|12°43'9.77" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|23°8'11.79" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°14'13.32" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°31'39.40" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루

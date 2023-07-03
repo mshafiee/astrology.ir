@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°54'38.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°16'58.14" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|27°51'6.54" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|14°36'39.36" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°11'20.65" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|21°25'15.44" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|2°30'10.49" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|10°16'58.14" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|27°51'3.78" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|14°36'31.96" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|24°11'6.15" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|21°25'9.63" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°11'53.11" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°54'38.57" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°16'58.14" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|10°16'58.14" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|27°51'6.54" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|14°36'39.36" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|24°11'20.65" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|21°25'15.44" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°30'10.49" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|14°36'31.96" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°11'6.15" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|21°25'9.63" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°11'53.11" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Bientian, Fanhyiengh, Nakhon Viangchan, V'ent'jan, VTE, Venc'jan, Vent'jan, Ventjan, Ventyan, Vianchan, Viang chan, Viangchan, Vien Can, Vien Chang, Vienciana, Vieng Quy, Vieng-Caen, Vieng-Chan, Vieng-Cæn, Viengchan, Viengtjan, Vientane, Vientian, Vientianas, Vientiane, Vientijan, Vientián, Vientjan, Vientyan, Vijentijan, Viêng Quý, Vjencana, Vjentiano, Vjentjan, Vjenčana, Vyantyan, Vyantyàn, Vyentyan, Wei-t'ien, Wei-t’ien, Wiang Chan, Wiangcan, Wien Tsjan, Wientian, Wiën Tsjan, Wyentyan, Wyéntyan, bhiyenatiyena, bientian, fyyntyan, vhi'antiyana, vi'anga cana, viyancan, viyen tiyen, vu~ienchan, vu~ienchan shi, wan xiang, weiyngcanthn, wyntyan, yong zhen, Βιεντιάν, Вентян, Венцьян, Виентијан, Виентян, Вијентијан, Вьентьян, Вєнтьян, Վիենտյան, ויינטיאן, فيينتيان, وینتیان, ڤیێنتیان, व्हिआंतियान, ভিয়েনতিয়েন, ਵਿਆਂਗ ਚਾਨ, வியஞ்சான், ವಿಯೆನ್ ಟಿಯೇನ್, വിയന്റിയൻ, เวียงจันทน์, ວຽງຈນ, ວຽງຈັນ, ཝིན་ཆིའང་, ဗီယင်ကျန်းမြို့, ვიენტიანი, ቭየንትዬን, ヴィエンチャン, ヴィエンチャン市, 万象, 永珍, 비엔티안

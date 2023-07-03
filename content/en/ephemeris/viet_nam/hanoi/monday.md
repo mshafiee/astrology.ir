@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'17.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|9°36'52.23" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°25'35.66" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°47'6.50" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|9°36'50.07" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°25'31.24" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|10°46'50.35" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|21°57'46.48" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|12°52'32.40" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|4°0'12.51" |Sagittarius|Shaulah|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'17.77" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|9°36'52.23" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|9°36'52.23" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|25°25'35.66" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|10°47'6.50" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|21°58'9.79" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|12°52'44.68" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°6'55.37" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|21°57'46.48" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|12°52'32.40" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|4°0'12.51" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mars|Venus|Sagittarius|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이

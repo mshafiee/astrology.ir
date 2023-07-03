@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°54'38.94" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°16'56.67" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|27°51'1.65" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|6°54'38.16" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|10°16'55.72" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|27°51'3.94" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|14°36'29.74" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°11'6.85" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|21°24'58.40" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|2°59'33.42" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|24°11'11.18" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|21°24'59.76" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|2°46'13.82" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°54'38.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°16'56.67" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°51'1.65" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|14°36'29.74" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|24°11'11.18" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|21°24'59.76" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°46'13.82" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|6°54'38.16" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|10°16'55.72" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°51'3.94" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|14°36'30.05" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°11'20.81" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|21°25'0.69" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°11'55.24" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Sagittarius|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Sun|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: OMS, Om'sku, Omby, Omium, Oms'k, Omsc, Omsk, Omska, Omskas, Omszk, Omva, amsk, awmsk, e mu si ke, omseukeu, omska, omusuku, xxm skh, Ομσκ, Омбы, Омва, Омск, Омськ, Омьскъ, Օմսկ, אומסק, أومسك, امسک, اومسک, ओम्स्क, ออมสค์, ომსკი, オムスク, 鄂木斯克, 옴스크

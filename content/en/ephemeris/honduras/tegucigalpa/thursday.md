@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°55'29.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°12'23.45" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|10°12'23.45" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|27°34'7.43" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|14°9'54.74" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°56'30.42" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|20°26'23.06" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|26°53'56.94" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|23°56'57.78" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°26'35.25" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°29'1.07" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Mars|Mars|Saturn|Jupiter|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mars|Mars|Aquarius|Moon|Jupiter|
-|☾ Moon|Moon|Mercury|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°55'29.68" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°12'21.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°34'2.40" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|10°12'23.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°34'7.43" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|14°9'38.83" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|23°56'30.42" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|20°26'23.06" |Cancer|Tarf|Moon|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'15.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|9°56'31.64" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|9°56'31.64" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°36'2.10" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|12°38'19.90" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°5'19.72" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|17°3'28.34" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|1°33'5.51" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°38'6.00" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°5'4.74" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|17°3'18.23" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|2°52'6.87" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°58'15.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|9°56'31.76" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|26°36'1.73" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|12°38'19.68" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|23°5'19.72" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°3'28.34" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|6°58'15.52" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|9°56'31.64" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|26°36'2.10" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|12°38'19.90" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|23°5'21.38" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°3'28.57" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|1°29'38.80" |Aquarius|SaadAlSaud|Venus|
 
 
