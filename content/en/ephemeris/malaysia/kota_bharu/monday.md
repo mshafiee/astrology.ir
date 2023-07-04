@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'15.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|9°37'10.10" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|9°37'10.10" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°26'38.84" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|10°48'40.37" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|21°58'52.26" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|12°56'26.11" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|3°3'11.77" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|10°48'46.62" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|21°59'12.86" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|12°56'31.18" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|2°29'31.83" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Jupiter|Saturn|Scorpio|Sun|Mercury|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|7°1'15.17" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|9°37'10.57" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|25°26'34.26" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|10°48'40.37" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|21°58'52.26" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|12°56'26.11" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°3'11.77" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|9°37'10.10" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|25°26'38.84" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°48'46.62" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|21°59'12.86" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|12°56'31.18" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°29'31.83" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mars|Venus|Sagittarius|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루

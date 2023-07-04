@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°54'30.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°17'43.57" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|27°53'51.47" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|14°41'0.04" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°13'28.78" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|21°34'49.08" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|4°18'10.54" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|6°54'30.04" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|10°17'43.16" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|27°53'54.07" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|14°41'3.21" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|24°13'41.05" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|21°34'52.01" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°37'47.91" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Sun|Mars|Aquarius|Moon|Jupiter|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°54'30.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°17'43.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°53'51.47" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|14°41'0.04" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|24°13'28.78" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|21°34'49.08" |Cancer|Tarf|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|10°17'43.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°53'54.07" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|14°41'3.21" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°13'41.05" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|21°34'52.01" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|3°37'47.91" |Pisces|FarghAlMuqaddam|Saturn|
 
 

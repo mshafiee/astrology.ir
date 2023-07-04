@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°55'35.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°11'51.79" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|27°32'14.41" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|14°6'46.96" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°54'59.76" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|20°20'6.25" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|26°1'50.36" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|10°11'54.08" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|27°32'18.81" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|14°7'3.71" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°55'24.78" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°20'18.82" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|24°43'35.51" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Mars|Mars|Saturn|Jupiter|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mars|Mars|Aquarius|Moon|Jupiter|
-|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°55'35.05" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°11'54.08" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|10°11'54.08" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|27°32'18.81" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|14°7'3.71" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|23°55'24.78" |Leo|Sarfrah|Mars|

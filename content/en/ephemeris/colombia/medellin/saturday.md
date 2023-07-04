@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°51'45.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°31'32.80" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|28°45'55.84" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|16°2'45.32" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°55'11.29" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|24°32'13.17" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|25°14'5.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|10°31'34.59" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|28°46'0.46" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|16°3'0.65" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|24°55'37.70" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|24°32'24.86" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|24°38'31.93" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°51'45.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°31'34.66" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|10°31'34.66" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|28°46'0.35" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|16°3'0.67" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|24°55'37.20" |Leo|Sarfrah|Mars|
