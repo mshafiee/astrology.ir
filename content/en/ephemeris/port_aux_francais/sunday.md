@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°50'23.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°38'3.63" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|10°38'3.63" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|29°10'43.69" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|16°41'49.09" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°14'18.01" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|25°55'25.51" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|4°31'36.70" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|16°41'36.72" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|25°13'52.98" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|25°55'15.75" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|5°2'51.24" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°50'23.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°38'4.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°10'40.15" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|16°41'45.02" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°14'0.71" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°55'21.44" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|5°24'55.93" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|10°38'2.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°10'39.18" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|16°41'36.72" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|25°13'52.98" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°55'15.75" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|5°2'51.24" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰

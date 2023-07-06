@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°54'35.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°17'15.44" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|10°17'15.44" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|27°52'10.97" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|14°38'20.67" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|24°12'14.24" |Cancer|Tarf|Moon|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°54'35.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°17'15.44" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°52'10.97" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|14°38'20.67" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|10°17'13.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°52'5.56" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|14°38'4.85" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|24°12'14.24" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|21°28'57.37" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|2°57'45.28" |Pisces|FarghAlMuqaddam|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

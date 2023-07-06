@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°57'56.38" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|9°58'27.05" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°43'1.23" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|12°49'21.64" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°11'46.58" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|17°28'5.21" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|4°15'52.36" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|9°58'26.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°43'0.95" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|12°49'20.83" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°11'45.16" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|17°28'4.58" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|4°21'19.08" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mars|Jupiter|Sagittarius|Moon|Jupiter|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°57'56.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|9°58'26.96" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|26°43'0.95" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|12°49'20.83" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|23°11'45.16" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°28'4.58" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|9°58'26.95" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|26°43'1.16" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|12°49'21.17" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|23°11'46.18" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°28'4.87" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|4°21'19.08" |Aquarius|SaadAlSaud|Venus|
 
 

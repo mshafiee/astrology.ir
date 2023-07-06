@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'8.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|9°57'14.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°38'36.96" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|12°42'25.32" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°7'46.29" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|17°12'34.09" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°19'38.10" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|9°57'14.36" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°38'31.42" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|12°42'15.20" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°7'19.63" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|17°12'25.85" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°43'49.41" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mars|Jupiter|Sagittarius|Moon|Jupiter|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°58'8.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|9°57'14.36" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|26°38'36.96" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|12°42'25.32" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|23°7'46.29" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°12'34.09" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°19'38.10" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|9°57'14.36" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|26°38'31.42" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|12°42'15.20" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|23°7'19.63" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°12'25.85" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°43'49.41" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Sagittarius|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Capricorn|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>☍ Opp|<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

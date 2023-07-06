@@ -1,6 +1,6 @@
 ---
-date: 2023-07-04T00:00:00+02:00
-lastmod: 2023-07-04T00:00:00+02:00
+date: 2023-07-11T00:00:00+02:00
+lastmod: 2023-07-11T00:00:00+02:00
 title: Longyearbyen Tuesday
 slug: tuesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Tuesday, 04 Jul 2023
+description: 🗓 Tuesday, 11 Jul 2023
 
 toc: false
 ---
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
-|♓ Pisces|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
+|♒ Aquarius|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
-|♈ Aries|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
+|♓ Pisces|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -336,11 +336,11 @@ Position of planets based on tropical calculations at sunrise
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub> |<sub>□ Sqr|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**♂ Mars**|<sub>☍ Opp|<sub>△ Trn|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔
