@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°45'57.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°57'35.82" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|0°26'38.04" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|6°45'57.84" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'35.48" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|0°26'34.40" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|18°40'49.32" |Gemini|Dhira|Mars|
 |♀ Venus|Direct|26°7'10.83" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|0°4'47.29" |Cancer|Nathrah|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'57.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°57'35.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°26'34.40" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|18°40'49.32" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°7'10.83" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°4'47.29" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°17'39.44" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'35.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°26'38.04" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|18°40'57.47" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°7'30.86" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°4'54.14" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°8'46.42" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Giaounte, Jande, Jaunde, Jaundeh, Jaundeo, Jaundė, Jaúnde, Jánde, YAO, Yaounde, Yaoundé, Yaunde, Yaundé, Yawunde, iaunde, ya wen de, ya'unde, yaunde, yavunte, yawndy, yaxunde, yaywndh, ye wen de, Γιαουντέ, Јаунде, Яунде, Яўндэ, Յաունդե, יאונדה, יאונדע, ياوندي, یاؤندے, یائونده, یائوندێ, یاونڈی, याउंदे, ਯਾਊਂਦੇ, யாவுண்டே, ยาอุนเด, ཡོན་དྷི།, იაუნდე, ያዉንዴ, ヤウンデ, 耶溫得, 雅温得, 야운데

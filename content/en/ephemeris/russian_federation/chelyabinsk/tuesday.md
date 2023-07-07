@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°46'28.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°55'23.54" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|0°17'57.94" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|18°27'20.25" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|26°1'42.50" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|29°36'50.56" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|29°52'26.56" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|10°55'23.54" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|0°17'55.09" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|18°27'18.56" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|26°1'28.70" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|29°36'48.08" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°39'14.09" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Saturn|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Taurus|Moon|Jupiter|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°46'28.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°55'23.54" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|10°55'23.54" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°17'57.94" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|18°27'20.25" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|26°1'42.50" |Leo|Sarfrah|Mars|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°56'6.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°9'1.43" |Aries|Sharatain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|10°9'1.43" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|27°21'42.09" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|13°50'18.45" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°45'44.78" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|19°43'19.29" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|22°2'28.97" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|23°46'8.55" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|19°43'29.00" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|20°44'26.71" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°56'7.13" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°9'0.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°21'37.55" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|6°56'6.37" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|10°9'1.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°21'42.09" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|13°50'6.00" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|23°45'44.78" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|19°43'19.29" |Cancer|Tarf|Mercury|

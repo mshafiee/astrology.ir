@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°52'48.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°26'21.87" |Aries|Sharatain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|10°26'21.87" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|28°26'17.39" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|15°32'0.23" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°40'3.06" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|23°25'38.06" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|17°2'40.26" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|15°32'0.62" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|24°40'6.54" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|23°25'38.60" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|16°49'6.76" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°52'48.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°26'22.13" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°26'16.59" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|15°32'0.23" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|24°40'3.06" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|23°25'38.06" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|17°2'40.26" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|10°26'21.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°26'11.43" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|15°31'47.91" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°39'35.75" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°25'28.16" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|18°8'25.64" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Capricorn|Sun|Mars|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Venus|Jupiter|Virgo|Sun|Jupiter|
+|☾ Moon|Mercury|Jupiter|Libra|Sun|Jupiter|
 
 
 {{< /tab >}}

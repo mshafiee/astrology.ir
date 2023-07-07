@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'56.42" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°57'36.03" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|0°26'48.17" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|18°41'4.56" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|26°7'32.93" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|0°5'21.71" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°1'41.59" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'38.41" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|0°26'48.25" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|18°41'13.48" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|26°7'37.52" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|0°5'27.16" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°12'35.25" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'56.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°57'36.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°26'48.17" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|18°41'4.56" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°7'32.93" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°5'21.71" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°1'41.59" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'38.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°26'48.25" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|18°41'13.48" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°7'37.52" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°5'27.16" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°12'35.25" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Mars|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Sun|Mars|Leo|Sun|Sun|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라

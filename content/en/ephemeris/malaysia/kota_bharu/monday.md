@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°48'40.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°45'53.01" |Aries|Sharatain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|10°45'53.01" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|29°40'51.44" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|17°29'9.68" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|25°36'19.97" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°35'24.83" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|16°2'43.52" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|17°29'9.70" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|25°36'20.37" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°35'24.88" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|16°1'0.99" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°48'40.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°45'53.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°40'51.44" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|17°29'9.68" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°36'19.97" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°35'24.83" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|16°2'43.52" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|10°45'53.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°40'46.97" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|17°29'3.49" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|25°35'57.70" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|27°35'18.95" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|16°56'33.63" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Jupiter|Capricorn|Sun|Mars|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
+|☾ Moon|Mercury|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
