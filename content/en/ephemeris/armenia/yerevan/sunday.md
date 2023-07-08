@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°50'31.25" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°37'27.47" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|29°8'25.33" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|16°38'13.13" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°12'38.85" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|25°47'42.57" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°33'41.24" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|10°37'27.24" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|29°8'19.49" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|16°38'0.77" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|25°12'7.63" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|25°47'32.28" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|4°34'42.20" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°50'31.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°37'26.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°8'19.99" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|16°38'0.58" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°12'9.97" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°47'32.36" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|4°22'46.59" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|10°37'27.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°8'19.49" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|16°38'0.77" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|25°12'7.63" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°47'32.28" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|4°34'42.20" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ayrivan, Djerevan, EVN, Eireavan, Eireaván, Ereban, Erehvan, Ereun, Erevan, Erevan osh, Erevana, Erevano, Erevanum, Erevàn, Ereván, Erevāna, Erewan, Erivan, Eriwan, Erywan, Erywań, Gierevan, Ierevan, Iereván, Iravan, Jerevan, Jerevanas, Jerevani, Jereván, Jerewan, Jerjewan, Revan, Yerevan, Yervandavan, Yerêvan, Yiriwan, Yèrèvan, Yérévan, ayrwan, ereban, erevani, iyerebhana, shhr ayrwan, ye li wen, yeleban, yeravana pranta, yere wan, yerevan, yerevana, yerevhana, yryfan, yrywan, Èrevan, Êrîvan, İrəvan, Γιερεβάν, Ερεβάν, Єреван, Јереван, Ереван, Ереван ош, Ерэван, Երեվան, Երևան, יערעוואן, ירוואן, ایروان, شهر ایروان, يريفان, يېرېۋان, یریوان, یەریڤان, येरवान प्रान्त, येरेवान, येरेव्हान, ইয়েরেভান, யெரெவான், เยเรวาน, ཡེ་རེ་ཝན།, ერევანი, ዬሬቫን, エレバン, 葉里溫, 예레반

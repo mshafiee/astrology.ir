@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'54.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°57'43.10" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|0°27'15.88" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|18°41'49.21" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|26°7'54.90" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|0°6'50.75" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°15'27.32" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'45.26" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|0°27'15.25" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|18°41'55.81" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|26°7'55.14" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|0°6'54.42" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°22'32.13" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'54.77" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°57'45.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°27'15.88" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|18°41'49.21" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°7'54.90" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°6'50.75" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°15'27.32" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'45.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°27'15.46" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|18°41'55.80" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|26°7'56.08" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°6'54.53" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°18'9.31" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Mars|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Sun|Mars|Leo|Sun|Sun|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: IBA, Ibadan, Ibadan shaary, Ibadana, Ibadanas, Ibadano, Ibadán, abadan, aybadan, ibadan, ibadana, yi ba dan, Ìbàdàn, İbadan, Ібадан, Ибадан, Ибадан шаары, איבדאן, إبادان, إيبادان, ابادان, ਇਬਾਦਾਨ, イバダン, 伊巴丹, 이바단

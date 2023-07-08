@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°50'25.63" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°37'53.46" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|29°10'4.45" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|16°40'49.24" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°13'54.14" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|25°53'13.55" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|4°10'55.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|6°50'26.61" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|10°37'52.27" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|29°9'59.17" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|16°40'35.01" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|25°13'25.06" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|25°53'2.28" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|4°49'1.65" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°50'25.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°37'53.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°10'3.04" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|16°40'37.17" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°13'42.85" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°53'5.27" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|3°40'51.53" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|10°37'52.27" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°9'59.17" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|16°40'35.01" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|25°13'25.06" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°53'2.28" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|4°10'55.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Bort Lois, Po-Loui, Por Loui, Por-Loui, Port Lois, Port Louis, Port Louis Town, Port Lui, Port Luis, Port Luisas, Port Luiz, Port-Louis, Port-Lui, Port-Luiso, Port-lui, Portlui, Portluī, Portus Ludovici, Puerto Louis, Pò-Loui, bwr lwys, lu yi gang, phxrt hluys, porata lu'i, port luyis, porta lu'i, porta lu'isa, poteulu-iseu, potoruisu, pwr lwʼy, Πορ Λουί, Πορ-Λουί, Порт Луи, Порт Луис, Порт-Луи, Порт-Луі, Порт-Луї, Պորտ Լուի, פור לואי, بور لويس, پورت‌لوئیس, پورٹ لوئس, پورٹ لوئی, پۆرت لویس, पोर्ट लुई, पोर्ट लुईस, পোর্ট লুইস, ਪੋਰਟ ਲੂਈ, ପୋର୍ଟ ଲୁଇସ, போர்ட் லூயிஸ், പോർട്ട് ലൂയിസ്, พอร์ตหลุยส์, ལོ་ཡི་སི་གྲུ་ཁ།, პორტ-ლუი, ፖርት ሉዊስ, ポートルイス, 路易港, 포트루이스
