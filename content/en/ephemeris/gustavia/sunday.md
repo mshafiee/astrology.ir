@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°49'50.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°40'36.23" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|29°20'36.36" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|16°57'15.41" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°21'41.15" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|26°28'15.52" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|7°35'48.15" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|10°40'38.09" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|29°20'36.19" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|16°57'21.82" |Gemini|HanAh|Mars|
+|♀ Venus|Pre-Retrograde Shadow|25°21'43.02" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|26°28'19.51" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|8°14'55.65" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°49'49.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°40'36.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°20'36.36" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|16°57'15.41" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°21'43.02" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|6°49'50.05" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|10°40'38.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°20'36.19" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|16°57'21.82" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|25°21'43.02" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|26°28'19.51" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|8°14'55.65" |Aries|Sharatain|Mars|
 

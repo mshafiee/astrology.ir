@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|11°19'42.41" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|1°55'21.75" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|20°59'50.76" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°0'13.57" |Cancer|Jabhah|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°0'13.57" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|4°45'57.54" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|4°44'33.64" |Taurus|Thurayya|Mercury|
 
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°40'18.11" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Pre-Retrograde Shadow|11°19'42.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°55'21.75" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|20°59'50.76" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|26°59'41.01" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|1°55'16.21" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|20°59'37.94" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|26°59'41.01" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|4°45'46.63" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|4°11'30.92" |Gemini|HaqAh|Jupiter|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

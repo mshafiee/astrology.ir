@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|10°57'41.08" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|0°26'58.75" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|18°41'29.75" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|26°7'43.76" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|0°5'55.87" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°46'46.82" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|26°7'43.76" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|0°6'1.15" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°15'49.51" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|10°57'41.08" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°26'58.75" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|18°41'29.75" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°7'43.76" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°5'55.87" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°46'46.82" |Taurus|Thurayya|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|26°7'43.76" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°6'1.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°15'49.51" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: LAD, Loanda, Louanda, Louanta, Luand, Luanda, Luandae, Luando, Lwanda, Lúanda, Saint Paul de Loanda, Sao Paolo de Loanda, Sao Paulo da Assuncao de Luanda, Sao Paulo de Loanda, Sao Paulo de Luanda, St Paul de Loanda, São Paolo de Loanda, São Paulo da Assunção de Luanda, São Paulo de Loanda, São Paulo de Luanda, lu'anda, luanda, luo an da, luvanta, luxanda, luyanda, lwanda, ruanda, Λουάντα, Луандæ, Луанда, Լուանդա, לואנדה, לואנדע, لوآندا, لواندا, لونڈا, लुआंडा, लुआण्डा, লুয়ান্ডা, ਲੁਆਂਦਾ, லுவாண்டா, ลูอันดา, ལའུན་ཌ།, ლუანდა, ሏንዳ, ルアンダ, 罗安达, 루안다

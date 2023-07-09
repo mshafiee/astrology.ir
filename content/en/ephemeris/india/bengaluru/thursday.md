@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°41'48.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|11°14'5.94" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|1°32'32.63" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|6°41'47.68" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|11°14'7.15" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|1°32'38.17" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|20°24'18.87" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|26°47'45.18" |Cancer|Jabhah|Moon|
+|♀ Venus|Pre-Retrograde Shadow|26°47'45.18" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|3°35'4.52" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|26°53'53.79" |Aries|Thurayya|Venus|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°41'48.75" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°14'5.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°32'32.63" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|20°24'3.44" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|26°47'11.77" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°34'52.16" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|26°6'57.90" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|6°41'47.68" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|11°14'7.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°32'38.17" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|20°24'18.87" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|26°47'45.18" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|3°35'4.52" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|26°53'53.79" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Sun|Venus|Virgo|Sun|Sun|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}

@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|10°36'33.44" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|29°4'58.99" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|16°32'47.66" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|25°9'57.24" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|25°36'12.61" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|2°29'53.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|25°9'59.97" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|25°36'12.96" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|2°18'6.26" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°50'42.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°36'33.71" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°4'58.38" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|16°32'47.51" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°9'57.24" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°36'12.61" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°29'53.64" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|10°36'33.44" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°4'58.99" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|16°32'47.66" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|25°9'59.97" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°36'12.96" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°18'6.26" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>☌ Cnj|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Molotov, PEE, Perem, Perm, Perm', Perma, Perme, Permia, Permjo, Permė, Perym, bi er mu, byrm, parma, peiy rm, peleum, perumi, prm, pyrm, Περμ, Молотов, Перĕм, Перем, Перм, Пермь, Перым, Пєрмь, Պերմ, פרם, بيرم, پرم, پیرم, पर्म, เปียร์ม, პერმი, ペルミ, 彼尔姆, 페름

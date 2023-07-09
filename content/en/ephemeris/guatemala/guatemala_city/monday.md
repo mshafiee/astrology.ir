@@ -300,19 +300,19 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°47'32.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°50'48.13" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|29°59'55.69" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|17°59'0.36" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|25°49'10.17" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|28°38'11.22" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|23°39'53.20" |Pisces|Rescha|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|10°50'48.79" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|0°0'1.53" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|17°59'14.12" |Gemini|Dhira|Mars|
+|♀ Venus|Pre-Retrograde Shadow|25°49'42.51" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|28°38'22.54" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|23°15'34.65" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mercury|Mercury|Saturn|Saturn|
 |♃ Jupiter|Venus|Venus|Sun|Jupiter|
-|♂ Mars|Saturn|Saturn|Jupiter|Mercury|
+|♂ Mars|Jupiter|Saturn|Sun|Venus|
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
@@ -323,7 +323,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Jupiter|Jupiter|Aries|Sun|Saturn|
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
-|♂ Mars|Mercury|Jupiter|Gemini|Sun|Mars|
+|♂ Mars|Sun|Mars|Leo|Sun|Sun|
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Taurus|Moon|Jupiter|
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|10°50'48.79" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°0'1.53" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|17°59'14.12" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|25°49'42.51" |Leo|Sarfrah|Mars|
+|♀ Venus|Pre-Retrograde Shadow|25°49'42.51" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|28°38'22.54" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|23°15'34.65" |Aries|Butain|Venus|
 

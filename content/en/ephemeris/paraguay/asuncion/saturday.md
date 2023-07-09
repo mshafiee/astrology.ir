@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|10°31'27.72" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|28°45'34.03" |Cancer|Jabhah|Moon|
 |☉ Sun|Direct|16°2'18.56" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°55'14.57" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|24°30'56.38" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|24°34'25.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Pre-Retrograde Shadow|24°54'42.54" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|24°30'44.83" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°40'51.12" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Mars|Jupiter|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°51'46.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°31'27.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°45'34.03" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|16°2'18.56" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|24°54'42.54" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|10°31'26.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°45'28.02" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|16°2'4.25" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|24°54'42.54" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|24°30'44.83" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|25°40'51.12" |Pisces|Rescha|Mars|
 
