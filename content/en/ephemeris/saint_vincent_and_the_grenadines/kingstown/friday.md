@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°38'25.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|11°26'31.03" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|2°23'21.43" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|21°43'36.78" |Gemini|Dhira|Sun|
-|♀ Venus|Pre-Retrograde Shadow|27°14'43.54" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|6°12'12.65" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|14°32'3.90" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°26'31.13" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|2°23'15.19" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|21°43'24.29" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|27°14'7.38" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|6°12'1.36" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|13°59'28.67" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Mars|Jupiter|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°38'25.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°26'31.13" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°23'15.19" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|21°43'24.29" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|27°14'7.38" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|6°12'1.36" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|11°26'31.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°23'21.43" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|21°43'36.78" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|27°14'43.54" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|6°12'12.65" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|13°59'28.67" |Gemini|HanAh|Mars|
 
 

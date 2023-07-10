@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°50'46.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°36'17.39" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|29°3'50.29" |Cancer|Jabhah|Moon|
-|☉ Sun|Direct|16°31'2.26" |Gemini|HanAh|Mars|
-|♀ Venus|Pre-Retrograde Shadow|25°8'54.61" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|25°32'31.04" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|2°50'0.71" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|10°36'16.87" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|29°3'55.04" |Cancer|Jabhah|Moon|
+|☉ Sun|Direct|16°31'9.45" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|25°9'18.56" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|25°32'37.58" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|1°45'21.79" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°50'46.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|10°36'16.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°3'55.04" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|16°31'9.45" |Cancer|Tarf|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|25°9'18.56" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°32'37.58" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°45'1.66" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|10°36'16.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°3'55.03" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|16°31'9.46" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|25°9'18.49" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°32'37.57" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°45'21.79" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
