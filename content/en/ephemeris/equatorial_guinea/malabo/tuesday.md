@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'56.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°57'40.03" |Aries|Sharatain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'40.03" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|0°26'54.64" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|18°41'23.49" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|26°7'41.68" |Cancer|Jabhah|Moon|
+|♀ Venus|Pre-Retrograde Shadow|26°7'41.68" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|0°5'47.80" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|3°14'55.53" |Aries|Sharatain|Mars|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'56.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°57'40.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°26'49.47" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|18°41'13.73" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°7'13.84" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°5'39.18" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°42'26.18" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'40.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°26'54.64" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|18°41'23.49" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|26°7'41.68" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°5'47.80" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°14'55.53" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ciudad de Malabo, Malaba, Malabas, Malabo, Malabó, Malampo, Port Clarence, Rev Malebo, SSG, Santa Isabel, ma la bo, mala bo, malabo, malabw, malapo, mallabo, marabo, mlabw, Μαλάμπο, Малаба, Малабо, Մալաբո, מלאבו, مالابو, مالابۆ, ملابو, मलाबो, ਮਲਾਬੋ, மலாபோ, มาลาโบ, མ་ལ་བོ།, მალაბო, ማላቦ, マラボ, 馬拉博, 말라보

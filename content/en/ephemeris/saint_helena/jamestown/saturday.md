@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°36'11.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|11°34'15.79" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|2°55'31.74" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|22°33'52.05" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°29'46.96" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°49'57.72" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|25°29'5.95" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|6°36'11.24" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|11°34'14.09" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|2°55'35.05" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|22°33'52.66" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|27°30'2.69" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°50'0.48" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|24°59'46.35" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Sun|Mars|Virgo|Sun|Sun|
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
-|♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
+|♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Libra|Moon|Moon|
-|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°36'11.69" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|11°34'15.19" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|11°34'15.19" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°55'33.94" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|22°33'54.22" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|27°29'58.37" |Leo|Sarfrah|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°29'58.37" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|7°50'0.52" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|25°25'31.35" |Gemini|Dhira|Sun|
 

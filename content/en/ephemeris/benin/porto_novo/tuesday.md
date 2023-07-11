@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'54.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°57'47.94" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|0°27'22.13" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|18°42'5.99" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|26°7'44.85" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'47.81" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|0°27'25.32" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|18°42'11.58" |Gemini|Dhira|Mars|
+|♀ Venus|Pre-Retrograde Shadow|26°8'1.69" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|0°7'26.94" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|3°26'14.81" |Aries|Sharatain|Mars|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'54.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°57'47.81" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'47.81" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°27'25.32" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|18°42'5.99" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°7'44.85" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°7'21.89" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°46'28.23" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|18°42'11.58" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|26°8'1.69" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°7'26.94" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°26'14.81" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Borto-Novo, Porta-Nova, Porto Neuvo, Porto Nobo, Porto Novas, Porto Novo, Porto-Novo, Portonovo, Portus Novus, Poto-Novo, Pòrto Neuvo, Pòto-Novo, Pôrto-Novo, bo duo nuo fu, bo tu nu bu, bwrtw nwfw, poleutonobo, porato-novo, porto-novho, porutonobo, pwrtw nwbw, pwrtw nwww, pxr to-no wo, xin gang, Πόρτο Νόβο, Πόρτο-Νόβο, Порта-Нова, Порто Ново, Порто-Ново, Պորտո Նովո, פארטא-נאווא, פורטו נובו, بورتو نوفو, پورتو نووو, پورٹو نووو, پۆرتۆ نۆڤۆ, पोर्तो-नोव्हो, ਪੋਰਤੋ-ਨੋਵੋ, ปอร์โต-โนโว, པོར་ཊོ་-ནོ་བོ།, პორტო-ნოვო, ፖርቶ ኖቮ, ポルトノボ, 新港, 波圖奴埠, 波多诺伏, 포르토노보

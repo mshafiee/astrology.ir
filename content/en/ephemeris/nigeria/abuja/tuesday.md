@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'56.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|10°57'38.66" |Aries|Sharatain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'38.66" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|0°26'49.26" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|18°40'57.96" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|26°7'5.06" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|0°5'17.18" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°49'2.99" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|18°41'15.07" |Gemini|Dhira|Mars|
+|♀ Venus|Pre-Retrograde Shadow|26°7'38.19" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|0°5'30.43" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°12'57.13" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°45'56.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|10°57'38.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°26'43.74" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|18°40'57.96" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|26°7'5.06" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°5'17.18" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°49'2.99" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'38.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°26'49.26" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|18°41'15.07" |Cancer|Tarf|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|26°7'38.19" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°5'30.43" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°12'57.13" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자

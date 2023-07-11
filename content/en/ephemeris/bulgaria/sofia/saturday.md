@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°36'36.25" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|11°32'51.40" |Aries|Sharatain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|11°32'51.40" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|2°49'43.46" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|22°24'46.61" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°26'57.05" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°32'14.58" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|21°53'45.02" |Taurus|HaqAh|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|27°27'16.85" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°32'23.47" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|23°21'50.78" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Venus|Jupiter|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Libra|Moon|Moon|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°36'36.25" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|11°32'51.40" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|11°32'51.40" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°49'43.46" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|22°24'46.61" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|27°27'16.85" |Leo|Sarfrah|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°27'16.85" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|7°32'23.47" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|23°21'50.78" |Gemini|Dhira|Sun|
 
