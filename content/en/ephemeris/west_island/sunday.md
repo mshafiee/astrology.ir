@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'20.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|11°40'26.23" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°21'38.50" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°14'35.67" |Gemini|Dhira|Sun|
-|♀ Venus|Pre-Retrograde Shadow|27°41'15.63" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|9°8'3.24" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°12'53.34" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|11°40'24.99" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°21'33.04" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°14'20.03" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|27°40'40.37" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|9°7'50.64" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°44'1.80" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'20.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°40'26.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°21'38.50" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|23°14'35.67" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|27°41'15.63" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°8'3.24" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|4°12'53.34" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|11°40'24.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°21'33.04" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|23°14'20.03" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°40'40.37" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°7'50.64" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|2°44'1.80" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: weseuteu seom, 웨스트 섬

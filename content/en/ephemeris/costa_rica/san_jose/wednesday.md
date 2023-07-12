@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|6°43'5.01" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Pre-Retrograde Shadow|11°9'9.29" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|1°12'37.21" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|19°52'59.43" |Gemini|Dhira|Mars|
-|♀ Venus|Pre-Retrograde Shadow|26°36'9.21" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|2°32'0.88" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|19°48'7.12" |Aries|Butain|Sun|
+|☉ Sun|Direct|19°52'51.82" |Gemini|Dhira|Mars|
+|♀ Venus|Pre-Retrograde Shadow|26°35'42.49" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|2°31'53.48" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|20°11'49.64" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Saturn|Venus|Jupiter|Mercury|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Moon|Moon|Leo|Moon|Moon|
-|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°43'5.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°9'9.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°12'37.21" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|19°52'59.43" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|6°43'6.28" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|11°9'9.96" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°12'32.22" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|19°52'51.82" |Cancer|Tarf|Mercury|
 |♀ Venus|Pre-Retrograde Shadow|26°35'42.49" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|2°31'53.48" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|20°11'49.64" |Taurus|Dabaran|Saturn|

@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|23°12'38.69" |Gemini|Dhira|Sun|
 |♀ Venus|Pre-Retrograde Shadow|27°40'45.35" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|9°4'19.73" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°19'32.86" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|3°50'32.26" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'26.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°40'9.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°20'18.13" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|23°12'30.19" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|27°40'15.30" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°4'11.13" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°19'32.86" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|11°40'8.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°20'23.37" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|23°12'38.69" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°40'45.35" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°4'19.73" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°50'32.26" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Kyatpyay, Kyetpyay, NYT, Naipidau, Nay Pyi Taw, Naypyidaw, Naypyitaw, Ne Pyi Daw, Pyinmana, naepido, nepido, 내피도, 네피도

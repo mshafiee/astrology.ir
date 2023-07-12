@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°45'59.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|10°57'24.59" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|0°25'53.78" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|18°39'48.10" |Gemini|Dhira|Mars|
-|♀ Venus|Pre-Retrograde Shadow|26°7'1.97" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|0°2'31.04" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°52'31.37" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|6°46'0.90" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|10°57'24.55" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|0°25'48.73" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|18°39'38.17" |Gemini|Dhira|Mars|
+|♀ Venus|Pre-Retrograde Shadow|26°6'34.66" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|0°2'22.38" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°16'29.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|10°57'24.59" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°25'53.78" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|18°39'48.10" |Cancer|Tarf|Mercury|
-|♀ Venus|Pre-Retrograde Shadow|26°7'1.84" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|0°2'30.99" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°52'43.26" |Taurus|Thurayya|Mercury|
+|♀ Venus|Pre-Retrograde Shadow|26°6'34.66" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|0°2'22.38" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°16'29.41" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BGF, Bangi, Bangis, Bangui, Mpan'nkoui, ban ji, bang-gi, bangi, bangwyy, Μπανγκουί, Банги, Бангі, בנגואי, بانگوئی, ባንጊ, バンギ, 班基, 방기

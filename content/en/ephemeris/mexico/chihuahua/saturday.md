@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|22°46'51.60" |Gemini|Dhira|Sun|
 |♀ Venus|Pre-Retrograde Shadow|27°33'40.67" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|8°14'57.64" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|28°15'7.79" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|26°55'4.03" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Venus|Jupiter|Moon|Saturn|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Libra|Moon|Moon|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|6°35'36.72" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Pre-Retrograde Shadow|11°36'13.70" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°3'51.94" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|22°46'51.60" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|27°33'40.67" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|8°14'57.64" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|28°15'7.79" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°46'41.41" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°33'29.52" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|8°14'51.29" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|26°55'4.03" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
