@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'28.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|11°40'1.46" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°19'53.54" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°11'52.25" |Gemini|Dhira|Sun|
-|♀ Venus|Pre-Retrograde Shadow|27°40'1.85" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|11°40'1.84" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°19'48.14" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°11'42.38" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|27°40'1.85" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|9°2'41.46" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|3°0'52.25" |Gemini|HaqAh|Jupiter|
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|11°40'1.46" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°19'53.54" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|23°11'52.25" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|27°40'33.31" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°2'41.46" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°0'52.25" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|27°40'33.31" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°2'50.91" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°41'36.12" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

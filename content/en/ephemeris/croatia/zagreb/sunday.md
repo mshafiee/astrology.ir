@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°33'59.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|11°41'40.41" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°26'49.64" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°22'37.32" |Gemini|Dhira|Sun|
-|♀ Venus|Pre-Retrograde Shadow|27°42'53.84" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|9°23'32.31" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°59'15.06" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|6°33'58.38" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|11°41'40.50" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°26'54.27" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°22'47.40" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|27°43'22.02" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|9°23'41.31" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|5°49'35.25" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°33'58.38" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°41'40.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°26'54.27" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|23°22'47.40" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|27°43'22.02" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°23'41.31" |Leo|Zubrah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|11°41'40.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°26'49.64" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|23°22'37.32" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|27°42'53.84" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°23'32.31" |Leo|Zubrah|Saturn|
 |☾ Moon|Direct|4°59'15.06" |Cancer|Nathrah|Venus|
 
 
