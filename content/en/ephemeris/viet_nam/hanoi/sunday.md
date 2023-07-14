@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'30.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|11°39'53.59" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°19'20.27" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°11'0.24" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°40'18.99" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|9°1'11.93" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°29'8.69" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|11°39'53.59" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°19'15.54" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°10'44.16" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|27°39'46.79" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|9°0'59.65" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°50'33.66" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'30.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°39'53.59" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°19'20.27" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|23°11'0.24" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|27°40'18.99" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°1'11.93" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°29'8.69" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|11°39'51.84" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°19'15.54" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|23°10'44.16" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|27°39'46.79" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°0'59.65" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|1°50'33.66" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이

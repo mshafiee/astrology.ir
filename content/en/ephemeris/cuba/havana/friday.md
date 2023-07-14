@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°38'18.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|11°26'55.55" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|2°25'2.97" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|21°46'15.26" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°15'33.28" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|6°17'23.34" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|15°5'21.47" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|6°38'17.83" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|11°26'53.43" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|2°25'3.14" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|21°46'8.03" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|27°15'30.01" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|6°17'19.41" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|13°55'3.62" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Mars|Jupiter|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Saturn|Sun|Virgo|Moon|Moon|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°38'18.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°26'55.55" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°26'55.55" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°25'2.97" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|21°46'15.26" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|27°15'33.28" |Leo|Sarfrah|Mars|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°37'7.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|11°31'2.89" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|2°42'13.87" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|22°12'55.97" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°23'21.88" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°9'43.84" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|19°21'8.82" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°31'4.87" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|2°42'18.42" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|22°13'12.52" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|27°23'52.82" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°9'56.23" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|20°59'0.67" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Venus|Jupiter|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°37'7.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°31'4.87" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°31'4.87" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°42'18.42" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|22°13'12.52" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|27°23'52.82" |Leo|Sarfrah|Mars|

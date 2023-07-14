@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°39'5.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|11°24'5.90" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|2°13'22.63" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|21°28'1.14" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|11°24'3.66" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|2°13'22.84" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|21°27'53.57" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|27°9'38.82" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|5°41'31.51" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|9°51'13.58" |Taurus|Dabaran|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°39'5.72" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°24'5.90" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|11°24'5.90" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°13'22.63" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|21°28'1.14" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|27°9'41.96" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°41'35.64" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|11°6'8.45" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|5°41'31.51" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|9°51'13.58" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Venus|Libra|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}

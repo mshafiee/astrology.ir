@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°27'46.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|12°0'54.89" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°0'52.99" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|4°50'14.87" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|25°32'33.28" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|28°12'4.26" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|13°25'41.54" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°57'51.45" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|25°32'38.54" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|28°12'5.15" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|13°25'43.65" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°25'46.56" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°27'46.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|12°0'52.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°50'15.47" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|25°32'33.28" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|28°12'4.26" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|13°25'41.54" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|12°0'54.89" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°50'14.87" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|25°32'38.54" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|28°12'5.15" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|13°25'43.65" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|2°57'51.45" |Leo|Jabhah|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Filip'smpournk, Filipsburg, Filipsburgas, Great Bay, Philipsburg, fei li pu si bao, fi lipsburkh, firippusuburufu, flpsbrg, fylypsbwrg  synt martn, pilipcuparku, pillibseubwileuheu, Φίλιπσμπουργκ, Филипсбург, Філіпсбург, فلپسبرگ, فیلیپسبورگ، سینت مارتن, பிலிப்சுபர்கு, ฟีลิปส์บืร์ค, ფილიპსბურგი, フィリップスブルフ, 菲利普斯堡, 필립스뷔르흐

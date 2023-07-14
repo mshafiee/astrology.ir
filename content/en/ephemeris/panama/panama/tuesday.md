@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°27'37.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|12°1'22.98" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|4°52'18.95" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|25°35'51.67" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|28°12'39.98" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|13°31'36.17" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|4°6'39.42" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|12°1'22.69" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|4°52'12.49" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|25°35'36.73" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|28°11'58.38" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|13°31'22.84" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°30'44.11" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°27'37.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|12°1'22.98" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°1'22.98" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|4°52'18.95" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|25°35'51.67" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|28°12'39.98" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|13°31'36.17" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°6'39.42" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|25°35'36.73" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|28°11'58.38" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|13°31'22.84" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°30'44.11" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Ciudad de Panama, Ciudad de Panamá, Ciutat de Panama, Ciutat de Panamà, PTY, Panama, Panama City, Panama Hiria, Panama by, Panama-Stadt, Panama-Urbo, Panama-stad, Panamurbo, Panamá, Pole tou Panama, Ziuda de Panama, Ziudá de Panamá, ba na ma cheng, panama si, panama siti, panamashiti, panamasiti, pnmh syty, shhr panama, Πόλη του Παναμά, Панама, פנמה סיטי, شهر پاناما, पनामा सिटी, ปานามาซิตี, ፓናማ ከተማ, パナマシティ, 巴拿馬城, 파나마 시, 파나마시티
