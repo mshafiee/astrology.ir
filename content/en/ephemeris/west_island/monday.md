@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°31'40.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|11°49'1.53" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°58'21.94" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|24°11'50.91" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°55'27.59" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|10°56'15.48" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|14°49'40.12" |Gemini|HanAh|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|11°49'2.47" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°58'18.15" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|24°11'46.25" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|27°55'6.62" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|10°56'9.93" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|16°4'5.56" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°31'40.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|11°49'1.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°58'21.94" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|24°11'50.91" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|27°55'27.59" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|10°56'15.48" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|16°24'30.11" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|11°49'2.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°58'18.15" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|24°11'46.25" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°55'6.62" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|10°56'9.93" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|16°4'5.56" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'39.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|11°39'26.60" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°17'26.67" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°7'59.31" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°39'30.94" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|8°55'31.05" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°20'32.55" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|11°39'26.85" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°17'25.37" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°8'1.19" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|27°39'26.27" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|8°55'31.08" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°47'55.72" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'39.00" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|11°39'26.60" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|11°39'26.60" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°17'26.09" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|23°7'59.31" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|27°39'30.94" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|8°55'31.05" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|2°20'32.55" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°8'1.80" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°39'29.99" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|8°55'31.95" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|2°47'19.87" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Lâm-kiaⁿ-chhī, NKG, Nam Kinh, Nam-kin-su, Namkin, Nan'czin, Nan'zhin, Nan-ching, Nan-ching-shih, Nanchino, Nanchinum, Nandzing, Nandzjina, Nandžing, Nang-ging, Nanjing, Nanjing Shi, Nankijn, Nankin, Nankinas, Nanking, Nankingo, Nankín, Nanquim, Nanquin, Nanquín, Nantsin'nk, Nanzging, Naņdzjina, Nàm-kîn-sṳ, Nàng-gĭng, hnan cing, namgyeong, nan jing, nan jing shi, nanajiga, nanajinga, nancin, nanjina, nanjing, nanjing si, nanjinga, nanjng, nanjyng, nanjyngh, nʼngyng, Ναντσίνγκ, Нанкин, Нанкинг, Нанкін, Наньжин, Наньцзин, Нәнҗиң, Նանկին, נאנגינג, نانجنگ, نانجينغ, نانجینگ, نەنجىڭ شەھىرى, नांजिंग, नानजिंग, नान्जिङ, ਨਾਨਜਿੰਗ, நாஞ்சிங், നാൻജിങ്, หนานจิง, နန်ကျင်းမြို့, ნანკინი, 南京, 南京市, 난징, 난징 시, 남경

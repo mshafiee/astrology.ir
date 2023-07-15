@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°33'0.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|11°44'49.63" |Aries|Sharatain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|11°44'49.63" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|3°40'20.42" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|23°43'45.44" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°48'45.36" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|10°3'23.82" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|10°29'40.67" |Gemini|HanAh|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°48'45.36" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|10°3'12.15" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|8°46'18.08" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Venus|Jupiter|Mars|Moon|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Venus|Scorpio|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°33'0.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|11°44'49.63" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|11°44'49.63" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°40'20.42" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|23°43'45.44" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|27°48'45.36" |Leo|Sarfrah|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°48'45.36" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|10°3'23.82" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|10°29'40.67" |Cancer|Nathrah|Mercury|
 

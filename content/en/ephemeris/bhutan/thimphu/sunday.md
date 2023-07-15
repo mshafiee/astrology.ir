@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'25.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|11°40'11.64" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°20'35.19" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°12'49.96" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°40'13.63" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|9°4'59.38" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°23'33.87" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|11°40'12.66" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°20'41.18" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°13'6.28" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|27°40'52.08" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|9°5'12.76" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°54'24.00" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'25.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|11°40'12.66" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|11°40'12.66" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°20'41.18" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|23°13'6.28" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|27°40'52.08" |Leo|Sarfrah|Mars|
+|♀ Venus|Pre-Retrograde Shadow|27°40'52.08" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|9°5'12.76" |Leo|Zubrah|Saturn|
 |☾ Moon|Direct|3°54'24.00" |Cancer|Nathrah|Venus|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부
