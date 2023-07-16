@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|12°3'55.02" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|5°3'32.98" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|25°53'20.30" |Gemini|Dhira|Sun|
-|♀ Venus|Pre-Retrograde Shadow|28°15'8.45" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|14°3'13.38" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|6°17'34.73" |Cancer|Nathrah|Venus|
+|♀ Venus|Pre-Retrograde Shadow|28°15'40.84" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|14°3'24.70" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|7°44'38.57" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mars|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
