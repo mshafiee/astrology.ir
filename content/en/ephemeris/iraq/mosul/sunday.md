@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|23°19'38.92" |Gemini|Dhira|Sun|
 |♀ Venus|Pre-Retrograde Shadow|27°42'34.58" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|9°17'41.62" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|5°14'52.16" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|5°14'55.10" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|6°34'7.04" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Pre-Retrograde Shadow|11°41'12.01" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°24'53.11" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|23°19'38.92" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|27°42'34.58" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°17'41.62" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|5°14'52.16" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°19'38.96" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°42'34.78" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°17'41.68" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|5°14'55.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

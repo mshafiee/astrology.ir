@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|6°34'25.10" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Pre-Retrograde Shadow|11°40'12.46" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|3°20'40.11" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°13'4.64" |Gemini|Dhira|Sun|
-|♀ Venus|Pre-Retrograde Shadow|27°40'51.63" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|9°5'9.55" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°53'58.07" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|23°12'57.56" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|27°40'31.54" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|9°5'3.14" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°21'15.88" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'25.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°40'12.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°20'40.11" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|23°13'4.64" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|27°40'51.63" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°5'9.55" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°53'58.07" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|11°40'12.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°20'36.71" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|23°12'57.56" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°40'31.54" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°5'3.14" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°21'15.88" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Flain-Fish-Kouv, Flaing Fish Kouv, Flajing Fish Kouv, Flajing-Fish-Kouv, Flayinq Fis Kouv, Flayinq Fiş Kouv, Flying Fish Cove, Kampong, The Settlement, fala'iga fisa kova, fei yu wan, flay xing fich khof, flayngh fysh kwf, flayyng fsh kww, peullaingpisikobeu, phla'inga phisa kova, pilaiyin pis kov, plaing-pishi, Флаинг Фиш Коув, Флайинг-Фиш-Коув, Флаін-Фіш-Коўв, Флајинг Фиш Коув, فلائینگ فش کوو, فلاينغ فيش كوف, फ्लाइंग फिश कोव, ਫ਼ਲਾਇੰਗ ਫ਼ਿਸ਼ ਕੋਵ, பிளையிங் பிஷ் கோவ், ฟลายอิงฟิชโคฟ, ფლაინგ-ფიში, フライング・フィッシュ・コーブ, 飞鱼湾, 플라잉피시코브

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'27.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|11°40'5.96" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°20'12.67" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|23°12'22.07" |Gemini|Dhira|Sun|
-|♀ Venus|Pre-Retrograde Shadow|27°40'41.20" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|9°3'47.85" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°47'49.49" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|11°40'6.80" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°20'8.49" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|23°12'16.27" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|27°40'17.92" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|9°3'41.52" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°31'18.69" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|3°20'12.67" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|23°12'22.07" |Cancer|Tarf|Moon|
 |♀ Venus|Pre-Retrograde Shadow|27°40'41.20" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°3'47.85" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°47'49.49" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|9°3'41.52" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°31'18.69" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Amphoe Phra Nakhon, BKK, Ban'nkok, Bancac, Bancocum, Bancoque, Bancác, Banghok, Bangkok, Bangkok Metropolis, Bangkoka, Bangkòk, Banguecoque, Bankok, Bankokas, Bankoko, Banqkok, Changwat Phra Nakhon, Krung Thep, Krung Thep Maha Nakhon, Krung Thep Maha Nakhon Amon Rattanakosin Mahintarayutthaya Maha Dilok Phop Noppharat Ratchathani Buri Rom Udom Ratchaniwet Maha Sathan Amon Phiman Awatan Sathit Sakka Thattiya Witsanukam Prasit, Krungdeb, Man-kuk, Màn-kuk, Phra Nakhon, Siayuthia, The City of Angels, bainkaka, bainkoka, bamkoka, bangkog, bangkwk, bankeakk, bankoku, bankwk, bngqwq, bnkak, byankak, byankaka, camraata byankaka, krungtheph, krungthephmhankhr, krungtheph‡, man gu, penkak, Μπανγκόκ, Бангкок, Банкок, Баҥкок, Բանգկոկ, באנגקאק, בנגקוק, بانكوك, بانکوک, بانکۆک, بانګکوک, بانگكوك, بنکاک, बँकॉक, बैंकक, बैंकॉक, চাংৱাত ব্যাংকক, ব্যাংকক, ਬੈਂਕਾਕ, பேங்காக், ಬ್ಯಾಂಕಾಕ್, ബാങ്കോക്ക്, බැංකොක්, กรุงเทพ, กรุงเทพมหานคร, กรุงเทพฯ, ບາງກອກ, པན་ཀོག, ဘန်ကောက်မြို့, ბანგკოკი, ባንኮክ, バンコク, 曼谷, 방콕

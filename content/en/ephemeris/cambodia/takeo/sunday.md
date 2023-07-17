@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|23°11'52.25" |Gemini|Dhira|Sun|
 |♀ Venus|Pre-Retrograde Shadow|27°40'33.31" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|9°2'50.91" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°41'28.69" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|3°41'36.12" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°34'28.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|11°40'1.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°19'53.54" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|23°11'52.25" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|27°40'33.31" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°2'50.91" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°41'36.12" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|11°40'2.32" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°19'49.49" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|23°11'46.83" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|27°40'10.87" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°2'44.89" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°27'20.04" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv
