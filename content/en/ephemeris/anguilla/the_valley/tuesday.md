@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°27'46.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|12°0'53.03" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|4°50'14.66" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|25°32'32.04" |Gemini|Dhira|Sun|
-|♀ Venus|Pre-Retrograde Shadow|28°12'1.73" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|13°25'39.68" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°53'5.82" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|12°0'54.79" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|4°50'14.43" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|25°32'37.86" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|28°12'5.02" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|13°25'42.41" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°25'36.26" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mars|Mars|Sagittarius|Moon|Moon|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°27'46.83" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|12°0'53.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°50'14.66" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|25°32'32.04" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|28°12'1.73" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|13°25'39.68" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°53'5.82" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|12°0'54.79" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°50'14.43" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|25°32'37.86" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|28°12'5.02" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|13°25'42.41" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°25'36.26" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: De Balei, El Valle, La-Valo, The Valley, Vali, Valis, Valley, Valli, bare, d wly, deobaelli, dy wyly, hwwʼly, ti velli, vali, wa li, Δε Βάλεϊ, Вали, Валли, Валлі, Валі, הוואלי, د ولی, دی ویلی, தி வேல்லி, เดอะแวลลีย์, ვალი, バレー, 瓦利, 더밸리

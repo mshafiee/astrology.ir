@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°27'35.24" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Pre-Retrograde Shadow|12°1'28.91" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|4°52'45.20" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|25°36'25.91" |Gemini|Dhira|Sun|
-|♀ Venus|Pre-Retrograde Shadow|28°12'43.83" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|13°32'47.65" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°39'25.35" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°52'40.29" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|25°36'24.90" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|28°12'18.31" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|13°32'42.45" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°22'29.33" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°27'35.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|12°1'28.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°52'45.20" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|25°36'32.52" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|28°12'47.26" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|13°32'50.71" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°39'25.35" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|12°1'29.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°52'40.29" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|25°36'24.90" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|28°12'18.31" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|13°32'42.45" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°22'29.33" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: SJO, San Chose, San Chosė, San Hose, San Jose, San Jose de Costa Rica, San Jose i Costa Rica, San José, San José de Costa Rica, San José i Costa Rica, San Joze, San Jozé, San Jusiy, San Khose, San Khoze, San Xose, San Xosé, San-Joseo, San-Khaseh, San-Khose, San-Xose, Sanhose, Sanhosē, Urbs Sancti Iosephi in Costarica, can hoce, san jwz, san khwsyh, san khwzh, san khwzے  kwsٹaryka, san-khose, sana hoje, sana hose, sana hoze, sanhose, sheng he xi, sn hwsh, syana hose, Σαν Χοσέ, Сан Хозе, Сан Хосе, Сан-Хасэ, Сан-Хосе, Սան Խոսե, סאן חוסה, סן חוסה, سان جوز, سان خوزه, سان خوزے، کوسٹاریکا, سان خوسيه, سان خوسې, सान होज़े, सान होजे, স্যান হোসে, ਸਾਨ ਹੋਸੇ, சான் ஹொசே, ซันโฮเซ, སན་ཇོ་སེ།, სან-ხოსე, ሳን ሆዜ, サンホセ, 聖荷西, 산호세

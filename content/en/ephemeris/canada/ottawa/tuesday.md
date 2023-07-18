@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°27'48.62" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Pre-Retrograde Shadow|12°0'49.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°49'52.31" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|25°32'2.49" |Cancer|Tarf|Moon|
-|♀ Venus|Pre-Retrograde Shadow|28°11'54.74" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|13°24'39.78" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°6'59.41" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°49'53.69" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|25°31'59.91" |Cancer|Tarf|Moon|
+|♀ Venus|Pre-Retrograde Shadow|28°11'59.16" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|13°24'39.70" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°54'39.72" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Atava, Otava, Otavo, Otawa, Ottaba, Ottahua, Ottava, Ottavae, Ottawa, YOW, atawa, atoya, attava, awtawa, otava, otawa, ottava, wo tai hua, xxttawa, AA¬²±, Οττάβα, Οτταβα, Атава, Отава, Оттавæ, Оттава, Օտտավա, אוטווה, אטאווא, أوتاوا, ئۆتاوا, اتاوا, اوتآوآ, اوٹاوا, اٹاوہ, ओटावा, অটোয়া, ਓਟਾਵਾ, ଓଟାୱା, ஒட்டாவா, ಆಟ್ಟಾವಾ, ഓട്ടവ, ออตตาวา, ཨོ་ཏ་ཝ།, အော့တဝမြို့, ოტავა, ኦታዋ, ᎠᏔᏩ, ᐊᑐᕚ/atavaa, オタワ, 渥太華, 오타와
