@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°12'32.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|12°41'11.91" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|7°56'38.78" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|0°21'54.20" |Cancer|Nathrah|Venus|
-|♀ Venus|Pre-Retrograde Shadow|28°36'23.78" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|21°50'17.42" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°24'53.72" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|12°41'13.43" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|7°56'37.82" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|0°21'57.21" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°36'22.43" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|21°50'17.61" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°55'58.68" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|12°41'13.43" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°56'37.82" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|0°21'57.21" |Leo|Jabhah|Saturn|
-|♀ Venus|Pre-Retrograde Shadow|28°36'22.43" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|28°36'22.43" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|21°50'17.61" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|2°55'58.68" |Libra|Ghafr|Moon|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Corctaun, Dzhordzh Taun, Dzhordzhtaun, Dzordz Taun, Dzordztaun, Dzordztaunas, Džordžtaunas, GCM, George Town, George Town pa Caymanoyane, George Town på Caymanøyane, Georgetown, Georgurbo, Tzortz Taoun, cxrc thawn, gwrg tʼwn, jarj tavun, jojitaun, jorjata'una, jwrj tawn, qiao zhi dui, qiao zhi dun, Τζωρτζ Τάουν, Џорџ Таун, Џорџтаун, Джордж Таун, Джорджтаун, Джорджтаўн, גורג טאון, جارج ٹاؤن، جزائر کیمین, جرج‌تاون، جزایر کیمن, جورج تاون, जॉर्जटाउन, ஜார்ஜ் டவுன், จอร์จทาวน์, ჯორჯტაუნი, ジョージタウン, 喬治敦, 조지타운
