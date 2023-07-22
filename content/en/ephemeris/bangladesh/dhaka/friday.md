@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°20'16.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|12°21'51.67" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|6°24'49.87" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|27°59'38.65" |Gemini|Dhira|Sun|
-|♀ Venus|Retrograde|28°31'19.31" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Direct|12°21'51.14" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|6°24'51.89" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|27°59'41.22" |Gemini|Dhira|Sun|
+|♀ Venus|Retrograde|28°31'31.07" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|17°48'9.80" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|3°44'27.16" |Leo|Jabhah|Saturn|
 
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°20'16.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|12°21'51.14" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°21'51.14" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|6°24'51.89" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|27°59'41.22" |Cancer|Jabhah|Moon|
 |♀ Venus|Retrograde|28°31'31.07" |Leo|Sarfrah|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: DAC, Daaka, Daca, Dacca, Dacca - dhaka, Dacca - ঢাকা, Daka, Dakah, Dakk, Dakka, Dakkae, Dakke, Dako, Deka, Dgaka, Dhaka, Dháka, Dhâkâ, Dəkkə, Mujib City, Ntaka, Ntakka, da ka, daka, dakka, dhaka, dhakka, dka, takka, thaka, Ντάκα, Ντάκκα, Даака, Дака, Даккæ, Дакка, Дакке, Дгака, Դաքքա, דאקא, דאקה, داكا, داکا, دكا, ڈھاکہ, ޑާކާ, ढाका, ঢাকা, ਢਾਕਾ, ઢાકા, ଢାକା, டாக்கா, ఢాకా, ಢಾಕಾ, ഢാക്ക, ඩකා, ธากา, དྷ་ཁ།, ဒါကာမြို့, დაკა, ዳካ, ダッカ, 达卡, 達卡, 다카

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°15'45.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|12°33'23.79" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|7°19'1.30" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|29°23'40.78" |Gemini|Dhira|Sun|
-|♀ Venus|Retrograde|28°36'2.74" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|20°12'31.79" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|20°52'31.23" |Leo|Zubrah|Mars|
+|♃ Jupiter|Direct|12°33'24.21" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|7°18'55.35" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|29°23'28.58" |Gemini|Dhira|Sun|
+|♀ Venus|Retrograde|28°35'22.77" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|20°12'19.66" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|19°30'46.01" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Sun|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°15'45.96" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|12°33'23.79" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|12°33'23.79" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°19'1.30" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|29°23'40.78" |Cancer|Jabhah|Moon|
 |♀ Venus|Retrograde|28°36'2.74" |Leo|Sarfrah|Mars|

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°12'21.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|12°41'39.54" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|12°41'39.54" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|7°58'44.74" |Leo|Jabhah|Saturn|
 |☉ Sun|Direct|0°25'13.55" |Cancer|Nathrah|Venus|
 |♀ Venus|Retrograde|28°36'18.19" |Cancer|Jabhah|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°12'21.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|12°41'39.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°58'44.74" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|0°25'13.55" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°36'18.19" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|21°55'37.92" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°45'26.93" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|12°41'39.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°58'44.97" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|0°25'13.76" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°36'19.45" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|21°55'44.28" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°39'17.94" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Altepetl Chihuahuah, Byen Chihuahua, CUU, Chihuahua, Chihuahua City, Chihuahua by, Chiuaua, Chiuauae, Chivava, Cihuahua, Ciuaua, Dakbayan sa Chihuahua, Tsiouaoua, chiuaua, chiwawa, chyywaywa. chyywaywa, qi wa wa shi, zhi hua hua shi, Čihuahua, Čiuaua, Τσιουάουα, Чивава, Чиуауæ, Чиуауа, Чіуауа, ציוואווה, چہواہوا, چیئوائوا٬ چیئوائوا, ჩიუაუა, チワワ, 奇瓦瓦市, 芝華華市, 치와와
