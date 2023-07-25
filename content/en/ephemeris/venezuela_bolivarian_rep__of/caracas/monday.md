@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°9'24.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|12°48'32.96" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°32'32.04" |Leo|Jabhah|Saturn|
-|☉ Sun|Direct|1°17'31.44" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|28°34'23.81" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|23°21'43.63" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°29'26.39" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|12°48'33.21" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°32'25.58" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|1°17'17.36" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°33'38.35" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|23°21'29.77" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°22'31.73" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°9'24.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|12°48'32.96" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°32'32.04" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|1°17'31.38" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°34'22.83" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|23°21'43.36" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°25'30.20" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|12°48'33.21" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°32'25.58" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|1°17'17.36" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°33'38.35" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°21'29.77" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|13°22'31.73" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Mercury|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°4'34.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|12°59'15.70" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°26'21.82" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|2°40'44.33" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|28°27'12.62" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|25°35'19.70" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°10'49.51" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|6°4'35.65" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|12°59'14.39" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°26'17.16" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|2°40'28.76" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°27'14.32" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|25°35'20.23" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°10'54.61" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'34.62" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|12°59'15.70" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°26'21.82" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|2°40'44.33" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°27'14.32" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°35'20.23" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°10'49.51" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|9°26'17.16" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|2°40'28.76" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°26'33.93" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°35'7.83" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°19'53.84" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: SHA, San'nkae, Sanchajus, Sangaj, Sangay, Sanghaj, Sanghay, Sanhaja, Sanhajo, Sanxay, Schanghai, Shang-hai, Shang-hai-shih, Shangai, Shangaj, Shanghai, Shanghai - shang hai, Shanghai - 上海, Shankhaj, Sjanghae, Sjanghai, Sjanghæ, Szanghaj, Thuong Hai, Thượng Hải, Xangai, cankay, sangha'i, sanghae, sanghai, seiynghi, shang hai, shang hai shi, shanghay, shanghhay, shanhai, zhong guo shang hai, Ŝanhajo, Şangay, Şanghay, Şanxay, Šanchajus, Šangaj, Šanghaj, Šanhaja, Σανγκάη, Шангај, Шанхай, שאנגחאי, شانغهاي, شانگهای, شاڭخەي, شاڭخەي شەھىرى, সাংঘাই, சாங்காய், เซี่ยงไฮ้, შანჰაი, 上海, 上海市, 中国上海, 상하이, 상해

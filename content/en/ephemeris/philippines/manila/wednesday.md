@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'30.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|12°59'25.11" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°27'9.99" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|2°41'58.92" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|28°27'7.45" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|25°37'17.82" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°28'38.40" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|12°59'25.15" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°27'9.92" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|2°41'58.93" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°27'7.19" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|25°37'17.74" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°45'7.34" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Leo|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Venus|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'30.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|12°59'25.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°27'9.92" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|2°41'58.93" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°27'7.19" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°37'17.74" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°26'59.35" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|12°59'23.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°27'5.25" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|2°41'42.23" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°26'25.54" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°37'4.90" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°45'7.34" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Virgo|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Venus|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: City of Manila, Dakbayan sa Manila, Lungsod ng Maynila, MNL, Mainile, Manila, Manilae, Manilla, Manillah, Manille, Manilo, Manyl, Maníla, Maynila, Menila, ma ni la, manila, manilla, manira, manyl, manyla, mnila, mnylh, myanila, Μανίλα, Манилæ, Манила, Маніла, מנילה, مانىلا, مانيلا, مانیل, مانیلا, मनिला, मनीला, ম্যানিলা, மணிலா, ಮನಿಲ, මැනිලා, มนิลา, มะนิลา, མ་ནི་ལ།, မနီလာမြို့, მანილა, ማኒላ, マニラ, 马尼拉, 마닐라

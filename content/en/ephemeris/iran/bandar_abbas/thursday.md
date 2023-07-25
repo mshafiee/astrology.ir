@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°0'31.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°7'47.27" |Aries|Butain|Sun|
-|♂ Mars|Direct|10°10'25.36" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|3°48'46.29" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|28°17'40.26" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|27°21'34.53" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|17°8'24.06" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|13°7'47.33" |Aries|Butain|Sun|
+|♂ Mars|Direct|10°10'24.99" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|3°48'45.65" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°17'37.82" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|27°21'34.31" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|17°7'15.41" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°0'31.69" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°7'47.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°10'25.10" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|3°48'45.81" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°17'38.52" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°21'34.53" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|17°8'24.06" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|13°7'47.27" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°10'25.36" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|3°48'46.29" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°17'40.26" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|27°21'35.06" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|17°9'58.91" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Virgo|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Jupiter|Gemini|Moon|Venus|
-|☾ Moon|Mercury|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
 
 
 {{< /tab >}}

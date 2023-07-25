@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'24.99" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|12°59'36.43" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°28'7.60" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|2°43'27.87" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|28°26'55.89" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|25°39'38.55" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°46'22.33" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|9°28'8.06" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|2°43'27.96" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°26'58.09" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|25°39'39.19" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°56'23.89" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|6°4'24.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|12°59'36.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°28'7.60" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|2°43'27.87" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°26'55.89" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°39'38.55" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°46'22.33" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|6°4'24.84" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|12°59'36.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°28'8.06" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|2°43'27.96" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°26'58.09" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°39'39.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°56'23.89" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Goi-iong, Guejang, Guejjan, Guijangas, Guijango, Guiyang, Guiyang Shi, Gujjan, Guyan, Guyyan, Gveiyangz, Gói-iòng, Gŭijango, KWE, Kuei-chu, Kuei-yang, Kuei-yang-shih, Kuej-jang, Kui-iong-chhi, Kweichu, Kweiyang, Kweiyangfu, Kùi-iông-chhī, Queiyanga, Quy Duong, Quý Dương, ghwyyangh, gu'iyanga, gu-iyang si, gui yang, gui yang shi, gwyyang, kuy hyang, Гуейян, Гуејанг, Гуйян, Ґуйян, Գույան, غوييانغ, گوئیانگ, گۇيياڭ شەھىرى, गुइयांग, ਗੁਈਯਾਂਗ, กุ้ยหยาง, ကွေ့ယန်မြို့, 貴陽, 貴陽市, 贵阳, 贵阳市, 구이양 시
