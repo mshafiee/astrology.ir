@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|05:51:49|07:01:36|Love, creating love and attracting hearts|
 |2|Mercury|Servant|07:01:37|08:11:24|Attracting auspiciousness|
-|3|Moon|Servant|08:11:25|09:21:12|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Moon|Servant|08:11:25|09:21:12|Attracting misfortune, no task is suitable|
 |4|Saturn|Servant|09:21:13|10:31:00|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Jupiter|Servant|10:31:01|11:40:48|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mars|Servant|11:40:49|12:50:36|The moon is in Scorpio, Not suitable for doing anything.|
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|5°57'35.58" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|13°13'43.54" |Aries|Butain|Sun|
 |♂ Mars|Direct|10°41'47.97" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|4°37'10.30" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|28°8'46.66" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|28°35'31.90" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|28°12'27.36" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|4°37'9.98" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°8'48.09" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|28°35'32.39" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°25'29.35" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°57'35.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°13'43.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°41'47.97" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|4°37'10.30" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°8'46.66" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|13°13'43.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°41'48.40" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|4°37'9.98" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°8'48.09" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|28°35'32.39" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|28°25'29.35" |Scorpio|Shaulah|Venus|
 

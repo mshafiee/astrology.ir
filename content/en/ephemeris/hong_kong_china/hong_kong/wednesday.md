@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'28.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|12°59'29.62" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°27'32.77" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|2°42'34.15" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|28°27'2.65" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|25°38'13.53" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°34'39.24" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|12°59'27.60" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°27'29.14" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|2°42'18.90" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°26'27.52" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|25°38'2.64" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°6'28.88" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'28.15" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|12°59'29.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°27'32.77" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|2°42'34.15" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°27'2.65" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°38'13.53" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°34'39.24" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|12°59'27.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°27'29.14" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|2°42'18.90" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°26'27.52" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°38'2.64" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°6'28.88" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Chon'nk Kon'nk, Gankong, Gon Kong, Gonkong, HKG, Hiong-geng, Hiŏng-gē̤ng, Hong Kong, Hongkong, Honkong, Hồng Kông, Khongkong, Khonkong, Victoria, ankan, hamga kamga, hanakana, hang kang, hang kang nagaram, hangakanga, hang‌kang, hankam, heankean, hng kng, hon'ga kon'ga, hong-kʼongi, hongakonga, hongkong, honkongu, hwng kwng, hwng qwng, hwngh kwngh, hwnj kwnj, hxngkng, hʼng qʼng, shyanggang, xiang gang, Χονγκ Κονγκ, Ганконг, Гонконг, Хонгконг, Хонконг, Һoң Koң, Һоң Коң, Հոնկոնգ, האנג קאנג, הונג קונג, شياڭگاڭ, هانگ کانگ, هنگ کنگ, هونج كونج, هونغ كونغ, هونگ کونگ, ھwng kwng, ھونگ کونگ, ھۆng kۆng, ھۆنگ کۆنگ, ہang kang, ہانگ کانگ, ހޮންކޮންގު, हङकङ, हाँग काँग, हांगकांग, हांग् कांग् नगरम्, हॉन्ग कॉन्ग, হংকং, ਹਾਂਗਕਾਂਗ, હોંગકોંગ, ହଂକଂ, ஆங்காங், హాంగ్‌కాంగ్, ಹಾಂಗ್ ಕಾಂಗ್, ഹോങ്കോങ്, හොංකොං, ฮ่องกง, ཧང་ཀང་།, ཧོང་ཀོང་།, ဟောငကောင, ဟောင်ကောင်, ჰონგ-კონგი, ሆንግ ኮንግ, ហងកង, ហុងកុង, 香港, 홍콩

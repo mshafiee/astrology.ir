@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°48'33.15" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°30'48.85" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°15'40.81" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|7°1'38.30" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|27°31'19.92" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|2°8'6.68" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|4°57'38.44" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|13°30'50.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°15'45.78" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|7°1'54.78" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|27°32'7.29" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|2°8'20.18" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°14'30.34" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Libra|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

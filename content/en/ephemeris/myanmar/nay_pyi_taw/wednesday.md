@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'17.38" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|12°59'52.73" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°29'31.01" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|2°45'36.77" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|28°26'41.23" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|25°43'2.02" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|3°14'56.76" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|12°59'53.84" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°29'25.86" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|2°45'28.24" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°26'7.34" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|25°42'51.83" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|2°19'36.90" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Leo|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|6°4'17.38" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|12°59'52.76" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°29'30.99" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|2°45'36.82" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°26'41.23" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°43'2.02" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°14'56.76" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°45'28.24" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°26'7.34" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°42'51.83" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°19'36.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Virgo|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Venus|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Kyatpyay, Kyetpyay, NYT, Naipidau, Nay Pyi Taw, Naypyidaw, Naypyitaw, Ne Pyi Daw, Pyinmana, naepido, nepido, 내피도, 네피도

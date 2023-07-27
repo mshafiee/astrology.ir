@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'23.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|12°59'39.36" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°59'39.34" |Aries|Butain|Sun|
 |♂ Mars|Direct|9°28'21.15" |Leo|Zubrah|Saturn|
 |☉ Sun|Direct|2°43'46.38" |Cancer|Nathrah|Venus|
 |♀ Venus|Retrograde|28°26'34.63" |Cancer|Jabhah|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'23.75" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|12°59'39.36" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°28'21.15" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|2°43'46.38" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°26'34.63" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°40'11.91" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°42'25.29" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|12°59'39.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°28'22.72" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|2°43'49.96" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°26'46.07" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°40'15.39" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°51'38.74" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Cen Ceper, Nobosimpirsk, Novasibirsk, Novo-Nikolaevsk, Novo-Nikolaievsk, Novo-Nikolaïevsk, Novonikolaevsk, Novonikolayevsk, Novosibir, Novosibir'sku, Novosibirs'k, Novosibirscum, Novosibirsk, Novosibirska, Novosibirskaj, Novosibirskas, Novosibirsko, Novosimpirsk, Novossibirsk, Novoszibirszk, Nowosibirsk, Nowosibirski, Nowosybirsk, OVB, Odsibiren' osh, Vil' Sibirkar, no wo sibiskh, nobosibileuseukeu, novosibirsk, novosibirska, novu~oshibirusuku, nwbwsybyrsq, nwfwsybyrsk, nwwsybrsk, nwwsybyrsk, xin xi bo li ya, Çĕн Çĕпĕр, Νοβοσιμπίρσκ, Νοβοσιμπιρσκ, Виль Сибиркар, Новасібірск, Новониколаевск, Новосибирск, Новосибирскай, Новосибирьскъ, Новосибірськ, Новосібір, Одсибирень ош, Նովոսիբիրսկ, נובוסיבירסק, نوفوسيبيرسك, نووسیبرسک, نووسیبیرسک, नोवोसिबिर्स्क, โนโวซีบีสค์, ნოვოსიბირსკი, ノヴォシビルスク, 新西伯利亚, 新西伯利亞, 노보시비르스크

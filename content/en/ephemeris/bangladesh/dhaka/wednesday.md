@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'15.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|12°59'58.25" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°29'53.93" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|2°46'12.75" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|28°26'24.43" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|25°43'59.17" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|2°55'54.77" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|12°59'57.63" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°29'55.89" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|2°46'15.22" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°26'36.29" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|25°44'2.73" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|3°22'33.46" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Leo|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'15.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|12°59'58.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°29'53.93" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|2°46'12.75" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°26'24.43" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°43'59.17" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°55'54.77" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|12°59'57.63" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°29'55.89" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|2°46'15.22" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°26'36.29" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°44'2.73" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°22'33.46" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Virgo|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Venus|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: DAC, Daaka, Daca, Dacca, Dacca - dhaka, Dacca - ঢাকা, Daka, Dakah, Dakk, Dakka, Dakkae, Dakke, Dako, Deka, Dgaka, Dhaka, Dháka, Dhâkâ, Dəkkə, Mujib City, Ntaka, Ntakka, da ka, daka, dakka, dhaka, dhakka, dka, takka, thaka, Ντάκα, Ντάκκα, Даака, Дака, Даккæ, Дакка, Дакке, Дгака, Դաքքա, דאקא, דאקה, داكا, داکا, دكا, ڈھاکہ, ޑާކާ, ढाका, ঢাকা, ਢਾਕਾ, ઢાકા, ଢାକା, டாக்கா, ఢాకా, ಢಾಕಾ, ഢാക്ക, ඩකා, ธากา, དྷ་ཁ།, ဒါကာမြို့, დაკა, ዳካ, ダッカ, 达卡, 達卡, 다카

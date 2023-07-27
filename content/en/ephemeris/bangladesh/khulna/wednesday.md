@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'14.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|12°59'59.07" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°30'3.61" |Leo|Zubrah|Saturn|
-|☉ Sun|Direct|2°46'27.08" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|28°26'35.41" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|25°44'21.48" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|3°26'49.67" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|12°59'59.12" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°30'3.53" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|2°46'11.44" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|28°25'50.19" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|25°44'7.65" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|3°12'35.14" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Leo|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°4'14.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|12°59'59.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°30'3.61" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|2°46'27.08" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°26'35.41" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°44'21.48" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°26'49.67" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|12°59'58.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°29'57.86" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|2°46'11.44" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°25'50.19" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°44'7.65" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°12'35.14" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Virgo|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Venus|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

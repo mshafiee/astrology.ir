@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|10°53'58.80" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|4°55'57.44" |Cancer|Nathrah|Venus|
 |♀ Venus|Retrograde|28°4'54.30" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|29°3'45.09" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|2°18'3.39" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|29°3'51.11" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|2°32'43.82" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Sun|Leo|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|5°56'27.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°16'0.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°53'55.87" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|4°55'52.55" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°4'34.84" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|29°3'45.09" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°18'3.39" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|5°56'26.47" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|13°16'0.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°53'58.80" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|4°55'57.44" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°4'54.30" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|29°3'51.11" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°32'43.82" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Virgo|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}

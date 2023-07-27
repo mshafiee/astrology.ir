@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°3'24.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°1'46.14" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°1'45.47" |Aries|Butain|Sun|
 |♂ Mars|Direct|9°39'8.58" |Leo|Zubrah|Saturn|
 |☉ Sun|Direct|3°0'28.97" |Cancer|Nathrah|Venus|
 |♀ Venus|Retrograde|28°24'49.75" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|26°6'26.59" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|5°46'27.63" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|6°28'25.16" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Saturn|Venus|Jupiter|Mercury|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|6°3'24.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°1'46.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°39'3.64" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|3°0'19.73" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|28°24'16.05" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|26°6'16.37" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°46'27.63" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|13°1'45.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°39'8.58" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|3°0'28.97" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|28°24'49.75" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|26°6'26.59" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°28'25.16" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

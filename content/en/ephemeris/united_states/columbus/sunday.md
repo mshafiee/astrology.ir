@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°48'33.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°30'50.60" |Aries|Butain|Sun|
-|♂ Mars|Direct|12°15'47.86" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|7°1'57.56" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|27°32'2.35" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|2°8'24.66" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°20'27.05" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|13°30'50.53" |Aries|Butain|Sun|
+|♂ Mars|Direct|12°15'47.98" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|7°1'57.65" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|27°32'2.97" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|2°8'24.88" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°21'19.33" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°48'33.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°30'50.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°15'47.86" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|7°1'57.56" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|13°30'50.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°15'47.98" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|7°1'57.65" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|27°32'2.35" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|2°8'24.66" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|3°20'27.05" |Capricorn|SaadAlDhabib|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: CMH, Columbopolis, Columbus, Columbus i Ohio, Franklin, Franklinton, Kalumbus, Kolambus, Kolompous, Kolumbas, Kolumbs, Kolumbu, Kolumbus, Kolumbusa, Kulumbus, ge lun bu, kalabasa, kalambasa, kholambas, klmbws  awhayw, kolambas, kolambasa, kolampas, kolleombeoseu, koronbasu, kwlwmbws, qwlwmbws, Κολόμπους, Калумбус, Коламбус, Колумбус, Кълъмбъс, Կոլումբուս, קאלומבוס, קולומבוס, كولومبوس, کلمبوس، اوهایو, کولمبس، اوہائیو, कोलंबस, कोलम्बस, कोलम्बस्, কলম্বাস, ਕਲੰਬਸ, கொலம்பஸ், โคลัมบัส, კოლუმბუსი, コロンバス, 哥伦布, 哥倫布, 콜럼버스
