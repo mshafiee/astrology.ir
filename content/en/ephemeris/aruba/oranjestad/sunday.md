@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°48'33.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°30'47.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°15'43.10" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|7°1'42.71" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|27°31'47.26" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|2°8'11.67" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|4°40'43.77" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|13°30'49.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°15'44.26" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|7°1'37.17" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|27°31'16.57" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|2°8'1.39" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|4°21'24.09" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Aran'estad, Oran'estad, Oranestad, Oraniestat, Oranjestad, Oranjestad pa Aruba, Oranjestad på Aruba, Oranjestadas, Oranjestade, Oranjestado, Oranjested, Oranjestêd, ao la nie si ta de, awrnjstad, olanyeseutateu, oraniesutaddo, oraniyecuttatu, oranjestada, xo ran yes tad, Οράνιεστατ, Араньестад, Оранестад, Ораньестад, Ораньєстад, Орањестад, אורנייסטאד, أورنجستاد, اورنجستاد, اورنجسٹیڈ، اروبا, ओरांजेश्टाड, ஒரானியெசுத்தாடு, โอรันเยสตัด, ორანესტადი, オラニエスタッド, 奥拉涅斯塔德, 오라녜스타트
