@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°33'33.44" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|13°55'46.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°44'12.20" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|10°49'56.75" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|26°4'49.13" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|7°17'12.89" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°20'1.36" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|14°44'11.86" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|10°49'50.87" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|26°4'35.45" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|7°17'10.52" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°41'56.72" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Goustavia, Gustaf, Gustavi, Gustavia, Gustavija, Gustavio, Gustávia, Guthavia, Qustaviya, guseutabia, gustavhiya, gusutabia, gwiseutabia, gwstawya, ju si ta wei ya, ku s ta wi ya, kucutaviya, Γουσταβία, Густави, Густавия, Густавија, Густавія, گوستاویا, گوسٹاویا, गुस्ताव्हिया, குசுதாவியா, กุสตาวียา, გუსტავია, グスタビア, 居斯塔维亚, 구스타비아, 귀스타비아

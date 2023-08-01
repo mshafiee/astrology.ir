@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°44'42.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°37'36.54" |Aries|Butain|Sun|
-|♂ Mars|Direct|12°54'35.54" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|8°1'37.94" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|27°12'37.96" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|3°32'25.54" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|18°36'31.67" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Direct|13°37'37.83" |Aries|Butain|Sun|
+|♂ Mars|Direct|12°54'30.81" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|8°1'30.27" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|27°12'6.12" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|3°32'15.27" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|19°6'23.88" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Mercury|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Saturn|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|5°44'42.74" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|13°37'36.54" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|12°54'35.54" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|8°1'37.94" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|27°12'37.96" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|3°32'25.54" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|18°36'31.67" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|8°1'30.27" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|27°12'6.12" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|3°32'15.27" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|19°6'23.88" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Saturn|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

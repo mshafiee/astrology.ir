@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|5°33'35.79" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|13°55'42.45" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°43'49.43" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|10°49'14.16" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|26°4'47.18" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°16'25.26" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°39'10.18" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|10°49'21.79" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|26°5'4.73" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°16'28.15" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°11'24.39" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Libra|Sun|Sun|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -341,8 +341,8 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|5°33'35.79" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|13°55'42.45" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°43'49.43" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|10°49'14.16" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|26°4'47.18" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|10°49'21.79" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|26°5'4.73" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|7°16'25.26" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|3°39'10.18" |Pisces|FarghAlMuqaddam|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: PBM, Paramaribas, Paramaribo, Paramaribô, Paramarimpo, Paramaryba, Paramaríbó, ba la ma li bo, baramarybw, pa la ma li bo, pa rama ri bo, palamalibo, paramaribo, paramaripo, paramarybw, prmrybw, Παραμαρίμπο, Парамарибо, Парамарыба, Парамарібо, Պարամարիբո, פאראמאריבא, פרמריבו, باراماريبو, پاراماریبو, पारामरिबो, पारामारिबो, ਪਾਰਾਮਾਰੀਬੋ, પારામારિબો, பரமாரிபோ, ปารามารีโบ, པེ་ར་མེ་རི་བོ།, პარამარიბო, ፓራማሪቦ, パラマリボ, 巴拉馬利波, 帕拉马里博, 파라마리보

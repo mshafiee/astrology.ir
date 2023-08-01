@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°41'7.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°43'41.69" |Aries|Butain|Sun|
-|♂ Mars|Direct|13°30'22.92" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|8°56'37.90" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|26°52'30.76" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|4°47'53.59" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°6'1.19" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|13°43'42.12" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°30'22.21" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|8°56'37.48" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|26°52'27.38" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|4°47'52.25" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°6'48.20" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°41'7.22" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|13°43'41.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°30'22.92" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|8°56'37.90" |Leo|Zubrah|Saturn|
-|♀ Venus|Retrograde|26°52'30.76" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|4°47'53.59" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°6'1.19" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|13°30'22.21" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|8°56'37.48" |Leo|Zubrah|Saturn|
+|♀ Venus|Retrograde|26°52'27.38" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|4°47'52.25" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°6'48.20" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: PAP, Port au Prince, Port o Prens, Port o Prensas, Port-au-Prince, Port-o-Prehns, Port-o-Prens, Port-o-Prins, Porto Principe, Porto Príncipe, Portoprensa, Portoprinco, Portus Principis, Potoprens, Puerto Principe, Puerto Príncipe, Pòtoprens, Ville de Port-au-Prince, bwrt aw brans, poleutopeulaengseu, porata-o-prainsa, port-o-pirins, porta-a-prinsa, porta-au-prinsa, porta-o-prinsa, porutopuransu, pwrtw prns, pwrtwprns, tai zi gang, Πορτ-ο-Πρενς, Порт о Пренс, Порт-о-Пренс, Порт-о-Прэнс, Պորտ-օ-Պրենս, פורט או פרינס, פורט-או-פרנס, بورت أو برانس, پورتو پرنس, پورتوپرنس, پورٹ او پرنس, पोर्ट-ऑ-प्रिंस, पोर्ट-औ-प्रिन्स, পোর্ট-অ-প্রিন্স, ਪੋਰਤ-ਓ-ਪ੍ਰੈਂਸ, போர்ட்-ஓ-பிரின்ஸ், പോർട്ട്-ഔ-പ്രിൻസ്, ปอร์โตแปรงซ์, པོ་རོ་ཊི་ཨའུ་པི་རིན་སི།, პორტ-ო-პრენსი, ፖርቶፕሪንስ, ポルトープランス, 太子港, 포르토프랭스
