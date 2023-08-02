@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°41'12.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°43'32.10" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|13°43'32.10" |Aries|Butain|Sun|
 |♂ Mars|Direct|13°29'25.77" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|8°55'10.13" |Cancer|Nathrah|Venus|
 |♀ Venus|Retrograde|26°53'4.55" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|4°45'40.35" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|4°3'19.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|4°45'54.62" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°42'31.15" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°41'12.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°43'33.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°29'19.67" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|8°54'57.75" |Leo|Zubrah|Saturn|
-|♀ Venus|Retrograde|26°52'18.78" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|4°45'40.35" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|4°3'19.11" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|13°43'32.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°29'25.77" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|8°55'10.13" |Leo|Zubrah|Saturn|
+|♀ Venus|Retrograde|26°53'4.55" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|4°45'54.62" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°42'31.15" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Libra|Moon|Venus|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Kin'nkstaoun, Kingstaun, Kingstauna, Kingstaunas, Kingstauno, Kingstaŭno, Kingstown, Kinqstaun, SVD, jin si dui, khing s thawn, kigasata'una, kincutavun, kingsata'una, kingseutaun, kingusutaun, kynghstawn, kyngztawn, Κίνγκσταουν, Κινγκστάουν, Кингстаун, Киҥстаун, Кінгстаун, Кінгстаўн, קינגסטאון, كينغستاون, کنگز ٹاؤن, کینگزتاون, किंग्सटाउन, ਕਿੰਗਸਟਾਊਨ, கிங்சுடவுன், คิงส์ทาวน์, ཁིན་སི་ཐོན།, კინგსტაუნი, ኪንግስታውን, キングスタウン, 金斯敦, 킹스타운

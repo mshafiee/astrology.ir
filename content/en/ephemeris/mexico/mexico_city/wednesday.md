@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°37'1.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°50'20.40" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|13°50'20.40" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°10'31.32" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|9°58'16.01" |Cancer|Nathrah|Venus|
 |♀ Venus|Retrograde|26°27'34.84" |Cancer|Jabhah|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|5°37'2.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°50'20.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°10'31.16" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|9°58'15.93" |Leo|Zubrah|Saturn|
-|♀ Venus|Retrograde|26°27'34.14" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|6°10'9.37" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|19°33'44.53" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|5°37'1.98" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|13°50'19.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°10'26.69" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|9°57'59.68" |Leo|Zubrah|Saturn|
+|♀ Venus|Retrograde|26°26'45.56" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|6°9'56.47" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|21°23'19.53" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Jupiter|Venus|Mercury|Moon|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Mars|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
+|☾ Moon|Venus|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}

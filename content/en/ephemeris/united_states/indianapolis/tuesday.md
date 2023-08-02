@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°41'4.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°43'45.93" |Aries|Butain|Sun|
-|♂ Mars|Direct|13°30'48.29" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|8°57'16.40" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|26°52'12.61" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|4°48'46.21" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°23'8.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|13°43'45.86" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°30'48.41" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|8°57'16.47" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|26°52'13.14" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|4°48'46.42" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°23'0.84" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°41'4.72" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°43'45.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°30'48.29" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|8°57'16.40" |Leo|Zubrah|Saturn|
-|♀ Venus|Retrograde|26°52'12.61" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|4°48'46.82" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°22'27.42" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|13°43'45.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°30'48.41" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|8°57'16.47" |Leo|Zubrah|Saturn|
+|♀ Venus|Retrograde|26°52'13.14" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|4°48'46.42" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°23'8.82" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: IND, Indianapoles, Indianapoli, Indianapolis, Indianapolisa, Indianapolės, Indianapòlis, Indianàpolis, Indianápolis, Indijanapolis, Indiyanapolis, Indyjanapalis, andyanabwlys, ayndyanapwlys, idi'anapolisa, indiaenapolliseu, indianaporisu, indiyanapolis, indiyanapolisa, intiyanapolis, xin deiy næ pho lis, yin di an na bo li si, İndianapolis, Ινδιανάπολη, Індыянапаліс, Індіанаполіс, Индианаполис, Индијанаполис, Ինդիանապոլիս, אינדיאנאפאליס, אינדיאנפוליס, إنديانابوليس, انڈیاناپولس, انڈیاناپولس، انڈیانا, ایندیاناپولیس, इंडियानापोलिस, इन्डियानापोलिस, इन्डियानापोलिस्, इन्दियानापोलिस, ইন্ডিয়ানাপোলিস, ਇੰਡੀਆਨਾਪੋਲਿਸ, இண்டியானாபொலிஸ், อินเดียแนโพลิส, ინდიანაპოლისი, ኢንዲያናፖሊስ, インディアナポリス, 印第安納波利斯, 인디애나폴리스

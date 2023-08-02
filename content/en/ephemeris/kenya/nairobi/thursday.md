@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°34'33.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°54'13.22" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|13°54'13.22" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°34'30.74" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|10°34'50.11" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|26°10'49.13" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|6°57'56.07" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°48'41.51" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|10°35'4.65" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|26°11'30.94" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|6°58'6.47" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|29°24'54.59" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Saturn|Venus|Jupiter|Mercury|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mars|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Libra|Sun|Sun|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|5°34'33.69" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°54'11.31" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|5°34'34.56" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|13°54'11.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°34'27.40" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|10°34'50.11" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|26°10'49.13" |Leo|Sarfrah|Mars|

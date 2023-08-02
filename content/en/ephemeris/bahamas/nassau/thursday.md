@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°33'25.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°55'55.62" |Aries|Butain|Sun|
-|♂ Mars|Direct|14°45'23.97" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|10°51'38.17" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|26°3'26.56" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°19'30.57" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|4°44'17.33" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|13°55'57.75" |Aries|Butain|Sun|
+|♂ Mars|Direct|14°45'25.79" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|10°51'49.56" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|26°3'57.07" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°19'37.30" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°50'58.56" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Libra|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°33'25.81" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°55'55.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°45'23.97" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|10°51'38.17" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|26°3'26.56" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|7°19'30.57" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|4°44'17.33" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|13°55'57.75" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°45'25.79" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|10°51'49.56" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|26°3'57.07" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|7°19'37.30" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°50'58.56" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Mars|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Moon|Jupiter|Scorpio|Moon|Venus|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: City of Nassau, NAS, Nasau, Nasauo, Nasaŭo, Naso, Nassaou, Nassau, Nassau City, Nassau pa Bahamas, Nassau på Bahamas, Nasáu, na sao, nasa'u, nasau, nasaw, nasayw, nasea, naso, nasso, neco, nsaw, Νασσάου, Насау, Нассау, Նասաու, נסאו, ناسائو, ناساو, نساؤ, नासाउ, নাসাউ, ਨਸਾਊ, நேசோ, നാസോ, แนสซอ, ན་སའོ།, ნასაუ, ናሶ, ナッソー, 拿騷, 拿骚, 나사우, 나소

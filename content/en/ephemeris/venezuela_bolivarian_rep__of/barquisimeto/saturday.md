@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'34.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°7'29.75" |Aries|Butain|Sun|
-|♂ Mars|Direct|16°0'5.58" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|12°46'15.46" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°7'52.20" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°41'27.38" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°41'51.84" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|14°7'28.71" |Aries|Butain|Sun|
+|♂ Mars|Direct|16°0'0.52" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|12°45'59.10" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|25°6'58.91" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°41'13.05" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|4°43'1.64" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Sagittarius|Moon|Moon|
 |♀ Venus|Venus|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'34.81" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°7'29.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|16°0'5.58" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|12°46'15.46" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|25°7'52.20" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°41'27.38" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°41'51.84" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|14°7'28.71" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°0'0.52" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|12°45'59.10" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|25°6'58.91" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°41'13.05" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|4°43'1.64" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Moon|Capricorn|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Saturn|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

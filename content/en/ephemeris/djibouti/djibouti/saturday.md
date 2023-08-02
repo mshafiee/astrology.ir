@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°26'49.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°5'43.31" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°48'13.95" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|12°28'3.08" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°16'32.65" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°19'30.08" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|0°27'19.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|14°5'43.31" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°48'19.09" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|12°28'13.38" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|25°17'11.23" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°19'42.77" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|29°4'54.51" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Venus|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°26'49.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°5'43.31" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°5'43.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°48'19.09" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|12°28'13.38" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|25°17'11.23" |Leo|Sarfrah|Mars|
