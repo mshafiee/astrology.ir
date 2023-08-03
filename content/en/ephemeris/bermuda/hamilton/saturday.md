@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'43.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'15.94" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°58'42.31" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|12°43'59.10" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°8'14.63" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°38'50.27" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°39'51.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|14°7'17.68" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°58'45.30" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|12°44'12.32" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|25°8'54.81" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°38'59.75" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°12'20.17" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Sagittarius|Moon|Moon|
 |♀ Venus|Venus|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'43.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'17.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°58'45.30" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|12°44'12.32" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|25°8'54.81" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°38'59.75" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|14°7'15.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°58'42.31" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|12°43'59.10" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|25°8'14.63" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°38'50.27" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|3°39'51.64" |Aries|Sharatain|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: BDA, Chamilton, Gamil'tan, Gamil'ton, Hamilton, Hamilton pa Bermuda, Hamilton på Bermuda, Hamiltonas, Hamiltono, Khamilton, Khamiltun, amiltan, ha mi er dun, haemilteon, hamiruton, hamyltwn, hemiltana, hmyltwn, Χάμιλτον, Гамильтон, Гамільтан, Гамільтон, Хамилтон, Хамилтън, המילטון, هاميلتون, همیلتون, ہیملٹن, हॅमिल्टन, ஆமில்டன், แฮมิลตัน, ჰამილტონი, ハミルトン, 哈密尔顿, 해밀턴

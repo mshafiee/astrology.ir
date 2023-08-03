@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°39'31.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|13°46'19.22" |Aries|Butain|Sun|
-|♂ Mars|Direct|13°46'6.34" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|9°20'46.58" |Cancer|Nathrah|Venus|
-|♀ Venus|Retrograde|26°43'0.22" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°20'25.13" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|9°36'12.12" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|13°46'19.03" |Aries|Butain|Sun|
+|♂ Mars|Direct|13°46'3.36" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|9°20'38.61" |Cancer|Nathrah|Venus|
+|♀ Venus|Retrograde|26°42'34.16" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°20'17.52" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|10°32'19.82" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Mercury|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Libra|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Venus|Libra|Sun|Sun|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°39'31.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|13°46'19.22" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|13°46'19.22" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|13°46'6.34" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|9°20'46.58" |Leo|Zubrah|Saturn|
 |♀ Venus|Retrograde|26°43'0.22" |Leo|Sarfrah|Mars|

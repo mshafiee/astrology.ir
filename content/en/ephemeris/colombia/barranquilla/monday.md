@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'26.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°18'29.21" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°18'29.21" |Aries|Butain|Sun|
 |♂ Mars|Direct|17°15'43.19" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|14°41'59.46" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|24°4'20.86" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|11°55'18.05" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°30'59.93" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°17'39.59" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sagittarius|Moon|Moon|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'26.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°18'28.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°15'38.70" |Virgo|Simak|Venus|
-|☉ Sun|Direct|14°41'45.40" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|24°3'33.49" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|11°55'5.17" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°30'59.93" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|14°18'29.21" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°15'43.19" |Virgo|Simak|Venus|
+|☉ Sun|Direct|14°41'59.46" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|24°4'20.86" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|11°55'18.05" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°17'39.59" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Sun|Capricorn|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BAQ, Barankil'ja, Barankila, Barankilija, Barankilja, Barran'kigia, Barrancas de San Nicolas, Barrancas de San Nicolás, Barrankil'ja, Barrankilya, Barranquilha, Barranquilla, Killa, La Arenosa, Quilla, ba lan ji ya, ba leng ji ye, balangkiya, bar rang ki ya, baranakiya, barankija, barankwla, barankwyla, brnqyyh, byarenkvila, Μπαρρανκίγια, Баранкиля, Баранкиља, Баранкілья, Барранкилья, Барранкілья, ברנקייה, بارانكويلا, بارانکولا, ब्यारेन्क्विला, ਬਾਰਾਙਕੀਯਾ, บาร์รังกียา, ბარანკილია, バランキージャ, 巴兰基亚, 巴冷基也, 바랑키야

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°33'17.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|13°56'9.86" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°56'9.86" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°46'41.62" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|10°53'45.46" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|26°2'12.44" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|7°21'51.67" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|6°6'26.11" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|26°3'0.86" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°22'5.73" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|4°27'37.75" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Saturn|Venus|Jupiter|Mercury|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Libra|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°33'17.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|13°56'9.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°46'41.62" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|13°56'9.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°46'36.24" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|10°53'30.93" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|26°2'12.44" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|7°21'51.67" |Virgo|Awwa|Sun|

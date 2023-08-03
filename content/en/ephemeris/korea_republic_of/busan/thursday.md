@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°35'41.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|13°52'26.89" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°52'26.89" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°23'30.39" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|10°18'11.34" |Cancer|Nathrah|Mercury|
 |♀ Venus|Retrograde|26°18'57.90" |Cancer|Jabhah|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°35'41.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|13°52'26.89" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°23'30.39" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|10°18'11.34" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|26°18'57.90" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|6°36'13.51" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|24°56'24.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|13°52'26.89" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°23'25.41" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|10°18'2.02" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|26°18'21.88" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|6°36'1.82" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|26°12'55.57" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Jupiter|Sun|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Mars|Jupiter|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Mars|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

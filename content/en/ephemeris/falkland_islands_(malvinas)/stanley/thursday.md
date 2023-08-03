@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°33'18.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|13°56'9.42" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°56'9.42" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°46'38.41" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|10°53'38.23" |Cancer|Nathrah|Mercury|
 |♀ Venus|Retrograde|26°2'46.65" |Cancer|Jabhah|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°33'18.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|13°56'7.67" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°46'39.91" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|10°53'36.91" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|26°2'48.85" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|7°22'0.61" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|4°45'17.31" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|13°56'9.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°46'38.41" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|10°53'38.23" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|26°2'46.65" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|7°21'58.24" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|4°57'53.06" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: PSY, Port Stanley, Port Stenli, Port Stenlis, Port-Stehnli, Port-Stenli, Porto Arxentino/Stanley, Puerto Archentinas/Stenlis, Puerto Argentino, Stanlef, Stanlejo, Stanley, Stanley Harbour, Stehnli, Stenli, Stenlis, astnly  jzayr falklnd, asٹynlے  jzayr faklynڈ, icutanli, porta stenli, seutaenli, si tan li, si tan li gang, stanly, stnly, sutanre, sutanri, Στάνλεϋ, Порт Стенли, Порт-Стенлі, Порт-Стэнли, Стенли, Стэнлі, Պորտ Սթենլի, סטאנלי, סטנלי, استنلی، جزایر فالکلند, اسٹینلے، جزائر فاکلینڈ, ستانلي, سٹینلے, पोर्ट स्टॅन्ली, இசுடான்லி, സ്റ്റാൻലി, สแตนลีย์, スタンリー, スタンレー, 斯坦利, 斯坦利港, 스탠리

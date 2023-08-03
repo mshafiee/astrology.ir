@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'33.76" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'29.82" |Aries|Butain|Sun|
-|♂ Mars|Direct|16°0'15.50" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|12°46'22.58" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°7'6.89" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|14°7'31.54" |Aries|Butain|Sun|
+|♂ Mars|Direct|16°0'16.86" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|12°46'31.14" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|25°7'31.12" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|9°41'47.05" |Leo|Zubrah|Saturn|
 |☾ Moon|Direct|4°1'27.49" |Pisces|FarghAlMuqaddam|Saturn|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'33.76" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'29.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|16°0'15.50" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|12°46'22.58" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|25°7'6.89" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°41'42.07" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|4°6'0.02" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°7'31.54" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°0'16.86" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|12°46'31.14" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|25°7'31.12" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|9°41'47.05" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|4°1'27.49" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Ciudad de Montevideo, MVD, Mantehvideha, Montebideo, Montevidejas, Montevideo, Montevideu, Montevidiejos, Montevidéu, Montevidėjas, Montevídeó, Muntivideu, Muntividew, Muntividèu, Muntividëw, Urbs Montis Videi, mantibhiri'o, meantevidiyea, meng de wei de ya, meng te wei duo, montebide'o, montebide-o, montebideo, montevide'o, montevidi'o, montevidiyo, montevitiyo, mwntfydw, mwnth wydyw, mwntybydyw, mxn te wi de xo, Μοντεβιδέο, Мантэвідэа, Монтевидео, Монтевідео, Մոնտևիդեո, מאנטעווידעא, מונטווידאו, مونتفيدو, مونته ویدئو, مونته‌ویدئ, مونته‌ویدئو, مونتیبیدیو, مونتېۋىدېئو, मोण्टेवीडियो, मोन्तेविदेओ, মোন্তেবিদেও, ਮੋਂਤੇਵੀਦਿਓ, ମଣ୍ଟିଭିଡ଼ିଓ, மொண்டேவீடியோ, മൊണ്ടേവീഡിയോ, มอนเตวิเดโอ, མཱོན་ཊི་ཝི་ཌོ།, မွန်တီဗစ်ဒီအိုမြို့, მონტევიდეო, ሞንቴቪዴዎ, モンテビデオ, 蒙得维的亚, 蒙特維多, 몬테비데오

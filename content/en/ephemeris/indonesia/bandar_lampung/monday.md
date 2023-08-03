@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°19'25.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°15'54.32" |Aries|Butain|Sun|
-|♂ Mars|Direct|16°57'24.55" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°13'59.19" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|24°20'2.93" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°23'48.90" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|26°3'58.72" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|14°15'53.68" |Aries|Butain|Sun|
+|♂ Mars|Direct|16°57'26.28" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°14'1.53" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|24°20'12.66" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°23'52.96" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|25°34'25.35" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mercury|Jupiter|Sun|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sagittarius|Moon|Moon|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°19'25.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°15'53.68" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°15'53.68" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|16°57'26.28" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|14°14'1.53" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|24°20'12.66" |Leo|Sarfrah|Mars|
