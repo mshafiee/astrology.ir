@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°33'30.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|13°55'50.45" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|13°55'50.45" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°44'39.97" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|10°50'38.73" |Cancer|Nathrah|Mercury|
 |♀ Venus|Retrograde|26°4'25.41" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|7°18'7.11" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°39'32.73" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|3°52'7.83" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°33'30.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|13°55'50.45" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°44'39.97" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|10°50'38.73" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|26°4'25.41" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|7°18'7.11" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°39'32.73" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|13°55'50.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°44'40.36" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|10°50'33.69" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|26°4'15.52" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|7°18'6.26" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°52'7.83" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Taronta, Torontas, Toronto, Torontu, Torontum, Torontó, YTO, duo lun duo, roranro, taronto, teareantea, tho rxn to, tolonto, toramto, toranto, toronto, twrntw, twrwntw, Τορόντο, Таронта, Торонто, Տորոնտո, טאראנטא, טורונטו, تورنتو, تورونتو, ٹورانٹو, ٹورنٹو, टोरण्टो, टोरन्टो, टोराँटो, तोरन्तो, টরোন্টো, ਟੋਰਾਂਟੋ, ரொறன்ரோ, టొరంటో, ಟೊರಾಂಟೋ, ടോറോണ്ടോ, โทรอนโต, တိုရွန်တိုမြို့, ტორონტო, トロント, 多伦多, 多倫多, 토론토

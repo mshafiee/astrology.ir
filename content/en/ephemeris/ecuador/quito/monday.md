@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'21.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°18'33.56" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°16'27.55" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°42'59.35" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|24°3'10.03" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°56'30.33" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°55'48.04" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|14°18'35.65" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°16'28.87" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°43'9.16" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|24°3'39.51" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°56'35.63" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°34'40.35" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sagittarius|Moon|Moon|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'21.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°18'35.65" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°18'35.65" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°16'28.87" |Virgo|Simak|Venus|
 |☉ Sun|Direct|14°43'9.16" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|24°3'39.51" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|11°56'35.63" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°34'40.35" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|11°56'30.33" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°55'48.04" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Sun|Capricorn|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

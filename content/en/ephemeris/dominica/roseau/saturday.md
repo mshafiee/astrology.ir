@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'41.27" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°7'20.63" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°7'20.63" |Aries|Butain|Sun|
 |♂ Mars|Direct|15°59'4.80" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|12°44'42.40" |Cancer|Nathrah|Mercury|
 |♀ Venus|Retrograde|25°8'40.81" |Cancer|Tarf|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'41.27" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°7'20.63" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°7'20.63" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°59'4.80" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|12°44'42.40" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|25°8'40.81" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°39'30.74" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°16'14.92" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|9°39'35.72" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°18'0.21" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조

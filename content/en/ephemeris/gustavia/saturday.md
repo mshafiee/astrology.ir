@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'40.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°7'21.17" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°7'21.17" |Aries|Butain|Sun|
 |♂ Mars|Direct|15°59'8.41" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|12°44'47.93" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°8'22.76" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|25°8'37.89" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|9°39'40.02" |Leo|Zubrah|Saturn|
 |☾ Moon|Direct|3°11'52.75" |Pisces|FarghAlMuqaddam|Saturn|
 
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'40.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°7'21.17" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°7'21.17" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°59'8.41" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|12°44'47.93" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|25°8'37.89" |Leo|Sarfrah|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Goustavia, Gustaf, Gustavi, Gustavia, Gustavija, Gustavio, Gustávia, Guthavia, Qustaviya, guseutabia, gustavhiya, gusutabia, gwiseutabia, gwstawya, ju si ta wei ya, ku s ta wi ya, kucutaviya, Γουσταβία, Густави, Густавия, Густавија, Густавія, گوستاویا, گوسٹاویا, गुस्ताव्हिया, குசுதாவியா, กุสตาวียา, გუსტავია, グスタビア, 居斯塔维亚, 구스타비아, 귀스타비아
