@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'40.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'19.51" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°59'9.52" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|12°44'44.24" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°8'25.08" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°39'42.97" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°2'55.11" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|14°7'21.31" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°59'9.35" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|12°44'49.37" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|25°8'37.14" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|9°39'44.09" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°19'50.07" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|14°7'21.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°59'9.35" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|12°44'49.37" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|25°8'25.08" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°39'42.97" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°2'55.11" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|25°8'37.14" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|9°39'44.09" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°19'50.07" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Filip'smpournk, Filipsburg, Filipsburgas, Great Bay, Philipsburg, fei li pu si bao, fi lipsburkh, firippusuburufu, flpsbrg, fylypsbwrg  synt martn, pilipcuparku, pillibseubwileuheu, Φίλιπσμπουργκ, Филипсбург, Філіпсбург, فلپسبرگ, فیلیپسبورگ، سینت مارتن, பிலிப்சுபர்கு, ฟีลิปส์บืร์ค, ფილიპსბურგი, フィリップスブルフ, 菲利普斯堡, 필립스뷔르흐

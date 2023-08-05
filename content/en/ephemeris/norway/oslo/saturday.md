@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|5°26'48.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°5'45.76" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°48'35.48" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|12°28'37.01" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°16'47.62" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°20'12.31" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|29°26'7.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|5°26'49.59" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|14°5'47.23" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°48'30.78" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|12°28'29.14" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|25°16'15.76" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|9°20'1.10" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|0°44'56.94" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Venus|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°48'35.48" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|12°28'37.01" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|25°16'47.62" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°20'12.31" |Virgo|Awwa|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|9°20'12.31" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|29°26'7.07" |Pisces|Rescha|Mars|
 
 

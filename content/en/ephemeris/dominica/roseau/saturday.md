@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°59'4.80" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|12°44'42.40" |Cancer|Nathrah|Mercury|
 |♀ Venus|Retrograde|25°8'40.81" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°39'35.72" |Leo|Zubrah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|9°39'35.72" |Leo|Zubrah|Saturn|
 |☾ Moon|Direct|3°18'0.21" |Pisces|FarghAlMuqaddam|Saturn|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°59'4.80" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|12°44'42.40" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|25°8'40.81" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|9°39'35.72" |Virgo|Awwa|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|9°39'35.72" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|3°18'0.21" |Aries|Sharatain|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조

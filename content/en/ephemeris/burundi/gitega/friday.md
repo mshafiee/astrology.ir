@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°30'34.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°0'13.45" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°12'43.75" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|11°33'34.76" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°44'2.82" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|8°12'31.78" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|15°1'5.36" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|14°0'15.47" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°12'43.64" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|11°33'40.82" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|25°44'16.22" |Cancer|Jabhah|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|8°12'33.36" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|14°56'46.75" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
+|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°30'34.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°0'15.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°12'43.64" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|11°33'40.82" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|25°44'2.82" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|8°12'31.78" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|15°1'5.36" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|14°0'16.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°12'42.58" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|11°33'40.29" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|25°44'11.95" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|8°12'31.26" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|15°12'47.90" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

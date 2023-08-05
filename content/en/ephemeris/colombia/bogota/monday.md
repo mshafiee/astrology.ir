@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'25.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°18'30.54" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°15'51.91" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°42'12.85" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|24°4'12.24" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°55'32.79" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°23'39.30" |Aries|Sharatain|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|14°18'30.45" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°15'52.03" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°42'12.90" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|24°4'12.59" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|11°55'33.03" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°20'55.72" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'25.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°18'30.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°15'51.91" |Virgo|Simak|Venus|
-|☉ Sun|Direct|14°42'12.85" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|24°4'12.24" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|11°55'32.79" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°23'39.30" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|14°18'30.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°15'52.03" |Virgo|Simak|Venus|
+|☉ Sun|Direct|14°42'12.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|24°4'12.59" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|11°55'33.03" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°20'55.72" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: BOG, Bagata, Bogot, Bogota, Bogoto, Bogotà, Bogotá, Boqota, Buoguota, Bógóta, Mponkota, Santa-Fe-de-Bogota, Santafe de Bogota, Santafe de Bogotá, Santafé de Bogotá, Wukuta, beageatta, bo ge da, bogota, bokota, bwghwta, bwgwta, bwgwth, bwjwta, pokotta, Μπογκοτά, Багата, Богота, Боґота, Санта-Фе-де-Богота, Բոգոտա, באגאטא, בוגוטה, بوجوتا, بوغوتا, بوگوتا, بگوٹا, بۆگۆتا, बोगोटा, बोगोता, বোগোতা, ਬੋਗੋਤਾ, ବୋଗୋଟା, பொகோட்டா, ಬೊಗೋಟ, ബൊഗോട്ട, โบโกตา, པོ་གོ་ཏ, ဘိုဂိုတာမြို့, ბოგოტა, ቦጎታ, ទីក្រុងបូកូតា, ボゴタ, 波哥大, 보고타
