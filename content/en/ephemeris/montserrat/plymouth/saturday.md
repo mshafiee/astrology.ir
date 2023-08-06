@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'41.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'20.96" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°7'20.96" |Aries|Butain|Sun|
 |♂ Mars|Direct|15°59'7.04" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|12°44'45.83" |Cancer|Nathrah|Mercury|
 |♀ Venus|Retrograde|25°8'39.02" |Cancer|Tarf|Moon|
 |☿ Mercury|Pre-Retrograde Shadow|9°39'39.84" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°4'1.74" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|3°18'53.15" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'41.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'20.96" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°7'19.09" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°59'7.02" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|12°44'40.02" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|25°8'24.82" |Leo|Sarfrah|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Plimouth, Plimut, Plimutas, Plimuto, Plymouth, Plymouth pa Montserrat, Plymouth på Montserrat, blymwth, peullimeoseu, phli math, plymwt, pu li mao si, purimasu, Πλίμουθ, Плимут, Плимът, Плімут, פלימות, بليموث, پلایماؤت، مانٹسریٹ, پلی‌موث، مونتسرات, พลิมัท, პლიმუთი, プリマス, 普利茅斯, 플리머스

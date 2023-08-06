@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'40.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'21.15" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°7'21.15" |Aries|Butain|Sun|
 |♂ Mars|Direct|15°59'8.24" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|12°44'47.66" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°8'38.05" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|9°39'42.04" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°19'22.45" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Retrograde|25°8'14.35" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|9°39'38.01" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°13'0.86" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'40.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'21.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°59'8.24" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|12°44'47.66" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|25°8'38.05" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|9°39'42.04" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°19'22.45" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°7'18.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°59'7.44" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|12°44'38.83" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|25°8'14.35" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|9°39'38.01" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°13'0.86" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Kin'nkstaoun, Kingstaun, Kingstauna, Kingstaunas, Kingstauno, Kingstaŭno, Kingstown, Kinqstaun, SVD, jin si dui, khing s thawn, kigasata'una, kincutavun, kingsata'una, kingseutaun, kingusutaun, kynghstawn, kyngztawn, Κίνγκσταουν, Κινγκστάουν, Кингстаун, Киҥстаун, Кінгстаун, Кінгстаўн, קינגסטאון, كينغستاون, کنگز ٹاؤن, کینگزتاون, किंग्सटाउन, ਕਿੰਗਸਟਾਊਨ, கிங்சுடவுன், คิงส์ทาวน์, ཁིན་སི་ཐོན།, კინგსტაუნი, ኪንግስታውን, キングスタウン, 金斯敦, 킹스타운

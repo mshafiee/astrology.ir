@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°5'41.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°32'47.86" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°32'47.86" |Aries|Butain|Sun|
 |♂ Mars|Direct|19°2'27.58" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|17°25'2.32" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|22°26'4.67" |Cancer|Tarf|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°5'41.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°32'47.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°2'27.58" |Virgo|Simak|Venus|
-|☉ Sun|Direct|17°25'2.32" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|22°26'4.67" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|14°46'0.76" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|9°44'5.15" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|14°32'48.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°2'25.42" |Virgo|Simak|Venus|
+|☉ Sun|Direct|17°24'59.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|22°25'54.99" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|14°45'55.42" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|10°12'31.56" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Venus|Jupiter|Saturn|Saturn|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}

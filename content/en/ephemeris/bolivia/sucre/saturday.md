@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'31.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'32.65" |Aries|Butain|Sun|
-|♂ Mars|Direct|16°0'37.49" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|12°46'57.84" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°7'7.61" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|9°42'23.92" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°44'25.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|14°7'34.58" |Aries|Butain|Sun|
+|♂ Mars|Direct|16°0'37.43" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|12°47'3.63" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|25°7'21.52" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|9°42'25.48" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|4°0'58.15" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'31.49" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'34.58" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°7'34.58" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|16°0'37.43" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|12°47'3.47" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|25°7'21.04" |Leo|Sarfrah|Mars|
 |☿ Mercury|Pre-Retrograde Shadow|9°42'25.36" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|4°1'23.92" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°0'58.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Chuqichaka, Ciudad Sucre, Ijoloti Sukre, SRE, Sik, Soukre, Sucre, Sucre toertenelmi ovarosa, Sucre történelmi óvárosa, Sukre, Sukreh, Sukri, Sukro, Sukrė, Súkre, su ke lei, su ker, sukare, sukeule, sukre, sukure, swkrh, swkry, swqrh, Σούκρε, Иёлоти Сукре, Сукре, Сукрэ, Սուկրե, סוקרה, سوكري, سوکره, سکرے, سۇكرې, सुक्रे, ਸੂਕਰੇ, ซูเกร, སུ་ཁུ་རེ།, სუკრე, スクレ, 苏克雷, 蘇克雷, 수크레

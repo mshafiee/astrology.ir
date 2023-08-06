@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°5'42.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°32'46.64" |Aries|Butain|Sun|
-|♂ Mars|Direct|19°2'18.03" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|17°24'47.76" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|22°26'13.91" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|14°45'46.52" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|9°40'56.93" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|14°32'47.86" |Aries|Butain|Sun|
+|♂ Mars|Direct|19°2'13.73" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|17°24'39.88" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|22°25'44.90" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|14°45'35.11" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°3'10.52" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Capricorn|Sun|Mars|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°5'42.96" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°32'46.64" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°32'46.64" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°2'18.03" |Virgo|Simak|Venus|
 |☉ Sun|Direct|17°24'47.76" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|22°26'13.91" |Leo|Sarfrah|Mars|

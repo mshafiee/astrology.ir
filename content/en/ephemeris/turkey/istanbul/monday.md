@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°18'45.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°16'47.07" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°3'37.39" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°23'29.54" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|24°14'47.09" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|11°34'34.27" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|28°8'19.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|14°16'46.56" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°3'38.27" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°23'30.30" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|24°14'50.98" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|11°34'36.26" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°50'13.12" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mercury|Jupiter|Sun|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°18'45.60" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°16'46.62" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°16'46.62" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°3'38.13" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|14°23'29.54" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|24°14'47.09" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|11°34'34.27" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|28°8'19.82" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|14°23'30.30" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|24°14'50.98" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|11°34'36.26" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|27°50'13.12" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

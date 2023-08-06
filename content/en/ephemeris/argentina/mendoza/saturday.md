@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'25.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'42.62" |Aries|Butain|Sun|
-|♂ Mars|Direct|16°1'30.81" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|12°48'24.50" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°6'32.93" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|9°44'2.82" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|4°28'58.93" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|14°7'40.74" |Aries|Butain|Sun|
+|♂ Mars|Direct|16°1'29.92" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|12°48'16.64" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|25°6'11.55" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|9°43'58.93" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|4°25'11.38" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°25'25.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°7'42.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|16°1'30.81" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|12°48'24.50" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|25°6'32.93" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|9°44'2.82" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|4°28'58.93" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°7'40.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°1'29.92" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|12°48'16.64" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|25°6'11.55" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|9°43'58.93" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|4°25'11.38" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>☍ Opp|<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Capital megye, Ciuda de Mendoza, Ciudad de Mendoza, Ciudá de Mendoza, MDZ, Mendos, Mendosa, Mendosae, Mendoza, Mentosa, Vila de Mendoza, men do sa, men duo sa, mendosa, mendoza, mndwsh, mndwza, myndwza, Μεντόσα, Мендоза, Мендосæ, Мендоса, Մենդոսա, מנדוסה, مندوزا, مندوسا، ارجنٹائن, میندوزا, मेन्दोज़ा, เมนโดซา, მენდოსა, メンドーサ, 门多萨, 멘도사

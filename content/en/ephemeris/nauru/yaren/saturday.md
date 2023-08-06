@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°28'9.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°3'49.29" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°35'49.49" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|12°9'4.81" |Cancer|Nathrah|Mercury|
-|♀ Venus|Retrograde|25°26'52.03" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|8°56'22.89" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|24°10'16.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|14°3'50.37" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°35'46.31" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|12°9'0.11" |Cancer|Nathrah|Mercury|
+|♀ Venus|Retrograde|25°26'32.18" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|8°56'15.57" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|25°3'51.86" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Mars|Jupiter|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Venus|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°28'9.13" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°3'49.29" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°3'49.29" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°35'49.49" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|12°9'4.81" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|25°26'52.03" |Leo|Sarfrah|Mars|

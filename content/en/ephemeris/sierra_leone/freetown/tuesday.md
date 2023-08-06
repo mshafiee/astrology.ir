@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°14'2.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°22'49.46" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°22'49.46" |Aries|Butain|Sun|
 |♂ Mars|Direct|17°46'58.64" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|15°29'46.40" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|23°36'20.30" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|12°47'35.08" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|12°52'20.03" |Aries|Butain|Sun|
+|♀ Venus|Retrograde|23°36'27.24" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|12°47'34.51" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|13°5'36.24" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°14'2.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°22'49.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°46'59.26" |Virgo|Simak|Venus|
-|☉ Sun|Direct|15°29'43.59" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|23°36'20.30" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|12°47'35.08" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|12°52'20.03" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°22'49.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°46'58.64" |Virgo|Simak|Venus|
+|☉ Sun|Direct|15°29'46.40" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|23°36'27.24" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|12°47'34.51" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|13°34'56.58" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Saturn|Mars|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
