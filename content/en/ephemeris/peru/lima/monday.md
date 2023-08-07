@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'20.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°18'35.77" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°16'36.96" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°43'13.34" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|24°2'46.44" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|11°56'44.71" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°27'23.94" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°18'36.81" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°16'39.92" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°43'24.13" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|24°3'21.68" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|11°56'53.58" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°30'2.91" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sagittarius|Moon|Moon|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'20.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°18'35.77" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°16'40.06" |Virgo|Simak|Venus|
-|☉ Sun|Direct|14°43'25.93" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|24°2'46.44" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|11°56'44.71" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°27'23.94" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|14°18'36.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°16'39.92" |Virgo|Simak|Venus|
+|☉ Sun|Direct|14°43'24.13" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|24°3'21.68" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|11°56'53.58" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°30'2.91" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Sun|Capricorn|Sun|Sun|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: LIM, Lim, Lima, Limae, Limaq, Lime, Limma, Limo, Lioma, Lungsod ng Lima, Lìmma, Líma, Líoma, Lîma, li ma, lima, lyma, lymh, rima, Λίμα, Лимæ, Лима, Лиме, Ліма, Լիմա, לימא, לימה, لىما, ليما, لیما, लिमा, लीमा, লিমা, ਲੀਮਾ, ଲିମା, லிமா, ലിമ, ลิมา, ལི་མ།, ლიმა, ሊማ, リマ, 利馬, 리마

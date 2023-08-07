@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|5°7'44.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°30'26.20" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°44'5.07" |Virgo|Simak|Venus|
-|☉ Sun|Direct|16°56'58.96" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|22°43'26.61" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|14°18'12.96" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°26'53.89" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|5°7'45.36" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|14°30'24.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°44'2.63" |Virgo|Simak|Venus|
+|☉ Sun|Direct|16°56'46.87" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|22°42'46.44" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|14°18'4.62" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°21'36.59" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

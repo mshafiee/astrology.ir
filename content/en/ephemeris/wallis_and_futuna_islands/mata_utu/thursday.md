@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|5°7'57.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°30'13.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°42'16.17" |Virgo|Simak|Venus|
-|☉ Sun|Direct|16°54'13.43" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|22°44'50.70" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|14°15'23.11" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°30'1.69" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|5°7'56.29" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|14°30'12.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°42'19.41" |Virgo|Simak|Venus|
+|☉ Sun|Direct|16°54'17.85" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|22°45'7.91" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|14°15'31.21" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°51'32.44" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

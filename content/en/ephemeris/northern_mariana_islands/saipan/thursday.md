@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'35.38" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°30'36.79" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°45'27.35" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|14°30'36.57" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°45'23.98" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|16°58'55.73" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|22°42'14.92" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|14°20'9.86" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°43'11.29" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|14°20'19.56" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°57'53.27" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: SPN, Saipan, Sajpan, saipan, Сайпан, 사이판
