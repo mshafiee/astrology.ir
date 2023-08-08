@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'45.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|14°41'29.83" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°13'13.73" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|19°12'56.85" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°17'26.27" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°26'21.78" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°9'13.38" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|20°13'14.18" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|19°12'56.95" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|21°17'26.75" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|16°26'22.85" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°1'17.66" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°13'13.73" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|19°12'56.85" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|21°17'26.27" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°26'21.78" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|16°26'21.78" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|3°9'13.38" |Cancer|Nathrah|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Djouba, Dschuba, Dzhuba, Goba, JUB, Juba, Uula, g'wbh, juba, jwba, Джуба, ג'ובה, جوبا, 주바

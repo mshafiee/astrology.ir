@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°12'48.74" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°12'18.85" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|21°17'51.59" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°25'48.38" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°25'48.38" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°2'2.06" |Gemini|HaqAh|Jupiter|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'48.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'26.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°12'48.74" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°12'18.85" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|14°41'28.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°12'44.01" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°12'10.43" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|21°17'21.56" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°25'35.46" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|16°25'35.46" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|3°2'46.92" |Cancer|Nathrah|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

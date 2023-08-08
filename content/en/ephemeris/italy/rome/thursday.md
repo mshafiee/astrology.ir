@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°6'9.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°32'16.02" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°58'18.12" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|17°18'41.10" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|22°29'58.06" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|14°39'46.60" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|8°17'55.09" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|14°32'15.55" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°58'19.00" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|17°18'41.97" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|22°30'1.62" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|14°39'48.73" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|8°4'47.49" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -325,7 +325,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Mercury|Sun|Virgo|Sun|Mars|
 |♂ Mars|Saturn|Mercury|Pisces|Moon|Venus|
 |☉ Sun|Sun|Jupiter|Capricorn|Sun|Mars|
-|♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
+|♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
 |☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°6'9.75" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°32'16.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°58'18.12" |Virgo|Simak|Venus|
-|☉ Sun|Direct|17°18'41.10" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|22°29'58.06" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|14°39'46.60" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|14°32'16.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°58'18.26" |Virgo|Simak|Venus|
+|☉ Sun|Direct|17°18'41.42" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|22°29'59.19" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|14°39'46.98" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|8°17'54.08" |Gemini|HanAh|Jupiter|
 
 

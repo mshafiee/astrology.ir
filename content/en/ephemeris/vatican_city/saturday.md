@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'40.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'32.59" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°13'51.29" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|19°13'47.64" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°16'21.96" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°27'9.43" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°10'36.96" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|14°41'34.30" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°13'51.84" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|19°13'54.57" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|21°16'46.31" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|16°27'12.46" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°18'51.44" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'40.96" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'32.59" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°13'51.29" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°13'47.64" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°16'21.96" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°27'9.43" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°10'36.96" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°41'34.30" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°13'51.84" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°13'54.57" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°16'46.31" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°27'12.46" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°18'51.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Citta del Vaticano, Città del Vaticano, Ciudad del Vaticano, Etat de la Cite du Vatican, Staat Vatikanstadt, Staat der Vatikanstadt, Vatican, Vatican City, Vatican City State, Vaticano, Vatikan, Vatikanas, Vatikanstaden, Vatikanstadt, batikan, batikan si, État de la Cité du Vatican, Ватикан, 바티칸, 바티칸 시

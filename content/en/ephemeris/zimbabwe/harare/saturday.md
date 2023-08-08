@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|4°57'40.46" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|14°41'34.93" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°13'56.29" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|19°14'1.00" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°16'38.91" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°27'17.96" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°16'36.95" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|19°13'58.19" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|21°16'29.38" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|16°27'16.20" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°55'18.75" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'40.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'34.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°13'56.81" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°14'1.81" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°16'42.06" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°27'19.40" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°15'48.90" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°41'34.33" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°13'55.80" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°13'58.19" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°16'29.38" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°27'16.20" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°55'18.75" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Arare, Charare, HRE, Harare, Hararensis Urbs, Harareo, Hararė, Kharare, Kharareh, Salisbury, ha la lei, halale, harare, harary, hrarh, hrary, Χαράρε, Хараре, Харарэ, Հարարե, הארארה, هارارى, هراره, هراري, ھارارې, ھەرارێ, ہرارے, हरारे, ਹਰਾਰੇ, ହାରାରେ, ஹராரே, ฮาราเร, ཧ་ར་རི།, ჰარარე, ሀራሬ, ハラレ, 哈拉雷, 하라레

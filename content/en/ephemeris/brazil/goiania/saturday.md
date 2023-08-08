@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°56'43.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°42'33.74" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°22'20.13" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|19°26'47.96" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°8'25.73" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°38'28.49" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|5°50'46.55" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|14°42'34.21" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°22'19.58" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|19°26'47.86" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|21°8'25.33" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|16°38'27.21" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°0'18.04" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Mercury|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°56'43.50" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°42'34.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°22'19.58" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°26'47.96" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°8'25.73" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°38'28.49" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|5°50'46.55" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°42'32.44" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°22'20.12" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°26'44.10" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°8'12.23" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°38'27.51" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|5°7'8.64" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

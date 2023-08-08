@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|5°17'7.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°18'54.86" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°18'46.00" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°46'38.79" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|24°1'16.54" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|12°0'24.93" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°48'13.62" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|5°17'7.67" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|14°18'53.26" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°18'43.91" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°46'28.32" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|24°1'5.52" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|12°0'21.38" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°0'40.24" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'7.05" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°18'54.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°18'46.00" |Virgo|Simak|Venus|
-|☉ Sun|Direct|14°46'38.79" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|24°1'38.47" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|12°0'28.45" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°25'4.80" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|14°18'53.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°18'43.91" |Virgo|Simak|Venus|
+|☉ Sun|Direct|14°46'28.32" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|24°1'5.52" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|12°0'21.38" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°0'40.24" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스

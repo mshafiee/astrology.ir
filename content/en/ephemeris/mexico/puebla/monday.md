@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|14°18'47.67" |Aries|Butain|Sun|
 |♂ Mars|Direct|17°17'54.71" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|14°45'20.57" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|24°2'25.30" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|11°59'1.58" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°57'51.59" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|24°2'24.89" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°59'1.48" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°5'32.54" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'12.59" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°18'46.34" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°17'51.12" |Virgo|Simak|Venus|
-|☉ Sun|Direct|14°45'7.02" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|24°1'41.02" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|11°58'50.66" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°57'51.59" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|14°18'47.65" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°17'54.67" |Virgo|Simak|Venus|
+|☉ Sun|Direct|14°45'20.44" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|24°2'24.89" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|11°59'1.48" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°5'32.54" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Angelopolis, Byen Puebla, Cuetlaxcoapan, Ehroika-Puehbla-deh-Saragosa, Heroica Puebla de Zaragoza, Heróica Puebla de Zaragoza, Lungsod ng Puebla, PBC, Pouempla, Puebl, Puebla, Puebla City, Puebla de Saragosa, Puebla de Zaragoza, Puebla de los Angeles, Puebla de los Ángeles, Puehbla-de-Saragosa, Puehblae-de-Saragosae, Yucha Nchu'u, bwybla, pu ai bu la, pu'aibala, pu'ebla, puebeulla, puebura, pwybla  pwybla, pwybla. pwybla, Πουέμπλα, Пуебла, Пуэблæ-де-Сарагосæ, Пуэбла-де-Сарагоса, Эроіка-Пуэбла-дэ-Сарагоса, פואבלה, بويبلا, پوئبلا، پوئبلا, پوئبلا٬ پوئبلا, पुएब्ला, ਪੁਐਬਲਾ, პუებლა, プエブラ, 普埃布拉, 푸에블라

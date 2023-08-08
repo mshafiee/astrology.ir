@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°15'33.14" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°16'28.34" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|21°15'2.12" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°29'27.21" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°29'27.21" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°46'0.59" |Gemini|HaqAh|Jupiter|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'29.53" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'45.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°15'29.10" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°16'14.06" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°14'11.95" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°29'14.41" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°26'40.70" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°41'46.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°15'33.14" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°16'28.34" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°15'2.12" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°29'27.21" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°46'0.59" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Gouintchouk, Vindguk, Vindhuk, Vindhuka, Vindhukas, Vindhuko, Vindkhuk, Vinduque, Vindxuk, Vintchouk, WDH, Windhoek, Windhuk, Windoek, Windoèk, Wynhoeke, binteuhukeu, u~intofukku, vatahuka, vindahoka, vintok, wen de he ke, wen he ke, win dhuk, wwynthwq, wyndhwk, wyndhwq, wyndھwk, wynٹہwk, Βίντχουκ, Γουίντχουκ, Виндхук, Віндгук, Віндхук, Վինդհուկ, ווינטהוק, וינדהוק, ونڈہوک, ويندهوك, ویندهوک, ویندھوک, وینٹہوک, विंडहोक, ਵੰਟਹੁਕ, விந்தோக், วินด์ฮุก, ཝིན་ཌི་ཧོཡིཀ།, ვინდჰუკი, ዊንድሁክ, ウィントフック, 温得和克, 溫得和克, 溫荷克, 빈트후크

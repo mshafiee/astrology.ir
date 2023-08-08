@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°16'4.05" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°17'16.45" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|21°14'39.97" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°30'9.70" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°30'9.70" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|4°5'30.90" |Gemini|HaqAh|Jupiter|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'25.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'49.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°16'4.05" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°17'16.45" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°14'39.97" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°30'9.70" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|4°5'30.90" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°41'51.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°15'59.52" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°17'8.31" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°14'11.05" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°29'57.27" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|4°4'35.07" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: NIM, Niame, Niamei, Niamej, Niameja, Niamejus, Niameo, Niamey, Niamè, Niamėjus, Nijamej, Níamey, ni ya mei, ni'ami, niame, niamei, nixame, niyame, niyami, nyamy, nyʼmyy, Νιαμέι, Νιαμέυ, Ниамей, Нијамеј, Ніамей, Ніямей, Նիամեյ, ניאמיי, نيامي, نیامی, نیامەی, ܢܝܐܡܝ, नियामे, নিয়ামে, ਨਿਆਮੀ, நியாமி, นีอาเม, ནི་ཡ་མེ།, ნიამეი, ኒያሜ, ニアメ, 尼亞美, 니아메

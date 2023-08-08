@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'35.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'40.28" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°41'41.85" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°14'38.14" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°15'5.28" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|21°15'37.68" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°28'9.54" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°47'13.45" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|16°28'17.84" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°28'16.22" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'35.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'40.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°14'41.33" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°15'9.30" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°15'52.09" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°28'17.84" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°28'16.22" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°41'41.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°14'38.14" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°15'5.28" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°15'37.68" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°28'9.54" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°47'13.45" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: GBE, Gabaroneh, Gaberones, Gaberones Village, Gaberono, Gaboron, Gaboronas, Gaborone, Gaboròn, Gaboróne, IGaborone, Nkamporone, Qaborone, gabolone, gaborone, gaboroni, gabwrwn, gbrwn, gebaroni, goborni, haborone, jabwrwn, jia bai long li, jia bo long li, ka bo rone, kaparoni, Γκαμπορόνε, Габаронэ, Габороне, Գաբորոնե, גאבאראן, גאבורון, جابورون, گابورون, گابۆرۆن, گبرون, गॅबारोनी, गोबोर्नी, ਗਾਬੋਰੋਨੀ, காபரோனி, กาโบโรเน, ག་བོ་རོ་ནི།, გაბორონე, ጋበሮኔ, ጋቦሮን, ハボローネ, 嘉柏隆里, 嘉波隆里, 가보로네

@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°15'38.18" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°16'36.99" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|21°15'5.07" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°29'35.12" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|16°29'35.12" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°56'45.06" |Gemini|HaqAh|Jupiter|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'28.86" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|14°41'46.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°15'32.18" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°16'19.73" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°14'4.09" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°29'17.04" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°43'9.25" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|20°15'38.18" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°16'36.99" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°15'5.07" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°29'32.00" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°41'20.42" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'26.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°18'30.01" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°15'48.90" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°42'8.19" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|24°4'15.81" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|11°55'27.77" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°19'45.60" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|14°18'28.69" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°15'45.60" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°41'55.51" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|24°3'34.57" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°55'17.67" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°12'7.67" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'26.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°18'29.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°15'48.94" |Virgo|Simak|Venus|
-|☉ Sun|Direct|14°42'8.20" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|24°4'15.90" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|11°55'27.84" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°18'53.52" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|14°18'28.69" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°15'45.60" |Virgo|Simak|Venus|
+|☉ Sun|Direct|14°41'55.51" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|24°3'34.57" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|11°55'17.67" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°12'7.67" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: CTG, Caratagena de Indias, Cartagena, Cartagena das Indias, Cartagena das Índias, Cartagena de Indias, Cartaxena de Indias, Carthagene, Carthagene des Indes, Carthagène, Carthagène des Indes, Kartachena, Kartageno, Kartakhena, Kartakhena de Indijas, ka ta he na, kaleutahena, kartagyna, kartajyna, karutahena, qrtajnt  kwlwmbya, qrthnh, Картахена, Картахена де Индијас, קרטחנה, قرطاجنة، كولومبيا, کارتاجینا, کارتاگینا, კარტახენა, カルタヘナ, 卡塔赫纳, 카르타헤나

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'53.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°30'15.67" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°42'33.94" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|16°54'34.94" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|22°43'58.62" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|14°15'46.26" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°2'33.92" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|14°30'15.12" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°42'35.11" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|16°54'38.85" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|22°44'12.16" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|14°15'49.81" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°13'33.82" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|5°7'55.75" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°30'15.67" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°42'33.94" |Virgo|Simak|Venus|
-|☉ Sun|Direct|16°54'34.94" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|5°7'53.99" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|14°30'15.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°42'39.92" |Virgo|Simak|Venus|
+|☉ Sun|Direct|16°54'49.32" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|22°44'49.89" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|14°16'2.84" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|14°16'2.84" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|2°59'9.58" |Gemini|HaqAh|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

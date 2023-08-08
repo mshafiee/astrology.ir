@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'38.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'36.35" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°14'12.35" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|19°14'24.62" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°16'21.65" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°27'39.54" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°12'14.63" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|14°41'34.77" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°14'11.71" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|19°14'17.97" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|21°15'58.33" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|16°27'36.40" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°9'4.38" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|4°57'38.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'36.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°14'11.87" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°14'24.62" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°16'21.65" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°27'39.54" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°12'14.63" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|4°57'38.91" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|14°41'34.77" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°14'11.71" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°14'17.97" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°15'58.33" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°27'36.40" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°9'4.38" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Embabane, Mabane, Mbaban, Mbabane, Mbabaneh, Mbabano, Mbabanė, Mbabàn, Mpampane, QMN, ababane, ambabane, ambabany, eumbabane, impapan, mbaban, mbabane, mbabanh, mbabyn, mbbnh, mo ba ben, mubabane, xam ba bane, Μπαμπάνε, Мбабане, Мбабанэ, Մբաբանե, מבאבאנע, מבבנה, امبابانی, مبابان, مبابانه, مبابانێ, مبابین, अंबाबाने, ਅੰਬਾਬਾਨੇ, இம்பபான், อัมบาบาเน, མ་པ་པན།, მბაბანე, ምባባኔ, ムババーネ, 墨巴本, 음바바네

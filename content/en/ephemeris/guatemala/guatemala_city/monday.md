@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°17'16.87" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Direct|14°18'42.14" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°17'9.54" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|14°44'7.27" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|24°2'13.10" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|11°57'39.48" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°44'35.11" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°17'15.27" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|14°44'20.27" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|24°3'0.05" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°57'54.61" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°51'10.52" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sagittarius|Moon|Moon|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|14°18'42.14" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°17'15.27" |Virgo|Simak|Venus|
 |☉ Sun|Direct|14°44'20.27" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|24°2'13.10" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|11°57'39.48" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°44'35.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Retrograde|24°3'0.05" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|11°57'54.61" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°51'10.52" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Cidade da Guatemala, Citta del Guatemala, Città del Guatemala, Ciudad Guatemala, Ciudad de Guatemala, Ciutat de Guatemala, GUA, Guate, Guatemala, Guatemala City, Guatemala Hiria, Guatemala by, Guatemala la Nueva, Guatemala-Stadt, Guatemala-Urbo, Guatemala-stad, Gvatemala, Gvatemalurbo, Gwatemala, New Guatemala, Nueva Guatemala, Nueva Guatemala de la Asuncion, Nueva Guatemala de la Asunción, Pole tes Gouatemalas, Santiago de Guatimala, gua de ma la shi, guatemarashiti, gwatemalla si, gwatemallasiti, kawtemalasiti, mdynt ghwatymala, shhr gwatmala, Πόλη της Γουατεμάλας, Гватемала, גואטמלה סיטי, גוואטמלה סיטי, شهر گواتمالا, مدينة غواتيمالا, กัวเตมาลาซิตี, グアテマラシティ, 瓜地馬拉市, 과테말라 시, 과테말라시티

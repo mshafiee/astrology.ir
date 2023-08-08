@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°14'17.30" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°14'33.30" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|21°16'20.82" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°27'46.48" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°27'41.61" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|16°27'46.48" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°26'33.14" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'38.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'35.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°14'17.21" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°14'27.99" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°16'2.35" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°27'44.95" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°27'41.61" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°41'37.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°14'16.14" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°14'32.78" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°16'18.76" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°27'43.66" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°44'8.08" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MCM, Monaco, Monaco-Ville, Monako, Mònaco, Mónaco, Mónakó, monako, Μονακό, Монако, 모나코
