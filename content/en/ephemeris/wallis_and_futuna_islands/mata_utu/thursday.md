@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'56.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°30'12.47" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°42'19.41" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|16°54'17.85" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|22°45'7.91" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|14°15'31.21" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°51'32.44" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|14°30'13.07" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°42'14.08" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|16°54'5.48" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|22°44'23.69" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|14°15'16.57" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°59'37.18" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

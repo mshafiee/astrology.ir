@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|14°30'17.92" |Aries|Butain|Sun|
 |♂ Mars|Direct|18°43'1.64" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|16°55'22.74" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|22°43'40.34" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|14°16'19.46" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°16'43.53" |Taurus|Thurayya|Mercury|
+|♀ Venus|Retrograde|22°44'31.46" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|14°16'36.41" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°7'32.56" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|18°43'1.64" |Virgo|Simak|Venus|
 |☉ Sun|Direct|16°55'22.74" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|22°44'31.46" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|14°16'19.46" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°16'43.53" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|14°16'36.41" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°7'32.56" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Juzhnaja Tarava, South Tarawa, Sued-Tarawa, Süd-Tarawa, TRW, Tarawa, Tarawa Sud, Tarawa do Sul, Tarawa-Sud, Zuid-Tarawa, namtalawa, sauseutalawa, talawa, Южная Тарава, דרום טאראווה, 남타라와, 사우스타라와, 타라와

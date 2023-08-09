@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'35.44" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'41.09" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°14'41.00" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|19°15'10.75" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°15'56.21" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|16°28'17.27" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°52'10.90" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|14°41'40.29" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°14'41.31" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|19°15'9.02" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|21°15'57.97" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|16°28'21.51" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°20'23.86" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루

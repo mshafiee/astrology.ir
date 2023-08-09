@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'42.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°30'28.69" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°44'24.78" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|16°57'29.74" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|14°30'29.63" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°44'20.67" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|16°57'21.66" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|22°43'13.62" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|14°18'43.83" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°36'17.23" |Taurus|Thurayya|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르

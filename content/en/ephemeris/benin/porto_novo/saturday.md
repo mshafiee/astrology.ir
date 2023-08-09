@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|14°41'51.04" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°16'13.19" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°17'30.31" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°14'14.79" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|16°30'14.43" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°13'7.73" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Retrograde|21°14'30.45" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|16°30'21.81" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°7'51.08" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|4°57'24.90" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|14°41'51.04" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°16'13.19" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°17'25.89" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°14'14.79" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|16°30'14.43" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|4°13'7.73" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°17'30.31" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°14'30.45" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°30'21.81" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|4°7'51.08" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Borto-Novo, Porta-Nova, Porto Neuvo, Porto Nobo, Porto Novas, Porto Novo, Porto-Novo, Portonovo, Portus Novus, Poto-Novo, Pòrto Neuvo, Pòto-Novo, Pôrto-Novo, bo duo nuo fu, bo tu nu bu, bwrtw nwfw, poleutonobo, porato-novo, porto-novho, porutonobo, pwrtw nwbw, pwrtw nwww, pxr to-no wo, xin gang, Πόρτο Νόβο, Πόρτο-Νόβο, Порта-Нова, Порто Ново, Порто-Ново, Պորտո Նովո, פארטא-נאווא, פורטו נובו, بورتو نوفو, پورتو نووو, پورٹو نووو, پۆرتۆ نۆڤۆ, पोर्तो-नोव्हो, ਪੋਰਤੋ-ਨੋਵੋ, ปอร์โต-โนโว, པོར་ཊོ་-ནོ་བོ།, პორტო-ნოვო, ፖርቶ ኖቮ, ポルトノボ, 新港, 波圖奴埠, 波多诺伏, 포르토노보

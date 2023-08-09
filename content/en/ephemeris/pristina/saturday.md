@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'47.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'28.94" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°12'49.96" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|19°12'18.52" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°17'10.12" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|16°25'42.72" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°55'7.86" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|14°41'27.53" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°12'54.71" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|19°12'27.49" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|21°17'42.12" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|16°25'55.87" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°0'1.16" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PRN, Prestena, Prishhina, Prishtina, Prishtinae, Prishtine, Prishtinë, Prisjtina, Pristin, Pristina, Pristine, Pristino, Pristína, Prisztina, Prixtina, Priŝtino, Priştina, Priştine, Prištin, Priština, Priștina, Pryshcina, Prìstina, Prėštėna, bryshtyna, peulisyutina, phrich ti na, piristina, prisatina, pristina, pryshtyna, prystynh, prysٹyna, pu li shen di na, purishutina, Πρίστινα, Приштинæ, Приштина, Прищина, Прышціна, Պրիշտինա, פרישטינה, بريشتينا, پریسٹینا, پریشتینا, प्रिस्टिना, ਪ੍ਰਿਸ਼ਤੀਨਾ, பிரிஸ்டினா, พริชตีนา, པི་རི་སི་ཊི་ན།, პრიშტინა, プリシュティナ, 普里什蒂納, 普里什蒂纳, 프리슈티나

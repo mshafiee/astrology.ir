@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|14°41'40.63" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°14'45.15" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°15'16.22" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°15'25.47" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|21°15'57.30" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|16°28'24.29" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°39'46.26" |Gemini|HaqAh|Jupiter|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'34.85" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'40.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°14'45.15" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°15'16.22" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°15'57.30" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|16°28'24.29" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°39'46.26" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°41'42.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°14'39.95" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°15'6.49" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°15'22.57" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°28'9.91" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°34'30.25" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나

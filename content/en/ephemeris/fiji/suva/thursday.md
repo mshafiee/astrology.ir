@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|14°30'18.05" |Aries|Butain|Sun|
 |♂ Mars|Direct|18°43'2.27" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|16°55'23.07" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|22°43'57.12" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|14°16'28.60" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°50'29.34" |Taurus|Thurayya|Mercury|
+|♀ Venus|Retrograde|22°44'25.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|14°16'36.75" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°5'25.77" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'51.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°30'17.70" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°42'59.46" |Virgo|Simak|Venus|
-|☉ Sun|Direct|16°55'14.75" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|22°43'57.12" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|14°16'28.60" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°50'29.34" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|14°30'18.05" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°43'2.27" |Virgo|Simak|Venus|
+|☉ Sun|Direct|16°55'23.07" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|22°44'25.82" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|14°16'36.75" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°5'25.77" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

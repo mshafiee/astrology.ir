@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|4°57'39.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'35.52" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°14'2.17" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|19°14'10.00" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°16'33.72" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|16°27'25.94" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°19'27.53" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|4°57'39.92" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|14°41'33.58" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°14'2.10" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|19°14'3.82" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|21°16'12.14" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|16°27'24.20" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°10'8.47" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'39.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'35.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°14'2.55" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°14'9.80" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°16'33.08" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|16°27'26.75" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°9'28.52" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°41'33.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°14'2.10" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°14'3.82" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°16'12.14" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°27'24.20" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°10'8.47" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Bandar Luxembourg, Ciudad de Luxemburgo, Ciutat de Luxemburg, Dinas Lwcsembwrg, LUX, Letzebuerg, Letzeburg, Liksanbou, Liuksemburgas, Ljuksemburg, Louxemvourgo, Lucemburk, Lucilinburhuc, Lucsamburg, Lucsemburg, Lueksemburg, Lueksemburq, Luessemburgh, Luksambuur, Luksemboarch, Luksembourg, Luksemburg, Luksemburga, Luksemburgo, Luksemburgu, Luksembùrg, Luksimbur, Lungsod ng Luksemburgo, Lusenburgo, Lussemborgh, Lussemburgo, Lussemburgu, Lussimbork veye, Luxemboerg, Luxemborg, Luxemborj, Luxembourg, Luxembourg by, Luxemburg, Luxemburgo, Luxemburgum, Luxembuurich, Luxembôrg, Luxembörg, Luxenburgo, Lëtzebuerg, Lúksemboarch, Lúxemborg, Lüksemburg, Lüksemburq, Lüssemburgh, Rakapuo, Rakapuō, Stad Letzebuerg, Stad Lëtzebuerg, Stadt Luxemburg, Ville de Luxembourg, lak sem beirk, lakcampark, lakjhembarga, lksmbrg, lu sen bao cheng, lu sen bao shi, lugsembuleukeu, luksemaburga, luksemburgi, lwksmbwrgh, lwkzambwrg, lwqsmbwrg, rukusenburuku, Λουξεμβούργο, Луксембург, Люксембург, Лүксембург, Լյուքսեմբուրգ, לוקסמבורג, لوكسمبورغ, لوکزامبورگ, لوکسەمبورگ, ليۇكسېمبۇرگ شەھىرى, لکسمبرگ, लक्झेंबर्ग, লুক্সেমবুর্গ, லக்சம்பர்க், ลักเซมเบิร์ก, ལུ་སེམ་བའུརག, ლუქსემბურგი, ሉክሰምበርግ, ルクセンブルク, 盧森堡城, 盧森堡市, 룩셈부르크
