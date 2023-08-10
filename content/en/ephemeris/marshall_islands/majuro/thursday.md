@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'51.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°30'17.87" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°30'17.87" |Aries|Butain|Sun|
 |♂ Mars|Direct|18°43'1.39" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|16°55'22.45" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|22°44'32.45" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|14°16'36.12" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°16'36.12" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°7'49.11" |Taurus|Thurayya|Mercury|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'51.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°30'17.87" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°30'17.87" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|18°43'1.39" |Virgo|Simak|Venus|
-|☉ Sun|Direct|16°55'9.17" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|22°43'46.08" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|14°16'22.59" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°49'18.01" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|16°55'22.45" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|22°44'32.45" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|14°16'36.12" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°7'49.11" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

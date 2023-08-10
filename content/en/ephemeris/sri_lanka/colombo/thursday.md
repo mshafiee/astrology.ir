@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°6'47.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°31'33.29" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°52'34.60" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|17°9'58.15" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|22°35'17.45" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|14°31'7.23" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°52'22.64" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|14°31'32.23" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°52'36.72" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|17°10'0.60" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|22°35'27.29" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|14°31'12.46" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°23'48.28" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Capricorn|Sun|Mars|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°6'47.67" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°31'33.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°52'34.60" |Virgo|Simak|Venus|
-|☉ Sun|Direct|17°9'58.15" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|22°35'17.45" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|14°31'12.46" |Virgo|Awwa|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|14°31'32.23" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°52'36.72" |Virgo|Simak|Venus|
+|☉ Sun|Direct|17°10'0.60" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|22°35'27.29" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|14°31'12.46" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|6°23'48.28" |Gemini|HanAh|Jupiter|
 
 

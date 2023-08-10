@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'45.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'29.63" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°13'7.40" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|19°12'46.91" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°17'23.88" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|16°26'11.66" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°7'32.72" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'29.14" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°13'8.28" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|19°12'48.12" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|21°17'28.48" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|16°26'14.01" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°4'3.27" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'45.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'29.63" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'29.63" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°13'7.40" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|19°12'46.91" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|21°17'23.88" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|16°26'11.66" |Virgo|Awwa|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|16°26'11.66" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|3°7'32.72" |Cancer|Nathrah|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bosna-Sarai, SJJ, Saarayego, Saireavo, Sairéavó, Saraeva, Saraevo, Saraevo osh, Saragebo, Saragiebo, Saragievo, Sarajeva, Sarajevas, Sarajevo, Sarajevs, Sarajevu, Sarajevó, Sarajewo, Sarajèvo, Saraxevo, Saraybosna, Sarayevo, Sarayevu, Seraium, Serayevo, Szarajevo, Szarajevó, Vrh Bosna, carayevo, sa la re wo, sai la ye fu, salayebo, saraevo, saraevu~o, sarajyww, sarayavea, sarayebho, sarayevho, sarayevo, sarayewo, sarayh ww, sarayww, sarayyfw, srayyfw, srayyww, sryybw, Σαράγεβο, Σαράγιεβο, Σαραγιεβο, Сараева, Сараево, Сараево ош, Сараєво, Сарајево, Сараѥво, Սարաևո, סאראיעווא, סרייבו, ساراجیوو, ساراييفو, سارايېۋو, سارایه وو, سارایوو, سارایێڤۆ, سرائیوو, سراييفو, सारायेव्हो, সারায়েভো, ਸਾਰਾਯੇਵੋ, சாரயேவோ, സരയാവോ, ซาราเยโว, ས་ར་ཇི་བོ།, სარაევო, ሳራዬቮ, サラエヴォ, 塞拉耶佛, 薩拉熱窩, 사라예보

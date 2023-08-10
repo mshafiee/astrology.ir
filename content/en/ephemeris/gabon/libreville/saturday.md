@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'28.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'47.18" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'47.18" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°15'40.39" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°16'40.22" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|21°15'1.74" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|16°29'37.89" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|16°29'37.89" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°56'8.45" |Gemini|HaqAh|Jupiter|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'28.62" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'47.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°15'40.39" |Virgo|Simak|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'47.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°15'34.05" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|19°16'23.86" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|21°14'3.89" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|16°29'19.27" |Virgo|Awwa|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|16°29'19.27" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|2°59'30.31" |Cancer|Nathrah|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: LBV, Libarwil, Liberopolis, Librefille, Librehvil', Librevil, Librevil', Librevila, Librevilis, Libreville, Librevilo, Librvil, Libvil, Limprebil, Limprvil, Liuravila, lbrwl, lbrywyl, li be rx wil, li bo wei er, libaravila, libarevile, libeuleubil, librevhila, librevili, lipravil, lybrfyl, lybrwwyl, lybrwyl, riburuvu~iru, Λιμπρβίλ, Λιμπρεβίλ, Либрвил, Либревил, Либревиль, Лібревіль, Лібрэвіль, Լիբրևիլ, ליברוויל, ליברעוויל, لبرول, لبریویل, ليبرفيل, لیبرویل, لیبرێڤیل, लिबरेविले, लिब्रेव्हिल, ਲਿਬਰਵਿਲ, லிப்ரவில், ลีเบรอวิล, ལིབ་རེ་ཝིལ།, ლიბრევილი, ሊብረቪል, リーブルヴィル, 利伯維爾, 利伯维尔, 리브르빌

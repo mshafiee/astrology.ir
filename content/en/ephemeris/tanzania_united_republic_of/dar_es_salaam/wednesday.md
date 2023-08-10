@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°10'27.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°27'13.27" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°27'13.27" |Aries|Butain|Sun|
 |♂ Mars|Direct|18°19'35.32" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|16°19'35.31" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|23°6'26.77" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|13°40'9.02" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|24°29'23.37" |Aries|Butain|Venus|
+|♀ Venus|Retrograde|23°6'28.31" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|13°40'7.40" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|25°2'45.79" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Capricorn|Sun|Mars|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°10'27.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°27'13.27" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°27'13.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|18°19'35.32" |Virgo|Simak|Venus|
 |☉ Sun|Direct|16°19'35.31" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|23°6'28.31" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|13°40'7.40" |Virgo|Awwa|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|13°40'7.40" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|25°2'45.79" |Taurus|HaqAh|Saturn|
 
 

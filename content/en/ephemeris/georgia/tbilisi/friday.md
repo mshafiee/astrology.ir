@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°2'19.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°36'35.42" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°36'35.42" |Aries|Butain|Sun|
 |♂ Mars|Direct|19°32'41.06" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|18°11'8.23" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|21°56'56.10" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|15°30'2.07" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|20°11'48.29" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|15°30'10.89" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°48'6.71" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°2'19.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°36'35.42" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°36'36.87" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°32'37.67" |Virgo|Simak|Venus|
 |☉ Sun|Direct|18°11'3.29" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|21°56'37.65" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|15°30'2.07" |Virgo|Awwa|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|15°30'2.07" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|20°11'48.29" |Gemini|Dhira|Sun|
 
 

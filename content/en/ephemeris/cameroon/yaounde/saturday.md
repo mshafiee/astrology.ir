@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'30.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'44.99" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'44.99" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°15'21.91" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°16'12.13" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|21°15'20.43" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|16°29'13.30" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|16°29'13.30" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°50'44.74" |Gemini|HaqAh|Jupiter|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'30.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'44.99" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'44.99" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°15'21.91" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|19°16'12.13" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|21°15'20.43" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|16°29'13.30" |Virgo|Awwa|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|16°29'13.30" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|3°50'44.74" |Cancer|Nathrah|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Giaounte, Jande, Jaunde, Jaundeh, Jaundeo, Jaundė, Jaúnde, Jánde, YAO, Yaounde, Yaoundé, Yaunde, Yaundé, Yawunde, iaunde, ya wen de, ya'unde, yaunde, yavunte, yawndy, yaxunde, yaywndh, ye wen de, Γιαουντέ, Јаунде, Яунде, Яўндэ, Յաունդե, יאונדה, יאונדע, ياوندي, یاؤندے, یائونده, یائوندێ, یاونڈی, याउंदे, ਯਾਊਂਦੇ, யாவுண்டே, ยาอุนเด, ཡོན་དྷི།, იაუნდე, ያዉንዴ, ヤウンデ, 耶溫得, 雅温得, 야운데

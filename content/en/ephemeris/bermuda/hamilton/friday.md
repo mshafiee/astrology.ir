@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|5°0'58.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°38'3.51" |Aries|Butain|Sun|
-|♂ Mars|Direct|19°44'35.07" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|18°29'8.84" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°44'35.90" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|15°46'56.79" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|22°28'30.69" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|5°0'58.75" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|14°38'3.41" |Aries|Butain|Sun|
+|♂ Mars|Direct|19°44'37.77" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|18°29'20.20" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|21°45'15.11" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|15°47'5.67" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°36'8.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Mars|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°0'58.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°38'3.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°44'35.07" |Virgo|Simak|Venus|
-|☉ Sun|Direct|18°29'22.08" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°45'21.87" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|15°47'7.29" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°47'3.00" |Gemini|Dhira|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°38'3.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°44'37.77" |Virgo|Simak|Venus|
+|☉ Sun|Direct|18°29'20.20" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°45'15.11" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|15°47'5.67" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|23°36'8.77" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

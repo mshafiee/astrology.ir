@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°46'44.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°52'19.74" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°52'19.74" |Aries|Butain|Sun|
 |♂ Mars|Direct|21°49'44.41" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|21°39'51.06" |Cancer|Tarf|Moon|
 |♀ Venus|Retrograde|19°42'23.80" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|18°24'50.16" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°51'34.52" |Cancer|Nathrah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|18°24'41.06" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°23'26.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°46'44.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°52'19.74" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°52'19.74" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°49'44.41" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|21°39'51.06" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|19°42'23.80" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|18°24'50.16" |Virgo|Simak|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|18°24'50.16" |Virgo|Simak|Venus|
 |☾ Moon|Direct|3°51'34.52" |Leo|Jabhah|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

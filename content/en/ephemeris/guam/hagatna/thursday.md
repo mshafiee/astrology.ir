@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'34.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°30'38.03" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°30'38.03" |Aries|Butain|Sun|
 |♂ Mars|Direct|18°45'36.90" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|16°59'19.88" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|22°42'5.84" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|14°20'25.90" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°49'29.86" |Taurus|Thurayya|Mercury|
+|♀ Venus|Retrograde|22°41'13.87" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|14°20'21.55" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°2'17.08" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'34.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°30'38.03" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°30'38.03" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|18°45'36.90" |Virgo|Simak|Venus|
 |☉ Sun|Direct|16°59'19.88" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|22°42'5.84" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|14°20'34.15" |Virgo|Awwa|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|14°20'34.15" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|4°1'8.19" |Gemini|HaqAh|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Agadna, Agana, Agana -1998, Agania, Aganija, Aganja, Agano, Agaña, Aguana, Akashi, Akashi - JP renamed WW2, Ankana, City of Ignacio de Agana, City of Saint Ignacio de Agana, Ciudad de San Ignacio de Agana, Hagadna, Hagatna, Hagåtña, Haqatna, Jagatna, Khagatna, San Ignacio de Agana *, Ville d'Agana, Vjoska Agan'ja, a jia ni ya, akatna, ha katya, hagania, hagasnya, hagatna, hagatnya, haghatnya, hegatn'ya, Αγκάνα, Вёска Аганья, Хагатна, Хагатња, Հագատնա, هاغاتنيا, هاگاتنا, هاگاتنیا, हेगात्न्या, அகாத்ன, ฮากาตญา, ჰაგატნა, ハガニア, 阿加尼亚, 하갓냐

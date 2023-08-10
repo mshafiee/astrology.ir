@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'45.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'29.83" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'29.83" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°13'13.73" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°12'56.85" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|21°17'26.27" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|16°26'21.78" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°13'21.86" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|16°26'21.78" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°9'13.38" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'45.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'30.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°13'12.66" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°12'55.25" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°17'20.70" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|16°26'18.95" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°13'21.86" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'30.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°13'12.63" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°12'54.70" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°17'18.54" |Leo|Zubrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|16°26'18.71" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°7'4.02" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Djouba, Dschuba, Dzhuba, Goba, JUB, Juba, Uula, g'wbh, juba, jwba, Джуба, ג'ובה, جوبا, 주바
