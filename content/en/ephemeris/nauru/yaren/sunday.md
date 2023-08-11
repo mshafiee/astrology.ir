@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°55'3.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°44'17.05" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°36'51.57" |Leo|Zubrah|Mars|
-|☉ Sun|Direct|19°48'50.70" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|20°53'10.52" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°57'13.97" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|9°52'0.60" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|14°44'16.34" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°36'57.98" |Leo|Zubrah|Mars|
+|☉ Sun|Direct|19°49'6.42" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|20°54'6.00" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|16°57'32.79" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°49'25.13" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Mercury|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°55'3.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°44'16.34" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°44'16.34" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|20°36'57.98" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|19°49'6.42" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|20°54'6.00" |Leo|Zubrah|Mars|

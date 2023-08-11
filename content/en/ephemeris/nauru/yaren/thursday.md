@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'46.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°30'23.28" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°30'23.28" |Aries|Butain|Sun|
 |♂ Mars|Direct|18°43'42.96" |Leo|Zubrah|Jupiter|
 |☉ Sun|Direct|16°56'25.78" |Cancer|Tarf|Mercury|
 |♀ Venus|Retrograde|22°43'52.08" |Cancer|Tarf|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'46.97" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°30'23.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°43'36.54" |Virgo|Simak|Venus|
-|☉ Sun|Direct|16°56'10.05" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|22°42'56.00" |Leo|Sarfrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|14°17'21.77" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°21'19.37" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Direct|14°30'23.28" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°43'42.96" |Virgo|Simak|Venus|
+|☉ Sun|Direct|16°56'25.78" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|22°43'52.08" |Leo|Sarfrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|14°17'39.68" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°21'30.19" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

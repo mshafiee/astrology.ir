@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°44'26.23" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°54'25.63" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°9'42.99" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|22°10'5.86" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|19°21'58.05" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|18°46'20.64" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|8°40'3.60" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|14°54'26.71" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°9'45.08" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|22°10'17.37" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|19°22'41.08" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|18°46'28.74" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°3'32.24" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Jupiter|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Venus|Jupiter|Sun|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°44'26.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°54'25.63" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°54'25.63" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°9'47.80" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|22°10'21.73" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|19°22'54.93" |Leo|Zubrah|Jupiter|

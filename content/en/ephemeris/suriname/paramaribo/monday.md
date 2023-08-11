@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°48'5.76" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°51'2.96" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°38'0.00" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|21°21'56.94" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|19°53'51.33" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|18°11'38.92" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°47'18.02" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|14°51'4.41" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°37'59.52" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|21°21'59.79" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|19°54'2.44" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|18°11'38.48" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|0°19'43.87" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Jupiter|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Venus|Jupiter|Sun|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°48'5.76" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°51'4.41" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°51'4.41" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°37'59.52" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|21°21'59.79" |Leo|Zubrah|Mars|
 |♀ Venus|Retrograde|19°54'2.44" |Leo|Zubrah|Jupiter|

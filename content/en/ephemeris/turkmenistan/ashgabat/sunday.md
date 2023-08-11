@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°53'54.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°45'25.90" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°45'25.90" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°47'4.72" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|20°4'30.30" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|20°44'8.02" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|17°10'26.19" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|14°3'58.07" |Gemini|HanAh|Mars|
+|♀ Venus|Retrograde|20°43'22.37" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|17°10'10.55" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|13°13'19.91" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°53'54.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°45'25.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°47'4.72" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|20°4'30.30" |Leo|Zubrah|Mars|
-|♀ Venus|Retrograde|20°44'8.02" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|17°10'26.19" |Virgo|Simak|Venus|
-|☾ Moon|Direct|14°3'58.07" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|14°45'26.51" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°46'59.41" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|20°4'17.34" |Leo|Zubrah|Mars|
+|♀ Venus|Retrograde|20°43'22.37" |Leo|Zubrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|17°10'10.55" |Virgo|Simak|Venus|
+|☾ Moon|Direct|13°13'19.91" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Moon|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}

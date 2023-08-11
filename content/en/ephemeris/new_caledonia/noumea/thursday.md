@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'42.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°30'28.87" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°44'25.60" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|16°57'30.08" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|22°43'5.52" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|14°18'44.18" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°33'6.50" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|14°30'29.95" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°44'23.07" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|16°57'26.78" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|22°42'52.68" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|14°18'37.90" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°4'37.34" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°7'42.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°30'28.87" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°30'28.87" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|18°44'25.60" |Virgo|Simak|Venus|
 |☉ Sun|Direct|16°57'30.08" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|22°43'5.52" |Leo|Sarfrah|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아
