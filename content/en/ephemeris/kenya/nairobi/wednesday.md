@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°40'26.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°57'55.27" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°57'55.27" |Aries|Butain|Sun|
 |♂ Mars|Direct|22°44'20.78" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|23°2'51.90" |Cancer|Tarf|Moon|
 |♀ Venus|Retrograde|18°49'25.92" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°40'26.60" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°57'53.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°44'20.26" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|23°2'45.14" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|18°48'59.44" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|19°21'32.51" |Virgo|Simak|Venus|
-|☾ Moon|Direct|20°23'0.89" |Leo|Zubrah|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|14°57'53.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°44'17.23" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|23°2'37.64" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|18°48'33.67" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|19°21'23.02" |Virgo|Simak|Venus|
+|☾ Moon|Direct|19°36'45.60" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Venus|Jupiter|Sun|
 |☿ Mercury|Jupiter|Saturn|Saturn|Saturn|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}

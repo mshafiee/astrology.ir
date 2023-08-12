@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°48'46.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°50'25.95" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°50'25.95" |Aries|Butain|Sun|
 |♂ Mars|Direct|21°32'3.07" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|21°12'57.53" |Cancer|Tarf|Moon|
 |♀ Venus|Retrograde|19°59'52.70" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°48'46.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°50'25.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°31'57.02" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|21°12'40.38" |Leo|Zubrah|Mars|
-|♀ Venus|Retrograde|19°58'52.14" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|18°4'30.76" |Virgo|Simak|Venus|
-|☾ Moon|Direct|26°50'44.27" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°50'25.95" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°32'3.07" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|21°12'57.53" |Leo|Zubrah|Mars|
+|♀ Venus|Retrograde|19°59'52.70" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|18°4'49.59" |Virgo|Simak|Venus|
+|☾ Moon|Direct|28°26'52.78" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Jupiter|Jupiter|Sun|
 |☿ Mercury|Jupiter|Saturn|Saturn|Saturn|
-|☾ Moon|Saturn|Venus|Jupiter|Mercury|
+|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
+|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
 
 
 {{< /tab >}}

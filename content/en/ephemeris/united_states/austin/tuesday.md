@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°43'18.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°55'24.80" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°19'36.65" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|22°25'10.01" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|19°12'44.29" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|18°56'47.02" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|12°19'31.83" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|14°55'26.28" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°19'38.52" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|22°25'19.64" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|19°13'20.02" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|18°56'54.08" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|13°26'54.75" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Jupiter|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Venus|Jupiter|Sun|
-|☾ Moon|Venus|Jupiter|Mars|Moon|
+|☾ Moon|Mercury|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
+|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°43'18.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°55'26.28" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°55'26.28" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°19'38.52" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|22°25'19.64" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|19°13'20.02" |Leo|Zubrah|Jupiter|

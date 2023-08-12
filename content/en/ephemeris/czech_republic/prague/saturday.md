@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'46.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°41'29.07" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'29.07" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°13'7.62" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°12'46.85" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°17'27.03" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°26'12.81" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°1'32.52" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Retrograde|21°17'31.26" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|16°26'14.72" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°0'38.58" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'46.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°41'29.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°13'7.62" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°12'46.85" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°17'27.03" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°26'12.81" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°1'32.52" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'28.84" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°13'8.32" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°12'48.05" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°17'31.26" |Leo|Zubrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|16°26'14.72" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°0'38.58" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PRG, Praag, Prag, Praga, Pragae, Prago, Prague, Praha, Pràg, Prág, Prága, Prâg, Prāga, bragh, bu la ge, peulaha, prag, praga, prak, prg, puraha, Πράγα, Праг, Прагæ, Прага, פראג, براغ, پراگ, پراگا, ܦܪܓ, প্রাগ, ปราก, པུ་ལ་ཁེ, პრაღა, ፕራግ, プラハ, 布拉格, 프라하

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°3'47.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|14°34'57.08" |Aries|Butain|Sun|
-|♂ Mars|Direct|19°19'30.88" |Leo|Zubrah|Jupiter|
-|☉ Sun|Direct|17°50'56.99" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|22°8'54.41" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|15°11'4.29" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|14°45'57.55" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°34'57.66" |Aries|Butain|Sun|
+|♂ Mars|Direct|19°19'34.56" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|17°51'8.53" |Cancer|Tarf|Mercury|
+|♀ Venus|Retrograde|22°9'34.44" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|15°11'15.31" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|15°25'15.74" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|5°3'47.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|14°34'57.66" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|14°34'57.66" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|19°19'34.56" |Virgo|Simak|Venus|
 |☉ Sun|Direct|17°51'8.53" |Leo|Zubrah|Jupiter|
 |♀ Venus|Retrograde|22°9'34.44" |Leo|Sarfrah|Mars|
