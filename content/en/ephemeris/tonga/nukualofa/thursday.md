@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°7'12.78" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|23°37'35.04" |Cancer|Tarf|Moon|
 |♀ Venus|Retrograde|18°27'28.09" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|19°42'49.53" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|27°5'8.32" |Cancer|Jabhah|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|19°42'56.73" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|28°7'6.20" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
+|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°37'47.46" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°0'7.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°7'11.00" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|23°37'24.80" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|18°26'49.09" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|19°42'49.53" |Virgo|Simak|Venus|
-|☾ Moon|Direct|27°5'8.32" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|15°0'8.95" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°7'12.78" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|23°37'35.04" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|18°27'28.09" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|19°42'56.73" |Virgo|Simak|Venus|
+|☾ Moon|Direct|28°7'6.20" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°37'35.98" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Pre-Retrograde Shadow|15°0'18.39" |Aries|Butain|Sun|
-|♂ Mars|Direct|23°8'51.45" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|23°40'5.03" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|18°25'55.64" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|19°44'25.86" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|28°39'51.38" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|23°8'48.97" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|23°39'53.27" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|18°25'11.65" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|19°44'16.49" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°28'42.52" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|15°0'18.39" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|23°8'51.45" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|23°40'5.03" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|18°25'11.65" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|19°44'16.49" |Virgo|Simak|Venus|
-|☾ Moon|Direct|27°28'42.52" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|18°25'55.64" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|19°44'25.86" |Virgo|Simak|Venus|
+|☾ Moon|Direct|28°39'51.38" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}

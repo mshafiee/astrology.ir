@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Pre-Retrograde Shadow|14°41'34.26" |Aries|Butain|Sun|
 |♂ Mars|Direct|20°13'51.50" |Leo|Zubrah|Mars|
 |☉ Sun|Direct|19°13'54.05" |Cancer|Tarf|Mercury|
-|♀ Venus|Retrograde|21°16'48.59" |Cancer|Tarf|Moon|
-|☿ Mercury|Pre-Retrograde Shadow|16°27'13.75" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°10'20.20" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Retrograde|21°16'46.65" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|16°27'12.01" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°18'45.05" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°57'41.00" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°41'34.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°13'51.50" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|19°13'54.05" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|21°16'46.65" |Leo|Zubrah|Mars|
-|☿ Mercury|Pre-Retrograde Shadow|16°27'12.01" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°18'45.05" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|14°41'33.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°13'52.20" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|19°13'54.59" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|21°16'48.59" |Leo|Zubrah|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|16°27'13.75" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°10'20.20" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: An Roimh, An Ròimh, An Róimh, Erroma, Hrom, Lungsod ng Roma, Mji wa Roma, ROM, Ramma, Rhufain, Rim, Rim, Roeme, Rom, Roma, Rome, Romma, Romo, Romë, Rooma, Roum, Rym, Rzym, Råmma, Rím, Róm, Róma, Urbs, loma, luo ma shi, rm, rom, roma, romi, rwm, rwma, rym, Řím, Ρώμη, Рим, Римъ, Ром, Рым, Հռոմ, רומא, رم, روم, روما, رىم, ܪܘܡܐ, रोम, रोमा, রোম, โรม, რომი, ሮማ, ローマ, 罗马市, 로마
