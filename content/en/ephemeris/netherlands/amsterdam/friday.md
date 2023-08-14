@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°31'26.18" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°5'10.72" |Aries|Butain|Sun|
-|♂ Mars|Direct|24°1'43.40" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|25°0'19.02" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|17°36'36.31" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|20°27'52.94" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|15°6'38.95" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|15°5'9.91" |Aries|Butain|Sun|
+|♂ Mars|Direct|24°1'39.33" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|25°0'4.57" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|17°35'43.64" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|20°27'38.41" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|13°49'10.10" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Moon|Sun|Aquarius|Moon|Venus|
+|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°31'26.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°5'10.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°1'43.40" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|25°0'19.02" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|17°36'36.31" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|20°27'38.49" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|13°49'40.75" |Virgo|Awwa|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|15°5'9.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°1'39.33" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|25°0'4.57" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|17°35'43.64" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|20°27'38.41" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|13°49'10.10" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
