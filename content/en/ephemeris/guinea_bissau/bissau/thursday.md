@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°35'25.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°2'5.19" |Aries|Butain|Sun|
-|♂ Mars|Direct|23°27'28.24" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|24°8'22.06" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|18°8'20.00" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|20°0'42.60" |Leo|Zubrah|Mars|
+|♃ Jupiter|Direct|15°2'3.96" |Aries|Butain|Sun|
+|♂ Mars|Direct|23°27'30.32" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|24°8'24.46" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|18°8'25.79" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|20°0'42.60" |Leo|Zubrah|Mars|
 |☾ Moon|Direct|4°38'9.84" |Leo|Jabhah|Saturn|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°35'25.68" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°2'3.96" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°2'3.96" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|23°27'30.32" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|24°8'24.46" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|18°8'25.79" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|20°0'42.60" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°38'9.84" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|24°8'21.87" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|18°8'19.36" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|20°0'36.46" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|4°17'18.59" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Bisao, Bisau, Bisau - Bissau, Bisauo, Bisava, Bisaŭo, Biso, Bissa, Bissao, Bissau, Bissá, Bisáu, Mpissaou, OXB, Sao Jose de Bissau, São José de Bissáu, Wisaw, bi shao, bis sea, bis'sa'u, bisa'u, bisau, bsaw, bysaw, bysayw, picavu, Μπισσάου, Бисао, Бисау, Бісау, Բիսաու, ביסאו, بساؤ, بيساو, بیسائو, بیساو, बिसाउ, বিসাউ, বিস্সাউ, ਬਿਸਾਊ, பிசாவு, บิสเซา, བི་སའོ།, ბისაუ, ቢሳው, ビサウ, 比紹, 比绍, 비사우

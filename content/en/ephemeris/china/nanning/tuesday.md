@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°45'48.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°53'12.54" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°53'12.54" |Aries|Butain|Sun|
 |♂ Mars|Direct|21°58'5.85" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|21°52'26.02" |Cancer|Tarf|Moon|
 |♀ Venus|Retrograde|19°33'16.58" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|18°33'51.57" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|18°33'51.57" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|5°0'26.75" |Cancer|Nathrah|Venus|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°45'46.50" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°53'13.05" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°53'13.05" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°58'11.16" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|21°52'42.61" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|19°34'15.59" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|18°34'8.67" |Virgo|Simak|Venus|
-|☾ Moon|Direct|6°43'19.21" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°33'51.57" |Virgo|Simak|Venus|
+|☾ Moon|Direct|5°0'26.75" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Jupiter|Jupiter|Sun|
 |☿ Mercury|Jupiter|Saturn|Saturn|Saturn|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aries|Moon|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}

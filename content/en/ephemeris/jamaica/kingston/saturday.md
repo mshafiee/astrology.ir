@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°25'47.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°9'18.15" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°9'18.15" |Aries|Butain|Sun|
 |♂ Mars|Direct|24°49'55.52" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|26°13'24.71" |Cancer|Jabhah|Moon|
-|♀ Venus|Retrograde|16°52'50.59" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|20°59'54.00" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|29°0'34.00" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|16°53'32.16" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|21°0'10.29" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|0°13'9.29" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Mercury|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Capricorn|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|4°25'48.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°9'18.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°49'50.67" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|4°25'47.08" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|15°9'18.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°49'55.52" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|26°13'24.71" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|16°53'32.16" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°0'10.29" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|21°0'10.29" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|0°13'9.29" |Libra|Ghafr|Moon|
 
 

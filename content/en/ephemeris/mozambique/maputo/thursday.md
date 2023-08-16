@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°35'54.44" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°1'39.26" |Aries|Butain|Sun|
-|♂ Mars|Direct|23°23'25.45" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|24°2'7.42" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|18°11'53.45" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|19°57'12.73" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°55'24.72" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|15°1'41.12" |Aries|Butain|Sun|
+|♂ Mars|Direct|23°23'24.60" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|24°2'10.27" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|18°12'6.99" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|19°57'11.36" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°6'23.47" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|4°35'54.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°1'39.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°23'25.45" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|4°35'54.44" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|15°1'41.12" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°23'24.60" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|24°2'10.27" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|18°12'6.99" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|19°57'11.36" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|19°57'11.36" |Virgo|Simak|Venus|
 |☾ Moon|Direct|3°6'23.47" |Virgo|Sarfrah|Sun|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투

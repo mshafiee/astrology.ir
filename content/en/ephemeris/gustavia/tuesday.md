@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°43'40.71" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|14°55'6.22" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°16'22.30" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|22°20'21.50" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|19°16'31.57" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|18°53'30.76" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|12°26'36.37" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Direct|14°55'6.22" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°16'17.81" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|22°20'6.34" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|19°15'37.24" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|18°53'15.88" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°49'17.51" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°43'40.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|14°55'6.22" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|14°55'6.22" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|22°16'22.30" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|22°20'21.50" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|19°16'31.57" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|18°53'30.76" |Virgo|Simak|Venus|
-|☾ Moon|Direct|12°26'36.37" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|19°15'37.24" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|18°53'15.88" |Virgo|Simak|Venus|
+|☾ Moon|Direct|10°49'17.51" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Mars|Mars|
 |♀ Venus|Mercury|Jupiter|Jupiter|Sun|
 |☿ Mercury|Jupiter|Saturn|Saturn|Saturn|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
+|☾ Moon|Venus|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
