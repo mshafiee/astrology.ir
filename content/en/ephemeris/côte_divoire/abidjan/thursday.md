@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|4°35'34.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°1'59.72" |Aries|Butain|Sun|
-|♂ Mars|Direct|23°26'23.11" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|24°6'41.85" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|18°9'5.24" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|19°59'37.20" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°31'27.42" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|4°35'33.06" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|15°1'58.07" |Aries|Butain|Sun|
+|♂ Mars|Direct|23°26'27.07" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|24°6'48.37" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|18°9'24.49" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|19°59'48.91" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°17'25.97" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°35'33.06" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°1'59.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°26'23.11" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|24°6'41.85" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|18°9'5.24" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|19°59'37.20" |Virgo|Simak|Venus|
-|☾ Moon|Direct|3°31'27.42" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°1'58.07" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°26'27.07" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|24°6'48.37" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|18°9'24.73" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|19°59'48.89" |Virgo|Simak|Venus|
+|☾ Moon|Direct|4°17'37.16" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: ABJ, Abican, Abidjan, Abidzan, Abidzana, Abidzanas, Abidzans, Abidzhan, Abidzhan shaary, Abidżan, Abidžan, Abidžana, Abidžanas, Abidžans, Abigano, Abijan, Abiyan, Abiyán, Abizhan khot, Abiĝano, Ampitzan, a bi rang, a bi ren, abdjan, abijan, abijana, abijang, abijani, abydjan, abyjan, xabi can, ʼbydgʼn, Αμπιτζάν, Абиджан, Абиджан шаары, Абижан хот, Абиџан, Абіджан, Աբիջան, אבידגאן, אבידזשאן, آبدجان, آبیجان, أبيدجان, आबिजान, আবিজান, ਅਬੀਜਾਨ, അബിജാൻ, อาบีจาน, აბიჯანი, アビジャン, 阿必仁, 阿比让, 아비장

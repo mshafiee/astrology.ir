@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°37'52.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°0'4.53" |Aries|Butain|Sun|
-|♂ Mars|Direct|23°6'29.69" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|23°36'23.73" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|18°27'27.34" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|19°42'9.73" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|26°48'23.98" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°0'5.12" |Aries|Butain|Sun|
+|♂ Mars|Direct|23°6'33.17" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|23°36'35.20" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|18°28'8.21" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|19°42'21.46" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°58'42.02" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Sun|
-|☾ Moon|Saturn|Venus|Jupiter|Mercury|
+|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
+|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°37'52.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°0'5.12" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°0'5.12" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|23°6'33.17" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|23°36'35.20" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|18°28'8.21" |Leo|Zubrah|Jupiter|

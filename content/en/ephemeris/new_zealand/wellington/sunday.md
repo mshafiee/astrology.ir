@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°24'15.19" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°10'22.33" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°10'22.33" |Aries|Butain|Sun|
 |♂ Mars|Direct|25°2'59.84" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|26°33'4.53" |Cancer|Jabhah|Moon|
-|♀ Venus|Retrograde|16°41'26.03" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|21°7'31.27" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|3°53'18.14" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|26°33'11.00" |Cancer|Jabhah|Moon|
+|♀ Venus|Retrograde|16°41'53.75" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|21°7'34.45" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|3°54'52.38" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°24'15.19" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°10'20.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°2'59.41" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|26°33'4.53" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|16°41'26.03" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|21°7'31.27" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°53'18.14" |Libra|Ghafr|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°10'22.33" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°2'59.84" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|26°33'11.00" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|16°41'53.75" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|21°7'34.45" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°54'52.38" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Hie-ling-dong, Hiê-lìng-dóng, Ouellin'nkton, Ouellinkton, Te Whanga-nui-a-Tara, Ueligitone, Uelingtun, Velingtan, Velington, Velingtona, Velingtonas, Velingtono, Vellington, Vellingtonia, Vellinqton, WLG, Welinton, Welintòn, Wellington, Wellinton, Weolingtun, Weolingtūn, Whanga-nui-a-Tara, hui ling dun, oyelintana, raelintana, uelingtʼoni, u~erinton, vailigatana, velingatana, velingtana, velingtoni, velintan, vellingtan, wei ling dun, wellingtan, wellingteon, wlyngtwn, wylynghtwn, wylynjtwn, Ουέλλιγκτον, Ουέλλινγκτον, Велингтон, Веллингтон, Веллінгтон, Велінгтан, Уелингтън, Վելինգտոն, ולינגטון, װעלינגטאן, ولینگتون, ويلينجتون, ويلينغتون, ویلنگٹن, ۋېللىنگتون, वेलिंगटन, वेलिंग्टन, वेलिङ्गटन, ওয়েলিংটন, ৱেলিংটন, ਵੈਲਿੰਗਟਨ, વેલિંગ્ટન, வெலிங்டன், ವೆಲ್ಲಿಂಗ್ಟನ್, വെല്ലിംഗ്ടൺ, เวลลิงตัน, ཝེ་ལིང་ཐོན།, ဝယ်လင်တန်မြို့, ველინგთონი, უელინგტონი, ዌሊንግተን, ウェリントン, 威靈頓, 惠灵顿, 웰링턴
