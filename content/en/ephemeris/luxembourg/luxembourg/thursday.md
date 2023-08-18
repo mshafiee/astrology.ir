@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°35'52.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°1'40.91" |Aries|Butain|Sun|
-|♂ Mars|Direct|23°23'43.61" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|24°2'34.30" |Cancer|Tarf|Moon|
-|♀ Venus|Retrograde|18°11'31.66" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|19°57'27.40" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°54'1.93" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|15°1'42.75" |Aries|Butain|Sun|
+|♂ Mars|Direct|23°23'43.51" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|24°2'39.52" |Cancer|Tarf|Moon|
+|♀ Venus|Retrograde|18°11'53.89" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|19°57'28.61" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°46'5.55" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°35'52.22" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°1'42.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|23°23'43.51" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|24°2'39.52" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|18°11'53.89" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|19°57'28.61" |Virgo|Simak|Venus|
-|☾ Moon|Direct|3°19'51.36" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|15°1'40.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°23'43.19" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|24°2'33.01" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|18°11'27.13" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|19°57'25.98" |Virgo|Simak|Venus|
+|☾ Moon|Direct|2°46'5.55" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Bandar Luxembourg, Ciudad de Luxemburgo, Ciutat de Luxemburg, Dinas Lwcsembwrg, LUX, Letzebuerg, Letzeburg, Liksanbou, Liuksemburgas, Ljuksemburg, Louxemvourgo, Lucemburk, Lucilinburhuc, Lucsamburg, Lucsemburg, Lueksemburg, Lueksemburq, Luessemburgh, Luksambuur, Luksemboarch, Luksembourg, Luksemburg, Luksemburga, Luksemburgo, Luksemburgu, Luksembùrg, Luksimbur, Lungsod ng Luksemburgo, Lusenburgo, Lussemborgh, Lussemburgo, Lussemburgu, Lussimbork veye, Luxemboerg, Luxemborg, Luxemborj, Luxembourg, Luxembourg by, Luxemburg, Luxemburgo, Luxemburgum, Luxembuurich, Luxembôrg, Luxembörg, Luxenburgo, Lëtzebuerg, Lúksemboarch, Lúxemborg, Lüksemburg, Lüksemburq, Lüssemburgh, Rakapuo, Rakapuō, Stad Letzebuerg, Stad Lëtzebuerg, Stadt Luxemburg, Ville de Luxembourg, lak sem beirk, lakcampark, lakjhembarga, lksmbrg, lu sen bao cheng, lu sen bao shi, lugsembuleukeu, luksemaburga, luksemburgi, lwksmbwrgh, lwkzambwrg, lwqsmbwrg, rukusenburuku, Λουξεμβούργο, Луксембург, Люксембург, Лүксембург, Լյուքսեմբուրգ, לוקסמבורג, لوكسمبورغ, لوکزامبورگ, لوکسەمبورگ, ليۇكسېمبۇرگ شەھىرى, لکسمبرگ, लक्झेंबर्ग, লুক্সেমবুর্গ, லக்சம்பர்க், ลักเซมเบิร์ก, ལུ་སེམ་བའུརག, ლუქსემბურგი, ሉክሰምበርግ, ルクセンブルク, 盧森堡城, 盧森堡市, 룩셈부르크

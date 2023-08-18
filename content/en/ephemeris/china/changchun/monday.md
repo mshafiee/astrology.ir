@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°19'26.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°13'33.38" |Aries|Butain|Sun|
-|♂ Mars|Direct|25°43'53.63" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|27°35'8.83" |Cancer|Jabhah|Moon|
-|♀ Venus|Retrograde|16°7'42.08" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|21°27'23.37" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|17°0'28.55" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|15°13'34.19" |Aries|Butain|Sun|
+|♂ Mars|Direct|25°43'52.73" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|27°35'8.43" |Cancer|Jabhah|Moon|
+|♀ Venus|Retrograde|16°7'43.44" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|21°27'20.90" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|16°42'15.76" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
+|☾ Moon|Venus|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°19'26.12" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°13'33.77" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°43'53.28" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|27°35'8.88" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|16°7'43.60" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|21°27'22.47" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|16°52'33.03" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|15°13'34.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°43'52.73" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|27°35'8.43" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|16°7'43.44" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|21°27'20.90" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|16°42'15.76" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

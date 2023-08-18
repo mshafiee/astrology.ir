@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°13'29.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°17'10.52" |Aries|Butain|Sun|
-|♂ Mars|Direct|26°34'11.93" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|28°51'15.96" |Cancer|Jabhah|Moon|
-|♀ Venus|Retrograde|15°27'54.30" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|21°43'47.26" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°58'38.59" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|15°17'9.70" |Aries|Butain|Sun|
+|♂ Mars|Direct|26°34'7.77" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|28°51'1.04" |Cancer|Jabhah|Moon|
+|♀ Venus|Retrograde|15°27'0.33" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|21°43'30.82" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°44'52.89" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°13'29.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°17'10.52" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°17'10.52" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|26°34'11.93" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|28°51'15.96" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|15°27'54.30" |Leo|Zubrah|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: A Valeta, A Valletta, Baleta, Baletta, La Valet, La Valeta, La Valeto, La Valetta, La Valette, La Valletta, La Valèt, La Valëtta, La-Valeto, MLA, Vaileite, Valeta, Valetta, Valleta, Vallett, Valletta, Valletta osh, Vallettae, Waleta, balleta, baretta, bhaleta, bhalletta, falyta, hua lie ta, valaita, valerra, valletta, vheleta, wa lai ta, wal let ta, walta, wlth, Ła Vałeta, Βαλέτα, Βαλέττα, Валета, Валлеттæ, Валлетта, Валлетта ош, Ла Валета, Վալետա, וואלעטא, ולטה, فاليتا, والتا, والیٹا, ولیٹا, ڤالێتا, भलेट, व्हॅलेटा, ভাল্লেত্তা, ਵਲੈਟਾ, வல்லெட்டா, വലേറ്റ, วัลเลตตา, ཝ་ལེ་ཐ།, ვალეტა, ቫሌታ, バレッタ, 瓦莱塔, 華列他, 발레타
