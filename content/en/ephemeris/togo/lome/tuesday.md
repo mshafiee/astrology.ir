@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°13'14.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°17'19.71" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°17'19.71" |Aries|Butain|Sun|
 |♂ Mars|Direct|26°36'25.51" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|28°54'38.05" |Cancer|Jabhah|Moon|
 |♀ Venus|Retrograde|15°26'13.16" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|21°44'18.40" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|21°44'18.40" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|3°41'44.63" |Libra|Ghafr|Moon|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°13'14.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°17'20.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°36'19.40" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|28°54'20.93" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|15°25'16.84" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|21°43'56.11" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°50'28.17" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|15°17'19.71" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°36'25.51" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|28°54'38.05" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|15°26'13.16" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°44'18.40" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°41'44.63" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Sun|Moon|Taurus|Sun|Moon|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

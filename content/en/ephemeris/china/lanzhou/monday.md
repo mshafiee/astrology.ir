@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°19'7.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°13'45.19" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°13'45.19" |Aries|Butain|Sun|
 |♂ Mars|Direct|25°46'31.13" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|27°39'7.45" |Cancer|Jabhah|Moon|
 |♀ Venus|Retrograde|16°5'34.78" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|21°28'9.78" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|16°55'51.36" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|21°28'28.35" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|17°51'49.38" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Saturn|Saturn|
+|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Jupiter|Mercury|Pisces|Sun|Moon|
+|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°19'7.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°13'45.19" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°13'45.19" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|25°46'31.13" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|27°39'7.45" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|16°5'34.78" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|21°28'28.35" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°28'28.35" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|17°51'49.38" |Libra|Jubana|Saturn|
 
 

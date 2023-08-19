@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°18'17.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°14'17.16" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°14'17.16" |Aries|Butain|Sun|
 |♂ Mars|Direct|25°53'40.11" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|27°49'56.17" |Cancer|Jabhah|Moon|
-|♀ Venus|Retrograde|15°59'41.12" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|21°31'15.29" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|20°2'0.51" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|27°49'48.49" |Cancer|Jabhah|Moon|
+|♀ Venus|Retrograde|15°59'19.62" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°31'2.70" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|19°5'27.92" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Saturn|Venus|Moon|
+|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
+|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°18'17.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°14'17.16" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°14'17.16" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|25°53'40.11" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|27°49'56.17" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|15°59'41.12" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|21°31'15.29" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°31'15.29" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|20°2'0.51" |Libra|Jubana|Jupiter|
 
 

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°17'43.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°14'38.11" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°14'38.11" |Aries|Butain|Sun|
 |♂ Mars|Direct|25°58'24.94" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|27°57'7.92" |Cancer|Jabhah|Moon|
 |♀ Venus|Retrograde|15°55'56.37" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|21°32'54.37" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|20°50'12.47" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°33'2.74" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|21°36'54.92" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Saturn|Venus|Moon|
+|☾ Moon|Mars|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
+|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°17'43.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°14'38.11" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°14'38.11" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|25°58'24.94" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|27°57'7.92" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|15°55'56.37" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|21°33'2.74" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°33'2.74" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|21°36'54.92" |Libra|Jubana|Jupiter|
 
 
