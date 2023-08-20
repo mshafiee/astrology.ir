@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|4°27'4.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°8'25.46" |Aries|Butain|Sun|
-|♂ Mars|Direct|24°38'59.89" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|25°56'48.22" |Cancer|Jabhah|Moon|
-|♀ Venus|Retrograde|17°2'33.27" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|20°53'17.23" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|25°38'1.08" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|4°27'3.61" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|15°8'24.04" |Aries|Butain|Sun|
+|♂ Mars|Direct|24°39'4.43" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|25°56'57.42" |Cancer|Jabhah|Moon|
+|♀ Venus|Retrograde|17°3'1.09" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|20°53'31.64" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|26°45'40.44" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Capricorn|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°27'3.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°8'24.04" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°39'4.43" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|25°56'57.42" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|17°3'1.09" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|15°8'25.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°39'3.25" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|25°56'56.90" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|17°3'2.07" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|20°53'31.64" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|26°45'40.44" |Virgo|Simak|Mercury|
 

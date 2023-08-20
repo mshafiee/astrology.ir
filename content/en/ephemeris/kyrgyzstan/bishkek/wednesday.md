@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°9'45.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°19'16.68" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°5'47.98" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|29°39'2.34" |Cancer|Jabhah|Moon|
-|♀ Venus|Retrograde|15°4'26.09" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°49'24.52" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°9'59.75" |Libra|Jubana|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|15°19'18.64" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°5'43.39" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|29°38'53.98" |Cancer|Jabhah|Moon|
+|♀ Venus|Retrograde|15°4'6.10" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°49'9.38" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°5'31.80" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°9'45.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°19'16.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°5'47.98" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|29°39'2.34" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|15°4'26.09" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°49'24.52" |Virgo|Simak|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|15°19'18.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°5'43.39" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|29°38'53.98" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|15°4'6.10" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°49'9.38" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|13°9'59.75" |Scorpio|Qalb|Sun|
 
 

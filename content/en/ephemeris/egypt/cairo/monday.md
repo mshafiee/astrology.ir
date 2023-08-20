@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°54'24.69" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|27°51'4.37" |Cancer|Jabhah|Moon|
 |♀ Venus|Retrograde|15°59'10.57" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°31'33.85" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|20°21'37.12" |Virgo|Simak|Mercury|
+|☿ Mercury|Retrograde|21°31'31.23" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|20°11'58.32" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°18'11.64" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°14'22.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°54'18.93" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|27°50'52.29" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|15°58'35.63" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°31'14.80" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|18°59'26.83" |Libra|Jubana|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|15°14'20.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°54'23.93" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|27°51'2.47" |Leo|Sarfrah|Mars|
+|♀ Venus|Retrograde|15°59'4.63" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°31'31.23" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|20°11'58.32" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mars|Saturn|Venus|Moon|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Sun|Moon|Taurus|Sun|Moon|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
