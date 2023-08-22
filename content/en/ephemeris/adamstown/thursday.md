@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°2'27.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°23'0.62" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°23'0.62" |Aries|Butain|Sun|
 |♂ Mars|Direct|28°7'34.13" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|1°12'19.60" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|14°22'19.11" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°2'27.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°23'2.34" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°7'28.76" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|1°12'8.11" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|14°21'49.42" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°49'9.66" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°2'6.80" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|15°23'0.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°7'34.13" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|1°12'19.60" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|14°22'19.11" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°49'28.53" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°24'25.10" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Sun|Moon|Taurus|Sun|Moon|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

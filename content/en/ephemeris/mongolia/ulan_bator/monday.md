@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°19'13.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°13'41.31" |Aries|Butain|Sun|
-|♂ Mars|Direct|25°45'39.16" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|27°37'48.43" |Cancer|Jabhah|Moon|
-|♀ Venus|Retrograde|16°6'14.53" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°28'6.41" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|17°32'33.34" |Virgo|Simak|Venus|
+|♃ Jupiter|Direct|15°13'41.31" |Aries|Butain|Sun|
+|♂ Mars|Direct|25°45'35.84" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|27°37'41.77" |Cancer|Jabhah|Moon|
+|♀ Venus|Retrograde|16°5'55.68" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°27'55.58" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|16°43'38.19" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
+|☾ Moon|Venus|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Gemini|Sun|Mars|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
+|☾ Moon|Jupiter|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°19'13.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°13'41.31" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°13'41.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|25°45'39.16" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|27°37'48.43" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|16°6'14.53" |Leo|Zubrah|Jupiter|

@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|06:20:48|07:23:02|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|07:23:03|08:25:18|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Mars|Servant|07:23:03|08:25:18|Destruction of enemies|
 |3|Sun|Servant|08:25:19|09:27:33|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|09:27:34|10:29:49|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Mercury|Servant|10:29:50|11:32:04|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°4'5.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°22'13.11" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°22'13.11" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°53'46.55" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|0°51'31.31" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|14°31'23.31" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°4'5.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°22'12.35" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°53'47.01" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|0°51'30.62" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|14°31'17.70" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°50'48.07" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|29°24'27.93" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|15°22'11.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°53'45.85" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|0°51'24.30" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|14°30'51.96" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°50'42.18" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|29°57'28.62" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
