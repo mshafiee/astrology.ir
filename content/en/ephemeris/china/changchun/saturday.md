@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°56'47.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°25'33.59" |Aries|Butain|Sun|
-|♂ Mars|Direct|28°55'20.66" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|2°24'26.65" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|13°53'41.21" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°39'19.22" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|19°56'26.64" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°25'32.78" |Aries|Butain|Sun|
+|♂ Mars|Direct|28°55'21.51" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|2°24'27.03" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|13°53'38.44" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°39'21.45" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|20°18'22.72" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°56'47.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°25'32.78" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°25'32.78" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|28°55'21.51" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|2°24'27.03" |Virgo|Sarfrah|Sun|
 |♀ Venus|Retrograde|13°53'38.44" |Leo|Zubrah|Jupiter|

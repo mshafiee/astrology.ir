@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°13'17.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°17'17.86" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°17'17.86" |Aries|Butain|Sun|
 |♂ Mars|Direct|26°35'58.14" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|28°53'56.25" |Cancer|Jabhah|Moon|
-|♀ Venus|Retrograde|15°26'30.50" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°44'12.50" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°42'10.17" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|28°53'56.54" |Cancer|Jabhah|Moon|
+|♀ Venus|Retrograde|15°26'33.02" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°44'11.83" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°32'18.49" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°13'17.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°17'17.38" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°17'17.38" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|26°35'58.44" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|28°53'56.25" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|15°26'30.50" |Leo|Zubrah|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Salazar, San Tomas, San Tome, San Tomé, San Tomė, San-Tameh, San-Tome, Santo Tome, Santo Tomé, Santome, Sao Thome, Sao Tome, Sao Tomee, Sao Tomé, Sao-Tomeo, Soeo Tome, Svaety Tomas, Svätý Tomáš, Sào Thomé, São Tomé, Söo Tomé, TMS, Urbs Sancti Thomae, cavo tome, sa'o tome, sangtume, santome, savea team, saw twmy, saywtwmh, sea tu me, sheng duo mei, Σάο Τομέ, Сан-Тамэ, Сан-Томе, Сао Томе, Սան Տոմե, סאו טומה, ساؤ ٹومے, سائوتومه, ساو تومي, ساو تۆمێ, ساو ٹومے, साओ टोमे, সাও টোমে, ਸਾਓ ਤੋਮੇ, சாவோ தொமே, സാവോ ടോം, เซาตูเม, སའོ་ཊོ་མེ།, სან-ტომე, ሳን ቶሜ, サントメ, 圣多美, 聖多美, 상투메

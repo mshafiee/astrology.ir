@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°52'37.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°27'13.75" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°27'13.75" |Aries|Butain|Sun|
 |♂ Mars|Direct|29°30'38.47" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|3°17'38.33" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|13°34'31.18" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°52'37.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°27'12.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°30'35.94" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|3°17'27.05" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|13°33'48.16" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°25'43.69" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°25'49.49" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|15°27'13.75" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°30'38.47" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|3°17'38.33" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|13°34'31.18" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°25'56.48" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°4'30.73" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Libra|Moon|Venus|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Sun|Moon|Taurus|Sun|Moon|
-|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

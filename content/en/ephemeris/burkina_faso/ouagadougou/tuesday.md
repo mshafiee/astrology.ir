@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°13'12.94" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°17'19.49" |Aries|Butain|Sun|
-|♂ Mars|Direct|26°36'34.92" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|28°54'50.69" |Cancer|Jabhah|Moon|
-|♀ Venus|Retrograde|15°26'0.16" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°44'21.21" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|4°2'36.27" |Libra|Ghafr|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°17'20.31" |Aries|Butain|Sun|
+|♂ Mars|Direct|26°36'34.54" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|28°54'51.79" |Cancer|Jabhah|Moon|
+|♀ Venus|Retrograde|15°26'6.94" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°44'20.67" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°45'6.23" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°13'12.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°17'19.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°36'34.92" |Virgo|Simak|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|15°17'19.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°36'34.54" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|28°54'50.69" |Leo|Sarfrah|Mars|
 |♀ Venus|Retrograde|15°26'0.16" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|21°44'21.21" |Virgo|Simak|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구

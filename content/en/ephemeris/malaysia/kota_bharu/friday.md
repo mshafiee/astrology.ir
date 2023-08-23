@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°0'55.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°23'43.46" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°23'43.46" |Aries|Butain|Sun|
 |♂ Mars|Direct|28°20'29.66" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|1°31'51.28" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|14°14'20.34" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°0'55.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°23'45.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°20'25.83" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|1°31'45.02" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|14°14'9.00" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°47'28.17" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|7°19'9.60" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|15°23'43.46" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°20'29.66" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|1°31'51.28" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|14°14'20.34" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°47'40.71" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|8°7'44.01" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mars|Saturn|Venus|Moon|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Sun|Moon|Taurus|Sun|Moon|
-|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}

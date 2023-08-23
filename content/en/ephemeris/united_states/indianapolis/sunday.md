@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°49'33.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°28'21.22" |Aries|Butain|Sun|
-|♂ Mars|Direct|29°56'30.99" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|3°56'38.42" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|13°21'50.38" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°12'57.59" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|12°32'58.14" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°28'20.05" |Aries|Butain|Sun|
+|♂ Mars|Direct|29°56'29.48" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|3°56'30.41" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|13°21'18.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°12'48.90" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|13°43'12.22" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Sun|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°49'33.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°28'21.00" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°56'31.23" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|3°56'38.52" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|13°21'49.44" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°12'58.18" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|12°38'10.06" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|15°28'21.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°56'30.99" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|3°56'38.42" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|13°21'50.38" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°12'57.59" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|12°32'58.14" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

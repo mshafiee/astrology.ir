@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°4'33.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°21'59.13" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°21'59.13" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°49'47.28" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|0°45'29.51" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|14°33'57.74" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°50'59.36" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|27°42'10.21" |Libra|Akleel|Jupiter|
+|♀ Venus|Retrograde|14°33'50.29" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°50'54.99" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|27°32'12.47" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°4'33.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°21'59.48" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°49'46.03" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|0°45'26.75" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°21'59.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°49'47.28" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|0°45'29.51" |Virgo|Sarfrah|Sun|
 |♀ Venus|Retrograde|14°33'50.29" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|21°50'54.99" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|27°32'12.47" |Scorpio|Shaulah|Venus|

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°52'35.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°27'14.59" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°27'14.59" |Aries|Butain|Sun|
 |♂ Mars|Direct|29°30'55.48" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|3°18'3.40" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|13°34'18.47" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°52'35.60" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°27'15.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°30'52.87" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|3°17'59.18" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|13°34'12.37" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°25'38.31" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°54'11.88" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|15°27'14.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°30'55.48" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|3°18'3.40" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|13°34'18.47" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°25'46.87" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°15'3.16" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -365,7 +365,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Venus|Mercury|Leo|Sun|Moon|
 |☉ Sun|Mercury|Saturn|Libra|Moon|Venus|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
-|☿ Mercury|Mars|Moon|Taurus|Sun|Moon|
+|☿ Mercury|Sun|Moon|Taurus|Sun|Moon|
 |☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Kingston, Kingston pa Norfolkoya, Kingston på Norfolkøya, Kingstona, Kingstonas, Kingstono, Kingstun, Kinqston, Pasjolak Kingstan, jin si dui, khing s tan, kincutan, kingseuteon, kingstana, kingusuton, kynghstwn, kyngstwn, Кингстон, Кингстън, Кінгстон, Пасёлак Кінгстан, كينغستون, کنگسٹن, کینگستون, किंग्स्टन, கிங்சுடன், คิงส์ตัน, კინგსტონი, キングストン, 金斯敦, 킹스턴

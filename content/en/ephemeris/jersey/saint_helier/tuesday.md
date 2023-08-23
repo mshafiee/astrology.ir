@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°13'21.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°17'15.31" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°17'15.31" |Aries|Butain|Sun|
 |♂ Mars|Direct|26°35'21.61" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|28°53'0.93" |Cancer|Jabhah|Moon|
 |♀ Venus|Retrograde|15°26'58.21" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°13'21.67" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°17'15.31" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°17'15.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|26°35'21.61" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|28°53'0.93" |Leo|Sarfrah|Mars|
-|♀ Venus|Retrograde|15°26'19.34" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°43'53.44" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°29'39.76" |Scorpio|Akleel|Mars|
+|♀ Venus|Retrograde|15°26'58.21" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°44'2.55" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°18'44.41" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Sun|Moon|Taurus|Sun|Moon|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>□ Sqr|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: JER, Saint Helier, Saint-Helier, Saint-Hélier, Sent-Khel'er, St Helier, St. Helier, seinteuhellieo, Сент-Хельер, 세인트헬리어
