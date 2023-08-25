@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|4°2'27.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°23'0.62" |Aries|Butain|Sun|
-|♂ Mars|Direct|28°7'28.84" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|1°12'6.47" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|14°21'40.69" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°49'9.03" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°43'38.78" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|15°23'0.62" |Aries|Butain|Sun|
+|♂ Mars|Direct|28°7'28.76" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|1°12'8.11" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|14°21'49.42" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°49'9.66" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°2'6.80" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Aries|Moon|Venus|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|4°2'27.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°23'1.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|28°7'28.84" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|1°12'6.47" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|14°21'40.69" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°49'9.03" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°24'25.10" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|4°2'28.87" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|15°23'0.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|28°7'34.13" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|1°12'19.60" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|14°22'19.11" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°49'28.53" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°43'38.78" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운
