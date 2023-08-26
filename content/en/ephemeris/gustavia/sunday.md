@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°49'47.44" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°28'16.43" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°28'16.43" |Aries|Butain|Sun|
 |♂ Mars|Direct|29°54'36.56" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|3°53'46.27" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|13°22'46.24" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°49'47.44" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°28'16.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°54'36.56" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|3°53'46.27" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|13°22'46.24" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°14'1.52" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|11°48'11.71" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Pre-Retrograde Shadow|15°28'15.32" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°54'35.82" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|3°53'40.95" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|13°22'23.30" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°13'56.35" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|12°41'31.17" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mars|Saturn|Venus|Moon|
-|☾ Moon|Jupiter|Mercury|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Libra|Moon|Venus|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Moon|Taurus|Sun|Moon|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Mars|Mars|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}

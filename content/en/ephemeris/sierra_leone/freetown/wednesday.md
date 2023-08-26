@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°36'46.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°32'6.39" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°32'6.39" |Aries|Butain|Sun|
 |♂ Mars|Direct|1°44'57.24" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|6°39'51.15" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|12°39'58.94" |Cancer|Nathrah|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°36'46.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°32'5.20" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°44'54.52" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|6°39'39.14" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°39'13.93" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|19°49'9.17" |Virgo|Simak|Venus|
-|☾ Moon|Direct|26°1'24.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°32'6.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°44'57.24" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|6°39'51.15" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°39'58.94" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|19°49'24.80" |Virgo|Simak|Venus|
+|☾ Moon|Direct|24°26'5.23" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Saturn|Mercury|Jupiter|Sun|
 |☿ Mercury|Jupiter|Saturn|Saturn|Saturn|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Mercury|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}

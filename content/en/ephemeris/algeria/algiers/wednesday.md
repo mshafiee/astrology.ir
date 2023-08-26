@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°37'3.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°32'3.29" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°42'29.76" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|6°36'1.33" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|12°39'52.26" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|19°51'16.49" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|25°28'33.28" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°32'2.46" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°42'35.77" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|6°36'18.34" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|12°40'41.08" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|19°51'42.43" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|23°30'54.22" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Sun|
-|☾ Moon|Saturn|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°37'3.47" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°32'2.46" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°32'2.46" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|1°42'35.77" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|6°36'18.34" |Virgo|Awwa|Sun|
 |♀ Venus|Retrograde|12°40'41.08" |Leo|Zubrah|Jupiter|
