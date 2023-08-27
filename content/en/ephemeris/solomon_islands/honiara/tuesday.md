@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|0°48'14.03" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|5°14'30.79" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|12°59'28.42" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|20°38'50.13" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|2°18'22.29" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|20°38'31.60" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|2°49'27.79" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Sun|
 |♀ Venus|Mars|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'27.67" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°30'20.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°48'14.03" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°14'30.79" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°59'28.42" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|20°38'50.13" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°18'22.29" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|15°30'22.54" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°48'8.86" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°14'20.33" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°59'7.31" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|20°38'31.60" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°49'27.79" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Moon|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Moon|Taurus|Sun|Moon|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

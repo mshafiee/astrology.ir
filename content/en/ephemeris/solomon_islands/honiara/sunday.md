@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°52'32.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°27'15.68" |Aries|Butain|Sun|
-|♂ Mars|Direct|29°31'22.23" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|3°18'44.61" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|13°34'11.12" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°25'37.84" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|3°17'59.08" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|15°27'17.66" |Aries|Butain|Sun|
+|♂ Mars|Direct|29°31'17.05" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|3°18'34.17" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|13°33'47.99" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°25'19.54" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|3°7'14.30" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|3°52'32.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°27'15.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°31'22.23" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|3°18'44.61" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|13°34'11.12" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°25'37.84" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°17'59.08" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|3°52'33.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|15°27'17.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°31'17.05" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|3°18'34.17" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|13°33'47.99" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°25'19.54" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°7'14.30" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

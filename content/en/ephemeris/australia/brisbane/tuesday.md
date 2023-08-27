@@ -301,8 +301,8 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'20.12" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Pre-Retrograde Shadow|15°30'22.86" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°49'19.07" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|5°16'7.87" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|0°49'15.92" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|5°16'2.66" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|12°58'57.63" |Cancer|Tarf|Mercury|
 |☿ Mercury|Retrograde|20°37'57.29" |Leo|Zubrah|Mars|
 |☾ Moon|Direct|2°54'15.51" |Capricorn|SaadAlDhabib|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'20.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°30'22.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°49'19.07" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°16'7.87" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°58'57.63" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|20°37'57.29" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°54'15.51" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|15°30'24.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°49'15.92" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°16'2.66" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°58'51.05" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|20°37'46.91" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°57'38.94" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: BNE, Bresbens, Brisbane, Brisbane City, Brisbano, Brisbehn, Brisben, Brisbena, Brisbenas, Brisbin, Brismpein, Brizbejn, Brysben, Brėsbens, Pu-li-su-pan, Pu-lî-sṳ̂-pân, beulijeubeon, brisabena, brisben, brisbena, brizabana, brizbeni, brsbyn, brysban, bryzbn, bryzbyn, bryzbyyn, bu li si ban, bu li si ben, burisuben, pirispen, Μπρίσμπεϊν, Бризбейн, Бризбејн, Брисбен, Брисбэн, Брысбен, בריזביין, בריזבן, برسبین, برىسبان, بريزبن, بریزبن, بریزبین, بریزبێن, ब्रिसबेन, ब्रिस्बेन, ব্রিসবেন, ਬ੍ਰਿਜ਼ਬਨ, பிரிஸ்பேன், బ్రిస్బేన్, ಬ್ರಿಸ್ಬೇನ್‌, ബ്രിസ്ബെയ്ൻ, บริสเบน, ဘရစ်စဘိန်းမြို့, ბრიზბენი, ብርዝበን, ブリスベン, 布里司班, 布里斯本, 布里斯班, 브리즈번

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'1.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°30'28.08" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°51'53.49" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|5°20'1.13" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|12°58'3.60" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|20°36'1.34" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|3°43'4.38" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|15°30'28.68" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°51'53.08" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|5°20'1.58" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|12°58'8.78" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|20°36'0.87" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|3°28'40.47" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'1.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°30'28.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°51'53.49" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°20'1.13" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°58'3.60" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|20°36'1.34" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°43'4.38" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|15°30'28.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°51'53.08" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°20'1.58" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°58'8.78" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|20°36'0.87" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°28'40.47" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: DIL, Delhi, Dilhi, Dili, Dili khot, Dilis, Dilli, Dilly, Dilo, Dily, Dyli, Díli, Nova Dili, Ntili, di li, dili, dilli, diri, dyly, tili, Ντίλι, Дили, Дили хот, Дылі, Ділі, Դիլի, דילי, دىلى, ديلي, دیلی, ڈلی, दिली, দিলি, ਦੀਲੀ, டிலி, ಡಿಲಿ, ദിലി, ดิลี, དྷི་ལི།, ဒီလီမြို့, დილი, ディリ, 帝力, 딜리

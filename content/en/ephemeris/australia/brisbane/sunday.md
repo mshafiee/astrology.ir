@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°52'24.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°27'18.79" |Aries|Butain|Sun|
-|♂ Mars|Direct|29°32'28.79" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|3°20'24.12" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|13°33'31.36" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°25'4.70" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|3°48'39.40" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Pre-Retrograde Shadow|15°27'20.35" |Aries|Butain|Sun|
+|♂ Mars|Direct|29°32'25.63" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|3°20'18.92" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|13°33'23.48" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°24'54.29" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|3°25'23.29" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°52'24.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°27'19.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°32'27.36" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|3°20'22.66" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|13°33'32.30" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°25'0.52" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°25'57.80" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Pre-Retrograde Shadow|15°27'18.79" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°32'28.79" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|3°20'24.12" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|13°33'23.48" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°24'54.29" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°25'23.29" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BNE, Bresbens, Brisbane, Brisbane City, Brisbano, Brisbehn, Brisben, Brisbena, Brisbenas, Brisbin, Brismpein, Brizbejn, Brysben, Brėsbens, Pu-li-su-pan, Pu-lî-sṳ̂-pân, beulijeubeon, brisabena, brisben, brisbena, brizabana, brizbeni, brsbyn, brysban, bryzbn, bryzbyn, bryzbyyn, bu li si ban, bu li si ben, burisuben, pirispen, Μπρίσμπεϊν, Бризбейн, Бризбејн, Брисбен, Брисбэн, Брысбен, בריזביין, בריזבן, برسبین, برىسبان, بريزبن, بریزبن, بریزبین, بریزبێن, ब्रिसबेन, ब्रिस्बेन, ব্রিসবেন, ਬ੍ਰਿਜ਼ਬਨ, பிரிஸ்பேன், బ్రిస్బేన్, ಬ್ರಿಸ್ಬೇನ್‌, ബ്രിസ്ബെയ്ൻ, บริสเบน, ဘရစ်စဘိန်းမြို့, ბრიზბენი, ብርዝበን, ブリスベン, 布里司班, 布里斯本, 布里斯班, 브리즈번

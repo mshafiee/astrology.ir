@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°36'9.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°32'14.27" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°50'18.96" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|6°47'48.26" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|12°37'45.71" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|19°43'50.21" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|27°55'0.13" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°32'14.09" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°50'20.75" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|6°47'53.53" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|12°38'1.23" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|19°43'58.14" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|27°18'12.56" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
+|☾ Moon|Moon|Mercury|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°36'9.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°32'15.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°50'20.21" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|6°47'55.08" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°38'13.02" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|19°43'58.57" |Virgo|Simak|Venus|
-|☾ Moon|Direct|27°0'10.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°32'14.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°50'20.75" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|6°47'53.53" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°38'1.23" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|19°43'58.14" |Virgo|Simak|Venus|
+|☾ Moon|Direct|27°18'12.56" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
