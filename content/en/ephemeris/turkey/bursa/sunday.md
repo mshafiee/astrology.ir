@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°51'1.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°27'49.54" |Aries|Butain|Sun|
-|♂ Mars|Direct|29°44'11.86" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|3°38'4.67" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|13°27'46.85" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°19'30.40" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|8°1'13.05" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Direct|15°27'49.68" |Aries|Butain|Sun|
+|♂ Mars|Direct|29°44'11.67" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|3°38'4.47" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|13°27'46.97" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°19'29.83" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|7°58'24.72" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°51'1.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°27'49.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°44'11.86" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|3°38'4.67" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|13°27'46.97" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°19'29.83" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|7°58'24.72" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|15°27'49.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°44'11.63" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|3°38'4.52" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|13°27'47.47" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°19'29.77" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|7°56'34.69" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°42'13.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°30'42.43" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°30'42.43" |Aries|Butain|Sun|
 |♂ Mars|Direct|0°58'46.46" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|5°30'20.44" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|12°55'12.49" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°42'13.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°30'42.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°58'46.46" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°30'20.44" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°55'12.49" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|20°30'26.50" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|6°53'35.03" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|15°30'42.65" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°58'42.63" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°30'9.02" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°54'37.79" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|20°30'9.84" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|8°7'37.86" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Saturn|Mercury|Jupiter|Sun|
 |☿ Mercury|Jupiter|Saturn|Venus|Moon|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Moon|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Moon|Taurus|Sun|Moon|
-|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'15.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°30'25.00" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°49'52.60" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|5°16'56.21" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|12°58'28.59" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|20°37'18.33" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|3°33'37.10" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|15°30'24.45" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°49'54.97" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|5°17'1.88" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|12°58'42.54" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|20°37'27.49" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|3°8'35.08" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'15.93" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°30'24.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°49'55.19" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°17'1.78" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°58'28.59" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|20°37'18.33" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°33'37.10" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|15°30'24.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°49'54.97" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°17'1.88" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°58'42.54" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|20°37'27.49" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°8'35.08" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Moon|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Moon|Taurus|Sun|Moon|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: CBR, Camberra, Canberra, Canberrah, Kamberra, Kambra, Kampera, Kanapera, Kanbera, Kanbero, Kanberr, Kanberra, Kanberrae, Kanberre, Kanbérra, Kham-phi-la, Khâm-phì-là, Kānapera, kaenbeola, kainabara, kainberra, kan pei la, kanabera, kanbra, kanpara, kenabera, kyanabara, kyanabera, kyanbera, kynbra, kʼanbera, qnbrh, Καμπέρα, Канбера, Канберрæ, Канберра, Канберре, Канбєра, Կանբերրա, קאנבערא, קנברה, كانبرا, کانبرا, کانبێرا, کینبرا, कॅनबेरा, कैनबरा, कैन्बेर्रा, क्यानबरा, ক্যানবেরা, ਕੈਨਬਰਾ, କାନବେରା, கான்பரா, കാൻബറ, කැන්බරා, แคนเบอร์รา, ཁན་པེ་ར།, კანბერა, ካንበራ, キャンベラ, 坎培拉, 堪培拉, 캔버라

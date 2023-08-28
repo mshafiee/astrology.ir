@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°52'45.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°27'10.84" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°27'10.84" |Aries|Butain|Sun|
 |♂ Mars|Direct|29°29'34.21" |Leo|Sarfrah|Mars|
-|☉ Sun|Direct|3°15'52.66" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|13°34'41.91" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°26'10.95" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°45'28.48" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|3°16'1.46" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|13°35'4.08" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°26'25.25" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°41'7.71" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°52'45.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°27'10.84" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°27'10.84" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|29°29'34.21" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|3°15'52.66" |Virgo|Sarfrah|Sun|
-|♀ Venus|Retrograde|13°34'41.91" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|21°26'10.95" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°45'28.48" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|3°16'1.46" |Virgo|Sarfrah|Sun|
+|♀ Venus|Retrograde|13°35'4.08" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|21°26'25.25" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°41'7.71" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

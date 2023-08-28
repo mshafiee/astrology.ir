@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'38.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°30'17.09" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°46'39.03" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|5°12'8.12" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|13°0'7.81" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|20°40'3.50" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|1°37'22.56" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|15°30'18.89" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°46'32.96" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|5°11'54.05" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|12°59'33.50" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|20°39'40.37" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|2°37'1.57" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -314,7 +314,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Mercury|Mercury|Sun|Jupiter|
 |♂ Mars|Mercury|Mercury|Mercury|Jupiter|
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
-|♀ Venus|Mercury|Mercury|Mars|Moon|
+|♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
 |☾ Moon|Mercury|Venus|Saturn|Sun|
 
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Sun|
 |♀ Venus|Mars|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'38.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°30'17.09" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°30'17.09" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°46'39.03" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|5°12'8.12" |Virgo|Awwa|Sun|
 |♀ Venus|Retrograde|13°0'7.81" |Leo|Zubrah|Jupiter|

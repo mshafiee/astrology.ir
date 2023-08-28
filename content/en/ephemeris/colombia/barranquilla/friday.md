@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|3°26'57.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°33'55.62" |Aries|Butain|Sun|
-|♂ Mars|Direct|3°8'41.18" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|8°45'40.58" |Leo|Zubrah|Saturn|
-|♀ Venus|Retrograde|12°20'43.06" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|18°15'27.14" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|27°27'3.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|3°26'57.73" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|15°33'54.72" |Aries|Butain|Sun|
+|♂ Mars|Direct|3°8'38.04" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|8°45'27.80" |Leo|Zubrah|Saturn|
+|♀ Venus|Retrograde|12°19'57.56" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|18°15'8.92" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|28°34'59.36" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Moon|Mercury|Sagittarius|Moon|Mars|
+|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°26'57.73" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°33'55.62" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|15°33'55.62" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°8'41.18" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|8°45'40.56" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°20'43.06" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|18°15'27.14" |Virgo|Simak|Venus|
-|☾ Moon|Direct|27°27'3.17" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|8°45'40.58" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°20'42.94" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|18°15'27.20" |Virgo|Simak|Venus|
+|☾ Moon|Direct|27°26'40.49" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

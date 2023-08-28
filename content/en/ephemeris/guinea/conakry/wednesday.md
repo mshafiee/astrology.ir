@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°36'46.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°32'6.43" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°32'6.43" |Aries|Butain|Sun|
 |♂ Mars|Direct|1°44'58.97" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|6°39'53.76" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|12°39'58.53" |Cancer|Nathrah|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°36'46.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°32'6.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°44'58.97" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|6°39'53.76" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°39'58.53" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|19°49'23.17" |Virgo|Simak|Venus|
-|☾ Moon|Direct|24°26'31.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|15°32'4.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°44'58.09" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|6°39'46.76" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°39'27.38" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|19°49'15.34" |Virgo|Simak|Venus|
+|☾ Moon|Direct|25°28'5.10" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Saturn|Mercury|Jupiter|Sun|
 |☿ Mercury|Jupiter|Saturn|Saturn|Saturn|
-|☾ Moon|Mars|Jupiter|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Mercury|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
+|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

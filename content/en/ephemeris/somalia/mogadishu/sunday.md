@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°51'7.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°27'47.61" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°27'47.61" |Aries|Butain|Sun|
 |♂ Mars|Direct|29°43'22.70" |Leo|Sarfrah|Mars|
 |☉ Sun|Direct|3°36'50.74" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|13°27'25.03" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°19'40.56" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|9°11'16.34" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Retrograde|13°28'11.32" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°19'54.60" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|7°40'9.06" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°51'7.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°27'47.61" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°43'22.70" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|15°27'46.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°43'19.94" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|3°36'38.58" |Virgo|Sarfrah|Sun|
 |♀ Venus|Retrograde|13°27'25.03" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|21°19'40.56" |Virgo|Simak|Mercury|

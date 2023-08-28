@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°33'25.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°32'50.05" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°13'34.10" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|7°22'52.18" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|12°32'6.42" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|19°19'56.41" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|5°46'4.66" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|15°32'50.05" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°13'31.14" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|7°22'46.77" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|12°31'58.87" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|19°19'46.36" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°21'54.65" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Sun|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mercury|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°33'25.08" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°32'50.05" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°13'34.10" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|7°22'52.18" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°32'6.42" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|19°19'56.41" |Virgo|Simak|Venus|
+|♃ Jupiter|Direct|15°32'51.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°13'31.14" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|7°22'46.77" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°31'58.87" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|19°19'46.36" |Virgo|Simak|Venus|
 |☾ Moon|Direct|5°46'4.66" |Pisces|FarghAlMuakhar|Saturn|
 
 
