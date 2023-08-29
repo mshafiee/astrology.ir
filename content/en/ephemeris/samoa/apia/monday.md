@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°48'20.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°28'45.37" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°6'48.91" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|4°12'1.80" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|13°16'19.95" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|21°6'48.17" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|17°58'1.90" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°28'46.86" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°6'50.68" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|4°12'11.45" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|13°16'59.07" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|21°6'58.63" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|16°30'28.93" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Virgo|Sun|Sun|
 |♀ Venus|Mars|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°48'20.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°28'45.37" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°28'45.37" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°6'48.91" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|4°12'1.80" |Virgo|Sarfrah|Sun|
 |♀ Venus|Retrograde|13°16'19.95" |Leo|Zubrah|Jupiter|

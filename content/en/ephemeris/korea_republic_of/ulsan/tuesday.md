@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'11.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°30'25.25" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°30'25.25" |Aries|Butain|Sun|
 |♂ Mars|Direct|0°50'34.84" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|5°18'3.13" |Leo|Jabhah|Saturn|
 |♀ Venus|Retrograde|12°58'36.56" |Cancer|Tarf|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'11.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°30'25.25" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°30'25.25" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°50'34.84" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|5°18'3.13" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°58'36.56" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|20°37'3.76" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°7'15.68" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Retrograde|12°58'25.63" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|20°36'51.37" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°20'12.61" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Moon|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Mars|Moon|Taurus|Sun|Moon|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

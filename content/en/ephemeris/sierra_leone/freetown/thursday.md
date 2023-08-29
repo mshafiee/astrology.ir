@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°32'15.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°33'3.69" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°23'31.06" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|7°37'49.36" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|12°29'41.13" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|19°9'1.55" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|9°41'52.54" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|15°33'2.55" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°23'28.31" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|7°37'37.36" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|12°28'56.63" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|19°8'45.33" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|11°4'51.90" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Sun|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°32'15.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°33'3.69" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°33'3.69" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°23'31.06" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|7°37'49.36" |Virgo|Awwa|Sun|
 |♀ Venus|Retrograde|12°29'41.13" |Leo|Zubrah|Jupiter|

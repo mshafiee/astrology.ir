@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°23'49.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°34'18.25" |Aries|Butain|Sun|
-|♂ Mars|Direct|3°35'29.55" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|9°25'46.85" |Leo|Zubrah|Saturn|
-|♀ Venus|Retrograde|12°16'9.76" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|17°40'23.70" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|8°57'54.24" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Pre-Retrograde Shadow|15°34'18.82" |Aries|Butain|Sun|
+|♂ Mars|Direct|3°35'33.32" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|9°26'0.68" |Leo|Zubrah|Saturn|
+|♀ Venus|Retrograde|12°16'55.66" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|17°40'44.31" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|7°53'56.42" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°23'49.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°34'18.25" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Pre-Retrograde Shadow|15°34'18.25" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°35'29.55" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|9°25'46.85" |Virgo|Awwa|Sun|
 |♀ Venus|Retrograde|12°16'9.76" |Leo|Zubrah|Jupiter|

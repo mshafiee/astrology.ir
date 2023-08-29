@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'19.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Direct|15°30'22.91" |Aries|Butain|Sun|
+|♃ Jupiter|Pre-Retrograde Shadow|15°30'22.91" |Aries|Butain|Sun|
 |♂ Mars|Direct|0°49'26.62" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|5°16'20.58" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|12°59'3.68" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|20°37'56.62" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|2°39'35.00" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°16'8.44" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|12°58'18.20" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|20°37'41.57" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|4°20'29.29" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Sun|
 |♀ Venus|Mars|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°43'19.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Direct|15°30'22.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°49'22.24" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|5°16'5.60" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°58'13.60" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|20°37'36.17" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°26'12.86" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Pre-Retrograde Shadow|15°30'21.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°49'23.82" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|5°16'8.44" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°58'18.20" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|20°37'41.57" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|4°20'29.29" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
