@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°37'42.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°31'54.73" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°36'57.35" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|6°27'49.79" |Leo|Jabhah|Saturn|
-|♀ Venus|Retrograde|12°42'23.42" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|19°56'57.26" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|21°27'25.26" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|15°31'53.03" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°36'59.94" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|6°27'53.40" |Leo|Jabhah|Saturn|
+|♀ Venus|Retrograde|12°42'24.78" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|19°57'5.14" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|21°16'46.99" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|3°37'43.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°31'54.73" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°36'57.35" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|6°27'49.79" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°42'23.42" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|19°56'57.26" |Virgo|Simak|Venus|
+|♄ Saturn|Retrograde|3°37'42.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°31'53.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°36'59.94" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|6°27'53.40" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°42'24.78" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|19°57'5.14" |Virgo|Simak|Venus|
 |☾ Moon|Direct|21°16'46.99" |Aquarius|SaadAlAkhbia|Moon|
 
 

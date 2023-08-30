@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°20'24.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Pre-Retrograde Shadow|15°34'38.59" |Aries|Butain|Sun|
-|♂ Mars|Direct|4°4'50.50" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|10°9'57.81" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°14'9.94" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|17°0'46.18" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|19°34'28.40" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|15°34'37.41" |Aries|Butain|Sun|
+|♂ Mars|Direct|4°4'52.43" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|10°10'0.83" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|12°14'11.06" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|17°0'51.80" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|18°58'24.41" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Jupiter|Sun|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Mars|Mercury|Moon|Sun|
+|☾ Moon|Mercury|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°20'24.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Pre-Retrograde Shadow|15°34'37.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°4'52.43" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|10°10'0.83" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°14'11.06" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|17°0'51.80" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|15°34'37.41" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°4'50.50" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|10°9'57.81" |Virgo|Awwa|Venus|
+|♀ Venus|Retrograde|12°14'9.94" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°0'46.18" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|19°34'28.40" |Aries|Butain|Sun|
 
 
