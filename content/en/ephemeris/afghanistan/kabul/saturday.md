@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°34'15.56" |Aries|Butain|Sun|
 |♂ Mars|Direct|3°31'26.77" |Virgo|Sarfrah|Sun|
 |☉ Sun|Direct|9°19'50.79" |Leo|Zubrah|Saturn|
-|♀ Venus|Retrograde|12°17'26.90" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|17°46'11.07" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|8°0'22.97" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Retrograde|12°17'26.89" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|17°46'10.86" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°17'20.63" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Sun|Venus|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°24'18.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'15.56" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°31'26.77" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|9°19'50.79" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°17'26.90" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|17°46'11.07" |Virgo|Simak|Venus|
-|☾ Moon|Direct|6°16'8.29" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°34'15.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°31'26.70" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|9°19'50.68" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°17'26.89" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°46'10.86" |Virgo|Simak|Venus|
+|☾ Moon|Direct|6°17'20.63" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

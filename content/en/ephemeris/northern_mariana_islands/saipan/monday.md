@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°16'13.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°34'53.35" |Aries|Butain|Sun|
-|♂ Mars|Direct|4°40'52.92" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|11°3'56.11" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°12'10.46" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|16°8'56.68" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°56'39.08" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°34'51.01" |Aries|Butain|Sun|
+|♂ Mars|Direct|4°40'59.32" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|11°4'10.88" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|12°12'39.29" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|16°9'21.10" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°22'9.39" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°34'51.01" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|4°40'59.32" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|11°4'10.88" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°12'39.29" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°9'21.10" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°22'9.39" |Taurus|Thurayya|Mercury|
+|♀ Venus|Retrograde|12°12'19.31" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°9'6.83" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°8'32.86" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: SPN, Saipan, Sajpan, saipan, Сайпан, 사이판

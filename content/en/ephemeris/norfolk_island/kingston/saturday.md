@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°25'25.33" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|15°34'7.98" |Aries|Butain|Sun|
-|♂ Mars|Direct|3°21'54.97" |Virgo|Sarfrah|Sun|
-|☉ Sun|Direct|9°5'30.26" |Leo|Zubrah|Saturn|
-|♀ Venus|Retrograde|12°18'30.77" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|17°58'32.50" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°44'42.86" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|3°21'54.26" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|9°5'29.98" |Leo|Zubrah|Saturn|
+|♀ Venus|Retrograde|12°18'34.63" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|17°58'31.30" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°55'0.89" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°25'25.33" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'7.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°21'54.26" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|9°5'29.98" |Virgo|Awwa|Sun|
-|♀ Venus|Retrograde|12°18'34.63" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|17°58'31.30" |Virgo|Simak|Venus|
-|☾ Moon|Direct|2°55'0.89" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°34'7.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°21'54.97" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|9°5'30.26" |Virgo|Awwa|Sun|
+|♀ Venus|Retrograde|12°18'30.77" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°58'32.50" |Virgo|Simak|Venus|
+|☾ Moon|Direct|2°44'42.86" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub>☍ Opp|<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Kingston, Kingston pa Norfolkoya, Kingston på Norfolkøya, Kingstona, Kingstonas, Kingstono, Kingstun, Kinqston, Pasjolak Kingstan, jin si dui, khing s tan, kincutan, kingseuteon, kingstana, kingusuton, kynghstwn, kyngstwn, Кингстон, Кингстън, Кінгстон, Пасёлак Кінгстан, كينغستون, کنگسٹن, کینگستون, किंग्स्टन, கிங்சுடன், คิงส์ตัน, კინგსტონი, キングストン, 金斯敦, 킹스턴

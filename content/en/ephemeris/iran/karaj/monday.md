@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°15'5.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°34'52.88" |Aries|Butain|Sun|
-|♂ Mars|Direct|4°50'49.37" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|11°18'55.45" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°12'35.29" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|15°54'57.86" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|5°57'30.62" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°34'53.00" |Aries|Butain|Sun|
+|♂ Mars|Direct|4°50'49.23" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|11°18'55.29" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|12°12'35.62" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|15°54'57.56" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°0'49.05" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Jupiter|Sun|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°15'5.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'52.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°50'49.37" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|11°18'55.45" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°12'35.29" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|15°54'57.86" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|5°57'30.62" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|15°34'53.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°50'49.23" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|11°18'55.29" |Virgo|Awwa|Venus|
+|♀ Venus|Retrograde|12°12'35.62" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|15°54'57.56" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|6°0'49.05" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|3°16'12.31" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|15°34'51.04" |Aries|Butain|Sun|
 |♂ Mars|Direct|4°41'13.01" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|11°4'31.29" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°12'38.59" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|16°9'0.77" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°28'0.77" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|11°4'20.84" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|12°12'14.57" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|16°8'43.82" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°22'2.25" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°16'12.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'52.11" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|15°34'51.04" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|4°41'8.94" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|11°4'20.84" |Virgo|Awwa|Venus|
 |♀ Venus|Retrograde|12°12'14.57" |Leo|Zubrah|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시
