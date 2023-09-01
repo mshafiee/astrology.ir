@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°15'45.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°34'52.26" |Aries|Butain|Sun|
-|♂ Mars|Direct|4°44'55.73" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|11°9'57.86" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°11'55.62" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|16°3'6.27" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°36'24.44" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°34'51.86" |Aries|Butain|Sun|
+|♂ Mars|Direct|4°45'0.50" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|11°10'12.51" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|12°12'36.83" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|16°3'29.43" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°49'54.20" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°15'45.99" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'52.26" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°44'55.73" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|11°9'57.86" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°11'55.62" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°3'6.27" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|4°36'24.44" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|15°34'51.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°45'0.50" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|11°10'12.51" |Virgo|Awwa|Venus|
+|♀ Venus|Retrograde|12°12'36.83" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°3'29.43" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°49'54.20" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub> |<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Goi-iong, Guejang, Guejjan, Guijangas, Guijango, Guiyang, Guiyang Shi, Gujjan, Guyan, Guyyan, Gveiyangz, Gói-iòng, Gŭijango, KWE, Kuei-chu, Kuei-yang, Kuei-yang-shih, Kuej-jang, Kui-iong-chhi, Kweichu, Kweiyang, Kweiyangfu, Kùi-iông-chhī, Queiyanga, Quy Duong, Quý Dương, ghwyyangh, gu'iyanga, gu-iyang si, gui yang, gui yang shi, gwyyang, kuy hyang, Гуейян, Гуејанг, Гуйян, Ґуйян, Գույան, غوييانغ, گوئیانگ, گۇيياڭ شەھىرى, गुइयांग, ਗੁਈਯਾਂਗ, กุ้ยหยาง, ကွေ့ယန်မြို့, 貴陽, 貴陽市, 贵阳, 贵阳市, 구이양 시

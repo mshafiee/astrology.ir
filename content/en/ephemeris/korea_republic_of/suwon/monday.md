@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°16'2.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°34'51.37" |Aries|Butain|Sun|
-|♂ Mars|Direct|4°42'35.36" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|11°6'34.79" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°12'37.71" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|16°7'0.79" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°58'22.35" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°34'51.35" |Aries|Butain|Sun|
+|♂ Mars|Direct|4°42'35.34" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|11°6'34.71" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|12°12'37.42" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|16°7'0.68" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°58'20.28" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°16'2.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'51.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°42'35.36" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|11°6'34.79" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°12'37.71" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°7'0.79" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°58'22.35" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|15°34'51.35" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°42'35.34" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|11°6'34.71" |Virgo|Awwa|Venus|
+|♀ Venus|Retrograde|12°12'37.42" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°7'0.68" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°58'20.28" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: SWU, Sououon, Suigen, Suvon, Suwon, Suwon-si, Suwŏn, shui yuan shi, suvona, suwon, suwonsi, suwxn, swwn, Σούουον, Сувон, سوون, सुवोन, ซูว็อน, 水原市, 수원, 수원시
