@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°16'12.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°34'51.18" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|15°34'50.53" |Aries|Butain|Sun|
 |♂ Mars|Direct|4°41'11.01" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|11°4'27.86" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°12'35.99" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|16°9'1.47" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°31'51.21" |Aries|Sharatain|Mars|
+|♀ Venus|Retrograde|12°11'54.23" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|16°8'42.23" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°50'49.54" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°16'12.57" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'51.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°41'11.01" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|11°4'27.86" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°12'35.99" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°9'1.47" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°31'51.21" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|15°34'50.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°41'7.73" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|11°4'15.32" |Virgo|Awwa|Venus|
+|♀ Venus|Retrograde|12°11'54.23" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°8'42.23" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°50'49.54" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: POM, Po Moresbi, Port Moresby, Port Moresmpi, Port Morsbi, Port Morsbis, Port-Moresbo, Port-Morsbi, Portmorsbi, Portus Moresbiensis, Pot Mosbi, Puerto Moresby, Pò Moresbi, bwrt mwrsby, mo er ci bi gang, mo er zi bi gang, phxrt mxr sbi, porata moraisabi, porta moresbi, poteumoleujeubi, potomoresubi, pwrt mwrsby, Πορτ Μόρεσμπι, Порт Морсби, Порт-Морсби, Порт-Морсбі, Պորտ Մորսբի, פורט מורסבי, بورت مورسبي, صوبہ پورٹ مورسبائی, مورېسبى پورتى, پورت مورسبی, پورٹ مورسبی, پۆرت مۆرسبی, पोर्ट मॉरेस्बी, पोर्ट मोरेस्बी, ਪੋਰਟ ਮੋਰੈਸਬੀ, พอร์ตมอร์สบี, པོ་རོ་ཊི་མོ་རེ་སི་བི།, პორტ-მორზბი, ፖርት ሞርስቢ, ポートモレスビー, 莫尔兹比港, 포트모르즈비

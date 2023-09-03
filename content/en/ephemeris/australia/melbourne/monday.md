@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°16'8.06" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'51.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°41'52.59" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|11°5'28.95" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°12'28.47" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°7'57.23" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°48'42.07" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|15°34'51.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°41'51.96" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|11°5'27.84" |Virgo|Awwa|Venus|
+|♀ Venus|Retrograde|12°12'27.54" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°7'55.30" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°0'10.39" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: MEL, Mel'burn, Melbourne, Melbourne City, Melbournum, Melburn, Melburna, Melburnas, Melburno, Melvourni, mel beirn, melaborna, melbeoleun, melbeon, melporn, meruborun, mlbwrn, mo er ben, Μελβούρνη, Мелбурн, Мелбърн, Мельбурн, מלבורן, ملبورن, مېلبۇرن, मेलबोर्न, மெல்போர்ன், เมลเบิร์น, མེར་བུན, メルボルン, 墨尔本, 墨爾本, 멜버른, 멜번

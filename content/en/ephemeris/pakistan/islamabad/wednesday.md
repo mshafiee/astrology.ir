@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°6'26.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°34'41.88" |Aries|Butain|Sun|
-|♂ Mars|Direct|6°6'7.24" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|13°11'44.66" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°17'8.07" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|14°2'19.65" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°21'21.05" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|15°34'43.95" |Aries|Butain|Sun|
+|♂ Mars|Direct|6°6'3.98" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|13°11'39.40" |Leo|Zubrah|Jupiter|
+|♀ Venus|Retrograde|12°17'6.86" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|14°2'11.22" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°17'41.59" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Capricorn|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°6'26.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'41.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°6'7.24" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|13°11'44.66" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°17'8.07" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|14°2'19.65" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°21'21.05" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|15°34'43.95" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|6°6'3.98" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|13°11'39.40" |Virgo|Awwa|Venus|
+|♀ Venus|Retrograde|12°17'6.86" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|14°2'11.22" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°17'41.59" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: ISB, Islamabad, Islamabada, Islamabadas, Islamabade, Islamabadi, Islamabado, Islamahbad, Islamampant, Islàmabad, Islámábád, Islāmābād, Islāmābāda, Iszlamabad, Iszlámábád, aslam abad, isalamabada, iseullamabadeu, islamabad, islamabada, islamabadi, islamapat, isuramabado, xislamabad, yi si lan bao, yyslamabad, yyslamyabad, Îslamabad, İslamabad, Ισλαμαμπάντ, Ісламабад, Исламабад, Իսլամաբադ, איסלאמאבאד, איסלמבאד, إسلام آباد, ئىسلامئاباد, ئیسلاماباد, اسلام آباد, اسلام اباد, اسلام‌آباد, އިސްލާމްއާބާދު, इस्लामाबाद, ইসলামাবাদ, ਇਸਲਾਮਾਬਾਦ, ઇસ્લામાબાદ, ଇସଲାମାବାଦ, இஸ்லாமாபாத், ಇಸ್ಲಾಮಾಬಾದ್, ഇസ്ലാമബാദ്, อิสลามาบัด, ཨི་སི་ལམ་བོ།, ისლამაბადი, ኢስላማባድ, イスラマバード, 伊斯兰堡, 伊斯蘭堡, 이슬라마바드

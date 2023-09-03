@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°16'13.85" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°34'51.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°40'59.32" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|11°4'10.88" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°12'39.29" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°9'21.10" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°22'9.39" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°40'55.88" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|11°4'2.08" |Virgo|Awwa|Venus|
+|♀ Venus|Retrograde|12°12'19.31" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°9'6.83" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°8'32.86" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub> |<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: SPN, Saipan, Sajpan, saipan, Сайпан, 사이판
