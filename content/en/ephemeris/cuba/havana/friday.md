@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'42.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°33'23.02" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°40'53.05" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|15°33'26.28" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°34'24.95" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|11°44'10.17" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°26'56.08" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|15°33'23.80" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°40'55.17" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|15°33'35.61" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°34'57.42" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|11°44'25.53" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°29'7.24" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -341,9 +341,9 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|2°55'42.91" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°33'23.80" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°40'55.17" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°33'26.28" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°34'24.95" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°44'10.17" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|15°33'35.61" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°34'57.42" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°44'25.53" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|3°29'7.24" |Cancer|Nathrah|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: A Habana, Abana, Gavana, Gavanae, Gavane, HAV, Habana, Hafana, Hahvaxnaz, Havan, Havana, Havanna, Havano, Hawana, Khavana, L'Avana, LAvan-a, LAvana, LAvann-a, LHabana, LHavana, La Ahuana, La Avan, La Avàn, La Habana, La Havana, La Havane, abana, avana, ha wa na, habana, habhana, hafana, havana, hawana, xia wan na, Ħavana, ŁAvana, Αβάνα, Гaванa, Гаванæ, Гавана, Гаване, Хавана, Ҳавана, Հավանա, האוואנע, הוואנה, هافانا, هاوانا, ہوانا, हवाना, হাভানা, ਹਵਾਨਾ, ହାଭାନା, அவானா, ഹവാന, ฮาวานา, ཧ་ཝན, ဟာဗားနားမြို့, ჰავანა, ሀቫና, ሀኖይ, ハバナ, 哈瓦那, 夏灣拿, 아바나

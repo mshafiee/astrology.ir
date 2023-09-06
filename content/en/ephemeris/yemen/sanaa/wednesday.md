@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|3°6'3.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°34'41.13" |Aries|Butain|Sun|
-|♂ Mars|Direct|6°9'31.33" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|13°16'50.11" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°17'33.10" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|13°57'11.24" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°30'44.10" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Retrograde|3°6'5.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|15°34'40.26" |Aries|Butain|Sun|
+|♂ Mars|Direct|6°9'28.14" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|13°16'37.01" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°16'47.55" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|13°56'46.96" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°11'51.92" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°34'40.32" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|6°9'32.60" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|13°16'52.24" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°17'33.10" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|13°57'11.24" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°30'44.10" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|12°17'33.10" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|13°56'46.96" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°11'51.92" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: SAH, Sano, San'ah, San`a', Sana, Sana'a, Sana'a', Sanaa, Sanaà, Sanaá, San’ah, sa na, sana, sanua, snʿaʾ, Şana‘ā', Şan‘ā’, Σάνα, Сана, Санъо, צנעא, صنعاء, ሳና, サヌア, 萨那, 사나

@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'26.35" |Aries|Butain|Sun|
 |♂ Mars|Direct|7°38'48.89" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|15°30'26.73" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°34'24.84" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|12°34'24.84" |Cancer|Nathrah|Mercury|
 |☿ Mercury|Retrograde|11°47'18.81" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|2°48'30.22" |Gemini|HaqAh|Jupiter|
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'57.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'25.13" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°38'48.58" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°30'22.40" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°34'3.90" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°47'11.23" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|15°33'26.35" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°38'48.89" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|15°30'26.73" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°34'24.84" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°47'18.81" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|2°48'30.22" |Cancer|Nathrah|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Acalquixohuayan Caxtillan, City of Port-of-Spain, POS, Po of Espay, Port of Spain, Port of Spein, Port of Speinas, Port of Spejn, Port of Speyn, Port oph Spein, Port ov Spejn, Port uf Spejn, Port-Of-Spejn, Port-au-Spain, Port-d'Espagne, Port-of-Spain, Port-of-Spein, Port-of-Spejn, Port-of-speyn, Porto Espana, Porto España, Portofspeina, Portospeno, Portu de Spania, Puerto Espana, Puerto España, Pò of Espay, bwrt awf sbyn, phxrt-xxf-spen, porata afa sapena, port ahp speyn, porta aba spena, porta opha spena, poteu obeu seupein, poteuobeuseupein, potoobusupein, prt aw aspayn, xi ban ya gang, Πορτ οφ Σπέιν, Πορτ-οφ-Σπέιν, Порт ов Спејн, Порт оф Спейн, Порт оф Спејн, Порт ъф Спейн, Порт-Оф-Спейн, Порт-оф-Спейн, פורט אוף ספיין, بورت أوف سبين, پرت آو اسپاین, پورٹ آف اسپین, पोर्ट ऑफ स्पेन, পোর্ট অব স্পেন, ਪੋਰਟ ਆਫ਼ ਸਪੇਨ, போர்ட் ஆஃப் ஸ்பெய்ன், പോർട്ട് ഓഫ് സ്പെയിൻ, พอร์ต-ออฟ-สเปน, པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།, პორტ-ოვ-სპეინი, ፖርት ኦፍ ስፔን, ポートオブスペイン, 西班牙港, 포트 오브 스페인, 포트오브스페인

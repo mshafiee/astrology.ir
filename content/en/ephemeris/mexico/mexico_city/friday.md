@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'30.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°33'21.66" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°42'47.90" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|15°36'24.13" |Leo|Zubrah|Jupiter|
-|♀ Venus|Retrograde|12°35'27.22" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|11°41'51.04" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°8'23.24" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|15°33'22.24" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°42'42.49" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|15°36'7.49" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°34'42.93" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|11°41'24.74" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°11'22.61" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'30.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'21.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°42'47.90" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°36'24.17" |Virgo|Awwa|Venus|
-|♀ Venus|Retrograde|12°35'27.22" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°41'51.04" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|4°8'23.24" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|15°33'22.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°42'42.49" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|15°36'7.49" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°34'42.93" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°41'24.74" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°11'22.61" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Pisces|Sun|Moon|
 |♀ Venus|Mercury|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Cdmx, Cidade de Mexico, Cidade de México, Cidade do Mexico, Cidade do México, Cita du Messicu, Citta del Messico, Città del Messico, Cità dû Messicu, Cità dû Mèssicu, Ciudad Mexico, Ciudad de Mejico, Ciudad de Mexico, Ciudad de Méjico, Ciudad de México, Ciutat de Mexic, Ciutat de Mèxic, Lungsod ng Mexico, Lungsod ng México, MEX, Mehiko, Mekhiko, Meksikas, Meksiko, Meksiko Siti, Meksikurbo, Meksyk, Mexico, Mexico City, Mexico D.F., Mexico DF, Mexico Distrito Federal, Mexico by, Mexico-stad, Mexicopolis, Mexiko, Mexiko Hiria, Mexiko-Stadt, Mexikoborg, Mexíkóborg, México, México Distrito Federal, Nkoyo, Pole tou Mexikou, Valle de Mexico, Valle de México, mdynt mksykw, megsiko si, megsikositi, mekishikoshiti, meksiko, meksiko siti, meksikositi, mkzykw, mkzykwsyty, mo xi ge cheng, mqsyqw syty, Πόλη του Μεξικού, Мексико, Мексико Сити, Мехико, Мехіко, מקסיקו סיטי, مدينة مكسيكو, مکزیکو, مکزیکوسیتی, مېكسىكا شەھىرى, मेक्सिको सिटी, মেক্সিকো, เม็กซิโกซิตี, მეხიკო, メキシコシティ, 墨西哥城, 멕시코 시, 멕시코시티
