@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'26.74" |Aries|Butain|Sun|
 |♂ Mars|Direct|7°38'29.63" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|15°29'57.87" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°34'19.66" |Cancer|Nathrah|Mercury|
+|♀ Venus|Post-Retrograde Shadow|12°34'19.66" |Cancer|Nathrah|Mercury|
 |☿ Mercury|Retrograde|11°47'45.06" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|2°42'6.30" |Gemini|HaqAh|Jupiter|
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'26.74" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°38'29.63" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|15°29'57.87" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°34'19.66" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°47'45.06" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°42'6.30" |Cancer|Nathrah|Venus|
+|♀ Venus|Post-Retrograde Shadow|12°33'49.51" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°47'22.23" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°31'5.61" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Demerara, Dzhordzhtaun, Dzordztaun, Dzordztauna, Dzordztaunas, Dzordztauns, Džordžtaun, Džordžtauna, Džordžtaunas, Džordžtauns, GEO, Georgetown, Georgetown i Guyana, Georgiopolis, Georgurbo, Jojton, Jòjtòn, Tzortztaoun, Zhorzhtaun, cxrc thawn, gwrgtʼwn, jarajata'una, jarj ٹawn  gyana, jarjata'una, jojitaun, jorjata'una, jorjtavun, jrj‌tawn, jwrj tawn, jwrj twghn, qiao zhi dui, qiao zhi dun, zuo zhi cheng, Τζορτζτάουν, Τζώρτζταουν, Џорџтаун, Джорджтаун, Джорджтаўн, Жоржтаун, Ջորջթաուն, גורגטאון, جارج ٹاؤن، گیانا, جرج‌تاون, جورج تاون, جورج توغن, جورج‌تاو, जॉर्जटाउन, ਜਾਰਜਟਾਊਨ, ଜର୍ଜଟାଉନ, ஜோர்ஜ்டவுண், ജോർജ്ജ് ടൗൺ, จอร์จทาวน์, ཅོར་ཅི་ཐོན།, ჯორჯტაუნი, ጆርጅታውን, ジョージタウン, 乔治敦, 佐治城, 조지타운

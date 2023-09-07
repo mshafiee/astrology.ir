@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°51'17.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°32'29.99" |Aries|Butain|Sun|
-|♂ Mars|Direct|8°20'32.78" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|16°32'49.44" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°46'12.45" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|10°52'9.15" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|15°59'28.42" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|15°32'28.70" |Aries|Butain|Sun|
+|♂ Mars|Direct|8°20'32.31" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|16°32'44.25" |Leo|Zubrah|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|12°45'48.15" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|10°51'59.85" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|14°56'43.91" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°51'17.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°32'29.99" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°20'32.78" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|16°32'49.44" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°46'12.45" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|10°52'9.15" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|15°32'28.70" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°20'32.31" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|16°32'44.25" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|12°45'48.15" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|10°51'59.85" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|15°59'28.42" |Cancer|Tarf|Mercury|
 
 

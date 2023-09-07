@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°5'56.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°34'39.84" |Aries|Butain|Sun|
-|♂ Mars|Direct|6°10'33.98" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|13°18'23.77" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°17'38.89" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|13°55'37.41" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°52'36.45" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|15°34'41.57" |Aries|Butain|Sun|
+|♂ Mars|Direct|6°10'29.02" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|13°18'11.83" |Leo|Zubrah|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|12°17'15.75" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|13°55'18.40" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°30'15.31" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Capricorn|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°5'56.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'39.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°10'33.98" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|13°18'23.77" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°17'38.89" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|13°55'37.41" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°52'36.45" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|15°34'41.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|6°10'29.02" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|13°18'11.83" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|12°17'15.75" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|13°55'18.40" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|4°30'15.31" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Moon|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Chisinau, Chişinău, Chișinău, KIV, Kischinew, Kiscinev, Kishinef, Kishinehu, Kishinev, Kishiniv, Kishinjov, Kishinëv, Kisinaou, Kisinev, Kisineva, Kisinevo, Kisiniovas, Kisinjev, Kisinov, Kisinyov, Kisyneu, Kiszyniow, Kiszyniów, Kiŝinevo, Kişinev, Kišiniovas, Kišinjev, Kišiněv, Kišiņeva, Kišiňov, cisina'u, cisinau, ji xi ne wu, kishinau, kisineou, kyshynaw, qysynb, qysynyʼww, qʻsʻnʻww, Κισινάου, Κισιναου, Кишинев, Кишинэу, Кишинёв, Кишињев, Кішынёў, Կիշինյով, קישינאו, קישינב, קישיניאוו, קעשענעוו, كيشيناو, चिशिनाउ, चिशिनौ, კიშინიოვი, ኪሺንው, キシナウ, 基希讷乌, 키시너우

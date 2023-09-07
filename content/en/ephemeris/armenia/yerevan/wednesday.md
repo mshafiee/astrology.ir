@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°34'40.54" |Aries|Butain|Sun|
 |♂ Mars|Direct|6°9'4.04" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|13°16'9.28" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°17'28.70" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|13°57'53.37" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°21'37.08" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|12°17'24.52" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|13°57'53.22" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°4'40.34" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°34'40.54" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|6°9'4.04" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|13°16'9.28" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°17'28.70" |Leo|Zubrah|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|12°17'28.70" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|13°57'53.37" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|3°21'37.08" |Gemini|HaqAh|Jupiter|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ayrivan, Djerevan, EVN, Eireavan, Eireaván, Ereban, Erehvan, Ereun, Erevan, Erevan osh, Erevana, Erevano, Erevanum, Erevàn, Ereván, Erevāna, Erewan, Erivan, Eriwan, Erywan, Erywań, Gierevan, Ierevan, Iereván, Iravan, Jerevan, Jerevanas, Jerevani, Jereván, Jerewan, Jerjewan, Revan, Yerevan, Yervandavan, Yerêvan, Yiriwan, Yèrèvan, Yérévan, ayrwan, ereban, erevani, iyerebhana, shhr ayrwan, ye li wen, yeleban, yeravana pranta, yere wan, yerevan, yerevana, yerevhana, yryfan, yrywan, Èrevan, Êrîvan, İrəvan, Γιερεβάν, Ερεβάν, Єреван, Јереван, Ереван, Ереван ош, Ерэван, Երեվան, Երևան, יערעוואן, ירוואן, ایروان, شهر ایروان, يريفان, يېرېۋان, یریوان, یەریڤان, येरवान प्रान्त, येरेवान, येरेव्हान, ইয়েরেভান, யெரெவான், เยเรวาน, ཡེ་རེ་ཝན།, ერევანი, ዬሬቫን, エレバン, 葉里溫, 예레반

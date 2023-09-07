@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'54.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°33'25.84" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°39'13.08" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|15°31'2.97" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°34'31.33" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|11°46'45.82" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°56'31.68" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|15°33'25.05" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°39'10.67" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|15°30'52.61" |Leo|Zubrah|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|12°33'55.80" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|11°46'28.81" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°50'12.01" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'54.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'25.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°39'13.08" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°31'2.97" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°34'31.33" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°46'45.82" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°56'31.68" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|15°33'25.05" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°39'10.67" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|15°30'52.61" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|12°33'55.80" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°46'28.81" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°50'12.01" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Pisces|Sun|Moon|
 |♀ Venus|Mercury|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환

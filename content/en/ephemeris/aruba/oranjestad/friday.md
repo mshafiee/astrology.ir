@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'25.27" |Aries|Butain|Sun|
 |♂ Mars|Direct|7°39'42.85" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|15°31'47.44" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°34'38.66" |Cancer|Nathrah|Mercury|
+|♀ Venus|Post-Retrograde Shadow|12°34'38.66" |Cancer|Nathrah|Mercury|
 |☿ Mercury|Retrograde|11°46'4.63" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°5'48.88" |Gemini|HaqAh|Jupiter|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'51.03" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'25.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°39'42.85" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°31'47.44" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°34'38.66" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°46'4.63" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°5'48.88" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|15°33'27.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°39'36.39" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|15°31'31.80" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|12°34'10.19" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°45'40.94" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°5'47.29" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Aran'estad, Oran'estad, Oranestad, Oraniestat, Oranjestad, Oranjestad pa Aruba, Oranjestad på Aruba, Oranjestadas, Oranjestade, Oranjestado, Oranjested, Oranjestêd, ao la nie si ta de, awrnjstad, olanyeseutateu, oraniesutaddo, oraniyecuttatu, oranjestada, xo ran yes tad, Οράνιεστατ, Араньестад, Оранестад, Ораньестад, Ораньєстад, Орањестад, אורנייסטאד, أورنجستاد, اورنجستاد, اورنجسٹیڈ، اروبا, ओरांजेश्टाड, ஒரானியெசுத்தாடு, โอรันเยสตัด, ორანესტადი, オラニエスタッド, 奥拉涅斯塔德, 오라녜스타트

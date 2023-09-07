@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|2°44'46.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°30'47.07" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°19'21.54" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|18°0'39.80" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|13°6'50.30" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|9°44'19.29" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|4°12'4.93" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|2°44'48.37" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|15°30'49.28" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°19'15.51" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|18°0'24.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|13°6'24.19" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|9°43'58.24" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°23'32.21" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°30'47.13" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°19'21.48" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|18°0'39.79" |Virgo|Simak|Venus|
-|♀ Venus|Direct|13°6'50.76" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|9°44'19.35" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|4°13'26.72" |Leo|Jabhah|Saturn|
+|♀ Venus|Post-Retrograde Shadow|13°6'24.19" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|9°43'58.24" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°23'32.21" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

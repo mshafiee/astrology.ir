@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°34'41.21" |Aries|Butain|Sun|
 |♂ Mars|Direct|6°7'36.72" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|13°13'58.58" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°17'18.36" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|14°0'4.80" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°51'57.33" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|12°17'20.51" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|14°0'3.35" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°11'49.38" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°6'16.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'41.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°7'36.72" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|13°13'58.58" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°17'18.36" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|14°0'4.80" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°51'57.33" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|15°34'41.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|6°7'35.88" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|13°13'57.67" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|12°17'20.51" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|14°0'3.35" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°11'49.38" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: ASB, Achgabat, Achkhabad, Aschabad, Aschabadas, Aschchabad, Aschgabat, Asgabat, Asgabata, Asgabate, Asgabato, Ashabad, Ashabat, Ashgabad, Ashgabat, Ashkabad, Ashkhabad, Ashkhabad osh, Ashkˌobod, Ashqabad, Ashxabad, Ashxobod, Asjabad, Asjchabad, Asjchabat, Asjkhabad, Askabad, Askabat, Askhabad, Asnkampat, Asqabad, Asxabad, Aszchabad, Aŝgabato, Aşgabat, Aşkabat, Aşqabad, Aşğabat, Ašchabad, Ašchabadas, Ašgabat, Ašgabata, Ašhabad, Așgabat, GIashkuabad, Poltoratsk, a shen ha ba de, acukapat, asagabata, asakhabada, asgabad, asgabada, asgabat, ashigabato, ashk abad, ashkhabadi, asigabateu, asqabada, asyuhabateu, xa chka bat, yashkhabad, ʼsgbʼt, ʿەshqabad, Ασγκαμπάτ, Ашгабад, Ашгабат, Ашкабад, Ашхабад, Ашхабад ош, Ашқобод, ГІашкъабад, Աշխաբադ, אשגאבאט, אשגבאט, ئاشخاباد, اشک آباد, عاشق‌آباد, عشق آباد, عشق اباد, عشق‌آباد, عەشقاباد, अश्क़ाबाद, अश्गाबाद, আশখাবাদ, ਅਸ਼ਗ਼ਾਬਾਤ, அசுகாபாத், ಅಶ್ಗಾಬಾತ್, അഷ്ഗാബാദ്, อาชกาบัต, ཨ་ཧྲི་ཁ་པད།, აშხაბადი, አሽጋባት, アシガバート, 阿什哈巴德, 아슈하바트, 아시가바트

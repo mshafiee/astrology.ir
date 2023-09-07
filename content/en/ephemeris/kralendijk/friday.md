@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'25.49" |Aries|Butain|Sun|
 |♂ Mars|Direct|7°39'31.68" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|15°31'30.72" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°34'35.80" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|11°46'19.98" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°2'13.94" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|12°34'35.80" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|11°46'2.54" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|1°52'40.77" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'25.49" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°39'31.68" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|15°31'30.72" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°34'35.80" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°46'19.98" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°2'13.94" |Cancer|Nathrah|Venus|
+|♀ Venus|Post-Retrograde Shadow|12°33'59.07" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°46'2.54" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°52'40.77" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Pisces|Sun|Moon|
 |♀ Venus|Mercury|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Kralendajk, Kralendehjk, Kralendeikas, Kralendejk, Kralendijk, Kralendiyk, Kralentik, Playa, ke la lun dai ke, keulallendeikeu, kralndyk, kralyndayk, kurarendaiku, Κράλεντικ, Кралендайк, Кралендајк, Кралендейк, Кралендэйк, Կրալենդիյկ, كراليندايك, کرالندیک, کرالن‌دیک, კრალენდეიკი, クラレンダイク, 克拉伦代克, 크랄렌데이크

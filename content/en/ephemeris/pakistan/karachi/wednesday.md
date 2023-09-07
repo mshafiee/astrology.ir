@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°6'21.44" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|15°34'41.52" |Aries|Butain|Sun|
-|♂ Mars|Direct|6°6'55.39" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|13°12'56.86" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|12°17'14.20" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|14°1'7.61" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°37'30.99" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°6'52.28" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|13°12'51.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|12°17'13.51" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|14°0'59.69" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°32'18.89" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°6'21.44" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'41.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°6'55.39" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|13°12'56.86" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|12°17'14.20" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|14°1'7.61" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°37'30.99" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|15°34'43.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|6°6'52.28" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|13°12'51.90" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|12°17'13.51" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|14°0'59.69" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°32'18.89" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Carachi, KHI, Karaaji, Karaces, Karachi, Karachi - krachy, Karachi - كراچى, Karachy, Karaci, Karacio, Karacis, Karacsi, Karaczi, Karanchi, Karatschi, Karatsi, Karatsji, Karatxi, Karaçi, Karaĉio, Karači, Karačis, Karačės, Karochi, Karáči, Karáčí, Karâchi, Karāchi, Karāči, Keraci, Keraçî, Kurrachee, Kurrachi, Kəraçi, ka la qi, ka ra ci, kalachi, karaaci, karacci, karachi, karachy, karaci, karatshy, ke la chi, krachy, kratshy, pechs, qrʼzy, Καράτσι, Карачи, Карачы, Карачі, Կարաչի, קאראטשי, קראצי, كاراتشى, كاراچى, كراتشي, کراچی, کراچۍ, کَرٲچی, کەراچی, ڪراچي, ކަރާޗީ, कराची, করাচী, কৰাচী, ਕਰਾਚੀ, કરાચી, କରାଚୀ, கராச்சி, కరాచీ, ಕರಾಚಿ, കറാച്ചി, การาจี, ཀ་ར་ཆི, ကရာချိမြို့, კარაჩი, ከራቺ, カラチ, カラーチー, 卡拉奇, 喀拉蚩, 카라치
