@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'26.32" |Aries|Butain|Sun|
 |♂ Mars|Direct|7°38'49.16" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|15°30'27.19" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|12°34'25.21" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|12°34'25.21" |Cancer|Nathrah|Mercury|
 |☿ Mercury|Retrograde|11°47'18.72" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|2°48'50.76" |Gemini|HaqAh|Jupiter|
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|2°55'57.06" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°33'26.32" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°38'49.16" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°30'27.19" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|12°34'25.21" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°47'18.72" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°48'50.76" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|15°30'21.89" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°34'2.29" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°47'9.66" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°55'31.45" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Pisces|Sun|Moon|
 |♀ Venus|Mercury|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Plimouth, Plimut, Plimutas, Plimuto, Plymouth, Plymouth pa Montserrat, Plymouth på Montserrat, blymwth, peullimeoseu, phli math, plymwt, pu li mao si, purimasu, Πλίμουθ, Плимут, Плимът, Плімут, פלימות, بليموث, پلایماؤت، مانٹسریٹ, پلی‌موث، مونتسرات, พลิมัท, პლიმუთი, プリマス, 普利茅斯, 플리머스

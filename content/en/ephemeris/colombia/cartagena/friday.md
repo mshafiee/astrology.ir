@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'46.87" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°33'25.79" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°40'14.86" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|15°32'28.98" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|12°34'17.08" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|11°44'52.01" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°55'14.06" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|15°33'24.51" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°40'19.98" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|15°32'42.89" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°34'47.86" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|11°45'13.52" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°16'49.99" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'24.54" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°40'19.95" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|15°32'42.87" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|12°34'17.08" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°44'52.01" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°55'14.06" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|12°34'47.99" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°45'13.50" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°17'31.42" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: CTG, Caratagena de Indias, Cartagena, Cartagena das Indias, Cartagena das Índias, Cartagena de Indias, Cartaxena de Indias, Carthagene, Carthagene des Indes, Carthagène, Carthagène des Indes, Kartachena, Kartageno, Kartakhena, Kartakhena de Indijas, ka ta he na, kaleutahena, kartagyna, kartajyna, karutahena, qrtajnt  kwlwmbya, qrthnh, Картахена, Картахена де Индијас, קרטחנה, قرطاجنة، كولومبيا, کارتاجینا, کارتاگینا, კარტახენა, カルタヘナ, 卡塔赫纳, 카르타헤나

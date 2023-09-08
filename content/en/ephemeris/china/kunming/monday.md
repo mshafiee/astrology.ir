@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°30'49.97" |Aries|Butain|Sun|
 |♂ Mars|Direct|9°17'55.25" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|17°58'31.05" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|13°6'17.19" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|13°6'17.19" |Cancer|Tarf|Mercury|
 |☿ Mercury|Retrograde|9°45'48.96" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°30'27.10" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°46'49.63" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°30'49.97" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°17'55.25" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|17°58'31.05" |Virgo|Simak|Venus|
-|♀ Venus|Post-Retrograde Shadow|13°6'11.06" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|9°45'47.02" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°30'27.10" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|13°6'17.19" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|9°45'48.96" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°46'49.63" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Con Minh, Côn Minh, Gvwnhmingz, K'un-ming-hsien, K'un-ming-shih, KMG, Kchun-ming, Khun-beng-chhi, Khun-bêng-chhī, Kong-ming, Kounmink, Kuenming, Kun'min, Kun'min shaary, Kun'min', Kunmin, Kunmina, Kunming, Kunming Shi, Kunmingas, Kunmingo, Kuņmina, Kŏng-mìng, Kүn'min, K’un-ming-hsien, K’un-ming-shih, Yun-nan, Yunnanfu, Yün-nan, Yünnanfu, kanamiga, khunh ming, kun ming, kun ming shi, kunaminga, kunming si, kunminga, kwnmng, kwnmyng, kwnmyngh, qwnmyng, Κουνμίγκ, Куенминг, Кунмин, Куньмин, Куньмин шаары, Куньминь, Куньмін, Күньмин, Կունմին, קונמינג, كونمينغ, كۈنمىڭ شەھىرى, کونمنگ, کونمینگ, کون‌مینگ, कुनमिंग, कुन्मिंग, ਕਨਮਿੰਗ, คุนหมิง, ကူမင်းမြို့, კუნმინი, 昆明, 昆明市, 쿤밍 시

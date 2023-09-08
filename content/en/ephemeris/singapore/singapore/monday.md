@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|2°44'56.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°30'50.62" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°18'0.34" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|17°58'39.01" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|13°6'22.53" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|9°45'41.86" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°59'23.49" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|2°44'55.44" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|15°30'49.87" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°18'1.07" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|17°58'39.49" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°6'18.29" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|9°45'41.78" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°46'2.14" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°44'55.44" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°30'49.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°18'1.07" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|17°58'39.49" |Virgo|Simak|Venus|
-|♀ Venus|Post-Retrograde Shadow|13°6'22.53" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|9°45'41.86" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°59'23.49" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|15°30'51.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°17'58.30" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|17°58'34.09" |Virgo|Simak|Venus|
+|♀ Venus|Direct|13°6'14.49" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|9°45'34.99" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°45'9.83" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: SIN, Sin-ka-po, Singapore, Singapore City, Singapour, Singapur, Singapura, Sinkapoure, Sîn-kâ-po, Tumasik, cinkappur, prathes singkhpor, shingaporu, sigapura, sing-gapol, sing-gapoleu, singapura, singkh por, sngapwr, snghafwrt, syngpwr, xin jia po, xing jia po, Σιγκαπούρη, Сингапур, Сінгапур, סינגפור, سنغافورة, سنگاپور, सिंगापुर, सिंगापूर, ਸਿੰਗਾਪੁਰ, சிங்கப்பூர், ประเทศสิงคโปร์, สิงค์โปร, ປະເທດສງກະໂປ, ປະເທດສິງກະໂປ, စငကာပနငင, စင်ကာပူနိုင်ငံ, សងហបរ, សិង្ហបុរី, シンガポール, 新加坡, 星架坡, 싱가포르, 싱가폴

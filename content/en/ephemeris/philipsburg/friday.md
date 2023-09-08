@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'56.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°33'25.11" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°38'53.05" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|15°30'29.06" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|12°34'4.99" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|11°47'4.59" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°58'46.82" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|15°33'26.23" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°38'53.55" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|15°30'33.76" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°34'26.36" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|11°47'12.71" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°50'17.13" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Aquarius|Moon|Venus|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'56.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'25.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°38'53.05" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°30'29.06" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|12°34'4.99" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°47'4.59" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|1°58'46.82" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|15°33'26.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°38'53.55" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|15°30'28.74" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°34'10.65" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°47'4.60" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°24'6.79" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Filip'smpournk, Filipsburg, Filipsburgas, Great Bay, Philipsburg, fei li pu si bao, fi lipsburkh, firippusuburufu, flpsbrg, fylypsbwrg  synt martn, pilipcuparku, pillibseubwileuheu, Φίλιπσμπουργκ, Филипсбург, Філіпсбург, فلپسبرگ, فیلیپسبورگ، سینت مارتن, பிலிப்சுபர்கு, ฟีลิปส์บืร์ค, ფილიპსბურგი, フィリップスブルフ, 菲利普斯堡, 필립스뷔르흐

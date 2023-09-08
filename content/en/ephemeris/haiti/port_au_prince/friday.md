@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'25.04" |Aries|Butain|Sun|
 |♂ Mars|Direct|7°39'53.53" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|15°32'3.44" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|12°34'7.47" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|11°45'27.08" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°41'33.53" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|12°34'41.62" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|11°45'50.18" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°9'25.61" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'49.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'26.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°39'48.19" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°31'48.57" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|12°34'7.47" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°45'27.08" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°41'33.53" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|15°33'25.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°39'53.53" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|15°32'3.44" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°34'41.62" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°45'50.18" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°9'25.61" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PAP, Port au Prince, Port o Prens, Port o Prensas, Port-au-Prince, Port-o-Prehns, Port-o-Prens, Port-o-Prins, Porto Principe, Porto Príncipe, Portoprensa, Portoprinco, Portus Principis, Potoprens, Puerto Principe, Puerto Príncipe, Pòtoprens, Ville de Port-au-Prince, bwrt aw brans, poleutopeulaengseu, porata-o-prainsa, port-o-pirins, porta-a-prinsa, porta-au-prinsa, porta-o-prinsa, porutopuransu, pwrtw prns, pwrtwprns, tai zi gang, Πορτ-ο-Πρενς, Порт о Пренс, Порт-о-Пренс, Порт-о-Прэнс, Պորտ-օ-Պրենս, פורט או פרינס, פורט-או-פרנס, بورت أو برانس, پورتو پرنس, پورتوپرنس, پورٹ او پرنس, पोर्ट-ऑ-प्रिंस, पोर्ट-औ-प्रिन्स, পোর্ট-অ-প্রিন্স, ਪੋਰਤ-ਓ-ਪ੍ਰੈਂਸ, போர்ட்-ஓ-பிரின்ஸ், പോർട്ട്-ഔ-പ്രിൻസ്, ปอร์โตแปรงซ์, པོ་རོ་ཊི་ཨའུ་པི་རིན་སི།, პორტ-ო-პრენსი, ፖርቶፕሪንስ, ポルトープランス, 太子港, 포르토프랭스

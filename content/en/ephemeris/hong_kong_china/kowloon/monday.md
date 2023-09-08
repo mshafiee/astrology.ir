@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°30'52.39" |Aries|Butain|Sun|
 |♂ Mars|Direct|9°16'41.53" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|17°56'40.99" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|13°5'48.70" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|13°5'48.70" |Cancer|Tarf|Mercury|
 |☿ Mercury|Retrograde|9°47'6.02" |Leo|Zubrah|Saturn|
 |☾ Moon|Direct|3°24'15.50" |Cancer|Nathrah|Venus|
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°30'52.39" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°16'41.53" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|17°56'40.99" |Virgo|Simak|Venus|
-|♀ Venus|Post-Retrograde Shadow|13°5'48.70" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°5'48.70" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|9°47'6.02" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°24'15.50" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°24'15.93" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽

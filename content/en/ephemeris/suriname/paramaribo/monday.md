@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°43'2.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°30'14.06" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°35'12.23" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|18°24'12.71" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|13°12'39.79" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|9°28'9.47" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|7°47'54.91" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|15°30'14.74" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°35'14.31" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|18°24'21.90" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°13'11.16" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|9°28'24.73" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|9°3'59.96" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Mars|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°30'14.74" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°35'14.31" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|18°24'21.90" |Virgo|Simak|Venus|
-|♀ Venus|Post-Retrograde Shadow|13°13'11.16" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°13'11.16" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|9°28'24.73" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|7°47'54.91" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|9°3'59.96" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Moon|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Saturn|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°44'53.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°30'50.11" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°18'21.12" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|17°59'9.09" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|13°6'26.74" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|9°45'16.26" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°57'54.56" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|15°30'49.15" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°18'22.39" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|17°59'10.87" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°6'24.79" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|9°45'18.02" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°48'54.75" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°30'49.15" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°18'22.39" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|17°59'10.87" |Virgo|Simak|Venus|
-|♀ Venus|Post-Retrograde Shadow|13°6'26.74" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|9°45'16.26" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°57'54.56" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|13°6'24.79" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|9°45'18.02" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°48'54.75" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: KJA, Krasnoiarsk, Krasnojarsk, Krasnoyarsk, Krasnoïarsk, Krsk, keulaseunoyaleuseukeu, Красноярск, 크라스노야르스크

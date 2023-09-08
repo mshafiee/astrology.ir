@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°48'16.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°31'45.11" |Aries|Butain|Sun|
-|♂ Mars|Direct|8°47'36.63" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|17°13'11.23" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|12°54'46.34" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|10°19'8.09" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|23°31'35.78" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|15°31'46.04" |Aries|Butain|Sun|
+|♂ Mars|Direct|8°47'37.31" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|17°13'16.16" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°55'7.17" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|10°19'16.77" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|24°23'52.43" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Venus|Mercury|Jupiter|Sun|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°48'16.74" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°31'46.04" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°47'37.31" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|17°13'16.16" |Virgo|Simak|Venus|
-|♀ Venus|Post-Retrograde Shadow|12°54'46.34" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|10°19'8.09" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|23°31'35.78" |Cancer|Tarf|Moon|
+|♃ Jupiter|Retrograde|15°31'48.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°47'33.51" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|17°13'9.30" |Virgo|Simak|Venus|
+|♀ Venus|Direct|12°55'4.29" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|10°19'8.05" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|24°38'32.40" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

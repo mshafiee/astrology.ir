@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|2°44'52.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°30'50.59" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°18'36.67" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|17°59'30.47" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|13°6'34.91" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|2°44'51.04" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|15°30'48.48" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°18'40.83" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|17°59'39.10" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°6'34.91" |Cancer|Tarf|Mercury|
 |☿ Mercury|Retrograde|9°45'1.51" |Leo|Zubrah|Saturn|
 |☾ Moon|Direct|4°0'53.17" |Cancer|Nathrah|Venus|
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°30'48.48" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°18'40.83" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|17°59'39.10" |Virgo|Simak|Venus|
-|♀ Venus|Post-Retrograde Shadow|13°6'26.11" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|9°44'50.26" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°51'6.66" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|13°6'34.91" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|9°45'1.51" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|4°0'53.17" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: Kyatpyay, Kyetpyay, NYT, Naipidau, Nay Pyi Taw, Naypyidaw, Naypyitaw, Ne Pyi Daw, Pyinmana, naepido, nepido, 내피도, 네피도

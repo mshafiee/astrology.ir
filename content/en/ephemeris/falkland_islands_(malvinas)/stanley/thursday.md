@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|3°0'17.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°34'6.55" |Aries|Butain|Sun|
-|♂ Mars|Direct|7°0'21.31" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|14°32'52.48" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|12°25'24.45" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Retrograde|12°41'27.93" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|21°3'47.67" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Retrograde|15°34'5.24" |Aries|Butain|Sun|
+|♂ Mars|Direct|7°0'23.04" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|14°32'55.08" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|12°25'28.74" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|12°41'42.03" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|19°54'13.67" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Saturn|Mercury|Jupiter|Sun|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Capricorn|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Mercury|Moon|Capricorn|Sun|Sun|
-|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°34'6.55" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°0'21.31" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|14°32'52.48" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|12°25'24.45" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|12°41'27.93" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|21°3'47.67" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|12°25'29.30" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|12°41'38.21" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°20'47.27" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

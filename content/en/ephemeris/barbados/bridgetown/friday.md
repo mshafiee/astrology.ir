@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'25.74" |Aries|Butain|Sun|
 |♂ Mars|Direct|7°38'33.93" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|15°30'0.29" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|12°33'59.67" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|12°33'59.67" |Cancer|Nathrah|Mercury|
 |☿ Mercury|Retrograde|11°47'29.00" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|1°57'8.67" |Gemini|HaqAh|Jupiter|
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'26.61" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|7°38'34.87" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|15°30'5.80" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|12°34'21.44" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°47'38.26" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°44'9.49" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|12°33'59.67" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°47'29.00" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|1°57'8.67" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Pisces|Sun|Moon|
 |♀ Venus|Mercury|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운

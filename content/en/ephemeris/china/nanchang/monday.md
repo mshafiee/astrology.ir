@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°45'5.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°30'52.89" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°16'20.74" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|17°56'2.06" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|13°5'4.76" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|9°46'58.46" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|1°58'59.43" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|15°30'52.80" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°16'26.08" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|17°56'17.82" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°5'42.04" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|9°47'22.18" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°17'31.06" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Mars|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°30'52.89" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|9°16'25.99" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|17°56'17.78" |Virgo|Simak|Venus|
-|♀ Venus|Post-Retrograde Shadow|13°5'42.60" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°5'42.60" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|9°47'22.21" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|3°19'17.13" |Leo|Jabhah|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: KHN, Lam-chhiong-chhi, Lâm-chhiong-chhī, Nam Xuong, Nam Xương, Nam-chhong-su, Nan'chan, Nan-cchang, Nan-ch'ang-hsien, Nan-ch'ang-shih, Nan-ch’ang-hsien, Nan-ch’ang-shih, Nan-čchang, Nancana, Nancangas, Nancano, Nanchan, Nanchang, Nanchang-fu, Nancianga, Nancsang, Nang-chiong, Nanzcangh, Nanĉano, Nančangas, Naņčana, Nàm-chhông-sṳ, Nàng-chiŏng, nan chang, nan chang shi, nanacanga, nanacham, nanachanna, nanchang, nanchang si, nantshangh, nʼnzʼng, Нанчан, Нанчанг, Наньчан, נאנצאנג, نانتشانغ, نانچانگ, نەنچاڭ شەھىرى, नानचांग, নানছাং, ਨਾਨਛਾਂਙ, နန်ချောင့်မြို့, 南昌, 南昌市, 난창 시

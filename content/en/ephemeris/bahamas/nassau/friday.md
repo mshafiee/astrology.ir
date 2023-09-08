@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°33'24.49" |Aries|Butain|Sun|
 |♂ Mars|Direct|7°40'20.80" |Virgo|Awwa|Sun|
 |☉ Sun|Direct|15°32'44.23" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|12°34'48.60" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|12°34'48.60" |Cancer|Nathrah|Mercury|
 |☿ Mercury|Retrograde|11°45'12.71" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|3°18'9.39" |Gemini|HaqAh|Jupiter|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°55'46.77" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'24.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°40'20.80" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|15°32'44.23" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|12°34'24.17" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|11°45'2.21" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°25'37.41" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|15°33'26.86" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°40'14.34" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|15°32'28.51" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|12°34'19.63" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|11°44'48.87" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°16'20.74" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Pisces|Sun|Moon|
 |♀ Venus|Mercury|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>□ Sqr|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: City of Nassau, NAS, Nasau, Nasauo, Nasaŭo, Naso, Nassaou, Nassau, Nassau City, Nassau pa Bahamas, Nassau på Bahamas, Nasáu, na sao, nasa'u, nasau, nasaw, nasayw, nasea, naso, nasso, neco, nsaw, Νασσάου, Насау, Нассау, Նասաու, נסאו, ناسائو, ناساو, نساؤ, नासाउ, নাসাউ, ਨਸਾਊ, நேசோ, നാസോ, แนสซอ, ན་སའོ།, ნასაუ, ናሶ, ナッソー, 拿騷, 拿骚, 나사우, 나소

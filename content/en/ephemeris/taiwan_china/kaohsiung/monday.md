@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°45'8.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°30'55.68" |Aries|Butain|Sun|
-|♂ Mars|Direct|9°15'57.90" |Virgo|Awwa|Sun|
-|☉ Sun|Direct|17°55'34.49" |Leo|Zubrah|Jupiter|
-|♀ Venus|Post-Retrograde Shadow|13°5'29.41" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|9°47'40.08" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°13'35.40" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|15°30'53.70" |Aries|Butain|Sun|
+|♂ Mars|Direct|9°16'1.34" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|17°55'41.00" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°5'33.20" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|9°47'48.17" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°11'54.27" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°45'8.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°30'55.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°15'57.90" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|17°55'34.49" |Virgo|Simak|Venus|
-|♀ Venus|Post-Retrograde Shadow|13°5'29.41" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|9°47'40.08" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°13'35.40" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|15°30'53.70" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°16'1.34" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|17°55'41.00" |Virgo|Simak|Venus|
+|♀ Venus|Direct|13°5'33.20" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|9°47'48.17" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°11'54.27" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시
