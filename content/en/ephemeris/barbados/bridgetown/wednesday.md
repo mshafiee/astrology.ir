@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°34'29.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°27'4.65" |Aries|Butain|Sun|
-|♂ Mars|Direct|10°53'56.19" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|20°21'44.95" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|13°49'21.12" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|8°27'38.98" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°31'43.92" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|15°27'5.03" |Aries|Butain|Sun|
+|♂ Mars|Direct|10°53'52.07" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|20°21'31.45" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|13°48'46.35" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|8°27'25.52" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°34'21.96" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°34'29.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°27'3.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°53'55.80" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|20°21'41.40" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|13°49'5.46" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|8°27'38.98" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|2°31'43.92" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|15°27'5.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°53'52.07" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|20°21'31.45" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|13°48'46.35" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|8°27'25.52" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|1°34'21.96" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Taurus|Sun|Moon|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Moon|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운

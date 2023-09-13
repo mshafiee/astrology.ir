@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°34'10.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°26'58.36" |Aries|Butain|Sun|
-|♂ Mars|Direct|10°56'50.82" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|20°25'59.18" |Leo|Zubrah|Mars|
-|♀ Venus|Direct|13°50'27.27" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|8°25'46.53" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°38'54.83" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|15°26'55.98" |Aries|Butain|Sun|
+|♂ Mars|Direct|10°56'56.70" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|20°26'13.45" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|13°50'49.36" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|8°26'4.76" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°54'7.80" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°34'10.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°26'56.43" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°56'56.38" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|20°26'13.55" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|13°50'27.27" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|8°25'46.53" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|2°38'54.83" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|15°26'55.98" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°56'56.70" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|20°26'13.45" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|13°50'49.36" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|8°26'4.76" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°54'7.80" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: TGU, Tegousigalpa, Tegousigoualpa, Tegucigalpa, Tegucigalpo, Tegucigucigalpa, Tegusigal'pa, Tegusigalp, Tegusigalpa, Teguzigalpa, Tehgusigal'pa, Tenkousinkalpa, Tequsiqalpa, Teuctzincalpan, Tègucigalpa, de gu si jia ba, te gu xi jia er ba, tegushigarupa, tegusigalapa, tegusigalpa, tekucikalpa, tekusikalpa, tgwsygalpa, tgwsyglph, tyghwsyghalba, Τεγκουσιγκάλπα, Τεγουσιγάλπα, Тегусигалпа, Тегусигальпа, Тегусігальпа, Тэгусігальпа, Տեգուսիգալպա, טגוסיגלפה, טעגוסיגאלפע, تيغوسيغالبا, تگوسیگالپا, ٹیگوسیگلپا, तेगुसिगल्पा, তেগুসিগালপা, ਤੇਗੂਸੀਗਾਲਪਾ, டெகுசிகல்பா, ടെഗൂസിഗാൽപ, เตกูซิกัลปา, ཐེ་གུ་སི་གེ་པ།, ტეგუსიგალპა, ቴጉሲጋልፓ, テグシガルパ, 德古斯加巴, 特古西加爾巴, 테구시갈파

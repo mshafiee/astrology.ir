@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|20°25'19.01" |Leo|Zubrah|Mars|
 |♀ Venus|Direct|13°50'34.41" |Cancer|Tarf|Mercury|
 |☿ Mercury|Retrograde|8°26'25.80" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°48'30.86" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°54'32.48" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aries|Moon|Venus|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°34'14.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°26'58.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°56'19.76" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|20°25'19.01" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|13°50'4.64" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|8°26'10.88" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|2°38'42.21" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|15°26'57.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°56'18.37" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|20°25'12.21" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|13°50'10.38" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|8°26'14.44" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°54'32.48" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: A Habana, Abana, Gavana, Gavanae, Gavane, HAV, Habana, Hafana, Hahvaxnaz, Havan, Havana, Havanna, Havano, Hawana, Khavana, L'Avana, LAvan-a, LAvana, LAvann-a, LHabana, LHavana, La Ahuana, La Avan, La Avàn, La Habana, La Havana, La Havane, abana, avana, ha wa na, habana, habhana, hafana, havana, hawana, xia wan na, Ħavana, ŁAvana, Αβάνα, Гaванa, Гаванæ, Гавана, Гаване, Хавана, Ҳавана, Հավանա, האוואנע, הוואנה, هافانا, هاوانا, ہوانا, हवाना, হাভানা, ਹਵਾਨਾ, ହାଭାନା, அவானா, ഹവാന, ฮาวานา, ཧ་ཝན, ဟာဗားနားမြို့, ჰავანა, ሀቫና, ሀኖይ, ハバナ, 哈瓦那, 夏灣拿, 아바나
