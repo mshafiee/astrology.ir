@@ -13,7 +13,7 @@ description: 🗓 Friday, 15 Sep 2023
 
 toc: false
 ---
-## Geographic Information of Victoria
+## Geographic coordinates
 TimeZone: +04:00
 \-
 Latitude: -4.6200
@@ -27,8 +27,6 @@ Altitude: -9,999 meters
 
 ## Sharia Times
 
-The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
-
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -36,13 +34,13 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 00:00:00 |
+| Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr (Noon) | 00:00:00 |
+| Dhuhr | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha (Night) | 00:00:00 |
+| Isha | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -52,13 +50,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 00:00:00 |
+| Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr (Noon) | 00:00:00 |
+| Dhuhr | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha (Night) | 00:00:00 |
+| Isha | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -68,13 +66,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 00:00:00 |
+| Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr (Noon) | 00:00:00 |
+| Dhuhr | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha (Night) | 00:00:00 |
+| Isha | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -84,13 +82,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 00:00:00 |
+| Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr (Noon) | 00:00:00 |
+| Dhuhr | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha (Night) | 00:00:00 |
+| Isha | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -100,13 +98,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 00:00:00 |
+| Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr (Noon) | 00:00:00 |
+| Dhuhr | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha (Night) | 00:00:00 |
+| Isha | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -116,13 +114,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 00:00:00 |
+| Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr (Noon) | 00:00:00 |
+| Dhuhr | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha (Night) | 00:00:00 |
+| Isha | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -132,13 +130,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 00:00:00 |
+| Dawn | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr (Noon) | 00:00:00 |
+| Dhuhr | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha (Night) | 01:30:00 |
+| Isha | 01:30:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -146,8 +144,6 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
-
-The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -157,18 +153,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
-|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -179,18 +175,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
-|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|00:00:00|23:59:59|
 
 
 {{< /tab >}}
@@ -198,8 +194,6 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
-
-Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -216,34 +210,34 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|00:00:00|23:59:59|Love, creating love and attracting hearts|
-|2|Mercury|Servant|00:00:00|23:59:59|Attracting auspiciousness|
-|3|Moon|Servant|00:00:00|23:59:59|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|00:00:00|23:59:59|Unfortunate hour|
-|5|Jupiter|Servant|00:00:00|23:59:59|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|00:00:00|23:59:59|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|00:00:00|23:59:59|Promotion and attracting wealth|
-|8|Venus|Ruler|00:00:00|23:59:59|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|00:00:00|23:59:59|Causing separation and homelessness|
-|10|Moon|Servant|00:00:00|23:59:59|Extremely unfortunate|
-|11|Saturn|Servant|00:00:00|23:59:59|Creating an unfortunate horoscope for anyone|
-|12|Jupiter|Servant|00:00:00|23:59:59|Suitable for asking for a need|
+|1|Venus|Ruler|00:00:00|23:59:59|Attracting love and creating emotional attachment|
+|2|Mercury|Servant|00:00:00|23:59:59|Attracting good luck|
+|3|Moon|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
+|4|Saturn|Servant|00:00:00|23:59:59|Being hateful for a certain period of time|
+|5|Jupiter|Servant|00:00:00|23:59:59|Gaining status, position, and attracting happiness in the workplace|
+|6|Mars|Servant|00:00:00|23:59:59|Attracting attention and acceptance from important people|
+|7|Sun|Servant|00:00:00|23:59:59|Advancing and attracting wealth|
+|8|Venus|Ruler|00:00:00|23:59:59|Extremely lucky and achieving ultimate happiness|
+|9|Mercury|Servant|00:00:00|23:59:59|Separating and making someone homeless|
+|10|Moon|Servant|00:00:00|23:59:59|Extremely hateful and causing harm|
+|11|Saturn|Servant|00:00:00|23:59:59|Creating a negative destiny for anyone|
+|12|Jupiter|Servant|00:00:00|23:59:59|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|00:00:00|23:59:59|Love, creating love and attracting hearts|
-|2|Sun|Servant|00:00:00|23:59:59|Attracting auspiciousness|
-|3|Venus|Servant|00:00:00|23:59:59|Attracting misfortune, no task is suitable|
-|4|Mercury|Servant|00:00:00|23:59:59|Unfortunate hour|
-|5|Moon|Servant|00:00:00|23:59:59|Achieving position and status and attracting job fortune|
-|6|Saturn|Servant|00:00:00|23:59:59|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|00:00:00|23:59:59|Promotion and attracting wealth|
-|8|Mars|Ruler|00:00:00|23:59:59|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|00:00:00|23:59:59|Causing separation and homelessness|
-|10|Venus|Servant|00:00:00|23:59:59|Extremely unfortunate|
-|11|Mercury|Servant|00:00:00|23:59:59|Creating an unfortunate horoscope for anyone|
-|12|Moon|Servant|00:00:00|23:59:59|Suitable for asking for a need|
+|1|Mars|Ruler|00:00:00|23:59:59|Attracting love and creating emotional attachment|
+|2|Sun|Servant|00:00:00|23:59:59|Attracting good luck|
+|3|Venus|Servant|00:00:00|23:59:59|Attracting negativity, and avoiding any harmful action|
+|4|Mercury|Servant|00:00:00|23:59:59|Being hateful for a certain period of time|
+|5|Moon|Servant|00:00:00|23:59:59|Gaining status, position, and attracting happiness in the workplace|
+|6|Saturn|Servant|00:00:00|23:59:59|Attracting attention and acceptance from important people|
+|7|Jupiter|Servant|00:00:00|23:59:59|Advancing and attracting wealth|
+|8|Mars|Ruler|00:00:00|23:59:59|Extremely lucky and achieving ultimate happiness|
+|9|Sun|Servant|00:00:00|23:59:59|Separating and making someone homeless|
+|10|Venus|Servant|00:00:00|23:59:59|Extremely hateful and causing harm|
+|11|Mercury|Servant|00:00:00|23:59:59|Creating a negative destiny for anyone|
+|12|Moon|Servant|00:00:00|23:59:59|Performing good deeds for the purpose of fulfilling needs and gaining good luck|
 
  
  
@@ -288,8 +282,6 @@ Timetable of septet day and night planetary hours
 {{< /tabs >}}
 
 ## The position of the planets at sunrise
-
-The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
 
 {{< tabs tabTotal="2" >}}
 
