@@ -13,7 +13,7 @@ description: 🗓 Wednesday, 13 Sep 2023
 
 toc: false
 ---
-## Geographic coordinates
+## Geographic Information of BasseTerre
 TimeZone: -04:00
 \-
 Latitude: 15.9971
@@ -27,6 +27,8 @@ Altitude: -9,999 meters
 
 ## Sharia Times
 
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
+
 {{< tabs tabTotal="7" >}}
 
 {{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
@@ -34,13 +36,13 @@ Altitude: -9,999 meters
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -50,13 +52,13 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -66,13 +68,13 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -82,13 +84,13 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -98,13 +100,13 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -114,13 +116,13 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 00:00:00 |
+| Isha (Night) | 00:00:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -130,13 +132,13 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Dawn | 00:00:00 |
+| Fajr (Dawn) | 00:00:00 |
 | Sunrise | 00:00:00 |
-| Dhuhr | 00:00:00 |
+| Dhuhr (Noon) | 00:00:00 |
 | Medium Coeli | 00:00:00 |
 | Sunset | 00:00:00 |
 | Maghrib | 00:00:00 |
-| Isha | 01:30:00 |
+| Isha (Night) | 01:30:00 |
 | Sharia Midnight | 00:00:00 |
 | Imum Coeli | 00:00:00 |
 {{< /tab >}}
@@ -144,6 +146,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 {{< /tabs >}}
 
 ## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
@@ -153,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
-|♉ Taurus|00:00:00|23:59:59|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
+|♉ Taurus|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -175,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -194,6 +198,8 @@ Earth movement calendar in twelve houses based on tropical calculations
 {{< /tabs >}}
 
 ## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
@@ -211,33 +217,33 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|00:00:00|23:59:59|Acceptance of needs|
-|2|Moon|Servant|00:00:00|23:59:59|Complaining is futile, it won't accomplish anything|
-|3|Saturn|Servant|00:00:00|23:59:59|To overcome illnesses|
-|4|Jupiter|Servant|00:00:00|23:59:59|For all actions, the goal is happiness|
-|5|Mars|Servant|00:00:00|23:59:59|Generating negative energy and disturbing peace|
-|6|Sun|Servant|00:00:00|23:59:59|Traveling inward and outward|
-|7|Venus|Servant|00:00:00|23:59:59|Attracting love and winning hearts|
-|8|Mercury|Ruler|00:00:00|23:59:59|Being concealed from the sight of people|
-|9|Moon|Servant|00:00:00|23:59:59|Separating and creating enmity|
-|10|Saturn|Servant|00:00:00|23:59:59|Subduing the elites|
-|11|Jupiter|Servant|00:00:00|23:59:59|Creating financial attraction and domination|
-|12|Mars|Servant|00:00:00|23:59:59|Generating malice and hatred|
+|2|Moon|Servant|00:00:00|23:59:59|Unfortunate, no task is suitable|
+|3|Saturn|Servant|00:00:00|23:59:59|For overcoming diseases|
+|4|Jupiter|Servant|00:00:00|23:59:59|For all tasks, extremely auspicious|
+|5|Mars|Servant|00:00:00|23:59:59|Creating negative energy and disrupting peace|
+|6|Sun|Servant|00:00:00|23:59:59|Outer and inner journey|
+|7|Venus|Servant|00:00:00|23:59:59|Attracting love and hearts and fortune|
+|8|Mercury|Ruler|00:00:00|23:59:59|Being invisible to the people|
+|9|Moon|Servant|00:00:00|23:59:59|Separation, causing enmity|
+|10|Saturn|Servant|00:00:00|23:59:59|Dominating the great ones|
+|11|Jupiter|Servant|00:00:00|23:59:59|Creating financial and emotional attraction and dominance|
+|12|Mars|Servant|00:00:00|23:59:59|Creating evil and hatred|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|00:00:00|23:59:59|Acceptance of needs|
-|2|Venus|Servant|00:00:00|23:59:59|Complaining is futile, it won't accomplish anything|
-|3|Mercury|Servant|00:00:00|23:59:59|To overcome illnesses|
-|4|Moon|Servant|00:00:00|23:59:59|For all actions, the goal is happiness|
-|5|Saturn|Servant|00:00:00|23:59:59|Generating negative energy and disturbing peace|
-|6|Jupiter|Servant|00:00:00|23:59:59|Traveling inward and outward|
-|7|Mars|Servant|00:00:00|23:59:59|Attracting love and winning hearts|
-|8|Sun|Ruler|00:00:00|23:59:59|Being concealed from the sight of people|
-|9|Venus|Servant|00:00:00|23:59:59|Separating and creating enmity|
-|10|Mercury|Servant|00:00:00|23:59:59|Subduing the elites|
-|11|Moon|Servant|00:00:00|23:59:59|Creating financial attraction and domination|
-|12|Saturn|Servant|00:00:00|23:59:59|Generating malice and hatred|
+|2|Venus|Servant|00:00:00|23:59:59|Unfortunate, no task is suitable|
+|3|Mercury|Servant|00:00:00|23:59:59|For overcoming diseases|
+|4|Moon|Servant|00:00:00|23:59:59|For all tasks, extremely auspicious|
+|5|Saturn|Servant|00:00:00|23:59:59|Creating negative energy and disrupting peace|
+|6|Jupiter|Servant|00:00:00|23:59:59|Outer and inner journey|
+|7|Mars|Servant|00:00:00|23:59:59|Attracting love and hearts and fortune|
+|8|Sun|Ruler|00:00:00|23:59:59|Being invisible to the people|
+|9|Venus|Servant|00:00:00|23:59:59|Separation, causing enmity|
+|10|Mercury|Servant|00:00:00|23:59:59|Dominating the great ones|
+|11|Moon|Servant|00:00:00|23:59:59|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|00:00:00|23:59:59|Creating evil and hatred|
 
  
  
@@ -282,6 +288,8 @@ Timetable of septet day and night planetary hours
 {{< /tabs >}}
 
 ## The position of the planets at sunrise
+
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
 
 {{< tabs tabTotal="2" >}}
 
