@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°13'47.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°15'35.66" |Aries|Butain|Sun|
-|♂ Mars|Direct|14°12'20.93" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|25°16'55.24" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°51'43.93" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|8°32'15.01" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°24'25.36" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|15°15'33.57" |Aries|Butain|Sun|
+|♂ Mars|Direct|14°12'26.26" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|25°17'8.98" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|15°52'5.36" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|8°32'30.18" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°41'42.21" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Venus|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|2°13'47.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°15'33.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°12'26.26" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|25°17'8.98" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°52'5.36" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|8°32'30.18" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°41'42.21" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|2°13'48.87" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°15'35.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°12'20.93" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|25°16'55.24" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|15°51'43.93" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|8°32'15.01" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°24'25.36" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Cancer|Sun|Moon|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Moon|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Callao, El Callao, Kajao, Kal'jaa, Kal'jao, Kalao, Kaljao, Kallao, Kallaw, Kalyao, Regio de Callao, Regió de Callao, ka ya e, kayao, kayaw, kayayw, klaw, Кальяа, Кальяо, Каляо, Каяо, Каљао, Կալյաո, كاياو, کایائو, کایاو, کلاؤ, კალიაო, カヤオ, 卡亞俄, 카야오

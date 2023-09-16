@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°13'46.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°15'32.86" |Aries|Butain|Sun|
-|♂ Mars|Direct|14°12'34.67" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|25°17'21.86" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°52'12.74" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|8°32'36.22" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°48'41.45" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|15°15'32.37" |Aries|Butain|Sun|
+|♂ Mars|Direct|14°12'32.72" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|25°17'13.44" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|15°51'46.25" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|8°32'23.79" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°34'48.76" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°13'46.31" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°15'32.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°12'34.67" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|25°17'21.86" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°52'12.74" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|8°32'36.22" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°48'41.45" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|14°12'32.72" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|25°17'13.44" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|15°51'46.25" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|8°32'23.79" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°34'48.76" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

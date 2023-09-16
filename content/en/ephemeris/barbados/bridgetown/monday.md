@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°15'41.82" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°10'26.34" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|25°14'11.46" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°50'41.07" |Cancer|Tarf|Mercury|
+|♀ Venus|Post-Retrograde Shadow|15°50'41.07" |Cancer|Tarf|Mercury|
 |☿ Mercury|Retrograde|8°31'17.48" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|3°11'23.53" |Libra|Ghafr|Moon|
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|2°13'59.24" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°15'41.82" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°10'26.34" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|25°14'11.46" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°50'41.07" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|8°31'17.48" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°11'23.53" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|25°14'7.97" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|15°50'26.74" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|8°31'11.53" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°13'39.89" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운

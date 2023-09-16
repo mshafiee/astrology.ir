@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°15'37.27" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°11'31.32" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|25°15'47.95" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°51'27.77" |Cancer|Tarf|Mercury|
+|♀ Venus|Post-Retrograde Shadow|15°51'27.77" |Cancer|Tarf|Mercury|
 |☿ Mercury|Retrograde|8°31'57.33" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|3°31'12.51" |Libra|Ghafr|Moon|
 
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°15'37.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°11'31.32" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|25°15'47.95" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°51'27.77" |Leo|Zubrah|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|15°51'27.77" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|8°31'57.33" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|3°31'12.51" |Scorpio|Akleel|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

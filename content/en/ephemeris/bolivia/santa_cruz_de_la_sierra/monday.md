@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|2°13'56.38" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|15°15'39.98" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°10'55.95" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|25°14'54.56" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°50'59.34" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|8°31'33.77" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°10'56.62" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|25°14'43.28" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|15°50'33.01" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|8°31'19.25" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°28'34.95" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Venus|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°13'56.38" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°15'39.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°10'55.95" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|25°14'54.56" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°50'59.34" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|8°31'33.77" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°10'56.62" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|14°10'52.45" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|25°14'43.28" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|15°50'33.01" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|8°31'19.25" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°28'34.95" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Cancer|Sun|Moon|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Moon|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ciudad Santa Cruz, Ciudad de Santa Cruz de la Sierra, SRZ, Santa Cruz, Santa Cruz da Serra, Santa Cruz de la Sierra, Santa-Krus-de-la-Sierra, santakurusu, Санта-Крус-де-ла-Сиерра, سانتا کروز دلاسیه‌را, サンタクルス

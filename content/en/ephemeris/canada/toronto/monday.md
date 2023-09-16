@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°13'47.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°15'33.44" |Aries|Butain|Sun|
-|♂ Mars|Direct|14°12'25.42" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|25°17'8.16" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°52'6.29" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|8°32'30.58" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°46'31.33" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|15°15'35.36" |Aries|Butain|Sun|
+|♂ Mars|Direct|14°12'19.79" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|25°16'52.73" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|15°51'38.31" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|8°32'12.65" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|2°29'28.40" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Venus|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°13'47.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°15'33.36" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°12'25.45" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|25°17'8.08" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°52'5.52" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|8°32'30.34" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°47'41.33" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|15°15'35.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°12'19.79" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|25°16'52.73" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|15°51'38.31" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|8°32'12.65" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°29'28.40" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Cancer|Sun|Moon|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Moon|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Taronta, Torontas, Toronto, Torontu, Torontum, Torontó, YTO, duo lun duo, roranro, taronto, teareantea, tho rxn to, tolonto, toramto, toranto, toronto, twrntw, twrwntw, Τορόντο, Таронта, Торонто, Տորոնտո, טאראנטא, טורונטו, تورنتو, تورونتو, ٹورانٹو, ٹورنٹو, टोरण्टो, टोरन्टो, टोराँटो, तोरन्तो, টরোন্টো, ਟੋਰਾਂਟੋ, ரொறன்ரோ, టొరంటో, ಟೊರಾಂಟೋ, ടോറോണ്ടോ, โทรอนโต, တိုရွန်တိုမြို့, ტორონტო, トロント, 多伦多, 多倫多, 토론토

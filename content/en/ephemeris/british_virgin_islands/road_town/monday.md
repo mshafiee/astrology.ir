@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°15'39.59" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°10'57.83" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|25°14'58.29" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°50'33.42" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|8°31'17.60" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|2°0'58.30" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|15°51'3.92" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|8°31'36.88" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°21'42.65" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Venus|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Venus|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°15'39.59" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°10'57.83" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|25°14'58.29" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°51'3.92" |Leo|Zubrah|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|15°51'3.92" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|8°31'36.88" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|3°21'42.65" |Scorpio|Akleel|Mars|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

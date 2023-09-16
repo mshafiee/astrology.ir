@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°21'15.83" |Aries|Butain|Sun|
 |♂ Mars|Direct|12°44'40.64" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|23°6'40.33" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|14°52'36.14" |Cancer|Tarf|Mercury|
+|♀ Venus|Post-Retrograde Shadow|14°52'36.14" |Cancer|Tarf|Mercury|
 |☿ Mercury|Retrograde|8°1'3.23" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|6°45'1.60" |Virgo|Awwa|Sun|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|2°22'47.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°21'15.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°44'40.82" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|23°6'40.01" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|14°52'32.55" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|8°1'2.15" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|6°45'33.61" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|2°22'47.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°21'15.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°44'40.64" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|23°6'40.33" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|14°52'36.14" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|8°0'41.91" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|5°0'22.59" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Venus|Venus|Mercury|Jupiter|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Moon|Gemini|Sun|Moon|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Moon|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Mercury|Jupiter|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
