@@ -1,6 +1,6 @@
 ---
-date: 2023-09-16T00:00:00-04:00
-lastmod: 2023-09-16T00:00:00-04:00
+date: 2023-09-23T00:00:00-04:00
+lastmod: 2023-09-23T00:00:00-04:00
 title: BasseTerre Saturday
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Guadeloupe
   - BasseTerre
-description: 🗓 Saturday, 16 Sep 2023
+description: 🗓 Saturday, 23 Sep 2023
 
 toc: false
 ---
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
-|♊ Gemini|00:00:00|23:59:59|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
+|♊ Gemini|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
-|♋ Cancer|00:00:00|23:59:59|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
+|♋ Cancer|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BBR, Bas Ter, Bas Teras, Bas-Tehr, Bas-Ter, Bas-Tero, Bas-ter, Bassa-Terra, Basse Terre, Basse-Terre, Bastera, Bastēra, Bâssa-Tèrra, ba si te er, bas-tr, bas-tyr, base-tera, baseuteleu, basuteru, paster, Μπας-Τερ, Бас Тер, Бас-Тер, Бас-Тэр, Бас-тер, Բաս Տեր, באס טר, باس-تر, باس-تير, باس-تیر, बासे-तेर, பாஸ்தெர், บัส-แตร์, ბას-ტერი, バステール, 巴斯特尔, 바스테르
