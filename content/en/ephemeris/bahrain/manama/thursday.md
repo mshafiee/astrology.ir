@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°3'27.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°7'32.51" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°56'45.25" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|27°52'0.98" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°12'38.27" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|10°8'48.38" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°59'28.92" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|15°7'31.71" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°56'45.46" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|27°51'59.54" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|17°12'28.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|10°8'45.08" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|7°26'57.92" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Venus|Mercury|Jupiter|Sun|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°3'27.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°7'32.51" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°56'45.25" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|27°52'0.98" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|17°12'38.27" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|10°8'48.38" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|15°7'31.71" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°56'45.46" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|27°51'59.54" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|17°12'28.15" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|10°8'48.38" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|6°59'28.92" |Sagittarius|NaAaem|Mercury|
 
 

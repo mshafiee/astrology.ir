@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°8'34.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°11'42.94" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°4'38.23" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|26°34'39.88" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|16°31'5.38" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|9°13'0.52" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|20°4'35.02" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|15°11'44.12" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°4'35.12" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|26°34'31.77" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|16°30'53.03" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|9°12'51.93" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|19°26'48.85" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Venus|Mercury|Sun|Venus|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Venus|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,8 +342,8 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°11'42.94" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°4'38.23" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|26°34'39.88" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|16°31'5.38" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|9°13'0.52" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|16°31'5.38" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|9°13'0.52" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|20°4'35.02" |Scorpio|Qalb|Venus|
 
 

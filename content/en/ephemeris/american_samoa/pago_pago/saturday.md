@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°53'37.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°58'19.85" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°40'14.61" |Virgo|Simak|Venus|
-|☉ Sun|Direct|0°25'16.77" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|18°41'41.53" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|12°40'16.29" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|12°12'39.01" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|14°58'18.66" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°40'18.25" |Virgo|Simak|Venus|
+|☉ Sun|Direct|0°25'27.20" |Virgo|Sarfrah|Sun|
+|♀ Venus|Post-Retrograde Shadow|18°42'0.11" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|12°40'26.96" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|11°51'17.00" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Saturn|Mercury|Jupiter|Sun|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°53'37.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°58'18.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°40'18.25" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|0°25'27.20" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|18°42'0.11" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|12°40'26.96" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|14°58'19.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°40'14.61" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|0°25'16.77" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|18°42'0.11" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°40'26.96" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|11°51'17.00" |Capricorn|SaadAlDhabib|Mars|
 
 

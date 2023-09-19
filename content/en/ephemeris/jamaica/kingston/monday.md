@@ -303,8 +303,8 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°15'33.95" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°12'17.95" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|25°16'57.33" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°52'1.73" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|8°32'26.43" |Leo|Jabhah|Saturn|
+|♀ Venus|Post-Retrograde Shadow|15°52'1.73" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|8°32'26.43" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|3°46'38.55" |Libra|Ghafr|Moon|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°13'47.96" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°15'33.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°12'17.95" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|25°16'57.33" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°52'1.73" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|8°32'26.43" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°46'38.55" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|14°12'13.39" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|25°16'46.18" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|15°51'46.72" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°32'14.68" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°38'26.89" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Cancer|Sun|Moon|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Moon|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴

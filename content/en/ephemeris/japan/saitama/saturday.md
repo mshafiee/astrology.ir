@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°56'49.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°1'29.63" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°6'7.31" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|29°34'50.36" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°11'32.31" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|11°44'50.27" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|0°3'42.67" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|15°1'29.81" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°6'7.17" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|29°34'50.31" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|18°11'33.55" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|11°44'50.51" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°57'44.80" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Saturn|Mercury|Jupiter|Sun|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -342,8 +342,8 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°1'29.63" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°6'7.31" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|29°34'50.36" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|18°11'32.31" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|11°44'50.27" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|18°11'32.31" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°44'50.27" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|0°3'42.67" |Capricorn|SaadAlDhabib|Jupiter|
 
 

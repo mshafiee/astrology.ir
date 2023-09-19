@@ -303,8 +303,8 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°0'17.46" |Aries|Butain|Sun|
 |♂ Mars|Direct|17°19'13.14" |Virgo|Simak|Venus|
 |☉ Sun|Direct|29°54'13.69" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|18°23'4.66" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|12°5'31.73" |Leo|Zubrah|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|18°23'4.66" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|12°5'31.73" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|4°33'2.16" |Sagittarius|NaAaem|Mercury|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'35.56" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°0'17.46" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°19'13.14" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|29°54'13.69" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|18°23'4.66" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|12°5'31.73" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|4°33'2.16" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|17°19'9.96" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|29°54'8.18" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|18°23'7.58" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°5'28.84" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°41'29.33" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함

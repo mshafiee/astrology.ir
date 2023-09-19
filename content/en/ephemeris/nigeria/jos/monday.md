@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°16'13.14" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°2'57.68" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|25°3'4.74" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°45'19.28" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|8°26'53.01" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°51'23.52" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|15°45'18.42" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|8°26'52.85" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|0°53'59.20" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°14'44.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°16'13.14" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°2'57.68" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|25°3'4.74" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°45'19.28" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|8°26'53.01" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|0°51'23.52" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|15°16'13.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°2'57.80" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|25°3'4.80" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|15°45'18.42" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°26'52.85" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|0°53'59.20" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

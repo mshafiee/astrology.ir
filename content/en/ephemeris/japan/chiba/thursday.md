@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°4'24.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°8'21.50" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°46'52.95" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|27°37'22.44" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°4'36.16" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|9°57'7.13" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|3°43'9.68" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|15°8'23.31" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°46'48.85" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|27°37'12.19" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|17°4'22.27" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|9°56'56.98" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°1'18.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Sun|Mars|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°4'24.90" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°8'21.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°46'52.95" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|27°37'22.44" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|17°4'36.16" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|9°57'7.13" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°43'9.68" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|15°8'21.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°46'48.85" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|27°37'12.19" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|17°4'22.27" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|9°56'56.98" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°1'18.90" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Moon|Mercury|Aquarius|Moon|Venus|
 |☿ Mercury|Saturn|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시

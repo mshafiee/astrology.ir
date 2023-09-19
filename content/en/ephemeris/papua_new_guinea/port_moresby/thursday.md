@@ -303,8 +303,8 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°8'26.21" |Aries|Butain|Sun|
 |♂ Mars|Direct|15°46'7.90" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|27°36'7.25" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°3'29.76" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|9°56'2.29" |Leo|Zubrah|Saturn|
+|♀ Venus|Post-Retrograde Shadow|17°3'29.76" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|9°56'2.29" |Leo|Zubrah|Saturn|
 |☾ Moon|Direct|3°10'6.63" |Scorpio|Akleel|Mars|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°8'24.85" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°46'13.00" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|27°36'22.55" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|17°4'1.28" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|9°56'19.94" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°30'38.24" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Post-Retrograde Shadow|17°3'29.76" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|9°56'2.29" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°10'6.63" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Moon|Mercury|Aquarius|Moon|Venus|
 |☿ Mercury|Saturn|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: POM, Po Moresbi, Port Moresby, Port Moresmpi, Port Morsbi, Port Morsbis, Port-Moresbo, Port-Morsbi, Portmorsbi, Portus Moresbiensis, Pot Mosbi, Puerto Moresby, Pò Moresbi, bwrt mwrsby, mo er ci bi gang, mo er zi bi gang, phxrt mxr sbi, porata moraisabi, porta moresbi, poteumoleujeubi, potomoresubi, pwrt mwrsby, Πορτ Μόρεσμπι, Порт Морсби, Порт-Морсби, Порт-Морсбі, Պորտ Մորսբի, פורט מורסבי, بورت مورسبي, صوبہ پورٹ مورسبائی, مورېسبى پورتى, پورت مورسبی, پورٹ مورسبی, پۆرت مۆرسبی, पोर्ट मॉरेस्बी, पोर्ट मोरेस्बी, ਪੋਰਟ ਮੋਰੈਸਬੀ, พอร์ตมอร์สบี, པོ་རོ་ཊི་མོ་རེ་སི་བི།, პორტ-მორზბი, ፖርት ሞርስቢ, ポートモレスビー, 莫尔兹比港, 포트모르즈비

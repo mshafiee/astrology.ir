@@ -238,7 +238,7 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|21:29:58|22:29:12|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|22:29:13|23:28:28|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Saturn|Servant|23:28:29|00:27:44|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Jupiter|Servant|00:27:45|01:26:59|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Jupiter|Servant|00:27:45|01:26:59|Promotion and attracting wealth|
 |8|Mars|Ruler|01:27:00|02:26:15|Auspicious and ultimate happiness and fortune|
 |9|Sun|Servant|02:26:16|03:25:31|Causing separation and homelessness|
 |10|Venus|Servant|03:25:32|04:24:46|Extremely unfortunate|
@@ -303,8 +303,8 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°4'1.42" |Aries|Butain|Sun|
 |♂ Mars|Direct|16°37'53.33" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|28°53'0.25" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°47'4.37" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|11°2'54.59" |Leo|Zubrah|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|17°47'4.37" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|11°2'54.59" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|20°33'7.18" |Scorpio|Qalb|Venus|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°4'1.42" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|16°37'53.33" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|28°53'0.25" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|17°47'4.37" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|11°2'54.59" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°33'7.18" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Post-Retrograde Shadow|17°47'4.37" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°2'54.59" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|21°19'29.75" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Moon|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Venus|Venus|Saturn|Saturn|
-|☾ Moon|Mercury|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

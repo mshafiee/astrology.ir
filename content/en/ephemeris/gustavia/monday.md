@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°13'57.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°15'40.40" |Aries|Butain|Sun|
-|♂ Mars|Direct|14°10'46.33" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|25°14'41.20" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°50'55.62" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|8°31'29.81" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°18'5.66" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|15°15'40.02" |Aries|Butain|Sun|
+|♂ Mars|Direct|14°10'45.23" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|25°14'36.19" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|15°50'39.39" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|8°31'22.29" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°10'43.54" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,8 +342,8 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°15'40.40" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°10'46.33" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|25°14'41.20" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°50'55.62" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|8°31'29.81" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|15°50'55.62" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°31'29.81" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|3°18'5.66" |Scorpio|Akleel|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Goustavia, Gustaf, Gustavi, Gustavia, Gustavija, Gustavio, Gustávia, Guthavia, Qustaviya, guseutabia, gustavhiya, gusutabia, gwiseutabia, gwstawya, ju si ta wei ya, ku s ta wi ya, kucutaviya, Γουσταβία, Густави, Густавия, Густавија, Густавія, گوستاویا, گوسٹاویا, गुस्ताव्हिया, குசுதாவியா, กุสตาวียา, გუსტავია, グスタビア, 居斯塔维亚, 구스타비아, 귀스타비아

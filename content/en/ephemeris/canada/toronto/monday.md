@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°13'47.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°15'33.44" |Aries|Butain|Sun|
-|♂ Mars|Direct|14°12'25.42" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|25°17'8.16" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°52'6.29" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|8°32'30.58" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°46'31.33" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|15°15'32.66" |Aries|Butain|Sun|
+|♂ Mars|Direct|14°12'23.99" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|25°17'0.67" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|15°51'39.37" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|8°32'18.75" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°42'50.53" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°15'33.44" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°12'25.42" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|25°17'8.16" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°52'6.29" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|8°32'30.58" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°46'31.33" |Scorpio|Akleel|Mars|
+|♀ Venus|Post-Retrograde Shadow|15°52'6.29" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°32'18.75" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°42'50.53" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Taronta, Torontas, Toronto, Torontu, Torontum, Torontó, YTO, duo lun duo, roranro, taronto, teareantea, tho rxn to, tolonto, toramto, toranto, toronto, twrntw, twrwntw, Τορόντο, Таронта, Торонто, Տորոնտո, טאראנטא, טורונטו, تورنتو, تورونتو, ٹورانٹو, ٹورنٹو, टोरण्टो, टोरन्टो, टोराँटो, तोरन्तो, টরোন্টো, ਟੋਰਾਂਟੋ, ரொறன்ரோ, టొరంటో, ಟೊರಾಂಟೋ, ടോറോണ്ടോ, โทรอนโต, တိုရွန်တိုမြို့, ტორონტო, トロント, 多伦多, 多倫多, 토론토

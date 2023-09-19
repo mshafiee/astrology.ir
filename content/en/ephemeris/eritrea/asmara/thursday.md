@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°3'19.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°7'27.01" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°58'3.54" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|27°53'57.23" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|17°13'47.00" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|10°10'24.57" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°55'28.98" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|15°7'25.92" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°58'4.80" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|27°53'58.93" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|17°13'41.72" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|10°10'23.30" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|7°15'49.03" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Venus|Mercury|Jupiter|Sun|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°3'19.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°7'25.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°58'4.80" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|27°53'58.93" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|17°13'43.38" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|10°10'24.88" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|15°7'26.27" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°58'4.04" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|27°53'57.17" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|17°13'41.72" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|10°10'24.88" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|7°25'24.21" |Sagittarius|NaAaem|Mercury|
 
 

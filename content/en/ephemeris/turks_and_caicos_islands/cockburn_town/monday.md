@@ -303,8 +303,8 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°15'36.73" |Aries|Butain|Sun|
 |♂ Mars|Direct|14°11'36.89" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|25°15'50.27" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°51'6.65" |Cancer|Tarf|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|8°31'48.64" |Leo|Jabhah|Saturn|
+|♀ Venus|Post-Retrograde Shadow|15°51'6.65" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|8°31'48.64" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|3°4'40.06" |Libra|Ghafr|Moon|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|2°13'51.82" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°15'36.63" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°11'39.81" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|25°16'0.66" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|15°51'34.24" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Post-Retrograde Shadow|8°32'2.79" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°34'54.72" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|25°15'50.27" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|15°51'6.65" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°31'48.64" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°4'40.06" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Cancer|Sun|Moon|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Moon|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Cockburn Town, Kobern Taun, Kobern Taunas, Kobern-Taun, Kobərn Taun, Kokburn Taun, Kokburno, Kokmpern Taoun, kakpern nakaram, ke bo en cheng, kh xk beir ntha wn, kobeontaun, kokabarna ta'una, kokkubantaun, kwk brn tawn  bahama, Κόκμπερν Τάουν, Коберн Таун, Коберн-Таун, Коберн-Таўн, Кокбърн Таун, קוקבורן טאון, کاک برن ٹاؤن, کوک برن تاون، باهاما, कॉकबर्न टाउन, காக்பேர்ண் நகரம், ค็อกเบิร์นทาวน์, კოკბერნ-ტაუნი, コックバーンタウン, 科伯恩城, 코번타운
