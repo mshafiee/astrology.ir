@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |3|Mercury|Servant|19:52:33|20:52:04|For overcoming diseases|
 |4|Moon|Servant|20:52:05|21:51:35|For all tasks, extremely auspicious|
 |5|Saturn|Servant|21:51:36|22:51:06|Creating negative energy and disrupting peace|
-|6|Jupiter|Servant|22:51:07|23:50:38|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Jupiter|Servant|22:51:07|23:50:38|Outer and inner journey|
 |7|Mars|Servant|23:50:39|00:50:09|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Sun|Ruler|00:50:10|01:49:40|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Venus|Servant|01:49:41|02:49:12|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°7'54.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°11'12.03" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°11'16.77" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|26°44'31.98" |Leo|Sarfrah|Mars|
-|♀ Venus|Post-Retrograde Shadow|16°36'16.06" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|9°19'18.03" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|22°15'47.85" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|15°11'12.32" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°11'16.47" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|26°44'31.69" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|16°36'17.53" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|9°19'18.17" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|22°7'59.98" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°7'54.53" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°11'12.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°11'16.77" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|26°44'31.98" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|16°36'16.06" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|9°19'18.03" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|22°15'47.85" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|15°11'16.47" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|26°44'31.69" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|16°36'17.53" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|9°19'18.17" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|22°7'59.98" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

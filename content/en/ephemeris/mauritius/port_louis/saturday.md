@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|15°0'40.06" |Aries|Butain|Sun|
 |♂ Mars|Direct|17°15'10.85" |Virgo|Simak|Venus|
 |☉ Sun|Direct|29°48'14.58" |Leo|Sarfrah|Mars|
-|♀ Venus|Post-Retrograde Shadow|18°19'13.06" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|11°58'52.22" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°54'38.68" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Post-Retrograde Shadow|18°19'28.94" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|11°59'3.65" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°10'11.43" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°0'40.06" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°15'10.85" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|29°48'14.58" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|18°19'13.06" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|11°58'52.22" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°54'38.68" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|18°19'28.94" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°59'3.65" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°10'11.43" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bort Lois, Po-Loui, Por Loui, Por-Loui, Port Lois, Port Louis, Port Louis Town, Port Lui, Port Luis, Port Luisas, Port Luiz, Port-Louis, Port-Lui, Port-Luiso, Port-lui, Portlui, Portluī, Portus Ludovici, Puerto Louis, Pò-Loui, bwr lwys, lu yi gang, phxrt hluys, porata lu'i, port luyis, porta lu'i, porta lu'isa, poteulu-iseu, potoruisu, pwr lwʼy, Πορ Λουί, Πορ-Λουί, Порт Луи, Порт Луис, Порт-Луи, Порт-Луі, Порт-Луї, Պորտ Լուի, פור לואי, بور لويس, پورت‌لوئیس, پورٹ لوئس, پورٹ لوئی, پۆرت لویس, पोर्ट लुई, पोर्ट लुईस, পোর্ট লুইস, ਪੋਰਟ ਲੂਈ, ପୋର୍ଟ ଲୁଇସ, போர்ட் லூயிஸ், പോർട്ട് ലൂയിസ്, พอร์ตหลุยส์, ལོ་ཡི་སི་གྲུ་ཁ།, პორტ-ლუი, ፖርት ሉዊስ, ポートルイス, 路易港, 포트루이스

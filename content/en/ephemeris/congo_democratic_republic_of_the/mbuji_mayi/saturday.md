@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'37.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°0'21.28" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°18'49.84" |Virgo|Simak|Venus|
-|☉ Sun|Direct|29°53'31.91" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Retrograde|15°0'19.10" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°18'55.73" |Virgo|Simak|Venus|
+|☉ Sun|Direct|29°53'48.24" |Leo|Sarfrah|Mars|
 |♀ Venus|Post-Retrograde Shadow|18°22'50.09" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|12°5'4.06" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|4°26'43.16" |Sagittarius|NaAaem|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'37.08" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°0'21.28" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°18'49.84" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|29°53'31.91" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|18°22'22.30" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|12°4'47.49" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|4°40'28.50" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|15°0'19.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°18'55.73" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|29°53'48.24" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|18°22'50.09" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°5'4.06" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|4°26'43.16" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи

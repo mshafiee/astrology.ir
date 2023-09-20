@@ -238,7 +238,7 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|21:29:58|22:29:12|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|22:29:13|23:28:28|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Saturn|Servant|23:28:29|00:27:44|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Jupiter|Servant|00:27:45|01:26:59|Promotion and attracting wealth|
+|7|Jupiter|Servant|00:27:45|01:26:59|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mars|Ruler|01:27:00|02:26:15|Auspicious and ultimate happiness and fortune|
 |9|Sun|Servant|02:26:16|03:25:31|Causing separation and homelessness|
 |10|Venus|Servant|03:25:32|04:24:46|Extremely unfortunate|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|28°53'0.25" |Virgo|Simak|Mercury|
 |♀ Venus|Post-Retrograde Shadow|17°47'4.37" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|11°2'54.59" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|21°19'29.75" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°33'7.18" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Moon|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Venus|Venus|Saturn|Saturn|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

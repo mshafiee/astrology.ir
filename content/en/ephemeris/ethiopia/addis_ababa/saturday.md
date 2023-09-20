@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'46.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°0'29.03" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°17'15.22" |Virgo|Simak|Venus|
-|☉ Sun|Direct|29°51'18.96" |Leo|Sarfrah|Mars|
-|♀ Venus|Post-Retrograde Shadow|18°21'22.52" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|12°2'23.33" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°34'43.51" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|1°55'46.31" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|15°0'28.16" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°17'16.65" |Virgo|Simak|Venus|
+|☉ Sun|Direct|29°51'21.86" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|18°21'23.17" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|12°2'25.35" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°52'19.22" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'46.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°0'29.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°17'15.22" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|29°51'18.96" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|18°21'22.52" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|12°2'23.33" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°34'43.51" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|15°0'28.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°17'16.65" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|29°51'21.86" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|18°21'23.17" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°2'25.35" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°52'19.22" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바

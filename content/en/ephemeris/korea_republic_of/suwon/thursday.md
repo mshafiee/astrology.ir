@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°4'16.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°8'14.27" |Aries|Butain|Sun|
-|♂ Mars|Direct|15°48'19.09" |Virgo|Awwa|Venus|
-|☉ Sun|Direct|27°39'30.05" |Leo|Sarfrah|Mars|
-|♀ Venus|Post-Retrograde Shadow|17°5'44.72" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|9°58'46.80" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|4°16'7.64" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|15°8'16.53" |Aries|Butain|Sun|
+|♂ Mars|Direct|15°48'15.82" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|27°39'24.10" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|17°5'45.77" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|9°58'43.02" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|3°16'40.24" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Sun|Mars|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°4'16.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°8'14.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°48'19.02" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|27°39'29.98" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|17°5'44.72" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|9°58'46.80" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|4°16'7.64" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|15°8'16.53" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°48'15.82" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|27°39'24.10" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|17°5'45.77" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|9°58'43.02" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°16'40.24" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Moon|Mercury|Aquarius|Moon|Venus|
 |☿ Mercury|Saturn|Jupiter|Sagittarius|Moon|Venus|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: SWU, Sououon, Suigen, Suvon, Suwon, Suwon-si, Suwŏn, shui yuan shi, suvona, suwon, suwonsi, suwxn, swwn, Σούουον, Сувон, سوون, सुवोन, ซูว็อน, 水原市, 수원, 수원시

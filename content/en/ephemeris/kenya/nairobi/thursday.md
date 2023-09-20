@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°58'20.01" |Virgo|Awwa|Venus|
 |☉ Sun|Direct|27°54'21.19" |Leo|Sarfrah|Mars|
 |♀ Venus|Post-Retrograde Shadow|17°13'54.90" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|10°10'40.80" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|7°46'13.55" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|10°10'42.99" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|7°28'49.71" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Sun|Jupiter|Capricorn|Sun|Mars|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°3'18.14" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°7'24.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°58'20.01" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|27°54'21.19" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|17°13'54.90" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|10°10'42.99" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|7°28'49.71" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|15°7'24.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°58'20.15" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|27°54'20.21" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|17°13'48.30" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|10°10'40.80" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|7°46'13.55" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Saturn|Mercury|Aquarius|Moon|Venus|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Mars|Mercury|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}

@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |3|Venus|Servant|20:30:43|21:29:50|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mercury|Servant|21:29:51|22:28:58|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|22:28:59|23:28:06|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Saturn|Servant|23:28:07|00:27:15|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Saturn|Servant|23:28:07|00:27:15|Creating attraction and acceptance among dignitaries|
 |7|Jupiter|Servant|00:27:16|01:26:23|Promotion and attracting wealth|
 |8|Mars|Ruler|01:26:24|02:25:31|Auspicious and ultimate happiness and fortune|
 |9|Sun|Servant|02:25:32|03:24:39|Causing separation and homelessness|
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|28°55'22.70" |Leo|Sarfrah|Mars|
 |♀ Venus|Post-Retrograde Shadow|17°48'26.24" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|11°5'11.21" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|21°25'46.99" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|21°4'58.67" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|1°59'20.72" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°3'52.97" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|16°39'29.55" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|28°55'20.31" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|17°48'17.10" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|11°5'7.61" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|21°25'46.99" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|28°55'22.70" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|17°48'26.24" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°5'11.21" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|21°4'58.67" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
+|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
