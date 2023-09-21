@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|1°54'54.11" |Virgo|Sarfrah|Sun|
 |♀ Venus|Post-Retrograde Shadow|19°38'11.78" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|14°30'34.73" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°16'20.02" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°15'35.32" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°48'5.37" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|1°48'7.35" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|14°52'23.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|18°40'38.01" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|1°54'36.99" |Libra|Ghafr|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

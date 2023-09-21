@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|2°4'22.82" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°8'19.63" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°47'14.32" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|27°37'54.03" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|17°4'51.27" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|9°57'31.10" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°55'48.08" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|15°8'19.67" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°47'14.30" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|27°37'54.04" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|17°4'52.88" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|9°57'31.69" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°52'29.79" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: NGO, Nagoia, Nagoja, Nagojo, Nagoya, Nagoya City, Nagoya-shi, ming gu wu, ming gu wu shi, na ngoa ya, naghwya, nagoya si, nagoyashi, nagwya  aychy, Нагоя, ناغويا, ناگویا، آیچی, นะโงะยะ, なごやし, 名古屋, 名古屋市, 나고야 시

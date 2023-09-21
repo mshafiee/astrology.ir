@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'41.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°0'22.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°18'13.65" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|29°52'45.70" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|18°22'11.22" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|12°3'55.86" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|15°0'22.97" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°18'13.57" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|29°52'45.92" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|18°22'13.00" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°3'56.41" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|4°18'16.00" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: KGL, Kigale, Kigali, Kigalis, Kigalo, Kigaly, Kinkali, Kiqali, Kígalí, ji jia li, khikali, kigali, kigalli, kigari, kikali, kygaly, kyghaly, Κιγκάλι, Кигали, Кігалі, Կիգալի, קיגאלי, كيغالي, کیگالی, किगाली, ਕਿਗਾਲੀ, கிகாலி, කිගාලි, คิกาลี, ཀི་ག་ལི།, კიგალი, ኪጋሊ, キガリ, 吉佳利, 키갈리

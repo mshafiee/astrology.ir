@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°48'9.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°52'24.87" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°40'3.76" |Virgo|Simak|Venus|
-|☉ Sun|Direct|1°53'54.12" |Virgo|Sarfrah|Sun|
-|♀ Venus|Post-Retrograde Shadow|19°37'33.54" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|14°29'16.33" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°59'24.92" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|14°52'26.18" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°39'59.00" |Virgo|Simak|Venus|
+|☉ Sun|Direct|1°53'39.44" |Virgo|Sarfrah|Sun|
+|♀ Venus|Post-Retrograde Shadow|19°37'3.68" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|14°29'1.03" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|4°20'21.41" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°48'9.02" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°52'24.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°40'3.76" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|1°53'54.12" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|19°37'33.54" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|14°29'16.33" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°59'24.92" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|14°52'24.79" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°40'3.87" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|1°53'54.31" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|19°37'3.68" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|14°29'1.03" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|4°20'21.41" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: KAD, Kadun, Kaduna, Kaduno, Kàdúná, ka du na, kado~una, kaduna, kadwna, qdwnh, Кадуна, קדונה, كادونا, کادونا, ਕਾਦੂਨਾ, カドゥナ, 卡杜納, 카두나

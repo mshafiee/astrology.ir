@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'49.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°0'33.84" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°16'41.70" |Virgo|Simak|Venus|
-|☉ Sun|Direct|29°50'27.20" |Leo|Sarfrah|Mars|
-|♀ Venus|Post-Retrograde Shadow|18°20'51.82" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|12°1'29.63" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°52'30.59" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|15°0'30.94" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°16'46.46" |Virgo|Simak|Venus|
+|☉ Sun|Direct|29°50'37.19" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|18°20'56.54" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|12°1'37.09" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°41'46.10" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'49.14" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°0'33.84" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°16'41.70" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|29°50'27.20" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|18°20'51.82" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|12°1'29.63" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°52'30.59" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|15°0'30.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°16'46.46" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|29°50'37.19" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|18°20'56.54" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°1'37.09" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°41'46.10" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Byen Djibouti, Cibuti, Dinas Jibwti, Diobuiti, Diobúití, Djiboeti, Djibouti, Djibouti Chhi, Djibouti Chhī, Djibuti, Dschibuti, Dzhibuti, Dzhybuci, Dzibuti, Dzibutis, Dzjibuty, Dzjibûty, Dzsibuti, Dżibuti, Džibuti, Džibutis, Džíbútí, Gibuti, Gibuto, Gibutum, Ilu Djibouti, JIB, Jabuuti, Jiboti, Jibouti, Jibuti, Lungsod ng Djibouti, Mbanza ya Djibuti, Sita Jibouti, Syudad han Djibouti, Tzimpouti, Xibuti, Xibutí, Yibuti, Zhibuti shaary, ci buti, ciputti, dzsybwty, gybwty, jbwty, jbwty ʿlaqہ, ji bu de shi, ji bu ti cheng, jibuchi shi, jibuti, jybwty, jybwwty, Ìlú Djibouti, Ĝibuto, Τζιμπουτί, Џибути, Джибути, Джибуті, Джыбуці, Жибути шаары, Ҷибути, Ջիբութի, גיבוטי, דזשיבוטי, جبوتی, جبوتی علاقہ, جيبوتي, جیبوتی, جیبووتی, जिबूती, জিবুতি, ਜਿਬੂਤੀ, சீபூத்தீ, จิบูตี, ཇི་བའོ་ཊི།, ჯიბუტი, ジブチ市, 吉布地市, 吉布提城, 지부티

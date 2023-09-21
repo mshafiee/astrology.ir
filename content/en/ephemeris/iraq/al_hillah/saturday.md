@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°55'50.05" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|1°55'50.31" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|15°0'32.93" |Aries|Butain|Sun|
 |♂ Mars|Direct|17°16'35.31" |Virgo|Simak|Venus|
 |☉ Sun|Direct|29°50'20.10" |Leo|Sarfrah|Mars|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'50.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°0'31.78" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°16'36.95" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|29°50'23.12" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|15°0'32.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°16'35.31" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|29°50'20.10" |Virgo|Simak|Mercury|
 |♀ Venus|Post-Retrograde Shadow|18°20'48.98" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|12°1'20.12" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|3°13'28.60" |Capricorn|SaadAlDhabib|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Al Hilla, Al Hillah, Al Ḩillah, Al'-Khilla, Al-Hella, Hilah, Hilla, Hille, Hillé, alhlt, Аль-Хилла, الحلة
