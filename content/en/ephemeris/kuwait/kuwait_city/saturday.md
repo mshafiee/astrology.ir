@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'52.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|15°0'33.49" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°16'13.76" |Virgo|Simak|Venus|
-|☉ Sun|Direct|29°49'47.76" |Leo|Sarfrah|Mars|
-|♀ Venus|Post-Retrograde Shadow|18°20'21.82" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|12°0'42.87" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°50'5.08" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|15°0'33.93" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°16'13.69" |Virgo|Simak|Venus|
+|☉ Sun|Direct|29°49'48.69" |Leo|Sarfrah|Mars|
+|♀ Venus|Post-Retrograde Shadow|18°20'27.62" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|12°0'44.75" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°30'28.14" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°55'52.22" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°0'33.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°16'13.69" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|29°49'48.69" |Virgo|Simak|Mercury|
-|♀ Venus|Post-Retrograde Shadow|18°20'27.62" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|12°0'44.75" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°30'28.14" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|17°16'12.73" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|29°49'43.34" |Virgo|Simak|Mercury|
+|♀ Venus|Post-Retrograde Shadow|18°20'8.36" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°0'37.07" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|4°20'25.55" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Al Kuwait, Al Kuwayt, Al-Kuwait, Ciudad de Kuwait, Ehl'-Kuvejt, KWI, Koeweit, Kota Kuwait, Koveyit, Koweit, Koweït, Kuvaeyt, Kuvajt, Kuvajto, Kuvajturbo, Kuveitas, Kuväyt, Kuwait, Kuwait City, Kuwait Stad, Kuwait by, Kuwait-Stadt, Kuwait-Urbo, Kuwayt, Kuweit, Kuwejt, Madinat al Kuwayt, Madinat al-Kuwait, Madīnat al Kuwayt, Pole tou Koubeit, aalkuayt, ke wei te shi, khuwet si ti, kuu~eto shi, kuweiteu, kuweiteusiti, kwwyt syty, mdynt alkwyt, Πόλη του Κουβέιτ, Эль-Кувейт, כווית סיטי, اَلْكُوَيْت, مدينة الكويت, คูเวตซิตี, クウェート市, 科威特市, 쿠웨이트, 쿠웨이트시티
