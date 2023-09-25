@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|18°42'36.19" |Virgo|Simak|Venus|
 |☉ Sun|Direct|1°57'39.63" |Virgo|Sarfrah|Sun|
 |♀ Venus|Post-Retrograde Shadow|19°39'58.62" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|14°34'11.71" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|3°55'12.75" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|14°34'11.56" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|3°57'10.54" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°47'55.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°52'9.22" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°42'36.19" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|1°57'39.63" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|19°39'58.62" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|14°34'11.71" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°55'12.75" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|14°52'9.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°42'36.20" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|1°57'39.56" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|19°39'58.09" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|14°34'11.56" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°57'10.54" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Bisao, Bisau, Bisau - Bissau, Bisauo, Bisava, Bisaŭo, Biso, Bissa, Bissao, Bissau, Bissá, Bisáu, Mpissaou, OXB, Sao Jose de Bissau, São José de Bissáu, Wisaw, bi shao, bis sea, bis'sa'u, bisa'u, bisau, bsaw, bysaw, bysayw, picavu, Μπισσάου, Бисао, Бисау, Бісау, Բիսաու, ביסאו, بساؤ, بيساو, بیسائو, بیساو, बिसाउ, বিসাউ, বিস্সাউ, ਬਿਸਾਊ, பிசாவு, บิสเซา, བི་སའོ།, ბისაუ, ቢሳው, ビサウ, 比紹, 比绍, 비사우

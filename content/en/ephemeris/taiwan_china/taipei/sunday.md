@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°52'55.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°57'35.45" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°47'47.30" |Virgo|Simak|Venus|
-|☉ Sun|Direct|0°36'32.82" |Virgo|Sarfrah|Sun|
-|♀ Venus|Post-Retrograde Shadow|18°48'50.47" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|12°53'18.54" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|14°25'8.57" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|14°57'37.73" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°47'43.89" |Virgo|Simak|Venus|
+|☉ Sun|Direct|0°36'26.19" |Virgo|Sarfrah|Sun|
+|♀ Venus|Post-Retrograde Shadow|18°48'50.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|12°53'14.25" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|13°48'21.30" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Saturn|Mercury|Jupiter|Sun|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°52'55.78" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°57'35.45" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°47'47.30" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|0°36'32.82" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|18°48'50.47" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|14°57'37.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°47'43.89" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|0°36'26.19" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|18°48'50.15" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|12°53'14.25" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|13°48'21.30" |Capricorn|SaadAlBula|Mars|
 

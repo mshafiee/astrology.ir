@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°52'17.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°56'57.08" |Aries|Butain|Sun|
-|♂ Mars|Direct|17°54'46.02" |Virgo|Simak|Venus|
-|☉ Sun|Direct|0°46'51.58" |Virgo|Sarfrah|Sun|
-|♀ Venus|Post-Retrograde Shadow|18°55'18.31" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|13°5'32.38" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|14°56'55.16" |Aries|Butain|Sun|
+|♂ Mars|Direct|17°54'48.36" |Virgo|Simak|Venus|
+|☉ Sun|Direct|0°46'55.10" |Virgo|Sarfrah|Sun|
+|♀ Venus|Post-Retrograde Shadow|18°55'12.59" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|13°5'33.41" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|16°57'21.92" |Sagittarius|NaAaem|Moon|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°52'17.03" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°56'57.08" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°54'46.02" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|0°46'51.58" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|18°55'18.31" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|13°5'32.38" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|16°12'6.70" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|14°56'55.16" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°54'48.36" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|0°46'55.10" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|18°55'12.59" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|13°5'33.41" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|16°57'21.92" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Aquarius|Moon|Venus|
-|☾ Moon|Sun|Venus|Cancer|Sun|Venus|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Venus|
 
 
 {{< /tab >}}
