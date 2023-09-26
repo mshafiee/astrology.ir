@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°48'24.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°52'44.50" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°37'13.75" |Virgo|Simak|Venus|
-|☉ Sun|Direct|1°49'40.58" |Virgo|Sarfrah|Sun|
-|♀ Venus|Post-Retrograde Shadow|19°34'54.96" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|14°23'51.01" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|1°36'55.50" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|14°52'40.87" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°37'17.93" |Virgo|Simak|Venus|
+|☉ Sun|Direct|1°49'46.48" |Virgo|Sarfrah|Sun|
+|♀ Venus|Post-Retrograde Shadow|19°34'42.69" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|14°23'52.19" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°46'53.64" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|18°37'18.00" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|1°49'49.01" |Libra|Ghafr|Moon|
 |♀ Venus|Post-Retrograde Shadow|19°34'55.89" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|14°23'56.48" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°0'0.52" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|14°23'52.19" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°46'53.64" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}

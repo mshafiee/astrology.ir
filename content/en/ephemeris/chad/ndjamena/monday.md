@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|18°39'13.49" |Virgo|Simak|Venus|
 |☉ Sun|Direct|1°52'39.81" |Virgo|Sarfrah|Sun|
 |♀ Venus|Post-Retrograde Shadow|19°36'45.56" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|14°27'39.07" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|2°41'58.40" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|14°27'31.37" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|2°35'34.50" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|14°52'29.92" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|18°39'13.49" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|1°52'39.81" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|19°36'45.56" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|14°27'39.07" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°41'58.40" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Post-Retrograde Shadow|19°36'39.53" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|14°27'31.37" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°35'34.50" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나

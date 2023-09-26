@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°4'3.86" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|3°58'1.57" |Virgo|Sarfrah|Sun|
 |♀ Venus|Post-Retrograde Shadow|20°59'56.94" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|17°23'15.55" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|4°38'0.78" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|17°23'9.10" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|5°31'54.60" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Libra|Moon|Venus|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Aquarius|Moon|Venus|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°40'43.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°43'27.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°4'3.86" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°58'1.57" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|20°59'49.16" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|17°23'14.92" |Virgo|Simak|Venus|
-|☾ Moon|Direct|4°54'26.02" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|14°43'27.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°4'2.63" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°57'56.14" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|20°59'40.45" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|17°23'9.10" |Virgo|Simak|Venus|
+|☾ Moon|Direct|5°31'54.60" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Moon|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}

@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°48'16.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°52'35.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°38'45.27" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|1°51'55.46" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|19°36'20.03" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|1°48'15.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|14°52'32.40" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°38'49.59" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|1°52'4.33" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|19°36'22.47" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|14°26'46.83" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|2°17'0.17" |Aquarius|SaadAlSaud|Venus|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: BGF, Bangi, Bangis, Bangui, Mpan'nkoui, ban ji, bang-gi, bangi, bangwyy, Μπανγκουί, Банги, Бангі, בנגואי, بانگوئی, ባንጊ, バンギ, 班基, 방기

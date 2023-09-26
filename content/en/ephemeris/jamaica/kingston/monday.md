@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°47'18.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°51'27.53" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°49'21.95" |Virgo|Simak|Venus|
-|☉ Sun|Direct|2°7'39.83" |Virgo|Sarfrah|Sun|
-|♀ Venus|Post-Retrograde Shadow|19°46'26.77" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|14°47'24.97" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°21'40.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|14°51'27.16" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°49'20.81" |Virgo|Simak|Venus|
+|☉ Sun|Direct|2°7'34.42" |Virgo|Sarfrah|Sun|
+|♀ Venus|Post-Retrograde Shadow|19°46'9.40" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|14°47'18.06" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|7°18'3.47" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Jupiter|Mercury|Mars|Moon|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°47'18.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°51'27.53" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|14°51'27.16" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|18°49'20.81" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|2°7'34.42" |Libra|Ghafr|Moon|
 |♀ Venus|Post-Retrograde Shadow|19°46'9.40" |Leo|Zubrah|Jupiter|

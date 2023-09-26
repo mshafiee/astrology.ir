@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°44'39.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°48'20.85" |Aries|Butain|Sun|
-|♂ Mars|Direct|19°19'4.10" |Virgo|Simak|Venus|
-|☉ Sun|Direct|2°51'34.89" |Virgo|Sarfrah|Sun|
-|♀ Venus|Post-Retrograde Shadow|20°15'14.54" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|15°47'19.00" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|17°14'13.07" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|14°48'21.57" |Aries|Butain|Sun|
+|♂ Mars|Direct|19°19'3.40" |Virgo|Simak|Venus|
+|☉ Sun|Direct|2°51'34.20" |Virgo|Sarfrah|Sun|
+|♀ Venus|Post-Retrograde Shadow|20°15'18.07" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|15°47'19.27" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|17°1'13.43" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Libra|Moon|Venus|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Moon|Sun|Aquarius|Moon|Venus|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Venus|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°44'39.62" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°48'20.85" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°19'4.10" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|2°51'34.89" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|20°15'14.54" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|15°47'19.00" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|14°48'21.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°19'3.40" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|2°51'34.20" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|20°15'18.07" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|15°47'19.27" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|17°1'13.43" |Aquarius|SaadAlAkhbia|Mercury|
 
 

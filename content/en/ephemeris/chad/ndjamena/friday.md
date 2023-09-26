@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°34'23.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°34'51.88" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°18'27.81" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|5°47'55.22" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|22°17'13.03" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|20°13'23.19" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|1°49'23.28" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|14°34'54.85" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°18'23.06" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|5°47'44.82" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|22°17'7.61" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°13'15.85" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|2°57'13.07" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°34'23.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°34'51.88" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°18'27.81" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|5°47'55.22" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|22°17'13.03" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|20°13'23.19" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|1°49'23.28" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|14°34'54.85" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°18'23.06" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|5°47'44.82" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|22°17'7.61" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|20°13'15.85" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°57'13.07" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mars|Moon|Taurus|Sun|Moon|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나

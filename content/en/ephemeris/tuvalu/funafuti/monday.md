@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°49'52.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°54'19.90" |Aries|Butain|Sun|
-|♂ Mars|Direct|18°21'5.14" |Virgo|Simak|Venus|
-|☉ Sun|Direct|1°25'49.17" |Virgo|Sarfrah|Sun|
-|♀ Venus|Post-Retrograde Shadow|19°19'36.36" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|13°53'13.17" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|14°54'19.62" |Aries|Butain|Sun|
+|♂ Mars|Direct|18°21'3.19" |Virgo|Simak|Venus|
+|☉ Sun|Direct|1°25'40.89" |Virgo|Sarfrah|Sun|
+|♀ Venus|Post-Retrograde Shadow|19°19'11.91" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|13°53'2.86" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|27°27'20.11" |Sagittarius|Baldah|Saturn|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°49'52.40" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°54'19.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|18°21'5.14" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|1°25'49.17" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|19°19'36.36" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|13°53'13.17" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|26°14'38.31" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Retrograde|14°54'19.62" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|18°21'3.19" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|1°25'40.89" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|19°19'11.91" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|13°53'2.86" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|27°27'20.11" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Libra|Sun|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Moon|Mercury|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
