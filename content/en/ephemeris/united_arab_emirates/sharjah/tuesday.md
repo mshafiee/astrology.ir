@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°44'52.51" |Virgo|Sarfrah|Sun|
 |♀ Venus|Post-Retrograde Shadow|20°10'48.33" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|15°37'58.78" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|15°32'59.27" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|15°33'3.68" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

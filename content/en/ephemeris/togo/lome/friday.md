@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°34'15.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°34'44.02" |Aries|Butain|Sun|
-|♂ Mars|Direct|21°19'51.57" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|5°49'50.98" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|22°18'23.84" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|20°16'42.00" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|4°23'9.17" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|14°34'41.15" |Aries|Butain|Sun|
+|♂ Mars|Direct|21°19'57.94" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|5°50'8.12" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|22°18'48.50" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°16'56.78" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|2°24'37.55" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Moon|Venus|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Saturn|Venus|Aries|Moon|Venus|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°34'15.92" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°34'44.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|21°19'51.57" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|5°49'50.98" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|22°18'23.84" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|20°16'42.00" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°23'9.17" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|14°34'41.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|21°19'57.94" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|5°50'8.12" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|22°18'48.50" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|20°16'56.78" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°24'37.55" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mars|Moon|Taurus|Sun|Moon|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

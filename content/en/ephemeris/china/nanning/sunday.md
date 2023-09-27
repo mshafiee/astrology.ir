@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°28'44.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°26'21.32" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°27'57.49" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|7°30'17.22" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|23°32'10.93" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|1°28'42.44" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|14°26'18.56" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°28'3.56" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|7°30'33.73" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|23°32'34.73" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|23°2'12.34" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|29°12'20.38" |Pisces|Rescha|Mars|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°28'42.44" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°26'21.32" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°27'57.49" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|7°30'17.22" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|23°32'10.93" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|23°2'12.34" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|29°12'20.38" |Aries|Thurayya|Venus|
+|♃ Jupiter|Retrograde|14°26'18.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°28'3.56" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|7°30'33.73" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|23°32'34.73" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°2'26.26" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|27°28'12.04" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Capricorn|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Sun|Moon|Gemini|Sun|Moon|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

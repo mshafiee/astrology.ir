@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°42'30.56" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|14°45'43.27" |Aries|Butain|Sun|
-|♂ Mars|Direct|19°43'31.00" |Virgo|Simak|Venus|
-|☉ Sun|Direct|3°27'41.18" |Virgo|Sarfrah|Sun|
-|♀ Venus|Post-Retrograde Shadow|20°39'21.62" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|16°38'43.23" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|26°39'1.46" |Capricorn|SaadAlSaud|Sun|
+|♂ Mars|Direct|19°43'31.32" |Virgo|Simak|Venus|
+|☉ Sun|Direct|3°27'41.79" |Virgo|Sarfrah|Sun|
+|♀ Venus|Post-Retrograde Shadow|20°39'21.52" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|16°38'43.59" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|26°38'47.99" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°42'30.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°45'43.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|19°43'31.32" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|3°27'41.79" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|20°39'21.52" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|16°38'43.59" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|26°38'47.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|14°45'43.59" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|19°43'28.65" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|3°27'32.32" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|20°38'58.62" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|16°38'33.32" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|27°57'4.14" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Saturn|Venus|Aries|Moon|Venus|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
