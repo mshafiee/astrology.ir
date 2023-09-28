@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°37'52.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°39'42.66" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°37'6.50" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|4°46'51.94" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|21°33'43.75" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|18°37'11.97" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|16°48'6.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°39'42.49" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°37'6.70" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|4°46'52.28" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|21°33'50.83" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|18°37'14.26" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|16°29'25.42" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Libra|Moon|Venus|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Sun|Jupiter|Leo|Moon|Mars|
+|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°37'52.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°39'42.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°37'6.50" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|4°46'51.94" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|21°33'51.23" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|18°37'14.13" |Virgo|Simak|Venus|
-|☾ Moon|Direct|16°30'6.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|14°39'42.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°37'6.70" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|4°46'52.28" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|21°33'50.83" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|18°37'14.26" |Virgo|Simak|Venus|
+|☾ Moon|Direct|16°29'25.42" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

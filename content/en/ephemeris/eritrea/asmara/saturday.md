@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|6°42'57.22" |Libra|Ghafr|Moon|
 |♀ Venus|Post-Retrograde Shadow|22°57'14.63" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|21°43'0.76" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|15°53'23.72" |Aries|Butain|Sun|
+|☾ Moon|Direct|15°39'59.66" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

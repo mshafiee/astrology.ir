@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°34'13.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°34'37.03" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|14°34'37.05" |Aries|Butain|Sun|
 |♂ Mars|Direct|21°20'32.48" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|5°50'59.07" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|22°19'25.16" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|20°18'18.69" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|2°37'46.38" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|5°50'59.13" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|22°19'25.51" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°18'18.79" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|2°37'17.17" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|1°34'13.04" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|14°34'37.03" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|21°20'32.48" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|5°50'59.07" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|22°19'25.16" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|20°18'18.69" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°37'46.38" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|5°50'59.13" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|22°19'25.51" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|20°18'18.79" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°37'17.17" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: ABJ, Abican, Abidjan, Abidzan, Abidzana, Abidzanas, Abidzans, Abidzhan, Abidzhan shaary, Abidżan, Abidžan, Abidžana, Abidžanas, Abidžans, Abigano, Abijan, Abiyan, Abiyán, Abizhan khot, Abiĝano, Ampitzan, a bi rang, a bi ren, abdjan, abijan, abijana, abijang, abijani, abydjan, abyjan, xabi can, ʼbydgʼn, Αμπιτζάν, Абиджан, Абиджан шаары, Абижан хот, Абиџан, Абіджан, Աբիջան, אבידגאן, אבידזשאן, آبدجان, آبیجان, أبيدجان, आबिजान, আবিজান, ਅਬੀਜਾਨ, അബിജാൻ, อาบีจาน, აბიჯანი, アビジャン, 阿必仁, 阿比让, 아비장

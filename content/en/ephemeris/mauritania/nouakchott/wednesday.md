@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°40'52.58" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|14°43'39.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°2'10.27" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|3°55'16.75" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|20°58'15.84" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|17°19'9.87" |Virgo|Simak|Venus|
-|☾ Moon|Direct|3°7'35.32" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|20°2'12.03" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|3°55'19.41" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|20°58'11.44" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|17°19'10.69" |Virgo|Simak|Venus|
+|☾ Moon|Direct|3°14'6.98" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub> |<sub> |<sub> |<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub> </sub>|
 
 ---
 Alternate Names: NKC, Naevakjut, Nawakshot, Nawakszut, Nouakchat, Nouakchot, Nouakchott, Nouaksot, Nouaxot, Nuakchot, Nuakshot, Nuaksjott, Nuaksot, Nuaksota, Nuaksotas, Nuaksoto, Nuaksott, Nuakxot, Nuakŝoto, Nuakşot, Nuakšot, Nuakšota, Nuakšotas, Nuakšott, Nwaqcut, Nwaqcuṭ, Nävakjut, Núaksjott, huo suo, navakasuta, nu wa ke xiao te, nu'akacota, nu'oyakasuta, nuagsyoteu, nuakushotto, nuvakcut, nwakshwt, Νουακσότ, Νουαξότ, Нуакшот, Նուակշոտ, נואקשוט, نواكشوط, نواکشوت, نواکشوط, نواکشۆت, نوواکوٹ, नवाकसुत, নুওয়াকশুত, ਨੁਆਕਚੋਤ, நுவாக்சூத், นูแอกชอต, ནའུ་ཀ་ཅོ་ཊི།, ნუაქშოტი, ኑዋክሾት, ヌアクショット, 努瓦克肖特, 或索, 누악쇼트

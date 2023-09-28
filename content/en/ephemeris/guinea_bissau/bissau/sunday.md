@@ -301,8 +301,8 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°27'36.97" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|14°24'35.51" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°41'43.85" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|7°50'42.52" |Virgo|Awwa|Sun|
+|♂ Mars|Direct|22°41'45.54" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|7°50'45.16" |Virgo|Awwa|Sun|
 |♀ Venus|Post-Retrograde Shadow|23°47'49.51" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|23°36'34.01" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|2°58'8.42" |Aries|Sharatain|Mars|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°41'45.54" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|7°50'45.16" |Libra|Ghafr|Moon|
 |♀ Venus|Post-Retrograde Shadow|23°47'45.30" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|23°36'34.01" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°58'8.42" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|23°36'35.01" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°26'6.98" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Capricorn|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Sun|Sun|Gemini|Sun|Moon|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: Bisao, Bisau, Bisau - Bissau, Bisauo, Bisava, Bisaŭo, Biso, Bissa, Bissao, Bissau, Bissá, Bisáu, Mpissaou, OXB, Sao Jose de Bissau, São José de Bissáu, Wisaw, bi shao, bis sea, bis'sa'u, bisa'u, bisau, bsaw, bysaw, bysayw, picavu, Μπισσάου, Бисао, Бисау, Бісау, Բիսաու, ביסאו, بساؤ, بيساو, بیسائو, بیساو, बिसाउ, বিসাউ, বিস্সাউ, ਬਿਸਾਊ, பிசாவு, บิสเซา, བི་སའོ།, ბისაუ, ቢሳው, ビサウ, 比紹, 比绍, 비사우

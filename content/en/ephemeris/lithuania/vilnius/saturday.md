@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|14°30'7.49" |Aries|Butain|Sun|
 |♂ Mars|Direct|21°57'31.89" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|6°45'32.54" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|22°59'10.65" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|21°47'18.75" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|16°28'37.98" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|22°59'8.05" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|21°47'18.30" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|16°27'18.93" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
