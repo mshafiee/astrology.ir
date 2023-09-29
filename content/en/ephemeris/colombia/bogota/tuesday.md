@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°20'56.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°13'10.54" |Aries|Butain|Sun|
-|♂ Mars|Direct|24°8'14.78" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°58'1.21" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|25°25'49.55" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°16'56.93" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°36'45.48" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|14°13'7.92" |Aries|Butain|Sun|
+|♂ Mars|Direct|24°8'20.18" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°58'15.66" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|25°26'8.54" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°17'8.51" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°37'36.82" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|14°13'7.92" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|24°8'20.18" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|9°58'15.66" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|25°25'49.55" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°16'56.93" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°36'45.48" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|25°26'8.54" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|27°17'8.51" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°37'36.82" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Capricorn|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Moon|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BOG, Bagata, Bogot, Bogota, Bogoto, Bogotà, Bogotá, Boqota, Buoguota, Bógóta, Mponkota, Santa-Fe-de-Bogota, Santafe de Bogota, Santafe de Bogotá, Santafé de Bogotá, Wukuta, beageatta, bo ge da, bogota, bokota, bwghwta, bwgwta, bwgwth, bwjwta, pokotta, Μπογκοτά, Багата, Богота, Боґота, Санта-Фе-де-Богота, Բոգոտա, באגאטא, בוגוטה, بوجوتا, بوغوتا, بوگوتا, بگوٹا, بۆگۆتا, बोगोटा, बोगोता, বোগোতা, ਬੋਗੋਤਾ, ବୋଗୋଟା, பொகோட்டா, ಬೊಗೋಟ, ബൊഗോട്ട, โบโกตา, པོ་གོ་ཏ, ဘိုဂိုတာမြို့, ბოგოტა, ቦጎታ, ទីក្រុងបូកូតា, ボゴタ, 波哥大, 보고타

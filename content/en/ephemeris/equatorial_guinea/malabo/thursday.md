@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°37'41.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°39'27.83" |Aries|Butain|Sun|
-|♂ Mars|Direct|20°39'14.77" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|4°50'1.94" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|21°36'5.45" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|18°42'6.97" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|17°10'4.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|14°39'30.72" |Aries|Butain|Sun|
+|♂ Mars|Direct|20°39'10.39" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|4°49'52.92" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|21°36'3.71" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|18°42'1.08" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|17°51'3.24" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Libra|Moon|Venus|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Saturn|Mercury|Pisces|Moon|Venus|
-|☾ Moon|Venus|Jupiter|Leo|Moon|Mars|
+|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°37'41.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°39'27.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|20°39'14.77" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|4°50'1.94" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|21°36'5.45" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|18°42'6.97" |Virgo|Simak|Venus|
+|♃ Jupiter|Retrograde|14°39'30.72" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|20°39'10.39" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|4°49'52.92" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|21°36'3.71" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|18°42'1.08" |Virgo|Simak|Venus|
 |☾ Moon|Direct|17°51'3.24" |Pisces|Rescha|Jupiter|
 
 
