@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°20'51.38" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|14°12'59.23" |Aries|Butain|Sun|
-|♂ Mars|Direct|24°9'23.36" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°59'48.85" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|25°27'22.27" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°19'51.79" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°57'10.08" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|24°9'20.62" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°59'39.48" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|25°27'1.42" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°19'43.18" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|3°2'29.87" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|24°9'23.36" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|9°59'48.85" |Libra|Ghafr|Moon|
 |♀ Venus|Post-Retrograde Shadow|25°27'22.27" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°19'51.79" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°57'10.08" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|27°19'43.18" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°2'29.87" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: A Habana, Abana, Gavana, Gavanae, Gavane, HAV, Habana, Hafana, Hahvaxnaz, Havan, Havana, Havanna, Havano, Hawana, Khavana, L'Avana, LAvan-a, LAvana, LAvann-a, LHabana, LHavana, La Ahuana, La Avan, La Avàn, La Habana, La Havana, La Havane, abana, avana, ha wa na, habana, habhana, hafana, havana, hawana, xia wan na, Ħavana, ŁAvana, Αβάνα, Гaванa, Гаванæ, Гавана, Гаване, Хавана, Ҳавана, Հավանա, האוואנע, הוואנה, هافانا, هاوانا, ہوانا, हवाना, হাভানা, ਹਵਾਨਾ, ହାଭାନା, அவானா, ഹവാന, ฮาวานา, ཧ་ཝན, ဟာဗားနားမြို့, ჰავანა, ሀቫና, ሀኖይ, ハバナ, 哈瓦那, 夏灣拿, 아바나

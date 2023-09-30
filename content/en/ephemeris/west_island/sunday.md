@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°28'37.44" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°26'10.76" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°29'7.18" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|7°32'6.81" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|23°33'43.45" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|23°5'4.51" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|28°1'52.92" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|14°26'10.51" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°29'7.41" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|7°32'6.97" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|23°33'41.89" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|23°5'4.37" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|27°58'0.05" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mercury|Jupiter|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Mercury|Jupiter|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°28'37.44" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°26'10.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|22°29'7.18" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|7°32'6.81" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|23°33'43.45" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|23°5'4.51" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|14°26'10.51" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|22°29'7.41" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|7°32'6.97" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|23°33'41.89" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°5'4.37" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|28°1'52.92" |Aries|Thurayya|Venus|
 
 

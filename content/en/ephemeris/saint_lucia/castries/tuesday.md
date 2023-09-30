@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°21'2.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°13'19.36" |Aries|Butain|Sun|
-|♂ Mars|Direct|24°6'55.87" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°56'11.38" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|25°24'30.14" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°13'30.44" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°9'27.13" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|14°13'19.33" |Aries|Butain|Sun|
+|♂ Mars|Direct|24°6'56.06" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°56'12.00" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|25°24'31.30" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°13'30.99" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°7'57.87" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°21'2.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°13'19.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°6'56.06" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|9°56'12.00" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|25°24'31.30" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Retrograde|14°13'19.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°6'55.87" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|9°56'11.38" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|25°24'30.14" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|27°13'30.44" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|2°9'27.13" |Gemini|HaqAh|Jupiter|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Castries, Kastri, Kastrijs, Kastris, Kastrizo, Kastry, Kastrys, Port Castries, ka si te li, kaeseuteuliseu, kasatarisa, kastris, kastrys, kasutorizu, kestrijha, qstryz, Κάστρις, Кастри, Кастрийс, Кастрис, Кастры, Кастрі, קסטריז, كاستريس, کاستریس, कॅस्ट्रीझ, ਕਾਸਤਰੀਸ, காஸ்ட்ரீஸ், แคสตรีส์, ཁ་སི་ཐྲིས།, კასტრი, ካስትሪስ, カストリーズ, 卡斯特里, 캐스트리스
