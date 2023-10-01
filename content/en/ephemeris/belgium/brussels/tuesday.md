@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|24°0'1.01" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|9°46'0.63" |Virgo|Awwa|Sun|
 |♀ Venus|Post-Retrograde Shadow|25°16'29.93" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|26°55'39.37" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|29°51'27.40" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|26°55'35.02" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°4'5.69" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mercury|Jupiter|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |♀ Venus|Venus|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Mars|Jupiter|Gemini|Moon|Venus|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,20 +338,20 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°21'33.77" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°14'15.77" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°0'1.01" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|9°46'0.63" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|25°16'31.19" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|26°55'35.61" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|0°54'13.61" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|1°21'34.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|14°14'18.45" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|23°59'57.32" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|9°45'53.40" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|25°16'31.35" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|26°55'35.02" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|1°4'5.69" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Jupiter|Mercury|Mercury|Mercury|
-|♂ Mars|Venus|Mars|Mercury|Sun|
+|♂ Mars|Venus|Mercury|Mercury|Sun|
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Mars|Venus|Moon|

@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|24°37'38.94" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|10°41'23.35" |Virgo|Awwa|Venus|
 |♀ Venus|Post-Retrograde Shadow|26°0'21.82" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|28°33'7.96" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|13°38'32.99" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|28°33'12.75" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|12°26'6.96" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|14°9'5.82" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|24°37'38.94" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|10°41'23.35" |Libra|Ghafr|Saturn|
-|♀ Venus|Post-Retrograde Shadow|26°0'22.74" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|28°33'7.96" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|13°38'32.99" |Gemini|HanAh|Mars|
+|♀ Venus|Post-Retrograde Shadow|26°0'21.82" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|28°33'12.75" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|12°26'6.96" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Saturn|Mars|Venus|Moon|
-|☾ Moon|Venus|Venus|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Mars|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Mercury|Leo|Sun|Moon|
-|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}

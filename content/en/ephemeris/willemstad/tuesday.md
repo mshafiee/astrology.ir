@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°20'58.53" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|14°13'12.25" |Aries|Butain|Sun|
 |♂ Mars|Direct|24°7'48.09" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°57'22.66" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|25°25'15.41" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°15'39.66" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°18'4.98" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|9°57'28.56" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|25°25'31.60" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°15'45.50" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°25'44.39" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°20'58.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°13'12.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°7'48.09" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|9°57'28.56" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|14°13'12.27" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°7'46.64" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|9°57'22.66" |Libra|Ghafr|Moon|
 |♀ Venus|Post-Retrograde Shadow|25°25'15.41" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|27°15'39.66" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|2°18'4.98" |Gemini|HaqAh|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Vilemstad, Vilemstadas, Vilemstade, Vilemstado, Villemstad, Villemstant, Villemştad, Willemstad, Willemsted, Willemstêd, billemseutateu, u~iremusutatto, vilemastada, villemstatu, wei lian si ta de, willems tad, wylmstad, Βίλλεμσταντ, Вилемстад, Виллемстад, Вілемстад, Віллемстад, וילמסטאד, ويلمستاد, ویلمستاد, ویلمسٹیڈ, विलेमश्टाड, வில்லெம்ஸ்டாடு, วิลเลมสตัด, ვილემსტადი, ウィレムスタット, 威廉斯塔德, 빌렘스타트
