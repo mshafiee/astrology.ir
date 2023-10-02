@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'15.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°0'11.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°40'23.26" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|12°13'38.62" |Libra|Ghafr|Saturn|
-|♀ Venus|Post-Retrograde Shadow|27°15'5.69" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°17'27.93" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°36'58.95" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|14°0'13.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°40'20.29" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|12°13'31.17" |Libra|Ghafr|Saturn|
+|♀ Venus|Post-Retrograde Shadow|27°14'58.82" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°17'22.42" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°59'5.56" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

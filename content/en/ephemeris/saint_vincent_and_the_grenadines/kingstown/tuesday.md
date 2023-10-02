@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|14°13'19.19" |Aries|Butain|Sun|
 |♂ Mars|Direct|24°6'57.08" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|9°56'13.49" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|25°24'22.33" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°13'31.18" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|1°45'56.52" |Taurus|Thurayya|Mercury|
+|♀ Venus|Post-Retrograde Shadow|25°24'32.47" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°13'33.64" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°8'24.45" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°21'2.36" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°13'18.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°6'57.10" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|9°56'11.71" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|25°24'22.33" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°13'31.18" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|1°45'56.52" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|14°13'19.19" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°6'57.08" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|9°56'13.49" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|25°24'32.47" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|27°13'33.64" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°8'24.45" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Kin'nkstaoun, Kingstaun, Kingstauna, Kingstaunas, Kingstauno, Kingstaŭno, Kingstown, Kinqstaun, SVD, jin si dui, khing s thawn, kigasata'una, kincutavun, kingsata'una, kingseutaun, kingusutaun, kynghstawn, kyngztawn, Κίνγκσταουν, Κινγκστάουν, Кингстаун, Киҥстаун, Кінгстаун, Кінгстаўн, קינגסטאון, كينغستاون, کنگز ٹاؤن, کینگزتاون, किंग्सटाउन, ਕਿੰਗਸਟਾਊਨ, கிங்சுடவுன், คิงส์ทาวน์, ཁིན་སི་ཐོན།, კინგსტაუნი, ኪንግስታውን, キングスタウン, 金斯敦, 킹스타운

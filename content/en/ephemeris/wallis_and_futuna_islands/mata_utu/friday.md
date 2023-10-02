@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°39'50.45" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|12°12'50.60" |Virgo|Awwa|Venus|
 |♀ Venus|Post-Retrograde Shadow|27°14'26.49" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|1°15'52.45" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°12'22.65" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|1°16'1.58" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°26'7.13" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|14°0'16.30" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|25°39'50.45" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|12°12'50.60" |Libra|Ghafr|Saturn|
-|♀ Venus|Post-Retrograde Shadow|27°14'26.49" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°16'1.58" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°26'7.13" |Cancer|Nathrah|Venus|
+|♀ Venus|Post-Retrograde Shadow|27°14'16.86" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°15'52.45" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°12'22.65" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

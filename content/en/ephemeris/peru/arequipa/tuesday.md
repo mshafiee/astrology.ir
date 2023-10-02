@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°20'58.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°13'15.22" |Aries|Butain|Sun|
-|♂ Mars|Direct|24°7'46.59" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°57'20.03" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|25°25'22.55" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°15'46.48" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|3°55'26.08" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|14°13'12.03" |Aries|Butain|Sun|
+|♂ Mars|Direct|24°7'52.37" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°57'34.33" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|25°25'36.46" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°15'57.29" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°38'7.06" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°20'58.33" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°13'15.22" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°7'46.59" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|9°57'20.03" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|25°25'22.55" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°15'46.48" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°55'26.08" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|14°13'11.94" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°7'52.37" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|9°57'34.05" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|25°25'34.92" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|27°15'56.91" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°34'43.48" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Capricorn|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Moon|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: AQP, Arecipa, Arehkipa, Arekip, Arekipa, Arekipo, Arequipa, Arikipa, Ariqipa, a lei ji pa, alekipa, arekipa, arekkippa, arkypa, arykyba, arykypa, xareki pa, Αρεκίπα, Арекипа, Арекіпа, Арэкіпа, ארקיפה, أريكيبا, ارکیپا, اریکیپا, अरेकिपा, அரேக்கிப்பா, อาเรกีปา, არეკიპა, アレキパ, 阿雷基帕, 아레키파

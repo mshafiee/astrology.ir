@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°21'2.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°13'19.87" |Aries|Butain|Sun|
-|♂ Mars|Direct|24°6'54.80" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°56'9.33" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|25°24'28.68" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°13'28.34" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°18'21.29" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|14°13'19.80" |Aries|Butain|Sun|
+|♂ Mars|Direct|24°6'54.85" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°56'9.34" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|25°24'28.12" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°13'28.28" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°16'4.20" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°21'2.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°13'19.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°6'54.80" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|9°56'9.33" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|25°24'28.68" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°13'28.34" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°18'21.29" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|14°13'19.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°6'54.85" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|9°56'9.34" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|25°24'28.12" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|27°13'28.28" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°16'4.20" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Ciudad Santa Cruz, Ciudad de Santa Cruz de la Sierra, SRZ, Santa Cruz, Santa Cruz da Serra, Santa Cruz de la Sierra, Santa-Krus-de-la-Sierra, santakurusu, Санта-Крус-де-ла-Сиерра, سانتا کروز دلاسیه‌را, サンタクルス

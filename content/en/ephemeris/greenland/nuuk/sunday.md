@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°27'15.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°23'59.45" |Aries|Butain|Sun|
-|♂ Mars|Direct|22°46'17.36" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|7°57'24.81" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|23°52'45.87" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|23°47'55.80" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|4°16'3.04" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|14°23'58.89" |Aries|Butain|Sun|
+|♂ Mars|Direct|22°46'17.04" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|7°57'21.78" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|23°52'32.69" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|23°47'51.94" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|4°15'47.28" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub> </sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크
