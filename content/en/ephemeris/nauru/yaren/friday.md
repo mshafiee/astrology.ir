@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°41'51.60" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|12°15'49.10" |Virgo|Awwa|Venus|
 |♀ Venus|Post-Retrograde Shadow|27°16'53.50" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|1°21'19.88" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°3'2.63" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|1°21'16.28" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°58'49.44" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,18 +339,18 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'8.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°59'58.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°41'51.60" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|12°15'49.10" |Libra|Ghafr|Saturn|
-|♀ Venus|Post-Retrograde Shadow|27°16'53.50" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°21'19.88" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°3'2.63" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|14°0'0.88" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°41'48.49" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|12°15'43.05" |Libra|Ghafr|Saturn|
+|♀ Venus|Post-Retrograde Shadow|27°16'55.79" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°21'16.28" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°58'49.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
-|♃ Jupiter|Mercury|Mercury|Mercury|Mercury|
+|♃ Jupiter|Jupiter|Mercury|Mercury|Mercury|
 |♂ Mars|Venus|Mars|Mercury|Sun|
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

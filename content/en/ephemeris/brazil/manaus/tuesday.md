@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°21'3.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°13'21.46" |Aries|Butain|Sun|
-|♂ Mars|Direct|24°6'41.32" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°55'49.96" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|25°24'13.53" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°12'53.07" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°6'20.25" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|14°13'21.02" |Aries|Butain|Sun|
+|♂ Mars|Direct|24°6'41.45" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°55'49.13" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|25°24'7.46" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°12'51.75" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|1°50'36.46" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Barra do Rio Negro, MAO, Manaos, Manaus, Manos, Manáos, ma nao si, manausu, Манаус, Манаўс, מנאוס, マナウス, 马瑙斯

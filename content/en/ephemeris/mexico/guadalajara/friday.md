@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°12'1.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°55'31.04" |Aries|Butain|Sun|
-|♂ Mars|Direct|26°12'18.37" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|13°0'33.75" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|27°53'51.80" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|2°41'28.91" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|12°26'51.98" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|1°12'1.85" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|13°55'31.15" |Aries|Butain|Sun|
+|♂ Mars|Direct|26°12'18.29" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|13°0'33.76" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|27°53'52.79" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|2°41'29.02" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|12°31'47.72" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°12'1.85" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°55'31.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°12'18.29" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|13°0'33.76" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|27°53'52.79" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Retrograde|13°55'31.04" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°12'18.37" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|13°0'33.75" |Libra|Jubana|Saturn|
+|♀ Venus|Post-Retrograde Shadow|27°53'51.80" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|2°41'28.91" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|12°26'51.98" |Cancer|Nathrah|Mercury|
 

@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°20'51.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°12'59.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°9'21.50" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|9°59'42.00" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|25°27'5.41" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°19'45.28" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°54'58.50" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|14°12'59.23" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°9'23.36" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|9°59'48.85" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|25°27'22.27" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|27°19'51.79" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°57'10.08" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: A Habana, Abana, Gavana, Gavanae, Gavane, HAV, Habana, Hafana, Hahvaxnaz, Havan, Havana, Havanna, Havano, Hawana, Khavana, L'Avana, LAvan-a, LAvana, LAvann-a, LHabana, LHavana, La Ahuana, La Avan, La Avàn, La Habana, La Havana, La Havane, abana, avana, ha wa na, habana, habhana, hafana, havana, hawana, xia wan na, Ħavana, ŁAvana, Αβάνα, Гaванa, Гаванæ, Гавана, Гаване, Хавана, Ҳавана, Հավանա, האוואנע, הוואנה, هافانا, هاوانا, ہوانا, हवाना, হাভানা, ਹਵਾਨਾ, ହାଭାନା, அவானா, ഹവാന, ฮาวานา, ཧ་ཝན, ဟာဗားနားမြို့, ჰავანა, ሀቫና, ሀኖይ, ハバナ, 哈瓦那, 夏灣拿, 아바나
