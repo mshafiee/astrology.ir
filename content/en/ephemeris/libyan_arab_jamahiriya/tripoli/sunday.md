@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°7'30.28" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°45'19.09" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°20'1.22" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°39'59.98" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|29°17'38.87" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°40'7.80" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°7'53.81" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°39'58.97" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|29°17'38.78" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°40'7.35" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°10'15.06" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|1°7'30.28" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|13°45'19.09" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|27°20'1.22" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°39'59.98" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|29°17'38.87" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°40'7.80" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°7'53.81" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|14°39'59.31" |Libra|Jubana|Saturn|
+|♀ Venus|Post-Retrograde Shadow|29°17'38.78" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°40'7.35" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°10'15.06" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Aea, Ea, Oea, TIP, Tarables, Tarabulus, Tarabulus al Gharb, Tarabulus el Gharb, Taràbles, Trables, Trablus, Trablûs, Triboli, Tripili, Tripilí, Tripol, Tripole, Tripoli, Tripolis, Tripolo, Tripoly, Tripołi, Tripul, Tripuli, Trypali, Trypolis, Trìpoli, Trìpuli, Trípol, Trípoli, Trípólí, de li bo li, tarabalasa, tarabulasa, tarabulus, teulipolli, tirippoli, toripori, trabls, trabls  lybya, tripoli, trippeali, trypwly, Ţarābulus, Ţarābulus al Gharb, Τρίπολη, Триполи, Триполі, Трыпалі, Տրիպոլի, טריפאלי, טריפולי, ترابلس, ترىپولى, تەرابلوس, طرابلس, طرابلس، لیبیا, طَرَابُلُس, ताराबूलस, त्रिपोली, ত্রিপোলি, ਤਰਾਬਲਸ, திரிப்பொலி, ട്രിപ്പോളി, ตริโปลี, ཐི་རི་ཕོ་ལི, ტრიპოლი, ትሪፖሊ, Ṭrables, トリポリ, 的黎波里, 트리폴리

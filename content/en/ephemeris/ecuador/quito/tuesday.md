@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°20'54.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°13'4.22" |Aries|Butain|Sun|
-|♂ Mars|Direct|24°8'47.65" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°58'55.98" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|25°26'40.18" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°18'19.60" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°47'57.13" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|14°13'4.52" |Aries|Butain|Sun|
+|♂ Mars|Direct|24°8'45.45" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°58'47.79" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|25°26'19.86" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°18'11.77" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|2°44'58.46" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

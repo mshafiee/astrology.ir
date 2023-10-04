@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'14.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°0'14.70" |Aries|Butain|Sun|
-|♂ Mars|Direct|25°40'18.60" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|12°13'26.25" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|27°14'54.71" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|1°17'20.31" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°19'18.04" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|14°0'11.30" |Aries|Butain|Sun|
+|♂ Mars|Direct|25°40'24.54" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|12°13'40.89" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|27°15'7.95" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|1°17'31.11" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°36'20.43" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'14.85" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°0'11.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°40'18.60" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|12°13'26.25" |Libra|Ghafr|Saturn|
-|♀ Venus|Post-Retrograde Shadow|27°14'54.71" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°17'20.31" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°19'18.04" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|14°0'11.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°40'22.43" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|12°13'32.84" |Libra|Ghafr|Saturn|
+|♀ Venus|Post-Retrograde Shadow|27°14'47.62" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°17'23.73" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|1°57'36.41" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

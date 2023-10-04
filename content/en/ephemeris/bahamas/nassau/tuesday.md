@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°20'53.84" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°13'3.69" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°8'50.60" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|9°59'0.63" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|25°26'44.24" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°18'27.08" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°46'9.21" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|14°13'4.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°8'47.47" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|9°58'50.60" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|25°26'24.07" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|27°18'18.12" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°0'26.14" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: City of Nassau, NAS, Nasau, Nasauo, Nasaŭo, Naso, Nassaou, Nassau, Nassau City, Nassau pa Bahamas, Nassau på Bahamas, Nasáu, na sao, nasa'u, nasau, nasaw, nasayw, nasea, naso, nasso, neco, nsaw, Νασσάου, Насау, Нассау, Նասաու, נסאו, ناسائو, ناساو, نساؤ, नासाउ, নাসাউ, ਨਸਾਊ, நேசோ, നാസോ, แนสซอ, ན་སའོ།, ნასაუ, ናሶ, ナッソー, 拿騷, 拿骚, 나사우, 나소

@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°21'0.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|14°13'15.74" |Aries|Butain|Sun|
-|♂ Mars|Direct|24°7'22.27" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|9°56'50.61" |Virgo|Awwa|Sun|
-|♀ Venus|Post-Retrograde Shadow|25°25'1.76" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|27°14'38.72" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Retrograde|14°13'15.46" |Aries|Butain|Sun|
+|♂ Mars|Direct|24°7'22.20" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|9°56'49.45" |Virgo|Awwa|Sun|
+|♀ Venus|Post-Retrograde Shadow|25°24'55.93" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|27°14'37.23" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|2°4'32.93" |Taurus|Thurayya|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

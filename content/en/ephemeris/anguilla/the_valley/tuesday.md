@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°21'1.26" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|14°13'17.18" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°7'11.71" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|9°56'35.07" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|25°24'49.52" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°14'11.44" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°12'55.33" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|24°7'10.13" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|9°56'28.16" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|25°24'28.79" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|27°14'4.37" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|1°57'2.56" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: De Balei, El Valle, La-Valo, The Valley, Vali, Valis, Valley, Valli, bare, d wly, deobaelli, dy wyly, hwwʼly, ti velli, vali, wa li, Δε Βάλεϊ, Вали, Валли, Валлі, Валі, הוואלי, د ولی, دی ویلی, தி வேல்லி, เดอะแวลลีย์, ვალი, バレー, 瓦利, 더밸리

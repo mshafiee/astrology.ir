@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'39.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°45'41.65" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°17'37.29" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°36'27.47" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|29°14'36.61" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°33'48.82" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|2°19'23.61" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|13°45'41.64" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°17'37.31" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|14°36'27.52" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|29°14'36.66" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°33'48.86" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°19'25.63" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'39.82" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'41.65" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°17'37.29" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°36'27.47" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|29°14'36.61" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°33'48.82" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|13°45'41.64" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°17'37.31" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°36'27.52" |Libra|Jubana|Saturn|
+|♀ Venus|Post-Retrograde Shadow|29°14'36.66" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°33'48.86" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|2°19'23.61" |Leo|Jabhah|Saturn|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: EGoli, Giochanesmpournk, IGoli, IJohannesburg, Ioannesburgum, JNB, Jo'anna, Joanesburgo, Joburg, Jog'annesburg, Joganesburg, Jogannesburg, Johanesburgas, Johanesburgo, Johannesarborg, Johannesbourg, Johannesburg, Johannesburga, Johannesburgo, Johannesburgu, Jokhanesburg, Jokhanezburg, Jokhannesburg, J·ohanesbôrg, Jóhannesarborg, Xohanesburgo, Yohannesburg, Yohannesburq, Yohannésburg, Yok-hon-ni-su-pau, Yok-hon-nì-sṳ̂-páu, Yoxannesburg, cohannes beirk, iohanesburgi, johanisabaraga, johannesbarga, johansabarga, jokanasperk, jwhansbrgh, yohaneseubeogeu, yohanesuburugu, yue han nei si bao, yue han ni si bao, ywhnsbwrg, zhwhansbwrg, Γιοχάνεσμπουργκ, Ёганесбург, Јоханезбург, Јоханесбург, Йоганнесбург, Йогьаннесбург, Йоханесбург, Йоханнесбург, Յոհաննեսբուրգ, יאהאנעסבורג, יוהנסבורג, جوهانسبرغ, جوہانسبرگ, جۆھانسبێرگ, ژوهانسبورگ, یوہانس برگ, जोहन्नेस्बर्ग, जोहान्सबर्ग, ਜੋਹਾਨਿਸਬਰਗ, ஜோகானஸ்பேர்க், ജൊഹാനസ്‌ബർഗ്, โจฮันเนสเบิร์ก, ဂျိုဟန္နက်စဗတ်မြို့, იოჰანესბურგი, ጆሃንስበርግ, ヨハネスブルグ, 約翰尼斯堡, 约翰内斯堡, 요하네스버그

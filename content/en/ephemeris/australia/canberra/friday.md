@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'2.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°59'47.16" |Aries|Butain|Sun|
-|♂ Mars|Direct|25°43'23.00" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|12°17'59.70" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|27°18'41.76" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|1°25'23.96" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|4°9'47.26" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|13°59'45.45" |Aries|Butain|Sun|
+|♂ Mars|Direct|25°43'25.77" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|12°18'5.98" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|27°18'44.40" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|1°25'28.27" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°36'22.34" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: CBR, Camberra, Canberra, Canberrah, Kamberra, Kambra, Kampera, Kanapera, Kanbera, Kanbero, Kanberr, Kanberra, Kanberrae, Kanberre, Kanbérra, Kham-phi-la, Khâm-phì-là, Kānapera, kaenbeola, kainabara, kainberra, kan pei la, kanabera, kanbra, kanpara, kenabera, kyanabara, kyanabera, kyanbera, kynbra, kʼanbera, qnbrh, Καμπέρα, Канбера, Канберрæ, Канберра, Канберре, Канбєра, Կանբերրա, קאנבערא, קנברה, كانبرا, کانبرا, کانبێرا, کینبرا, कॅनबेरा, कैनबरा, कैन्बेर्रा, क्यानबरा, ক্যানবেরা, ਕੈਨਬਰਾ, କାନବେରା, கான்பரா, കാൻബറ, කැන්බරා, แคนเบอร์รา, ཁན་པེ་ར།, კანბერა, ካንበራ, キャンベラ, 坎培拉, 堪培拉, 캔버라

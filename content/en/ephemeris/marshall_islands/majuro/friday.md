@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|14°0'2.22" |Aries|Butain|Sun|
 |♂ Mars|Direct|25°41'26.20" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|12°15'11.93" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|27°16'23.14" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|1°20'12.99" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|2°54'35.55" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Post-Retrograde Shadow|27°16'10.58" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|1°20'3.51" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°26'30.19" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|25°41'26.20" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|12°15'11.93" |Libra|Ghafr|Saturn|
 |♀ Venus|Post-Retrograde Shadow|27°16'23.14" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°20'12.99" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°25'22.27" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|1°20'3.51" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°26'30.19" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

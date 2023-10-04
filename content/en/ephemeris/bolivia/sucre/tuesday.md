@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|9°56'30.33" |Virgo|Awwa|Sun|
 |♀ Venus|Post-Retrograde Shadow|25°24'44.55" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|27°14'5.25" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|2°21'15.94" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°2'47.61" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|1°21'1.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°13'17.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|24°7'9.15" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|9°56'30.33" |Libra|Ghafr|Moon|
-|♀ Venus|Post-Retrograde Shadow|25°24'44.55" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|27°14'5.25" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°21'15.94" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|1°21'2.27" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|14°13'17.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|24°7'8.83" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|9°56'27.44" |Libra|Ghafr|Moon|
+|♀ Venus|Post-Retrograde Shadow|25°24'32.67" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|27°14'1.86" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°2'47.61" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub>□ Sqr|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Chuqichaka, Ciudad Sucre, Ijoloti Sukre, SRE, Sik, Soukre, Sucre, Sucre toertenelmi ovarosa, Sucre történelmi óvárosa, Sukre, Sukreh, Sukri, Sukro, Sukrė, Súkre, su ke lei, su ker, sukare, sukeule, sukre, sukure, swkrh, swkry, swqrh, Σούκρε, Иёлоти Сукре, Сукре, Сукрэ, Սուկրե, סוקרה, سوكري, سوکره, سکرے, سۇكرې, सुक्रे, ਸੂਕਰੇ, ซูเกร, སུ་ཁུ་རེ།, სუკრე, スクレ, 苏克雷, 蘇克雷, 수크레
