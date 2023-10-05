@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|14°36'36.60" |Virgo|Awwa|Venus|
 |♀ Venus|Post-Retrograde Shadow|29°14'45.19" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|5°34'3.01" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|1°27'3.37" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°24'52.65" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'39.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'40.13" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°17'42.11" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°36'32.20" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|29°14'29.39" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°33'58.74" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|1°27'3.37" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'40.47" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°17'42.87" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°36'36.60" |Libra|Jubana|Saturn|
+|♀ Venus|Post-Retrograde Shadow|29°14'45.19" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°34'3.01" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°24'52.65" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: GID, Gitega, Gitege, Kitega, Гитеге

@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'21.99" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°44'59.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°22'8.96" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°43'6.55" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|29°20'13.61" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°45'43.76" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°24'38.91" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°44'59.48" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°22'8.91" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°43'7.35" |Libra|Jubana|Saturn|
+|♀ Venus|Post-Retrograde Shadow|29°20'18.72" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°45'44.73" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°46'0.80" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Calpe, Cebelitarik, Cebelitarık, Djibraltar, GIB, Gibbilterra, Gibilterra, Gibraltar, Gibraltaras, Gibraltaro, Gibraltár, Gíbraltar, Kamaka, Xibraltar, Xibraltar - Gibraltar, gybrltr, jbl tarq, jibeulolteo, jiburarutaru, mhmyt jbl tarq, zhi bu luo tuo, Ĝibraltaro, Γιβραλτάρ, Гибралтар, Ґібралтар, גיברלטר, جبل طارق, جبل‌الطارق, محمية جبل طارق, ジブラルタル, 直布罗陀, 지브롤터

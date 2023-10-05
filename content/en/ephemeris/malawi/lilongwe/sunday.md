@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'41.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°45'45.21" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°17'8.54" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°35'43.28" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|29°13'48.24" |Cancer|Jabhah|Moon|
+|♃ Jupiter|Retrograde|13°45'45.84" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°17'8.72" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|14°35'46.11" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|29°14'1.86" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|5°32'30.08" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|1°19'25.11" |Cancer|Nathrah|Venus|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: LLW, Lilon'nkoue, Lilonguee, Lilongve, Lilongveh, Lilongvo, Lilongvė, Lilongwe, Lilongüe, Lilonhue, Lilonqve, Lílongve, li lang wei, li long gui, li lxng we, lilamgve, lilangave, lillong-gwe, lilongve, lilonve, lylwnghwy, lylwngwh, lylwngwwh, rironguu~e, Λιλόνγκουε, Лилонгве, Лілонгве, Лілонгвэ, Լիլոնգվե, לילאנגווע, לילונגווה, ليلونغوي, لیلونگوه, لیلونگوے, لیلۆنگوێ, لیلیونگوے, लिलाँग्वे, ਲਿਲਾਂਗਵੇ, லிலொங்வே, ลิลองเว, ལི་ལོང་ཀུའེ།, ლილონგვე, ሊሎንጔ, リロングウェ, 利隆圭, 里朗威, 릴롱궤

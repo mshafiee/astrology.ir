@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°12'24.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°56'20.42" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|13°56'20.39" |Aries|Butain|Sun|
 |♂ Mars|Direct|26°6'43.16" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|12°52'16.88" |Virgo|Awwa|Venus|
 |♀ Venus|Post-Retrograde Shadow|27°46'46.22" |Cancer|Jabhah|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°12'24.81" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°56'20.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|26°6'43.16" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|12°52'16.88" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|27°46'46.22" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|2°26'43.78" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|9°57'32.58" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|13°56'20.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|26°6'44.66" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|12°52'23.42" |Libra|Jubana|Saturn|
+|♀ Venus|Post-Retrograde Shadow|27°47'5.35" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|2°26'49.98" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|10°48'45.29" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
