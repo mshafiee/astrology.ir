@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°7'29.00" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°45'15.95" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°20'22.45" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°40'30.65" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|29°18'4.61" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°41'4.01" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°12'17.36" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°40'30.36" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|29°17'59.82" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°41'3.39" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°50'22.85" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|13°45'15.95" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|27°20'22.45" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|14°40'30.65" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|29°18'4.61" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°41'4.01" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°12'17.36" |Leo|Jabhah|Saturn|
+|♀ Venus|Post-Retrograde Shadow|29°17'59.82" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°41'3.39" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°50'22.85" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BER, Beirlin, Beirlín, Berleno, Berlien, Berliin, Berliini, Berlijn, Berlim, Berlin, Berline, Berlini, Berlino, Berlyn, Berlynas, Berlëno, Berlín, Berlîn, Berlīne, Berolino, Berolinum, Birlinu, Bèrlîn, Estat de Berlin, Estat de Berlín, bai lin, barlina, beleullin, berlini, berurin, bexrlin, brlyn, perlin, Βερολίνο, Берлин, Берлін, Бэрлін, Բերլին, בערלין, ברלין, برلين, برلین, بېرلىن, ܒܪܠܝܢ, बर्लिन, বার্লিন, பெர்லின், เบอร์ลิน, ბერლინი, ベルリン, 柏林, 베를린

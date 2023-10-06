@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°7'26.34" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°45'9.87" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°21'1.65" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°41'28.60" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|29°18'54.44" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°42'47.36" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°25'37.09" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°41'15.72" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|29°18'29.06" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°42'36.75" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°16'0.95" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

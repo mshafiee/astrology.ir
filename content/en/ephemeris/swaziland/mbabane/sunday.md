@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°7'41.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°45'44.90" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°17'16.13" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°35'56.41" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|29°14'10.14" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°32'53.00" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|2°13'4.56" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°35'50.39" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|29°14'13.45" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°32'49.40" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°53'23.15" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'41.20" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'44.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°17'16.13" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°35'56.41" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|29°14'10.14" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°32'53.00" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°13'4.56" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'47.26" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°17'12.98" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°35'50.39" |Libra|Jubana|Saturn|
+|♀ Venus|Post-Retrograde Shadow|29°14'13.45" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°32'49.40" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°53'23.15" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Embabane, Mabane, Mbaban, Mbabane, Mbabaneh, Mbabano, Mbabanė, Mbabàn, Mpampane, QMN, ababane, ambabane, ambabany, eumbabane, impapan, mbaban, mbabane, mbabanh, mbabyn, mbbnh, mo ba ben, mubabane, xam ba bane, Μπαμπάνε, Мбабане, Мбабанэ, Մբաբանե, מבאבאנע, מבבנה, امبابانی, مبابان, مبابانه, مبابانێ, مبابین, अंबाबाने, ਅੰਬਾਬਾਨੇ, இம்பபான், อัมบาบาเน, མ་པ་པན།, მბაბანე, ምባባኔ, ムババーネ, 墨巴本, 음바바네

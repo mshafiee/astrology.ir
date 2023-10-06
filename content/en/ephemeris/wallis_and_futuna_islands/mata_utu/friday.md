@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'17.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°0'16.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°39'50.45" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|12°12'50.60" |Libra|Ghafr|Saturn|
-|♀ Venus|Post-Retrograde Shadow|27°14'26.49" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°16'1.58" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°26'7.13" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|14°0'16.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°39'48.37" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|12°12'42.60" |Libra|Ghafr|Saturn|
+|♀ Venus|Post-Retrograde Shadow|27°14'6.02" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°15'54.21" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|1°46'39.48" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

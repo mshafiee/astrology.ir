@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'5.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°59'52.70" |Aries|Butain|Sun|
-|♂ Mars|Direct|25°42'32.95" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|12°16'49.59" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|27°17'42.91" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|1°23'8.75" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°16'45.67" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|13°59'56.11" |Aries|Butain|Sun|
+|♂ Mars|Direct|25°42'26.93" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|12°16'34.62" |Virgo|Awwa|Venus|
+|♀ Venus|Post-Retrograde Shadow|27°17'28.44" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|1°22'57.61" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°54'53.14" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'5.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°59'52.70" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°42'32.95" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|12°16'49.59" |Libra|Ghafr|Saturn|
-|♀ Venus|Post-Retrograde Shadow|27°17'42.91" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°23'8.75" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°16'45.67" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|13°59'56.11" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°42'26.93" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|12°16'34.62" |Libra|Ghafr|Saturn|
+|♀ Venus|Post-Retrograde Shadow|27°17'28.44" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°22'57.61" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°54'53.14" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

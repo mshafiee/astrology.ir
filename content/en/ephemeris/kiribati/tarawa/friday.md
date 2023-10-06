@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°14'11.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|14°0'4.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|25°41'12.15" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|12°14'51.16" |Libra|Ghafr|Saturn|
-|♀ Venus|Post-Retrograde Shadow|27°16'5.96" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|1°19'36.12" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°50'30.40" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|14°0'7.90" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|25°41'6.08" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|12°14'36.62" |Libra|Ghafr|Saturn|
+|♀ Venus|Post-Retrograde Shadow|27°15'54.61" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|1°19'25.60" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°41'25.48" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Juzhnaja Tarava, South Tarawa, Sued-Tarawa, Süd-Tarawa, TRW, Tarawa, Tarawa Sud, Tarawa do Sul, Tarawa-Sud, Zuid-Tarawa, namtalawa, sauseutalawa, talawa, Южная Тарава, דרום טאראווה, 남타라와, 사우스타라와, 타라와
