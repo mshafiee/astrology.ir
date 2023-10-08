@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|13°45'19.09" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°20'1.22" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|14°39'59.98" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|29°17'38.87" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°40'7.35" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°10'15.06" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°17'38.87" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°40'7.80" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°7'53.81" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'30.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'19.09" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°20'1.22" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°39'59.31" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|29°17'38.78" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°40'7.35" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°10'15.06" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'19.77" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°20'0.48" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°39'58.97" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°17'41.58" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°40'7.38" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°24'42.94" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Aea, Ea, Oea, TIP, Tarables, Tarabulus, Tarabulus al Gharb, Tarabulus el Gharb, Taràbles, Trables, Trablus, Trablûs, Triboli, Tripili, Tripilí, Tripol, Tripole, Tripoli, Tripolis, Tripolo, Tripoly, Tripołi, Tripul, Tripuli, Trypali, Trypolis, Trìpoli, Trìpuli, Trípol, Trípoli, Trípólí, de li bo li, tarabalasa, tarabulasa, tarabulus, teulipolli, tirippoli, toripori, trabls, trabls  lybya, tripoli, trippeali, trypwly, Ţarābulus, Ţarābulus al Gharb, Τρίπολη, Триполи, Триполі, Трыпалі, Տրիպոլի, טריפאלי, טריפולי, ترابلس, ترىپولى, تەرابلوس, طرابلس, طرابلس، لیبیا, طَرَابُلُس, ताराबूलस, त्रिपोली, ত্রিপোলি, ਤਰਾਬਲਸ, திரிப்பொலி, ട്രിപ്പോളി, ตริโปลี, ཐི་རི་ཕོ་ལི, ტრიპოლი, ትሪፖሊ, Ṭrables, トリポリ, 的黎波里, 트리폴리

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°10'11.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°51'28.32" |Aries|Butain|Sun|
-|♂ Mars|Direct|26°39'29.70" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|13°40'29.74" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|28°27'15.93" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|3°53'11.69" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|20°53'43.00" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|13°51'28.51" |Aries|Butain|Sun|
+|♂ Mars|Direct|26°39'27.85" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|13°40'22.28" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|28°26'54.82" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|3°53'4.74" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|19°50'56.60" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Saturn|Saturn|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -341,8 +341,8 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|1°10'11.15" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|13°51'28.32" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|26°39'29.70" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|13°40'29.87" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|28°27'15.46" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|13°40'29.74" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°27'15.46" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|3°53'11.56" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|20°52'7.32" |Cancer|Tarf|Moon|
 

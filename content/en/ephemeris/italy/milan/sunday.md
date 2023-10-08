@@ -303,7 +303,7 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|13°45'13.02" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°20'41.09" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|14°40'58.24" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|29°18'28.34" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|29°18'28.34" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|5°41'53.09" |Virgo|Awwa|Sun|
 |☾ Moon|Direct|3°18'47.81" |Cancer|Nathrah|Venus|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'27.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'13.02" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°20'41.09" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°40'58.24" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|29°18'28.34" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°41'53.09" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°18'47.81" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'12.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°20'41.20" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°40'58.42" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°18'28.01" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°41'53.18" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°16'28.83" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Lungsod ng Milano, MIL, Mailand, Mediolan, Mediolanum, Mila, Milaan, Milan, Milana, Milanas, Milano, Milanu, Milao, Milà, Milán, Miláno, Milánó, Milão, Milāna, Mílanó, Mилан, mi lan, milan, milana, milani, millano, mirano, mylan, mylanw, Милан, Милано, Мілан, מילאנו, مىلان, ميلانو, মিলান, மிலன், มิลาน, მილანი, ミラノ, 米蘭, 밀라노

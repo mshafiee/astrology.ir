@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'30.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°45'20.04" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°19'55.08" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°39'50.92" |Virgo|Awwa|Venus|
-|♀ Venus|Post-Retrograde Shadow|29°17'31.10" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°39'51.61" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°5'52.02" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|13°45'22.66" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°19'49.59" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|14°39'35.43" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°17'8.06" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°39'39.52" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°18'7.45" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|13°45'20.04" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|27°19'55.08" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|14°39'50.92" |Libra|Jubana|Saturn|
-|♀ Venus|Post-Retrograde Shadow|29°17'31.10" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|29°17'31.10" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|5°39'51.61" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|3°5'52.02" |Leo|Jabhah|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: A Valeta, A Valletta, Baleta, Baletta, La Valet, La Valeta, La Valeto, La Valetta, La Valette, La Valletta, La Valèt, La Valëtta, La-Valeto, MLA, Vaileite, Valeta, Valetta, Valleta, Vallett, Valletta, Valletta osh, Vallettae, Waleta, balleta, baretta, bhaleta, bhalletta, falyta, hua lie ta, valaita, valerra, valletta, vheleta, wa lai ta, wal let ta, walta, wlth, Ła Vałeta, Βαλέτα, Βαλέττα, Валета, Валлеттæ, Валлетта, Валлетта ош, Ла Валета, Վալետա, וואלעטא, ולטה, فاليتا, والتا, والیٹا, ولیٹا, ڤالێتا, भलेट, व्हॅलेटा, ভাল্লেত্তা, ਵਲੈਟਾ, வல்லெட்டா, വലേറ്റ, วัลเลตตา, ཝ་ལེ་ཐ།, ვალეტა, ቫሌታ, バレッタ, 瓦莱塔, 華列他, 발레타
