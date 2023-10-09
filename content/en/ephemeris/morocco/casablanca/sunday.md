@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'21.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°44'57.48" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°22'21.78" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°43'26.26" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|29°20'34.78" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°46'18.63" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°49'27.74" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|13°44'59.13" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°22'19.80" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|14°43'22.92" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°20'39.18" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°46'16.86" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|4°23'13.12" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'21.15" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°44'57.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°22'21.78" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°43'26.27" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°20'34.91" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°46'18.65" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°50'2.05" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°44'59.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°22'19.80" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°43'22.92" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°20'39.18" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°46'16.86" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|4°23'13.12" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ad Dar al Bayda, Ad Dar al Bayda', Ad Dār al Bayḑā’, Anafi, Anfa, CAS, Casa Branca, Casablanca, Casabranca, Dar-el-Beida, Dar-uel-Beyda, Darul Baidha, Dâr-ül-Beydâ, Ed Dar el Baida, Ed Dār el Baida, Kasablank, Kasablanka, Kasablankae, Kazablanka, Kazablanko, Kazamplan'ka, Tigemmi Tamellalt, White House, ad-Dar al-Baydaʼ, ad-Dar al-baydaʾ, ad-Dār al-Bayḍāʼ, ad-Dār al-bayḍāʾ, aldar albydaʾ, anfa, dar albydaʾ, daralbyda, ka sa bu lan ka, ka sab l xng ka, kacapilanka, kasabalanka, kasabeullangka, kasablanka, kasaburanka, kazablanka, qzblnqh, Καζαμπλάνκα, Казабланка, Касабланкæ, Касабланка, Կասաբլանկա, קזבלנקה, أنفا, الدار البيضاء, دار البیضاء, دارالبیضا, كازابلانكا, کازابلانکا, کاسابلانکا, कासाब्लांका, কাসাব্লাংকা, ਕਾਸਾਬਲਾਂਕਾ, காசாபிளாங்கா, కాసాబ్లాంకా, ಕಾಸಾಬ್ಲಾಂಕಾ, കാസബ്ലങ്ക, กาซาบล็องกา, ກາຊາບັງກາ, ကာဆာဘလန်ကာမြို့, კასაბლანკა, ⴰⵏⴼⴰ, カサブランカ, 卡萨布兰卡, 카사블랑카

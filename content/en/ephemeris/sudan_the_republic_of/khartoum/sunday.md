@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'39.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°45'41.10" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°17'37.87" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°36'29.63" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|29°14'39.57" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°33'49.60" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|1°40'56.48" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|13°45'44.02" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°17'33.73" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|14°36'21.04" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°14'39.74" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°33'44.05" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°0'13.73" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'39.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'41.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°17'37.87" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°36'29.63" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°14'39.57" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°33'49.60" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°24'58.06" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'44.02" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°17'33.73" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°36'21.04" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°14'39.74" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°33'44.05" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°0'13.73" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'27.10" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°45'11.50" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°20'50.90" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°41'12.69" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|29°18'40.71" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°42'18.97" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°21'56.27" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|13°45'11.31" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°20'50.91" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|14°41'12.12" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°18'37.37" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°42'18.30" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°8'12.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'27.10" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'11.50" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°20'50.90" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°41'12.69" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°18'40.71" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°42'18.97" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°21'56.27" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'11.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°20'50.91" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°41'12.12" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°18'37.37" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°42'18.30" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°8'12.10" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MCM, Monaco, Monaco-Ville, Monako, Mònaco, Mónaco, Mónakó, monako, Μονακό, Монако, 모나코

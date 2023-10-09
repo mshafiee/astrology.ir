@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'14.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°11'57.87" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°46'17.07" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°42'16.76" |Virgo|Simak|Venus|
-|♀ Venus|Direct|3°44'24.21" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°11'59.59" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°46'14.88" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|19°42'12.75" |Virgo|Simak|Venus|
+|♀ Venus|Direct|3°44'28.03" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|14°40'15.09" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|4°14'42.02" |Virgo|Sarfrah|Sun|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: Braia, Cidade da Praia, Municipio da Praia, Município da Praia, Pragia, Praia, Praja, Praje, Prajo, Prajė, Praya, RAI, braya, pei ya, peulaia, pirxa, pra'i'a, pra'iya, praya, prayya, puraia, Πράγια, Πράια, Прая, Праја, Պրայա, פראיה, برايا, پرائا, پرائیا, پرايا, پرایا, پڕایا, प्राईया, ਪ੍ਰਾਈਆ, ไปรอา, ཕུ་ར་ཡ།, პრაია, ፕራያ, プライア, 培亞, 프라이아

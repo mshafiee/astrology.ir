@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°56'57.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°17'15.52" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°14'48.69" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|13°17'15.43" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°14'48.77" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|18°56'13.03" |Virgo|Simak|Venus|
 |♀ Venus|Direct|3°2'40.13" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|13°18'39.07" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|25°2'2.39" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|13°18'39.02" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|24°59'54.82" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Venus|Jupiter|Saturn|Saturn|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Sun|Mars|Virgo|Sun|Sun|
 |☿ Mercury|Jupiter|Mars|Aquarius|Moon|Venus|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°56'57.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°17'15.52" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°14'48.69" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|0°56'57.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|13°17'15.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°14'48.77" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|18°56'13.03" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|3°2'39.20" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|13°18'39.02" |Libra|Jubana|Saturn|

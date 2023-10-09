@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'39.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°45'40.86" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|13°45'41.61" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°17'39.21" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|14°36'31.51" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|29°14'40.94" |Cancer|Jabhah|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'39.81" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'40.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°17'39.21" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°36'31.51" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°14'40.94" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°33'53.06" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°24'22.66" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'41.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°17'37.93" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°36'28.25" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°14'37.13" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°33'50.61" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°18'56.04" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루

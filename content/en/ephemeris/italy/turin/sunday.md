@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|13°45'11.53" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°20'50.82" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|14°41'12.53" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|29°18'40.54" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°42'18.76" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°21'45.04" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°18'39.73" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°42'18.81" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°17'4.51" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'27.11" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'11.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°20'50.82" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°41'12.53" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°18'40.54" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°42'18.76" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°21'45.04" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'11.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°20'50.97" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°41'12.71" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°18'39.73" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°42'18.81" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°17'4.51" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Augusta Taurinorum, Julia Augusta Taurinorum, Lungsod ng Turino, TRN, Tori, Torin, Torino, Torinu, Torí, Tueri, Turen, Turijn, Turim, Turin, Turina, Turinas, Turino, Turinu, Turyn, Turén, Turìn, Turín, Turīna, Tórínó, Türì, dou ling, tolino, torino, tu rin, tulin, turin, turina, twryn, twrynw, Τορίνο, Торино, Турин, Турын, Թուրին, טורין, טורינו, تورينو, تورین, टोरीनो, तोरिनो, তুরিন, துரின், ตูริน, ཊུ་རིན།, ტურინი, トリノ, 都灵, 토리노, 투린

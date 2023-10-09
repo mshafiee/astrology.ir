@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'29.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'17.64" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°20'11.88" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°40'15.06" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°17'51.55" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°40'36.28" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°10'19.20" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'17.52" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°20'12.06" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°40'15.88" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°17'48.98" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°40'36.57" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°54'36.03" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: PRG, Praag, Prag, Praga, Pragae, Prago, Prague, Praha, Pràg, Prág, Prága, Prâg, Prāga, bragh, bu la ge, peulaha, prag, praga, prak, prg, puraha, Πράγα, Праг, Прагæ, Прага, פראג, براغ, پراگ, پراگا, ܦܪܓ, প্রাগ, ปราก, པུ་ལ་ཁེ, პრაღა, ፕራግ, プラハ, 布拉格, 프라하

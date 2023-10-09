@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°7'39.31" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°45'40.45" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°17'42.87" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°36'36.65" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|29°14'45.28" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°34'3.01" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|2°25'4.41" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°36'33.63" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°14'47.41" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°34'1.24" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°47'26.16" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'39.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'40.45" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°17'42.87" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°36'36.65" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°14'45.28" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°34'3.01" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°25'4.41" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'41.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°17'41.24" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°36'33.63" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°14'47.41" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°34'1.24" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°47'26.16" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: KGL, Kigale, Kigali, Kigalis, Kigalo, Kigaly, Kinkali, Kiqali, Kígalí, ji jia li, khikali, kigali, kigalli, kigari, kikali, kygaly, kyghaly, Κιγκάλι, Кигали, Кігалі, Կիգալի, קיגאלי, كيغالي, کیگالی, किगाली, ਕਿਗਾਲੀ, கிகாலி, කිගාලි, คิกาลี, ཀི་ག་ལི།, კიგალი, ኪጋሊ, キガリ, 吉佳利, 키갈리

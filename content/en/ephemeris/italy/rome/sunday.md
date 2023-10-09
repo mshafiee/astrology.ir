@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'29.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°45'17.08" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°20'14.54" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°40'19.37" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|29°17'55.26" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°40'43.02" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°11'13.25" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|13°45'16.68" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°20'14.81" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|14°40'19.24" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°17'51.32" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°40'42.58" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°52'43.68" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: An Roimh, An Ròimh, An Róimh, Erroma, Hrom, Lungsod ng Roma, Mji wa Roma, ROM, Ramma, Rhufain, Rim, Rim, Roeme, Rom, Roma, Rome, Romma, Romo, Romë, Rooma, Roum, Rym, Rzym, Råmma, Rím, Róm, Róma, Urbs, loma, luo ma shi, rm, rom, roma, romi, rwm, rwma, rym, Řím, Ρώμη, Рим, Римъ, Ром, Рым, Հռոմ, רומא, رم, روم, روما, رىم, ܪܘܡܐ, रोम, रोमा, রোম, โรม, რომი, ሮማ, ローマ, 罗马市, 로마

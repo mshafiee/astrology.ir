@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'29.76" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°45'17.95" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°20'9.19" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°40'11.55" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|29°17'43.13" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°40'28.28" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|2°44'21.93" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|13°45'20.95" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°20'4.82" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|14°40'2.27" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°17'47.71" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°40'22.87" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°41'41.51" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'29.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'17.41" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°20'9.52" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°40'11.24" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°17'43.13" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°40'28.28" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°44'21.93" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'17.95" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°20'9.19" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°40'11.55" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°17'47.71" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°40'22.87" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°41'41.51" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ciudad de Malabo, Malaba, Malabas, Malabo, Malabó, Malampo, Port Clarence, Rev Malebo, SSG, Santa Isabel, ma la bo, mala bo, malabo, malabw, malapo, mallabo, marabo, mlabw, Μαλάμπο, Малаба, Малабо, Մալաբո, מלאבו, مالابو, مالابۆ, ملابو, मलाबो, ਮਲਾਬੋ, மலாபோ, มาลาโบ, མ་ལ་བོ།, მალაბო, ማላቦ, マラボ, 馬拉博, 말라보

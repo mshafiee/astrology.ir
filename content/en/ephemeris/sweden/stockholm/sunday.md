@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'30.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°45'18.86" |Aries|Butain|Sun|
-|♂ Mars|Direct|27°20'3.97" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°40'3.26" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|29°17'41.00" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°40'15.37" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°5'39.38" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|13°45'18.80" |Aries|Butain|Sun|
+|♂ Mars|Direct|27°20'3.68" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|14°40'1.71" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°17'35.00" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°40'13.83" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|2°42'28.60" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'30.26" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|13°45'18.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°20'3.97" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°40'3.26" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°17'41.00" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°40'15.37" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°5'39.38" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|27°20'3.68" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°40'1.71" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°17'35.00" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°40'13.83" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°42'28.60" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Estocolm, Estocolme, Estocolmo, Estocolmu, Estocòlme, Estokolma, Estokolmo, Holmia, STO, Stakgol'm, Stjokolna, Stoccholm, Stoccolma, Stockholbma, Stockholm, Stockolm, Stocolm, Stocolma, Stocòlma, Stocólma, Stokcholme, Stokgol'm, Stokgol'm osh, Stokgolm, Stokhol'm, Stokholm, Stokholma, Stokholmas, Stokholmi, Stokholmo, Stokkholm, Stokkholmur, Stokkhólmur, Stokkolma, Stokol'ma, Stokolm, Stuculma, Stuokhuolms, Stócólm, Sztokholm, Sztokhòlm, Tukholma, astkhlm, satakahoma, seutogholleum, si de ge er mo, stak'hom, stakahoma, stokahoma, stwkhwlm, stwqhwlm, stxkholm, sutokkuhorumu, Štokholm, Στοκχόλμη, Стакгольм, Стокhольм, Стокгольм, Стокгольм ош, Стокольма, Стокхолм, Стокҳолм, Стёколна, Ստոկհոլմ, סטוקהולם, שטאקהאלם, استکهلم, ستوكهولم, ستۆکھۆڵم, سٹاکہوم, ܣܛܘܩܗܘܠܡ, स्टकहोम, स्टॉकहोम, स्तकहोम, স্টকহোম, ਸਟਾਕਹੋਮ, ஸ்டாக்ஹோம், స్టాక్‌హోమ్, ಸ್ಟಾಕ್‍ಹೋಮ್, സ്റ്റോക്ക്‌ഹോം, สตอกโฮล์ม, སི་ཏོག་ཧོ་ལིམ།, စတော့ဟုမ်းမြို့, სტოკჰოლმი, ስቶኮልም, ᔅᑑᒃᓱᓪᒻ/stuukhulm, ストックホルム, 斯德哥尔摩, 斯德哥爾摩, 스톡홀름, 𐍃𐍄𐌿𐌺𐌺𐌰𐌷𐌿𐌻𐌼𐍃

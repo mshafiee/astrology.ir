@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°7'31.86" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°45'22.74" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°19'37.75" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°39'25.31" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|29°17'9.10" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°39'5.95" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|2°59'57.10" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°39'16.85" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°17'8.35" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°39'0.40" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°29'20.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'31.86" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'22.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°19'37.75" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°39'25.31" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°17'9.10" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°39'5.95" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°59'57.10" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'25.58" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°19'33.71" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°39'16.85" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°17'8.35" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°39'0.40" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°29'20.44" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Bosna-Sarai, SJJ, Saarayego, Saireavo, Sairéavó, Saraeva, Saraevo, Saraevo osh, Saragebo, Saragiebo, Saragievo, Sarajeva, Sarajevas, Sarajevo, Sarajevs, Sarajevu, Sarajevó, Sarajewo, Sarajèvo, Saraxevo, Saraybosna, Sarayevo, Sarayevu, Seraium, Serayevo, Szarajevo, Szarajevó, Vrh Bosna, carayevo, sa la re wo, sai la ye fu, salayebo, saraevo, saraevu~o, sarajyww, sarayavea, sarayebho, sarayevho, sarayevo, sarayewo, sarayh ww, sarayww, sarayyfw, srayyfw, srayyww, sryybw, Σαράγεβο, Σαράγιεβο, Σαραγιεβο, Сараева, Сараево, Сараево ош, Сараєво, Сарајево, Сараѥво, Սարաևո, סאראיעווא, סרייבו, ساراجیوو, ساراييفو, سارايېۋو, سارایه وو, سارایوو, سارایێڤۆ, سرائیوو, سراييفو, सारायेव्हो, সারায়েভো, ਸਾਰਾਯੇਵੋ, சாரயேவோ, സരയാവോ, ซาราเยโว, ས་ར་ཇི་བོ།, სარაევო, ሳራዬቮ, サラエヴォ, 塞拉耶佛, 薩拉熱窩, 사라예보

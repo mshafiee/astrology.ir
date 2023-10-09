@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|14°32'26.68" |Virgo|Awwa|Venus|
 |♀ Venus|Direct|29°11'12.54" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|5°26'32.92" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|1°35'1.32" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°36'34.99" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

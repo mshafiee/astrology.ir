@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'25.55" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°12'32.39" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°42'52.66" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°37'15.65" |Virgo|Simak|Venus|
-|♀ Venus|Direct|3°39'43.09" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|14°31'27.33" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°57'27.47" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|0°42'53.06" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|19°37'17.62" |Virgo|Simak|Venus|
+|♀ Venus|Direct|3°39'49.53" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|14°31'28.96" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°16'13.82" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'25.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°12'32.39" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|13°12'32.25" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°42'53.06" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|19°37'18.11" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°39'52.48" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|14°31'29.43" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°23'7.56" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|19°37'17.62" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°39'49.53" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|14°31'28.96" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°16'13.82" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: TUN, Tinis, Tiwnis, Tuenis, Tuinis, Tunes, Tunes tamaneɣt, Tunez, Tunis, Tunis khot, Tunis shaary, Tunis-Ville, Tunisa, Tunisas, Tunisi, Tunisin Orn, Tunisz, Tunixi, Tuniz, Tunizo, Tunus, Tynida, Tùnis, Tùnisi, Túinis, Túnez, Túnis, Túnixi, Túniz, Tûnis, Tünis, chunisu, tu ni si, tu ni si shi, tunis, tunis's, tunisa, twiniseu, twns, twnys, twwns, tyunisa, Τύνιδα, Тунис, Тунис хот, Тунис шаары, Тунисин Орн, Туніс, Թունիս, תוניס, تونس, تونس شہر, توونس, تۇنىس شەھىرى, ٹیونس نگر, ܬܘܢܣ, ट्युनिस, ट्यूनिस, ਤੂਨਿਸ, தூனிஸ், ടൂണിസ്സ്, ตูนิส, ཊུ་ནིསི།, ტუნისი, ቱኒስ, チュニス, 突尼斯, 突尼斯市, 튀니스

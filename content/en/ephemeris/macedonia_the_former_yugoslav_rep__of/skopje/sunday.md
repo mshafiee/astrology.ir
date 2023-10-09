@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|1°7'33.34" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°45'26.25" |Aries|Butain|Sun|
 |♂ Mars|Direct|27°19'14.78" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|14°38'51.65" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|29°16'40.44" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|5°38'5.34" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|2°53'15.94" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|14°38'44.40" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°16'21.55" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|5°37'58.95" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|1°52'0.12" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aquarius|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°7'33.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°45'26.25" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|27°19'14.78" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|14°38'51.65" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°16'40.44" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|5°38'5.34" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°53'15.94" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°45'26.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|27°19'12.90" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|14°38'44.40" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°16'21.55" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°37'58.95" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|1°52'0.12" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Sagittarius|Sun|Venus|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Escopia, Escópia, SKP, Scopia, Scupi, Shkup, Shkupi, Skop'e, Skope, Skopeia, Skopia, Skopie, Skopiye, Skopje, Skopjo, Skopjė, Skople, Skoplie, Skoplje, Skopye, Szkopje, UEskuep, Uskub, Usküb, askwbyt, askwpyh, s ko peiy, sakopi'e, seukope, si ke pu li, skopje, skopye, skwbyh, sqwpyh, sukopie, Üsküp, Σκόπια, Скоп'е, Скоп'є, Скопе, Скопие, Скопье, Скопје, Скопље, Съкопиѥ, Սկոպյե, סקאפיע, סקופיה, إسكوبية, اسکوپیه, اسکوپیہ, سكوبيه, سكوپليې, سکوپ جے, स्कोप्ये, ਸਕੋਪੀਏ, ஸ்கோப்ஜே, สโกเปีย, སི་ཀོཔ་ཇི།, სკოპიე, ስኮፕዬ, スコピエ, 斯科普里, 스코페
