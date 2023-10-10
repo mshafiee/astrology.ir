@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'17.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°12'6.51" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°45'27.19" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|13°12'5.97" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°45'29.14" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|19°40'59.38" |Virgo|Simak|Venus|
 |♀ Venus|Direct|3°43'2.04" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|14°38'7.77" |Virgo|Awwa|Venus|
@@ -340,8 +340,8 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'17.11" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|13°12'5.97" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°45'27.19" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|19°40'59.38" |Libra|Jubana|Saturn|
+|♂ Mars|Direct|0°45'29.14" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|19°41'6.64" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|3°43'2.04" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|14°38'7.77" |Libra|Jubana|Saturn|
 |☾ Moon|Direct|3°11'26.22" |Libra|Ghafr|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: NKC, Naevakjut, Nawakshot, Nawakszut, Nouakchat, Nouakchot, Nouakchott, Nouaksot, Nouaxot, Nuakchot, Nuakshot, Nuaksjott, Nuaksot, Nuaksota, Nuaksotas, Nuaksoto, Nuaksott, Nuakxot, Nuakŝoto, Nuakşot, Nuakšot, Nuakšota, Nuakšotas, Nuakšott, Nwaqcut, Nwaqcuṭ, Nävakjut, Núaksjott, huo suo, navakasuta, nu wa ke xiao te, nu'akacota, nu'oyakasuta, nuagsyoteu, nuakushotto, nuvakcut, nwakshwt, Νουακσότ, Νουαξότ, Нуакшот, Նուակշոտ, נואקשוט, نواكشوط, نواکشوت, نواکشوط, نواکشۆت, نوواکوٹ, नवाकसुत, নুওয়াকশুত, ਨੁਆਕਚੋਤ, நுவாக்சூத், นูแอกชอต, ནའུ་ཀ་ཅོ་ཊི།, ნუაქშოტი, ኑዋክሾት, ヌアクショット, 努瓦克肖特, 或索, 누악쇼트

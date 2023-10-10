@@ -300,34 +300,34 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°57'47.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°19'46.07" |Aries|Butain|Sun|
-|♂ Mars|Direct|29°59'59.72" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|18°34'23.49" |Virgo|Simak|Venus|
-|♀ Venus|Direct|2°42'55.11" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°40'9.78" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|19°0'52.43" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|13°19'42.82" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°0'5.76" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|18°34'39.89" |Virgo|Simak|Venus|
+|♀ Venus|Direct|2°43'15.89" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°40'21.90" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|20°33'44.06" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Mercury|Venus|Sun|Jupiter|
-|♂ Mars|Saturn|Mars|Venus|Moon|
+|♂ Mars|Saturn|Saturn|Venus|Mercury|
 |☉ Sun|Jupiter|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Venus|Venus|Saturn|Saturn|
-|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
+|☾ Moon|Mercury|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Venus|Aquarius|Sun|Saturn|
 |♃ Jupiter|Mercury|Moon|Virgo|Sun|Mars|
-|♂ Mars|Venus|Mercury|Leo|Sun|Moon|
+|♂ Mars|Venus|Venus|Libra|Sun|Venus|
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Sun|Mars|Virgo|Sun|Sun|
 |☿ Mercury|Saturn|Mars|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
+|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,34 +339,34 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°57'47.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°19'46.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°59'59.72" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|18°34'23.49" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|2°42'55.11" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|12°40'9.78" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|19°0'52.43" |Virgo|Simak|Venus|
+|♃ Jupiter|Retrograde|13°19'42.82" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°0'5.76" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|18°34'39.89" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|2°43'15.89" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|12°40'21.90" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|20°33'44.06" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Mercury|Mercury|Mercury|Mercury|
-|♂ Mars|Mars|Mars|Mercury|Sun|
+|♂ Mars|Mars|Mars|Mars|Mars|
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
+|☾ Moon|Jupiter|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♃ Jupiter|Saturn|Mars|Libra|Moon|Venus|
-|♂ Mars|Sun|Mercury|Virgo|Moon|Moon|
+|♂ Mars|Mars|Moon|Scorpio|Moon|Mars|
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
+|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}

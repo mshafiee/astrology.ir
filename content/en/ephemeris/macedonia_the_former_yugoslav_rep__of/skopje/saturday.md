@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°53'20.47" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°5'48.55" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°22'22.61" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|20°35'2.55" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|4°32'32.79" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|16°13'27.08" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|14°55'3.62" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|13°5'48.54" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°22'23.11" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|20°35'4.98" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|4°32'41.24" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|16°13'29.06" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|15°13'57.35" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Taurus|Sun|Moon|
 |♀ Venus|Venus|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Jupiter|Venus|Aquarius|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|13°5'48.54" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|1°22'23.11" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|20°35'4.98" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|4°32'41.24" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|16°13'29.06" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|15°13'57.35" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|4°32'32.79" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|16°13'27.08" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|14°55'3.62" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Saturn|Saturn|Aries|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
+|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}

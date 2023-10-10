@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'57.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°14'13.31" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°32'54.81" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°22'42.80" |Virgo|Simak|Venus|
-|♀ Venus|Direct|3°26'37.87" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|14°5'39.11" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|0°25'50.19" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|13°14'16.26" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°32'50.65" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|19°22'33.97" |Virgo|Simak|Venus|
+|♀ Venus|Direct|3°26'37.92" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|14°5'33.18" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|29°53'49.41" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Venus|Jupiter|Saturn|Saturn|
-|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Sun|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -341,8 +341,8 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|0°55'57.93" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|13°14'13.31" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°32'54.81" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|19°22'42.79" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°26'37.80" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|19°22'42.80" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°26'37.87" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|14°5'39.11" |Libra|Jubana|Saturn|
 |☾ Moon|Direct|0°25'59.06" |Libra|Ghafr|Moon|
 

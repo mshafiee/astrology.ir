@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|0°55'18.60" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°12'10.71" |Aries|Butain|Sun|
 |♂ Mars|Direct|0°45'1.45" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°40'26.02" |Virgo|Simak|Venus|
-|♀ Venus|Direct|3°42'43.43" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|14°37'1.91" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|4°1'49.03" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|19°40'14.48" |Virgo|Simak|Venus|
+|♀ Venus|Direct|3°42'20.72" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|14°36'53.07" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|2°36'56.24" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|13°12'10.71" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|0°45'1.45" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|19°40'26.02" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°42'43.43" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|14°37'1.91" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|4°1'49.03" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|3°42'20.72" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|14°36'53.07" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°36'56.24" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: FNA, Freetown, Frijtaun, Fritaun, Fritauna, Fritaunas, Fritauno, Fritaŭno, Fritonn, Frytaun, Frītauna, Phritaoun, Saint George, Urbs Libera, farita'una, fri thawn, frita'una, frytawn, frytwn, fu li dun, furitaun, peulitaun, phrita'una, phritaun, piritavun, zi you shi, Φρίταουν, Фрийтаун, Фритаун, Фрытаўн, Фрітаун, Ֆրիթաուն, פריטאון, فريتاون, فريتون, فری ٹاؤن, فریتاون, فری‌تاون, फ़्रीटाउन, फ्रीटाउन, ਫ਼ਰੀਟਾਊਨ, பிரீடவுன், ಫ್ರೀಟೌನ್, ฟรีทาวน์, ཕིརི་ཊའུན།, ფრიტაუნი, ፍሪታውን, フリータウン, 弗里敦, 自由市, 프리타운

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'27.30" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°12'38.01" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°42'20.41" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°36'30.23" |Virgo|Simak|Venus|
-|♀ Venus|Direct|3°39'8.92" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|14°30'5.07" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°11'22.87" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|13°12'37.71" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°42'20.50" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|19°36'29.59" |Virgo|Simak|Venus|
+|♀ Venus|Direct|3°39'4.47" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|14°30'4.43" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°1'19.01" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'27.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°12'38.01" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°42'20.41" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|19°36'30.23" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°39'8.92" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|14°30'5.07" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°11'22.87" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|13°12'37.71" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°42'20.50" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|19°36'29.59" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°39'4.47" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|14°30'4.43" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°1'19.01" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: LBV, Libarwil, Liberopolis, Librefille, Librehvil', Librevil, Librevil', Librevila, Librevilis, Libreville, Librevilo, Librvil, Libvil, Limprebil, Limprvil, Liuravila, lbrwl, lbrywyl, li be rx wil, li bo wei er, libaravila, libarevile, libeuleubil, librevhila, librevili, lipravil, lybrfyl, lybrwwyl, lybrwyl, riburuvu~iru, Λιμπρβίλ, Λιμπρεβίλ, Либрвил, Либревил, Либревиль, Лібревіль, Лібрэвіль, Լիբրևիլ, ליברוויל, ליברעוויל, لبرول, لبریویل, ليبرفيل, لیبرویل, لیبرێڤیل, लिबरेविले, लिब्रेव्हिल, ਲਿਬਰਵਿਲ, லிப்ரவில், ลีเบรอวิล, ལིབ་རེ་ཝིལ།, ლიბრევილი, ሊብረቪል, リーブルヴィル, 利伯維爾, 利伯维尔, 리브르빌
