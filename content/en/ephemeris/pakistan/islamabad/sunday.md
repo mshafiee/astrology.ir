@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°51'36.02" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°59'49.13" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°57'2.53" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|21°25'45.20" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°19'27.38" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|0°51'35.09" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|12°59'49.16" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°57'1.64" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|21°25'40.97" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°19'13.48" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|17°42'24.22" |Virgo|Simak|Venus|
 |☾ Moon|Direct|25°22'13.39" |Virgo|Simak|Mercury|
 
@@ -324,7 +324,7 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Saturn|Venus|Aquarius|Sun|Saturn|
 |♃ Jupiter|Mercury|Moon|Virgo|Sun|Mars|
 |♂ Mars|Venus|Venus|Libra|Sun|Venus|
-|☉ Sun|Sun|Moon|Taurus|Sun|Moon|
+|☉ Sun|Mars|Moon|Taurus|Sun|Moon|
 |♀ Venus|Venus|Venus|Libra|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
 |☾ Moon|Sun|Sun|Cancer|Sun|Moon|

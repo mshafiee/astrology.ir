@@ -302,7 +302,7 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|0°55'18.39" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°12'10.03" |Aries|Butain|Sun|
 |♂ Mars|Direct|0°45'5.41" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°40'31.84" |Virgo|Simak|Venus|
+|☉ Sun|Direct|19°40'31.05" |Virgo|Simak|Venus|
 |♀ Venus|Direct|3°42'47.29" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|14°37'11.56" |Virgo|Awwa|Venus|
 |☾ Moon|Direct|3°57'35.07" |Virgo|Sarfrah|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'18.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°12'10.10" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°45'5.18" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|19°40'31.05" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°42'47.29" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|14°37'11.56" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°57'35.07" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|13°12'10.03" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°45'5.41" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|19°40'31.84" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°42'48.72" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|14°37'12.15" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|4°3'13.28" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: CKY, Conacri, Conakry, Konakri, Konakrio, Konakris, Konakry, ke na ke li, konakeuli, konakuri, Κόνακρι, Конакри, קונאקרי, コナクリ, 科納克里, 코나크리

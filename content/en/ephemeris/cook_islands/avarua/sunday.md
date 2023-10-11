@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°50'20.96" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|12°55'24.43" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°22'19.42" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°2'38.02" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°53'35.00" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°47'2.52" |Virgo|Simak|Venus|
-|☾ Moon|Direct|3°1'25.09" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|2°22'20.11" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°2'41.87" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°53'48.52" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°47'5.51" |Virgo|Simak|Venus|
+|☾ Moon|Direct|3°17'41.21" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°50'20.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°55'24.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°22'19.42" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|22°2'38.02" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|5°53'35.00" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|18°47'2.52" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°1'25.09" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|12°55'24.43" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°22'20.11" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|22°2'41.87" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|5°53'48.52" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|18°47'5.51" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°17'41.21" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

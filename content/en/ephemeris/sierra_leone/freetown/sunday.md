@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°51'7.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°58'13.86" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°6'15.12" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|21°39'6.56" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°31'39.79" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°6'2.05" |Virgo|Simak|Venus|
-|☾ Moon|Direct|27°27'23.81" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|12°58'12.27" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°6'18.76" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|21°39'18.11" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°32'1.91" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°6'10.62" |Virgo|Simak|Venus|
+|☾ Moon|Direct|28°36'20.52" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Jupiter|Saturn|Saturn|Saturn|
-|☾ Moon|Mars|Mars|Venus|Moon|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Moon|
 |♀ Venus|Venus|Venus|Libra|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
+|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
 
 
 {{< /tab >}}
@@ -341,9 +341,9 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|0°51'7.60" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|12°58'12.27" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°6'18.76" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|21°39'6.56" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|5°31'39.79" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|18°6'2.05" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|21°39'18.11" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|5°32'1.91" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|18°6'10.62" |Libra|Jubana|Saturn|
 |☾ Moon|Direct|28°36'20.52" |Libra|Akleel|Jupiter|
 
 
