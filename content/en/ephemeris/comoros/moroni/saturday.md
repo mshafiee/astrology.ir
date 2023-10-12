@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°53'31.21" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|13°6'24.30" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°18'50.96" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|20°29'50.17" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|4°27'58.05" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|16°4'28.05" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|13°1'44.58" |Virgo|Awwa|Venus|
+|♂ Mars|Direct|1°18'55.97" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|20°30'1.67" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|4°28'2.56" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|16°4'36.02" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|14°5'37.26" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Taurus|Sun|Moon|
 |♀ Venus|Venus|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Pisces|Sun|Moon|
-|☾ Moon|Jupiter|Mars|Aquarius|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|0°53'31.21" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|13°6'24.30" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|1°18'55.97" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|20°29'50.17" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|4°27'58.05" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|16°4'28.05" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|13°1'44.58" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|20°30'1.67" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|4°28'2.56" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|16°4'36.02" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|14°5'37.26" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Mercury|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|1°1'4.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°29'3.13" |Aries|Butain|Sun|
-|♂ Mars|Direct|29°3'7.82" |Virgo|Simak|Mercury|
-|☉ Sun|Direct|17°11'9.42" |Virgo|Simak|Venus|
-|♀ Venus|Direct|1°28'42.15" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|10°11'28.12" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|2°44'10.01" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|13°29'2.92" |Aries|Butain|Sun|
+|♂ Mars|Direct|29°3'9.35" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|17°11'15.60" |Virgo|Simak|Venus|
+|♀ Venus|Direct|1°28'58.86" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|10°11'33.33" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°45'53.74" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Pisces|Sun|Moon|
 |♀ Venus|Sun|Mars|Leo|Sun|Sun|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -342,7 +342,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|13°29'2.92" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|29°3'9.35" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|17°11'15.60" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|1°28'58.86" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|1°28'47.39" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|10°11'33.33" |Libra|Ghafr|Saturn|
 |☾ Moon|Direct|3°45'53.74" |Virgo|Sarfrah|Sun|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

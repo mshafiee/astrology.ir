@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|12°55'9.83" |Aries|Butain|Sun|
 |♂ Mars|Direct|2°23'42.69" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|22°4'42.81" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°55'41.48" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°50'35.83" |Virgo|Simak|Venus|
-|☾ Moon|Direct|3°47'14.24" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|5°55'30.75" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°50'27.94" |Virgo|Simak|Venus|
+|☾ Moon|Direct|2°36'39.74" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Moon|
 |♀ Venus|Venus|Venus|Libra|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°50'16.94" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|12°55'9.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°23'42.69" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|22°4'42.81" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|5°55'28.84" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|18°50'28.17" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°41'6.38" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|2°23'38.41" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|22°4'31.72" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|5°55'30.75" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|18°50'27.94" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°36'39.74" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

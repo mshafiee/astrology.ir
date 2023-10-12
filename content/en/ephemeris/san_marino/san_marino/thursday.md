@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°57'39.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°19'21.71" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°2'12.27" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|18°37'45.33" |Virgo|Simak|Venus|
-|♀ Venus|Direct|2°46'2.54" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°45'51.22" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|21°13'37.55" |Leo|Zubrah|Mars|
+|♃ Jupiter|Retrograde|13°19'21.66" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°2'5.93" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|18°37'28.44" |Virgo|Simak|Venus|
+|♀ Venus|Direct|2°45'42.61" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°45'38.83" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°41'18.71" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Venus|Venus|Saturn|Saturn|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Sun|Mars|Virgo|Sun|Sun|
 |☿ Mercury|Saturn|Mars|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°57'39.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°19'21.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°2'12.30" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|13°19'25.21" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°2'5.93" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|18°37'45.33" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|2°46'2.54" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|12°45'51.22" |Libra|Ghafr|Saturn|
