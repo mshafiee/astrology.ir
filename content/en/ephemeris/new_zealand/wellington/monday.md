@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|22°6'6.84" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|5°56'59.35" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|18°53'5.73" |Virgo|Simak|Venus|
-|☾ Moon|Direct|3°45'50.33" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°39'25.54" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°50'14.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°55'0.07" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°24'41.17" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|22°6'6.84" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|5°56'59.35" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|18°53'5.73" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°45'50.33" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|12°54'59.57" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°24'41.07" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|22°6'4.42" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|5°56'46.86" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|18°53'3.75" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°39'25.54" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Hie-ling-dong, Hiê-lìng-dóng, Ouellin'nkton, Ouellinkton, Te Whanga-nui-a-Tara, Ueligitone, Uelingtun, Velingtan, Velington, Velingtona, Velingtonas, Velingtono, Vellington, Vellingtonia, Vellinqton, WLG, Welinton, Welintòn, Wellington, Wellinton, Weolingtun, Weolingtūn, Whanga-nui-a-Tara, hui ling dun, oyelintana, raelintana, uelingtʼoni, u~erinton, vailigatana, velingatana, velingtana, velingtoni, velintan, vellingtan, wei ling dun, wellingtan, wellingteon, wlyngtwn, wylynghtwn, wylynjtwn, Ουέλλιγκτον, Ουέλλινγκτον, Велингтон, Веллингтон, Веллінгтон, Велінгтан, Уелингтън, Վելինգտոն, ולינגטון, װעלינגטאן, ولینگتون, ويلينجتون, ويلينغتون, ویلنگٹن, ۋېللىنگتون, वेलिंगटन, वेलिंग्टन, वेलिङ्गटन, ওয়েলিংটন, ৱেলিংটন, ਵੈਲਿੰਗਟਨ, વેલિંગ્ટન, வெலிங்டன், ವೆಲ್ಲಿಂಗ್ಟನ್, വെല്ലിംഗ്ടൺ, เวลลิงตัน, ཝེ་ལིང་ཐོན།, ဝယ်လင်တန်မြို့, ველინგთონი, უელინგტონი, ዌሊንግተን, ウェリントン, 威靈頓, 惠灵顿, 웰링턴

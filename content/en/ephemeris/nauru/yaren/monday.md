@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°50'8.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°54'42.63" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°26'26.30" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°8'40.47" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°59'31.65" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°57'36.12" |Virgo|Simak|Venus|
-|☾ Moon|Direct|3°56'30.01" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|12°54'40.37" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°26'29.42" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°8'46.85" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°59'29.46" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°57'40.44" |Virgo|Simak|Venus|
+|☾ Moon|Direct|4°44'46.77" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Moon|
 |♀ Venus|Venus|Venus|Libra|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°50'8.86" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°54'42.63" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|12°54'40.37" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°26'26.30" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|22°8'40.47" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|5°59'31.65" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|18°57'36.12" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°56'30.01" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|18°57'40.44" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|4°44'46.77" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Moon|Moon|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

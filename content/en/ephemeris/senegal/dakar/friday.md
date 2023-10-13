@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|13°12'4.86" |Aries|Butain|Sun|
 |♂ Mars|Direct|0°45'35.77" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|19°41'16.32" |Virgo|Simak|Venus|
-|♀ Venus|Direct|3°43'29.22" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|14°38'30.70" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|4°13'7.88" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|3°43'17.95" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|14°38'27.73" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°39'48.49" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'16.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°12'4.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°45'35.77" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|19°41'16.32" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°43'29.22" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|14°38'30.70" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|4°13'7.88" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|13°12'4.87" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°45'34.99" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|19°41'12.68" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°43'17.95" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|14°38'27.73" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°39'48.49" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르

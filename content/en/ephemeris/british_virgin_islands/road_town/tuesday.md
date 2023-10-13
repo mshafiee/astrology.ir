@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°47'3.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°42'42.69" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°33'48.98" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|23°47'5.24" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|7°32'1.67" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|21°48'13.09" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|25°43'12.22" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Retrograde|12°42'46.42" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°33'42.64" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|23°46'48.54" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|7°31'43.64" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|21°48'1.24" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|24°10'49.91" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Sun|Moon|Taurus|Sun|Moon|
-|☾ Moon|Sun|Venus|Leo|Moon|Moon|
+|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|12°42'42.69" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°33'48.98" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|23°47'5.24" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|7°32'1.67" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|21°48'13.09" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|25°43'12.22" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|7°31'43.64" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|21°48'1.24" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|24°10'49.91" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Cancer|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Moon|
-|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'18.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°12'10.24" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°45'2.61" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°40'25.67" |Virgo|Simak|Venus|
-|♀ Venus|Direct|3°42'35.46" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|14°37'3.73" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°34'53.17" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|13°12'10.61" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°45'2.65" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|19°40'27.32" |Virgo|Simak|Venus|
+|♀ Venus|Direct|3°42'44.43" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|14°37'5.26" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°56'14.33" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|19°40'27.24" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|3°42'44.18" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|14°37'5.20" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°55'32.30" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°56'14.33" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: Daglas, Daglasa, Daglasas, Doolish, Douglas, Douglas pa Isle of Man, Douglas på Isle of Man, Douglas  Isle of Man, Dubh Lios, Duglas, Duqlas, Ntanklas, Port Douglas, dagalasa, daglasa, dagurasu, daklas, dao ge la si, deogeulleoseu, duglasi, dwghlas, dwglas, taklacu, Ντάγκλας, Даглас, Дуглас, Дъглас, דאגלס, دوغلاس, دوگلاس, ڈگلس, डग्लस, ਡਗਲਸ, டக்லசு, ดักลาส, დუგლასი, ダグラス, 道格拉斯, 더글러스

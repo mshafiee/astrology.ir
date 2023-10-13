@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°57'54.32" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°20'4.03" |Aries|Butain|Sun|
-|♂ Mars|Direct|29°57'56.88" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|13°20'3.81" |Aries|Butain|Sun|
+|♂ Mars|Direct|29°57'57.05" |Virgo|Simak|Mercury|
 |☉ Sun|Direct|18°31'31.53" |Virgo|Simak|Venus|
-|♀ Venus|Direct|2°40'26.89" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|12°34'45.87" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|20°0'0.58" |Leo|Zubrah|Mars|
+|♀ Venus|Direct|2°40'24.82" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|12°34'45.75" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|19°54'33.26" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Venus|Venus|Saturn|Saturn|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Sun|Mars|Virgo|Sun|Sun|
 |☿ Mercury|Saturn|Mars|Aquarius|Moon|Venus|
-|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°57'54.32" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°20'4.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|29°57'56.88" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Retrograde|13°20'3.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|29°57'57.05" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|18°31'31.53" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|2°40'26.89" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|12°34'45.87" |Libra|Ghafr|Saturn|

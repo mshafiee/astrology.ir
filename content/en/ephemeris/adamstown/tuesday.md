@@ -220,7 +220,7 @@ Timetable of twelve day and night planetary hours
 |2|Sun|Servant|07:07:55|08:11:30|Attracting misfortune, no task is suitable|
 |3|Venus|Servant|08:11:31|09:15:06|Attracting connection and suitors|
 |4|Mercury|Servant|09:15:07|10:18:42|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|10:18:43|11:22:18|Attracting misfortune, no task is suitable|
+|5|Moon|Servant|10:18:43|11:22:18|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Saturn|Servant|11:22:19|12:25:54|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Jupiter|Servant|12:25:55|13:29:30|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mars|Ruler|13:29:31|14:33:06|The moon is in Scorpio, Not suitable for doing anything.|
@@ -341,7 +341,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|0°46'46.10" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|12°41'32.58" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|3°40'21.92" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|23°56'23.73" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|23°56'37.41" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|7°40'49.85" |Virgo|Awwa|Sun|
 |☿ Mercury|Direct|22°4'33.17" |Libra|Jubana|Jupiter|
 |☾ Moon|Direct|26°17'35.20" |Scorpio|Shaulah|Venus|

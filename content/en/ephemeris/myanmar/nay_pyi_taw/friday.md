@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'58.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°14'16.60" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°32'48.16" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°22'30.06" |Virgo|Simak|Venus|
-|♀ Venus|Direct|3°26'32.76" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|14°5'26.42" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|29°48'48.06" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Retrograde|13°14'13.74" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°32'52.30" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|19°22'39.12" |Virgo|Simak|Venus|
+|♀ Venus|Direct|3°26'34.53" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|14°5'32.60" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|0°25'11.35" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Venus|Jupiter|Saturn|Saturn|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Sun|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'58.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°14'13.74" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°32'52.30" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|13°14'16.60" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°32'48.16" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|19°22'30.06" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|3°26'32.76" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|14°5'26.42" |Libra|Jubana|Saturn|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°50'11.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°54'48.03" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°25'48.27" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°7'45.58" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°58'31.81" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|18°55'56.30" |Virgo|Simak|Venus|
-|☾ Moon|Direct|4°16'14.65" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|0°50'10.59" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|12°54'48.01" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°25'48.67" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°7'47.55" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°58'38.75" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|18°55'57.84" |Virgo|Simak|Venus|
+|☾ Moon|Direct|4°23'30.06" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Moon|
 |♀ Venus|Venus|Venus|Libra|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°50'11.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°54'48.03" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°25'48.27" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|22°7'45.58" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|5°58'31.81" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|18°55'56.30" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|4°16'14.65" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|12°54'48.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°25'48.67" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|22°7'47.55" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|5°58'38.75" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|18°55'57.84" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|4°23'30.06" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Moon|Moon|
-|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Kingston, Kingston pa Norfolkoya, Kingston på Norfolkøya, Kingstona, Kingstonas, Kingstono, Kingstun, Kinqston, Pasjolak Kingstan, jin si dui, khing s tan, kincutan, kingseuteon, kingstana, kingusuton, kynghstwn, kyngstwn, Кингстон, Кингстън, Кінгстон, Пасёлак Кінгстан, كينغستون, کنگسٹن, کینگستون, किंग्स्टन, கிங்சுடன், คิงส์ตัน, კინგსტონი, キングストン, 金斯敦, 킹스턴
