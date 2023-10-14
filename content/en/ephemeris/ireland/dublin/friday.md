@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|13°12'8.91" |Aries|Butain|Sun|
 |♂ Mars|Direct|0°45'12.66" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|19°40'41.91" |Virgo|Simak|Venus|
-|♀ Venus|Direct|3°42'48.61" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|14°37'29.50" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°37'17.34" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|3°42'57.55" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|14°37'31.08" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°58'56.00" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'18.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°12'8.57" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°45'12.55" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|19°40'40.18" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°42'48.61" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|14°37'29.50" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°37'17.34" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|13°12'8.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°45'12.66" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|19°40'41.91" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°42'57.55" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|14°37'31.08" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°58'56.00" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: Baile Atha Cliath, Baile Átha Cliath, Ciuda de Dublin, Ciudá de Dublín, DUB, Dablin, Diblin, Difelin, Divlyn, Doublino, Dublin, Dublin city, Dublina, Dublinas, Dublini, Dublino, Dublinu, Dublín, Dublîn, Dueblin, Dulenn, Dulyn, Dyflinn, Düblin, Eblana, dabalina, dablin, dablina, daburin, dbln, dblyn, deobeullin, dou bai lin, dublini, dwblyn, taplin, Δουβλίνο, Даблин, Дублин, Дублін, Дъблин, Դուբլին, דבלין, דובלין, دبلن, دوبلين, دوبلین, دۇبلىن, ڈبلن, ډبلن, ܕܒܠܢ, डब्लिन, दब्लिन, ডাবলিন, ਡਬਲਿਨ, டப்லின், ಡಬ್ಲಿನ್, ഡബ്ലിൻ, ดับลิน, དུབ་ལིན།, ဒပ်ဗလင်မြို့, დუბლინი, ደብሊን, ダブリン, 都柏林, 더블린

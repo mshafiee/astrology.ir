@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°55'22.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°12'24.30" |Aries|Butain|Sun|
-|♂ Mars|Direct|0°43'40.92" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|19°38'28.16" |Virgo|Simak|Venus|
-|♀ Venus|Direct|3°40'56.16" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|14°33'33.38" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|3°37'28.17" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|0°55'23.14" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|13°12'24.17" |Aries|Butain|Sun|
+|♂ Mars|Direct|0°43'40.93" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|19°38'27.71" |Virgo|Simak|Venus|
+|♀ Venus|Direct|3°40'53.55" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|14°33'32.95" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|3°31'21.58" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°55'22.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°12'24.30" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|0°43'40.92" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|19°38'28.16" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°40'56.16" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|14°33'32.23" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°20'31.99" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|13°12'24.17" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|0°43'40.93" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|19°38'27.71" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°40'53.55" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|14°33'32.95" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°31'21.58" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>☌ Cnj|<sub> </sub>|
 
 ---
 Alternate Names: ALG, Al Jazair, Al-jezair, Alcher, Alge, Algeirsborg, Alger, Algeri, Algero, Algier, Algiers, Algir, Alg·èr, Algê, Algír, Alje, Aljer, Aljir, Alse, Alxer, Alzer, Alzhir, Alzhir khot, Alzhir shaary, Alzhyr, Alziir, Alzir, Alzira, Alzirs, Alzyras, Alĝero, Alžiir, Alžir, Alžyras, Alžír, Alžěr, Alžīra, Alžīrs, Argel, Argier, Argièr, Arhel, Arjel, Arxel, Caesair, Cathair na hAilgeire, Cathair na hAilgéire, Cezayir, Cäsair, Icosium, Jazoir, Zzayer, a er ji er, ala-jaza'ira, alajiyarsa, alje, alji'ersa, aljiyars, aljiyarsa, aljyrz, aljzayr, aljzayr (mdynt), aljzayr alʿasmt, aljzyrh, alzhiri, aruje, jەzayyr, mdynt aljzayr, yaljyr, Əlcəzair, ʼlgyr, Αλγέρι, Алжир, Алжир хот, Алжир шаары, Алжыр, Алҷазоир, Ալժիր, אלגיר, אלזשירס, ئالجىر, الجزائر, الجزائر (مدينة), الجزائر العاصمة, الجزائر شہر, الجزيره, الجزیره, الجیرز, جەزائیر, مدينة الجزائر, ܓܙܐܐܪ, अल्जीएर्स, अल्जीयर्स, আলজিয়ার্স, ਅਲ-ਜਜ਼ਾਇਰ, அல்ஜியர்ஸ், അൾജിയേഴ്സ്, แอลเจียร์, ཨཱལ་ཇི་ཡར་སི།, အယ်လဂျီးယားမြို့, ალჟირი, አልጀርስ, アルジェ, 阿爾及爾, 알제

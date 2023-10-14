@@ -221,7 +221,7 @@ Timetable of twelve day and night planetary hours
 |3|Venus|Servant|08:27:20|09:23:50|Attracting connection and suitors|
 |4|Mercury|Servant|09:23:51|10:20:21|Attracting material wealth, earnings and business prosperity|
 |5|Moon|Servant|10:20:22|11:16:51|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|11:16:52|12:13:22|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Saturn|Servant|11:16:52|12:13:22|Repelling negative energy of evil eye|
 |7|Jupiter|Servant|12:13:23|13:09:53|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mars|Ruler|13:09:54|14:06:24|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Sun|Servant|14:06:25|15:02:54|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°46'48.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°41'40.91" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°39'32.09" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|23°55'25.53" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|7°39'54.31" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°2'36.34" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|27°35'52.22" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Retrograde|12°41'41.08" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°39'31.97" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|23°55'25.65" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|7°39'56.61" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|22°2'36.44" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|27°30'1.70" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°46'48.15" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°41'40.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°39'32.09" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|23°55'25.53" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|7°39'54.31" |Virgo|Awwa|Sun|
+|♃ Jupiter|Retrograde|12°41'41.08" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°39'31.97" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|23°55'25.65" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|7°39'56.61" |Virgo|Awwa|Sun|
 |☿ Mercury|Direct|22°2'36.44" |Libra|Jubana|Jupiter|
 |☾ Moon|Direct|27°30'1.70" |Scorpio|Shaulah|Venus|
 
