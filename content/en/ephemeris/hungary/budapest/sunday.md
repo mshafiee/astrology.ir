@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°51'15.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°58'41.54" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°3'31.21" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|21°35'12.93" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|5°28'13.97" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|17°59'2.28" |Virgo|Simak|Venus|
-|☾ Moon|Direct|27°41'10.20" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|12°58'42.36" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°3'28.98" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|21°35'5.22" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|5°27'56.58" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|17°58'56.47" |Virgo|Simak|Venus|
+|☾ Moon|Direct|26°55'45.35" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Taurus|Sun|Moon|
 |♀ Venus|Venus|Venus|Libra|Sun|Sun|
 |☿ Mercury|Mars|Mercury|Aries|Sun|Moon|
-|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|12°58'41.54" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|2°3'31.21" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|21°35'12.93" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|5°28'13.97" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|17°59'2.28" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|27°41'10.20" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|5°27'56.58" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|17°58'56.47" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|26°55'45.35" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Moon|Moon|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
 
 
 {{< /tab >}}

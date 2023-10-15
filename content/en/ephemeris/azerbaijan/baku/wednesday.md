@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°45'49.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°37'35.88" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|4°2'11.46" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|24°28'28.83" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|8°11'25.00" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°59'29.90" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°37'48.95" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|12°37'39.18" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|4°2'6.52" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|24°28'17.45" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|8°11'20.83" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|22°59'21.91" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°13'9.69" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Sun|Moon|Gemini|Sun|Moon|
-|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠

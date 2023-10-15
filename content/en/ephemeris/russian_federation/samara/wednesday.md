@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°45'48.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°37'30.94" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|4°2'39.44" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|24°29'9.24" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|8°12'3.43" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|23°0'40.20" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°42'29.72" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|12°37'30.91" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|4°2'39.33" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|24°29'8.53" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|8°12'0.65" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|23°0'39.68" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|4°46'4.77" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: KUF, Kuibyschew, Kuibyshev, Kujbyshev, Kuybyshev, Samar, Samar khot, Samar osh, Samara, Samarae, Samare, Samarga, Samāra, Szamara, sa ma la, sa ma ra, samala, samara, smara, smara  rws, smrh, Σαμάρα, Куйбышев, Самар, Самар ош, Самар хот, Самарæ, Самара, Самаре, Самарҕа, Һамар, Սամարա, סמרה, سامارا, سامارہ, سمارا, سمارا، روس, समारा, ซามารา, სამარა, サマーラ, 薩馬拉, 사마라

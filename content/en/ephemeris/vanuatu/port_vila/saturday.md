@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°54'15.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|13°8'50.27" |Aries|Butain|Sun|
-|♂ Mars|Direct|1°4'43.02" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|20°9'13.88" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|4°8'59.08" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|15°27'56.83" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|9°45'23.61" |Virgo|Awwa|Sun|
+|♃ Jupiter|Retrograde|13°8'52.40" |Aries|Butain|Sun|
+|♂ Mars|Direct|1°4'39.98" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|20°9'7.44" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|4°8'59.90" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|15°27'52.52" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|9°15'25.42" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°54'15.82" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|13°8'52.20" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|1°4'38.85" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|20°9'1.28" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|4°8'37.35" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|15°27'47.38" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|8°19'14.98" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|13°8'50.27" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|1°4'43.02" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|20°9'13.88" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|4°8'59.08" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|15°27'56.83" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|9°45'23.61" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Saturn|Saturn|Aries|Moon|Moon|
-|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
