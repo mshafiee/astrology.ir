@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|5°28'51.76" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|26°34'48.68" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|10°13'7.37" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°35'0.09" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|2°32'37.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|26°35'0.10" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|2°31'14.28" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

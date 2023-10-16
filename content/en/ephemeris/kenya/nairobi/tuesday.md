@@ -236,7 +236,7 @@ Timetable of twelve day and night planetary hours
 |2|Jupiter|Servant|19:21:20|20:20:39|Attracting misfortune, no task is suitable|
 |3|Mars|Servant|20:20:40|21:20:00|Attracting connection and suitors|
 |4|Sun|Servant|21:20:01|22:19:20|Attracting material wealth, earnings and business prosperity|
-|5|Venus|Servant|22:19:21|23:18:41|Attracting misfortune, no task is suitable|
+|5|Venus|Servant|22:19:21|23:18:41|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mercury|Servant|23:18:42|00:18:01|Repelling negative energy of evil eye|
 |7|Moon|Servant|00:18:02|01:17:21|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Saturn|Ruler|01:17:22|02:16:42|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°47'34.71" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°44'50.25" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|3°21'57.80" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|23°29'47.04" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|7°15'38.04" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|21°18'20.42" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|21°56'42.83" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|0°47'36.42" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|12°44'52.49" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|3°21'53.36" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|23°29'33.79" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|7°15'16.37" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|21°18'10.91" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|20°59'0.79" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Venus|Moon|
 |♀ Venus|Venus|Mercury|Sun|Venus|
 |☿ Mercury|Mars|Saturn|Venus|Moon|
-|☾ Moon|Venus|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Venus|Mercury|Libra|Sun|Sun|
 |☿ Mercury|Mars|Moon|Taurus|Sun|Moon|
-|☾ Moon|Mars|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
