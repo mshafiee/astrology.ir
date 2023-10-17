@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°42'11.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°20'44.66" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|5°34'14.39" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|26°42'36.97" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|10°20'42.53" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|26°48'16.62" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°9'32.67" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|12°20'45.23" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|5°34'12.99" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|26°42'32.02" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|10°20'31.75" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|26°48'13.24" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|4°26'28.27" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Moon|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Moon|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°42'11.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°20'44.66" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°34'14.39" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|26°42'36.97" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|10°20'42.53" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°48'16.62" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|4°9'32.67" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|0°42'12.29" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|12°20'45.23" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°34'12.99" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|26°42'32.02" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|10°20'31.75" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°48'13.24" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|4°26'28.27" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Sun|Mercury|Leo|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ciudad de Montevideo, MVD, Mantehvideha, Montebideo, Montevidejas, Montevideo, Montevideu, Montevidiejos, Montevidéu, Montevidėjas, Montevídeó, Muntivideu, Muntividew, Muntividèu, Muntividëw, Urbs Montis Videi, mantibhiri'o, meantevidiyea, meng de wei de ya, meng te wei duo, montebide'o, montebide-o, montebideo, montevide'o, montevidi'o, montevidiyo, montevitiyo, mwntfydw, mwnth wydyw, mwntybydyw, mxn te wi de xo, Μοντεβιδέο, Мантэвідэа, Монтевидео, Монтевідео, Մոնտևիդեո, מאנטעווידעא, מונטווידאו, مونتفيدو, مونته ویدئو, مونته‌ویدئ, مونته‌ویدئو, مونتیبیدیو, مونتېۋىدېئو, मोण्टेवीडियो, मोन्तेविदेओ, মোন্তেবিদেও, ਮੋਂਤੇਵੀਦਿਓ, ମଣ୍ଟିଭିଡ଼ିଓ, மொண்டேவீடியோ, മൊണ്ടേവീഡിയോ, มอนเตวิเดโอ, མཱོན་ཊི་ཝི་ཌོ།, မွန်တီဗစ်ဒီအိုမြို့, მონტევიდეო, ሞንቴቪዴዎ, モンテビデオ, 蒙得维的亚, 蒙特維多, 몬테비데오

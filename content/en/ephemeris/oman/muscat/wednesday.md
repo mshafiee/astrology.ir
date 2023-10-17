@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°45'53.23" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°37'50.93" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°0'47.94" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|24°26'27.25" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°9'29.04" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|22°56'0.52" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|4°13'40.97" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|12°37'53.61" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°0'42.89" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|24°26'12.49" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°9'5.83" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|22°55'50.02" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|3°25'17.49" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MCT, Maeskat, Mascat, Mascate, Maskat, Maskata, Maskatas, Maskate, Maskato, Maskˌat, Masqat, Masqaţ, Masqaṭ, Masquat, Maszkat, Mouskat, Muscat, Muskat, Mäskat, Múskat, ma si ka te, ma si ke te, masakata, maskarr, maskat, maskata, masqata, masukatto, msqt, museukateu, Μουσκάτ, Маскат, Масқат, Мускат, Մասկատ, מסקט, مسقط, مسقط، عمان, مۇسكات, مەسقەت, मस्कत, मस्क़त, মাস্কাট, ਮਸਕਟ, ମସ୍କଟ, மஸ்கத், మస్కట్, മസ്കറ്റ്, มัสกัต, མི་སི་ཁ་ཁྲི།, მასკატი, መስከት, マスカット, 馬斯喀特, 马斯喀特, 무스카트

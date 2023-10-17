@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|12°37'46.83" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|4°1'10.65" |Libra|Ghafr|Moon|
 |☉ Sun|Direct|24°27'0.37" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|8°10'0.64" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°56'57.44" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°20'48.35" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|8°9'50.70" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|22°56'47.81" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|2°55'39.30" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Sun|Moon|Gemini|Sun|Moon|
-|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°45'52.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°37'46.83" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°1'10.65" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|24°27'0.37" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°10'0.64" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|22°56'57.44" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|4°20'48.35" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|12°37'50.31" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°1'5.12" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|24°26'46.70" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°9'50.70" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|22°56'47.81" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|2°55'39.30" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Cancer|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Mars|Mars|Cancer|Moon|Moon|
-|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Al Sharjah, Ash 'Mariqah, Ash Shariqa, Ash Shariqah, Ash Shāriqa, Ash Shāriqah, Ash ’Mariqah, Ash-Shariqah emiraat, Ash-Shāriqah emiraat, Charjah, Ch·ardj·a, SHJ, Sardza, Sardzsa, Sarika, Sarja, Sarjo, Sarza, Schardscha, Shardza, Shardzha, Shardzha kuorat, Sharga, Sharijah, Shariqah, Sharja, Sharjah, Sharjah city, Shārijah, Shāriqah, Shārja, Szardza, Szardża, Xarja, Xarjah, alsharqt, amart alsharqt, carja, charc ah, mdynt alsharqt, saraja, sarajaha, sarja, sharja, sharjh, sharuja, syaleuja, sʼrgh, xia er jia, Ŝarĵo, Şarika, Şarja, Šardža, Šardžá, Шарджа, Шарджа куорат, Шарџа, Шарҗә, Շարժա, שארגה, إمارة الشارقة, الشارقة, شارجه, شارجہ, مدينة الشارقة, शारजा, शारजाह, ਸ਼ਾਰਜਾ, சார்ஜா, షార్జా, ಶಾರ್ಜ, ഷാർജ, ชาร์จาห์, შარჯა, シャールジャ, 夏尔迦, 샤르자

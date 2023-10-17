@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°49'40.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°52'56.99" |Aries|Butain|Sun|
-|♂ Mars|Direct|2°36'25.37" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|22°23'15.81" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|6°13'9.26" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|19°23'0.70" |Virgo|Simak|Venus|
-|☾ Moon|Direct|7°4'34.55" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|12°52'56.50" |Aries|Butain|Sun|
+|♂ Mars|Direct|2°36'26.10" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|22°23'17.48" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|6°13'9.94" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°23'1.87" |Virgo|Simak|Venus|
+|☾ Moon|Direct|7°16'4.11" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°49'40.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°52'54.91" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|2°36'28.26" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|22°23'21.78" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|6°13'7.53" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|19°23'4.76" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|7°51'22.36" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|12°52'56.50" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|2°36'26.10" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|22°23'17.48" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|6°13'9.94" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|19°23'1.87" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|7°16'4.11" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Moon|Moon|
-|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}

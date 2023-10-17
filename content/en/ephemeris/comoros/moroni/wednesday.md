@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°45'50.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°37'43.49" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|4°1'43.94" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|24°27'43.97" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|8°10'48.86" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°58'25.70" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|2°59'12.69" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|12°37'40.16" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|4°1'48.24" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|24°27'54.67" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|8°10'56.93" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|22°58'33.24" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|4°4'46.68" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Gemini|Sun|Moon|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Sun|Moon|Gemini|Sun|Moon|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°45'50.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°37'40.16" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°1'48.97" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|24°27'55.64" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°10'48.86" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|22°58'25.70" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|2°59'12.69" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|12°37'40.80" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°1'48.24" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|24°27'54.67" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°10'56.93" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|22°58'33.24" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|4°4'46.68" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Cancer|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Mars|Mars|Cancer|Moon|Moon|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Maroni, Moroni, Moronio, Moronis, Morony, Moròni, Muruni, Móróní, YVA, mo luo ni, mo ro ni, moloni, moroni, muruni, mwrwny, Μορονί, Мароні, Морони, Мороні, Մորոնի, מורוני, موروني, مورونی, مۆرۆنی, मोरोनी, ਮੋਰੋਨੀ, மூறூனீ, โมโรนี, མོ་རོ་ནི།, მორონი, ሞሮኒ, モロニ, 莫洛尼, 莫羅尼, 모로니
