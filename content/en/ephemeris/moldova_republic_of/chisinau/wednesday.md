@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°45'43.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°37'7.95" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|4°4'47.71" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|24°32'15.88" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|8°15'1.30" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|23°6'1.89" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|5°19'16.42" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|12°37'7.52" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|4°4'48.37" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|24°32'17.51" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|8°15'3.29" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|23°6'3.06" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|5°25'41.30" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°45'43.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°37'7.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°4'47.71" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|24°32'15.88" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°15'1.30" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|23°6'1.89" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|5°25'41.30" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|0°45'43.16" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|12°37'7.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°4'48.14" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|24°32'17.43" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°15'5.70" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|23°6'3.02" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|5°16'22.29" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chisinau, Chişinău, Chișinău, KIV, Kischinew, Kiscinev, Kishinef, Kishinehu, Kishinev, Kishiniv, Kishinjov, Kishinëv, Kisinaou, Kisinev, Kisineva, Kisinevo, Kisiniovas, Kisinjev, Kisinov, Kisinyov, Kisyneu, Kiszyniow, Kiszyniów, Kiŝinevo, Kişinev, Kišiniovas, Kišinjev, Kišiněv, Kišiņeva, Kišiňov, cisina'u, cisinau, ji xi ne wu, kishinau, kisineou, kyshynaw, qysynb, qysynyʼww, qʻsʻnʻww, Κισινάου, Κισιναου, Кишинев, Кишинэу, Кишинёв, Кишињев, Кішынёў, Կիշինյով, קישינאו, קישינב, קישיניאוו, קעשענעוו, كيشيناو, चिशिनाउ, चिशिनौ, კიშინიოვი, ኪሺንው, キシナウ, 基希讷乌, 키시너우

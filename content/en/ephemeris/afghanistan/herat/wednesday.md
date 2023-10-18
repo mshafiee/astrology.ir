@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|12°37'52.75" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|4°0'38.00" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|24°26'12.64" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°8'52.20" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|22°55'25.56" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|3°25'0.31" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|8°9'15.04" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|22°55'35.64" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|4°9'30.50" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特

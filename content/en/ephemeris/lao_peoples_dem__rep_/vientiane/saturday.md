@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°41'18.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°16'14.61" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|5°58'23.77" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|27°17'49.12" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|10°55'2.74" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|27°47'40.22" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|12°15'52.29" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|12°16'16.38" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|5°58'21.22" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|27°17'43.60" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|10°55'3.45" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|27°47'36.28" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|11°28'31.82" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Venus|Mercury|Jupiter|Sun|
 |☿ Mercury|Mars|Mars|Venus|Moon|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°41'18.77" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°16'16.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°58'21.21" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|27°17'43.54" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|10°55'3.14" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|27°47'36.24" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|11°29'44.57" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Retrograde|12°16'16.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°58'21.22" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|27°17'43.60" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|10°55'3.45" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|27°47'36.28" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|11°28'31.82" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

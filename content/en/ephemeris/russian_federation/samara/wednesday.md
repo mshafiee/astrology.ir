@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°45'48.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°37'30.91" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|4°2'39.33" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|24°29'8.53" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|8°12'0.65" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|23°0'39.68" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°46'4.77" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|0°45'48.63" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|12°37'31.05" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|4°2'39.30" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|24°29'9.00" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|8°12'3.88" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|23°0'40.03" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|4°38'46.94" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°45'48.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°37'30.94" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|4°2'39.44" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|24°29'8.53" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°12'0.65" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|23°0'39.68" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|4°46'4.77" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|12°37'31.05" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|4°2'39.30" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|24°29'9.00" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°12'3.88" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|23°0'40.03" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|4°38'46.94" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub> |<sub>✱ Sxt|<sub> </sub>|
 
 ---
 Alternate Names: KUF, Kuibyschew, Kuibyshev, Kujbyshev, Kuybyshev, Samar, Samar khot, Samar osh, Samara, Samarae, Samare, Samarga, Samāra, Szamara, sa ma la, sa ma ra, samala, samara, smara, smara  rws, smrh, Σαμάρα, Куйбышев, Самар, Самар ош, Самар хот, Самарæ, Самара, Самаре, Самарҕа, Һамар, Սամարա, סמרה, سامارا, سامارہ, سمارا, سمارا، روس, समारा, ซามารา, სამარა, サマーラ, 薩馬拉, 사마라

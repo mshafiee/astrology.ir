@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°40'11.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°10'9.84" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|6°30'59.01" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|28°5'14.04" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|11°41'38.72" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|29°7'26.18" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|22°26'11.51" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|0°40'11.21" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|12°10'9.81" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|6°30'59.05" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|28°5'14.17" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|11°41'38.82" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|29°7'26.27" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|22°26'28.74" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°40'11.40" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|12°10'8.79" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°30'59.01" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|28°5'14.04" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°41'38.72" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|29°7'26.18" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|22°26'11.51" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Direct|6°31'0.41" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|28°5'16.60" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|11°41'35.09" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|29°7'28.09" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|23°6'20.33" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Venus|
+|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
 
 
 {{< /tab >}}

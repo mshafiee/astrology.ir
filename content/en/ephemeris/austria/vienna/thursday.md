@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Mercury|Servant|00:39:54|01:46:40|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Moon|Ruler|01:46:41|02:53:28|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Saturn|Servant|02:53:29|04:00:16|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Jupiter|Servant|04:00:17|05:07:04|Fulfilling needs|
+|10|Jupiter|Servant|04:00:17|05:07:04|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Mars|Servant|05:07:05|06:13:52|Attraction of love and hearts|
 |12|Sun|Servant|06:13:53|07:20:40|Attracting misfortune, not suitable for any task|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°43'59.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°29'27.26" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|4°47'5.68" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|25°33'49.86" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|9°13'58.61" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|24°51'36.54" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|18°28'41.38" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|12°29'24.40" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|4°47'10.81" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|25°34'4.42" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|9°14'19.99" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|24°51'46.80" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|18°58'32.21" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|25°34'4.42" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|9°14'19.99" |Virgo|Awwa|Sun|
 |☿ Mercury|Direct|24°51'46.80" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|18°28'41.38" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|18°58'32.21" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

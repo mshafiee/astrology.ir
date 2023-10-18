@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Saturn|Ruler|01:21:28|02:19:54|Creating corruption, destroying enemies, making enemies sick|
 |9|Jupiter|Servant|02:19:55|03:18:21|Heart tenderness|
 |10|Mars|Servant|03:18:22|04:16:48|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|04:16:49|05:15:15|Attracting connection and suitors|
+|11|Sun|Servant|04:16:49|05:15:15|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Venus|Servant|05:15:16|06:13:42|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°48'2.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°46'43.19" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|3°11'40.20" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|23°14'40.47" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|7°1'27.16" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|20°52'25.33" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|17°12'6.58" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|12°46'39.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|3°11'45.60" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|23°14'53.20" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|7°1'33.33" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|20°52'34.24" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|18°42'34.76" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Cancer|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Scorpio|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
 
 
 {{< /tab >}}
