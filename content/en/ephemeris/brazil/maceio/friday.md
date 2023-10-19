@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°42'14.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°21'5.33" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|5°32'30.01" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|26°39'59.42" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|10°18'3.20" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|26°44'0.94" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|3°35'16.04" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|12°21'2.65" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|5°32'34.82" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|26°40'13.16" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|10°18'24.66" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|26°44'10.63" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|3°35'7.55" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -324,7 +324,7 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Saturn|Venus|Aquarius|Sun|Saturn|
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Mercury|Mars|Sagittarius|Sun|Venus|
-|☉ Sun|Venus|Sun|Cancer|Sun|Moon|
+|☉ Sun|Venus|Mercury|Cancer|Sun|Moon|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Moon|
 |☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°42'14.86" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°21'5.33" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°32'30.01" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|26°39'59.42" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|10°18'3.20" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°44'10.50" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|3°35'16.04" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|12°21'2.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°32'34.79" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|26°40'13.38" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|10°18'24.66" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°44'10.63" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|3°35'7.55" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -363,7 +363,7 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
 |♂ Mars|Sun|Sun|Capricorn|Moon|Mars|
-|☉ Sun|Sun|Venus|Leo|Moon|Moon|
+|☉ Sun|Sun|Mercury|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Sun|Mercury|Leo|Moon|Moon|
 |☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MCZ, Macayo, Maceio, Maceió, Masejas, Masejo, Maseyo, Maçayó, ma sai yue, ma se xo, masayw, mase'i'o, maseio, masyyw, msyyʼw, Масейо, Масејо, מסייאו, ماسئیو, ماسايو, মাসেইও, มาเซโอ, მასეიო, マセイオ, 马塞约, 마세이오

@@ -301,8 +301,8 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°42'12.92" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|12°20'52.70" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|5°33'29.75" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|26°41'32.56" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|5°33'29.84" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|26°41'32.71" |Virgo|Simak|Mercury|
 |♀ Venus|Direct|10°19'39.96" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|26°46'26.24" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|3°58'13.36" |Sagittarius|Shaulah|Mercury|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|12°20'52.70" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|5°33'29.75" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|26°41'32.56" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|10°19'39.96" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°46'26.24" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|3°58'13.36" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|10°19'39.60" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°46'26.34" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|4°1'19.32" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: SAO, Sampa, San Paolo, San Paul ed Brasil, San Paulas, San Paulo, San Paulu, San Paulu du Brasili, San Paulu dû Brasili, San Pauluw, San Pawlo, San Polo del Braxil, San Poulo, San Poło del Braxil, San Pàul ëd Brasil, San-Paulo, San-Paulu, San-Paŭlo, Sanpaulu, Sao Paolo, Sao Paulo, Sao Paulo capital, Saun Paulu, Sawo Palo, Sawo Pålo, São Paolo, São Paulo, São Paulo capital, Urbs Paulistana, cavo pavulo, sa'o pa'ulo, sa'o paulo, samu pa'ulu, sangpaollo, sangpaollu, sangpaullo, sangpaullu, sankt. paulos, sanpauro, savea pealea, savo palo, saw bawlw, saw palw, saw pwlw, saywpaywlw, sea pea lu, sheng bao luo, Σάο Πάολο, Сан Пауло, Сан Паулу, Сан-Паулу, Сан-Паўлу, Сао Паоло, Сао Пауло, Սան Պաուլու, סאו פאולא, סאו פאולו, ساؤ پالو, ساؤ پولو, سائوپائولو, ساو باولو, ܣܐܘ ܦܐܘܠܘ, ސައޮ ޕައުލޯ, साओ पाउलो, সাঁউ পাউলু, সাও পাউলো, சாவோ பாவுலோ, శఒ పౌలొ, ಸಾವೊ ಪಾಲೊ, സാവോ പോളോ, เซาเปาลู, ဆောပိုလိုမြို့, სან-პაულუ, ሳው ፓውሉ, サンパウロ, 聖保羅, 상파올로, 상파올루, 상파울로, 상파울루

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°38'42.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°1'31.11" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|7°16'56.46" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|29°12'1.19" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|12°47'36.15" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|0°59'7.84" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|8°13'51.05" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|12°1'28.29" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|7°17'0.64" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|29°12'11.06" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|12°47'40.37" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|0°59'14.87" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|8°40'18.28" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Mercury|Moon|Capricorn|Sun|Sun|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°38'42.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°1'31.11" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°16'56.46" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|29°12'1.19" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|12°47'41.04" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|0°59'15.15" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|8°38'26.70" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Retrograde|12°1'28.37" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|7°17'0.64" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|29°12'11.06" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|12°47'40.37" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|0°59'14.87" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|8°40'18.28" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
