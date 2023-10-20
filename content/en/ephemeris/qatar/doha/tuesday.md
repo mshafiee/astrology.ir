@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°37'13.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°51'51.55" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°7'34.04" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|0°25'38.73" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°0'50.25" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|3°1'3.31" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|26°16'58.64" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Retrograde|11°51'51.14" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°7'34.75" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|0°25'40.85" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|14°0'54.36" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|3°1'4.71" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|25°59'0.93" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°37'13.99" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°51'51.55" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°7'34.04" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|0°25'38.73" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°0'50.25" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|3°1'3.31" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|26°16'58.64" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|11°51'51.14" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°7'34.75" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|0°25'40.85" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°0'54.36" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|3°1'4.71" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|25°59'0.93" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

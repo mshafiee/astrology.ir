@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°40'34.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°12'19.03" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|6°19'27.19" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|27°48'24.24" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|11°24'50.76" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°39'14.91" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|20°5'5.09" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|12°12'18.34" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|6°19'28.88" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|27°48'30.48" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|11°25'6.47" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°39'19.07" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|19°15'37.94" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Saturn|Mercury|Jupiter|Sun|
 |☿ Mercury|Saturn|Mars|Venus|Moon|
-|☾ Moon|Mercury|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Saturn|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Venus|Mercury|Leo|Sun|Moon|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°40'35.99" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°12'19.03" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|0°40'34.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|12°12'18.34" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|6°19'28.88" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|27°48'30.48" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|11°25'6.47" |Virgo|Awwa|Venus|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°41'7.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°15'14.40" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|6°3'46.81" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|27°25'39.22" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|11°2'42.48" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°0'52.64" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|14°2'23.25" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|12°15'14.50" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|6°3'46.72" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|27°25'39.19" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|11°2'43.52" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°0'52.60" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|13°56'7.78" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Venus|Moon|
 |♀ Venus|Saturn|Mercury|Jupiter|Sun|
 |☿ Mercury|Saturn|Mars|Venus|Moon|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°41'7.32" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°15'14.62" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|6°3'46.57" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|27°25'38.98" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°2'44.16" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|28°0'52.44" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|0°41'7.43" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|12°15'14.40" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|6°3'46.81" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|27°25'39.22" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|11°2'42.48" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|28°0'52.64" |Libra|Akleel|Jupiter|
 |☾ Moon|Direct|13°50'46.68" |Capricorn|SaadAlBula|Mars|
 
 
