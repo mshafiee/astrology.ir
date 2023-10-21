@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°42'0.29" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|12°19'49.21" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|5°39'9.76" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|26°49'48.83" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|10°27'43.17" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|27°0'23.31" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|5°55'43.61" |Sagittarius|NaAaem|Mercury|
+|♂ Mars|Direct|5°39'7.94" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|26°49'43.01" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|10°27'32.23" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|27°0'19.30" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|6°8'5.20" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°42'0.29" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°19'49.21" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°39'9.76" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|26°49'48.83" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|10°27'43.17" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|27°0'23.31" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|5°55'43.61" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|12°19'50.10" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°39'7.94" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|26°49'43.01" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|10°27'32.23" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|27°0'19.30" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|6°8'5.20" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Mercury|Sun|
 |♀ Venus|Venus|Venus|Saturn|Saturn|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mercury|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°40'58.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°14'27.52" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|6°8'9.53" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|27°31'57.86" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|11°8'59.32" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|28°11'40.11" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|14°36'50.80" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|0°40'58.46" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|12°14'24.93" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|6°8'13.21" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|27°32'5.65" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|11°9'3.49" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|28°11'47.55" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|15°31'13.50" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Venus|Mercury|Leo|Sun|Moon|
-|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|6°8'14.04" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|27°32'8.33" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|11°9'3.49" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|28°11'47.55" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|14°36'50.80" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|28°11'45.72" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|15°45'27.53" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
+|☾ Moon|Sun|Venus|Cancer|Sun|Venus|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°36'21.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°45'38.72" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|8°40'6.94" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|1°12'54.09" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°48'25.71" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|4°18'56.51" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|6°57'0.81" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°45'36.76" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|8°40'9.73" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|1°12'59.91" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|14°48'23.23" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|4°19'0.92" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|7°18'51.51" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Saturn|Saturn|Venus|Mercury|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°36'21.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°45'38.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|8°40'6.94" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|1°12'54.09" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|14°48'25.71" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|4°18'56.51" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|6°57'0.81" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|11°45'36.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|8°40'9.73" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|1°12'59.91" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°48'23.23" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|4°19'0.92" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|7°18'51.51" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

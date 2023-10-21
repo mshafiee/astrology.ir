@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°39'12.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°4'27.68" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|7°1'9.54" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|28°49'3.87" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|12°24'37.14" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|0°20'50.50" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|4°17'33.03" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|12°4'30.14" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|7°1'7.58" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|28°48'59.11" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|12°24'34.48" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|0°20'47.13" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|4°6'22.37" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Leo|Sun|Moon|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Venus|Venus|Libra|Sun|Venus|
-|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°39'12.36" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|12°4'27.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|7°1'11.98" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|28°49'12.00" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|12°24'54.65" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|0°20'55.89" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°16'9.49" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|7°1'7.58" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|28°48'59.11" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|12°24'34.48" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|0°20'47.13" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°6'22.37" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Mars|Moon|Scorpio|Moon|Mars|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub> |<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BCV, Bel'mapan, Bel'mopan, Belmopan, Belmopana, Belmopanas, Belmopano, Belmopanum, Belmopán, Belmópan, Bèlmopan, Hattieville, Mopan, Mpelmopan, bailamopana, bei er mo bang, bei er mo pan, belmopan, belmopana, berumopan, blmwban, blmwpan, blmwpn, bylmwpan, pelmoppan, Μπελμοπάν, Белмопан, Бельмапан, Бельмопан, Բելմոպան, בלמופן, בעלמאפאן, بلموبان, بلموپان, بیلموپان, बेल्मोपान, ਬੈਲਮੋਪਾਨ, பெல்மோப்பான், เบลโมแพน, པེར་མོ་ཕན།, ბელმოპანი, ቤልሞፓን, ベルモパン, 貝爾墨邦, 貝爾莫潘, 벨모판

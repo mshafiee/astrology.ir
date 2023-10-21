@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°42'5.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°20'14.05" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|5°36'57.70" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|26°46'35.37" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|10°24'34.51" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|26°54'58.52" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|5°6'45.59" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|12°20'15.39" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|5°36'55.14" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|26°46'27.61" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|10°24'21.07" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|26°54'53.14" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|5°17'0.33" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°42'5.36" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°20'14.49" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°36'56.54" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|26°46'31.05" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|10°24'23.42" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°54'55.56" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|5°32'27.73" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|12°20'14.05" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°36'57.70" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|26°46'27.61" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|10°24'21.07" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°54'53.14" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|5°17'0.33" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크

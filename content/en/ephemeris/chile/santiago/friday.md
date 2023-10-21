@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°42'7.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|12°20'25.36" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|5°35'56.20" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|26°45'3.50" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|10°22'56.02" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|26°52'26.28" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|5°27'55.75" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|12°20'25.93" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|5°35'55.22" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|26°45'0.83" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|10°22'52.63" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|26°52'24.41" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|5°24'42.61" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°42'8.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°20'25.36" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°35'56.20" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|26°45'3.50" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|10°23'6.88" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°52'26.28" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|5°27'55.75" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|0°42'7.61" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|12°20'25.93" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°35'55.22" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|26°45'0.83" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|10°22'52.63" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°52'24.41" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|5°24'42.61" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ciles Santjagas, CiudadSantiago, SCL, Sanctiacobi, Sant'jago, Santiago, Santiago de Chile, Santiago de Xile, Santiago del Cile, Santiago do Chile, Santiago du Chili, Santiago du Ch·ili, Santianko, Santjago, Santjago de Chile, Santjago de Chili, Stgo., santiago, santixako, santiyago, santyaghw, santyagw, santyyagw, sheng de ya ge, Čilės Santjagas, Σαντιάγκο, Σαντιάγο, Сантьяго, Сантяго де Чиле, Сантяго де Чили, סנטיאגו דה צ'ילה, سانتىياگو, سانتياغو, سانتیاگو, সান্টিয়াগো, ซันติอาโก, სანტიაგო დე ჩილე, ሳንቲያጎ, サンティアゴ, 圣地亚哥, 산티아고

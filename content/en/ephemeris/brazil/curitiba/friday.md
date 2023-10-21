@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|0°42'12.38" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|12°20'49.95" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|5°33'44.79" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|26°41'55.38" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|10°20'2.32" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|26°41'54.38" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|10°20'1.17" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|26°47'3.37" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°4'32.97" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|4°21'59.85" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Moon|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Venus|Mercury|Cancer|Sun|Moon|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°42'12.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|12°20'49.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|5°33'44.79" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|26°41'54.38" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|10°20'1.17" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°47'3.37" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|4°2'40.14" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|12°20'49.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|5°33'44.33" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|26°41'52.06" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|10°19'53.91" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°47'1.82" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|4°21'59.85" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Sun|Mercury|Leo|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub>✱ Sxt|<sub>□ Sqr|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>□ Sqr|<sub>△ Trn|<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: CWB, Corityba, Curitiba, Curityba, Curytiba, Kouritiba, Kouritimpa, Kuritib, Kuritiba, Kuritibae, Kuritibo, Kuritiwa, Kuritiyba, Kuriytyva, Kuriytýva, Kuriṭiba, Kuryciba, Kurytyba, Kùrìtíbà, gu li ti ba, ku li qi ba, ku ri ti ba, kulichiba, kurichiba, kuritcibas, kuritiba, kuritipe, kwrytyba, qwrytybh, Κουριτίμπα, Коуритиба, Куритибæ, Куритиба, Курытыба, Курыціба, Կուրիտիբա, קוריטיבא, קוריטיבה, كوريتيبا, کوریتیبا, ܩܘܪܝܛܝܒܐ, कुरितिबा, কুরিটিবা, কুরিতিবা, ਕੁਰੀਤੀਬਾ, குரிடிபே, కురితీబా, ಕುರಿಟಿಬ, กูรีตีบา, კურიტიბა, ኩሪቺባ, ᎫᎵᏘᎦ, クリチバ, 古里提巴, 庫里奇巴, 쿠리치바, 𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰
