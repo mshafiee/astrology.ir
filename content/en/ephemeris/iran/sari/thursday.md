@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|2°25'31.95" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|16°1'39.94" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Direct|6°17'43.26" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|24°49'5.92" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|24°48'19.92" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

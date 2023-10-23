@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|0°34'50.64" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|11°33'24.15" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|9°43'29.46" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|2°44'53.92" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|16°21'19.75" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|6°49'15.57" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|29°28'20.53" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|2°44'39.94" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|16°21'4.17" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|6°49'6.07" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|0°54'57.79" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mercury|Venus|Venus|Mercury|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Scorpio|Sun|Venus|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Sagittarius|Sun|Venus|
-|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°34'50.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°33'27.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|9°43'24.25" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|2°44'39.94" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|11°33'24.15" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|9°43'29.46" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|2°44'53.92" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|16°21'4.17" |Virgo|Awwa|Venus|
 |☿ Mercury|Direct|6°49'6.07" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|0°54'57.79" |Aries|Sharatain|Mars|
