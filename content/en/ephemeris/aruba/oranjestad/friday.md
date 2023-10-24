@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°33'59.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°25'23.68" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|10°24'46.46" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|3°44'45.40" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|17°22'21.74" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|8°26'21.00" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|13°55'20.05" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°25'27.79" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|10°24'40.08" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|3°44'29.44" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|17°22'9.91" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°26'9.77" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|15°28'43.04" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mercury|Venus|Venus|Mercury|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Saturn|Mercury|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Capricorn|Sun|Venus|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°33'59.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°25'23.68" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°24'46.46" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|11°25'27.79" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°24'40.08" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|3°44'29.44" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|17°22'9.91" |Virgo|Simak|Venus|
 |☿ Mercury|Direct|8°26'9.77" |Scorpio|Akleel|Mars|
