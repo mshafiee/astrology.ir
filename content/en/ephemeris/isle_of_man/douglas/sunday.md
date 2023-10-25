@@ -14,7 +14,7 @@ description: 🗓 Sunday, 29 Oct 2023
 toc: false
 ---
 ## Geographic Information of Douglas
-TimeZone: +01:00
+TimeZone: 00:00
 \-
 Latitude: 54.1500
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'39.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°10'24.32" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|11°41'40.90" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|5°36'7.66" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|19°16'49.59" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|11°25'29.86" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|10°49'44.25" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|0°32'5.61" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°2'17.66" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°23'8.26" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|6°36'8.05" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°19'8.44" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|13°1'10.01" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|24°45'10.16" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,10 +313,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Venus|Venus|Sun|Jupiter|
 |♂ Mars|Mercury|Jupiter|Saturn|Venus|
-|☉ Sun|Saturn|Saturn|Venus|Mercury|
-|♀ Venus|Mercury|Jupiter|Jupiter|Sun|
+|☉ Sun|Mercury|Venus|Venus|Mercury|
+|♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Moon|Saturn|Aquarius|Sun|Venus|
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
-|♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
-|☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|♀ Venus|Saturn|Venus|Aries|Moon|Venus|
+|☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'39.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°10'24.29" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°41'41.01" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|5°36'8.77" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°16'55.80" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|11°25'30.21" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°44'25.13" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|0°32'5.61" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|11°2'17.66" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°23'8.26" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|6°36'8.05" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°19'8.44" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|13°1'10.01" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|24°45'10.16" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -352,10 +352,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Mercury|Mercury|Mercury|Mercury|
 |♂ Mars|Mercury|Venus|Jupiter|Jupiter|
-|☉ Sun|Mars|Mars|Mars|Mars|
-|♀ Venus|Jupiter|Saturn|Saturn|Saturn|
+|☉ Sun|Mars|Venus|Mars|Mars|
+|♀ Venus|Jupiter|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -364,9 +364,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
 |♂ Mars|Venus|Venus|Pisces|Moon|Mars|
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
-|♀ Venus|Mars|Mercury|Aries|Sun|Moon|
-|☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|♀ Venus|Mars|Moon|Taurus|Sun|Moon|
+|☿ Mercury|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}

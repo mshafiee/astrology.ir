@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°34'13.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°27'42.09" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|11°27'42.61" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|10°12'53.54" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|3°27'29.00" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|17°4'34.87" |Virgo|Awwa|Venus|

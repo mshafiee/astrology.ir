@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|0°36'42.40" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|11°48'8.29" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|8°27'2.08" |Libra|Ghafr|Moon|
-|☉ Sun|Direct|0°53'55.19" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|14°29'12.79" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|3°47'40.72" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°53'24.17" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|0°53'41.74" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|14°29'4.36" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|3°47'31.22" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°13'9.40" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

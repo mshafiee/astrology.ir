@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|10°24'4.07" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|3°43'43.98" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|17°21'18.90" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|8°24'41.61" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|13°40'6.61" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|8°24'35.65" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|14°51'32.40" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mercury|Venus|Venus|Mercury|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°33'59.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°25'31.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|10°24'4.07" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|3°43'43.98" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|17°21'18.90" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|8°24'41.61" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|13°40'6.61" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|11°25'33.78" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|10°24'0.92" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|3°43'34.77" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|17°21'4.62" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|8°24'35.65" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|14°51'32.40" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

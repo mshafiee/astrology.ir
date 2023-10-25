@@ -14,7 +14,7 @@ description: 🗓 Sunday, 29 Oct 2023
 toc: false
 ---
 ## Geographic Information of Paris
-TimeZone: +02:00
+TimeZone: +01:00
 \-
 Latitude: 48.8534
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'40.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°10'38.49" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|11°40'30.74" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|5°34'27.08" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|19°15'16.35" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|11°22'48.18" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|10°30'16.69" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|0°32'6.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°2'31.28" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°21'58.31" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|6°34'27.09" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°17'23.41" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|12°58'29.00" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|24°18'36.77" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,10 +313,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Venus|Venus|Sun|Jupiter|
 |♂ Mars|Mercury|Jupiter|Saturn|Venus|
-|☉ Sun|Saturn|Saturn|Venus|Mercury|
-|♀ Venus|Mercury|Jupiter|Jupiter|Sun|
+|☉ Sun|Mercury|Venus|Venus|Mercury|
+|♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Moon|Saturn|Aquarius|Sun|Venus|
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
-|♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
-|☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|♀ Venus|Saturn|Venus|Aries|Moon|Venus|
+|☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'40.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°10'37.75" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°40'31.78" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|5°34'28.77" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°15'12.36" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|11°22'49.82" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°17'27.93" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|0°32'6.45" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|11°2'31.28" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°21'58.31" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|6°34'27.09" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°17'23.41" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|12°58'29.00" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|24°18'36.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -352,10 +352,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Mercury|Mercury|Mercury|Mercury|
 |♂ Mars|Mercury|Venus|Jupiter|Jupiter|
-|☉ Sun|Mars|Mars|Mars|Mars|
-|♀ Venus|Jupiter|Saturn|Saturn|Saturn|
+|☉ Sun|Mars|Venus|Mars|Mars|
+|♀ Venus|Jupiter|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -364,9 +364,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
 |♂ Mars|Venus|Venus|Pisces|Moon|Mars|
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
-|♀ Venus|Mars|Mercury|Aries|Sun|Moon|
-|☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|♀ Venus|Mars|Moon|Taurus|Sun|Moon|
+|☿ Mercury|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}

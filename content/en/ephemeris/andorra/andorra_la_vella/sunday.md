@@ -14,7 +14,7 @@ description: 🗓 Sunday, 29 Oct 2023
 toc: false
 ---
 ## Geographic Information of Andorra la Vella
-TimeZone: +02:00
+TimeZone: +01:00
 \-
 Latitude: 42.5078
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'40.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°10'40.48" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|11°40'17.44" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|5°34'7.69" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|19°14'46.92" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|11°22'16.49" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|10°11'38.91" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|0°32'6.59" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°2'34.15" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°21'43.35" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|6°34'5.15" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°16'56.95" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|12°57'54.50" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|24°6'49.51" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,10 +313,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Venus|Venus|Sun|Jupiter|
 |♂ Mars|Mercury|Jupiter|Saturn|Venus|
-|☉ Sun|Saturn|Saturn|Venus|Mercury|
-|♀ Venus|Mercury|Jupiter|Jupiter|Sun|
+|☉ Sun|Mercury|Venus|Venus|Mercury|
+|♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Moon|Saturn|Aquarius|Sun|Venus|
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
-|♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
-|☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|♀ Venus|Saturn|Venus|Aries|Moon|Venus|
+|☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'40.78" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°10'40.47" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°40'17.47" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|5°34'8.28" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°14'46.92" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|11°22'16.49" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°11'38.91" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|0°32'6.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|11°2'34.13" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°21'43.38" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|6°34'5.15" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°16'56.95" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|12°57'54.50" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|24°6'49.51" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -352,10 +352,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Mercury|Mercury|Mercury|Mercury|
 |♂ Mars|Mercury|Venus|Jupiter|Jupiter|
-|☉ Sun|Mars|Mars|Mars|Mars|
-|♀ Venus|Jupiter|Saturn|Saturn|Saturn|
+|☉ Sun|Mars|Venus|Mars|Mars|
+|♀ Venus|Jupiter|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -364,9 +364,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
 |♂ Mars|Venus|Venus|Pisces|Moon|Mars|
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
-|♀ Venus|Mars|Mercury|Aries|Sun|Moon|
-|☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|♀ Venus|Mars|Moon|Taurus|Sun|Moon|
+|☿ Mercury|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}

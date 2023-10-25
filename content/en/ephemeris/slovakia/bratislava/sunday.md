@@ -14,7 +14,7 @@ description: 🗓 Sunday, 29 Oct 2023
 toc: false
 ---
 ## Geographic Information of Bratislava
-TimeZone: +02:00
+TimeZone: +01:00
 \-
 Latitude: 48.1482
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'42.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°10'58.09" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|11°38'47.51" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|5°31'57.96" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|19°12'36.58" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|11°18'48.32" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|9°40'13.75" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|0°32'7.75" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°2'51.75" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°20'13.71" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|6°31'55.02" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°14'40.86" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|12°54'28.26" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|23°40'32.83" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,10 +313,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Venus|Venus|Sun|Jupiter|
 |♂ Mars|Mercury|Jupiter|Saturn|Venus|
-|☉ Sun|Saturn|Saturn|Venus|Mercury|
-|♀ Venus|Mercury|Jupiter|Jupiter|Sun|
+|☉ Sun|Mercury|Venus|Venus|Mercury|
+|♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Moon|Saturn|Aquarius|Sun|Venus|
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
-|♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
-|☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|♀ Venus|Saturn|Venus|Aries|Moon|Venus|
+|☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'42.17" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°10'58.13" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°38'47.46" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|5°31'57.78" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°12'36.25" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|11°18'48.32" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|9°40'13.75" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Retrograde|0°32'7.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|11°2'51.74" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°20'13.77" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|6°31'55.88" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°14'46.21" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|12°54'28.45" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|23°43'14.12" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -352,10 +352,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Mercury|Mercury|Mercury|Mercury|
 |♂ Mars|Mercury|Venus|Jupiter|Jupiter|
-|☉ Sun|Mars|Mars|Mars|Mars|
-|♀ Venus|Jupiter|Saturn|Saturn|Saturn|
+|☉ Sun|Mars|Venus|Mars|Mars|
+|♀ Venus|Jupiter|Saturn|Venus|Moon|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -364,9 +364,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
 |♂ Mars|Venus|Venus|Pisces|Moon|Mars|
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
-|♀ Venus|Mars|Mercury|Aries|Sun|Moon|
-|☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
+|♀ Venus|Mars|Moon|Taurus|Sun|Moon|
+|☿ Mercury|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°33'59.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°25'29.20" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|10°24'25.65" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|3°44'9.87" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|17°21'39.77" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|8°25'33.87" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|15°11'46.47" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|11°25'26.99" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|10°24'29.33" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|3°44'20.59" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|17°21'56.34" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|8°25'40.81" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|13°48'54.41" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Venus|Mercury|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Mercury|Venus|Venus|Mercury|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Scorpio|Sun|Venus|
 |♀ Venus|Saturn|Mercury|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Capricorn|Sun|Venus|
-|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°33'59.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°25'26.99" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|11°25'29.20" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|10°24'25.65" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|3°44'9.87" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|17°21'39.77" |Virgo|Simak|Venus|
