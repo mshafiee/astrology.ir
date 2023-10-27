@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'48.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°57'26.06" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°47'55.92" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|7°12'0.01" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|20°56'29.17" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|13°58'5.50" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°51'44.94" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|10°57'25.95" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°47'56.11" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|7°12'0.65" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°56'30.53" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|13°58'5.86" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°49'53.41" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: FUK, Fucuoca, Fukuoka, Fukuoka-shi, Fukuokashi, Hukuoka, fu gang, fu gang shi, fukuoka, fukuokashi, fwkwka, hukuoka si, Фукуока, فوكوكا, ふくおか, ふくおかし, フクオカ, フクオカシ, 福岡, 福岡市, 후쿠오카 시

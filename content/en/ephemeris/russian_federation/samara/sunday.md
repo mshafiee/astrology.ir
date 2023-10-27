@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'45.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°11'38.95" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|11°35'19.31" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|5°26'55.69" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|19°7'22.50" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|11°10'46.11" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|8°38'57.48" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|0°32'45.37" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°11'38.82" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|11°35'19.54" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|5°26'56.57" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|19°7'24.99" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°10'46.58" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|8°33'18.38" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°32'45.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°11'38.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°35'19.31" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|5°26'55.69" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°7'22.50" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|11°10'46.11" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|8°38'57.48" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Retrograde|11°11'38.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°35'19.41" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|5°26'56.35" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°7'25.45" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|11°10'46.38" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|8°34'51.35" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

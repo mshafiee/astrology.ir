@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'49.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°57'40.95" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°46'49.59" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|0°31'48.82" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|10°57'38.14" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°46'53.96" |Libra|Ghafr|Saturn|
 |☉ Sun|Direct|7°10'30.73" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|20°54'56.73" |Leo|Zubrah|Mars|
 |☿ Mercury|Direct|13°55'43.42" |Libra|Jubana|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시

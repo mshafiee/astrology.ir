@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°33'0.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°14'47.85" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|11°19'12.20" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|5°3'35.89" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|18°43'19.55" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|10°33'22.14" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|3°2'25.79" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|0°33'2.00" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°14'49.76" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|11°19'9.02" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|5°3'26.28" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|18°43'3.09" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|10°33'16.13" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|4°9'45.61" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°33'0.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°14'47.85" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|11°19'12.20" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|5°3'35.89" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°43'19.55" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|10°33'22.14" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°2'25.79" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|11°14'49.76" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°19'9.02" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|5°3'26.28" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°43'3.09" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|10°33'16.13" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|4°9'45.61" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
