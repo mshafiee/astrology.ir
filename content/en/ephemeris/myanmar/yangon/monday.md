@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°32'15.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°4'53.37" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°9'51.62" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|6°16'56.32" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|19°59'11.88" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|12°30'35.34" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|20°6'42.74" |Aries|Butain|Venus|
+|♃ Jupiter|Retrograde|11°4'55.42" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°9'48.51" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|6°16'49.20" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|19°59'10.54" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|12°30'29.96" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|21°0'17.41" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Venus|Mercury|
 |♀ Venus|Mercury|Jupiter|Jupiter|Sun|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°32'15.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°4'53.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°9'51.62" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|6°16'56.32" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°59'11.88" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|12°30'35.34" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|20°6'42.74" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Retrograde|11°4'53.36" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°9'51.63" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|6°16'56.33" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°59'11.70" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|12°30'35.36" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|20°6'19.83" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
