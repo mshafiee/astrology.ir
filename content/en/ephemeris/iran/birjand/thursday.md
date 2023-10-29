@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'3.38" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°39'31.94" |Aries|Sharatain|Sun|
+|♃ Jupiter|Retrograde|10°39'31.96" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|14°19'12.45" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|9°23'53.92" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°14'53.59" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°25'51.46" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°2'50.69" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|23°14'54.55" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°25'51.42" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°7'3.43" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|0°31'3.38" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|10°39'31.94" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°19'12.45" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°23'53.71" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°14'53.80" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°25'51.27" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°5'49.33" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°23'54.01" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°14'54.55" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°25'51.42" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°7'3.43" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Birdjand, Birdschand, Birdzhend, Birjand, Bīrjand, XBJ, byrjnd, Бирдженд, Бӣрҷанд, بيرجند, بیرجند

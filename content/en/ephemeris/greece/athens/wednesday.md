@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'2.03" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|10°38'41.22" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|14°23'31.28" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|9°30'7.52" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°21'27.91" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°35'36.58" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°24'12.96" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|14°23'29.20" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|9°30'2.80" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|23°21'28.50" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°35'32.79" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|4°8'51.69" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'2.03" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°38'42.53" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°23'29.20" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°30'2.80" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°21'28.50" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°35'32.79" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°8'51.69" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|10°38'41.22" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°23'31.28" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|9°30'7.52" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°21'27.91" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°35'36.58" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°24'12.96" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: ATH, Afina, Afini, Afiny, An Aithin, Ateena, Atehny, Aten, Atena, Atenai, Atenas, Atenas - Athena, Atenas - Αθήνα, Atene, Atenes, Ateni, Ateno, Atenoj, Ateny, Athen, Athena, Athenae, Athenai, Athene, Athenes, Athens, Atheny, Athina, Athinai, Athinia, Athènes, Athén, Athénes, Athény, Athína, Athínai, Atina, Atény, Atēnas, Atėnai, Aþena, Kota Athena, Lungsod ng Athina, Lungsod ng Athína, atene, atene si, ateni, athensa, athyna, atn, etens, xethens, ya dian, Αθήνα, Αθήναι, Αθηνα, Αθηναι, Атина, Атэны, Афины, Афіни, Аѳины, Աթենք, אתונה, آتن, أثينا, ئافېنا, ܐܬܝܢܐ, अथेन्स, ஏதென்ஸ், เอเธนส์, ათენი, Ἀθῆναι, アテネ, 雅典, 아테네, 아테네 시
