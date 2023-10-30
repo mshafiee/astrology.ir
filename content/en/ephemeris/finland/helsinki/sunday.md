@@ -14,7 +14,7 @@ description: 🗓 Sunday, 29 Oct 2023
 toc: false
 ---
 ## Geographic Information of Helsinki
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 60.1695
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'7.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°2'50.76" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°20'19.76" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|6°32'4.00" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|20°14'54.74" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|12°54'42.46" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|23°53'4.05" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|0°32'42.20" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°10'57.49" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|11°38'51.67" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|5°32'3.33" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|19°12'42.06" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°18'58.18" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|9°50'58.48" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,10 +313,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Venus|Venus|Sun|Jupiter|
 |♂ Mars|Mercury|Jupiter|Saturn|Venus|
-|☉ Sun|Mercury|Venus|Venus|Mercury|
-|♀ Venus|Mercury|Jupiter|Mars|Mars|
+|☉ Sun|Saturn|Saturn|Venus|Mercury|
+|♀ Venus|Mercury|Jupiter|Jupiter|Sun|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Moon|Saturn|Aquarius|Sun|Venus|
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
-|♀ Venus|Saturn|Venus|Aries|Moon|Venus|
-|☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
+|☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'7.77" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°2'50.76" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°20'19.76" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|6°32'4.00" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°14'54.74" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|12°54'42.46" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|23°53'4.05" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|0°32'42.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|11°10'57.49" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°38'51.67" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|5°32'3.33" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°12'42.06" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|11°18'58.18" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|9°42'6.40" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -352,10 +352,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Mercury|Mercury|Mercury|Mercury|
 |♂ Mars|Mercury|Venus|Jupiter|Jupiter|
-|☉ Sun|Mars|Venus|Mars|Mars|
-|♀ Venus|Jupiter|Saturn|Venus|Moon|
+|☉ Sun|Mars|Mars|Mars|Mars|
+|♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -364,9 +364,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
 |♂ Mars|Venus|Venus|Pisces|Moon|Mars|
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
-|♀ Venus|Mars|Moon|Taurus|Sun|Moon|
-|☿ Mercury|Mercury|Venus|Aries|Moon|Mars|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|♀ Venus|Mars|Mercury|Aries|Sun|Moon|
+|☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'47.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°57'19.01" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°48'31.51" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|7°12'51.76" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|20°57'23.49" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|13°59'26.98" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°1'4.69" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|10°57'19.13" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°48'31.32" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|7°12'50.53" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°57'17.39" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|13°59'26.59" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°54'42.43" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|12°48'31.46" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|7°12'51.67" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|20°57'23.78" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|13°59'26.98" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°1'4.69" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|13°59'26.88" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°2'39.70" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Chemulpo, Incchon, Inch'on, Inch'ŏn, Incheon, Incheon-si, Inchkhon, Inchkhun, Inchon, Inchona, Incon, Inconas, Incshon, Intson, Inĉon, Inčchon, Inčhona, Inčonas, JCN, Nhan Xuyen, Nhân Xuyên, anchn, antshwn, aynchywn, incevona, incheon, incheongwang-yeogsi, incheonsi, inkiyon, ren chuan guang yu shi, xin chxn, İncheon, Ίντσον, Інчхон, Инчон, Инчхон, Инчхън, אינצ'ון, إنتشون, انچن, اینچئون, इंचेवॉन, இங்கியோன், อินช็อน, 仁川广域市, 仁川広域市, 仁川廣域市, 인천, 인천광역시, 인천시

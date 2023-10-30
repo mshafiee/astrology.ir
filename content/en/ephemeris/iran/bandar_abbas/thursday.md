@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'3.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°39'30.72" |Aries|Sharatain|Sun|
+|♃ Jupiter|Retrograde|10°39'30.74" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|14°19'18.55" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|9°24'2.81" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°15'3.72" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°26'4.80" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°11'53.36" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|9°24'2.35" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|23°14'59.20" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°26'5.28" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|1°48'10.58" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|0°31'3.33" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|10°39'30.72" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°19'18.55" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°24'2.81" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°15'3.72" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°26'4.80" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°11'53.36" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°24'2.35" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°14'59.20" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°26'5.28" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|1°48'10.58" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: BND, Bandar Abas, Bandar Abbas, Bandar Abbas - بندر عباس, Bandar Abbás, Bandar `Abbas, Bandar `Abbasi, Bandar ‘Abbās, Bandar ‘Abbāsī, Bandar-Abbas, Bandar-Abbasz, Bandar-Abbos, Bandar-Abbász, Bandar-e Abbas, Bandar-e `Abbas, Bandar-e ‘Abbās, Bandare Abasas, Bander Abbas, Bantar Ampas, Bendehr-Abas, Bender Abas, Bender Abbas, Bender Ebbas, Bender-Abbas, Bəndər Abbas, Cambarao, Cambarão, Gombroon, Gumrun, Port Comorao, Port Comorão, a ba si gang, ban dar xab bas, bandaleuabaseu, bandara abbasa, bandara-e-abbasa, bender-abasi, bndr ʻbʼs, bndr ʿbas, gumbrun, Μπαντάρ Αμπάς, Бандар-Аббос, Бендер Абас, Бендер-Аббас, Бендэр-Абас, Բանդեր Աբբաս, בנדר עבאס, بندر عباس, بندرعباس, بَندَر عَبّاسی, بَندَرِ عَبّاس, بەندەر عەباس, گُمبرُّن, बंदर-ए-अब्बास, বন্দর আব্বাস, บันดาร์อับบาส, ბენდერ-აბასი, バンダレ・アッバース, 阿巴斯港, 반다르아바스

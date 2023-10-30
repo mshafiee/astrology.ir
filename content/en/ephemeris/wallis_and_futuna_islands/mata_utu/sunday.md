@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|0°33'2.18" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|11°15'7.06" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|11°17'33.42" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|5°1'5.15" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|18°40'37.27" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|10°29'27.71" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|3°22'2.43" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|5°1'13.03" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|18°40'52.26" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|10°29'32.52" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|2°25'33.65" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|0°33'2.18" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|11°15'7.06" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|11°17'33.42" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|5°1'5.15" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°40'37.27" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|10°29'27.71" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°22'2.43" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|5°1'13.03" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°40'52.26" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|10°29'32.52" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°25'33.65" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

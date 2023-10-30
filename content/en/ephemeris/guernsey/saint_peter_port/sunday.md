@@ -14,7 +14,7 @@ description: 🗓 Sunday, 29 Oct 2023
 toc: false
 ---
 ## Geographic Information of Saint Peter Port
-TimeZone: 00:00
+TimeZone: +01:00
 \-
 Latitude: 49.4598
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'6.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°2'24.23" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°22'34.36" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|6°35'19.22" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|20°18'17.62" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|12°59'51.96" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|24°31'0.58" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|0°32'40.07" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°10'30.73" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|11°41'7.73" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|5°35'20.79" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|19°16'6.15" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°24'13.07" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|10°30'6.02" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,10 +313,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Venus|Venus|Sun|Jupiter|
 |♂ Mars|Mercury|Jupiter|Saturn|Venus|
-|☉ Sun|Mercury|Venus|Venus|Mercury|
-|♀ Venus|Mercury|Jupiter|Mars|Mars|
+|☉ Sun|Saturn|Saturn|Venus|Mercury|
+|♀ Venus|Mercury|Jupiter|Jupiter|Sun|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Moon|Saturn|Aquarius|Sun|Venus|
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
-|♀ Venus|Saturn|Venus|Aries|Moon|Venus|
-|☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
+|☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'6.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°2'24.23" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°22'34.36" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|6°35'19.22" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°18'17.62" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|12°59'51.96" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|24°31'0.58" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|0°32'40.07" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|11°10'30.73" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°41'7.73" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|5°35'18.19" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°16'10.49" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|11°24'10.71" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|10°49'44.26" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -352,10 +352,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Mercury|Mercury|Mercury|Mercury|
 |♂ Mars|Mercury|Venus|Jupiter|Jupiter|
-|☉ Sun|Mars|Venus|Mars|Mars|
-|♀ Venus|Jupiter|Saturn|Venus|Moon|
+|☉ Sun|Mars|Mars|Mars|Mars|
+|♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -364,9 +364,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
 |♂ Mars|Venus|Venus|Pisces|Moon|Mars|
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
-|♀ Venus|Mars|Moon|Taurus|Sun|Moon|
-|☿ Mercury|Mercury|Venus|Aries|Moon|Mars|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|♀ Venus|Mars|Mercury|Aries|Sun|Moon|
+|☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}

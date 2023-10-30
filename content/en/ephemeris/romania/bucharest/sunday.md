@@ -14,7 +14,7 @@ description: 🗓 Sunday, 29 Oct 2023
 toc: false
 ---
 ## Geographic Information of Bucharest
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 44.4323
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'8.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°3'6.38" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°18'58.77" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|6°30'7.52" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|20°12'53.55" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|12°51'35.79" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|23°16'14.10" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|0°32'43.28" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°11'12.65" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|11°37'32.90" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|5°30'9.97" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|19°10'44.81" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°15'55.45" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|9°13'56.85" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,10 +313,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Venus|Venus|Sun|Jupiter|
 |♂ Mars|Mercury|Jupiter|Saturn|Venus|
-|☉ Sun|Mercury|Venus|Venus|Mercury|
-|♀ Venus|Mercury|Jupiter|Mars|Mars|
+|☉ Sun|Saturn|Saturn|Venus|Mercury|
+|♀ Venus|Mercury|Jupiter|Jupiter|Sun|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Moon|Saturn|Aquarius|Sun|Venus|
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
-|♀ Venus|Saturn|Venus|Aries|Moon|Venus|
-|☿ Mercury|Saturn|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
+|♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
+|☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'8.67" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°3'6.38" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°18'58.77" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|6°30'7.52" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°12'53.55" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|12°51'35.79" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|23°22'37.59" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|0°32'43.28" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|11°11'15.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°37'29.09" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|5°30'1.54" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°10'45.30" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|11°15'48.96" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|10°12'39.39" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -352,10 +352,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Mercury|Mercury|Mercury|Mercury|
 |♂ Mars|Mercury|Venus|Jupiter|Jupiter|
-|☉ Sun|Mars|Venus|Mars|Mars|
-|♀ Venus|Jupiter|Saturn|Venus|Moon|
+|☉ Sun|Mars|Mars|Mars|Mars|
+|♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -364,9 +364,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
 |♂ Mars|Venus|Venus|Pisces|Moon|Mars|
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
-|♀ Venus|Mars|Moon|Taurus|Sun|Moon|
-|☿ Mercury|Mercury|Venus|Aries|Moon|Mars|
-|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
+|♀ Venus|Mars|Mercury|Aries|Sun|Moon|
+|☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}

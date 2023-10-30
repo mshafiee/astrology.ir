@@ -14,7 +14,7 @@ description: 🗓 Sunday, 29 Oct 2023
 toc: false
 ---
 ## Geographic Information of Kharkiv
-TimeZone: +02:00
+TimeZone: +03:00
 \-
 Latitude: 49.9808
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'9.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°3'16.31" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°18'8.45" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|6°28'54.51" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|20°11'37.70" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|12°49'40.02" |Libra|Ghafr|Saturn|
-|☾ Moon|Direct|23°2'15.66" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|0°32'44.08" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|11°11'22.65" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|11°36'42.09" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|5°28'56.22" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|19°9'28.61" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|11°13'57.82" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|8°59'33.64" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,10 +313,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Venus|Venus|Sun|Jupiter|
 |♂ Mars|Mercury|Jupiter|Saturn|Venus|
-|☉ Sun|Mercury|Venus|Venus|Mercury|
-|♀ Venus|Mercury|Jupiter|Mars|Mars|
+|☉ Sun|Saturn|Saturn|Venus|Mercury|
+|♀ Venus|Mercury|Jupiter|Jupiter|Sun|
 |☿ Mercury|Mercury|Jupiter|Saturn|Venus|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Moon|Saturn|Aquarius|Sun|Venus|
 |☉ Sun|Mercury|Mars|Sagittarius|Sun|Venus|
-|♀ Venus|Saturn|Venus|Aries|Moon|Venus|
-|☿ Mercury|Moon|Saturn|Pisces|Sun|Venus|
-|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
+|♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
+|☿ Mercury|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°32'9.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°3'16.31" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°18'8.45" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|6°28'54.51" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°11'37.70" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|12°49'40.02" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|23°2'15.66" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|0°32'44.08" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|11°11'22.91" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|11°36'41.73" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|5°28'55.81" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°9'31.44" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|11°13'57.28" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|9°2'49.47" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -352,10 +352,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Mercury|Mercury|Mercury|Mercury|
 |♂ Mars|Mercury|Venus|Jupiter|Jupiter|
-|☉ Sun|Mars|Venus|Mars|Mars|
-|♀ Venus|Jupiter|Saturn|Venus|Moon|
+|☉ Sun|Mars|Mars|Mars|Mars|
+|♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -364,9 +364,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
 |♂ Mars|Venus|Venus|Pisces|Moon|Mars|
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
-|♀ Venus|Mars|Moon|Taurus|Sun|Moon|
-|☿ Mercury|Venus|Venus|Aries|Moon|Mars|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|♀ Venus|Mars|Mercury|Aries|Sun|Moon|
+|☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
+|☾ Moon|Moon|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
