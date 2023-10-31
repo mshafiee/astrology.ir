@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'51.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°30'6.17" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|15°7'18.91" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|10°33'19.81" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|24°28'21.21" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|19°14'16.35" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|16°48'45.05" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|10°30'6.39" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|15°7'18.57" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|10°33'18.80" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|24°28'19.49" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|19°14'15.76" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|16°46'38.33" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'51.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°30'6.15" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°7'18.96" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|10°33'19.72" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|24°28'19.58" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|19°14'16.48" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|16°39'31.49" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|10°30'6.39" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°7'18.57" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|10°33'18.80" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|24°28'19.49" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|19°14'15.76" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|16°46'38.33" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Mars|Mars|Capricorn|Sun|Mars|
+|☾ Moon|Mars|Jupiter|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°32'3.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|11°1'51.83" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|12°25'21.88" |Libra|Ghafr|Saturn|
-|☉ Sun|Direct|6°39'20.79" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|20°22'29.19" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|13°6'17.77" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|25°38'56.92" |Aries|Butain|Venus|
+|♃ Jupiter|Retrograde|11°1'51.22" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|12°25'22.82" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|6°39'23.30" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|20°22'32.28" |Leo|Zubrah|Mars|
+|☿ Mercury|Direct|13°6'19.43" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|25°24'53.23" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°32'3.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|11°1'52.27" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|12°25'21.06" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|6°39'17.44" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°22'19.42" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|13°6'16.11" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|25°47'33.63" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Retrograde|11°1'51.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|12°25'21.88" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|6°39'20.79" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°22'32.28" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|13°6'19.43" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|25°24'53.23" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
 |♀ Venus|Mars|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Mercury|Venus|Aries|Moon|Mars|
-|☾ Moon|Sun|Sun|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}

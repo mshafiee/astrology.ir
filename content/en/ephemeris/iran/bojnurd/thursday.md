@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|10°39'27.06" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|14°19'37.54" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|9°24'30.04" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°15'31.73" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°26'48.23" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°11'33.82" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|23°15'32.49" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°26'48.41" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°12'21.50" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'3.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°39'27.06" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°19'37.54" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°24'30.04" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°15'31.73" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°26'48.23" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°11'33.82" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|10°39'26.99" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°19'37.64" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|9°24'30.39" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°15'32.49" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°26'48.41" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°12'21.50" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BJB, Bodzhnurd, Bojnord, Bojnourd, Bojnurd, Bojnūrd, Bujnurd, Bujnūrd, bjnwrd, Боджнурд, بجنورد

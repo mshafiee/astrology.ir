@@ -301,10 +301,10 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'3.01" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|10°39'17.71" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|14°20'25.04" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|9°25'37.87" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°16'38.70" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°28'35.73" |Libra|Jubana|Saturn|
+|♂ Mars|Direct|14°20'25.14" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|9°25'38.80" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|23°16'44.27" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°28'35.83" |Libra|Jubana|Saturn|
 |☾ Moon|Direct|2°26'3.97" |Gemini|HaqAh|Jupiter|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'3.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°39'17.80" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°20'25.04" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°25'37.87" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°16'38.70" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°28'35.73" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°4'38.38" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|10°39'17.68" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°20'25.18" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|9°25'38.93" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°16'44.47" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°28'35.91" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°25'54.14" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Dakbayan sa Qazvin, GZW, Gazvin, Kazvin, Kazvinas, Kazvín, Kazwin, Kuazvin, Qazvin, Qazvín, Qazvīn, Qazwen, Qazwên, Qəzvin, gazuvu~in, jia ci wen, kajeubin, kazvina, kxs win, qzwyn, Казвин, Казвін, Къазвин, Қазвин, Ղազվին, قزوين, قزوین, قەزوین, कज़्वीन, กอซวีน, ყაზვინი, ガズヴィーン, 加兹温, 카즈빈
