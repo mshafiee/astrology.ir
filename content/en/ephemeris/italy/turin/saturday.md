@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'48.58" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|10°21'55.42" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|15°49'2.73" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|11°33'29.67" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|25°32'28.11" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|20°47'44.53" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|0°12'1.12" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°49'5.16" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|11°33'34.82" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|25°32'25.14" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|20°47'49.10" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|29°15'12.30" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Mars|Mars|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'48.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°21'56.90" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°49'2.73" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|11°33'29.67" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|10°21'55.42" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°49'5.16" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|11°33'34.82" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|25°32'28.11" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|20°47'44.53" |Scorpio|Qalb|Venus|
 |☾ Moon|Direct|0°12'1.12" |Leo|Jabhah|Saturn|

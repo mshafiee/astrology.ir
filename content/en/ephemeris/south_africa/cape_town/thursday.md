@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'2.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°39'6.82" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|14°21'31.86" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|9°27'8.66" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°18'14.32" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°31'9.09" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°4'27.20" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|10°39'4.56" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|14°21'35.35" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|9°27'18.84" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|23°18'30.40" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°31'15.27" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°0'30.35" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'2.77" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°39'6.82" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°21'31.86" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°27'8.66" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°18'14.32" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°31'9.09" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°4'27.20" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|10°39'4.56" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°21'35.35" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|9°27'18.84" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°18'30.40" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°31'15.27" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°0'30.35" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Altepetl In Cabo, Ar Chab, CPT, Cape Toun, Cape Town, Cidade do Cabo, Cita del Cap, Citati du Capu, Citati dû Capu, Citta del Capo, Cittae do Cavo, Città del Capo, Cità del Cap, Ciuda del Cabu, Ciudad del Cabo, Ciudat do Cabo, Ciudá del Cabu, Ciutat del Cap, Civitas Capitis, El Cabo, Fokvaros, Fokváros, Hoefdaborg, Hovdastadur, Höfðaborg, Høvdastaður, IKapa, Kaapstad, Kaapsted, Kaapstêd, Kab town, Kabe Urbe, Kaburbo, Kaepstad, Kapetown, Kapkaupunki, Kaplinn, Kapske Mesto, Kapske Misto, Kapské Mesto, Kapské Město, Kapstad, Kapstaden, Kapstadt, Kapsztad, Kapétown, Keip Taoun, Keiptaun, Keiptauna, Keiptaunas, Keiptauns, Kejptaun, Keyptaun, Keyptawn, Keýptaun, Le Cap, Li Kap, Lo Cap, Lurmutur Hiria, Lé Cap, Sita del Cao, Sita del Cap, Sità del Cao, Sità dël Cap, Tref y Penrhyn, Yvy akua Tava, Yvy akua Táva, hao wang jiao zhen, iKapa, kai pu dui, kai pu dun, keipeutaun, kep taun, kep tavun, kepa ta'una, kepata'una, keputaun, khep thawn, kyb tawn, kېp ټawn, Çittæ do Cavo, Κέιπ Τάουν, Капске Місто, Кейптаун, Кейптаўн, Кејптаун, Քեյփթաուն, קאפשטאט, קייפטאון, كيب تاون, کیپ ٹاؤن, کیپ‌تاون, کېپ ټاون, کەیپ تاون, केपटाउन, केपताउन, কেপ টাউন, ਕੇਪਟਾਊਨ, કેપ ટાઉન, କେପ ଟାଉନ, கேப் டவுன், కేప్ టౌన్, ಕೇಪ್ ಟೌನ್, കേപ് ടൗൺ, เคปทาวน์, ကိပ်တောင်းမြို့, კეიპტაუნი, ኬፕ ታውን, ケープタウン, 好望角鎮, 開普敦, 케이프타운

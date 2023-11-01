@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'2.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°39'16.37" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|14°20'31.88" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|9°25'48.56" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°16'54.40" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°28'51.06" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°26'51.17" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|10°39'16.38" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|14°20'31.86" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|9°25'48.54" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|23°16'52.81" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°28'51.19" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°19'1.00" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'2.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°39'16.37" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°20'31.88" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°25'48.56" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°16'54.40" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°28'51.06" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°26'51.17" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|10°39'16.38" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°20'31.86" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|9°25'48.50" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°16'52.81" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°28'51.19" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°19'1.00" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Ecbatana, HDM, Hamadan, Hamadān, Hamedan, Hamedān, Khamadan, hmdan, Хамадан, همدان

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'3.37" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|10°39'30.79" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|14°19'18.46" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|9°24'2.66" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°15'3.60" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°26'5.07" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°8'54.36" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|14°19'18.45" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|9°24'2.51" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|23°15'2.68" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°26'5.06" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°5'23.22" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: MHD, Masant, Masat, Maschhad, Mashad, Mashado, Mashhad, Mashkhad, Masyhad, Maxhad, Maŝhado, Maşat, Mašhad, Mașhad, Meixad, Meshed, Mesheda, Meshedas, Meshkhed, MeshkhӀed, Meszhed, Mexed, Meşhed, Mešheda, Mešhedas, Məshəd, Məşhəd, ma shen ha de, mach had, macukat, masahada, mashuhado, masyuhadeu, meshhedi, mshd, mshhd, Μασάντ, Машхад, Машҳад, Мешхед, МешхӀед, Мешһед, Мәшһәд, Մաշհադ, משהד, مشهد, مشہد, مەشھەد, मशहद, মাশহাদ, ਮਸ਼ਹਦ, மசுகாத், മശ്‌ഹദ്, มัชฮัด, მეშჰედი, マシュハド, 馬什哈德, 마슈하드

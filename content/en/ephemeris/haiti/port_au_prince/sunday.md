@@ -14,7 +14,7 @@ description: 🗓 Sunday, 05 Nov 2023
 toc: false
 ---
 ## Geographic Information of PortauPrince
-TimeZone: -04:00
+TimeZone: -05:00
 \-
 Latitude: 18.5435
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°30'52.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°12'11.41" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|16°38'53.75" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|12°45'22.88" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|26°49'8.33" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|22°38'40.56" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|13°48'0.55" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|0°31'2.95" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|10°4'3.24" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°20'40.52" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|13°45'33.35" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|27°53'44.31" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|24°11'6.04" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|25°51'38.36" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -315,19 +315,19 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Jupiter|Saturn|Venus|
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
-|☿ Mercury|Venus|Mercury|Mercury|Sun|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☿ Mercury|Venus|Mars|Mercury|Sun|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Venus|Aquarius|Sun|Saturn|
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
-|♂ Mars|Saturn|Saturn|Aries|Moon|Moon|
-|☉ Sun|Moon|Saturn|Pisces|Sun|Venus|
-|♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
-|☿ Mercury|Mars|Mars|Cancer|Moon|Moon|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|♂ Mars|Jupiter|Jupiter|Aries|Moon|Moon|
+|☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
+|♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
+|☿ Mercury|Mars|Venus|Cancer|Moon|Moon|
+|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°30'52.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°12'11.54" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|16°38'53.50" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|12°45'22.51" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|26°49'9.78" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|22°38'40.04" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|14°0'9.25" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|0°31'2.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|10°4'3.24" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°20'40.52" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|13°45'33.35" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|27°53'44.31" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°11'6.04" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°51'38.36" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -354,19 +354,19 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Jupiter|Jupiter|Jupiter|
 |☉ Sun|Mercury|Venus|Jupiter|Jupiter|
 |♀ Venus|Mars|Mars|Venus|Moon|
-|☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Jupiter|Sun|
+|☿ Mercury|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
-|♂ Mars|Mercury|Mars|Taurus|Sun|Sun|
-|☉ Sun|Venus|Venus|Aries|Moon|Mars|
-|♀ Venus|Venus|Mercury|Cancer|Sun|Moon|
+|♂ Mars|Moon|Jupiter|Taurus|Sun|Sun|
+|☉ Sun|Mercury|Mars|Aries|Moon|Mars|
+|♀ Venus|Venus|Mercury|Leo|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
+|☾ Moon|Mars|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}

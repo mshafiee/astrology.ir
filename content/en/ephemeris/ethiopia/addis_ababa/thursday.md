@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'2.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°39'13.77" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|14°20'45.10" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|9°26'7.80" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°17'14.87" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°29'20.94" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°30'48.59" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|10°39'14.81" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|14°20'43.42" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|9°26'3.97" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|23°17'15.67" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°29'17.84" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°9'12.07" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'2.84" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°39'15.17" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°20'42.93" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°26'1.23" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°17'3.19" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°29'17.10" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°27'12.38" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|10°39'14.81" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°20'43.42" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|9°26'3.97" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°17'15.67" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°29'17.84" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°9'12.07" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Gemini|Sun|Moon|
 |☿ Mercury|Moon|Jupiter|Taurus|Sun|Sun|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바
