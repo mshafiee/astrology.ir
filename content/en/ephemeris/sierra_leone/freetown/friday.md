@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'51.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°29'54.12" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|15°8'19.61" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|10°34'47.92" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|24°29'54.61" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|19°16'32.54" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|17°4'10.00" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|10°29'56.83" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|15°8'15.49" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|10°34'36.16" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|24°29'36.69" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|19°16'25.39" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|16°50'42.80" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Venus|
 |♀ Venus|Mars|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Saturn|Venus|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'51.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°29'54.12" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°8'19.61" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|10°34'47.92" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|24°29'54.61" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|19°16'32.54" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|17°4'10.00" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|10°29'56.83" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°8'15.49" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|10°34'36.16" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|24°29'36.69" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|19°16'25.39" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|16°50'42.80" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

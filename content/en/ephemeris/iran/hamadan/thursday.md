@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|10°39'16.38" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|14°20'31.86" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|9°25'48.54" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°16'52.81" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°28'51.19" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°19'1.00" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|23°16'54.54" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°28'51.02" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°27'49.82" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|0°31'2.96" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|10°39'16.38" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°20'31.86" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°25'48.50" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°16'52.81" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°28'51.19" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°19'1.00" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|9°25'48.54" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°16'54.54" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°28'51.02" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°27'49.82" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Ecbatana, HDM, Hamadan, Hamadān, Hamedan, Hamedān, Khamadan, hmdan, Хамадан, همدان

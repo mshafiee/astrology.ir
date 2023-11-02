@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|8°26'20.14" |Libra|Ghafr|Moon|
 |♀ Venus|Direct|22°14'18.27" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|15°55'29.08" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|19°26'7.03" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°30'24.58" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'19.23" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|10°47'20.98" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|13°39'21.37" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|8°26'20.16" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|22°14'17.31" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|15°55'29.19" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|19°26'7.03" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|13°39'21.31" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°26'20.14" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|22°14'18.27" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|15°55'29.08" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|19°30'24.58" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
