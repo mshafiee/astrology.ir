@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'2.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°39'1.95" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|14°21'46.10" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|9°27'35.40" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°18'47.74" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°31'38.96" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°55'48.79" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|10°39'2.14" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|14°21'45.79" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|9°27'34.55" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|23°18'46.61" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°31'38.42" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|2°57'20.65" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Casanum, Caza, Cazã, KZN, Kaasan, Kasa, Kasan, Kasã, Kazan, Kazan', Kazan' osh, Kazana, Kazane, Kazani, Kazanj, Kazano, Kazanė, Kazan’, Kazań, Kazaņa, Kazaň, Kazán, Khuazan, Khusan, Kozan', Kuazan, Kuzon, Qazan, Qozon, ka shan, kajan, kajhana, kazan, kazana, kha san, qazan, Καζάν, Казан, Казань, Казань ош, Казањ, Каꙁанъ, Козань, Кузон, Къазан, Озаҥ, Хусан, Хъазан, Қазан, Ҡazan, Ҡазан, Կազան, קאזאן, قازان, كازان, کازان, कझान, काज़ान, คาซาน, ყაზანი, カザン, 喀山, 카잔

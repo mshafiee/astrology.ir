@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|10°38'27.50" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|14°24'42.13" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|9°31'49.31" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°22'59.14" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°38'10.39" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|3°54'8.34" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|23°23'15.48" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°38'16.85" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°50'25.36" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'1.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°38'27.50" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|10°38'29.92" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|14°24'38.43" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|9°31'38.77" |Scorpio|Qalb|Mars|
 |♀ Venus|Direct|23°22'59.14" |Virgo|Simak|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Barsobia, Varsa, Varsava, Varsavia, Varsavja, Varshava, Varshavae, Varsja, Varsjá, Varso, Varsova, Varsovia, Varsovia - Warszawa, Varsovie, Varsovio, Varssavi, Varsuva, Varsòvia, Varsó, Varsóvia, Varşova, Varšava, Varšuva, Varșovia, Vársá, WAW, Warsaw, Warsawa, Warschau, Warskou, Warszaw, Warszawa, Waršawa, baleusyaba, hua sha, varshava, vorso, warsw, warushawa, wrsh, wrshw, wrsw, wxrsx, Βαρσοβία, Варшавæ, Варшава, Վարշավա, ווארשע, ורשה, װאַרשע, وارسو, ورشو, ۋارشاۋا, ܘܪܣܘ, वॉर्सो, วอร์ซอ, ვარშავა, ዋርሶው, ワルシャワ, 华沙, 華沙, 바르샤바

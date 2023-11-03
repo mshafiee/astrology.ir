@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'48.49" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|10°22'7.00" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|15°48'1.46" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|11°32'0.07" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|25°30'53.55" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|20°45'28.22" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|0°1'5.67" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°48'5.34" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|11°32'9.01" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|25°30'53.63" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|20°45'35.41" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|28°56'16.54" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Mars|Mars|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'48.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°22'9.39" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°48'1.46" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|11°32'0.07" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°30'53.55" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|10°22'7.00" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°48'5.34" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|11°32'9.01" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°30'53.63" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|20°45'28.22" |Scorpio|Qalb|Venus|
 |☾ Moon|Direct|0°1'5.67" |Leo|Jabhah|Saturn|
 

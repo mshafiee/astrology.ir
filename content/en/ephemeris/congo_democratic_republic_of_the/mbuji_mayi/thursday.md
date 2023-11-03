@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|0°31'2.47" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|10°38'58.95" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|14°22'1.35" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|9°27'57.61" |Libra|Ghafr|Moon|
-|♀ Venus|Direct|23°19'10.90" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|17°32'13.48" |Libra|Jubana|Saturn|
-|☾ Moon|Direct|2°57'25.15" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|9°27'40.96" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|23°18'53.82" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|17°32'2.28" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|3°50'55.83" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Capricorn|Sun|Venus|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Moon|Moon|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'2.47" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°38'58.95" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|14°22'1.35" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°27'57.61" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|23°19'10.90" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°32'13.48" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°57'25.15" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|10°39'3.01" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|14°21'55.05" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|9°27'40.96" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|23°18'53.82" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°32'2.28" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°50'55.83" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Sun|Moon|Gemini|Sun|Moon|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи
