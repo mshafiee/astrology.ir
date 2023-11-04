@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'48.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°20'0.19" |Aries|Sharatain|Sun|
+|♃ Jupiter|Retrograde|10°20'0.50" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|15°58'58.82" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|11°47'46.97" |Libra|Ghafr|Saturn|
 |♀ Venus|Direct|25°47'27.30" |Leo|Sarfrah|Mars|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°30'49.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|0°30'48.61" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|10°20'0.50" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|15°58'58.82" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|11°47'46.97" |Scorpio|Qalb|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BCV, Bel'mapan, Bel'mopan, Belmopan, Belmopana, Belmopanas, Belmopano, Belmopanum, Belmopán, Belmópan, Bèlmopan, Hattieville, Mopan, Mpelmopan, bailamopana, bei er mo bang, bei er mo pan, belmopan, belmopana, berumopan, blmwban, blmwpan, blmwpn, bylmwpan, pelmoppan, Μπελμοπάν, Белмопан, Бельмапан, Бельмопан, Բելմոպան, בלמופן, בעלמאפאן, بلموبان, بلموپان, بیلموپان, बेल्मोपान, ਬੈਲਮੋਪਾਨ, பெல்மோப்பான், เบลโมแพน, པེར་མོ་ཕན།, ბელმოპანი, ቤልሞፓን, ベルモパン, 貝爾墨邦, 貝爾莫潘, 벨모판

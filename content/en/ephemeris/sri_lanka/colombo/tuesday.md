@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'11.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°59'27.59" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°44'22.96" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°19'39.96" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°30'34.93" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°3'19.60" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|3°12'30.15" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|0°31'11.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°59'28.46" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°44'21.55" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°19'36.42" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°30'33.03" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°3'16.98" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|3°13'50.58" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보

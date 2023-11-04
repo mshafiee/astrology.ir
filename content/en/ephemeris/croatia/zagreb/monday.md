@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'0.13" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°5'47.86" |Aries|Sharatain|Sun|
+|♄ Saturn|Retrograde|0°31'0.32" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|10°5'48.02" |Aries|Sharatain|Sun|
 |♂ Mars|Direct|17°11'42.92" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|13°32'39.20" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|27°39'51.13" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|23°51'18.94" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|23°15'40.14" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|27°39'52.84" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°51'19.35" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|23°22'42.37" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'0.32" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°5'47.86" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°11'42.92" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|13°32'39.20" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|27°39'52.84" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|23°51'19.35" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|23°22'42.37" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Retrograde|10°5'48.02" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|17°11'42.68" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|13°32'38.35" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|27°39'51.13" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|23°51'18.94" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|23°15'40.14" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Venus|Mercury|Leo|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
