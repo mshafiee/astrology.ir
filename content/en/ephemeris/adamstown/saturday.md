@@ -301,9 +301,9 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'48.85" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|10°19'23.34" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|16°2'16.63" |Libra|Jubana|Saturn|
+|♂ Mars|Direct|16°2'21.92" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|11°52'29.20" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|25°52'36.81" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|25°52'50.02" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|21°17'17.78" |Libra|Jubana|Jupiter|
 |☾ Moon|Direct|3°19'16.16" |Cancer|Nathrah|Venus|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'48.85" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°19'19.92" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|16°2'21.92" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|11°52'42.99" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|25°52'50.02" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|21°17'27.14" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|3°11'9.09" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|10°19'23.34" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°2'16.63" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|11°52'29.20" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|25°52'36.81" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|21°17'17.78" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|3°19'16.16" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

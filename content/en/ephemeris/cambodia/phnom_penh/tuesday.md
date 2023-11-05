@@ -299,19 +299,19 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'10.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°59'58.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°41'39.25" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°15'45.36" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°26'15.61" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|24°57'19.24" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|1°53'10.73" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|0°31'10.15" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|10°0'0.72" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°41'36.02" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°15'37.94" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°26'16.06" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|24°57'13.01" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|2°25'39.32" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
-|♃ Jupiter|Venus|Venus|Mars|Mars|
+|♃ Jupiter|Venus|Venus|Sun|Jupiter|
 |♂ Mars|Jupiter|Jupiter|Saturn|Venus|
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
@@ -322,7 +322,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Venus|Aquarius|Sun|Saturn|
-|♃ Jupiter|Venus|Mercury|Cancer|Sun|Mars|
+|♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
 |♂ Mars|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
@@ -342,8 +342,8 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|9°59'58.79" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|17°41'39.25" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|14°15'45.36" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°26'16.06" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°57'13.01" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|28°26'15.61" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°57'19.24" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|2°25'39.32" |Virgo|Sarfrah|Sun|
 
 

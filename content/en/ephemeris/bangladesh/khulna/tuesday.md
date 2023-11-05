@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°43'50.91" |Libra|Jubana|Saturn|
 |☉ Sun|Direct|14°18'54.83" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|28°29'39.86" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°2'8.85" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|2°30'54.88" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|25°1'57.46" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|2°33'2.99" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'11.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°59'33.24" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|17°43'50.91" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|9°59'37.13" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|17°43'44.70" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|14°18'39.39" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|28°29'30.96" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|25°1'57.46" |Scorpio|Shaulah|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

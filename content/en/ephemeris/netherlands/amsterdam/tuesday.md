@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'16.37" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°57'19.53" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°55'22.12" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°35'28.75" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°47'32.34" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°27'28.31" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|5°45'17.93" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|0°31'16.37" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°57'21.10" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°55'19.91" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°35'22.34" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°47'20.96" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°27'24.81" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|4°53'54.41" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Venus|Leo|Moon|Moon|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'16.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°57'19.53" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|17°55'22.12" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|14°35'28.75" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°47'32.34" |Virgo|Simak|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|0°31'16.37" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|9°57'21.10" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|17°55'19.91" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|14°35'22.34" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|28°47'20.96" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|25°27'28.31" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|5°45'17.93" |Virgo|Awwa|Sun|
 

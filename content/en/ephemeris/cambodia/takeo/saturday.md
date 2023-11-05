@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'48.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°24'26.87" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|15°36'19.94" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|11°15'8.00" |Libra|Ghafr|Saturn|
-|♀ Venus|Direct|25°12'55.75" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|20°19'20.38" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|26°36'14.55" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|10°24'24.18" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|15°36'24.25" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|11°15'18.05" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|25°12'56.98" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|20°19'28.31" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|25°28'18.89" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Aquarius|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Venus|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°30'48.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°24'26.87" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|15°36'19.94" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|10°24'24.18" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|15°36'24.25" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|11°15'8.00" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|25°12'55.75" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|20°19'20.38" |Scorpio|Qalb|Venus|
