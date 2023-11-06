@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'43.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|9°47'38.39" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°45'31.59" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|15°47'36.90" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|0°5'35.17" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|27°17'17.02" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|20°2'13.99" |Leo|Zubrah|Mars|
+|♂ Mars|Direct|18°45'32.81" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|15°47'39.85" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|0°5'35.04" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|27°17'19.50" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|19°56'12.85" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aries|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Virgo|Moon|Venus|
 |☿ Mercury|Sun|Mercury|Leo|Moon|Moon|
-|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'43.20" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°47'38.39" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|18°45'31.59" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|15°47'36.90" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|9°47'37.70" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|18°45'32.81" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|15°47'39.85" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|0°5'35.04" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|27°17'19.50" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|19°56'12.85" |Virgo|Simak|Venus|

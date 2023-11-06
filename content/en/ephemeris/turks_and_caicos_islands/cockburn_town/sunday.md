@@ -14,7 +14,7 @@ description: 🗓 Sunday, 05 Nov 2023
 toc: false
 ---
 ## Geographic Information of Cockburn Town
-TimeZone: -05:00
+TimeZone: -04:00
 \-
 Latitude: 21.4612
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'2.94" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°4'6.38" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°20'34.44" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|13°45'19.24" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|27°53'28.11" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|24°10'54.58" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|25°15'54.55" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|0°30'52.65" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|10°12'11.80" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|16°38'51.74" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|12°45'19.98" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|26°49'5.23" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|22°38'36.11" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|13°47'25.43" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -315,19 +315,19 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Jupiter|Saturn|Venus|
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
-|☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
+|☿ Mercury|Venus|Mercury|Mercury|Sun|
+|☾ Moon|Mercury|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Venus|Aquarius|Sun|Saturn|
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
-|♂ Mars|Jupiter|Jupiter|Aries|Moon|Moon|
-|☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
-|♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
-|☿ Mercury|Mars|Venus|Cancer|Moon|Moon|
-|☾ Moon|Venus|Saturn|Taurus|Sun|Mars|
+|♂ Mars|Saturn|Saturn|Aries|Moon|Moon|
+|☉ Sun|Moon|Saturn|Pisces|Sun|Venus|
+|♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
+|☿ Mercury|Mars|Mars|Cancer|Moon|Moon|
+|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'2.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°4'3.60" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°20'38.66" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|13°45'30.65" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|27°53'41.41" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°11'1.93" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°51'4.03" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|0°30'52.65" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|10°12'14.55" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°38'47.55" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|12°45'8.61" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|26°48'51.80" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|22°38'28.78" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|13°25'2.20" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -354,19 +354,19 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Jupiter|Jupiter|Jupiter|
 |☉ Sun|Mercury|Venus|Jupiter|Jupiter|
 |♀ Venus|Mars|Mars|Venus|Moon|
-|☿ Mercury|Saturn|Mercury|Moon|Saturn|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☿ Mercury|Jupiter|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
-|♂ Mars|Moon|Jupiter|Taurus|Sun|Sun|
-|☉ Sun|Mercury|Mars|Aries|Moon|Mars|
-|♀ Venus|Venus|Mercury|Leo|Sun|Moon|
+|♂ Mars|Mercury|Mars|Taurus|Sun|Sun|
+|☉ Sun|Venus|Venus|Aries|Moon|Mars|
+|♀ Venus|Venus|Mercury|Cancer|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Mars|Mars|Gemini|Moon|Venus|
+|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}

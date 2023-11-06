@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|0°31'12.04" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°59'13.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°45'30.89" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°21'17.60" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°32'9.18" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°5'49.32" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|2°22'59.33" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|9°59'13.77" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°45'31.39" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°21'19.31" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°32'14.46" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°5'49.91" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|2°51'33.63" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Venus|Leo|Moon|Moon|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'12.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°59'14.20" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|17°45'30.89" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|14°21'19.28" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°32'15.61" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|25°5'49.69" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°59'24.83" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|0°31'12.04" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|9°59'13.77" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|17°45'31.39" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|14°21'19.31" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|28°32'14.46" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|25°5'49.91" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°51'33.63" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

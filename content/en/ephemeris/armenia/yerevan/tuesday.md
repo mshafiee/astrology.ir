@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'13.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°58'25.59" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°49'49.56" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°27'26.72" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°39'1.67" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°15'18.80" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|4°42'11.51" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|0°31'13.91" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°58'22.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°49'53.91" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°27'36.91" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°39'3.00" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°15'27.06" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|4°24'18.05" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'13.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°58'25.59" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|17°49'49.56" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|14°27'26.72" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°39'1.67" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|25°15'18.80" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°42'11.51" |Virgo|Awwa|Sun|
+|♄ Saturn|Post-Retrograde Shadow|0°31'13.91" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|9°58'25.65" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|17°49'49.59" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|14°27'26.56" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|28°38'58.84" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|25°15'19.09" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°24'18.05" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ayrivan, Djerevan, EVN, Eireavan, Eireaván, Ereban, Erehvan, Ereun, Erevan, Erevan osh, Erevana, Erevano, Erevanum, Erevàn, Ereván, Erevāna, Erewan, Erivan, Eriwan, Erywan, Erywań, Gierevan, Ierevan, Iereván, Iravan, Jerevan, Jerevanas, Jerevani, Jereván, Jerewan, Jerjewan, Revan, Yerevan, Yervandavan, Yerêvan, Yiriwan, Yèrèvan, Yérévan, ayrwan, ereban, erevani, iyerebhana, shhr ayrwan, ye li wen, yeleban, yeravana pranta, yere wan, yerevan, yerevana, yerevhana, yryfan, yrywan, Èrevan, Êrîvan, İrəvan, Γιερεβάν, Ερεβάν, Єреван, Јереван, Ереван, Ереван ош, Ерэван, Երեվան, Երևան, יערעוואן, ירוואן, ایروان, شهر ایروان, يريفان, يېرېۋان, یریوان, یەریڤان, येरवान प्रान्त, येरेवान, येरेव्हान, ইয়েরেভান, யெரெவான், เยเรวาน, ཡེ་རེ་ཝན།, ერევანი, ዬሬቫን, エレバン, 葉里溫, 예레반

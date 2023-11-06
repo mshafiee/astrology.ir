@@ -14,7 +14,7 @@ description: 🗓 Sunday, 05 Nov 2023
 toc: false
 ---
 ## Geographic Information of Washington
-TimeZone: -05:00
+TimeZone: -04:00
 \-
 Latitude: 38.8951
 \-
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'3.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°3'46.72" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°22'6.02" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|13°47'36.12" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|27°55'57.42" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|24°14'14.54" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|26°21'52.34" |Cancer|Jabhah|Moon|
+|♄ Saturn|Retrograde|0°30'52.96" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|10°11'55.06" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|16°40'18.04" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|12°47'23.97" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|26°51'19.13" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|22°41'47.44" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|14°19'8.35" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -315,19 +315,19 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Jupiter|Saturn|Venus|
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
-|☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Saturn|Venus|Jupiter|Mercury|
+|☿ Mercury|Venus|Mercury|Mercury|Sun|
+|☾ Moon|Mercury|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Venus|Aquarius|Sun|Saturn|
 |♃ Jupiter|Venus|Moon|Leo|Sun|Mars|
-|♂ Mars|Jupiter|Jupiter|Aries|Moon|Moon|
-|☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
-|♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
-|☿ Mercury|Mars|Venus|Cancer|Moon|Moon|
-|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
+|♂ Mars|Saturn|Jupiter|Aries|Moon|Moon|
+|☉ Sun|Moon|Saturn|Pisces|Sun|Venus|
+|♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
+|☿ Mercury|Mars|Mars|Cancer|Moon|Moon|
+|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'3.48" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|10°3'46.72" |Taurus|Dabaran|Moon|
-|♂ Mars|Direct|17°22'6.02" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|13°47'36.12" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|27°55'56.48" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°14'14.72" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|26°21'52.34" |Leo|Sarfrah|Mars|
+|♄ Saturn|Retrograde|0°30'52.86" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|10°11'55.09" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|16°40'17.97" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|12°47'23.97" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|26°51'19.13" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|22°41'47.44" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|14°19'8.35" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -354,19 +354,19 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Mercury|Jupiter|Jupiter|Jupiter|
 |☉ Sun|Mercury|Venus|Jupiter|Jupiter|
 |♀ Venus|Mars|Mars|Venus|Moon|
-|☿ Mercury|Saturn|Mercury|Moon|Saturn|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☿ Mercury|Jupiter|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♃ Jupiter|Moon|Mars|Virgo|Moon|Venus|
-|♂ Mars|Moon|Jupiter|Taurus|Sun|Sun|
-|☉ Sun|Mercury|Mars|Aries|Moon|Mars|
-|♀ Venus|Venus|Mercury|Leo|Sun|Moon|
+|♂ Mars|Mercury|Jupiter|Taurus|Sun|Sun|
+|☉ Sun|Venus|Venus|Aries|Moon|Mars|
+|♀ Venus|Venus|Mercury|Cancer|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Mars|Mars|Gemini|Moon|Venus|
+|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}

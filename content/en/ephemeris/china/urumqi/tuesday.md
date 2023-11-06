@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'11.94" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°59'18.85" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°45'6.34" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°20'42.53" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°31'32.79" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°4'55.12" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|2°27'6.61" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|0°31'11.94" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°59'18.77" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°45'6.32" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°20'42.90" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°31'36.52" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°4'54.84" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|2°50'33.38" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Venus|Leo|Moon|Moon|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'11.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°59'18.85" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|17°45'6.34" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|14°20'42.53" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°31'32.79" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|25°4'55.12" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°27'6.61" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Post-Retrograde Shadow|0°31'11.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|9°59'18.97" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|17°45'6.13" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|14°20'42.00" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|28°31'32.65" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|25°4'54.71" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°28'22.11" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Dikhua, OEremce, Ouroumtchi, Ouroumtsi, Ti-hua, Ti-hua-ch'eng, Ti-hua-ch’eng, Ti-hua-hsien, Ti-hua-shih, Tihwa, Tihwafu, Tikhua, Tikhva, UEruemchi-su, UEruemcsi, UEruemqi, UEruemqi-chhi, URC, Urumchi, Urumci, Urumcio, Urumcis, Urumczi, Urumptsi, Urumqi, Urumqi Shi, Urumtschi, Urumtsi, Urumutsi, Urumçi, Urumĉio, Urumči, Urumčis, Urunchi, Wu-lu-mu-ch'i, Wu-lu-mu-ch'i-shih, Wu-lu-mu-ch’i, Wu-lu-mu-ch’i-shih, Wulumuqi, Wurumch'ih, Wurumch’ih, arwmchy, awrwmchy, awrwmtshy, ulumuchi si, urumaci, urumaki, urumchi, urumucci, urumuchi, urumuchi shi, wu lu mu qi, wu lu mu qi shi, xu rum chi, Öremçe, Ürümchi, Ürümchi-sṳ, Ürümcsi, Ürümqi, Ürümqi Shi, Ürümqi-chhī, Ουρούμτσι, Урумчи, Урумчі, Урумћи, Үрімжі, Үрүмчи, Үрүмчү, Өрөмч хот, Ուրումչի, אורומצי, أورومتشي, ئۈرۈمچى, ئۈرۈمچى شەھىرى, ئۈرۈمچی, ارومچی, اورومچی, उरुमची, उरुम्छी, ਉਰੂਮਕੀ, உருமுச்சி, อุรุมชี, ཨུ་རུམ་ཆི་གྲོང་ཁྱེར།, ウルムチ, ウルムチ市, 乌鲁木齐, 乌鲁木齐市, 烏魯木齊, 烏魯木齊市, 우루무치 시

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'36.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°49'46.65" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°34'24.01" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|15°31'38.05" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|29°48'17.73" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|26°52'58.92" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|17°10'53.88" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|0°31'36.33" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°49'48.92" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°34'20.83" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|15°31'29.01" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|29°48'0.43" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|26°52'53.78" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|15°46'19.44" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aries|Moon|Moon|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Sun|Mercury|Leo|Moon|Moon|
-|☾ Moon|Saturn|Mercury|Aquarius|Moon|Venus|
+|☾ Moon|Moon|Sun|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°31'36.08" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°49'46.54" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|18°34'24.13" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|15°31'38.64" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|0°31'36.33" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|9°49'46.65" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|18°34'24.01" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|15°31'38.05" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|29°48'15.48" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|26°52'58.82" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|16°58'34.28" |Virgo|Awwa|Venus|
