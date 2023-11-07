@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°30'57.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|10°7'52.21" |Aries|Sharatain|Sun|
-|♂ Mars|Direct|17°1'9.22" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|13°17'24.12" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|27°23'30.00" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|23°27'59.75" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|20°10'43.90" |Cancer|Tarf|Moon|
+|♄ Saturn|Post-Retrograde Shadow|0°30'57.68" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|10°7'54.39" |Aries|Sharatain|Sun|
+|♂ Mars|Direct|17°1'6.00" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|13°17'14.92" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|27°23'16.03" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°27'54.31" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|19°26'5.46" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Mercury|Sun|
-|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
+|☾ Moon|Jupiter|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Mars|Venus|Cancer|Moon|Moon|
-|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|0°30'57.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|0°30'58.90" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|10°7'54.39" |Taurus|Dabaran|Moon|
 |♂ Mars|Direct|17°1'6.00" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|13°17'14.92" |Scorpio|Qalb|Sun|
