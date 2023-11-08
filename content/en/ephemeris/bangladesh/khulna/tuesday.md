@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°31'11.34" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|9°59'33.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°43'50.91" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°18'54.83" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°29'39.86" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°2'8.85" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|2°30'54.88" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|17°43'50.93" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°18'54.84" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°29'39.56" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°2'8.90" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|2°28'57.03" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Venus|Leo|Moon|Moon|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°31'11.34" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|9°59'33.24" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|17°43'50.91" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|14°18'54.83" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°29'39.86" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|25°2'8.85" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°30'54.88" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|17°43'50.93" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|14°18'54.84" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|28°29'39.56" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|25°2'8.90" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°28'57.03" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Venus|Mercury|Leo|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Virgo|Sun|Sun|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

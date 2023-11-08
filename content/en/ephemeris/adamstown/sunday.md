@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°34'22.36" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Post-Retrograde Shadow|0°34'23.20" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|9°15'1.62" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°37'21.91" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|19°54'14.50" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|4°35'1.44" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|3°28'15.60" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|9°20'40.41" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|21°37'27.25" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|19°54'28.32" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|4°35'14.19" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|3°28'25.06" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|10°48'33.95" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Saturn|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Moon|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Mars|Sun|Sagittarius|Moon|Mars|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°34'23.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|0°34'22.36" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|9°15'1.62" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|21°37'21.91" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|19°54'14.50" |Scorpio|Qalb|Sun|

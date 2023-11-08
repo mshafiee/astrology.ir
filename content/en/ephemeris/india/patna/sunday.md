@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'54.75" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|9°19'17.85" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°14'18.50" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|19°21'17.16" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°58'50.16" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|2°38'54.88" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°57'2.23" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|21°14'19.47" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|19°21'19.23" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°58'47.61" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|2°38'57.22" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°0'4.99" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: 'Azimabad, New Patna, PAT, Patna, Patna New City, Patnao, ba te na, batna, pat na, patana, pateuna, patna, patona, ptnh, ʿAẓīmābād, Πάτνα, Патна, Պատնա, פטנה, باتنا, پتنه, پٹنہ, پټنا, पटना, पाटणा, पाट्ना, পাটনা, ਪਟਨਾ, પટના, ପାଟଣା, பட்னா, பாட்னா, పాట్నా, ಪಟ್ನಾ, പട്ന, ปัฏนา, პატნა, パトナ, パトナー, 巴特那, 파트나

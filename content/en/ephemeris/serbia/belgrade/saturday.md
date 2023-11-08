@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'18.36" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°25'36.37" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°40'52.02" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|18°33'19.14" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°6'12.01" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|1°27'8.98" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|24°1'32.71" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|9°25'36.48" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°40'51.99" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|18°33'18.69" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°6'9.25" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|1°27'9.16" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|23°50'59.06" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Mars|Venus|Moon|
+|☾ Moon|Mars|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'18.36" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°25'36.37" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|20°40'52.02" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|18°33'19.14" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°6'12.01" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|1°27'8.98" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|24°1'32.71" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|9°25'36.40" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|20°40'51.93" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|18°33'18.95" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°6'12.52" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|1°27'8.71" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|24°2'37.48" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

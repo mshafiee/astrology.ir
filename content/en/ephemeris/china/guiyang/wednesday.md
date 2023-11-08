@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°31'30.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°51'48.33" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|9°51'48.38" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°23'52.84" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|15°16'30.69" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|15°16'30.50" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|29°31'52.89" |Leo|Sarfrah|Mars|
 |☿ Mercury|Direct|26°29'58.45" |Libra|Akleel|Jupiter|
 |☾ Moon|Direct|13°59'53.69" |Leo|Zubrah|Jupiter|

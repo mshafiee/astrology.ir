@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|15°16'19.29" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|29°31'40.56" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|26°29'41.02" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|13°25'50.35" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|13°58'1.59" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°31'12.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°59'4.91" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°46'18.25" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|14°22'26.51" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|28°33'32.31" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|25°7'32.90" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|3°36'27.47" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|9°59'4.74" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|17°46'18.66" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|14°22'27.03" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|28°33'28.80" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|25°7'33.89" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|3°11'21.89" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Pisces|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mars|Venus|Leo|Moon|Moon|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°31'12.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°59'4.91" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|17°46'18.25" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|14°22'26.51" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°33'32.31" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|25°7'32.90" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°36'27.47" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|9°59'4.74" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|17°46'18.66" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|14°22'27.03" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|28°33'28.80" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|25°7'33.89" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°11'21.89" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
