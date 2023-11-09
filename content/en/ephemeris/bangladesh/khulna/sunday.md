@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'54.01" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°19'28.82" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°13'34.83" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|19°20'8.65" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°57'38.52" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|2°37'23.13" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|2°26'17.42" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|9°19'25.06" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°13'41.04" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|19°20'24.14" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°57'47.12" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|2°37'34.91" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°48'54.74" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Mars|Moon|Sagittarius|Moon|Mars|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'54.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°19'28.82" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|21°13'34.83" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|19°20'8.65" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°57'38.52" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°37'23.13" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°26'17.42" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|9°19'25.06" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|21°13'41.04" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|19°20'24.14" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°57'47.12" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°37'34.91" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|3°48'54.74" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Venus|Mars|Scorpio|Sun|Venus|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

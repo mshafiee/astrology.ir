@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'54.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°19'18.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°14'22.22" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|19°21'20.88" |Libra|Jubana|Saturn|
+|♃ Jupiter|Retrograde|9°19'16.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°14'24.70" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|19°21'26.70" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|3°58'55.82" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|2°39'8.44" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|4°1'12.99" |Libra|Ghafr|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'54.86" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°19'18.19" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|21°14'22.22" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|19°21'20.88" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°58'56.68" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°39'3.16" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°38'48.37" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|9°19'16.88" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|21°14'24.70" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|19°21'26.70" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°58'55.82" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°39'8.44" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|4°1'12.99" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Catmandu, Catmandum, KTM, Kantipur, Kantipura, Katemandu, Kathmandau, Kathmandou, Kathmandu, Katmando, Katmandoe, Katmandou, Katmandu, Katmanduo, Katmandó, Katmandú, Katmandû, Katmandū, Katmantou, Khatmandu, Káthmandu, Káthmándú, jia de man dou, kateumandu, kath manthu, kathamadaum, kathamadaum mahanagarapalika, kathamadu, kathamandu, kathmandu, katmandw, katmandww, katmantu, katomanzu, qtmndw, yem jilla, Κατμαντού, Катманду, Կատմանդու, קאטמאנדו, קטמנדו, كاتماندو, كاتماندۇ, کاتماندو, کاتماندوو, کھٹمنڈو, काठमांडू, काठमाडौं, काठमाडौं महानगरपालिका, काठमाण्डू, येँ जिल्ला, কাঠমাণ্ডু, কাঠমান্ডু, ਕਠਮੰਡੂ, કાઠમંડુ, କାଠମାଣ୍ଡୁ, காட்மாண்டு, కాఠ్మండు, ಕಠ್ಮಂಡು, കാഠ്മണ്ഡു, කත්මන්ඩු, กาฐมาณฑุ, ཀ་ཏ་མན་ཏ།, ཀ་ཏ་མན་ཏུ།, კატმანდუ, ካትማንዱ, カトマンズ, 加德滿都, 카트만두

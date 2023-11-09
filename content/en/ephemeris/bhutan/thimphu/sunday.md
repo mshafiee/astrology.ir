@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°33'54.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°19'22.59" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°13'54.29" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|19°20'43.08" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°58'7.92" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|2°38'3.30" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°52'3.62" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|0°33'54.51" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°19'25.95" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°13'48.71" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|19°20'29.17" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°58'0.53" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|2°37'52.66" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|2°38'22.25" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Mars|Moon|Sagittarius|Moon|Mars|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'54.28" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°19'22.59" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|21°13'54.29" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|19°20'43.08" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°58'7.92" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°38'3.30" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°20'4.09" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|9°19'25.95" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|21°13'48.71" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|19°20'29.17" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°58'0.53" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°37'52.66" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°38'22.25" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Venus|Mars|Scorpio|Sun|Venus|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부

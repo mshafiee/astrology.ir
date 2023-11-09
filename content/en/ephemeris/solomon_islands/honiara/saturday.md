@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°32'59.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|9°29'8.92" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°22'5.36" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|18°6'16.56" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|2°36'43.58" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|0°46'44.48" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|17°35'38.26" |Virgo|Simak|Venus|
+|♂ Mars|Direct|20°22'10.58" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|18°6'29.36" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|2°36'48.29" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|0°46'54.60" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|18°20'4.80" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
+|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
