@@ -239,7 +239,7 @@ Timetable of twelve day and night planetary hours
 |5|Jupiter|Servant|22:13:01|23:15:42|Answering needs, attracting love and wealth|
 |6|Mars|Servant|23:15:43|00:18:25|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|00:18:26|01:21:07|Making promises|
-|8|Venus|Ruler|01:21:08|02:23:49|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Venus|Ruler|01:21:08|02:23:49|Reconciliation of two persons, attracting love|
 |9|Mercury|Servant|02:23:50|03:26:31|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Moon|Servant|03:26:32|04:29:13|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Saturn|Servant|04:29:14|05:31:55|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°35'2.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°9'8.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°8'43.19" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|20°39'18.02" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|5°24'35.61" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|4°35'1.88" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|20°39'6.48" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|9°9'8.99" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°8'41.33" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|20°39'13.85" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|5°24'38.10" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|4°34'57.61" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|20°14'21.06" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°35'2.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°9'8.13" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°8'43.19" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|20°39'18.02" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|5°24'35.61" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°35'1.88" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|20°39'6.48" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Retrograde|9°9'8.99" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°8'41.33" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|20°39'13.85" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|5°24'38.10" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°34'57.61" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|20°14'21.06" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

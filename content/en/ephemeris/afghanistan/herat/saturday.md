@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'12.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°26'38.90" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°35'21.47" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|18°25'24.70" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|2°57'30.15" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|1°15'18.00" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|22°16'45.04" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|9°26'42.29" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°35'16.61" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|18°25'11.57" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|2°57'12.79" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|1°15'10.06" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|20°41'42.23" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Saturn|Venus|Moon|
+|☾ Moon|Jupiter|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Mars|Moon|Scorpio|Moon|Mars|
-|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
+|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|9°26'38.90" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|20°35'21.47" |Scorpio|Qalb|Venus|
 |☉ Sun|Direct|18°25'24.70" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|2°57'30.83" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|1°15'18.17" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|22°20'5.72" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|2°57'30.15" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|1°15'18.00" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|22°16'45.04" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°34'18.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°15'31.69" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|9°15'34.88" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|21°34'20.06" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|19°49'55.34" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|4°30'23.02" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|3°21'45.89" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|8°53'58.13" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|4°30'28.11" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|3°21'56.67" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|10°7'15.26" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Saturn|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Moon|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Mars|Sun|Sagittarius|Moon|Mars|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°34'18.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°15'31.69" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|21°34'25.55" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|9°15'34.88" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|21°34'20.06" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|19°49'55.34" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|4°30'23.02" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|3°21'45.89" |Sagittarius|Shaulah|Mercury|

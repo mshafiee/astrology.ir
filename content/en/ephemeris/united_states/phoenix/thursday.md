@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°32'15.40" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°38'47.04" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°31'36.48" |Libra|Jubana|Saturn|
-|☉ Sun|Direct|16°53'52.17" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|1°17'34.00" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|28°57'32.74" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|3°32'20.72" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Post-Retrograde Shadow|0°32'16.20" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°38'49.24" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°31'33.17" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|16°53'43.31" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|1°17'23.99" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|28°57'27.04" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|2°40'50.86" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|19°31'36.48" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|16°53'52.17" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|1°17'34.00" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|28°57'32.74" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°32'20.72" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|28°57'27.04" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°40'50.86" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Taurus|Sun|Sun|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스
