@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'52.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°19'42.64" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°12'22.28" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|19°18'24.38" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°55'33.68" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|2°34'48.92" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°44'15.48" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|9°19'40.31" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°12'25.52" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|19°18'33.42" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°55'40.91" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|2°34'47.75" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|2°3'53.70" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|9°19'40.31" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|21°12'25.52" |Scorpio|Qalb|Venus|
 |☉ Sun|Direct|19°18'33.42" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°55'33.68" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°34'48.92" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|1°44'15.48" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|3°55'47.04" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°34'54.03" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°52'54.15" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Venus|Mars|Scorpio|Sun|Venus|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰

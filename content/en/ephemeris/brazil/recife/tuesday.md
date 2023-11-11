@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°36'2.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°1'16.07" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°51'19.48" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|21°40'18.77" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|6°32'1.84" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|6°5'22.02" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°39'46.84" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|9°1'15.89" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°51'20.05" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|21°40'19.98" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|6°31'59.75" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|6°5'23.60" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°51'36.76" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°36'2.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°1'16.07" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°51'19.48" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|21°40'18.77" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|6°32'1.84" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°5'22.02" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°39'46.84" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|9°1'15.89" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°51'20.05" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|21°40'19.98" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|6°31'59.75" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|6°5'23.60" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°51'36.76" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Arrecife, Fernambucum, Mauricea, Mauricéa, Pernambuco, REC, Recife, Rehsifi, Resife, Resifi, Resifė, hesiphi, hesipi, lei xi fei, li si fei, re sifi, recihpi, reshife, resiphe, resipi, risifi, rsyph, rysyf, rysyfy, Ρεσίφε, Ресифе, Ресифи, Ресіфі, Рэсіфі, Ռեսիֆի, רסיפה, ريسيفي, ریسیف, रिसीफ़ी, रेसिफे, রেসিফে, হেসিফি, ரெசிஃபி, เรซีฟี, რესიფი, レシフェ, 李斯腓, 累西腓, 헤시피

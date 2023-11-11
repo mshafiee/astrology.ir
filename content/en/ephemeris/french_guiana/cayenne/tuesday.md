@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°36'6.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°0'47.61" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°53'53.29" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|9°0'50.21" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°53'48.67" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|21°43'48.36" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|6°35'58.87" |Virgo|Awwa|Sun|
 |☿ Mercury|Direct|6°10'38.12" |Scorpio|Akleel|Mars|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°36'6.68" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°0'50.21" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°53'48.67" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|21°43'48.36" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|6°35'58.87" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°10'38.12" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°25'3.01" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|9°0'47.61" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°53'53.29" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|21°43'59.64" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|6°36'2.53" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|6°10'47.45" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|4°43'34.44" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Mercury|Mars|Sagittarius|Sun|Venus|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: CAY, Caiena, Caienna, Cajen-a, Cajena, Cayena, Cayene, Cayenne, Kaena, Kaenna, Kagien, Kajen, Kajena, Kajenna, Kajennae, Kajenneh, Kajeno, Kayen, Kayene, Kayenna, kai yun, kaien'nu, kaiyana, kayen, kayena, kayn, kayyn, Καγιέν, Каена, Кайен, Кайеннæ, Кайенна, Кайеннэ, Каєнна, Кајена, Կայեննա, קאיין, كايين, کائین, کاین, कायेन, ਕੈਯਨ, கயேன், กาแยน, კაიენა, カイエンヌ, 開雲, 카옌

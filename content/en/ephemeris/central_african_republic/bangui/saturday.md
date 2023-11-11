@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°33'16.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°25'55.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°39'11.81" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|18°30'55.51" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°3'33.00" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|1°23'33.50" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|23°30'6.07" |Virgo|Simak|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|0°33'16.27" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°25'57.68" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°39'7.56" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|18°30'45.24" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°3'30.80" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|1°23'25.04" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|22°54'24.88" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Mars|Moon|Scorpio|Moon|Mars|
-|☾ Moon|Sun|Sun|Gemini|Sun|Moon|
+|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'16.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°25'55.28" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|20°39'11.80" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|18°30'55.44" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°3'32.21" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|1°23'33.59" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|9°25'57.68" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|20°39'7.56" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|18°30'45.24" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°3'30.80" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|1°23'25.04" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|23°27'17.56" |Libra|Jubana|Jupiter|
 
 

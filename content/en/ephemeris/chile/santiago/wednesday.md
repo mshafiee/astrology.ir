@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°36'32.66" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|22°45'1.15" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|7°43'40.03" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|7°40'32.99" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|16°43'11.50" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|7°40'41.49" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|17°56'31.19" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Cancer|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Sun|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Mercury|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|8°53'0.68" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|23°36'32.66" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|22°45'1.15" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|7°43'40.03" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|7°40'41.49" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|17°56'31.19" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|7°43'30.99" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|7°40'32.99" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|16°43'11.50" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mercury|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Leo|Sun|Sun|
 |♀ Venus|Mercury|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Venus|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}

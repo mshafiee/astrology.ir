@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|19°21'7.89" |Libra|Jubana|Saturn|
 |♀ Venus|Direct|3°58'35.19" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Direct|2°38'40.26" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°50'57.56" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°58'2.11" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'54.57" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°19'20.02" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|21°14'10.09" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|19°21'4.73" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°58'37.95" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°38'36.91" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°50'57.56" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|9°19'19.35" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|21°14'11.54" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|19°21'7.89" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°58'35.19" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°38'40.26" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|3°58'2.11" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보
