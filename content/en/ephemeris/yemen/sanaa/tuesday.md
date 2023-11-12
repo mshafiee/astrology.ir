@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|9°2'47.69" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|22°43'0.22" |Libra|Jubana|Jupiter|
 |☉ Sun|Direct|21°28'24.59" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|6°18'48.48" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|5°47'46.05" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°19'27.62" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|6°18'46.33" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|5°47'36.68" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|0°3'20.81" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°35'31.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°5'16.30" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°29'51.02" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|21°9'27.00" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|5°57'51.73" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|5°19'56.68" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|25°33'0.66" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|9°5'12.39" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°29'56.80" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|21°9'42.24" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|5°58'8.78" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|5°19'54.76" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|25°29'43.69" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°29'56.80" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|21°9'42.24" |Scorpio|Qalb|Venus|
 |♀ Venus|Direct|5°58'8.78" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°19'56.68" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|25°33'0.66" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|5°20'6.45" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|27°9'12.68" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Mercury|Mars|Sagittarius|Sun|Venus|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
 
 
 {{< /tab >}}

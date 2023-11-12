@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|06:38:33|07:29:51|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mars|Servant|07:29:52|08:21:10|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Mars|Servant|07:29:52|08:21:10|Destruction of enemies|
 |3|Sun|Servant|08:21:11|09:12:29|Attraction of financial and emotional love|
 |4|Venus|Servant|09:12:30|10:03:48|Creating love, connection and marriage|
 |5|Mercury|Servant|10:03:49|10:55:07|Indulgence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°38'14.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°46'35.76" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°11'59.45" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|23°35'43.74" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°39'59.33" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|8°54'58.44" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|29°32'28.18" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|8°46'39.80" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°11'53.17" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|23°35'27.59" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°39'44.91" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|8°54'47.19" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|28°10'27.64" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

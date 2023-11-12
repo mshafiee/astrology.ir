@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°35'58.99" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|9°1'48.02" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|22°48'30.97" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|21°36'15.39" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|6°27'30.82" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|5°59'26.77" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|2°23'7.42" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|21°36'19.00" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|6°27'33.98" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|5°59'29.34" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|2°44'33.42" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°35'58.99" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|9°1'48.02" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|22°48'30.97" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|21°36'15.39" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|6°27'30.82" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°59'26.77" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°23'7.42" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|21°36'19.00" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|6°27'33.98" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|5°59'29.34" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|2°44'33.42" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Mercury|Mars|Sagittarius|Sun|Venus|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>☌ Cnj</sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄

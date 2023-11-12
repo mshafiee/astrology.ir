@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°37'16.74" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|8°52'41.12" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|23°38'16.99" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|22°47'31.79" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|7°46'26.23" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|7°44'20.25" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|18°48'14.69" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|22°47'19.34" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|7°46'21.71" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|7°44'9.97" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|17°17'23.75" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Cancer|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Sun|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°37'16.74" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|8°52'41.12" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|23°38'16.99" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|22°47'31.79" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|7°46'26.23" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|7°44'20.25" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|18°48'14.69" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|22°47'19.34" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|7°46'21.71" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|7°44'9.97" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|17°17'23.75" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Leo|Sun|Sun|
 |♀ Venus|Mercury|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}

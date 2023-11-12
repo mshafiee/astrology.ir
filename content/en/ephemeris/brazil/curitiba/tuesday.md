@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°36'4.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°1'5.88" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°52'16.05" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|21°41'39.48" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|6°33'28.10" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|6°7'22.19" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|3°59'45.22" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|0°36'4.05" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°1'5.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°52'16.37" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|21°41'40.47" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|6°33'31.15" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|6°7'22.38" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°2'39.23" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|9°1'5.88" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|22°52'16.05" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|21°41'39.48" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|6°33'28.10" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°7'22.19" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|3°59'45.22" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|6°33'31.15" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|6°7'22.38" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|4°2'39.23" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CWB, Corityba, Curitiba, Curityba, Curytiba, Kouritiba, Kouritimpa, Kuritib, Kuritiba, Kuritibae, Kuritibo, Kuritiwa, Kuritiyba, Kuriytyva, Kuriytýva, Kuriṭiba, Kuryciba, Kurytyba, Kùrìtíbà, gu li ti ba, ku li qi ba, ku ri ti ba, kulichiba, kurichiba, kuritcibas, kuritiba, kuritipe, kwrytyba, qwrytybh, Κουριτίμπα, Коуритиба, Куритибæ, Куритиба, Курытыба, Курыціба, Կուրիտիբա, קוריטיבא, קוריטיבה, كوريتيبا, کوریتیبا, ܩܘܪܝܛܝܒܐ, कुरितिबा, কুরিটিবা, কুরিতিবা, ਕੁਰੀਤੀਬਾ, குரிடிபே, కురితీబా, ಕುರಿಟಿಬ, กูรีตีบา, კურიტიბა, ኩሪቺባ, ᎫᎵᏘᎦ, クリチバ, 古里提巴, 庫里奇巴, 쿠리치바, 𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰

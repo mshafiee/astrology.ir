@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°35'1.18" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|9°9'20.69" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|22°7'37.36" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|20°37'42.74" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|5°22'51.03" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|4°32'42.11" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|20°5'27.66" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|20°37'28.01" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|5°22'38.23" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|4°32'31.80" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|18°31'59.55" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Sun|Sun|Sagittarius|Moon|Mars|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°35'1.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°9'20.69" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°7'37.36" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|20°37'42.74" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|5°22'51.03" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|9°9'24.43" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°7'31.57" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|20°37'28.01" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|5°22'38.23" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|4°32'42.11" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|20°5'27.66" |Scorpio|Qalb|Venus|
 

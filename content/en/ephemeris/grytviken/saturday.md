@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°33'20.09" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|9°25'21.06" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°42'18.93" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|18°35'21.20" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|3°8'24.82" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|1°30'17.00" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|23°47'37.40" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°42'20.48" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|18°35'24.94" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|3°8'27.99" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|1°30'19.67" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|24°8'17.31" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Saturn|Venus|Moon|
+|☾ Moon|Mars|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|9°25'21.06" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|20°42'18.93" |Scorpio|Qalb|Venus|
 |☉ Sun|Direct|18°35'21.20" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°8'24.82" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|1°30'17.00" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|23°47'37.40" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|3°8'27.99" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|1°30'19.67" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|24°8'17.31" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Venus|Mercury|Mercury|Sun|
+|☾ Moon|Venus|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
