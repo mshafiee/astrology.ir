@@ -227,7 +227,7 @@ Timetable of twelve day and night planetary hours
 |9|Mars|Servant|13:27:17|14:19:02|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|14:19:03|15:10:49|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|15:10:50|16:02:35|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Mercury|Servant|16:02:36|16:54:22|Attracting misfortune, not suitable for any task|
+|12|Mercury|Servant|16:02:36|16:54:22|The moon is in Scorpio, Not suitable for doing anything.|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°37'49.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°49'12.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°57'39.92" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|23°15'10.45" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°17'15.99" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|8°24'59.96" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|23°41'28.30" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|8°49'9.89" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°57'44.08" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|23°15'20.75" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°17'19.67" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|8°25'8.50" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|24°58'2.36" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mercury|Sun|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°57'44.08" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|23°15'20.75" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|8°17'19.67" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|8°24'59.96" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|23°41'28.30" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|8°25'8.50" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|24°58'2.36" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

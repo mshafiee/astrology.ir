@@ -222,7 +222,7 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|08:51:38|09:40:38|Attracting material wealth, earnings and business prosperity|
 |5|Moon|Servant|09:40:39|10:29:38|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|10:29:39|11:18:39|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|11:18:40|12:07:40|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Jupiter|Servant|11:18:40|12:07:40|Attracting love and hearts|
 |8|Mars|Ruler|12:07:41|12:56:41|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Sun|Servant|12:56:42|13:45:41|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Venus|Servant|13:45:42|14:34:42|The moon is in Scorpio, Not suitable for doing anything.|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°35'36.25" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|9°4'38.27" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|22°33'1.56" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|21°13'58.16" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|6°3'0.55" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°26'30.51" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|27°7'10.88" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|21°14'6.68" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|6°3'0.82" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|5°26'38.10" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|28°4'38.24" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Mercury|Mars|Sagittarius|Sun|Venus|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}

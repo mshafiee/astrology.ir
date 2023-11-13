@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°37'19.80" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|8°52'21.09" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°40'7.30" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|22°49'59.55" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|7°49'6.41" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|7°48'6.45" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|18°45'55.03" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|23°40'6.03" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|22°50'5.83" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|7°49'12.72" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|7°48'10.64" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|19°19'32.10" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mercury|Sun|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|8°52'21.09" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|23°40'7.30" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|22°50'9.57" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|7°49'6.41" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|7°48'6.45" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|18°45'55.03" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|7°49'21.32" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|7°48'10.64" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|19°19'32.10" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mercury|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Saturn|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

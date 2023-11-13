@@ -240,7 +240,7 @@ Timetable of twelve day and night planetary hours
 |6|Mars|Servant|23:03:42|00:14:57|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|00:14:58|01:26:12|Making promises|
 |8|Venus|Ruler|01:26:13|02:37:27|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:37:28|03:48:43|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Mercury|Servant|02:37:28|03:48:43|Attracting and repelling enemies and causing separation|
 |10|Moon|Servant|03:48:44|04:59:58|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Saturn|Servant|04:59:59|06:11:13|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Jupiter|Servant|06:11:14|07:22:29|The moon is in Scorpio, Not suitable for doing anything.|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|9°9'32.21" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|22°6'34.56" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|20°36'13.14" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|5°21'2.62" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°30'23.48" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|18°59'26.80" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|5°21'12.04" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°30'28.43" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|19°51'30.80" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°39'30.63" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°39'13.27" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°53'16.84" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|24°34'42.96" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|9°45'43.05" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|10°21'0.84" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°38'0.16" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|8°39'12.76" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°53'17.81" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|24°34'45.52" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|9°45'44.19" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|10°21'2.90" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°55'37.27" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Cancer|Moon|Moon|
 |♀ Venus|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Sun|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°39'30.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°39'13.27" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°53'16.84" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|24°34'42.96" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|9°45'43.05" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|10°21'0.84" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|12°38'0.16" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Retrograde|8°39'12.76" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°53'17.81" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|24°34'45.52" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|9°45'44.19" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|10°21'2.90" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|12°30'54.81" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

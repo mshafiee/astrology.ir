@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°36'57.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|8°54'48.65" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°26'31.97" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|22°30'39.63" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|7°27'52.82" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|7°19'37.83" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|13°54'33.11" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|23°26'35.60" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|22°30'48.32" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|7°27'53.12" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|7°19'45.68" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|15°4'57.09" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mercury|Sun|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Cancer|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Scorpio|Moon|Venus|
 |☿ Mercury|Sun|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
+|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°36'57.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°54'50.53" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|23°26'31.97" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|0°36'57.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|8°54'48.65" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|23°26'35.60" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|22°30'48.32" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|7°27'53.12" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|7°19'45.68" |Sagittarius|NaAaem|Mercury|

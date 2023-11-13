@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°34'1.76" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|9°18'11.51" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°20'11.11" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|19°29'39.55" |Libra|Jubana|Saturn|
-|♀ Venus|Direct|4°8'4.93" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|2°51'30.69" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|4°59'3.26" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|21°20'14.49" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|19°29'47.47" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|4°8'6.22" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|2°51'37.41" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°35'25.43" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Taurus|Moon|Moon|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Mars|Moon|Sagittarius|Moon|Mars|
-|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|9°18'11.51" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|21°20'14.49" |Scorpio|Qalb|Venus|
 |☉ Sun|Direct|19°29'47.47" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|4°8'4.93" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°51'30.69" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|4°59'3.26" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|4°8'6.22" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°51'37.41" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|5°35'25.43" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Venus|Mars|Scorpio|Sun|Venus|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: KUF, Kuibyschew, Kuibyshev, Kujbyshev, Kuybyshev, Samar, Samar khot, Samar osh, Samara, Samarae, Samare, Samarga, Samāra, Szamara, sa ma la, sa ma ra, samala, samara, smara, smara  rws, smrh, Σαμάρα, Куйбышев, Самар, Самар ош, Самар хот, Самарæ, Самара, Самаре, Самарҕа, Һамар, Սամարա, סמרה, سامارا, سامارہ, سمارا, سمارا، روس, समारा, ซามารา, სამარა, サマーラ, 薩馬拉, 사마라
