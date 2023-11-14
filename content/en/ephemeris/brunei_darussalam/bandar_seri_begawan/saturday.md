@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°40'29.83" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°33'53.01" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°23'26.27" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|25°17'48.03" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|10°33'47.40" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|11°23'30.49" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|22°43'57.01" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|8°33'54.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°23'22.93" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|25°17'39.79" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|10°33'46.96" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|11°23'22.83" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|21°31'15.27" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°40'29.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°33'54.63" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°23'22.93" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|25°17'39.79" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|10°33'46.96" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|11°23'22.83" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|8°33'53.01" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°23'26.27" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|25°17'48.03" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|10°33'47.40" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|11°23'30.49" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|21°31'15.27" |Capricorn|SaadAlBula|Sun|
 
 

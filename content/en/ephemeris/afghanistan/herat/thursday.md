@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°38'4.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°47'37.17" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°6'18.20" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|23°27'34.19" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°30'59.37" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|8°43'2.56" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|27°17'6.07" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|0°38'4.44" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|8°47'37.75" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°6'17.17" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|23°27'33.54" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°30'56.10" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|8°43'2.76" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|27°26'4.68" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°38'4.55" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|8°47'37.17" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°6'18.20" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|23°27'35.90" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°30'56.79" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|8°43'4.79" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|27°43'15.64" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Direct|24°6'17.17" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|23°27'33.54" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|8°30'56.10" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|8°43'2.76" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|27°26'4.68" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Leo|Sun|Sun|
 |♀ Venus|Mercury|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

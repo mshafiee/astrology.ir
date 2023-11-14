@@ -236,7 +236,7 @@ Timetable of twelve day and night planetary hours
 |2|Mercury|Servant|18:39:14|19:42:42|Outer and inner journey|
 |3|Moon|Servant|19:42:43|20:46:11|Marriage connection is good|
 |4|Saturn|Servant|20:46:12|21:49:40|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|21:49:41|22:53:09|Answering needs, attracting love and wealth|
+|5|Jupiter|Servant|21:49:41|22:53:09|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mars|Servant|22:53:10|23:56:38|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|23:56:39|01:00:06|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Venus|Ruler|01:00:07|02:03:35|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°35'8.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°8'15.06" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°13'29.13" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|20°46'7.72" |Libra|Jubana|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|0°35'10.15" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°8'17.01" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°13'26.69" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|20°46'0.78" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|5°32'7.40" |Virgo|Awwa|Sun|
 |☿ Mercury|Direct|4°45'9.72" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|22°7'30.11" |Libra|Jubana|Jupiter|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|20°46'7.72" |Scorpio|Qalb|Venus|
 |♀ Venus|Direct|5°32'7.40" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|4°45'9.72" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|22°7'30.11" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|21°21'51.76" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Mercury|Mars|Sagittarius|Sun|Venus|
 |☿ Mercury|Mars|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
