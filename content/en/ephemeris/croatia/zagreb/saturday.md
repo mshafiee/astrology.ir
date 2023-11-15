@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°40'58.21" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°31'28.32" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°37'13.82" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|25°37'28.32" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|10°55'56.00" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|11°52'7.58" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|27°10'27.00" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|8°31'27.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°37'16.33" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|25°37'34.24" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|10°55'54.01" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|11°52'1.39" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|26°3'21.29" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°40'58.21" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°31'27.26" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°37'16.33" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|25°37'34.24" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|10°55'54.01" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|11°52'7.58" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|8°31'28.32" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°37'13.82" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|25°37'28.32" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|10°55'56.00" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|11°52'1.39" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|26°3'21.29" |Capricorn|SaadAlSaud|Sun|
 
 

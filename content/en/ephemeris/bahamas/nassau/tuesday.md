@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°36'12.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°0'6.08" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°57'39.38" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|21°49'23.29" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|6°42'0.57" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|6°18'45.15" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|5°54'32.76" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|9°0'8.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°57'35.06" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|21°49'11.90" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|6°41'48.57" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|6°18'37.70" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°46'15.65" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Jupiter|Scorpio|Moon|Venus|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°36'12.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°0'6.08" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°57'34.60" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|21°49'10.66" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|6°41'46.46" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°18'37.07" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|4°40'6.44" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|9°0'8.96" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°57'35.06" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|21°49'11.90" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|6°41'48.57" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|6°18'37.70" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|4°46'15.65" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

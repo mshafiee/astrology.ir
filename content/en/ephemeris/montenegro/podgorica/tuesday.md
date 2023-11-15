@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°35'57.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°2'2.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°47'15.49" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|21°34'26.38" |Libra|Jubana|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|0°35'56.97" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|9°2'0.41" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°47'18.03" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|21°34'33.21" |Libra|Jubana|Jupiter|
 |♀ Venus|Direct|6°25'36.28" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|5°56'47.59" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°52'56.26" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|5°56'51.70" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|2°33'1.00" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
+|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°35'56.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|9°2'2.19" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|22°47'15.49" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|21°34'26.38" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|6°25'27.54" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°56'47.59" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°52'56.26" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|9°2'1.35" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|22°47'15.96" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|21°34'28.60" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|6°25'39.08" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|5°56'46.88" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|1°56'39.76" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

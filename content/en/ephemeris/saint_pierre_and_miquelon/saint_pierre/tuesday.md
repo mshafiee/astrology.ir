@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°36'10.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|9°0'18.93" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°56'29.63" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|21°47'43.43" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|6°40'8.84" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|6°16'17.99" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|5°35'10.22" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|9°0'19.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°56'29.05" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|21°47'41.97" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|6°40'8.80" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|6°16'18.00" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°35'12.86" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|9°0'18.93" |Taurus|Dabaran|Mercury|
 |♂ Mars|Direct|22°56'29.63" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|21°47'43.43" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|6°40'8.84" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°16'16.70" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|5°23'47.55" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|6°40'8.83" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|6°16'18.00" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°35'12.86" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>☌ Cnj</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>☌ Cnj|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: FSP, Saint Pierre, Saint-Pierre, St Pierre, saengpieleu, 생피에르
