@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°44'2.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°16'57.89" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°1'8.22" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|27°37'12.98" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|13°10'4.51" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|14°43'53.29" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|24°41'17.09" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°17'2.21" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°1'1.28" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|27°36'55.27" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|13°9'49.85" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|14°43'40.42" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|24°37'58.23" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°1'8.22" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|27°37'12.98" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|13°10'4.51" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|14°43'40.42" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|24°37'58.23" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|14°43'53.29" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|24°41'17.09" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

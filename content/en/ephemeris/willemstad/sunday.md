@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°42'46.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°22'42.21" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°27'45.28" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|26°49'34.30" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|12°16'32.31" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|13°35'51.84" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|14°2'48.70" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|8°22'40.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°27'47.98" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|26°49'41.54" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|12°16'41.61" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|13°35'56.08" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°46'8.71" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Mercury|Sun|
 |♀ Venus|Venus|Venus|Saturn|Saturn|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°42'46.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°22'42.21" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|26°27'45.28" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|26°49'34.30" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°16'32.31" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Retrograde|8°22'40.26" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|26°27'47.98" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|26°49'41.54" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°16'41.61" |Libra|Ghafr|Saturn|
 |☿ Mercury|Direct|13°35'51.84" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|14°2'48.70" |Aquarius|SaadAlAkhbia|Mercury|
 

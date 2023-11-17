@@ -301,7 +301,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°41'44.70" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|8°27'34.58" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°59'27.27" |Libra|Akleel|Jupiter|
+|♂ Mars|Direct|25°59'20.65" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|26°9'15.88" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|11°31'22.27" |Virgo|Awwa|Venus|
 |☿ Mercury|Direct|12°37'50.27" |Scorpio|Qalb|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°41'44.70" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°27'34.58" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°59'27.27" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|26°9'15.88" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|11°31'22.27" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|12°37'50.27" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|4°29'23.53" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|8°27'38.54" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°59'20.65" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|26°8'59.12" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|11°31'10.56" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|12°37'37.57" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°32'17.40" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Virgo|Sun|Sun|
 |♀ Venus|Moon|Saturn|Aquarius|Sun|Venus|
 |☿ Mercury|Sun|Moon|Taurus|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

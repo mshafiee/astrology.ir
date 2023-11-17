@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|06:03:39|07:04:10|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mars|Servant|07:04:11|08:04:42|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Sun|Servant|08:04:43|09:05:14|Attraction of financial and emotional love|
+|3|Sun|Servant|08:04:43|09:05:14|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|09:05:15|10:05:47|Creating love, connection and marriage|
 |5|Mercury|Servant|10:05:48|11:06:19|Indulgence|
 |6|Moon|Servant|11:06:20|12:06:51|Outer and inner journey|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°38'12.70" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°46'50.94" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|24°10'51.28" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|23°33'58.96" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°38'9.03" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|8°52'37.46" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|8°46'46.77" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|24°10'58.05" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|23°34'16.20" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|8°38'21.91" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|8°52'50.10" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|27°36'3.25" |Sagittarius|Baldah|Saturn|
 
 
