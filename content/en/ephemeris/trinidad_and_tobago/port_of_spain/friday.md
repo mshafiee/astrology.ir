@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°39'47.54" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°37'40.76" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°2'2.36" |Libra|Jubana|Jupiter|
-|☉ Sun|Direct|24°47'12.31" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|9°59'34.78" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|10°39'12.86" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|15°50'43.88" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|8°37'39.34" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°2'4.17" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|24°47'17.34" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|9°59'42.88" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|10°39'15.37" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|14°21'26.56" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Cancer|Moon|Moon|
 |♀ Venus|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°39'47.54" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°37'40.76" |Taurus|Dabaran|Mercury|
-|♂ Mars|Direct|25°2'2.36" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|24°47'12.31" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|9°59'34.78" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|10°39'12.86" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|15°50'43.88" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|8°37'39.34" |Taurus|Dabaran|Mercury|
+|♂ Mars|Direct|25°2'4.17" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|24°47'17.34" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|9°59'42.88" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|10°39'15.37" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|15°47'26.13" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

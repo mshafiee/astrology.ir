@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°41'37.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°28'11.77" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°55'54.91" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|26°4'12.36" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°25'42.74" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|8°28'15.48" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°55'49.03" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|26°3'57.17" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|11°25'29.32" |Virgo|Awwa|Venus|
 |☿ Mercury|Direct|12°30'33.88" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°16'58.14" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°44'21.87" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Alofi, Alofis, Alofo, Pasjolak Alofi, a luo fei, alaphi, allopi, alophi, alopi, alwfy, arofi, xalofi, Αλόφι, Алофи, Алофі, Пасёлак Алофі, الوفی, अलोफी, അലാഫി, อาโลฟี, ალოფი, アロフィ, 阿洛菲, 알로피

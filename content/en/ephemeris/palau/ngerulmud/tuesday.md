@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°45'8.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°12'23.21" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°28'28.10" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|28°16'2.66" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|13°53'47.84" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|15°39'18.18" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°18'11.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|8°12'19.31" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°28'33.99" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|28°16'17.92" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|13°54'3.33" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|15°39'28.40" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°40'47.62" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Taurus|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°45'8.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°12'23.21" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°28'28.10" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|28°16'2.66" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°53'47.84" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|15°39'18.18" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|4°18'11.26" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|8°12'19.31" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°28'33.99" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|28°16'17.92" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°54'3.33" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|15°39'28.40" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°40'47.62" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Pisces|Sun|Venus|
 |☿ Mercury|Venus|Sun|Gemini|Moon|Mercury|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

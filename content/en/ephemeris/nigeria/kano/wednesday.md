@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°47'33.96" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|8°2'43.16" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°26'14.24" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|28°26'14.20" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|29°38'24.33" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|15°26'41.38" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|17°35'17.38" |Sagittarius|Baldah|Moon|

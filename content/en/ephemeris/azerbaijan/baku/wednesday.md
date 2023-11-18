@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°47'25.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°3'16.28" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°22'54.28" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|29°33'39.29" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|15°21'17.19" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|17°28'28.54" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|21°7'10.01" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Retrograde|8°3'16.27" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°22'53.84" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|29°33'38.28" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|15°21'21.36" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|17°28'36.75" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|21°12'16.97" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°47'25.34" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|8°3'16.28" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°22'50.03" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|29°33'28.78" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|15°21'17.19" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|17°28'28.54" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|21°7'10.01" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|28°22'54.28" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|29°33'39.29" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|15°21'19.32" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|17°28'38.45" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|21°33'2.95" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
 |☿ Mercury|Mercury|Mercury|Gemini|Moon|Mercury|
-|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}

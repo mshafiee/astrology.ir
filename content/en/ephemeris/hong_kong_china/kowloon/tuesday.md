@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|28°20'41.80" |Libra|Akleel|Jupiter|
 |♀ Venus|Direct|13°59'0.56" |Virgo|Awwa|Venus|
 |☿ Mercury|Direct|15°45'42.71" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°41'40.70" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|4°41'41.04" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|28°20'41.80" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|13°59'0.56" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|15°45'42.71" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|4°41'40.70" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|4°41'41.04" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽

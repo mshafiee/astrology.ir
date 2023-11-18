@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°45'13.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°11'56.98" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°30'46.75" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|28°19'27.00" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|13°57'36.32" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|15°43'56.62" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°24'21.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|8°11'58.47" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°30'43.39" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|28°19'18.65" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|13°57'35.76" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|15°43'48.55" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°36'36.51" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Taurus|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: BWN, Banda Seri, Bandar Seri Begauan, Bandar Seri Begavan, Bandar Seri Begavanas, Bandar Seri Begawan, Bandar Sery Begawan, Bandar-Seri-Begavan, Bandar-Seri-Begavano, Bandar-Sery-Begavan, Bandarseribegavana, Brunei, Brunei Town, Bruni, Mpantar Seri Mpenkaban, badara seri begavana, ban dar se ribe ka wan, bandaleuseulibeugawan, bandar seri bagevan, bandar-seri-begavani, bandara seri bega'oyana, bandara seri begavana, bandara sri bagavana, bandarusuribugawan, bndr sry bgawan, bndr sry bkawan, bndr sry bygwan, pantar ceri pekavan, si li ba jia wan, si li ba jia wan shi, sry bgawan, Μπαντάρ Σερί Μπεγκαβάν, Бандар Сери Бегаван, Бандар-Сери-Бегаван, Бандар-Серы-Бегаван, Бандар-Сері-Бегаван, Բանդար Սերի Բեգավան, בנדר סרי בגוואן, باندار سەرى بەگاۋان, بندر سري بكاوان, بندر سری بگاوان, بندر سری بیگوان, بەندەر سێری بێگاوان, سری بگاوان, बंदर स्री बगवान, बन्दर सेरी बेगवान, बन्दर सेरी बेगावान, বন্দর সেরি বেগাওয়ান, ਬੰਦਰ ਸੇਰੀ ਬੇਗਵਾਨ, பண்டர் செரி பெகாவான், ಬಂದರ್ ಸೆರಿ ಬಗೆವನ್, ബന്ദർ സെരി ബെഗവൻ, บันดาร์เสรีเบกาวัน, སི་རི་པེ་ཀ་མཚོ་ཁུགས་གྲོང་ཁྱེར།, ဘန်ဒါဆရီဘဂါဝမ်မြို့, ბანდარ-სერი-ბეგავანი, ባንዳር ሰሪ ቤጋዋን, バンダルスリブガワン, 斯里巴加湾市, 斯里巴加灣, 斯里巴加灣市, 반다르스리브가완

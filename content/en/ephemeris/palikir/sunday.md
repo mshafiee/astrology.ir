@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°41'47.57" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|8°27'20.51" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|26°0'47.95" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|26°11'11.07" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°33'31.22" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|12°40'36.00" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°56'16.85" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|26°11'2.84" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|11°33'31.13" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|12°40'28.16" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°45'15.38" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Venus|Venus|Aries|Moon|Mars|
-|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°0'47.95" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|26°11'11.07" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|11°33'31.22" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|12°40'36.00" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|4°56'16.85" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|12°40'28.16" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°45'15.38" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Virgo|Sun|Sun|
 |♀ Venus|Moon|Saturn|Aquarius|Sun|Venus|
 |☿ Mercury|Sun|Moon|Taurus|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르

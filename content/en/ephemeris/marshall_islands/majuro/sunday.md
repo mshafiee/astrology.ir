@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°41'44.25" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Post-Retrograde Shadow|0°41'44.44" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|8°27'39.94" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°59'9.14" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|26°8'43.84" |Libra|Akleel|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°41'44.25" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|0°41'44.44" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|8°27'39.94" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°59'9.14" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|26°8'43.84" |Scorpio|Shaulah|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로
