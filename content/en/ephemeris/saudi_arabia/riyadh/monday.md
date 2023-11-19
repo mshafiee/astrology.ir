@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°43'53.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°17'37.82" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°57'13.50" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|27°31'38.41" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|13°3'48.96" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|14°35'56.01" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|23°19'27.31" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°17'37.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°57'13.49" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|27°31'38.34" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|13°3'48.32" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|14°35'56.14" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|23°24'19.86" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°43'53.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°17'37.82" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|26°57'13.50" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|27°31'38.41" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|0°43'53.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|8°17'37.88" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|26°57'13.49" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|27°31'38.34" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|13°3'48.32" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|14°35'56.14" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|23°24'19.86" |Aquarius|FarghAlMuqaddam|Moon|

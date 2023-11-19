@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°49'1.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°57'24.97" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°58'47.05" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|0°24'38.99" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°19'6.64" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|18°39'57.03" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°10'1.05" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°57'23.48" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°58'50.27" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|0°24'46.89" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°19'8.33" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|18°40'4.55" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°16'25.92" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|7°57'23.48" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|28°58'50.27" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|0°24'46.89" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|16°19'6.64" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|18°39'57.03" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|3°10'1.05" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|16°19'8.33" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|18°40'4.55" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|3°16'25.92" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Kyatpyay, Kyetpyay, NYT, Naipidau, Nay Pyi Taw, Naypyidaw, Naypyitaw, Ne Pyi Daw, Pyinmana, naepido, nepido, 내피도, 네피도

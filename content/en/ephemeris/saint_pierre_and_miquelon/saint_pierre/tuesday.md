@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°46'9.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°8'9.92" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°53'23.71" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|28°51'38.70" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|14°33'54.11" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|16°29'31.07" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|11°52'17.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|8°8'9.66" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°53'24.36" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|28°51'40.37" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|14°33'54.18" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|16°29'32.70" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°0'42.34" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Sun|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°46'9.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°8'9.92" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°53'23.71" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|28°51'38.70" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|14°33'54.11" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|16°29'31.07" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|8°8'9.66" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°53'24.36" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|28°51'40.37" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|14°33'54.18" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|16°29'32.70" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|12°0'42.34" |Pisces|FarghAlMuakhar|Jupiter|
 
 

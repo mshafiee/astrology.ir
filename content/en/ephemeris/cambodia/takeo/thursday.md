@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°48'57.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°57'39.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°57'20.19" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|0°22'34.56" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°16'48.21" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|18°37'4.57" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|2°35'9.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°57'37.44" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°57'24.23" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|0°22'44.59" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°16'49.86" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|18°37'14.26" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°47'52.92" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°48'57.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°57'39.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°57'20.19" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|0°22'34.56" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|16°16'48.21" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|18°37'4.57" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|2°35'9.63" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|7°57'37.44" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°57'24.23" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|0°22'44.59" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|16°16'49.86" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|18°37'14.26" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|2°47'52.92" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

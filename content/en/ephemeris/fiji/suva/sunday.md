@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|8°27'56.97" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°57'19.81" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|26°6'13.53" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|11°27'43.94" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|12°33'22.17" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°59'54.87" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|11°27'59.66" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|12°33'21.68" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°36'35.06" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°41'40.21" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°27'59.93" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°57'15.73" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|26°6'2.65" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|11°27'43.94" |Libra|Ghafr|Saturn|
-|☿ Mercury|Direct|12°33'22.17" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|3°59'54.87" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|8°27'56.97" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°57'19.81" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|26°6'13.53" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|11°27'58.42" |Libra|Ghafr|Saturn|
+|☿ Mercury|Direct|12°33'28.43" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°44'58.26" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>△ Trn|<sub>✱ Sxt|<sub>✱ Sxt|<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

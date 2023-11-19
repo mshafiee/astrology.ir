@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°49'3.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°57'14.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°59'39.84" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|0°25'50.58" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°20'29.92" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|18°41'41.72" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°59'43.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°57'14.47" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°59'46.00" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|0°26'6.10" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°20'37.78" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|18°41'54.90" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°36'51.84" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Khulna, Khulnâ, Kkhelna, Kkhulna, Kulna, Kulno, khulana, khwlna, ku er na shi, kulna, kuruna, Кулна, Кхелна, Кхулна, خولنا, کھلنا, खुलना, খুলনা, குல்னா, クルナ, 库尔纳市, 쿨나

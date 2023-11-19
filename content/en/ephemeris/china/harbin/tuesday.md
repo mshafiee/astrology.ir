@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°45'15.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°11'47.86" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°31'41.37" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|28°20'43.43" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|13°59'3.55" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|15°45'47.01" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°44'54.47" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Post-Retrograde Shadow|0°45'15.98" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|8°11'47.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°31'41.24" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|28°20'44.27" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|13°59'3.87" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|15°45'46.59" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|4°40'8.62" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°45'15.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°11'47.86" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°31'41.37" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|28°20'44.59" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°59'3.55" |Libra|Jubana|Saturn|
+|♃ Jupiter|Retrograde|8°11'48.10" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°31'40.93" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|28°20'43.43" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°59'2.85" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|15°45'46.08" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|4°43'35.97" |Pisces|FarghAlMuakhar|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Cap Nhi Tan, Charbin, Charbinas, Charmpin, Cáp Nhĩ Tân, HRB, Ha'erbin, Ha-erh-pin, Ha-erh-pin-shih, Harbin, Harbin Shi, Harbin-chhi, Harbin-chhī, Harbina, Harbino, Ha’erbin, Kharbin, Lungsod ng Harbin, Pin-chiang, Pin-chiang-hsien, Pinkiang, Xarbin, ha er bin, ha er bin shi, ha-eolbin si, har bin, harabina, harbn, harbyn, harpina, harubin, harubin shi, hrbyn, kharbini, Χαρμπίν, Харбин, Харбін, Խարբին, חרבין, خاربىن شەھىرى, هاربن, هاربین, ہاربن, हारबिन, हार्पिन, ਹਾਰਬਿਨ, ฮาร์บิน, ဟာရ်ပင်းမြို့, ხარბინი, ハルビン, ハルビン市, 哈尔滨, 哈尔滨市, 哈爾濱, 하얼빈 시

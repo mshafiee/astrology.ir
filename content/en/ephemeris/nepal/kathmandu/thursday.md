@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°49'5.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°57'7.82" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°0'30.13" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|0°27'6.24" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°21'53.50" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|18°43'20.58" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°32'19.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|0°49'5.81" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°57'6.93" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°0'32.51" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|0°27'12.15" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°21'52.86" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|18°43'26.84" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°51'5.97" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°49'5.81" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|7°57'6.93" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°0'30.13" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|29°0'32.51" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|0°27'6.24" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|16°21'53.50" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|18°43'20.58" |Sagittarius|Baldah|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Catmandu, Catmandum, KTM, Kantipur, Kantipura, Katemandu, Kathmandau, Kathmandou, Kathmandu, Katmando, Katmandoe, Katmandou, Katmandu, Katmanduo, Katmandó, Katmandú, Katmandû, Katmandū, Katmantou, Khatmandu, Káthmandu, Káthmándú, jia de man dou, kateumandu, kath manthu, kathamadaum, kathamadaum mahanagarapalika, kathamadu, kathamandu, kathmandu, katmandw, katmandww, katmantu, katomanzu, qtmndw, yem jilla, Κατμαντού, Катманду, Կատմանդու, קאטמאנדו, קטמנדו, كاتماندو, كاتماندۇ, کاتماندو, کاتماندوو, کھٹمنڈو, काठमांडू, काठमाडौं, काठमाडौं महानगरपालिका, काठमाण्डू, येँ जिल्ला, কাঠমাণ্ডু, কাঠমান্ডু, ਕਠਮੰਡੂ, કાઠમંડુ, କାଠମାଣ୍ଡୁ, காட்மாண்டு, కాఠ్మండు, ಕಠ್ಮಂಡು, കാഠ്മണ്ഡു, කත්මන්ඩු, กาฐมาณฑุ, ཀ་ཏ་མན་ཏ།, ཀ་ཏ་མན་ཏུ།, კატმანდუ, ካትማንዱ, カトマンズ, 加德滿都, 카트만두
