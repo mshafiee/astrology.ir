@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°45'15.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°11'47.43" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°31'43.42" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|28°20'47.69" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|13°59'7.19" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|15°45'51.06" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°43'1.59" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|8°11'51.23" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°31'37.50" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|28°20'32.45" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|13°58'53.02" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|15°45'40.44" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|5°10'46.77" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Taurus|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°45'15.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°11'47.43" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°31'43.42" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|28°20'47.69" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°59'7.19" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|15°45'51.06" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|4°43'1.59" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|8°11'51.23" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°31'37.50" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|28°20'32.45" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°58'53.02" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|15°45'40.44" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|5°10'46.77" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Pisces|Sun|Venus|
 |☿ Mercury|Venus|Sun|Gemini|Moon|Mercury|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Aomen, Aomin', Au-mun, Aumwnz, Aumyn, Cidade de Macau, Cidade do Santo Nome de Deus de Macau, MFM, Ma Cao, Macao, Macau, Macaum, Makaa, Makaaw, Makao, Makaou, Makau, Makaw, Makawo, Makaó, Makee, Makèë, Màkáù, O-muong, ao men, maka, maka'o, maka'u, makao, makavu, makaw, makayw, makkavu, mkaw, Àu-mûn, Ó̤-muòng, Μακάου, Аоминь, Аумын, Макаа, Макао, מקאו, ئاۋمېن, ماكاو, ماکائو, مکاؤ, މަކާއޫ, मकाउ, मकाओ, মাকাউ, ਮਕਾਉ, મકાઉ, மக்காவு, మకావు, ಮಕಾವು, മകൗ, เขตบริหารพิเศษมาเก๊า, မကာအို, მაკაო, マカオ, 澳門, 澳门, 마카오
