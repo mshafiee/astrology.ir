@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°45'10.71" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°12'8.70" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°29'36.70" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|28°17'47.23" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°55'44.74" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|15°41'34.88" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|3°54'33.33" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|0°45'10.81" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|8°12'8.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°29'36.73" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|28°17'47.29" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°55'43.99" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|15°41'35.17" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|4°1'22.07" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오

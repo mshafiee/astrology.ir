@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|8°11'35.33" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|27°32'55.94" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|28°22'30.72" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|14°1'3.42" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|15°48'17.52" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|5°7'23.49" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°0'51.64" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|15°48'5.58" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|5°11'32.84" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|8°11'35.33" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|27°32'55.94" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|28°22'30.72" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|14°1'3.42" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|15°48'17.52" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|5°7'23.49" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|14°0'51.64" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|15°48'5.58" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|5°11'32.84" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Ch'ang-an, Ch'ang-an-hsien, Ch’ang-an, Ch’ang-an-hsien, Hsi Gnan Fu, Hsi-an, Hsi-an-shih, Hsi-ching, Hsi-ching-shih, Hsingan, SIA, Si-Gan-Fu, Sian, Sian', Siana, Sianas, Sianfu, Siano, Siaņa, Siking, Singan, Tay An, Tây An, Xi'an, Xi'an - xi an, Xi'an - 西安, Xi'an Shi, Xian, Xi’an, Xi’an Shi, Xī'ān, si xan, sian si, xi an, xi an shi, Ŝiano, Сиань, شىئەن شەھىرى, ซีอาน, 西安, 西安市, 시안 시

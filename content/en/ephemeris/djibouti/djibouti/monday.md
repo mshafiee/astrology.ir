@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°43'53.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°17'39.78" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°57'1.98" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|27°31'22.03" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|13°3'30.58" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|14°35'32.58" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|23°15'23.24" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°17'39.81" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°57'2.02" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|27°31'22.09" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|13°3'30.02" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|14°35'32.81" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|23°20'34.72" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°43'53.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°17'39.78" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|26°57'1.98" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|27°31'22.03" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°3'30.58" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|14°35'32.58" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|23°15'23.24" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°17'40.31" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|26°57'0.71" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|27°31'18.85" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°3'30.85" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|14°35'29.41" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|22°49'29.29" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

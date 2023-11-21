@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°45'11.32" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|8°12'6.76" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°29'49.06" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|28°18'4.68" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|13°56'3.73" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|15°42'0.13" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°5'43.22" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|27°29'48.81" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|28°18'4.13" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|13°56'5.01" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|15°41'59.19" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°51'29.56" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°45'11.32" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°12'10.68" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|27°29'42.68" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|28°17'48.29" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°55'50.41" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|15°41'48.12" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|4°5'43.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|8°12'6.76" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|27°29'48.81" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|28°18'4.13" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°56'5.01" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|15°41'59.19" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°51'29.56" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: Djumpandang, Kota Makassar, Macassar, Makasar, Makasaras, Makassar, Makasser, UPG, Udjung Pandang, Ujungpandang, makasaleu, makasar, makassaru, Макассар, ماکاسار, マカッサル, 마카사르

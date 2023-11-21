@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'26.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'44.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°31'2.83" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°35'47.62" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°47'50.11" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°40'11.75" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°23'25.57" |Aries|Sharatain|Mars|
+|♄ Saturn|Post-Retrograde Shadow|0°53'25.94" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°42'44.42" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°31'1.57" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°35'44.47" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°47'51.63" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°40'7.84" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°23'2.91" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°53'26.41" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|7°42'44.13" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|0°31'2.83" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°35'47.62" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°47'50.11" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°40'11.75" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°23'25.57" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°35'44.47" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°47'51.63" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°40'7.84" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°23'2.91" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al Hilla, Al Hillah, Al Ḩillah, Al'-Khilla, Al-Hella, Hilah, Hilla, Hille, Hillé, alhlt, Аль-Хилла, الحلة

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°47'57.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°1'18.69" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°34'56.45" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|29°50'44.63" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|15°40'36.53" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|17°52'39.47" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|26°10'29.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|8°1'17.01" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°34'58.71" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|29°50'50.62" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|15°40'44.58" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|17°52'42.83" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|25°27'22.54" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°47'57.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°1'18.69" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°34'56.45" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|29°50'44.63" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|15°40'36.53" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|17°52'39.47" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Retrograde|8°1'17.01" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°34'58.71" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|29°50'50.62" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|15°40'44.58" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|17°52'42.83" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|26°10'29.21" |Pisces|Rescha|Mars|
 
 

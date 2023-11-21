@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°44'5.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°16'49.22" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°2'0.91" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|27°38'27.22" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|13°11'28.50" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|14°45'40.40" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|24°58'14.97" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|8°16'50.46" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°1'59.65" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|27°38'23.74" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|13°11'20.41" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|14°45'39.45" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|25°42'15.04" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Mercury|Sun|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
+|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°44'5.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|8°16'49.22" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|8°16'50.46" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|27°2'0.91" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|27°38'27.22" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|13°11'28.50" |Libra|Jubana|Saturn|
