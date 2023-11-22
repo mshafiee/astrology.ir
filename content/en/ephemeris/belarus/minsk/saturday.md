@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'38.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'7.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°35'0.83" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°41'24.83" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°54'15.57" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°47'49.23" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°43'23.50" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|7°42'7.55" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°35'0.55" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°41'24.09" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°54'13.70" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°47'49.15" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°53'27.16" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'38.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'7.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°35'0.83" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°41'24.83" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°54'15.57" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°47'49.23" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°43'23.50" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|7°42'7.55" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°35'0.55" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°41'24.09" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°54'13.70" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°47'49.15" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°53'27.16" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: MSQ, Mins'k, Minsc, Minscum, Minsk, Minsk - Minsk, Minsk - Мінск, Minsk osh, Minska, Minskaj, Minskas, Minsko, Minszk, Mińsk, Myensk, Myenyesk, Mînsk, ming si ke, ming si ke shi, minseukeu, minsk, minsuku, mnsk, mynsk, mynsq, mynysky, Μινσκ, Минск, Минск ош, Минскай, Мінск, Мінськ, Мѣньскъ, Մինսկ, מינסק, منسک, مىنىسكى, مينسك, مینسک, मिन्‍स्‍क, மின்ஸ்க், ಮಿನ್ಸ್ಕ್, മിൻസ്ക്, มินสก์, མིན་སིཀ།, მინსკი, ミンスク, 明斯克, 明斯克市, 민스크

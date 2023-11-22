@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°45'9.19" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°12'19.53" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°28'50.36" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|28°16'33.81" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|13°54'25.62" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|15°40'2.62" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°7'7.95" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|8°12'15.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°28'56.57" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|28°16'49.82" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|13°54'39.49" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|15°40'14.08" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°48'38.27" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trn|<sub>☍ Opp|<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>□ Sqr|<sub>□ Sqr|<sub>△ Trn|<sub>✱ Sxt</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>△ Trn|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: DIL, Delhi, Dilhi, Dili, Dili khot, Dilis, Dilli, Dilly, Dilo, Dily, Dyli, Díli, Nova Dili, Ntili, di li, dili, dilli, diri, dyly, tili, Ντίλι, Дили, Дили хот, Дылі, Ділі, Դիլի, דילי, دىلى, ديلي, دیلی, ڈلی, दिली, দিলি, ਦੀਲੀ, டிலி, ಡಿಲಿ, ദിലി, ดิลี, དྷི་ལི།, ဒီလီမြို့, დილი, ディリ, 帝力, 딜리
