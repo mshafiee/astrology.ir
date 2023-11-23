@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°49'11.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°56'47.34" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°2'34.25" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|0°30'4.49" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°25'9.35" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|18°47'27.37" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°31'52.23" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|7°56'47.05" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°2'34.45" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|0°30'5.14" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°25'12.23" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|18°47'27.04" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|4°11'50.48" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°49'11.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°56'47.41" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°2'34.25" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|0°30'4.49" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|16°25'9.35" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|18°47'27.37" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|4°31'52.23" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|7°56'47.34" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°2'34.50" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|0°30'5.09" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|16°25'9.05" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|18°47'28.09" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|4°35'25.91" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: ALA, Alma Ata, Alma-Ata, Almaato, Almata, Almati, Almato, Almaty, Almatî, Almatõ, Almatý, Almatı, Almatʻa, Ałmaty, Vernyy, a la mu tu, alamati, almaaty, almati, almaty, arumatoi, xal mati, Αλμάτι, Алма-Ата, Алмаато, Алмати, Алматы, Ալմաթա, אלמאטיע, אלמטי, آلماآتی, آلماتی, ألماتي, ئالمۇتا, الماتی, अलमाती, अल्माटी, อัลมาตี, ཨཱལ་མ་ཊི།, ალმათი, アルマトイ, 阿拉木圖, 알마티

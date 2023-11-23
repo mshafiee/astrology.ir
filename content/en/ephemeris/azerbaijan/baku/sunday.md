@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°55'38.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°36'10.15" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°13'43.66" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|3°36'21.23" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°56'48.99" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|23°1'45.91" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|17°13'32.09" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|7°36'11.87" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°13'39.53" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|3°36'10.89" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°56'46.96" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|23°1'35.50" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|18°1'58.97" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Sagittarius|Moon|Mars|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°55'38.48" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°36'10.15" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°13'43.66" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|3°36'21.23" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|0°55'37.89" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°36'11.87" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°13'39.53" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|3°36'10.89" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|19°56'48.99" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|23°1'45.91" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|17°13'32.09" |Taurus|Dabaran|Moon|

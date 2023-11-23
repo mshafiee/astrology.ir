@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'19.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°43'5.75" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°28'44.30" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°32'30.92" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°44'6.46" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°35'44.94" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°39'14.14" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|7°43'7.76" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°28'39.98" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°32'20.07" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°44'2.94" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°35'34.74" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°18'1.75" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|7°43'5.75" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|0°28'44.30" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|2°32'30.92" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°44'6.46" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°35'44.94" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°39'14.14" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°44'2.94" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°35'34.74" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°18'1.75" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Mambutzou, Mamoudzou, Mamoutzou, Mamudzu, Mamutzu, mamuju, Мамудзу, 마무주

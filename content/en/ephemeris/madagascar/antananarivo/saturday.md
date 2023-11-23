@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'17.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°43'11.15" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°28'10.24" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°31'42.37" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°43'11.40" |Virgo|Simak|Venus|
+|♃ Jupiter|Retrograde|7°43'11.07" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°28'10.08" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°31'41.97" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°43'12.67" |Virgo|Simak|Venus|
 |☿ Mercury|Direct|21°34'39.32" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|2°31'2.92" |Aries|Sharatain|Mars|
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|0°28'10.24" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|2°31'42.37" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|18°43'11.40" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°34'39.32" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°31'2.92" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|21°34'38.42" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°25'49.52" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Antananarifo, Antananarivo, Antananarivu, Antananariwo, Antananaryvas, Antananaryvu, Antananarywa, Antananarívó, TNR, Tana, Tananaribe, Tananarive, an ta na na li fu, anatananaribho, anrananarivea, antananalibo, antananaribho, antananaribo, antananarivho, antananarivo, antananaryfw, antananaryww, antʼananarivu, atananarivo, ta na na li fu, xan ta nana ri wo, Ανταναναρίβο, Ταναναρίβη, Антананариво, Антананариву, Антананарыву, Антананаріву, Тананариве, Անտանանարիվու, אנטאנאנאריווא, אנטננריבו, آنتاناناریوو, أنتاناناريفو, ئانتاناناریڤۆ, انٹاناناریوو, اینٹانانیریو, अंतानानारिव्हो, अन्टाननरीवो, আনতানানারিভো, আন্তানানারিভো, ਅੰਤਾਨਾਨਾਰੀਵੋ, அண்டனானரீவோ, ആന്റനനറീവൊ, อันตานานาริโว, ཨེན་ཊ་ན་ན་རི་བོ།, ანტანანარივუ, አንታናናሪቮ, アンタナナリボ, 塔那那利佛, 安塔那那利佛, 안타나나리보

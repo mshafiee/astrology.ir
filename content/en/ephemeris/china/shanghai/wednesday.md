@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°47'1.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|8°4'46.02" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°13'50.04" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|29°20'45.04" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|15°6'44.57" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|17°10'30.56" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|18°32'41.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|0°47'2.49" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|8°4'50.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°13'43.50" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|29°20'28.45" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|15°6'29.90" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|17°10'18.68" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|19°21'25.34" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°47'1.75" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|8°4'46.02" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|28°13'50.04" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|29°20'45.04" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|15°6'44.57" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|17°10'30.56" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|18°32'41.91" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|29°20'28.45" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|15°6'29.90" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|17°10'18.68" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|19°21'25.34" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Mercury|Mercury|Mars|Mercury|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Mars|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

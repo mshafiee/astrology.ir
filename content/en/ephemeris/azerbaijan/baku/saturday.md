@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'26.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'46.94" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°30'52.71" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°35'28.48" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°47'38.31" |Virgo|Simak|Venus|
+|♃ Jupiter|Retrograde|7°42'45.15" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°30'56.88" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°35'38.87" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°47'40.37" |Virgo|Simak|Venus|
 |☿ Mercury|Direct|21°39'49.99" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|3°57'0.40" |Aries|Sharatain|Mars|
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'26.15" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'45.15" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°30'56.88" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°35'38.87" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°47'40.37" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°40'0.26" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|7°42'46.94" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°30'52.71" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°35'28.48" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°47'38.31" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°39'49.99" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|3°57'0.40" |Taurus|Thurayya|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠
