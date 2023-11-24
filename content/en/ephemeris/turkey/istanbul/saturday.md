@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'33.84" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'21.26" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°33'29.31" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°39'15.44" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°51'48.04" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°44'53.20" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°6'21.58" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|7°42'21.49" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°33'29.17" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°39'15.05" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°51'46.35" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°44'53.41" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°14'54.70" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|7°42'21.49" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|0°33'29.17" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|2°39'15.05" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°51'48.04" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°44'53.20" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°6'21.58" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|18°51'46.35" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°44'53.41" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°14'54.70" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Bizanc, Bizánc, Byzance, Byzantion, Byzantium, Byzanz, Constantinoble, Constantinopla, Constantinople, Constantinopolen, Constantinopoli, Constantinopolis, Costantinopoli, Estambul, IST, Istamboul, Istambul, Istambuł, Istampoul, Istanbul, Istanbúl, Isztambul, Konstantinapoly, Konstantinopel, Konstantinopolo, Konstantinoupoli, Konstantinoupolis, Konstantinápoly, Kustantiniyah, Micklagard, Micklagård, Mikligardur, Mikligarður, Stamboul, Stambul, Stambula, Stambuł, Tsarigrad, Vizantija (Vizantija), Vyzantio, astnbwl, bijantium, byuzantion, byzntywn, iseutanbul, istambula, isutanburu, stin Poli [stimˈboli], yi si tan bu er, İstanbul, Βυζάντιο, Βυζαντιο, Ισταμπουλ, Ισταμπούλ, Κωνσταντινουπολη, Κωνσταντινούπολη, Κωνσταντινούπολις, στην Πόλι [stimˈboli], Византија (Vizantija), Истанбул, Стамбул, ביזנטיון, اسطنبول, इस्तांबुल, ইস্তাম্বুল, イスタンブール, ビュザンティオン, 伊斯坦布尔, 비잔티움, 이스탄불

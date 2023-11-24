@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|1°13'59.86" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|3°36'44.31" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|19°57'15.23" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|23°2'17.27" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|17°18'4.49" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|23°2'16.65" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|17°17'27.43" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

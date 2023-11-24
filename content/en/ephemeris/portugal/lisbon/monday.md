@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'19.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°28'41.61" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°3'26.70" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°46'50.08" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°17'21.57" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°35'3.55" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°8'54.67" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|0°58'19.62" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°28'41.79" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°3'27.30" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°46'51.50" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|21°17'18.36" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°35'6.45" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°2'29.56" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'19.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°28'41.61" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°3'26.70" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°46'50.08" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°17'21.57" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°35'3.55" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°8'54.67" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|0°58'19.62" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°28'41.79" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°3'27.30" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|4°46'51.50" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°17'18.36" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°35'6.45" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°2'29.56" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Felicitas Julia, Felicitas Julia Olissipo, LIS, Liospoin, Liospóin, Lisabon, Lisabona, Lisboa, Lisbon, Lisbona, Lisbonne, Lisbono, Lisbonum, Lisimba, Lisimbã, Lissabon, Lisszabon, Lizboa, Lizbon, Lizbona, Olisipo, Olissipo, li si ben, lisabana, lisaboni, lisbana, lisbxn, liseubon, lshbwnt, lysabwn, lysbwn, risubon, Λισαβώνα, Лисабон, Лиссабон, Лісабон, Լիսբոնա, ליסבון, لشبونة, لىسابون, لیسبون, ܠܫܒܘܢܐ, लिस्बन, লিসবন, ลิสบอน, ལ་ས་བན།, ལི་སི་བཱོན།, ლისაბონი, ሊዝቦን, リスボン, 里斯本, 리스본

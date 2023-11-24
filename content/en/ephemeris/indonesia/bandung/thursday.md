@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°48'54.18" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°57'52.35" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|28°56'10.67" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|0°20'52.44" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|16°14'48.27" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|18°34'49.12" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°29'6.71" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°57'48.46" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|28°56'17.05" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|0°21'8.83" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|16°15'1.67" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|18°35'1.28" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|2°27'47.71" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°48'54.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°57'52.35" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|28°56'10.67" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|0°20'52.44" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|16°14'48.27" |Libra|Jubana|Saturn|
+|♃ Jupiter|Retrograde|7°57'48.46" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|28°56'17.05" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|0°21'8.83" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|16°15'1.67" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|18°35'1.28" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|3°29'6.71" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|2°27'47.71" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub> |<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>☌ Cnj|<sub>✱ Sxt|<sub>△ Trn|<sub>□ Sqr|<sub> |<sub>□ Sqr</sub>|
 
 ---
 Alternate Names: BDO, Bandoeng, Banduna, Bandung, Bandungas, Bandungo, Bantoun'nk, Kota Bandung, Kuta Bandung, Kutha Bandhung, ban dung, bandon, bandung, bandungi, bandwng, bandwnj, bndwng, pantun, wan long, Μπαντούνγκ, Бандунг, Бандуң, Բանդունգ, באנדונג, باندونج, باندونگ, بندونگ, بنڈونگ, பண்டுங், บันดุง, ဘန်ဒေါင်းမြို့, ბანდუნგი, バンドン, 万隆, 萬隆, 반둥
