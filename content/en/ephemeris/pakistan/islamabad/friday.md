@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:54:30 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:54:30 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:54:30 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:54:30 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:54:30 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:54:30 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°51'10.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°49'58.48" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|7°49'58.47" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°45'0.88" |Libra|Akleel|Jupiter|
 |☉ Sun|Direct|1°30'24.96" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|17°33'32.53" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|20°10'53.48" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|18°25'17.83" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|17°33'32.67" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|20°10'53.43" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|18°24'23.59" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°51'10.57" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°49'58.48" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°45'0.92" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|1°30'24.98" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|17°33'32.53" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|20°10'53.50" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|18°25'17.21" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|7°49'58.47" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°45'0.88" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|1°30'24.96" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|17°33'32.67" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|20°10'53.43" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|18°24'23.59" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:35:04 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -60,26 +60,26 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:09:25 |
 | Isha (Night) | 17:55:26 |
 | Sharia Midnight | 22:53:42 |
-| Imum Coeli | 23:35:04 |
+| Imum Coeli | 23:35:05 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:55:11 |
 | Sunrise | 06:19:30 |
-| Dhuhr (Noon) | 11:34:55 |
-| Medium Coeli | 11:34:55 |
+| Dhuhr (Noon) | 11:34:56 |
+| Medium Coeli | 11:34:56 |
 | Sunset | 16:50:07 |
 | Maghrib | 16:51:14 |
 | Isha (Night) | 18:09:42 |
 | Sharia Midnight | 22:53:00 |
-| Imum Coeli | 23:35:04 |
+| Imum Coeli | 23:35:05 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -92,34 +92,34 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 16:51:14 |
 | Isha (Night) | 18:00:12 |
 | Sharia Midnight | 23:00:07 |
-| Imum Coeli | 23:35:04 |
+| Imum Coeli | 23:35:05 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:48:06 |
 | Sunrise | 06:19:30 |
-| Dhuhr (Noon) | 11:34:55 |
-| Medium Coeli | 11:34:55 |
+| Dhuhr (Noon) | 11:34:56 |
+| Medium Coeli | 11:34:56 |
 | Sunset | 16:50:07 |
 | Maghrib | 16:51:14 |
 | Isha (Night) | 18:12:05 |
 | Sharia Midnight | 22:49:27 |
-| Imum Coeli | 23:35:04 |
+| Imum Coeli | 23:35:05 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:55:11 |
 | Sunrise | 06:19:30 |
-| Dhuhr (Noon) | 11:34:55 |
-| Medium Coeli | 11:34:55 |
+| Dhuhr (Noon) | 11:34:56 |
+| Medium Coeli | 11:34:56 |
 | Sunset | 16:50:07 |
 | Maghrib | 16:51:14 |
 | Isha (Night) | 18:14:27 |
@@ -127,20 +127,20 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:35:04 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:52:49 |
 | Sunrise | 06:19:30 |
-| Dhuhr (Noon) | 11:34:55 |
-| Medium Coeli | 11:34:55 |
+| Dhuhr (Noon) | 11:34:56 |
+| Medium Coeli | 11:34:56 |
 | Sunset | 16:50:07 |
 | Maghrib | 16:51:14 |
 | Isha (Night) | 18:21:14 |
 | Sharia Midnight | 22:51:49 |
-| Imum Coeli | 23:35:04 |
+| Imum Coeli | 23:35:05 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°53'24.55" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°42'49.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°30'26.23" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°34'55.75" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°46'51.03" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°39'1.28" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°10'26.19" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°30'25.55" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°34'53.92" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°46'48.29" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°39'0.36" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°26'59.51" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Sagittarius|Moon|Mars|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

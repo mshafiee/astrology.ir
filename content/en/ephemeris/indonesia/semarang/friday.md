@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:24:57 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:24:57 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:24:57 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:24:57 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:24:57 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:24:57 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°50'52.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°50'59.92" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°38'34.99" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|1°21'16.78" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|0°50'52.05" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°50'59.90" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°38'35.02" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|1°21'16.80" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|17°23'10.46" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|19°58'18.85" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|16°17'55.88" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|19°58'18.87" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|16°17'55.29" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°50'52.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°50'59.92" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°38'34.99" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|1°21'16.78" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|0°50'52.05" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°50'59.90" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°38'35.02" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|1°21'16.80" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|17°23'10.46" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|19°58'18.85" |Sagittarius|Baldah|Moon|
 |☾ Moon|Direct|16°17'55.88" |Aries|Butain|Sun|

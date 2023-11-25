@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:49:03 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:49:03 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:49:03 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:49:03 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:49:03 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:49:03 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°57'17.51" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°31'31.66" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°44'32.46" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°19'59.58" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°46'44.39" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|23°59'47.79" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|27°47'50.85" |Aries|Thurayya|Venus|
+|♃ Jupiter|Retrograde|7°31'30.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°44'29.60" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°19'52.35" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°46'30.45" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|23°59'45.44" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|28°44'50.61" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°57'17.51" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|7°31'30.22" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°44'35.96" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°20'8.53" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°46'46.57" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|23°59'56.71" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|26°55'57.85" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|1°44'29.60" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|4°19'52.35" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°46'30.45" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|23°59'45.44" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|28°44'50.61" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Jupiter|Mercury|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Mars|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}

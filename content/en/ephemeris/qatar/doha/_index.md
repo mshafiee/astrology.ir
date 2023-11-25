@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:20:52 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:20:52 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:20:52 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:20:52 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:20:52 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:20:52 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|0°53'22.57" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°42'55.84" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°29'47.15" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°34'0.35" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°45'47.94" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°37'45.99" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°56'33.15" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|2°33'59.29" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°45'44.93" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°37'45.98" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°12'22.01" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°53'22.57" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'57.87" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°29'42.57" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°33'48.83" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°45'45.01" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°37'34.85" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°34'22.26" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|7°42'55.84" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°29'47.15" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°33'59.29" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°45'44.93" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°37'45.98" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°12'22.01" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

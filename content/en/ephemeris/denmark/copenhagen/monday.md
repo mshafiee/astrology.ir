@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:57:24 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:57:24 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:57:24 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:57:24 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:57:24 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:57:24 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°58'17.30" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°28'48.65" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°2'43.26" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°45'48.18" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°16'6.55" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°33'45.05" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°59'22.34" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°2'42.96" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°45'47.47" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|21°16'1.32" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°33'45.91" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°8'56.66" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°58'17.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°28'48.61" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°2'43.43" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°45'48.61" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°16'6.55" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°33'45.05" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°59'22.34" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|7°28'48.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°2'43.26" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|4°45'48.18" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°16'6.69" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°33'44.50" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°1'57.73" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

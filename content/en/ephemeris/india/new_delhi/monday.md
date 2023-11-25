@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:08:42 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:08:42 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:08:42 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:08:42 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:08:42 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:08:42 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°57'43.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°30'19.35" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°52'30.49" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°31'21.05" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|0°57'43.43" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°30'19.36" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°52'30.40" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°31'20.82" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|20°59'34.60" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|24°14'43.57" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|29°29'52.51" |Aries|Thurayya|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°57'43.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°30'19.35" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°52'30.49" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°31'21.05" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°59'34.53" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°14'43.85" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|29°28'37.37" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Retrograde|7°30'20.12" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°52'29.96" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|4°31'19.72" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°59'29.82" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°14'44.29" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|29°40'56.43" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

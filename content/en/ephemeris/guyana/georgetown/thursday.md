@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,15 +79,15 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:46:02 |
 | Sunrise | 05:48:09 |
-| Dhuhr (Noon) | 11:41:12 |
-| Medium Coeli | 11:41:12 |
+| Dhuhr (Noon) | 11:41:13 |
+| Medium Coeli | 11:41:13 |
 | Sunset | 17:34:13 |
 | Maghrib | 17:35:11 |
 | Isha (Night) | 18:36:22 |
@@ -95,15 +95,15 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:26:40 |
 | Sunrise | 05:48:09 |
-| Dhuhr (Noon) | 11:41:12 |
-| Medium Coeli | 11:41:12 |
+| Dhuhr (Noon) | 11:41:13 |
+| Medium Coeli | 11:41:13 |
 | Sunset | 17:34:13 |
 | Maghrib | 17:35:11 |
 | Isha (Night) | 18:47:08 |
@@ -111,15 +111,15 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:33:07 |
 | Sunrise | 05:48:09 |
-| Dhuhr (Noon) | 11:41:12 |
-| Medium Coeli | 11:41:12 |
+| Dhuhr (Noon) | 11:41:13 |
+| Medium Coeli | 11:41:13 |
 | Sunset | 17:34:13 |
 | Maghrib | 17:35:11 |
 | Isha (Night) | 18:49:18 |
@@ -127,15 +127,15 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:30:58 |
 | Sunrise | 05:48:09 |
-| Dhuhr (Noon) | 11:41:12 |
-| Medium Coeli | 11:41:12 |
+| Dhuhr (Noon) | 11:41:13 |
+| Medium Coeli | 11:41:13 |
 | Sunset | 17:34:13 |
 | Maghrib | 17:35:11 |
 | Isha (Night) | 19:05:11 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°6'7.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°9'43.47" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°16'16.66" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|7°54'51.75" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|24°52'51.09" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|28°33'17.47" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|13°35'15.67" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|7°9'43.30" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°16'16.50" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|7°54'51.25" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|24°52'52.50" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|28°33'16.22" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|13°47'10.47" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

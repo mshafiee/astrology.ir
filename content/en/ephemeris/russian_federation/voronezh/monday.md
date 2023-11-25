@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:10:54 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:10:54 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:10:54 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:10:54 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:10:54 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:10:54 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 08:19:59|Night duration: 15:41:31|
+|Duration of the day: 08:19:59|Night duration: 15:41:32|
 |Every hour of day duration: 00:41:40|Every hour of night duration: 01:18:28|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|16:20:31|17:38:57|Repelling magic, attracting discharged energy|
 |2|Mercury|Servant|17:38:58|18:57:25|Outer and inner journey|
-|3|Moon|Servant|18:57:26|20:15:52|Marriage connection is good|
-|4|Saturn|Servant|20:15:53|21:34:20|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|21:34:21|22:52:47|Answering needs, attracting love and wealth|
-|6|Mars|Servant|22:52:48|00:11:15|Summoning the person of interest, love and dominance|
-|7|Sun|Servant|00:11:16|01:29:43|Making promises|
-|8|Venus|Ruler|01:29:44|02:48:10|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:48:11|04:06:38|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|04:06:39|05:25:05|Good for any task|
-|11|Saturn|Servant|05:25:06|06:43:33|Creating enmity and negative energy|
-|12|Jupiter|Servant|06:43:34|08:02:01|Heart tenderness|
+|3|Moon|Servant|18:57:26|20:15:53|Marriage connection is good|
+|4|Saturn|Servant|20:15:54|21:34:20|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|21:34:21|22:52:48|Answering needs, attracting love and wealth|
+|6|Mars|Servant|22:52:49|00:11:16|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|00:11:17|01:29:43|Making promises|
+|8|Venus|Ruler|01:29:44|02:48:11|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:48:12|04:06:39|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|04:06:40|05:25:06|Good for any task|
+|11|Saturn|Servant|05:25:07|06:43:34|Creating enmity and negative energy|
+|12|Jupiter|Servant|06:43:35|08:02:02|Heart tenderness|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 08:19:59|Night duration: 15:41:31|
+|Duration of the day: 08:19:59|Night duration: 15:41:32|
 |Every hour duration: 01:11:26|Every hour duration: 02:14:30|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Venus|Ruler|16:20:31|18:35:00|
 |Late evening|Mercury|Servant|18:35:01|20:49:30|
 |Midnight|Moon|Servant|20:49:31|23:04:00|
-|Late at night|Saturn|Servant|23:04:01|01:18:30|
-|Rooster song|Jupiter|Servant|01:18:31|03:33:00|
-|False Dawn|Mars|Servant|03:33:01|05:47:30|
-|Dawn|Sun|Servant|05:47:31|08:02:01|
+|Late at night|Saturn|Servant|23:04:01|01:18:31|
+|Rooster song|Jupiter|Servant|01:18:32|03:33:01|
+|False Dawn|Mars|Servant|03:33:02|05:47:31|
+|Dawn|Sun|Servant|05:47:32|08:02:02|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°58'4.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°29'22.05" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°58'58.23" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°40'29.39" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°10'1.82" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°26'46.27" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°49'5.02" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°58'4.82" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°29'21.73" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°58'59.15" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°40'31.90" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|21°10'2.18" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°26'48.88" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°33'25.22" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°58'4.82" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°29'21.94" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°58'58.33" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°40'29.65" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°10'2.42" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°26'46.32" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°49'5.84" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|0°58'4.86" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°29'21.96" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|1°58'58.31" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|4°40'29.63" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°10'2.43" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°26'46.30" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°47'4.92" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

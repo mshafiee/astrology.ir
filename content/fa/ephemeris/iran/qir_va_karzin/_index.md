@@ -30,7 +30,7 @@ toc: false
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="لواء" >}}
  \
 __محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)__
 | وقت | ساعت |
@@ -46,7 +46,7 @@ __محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط �
 | پاسو (سمت القدم-نظير) | ۲۳:۴۴:۵۱ |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="ژئوفیزیک" >}}
  \
 __محاسبه به شیوه مؤسسه ژئوفیزیک دانشگاه تهران__
 | وقت | ساعت |
@@ -62,7 +62,7 @@ __محاسبه به شیوه مؤسسه ژئوفیزیک دانشگاه تهرا
 | پاسو (سمت القدم-نظير) | ۲۳:۴۴:۵۱ |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="مجمع‌جهانی" >}}
  \
 __محاسبه به شیوه مجمع جهانی اسلامی__
 | وقت | ساعت |
@@ -78,7 +78,7 @@ __محاسبه به شیوه مجمع جهانی اسلامی__
 | پاسو (سمت القدم-نظير) | ۲۳:۴۴:۵۱ |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="آمریکا" >}}
  \
 __محاسبه به شیوه جامعه اسلامی آمریکای شمالی__
 | وقت | ساعت |
@@ -94,7 +94,7 @@ __محاسبه به شیوه جامعه اسلامی آمریکای شمالی__
 | پاسو (سمت القدم-نظير) | ۲۳:۴۴:۵۱ |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="مصر" >}}
  \
 __محاسبه به شیوه مرجع عمومی ممیزی مصر__
 | وقت | ساعت |
@@ -110,7 +110,7 @@ __محاسبه به شیوه مرجع عمومی ممیزی مصر__
 | پاسو (سمت القدم-نظير) | ۲۳:۴۴:۵۱ |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="کراچی" >}}
  \
 __محاسبه به شیوه دانشگاه علوم اسلامی کراچی__
 | وقت | ساعت |
@@ -126,7 +126,7 @@ __محاسبه به شیوه دانشگاه علوم اسلامی کراچی__
 | پاسو (سمت القدم-نظير) | ۲۳:۴۴:۵۱ |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="ام‌القرا" >}}
  \
 __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 | وقت | ساعت |
@@ -335,9 +335,9 @@ __محاسبه به شیوه دانشگاه ام‌القرای مکه__
 |♃ هرمز|رجعی| "۵۶ '۴۲ ۷°|گاو|ثُرَيَا|تیر|
 |♂ بهرام|مستقیم| "۴۸ '۲۹ ۰°|کماندار|شَوله|تیر|
 |☉ خورشید|مستقیم| "۱ '۳۴ ۲°|کماندار|شَوله|تیر|
-|♀ ناهید|مستقیم| "۴۸ '۴۵ ۱۸°|ترازو|زُبَانَا|کیوان|
+|♀ ناهید|مستقیم| "۴۹ '۴۵ ۱۸°|ترازو|زُبَانَا|کیوان|
 |☿ تیر|مستقیم| "۴۷ '۳۷ ۲۱°|کماندار|بَلده|کیوان|
-|☾ ماه|مستقیم| "۴۳ '۵۹ ۲°|گاو|ثُرَيَا|تیر|
+|☾ ماه|مستقیم| "۴۰ '۵۷ ۲°|گاو|ثُرَيَا|تیر|
 
 
 |سیاره|حد مصری|حد بطلمیوسی|دریگان|اردگان|

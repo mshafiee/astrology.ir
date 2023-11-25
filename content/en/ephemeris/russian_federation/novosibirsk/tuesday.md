@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 01:16:11 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 01:16:11 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 01:16:11 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 01:16:11 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 01:16:11 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 01:16:11 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°0'13.27" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°23'45.18" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°37'8.36" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|5°34'33.97" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|22°11'54.72" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|25°37'9.45" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|13°47'52.57" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°0'13.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°23'45.19" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°37'8.25" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|5°34'33.67" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|22°11'53.19" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|25°37'9.76" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|13°48'32.17" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|2°37'8.25" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|5°34'33.67" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|22°11'53.19" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|25°37'9.76" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|13°48'32.17" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|25°36'59.54" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|14°57'4.96" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:41:43 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:41:43 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:41:43 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:41:43 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:41:43 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:41:43 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°57'26.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°31'5.18" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|1°47'23.83" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°24'6.19" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°51'18.19" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°5'10.81" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|27°53'42.12" |Aries|Thurayya|Venus|
+|♃ Jupiter|Retrograde|7°31'5.20" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|1°47'23.62" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°24'5.65" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°51'18.56" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°5'10.07" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|27°56'12.10" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°57'26.70" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|7°31'5.18" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|1°47'17.32" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°23'49.79" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|20°51'4.10" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°4'58.46" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|29°40'43.57" |Taurus|HaqAh|Saturn|
+|♂ Mars|Direct|1°47'23.83" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|4°24'6.19" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|20°51'18.19" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°5'10.81" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|27°53'42.12" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

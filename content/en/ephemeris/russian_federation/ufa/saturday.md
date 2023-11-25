@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 01:03:07 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,12 +63,12 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 01:03:07 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:52:08 |
+| Fajr (Dawn) | 06:52:09 |
 | Sunrise | 09:04:30 |
 | Dhuhr (Noon) | 13:02:58 |
 | Medium Coeli | 13:02:58 |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 01:03:07 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 01:03:07 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,12 +111,12 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 01:03:07 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:52:08 |
+| Fajr (Dawn) | 06:52:09 |
 | Sunrise | 09:04:30 |
 | Dhuhr (Noon) | 13:02:58 |
 | Medium Coeli | 13:02:58 |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 01:03:07 |
 {{< /tab >}}
 
-{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°53'28.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'37.89" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°31'45.40" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°36'47.00" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°48'58.45" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°41'33.65" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°50'48.78" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|7°42'37.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°31'45.33" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°36'46.76" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°48'57.99" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°41'33.57" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°53'26.57" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°53'28.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'37.89" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°31'45.40" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°36'47.00" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°48'58.45" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°41'33.65" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°50'48.78" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'28.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°42'37.87" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°31'45.42" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°36'47.02" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°48'58.44" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°41'33.68" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°50'47.94" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
