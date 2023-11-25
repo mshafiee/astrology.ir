@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'18.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°28'45.42" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°3'1.55" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°46'15.55" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°16'36.87" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°34'18.72" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°46'34.21" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|0°58'17.57" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°28'45.48" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°3'0.58" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°46'13.15" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|21°16'39.12" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°34'15.14" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°59'33.13" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°58'18.12" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|7°28'45.42" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|2°3'1.55" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°46'15.55" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°16'36.87" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°34'18.72" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°46'34.21" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|4°46'13.15" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°16'39.12" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°34'15.14" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°59'33.13" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
 
 ---
 Alternate Names: NKC, Naevakjut, Nawakshot, Nawakszut, Nouakchat, Nouakchot, Nouakchott, Nouaksot, Nouaxot, Nuakchot, Nuakshot, Nuaksjott, Nuaksot, Nuaksota, Nuaksotas, Nuaksoto, Nuaksott, Nuakxot, Nuakŝoto, Nuakşot, Nuakšot, Nuakšota, Nuakšotas, Nuakšott, Nwaqcut, Nwaqcuṭ, Nävakjut, Núaksjott, huo suo, navakasuta, nu wa ke xiao te, nu'akacota, nu'oyakasuta, nuagsyoteu, nuakushotto, nuvakcut, nwakshwt, Νουακσότ, Νουαξότ, Нуакшот, Նուակշոտ, נואקשוט, نواكشوط, نواکشوت, نواکشوط, نواکشۆت, نوواکوٹ, नवाकसुत, নুওয়াকশুত, ਨੁਆਕਚੋਤ, நுவாக்சூத், นูแอกชอต, ནའུ་ཀ་ཅོ་ཊི།, ნუაქშოტი, ኑዋክሾት, ヌアクショット, 努瓦克肖特, 或索, 누악쇼트

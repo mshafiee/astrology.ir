@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|7°14'44.12" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°40'10.60" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|7°3'48.44" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|23°54'11.44" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|27°30'23.80" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°50'34.52" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|23°54'1.56" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|27°30'14.29" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°56'56.09" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|1°3'55.15" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|7°14'44.12" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°40'5.89" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|7°3'36.42" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|23°54'1.56" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|27°30'14.29" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°56'56.09" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°40'10.60" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|7°3'48.44" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|23°54'11.44" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|27°30'23.80" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°50'34.52" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Mars|Venus|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Altepetl Chihuahuah, Byen Chihuahua, CUU, Chihuahua, Chihuahua City, Chihuahua by, Chiuaua, Chiuauae, Chivava, Cihuahua, Ciuaua, Dakbayan sa Chihuahua, Tsiouaoua, chiuaua, chiwawa, chyywaywa. chyywaywa, qi wa wa shi, zhi hua hua shi, Čihuahua, Čiuaua, Τσιουάουα, Чивава, Чиуауæ, Чиуауа, Чіуауа, ציוואווה, چہواہوا, چیئوائوا٬ چیئوائوا, ჩიუაუა, チワワ, 奇瓦瓦市, 芝華華市, 치와와

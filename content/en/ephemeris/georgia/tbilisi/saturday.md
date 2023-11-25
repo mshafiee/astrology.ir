@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'28.31" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°42'38.52" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°31'38.99" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°36'38.04" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°48'52.81" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°41'19.77" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°27'20.39" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°31'39.67" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°36'39.57" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°48'49.46" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°41'22.66" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°39'48.87" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'28.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'38.42" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°31'38.99" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°36'38.04" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°48'52.81" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°41'19.77" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°27'20.39" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|7°42'38.52" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°31'39.67" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°36'39.57" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°48'49.46" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°41'22.66" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°39'48.87" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: TBS, Tbilis, Tbilisi, Tbilisi - tbilisi, Tbilisi - თბილისი, Tbilisi osh, Tbilisis, Tbiliso, Tbilissi, Tbilisy, Tbiliszi, Tbilsi, Tblisi, Thbilisi, Tibilisi, Tiblisi, Tiblissi, Tiblíssi, Tibîlîsî, Tiflis, Tiphlida, Tpilisi, Triphelis, Ttuplis, Tíblisi, Tíflis, Tıflis, di bi li si, karti, tbilisi, tblys, tblysy, tbylysy, teubillisi, tfls, tflys, thbi li si, thbilisi, tipilici, tobirishi, Τιφλίδα, Тбилис, Тбилиси, Тбилиси ош, Тбилисӣ, Тбілісі, Ттуплис, Қарҭ, Թբիլիսի, טביליסי, تبليسي, تبلیس, تبلیسی, تبىلىسى, تفلیس, طفلس, ܛܒܝܠܝܣܝ, त्बिलिसी, थ्बिलीसी, তিবি‌লিসি, திபிலீசி, ทบิลิซิ, ཁྲེ་བྷི་ལི་སི།, თბილისი, ქართი, ትብሊሲ, トビリシ, 第比利斯, 트빌리시

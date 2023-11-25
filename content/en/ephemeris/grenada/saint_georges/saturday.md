@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°54'1.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°40'56.72" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°42'34.70" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°52'10.02" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|19°6'27.95" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|22°2'21.44" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|7°3'0.08" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|7°40'57.39" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°42'33.30" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°52'6.36" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|19°6'26.38" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|22°2'18.14" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|7°19'33.73" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|2°52'10.02" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|19°6'27.95" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|22°2'21.44" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°3'0.08" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|7°19'33.73" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
