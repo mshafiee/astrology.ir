@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:43:41 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:43:41 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:43:41 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:43:41 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:43:41 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:43:41 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -157,6 +157,28 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
+|♎ Libra|06:00:13|08:17:38|
+|♏ Scorpio|08:17:39|10:16:57|
+|♐ Sagittarius|10:16:58|11:54:15|
+|♑ Capricorn|11:54:16|13:18:41|
+|♒ Aquarius|13:18:42|14:43:06|
+|♓ Pisces|14:43:07|16:20:24|
+|♈ Aries|16:20:25|18:19:43|
+|♉ Taurus|18:19:44|20:37:09|
+|♊ Gemini|20:37:10|22:58:28|
+|♋ Cancer|22:58:29|01:16:43|
+|♌ Leo|01:16:44|03:34:57|
+|♍ Virgo|03:34:58|05:56:16|
+
+
+{{< /tab >}}
+
+{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
+\
+Earth movement calendar in twelve houses based on tropical calculations
+
+|Sign|Start Time|Finish Time|
+|-|:-:|:-:|
 |♏ Scorpio|06:00:13|08:17:38|
 |♐ Sagittarius|08:17:39|10:16:57|
 |♑ Capricorn|10:16:58|11:54:15|
@@ -169,28 +191,6 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |♌ Leo|22:58:29|01:16:43|
 |♍ Virgo|01:16:44|03:34:57|
 |♎ Libra|03:34:58|05:56:16|
-
-
-{{< /tab >}}
-
-{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
-\
-Earth movement calendar in twelve houses based on tropical calculations
-
-|Sign|Start Time|Finish Time|
-|-|:-:|:-:|
-|♐ Sagittarius|06:00:13|08:17:38|
-|♑ Capricorn|08:17:39|10:16:57|
-|♒ Aquarius|10:16:58|11:54:15|
-|♓ Pisces|11:54:16|13:18:41|
-|♈ Aries|13:18:42|14:43:06|
-|♉ Taurus|14:43:07|16:20:24|
-|♊ Gemini|16:20:25|18:19:43|
-|♋ Cancer|18:19:44|20:37:09|
-|♌ Leo|20:37:10|22:58:28|
-|♍ Virgo|22:58:29|01:16:43|
-|♎ Libra|01:16:44|03:34:57|
-|♏ Scorpio|03:34:58|05:56:16|
 
 
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|1°5'32.69" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°11'1.54" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°6'50.10" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|7°41'30.44" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|24°37'30.06" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|28°16'59.30" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°50'36.64" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|4°6'45.60" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|7°41'19.03" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|24°37'27.11" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|28°16'47.27" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|12°18'20.00" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Mars|Mars|Venus|Moon|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|1°5'32.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°11'1.54" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°6'50.10" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|7°41'30.44" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°37'30.06" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|28°16'59.30" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|10°51'38.58" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Retrograde|7°11'1.70" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°6'50.23" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|7°41'30.84" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°37'27.11" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|28°16'47.27" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|12°18'20.00" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:56:49 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:56:49 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:56:49 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:56:49 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:56:49 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:56:49 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -157,6 +157,28 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
+|♎ Libra|07:07:14|09:19:36|
+|♏ Scorpio|09:19:37|11:23:58|
+|♐ Sagittarius|11:23:59|13:13:25|
+|♑ Capricorn|13:13:26|14:52:35|
+|♒ Aquarius|14:52:36|16:31:45|
+|♓ Pisces|16:31:46|18:21:12|
+|♈ Aries|18:21:13|20:25:33|
+|♉ Taurus|20:25:34|22:37:57|
+|♊ Gemini|22:37:58|00:47:06|
+|♋ Cancer|00:47:07|02:50:37|
+|♌ Leo|02:50:38|04:54:07|
+|♍ Virgo|04:54:08|07:18:07|
+
+
+{{< /tab >}}
+
+{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
+\
+Earth movement calendar in twelve houses based on tropical calculations
+
+|Sign|Start Time|Finish Time|
+|-|:-:|:-:|
 |♏ Scorpio|07:07:14|09:19:36|
 |♐ Sagittarius|09:19:37|11:23:58|
 |♑ Capricorn|11:23:59|13:13:25|
@@ -169,28 +191,6 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |♌ Leo|00:47:07|02:50:37|
 |♍ Virgo|02:50:38|04:54:07|
 |♎ Libra|04:54:08|07:18:07|
-
-
-{{< /tab >}}
-
-{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
-\
-Earth movement calendar in twelve houses based on tropical calculations
-
-|Sign|Start Time|Finish Time|
-|-|:-:|:-:|
-|♐ Sagittarius|07:07:14|09:19:36|
-|♑ Capricorn|09:19:37|11:23:58|
-|♒ Aquarius|11:23:59|13:13:25|
-|♓ Pisces|13:13:26|14:52:35|
-|♈ Aries|14:52:36|16:31:45|
-|♉ Taurus|16:31:46|18:21:12|
-|♊ Gemini|18:21:13|20:25:33|
-|♋ Cancer|20:25:34|22:37:57|
-|♌ Leo|22:37:58|00:47:06|
-|♍ Virgo|00:47:07|02:50:37|
-|♎ Libra|02:50:38|04:54:07|
-|♏ Scorpio|04:54:08|07:18:07|
 
 
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'45.76" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°41'44.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°37'26.45" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°44'52.50" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°58'9.93" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°52'29.69" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°23'28.78" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°37'25.05" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°44'48.78" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°58'2.70" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°52'28.46" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°3'47.51" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°53'45.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°41'45.22" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°37'25.43" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°44'49.75" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°58'6.32" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°52'28.14" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°45'59.72" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|7°41'44.45" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°37'26.45" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°44'52.50" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°58'9.93" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°52'29.69" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°23'28.78" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:36:00 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:36:00 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:36:00 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:36:00 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:36:00 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:36:00 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -157,6 +157,28 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
+|♎ Libra|07:10:58|09:31:14|
+|♏ Scorpio|09:31:15|11:27:42|
+|♐ Sagittarius|11:27:43|12:58:22|
+|♑ Capricorn|12:58:23|14:14:57|
+|♒ Aquarius|14:14:58|15:31:32|
+|♓ Pisces|15:31:33|17:02:12|
+|♈ Aries|17:02:13|18:58:40|
+|♉ Taurus|18:58:41|21:18:57|
+|♊ Gemini|21:18:58|23:46:54|
+|♋ Cancer|23:46:55|02:12:59|
+|♌ Leo|02:13:00|04:39:04|
+|♍ Virgo|04:39:05|07:07:01|
+
+
+{{< /tab >}}
+
+{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
+\
+Earth movement calendar in twelve houses based on tropical calculations
+
+|Sign|Start Time|Finish Time|
+|-|:-:|:-:|
 |♏ Scorpio|07:10:58|09:31:14|
 |♐ Sagittarius|09:31:15|11:27:42|
 |♑ Capricorn|11:27:43|12:58:22|
@@ -169,28 +191,6 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |♌ Leo|23:46:55|02:12:59|
 |♍ Virgo|02:13:00|04:39:04|
 |♎ Libra|04:39:05|07:07:01|
-
-
-{{< /tab >}}
-
-{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
-\
-Earth movement calendar in twelve houses based on tropical calculations
-
-|Sign|Start Time|Finish Time|
-|-|:-:|:-:|
-|♐ Sagittarius|07:10:58|09:31:14|
-|♑ Capricorn|09:31:15|11:27:42|
-|♒ Aquarius|11:27:43|12:58:22|
-|♓ Pisces|12:58:23|14:14:57|
-|♈ Aries|14:14:58|15:31:32|
-|♉ Taurus|15:31:33|17:02:12|
-|♊ Gemini|17:02:13|18:58:40|
-|♋ Cancer|18:58:41|21:18:57|
-|♌ Leo|21:18:58|23:46:54|
-|♍ Virgo|23:46:55|02:12:59|
-|♎ Libra|02:13:00|04:39:04|
-|♏ Scorpio|04:39:05|07:07:01|
 
 
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°3'10.17" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°16'33.41" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°27'33.75" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|6°45'50.26" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|23°33'41.79" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|27°8'1.68" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°46'48.06" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|1°3'9.87" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°16'29.84" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°27'38.56" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|6°46'2.55" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|23°33'51.87" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|27°8'10.38" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|29°37'0.35" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Mars|Mars|
 |♀ Venus|Mars|Saturn|Venus|Moon|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Mercury|Sun|
+|☾ Moon|Mars|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Jupiter|Jupiter|Virgo|Sun|Sun|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|1°3'10.17" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°16'29.89" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°27'33.75" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|6°45'50.26" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|23°33'41.79" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|27°8'1.68" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°46'48.06" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|7°16'29.82" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°27'39.22" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|6°46'3.92" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|23°33'55.73" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|27°8'11.37" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|29°36'31.57" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Mercury|Mercury|Sun|
 |☿ Mercury|Mars|Mars|Sun|Venus|
-|☾ Moon|Mars|Mars|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Mars|Venus|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Jupiter|Libra|Moon|Mercury|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}

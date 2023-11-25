@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:27:10 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:27:10 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:27:10 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:27:10 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:27:10 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:27:10 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -157,6 +157,28 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
+|♎ Libra|08:13:26|10:44:56|
+|♏ Scorpio|10:44:57|12:30:10|
+|♐ Sagittarius|12:30:11|13:36:58|
+|♑ Capricorn|13:36:59|14:27:25|
+|♒ Aquarius|14:27:26|15:17:52|
+|♓ Pisces|15:17:53|16:24:40|
+|♈ Aries|16:24:41|18:09:55|
+|♉ Taurus|18:09:56|20:41:25|
+|♊ Gemini|20:41:26|23:33:14|
+|♋ Cancer|23:33:15|02:25:27|
+|♌ Leo|02:25:28|05:17:41|
+|♍ Virgo|05:17:42|08:24:53|
+
+
+{{< /tab >}}
+
+{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
+\
+Earth movement calendar in twelve houses based on tropical calculations
+
+|Sign|Start Time|Finish Time|
+|-|:-:|:-:|
 |♏ Scorpio|08:13:26|10:44:56|
 |♐ Sagittarius|10:44:57|12:30:10|
 |♑ Capricorn|12:30:11|13:36:58|
@@ -169,28 +191,6 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |♌ Leo|23:33:15|02:25:27|
 |♍ Virgo|02:25:28|05:17:41|
 |♎ Libra|05:17:42|08:24:53|
-
-
-{{< /tab >}}
-
-{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
-\
-Earth movement calendar in twelve houses based on tropical calculations
-
-|Sign|Start Time|Finish Time|
-|-|:-:|:-:|
-|♐ Sagittarius|08:13:26|10:44:56|
-|♑ Capricorn|10:44:57|12:30:10|
-|♒ Aquarius|12:30:11|13:36:58|
-|♓ Pisces|13:36:59|14:27:25|
-|♈ Aries|14:27:26|15:17:52|
-|♉ Taurus|15:17:53|16:24:40|
-|♊ Gemini|16:24:41|18:09:55|
-|♋ Cancer|18:09:56|20:41:25|
-|♌ Leo|20:41:26|23:33:14|
-|♍ Virgo|23:33:15|02:25:27|
-|♎ Libra|02:25:28|05:17:41|
-|♏ Scorpio|05:17:42|08:24:53|
 
 
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|0°51'38.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°48'26.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°54'44.37" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|1°44'6.00" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|17°49'3.46" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|20°29'48.02" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|22°46'12.07" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|7°48'29.84" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°54'38.40" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|1°43'58.05" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|17°49'1.39" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|20°29'40.43" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|23°2'25.51" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°51'38.81" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|0°51'39.62" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|7°48'28.35" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|29°54'41.63" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|1°44'6.00" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|1°44'10.05" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|17°49'3.46" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|20°29'48.02" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|22°46'12.07" |Aries|Butain|Venus|
+|☿ Mercury|Direct|20°29'47.42" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|21°25'20.65" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Mercury|Venus|Leo|Moon|Mercury|
-|☾ Moon|Saturn|Venus|Capricorn|Moon|Saturn|
+|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
 
 
 {{< /tab >}}

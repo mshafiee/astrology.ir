@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:57:02 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:57:02 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:57:02 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:57:02 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:57:02 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:57:02 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -157,6 +157,28 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
+|♎ Libra|07:13:27|09:29:02|
+|♏ Scorpio|09:29:03|11:30:10|
+|♐ Sagittarius|11:30:11|13:11:48|
+|♑ Capricorn|13:11:49|14:41:27|
+|♒ Aquarius|14:41:28|16:11:05|
+|♓ Pisces|16:11:06|17:52:43|
+|♈ Aries|17:52:44|19:53:51|
+|♉ Taurus|19:53:52|22:09:28|
+|♊ Gemini|22:09:29|00:26:27|
+|♋ Cancer|00:26:28|02:39:29|
+|♌ Leo|02:39:30|04:52:31|
+|♍ Virgo|04:52:32|07:09:30|
+
+
+{{< /tab >}}
+
+{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
+\
+Earth movement calendar in twelve houses based on tropical calculations
+
+|Sign|Start Time|Finish Time|
+|-|:-:|:-:|
 |♏ Scorpio|07:13:27|09:29:02|
 |♐ Sagittarius|09:29:03|11:30:10|
 |♑ Capricorn|11:30:11|13:11:48|
@@ -169,28 +191,6 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |♌ Leo|00:26:28|02:39:29|
 |♍ Virgo|02:39:30|04:52:31|
 |♎ Libra|04:52:32|07:09:30|
-
-
-{{< /tab >}}
-
-{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
-\
-Earth movement calendar in twelve houses based on tropical calculations
-
-|Sign|Start Time|Finish Time|
-|-|:-:|:-:|
-|♐ Sagittarius|07:13:27|09:29:02|
-|♑ Capricorn|09:29:03|11:30:10|
-|♒ Aquarius|11:30:11|13:11:48|
-|♓ Pisces|13:11:49|14:41:27|
-|♈ Aries|14:41:28|16:11:05|
-|♉ Taurus|16:11:06|17:52:43|
-|♊ Gemini|17:52:44|19:53:51|
-|♋ Cancer|19:53:52|22:09:28|
-|♌ Leo|22:09:29|00:26:27|
-|♍ Virgo|00:26:28|02:39:29|
-|♎ Libra|02:39:30|04:52:31|
-|♏ Scorpio|04:52:32|07:09:30|
 
 
 {{< /tab >}}
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|0°59'56.08" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°24'28.38" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°32'8.76" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|5°27'30.80" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|22°3'48.09" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|25°28'2.07" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°56'23.74" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|5°27'29.81" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|22°3'47.46" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|25°28'1.56" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|12°2'26.64" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°59'56.08" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°24'28.38" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°32'8.76" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|5°27'30.80" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|22°3'48.09" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|25°28'2.07" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°56'23.74" |Gemini|HanAh|Mars|
+|♄ Saturn|Post-Retrograde Shadow|0°59'56.19" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°24'28.60" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°32'8.48" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|5°27'29.81" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|22°3'46.68" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|25°28'1.56" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|12°2'26.64" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Mercury|Mercury|Sun|
 |☿ Mercury|Saturn|Mars|Sun|Venus|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

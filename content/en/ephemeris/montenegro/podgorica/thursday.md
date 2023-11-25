@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="Invalid Value" tabActive=true tabTitle="Invalid Value" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:31:38 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:31:38 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:31:38 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:31:38 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:31:38 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:31:38 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="Invalid Value" tabActive=false tabTitle="Invalid Value" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -157,6 +157,28 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
+|♎ Libra|06:17:19|08:40:38|
+|♏ Scorpio|08:40:39|10:34:03|
+|♐ Sagittarius|10:34:04|11:57:49|
+|♑ Capricorn|11:57:50|13:06:29|
+|♒ Aquarius|13:06:30|14:15:10|
+|♓ Pisces|14:15:11|15:38:56|
+|♈ Aries|15:38:57|17:32:20|
+|♉ Taurus|17:32:21|19:55:40|
+|♊ Gemini|19:55:41|22:30:31|
+|♋ Cancer|22:30:32|01:04:31|
+|♌ Leo|01:04:32|03:38:31|
+|♍ Virgo|03:38:32|06:13:22|
+
+
+{{< /tab >}}
+
+{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
+\
+Earth movement calendar in twelve houses based on tropical calculations
+
+|Sign|Start Time|Finish Time|
+|-|:-:|:-:|
 |♏ Scorpio|06:17:19|08:40:38|
 |♐ Sagittarius|08:40:39|10:34:03|
 |♑ Capricorn|10:34:04|11:57:49|
@@ -169,28 +191,6 @@ Earth movement calendar in twelve houses based on sidereal calculations
 |♌ Leo|22:30:32|01:04:31|
 |♍ Virgo|01:04:32|03:38:31|
 |♎ Libra|03:38:32|06:13:22|
-
-
-{{< /tab >}}
-
-{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
-\
-Earth movement calendar in twelve houses based on tropical calculations
-
-|Sign|Start Time|Finish Time|
-|-|:-:|:-:|
-|♐ Sagittarius|06:17:19|08:40:38|
-|♑ Capricorn|08:40:39|10:34:03|
-|♒ Aquarius|10:34:04|11:57:49|
-|♓ Pisces|11:57:50|13:06:29|
-|♈ Aries|13:06:30|14:15:10|
-|♉ Taurus|14:15:11|15:38:56|
-|♊ Gemini|15:38:57|17:32:20|
-|♋ Cancer|17:32:21|19:55:40|
-|♌ Leo|19:55:41|22:30:31|
-|♍ Virgo|22:30:32|01:04:31|
-|♎ Libra|01:04:32|03:38:31|
-|♏ Scorpio|03:38:32|06:13:22|
 
 
 {{< /tab >}}
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|1°5'41.45" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°10'42.27" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|4°9'11.02" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|7°44'45.65" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|24°41'21.66" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|28°20'57.59" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|12°23'3.27" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|7°44'49.20" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|24°41'19.72" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|28°21'4.64" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°26'25.70" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Mars|Mars|Venus|Moon|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°5'40.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°10'42.31" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°9'9.61" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|7°44'45.65" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°41'21.66" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|28°20'57.59" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|12°23'3.27" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|1°5'41.45" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°10'43.49" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°9'9.85" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|7°44'46.29" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°41'19.72" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|28°21'4.51" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|11°34'25.62" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
