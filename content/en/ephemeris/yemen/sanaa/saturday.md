@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'23.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'52.50" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°30'9.90" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°34'32.28" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°46'24.67" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°38'29.87" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°9'15.50" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°53'23.69" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°42'52.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°30'10.47" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°34'33.58" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°46'25.62" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°38'30.92" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°2'27.09" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'23.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'52.66" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°30'9.90" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°34'32.28" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°46'24.67" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°38'29.87" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°9'15.50" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'23.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°42'52.16" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°30'10.47" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°34'33.58" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°46'25.62" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°38'30.92" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°2'27.09" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: SAH, Sano, San'ah, San`a', Sana, Sana'a, Sana'a', Sanaa, Sanaà, Sanaá, San’ah, sa na, sana, sanua, snʿaʾ, Şana‘ā', Şan‘ā’, Σάνα, Сана, Санъо, צנעא, صنعاء, ሳና, サヌア, 萨那, 사나

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°52'34.95" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°52'34.95" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°45'25.06" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°13'53.34" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|2°11'25.70" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°19'59.23" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°7'1.19" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|29°12'50.71" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|18°20'7.83" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°7'3.73" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|27°52'9.79" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°52'36.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°45'27.83" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°13'51.32" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°11'20.26" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°19'59.23" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°7'1.19" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|28°44'33.90" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|0°52'34.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°45'25.06" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°13'53.34" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°11'25.70" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°20'7.83" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°7'3.73" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|27°52'9.79" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

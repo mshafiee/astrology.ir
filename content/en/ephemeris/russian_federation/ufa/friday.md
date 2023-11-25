@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 17:02:07 |
 | Maghrib | 17:05:49 |
 | Isha (Night) | 19:06:59 |
-| Sharia Midnight | 23:57:07 |
+| Sharia Midnight | 23:57:08 |
 | Imum Coeli | 01:02:49 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°51'22.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°49'20.74" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°51'22.18" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°49'20.80" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|29°49'0.38" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|1°36'4.31" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|17°39'58.86" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|20°18'40.99" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|19°51'15.46" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|1°36'4.22" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|17°39'58.33" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|20°18'41.09" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|19°54'28.35" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°51'22.47" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°49'21.47" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°48'59.50" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|1°36'1.99" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|17°39'58.86" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|20°18'40.99" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°13'48.95" |Aries|Butain|Venus|
+|♄ Saturn|Direct|0°51'22.18" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°49'20.80" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°49'0.38" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|1°36'4.22" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|17°39'58.33" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|20°18'41.09" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|19°54'28.35" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Mercury|Saturn|Sun|Venus|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mercury|Mercury|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Mercury|Venus|Leo|Moon|Mercury|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}

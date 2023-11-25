@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'34.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'25.47" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°33'22.80" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°38'58.93" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°51'32.16" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°44'46.84" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°19'10.64" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°53'33.84" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°42'21.49" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°33'29.17" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°39'15.05" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°51'46.01" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°44'53.70" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°16'8.50" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Sagittarius|Moon|Mars|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'33.10" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'25.47" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°33'22.80" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°38'58.93" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°51'48.09" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°44'46.84" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°19'10.64" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'33.84" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°42'21.51" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°33'29.23" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°39'15.18" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°51'46.01" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°44'53.70" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°16'7.66" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Bizanc, Bizánc, Byzance, Byzantion, Byzantium, Byzanz, Constantinoble, Constantinopla, Constantinople, Constantinopolen, Constantinopoli, Constantinopolis, Costantinopoli, Estambul, IST, Istamboul, Istambul, Istambuł, Istampoul, Istanbul, Istanbúl, Isztambul, Konstantinapoly, Konstantinopel, Konstantinopolo, Konstantinoupoli, Konstantinoupolis, Konstantinápoly, Kustantiniyah, Micklagard, Micklagård, Mikligardur, Mikligarður, Stamboul, Stambul, Stambula, Stambuł, Tsarigrad, Vizantija (Vizantija), Vyzantio, astnbwl, bijantium, byuzantion, byzntywn, iseutanbul, istambula, isutanburu, stin Poli [stimˈboli], yi si tan bu er, İstanbul, Βυζάντιο, Βυζαντιο, Ισταμπουλ, Ισταμπούλ, Κωνσταντινουπολη, Κωνσταντινούπολη, Κωνσταντινούπολις, στην Πόλι [stimˈboli], Византија (Vizantija), Истанбул, Стамбул, ביזנטיון, اسطنبول, इस्तांबुल, ইস্তাম্বুল, イスタンブール, ビュザンティオン, 伊斯坦布尔, 비잔티움, 이스탄불

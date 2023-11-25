@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'27.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'44.87" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°30'52.21" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°35'25.64" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°47'27.25" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°39'52.01" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°7'55.19" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°53'26.15" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°42'44.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°30'58.55" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°35'41.79" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°47'43.30" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°40'3.53" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°18'49.36" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Sagittarius|Moon|Mars|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'27.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'48.91" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°30'52.21" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°35'31.85" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°47'27.04" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°39'52.01" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°7'55.19" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'26.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°42'44.71" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°30'58.55" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°35'41.79" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°47'43.30" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°40'3.53" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°18'49.36" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: A Meca, La Meca, La Mecca, La Mecque, Macoraba, Maekkae, Makka, Makkah, Makkah al Mukarramah, Makkah al Mukarraman, Makkah al-Mukarramah, Meca, Mecca, Mecka, Meice, Meka, Mekao, Meke, Mekka, Mekkah, Mekke, Mekko, Mäkkä, mai jia, mak kah, makka, meka, mekka, mkh, mkt, mkt almkrmt, Μέκκα, Мека, Мекка, מכה, مكة, مكة المكرمة, مکه, مکہ, মক্কা, มักกะฮ์, མ་ཁ།, მექა, メッカ, 麥加, 메카

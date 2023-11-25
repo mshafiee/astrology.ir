@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'27.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'48.16" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°30'53.02" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°35'32.05" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°47'28.55" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°39'57.42" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°32'57.78" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°53'26.15" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°42'45.15" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°30'56.88" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°35'38.87" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°47'42.36" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°39'58.48" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°18'0.79" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Sagittarius|Moon|Mars|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'27.21" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'48.42" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°30'53.02" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°35'29.09" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°47'28.55" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°39'57.42" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°57'0.40" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'26.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°42'45.15" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°30'56.88" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°35'38.87" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°47'40.37" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°40'0.26" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°25'10.88" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: BAK, Bacu, Bacú, Baki, Bako, Bakoe, Bakou, Baku, Bakue, Bakuo, Bakuu, Baky, Bakó, Bakú, Bakû, Bakü, Bakı, Baqu, Boku, Mpakou, ba ku, bakku, bako, baku, bakw, bakww, pakku, Μπακού, Баку, Бакы, Баҡы, Боку, Բաքու, באקו, باكو, باکو, باکوو, बाकु, बाकू, বাকু, பாக்கு, ബക്കു, บากู, པཱ་ཁི།, ბაქო, ባኩ, バクー, 巴库, 바쿠

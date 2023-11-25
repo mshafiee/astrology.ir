@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°3'55.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°14'48.14" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°40'4.47" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|7°3'33.03" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|23°54'3.26" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|27°30'10.11" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°3'38.05" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|1°3'55.15" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°14'44.12" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°40'10.60" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|7°3'48.44" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|23°54'11.44" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|27°30'23.80" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°50'34.52" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°3'54.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°14'47.09" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°40'4.53" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|7°3'33.02" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|23°53'55.92" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|27°30'17.55" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°32'3.66" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|1°3'55.15" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°14'44.12" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°40'10.60" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|7°3'48.44" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|23°54'11.44" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|27°30'23.80" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°50'34.52" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Mars|Venus|Cancer|Moon|Moon|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
 Alternate Names: Altepetl Chihuahuah, Byen Chihuahua, CUU, Chihuahua, Chihuahua City, Chihuahua by, Chiuaua, Chiuauae, Chivava, Cihuahua, Ciuaua, Dakbayan sa Chihuahua, Tsiouaoua, chiuaua, chiwawa, chyywaywa. chyywaywa, qi wa wa shi, zhi hua hua shi, Čihuahua, Čiuaua, Τσιουάουα, Чивава, Чиуауæ, Чиуауа, Чіуауа, ציוואווה, چہواہوا, چیئوائوا٬ چیئوائوا, ჩიუაუა, チワワ, 奇瓦瓦市, 芝華華市, 치와와

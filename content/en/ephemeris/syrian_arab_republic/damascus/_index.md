@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'29.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'34.64" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°32'5.31" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°37'16.43" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°49'28.75" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°42'12.93" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°52'38.88" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°53'29.53" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°42'34.43" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°32'5.23" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°37'16.14" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°49'30.82" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°42'11.85" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°44'4.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'29.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'38.56" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°31'58.70" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°36'59.62" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°49'15.71" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°42'9.75" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°29'12.49" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'29.53" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°42'34.43" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°32'5.23" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°37'16.14" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°49'30.82" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°42'11.85" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°44'4.41" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: Al-Sham, Al-Shām, An Damaisc, Cham, DAM, Damas, Damasc, Damasch, Damasco, Damascu, Damascus, Damasek, Damashq, Damasiko, Damask, Damask, Damaska, Damaskas, Damasko, Damaskos, Damaskosy, Damasku, Damaskus, Damaszek, Damaszkusz, Damašek, Dameski, Dammeseq, Damsyik, Dimaejk, Dimaesq, Dimashk, Dimashk al-Sham, Dimashk al-Shām, Dimashku, Dimashq, Dimeshki esh Sham, Dimishiq, Dimishku, Dimishq, Dimäjk, Dimäşq, Domas, Domás, Dàmáskù, Dəməşq, Esh Sham, Esh Shām, Kamakeko, Ndamako, Ndamáko, Sam, d mshq, da ma shi ge, damasaka, damasakasa, damaseukuseu, damaskas, damaskasa, damasukasu, dameska, damiska, dimisqu, dmshq, dmsq, drmswq, timisku, Şam, Δαμασκός, Дамаск, Дамаскус, Дамаскъ, Димашкъ, Димишкъ, Димишқ, Դամասկոս, דמשק, د مشق, دمشق, دیمەشق, دەمەشىق, ܕܪܡܣܘܩ, ދިމިޝްޤު, दमास्कस, दमिश्क, দামেস্ক, ਦਮਸ਼ਕ, ଡାମାସକସ, திமிஷ்கு, ಡಮಾಸ್ಕಸ್, ദമാസ്കസ്, ดามัสกัส, དྷ་མ་སི་ཁོ་སི།, ဒမားစကပ်မြို့, დამასკი, ደማስቆ, ダマスカス, 大馬士革, 大马士革, 다마스쿠스, 𐌳𐌰𐌼𐌰𐍃𐌺𐍉/Damasko

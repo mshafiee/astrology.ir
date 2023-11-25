@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°51'16.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°49'39.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|29°47'3.19" |Libra|Akleel|Jupiter|
-|☉ Sun|Direct|1°33'16.30" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|17°36'50.88" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|20°14'49.31" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|18°50'9.16" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|0°51'16.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°49'38.83" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|29°47'4.09" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|1°33'20.22" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|17°36'51.32" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|20°14'54.13" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|19°3'5.61" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Saturn|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Mars|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°51'16.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°49'39.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|29°47'2.49" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|1°33'17.92" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|17°36'50.88" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|20°14'51.90" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|19°5'47.82" |Aries|Butain|Sun|
+|♄ Saturn|Direct|0°51'16.45" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°49'38.83" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|29°47'4.09" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|1°33'20.22" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|17°36'51.32" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|20°14'54.13" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|19°3'5.61" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

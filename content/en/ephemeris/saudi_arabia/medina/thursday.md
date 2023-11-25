@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:45:02|Night duration: 13:15:41|
+|Duration of the day: 10:45:01|Night duration: 13:15:41|
 |Every hour duration: 01:32:09|Every hour duration: 01:53:40|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|06:47:26|08:19:33|
-|Mid-morning|Mars|Servant|08:19:34|09:51:42|
-|Late morning|Sun|Servant|09:51:43|11:23:51|
-|Noon|Venus|Servant|11:23:52|12:56:00|
+|Early morning|Jupiter|Ruler|06:47:27|08:19:34|
+|Mid-morning|Mars|Servant|08:19:35|09:51:43|
+|Late morning|Sun|Servant|09:51:44|11:23:52|
+|Noon|Venus|Servant|11:23:53|12:56:00|
 |Early afternoon|Mercury|Servant|12:56:01|14:28:09|
 |Mid-afternoon|Moon|Servant|14:28:10|16:00:18|
 |Late afternoon|Saturn|Servant|16:00:19|17:32:27|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°5'27.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°11'12.49" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°5'29.96" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|7°39'36.55" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|24°35'21.85" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|28°14'39.22" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°27'5.02" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|1°5'27.77" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°11'12.47" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°5'30.59" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|7°39'38.17" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|24°35'20.90" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|28°14'41.58" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|10°25'10.15" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°5'28.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°11'12.49" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°5'29.96" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|7°39'36.55" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°35'11.24" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|28°14'39.75" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|10°27'5.02" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|1°5'27.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°11'12.47" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°5'30.56" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|7°39'38.13" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°35'20.85" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|28°14'41.53" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|10°25'9.71" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

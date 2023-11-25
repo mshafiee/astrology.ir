@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'14.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°43'21.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°27'5.64" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°30'9.23" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°41'29.84" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°32'33.63" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°14'5.83" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°53'14.52" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°43'21.05" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°27'6.92" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°30'12.39" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°41'29.12" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°32'37.24" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°11'31.54" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'14.16" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°43'21.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°27'5.64" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°30'9.23" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°41'29.84" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°32'33.63" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°14'5.83" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'14.52" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°43'20.56" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°27'7.32" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°30'13.27" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°41'31.90" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°32'37.13" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°56'53.09" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: RUN, Saint-Denis, Saint-Denis (Reunion), Saint-Denis (Réunion), Saint-Denis de la Reunion, Saint-Denis de la Réunion, Sen-Deni, St. Denis, saengdeuni, snt dnys, Сен-Дени, סנט דניס, サン・ドゥニ, 생드니

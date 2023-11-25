@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'25.25" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'47.50" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°30'40.98" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°35'16.51" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°47'15.12" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°39'29.57" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°15'51.26" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°53'25.31" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°42'47.84" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°30'39.72" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°35'13.35" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°47'16.45" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°39'25.70" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°16'21.45" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'25.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'47.51" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°30'40.99" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°35'16.51" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°47'15.25" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°39'29.50" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°15'20.30" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'25.31" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°42'47.84" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°30'39.72" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°35'13.35" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°47'16.45" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°39'25.70" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°16'21.45" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al `Amarah, Al ‘Amārah, Amara, Amarah, Amare, Amaré, `Amara, alʿmart, العمارة, العماره, ‘Amāra

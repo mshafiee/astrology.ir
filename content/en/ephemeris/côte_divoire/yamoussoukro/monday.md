@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'12.10" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°58'12.10" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°29'1.55" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°1'12.85" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|4°43'41.55" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°13'37.25" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°30'55.92" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°27'0.07" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|21°13'40.84" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°30'56.75" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°11'42.96" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'12.10" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°29'2.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°1'12.08" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°43'39.46" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°13'37.25" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°30'55.92" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°27'0.07" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|0°58'12.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°29'1.55" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°1'12.85" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|4°43'41.55" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°13'40.84" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°30'56.75" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°11'42.96" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: ASK, Giamoussoukro, Jamusukra, Jamusukras, Jamusukro, Jamusukro khot, Yamosukro, Yamousoukro, Yamoussokro, Yamoussoukro, Yamoussoukrou, Yamussukro, Yamusukro, ya mu su ke lei, ya mu su ke luo, ya mussu kor, yamucukro, yamusasutro, yamusukaro, yamusukeulo, yamusukro, yamusukuro, yamwsswkrw, yamwswkrw, yamwwswwkrۆ, ywmwswkrw, Γιαμουσσούκρο, Јамусукро, Ямусукра, Ямусукро, Ямусукро хот, Յամուսուկրո, יאמוסאקרא, יאמוסוקרו, ياموسوكرو, يامۇسسۇكرو, یاموسسوکرو, یاموسوکرو, یامووسووکرۆ, یوموسوکرو, यामूसूक्रो, ਯਾਮੂਸੂਕਰੋ, ୟାମୁସସୁତ୍ରୋ, யாமூசூக்ரோ, ยามุสซุโกร, ཡམ་སོ་ཁེ་རོ།, იამუსუკრო, ያሙሱክሮ, ヤムスクロ, 亚穆苏克罗, 雅穆蘇克雷, 야무수크로

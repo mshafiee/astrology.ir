@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'29.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°28'16.97" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°6'21.11" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°50'55.63" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°21'58.11" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°40'29.12" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°20'21.33" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°58'29.46" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°28'16.45" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°6'21.78" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°50'57.36" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|21°22'0.50" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°40'30.05" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°18'10.46" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'29.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°28'16.82" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°6'21.49" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°50'55.63" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°21'59.39" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°40'29.12" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°29'45.08" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|0°58'29.46" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°28'16.45" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°6'21.78" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|4°50'57.36" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°22'0.50" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°40'30.05" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°18'10.46" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Havn, THorshoefn, THunreshaefen, Thori Portus, Thorshavn, Torschavn, Torsgavn, Torshamn, Torshaunas, Torshavn, Torshgavn, Torshkhavn, Torskhaun, Torskhavn, Tourshavna, Touršhavna, Tórshavn, lei shen gang, thosa'una, thxrs hea n, toleuseuhaun, tosuhaun, tuo er si gang, twshhafn, twshhawn, tۆrshawn, Þunreshæfen, Þórshöfn, Τόρσχαβν, Торсгавн, Торсхавн, Торсхаўн, Торшгавн, Торшхавн, Տորսհավն, טורסהאבן, تورشھاون, توشهافن, توشهاون, تۆرشاون, ਥੋਸ਼ਾਊਨ, ทอร์สเฮาน์, ტორსჰავნი, トースハウン, 托爾斯港, 雷神港, 토르스하운

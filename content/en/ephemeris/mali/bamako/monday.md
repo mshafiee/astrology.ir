@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'14.09" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°58'14.09" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°28'56.20" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°1'48.83" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°44'23.82" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°14'38.61" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°31'54.18" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°16'3.62" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|4°44'31.18" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|21°14'37.11" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°32'2.93" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°32'43.58" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'13.40" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°28'57.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°1'45.10" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°44'23.82" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°14'38.08" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°31'54.08" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°20'41.68" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|0°58'14.09" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°28'56.20" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°1'48.33" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|4°44'31.18" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°14'37.11" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°32'2.93" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°32'43.58" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코

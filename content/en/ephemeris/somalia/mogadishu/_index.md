@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'21.39" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|0°53'21.39" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°42'59.37" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|0°29'24.40" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°33'24.88" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°45'12.85" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°36'58.15" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°47'30.93" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|2°33'28.16" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°45'11.29" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°37'2.19" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°47'59.69" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'21.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'59.66" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°29'23.11" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°33'24.88" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°45'12.85" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°36'58.15" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°47'30.93" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'21.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°42'59.37" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°29'24.42" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°33'28.18" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°45'11.29" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°37'2.22" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°47'58.87" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
 
 ---
 Alternate Names: MGQ, Magadiscio, Magadysha, Maqdishu, Mogadiisho, Mogadis, Mogadisas, Mogadischu, Mogadiscio, Mogadish, Mogadisho, Mogadishu, Mogadisjoe, Mogadisju, Mogadisjû, Mogadiso, Mogadiss, Mogadisu, Mogadisxo, Mogadiszu, Mogadixo, Mogadiŝo, Mogadişu, Mogadiš, Mogadišas, Mogadišo, Mogadišu, Mogadíscio, Mogadīšo, Mogaidisiu, Mogaidisiú, Monkantisou, Moqadiso, Moqadişo, Moukdicho, Moukntiso, Mugadiccu, Mugadishu, Mugadiss, Muqdisho, Muqdishow, Muqdishu, Mógadisjú, Xamar, makadisu, meagadisu, mo jia di sha, mo jia di xiu, mo kadi chu, mogadisho, mogadishu, mogadisu, mogadisyu, mogarisu, mqdyshw, mqdyshyw, mukticu, mwgadyshw, mwgdysw, mwghadyshw, mۆgadyshۆ, Μογκαντίσου, Μουκντίσο, Магадыша, Могадишо, Могадишу, Могадішо, Մոգադիշո, מאגאדישו, מוגדישו, مقديشو, مقديشيو, موغادیشو, موگادیشو, مۆگادیشۆ, मोगादिशू, मोगादीशू, মোগাদিশু, ਮਕਦੀਸ਼ੂ, ମୋଗାଡ଼ିସୁ, முக்தீசூ, മൊഗാദിഷു, โมกาดิชู, མོ་ག་དི་ཤུ།, მოგადიშო, ሞቃዲሾ, モガディシュ, 摩加迪休, 摩加迪沙, 모가디슈

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'24.18" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'49.83" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°30'26.10" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°34'53.91" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°46'46.91" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°38'50.43" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°51'44.24" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°53'24.52" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°42'50.21" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°30'25.42" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°34'54.03" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°46'49.64" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°38'59.77" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°18'5.87" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Sagittarius|Moon|Mars|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'24.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'49.85" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°30'21.54" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°34'53.17" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°46'46.91" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°38'58.68" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°5'40.01" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'24.52" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°42'51.48" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°30'22.41" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°34'46.50" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°46'48.28" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°38'52.28" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°40'23.85" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GBE, Gabaroneh, Gaberones, Gaberones Village, Gaberono, Gaboron, Gaboronas, Gaborone, Gaboròn, Gaboróne, IGaborone, Nkamporone, Qaborone, gabolone, gaborone, gaboroni, gabwrwn, gbrwn, gebaroni, goborni, haborone, jabwrwn, jia bai long li, jia bo long li, ka bo rone, kaparoni, Γκαμπορόνε, Габаронэ, Габороне, Գաբորոնե, גאבאראן, גאבורון, جابورون, گابورون, گابۆرۆن, گبرون, गॅबारोनी, गोबोर्नी, ਗਾਬੋਰੋਨੀ, காபரோனி, กาโบโรเน, ག་བོ་རོ་ནི།, გაბორონე, ጋበሮኔ, ጋቦሮን, ハボローネ, 嘉柏隆里, 嘉波隆里, 가보로네

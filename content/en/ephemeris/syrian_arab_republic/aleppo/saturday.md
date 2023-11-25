@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'30.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°42'33.71" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|0°32'5.93" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|2°37'12.92" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°49'24.19" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|21°42'15.42" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°22'9.85" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°53'29.79" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°42'33.80" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|0°32'9.55" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|2°37'22.20" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°49'37.81" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|21°42'20.19" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°46'39.92" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Sagittarius|Moon|Mars|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°53'30.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°42'34.89" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|0°32'8.99" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|2°37'19.86" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°49'31.03" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|21°42'20.24" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°22'9.85" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°53'29.79" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°42'33.80" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|0°32'9.55" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|2°37'22.20" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°49'37.81" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|21°42'20.19" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°41'12.05" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Moon|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trn|<sub>△ Trn|<sub>☍ Opp|<sub>△ Trn</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: ALP, Alep, Alepas, Alepo, Aleppe, Aleppo, Aleppu, Aleppó, Alèp, Berea, Beroea, Chalepi, Halab, Haleb, Haleba, Halep, Heleb, Hələb, Khaleb, Khaleb khot, Khalepion, Madinat Halab, Madīnat Ḩalab, Xalab, a lei po, aleppea, aleppo, allepo, areppo, halaba, hlb, xa lep po, Χαλέπι, Алеп, Алеппо, Халеб, Халеб хот, ХӀалаб, Хәлеб, Հալեպ, חאלב, حلب, ܚܠܒ, अलेप्पो, हलब, আলেপ্পো, ਹਲਬ, அலெப்போ, അലെപ്പോ, อะเลปโป, ალეპო, Ḥaleb, Ḩalab, アレッポ, 阿勒颇, 알레포

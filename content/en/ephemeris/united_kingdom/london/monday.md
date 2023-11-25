@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'20.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°28'40.32" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|2°3'36.94" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|4°47'3.65" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°17'39.45" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|24°35'21.76" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°10'43.00" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°58'20.28" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°28'40.46" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|2°3'37.80" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|4°47'5.74" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|21°17'35.13" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|24°35'25.84" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°15'13.21" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|0°58'19.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°28'40.32" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°3'36.94" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|4°47'3.65" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|21°17'38.69" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|24°35'24.35" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°27'52.16" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|0°58'20.28" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°28'40.46" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|2°3'37.80" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|4°47'5.74" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|21°17'37.00" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°35'18.97" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°47'48.30" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Sqr|<sub> |<sub>☍ Opp|<sub>☍ Opp|<sub>△ Trn|<sub>☍ Opp</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sxt|<sub>☌ Cnj|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: ILondon, LON, Lakana, Landan, Landen, Ljondan, Llundain, Lodoni, Londain, Londan, Londar, Londe, Londen, Londin, Londinium, Londino, Londn, London, London osh, Londona, Londonas, Londoni, Londono, Londons, Londonu, Londra, Londres, Londrez, Londri, Londro, Londye, Londyn, Londýn, Lonn, Lontoo, Loundres, Luan GJon, Lun-tun, Lunden, Lundra, Lundun, Lundunir, Lundúnir, Lung-dung, Lunnainn, Lunnin, Lunnon, Luân Đôn, Lùn-tûn, Lùng-dŭng, Lûn-tun, Lākana, Lůndůn, Lọndọnu, Ranana, Rānana, ilantan, ladana, landan, landana, leondeon, lndn, london, londoni, lun dui, lun dun, lwndwn, lxndxn, rondon, Łondra, Λονδίνο, Лондан, Лондон, Лондон ош, Лондонъ, Лёндан, Լոնդոն, לאנדאן, לונדון, لأندأن, لندن, لوندون, لەندەن, ܠܘܢܕܘܢ, लंडन, लंदन, लण्डन, लन्डन्, लन्दन, লন্ডন, ਲੰਡਨ, લંડન, ଲଣ୍ଡନ, இலண்டன், లండన్, ಲಂಡನ್, ലണ്ടൻ, ලන්ඩන්, ลอนดอน, ລອນດອນ, ལོན་ཊོན།, လန်ဒန်မြို့, ლონდონი, ለንደን, ᎫᎴ ᏗᏍᎪᏂᎯᏱ, ロンドン, 伦敦, 倫敦, 런던
