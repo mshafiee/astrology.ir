@@ -1,383 +1,390 @@
 ---
-date: 2023-11-24T00:00:00+03:30
-lastmod: 2023-11-24T00:00:00+03:30
-title: سنندج جمعه
+date: 2023-12-01T00:00:00+03:30
+lastmod: 2023-12-01T00:00:00+03:30
+title: Sanandaj Friday
 slug: friday
 categories:
-  - گاهشمار اختری
+  - Ephemeris
 tags:
-  - گاهشمار اختری
-  - تقویم نجومی
-  - ایران
-  - سنندج
-description: 🗓 جمعه ۰۳ آذر ۱۴۰۲ - ۲۰۲۳/۱۱/۲۴
+  - Ephemeris
+  - Iran
+  - Sanandaj
+description: 🗓 Friday, 01 Dec 2023
 
 toc: false
 ---
-## همارای زمین‌نگاریک (موقعیت مکانی)
-زُنارِ زمانی: ۰۳:۳۰+
+## Geographic Information of Sanandaj
+TimeZone: +03:30
 \-
-وَرونا: ۳۵٫۳۱۵۰
+Latitude: 35.3150
 \-
-دِرِژنا: ۴۶٫۹۹۸۸
+Longitude: 46.9988
 \-
-فرازا: ۱٬۴۹۴ متر
+Altitude: 1,494 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Sanandaj, Iran" lat="35.3150" lng="46.9988" zoom="12">}}
 
 
-## اوقات شرعی
+## Sharia Times
+
+The following tables show the calculated Sharia times for various methods. These times can be used for observing prayers and other Islamic religious observances.
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="لواء" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
-__محاسبه به شیوه مؤسسه پژوهشی لواء قم (مرتبط با دفتر آقای سیستانی)__
-| وقت | ساعت |
+__Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
+| Moment | Time |
 |-|:-:|
-| سپیده‌دم (طلوع فجر) | ۰۵:۴۵:۰۳ |
-| برآمد آفتاب | ۰۷:۰۵:۴۱ |
-| ظهر | ۱۲:۰۸:۳۳ |
-| سرسو (سمت‌الرأس) | ۱۲:۰۸:۳۳ |
-| فروشد آفتاب | ۱۷:۱۱:۰۸ |
-| مغرب | ۱۷:۲۹:۵۰ |
-| عشاء | ۱۸:۲۱:۳۸ |
-| نیمه‌شب شرعی | ۲۳:۲۸:۳۰ |
-| پاسو (سمت القدم-نظير) | ۰۰:۰۸:۴۲ |
+| Fajr (Dawn) | 05:50:46 |
+| Sunrise | 07:12:12 |
+| Dhuhr (Noon) | 12:10:51 |
+| Medium Coeli | 12:10:51 |
+| Sunset | 17:09:17 |
+| Maghrib | 17:28:13 |
+| Isha (Night) | 18:20:30 |
+| Sharia Midnight | 23:30:25 |
+| Imum Coeli | 00:11:02 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="ژئوفیزیک" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
-__محاسبه به شیوه مؤسسه ژئوفیزیک دانشگاه تهران__
-| وقت | ساعت |
+__Institute of Geophysics, University of Tehran Calculation Method__
+| Moment | Time |
 |-|:-:|
-| سپیده‌دم (طلوع فجر) | ۰۵:۳۶:۲۹ |
-| برآمد آفتاب | ۰۷:۰۵:۴۱ |
-| ظهر | ۱۲:۰۸:۳۳ |
-| سرسو (سمت‌الرأس) | ۱۲:۰۸:۳۳ |
-| فروشد آفتاب | ۱۷:۱۱:۰۸ |
-| مغرب | ۱۷:۳۲:۲۹ |
-| عشاء | ۱۸:۲۱:۳۸ |
-| نیمه‌شب شرعی | ۲۳:۲۴:۱۳ |
-| پاسو (سمت القدم-نظير) | ۰۰:۰۸:۴۲ |
+| Fajr (Dawn) | 05:42:08 |
+| Sunrise | 07:12:12 |
+| Dhuhr (Noon) | 12:10:51 |
+| Medium Coeli | 12:10:51 |
+| Sunset | 17:09:17 |
+| Maghrib | 17:30:53 |
+| Isha (Night) | 18:20:30 |
+| Sharia Midnight | 23:26:06 |
+| Imum Coeli | 00:11:02 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="مجمع‌جهانی" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
-__محاسبه به شیوه مجمع جهانی اسلامی__
-| وقت | ساعت |
+__Muslim World League Calculation Method__
+| Moment | Time |
 |-|:-:|
-| سپیده‌دم (طلوع فجر) | ۰۵:۳۴:۵۸ |
-| برآمد آفتاب | ۰۷:۰۵:۴۱ |
-| ظهر | ۱۲:۰۸:۳۳ |
-| سرسو (سمت‌الرأس) | ۱۲:۰۸:۳۳ |
-| فروشد آفتاب | ۱۷:۱۱:۰۸ |
-| مغرب | ۱۷:۱۶:۴۶ |
-| عشاء | ۱۸:۳۶:۴۸ |
-| نیمه‌شب شرعی | ۲۳:۲۳:۲۸ |
-| پاسو (سمت القدم-نظير) | ۰۰:۰۸:۴۲ |
+| Fajr (Dawn) | 05:40:37 |
+| Sunrise | 07:12:12 |
+| Dhuhr (Noon) | 12:10:51 |
+| Medium Coeli | 12:10:51 |
+| Sunset | 17:09:17 |
+| Maghrib | 17:14:59 |
+| Isha (Night) | 18:35:48 |
+| Sharia Midnight | 23:25:20 |
+| Imum Coeli | 00:11:02 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="آمریکا" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
-__محاسبه به شیوه جامعه اسلامی آمریکای شمالی__
-| وقت | ساعت |
+__Islamic Society of North America (ISNA) Calculation Method__
+| Moment | Time |
 |-|:-:|
-| سپیده‌دم (طلوع فجر) | ۰۵:۵۰:۰۷ |
-| برآمد آفتاب | ۰۷:۰۵:۴۱ |
-| ظهر | ۱۲:۰۸:۳۳ |
-| سرسو (سمت‌الرأس) | ۱۲:۰۸:۳۳ |
-| فروشد آفتاب | ۱۷:۱۱:۰۸ |
-| مغرب | ۱۷:۱۶:۴۶ |
-| عشاء | ۱۸:۲۶:۴۲ |
-| نیمه‌شب شرعی | ۲۳:۳۱:۰۲ |
-| پاسو (سمت القدم-نظير) | ۰۰:۰۸:۴۲ |
+| Fajr (Dawn) | 05:55:51 |
+| Sunrise | 07:12:12 |
+| Dhuhr (Noon) | 12:10:51 |
+| Medium Coeli | 12:10:51 |
+| Sunset | 17:09:17 |
+| Maghrib | 17:14:59 |
+| Isha (Night) | 18:25:37 |
+| Sharia Midnight | 23:32:58 |
+| Imum Coeli | 00:11:02 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="مصر" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
-__محاسبه به شیوه مرجع عمومی ممیزی مصر__
-| وقت | ساعت |
+__Egyptian General Authority of Survey Calculation Method__
+| Moment | Time |
 |-|:-:|
-| سپیده‌دم (طلوع فجر) | ۰۵:۲۷:۲۷ |
-| برآمد آفتاب | ۰۷:۰۵:۴۱ |
-| ظهر | ۱۲:۰۸:۳۳ |
-| سرسو (سمت‌الرأس) | ۱۲:۰۸:۳۳ |
-| فروشد آفتاب | ۱۷:۱۱:۰۸ |
-| مغرب | ۱۷:۱۶:۴۶ |
-| عشاء | ۱۸:۳۹:۱۹ |
-| نیمه‌شب شرعی | ۲۳:۱۹:۴۲ |
-| پاسو (سمت القدم-نظير) | ۰۰:۰۸:۴۲ |
+| Fajr (Dawn) | 05:33:03 |
+| Sunrise | 07:12:12 |
+| Dhuhr (Noon) | 12:10:51 |
+| Medium Coeli | 12:10:51 |
+| Sunset | 17:09:17 |
+| Maghrib | 17:14:59 |
+| Isha (Night) | 18:38:20 |
+| Sharia Midnight | 23:21:33 |
+| Imum Coeli | 00:11:02 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="کراچی" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
-__محاسبه به شیوه دانشگاه علوم اسلامی کراچی__
-| وقت | ساعت |
+__University of Islamic Sciences, Karachi Calculation Method__
+| Moment | Time |
 |-|:-:|
-| سپیده‌دم (طلوع فجر) | ۰۵:۳۴:۵۸ |
-| برآمد آفتاب | ۰۷:۰۵:۴۱ |
-| ظهر | ۱۲:۰۸:۳۳ |
-| سرسو (سمت‌الرأس) | ۱۲:۰۸:۳۳ |
-| فروشد آفتاب | ۱۷:۱۱:۰۸ |
-| مغرب | ۱۷:۱۶:۴۶ |
-| عشاء | ۱۸:۴۱:۵۰ |
-| نیمه‌شب شرعی | ۲۳:۲۳:۲۸ |
-| پاسو (سمت القدم-نظير) | ۰۰:۰۸:۴۲ |
+| Fajr (Dawn) | 05:40:37 |
+| Sunrise | 07:12:12 |
+| Dhuhr (Noon) | 12:10:51 |
+| Medium Coeli | 12:10:51 |
+| Sunset | 17:09:17 |
+| Maghrib | 17:14:59 |
+| Isha (Night) | 18:40:52 |
+| Sharia Midnight | 23:25:20 |
+| Imum Coeli | 00:11:02 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="ام‌القرا" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
-__محاسبه به شیوه دانشگاه ام‌القرای مکه__
-| وقت | ساعت |
+__Umm al-Qura University, Makkah Calculation Method__
+| Moment | Time |
 |-|:-:|
-| سپیده‌دم (طلوع فجر) | ۰۵:۳۲:۲۸ |
-| برآمد آفتاب | ۰۷:۰۵:۴۱ |
-| ظهر | ۱۲:۰۸:۳۳ |
-| سرسو (سمت‌الرأس) | ۱۲:۰۸:۳۳ |
-| فروشد آفتاب | ۱۷:۱۱:۰۸ |
-| مغرب | ۱۷:۱۶:۴۶ |
-| عشاء | ۱۸:۴۶:۴۶ |
-| نیمه‌شب شرعی | ۲۳:۲۲:۱۲ |
-| پاسو (سمت القدم-نظير) | ۰۰:۰۸:۴۲ |
+| Fajr (Dawn) | 05:38:05 |
+| Sunrise | 07:12:12 |
+| Dhuhr (Noon) | 12:10:51 |
+| Medium Coeli | 12:10:51 |
+| Sunset | 17:09:17 |
+| Maghrib | 17:14:59 |
+| Isha (Night) | 18:44:59 |
+| Sharia Midnight | 23:24:04 |
+| Imum Coeli | 00:11:02 |
 {{< /tab >}}
 
 {{< /tabs >}}
 
-## فرازان (طالع وقت)
+## Ascendant
+
+The ascendant, also known as the rising sign, changes approximately every two hours. Here are the sidereal and tropical times for the twelve houses on this day.
 
 {{< tabs tabTotal="2" >}}
 
-{{< tab tabName="house_cusps_sidereal" tabActive=true tabTitle="اختری" >}}
+{{< tab tabName="house_cusps_sidereal" tabActive=true tabTitle="Sidereal" >}}
 \
-گاهشمار حرکت زمین در خانه‌های دوازده‌گانه به شیوه اختری
+Earth movement calendar in twelve houses based on sidereal calculations
 
-|نشان در حال برآمدن|زمان شروع|زمان پایان|
+|Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♎ ترازو|۰۷:۰۲:۱۰|۰۹:۲۱:۴۷|
-|♏ کژدم|۰۹:۲۱:۴۸|۱۱:۱۸:۵۴|
-|♐ کماندار|۱۱:۱۸:۵۵|۱۲:۵۱:۰۵|
-|♑ بزغاله|۱۲:۵۱:۰۶|۱۴:۰۹:۲۷|
-|♒ آب‌ریز|۱۴:۰۹:۲۸|۱۵:۲۷:۴۹|
-|♓ ماهی|۱۵:۲۷:۵۰|۱۶:۵۹:۵۹|
-|♈ بره|۱۷:۰۰:۰۰|۱۸:۵۷:۰۷|
-|♉ گاو|۱۸:۵۷:۰۸|۲۱:۱۶:۴۴|
-|♊ دوپیکر|۲۱:۱۶:۴۵|۲۳:۴۳:۱۰|
-|♋ خرچنگ|۲۳:۴۳:۱۱|۰۲:۰۷:۲۹|
-|♌ شیر|۰۲:۰۷:۳۰|۰۴:۳۱:۴۷|
-|♍ دوشیزه|۰۴:۳۱:۴۸|۰۷:۱۰:۱۱|
+|♎ Libra|06:34:39|08:54:15|
+|♏ Scorpio|08:54:16|10:51:23|
+|♐ Sagittarius|10:51:24|12:23:33|
+|♑ Capricorn|12:23:34|13:41:55|
+|♒ Aquarius|13:41:56|15:00:17|
+|♓ Pisces|15:00:18|16:32:28|
+|♈ Aries|16:32:29|18:29:35|
+|♉ Taurus|18:29:36|20:49:12|
+|♊ Gemini|20:49:13|23:15:39|
+|♋ Cancer|23:15:40|01:39:57|
+|♌ Leo|01:39:58|04:04:16|
+|♍ Virgo|04:04:17|06:30:42|
 
 
 {{< /tab >}}
 
-{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="هورگردی (بروجی)" >}}
+{{< tab tabName="house_cusps_tropical" tabActive=false tabTitle="Tropical" >}}
 \
-گاهشمار حرکت زمین در خانه‌های دوازده‌گانه به شیوه هورگردی (بروجی)
+Earth movement calendar in twelve houses based on tropical calculations
 
-|نشان در حال برآمدن|زمان شروع|زمان پایان|
+|Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♏ کژدم|۰۷:۰۲:۱۰|۰۹:۲۱:۴۷|
-|♐ کماندار|۰۹:۲۱:۴۸|۱۱:۱۸:۵۴|
-|♑ بزغاله|۱۱:۱۸:۵۵|۱۲:۵۱:۰۵|
-|♒ آب‌ریز|۱۲:۵۱:۰۶|۱۴:۰۹:۲۷|
-|♓ ماهی|۱۴:۰۹:۲۸|۱۵:۲۷:۴۹|
-|♈ بره|۱۵:۲۷:۵۰|۱۶:۵۹:۵۹|
-|♉ گاو|۱۷:۰۰:۰۰|۱۸:۵۷:۰۷|
-|♊ دوپیکر|۱۸:۵۷:۰۸|۲۱:۱۶:۴۴|
-|♋ خرچنگ|۲۱:۱۶:۴۵|۲۳:۴۳:۱۰|
-|♌ شیر|۲۳:۴۳:۱۱|۰۲:۰۷:۲۹|
-|♍ دوشیزه|۰۲:۰۷:۳۰|۰۴:۳۱:۴۷|
-|♎ ترازو|۰۴:۳۱:۴۸|۰۷:۱۰:۱۱|
+|♏ Scorpio|06:34:39|08:54:15|
+|♐ Sagittarius|08:54:16|10:51:23|
+|♑ Capricorn|10:51:24|12:23:33|
+|♒ Aquarius|12:23:34|13:41:55|
+|♓ Pisces|13:41:56|15:00:17|
+|♈ Aries|15:00:18|16:32:28|
+|♉ Taurus|16:32:29|18:29:35|
+|♊ Gemini|18:29:36|20:49:12|
+|♋ Cancer|20:49:13|23:15:39|
+|♌ Leo|23:15:40|01:39:57|
+|♍ Virgo|01:39:58|04:04:16|
+|♎ Libra|04:04:17|06:30:42|
 
 
 {{< /tab >}}
 
 {{< /tabs >}}
 
-## ساعات کواکب
+## Planetary Hours
+
+Planetary hours are an ancient system in which one of the seven classical planets is given rulership over each day of the week and each hour of the day. The following tables present the day and night planetary hours in two methods: Twelve-hour and Septet.
 
 {{< tabs tabTotal="2" >}}
 
-{{< tab tabName="twelve_planetary_hours" tabActive=true tabTitle="دوازده‌گانه" >}}
+{{< tab tabName="twelve_planetary_hours" tabActive=true tabTitle="Twelve" >}}
 \
-جدول ساعات کواکب دوازده‌گانه روز و شب
+Timetable of twelve day and night planetary hours
 
-|روز|شب|
+|Day|Night|
 |-|-|
-|حاکم روز: ناهید|حاکم شب: بهرام|
-|مدت روز: ۱۰:۰۵:۲۷|مدت شب: ۱۳:۵۵:۳۰|
-|مدت هر ساعت روز: ۰۰:۵۰:۲۷|مدت هر ساعت شب: ۰۱:۰۹:۳۷|
+|The ruler of the day: Venus|The ruler of the night: Mars|
+|Duration of the day: 09:57:05|Night duration: 14:03:49|
+|Every hour of day duration: 00:49:45|Every hour of night duration: 01:10:19|
 
  
-|ساعت روز|سیاره|رتبه|زمان شروع|زمان پایان|تناسب|
+|Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|۱|ناهید|حاکم|۰۷:۰۵:۴۱|۰۷:۵۶:۰۷|حب و ایجاد محبت و جلب قلوب|
-|۲|تیر|خادم|۰۷:۵۶:۰۸|۰۸:۴۶:۳۴|جذب خوش یمنی|
-|۳|ماه|خادم|۰۸:۴۶:۳۵|۰۹:۳۷:۰۱|جذب بدیمنی، هیچ کار نشاید|
-|۴|کیوان|خادم|۰۹:۳۷:۰۲|۱۰:۲۷:۲۹|بدشگون ساعت|
-|۵|هرمز|خادم|۱۰:۲۷:۳۰|۱۱:۱۷:۵۶|کسب مقام و منزلت و جذب سعادت در شغل|
-|۶|بهرام|خادم|۱۱:۱۷:۵۷|۱۲:۰۸:۲۳|ایجاد جذب و قبول در نزد بزرگان|
-|۷|خورشید|خادم|۱۲:۰۸:۲۴|۱۲:۵۸:۵۰|ترقی و جذب ثروت|
-|۸|ناهید|حاکم|۱۲:۵۸:۵۱|۱۳:۴۹:۱۸|خوش یمن و نهایت سعادت و خوشبختی|
-|۹|تیر|خادم|۱۳:۴۹:۱۹|۱۴:۳۹:۴۵|جدایی انداختن و آواره ساختن|
-|۱۰|ماه|خادم|۱۴:۳۹:۴۶|۱۵:۳۰:۱۲|فوق‌العاده بدشگون است|
-|۱۱|کیوان|خادم|۱۵:۳۰:۱۳|۱۶:۲۰:۳۹|ایجاد طالع بدشگون برای هر فردی|
-|۱۲|هرمز|خادم|۱۶:۲۰:۴۰|۱۷:۱۱:۰۷|برای حاجت خواستن نیک و خوش یمن است|
+|1|Venus|Ruler|07:12:12|08:01:56|Love, creating love and attracting hearts|
+|2|Mercury|Servant|08:01:57|08:51:41|Attracting auspiciousness|
+|3|Moon|Servant|08:51:42|09:41:27|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:41:28|10:31:12|Unfortunate hour|
+|5|Jupiter|Servant|10:31:13|11:20:58|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:20:59|12:10:43|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|12:10:44|13:00:28|Promotion and attracting wealth|
+|8|Venus|Ruler|13:00:29|13:50:14|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|13:50:15|14:39:59|Causing separation and homelessness|
+|10|Moon|Servant|14:40:00|15:29:45|Extremely unfortunate|
+|11|Saturn|Servant|15:29:46|16:19:30|Creating an unfortunate horoscope for anyone|
+|12|Jupiter|Servant|16:19:31|17:09:16|Suitable for asking for a need|
 
  
-|ساعت شب|سیاره|رتبه|زمان شروع|زمان پایان|تناسب|
+|Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|۱|بهرام|حاکم|۱۷:۱۱:۰۸|۱۸:۲۰:۴۴|ایجاد فساد و بغض و دشمنی|
-|۲|خورشید|خادم|۱۸:۲۰:۴۵|۱۹:۳۰:۲۲|جذب بدیمنی، هیچ کار نشاید|
-|۳|ناهید|خادم|۱۹:۳۰:۲۳|۲۰:۳۹:۵۹|جذب پیوند و خواستگاری|
-|۴|تیر|خادم|۲۰:۴۰:۰۰|۲۱:۴۹:۳۷|جلب مادیات و کسب روزی و رونق کسب|
-|۵|ماه|خادم|۲۱:۴۹:۳۸|۲۲:۵۹:۱۴|جذب بدیمنی، هیچکار نشاید|
-|۶|کیوان|خادم|۲۲:۵۹:۱۵|۰۰:۰۸:۵۲|دفع انرژی منفی چشم زخم|
-|۷|هرمز|خادم|۰۰:۰۸:۵۳|۰۱:۱۸:۲۹|جذب حب و محبت و جلب قلوب|
-|۸|بهرام|حاکم|۰۱:۱۸:۳۰|۰۲:۲۸:۰۷|ایجاد فساد و هلاکت دشمن و مریض کردن دشمن|
-|۹|خورشید|خادم|۰۲:۲۸:۰۸|۰۳:۳۷:۴۴|عطوفت قلب|
-|۱۰|ناهید|خادم|۰۳:۳۷:۴۵|۰۴:۴۷:۲۲|جذب بدیمنی، هیچ کار نشاید|
-|۱۱|تیر|خادم|۰۴:۴۷:۲۳|۰۵:۵۶:۵۹|جذب پیوند و خواستگاری|
-|۱۲|ماه|خادم|۰۵:۵۷:۰۰|۰۷:۰۶:۳۷|بغض و فساد و ایجاد انرژی منفی برای برهم زدن|
+|1|Mars|Ruler|17:09:17|18:19:35|Love, creating love and attracting hearts|
+|2|Sun|Servant|18:19:36|19:29:54|Attracting auspiciousness|
+|3|Venus|Servant|19:29:55|20:40:13|Attracting misfortune, no task is suitable|
+|4|Mercury|Servant|20:40:14|21:50:32|Unfortunate hour|
+|5|Moon|Servant|21:50:33|23:00:51|Achieving position and status and attracting job fortune|
+|6|Saturn|Servant|23:00:52|00:11:10|Creating attraction and acceptance among dignitaries|
+|7|Jupiter|Servant|00:11:11|01:21:29|Promotion and attracting wealth|
+|8|Mars|Ruler|01:21:30|02:31:48|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:31:49|03:42:07|Causing separation and homelessness|
+|10|Venus|Servant|03:42:08|04:52:26|Extremely unfortunate|
+|11|Mercury|Servant|04:52:27|06:02:45|Creating an unfortunate horoscope for anyone|
+|12|Moon|Servant|06:02:46|07:13:05|Suitable for asking for a need|
 
  
  
 {{< /tab >}}
 
-{{< tab tabName="septet_planetary_hours" tabActive=false tabTitle="هفت‌گانه" >}}
+{{< tab tabName="septet_planetary_hours" tabActive=false tabTitle="Septet" >}}
 \
-جدول ساعات کواکب هفت‌گانه روز و شب
+Timetable of septet day and night planetary hours
 
-|روز|شب|
+|Day|Night|
 |-|-|
-|حاکم روز: ناهید|حاکم شب: بهرام|
-|مدت روز: ۱۰:۰۵:۲۷|مدت شب: ۱۳:۵۵:۳۰|
-|مدت هر ساعت روز: ۰۱:۲۶:۳۰|مدت هر ساعت شب: ۰۱:۵۹:۲۱|
+|The ruler of the day: Venus|The ruler of the night: Mars|
+|Duration of the day: 09:57:05|Night duration: 14:03:49|
+|Every hour duration: 01:25:18|Every hour duration: 02:00:33|
 
  
  
  
-|ساعت روز|سیاره|رتبه|زمان شروع|زمان پایان|
+|Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|اول روز|ناهید|حاکم|۰۷:۰۵:۴۱|۰۸:۳۲:۰۹|
-|نیم چاشت|تیر|خادم|۰۸:۳۲:۱۰|۰۹:۵۸:۳۹|
-|قریب زوال|ماه|خادم|۰۹:۵۸:۴۰|۱۱:۲۵:۰۸|
-|ظهر|کیوان|خادم|۱۱:۲۵:۰۹|۱۲:۵۱:۳۸|
-|میان دو نماز|هرمز|خادم|۱۲:۵۱:۳۹|۱۴:۱۸:۰۷|
-|نماز عصر|بهرام|خادم|۱۴:۱۸:۰۸|۱۵:۴۴:۳۷|
-|اخر روز|خورشید|خادم|۱۵:۴۴:۳۸|۱۷:۱۱:۰۷|
+|Early morning|Venus|Ruler|07:12:12|08:37:28|
+|Mid-morning|Mercury|Servant|08:37:29|10:02:46|
+|Late morning|Moon|Servant|10:02:47|11:28:04|
+|Noon|Saturn|Servant|11:28:05|12:53:22|
+|Early afternoon|Jupiter|Servant|12:53:23|14:18:40|
+|Mid-afternoon|Mars|Servant|14:18:41|15:43:58|
+|Late afternoon|Sun|Servant|15:43:59|17:09:16|
 
  
-|ساعت شب|سیاره|رتبه|زمان شروع|زمان پایان|
+|Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|اول شب|بهرام|حاکم|۱۷:۱۱:۰۸|۱۹:۱۰:۲۸|
-|وقت خفتن|خورشید|خادم|۱۹:۱۰:۲۹|۲۱:۰۹:۴۹|
-|میان شب|ناهید|خادم|۲۱:۰۹:۵۰|۲۳:۰۹:۱۱|
-|نصف شب گذشته|تیر|خادم|۲۳:۰۹:۱۲|۰۱:۰۸:۳۲|
-|بانگ مرغ|ماه|خادم|۰۱:۰۸:۳۳|۰۳:۰۷:۵۴|
-|صبح کاذب|کیوان|خادم|۰۳:۰۷:۵۵|۰۵:۰۷:۱۵|
-|صبح صادق|هرمز|خادم|۰۵:۰۷:۱۶|۰۷:۰۶:۳۷|
+|Evening|Mars|Ruler|17:09:17|19:09:48|
+|Late evening|Sun|Servant|19:09:49|21:10:21|
+|Midnight|Venus|Servant|21:10:22|23:10:54|
+|Late at night|Mercury|Servant|23:10:55|01:11:26|
+|Rooster song|Moon|Servant|01:11:27|03:11:59|
+|False Dawn|Saturn|Servant|03:12:00|05:12:32|
+|Dawn|Jupiter|Servant|05:12:33|07:13:05|
 
 {{< /tab >}}
 
 {{< /tabs >}}
 
-## نَهِش سیاره‌ها هنگام برآمد آفتاب
+## The position of the planets at sunrise
+
+The following tabs show the position of the planets at sunrise based on sidereal and tropical calculations.
 
 {{< tabs tabTotal="2" >}}
 
-{{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="اختری" >}}
+{{< tab tabName="planet_postions_at_sunrise_sidereal" tabActive=true tabTitle="Sidereal" >}}
 \
-نهش سیاره‌ها به شیوه اختری در هنگام برآمد آفتاب
+Position of planets based on sidereal calculations at sunrise
 
-|سیاره|جهت|درجه|نشان|منزل|وجه|
+|Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ کیوان|مستقیم| "۲۰ '۵۱ ۰°|آب‌ریز|سَعدُ سُعُود|ناهید|
-|♃ هرمز|رجعی| "۲۸ '۴۹ ۷°|بره|شَرَطَين|بهرام|
-|♂ بهرام|مستقیم| "۱۳ '۴۸ ۲۹°|ترازو|إِكلِيل|هرمز|
-|☉ خورشید|مستقیم| "۵۸ '۳۴ ۱°|کژدم|إِكلِيل|بهرام|
-|♀ ناهید|مستقیم| "۴۲ '۳۸ ۱۷°|دوشیزه|سِمَاكُ أَعزِل|ناهید|
-|☿ تیر|مستقیم| "۹ '۱۷ ۲۰°|کژدم|قَلب|ناهید|
-|☾ ماه|مستقیم| "۳۹ '۲۸ ۱۹°|ماهی|رَشَاء|هرمز|
+|♄ Saturn|Direct|1°8'8.83" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°5'22.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°48'20.91" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|8°40'10.60" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|25°45'0.00" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|29°27'48.11" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|23°6'4.83" |Gemini|Dhira|Sun|
 
 
-|سیاره|حد مصری|حد بطلمیوسی|دریگان|اردگان|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
-|♄ کیوان|تیر|کیوان|کیوان|کیوان|
-|♃ هرمز|ناهید|ناهید|بهرام|بهرام|
-|♂ بهرام|بهرام|بهرام|تیر|خورشید|
-|☉ خورشید|بهرام|بهرام|بهرام|بهرام|
-|♀ ناهید|هرمز|هرمز|کیوان|کیوان|
-|☿ تیر|هرمز|هرمز|ماه|کیوان|
-|☾ ماه|بهرام|تیر|ماه|خورشید|
+|♄ Saturn|Mercury|Saturn|Saturn|Saturn|
+|♃ Jupiter|Venus|Venus|Mars|Mars|
+|♂ Mars|Mars|Mars|Mars|Mars|
+|☉ Sun|Venus|Venus|Mars|Mars|
+|♀ Venus|Mars|Mars|Venus|Moon|
+|☿ Mercury|Saturn|Saturn|Moon|Saturn|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
-|سیاره|هفت‌بهر|نه‌بهر|دوازده‌بهر|نیم‌بهر|نصیب|
+|Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ کیوان|کیوان|ناهید|آب‌ریز (کیوان)|خورشید|کیوان|
-|♃ هرمز|خورشید|تیر|خرچنگ (ماه)|خورشید|بهرام|
-|♂ بهرام|خورشید|تیر|دوشیزه (تیر)|ماه|ماه|
-|☉ خورشید|بهرام|ماه|کژدم (بهرام)|ماه|بهرام|
-|♀ ناهید|بهرام|تیر|بره (بهرام)|خورشید|ماه|
-|☿ تیر|ماه|کیوان|خرچنگ (ماه)|خورشید|خورشید|
-|☾ ماه|تیر|هرمز|ترازو (ناهید)|خورشید|هرمز|
+|♄ Saturn|Saturn|Venus|Aquarius|Sun|Saturn|
+|♃ Jupiter|Sun|Mercury|Gemini|Sun|Mars|
+|♂ Mars|Sun|Sun|Sagittarius|Moon|Mars|
+|☉ Sun|Venus|Mercury|Aquarius|Moon|Mars|
+|♀ Venus|Venus|Sun|Cancer|Sun|Moon|
+|☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Sun|Mars|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
 
-{{< tab tabName="planet_postions_at_sunrise_tropical" tabActive=false tabTitle="هورگردی (بروجی)" >}}
+{{< tab tabName="planet_postions_at_sunrise_tropical" tabActive=false tabTitle="Tropical" >}}
 \
-نَهِش سیاره‌ها به شیوه بروجی در هنگام برآمد آفتاب
+Position of planets based on tropical calculations at sunrise
 
-|سیاره|جهت|درجه|نشان|منزل|وجه|
+|Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ کیوان|مستقیم| "۲۰ '۵۱ ۰°|ماهی|فَرغُ دَلُو مُقدِم|کیوان|
-|♃ هرمز|رجعی| "۲۸ '۴۹ ۷°|گاو|ثُرَيَا|تیر|
-|♂ بهرام|مستقیم| "۱۳ '۴۸ ۲۹°|کژدم|شَوله|ناهید|
-|☉ خورشید|مستقیم| "۵۸ '۳۴ ۱°|کماندار|شَوله|تیر|
-|♀ ناهید|مستقیم| "۴۱ '۳۸ ۱۷°|ترازو|زُبَانَا|کیوان|
-|☿ تیر|مستقیم| "۹ '۱۷ ۲۰°|کماندار|بَلده|کیوان|
-|☾ ماه|مستقیم| "۲۶ '۳۵ ۱۹°|بره|بُطَين|خورشید|
+|♄ Saturn|Direct|1°8'8.90" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°5'22.29" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°48'20.84" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|8°40'10.44" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|25°44'59.73" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|29°27'48.05" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|23°5'33.88" |Cancer|Tarf|Moon|
 
 
-|سیاره|حد مصری|حد بطلمیوسی|دریگان|اردگان|
+|Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
-|♄ کیوان|ناهید|ناهید|هرمز|ناهید|
-|♃ هرمز|ناهید|ناهید|ناهید|ماه|
-|♂ بهرام|کیوان|کیوان|ماه|کیوان|
-|☉ خورشید|هرمز|هرمز|هرمز|ماه|
-|♀ ناهید|هرمز|هرمز|کیوان|ناهید|
-|☿ تیر|تیر|کیوان|خورشید|ناهید|
-|☾ ماه|تیر|تیر|خورشید|هرمز|
+|♄ Saturn|Venus|Venus|Jupiter|Venus|
+|♃ Jupiter|Venus|Venus|Venus|Moon|
+|♂ Mars|Jupiter|Jupiter|Jupiter|Moon|
+|☉ Sun|Jupiter|Venus|Jupiter|Moon|
+|♀ Venus|Venus|Mars|Mercury|Sun|
+|☿ Mercury|Mars|Mars|Sun|Venus|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
-|سیاره|هفت‌بهر|نه‌بهر|دوازده‌بهر|نیم‌بهر|نصیب|
+|Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ کیوان|هرمز|ماه|ماهی (هرمز)|ماه|هرمز|
-|♃ هرمز|تیر|هرمز|شیر (خورشید)|ماه|ناهید|
-|♂ بهرام|هرمز|هرمز|ترازو (ناهید)|خورشید|خورشید|
-|☉ خورشید|هرمز|بهرام|کماندار (هرمز)|خورشید|هرمز|
-|♀ ناهید|هرمز|هرمز|گاو (ناهید)|ماه|ماه|
-|☿ تیر|تیر|ناهید|شیر (خورشید)|ماه|تیر|
-|☾ ماه|ماه|تیر|کژدم (بهرام)|ماه|کیوان|
+|♄ Saturn|Jupiter|Moon|Pisces|Moon|Jupiter|
+|♃ Jupiter|Mercury|Jupiter|Cancer|Moon|Venus|
+|♂ Mars|Mars|Venus|Capricorn|Sun|Jupiter|
+|☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
+|♀ Venus|Sun|Venus|Leo|Moon|Moon|
+|☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Venus|Saturn|Aries|Sun|Mars|
 
 
 {{< /tab >}}
 
 {{< /tabs >}}
 
-## نمودهای سیاره‌ها هنگام برآمد آفتاب
+## The aspects of the planets at sunrise
 
-|سیاره|♄ کیوان|♃ هرمز|♂ بهرام|☉ خورشید|♀ ناهید|☿ تیر|
+|<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|**♃ هرمز**|✱ تسدیس||||||
-|**♂ بهرام**|△ تثلیث|☍ مقابله|||||
-|**☉ خورشید**|□ تربیع| | ||||
-|**♀ ناهید**| | | |✱ تسدیس|||
-|**☿ تیر**|□ تربیع| | |☌ مقارنه|✱ تسدیس||
-|**☾ ماه**| | | |△ تثلیث|☍ مقابله|△ تثلیث|
+|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>☌ Cnj|<sub>✱ Sxt|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trn|<sub>✱ Sxt|<sub> |<sub> |<sub>□ Sqr|<sub> </sub>|
 
 ---
-نام‌های دیگر: SDG, Sanandadsch, Sanandadz, Sanandadż, Sanandadž, Sanandago, Sanandaj, Sanandaĝo, Sanandij, Senendec, Senendedzas, Senendedzh, Senendedžas, Senendehdzh, Senna, Senneh, Sinandij, Sine, Sinneh, Sənəndəc, sa nan da ji, sanandaja, sanandaji, sina, sinih, snndj, Санандаџ, Санандаҷ, Сенендедж, Сенендэдж, Сәнәндәҗ, Սանանդաջ, سنندج, سنە, سِنَّ, سِنِّه, सनंदज, सनंदाज, 萨南达季, 사난다지
+Alternate Names: SDG, Sanandadsch, Sanandadz, Sanandadż, Sanandadž, Sanandago, Sanandaj, Sanandaĝo, Sanandij, Senendec, Senendedzas, Senendedzh, Senendedžas, Senendehdzh, Senna, Senneh, Sinandij, Sine, Sinneh, Sənəndəc, sa nan da ji, sanandaja, sanandaji, sina, sinih, snndj, Санандаџ, Санандаҷ, Сенендедж, Сенендэдж, Сәнәндәҗ, Սանանդաջ, سنندج, سنە, سِنَّ, سِنِّه, सनंदज, सनंदाज, 萨南达季, 사난다지
 
 ---
