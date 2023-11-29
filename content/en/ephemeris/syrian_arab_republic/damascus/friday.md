@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:48:46 |
 | Sunrise | 07:20:28 |
-| Dhuhr (Noon) | 12:23:42 |
-| Medium Coeli | 12:23:42 |
+| Dhuhr (Noon) | 12:23:41 |
+| Medium Coeli | 12:23:41 |
 | Sunset | 17:26:42 |
 | Maghrib | 17:31:40 |
 | Isha (Night) | 19:01:40 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°8'13.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°5'12.98" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°49'29.55" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|8°41'47.64" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|25°46'51.74" |Virgo|Simak|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|29°29'43.29" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|23°25'25.42" |Gemini|Dhira|Sun|
+|♄ Saturn|Post-Retrograde Shadow|1°8'13.20" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°5'12.97" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°49'29.57" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|8°41'47.66" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|25°46'51.72" |Virgo|Simak|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|29°29'43.32" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|23°25'26.55" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°8'13.24" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°5'15.38" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°49'26.36" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|1°8'13.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°5'12.97" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°49'29.57" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|8°41'39.63" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|25°46'41.38" |Libra|Akleel|Jupiter|
 |☿ Mercury|Pre-Retrograde Shadow|29°29'38.59" |Sagittarius|Baldah|Saturn|

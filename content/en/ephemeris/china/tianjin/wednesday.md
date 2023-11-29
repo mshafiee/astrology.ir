@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:24:48 |
+| Fajr (Dawn) | 05:24:49 |
 | Sunrise | 07:08:31 |
 | Dhuhr (Noon) | 11:59:21 |
 | Medium Coeli | 11:59:21 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|1°4'57.27" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°12'21.60" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°57'12.97" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|7°27'54.53" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|24°21'51.84" |Virgo|Simak|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|28°0'16.62" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|7°54'42.20" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|3°57'12.59" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|7°27'53.52" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|24°21'51.50" |Virgo|Simak|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|28°0'15.60" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°2'19.24" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|1°4'57.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°12'21.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°57'12.97" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|7°27'54.53" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°21'51.84" |Libra|Jubana|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|28°0'16.62" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°54'42.20" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|7°12'21.60" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°57'12.59" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|7°27'53.52" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°21'51.50" |Libra|Jubana|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|28°0'15.60" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|8°2'19.24" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|7°38'11.96" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|24°33'41.70" |Libra|Jubana|Jupiter|
 |☿ Mercury|Pre-Retrograde Shadow|28°12'55.72" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|10°12'0.26" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|11°10'2.17" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

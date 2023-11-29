@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|1°8'45.76" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°4'5.11" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°57'58.36" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|8°53'45.82" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Retrograde|7°4'5.12" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°57'58.34" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|8°53'45.79" |Scorpio|Qalb|Mars|
 |♀ Venus|Direct|26°0'39.52" |Virgo|Simak|Mercury|
 |☿ Mercury|Pre-Retrograde Shadow|29°43'53.33" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|25°59'50.73" |Gemini|Dhira|Sun|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°8'45.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°4'5.16" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°57'58.19" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|8°53'45.42" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|26°0'39.56" |Libra|Akleel|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|29°43'52.84" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|26°3'20.96" |Cancer|Jabhah|Moon|
+|♄ Saturn|Post-Retrograde Shadow|1°8'45.80" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°4'5.12" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°57'58.34" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|8°53'45.79" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|26°0'39.54" |Libra|Akleel|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|29°43'53.30" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°59'49.61" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Moon|
 |♀ Venus|Venus|Mars|Mercury|Sun|
 |☿ Mercury|Mars|Mars|Sun|Venus|
-|☾ Moon|Saturn|Venus|Jupiter|Mercury|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

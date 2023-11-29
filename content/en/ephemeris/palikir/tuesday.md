@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:08:04 |
 | Maghrib | 18:09:29 |
 | Isha (Night) | 19:39:29 |
-| Sharia Midnight | 23:36:42 |
+| Sharia Midnight | 23:36:41 |
 | Imum Coeli | 00:15:12 |
 {{< /tab >}}
 
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|1°1'58.53" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°19'21.73" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|3°7'30.63" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|6°17'35.33" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|23°1'9.74" |Virgo|Simak|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|26°32'13.69" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|22°50'37.25" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|6°17'27.76" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|23°1'0.11" |Virgo|Simak|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|26°32'9.24" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|23°28'43.35" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Sun|Capricorn|Moon|Mars|
 |♀ Venus|Sun|Moon|Gemini|Sun|Moon|
 |☿ Mercury|Jupiter|Saturn|Virgo|Sun|Sun|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}

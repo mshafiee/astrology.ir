@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:42:08 |
-| Sunrise | 08:11:20 |
+| Sunrise | 08:11:19 |
 | Dhuhr (Noon) | 13:15:10 |
 | Medium Coeli | 13:15:10 |
 | Sunset | 18:18:47 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:57:07 |
-| Sunrise | 08:11:20 |
+| Sunrise | 08:11:19 |
 | Dhuhr (Noon) | 13:15:10 |
 | Medium Coeli | 13:15:10 |
 | Sunset | 18:18:47 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|1°0'42.70" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°22'29.97" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|2°45'43.71" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|5°46'44.63" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|22°25'49.22" |Virgo|Simak|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°52'49.82" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°13'26.40" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|5°46'44.70" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|22°25'49.47" |Virgo|Simak|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|25°52'49.80" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|16°13'11.37" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|1°0'42.70" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|7°22'29.97" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|2°45'43.69" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|5°46'44.63" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|22°25'49.22" |Libra|Jubana|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°52'49.82" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°13'26.40" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|2°45'43.71" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|5°46'44.66" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|22°25'49.40" |Libra|Jubana|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|25°52'49.79" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°13'23.60" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

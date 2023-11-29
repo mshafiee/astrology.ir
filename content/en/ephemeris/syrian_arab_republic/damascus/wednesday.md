@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:49:43 |
 | Sunrise | 07:18:44 |
-| Dhuhr (Noon) | 12:22:58 |
-| Medium Coeli | 12:22:58 |
+| Dhuhr (Noon) | 12:22:59 |
+| Medium Coeli | 12:22:59 |
 | Sunset | 17:27:00 |
 | Maghrib | 17:31:57 |
 | Isha (Night) | 18:51:03 |
@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|1°2'55.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°17'7.72" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|3°23'26.27" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|6°40'3.83" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|23°26'55.15" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|7°17'7.73" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|3°23'26.25" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|6°40'3.81" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|23°26'55.16" |Virgo|Simak|Mercury|
 |☿ Mercury|Pre-Retrograde Shadow|27°0'44.87" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|28°23'9.27" |Taurus|HaqAh|Saturn|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°2'55.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°17'5.34" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|3°23'29.40" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|6°40'11.78" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|23°27'5.63" |Libra|Jubana|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|27°0'49.39" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|27°49'7.62" |Gemini|Dhira|Sun|
+|♄ Saturn|Post-Retrograde Shadow|1°2'55.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°17'5.35" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|3°23'29.38" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|6°40'11.76" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|23°27'5.65" |Libra|Jubana|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|27°0'49.36" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|27°49'7.16" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
