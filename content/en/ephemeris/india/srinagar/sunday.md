@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 17:20:47 |
 | Maghrib | 17:26:24 |
 | Isha (Night) | 18:46:11 |
-| Sharia Midnight | 23:35:25 |
+| Sharia Midnight | 23:35:26 |
 | Imum Coeli | 00:20:33 |
 {{< /tab >}}
 
@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 17:20:47 |
 | Maghrib | 17:26:24 |
 | Isha (Night) | 18:51:11 |
-| Sharia Midnight | 23:35:26 |
+| Sharia Midnight | 23:35:25 |
 | Imum Coeli | 00:20:33 |
 {{< /tab >}}
 
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°13'35.57" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°13'35.57" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°54'32.54" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|6°11'7.83" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|10°37'2.50" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|27°59'47.58" |Virgo|Simak|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|1°41'37.60" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|1°41'37.60" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|16°46'21.04" |Cancer|Tarf|Mercury|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°13'35.57" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°13'35.57" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°54'32.54" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°11'7.83" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|10°37'2.69" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°59'47.38" |Libra|Akleel|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|1°41'37.94" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|16°43'19.68" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|10°37'2.50" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|27°59'47.58" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|1°41'37.60" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|16°46'21.04" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

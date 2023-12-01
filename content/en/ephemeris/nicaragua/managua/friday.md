@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°11'54.22" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°11'54.22" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°57'45.68" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|5°46'0.48" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|10°1'36.17" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|27°18'51.89" |Virgo|Simak|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|1°2'9.97" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|9°37'2.63" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°1'25.30" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|27°18'46.31" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|1°1'59.31" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|10°30'47.33" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Jupiter|
 |♀ Venus|Mars|Mars|Venus|Moon|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Venus|Mercury|Cancer|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Sagittarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°11'54.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°11'54.22" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°57'45.68" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|5°46'0.48" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|10°1'36.17" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|27°18'51.89" |Libra|Akleel|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|1°2'9.97" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|1°2'9.97" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|9°37'2.63" |Leo|Zubrah|Saturn|
 
 

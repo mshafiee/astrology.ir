@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:04:56 |
 | Dhuhr (Noon) | 12:02:27 |
 | Medium Coeli | 12:02:27 |
-| Sunset | 17:59:57 |
+| Sunset | 17:59:56 |
 | Maghrib | 18:04:03 |
 | Isha (Night) | 19:10:47 |
-| Sharia Midnight | 23:25:03 |
+| Sharia Midnight | 23:25:02 |
 | Imum Coeli | 00:02:38 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:04:56 |
 | Dhuhr (Noon) | 12:02:27 |
 | Medium Coeli | 12:02:27 |
-| Sunset | 17:59:56 |
+| Sunset | 17:59:57 |
 | Maghrib | 18:04:03 |
 | Isha (Night) | 19:34:03 |
 | Sharia Midnight | 23:23:58 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:55:00|Night duration: 12:05:25|
+|Duration of the day: 11:55:01|Night duration: 12:05:24|
 |Every hour of day duration: 00:59:35|Every hour of night duration: 01:00:27|
 
  
@@ -227,23 +227,23 @@ Timetable of twelve day and night planetary hours
 |9|Mars|Servant|14:01:36|15:01:10|Reaching status and promotion|
 |10|Sun|Servant|15:01:11|16:00:45|Fulfilling needs|
 |11|Venus|Servant|16:00:46|17:00:20|Attraction of love and hearts|
-|12|Mercury|Servant|17:00:21|17:59:55|Attracting misfortune, not suitable for any task|
+|12|Mercury|Servant|17:00:21|17:59:56|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|17:59:56|19:00:22|Attraction of material wealth, earning and prosperity|
-|2|Saturn|Servant|19:00:23|20:00:49|Destruction of enemies|
-|3|Jupiter|Servant|20:00:50|21:01:16|Attraction of financial and emotional love|
-|4|Mars|Servant|21:01:17|22:01:43|Creating love, connection and marriage|
-|5|Sun|Servant|22:01:44|23:02:10|Indulgence|
-|6|Venus|Servant|23:02:11|00:02:37|Outer and inner journey|
-|7|Mercury|Servant|00:02:38|01:03:04|Achieving status and power|
-|8|Moon|Ruler|01:03:05|02:03:31|Attraction of happiness and fortune|
-|9|Saturn|Servant|02:03:32|03:03:58|Reaching status and promotion|
-|10|Jupiter|Servant|03:03:59|04:04:25|Fulfilling needs|
-|11|Mars|Servant|04:04:26|05:04:52|Attraction of love and hearts|
-|12|Sun|Servant|05:04:53|06:05:20|Attracting misfortune, not suitable for any task|
+|1|Moon|Ruler|17:59:57|19:00:23|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|19:00:24|20:00:50|Destruction of enemies|
+|3|Jupiter|Servant|20:00:51|21:01:17|Attraction of financial and emotional love|
+|4|Mars|Servant|21:01:18|22:01:44|Creating love, connection and marriage|
+|5|Sun|Servant|22:01:45|23:02:11|Indulgence|
+|6|Venus|Servant|23:02:12|00:02:38|Outer and inner journey|
+|7|Mercury|Servant|00:02:39|01:03:05|Achieving status and power|
+|8|Moon|Ruler|01:03:06|02:03:32|Attraction of happiness and fortune|
+|9|Saturn|Servant|02:03:33|03:03:59|Reaching status and promotion|
+|10|Jupiter|Servant|03:04:00|04:04:26|Fulfilling needs|
+|11|Mars|Servant|04:04:27|05:04:53|Attraction of love and hearts|
+|12|Sun|Servant|05:04:54|06:05:20|Attracting misfortune, not suitable for any task|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°5'36.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°10'53.25" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|4°7'49.42" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|7°42'54.60" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|24°39'6.79" |Virgo|Simak|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|28°18'42.04" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°5'46.31" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|1°5'36.25" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°10'55.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|4°7'46.13" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|7°42'46.27" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|24°38'54.88" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|28°18'37.70" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°23'45.37" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°5'36.29" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°5'36.29" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|7°10'53.27" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|4°7'49.42" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|7°42'54.63" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|24°39'6.63" |Libra|Jubana|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|28°18'42.14" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|28°18'42.14" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|11°4'44.03" |Cancer|Nathrah|Mercury|
 
 

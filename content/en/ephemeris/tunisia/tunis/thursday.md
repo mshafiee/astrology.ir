@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°5'43.75" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°5'43.75" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|7°10'36.97" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|4°9'48.83" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|7°45'42.90" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|24°42'20.46" |Virgo|Simak|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|28°22'8.47" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°46'33.73" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|28°22'3.41" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|12°28'12.83" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Mars|Mars|Venus|Moon|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°5'43.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°10'36.97" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|4°9'48.83" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|7°45'42.90" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|24°42'20.46" |Libra|Jubana|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|28°22'8.47" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°46'33.73" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|1°5'43.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°10'37.02" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|4°9'47.50" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|7°45'39.58" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|24°42'22.96" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|28°22'3.41" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|12°28'12.83" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

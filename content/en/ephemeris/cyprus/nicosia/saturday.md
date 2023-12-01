@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°11'2.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°59'26.99" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°33'1.40" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|9°43'15.41" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|26°57'44.54" |Virgo|Simak|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|0°41'20.00" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|6°17'29.86" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|1°11'2.70" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°59'27.02" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°33'1.87" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|9°43'16.68" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|26°57'43.63" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|0°41'22.00" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|5°59'1.13" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Mars|Mars|Venus|Moon|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mars|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°11'2.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°11'2.70" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°59'27.02" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|5°33'1.87" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|9°43'16.68" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|26°57'43.63" |Libra|Akleel|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|0°41'22.00" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|0°41'22.00" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|5°59'1.13" |Leo|Jabhah|Saturn|
 
 
