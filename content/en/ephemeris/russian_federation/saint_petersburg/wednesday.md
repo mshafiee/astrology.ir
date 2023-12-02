@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°23'26.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°37'51.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°29'27.65" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|13°51'53.92" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|1°45'30.49" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°56'23.28" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|25°11'13.81" |Leo|Sarfrah|Mars|
+|♄ Saturn|Post-Retrograde Shadow|1°23'26.26" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°37'52.13" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|8°29'26.18" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|13°51'50.30" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|1°45'26.45" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°56'20.65" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|24°54'29.85" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Jupiter|Jupiter|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Mars|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°23'26.26" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°23'26.26" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°37'52.13" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|8°29'26.18" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|13°51'50.30" |Sagittarius|NaAaem|Moon|

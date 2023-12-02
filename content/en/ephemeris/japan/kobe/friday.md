@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°10'14.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|7°1'3.32" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|5°20'48.05" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|9°26'0.33" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|26°37'48.68" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|0°21'31.38" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°31'48.86" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|1°10'14.55" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|7°1'3.15" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°20'48.36" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|9°26'1.14" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|26°37'49.34" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|0°21'32.04" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°28'57.14" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Venus|Sun|Cancer|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Sagittarius|Sun|Jupiter|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°10'14.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|7°1'3.32" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|5°20'48.05" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|9°26'0.33" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|1°10'14.55" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|7°1'3.15" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|5°20'48.36" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|9°26'1.14" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|26°37'48.68" |Libra|Akleel|Jupiter|
 |☿ Mercury|Direct|0°21'31.38" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|2°31'48.86" |Leo|Jabhah|Saturn|

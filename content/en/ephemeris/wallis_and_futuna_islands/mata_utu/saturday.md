@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:58:12 |
 | Sunrise | 05:08:03 |
-| Dhuhr (Noon) | 11:33:47 |
-| Medium Coeli | 11:33:47 |
+| Dhuhr (Noon) | 11:33:46 |
+| Medium Coeli | 11:33:46 |
 | Sunset | 17:59:35 |
 | Maghrib | 18:14:45 |
 | Isha (Night) | 19:00:15 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°12'32.35" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Post-Retrograde Shadow|1°12'32.35" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°56'32.24" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|5°55'31.14" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|10°15'1.19" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|27°34'9.69" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|1°17'8.93" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|12°6'18.75" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|10°14'52.00" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|27°34'9.96" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|1°17'8.21" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|12°12'17.58" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°12'32.35" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°12'32.35" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°56'32.24" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|5°55'31.14" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|10°15'1.19" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|27°34'9.69" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|1°17'8.93" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|12°6'18.75" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|27°34'21.49" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|1°17'8.21" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|12°12'17.58" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

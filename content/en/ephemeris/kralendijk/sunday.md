@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°17'40.72" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°47'11.70" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°10'9.96" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|12°0'16.92" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|29°36'3.59" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|3°9'49.50" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°14'34.13" |Leo|Jabhah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°17'40.76" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°47'13.12" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°10'7.01" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|12°0'9.29" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|29°35'58.84" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|3°9'42.17" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|3°30'33.35" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Venus|Mercury|Leo|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°17'40.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°17'40.76" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°47'13.12" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°10'7.01" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|12°0'9.29" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|29°35'58.83" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|3°9'42.21" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°30'33.76" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|29°35'58.84" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|3°9'42.17" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°30'33.35" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

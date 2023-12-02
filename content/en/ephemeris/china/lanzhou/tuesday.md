@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:27:11 |
+| Fajr (Dawn) | 06:27:10 |
 | Sunrise | 08:00:06 |
 | Dhuhr (Noon) | 12:54:59 |
 | Medium Coeli | 12:54:59 |
@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°19'23.51" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Post-Retrograde Shadow|1°19'23.51" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°44'18.15" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°34'10.92" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|12°34'6.33" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|0°15'13.57" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|0°15'14.85" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|3°43'39.51" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|9°55'13.29" |Leo|Zubrah|Saturn|
 
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°19'23.51" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°19'23.51" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°44'18.15" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°34'10.92" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|12°34'6.33" |Sagittarius|NaAaem|Moon|

@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:06:51|Night duration: 11:53:33|
+|Duration of the day: 12:06:51|Night duration: 11:53:32|
 |Every hour duration: 01:43:50|Every hour duration: 01:41:56|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Venus|Servant|23:13:04|00:54:59|
 |Rooster song|Mercury|Servant|00:55:00|02:36:55|
 |False Dawn|Moon|Servant|02:36:56|04:18:51|
-|Dawn|Saturn|Servant|04:18:52|06:00:48|
+|Dawn|Saturn|Servant|04:18:52|06:00:47|
 
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°17'43.48" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Post-Retrograde Shadow|1°17'43.48" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°47'7.05" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°10'48.44" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|12°1'11.13" |Scorpio|Qalb|Sun|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°17'43.48" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°47'7.05" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°10'48.44" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|12°1'11.13" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|29°37'6.41" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|3°10'44.68" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°25'10.27" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Post-Retrograde Shadow|1°17'43.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°47'9.78" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°10'44.42" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|12°1'1.00" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|29°36'55.32" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|3°10'37.48" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°3'26.78" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

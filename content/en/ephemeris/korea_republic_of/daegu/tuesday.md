@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:47:53 |
+| Fajr (Dawn) | 05:47:52 |
 | Sunrise | 07:19:58 |
 | Dhuhr (Noon) | 12:15:57 |
 | Medium Coeli | 12:15:57 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°22'19.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°39'34.15" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°14'26.56" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|13°30'47.40" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|1°20'59.05" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°37'24.01" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|21°5'42.85" |Leo|Zubrah|Mars|
+|♄ Saturn|Post-Retrograde Shadow|1°22'19.33" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°39'34.17" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|8°14'26.54" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|13°30'47.37" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|1°20'58.94" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°37'24.08" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|21°4'40.81" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°22'19.33" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°22'19.33" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°39'34.15" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|8°14'26.54" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|13°30'47.36" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°20'59.05" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|13°30'47.37" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°20'58.94" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|4°37'24.01" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|21°4'40.81" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|21°5'42.85" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
