@@ -20,7 +20,7 @@ Latitude: -1.9500
 \-
 Longitude: 30.0588
 \-
-Altitude: 1,542 meters
+Altitude: 1,542.0000 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Kigali, Rwanda" lat="-1.9500" lng="30.0588" zoom="12">}}
 
@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:51:15 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:51:15 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:51:15 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:51:15 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:51:15 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:51:15 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°26'17.90" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°26'17.90" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°33'34.12" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|9°7'28.40" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|14°45'23.88" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|2°47'38.04" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°41'47.02" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|5°54'30.84" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|14°45'21.18" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|2°47'38.48" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|5°41'43.06" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°10'34.10" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°26'17.90" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°26'17.90" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°33'34.12" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°7'28.40" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|14°45'23.88" |Sagittarius|NaAaem|Moon|
@@ -377,12 +377,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: KGL, Kigale, Kigali, Kigalis, Kigalo, Kigaly, Kinkali, Kiqali, Kígalí, ji jia li, khikali, kigali, kigalli, kigari, kikali, kygaly, kyghaly, Κιγκάλι, Кигали, Кігалі, Կիգալի, קיגאלי, كيغالي, کیگالی, किगाली, ਕਿਗਾਲੀ, கிகாலி, කිගාලි, คิกาลี, ཀི་ག་ལི།, კიგალი, ኪጋሊ, キガリ, 吉佳利, 키갈리

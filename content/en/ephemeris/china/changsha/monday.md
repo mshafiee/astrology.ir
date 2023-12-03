@@ -20,7 +20,7 @@ Latitude: 28.1987
 \-
 Longitude: 112.9709
 \-
-Altitude: 67 meters
+Altitude: 67.0000 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Changsha, China" lat="28.1987" lng="112.9709" zoom="12">}}
 
@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:18:15 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:18:15 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:18:15 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:18:15 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:18:15 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:18:15 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°19'16.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°44'29.81" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°32'30.99" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|12°31'45.13" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|0°12'34.00" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|3°41'19.50" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|9°50'18.39" |Leo|Zubrah|Saturn|
+|♄ Saturn|Direct|1°19'16.34" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°44'29.94" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°32'31.51" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|12°31'46.59" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|0°12'32.70" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|3°41'22.11" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|9°27'31.90" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°19'16.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°44'29.94" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°32'31.51" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|12°31'45.13" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|0°12'34.00" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|3°41'19.50" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|9°50'18.39" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|1°19'16.34" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°44'30.03" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°32'31.39" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|12°31'46.28" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|0°12'32.28" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|3°41'21.93" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|9°25'57.33" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,12 +377,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>□ Square|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: CSX, Cangsa, Cangzsah, Cansa, Cchang-sa, Ch'ang-sha-hsien, Ch'ang-sha-shih, Changsha, Changsja, Chansha, Chhong-sa-su, Chhòng-sâ-sṳ, Ch’ang-sha-hsien, Ch’ang-sha-shih, Csangsa, Diong-sa, Diòng-să, Tng-soa-chhi, Tn̂g-soa-chhī, Truong Sa, Trường Sa, Tsan'nksa, cangasa, chang cha, changsa, changsa si, changsha, changsha shەھyr, channasa, tshanghsha, zhang sha, zhang sha shi, Ĉangŝa, Čangša, Čanša, Čchang-ša, Τσανγκσά, Чангша, Чанша, Չանշա, تشانغشا, چانگشا, چاڭشا شەھىر, चांगशा, छांग्षा, ਛਾਂਙਸ਼ਾ, ฉางชา, ချနဆားမြ, ချန်ဆားမြို့, 長沙, 長沙市, 长沙, 长沙市, 창사 시

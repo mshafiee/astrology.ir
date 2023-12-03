@@ -20,7 +20,7 @@ Latitude: -23.5475
 \-
 Longitude: -46.6361
 \-
-Altitude: 769 meters
+Altitude: 769.0000 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Sao Paulo, Brazil" lat="-23.5475" lng="-46.6361" zoom="12">}}
 
@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:56:03 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:56:03 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:56:03 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:56:03 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:56:03 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:56:03 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°14'22.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°53'5.87" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°22'33.54" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|10°53'9.55" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°18'25.32" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|1°59'12.89" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|20°0'10.87" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|1°14'22.22" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°53'7.49" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°22'32.15" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|10°53'6.20" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|28°18'17.30" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|1°59'12.77" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|19°21'39.26" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Jupiter|
 |♀ Venus|Saturn|Mars|Venus|Moon|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
+|☾ Moon|Jupiter|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Venus|Mercury|Leo|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Sagittarius|Sun|Jupiter|
-|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°14'22.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°53'5.87" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°22'33.54" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|10°53'9.55" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|1°14'22.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°53'7.49" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°22'32.15" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|10°53'6.20" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|28°18'17.30" |Libra|Akleel|Jupiter|
 |☿ Mercury|Direct|1°59'12.77" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|19°21'39.26" |Leo|Zubrah|Jupiter|
@@ -377,12 +377,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>□ Sqr|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Sqr|<sub>△ Trn|<sub>△ Trn|<sub>✱ Sxt|<sub> </sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>□ Square|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: SAO, Sampa, San Paolo, San Paul ed Brasil, San Paulas, San Paulo, San Paulu, San Paulu du Brasili, San Paulu dû Brasili, San Pauluw, San Pawlo, San Polo del Braxil, San Poulo, San Poło del Braxil, San Pàul ëd Brasil, San-Paulo, San-Paulu, San-Paŭlo, Sanpaulu, Sao Paolo, Sao Paulo, Sao Paulo capital, Saun Paulu, Sawo Palo, Sawo Pålo, São Paolo, São Paulo, São Paulo capital, Urbs Paulistana, cavo pavulo, sa'o pa'ulo, sa'o paulo, samu pa'ulu, sangpaollo, sangpaollu, sangpaullo, sangpaullu, sankt. paulos, sanpauro, savea pealea, savo palo, saw bawlw, saw palw, saw pwlw, saywpaywlw, sea pea lu, sheng bao luo, Σάο Πάολο, Сан Пауло, Сан Паулу, Сан-Паулу, Сан-Паўлу, Сао Паоло, Сао Пауло, Սան Պաուլու, סאו פאולא, סאו פאולו, ساؤ پالو, ساؤ پولو, سائوپائولو, ساو باولو, ܣܐܘ ܦܐܘܠܘ, ސައޮ ޕައުލޯ, साओ पाउलो, সাঁউ পাউলু, সাও পাউলো, சாவோ பாவுலோ, శఒ పౌలొ, ಸಾವೊ ಪಾಲೊ, സാവോ പോളോ, เซาเปาลู, ဆောပိုလိုမြို့, სან-პაულუ, ሳው ፓውሉ, サンパウロ, 聖保羅, 상파올로, 상파올루, 상파울로, 상파울루

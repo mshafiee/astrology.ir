@@ -20,7 +20,7 @@ Latitude: 28.6358
 \-
 Longitude: 77.2245
 \-
-Altitude: 212 meters
+Altitude: 212.0000 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="New Delhi, India" lat="28.6358" lng="77.2245" zoom="12">}}
 
@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:12:06 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:12:06 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:12:06 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:12:06 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:12:06 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:12:06 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°22'44.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°38'54.80" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°20'7.02" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|13°38'46.79" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|1°30'15.13" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°44'39.48" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|22°39'41.46" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|1°22'44.46" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°38'54.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|8°20'7.01" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|13°38'46.84" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|1°30'14.27" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°44'40.02" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|22°31'16.62" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°22'44.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°38'55.81" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°20'6.40" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|13°38'45.54" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°30'10.32" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|4°44'40.46" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|22°2'6.97" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|1°22'44.46" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°38'54.96" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°20'7.01" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|13°38'46.84" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°30'14.27" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|4°44'40.02" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°31'16.62" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Sun|Taurus|Sun|Jupiter|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Jupiter|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
+|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
@@ -377,12 +377,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Dellium Novum, Dilli, Dillí, N'ju-Deli, Neo Delchi, Neu-Delhi, Nev Deli, New Delhi, New Dilli, Nju Delkhi, Nov-Delhio, Nova Delhi, Nova Deli, Nova Deli - na'i dilli, Nova Deli - नई दिल्ली, Nova-Delhi, Nove Dilli, Nové Dillí, Nueba Deli, Nueva Delhi, Nuova Delhi, Nyja Deli, Nyu Deli, Nòva Delhi, Nýja Delí, Yeni Delhi, dlhy aljdydt, na'i dilli, naya dilli, niu-deli, niwde li, nyudelli, nyuderi, nyw dlhy, nywdlhy, putu tilli, xin de li, Νέο Δελχί, Њу Делхи, Нев Дели, Нью-Дели, Նյու Դելի, ניו דלהי, دلهي الجديدة, نيودلهي, नई दिल्ली, নয়া দিল্লী, புது தில்லி, นิวเดลี, ནེའུ་དིལ་ལིའི, ნიუ-დელი, ኒው ዴሊ, ニューデリー, 新德里, 뉴델리

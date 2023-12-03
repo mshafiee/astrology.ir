@@ -20,7 +20,7 @@ Latitude: 18.4663
 \-
 Longitude: -66.1057
 \-
-Altitude: 11 meters
+Altitude: 11.0000 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="San Juan, Puerto Rico" lat="18.4663" lng="-66.1057" zoom="12">}}
 
@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:15:10 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:15:10 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:15:10 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:15:10 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:15:10 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:15:10 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°23'58.71" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°37'0.60" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°36'45.33" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|14°2'11.71" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|1°57'26.08" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°5'26.34" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|27°18'16.25" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|1°23'58.71" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°37'3.74" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|8°36'40.40" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|14°1'59.40" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|1°57'13.75" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|5°5'16.58" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|26°32'13.40" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
+|☾ Moon|Mars|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°23'58.71" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°37'2.00" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°36'43.50" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|14°2'7.14" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°57'20.19" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|5°5'23.46" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|26°48'47.69" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|1°23'58.71" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°37'3.74" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°36'40.40" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|14°1'59.40" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°57'13.75" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|5°5'16.58" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|26°32'13.40" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Sun|Taurus|Sun|Jupiter|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
+|☾ Moon|Venus|Sun|Cancer|Sun|Moon|
 
 
 {{< /tab >}}
@@ -377,12 +377,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Chouan, San Chuanas, San Huan, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, San Juan de Puerto Rico, San Khuan, San Xoan, San Xoán, San Xuan, San-Juano, San-Khuan, Sanhuana, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico, can van, saenhwan, san hwn, san khwan, san-khuani, sana hu'ana, sana huraana, sanfuan, sanhuan, sheng hu an, Σαν Χουάν, Сан Хуан, Сан-Хуан, Սան Խուան, סן חואן, سان خوآن, سان خوان, सान हुआन, সান হুৱান, ਸਾਨ ਹੁਆਨ, சான் வான், ซานฮวน, სან-ხუანი, サンフアン, 圣胡安, 산후안, 샌환

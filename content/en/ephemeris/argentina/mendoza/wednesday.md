@@ -20,7 +20,7 @@ Latitude: -32.8908
 \-
 Longitude: -68.8272
 \-
-Altitude: 746 meters
+Altitude: 746.0000 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Mendoza, Argentina" lat="-32.8908" lng="-68.8272" zoom="12">}}
 
@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 01:26:29 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 01:26:29 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 01:26:29 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 01:26:29 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 01:26:29 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 01:26:29 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°27'4.20" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°32'27.99" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°17'32.93" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|14°59'32.79" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°3'56.18" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°52'51.35" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|8°9'13.86" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|1°27'4.20" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°32'29.70" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°17'30.52" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|14°59'26.67" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°3'58.82" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|5°53'0.69" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°59'48.82" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°27'4.20" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°27'4.20" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°32'27.99" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°17'27.40" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|14°59'18.83" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°3'56.18" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|5°52'51.35" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|8°9'13.86" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|9°17'32.93" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|14°59'32.79" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°4'6.11" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|5°53'5.00" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°39'30.57" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Sun|Taurus|Sun|Jupiter|
 |♀ Venus|Mars|Moon|Sagittarius|Moon|Mars|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -377,12 +377,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Capital megye, Ciuda de Mendoza, Ciudad de Mendoza, Ciudá de Mendoza, MDZ, Mendos, Mendosa, Mendosae, Mendoza, Mentosa, Vila de Mendoza, men do sa, men duo sa, mendosa, mendoza, mndwsh, mndwza, myndwza, Μεντόσα, Мендоза, Мендосæ, Мендоса, Մենդոսա, מנדוסה, مندوزا, مندوسا، ارجنٹائن, میندوزا, मेन्दोज़ा, เมนโดซา, მენდოსა, メンドーサ, 门多萨, 멘도사

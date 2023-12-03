@@ -20,7 +20,7 @@ Latitude: 22.3167
 \-
 Longitude: 114.1833
 \-
-Altitude: 92 meters
+Altitude: 92.0000 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Kowloon, Hong Kong, China" lat="22.3167" lng="114.1833" zoom="12">}}
 
@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:14:39 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:14:39 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:14:39 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:14:39 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:14:39 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:14:39 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°28'57.42" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°29'49.46" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°41'54.70" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|15°33'44.24" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°44'0.32" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°19'2.22" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|15°57'29.92" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|1°28'57.42" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°29'48.87" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°41'57.69" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|15°33'52.21" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°44'1.10" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|6°19'12.94" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|15°38'59.45" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°28'57.42" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°28'56.65" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°29'49.46" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°41'54.70" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|15°33'44.24" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°44'0.32" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|6°19'2.22" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|15°33'52.21" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°44'1.10" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|6°19'12.94" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|15°57'29.92" |Libra|Jubana|Saturn|
 
 
@@ -377,12 +377,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽

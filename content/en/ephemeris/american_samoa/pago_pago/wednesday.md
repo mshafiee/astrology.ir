@@ -20,7 +20,7 @@ Latitude: -14.2781
 \-
 Longitude: -170.7025
 \-
-Altitude: 144 meters
+Altitude: 144.0000 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Pago Pago, American Samoa" lat="-14.2781" lng="-170.7025" zoom="12">}}
 
@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:14:06 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:14:06 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:14:06 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:14:06 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:14:06 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:14:06 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°28'6.31" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°31'3.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°30'52.83" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|15°18'10.30" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°25'51.71" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°7'26.80" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|11°37'53.34" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|1°28'6.31" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°30'59.84" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°30'59.60" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|15°18'27.36" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|3°25'55.22" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|6°7'29.32" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|11°55'59.17" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°28'6.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°31'3.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°30'52.83" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|15°18'10.30" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°25'51.71" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|6°7'26.80" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°37'53.34" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|1°28'6.31" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°30'59.84" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°30'54.21" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|15°18'13.56" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°25'55.22" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|6°7'29.32" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|12°31'33.03" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Sun|Gemini|Moon|Mercury|
 |♀ Venus|Mars|Sun|Sagittarius|Moon|Mars|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}
@@ -377,12 +377,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sxt|<sub>✱ Sxt|<sub> |<sub>□ Sqr</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

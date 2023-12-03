@@ -20,7 +20,7 @@ Latitude: 8.9936
 \-
 Longitude: -79.5197
 \-
-Altitude: 17 meters
+Altitude: 17.0000 meters
 
 {{< osm-maps-embed width="100%" height="300px" attribution="Panama, Panama" lat="8.9936" lng="-79.5197" zoom="12">}}
 
@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:08:25 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:08:25 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:08:25 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:08:25 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:08:25 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:08:25 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°20'52.28" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°41'56.73" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°54'28.30" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|13°2'33.44" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|1°20'51.97" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°41'52.87" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°54'35.37" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|13°2'51.20" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|0°48'33.95" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°11'7.95" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|15°24'14.41" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|4°11'23.84" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|15°34'46.25" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°20'51.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°41'56.73" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°54'28.30" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|13°2'33.44" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|0°48'20.03" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|4°11'7.95" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|15°24'14.41" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|1°20'51.97" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°41'55.66" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°54'29.01" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|13°2'34.97" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|0°48'25.25" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|4°11'7.13" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|16°1'51.23" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -377,12 +377,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>✱ Sxt|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>□ Sqr|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>□ Sqr|<sub> |<sub>☌ Cnj|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trn|<sub>☍ Opp|<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>✱ Sxt|<sub>△ Trn|<sub> |<sub> |<sub>✱ Sxt|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opp|<sub>△ Trn|<sub>□ Sqr|<sub>□ Sqr|<sub>✱ Sxt|<sub>△ Trn</sub>|
+|<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Ciudad de Panama, Ciudad de Panamá, Ciutat de Panama, Ciutat de Panamà, PTY, Panama, Panama City, Panama Hiria, Panama by, Panama-Stadt, Panama-Urbo, Panama-stad, Panamurbo, Panamá, Pole tou Panama, Ziuda de Panama, Ziudá de Panamá, ba na ma cheng, panama si, panama siti, panamashiti, panamasiti, pnmh syty, shhr panama, Πόλη του Παναμά, Панама, פנמה סיטי, شهر پاناما, पनामा सिटी, ปานามาซิตี, ፓናማ ከተማ, パナマシティ, 巴拿馬城, 파나마 시, 파나마시티
