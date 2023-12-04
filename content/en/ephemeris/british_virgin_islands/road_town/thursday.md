@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°30'37.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°27'33.02" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°3'17.68" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|16°3'50.41" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|4°18'54.57" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°40'8.61" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|20°48'53.13" |Virgo|Simak|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|1°30'37.73" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°27'33.67" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°3'17.36" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|16°3'49.85" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|4°18'51.57" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|6°40'27.26" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|21°22'25.66" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Saturn|Venus|Moon|
+|☾ Moon|Mars|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°30'37.73" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°27'36.42" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°3'10.75" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|16°3'32.93" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|1°30'37.73" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°27'33.02" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°3'17.68" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|16°3'50.41" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|4°18'54.57" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|6°40'26.29" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|21°45'38.20" |Libra|Jubana|Jupiter|

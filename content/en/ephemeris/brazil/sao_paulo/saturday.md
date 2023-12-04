@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°14'22.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°53'7.49" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|6°22'32.15" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|10°53'6.20" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|28°18'17.30" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|1°59'12.77" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|19°21'39.26" |Cancer|Tarf|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|1°14'22.22" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°53'5.87" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|6°22'33.54" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|10°53'9.55" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|28°18'25.32" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|1°59'12.89" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|20°0'10.87" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Jupiter|
 |♀ Venus|Saturn|Mars|Venus|Moon|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Venus|Mercury|Leo|Sun|Moon|
 |☿ Mercury|Jupiter|Mars|Sagittarius|Sun|Jupiter|
-|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
+|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°14'22.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°14'22.22" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°53'7.49" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|6°22'32.15" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|10°53'6.20" |Sagittarius|NaAaem|Moon|

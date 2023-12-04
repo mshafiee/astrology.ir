@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:58:16 |
 | Isha (Night) | 19:08:36 |
 | Sharia Midnight | 23:30:36 |
-| Imum Coeli | 00:08:25 |
+| Imum Coeli | 00:08:26 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°20'51.97" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°41'52.87" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°54'35.37" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|13°2'51.20" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|0°48'33.95" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°11'23.84" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|15°34'46.25" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|1°20'51.92" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°41'52.85" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°54'35.39" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|13°2'51.23" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|0°48'33.94" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°11'23.88" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|15°34'46.16" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°20'51.97" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°41'55.66" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°54'29.01" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|13°2'34.97" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|0°48'25.25" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|4°11'7.13" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|16°1'51.23" |Virgo|Awwa|Venus|
+|♄ Saturn|Post-Retrograde Shadow|1°20'51.92" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°41'52.85" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°54'35.39" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|13°2'51.23" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|0°48'33.94" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|4°11'23.88" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|15°34'46.16" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

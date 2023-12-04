@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°20'20.95" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°42'44.73" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|7°47'26.21" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|12°52'45.67" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|0°36'48.77" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°1'48.64" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|12°55'28.68" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|1°20'20.95" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°42'43.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|7°47'26.89" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|12°52'47.09" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|0°36'54.13" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°1'47.60" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|13°35'44.83" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Jupiter|Jupiter|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Saturn|Mercury|Jupiter|Sun|
+|☾ Moon|Saturn|Venus|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Aries|Moon|Mars|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°20'20.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°20'20.95" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°42'44.73" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|7°47'26.21" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|12°52'45.67" |Sagittarius|NaAaem|Moon|
