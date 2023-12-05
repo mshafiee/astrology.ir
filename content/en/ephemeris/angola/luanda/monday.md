@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 11:57:06 |
 | Sunset | 18:15:38 |
 | Maghrib | 18:30:34 |
-| Isha (Night) | 19:15:04 |
+| Isha (Night) | 19:15:05 |
 | Sharia Midnight | 23:23:02 |
 | Imum Coeli | 23:57:18 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 11:57:06 |
 | Sunset | 18:15:38 |
 | Maghrib | 18:32:47 |
-| Isha (Night) | 19:15:04 |
+| Isha (Night) | 19:15:05 |
 | Sharia Midnight | 23:19:11 |
 | Imum Coeli | 23:57:18 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°16'55.04" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°16'55.04" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°48'31.14" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|6°59'20.61" |Scorpio|Akleel|Mars|
 |☉ Sun|Direct|11°45'1.67" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|29°18'24.32" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|2°54'10.15" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|0°14'23.81" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°18'25.64" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|2°54'7.38" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°39'35.76" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°16'55.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°48'31.14" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|6°59'20.61" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|1°16'55.04" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°48'31.01" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|6°59'20.06" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|11°45'0.05" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|29°18'25.64" |Libra|Akleel|Jupiter|
 |☿ Mercury|Direct|2°54'7.38" |Capricorn|SaadAlDhabib|Jupiter|

@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 17:42:46 |
 | Maghrib | 17:47:11 |
 | Isha (Night) | 18:58:56 |
-| Sharia Midnight | 23:09:24 |
+| Sharia Midnight | 23:09:25 |
 | Imum Coeli | 23:47:30 |
 {{< /tab >}}
 
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°27'17.06" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°32'9.14" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°20'21.10" |Scorpio|Qalb|Mars|
+|♄ Saturn|Direct|1°27'17.06" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°32'9.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°20'21.11" |Scorpio|Qalb|Mars|
 |☉ Sun|Direct|15°3'30.19" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|3°8'41.33" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|5°56'11.74" |Sagittarius|NaAaem|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°27'17.06" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°32'9.16" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°20'21.11" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|15°3'30.23" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°8'41.17" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|5°56'11.88" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|9°32'26.97" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|1°27'17.03" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°32'9.14" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°20'21.10" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|15°3'30.19" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°8'41.33" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|5°56'11.74" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|9°33'58.66" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

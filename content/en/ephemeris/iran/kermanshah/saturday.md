@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:45:00 |
+| Fajr (Dawn) | 05:45:01 |
 | Sunrise | 07:16:09 |
 | Dhuhr (Noon) | 12:13:52 |
 | Medium Coeli | 12:13:52 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:45:00 |
+| Fajr (Dawn) | 05:45:01 |
 | Sunrise | 07:16:09 |
 | Dhuhr (Noon) | 12:13:52 |
 | Medium Coeli | 12:13:52 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°33'5.75" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°24'20.73" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|10°34'16.63" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|16°47'20.07" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|5°9'35.74" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|7°8'23.71" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|0°39'22.40" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|1°33'5.70" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°24'20.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|10°34'16.65" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|16°47'20.10" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|5°9'35.73" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|7°8'23.75" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|0°39'22.88" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°33'5.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°24'20.73" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|10°34'16.63" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|16°47'20.07" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|5°9'35.74" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|7°8'23.71" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|0°39'22.40" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|1°33'5.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°24'20.79" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|10°34'16.52" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|16°47'19.77" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|5°9'35.48" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|7°8'23.44" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|0°37'43.92" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°24'16.95" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°24'16.90" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°36'34.24" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|8°40'45.40" |Scorpio|Qalb|Mars|
 |☉ Sun|Direct|14°7'46.98" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|2°3'57.69" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°10'16.94" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|28°17'28.75" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|5°10'16.97" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|28°17'28.33" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°24'16.95" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°36'36.04" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°40'42.62" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|14°7'40.14" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|2°3'50.65" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|5°10'11.61" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|27°49'32.74" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|1°24'16.90" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°36'34.23" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°40'45.41" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|14°7'47.01" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|2°3'57.68" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|5°10'16.97" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|28°17'28.33" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Venus|Saturn|Sun|
-|☾ Moon|Mars|Mars|Venus|Moon|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

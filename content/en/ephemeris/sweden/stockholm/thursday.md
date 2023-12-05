@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°26'48.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°32'50.70" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°14'8.41" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|14°54'44.22" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|2°58'31.36" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°49'16.16" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°36'41.87" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|1°26'48.70" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°32'51.83" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°14'8.00" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|14°54'43.65" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|2°58'25.97" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|5°49'18.45" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°50'47.11" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Venus|Venus|Mercury|Jupiter|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Venus|Venus|Scorpio|Sun|Venus|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°26'48.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°26'48.70" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°32'50.70" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°14'8.41" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|14°54'44.22" |Sagittarius|NaAaem|Moon|

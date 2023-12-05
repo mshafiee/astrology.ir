@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°20'12.37" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°20'12.37" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°42'57.57" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|7°45'28.59" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|12°50'0.67" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|0°33'41.05" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|3°59'7.55" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|13°3'1.85" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|12°49'57.69" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|0°33'43.53" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|3°59'2.28" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|13°46'51.48" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Aries|Moon|Mars|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°20'12.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°42'57.57" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|7°45'28.59" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|12°50'0.67" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|0°33'41.05" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|3°59'7.55" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|1°20'12.32" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°42'57.55" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|7°45'28.61" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|12°50'0.70" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|0°33'41.04" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|3°59'7.59" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|13°3'1.85" |Virgo|Awwa|Venus|
 
 
