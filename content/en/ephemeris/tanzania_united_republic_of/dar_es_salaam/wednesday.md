@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:13:45 |
 | Medium Coeli | 12:13:45 |
 | Sunset | 18:29:04 |
-| Maghrib | 18:30:03 |
+| Maghrib | 18:30:02 |
 | Isha (Night) | 19:32:35 |
 | Sharia Midnight | 23:42:11 |
 | Imum Coeli | 00:13:58 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°22'56.29" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°38'36.31" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°22'47.46" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|13°42'32.76" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°34'37.67" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|4°48'2.76" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|23°28'6.15" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|8°22'47.48" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|13°42'32.83" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°34'37.37" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|4°48'3.03" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|23°24'51.09" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

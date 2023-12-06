@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°23'0.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°38'30.18" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°23'40.27" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|13°43'47.23" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|1°36'3.53" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°49'9.82" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|23°39'35.89" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|1°23'0.21" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°38'34.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|8°23'34.00" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|13°43'31.71" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|1°35'48.12" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°48'57.53" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|22°48'3.33" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Mars|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°23'0.16" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°38'30.18" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°23'40.27" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|13°43'47.23" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|1°23'0.21" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°38'30.19" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°23'40.25" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|13°43'47.20" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|1°36'3.54" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|4°49'9.78" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|23°39'36.24" |Virgo|Simak|Mercury|

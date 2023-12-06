@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:15:25 |
-| Sunrise | 06:37:28 |
+| Sunrise | 06:37:27 |
 | Dhuhr (Noon) | 11:32:31 |
 | Medium Coeli | 11:32:31 |
 | Sunset | 16:27:24 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:05:09 |
-| Sunrise | 06:37:28 |
+| Sunrise | 06:37:27 |
 | Dhuhr (Noon) | 11:32:31 |
 | Medium Coeli | 11:32:31 |
 | Sunset | 16:27:24 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:05:09 |
-| Sunrise | 06:37:28 |
+| Sunrise | 06:37:27 |
 | Dhuhr (Noon) | 11:32:31 |
 | Medium Coeli | 11:32:31 |
 | Sunset | 16:27:24 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 09:49:56|Night duration: 14:10:53|
+|Duration of the day: 09:49:57|Night duration: 14:10:53|
 |Every hour of day duration: 00:49:10|Every hour of night duration: 01:10:54|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:37:28|07:26:36|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|07:26:37|08:15:46|Destruction of enemies|
-|3|Sun|Servant|08:15:47|09:04:56|Attraction of financial and emotional love|
-|4|Venus|Servant|09:04:57|09:54:05|Creating love, connection and marriage|
-|5|Mercury|Servant|09:54:06|10:43:15|Indulgence|
-|6|Moon|Servant|10:43:16|11:32:25|Outer and inner journey|
-|7|Saturn|Servant|11:32:26|12:21:34|Achieving status and power|
+|1|Jupiter|Ruler|06:37:27|07:26:35|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|07:26:36|08:15:45|Destruction of enemies|
+|3|Sun|Servant|08:15:46|09:04:55|Attraction of financial and emotional love|
+|4|Venus|Servant|09:04:56|09:54:05|Creating love, connection and marriage|
+|5|Mercury|Servant|09:54:06|10:43:14|Indulgence|
+|6|Moon|Servant|10:43:15|11:32:24|Outer and inner journey|
+|7|Saturn|Servant|11:32:25|12:21:34|Achieving status and power|
 |8|Jupiter|Ruler|12:21:35|13:10:44|Attraction of happiness and fortune|
-|9|Mars|Servant|13:10:45|13:59:54|Reaching status and promotion|
-|10|Sun|Servant|13:59:55|14:49:03|Fulfilling needs|
+|9|Mars|Servant|13:10:45|13:59:53|Reaching status and promotion|
+|10|Sun|Servant|13:59:54|14:49:03|Fulfilling needs|
 |11|Venus|Servant|14:49:04|15:38:13|Attraction of love and hearts|
 |12|Mercury|Servant|15:38:14|16:27:23|Attracting misfortune, not suitable for any task|
 
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|1°28'47.34" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°30'2.98" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|9°39'47.59" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|15°30'48.97" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|15°30'48.94" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|3°40'28.22" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°16'57.89" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|15°5'5.24" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|6°16'57.82" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|15°3'47.25" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|9°39'47.59" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|15°30'48.94" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|3°40'28.22" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|6°16'57.82" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|15°5'5.24" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|6°16'57.85" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|14°58'59.73" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Sun|Gemini|Moon|Mercury|
 |♀ Venus|Mars|Sun|Sagittarius|Moon|Mars|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
+|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}

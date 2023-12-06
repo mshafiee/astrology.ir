@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°23'1.53" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°38'28.09" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°23'58.51" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|13°44'12.85" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|1°36'33.31" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°49'32.78" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|23°44'33.32" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|1°23'1.57" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°38'28.11" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|8°23'58.49" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|13°44'12.82" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|1°36'33.32" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°49'32.74" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|23°44'33.67" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°23'1.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°38'28.09" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°23'58.51" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|13°44'12.85" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°36'33.31" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|4°49'32.78" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|23°44'33.32" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|1°23'1.57" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°38'27.91" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°23'58.12" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|13°44'11.79" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°36'34.87" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|4°49'30.50" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|24°5'4.37" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Venus|Saturn|Sun|
-|☾ Moon|Mars|Saturn|Venus|Moon|
+|☾ Moon|Mars|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

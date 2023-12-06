@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°22'13.25" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°39'43.61" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|8°13'4.76" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|13°28'52.29" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|1°18'45.35" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°35'38.85" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|20°42'0.74" |Leo|Zubrah|Mars|
+|♄ Saturn|Direct|1°22'13.30" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°39'43.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|8°13'4.74" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|13°28'52.26" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|1°18'45.36" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°35'38.82" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|20°42'1.01" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°22'13.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°39'43.61" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|8°13'4.76" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|13°28'52.29" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°18'43.29" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|4°35'26.88" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|21°22'46.40" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|1°22'13.30" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°39'43.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|8°13'4.74" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|13°28'52.26" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°18'45.36" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|4°35'38.82" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|20°42'1.01" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Venus|Saturn|Sun|
-|☾ Moon|Mars|Saturn|Venus|Moon|
+|☾ Moon|Jupiter|Saturn|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

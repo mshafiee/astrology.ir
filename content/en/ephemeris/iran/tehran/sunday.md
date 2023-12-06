@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:31:41 |
-| Sunrise | 07:02:57 |
+| Sunrise | 07:02:56 |
 | Dhuhr (Noon) | 11:56:53 |
 | Medium Coeli | 11:56:53 |
 | Sunset | 16:50:41 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:30:09 |
-| Sunrise | 07:02:57 |
+| Sunrise | 07:02:56 |
 | Dhuhr (Noon) | 11:56:53 |
 | Medium Coeli | 11:56:53 |
 | Sunset | 16:50:41 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:45:34 |
-| Sunrise | 07:02:57 |
+| Sunrise | 07:02:56 |
 | Dhuhr (Noon) | 11:56:53 |
 | Medium Coeli | 11:56:53 |
 | Sunset | 16:50:41 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:27:36 |
-| Sunrise | 07:02:57 |
+| Sunrise | 07:02:56 |
 | Dhuhr (Noon) | 11:56:53 |
 | Medium Coeli | 11:56:53 |
 | Sunset | 16:50:41 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 09:47:44|Night duration: 14:13:02|
+|Duration of the day: 09:47:45|Night duration: 14:13:02|
 |Every hour duration: 01:23:58|Every hour duration: 02:01:52|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Sun|Ruler|07:02:57|08:26:53|
-|Mid-morning|Venus|Servant|08:26:54|09:50:51|
-|Late morning|Mercury|Servant|09:50:52|11:14:49|
-|Noon|Moon|Servant|11:14:50|12:38:46|
+|Early morning|Sun|Ruler|07:02:56|08:26:52|
+|Mid-morning|Venus|Servant|08:26:53|09:50:50|
+|Late morning|Mercury|Servant|09:50:51|11:14:48|
+|Noon|Moon|Servant|11:14:49|12:38:46|
 |Early afternoon|Saturn|Servant|12:38:47|14:02:44|
 |Mid-afternoon|Jupiter|Servant|14:02:45|15:26:42|
 |Late afternoon|Mars|Servant|15:26:43|16:50:40|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°36'35.81" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°20'2.92" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°17'19.91" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|17°47'44.56" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|6°20'3.79" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|7°41'9.60" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|13°20'44.50" |Libra|Jubana|Saturn|
+|♂ Mars|Direct|11°17'19.88" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|17°47'44.52" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|6°20'2.96" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|7°41'9.54" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|13°15'43.49" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°36'35.81" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°20'2.92" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°17'19.88" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|17°47'44.52" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|6°20'3.74" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|7°41'9.58" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|6°20'3.10" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°17'19.73" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|17°47'44.18" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|6°20'2.96" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|7°41'9.54" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|13°15'43.49" |Scorpio|Qalb|Sun|
 
 
