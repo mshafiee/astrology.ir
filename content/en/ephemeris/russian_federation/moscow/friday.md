@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°29'56.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°28'29.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|9°54'24.99" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|15°51'20.49" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|4°4'22.87" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°31'45.44" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|19°0'13.85" |Virgo|Simak|Venus|
+|♃ Jupiter|Retrograde|6°28'30.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|9°54'24.41" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|15°51'19.05" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|4°4'21.10" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|6°31'44.45" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|18°49'24.94" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°29'56.00" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°28'29.79" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°54'24.99" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|15°51'20.49" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|4°4'22.87" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|6°31'45.44" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|19°0'13.85" |Libra|Jubana|Saturn|
+|♂ Mars|Direct|9°54'24.41" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|15°51'19.05" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|4°4'21.10" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|6°31'44.45" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|18°49'24.94" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Saturn|Sun|
-|☾ Moon|Jupiter|Mercury|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

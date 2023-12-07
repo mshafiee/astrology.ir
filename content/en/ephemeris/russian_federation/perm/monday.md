@@ -232,7 +232,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|16:26:25|17:53:25|Repelling magic, attracting discharged energy|
+|1|Venus|Ruler|16:26:25|17:53:25|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mercury|Servant|17:53:26|19:20:26|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Moon|Servant|19:20:27|20:47:27|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Saturn|Servant|20:47:28|22:14:28|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°40'24.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°15'42.24" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°3'6.60" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|18°51'52.67" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|7°34'59.82" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|8°7'19.93" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°35'8.40" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Retrograde|6°15'40.73" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°3'8.79" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|18°51'58.20" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|7°35'6.09" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|8°7'24.54" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|27°18'28.77" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Mercury|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Sun|Venus|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,9 +340,9 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°40'24.96" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°15'41.54" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°3'7.58" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|18°51'55.04" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|7°35'2.62" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|12°3'8.79" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|18°51'58.20" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|7°35'6.09" |Scorpio|Akleel|Mars|
 |☿ Mercury|Direct|8°7'21.83" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|26°53'50.23" |Scorpio|Shaulah|Venus|
 
