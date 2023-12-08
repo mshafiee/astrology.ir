@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 04:49:58 |
 | Dhuhr (Noon) | 11:41:22 |
 | Medium Coeli | 11:41:22 |
-| Sunset | 18:32:54 |
+| Sunset | 18:32:55 |
 | Maghrib | 18:49:51 |
 | Isha (Night) | 19:41:52 |
-| Sharia Midnight | 23:01:35 |
+| Sharia Midnight | 23:01:36 |
 | Imum Coeli | 23:41:35 |
 {{< /tab >}}
 
@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 04:49:58 |
 | Dhuhr (Noon) | 11:41:22 |
 | Medium Coeli | 11:41:22 |
-| Sunset | 18:32:54 |
+| Sunset | 18:32:55 |
 | Maghrib | 18:52:22 |
 | Isha (Night) | 19:41:52 |
-| Sharia Midnight | 22:56:51 |
+| Sharia Midnight | 22:56:52 |
 | Imum Coeli | 23:41:35 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 04:49:58 |
 | Dhuhr (Noon) | 11:41:22 |
 | Medium Coeli | 11:41:22 |
-| Sunset | 18:32:54 |
+| Sunset | 18:32:55 |
 | Maghrib | 18:34:20 |
 | Isha (Night) | 20:03:56 |
 | Sharia Midnight | 22:56:01 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|6°29'2.44" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|9°49'9.74" |Scorpio|Qalb|Mars|
 |☉ Sun|Direct|15°43'57.24" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°55'51.75" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°26'27.81" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|18°8'27.94" |Virgo|Simak|Venus|
+|♀ Venus|Direct|3°55'49.14" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|6°26'33.23" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|17°38'47.82" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
+|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|1°29'31.20" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°29'2.87" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°49'10.63" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|15°44'0.00" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°55'49.14" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|6°26'33.23" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|17°38'47.82" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|15°43'57.24" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°55'51.75" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|6°26'27.81" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|18°8'27.94" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

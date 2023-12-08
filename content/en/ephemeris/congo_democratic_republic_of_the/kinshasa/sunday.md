@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°36'45.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°19'51.00" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°19'22.14" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|17°50'36.66" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|6°23'24.14" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|7°42'32.89" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|13°59'35.84" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|1°36'46.01" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°19'51.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°19'22.02" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|17°50'36.42" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|6°23'22.63" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|7°42'32.39" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|14°4'21.90" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Mercury|Venus|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mercury|Jupiter|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°36'45.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°19'50.82" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°19'22.16" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|17°50'36.64" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Retrograde|6°19'51.16" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°19'22.02" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|17°50'36.42" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|6°23'24.14" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|7°42'32.39" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|7°42'32.39" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|14°4'21.90" |Scorpio|Qalb|Sun|
 
 

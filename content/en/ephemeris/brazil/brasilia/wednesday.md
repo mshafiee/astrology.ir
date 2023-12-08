@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|9°16'8.10" |Scorpio|Qalb|Mars|
 |☉ Sun|Direct|14°57'34.24" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|3°1'47.54" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°51'31.65" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|8°43'2.11" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|5°51'31.65" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|8°19'23.12" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Venus|Venus|Scorpio|Sun|Venus|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°26'57.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°32'36.61" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°16'7.82" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|14°57'33.19" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°1'49.71" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|5°51'28.96" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|8°43'2.11" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|6°32'37.01" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°16'8.10" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|14°57'34.24" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°1'47.54" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|5°51'31.65" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°19'23.12" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Sun|Taurus|Sun|Jupiter|
 |♀ Venus|Mars|Moon|Sagittarius|Moon|Mars|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}

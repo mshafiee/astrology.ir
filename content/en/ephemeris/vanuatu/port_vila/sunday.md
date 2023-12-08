@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:04:01 |
 | Dhuhr (Noon) | 11:39:10 |
 | Medium Coeli | 11:39:10 |
-| Sunset | 18:14:23 |
+| Sunset | 18:14:24 |
 | Maghrib | 18:15:25 |
 | Isha (Night) | 19:45:25 |
 | Sharia Midnight | 22:56:39 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°38'46.67" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°17'30.79" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°43'39.24" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|18°24'39.35" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|7°3'9.79" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|7°57'24.04" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|21°19'57.33" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|6°17'31.61" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°43'35.49" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|18°24'29.25" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|7°3'7.40" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|7°57'10.32" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|20°47'23.49" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Mercury|Venus|Venus|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Venus|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|11°43'39.24" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|18°24'39.35" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|7°3'9.79" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|7°57'24.04" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|7°57'24.04" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|21°19'57.33" |Scorpio|Qalb|Venus|
 
 

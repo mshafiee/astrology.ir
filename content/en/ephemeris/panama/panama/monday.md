@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:22:41|07:20:45|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Moon|Ruler|06:22:41|07:20:45|Repelling magic, attracting discharged energy|
 |2|Saturn|Servant|07:20:46|08:18:51|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Jupiter|Servant|08:18:52|09:16:57|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mars|Servant|09:16:58|10:15:02|The moon is in Scorpio, Not suitable for doing anything.|
@@ -302,9 +302,9 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|1°45'10.00" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°10'40.81" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°58'37.97" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|20°9'26.12" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|9°5'51.14" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|8°25'40.21" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|20°9'41.24" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|9°5'58.78" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°25'59.17" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|14°38'30.46" |Scorpio|Qalb|Sun|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|6°10'40.81" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°58'37.97" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|20°9'41.24" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|9°5'51.14" |Scorpio|Qalb|Mars|
-|☿ Mercury|Direct|8°25'40.21" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|13°6'20.48" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|9°5'58.78" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|8°25'59.17" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|14°38'30.46" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Sun|Venus|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Venus|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Jupiter|Jupiter|Aries|Moon|Saturn|
-|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}

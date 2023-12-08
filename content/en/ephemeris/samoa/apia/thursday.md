@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|9°31'8.67" |Scorpio|Qalb|Mars|
 |☉ Sun|Direct|15°18'40.13" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|3°26'19.92" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|6°7'38.33" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|12°5'32.34" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|6°7'52.58" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|12°34'12.26" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Taurus|Sun|Sun|
 |♀ Venus|Venus|Mars|Scorpio|Sun|Venus|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°28'7.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°31'1.40" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|9°31'3.24" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|15°18'26.14" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°26'10.79" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|6°7'38.33" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|12°5'32.34" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Retrograde|6°30'58.85" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|9°31'8.67" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|15°18'40.13" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°26'19.92" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|6°7'52.58" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|12°34'12.26" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Sun|Gemini|Moon|Mercury|
 |♀ Venus|Mars|Sun|Sagittarius|Moon|Mars|
 |☿ Mercury|Jupiter|Saturn|Pisces|Moon|Saturn|
-|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
+|☾ Moon|Moon|Saturn|Pisces|Sun|Venus|
 
 
 {{< /tab >}}

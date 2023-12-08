@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:05:50 |
 | Maghrib | 18:10:20 |
 | Isha (Night) | 19:40:20 |
-| Sharia Midnight | 23:38:48 |
+| Sharia Midnight | 23:38:49 |
 | Imum Coeli | 00:18:17 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°40'12.80" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°15'54.30" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°0'44.34" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|18°48'34.42" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|7°31'10.86" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|8°6'18.52" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°37'27.84" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|1°40'12.75" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°15'54.04" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°0'43.83" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|18°48'33.02" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|7°31'10.36" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°6'10.62" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|26°37'28.50" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°40'12.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°15'54.30" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°0'44.34" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|18°48'34.42" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|7°31'10.20" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|8°6'12.83" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|26°22'46.75" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|1°40'12.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°15'54.04" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°0'45.80" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|18°48'38.47" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|7°31'10.85" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|8°6'18.57" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|26°37'28.50" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

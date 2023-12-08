@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:54:54 |
 | Dhuhr (Noon) | 12:14:35 |
 | Medium Coeli | 12:14:35 |
-| Sunset | 17:34:10 |
+| Sunset | 17:34:11 |
 | Maghrib | 17:38:22 |
 | Isha (Night) | 18:56:24 |
-| Sharia Midnight | 23:33:43 |
+| Sharia Midnight | 23:33:44 |
 | Imum Coeli | 00:14:49 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:54:54 |
 | Dhuhr (Noon) | 12:14:35 |
 | Medium Coeli | 12:14:35 |
-| Sunset | 17:34:10 |
+| Sunset | 17:34:11 |
 | Maghrib | 17:38:22 |
 | Isha (Night) | 19:08:22 |
 | Sharia Midnight | 23:32:34 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|6°15'49.99" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°1'30.30" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|18°49'40.53" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|7°32'23.68" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|8°6'39.32" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°47'39.34" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|7°32'25.77" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°6'33.92" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|26°48'47.62" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|6°15'49.99" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°1'30.30" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|18°49'40.53" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|7°32'23.68" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|8°6'39.32" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|26°47'39.34" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|7°32'25.77" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|8°6'33.92" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|26°48'47.62" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

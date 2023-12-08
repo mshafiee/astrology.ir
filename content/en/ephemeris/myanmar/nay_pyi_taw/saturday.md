@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:22:16 |
-| Sunrise | 06:28:02 |
+| Sunrise | 06:28:03 |
 | Dhuhr (Noon) | 11:57:33 |
 | Medium Coeli | 11:57:33 |
 | Sunset | 17:26:58 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°36'3.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°20'40.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|11°10'52.14" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|17°38'41.19" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|6°9'29.14" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|7°36'44.07" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|11°31'0.74" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Retrograde|6°20'41.36" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|11°10'49.49" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|17°38'34.35" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|6°9'27.75" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|7°36'34.82" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|11°19'9.73" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°36'3.90" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°20'41.45" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|11°10'48.56" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|17°38'31.68" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|6°9'27.57" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|7°36'30.99" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°16'11.63" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|6°20'41.36" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|11°10'49.49" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|17°38'34.35" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|6°9'27.75" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|7°36'34.82" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|11°19'9.73" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

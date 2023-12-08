@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 17:22:48 |
 | Maghrib | 17:39:49 |
 | Isha (Night) | 18:21:13 |
-| Sharia Midnight | 22:53:54 |
+| Sharia Midnight | 22:53:55 |
 | Imum Coeli | 23:31:10 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°46'47.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°9'4.21" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°17'17.85" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|20°35'34.86" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|9°36'28.10" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|8°28'23.16" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|19°6'59.75" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|6°9'4.98" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°17'14.14" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|20°35'38.47" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|9°36'31.20" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°28'26.98" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|19°30'31.06" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°46'47.77" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°9'5.78" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°17'12.66" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|20°35'34.86" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|9°36'28.10" |Scorpio|Qalb|Mars|
-|☿ Mercury|Direct|8°28'23.16" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|19°6'59.75" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Retrograde|6°9'4.98" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°17'14.14" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|20°35'38.47" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|9°36'31.18" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|8°28'27.03" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|19°30'31.06" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
