@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:22:41|07:20:45|Repelling magic, attracting discharged energy|
+|1|Moon|Ruler|06:22:41|07:20:45|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Saturn|Servant|07:20:46|08:18:51|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Jupiter|Servant|08:18:52|09:16:57|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mars|Servant|09:16:58|10:15:02|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°45'10.00" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°10'40.81" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°58'37.97" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|20°9'41.24" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|9°5'58.78" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|8°25'59.17" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|14°38'30.46" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|1°45'9.94" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°10'40.79" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°58'37.98" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|20°9'41.28" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|9°5'58.76" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°25'59.22" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|14°38'30.94" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°45'10.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°10'40.81" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°58'37.97" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|20°9'41.24" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|9°5'58.78" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|8°25'59.17" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|14°38'30.46" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|1°45'9.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°10'40.79" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°58'37.98" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|20°9'41.28" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|9°5'51.14" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|8°25'40.21" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|13°6'20.48" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Sun|Venus|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Leo|Moon|Mercury|
 |♀ Venus|Venus|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Jupiter|Jupiter|Aries|Moon|Saturn|
-|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}

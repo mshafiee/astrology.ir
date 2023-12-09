@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:11:16 |
 | Sunrise | 06:55:01 |
-| Dhuhr (Noon) | 11:27:30 |
-| Medium Coeli | 11:27:30 |
+| Dhuhr (Noon) | 11:27:31 |
+| Medium Coeli | 11:27:31 |
 | Sunset | 15:59:51 |
 | Maghrib | 16:01:17 |
 | Isha (Night) | 17:43:36 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°43'3.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°12'50.81" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°34'11.40" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|19°35'27.30" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|8°25'55.75" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|8°19'40.91" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|6°48'20.28" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|1°43'3.40" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°12'50.92" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°34'11.10" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|19°35'26.51" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|8°25'55.23" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°19'40.00" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°43'18.14" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°43'3.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°12'50.81" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°34'11.40" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|19°35'27.30" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Post-Retrograde Shadow|1°43'3.40" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°12'50.92" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°34'11.10" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|19°35'26.51" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|8°25'55.75" |Scorpio|Akleel|Mars|
 |☿ Mercury|Retrograde|8°19'40.91" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|6°48'20.28" |Sagittarius|NaAaem|Mercury|

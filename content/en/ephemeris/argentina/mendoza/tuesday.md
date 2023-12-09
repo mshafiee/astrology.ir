@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:28:57 |
 | Sunset | 20:37:37 |
 | Maghrib | 20:42:53 |
-| Isha (Night) | 22:21:07 |
+| Isha (Night) | 22:21:06 |
 | Sharia Midnight | 00:37:23 |
 | Imum Coeli | 01:29:11 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°48'40.11" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°7'19.17" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°38'28.68" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|21°5'22.37" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|10°11'13.52" |Libra|Ghafr|Saturn|
-|☿ Mercury|Retrograde|8°29'18.96" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°23'58.41" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|1°48'40.11" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°7'17.39" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°38'31.36" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|21°5'29.05" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|10°11'20.88" |Libra|Ghafr|Saturn|
+|☿ Mercury|Retrograde|8°29'25.23" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|27°7'20.55" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Saturn|Venus|
 |☿ Mercury|Jupiter|Venus|Jupiter|Moon|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Moon|Saturn|Aquarius|Sun|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°48'40.11" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°48'40.11" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°7'17.39" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|13°38'31.36" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|21°5'29.05" |Sagittarius|Baldah|Saturn|

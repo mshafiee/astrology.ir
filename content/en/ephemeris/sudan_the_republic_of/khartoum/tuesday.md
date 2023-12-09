@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:13:29|Night duration: 12:47:04|
+|Duration of the day: 11:13:29|Night duration: 12:47:05|
 |Every hour of day duration: 00:56:07|Every hour of night duration: 01:03:55|
 
  
@@ -236,14 +236,14 @@ Timetable of twelve day and night planetary hours
 |2|Jupiter|Servant|18:24:01|19:27:55|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mars|Servant|19:27:56|20:31:51|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Sun|Servant|20:31:52|21:35:46|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Venus|Servant|21:35:47|22:39:41|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mercury|Servant|22:39:42|23:43:37|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Venus|Servant|21:35:47|22:39:42|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mercury|Servant|22:39:43|23:43:37|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Moon|Servant|23:43:38|00:47:32|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Saturn|Ruler|00:47:33|01:51:27|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Jupiter|Servant|01:51:28|02:55:23|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mars|Servant|02:55:24|03:59:18|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Sun|Servant|03:59:19|05:03:13|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Venus|Servant|05:03:14|06:07:09|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Saturn|Ruler|00:47:33|01:51:28|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Jupiter|Servant|01:51:29|02:55:23|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Mars|Servant|02:55:24|03:59:19|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Sun|Servant|03:59:20|05:03:14|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Venus|Servant|05:03:15|06:07:10|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°44'1.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°11'50.90" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°45'22.04" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|19°51'3.11" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|8°44'18.85" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|8°22'46.04" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|9°47'59.74" |Scorpio|Qalb|Mars|
+|♄ Saturn|Post-Retrograde Shadow|1°44'1.34" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°11'50.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°45'25.02" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|19°51'11.13" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|8°44'19.55" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°22'58.01" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|10°27'47.46" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Mercury|Venus|Venus|Mercury|
 |☿ Mercury|Jupiter|Venus|Jupiter|Moon|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Moon|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Venus|Venus|Pisces|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°44'1.34" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°44'1.34" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°11'50.54" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°45'25.02" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|19°51'11.13" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|8°44'19.55" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|8°22'46.09" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|9°48'0.24" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|8°22'58.01" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°27'47.46" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Mars|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Cancer|Moon|Mercury|
 |♀ Venus|Venus|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Jupiter|Jupiter|Aries|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}

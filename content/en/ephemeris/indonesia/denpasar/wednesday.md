@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:13:00 |
 | Medium Coeli | 12:13:00 |
 | Sunset | 18:31:55 |
-| Maghrib | 18:49:09 |
+| Maghrib | 18:49:08 |
 | Isha (Night) | 19:31:43 |
 | Sharia Midnight | 23:34:54 |
 | Imum Coeli | 00:13:14 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°50'42.38" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Post-Retrograde Shadow|1°50'42.38" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°5'24.73" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|14°1'23.38" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|21°37'28.30" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|10°48'50.60" |Libra|Ghafr|Saturn|
-|☿ Mercury|Retrograde|8°27'28.01" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|4°37'33.15" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|10°48'49.83" |Libra|Ghafr|Saturn|
+|☿ Mercury|Retrograde|8°27'28.82" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|4°41'15.25" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°50'42.32" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°5'24.55" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°1'23.33" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|21°37'28.03" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|10°48'50.61" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|8°27'27.95" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°37'32.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|1°50'42.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°5'24.73" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°1'23.38" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|21°37'28.30" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|10°48'49.83" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|8°27'28.82" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|4°41'15.25" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

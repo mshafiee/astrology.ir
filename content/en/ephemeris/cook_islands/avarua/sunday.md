@@ -237,7 +237,7 @@ Timetable of twelve day and night planetary hours
 |3|Sun|Servant|21:00:06|21:53:06|Operations of tenderness and attraction of love|
 |4|Venus|Servant|21:53:07|22:46:06|Unfortunate and repelling goodness|
 |5|Mercury|Servant|22:46:07|23:39:06|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|23:39:07|00:32:07|Suitable for all good deeds|
+|6|Moon|Servant|23:39:07|00:32:07|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Saturn|Servant|00:32:08|01:25:07|No task is suitable, causes misfortune|
 |8|Jupiter|Ruler|01:25:08|02:18:07|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|02:18:08|03:11:08|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°42'6.59" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°13'52.31" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°23'6.21" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|19°19'54.58" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|8°7'41.98" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|8°15'50.05" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°48'44.18" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|1°42'6.59" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°13'50.73" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°23'7.71" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|19°19'58.04" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|8°7'48.80" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°15'51.29" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|3°25'15.60" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Mercury|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°42'6.54" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°13'52.31" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|12°23'6.21" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|19°19'54.58" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|8°7'41.97" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|8°15'50.05" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°48'43.59" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|1°42'6.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°13'50.73" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|12°23'7.71" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|19°19'58.04" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|8°7'48.80" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|8°15'51.29" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°25'15.60" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Cancer|Moon|Mercury|
 |♀ Venus|Sun|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Jupiter|Jupiter|Aries|Moon|Saturn|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}

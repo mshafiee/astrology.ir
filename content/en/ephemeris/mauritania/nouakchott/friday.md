@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:43:51 |
 | Isha (Night) | 19:28:57 |
 | Sharia Midnight | 00:21:09 |
-| Imum Coeli | 00:55:53 |
+| Imum Coeli | 00:55:54 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:29:22 |
 | Isha (Night) | 19:42:20 |
 | Sharia Midnight | 00:16:42 |
-| Imum Coeli | 00:55:53 |
+| Imum Coeli | 00:55:54 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:29:22 |
 | Isha (Night) | 19:33:25 |
 | Sharia Midnight | 00:23:22 |
-| Imum Coeli | 00:55:53 |
+| Imum Coeli | 00:55:54 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:29:22 |
 | Isha (Night) | 19:44:34 |
 | Sharia Midnight | 00:13:22 |
-| Imum Coeli | 00:55:53 |
+| Imum Coeli | 00:55:54 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:29:22 |
 | Isha (Night) | 19:46:47 |
 | Sharia Midnight | 00:16:42 |
-| Imum Coeli | 00:55:53 |
+| Imum Coeli | 00:55:54 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°30'9.93" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Post-Retrograde Shadow|1°30'9.93" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°28'10.21" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|9°57'24.64" |Scorpio|Qalb|Mars|
 |☉ Sun|Direct|15°55'34.53" |Scorpio|Qalb|Sun|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°30'9.93" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°30'9.93" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°28'10.21" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|9°57'24.64" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|15°55'34.53" |Sagittarius|NaAaem|Moon|

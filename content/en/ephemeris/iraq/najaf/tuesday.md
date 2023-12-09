@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:26:16 |
+| Fajr (Dawn) | 05:26:15 |
 | Sunrise | 06:53:06 |
 | Dhuhr (Noon) | 11:56:07 |
 | Medium Coeli | 11:56:07 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°43'59.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°11'52.88" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°45'0.10" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|19°50'35.74" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|8°43'38.64" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|8°22'50.38" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|10°13'24.27" |Scorpio|Qalb|Sun|
+|♄ Saturn|Post-Retrograde Shadow|1°43'59.19" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°11'52.86" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°45'0.12" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|19°50'35.81" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|8°43'38.61" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°22'50.50" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|10°13'32.44" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°43'59.19" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°43'59.19" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°11'52.86" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°45'0.12" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|19°50'35.81" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|8°43'38.61" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|8°22'50.38" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|10°13'24.27" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|8°22'50.50" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°13'32.44" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
