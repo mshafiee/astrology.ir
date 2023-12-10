@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:18:11 |
 | Sunrise | 05:36:09 |
-| Dhuhr (Noon) | 12:00:51 |
-| Medium Coeli | 12:00:51 |
+| Dhuhr (Noon) | 12:00:50 |
+| Medium Coeli | 12:00:50 |
 | Sunset | 18:25:35 |
 | Maghrib | 18:43:04 |
 | Isha (Night) | 19:26:23 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:16:46 |
 | Sunrise | 05:36:09 |
-| Dhuhr (Noon) | 12:00:51 |
-| Medium Coeli | 12:00:51 |
+| Dhuhr (Noon) | 12:00:50 |
+| Medium Coeli | 12:00:50 |
 | Sunset | 18:25:35 |
 | Maghrib | 18:27:29 |
 | Isha (Night) | 19:40:20 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°41'18.18" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°14'42.61" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°13'38.84" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|19°6'41.41" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|7°52'17.02" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|8°12'6.17" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|0°32'54.36" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|1°41'18.18" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°14'42.78" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°13'38.77" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|19°6'41.30" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|7°52'16.30" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°12'6.44" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|0°29'57.51" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°41'18.18" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°41'18.18" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°14'42.61" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°13'38.84" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|19°6'41.41" |Sagittarius|Baldah|Moon|

@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:21:58 |
+| Fajr (Dawn) | 05:21:57 |
 | Sunrise | 06:38:16 |
 | Dhuhr (Noon) | 12:24:45 |
 | Medium Coeli | 12:24:45 |
@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°41'18.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°14'42.12" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|1°41'18.55" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°14'42.10" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°13'43.19" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|19°6'47.65" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|7°52'24.23" |Libra|Ghafr|Moon|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°41'18.55" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°41'18.55" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°14'42.10" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°13'43.19" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|19°6'47.65" |Sagittarius|Baldah|Moon|

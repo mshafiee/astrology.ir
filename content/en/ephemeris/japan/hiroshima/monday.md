@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:50:00 |
+| Fajr (Dawn) | 05:49:59 |
 | Sunrise | 07:05:37 |
 | Dhuhr (Noon) | 12:03:07 |
 | Medium Coeli | 12:03:07 |
@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:27:16 |
+| Fajr (Dawn) | 05:27:15 |
 | Sunrise | 07:05:37 |
 | Dhuhr (Noon) | 12:03:07 |
 | Medium Coeli | 12:03:07 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°43'5.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°12'49.06" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|12°34'30.48" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|19°35'54.06" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|8°26'27.10" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|8°19'47.03" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|6°55'14.92" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|1°43'5.07" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|6°12'49.23" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|12°34'30.32" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|19°35'53.70" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|8°26'26.41" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°19'46.89" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°51'47.69" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°43'5.07" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°43'5.07" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°12'49.06" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°34'30.48" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|19°35'54.06" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|8°26'27.10" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|8°19'47.03" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|6°55'14.92" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|8°26'26.41" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|8°19'46.89" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°51'47.69" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

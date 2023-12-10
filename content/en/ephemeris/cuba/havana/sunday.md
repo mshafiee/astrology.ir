@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Mars|Servant|02:35:05|03:41:21|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Sun|Servant|03:41:22|04:47:37|Attracting happiness, solving financial problems|
 |11|Venus|Servant|04:47:38|05:53:54|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Mercury|Servant|05:53:55|07:00:11|Finding the fugitive and discovering the thief|
+|12|Mercury|Servant|05:53:55|07:00:11|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°41'31.11" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|1°41'31.11" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°14'28.65" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|12°16'10.71" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|19°10'14.09" |Scorpio|Qalb|Sun|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°41'31.11" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|1°41'31.11" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°14'28.65" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|12°16'10.71" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|19°10'14.09" |Sagittarius|Baldah|Moon|
