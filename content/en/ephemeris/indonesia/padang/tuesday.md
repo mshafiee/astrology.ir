@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 00:12:14 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 00:12:14 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 00:12:14 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 00:12:14 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 00:12:14 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 00:12:14 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°47'1.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°8'50.72" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°19'56.54" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|20°39'30.48" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|9°40'53.91" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|8°28'54.94" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|21°24'10.61" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Retrograde|6°8'50.36" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°19'56.03" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|20°39'28.79" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|9°40'55.44" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°28'51.36" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|21°13'29.62" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,9 +341,9 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|1°47'1.69" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|6°8'50.72" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|13°19'56.54" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|20°39'30.36" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|9°40'52.73" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|8°28'55.45" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|20°39'30.48" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|9°40'53.91" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|8°28'54.94" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|21°24'10.61" |Sagittarius|Baldah|Saturn|
 
 

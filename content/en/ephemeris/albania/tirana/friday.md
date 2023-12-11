@@ -31,7 +31,7 @@ The following tables show the calculated Sharia times for various methods. These
 
 {{< tabs tabTotal="7" >}}
 
-{{< tab tabName="LEVA" tabActive=true tabTitle="Shia Ithna Ashari, Leva Research Institute, Qum" >}}
+{{< tab tabName="LEVA" tabActive=true tabTitle="LEVA" >}}
  \
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
@@ -47,7 +47,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Imum Coeli | 23:35:55 |
 {{< /tab >}}
 
-{{< tab tabName="IGUT" tabActive=false tabTitle="Institute of Geophysics, University of Tehran" >}}
+{{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
  \
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
@@ -63,7 +63,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Imum Coeli | 23:35:55 |
 {{< /tab >}}
 
-{{< tab tabName="MWL" tabActive=false tabTitle="Muslim World League" >}}
+{{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
  \
 __Muslim World League Calculation Method__
 | Moment | Time |
@@ -79,7 +79,7 @@ __Muslim World League Calculation Method__
 | Imum Coeli | 23:35:55 |
 {{< /tab >}}
 
-{{< tab tabName="ISNA" tabActive=false tabTitle="Islamic Society of North America (ISNA)" >}}
+{{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
  \
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
@@ -95,7 +95,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Imum Coeli | 23:35:55 |
 {{< /tab >}}
 
-{{< tab tabName="EGAS" tabActive=false tabTitle="Egyptian General Authority of Survey" >}}
+{{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
  \
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
@@ -111,7 +111,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Imum Coeli | 23:35:55 |
 {{< /tab >}}
 
-{{< tab tabName="UISK" tabActive=false tabTitle="University of Islamic Sciences, Karachi" >}}
+{{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
  \
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
@@ -127,7 +127,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Imum Coeli | 23:35:55 |
 {{< /tab >}}
 
-{{< tab tabName="UMQU" tabActive=false tabTitle="Umm al-Qura University, Makkah" >}}
+{{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
  \
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|1°56'0.91" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°0'53.11" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|14°59'46.31" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|22°59'2.03" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°24'34.08" |Libra|Ghafr|Saturn|
-|☿ Mercury|Retrograde|8°8'35.31" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|23°27'15.53" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|22°59'1.29" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°24'32.66" |Libra|Ghafr|Saturn|
+|☿ Mercury|Retrograde|8°8'34.89" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|23°27'43.75" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°56'0.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°0'53.11" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|14°59'46.31" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|22°59'1.29" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|12°24'32.66" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|8°8'34.89" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|6°0'52.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|14°59'46.65" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|22°59'2.03" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|12°24'34.08" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|8°8'35.31" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|23°27'15.53" |Capricorn|SaadAlBula|Sun|
 
 
