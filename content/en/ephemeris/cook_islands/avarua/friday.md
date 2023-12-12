@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°1'47.15" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°56'28.65" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|16°1'33.43" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|24°25'14.83" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|14°5'52.72" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|7°26'20.81" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|13°44'36.34" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|5°56'30.35" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|16°1'31.73" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|24°25'11.05" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|14°5'45.98" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|7°26'17.88" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|14°1'31.71" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°1'47.15" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°56'28.65" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|16°1'33.43" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|24°25'14.83" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|14°5'52.72" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|7°26'20.81" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|13°44'36.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|5°56'30.35" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|16°1'31.73" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|24°25'11.05" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|14°5'45.98" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|7°26'17.88" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|14°1'31.71" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

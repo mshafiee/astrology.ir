@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°46'18.62" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|6°9'32.69" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|13°11'45.12" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|20°28'2.88" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|9°27'28.60" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|8°28'4.63" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|18°47'58.73" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|6°9'34.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|13°11'39.20" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|20°27'47.58" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|9°27'20.39" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|8°27'45.56" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|17°10'22.80" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Moon|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°46'18.62" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°9'32.69" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|13°11'45.12" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|20°28'2.88" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|9°27'28.60" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|8°28'4.63" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|6°9'34.88" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|13°11'39.20" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|20°27'47.58" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|9°27'20.39" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|8°27'45.56" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|18°47'58.73" |Sagittarius|Baldah|Moon|
 
 
