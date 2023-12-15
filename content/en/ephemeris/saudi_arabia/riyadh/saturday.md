@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°59'39.66" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°58'5.83" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°38'53.71" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|23°53'31.61" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°28'39.00" |Libra|Jubana|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°59'39.66" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°58'2.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|15°39'0.20" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|23°53'47.34" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°28'53.04" |Libra|Jubana|Saturn|
 |☿ Mercury|Retrograde|7°44'27.64" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|6°24'27.13" |Capricorn|SaadAlDhabib|Jupiter|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°59'39.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°59'39.66" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°58'2.26" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|15°39'0.20" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|23°53'47.34" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|13°28'39.00" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|7°44'9.12" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|5°26'44.31" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|13°28'53.04" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|7°44'27.64" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°24'27.13" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Sun|Venus|
 |♀ Venus|Mercury|Venus|Jupiter|Jupiter|
 |☿ Mercury|Jupiter|Mercury|Saturn|Sun|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mercury|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

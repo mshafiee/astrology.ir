@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°57'2.49" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Post-Retrograde Shadow|1°57'2.49" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|6°0'3.43" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°10'49.78" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|23°14'24.02" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°42'38.63" |Libra|Ghafr|Saturn|
-|☿ Mercury|Retrograde|8°2'31.60" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°28'50.17" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Direct|15°10'53.96" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|23°14'34.37" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°42'47.68" |Libra|Ghafr|Saturn|
+|☿ Mercury|Retrograde|8°2'43.62" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|27°17'20.91" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Leo|Sun|Sun|
 |♀ Venus|Moon|Saturn|Pisces|Sun|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°57'2.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|6°0'5.68" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|15°10'49.78" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|23°14'24.02" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|1°57'2.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|6°0'3.43" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|15°10'53.96" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|23°14'34.37" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|12°42'47.68" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|8°2'43.62" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|27°17'20.91" |Capricorn|SaadAlSaud|Sun|
