@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°18'19.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'31.03" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°50'9.47" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°19'56.40" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°42'30.85" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°42'30.48" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°35'11.83" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°46'33.60" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°50'4.47" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°19'44.27" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°42'20.28" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°42'13.62" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°11'39.40" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: A Habana, Abana, Gavana, Gavanae, Gavane, HAV, Habana, Hafana, Hahvaxnaz, Havan, Havana, Havanna, Havano, Hawana, Khavana, L'Avana, LAvan-a, LAvana, LAvann-a, LHabana, LHavana, La Ahuana, La Avan, La Avàn, La Habana, La Havana, La Havane, abana, avana, ha wa na, habana, habhana, hafana, havana, hawana, xia wan na, Ħavana, ŁAvana, Αβάνα, Гaванa, Гаванæ, Гавана, Гаване, Хавана, Ҳавана, Հավանա, האוואנע, הוואנה, هافانا, هاوانا, ہوانا, हवाना, হাভানা, ਹਵਾਨਾ, ହାଭାନା, அவானா, ഹവാന, ฮาวานา, ཧ་ཝན, ဟာဗားနားမြို့, ჰავანა, ሀቫና, ሀኖይ, ハバナ, 哈瓦那, 夏灣拿, 아바나

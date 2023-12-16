@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|1°58'6.23" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°59'13.44" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|15°22'20.66" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|23°30'32.96" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°1'33.87" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|7°55'52.57" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|1°2'14.23" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|23°30'17.21" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°1'25.79" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|7°55'31.13" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|29°17'50.09" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Saturn|Venus|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mars|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Leo|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Pisces|Sun|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|1°58'6.23" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°59'13.44" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|15°22'20.66" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|1°58'5.57" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°59'15.45" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|15°22'14.56" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|23°30'32.96" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|13°1'33.87" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|7°55'52.57" |Capricorn|SaadAlDhabib|Jupiter|

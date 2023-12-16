@@ -303,8 +303,8 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°46'59.32" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°40'55.97" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|28°7'6.21" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°27'22.32" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°58'2.40" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°27'25.28" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°57'58.59" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|4°44'15.54" |Pisces|FarghAlMuakhar|Saturn|
 
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°17'23.57" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°46'58.41" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°40'55.97" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°7'6.21" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°27'22.32" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°58'2.40" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°44'15.54" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°40'55.47" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°7'4.21" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°27'25.28" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°57'58.59" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°55'5.22" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Augusta Taurinorum, Julia Augusta Taurinorum, Lungsod ng Turino, TRN, Tori, Torin, Torino, Torinu, Torí, Tueri, Turen, Turijn, Turim, Turin, Turina, Turinas, Turino, Turinu, Turyn, Turén, Turìn, Turín, Turīna, Tórínó, Türì, dou ling, tolino, torino, tu rin, tulin, turin, turina, twryn, twrynw, Τορίνο, Торино, Турин, Турын, Թուրին, טורין, טורינו, تورينو, تورین, टोरीनो, तोरिनो, তুরিন, துரின், ตูริน, ཊུ་རིན།, ტურინი, トリノ, 都灵, 토리노, 투린

@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°46'4.74" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°59'0.89" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|28°32'14.76" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°56'52.12" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°27'2.20" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°21'42.73" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|18°57'3.10" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°27'15.32" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°20'47.41" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파

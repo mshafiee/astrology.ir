@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°17'5.81" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'8.40" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°38'0.01" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°3'1.44" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°22'33.51" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°2'55.45" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°49'19.56" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'8.30" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°38'0.17" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°3'1.82" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°22'33.90" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°2'55.97" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|3°47'44.83" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°17'5.81" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'8.40" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°38'0.01" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°3'1.44" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°22'33.51" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°2'55.45" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°49'19.56" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'8.30" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°38'0.17" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°3'1.82" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°22'33.90" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°2'55.97" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°47'44.83" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: DNK, Dnepr, Dnepropetrovsk, Dniepr, Dniepropetrovskas, Dnipro, Dnipropetrovs'k, Dnipropetrovsk, Dnipropetrovsko, Dnipropetrowsk, Dniproslav, Dnipró, Dnjepropetrovsk, Dnjipropetrovsk, Dnyipro, Dněpropetrovsk, Dņipro, Ekaterinoslav, Katerinoslav, Katerynoslav, Novij Kodak, Novorosiynsk, Novyy Kodak, Ntnipro, Sicheslav, Sichoslav, d ni por pet rxfskh, deunipeulopeteulousikeu, dnepropetrovska, dnepʼri, dnybrw, dnyprwptrwbsq, dnyprwptrwfsk, dnyprwptrwwsk, dnyprʼ, donipuropetoroushiku, nie bo cheng, Ντνίπρο, Днепр, Днепропетровск, Днипро, Дніпро, Дніпропетровськ, Дніпрослав, Днїпро, Дњипро, Екатеринослав, Катеринослав, Новий Кодак, Січослав, Դնեպր, דניפרא, דניפרופטרובסק, دنيبرو, دنیپروپتروفسک, دنیپروپترووسک, द्नेप्रोपेत्रोव्स्क, ดนีโปรเปตรอฟสค์, დნეპრი, ドニプロペトロウシク, 聶伯城, 드니프로페트로우시크

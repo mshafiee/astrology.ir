@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°45'44.78" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|19°5'48.21" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|28°41'40.75" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°8'6.85" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°15'8.49" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|12°5'22.64" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|19°8'11.54" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°15'25.65" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|12°26'50.86" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: SPN, Saipan, Sajpan, saipan, Сайпан, 사이판

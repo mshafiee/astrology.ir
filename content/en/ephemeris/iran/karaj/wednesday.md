@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°47'18.13" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°34'46.73" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|27°58'33.55" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°17'16.75" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°8'19.50" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°43'2.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|18°17'16.42" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°8'19.71" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°47'25.93" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°16'46.26" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°47'18.13" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°34'46.74" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°58'33.47" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°17'16.75" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°8'19.50" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°43'2.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°34'46.73" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°58'33.55" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°17'16.42" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°8'19.71" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°47'25.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Heredi, Karadj, Karadje, Karadsch, Karadz, Karadzs, Karadż, Karadž, Karag, Karaj, Karatz, Karaĝ, Karej, Kerec, Keredi, Keredzas, Keredzh, Keredžas, Kerezh, Kərəc, Leredi, PYK, QKC, Qasabeh-e Karaj, Qaşabeh-e Karaj, ka la ji, kairaija, kalaji, karaj, karaji, kha rac, krj, kyaraji, qasabihi karaj, Καράτζ, Карай, Караџ, Караҷ, Кередж, Кереж, כאראג, قَصَبِهِ كَرَج, كرج, کرج, کەرەج, कैरैज, கராஜ், คาราจ, ქარაჯი, キャラジ, 卡拉季, 카라지

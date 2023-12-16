@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°18'39.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'21.31" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°53'25.67" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°24'28.81" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°47'52.81" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°36'53.54" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|8°37'5.09" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°46'23.47" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°53'20.57" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°24'16.08" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°47'43.54" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°36'35.44" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°55'34.28" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Altepetl Chihuahuah, Byen Chihuahua, CUU, Chihuahua, Chihuahua City, Chihuahua by, Chiuaua, Chiuauae, Chivava, Cihuahua, Ciuaua, Dakbayan sa Chihuahua, Tsiouaoua, chiuaua, chiwawa, chyywaywa. chyywaywa, qi wa wa shi, zhi hua hua shi, Čihuahua, Čiuaua, Τσιουάουα, Чивава, Чиуауæ, Чиуауа, Чіуауа, ציוואווה, چہواہوا, چیئوائوا٬ چیئوائوا, ჩიუაუა, チワワ, 奇瓦瓦市, 芝華華市, 치와와

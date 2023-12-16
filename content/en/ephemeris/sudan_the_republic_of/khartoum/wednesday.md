@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|2°16'51.64" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°47'15.14" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°35'40.73" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°59'48.65" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°18'43.39" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°6'52.86" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°18'17.61" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|27°59'49.32" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°18'45.16" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°6'53.47" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°3'10.50" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

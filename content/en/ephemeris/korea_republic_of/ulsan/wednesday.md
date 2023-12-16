@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°20'15.57" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°45'35.32" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°9'8.88" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°46'18.76" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|19°13'40.77" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°9'29.27" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|13°31'58.47" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|5°45'34.64" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°9'7.63" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°46'14.77" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|19°13'42.49" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°9'22.81" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|12°46'57.93" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°20'15.57" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°45'35.32" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|19°9'8.88" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°46'18.76" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°13'40.77" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°9'29.27" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|13°31'58.47" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|5°45'34.64" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|19°9'7.63" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°46'14.77" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|19°13'42.49" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°9'22.81" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|12°46'57.93" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°16'46.39" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'18.04" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°34'48.15" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|5°47'18.15" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°34'48.12" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|27°58'35.60" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°17'18.75" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°8'17.74" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°47'46.51" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|18°17'18.36" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°8'17.85" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°52'19.56" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Arak, Arak - sawh, Arak - ساوه, Arok, Arāk, Ehrak, Soltanabad, Solţānābād, Sultanabad, Sultānābād, `Iraq, arak, sawh, sultan abad, Арак, Арок, Эрак, اراک, ساوه, سُلطان آباد, ‘Irāq

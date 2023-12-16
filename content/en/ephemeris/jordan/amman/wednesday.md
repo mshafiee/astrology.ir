@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'55.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'13.32" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°36'18.52" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°0'41.31" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°19'47.12" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°5'48.49" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°15'25.06" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|2°16'55.74" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°47'14.34" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°36'17.01" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°0'37.78" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°19'43.10" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°5'43.85" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|3°35'13.49" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°16'55.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'13.34" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°36'18.50" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°0'41.28" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°19'47.05" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°5'48.45" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°15'54.70" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'14.34" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°36'17.01" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°0'37.78" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°19'43.10" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°5'43.85" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°35'13.49" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: 'Amman, AMM, Ama, Aman, Amanas, Amani, Amano, Amans, Amman, Ammana, Ammon, Ammán, Ammān, Ammāna, Amàn, Amán, Amã, Philadelphia, Rabbah, Rabbath Ammon, am'man, am'mana, aman, amana, amani, amman, an man, anman, xam man, yamman, ʻmʼn, ʿman, ʿmʾn, Αμμάν, Аман, Амман, Аммон, Ամման, אמאן, עמאן, ئاممان, امان, عمان, عمان شہر, عمّان, عَمّان, عەممان, ܥܡܐܢ, अम्मान, আম্মান, ਅਮਾਨ, அம்மான், ಅಮ್ಮಾನ್, അമ്മാൻ, อัมมาน, ཨམ་མན།, ამანი, አማን, ‘Ammān, アンマン, 安曼, 암만

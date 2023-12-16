@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|2°16'45.42" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'18.46" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°34'38.68" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°58'22.64" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°17'3.25" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°8'34.34" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°44'21.62" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|27°58'20.23" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°17'0.67" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°8'31.12" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°55'51.93" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°16'45.42" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'18.31" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°34'37.72" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°58'19.78" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°17'3.32" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°8'29.76" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°21'49.80" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'18.46" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°34'38.68" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°58'22.64" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°17'0.67" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°8'31.12" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°55'51.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Al Kuwait, Al Kuwayt, Al-Kuwait, Ciudad de Kuwait, Ehl'-Kuvejt, KWI, Koeweit, Kota Kuwait, Koveyit, Koweit, Koweït, Kuvaeyt, Kuvajt, Kuvajto, Kuvajturbo, Kuveitas, Kuväyt, Kuwait, Kuwait City, Kuwait Stad, Kuwait by, Kuwait-Stadt, Kuwait-Urbo, Kuwayt, Kuweit, Kuwejt, Madinat al Kuwayt, Madinat al-Kuwait, Madīnat al Kuwayt, Pole tou Koubeit, aalkuayt, ke wei te shi, khuwet si ti, kuu~eto shi, kuweiteu, kuweiteusiti, kwwyt syty, mdynt alkwyt, Πόλη του Κουβέιτ, Эль-Кувейт, כווית סיטי, اَلْكُوَيْت, مدينة الكويت, คูเวตซิตี, クウェート市, 科威特市, 쿠웨이트, 쿠웨이트시티

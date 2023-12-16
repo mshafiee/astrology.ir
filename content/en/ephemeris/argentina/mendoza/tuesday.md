@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°17'49.33" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'46.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°45'11.65" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°13'2.14" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°34'22.15" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°50'54.01" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|6°3'11.00" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°46'46.26" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°45'11.76" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°13'2.45" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°34'22.12" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°50'54.49" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°5'45.05" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Capital megye, Ciuda de Mendoza, Ciudad de Mendoza, Ciudá de Mendoza, MDZ, Mendos, Mendosa, Mendosae, Mendoza, Mentosa, Vila de Mendoza, men do sa, men duo sa, mendosa, mendoza, mndwsh, mndwza, myndwza, Μεντόσα, Мендоза, Мендосæ, Мендоса, Մենդոսա, מנדוסה, مندوزا, مندوسا، ارجنٹائن, میندوزا, मेन्दोज़ा, เมนโดซา, მენდოსა, メンドーサ, 门多萨, 멘도사

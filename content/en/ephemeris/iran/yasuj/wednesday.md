@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|2°16'43.44" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'19.50" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°34'18.98" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°57'55.21" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°16'30.91" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°9'6.66" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°38'23.63" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|27°57'55.12" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°16'31.43" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°9'6.40" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°31'42.59" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°16'43.44" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'19.50" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°34'18.98" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°57'55.21" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°16'30.91" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°9'6.66" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°38'23.63" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'19.34" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°34'18.99" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°57'55.12" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°16'31.43" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°9'6.40" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°31'42.59" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Jasudz, Jasudzh, Jasudż, Jasudž, Jásúdž, YES, Yasooj, Yasuc, Yasudsch, Yasuj, Yasûc, Yesuj, Yesūj, Yāsūj, ya su ji, yasuj, yasuja, yasujeu, yasuju, yaswj, yiswj, yswj, Ёсӯҷ, Ясудж, Յասուջ, ياسوج, يَسُّج, يِسوج, یاسوج, یسوج, यासूज, ヤースージュ, 亞蘇季, 야수즈

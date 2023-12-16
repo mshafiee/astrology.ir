@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°17'0.96" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'10.65" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°37'12.40" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°1'55.90" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°21'15.46" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°4'17.61" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°33'19.50" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'11.31" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°37'11.68" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°1'54.36" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°21'12.97" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°4'15.75" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|3°50'24.84" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°17'0.96" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'10.65" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°37'12.40" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°1'55.90" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°21'15.46" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°4'17.61" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°33'19.50" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'11.31" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°37'11.68" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°1'54.36" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°21'12.97" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°4'15.75" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°50'24.84" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Conia, Iconio, Iconium, Ikonio, Ikoniow, KYA, Ko'niya, Kon'ja, Koni, Konia, Konieh, Konija, Konja, Konjao, Konya, Koʻniya, Kuniyah, Kuon'ja, Qonia, Qonya, Qonye, ke ni ya, kean'ya, kon'ya, konia, qwnyh, qwnyt, Ικόνιο, Кония, Конија, Конья, Къонья, Կոնիա, קוניה, قونية, قونیه, قونیہ, कोन्या, കോന്യ, კონია, コンヤ, 科尼亞, 코니아

@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|2°17'13.16" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'4.41" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°39'13.38" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°4'28.29" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°24'22.51" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°0'34.07" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|4°26'0.97" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|28°4'44.14" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°24'34.02" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°0'56.43" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|4°11'2.68" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|2°17'13.16" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'4.41" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°39'13.38" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°4'44.14" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°24'22.51" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°0'34.07" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°26'0.97" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'3.94" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°39'14.04" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°4'45.73" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°24'35.93" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°0'58.52" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|4°0'44.96" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: A Valeta, A Valletta, Baleta, Baletta, La Valet, La Valeta, La Valeto, La Valetta, La Valette, La Valletta, La Valèt, La Valëtta, La-Valeto, MLA, Vaileite, Valeta, Valetta, Valleta, Vallett, Valletta, Valletta osh, Vallettae, Waleta, balleta, baretta, bhaleta, bhalletta, falyta, hua lie ta, valaita, valerra, valletta, vheleta, wa lai ta, wal let ta, walta, wlth, Ła Vałeta, Βαλέτα, Βαλέττα, Валета, Валлеттæ, Валлетта, Валлетта ош, Ла Валета, Վալետա, וואלעטא, ולטה, فاليتا, والتا, والیٹا, ولیٹا, ڤالێتا, भलेट, व्हॅलेटा, ভাল্লেত্তা, ਵਲੈਟਾ, வல்லெட்டா, വലേറ്റ, วัลเลตตา, ཝ་ལེ་ཐ།, ვალეტა, ቫሌታ, バレッタ, 瓦莱塔, 華列他, 발레타
