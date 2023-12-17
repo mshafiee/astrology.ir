@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°18'9.94" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°46'39.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°48'29.53" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°17'32.47" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°39'42.53" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°44'54.64" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|8°8'41.87" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|2°18'9.94" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°46'35.68" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°48'35.18" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°17'45.68" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°39'56.17" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°45'12.51" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|7°5'1.08" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°18'9.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'35.68" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°48'35.18" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°17'32.47" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°39'42.53" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°44'54.64" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|8°8'41.87" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°18'9.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°46'38.60" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°48'31.13" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°17'36.54" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°39'44.89" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°45'0.53" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°10'7.85" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: CTG, Caratagena de Indias, Cartagena, Cartagena das Indias, Cartagena das Índias, Cartagena de Indias, Cartaxena de Indias, Carthagene, Carthagene des Indes, Carthagène, Carthagène des Indes, Kartachena, Kartageno, Kartakhena, Kartakhena de Indijas, ka ta he na, kaleutahena, kartagyna, kartajyna, karutahena, qrtajnt  kwlwmbya, qrthnh, Картахена, Картахена де Индијас, קרטחנה, قرطاجنة، كولومبيا, کارتاجینا, کارتاگینا, კარტახენა, カルタヘナ, 卡塔赫纳, 카르타헤나

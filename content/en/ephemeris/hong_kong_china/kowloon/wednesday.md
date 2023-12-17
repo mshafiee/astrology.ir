@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°20'21.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°45'32.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°10'1.78" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°47'28.68" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|19°15'11.18" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°7'41.11" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|13°9'20.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|2°20'21.22" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°45'32.49" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°10'4.60" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°47'36.69" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|19°15'12.31" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°7'53.34" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|13°47'10.74" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Venus|Mars|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°20'21.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°20'21.22" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°45'32.49" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|19°10'4.60" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|28°47'36.69" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Chiu-lung, Czjulun, Kaulunas, Koulun, Kowloon, jiu long, julung, yi fa ban, Цзюлун, 九龍, 意法半, 주룽

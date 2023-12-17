@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'47.92" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°16'47.92" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'17.30" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°35'3.21" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|27°58'56.38" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'48.06" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'17.49" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°35'3.24" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°58'56.62" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°17'42.84" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°7'52.64" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°1'31.83" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°16'47.92" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'17.30" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°35'3.21" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°58'56.38" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°17'43.46" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°7'52.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°52'37.15" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: RAS, Raixt, Rascht, Rasht, Rasjt, Rast, Rasto, Raszt, Raŝto, Rašt, Reshh, Resht, Rest, Restas, Reşt, Reštas, Rəşt, la shen te, lasyuteu, rashuto, rasta, reshti, rsht, Рашт, Решт, Рещ, Рәшт, Ռեշտ, ראשת, رشت, ڕەشت, रश्त, แรชต์, რეშთი, ラシュト, 拉什特, 라슈트

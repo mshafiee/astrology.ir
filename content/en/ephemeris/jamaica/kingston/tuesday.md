@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°18'13.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°46'33.97" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°49'10.06" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°18'33.99" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°40'53.37" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°44'12.48" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|7°16'16.57" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|2°18'13.49" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°46'35.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°49'6.60" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°18'25.64" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°40'45.55" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°44'0.98" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|7°47'18.89" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°18'13.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'33.97" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°49'10.06" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°18'33.99" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°40'53.37" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°44'12.48" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°16'16.57" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°18'13.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°46'35.88" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°49'6.60" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°18'25.64" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°40'45.55" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°44'0.98" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|7°47'18.89" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴

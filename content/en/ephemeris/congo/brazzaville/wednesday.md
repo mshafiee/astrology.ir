@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'57.91" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°16'57.91" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'11.90" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°36'43.09" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|28°1'16.13" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'57.91" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°16'57.91" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°47'11.90" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°36'43.09" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|28°1'16.13" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|18°20'27.55" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|4°5'10.46" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°22'29.74" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|3°50'38.56" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: BZV, Braza, Brazavil, Brazavilis, Brazavilo, Brazzavil', Brazzaville, Maya-Maya, Mprazabil, N'Tamo, beulajabil, brazafyl, brazawyl, brzwwyl, bu la chai wei er, burazavu~iru, Μπραζαβίλ, Браззавиль, ברזוויל, برازافيل, برازاویل, ብራዛቪል, ブラザヴィル, 布拉柴维尔, 브라자빌

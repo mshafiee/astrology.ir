@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°17'30.65" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°17'30.65" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°46'56.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°42'5.26" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°8'41.41" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°29'15.90" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°56'0.98" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|5°8'17.96" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|18°42'5.95" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°8'43.22" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°29'16.81" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°56'3.64" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|5°11'0.41" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°17'30.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'56.13" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°42'5.26" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°8'41.41" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°29'15.90" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°56'0.98" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|5°8'17.96" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°17'30.65" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°46'55.95" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°42'5.95" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°8'43.22" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°29'16.81" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°56'3.64" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|5°11'0.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Estocolm, Estocolme, Estocolmo, Estocolmu, Estocòlme, Estokolma, Estokolmo, Holmia, STO, Stakgol'm, Stjokolna, Stoccholm, Stoccolma, Stockholbma, Stockholm, Stockolm, Stocolm, Stocolma, Stocòlma, Stocólma, Stokcholme, Stokgol'm, Stokgol'm osh, Stokgolm, Stokhol'm, Stokholm, Stokholma, Stokholmas, Stokholmi, Stokholmo, Stokkholm, Stokkholmur, Stokkhólmur, Stokkolma, Stokol'ma, Stokolm, Stuculma, Stuokhuolms, Stócólm, Sztokholm, Sztokhòlm, Tukholma, astkhlm, satakahoma, seutogholleum, si de ge er mo, stak'hom, stakahoma, stokahoma, stwkhwlm, stwqhwlm, stxkholm, sutokkuhorumu, Štokholm, Στοκχόλμη, Стакгольм, Стокhольм, Стокгольм, Стокгольм ош, Стокольма, Стокхолм, Стокҳолм, Стёколна, Ստոկհոլմ, סטוקהולם, שטאקהאלם, استکهلم, ستوكهولم, ستۆکھۆڵم, سٹاکہوم, ܣܛܘܩܗܘܠܡ, स्टकहोम, स्टॉकहोम, स्तकहोम, স্টকহোম, ਸਟਾਕਹੋਮ, ஸ்டாக்ஹோம், స్టాక్‌హోమ్, ಸ್ಟಾಕ್‍ಹೋಮ್, സ്റ്റോക്ക്‌ഹോം, สตอกโฮล์ม, སི་ཏོག་ཧོ་ལིམ།, စတော့ဟုမ်းမြို့, სტოკჰოლმი, ስቶኮልም, ᔅᑑᒃᓱᓪᒻ/stuukhulm, ストックホルム, 斯德哥尔摩, 斯德哥爾摩, 스톡홀름, 𐍃𐍄𐌿𐌺𐌺𐌰𐌷𐌿𐌻𐌼𐍃

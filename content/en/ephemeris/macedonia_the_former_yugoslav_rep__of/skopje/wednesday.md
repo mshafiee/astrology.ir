@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°17'11.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'5.41" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°38'55.76" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°4'19.33" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°24'2.34" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°1'22.67" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|4°26'29.19" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|2°17'11.41" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°47'7.91" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°38'51.75" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°4'9.99" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°23'55.22" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°1'11.90" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|4°50'37.25" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°17'11.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'6.14" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°38'55.04" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°4'17.86" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°24'2.34" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°1'22.67" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°26'29.19" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°17'11.87" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'7.91" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°38'55.76" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°4'19.33" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°24'5.06" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°1'24.36" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|4°50'37.25" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Escopia, Escópia, SKP, Scopia, Scupi, Shkup, Shkupi, Skop'e, Skope, Skopeia, Skopia, Skopie, Skopiye, Skopje, Skopjo, Skopjė, Skople, Skoplie, Skoplje, Skopye, Szkopje, UEskuep, Uskub, Usküb, askwbyt, askwpyh, s ko peiy, sakopi'e, seukope, si ke pu li, skopje, skopye, skwbyh, sqwpyh, sukopie, Üsküp, Σκόπια, Скоп'е, Скоп'є, Скопе, Скопие, Скопье, Скопје, Скопље, Съкопиѥ, Սկոպյե, סקאפיע, סקופיה, إسكوبية, اسکوپیه, اسکوپیہ, سكوبيه, سكوپليې, سکوپ جے, स्कोप्ये, ਸਕੋਪੀਏ, ஸ்கோப்ஜே, สโกเปีย, སི་ཀོཔ་ཇི།, სკოპიე, ስኮፕዬ, スコピエ, 斯科普里, 스코페

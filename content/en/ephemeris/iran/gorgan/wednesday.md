@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'44.12" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°16'44.12" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'19.24" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°34'25.55" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|27°58'4.04" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|18°16'41.64" |Libra|Jubana|Saturn|
 |☿ Mercury|Retrograde|4°8'54.52" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°46'8.91" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°35'0.07" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'44.12" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'19.24" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°34'25.55" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°58'4.04" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°16'41.64" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°8'54.85" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°46'8.91" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°16'44.12" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'19.01" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°34'25.83" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°58'4.68" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°16'42.56" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°8'55.31" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°35'0.07" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Asterabad, Asterābād, GBT, Gorgan, Gorgān, Gurgan, Gurgon, Gūrgān, Hirkanio, aastir abad, grgan, gwrgan, Горган, Гургон, اَستِر آباد, گرگان, گورگان

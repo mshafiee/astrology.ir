@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°21'18.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°45'5.94" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°19'26.28" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|29°0'36.69" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|19°30'34.24" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|2°51'13.64" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|16°41'37.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|2°21'18.70" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°45'9.19" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°19'20.26" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|29°0'22.20" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|19°30'20.91" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|2°50'53.24" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|17°46'32.34" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Mars|Capricorn|Sun|Jupiter|
-|☾ Moon|Venus|Jupiter|Virgo|Sun|Jupiter|
+|☾ Moon|Mercury|Jupiter|Libra|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°21'18.70" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°45'9.19" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|19°19'20.26" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|29°0'22.20" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|2°21'18.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°45'5.94" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|19°19'26.28" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|29°0'36.69" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|19°30'20.91" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|2°50'53.24" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|17°46'32.34" |Aries|Butain|Sun|

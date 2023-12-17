@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°17'25.43" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°17'25.43" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°46'58.56" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°41'14.04" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|28°7'30.81" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°17'25.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'58.56" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°41'14.04" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°7'30.81" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°27'51.91" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°57'29.70" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°50'57.72" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°17'25.43" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°46'58.50" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°41'14.08" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°7'30.85" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°27'52.14" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°57'29.71" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|4°48'38.35" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BER, Beirlin, Beirlín, Berleno, Berlien, Berliin, Berliini, Berlijn, Berlim, Berlin, Berline, Berlini, Berlino, Berlyn, Berlynas, Berlëno, Berlín, Berlîn, Berlīne, Berolino, Berolinum, Birlinu, Bèrlîn, Estat de Berlin, Estat de Berlín, bai lin, barlina, beleullin, berlini, berurin, bexrlin, brlyn, perlin, Βερολίνο, Берлин, Берлін, Бэрлін, Բերլին, בערלין, ברלין, برلين, برلین, بېرلىن, ܒܪܠܝܢ, बर्लिन, বার্লিন, பெர்லின், เบอร์ลิน, ბერლინი, ベルリン, 柏林, 베를린

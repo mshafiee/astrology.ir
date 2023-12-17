@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°7'18.37" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°7'18.63" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°52'44.46" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|16°59'7.90" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|25°45'29.55" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|15°40'20.06" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|6°26'30.37" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|2°25'21.79" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|15°40'18.33" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|6°26'30.63" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|2°40'23.44" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Virgo|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°7'18.37" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°52'44.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|16°59'7.90" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|25°45'29.55" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|15°40'18.33" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|6°26'30.63" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|2°7'18.37" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°52'43.99" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|16°59'8.13" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|25°45'29.83" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|15°40'20.06" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|6°26'30.37" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|2°40'23.44" |Pisces|FarghAlMuqaddam|Saturn|
 
 

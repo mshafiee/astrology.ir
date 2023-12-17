@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'41.89" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'20.31" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°34'3.59" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°57'33.76" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°16'5.64" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°9'31.86" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°33'35.87" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°16'41.89" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°47'20.19" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°34'3.47" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°57'33.33" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°16'5.97" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°9'31.10" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°26'31.07" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'41.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'20.19" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°34'3.47" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°57'33.33" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°16'5.97" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°9'31.10" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°26'31.07" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°16'41.89" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'20.31" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°34'3.59" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°57'33.76" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°16'5.64" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°9'31.86" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°33'35.87" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: AZD, Dakbayan sa Yazd, Giaznt, Jazd, Jazdo, Jezd, Jezdas, Yasd, Yazd, Yezd, Yəzd, iezdi, ya ci de, yajeudeu, yazda, yazudo, yzd, Γιαζντ, Јазд, Йезд, Язд, Յազդ, יזד, يزد, یزد, यज़्द, იეზდი, ヤズド, 亚兹德, 야즈드

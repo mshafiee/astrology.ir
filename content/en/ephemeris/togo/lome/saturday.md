@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°0'4.85" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°57'43.31" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|15°43'28.94" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|24°0'2.59" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°36'13.90" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|7°41'7.66" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°55'29.66" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|2°0'5.51" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°57'46.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|15°43'23.17" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|23°59'48.81" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°35'59.77" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|7°40'52.27" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°20'46.86" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,7 +313,7 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Mercury|Saturn|Saturn|Saturn|
 |♃ Jupiter|Jupiter|Jupiter|Mars|Mars|
 |♂ Mars|Mercury|Jupiter|Jupiter|Jupiter|
-|☉ Sun|Saturn|Mercury|Moon|Saturn|
+|☉ Sun|Jupiter|Mercury|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Saturn|Venus|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
 |☾ Moon|Jupiter|Mercury|Saturn|Sun|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Leo|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Pisces|Sun|Venus|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°0'4.85" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°0'4.85" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°57'43.31" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|15°43'28.94" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|24°0'2.59" |Sagittarius|Baldah|Saturn|

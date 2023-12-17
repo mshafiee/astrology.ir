@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°18'21.92" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°46'33.11" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°50'22.10" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°20'10.08" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|2°18'21.25" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°46'30.11" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°50'26.60" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°20'20.44" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|18°42'47.26" |Libra|Jubana|Saturn|
 |☿ Mercury|Retrograde|3°41'48.45" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|8°42'31.10" |Pisces|FarghAlMuakhar|Saturn|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°18'21.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'30.11" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°50'26.60" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°20'20.44" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|2°18'21.25" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°46'33.11" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°50'22.10" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°20'10.08" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|18°42'47.26" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|3°41'48.45" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|8°42'31.10" |Aries|Sharatain|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: SAL, Salvador, San Salbador, San Salvado, San Salvador, San Salvadoras, San Salvadori, San Salvadò, San Salwador, San-Sal'vador, San-Salvador, San-Salvadoro, Sansalvadora, Urbs Sancti Salvatoris, can calvator, san salvadwr, san salwadwr, san slfadwr, san-salvadori, sana salavadora, sana salvhadora, sana-salvadora, sansalbadoleu, sansalwadxr, sansarubadoru, sheng sa er wa duo, sn slwwdwr, Σαν Σαλβαδόρ, Сан Салвадор, Сан-Сальвадор, Սան Սալվադոր, סאן סאלוואדאר, סן סלוודור, سان سالوادور, سان سالۋادور, سان سلفادور, سان سلواڈور, सान साल्व्हाडोर, सान-साल्वाडोर, ਸਾਨ ਸਾਲਵਾਦੋਰ, சான் சல்வடோர், ซันซัลวาดอร์, སན་སལ་ཝ་ཌོར།, სან-სალვადორი, ሳን ሳልቫዶር, サンサルバドル, 聖薩爾瓦多, 산살바도르

@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°17'16.90" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'2.75" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°39'49.85" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°5'34.16" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°25'33.78" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|2°17'16.90" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°47'2.38" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°39'49.33" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°5'32.40" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°25'34.78" |Libra|Jubana|Saturn|
 |☿ Mercury|Retrograde|3°59'49.39" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|3°59'11.48" |Pisces|FarghAlMuqaddam|Saturn|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°17'16.90" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°17'16.90" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°47'2.75" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°39'49.85" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|28°5'34.16" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|18°25'33.78" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°59'52.40" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°23'45.87" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|3°59'49.39" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°59'11.48" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: BUD, Boedapes, Boedapest, Boudapes, Boudapeste, Boudapès, Budaipeist, Budapescht, Budapeshha, Budapesht, Budapesht osh, Budapest, Budapesta, Budapestas, Budapeste, Budapesti, Budapestinum, Budapesto, Budapeszt, Budapeŝto, Budapeşt, Budapeşte, Budapešt, Budapešta, Budapeštas, Budapešť, Budapèst, Budapésht, Budimpeshta, Budimpesta, Budimpešta, Bùdapest, Bùdapeszt, Búdaipeist, Búdapest, bu da pei si, budapaisata, budapeseuteu, budapesrr, budapest, budapesta, budapesuto, bwdabst, bwdabyst, bwdapst, bwdpst, putapest, Βουδαπέστη, Будапешт, Будапешт ош, Будапеща, Будимпешта, Բուդապեշտ, בודאפעשט, בודפשט, بودابست, بودابيست, بوداپست, بوداپێست, بوډاپسټ, बुडापेस्ट, बुदापेस्त, বুদাপেস্ট, ਬੁਦਾਪੈਸਤ, બુડાપેસ્ટ, ବୁଦାପେଷ୍ଟ, புடாபெஸ்ட், ಬುಡಾಪೆಸ್ಟ್, ബുഡാപെസ്റ്റ്, บูดาเปสต์, བུ་ད་ཕེ་སིད།, ဗူးဒပက်မြို့, ბუდაპეშტი, ቡዳፔስት, ブダペスト, 布达佩斯, 부다페스트

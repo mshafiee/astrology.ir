@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'46.50" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°16'46.50" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'17.78" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°34'50.10" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°58'38.94" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°17'22.56" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°8'17.31" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°41'25.43" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|18°34'50.04" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°58'38.91" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°17'22.03" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°8'17.39" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°47'15.52" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'46.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'17.62" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°34'50.10" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°58'38.94" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°17'22.56" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°8'17.31" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°41'25.43" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°16'46.50" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'17.78" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°34'50.04" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°58'38.91" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°17'22.03" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°8'17.39" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°47'15.52" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: E'ville, Elisabethville, Elizabethstad, Elizabethville, E’ville, FBM, Lubumbashi, Lubumbashi shaary, Lubumbashy, Lubumbasi, Lubumbasis, Lubumbaši, Lubumbašis, Lumumbashi, lu ben ba xi, lubumabasi, lubumbasi, lubumbasi si, lwbmbashy, lwbwmbashy, rubunbashi, Élisabethville, Лубумбаши, Лубумбаши шаары, Лубумбашы, Лубумбаші, לובומבאשי, لوبمباشی, لوبومباشي, لوبومباشی, ਲੂਬੁਮਬਾਸ਼ੀ, ルブンバシ, 盧本巴希, 루붐바시, 루붐바시 시

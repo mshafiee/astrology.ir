@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'34.76" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°16'34.76" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'23.81" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°32'53.58" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|27°55'57.04" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'34.76" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°16'34.76" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°47'23.81" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°32'53.58" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|27°55'57.04" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|18°14'10.92" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|4°11'29.63" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°10'41.36" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|1°44'9.99" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Maroni, Moroni, Moronio, Moronis, Morony, Moròni, Muruni, Móróní, YVA, mo luo ni, mo ro ni, moloni, moroni, muruni, mwrwny, Μορονί, Мароні, Морони, Мороні, Մորոնի, מורוני, موروني, مورونی, مۆرۆنی, मोरोनी, ਮੋਰੋਨੀ, மூறூனீ, โมโรนี, མོ་རོ་ནི།, მორონი, ሞሮኒ, モロニ, 莫洛尼, 莫羅尼, 모로니

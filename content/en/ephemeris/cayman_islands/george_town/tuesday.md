@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°18'17.35" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°46'32.07" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°49'48.10" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°19'26.82" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°41'55.80" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°43'7.46" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|7°28'13.65" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|2°18'17.35" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°46'33.87" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°49'46.00" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°19'22.30" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°41'48.98" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°43'1.79" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|8°14'39.43" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°18'17.35" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°18'17.35" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°46'32.07" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°49'48.10" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°19'26.82" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°41'55.80" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°43'7.46" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°28'13.65" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|28°19'22.30" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°41'48.98" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°43'1.79" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°14'39.43" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Corctaun, Dzhordzh Taun, Dzhordzhtaun, Dzordz Taun, Dzordztaun, Dzordztaunas, Džordžtaunas, GCM, George Town, George Town pa Caymanoyane, George Town på Caymanøyane, Georgetown, Georgurbo, Tzortz Taoun, cxrc thawn, gwrg tʼwn, jarj tavun, jojitaun, jorjata'una, jwrj tawn, qiao zhi dui, qiao zhi dun, Τζωρτζ Τάουν, Џорџ Таун, Џорџтаун, Джордж Таун, Джорджтаун, Джорджтаўн, גורג טאון, جارج ٹاؤن، جزائر کیمین, جرج‌تاون، جزایر کیمن, جورج تاون, जॉर्जटाउन, ஜார்ஜ் டவுன், จอร์จทาวน์, ჯორჯტაუნი, ジョージタウン, 喬治敦, 조지타운

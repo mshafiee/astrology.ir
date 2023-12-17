@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°18'8.88" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°46'36.20" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°48'24.80" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°17'31.34" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°39'39.15" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°45'30.41" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|7°1'47.69" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|2°18'8.88" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°46'38.82" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°48'20.19" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°17'20.25" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°39'28.47" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°45'15.20" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|7°46'14.61" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°18'8.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'36.20" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°48'24.80" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°17'31.34" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°39'39.15" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°45'30.41" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°1'47.69" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°18'8.88" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°46'38.82" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°48'20.19" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°17'20.25" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°39'28.47" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°45'15.20" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|7°46'14.61" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

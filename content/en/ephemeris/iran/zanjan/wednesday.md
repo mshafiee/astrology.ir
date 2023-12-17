@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'48.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'17.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°35'9.50" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°59'5.43" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°17'53.00" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°7'42.71" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°5'4.34" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°16'48.55" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°47'16.97" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°35'9.43" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°59'5.05" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°17'53.66" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°7'41.95" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°54'38.99" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'48.55" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°16'48.55" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°47'17.19" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°35'9.50" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|27°59'5.43" |Sagittarius|Baldah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: JWN, Zanjan, Zanjān, Zendzhan, Zenjan, Zenjān, znjan, Зенджан, زنجان

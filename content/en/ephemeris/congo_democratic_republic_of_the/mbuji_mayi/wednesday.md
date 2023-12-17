@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'51.18" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°16'51.18" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'15.35" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°35'36.39" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|27°59'43.41" |Scorpio|Shaulah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|2°16'51.18" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°16'51.18" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°47'15.35" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°35'36.39" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°59'43.41" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°18'38.09" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°7'1.05" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°1'36.86" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°35'29.42" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°59'26.30" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°18'24.68" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°6'37.17" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°27'19.44" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи
