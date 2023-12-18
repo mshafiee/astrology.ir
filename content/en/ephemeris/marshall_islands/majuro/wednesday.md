@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°19'33.12" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°45'58.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°2'7.68" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°36'28.59" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|19°2'6.32" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°21'22.14" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|12°15'15.85" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|5°45'55.18" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°2'13.55" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°36'42.71" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|19°2'19.28" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°21'41.79" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|11°19'41.92" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Saturn|Venus|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

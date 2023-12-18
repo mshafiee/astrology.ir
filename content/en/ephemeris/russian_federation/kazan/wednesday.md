@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|2°17'2.61" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'10.22" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°37'27.96" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°2'17.69" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°21'41.72" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°3'48.17" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°40'15.82" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|28°2'16.34" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°21'40.85" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°3'46.24" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|3°40'12.50" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°17'2.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'10.03" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°37'28.49" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°2'17.69" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°21'41.72" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°3'48.17" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°40'15.82" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'10.22" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°37'27.96" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°2'16.34" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°21'40.85" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°3'46.24" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°40'12.50" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Casanum, Caza, Cazã, KZN, Kaasan, Kasa, Kasan, Kasã, Kazan, Kazan', Kazan' osh, Kazana, Kazane, Kazani, Kazanj, Kazano, Kazanė, Kazan’, Kazań, Kazaņa, Kazaň, Kazán, Khuazan, Khusan, Kozan', Kuazan, Kuzon, Qazan, Qozon, ka shan, kajan, kajhana, kazan, kazana, kha san, qazan, Καζάν, Казан, Казань, Казань ош, Казањ, Каꙁанъ, Козань, Кузон, Къазан, Озаҥ, Хусан, Хъазан, Қазан, Ҡazan, Ҡазан, Կազան, קאזאן, قازان, كازان, کازان, कझान, काज़ान, คาซาน, ყაზანი, カザン, 喀山, 카잔

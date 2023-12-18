@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°21'6.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°45'11.33" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|19°17'27.64" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°57'51.39" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|19°27'20.11" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|2°54'44.15" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|15°57'7.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|5°45'11.48" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|19°17'27.82" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°57'52.05" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|19°27'19.72" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|2°54'45.23" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|16°5'24.10" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Saturn|Venus|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Mercury|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°21'6.60" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°45'11.33" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|19°17'27.64" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°57'51.39" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°27'20.11" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|2°54'44.15" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|5°45'11.48" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|19°17'27.82" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°57'52.05" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|19°27'19.72" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|2°54'45.23" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|15°57'7.20" |Aries|Butain|Sun|
 
 

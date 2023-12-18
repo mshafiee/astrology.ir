@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°17'12.44" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'3.95" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°39'13.83" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°4'41.46" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°24'38.75" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°0'41.76" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°19'49.78" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°17'13.43" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°47'4.02" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°39'16.69" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°4'49.50" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°24'39.58" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°0'54.34" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|4°17'4.80" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°17'13.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'4.02" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°39'16.69" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°4'49.50" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°24'38.75" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°0'41.76" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|3°19'49.78" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'4.19" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°39'16.62" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°4'49.45" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°24'38.99" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°0'54.34" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|4°17'4.80" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: NIM, Niame, Niamei, Niamej, Niameja, Niamejus, Niameo, Niamey, Niamè, Niamėjus, Nijamej, Níamey, ni ya mei, ni'ami, niame, niamei, nixame, niyame, niyami, nyamy, nyʼmyy, Νιαμέι, Νιαμέυ, Ниамей, Нијамеј, Ніамей, Ніямей, Նիամեյ, ניאמיי, نيامي, نیامی, نیامەی, ܢܝܐܡܝ, नियामे, নিয়ামে, ਨਿਆਮੀ, நியாமி, นีอาเม, ནི་ཡ་མེ།, ნიამეი, ኒያሜ, ニアメ, 尼亞美, 니아메

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°16'48.58" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'17.02" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°35'9.84" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°59'5.91" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°17'53.94" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°7'42.40" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°0'2.32" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'16.91" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°35'9.80" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°59'5.72" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°17'54.29" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°7'42.00" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°54'31.17" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Elam, Elām, IIL, Ilam, ailam, aylam, ylam, Īlām, Илам, اِلام, ایلام, يلام

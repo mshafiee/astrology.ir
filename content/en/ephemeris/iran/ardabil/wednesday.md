@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°16'49.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'16.67" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°35'18.84" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°59'18.25" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°18'8.54" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°7'26.62" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°5'11.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'16.51" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°35'18.79" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°59'17.98" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°18'9.01" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°7'26.08" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°57'41.71" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: ADU, Ardabel, Ardabil, Ardabīl, Ardebil, Ardebīl, Erdebil, aardibyl, ardbyl, Ərdəbil, Ардабел, اردبيل, اردبیل, اَردِبيل

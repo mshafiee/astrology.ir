@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°16'36.06" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'22.99" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°33'5.63" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°56'12.90" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°14'31.67" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°11'6.60" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°0'20.68" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'23.28" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°33'5.75" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°56'13.47" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°14'30.74" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°11'7.73" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°15'18.38" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Dowzdab, Dowzdāb, Duzdab, Duzdap, Duzdāb, Duzdāp, ZAH, Zahedan, Zahedan-e (Yek), Zahedanas, Zahedano, Zahedán, Zahidan, Zaidan, Zaidān, Zakhedan, Záhedán, Zāhedān, Zāhedān-e (Yek), cakitan, jahedan, jahedana, zahdan, zahedan, zahedana, zahedani, zha hei dan, Захедан, Зоҳидон, Զահեդան, زاهدان, زاہدان, ज़ाहेदान, জহেদন, சாகிதன், ზაჰედანი, ザーヘダーン, 扎黑丹, 자헤단

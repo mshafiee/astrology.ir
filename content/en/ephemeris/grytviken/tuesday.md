@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°17'9.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'6.69" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°38'35.29" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°3'51.05" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°23'30.74" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°1'58.89" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|4°9'27.01" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'6.96" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°38'34.17" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°3'48.36" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°23'29.71" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°1'54.95" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|4°1'2.50" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄
