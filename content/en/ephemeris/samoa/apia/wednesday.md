@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°19'13.60" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'6.67" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°58'56.28" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°32'1.70" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|5°46'4.61" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°59'2.08" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°32'16.61" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|18°56'55.70" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|3°26'52.65" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|10°27'51.07" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|10°20'33.14" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

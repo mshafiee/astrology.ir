@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|18°33'27.80" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|27°56'44.28" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|18°15'6.96" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°10'32.11" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°21'53.23" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|4°10'32.09" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°21'52.11" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°16'38.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'22.08" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|5°47'22.09" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°33'27.80" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|27°56'44.28" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|18°15'6.96" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°10'32.11" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°21'53.23" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|4°10'32.09" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°21'52.11" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: DXB, Dabei, Dibai, Dibay, Doubayi, Dubae, Dubai, Dubai City, Dubai emiraat, Dubaija, Dubaj, Dubajo, Dubajus, Dubay, Dubayy, Dubaï, Dubái, Dúbæ, Ehmirat Dubaj, Fort Dabei, Ntoumpai, dby, dbyy, di bai, dobai, du bai, duba'i, dubai, dubay, dubi, dwbyy, tupai, Ντουμπάι, Дубаи, Дубай, Эмірат Дубай, Դուբայի Էմիրություն, דובאי, דוביי, دبئی, دبى, دبي, دبی, دوبەی, دۇبائى, दुबई, দুবাই, துபை, దుబాయ్, ದುಬೈ, ദുബായ്, ดูไบ, დუბაი, ドバイ, 杜拜, 迪拜, 두바이

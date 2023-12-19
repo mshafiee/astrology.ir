@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°17'19.44" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'1.48" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°40'14.95" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°6'9.00" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°26'14.98" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°59'10.16" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|4°31'45.85" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|5°47'2.33" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°40'14.06" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°6'7.14" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°26'11.80" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°59'7.96" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|4°54'39.34" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|18°40'14.95" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|28°6'9.00" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|18°26'14.98" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°59'10.16" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°31'45.85" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|3°59'7.96" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|4°54'39.34" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Bec, Bech, Becs, Beç, Beč, Bienne, Bécs, Dunaj, VIE, Vena, Viden, Viden', Vieden, Viedeň, Viena, Vienna, Vienne, Vieno, Viin, Vin, Vinarborg, Vindobona, Viyana, Vídeň, Vín, Vínarborg, Wenen, Wieden, Wiedeń, Wien, bienna, bin, fyyna, weiynna, Βιέννη, Беч, Вена, Виена, Відень, فيينا, เวียนนา, ቪየና, 비엔나, 빈

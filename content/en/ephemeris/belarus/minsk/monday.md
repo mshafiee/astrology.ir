@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°8'33.01" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°51'57.69" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|17°11'53.90" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|26°3'14.10" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|16°1'19.83" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|6°10'32.84" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|5°39'48.08" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|17°11'53.56" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|26°3'13.81" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|16°1'15.55" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|6°10'34.02" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°21'58.53" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mercury|Saturn|Saturn|Saturn|
+|☾ Moon|Mercury|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°8'33.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°51'57.69" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|17°11'53.90" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|26°3'14.10" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|16°1'19.83" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|6°10'32.84" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|5°39'48.08" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|5°51'57.25" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|17°11'54.05" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|26°3'14.90" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|16°1'17.26" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|6°10'35.13" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°14'31.83" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
