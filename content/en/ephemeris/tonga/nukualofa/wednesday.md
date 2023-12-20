@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°19'13.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°46'4.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°59'0.89" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°32'14.76" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°57'3.10" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°27'15.32" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|10°20'47.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|2°19'13.42" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°46'4.71" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°59'0.88" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°32'14.80" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°57'3.09" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°27'15.42" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|10°20'47.16" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°19'13.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'4.74" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°59'0.89" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°32'14.76" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°57'3.10" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°27'15.32" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|10°20'47.41" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|2°19'13.42" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°46'4.71" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°59'0.88" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°32'14.80" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°57'3.09" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°27'15.42" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°20'47.16" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파

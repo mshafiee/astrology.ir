@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°17'30.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'56.19" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°42'4.65" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°8'40.47" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°29'14.87" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°56'1.66" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|5°8'15.83" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°46'57.67" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°42'4.11" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°8'40.25" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°29'9.92" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°56'2.49" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°3'39.46" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Mercury|Venus|Saturn|Sun|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함

@@ -342,8 +342,8 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°46'4.61" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°59'2.08" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|28°32'16.61" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°56'55.70" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°26'52.65" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|18°57'5.07" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°27'14.21" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|10°20'33.14" |Aries|Sharatain|Sun|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

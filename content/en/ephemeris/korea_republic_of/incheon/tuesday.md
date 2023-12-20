@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:17:39 |
 | Maghrib | 17:36:59 |
 | Isha (Night) | 18:31:35 |
-| Sharia Midnight | 23:47:55 |
+| Sharia Midnight | 23:47:56 |
 | Imum Coeli | 00:30:11 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°15'51.15" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'47.86" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°25'38.55" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°45'51.46" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°2'13.87" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°23'15.48" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|0°33'55.70" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'46.73" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°25'39.19" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°45'52.33" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°2'17.83" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°23'15.81" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|29°55'11.59" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Mercury|Venus|Saturn|Sun|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Jupiter|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}

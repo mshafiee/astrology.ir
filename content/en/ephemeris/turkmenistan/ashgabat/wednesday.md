@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°16'41.80" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°47'20.46" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°34'2.43" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°57'31.85" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°16'3.69" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°9'32.47" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°33'35.19" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|18°34'2.62" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°57'32.03" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°16'5.46" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°9'32.32" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°14'41.20" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°16'41.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'20.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°34'2.43" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°57'31.85" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°16'3.69" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°9'32.47" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°33'35.19" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'19.96" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°34'2.62" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°57'32.03" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°16'5.46" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°9'32.32" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°14'41.20" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: ASB, Achgabat, Achkhabad, Aschabad, Aschabadas, Aschchabad, Aschgabat, Asgabat, Asgabata, Asgabate, Asgabato, Ashabad, Ashabat, Ashgabad, Ashgabat, Ashkabad, Ashkhabad, Ashkhabad osh, Ashkˌobod, Ashqabad, Ashxabad, Ashxobod, Asjabad, Asjchabad, Asjchabat, Asjkhabad, Askabad, Askabat, Askhabad, Asnkampat, Asqabad, Asxabad, Aszchabad, Aŝgabato, Aşgabat, Aşkabat, Aşqabad, Aşğabat, Ašchabad, Ašchabadas, Ašgabat, Ašgabata, Ašhabad, Așgabat, GIashkuabad, Poltoratsk, a shen ha ba de, acukapat, asagabata, asakhabada, asgabad, asgabada, asgabat, ashigabato, ashk abad, ashkhabadi, asigabateu, asqabada, asyuhabateu, xa chka bat, yashkhabad, ʼsgbʼt, ʿەshqabad, Ασγκαμπάτ, Ашгабад, Ашгабат, Ашкабад, Ашхабад, Ашхабад ош, Ашқобод, ГІашкъабад, Աշխաբադ, אשגאבאט, אשגבאט, ئاشخاباد, اشک آباد, عاشق‌آباد, عشق آباد, عشق اباد, عشق‌آباد, عەشقاباد, अश्क़ाबाद, अश्गाबाद, আশখাবাদ, ਅਸ਼ਗ਼ਾਬਾਤ, அசுகாபாத், ಅಶ್ಗಾಬಾತ್, അഷ്ഗാബാദ്, อาชกาบัต, ཨ་ཧྲི་ཁ་པད།, აშხაბადი, አሽጋባት, アシガバート, 阿什哈巴德, 아슈하바트, 아시가바트

@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:16:50 |
+| Fajr (Dawn) | 05:16:51 |
 | Sunrise | 06:34:40 |
 | Dhuhr (Noon) | 11:40:02 |
 | Medium Coeli | 11:40:02 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°25'40.46" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°43'13.08" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|20°1'37.54" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|29°59'9.70" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|20°39'48.42" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|1°33'55.65" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|29°46'31.17" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|5°43'12.99" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|20°1'37.59" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|29°59'9.76" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|20°39'48.74" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|1°33'55.73" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|29°43'25.00" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°25'40.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°43'12.99" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|20°1'37.59" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|29°59'9.76" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|20°39'48.74" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|1°33'55.73" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|29°43'25.00" |Aries|Thurayya|Venus|
+|♃ Jupiter|Retrograde|5°43'12.80" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|20°1'37.46" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|29°59'9.33" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|20°39'49.15" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|1°33'55.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|29°37'19.72" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

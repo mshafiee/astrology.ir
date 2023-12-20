@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:53:30 |
+| Fajr (Dawn) | 05:53:31 |
 | Sunrise | 07:46:21 |
 | Dhuhr (Noon) | 12:01:58 |
 | Medium Coeli | 12:01:58 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°17'9.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'6.61" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°38'34.25" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°3'49.12" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°23'29.71" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°1'58.83" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|3°59'55.43" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°17'9.19" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°47'6.58" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°38'34.24" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°3'49.16" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°23'29.70" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°1'45.74" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|3°10'3.75" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

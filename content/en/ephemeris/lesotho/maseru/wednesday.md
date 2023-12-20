@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°16'39.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'20.69" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°33'42.50" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°57'2.98" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°15'34.34" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°10'1.04" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|1°43'51.26" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'20.66" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°33'42.49" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°57'3.02" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°15'34.33" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°10'1.13" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|1°43'51.07" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°16'39.77" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'21.44" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°33'43.11" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°57'5.35" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°15'32.16" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°10'1.04" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|1°43'51.26" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°16'39.71" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'21.41" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°33'43.10" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°57'5.39" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°15'32.15" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°10'5.45" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°27'3.16" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루

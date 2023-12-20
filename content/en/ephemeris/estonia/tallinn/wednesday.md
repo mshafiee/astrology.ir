@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°17'25.88" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°46'58.54" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°41'14.14" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°7'26.25" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°27'50.78" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°57'6.96" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|5°11'18.86" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|18°41'18.04" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°7'35.76" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°27'58.39" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°57'20.24" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|4°53'25.20" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°17'25.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'58.54" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°41'14.14" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°7'26.25" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°27'50.78" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°57'6.96" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|5°11'18.86" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°46'59.33" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°41'18.27" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°7'37.10" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°27'55.97" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°57'22.93" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|5°31'2.02" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Castrum Danorum, Kallinn, Kolyvan, Lindanaes, Lindanäs, Raeaeveli, Reval, Revel, Revel', Rääveli, TLL, Taillinn, Talin, Talinas, Talini, Talino, Talins, Tallidn, Tallin, Tallin osh, Tallina, Tallinn, Tallinna, Talín, Tàllin, ta lin, talin, talina, tallin, tallina, tallyn, talyn, tarin, thallin n, Ταλίν, Ταλιν, Ταλλίν, Талин, Таллин, Таллин ош, Таллинн, Таллінн, Талін, Տալլին, טאלין, تاللىن, تالين, تالین, تاڵین, ٹالن, तालिन, ताल्लिन, তাল্লিন, ਤਾਲਿਨ, தாலின், ടാലിൻ, ทาลลินน์, ཏཱལ་་ལིན།, ტალინი, ታሊን, タリン, 塔林, 탈린

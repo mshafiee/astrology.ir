@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°17'4.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'11.20" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°37'46.21" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°2'40.11" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°22'6.94" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°3'6.41" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°38'52.60" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'8.43" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°37'50.29" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°2'49.54" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°22'17.83" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°3'18.80" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°43'26.46" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라
