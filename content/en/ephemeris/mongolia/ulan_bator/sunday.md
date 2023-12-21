@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:51:44 |
 | Sunset | 17:03:00 |
 | Maghrib | 17:10:38 |
-| Isha (Night) | 18:58:46 |
+| Isha (Night) | 18:58:47 |
 | Sharia Midnight | 23:54:04 |
 | Imum Coeli | 00:51:59 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°34'31.91" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°40'3.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°25'21.27" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|1°55'11.84" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|22°57'14.42" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|28°57'18.52" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°20'20.16" |Aries|Butain|Venus|
+|♃ Jupiter|Retrograde|5°40'2.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°25'20.70" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|1°55'9.55" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|22°57'16.89" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|28°57'15.94" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°1'40.70" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°34'31.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°40'3.19" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°25'21.27" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|1°55'11.84" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|22°57'14.42" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|28°57'18.52" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|25°20'20.16" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Retrograde|5°40'3.15" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°25'21.25" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|1°55'11.87" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|22°57'14.41" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|28°57'18.61" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°20'20.27" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

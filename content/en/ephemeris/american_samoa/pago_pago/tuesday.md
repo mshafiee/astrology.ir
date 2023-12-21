@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°19'12.47" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°19'12.66" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°46'7.47" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|18°58'46.75" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|28°31'48.36" |Scorpio|Shaulah|Venus|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°19'12.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'5.07" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°58'52.82" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°32'3.74" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°56'49.87" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°27'30.23" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|10°17'42.54" |Aries|Sharatain|Sun|
+|♃ Jupiter|Retrograde|5°46'7.47" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°58'46.75" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|28°31'48.36" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°56'39.28" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°27'8.18" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°35'55.93" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

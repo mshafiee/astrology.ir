@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 17:09:15 |
 | Maghrib | 17:32:29 |
 | Isha (Night) | 18:26:18 |
-| Sharia Midnight | 23:40:39 |
+| Sharia Midnight | 23:40:40 |
 | Imum Coeli | 00:29:17 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°18'27.70" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°46'27.26" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°51'29.35" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°21'46.78" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°44'42.11" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°40'10.70" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|7°59'59.09" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|5°46'26.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°51'29.85" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°21'47.86" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°44'43.22" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°40'12.20" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|7°54'19.21" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°18'27.70" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°46'27.26" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|2°18'27.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°46'27.22" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°51'29.35" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°21'46.66" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°44'41.84" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°40'10.56" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|8°2'9.21" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|28°21'46.70" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°44'41.83" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°40'10.65" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°2'8.97" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°16'49.76" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'16.23" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°35'22.23" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°59'23.05" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°18'14.70" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°7'21.57" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°58'17.55" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°16'49.83" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°47'16.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°35'22.24" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°59'23.01" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°18'14.71" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°7'21.48" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|2°58'17.74" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°16'49.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'16.23" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°35'22.23" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°59'23.05" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°18'14.70" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°7'21.57" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°58'17.55" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°16'49.83" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'16.26" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°35'22.24" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°59'23.01" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°18'14.71" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°7'21.48" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°58'17.74" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BGW, Bagda, Bagdad, Bagdadas, Bagdado, Bagdat, Bagdate, Bagdatum, Bagdod, Bagdá, Bagdád, Baghdad, Baghdād, Bağdad, Bağdat, Beghdad, Bexda, Lungsod ng Baghdad, ba ge da, bagadada, bageudadeu, bagudado, bghdad, bەghdad, paktat, Βαγδάτη, Багдад, Бағдод, Բաղդադ, בגדאד, بغداد, بەغداد, ܒܓܕܐܕ, बगदाद, বাগদাদ, பக்தாத், པ་ག་ཏ, ባግዳድ, バグダード, 巴格达, 바그다드

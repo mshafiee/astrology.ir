@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:39:31 |
 | Sunset | 16:26:39 |
 | Maghrib | 16:32:45 |
-| Isha (Night) | 17:46:24 |
+| Isha (Night) | 17:46:23 |
 | Sharia Midnight | 22:59:53 |
 | Imum Coeli | 23:39:46 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°30'21.54" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°41'26.20" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|20°46'13.28" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|1°0'59.64" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|21°53'0.50" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|0°10'13.31" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|13°23'5.84" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|5°41'26.04" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|20°46'13.63" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|1°1'0.54" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|21°53'1.21" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|0°10'14.64" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|13°18'26.83" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Capricorn|Moon|Saturn|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}

@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:41:54|Night duration: 11:18:36|
+|Duration of the day: 12:41:54|Night duration: 11:18:37|
 |Every hour duration: 01:48:51|Every hour duration: 01:36:57|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Jupiter|Ruler|17:43:21|19:20:16|
 |Late evening|Mars|Servant|19:20:17|20:57:13|
-|Midnight|Sun|Servant|20:57:14|22:34:09|
-|Late at night|Venus|Servant|22:34:10|00:11:06|
-|Rooster song|Mercury|Servant|00:11:07|01:48:02|
-|False Dawn|Moon|Servant|01:48:03|03:24:59|
-|Dawn|Saturn|Servant|03:25:00|05:01:56|
+|Midnight|Sun|Servant|20:57:14|22:34:10|
+|Late at night|Venus|Servant|22:34:11|00:11:06|
+|Rooster song|Mercury|Servant|00:11:07|01:48:03|
+|False Dawn|Moon|Servant|01:48:04|03:25:00|
+|Dawn|Saturn|Servant|03:25:01|05:01:57|
 
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°40'47.11" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°38'17.83" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|22°23'3.83" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|3°15'5.16" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|24°31'58.77" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|27°15'3.95" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|12°9'51.94" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|5°38'18.06" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|22°23'3.77" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|3°15'5.35" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|24°31'57.98" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|27°15'3.99" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|12°12'57.44" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

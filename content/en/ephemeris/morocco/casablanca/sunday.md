@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 07:01:36 |
+| Fajr (Dawn) | 07:01:37 |
 | Sunrise | 08:31:51 |
 | Dhuhr (Noon) | 13:29:52 |
 | Medium Coeli | 13:29:52 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°35'53.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°39'38.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°37'58.31" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|2°12'40.92" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|23°17'57.14" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|28°34'19.97" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|28°57'42.80" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|2°35'53.29" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°39'38.23" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°37'58.33" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|2°12'40.89" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|23°17'57.15" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|28°34'19.89" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°19'18.39" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Mercury|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Mars|Mars|Cancer|Moon|Moon|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°35'53.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°39'38.19" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°37'58.31" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|2°12'40.92" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|23°17'57.14" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|28°34'19.97" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|28°58'15.48" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|2°35'53.29" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°39'38.23" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°37'58.33" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|2°12'40.89" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|23°17'57.15" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|28°34'19.89" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|28°57'42.68" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:11:01 |
 | Sunset | 17:07:48 |
 | Maghrib | 17:11:19 |
-| Isha (Night) | 18:23:30 |
+| Isha (Night) | 18:23:29 |
 | Sharia Midnight | 23:33:25 |
 | Imum Coeli | 00:11:16 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°16'30.03" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'26.38" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°32'6.44" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°54'50.88" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°12'53.18" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|4°12'44.70" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|2°0'5.73" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°16'30.10" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°47'26.42" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°32'6.45" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°54'50.84" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°12'53.39" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|4°12'44.48" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|1°56'52.44" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

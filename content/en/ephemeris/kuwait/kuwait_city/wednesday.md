@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°16'45.42" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'18.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|18°34'38.68" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|27°58'22.64" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°17'3.25" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|4°8'34.34" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°44'21.62" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|5°47'20.53" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|18°34'35.33" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|27°58'14.74" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°16'54.99" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|4°8'23.80" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°19'57.35" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Al Kuwait, Al Kuwayt, Al-Kuwait, Ciudad de Kuwait, Ehl'-Kuvejt, KWI, Koeweit, Kota Kuwait, Koveyit, Koweit, Koweït, Kuvaeyt, Kuvajt, Kuvajto, Kuvajturbo, Kuveitas, Kuväyt, Kuwait, Kuwait City, Kuwait Stad, Kuwait by, Kuwait-Stadt, Kuwait-Urbo, Kuwayt, Kuweit, Kuwejt, Madinat al Kuwayt, Madinat al-Kuwait, Madīnat al Kuwayt, Pole tou Koubeit, aalkuayt, ke wei te shi, khuwet si ti, kuu~eto shi, kuweiteu, kuweiteusiti, kwwyt syty, mdynt alkwyt, Πόλη του Κουβέιτ, Эль-Кувейт, כווית סיטי, اَلْكُوَيْت, مدينة الكويت, คูเวตซิตี, クウェート市, 科威特市, 쿠웨이트, 쿠웨이트시티

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°17'22.56" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°47'1.11" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|18°40'44.21" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°6'47.18" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°27'1.77" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|3°58'8.87" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|4°58'36.68" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|2°17'22.62" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°47'0.36" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|18°40'45.75" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°6'50.87" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°27'4.97" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|3°58'14.04" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|4°49'11.66" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°17'22.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°47'0.17" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|2°17'22.62" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°47'0.20" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|18°40'45.82" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|28°6'47.14" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|18°27'1.77" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°58'8.97" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|4°58'36.68" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|28°6'50.94" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°27'4.97" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°58'14.04" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|4°49'11.66" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Agia Petroupole, Betuyrbukh, Cankt-Peterburg, LED, Leningrad, Leningrado, Lungsod ng Sankt-Peterburg, Peterburg, Peterburgo, Peterburi, Petersburg, Petrapilis, Petrograd, Petrogrado, Petrohrad, Petropolis, Petursborg, Pietari, Piiteri, Piter, Pétursborg, SPb, Saint Petersbourg, Saint Petersburg, Saint Pétersbourg, Saint-Petersbourg, Saint-Pétersbourg, San Petersburgo, San Pietroburgo, San Pietruburgu, Sankt Peitersbuerg, Sankt Peterburg, Sankt Peterburgas, Sankt Petersborg, Sankt Petersburg, Sankt Peterzburg, Sankt Péitersbuerg, Sankt-Peterburg, Sankt-Peterburgo, Sankt-Peterburq, Sankt-Petersburg, Sankti Petursborg, Sankti Pétursborg, Sanktpeterburga, Sanktpēterburga, Sant Petersburg, Sant Petersburgo, Sant-Petersbourg, Santa Peterburg, Sao Petersburgo, Sint Petersbork, Sint-Petersburg, St Petersburg, St. Petersburg, St.-Petersburg, Szentpetervar, Szentpétervár, São Petersburgo, leningeuladeu, sangteupeteleubuleukeu, sankt. peterburg, sankutopeteruburuku, sant btrsbrgh, seinteupiteojeubeogeu, sent pi te xrs beirk, senta pitarsabarga, sheng bi de bao, sn ptrzbwrg, snqt ptrbwrg, Αγία Πετρούπολη, Бетъырбух, Ленинград, Петербург, Петроград, Питер, СПб, Санкт Петербург, Санкт Петерзбург, Санкт-Петербург, Սանկտ Պետերբուրգ, סנקט פטרבורג, سانت بطرسبرغ, سن پترزبورگ, সেন্ট পিটার্সবার্গ, เซนต์ปีเตอร์สเบิร์ก, სანკტ-პეტერბურგი, სანქტ-პეტერბურგი, サンクトペテルブルク, 圣彼得堡, 레닌그라드, 상트페테르부르크, 세인트피터즈버그
