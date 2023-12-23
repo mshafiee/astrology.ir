@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:44:45 |
-| Sunrise | 05:01:58 |
+| Sunrise | 05:01:57 |
 | Dhuhr (Noon) | 11:22:54 |
 | Medium Coeli | 11:22:54 |
 | Sunset | 17:43:50 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:36:24 |
-| Sunrise | 05:01:58 |
+| Sunrise | 05:01:57 |
 | Dhuhr (Noon) | 11:22:54 |
 | Medium Coeli | 11:22:54 |
 | Sunset | 17:43:50 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:43:21 |
-| Sunrise | 05:01:58 |
+| Sunrise | 05:01:57 |
 | Dhuhr (Noon) | 11:22:54 |
 | Medium Coeli | 11:22:54 |
 | Sunset | 17:43:50 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:41:02 |
-| Sunrise | 05:01:58 |
+| Sunrise | 05:01:57 |
 | Dhuhr (Noon) | 11:22:54 |
 | Medium Coeli | 11:22:54 |
 | Sunset | 17:43:50 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:41:52|Night duration: 11:18:39|
+|Duration of the day: 12:41:53|Night duration: 11:18:39|
 |Every hour duration: 01:48:50|Every hour duration: 01:36:57|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|05:01:58|06:50:47|
-|Mid-morning|Saturn|Servant|06:50:48|08:39:37|
-|Late morning|Jupiter|Servant|08:39:38|10:28:27|
-|Noon|Mars|Servant|10:28:28|12:17:18|
-|Early afternoon|Sun|Servant|12:17:19|14:06:08|
+|Early morning|Moon|Ruler|05:01:57|06:50:46|
+|Mid-morning|Saturn|Servant|06:50:47|08:39:36|
+|Late morning|Jupiter|Servant|08:39:37|10:28:27|
+|Noon|Mars|Servant|10:28:28|12:17:17|
+|Early afternoon|Sun|Servant|12:17:18|14:06:08|
 |Mid-afternoon|Venus|Servant|14:06:09|15:54:58|
 |Late afternoon|Mercury|Servant|15:54:59|17:43:49|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°45'39.50" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°37'12.37" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°7'17.03" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|4°16'13.19" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|25°44'32.82" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|26°3'36.36" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°12'18.00" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|2°45'39.58" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°37'12.41" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°7'17.06" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|4°16'13.16" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|25°44'32.84" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|26°3'36.29" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°12'17.96" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°45'39.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°37'12.37" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°7'17.03" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|4°16'13.19" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|25°44'32.82" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|26°3'36.36" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|25°12'18.00" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|2°45'39.58" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°37'12.41" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°7'17.06" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|4°16'13.16" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|25°44'32.84" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|26°3'36.29" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°12'17.96" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
