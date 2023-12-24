@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:18:50 |
 | Medium Coeli | 12:18:50 |
 | Sunset | 16:00:27 |
-| Maghrib | 16:02:27 |
+| Maghrib | 16:02:28 |
 | Isha (Night) | 17:54:25 |
 | Sharia Midnight | 23:22:01 |
 | Imum Coeli | 00:19:05 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°50'43.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'18.68" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°52'34.53" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|5°18'43.94" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|26°58'52.55" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|24°58'41.56" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°50'11.62" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|2°50'43.47" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°36'18.65" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°52'34.60" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|5°18'44.12" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|26°58'52.69" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|24°58'41.82" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°49'5.01" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|5°18'43.94" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|26°58'52.55" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Retrograde|24°58'41.56" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°50'11.62" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°49'4.96" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

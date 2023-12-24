@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:13:51 |
 | Maghrib | 18:19:10 |
 | Isha (Night) | 19:37:23 |
-| Sharia Midnight | 00:18:06 |
+| Sharia Midnight | 00:18:07 |
 | Imum Coeli | 01:04:39 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°46'51.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'58.36" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°18'1.91" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|4°30'57.74" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|26°2'10.41" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|25°46'55.92" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|29°51'23.74" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Retrograde|5°36'58.52" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°18'7.04" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|4°31'10.61" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|26°2'19.10" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|25°47'13.96" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|28°30'47.31" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°46'51.93" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'58.36" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°18'7.09" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|4°31'10.60" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|26°2'19.58" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|25°47'14.15" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|28°30'6.32" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|5°36'58.52" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°18'7.04" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|4°31'10.61" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|26°2'19.10" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|25°47'13.96" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|28°30'47.31" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

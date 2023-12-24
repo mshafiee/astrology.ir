@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:52:38 |
-| Sunrise | 07:18:32 |
+| Sunrise | 07:18:33 |
 | Dhuhr (Noon) | 12:23:38 |
 | Medium Coeli | 12:23:38 |
 | Sunset | 17:28:47 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 10:10:15|Night duration: 13:50:08|
+|Duration of the day: 10:10:14|Night duration: 13:50:08|
 |Every hour duration: 01:27:11|Every hour duration: 01:58:35|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|07:18:32|08:45:41|
-|Mid-morning|Moon|Servant|08:45:42|10:12:52|
-|Late morning|Saturn|Servant|10:12:53|11:40:03|
-|Noon|Jupiter|Servant|11:40:04|13:07:13|
-|Early afternoon|Mars|Servant|13:07:14|14:34:24|
+|Early morning|Mercury|Ruler|07:18:33|08:45:42|
+|Mid-morning|Moon|Servant|08:45:43|10:12:53|
+|Late morning|Saturn|Servant|10:12:54|11:40:03|
+|Noon|Jupiter|Servant|11:40:04|13:07:14|
+|Early afternoon|Mars|Servant|13:07:15|14:34:24|
 |Mid-afternoon|Sun|Servant|14:34:25|16:01:35|
 |Late afternoon|Venus|Servant|16:01:36|17:28:46|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°49'18.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'31.99" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°40'1.81" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|5°1'26.23" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|26°38'17.34" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|25°15'47.43" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°52'29.40" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|2°49'18.81" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°36'31.95" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°40'1.79" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|5°1'26.26" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|26°38'17.31" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|25°15'47.51" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°53'53.24" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

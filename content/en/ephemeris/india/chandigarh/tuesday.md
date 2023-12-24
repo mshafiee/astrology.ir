@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 10:10:02|Night duration: 13:50:21|
+|Duration of the day: 10:10:02|Night duration: 13:50:22|
 |Every hour duration: 01:27:09|Every hour duration: 01:58:37|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Saturn|Ruler|17:28:11|19:26:47|
 |Late evening|Jupiter|Servant|19:26:48|21:25:24|
-|Midnight|Mars|Servant|21:25:25|23:24:01|
-|Late at night|Sun|Servant|23:24:02|01:22:39|
-|Rooster song|Venus|Servant|01:22:40|03:21:16|
-|False Dawn|Mercury|Servant|03:21:17|05:19:53|
-|Dawn|Moon|Servant|05:19:54|07:18:31|
+|Midnight|Mars|Servant|21:25:25|23:24:02|
+|Late at night|Sun|Servant|23:24:03|01:22:39|
+|Rooster song|Venus|Servant|01:22:40|03:21:17|
+|False Dawn|Mercury|Servant|03:21:18|05:19:54|
+|Dawn|Moon|Servant|05:19:55|07:18:32|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°44'23.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°37'28.45" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|22°55'46.81" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|4°0'18.60" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|25°25'39.81" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|26°21'25.88" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|22°0'0.89" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Retrograde|5°37'28.39" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|22°55'46.75" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|4°0'18.37" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|25°25'39.90" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|26°21'25.64" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|22°0'46.28" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
