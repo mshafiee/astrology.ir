@@ -300,9 +300,9 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°1'2.86" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'8.75" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°23'2.87" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°23'32.09" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|5°35'10.73" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°23'0.51" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°23'27.39" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°27'20.64" |Libra|Akleel|Jupiter|
 |☿ Mercury|Retrograde|23°19'57.40" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|3°54'50.10" |Cancer|Nathrah|Venus|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°1'2.86" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°35'8.75" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°22'59.29" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°23'22.37" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°27'17.31" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°19'46.93" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|5°5'40.46" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|25°23'2.87" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°23'32.09" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°27'20.64" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°19'57.40" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°54'50.10" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: CAY, Caiena, Caienna, Cajen-a, Cajena, Cayena, Cayene, Cayenne, Kaena, Kaenna, Kagien, Kajen, Kajena, Kajenna, Kajennae, Kajenneh, Kajeno, Kayen, Kayene, Kayenna, kai yun, kaien'nu, kaiyana, kayen, kayena, kayn, kayyn, Καγιέν, Каена, Кайен, Кайеннæ, Кайенна, Кайеннэ, Каєнна, Кајена, Կայեննա, קאיין, كايين, کائین, کاین, कायेन, ਕੈਯਨ, கயேன், กาแยน, კაიენა, カイエンヌ, 開雲, 카옌

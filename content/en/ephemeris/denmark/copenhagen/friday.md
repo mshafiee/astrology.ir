@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°0'37.68" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'11.17" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°19'24.51" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°18'28.86" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°21'22.14" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°22'57.27" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°23'47.70" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|3°0'37.76" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'12.45" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°19'23.88" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°18'28.57" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°21'18.35" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°22'54.62" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°8'9.88" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°0'37.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'11.17" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°19'24.51" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°18'28.86" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°21'22.14" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°22'57.27" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°23'47.70" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|3°0'37.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'11.13" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°19'24.48" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°18'28.89" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°21'22.11" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°22'57.34" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°23'47.61" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: CPH, Cobanhavan, Copenaga, Copenaghen, Copenaguen, Copenhaga, Copenhagen, Copenhague, Copenhaguen, Copenhaguen - Kobenhavn, Copenhaguen - København, Cóbanhávan, Hafnia, Kapehngagen, Kaupmannahoefn, Kaupmannahöfn, Keypmannahavn, Kjobenhavn, Kjopenhamn, Kjøpenhamn, Kobenhamman, Kobenhaven, Kobenhavn, Kodan, Kodaň, Koebenhavn, Koeoepenhamina, Koepenhamn, Kopenage, Kopenchage, Kopengagen, Kopenhaagen, Kopenhag, Kopenhaga, Kopenhage, Kopenhagen, Kopenhagena, Kopenhago, Kopenhāgena, Kopenkhagen, Koppenhaga, Koppenhága, Kòpenhaga, Köbenhavn, Köpenhamn, Kööpenhamina, København, Københámman, ge ben ha gen, khopenheken, kopanahagana, kopenahagena, kopenahegena, kopenhagen, kwbnhaghn, kwpnhgn, qwpnhgn, Κοπεγχάγη, Капэнгаген, Копенгаген, Копенхаген, Կոպենհագեն, קופנהאגן, קופנהגן, كوبنهاغن, كوپېنھاگېن, ܟܘܦܢܗܓܢ, कोपनहागन, কোপেনহাগেন, কোপেনহেগেন, โคเปนเฮเกน, ཀའོ་པེན་ཧ་ཀེན, კოპენჰაგენი, ኮፐንሀገን, ኮፕንሀግ, コペンハーゲン, 哥本哈根, 코펜하겐

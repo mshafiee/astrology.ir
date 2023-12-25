@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:32:32 |
 | Sunset | 18:18:39 |
 | Maghrib | 18:21:58 |
-| Isha (Night) | 19:30:50 |
+| Isha (Night) | 19:30:51 |
 | Sharia Midnight | 23:54:29 |
 | Imum Coeli | 00:32:46 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°51'10.55" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'13.93" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°56'35.37" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|5°24'18.50" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|2°51'10.47" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°36'13.88" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°56'35.34" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|5°24'18.53" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|27°5'27.99" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|24°53'33.71" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°29'24.25" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Retrograde|24°53'33.80" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°29'22.79" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°51'10.55" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'13.92" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°56'35.37" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|5°24'18.50" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|2°51'10.47" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°36'13.88" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°56'35.34" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|5°24'18.53" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|27°5'27.99" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|24°53'33.71" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°29'24.25" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|24°53'33.80" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°29'21.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

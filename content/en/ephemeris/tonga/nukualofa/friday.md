@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°2'38.05" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°35'2.88" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°36'44.68" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|25°36'38.88" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°42'23.98" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°49'49.09" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°8'45.82" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|7°45'32.59" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|23°8'27.35" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°18'38.93" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°2'38.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'4.66" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°36'38.50" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°42'8.22" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°49'39.00" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°8'25.74" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°13'26.14" |Leo|Zubrah|Saturn|
+|♃ Jupiter|Retrograde|5°35'4.11" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°36'38.88" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°42'8.75" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°49'40.72" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°8'27.35" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°18'38.93" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파

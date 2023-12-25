@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'15.63" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°10'19.19" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°5'58.74" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°6'27.45" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°31'11.40" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°35'14.96" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°6'27.90" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°31'12.03" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°33'57.62" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'34.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'15.51" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°10'15.67" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°5'48.84" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°6'24.87" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°31'1.03" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°35'14.96" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|2°59'34.76" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'15.52" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°10'19.36" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°5'58.74" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°6'27.45" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°31'11.40" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°33'57.62" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: MZR, Masar-e Scharif, Mazar-e Sarif, Mazar-e Sharif, Mazar-e Šarif, Mazar-e-Sharif, Mazar-i Szarif, Mazar-i-Sharif, Mazare Srif, Mazari Sharif, Mazari-Sharif, Mazār-e Sharīf, Mazār-e Šarīf, Mazār-i-Sharīf, Mazāre S̄rīf, majaleu-isyalipeu, mazarisharifu, mzar shryf, Мазари-Шариф, مزار شريف, مزار شریف, マザーリシャリーフ, 마자르이샤리프

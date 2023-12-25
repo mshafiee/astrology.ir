@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:02:33 |
+| Fajr (Dawn) | 06:02:32 |
 | Sunrise | 07:45:31 |
 | Dhuhr (Noon) | 12:33:18 |
 | Medium Coeli | 12:33:18 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°58'44.33" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'18.93" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°2'59.96" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|6°55'51.67" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|28°54'29.81" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°38'2.99" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|29°3'48.10" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|5°35'19.91" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°3'0.67" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|6°55'54.33" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|28°54'27.78" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°38'4.13" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|28°31'31.52" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°58'44.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'19.86" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°3'0.64" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|6°55'54.35" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|28°54'27.86" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|2°58'44.33" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'19.91" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°3'0.67" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|6°55'54.33" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|28°54'27.78" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Retrograde|23°38'4.13" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|28°33'16.14" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°31'31.52" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

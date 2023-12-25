@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°1'18.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'9.81" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°25'11.32" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°26'21.13" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°30'51.45" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|5°35'7.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°25'18.22" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°26'38.28" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°31'2.69" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Retrograde|23°17'39.72" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|6°12'9.78" |Leo|Jabhah|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

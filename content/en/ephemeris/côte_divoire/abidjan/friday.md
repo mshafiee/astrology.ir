@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'11.71" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°17'6.78" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°15'21.46" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°17'36.46" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°25'7.01" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°16'33.30" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°17'36.37" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°25'2.42" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°25'50.58" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'21.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'11.66" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°17'6.79" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°15'21.43" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°17'36.49" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°25'6.95" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°16'33.40" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'11.71" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°17'6.78" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°15'21.46" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°17'36.37" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°25'6.91" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°15'41.04" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: ABJ, Abican, Abidjan, Abidzan, Abidzana, Abidzanas, Abidzans, Abidzhan, Abidzhan shaary, Abidżan, Abidžan, Abidžana, Abidžanas, Abidžans, Abigano, Abijan, Abiyan, Abiyán, Abizhan khot, Abiĝano, Ampitzan, a bi rang, a bi ren, abdjan, abijan, abijana, abijang, abijani, abydjan, abyjan, xabi can, ʼbydgʼn, Αμπιτζάν, Абиджан, Абиджан шаары, Абижан хот, Абиџан, Абіджан, Աբիջան, אבידגאן, אבידזשאן, آبدجان, آبیجان, أبيدجان, आबिजान, আবিজান, ਅਬੀਜਾਨ, അബിജാൻ, อาบีจาน, აბიჯანი, アビジャン, 阿必仁, 阿比让, 아비장

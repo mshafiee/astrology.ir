@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°0'26.21" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°0'26.29" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°35'11.88" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°17'45.29" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°16'12.50" |Sagittarius|NaAaem|Mercury|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|25°17'45.29" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°16'12.50" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|29°18'39.38" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°24'29.08" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°43'59.26" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|23°24'25.40" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°52'37.60" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Barsobia, Varsa, Varsava, Varsavia, Varsavja, Varshava, Varshavae, Varsja, Varsjá, Varso, Varsova, Varsovia, Varsovia - Warszawa, Varsovie, Varsovio, Varssavi, Varsuva, Varsòvia, Varsó, Varsóvia, Varşova, Varšava, Varšuva, Varșovia, Vársá, WAW, Warsaw, Warsawa, Warschau, Warskou, Warszaw, Warszawa, Waršawa, baleusyaba, hua sha, varshava, vorso, warsw, warushawa, wrsh, wrshw, wrsw, wxrsx, Βαρσοβία, Варшавæ, Варшава, Վարշավա, ווארשע, ורשה, װאַרשע, وارسو, ورشو, ۋارشاۋا, ܘܪܣܘ, वॉर्सो, วอร์ซอ, ვარშავა, ዋርሶው, ワルシャワ, 华沙, 華沙, 바르샤바

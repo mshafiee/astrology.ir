@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:10:19 |
 | Medium Coeli | 12:10:19 |
 | Sunset | 17:44:47 |
-| Maghrib | 18:02:31 |
+| Maghrib | 18:02:32 |
 | Isha (Night) | 18:45:13 |
 | Sharia Midnight | 23:32:06 |
 | Imum Coeli | 00:10:34 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°1'15.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'7.92" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°24'54.54" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°26'5.70" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°30'23.83" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°18'21.90" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°28'42.57" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'9.33" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°24'52.31" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°26'0.76" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°30'18.30" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°18'13.98" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°45'5.61" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°1'15.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'7.88" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°24'54.51" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°26'5.73" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°30'23.81" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°18'21.97" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°28'42.50" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'9.33" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°24'52.31" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°26'0.76" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°30'18.30" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°18'13.98" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°45'5.61" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

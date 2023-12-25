@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 07:01:37 |
+| Fajr (Dawn) | 07:01:36 |
 | Sunrise | 08:31:51 |
 | Dhuhr (Noon) | 13:29:52 |
 | Medium Coeli | 13:29:52 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°35'53.22" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°39'37.35" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|21°37'58.30" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|2°12'40.21" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|23°17'59.81" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|2°35'53.29" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°39'38.23" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|21°37'58.33" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|2°12'40.89" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|23°17'57.15" |Libra|Jubana|Jupiter|
 |☿ Mercury|Retrograde|28°34'19.60" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|28°39'30.59" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|28°58'15.48" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°35'53.29" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°39'38.23" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°37'58.33" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|2°12'40.89" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|23°17'57.15" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|28°34'19.89" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|28°57'42.68" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|2°35'53.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°39'38.19" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°37'58.31" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|2°12'40.92" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|23°17'57.14" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|28°34'19.97" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|28°57'42.80" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'39.93" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'15.08" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°59'40.01" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'14.85" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°11'4.65" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°7'1.78" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°7'42.09" |Libra|Akleel|Jupiter|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'15.08" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°11'4.65" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°7'1.78" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°7'43.72" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°30'29.21" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°16'25.67" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°7'42.09" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°30'30.81" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°43'46.16" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Carmana, Dakbayan sa Kerman, Dakbayan sa Kermān, KER, Kerman, Kermanas, Kermano, Kermon, Kermán, Kermān, Kirman, Kirmon, karmana, ke er man, keleuman, kermani, keruman, krman, Керман, Кирмон, Կերման, כרמאן, كرمان, کرمان, कर्मान, ქერმანი, ケルマーン, 克尔曼, 케르만

@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'11.46" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°18'28.01" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°17'11.67" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°19'49.47" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°23'49.17" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°59'42.78" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°19'48.13" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°23'46.86" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°7'50.92" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'31.20" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'11.46" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°18'28.01" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°17'11.67" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°19'49.47" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°23'49.17" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°59'42.78" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'11.75" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°18'27.33" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°17'10.04" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°19'48.13" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°23'46.86" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°7'50.92" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Bantouz, QVU, Vaduc, Vaducas, Vaduz, Vaduzo, fado~utsu, paducheu, vadutsi, wa dou zi, Βαντούζ, Вадуц, פאדוץ, ვადუცი, ፋዱጽ, ファドゥーツ, 瓦都茲, 파두츠

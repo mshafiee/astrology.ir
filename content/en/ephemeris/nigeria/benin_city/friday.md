@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'13.87" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'12.30" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°15'58.73" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°13'47.67" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°15'44.70" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°26'7.32" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°56'50.89" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'12.35" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°15'58.72" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°13'47.70" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°15'44.56" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°26'7.26" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°55'57.89" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BNI, Benim, Benin, Benin City, Benin Siti, Benin by, Benin-Siti, Benin-Stadt, Benin-stad, Beninas, Beninborg, Beninurbo, Benínborg, Bénin, Ciudad de Benin, Ciudad de Benín, Ilu Benin, Kota Benin, Thanh pho Benin, Thành phố Benin, bei ning cheng, beni n si ti, benina sahira, benina siti, beninshiti, beninsiti, bnyn, Ìlú Benin, Бенин, Бенин-Сити, Бенін-Сіті, بنين, بنین, بینن شہر, बेनिन सिटी, ਬੇਨਿਨ ਸ਼ਹਿਰ, เบนินซิตี, ベニンシティ, 贝宁城, 베닌시티

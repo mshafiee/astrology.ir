@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'32.82" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'11.51" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°18'41.28" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°17'29.09" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°20'11.36" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°23'34.59" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°15'1.36" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'12.16" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°18'41.25" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°17'29.67" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°20'9.70" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°23'34.03" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°1'55.33" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BRN, Bann, Beirn, Ben, Bern, Bern osh, Berna, Bernas, Berne, Berno, Bundesstadt, Bèn, Bèrna, atharvaveda, ban he na, barana, barna, beirn, beleun, berna, berni, berun, bo en, bo er ni, brn, byrn, pern, Βέρνη, Берн, Берн ош, Բեռն, בערן, ברן, برن, بيرن, بێرن, بېرن, ܒܪܢ, अथर्ववेद, बर्न, বের্ন, ਬਰਨ, ବର୍ନ, பேர்ன், ബേൺ, เบิร์น, པེར་ནེ།, ბერნი, ቤርን, ベルン, 伯尔尼, 伯恩, 办合纳, 베른

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°3'32.05" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'0.15" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°44'29.42" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°53'3.65" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|0°2'31.58" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|23°2'52.12" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°58'28.20" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'2.61" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°44'23.03" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°52'48.03" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|0°2'19.63" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|23°2'30.99" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°11'43.17" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'0.15" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°44'29.42" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°53'3.65" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|0°2'31.58" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|23°2'52.12" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°58'28.20" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|0°2'19.63" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|23°2'30.99" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|11°11'43.17" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Saturn|Sun|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: PER, Peairt, Pert, Perta, Pertas, Perth, Perth City, Perthia, Perto, Perþ, Pirth, Purt, Pērta, byrth, part, partha, pasu, peoseu, pert, pheirth, po si, prt, prt', prtھ  asٹrylya, Περθ, Перт, Пертһ, Пърт, Պերթ, פרת', بيرث, پرت, پرتھ، آسٹریلیا, पर्थ, பேர்த், ಪರ್ತ್, പെർത്ത്, เพิร์ท, ပါ့သ်မြို့, პერთი, パース, 珀斯, 퍼스

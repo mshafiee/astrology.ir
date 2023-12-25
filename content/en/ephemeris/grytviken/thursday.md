@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'15.07" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'12.85" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°16'8.78" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°13'59.66" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°16'1.20" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°25'50.89" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°24'26.84" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'15.02" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°16'3.64" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°13'47.16" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°15'51.06" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°25'33.34" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°26'45.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'15.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'12.47" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°16'9.63" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°14'1.41" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°16'2.59" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°25'53.23" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°16'29.20" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'12.85" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°16'3.64" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°13'47.16" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°15'51.06" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°25'33.34" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°26'45.44" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄

@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:40:24 |
-| Sunrise | 06:47:59 |
+| Sunrise | 06:48:00 |
 | Dhuhr (Noon) | 12:51:01 |
 | Medium Coeli | 12:51:01 |
 | Sunset | 18:54:02 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:31:37 |
-| Sunrise | 06:47:59 |
+| Sunrise | 06:48:00 |
 | Dhuhr (Noon) | 12:51:01 |
 | Medium Coeli | 12:51:01 |
 | Sunset | 18:54:02 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:44:47 |
-| Sunrise | 06:47:59 |
+| Sunrise | 06:48:00 |
 | Dhuhr (Noon) | 12:51:01 |
 | Medium Coeli | 12:51:01 |
 | Sunset | 18:54:02 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:25 |
-| Sunrise | 06:47:59 |
+| Sunrise | 06:48:00 |
 | Dhuhr (Noon) | 12:51:01 |
 | Medium Coeli | 12:51:01 |
 | Sunset | 18:54:02 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:06:03|Night duration: 11:54:27|
+|Duration of the day: 12:06:02|Night duration: 11:54:27|
 |Every hour duration: 01:43:43|Every hour duration: 01:42:04|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|06:47:59|08:31:41|
-|Mid-morning|Mars|Servant|08:31:42|10:15:24|
-|Late morning|Sun|Servant|10:15:25|11:59:07|
-|Noon|Venus|Servant|11:59:08|13:42:51|
+|Early morning|Jupiter|Ruler|06:48:00|08:31:42|
+|Mid-morning|Mars|Servant|08:31:43|10:15:25|
+|Late morning|Sun|Servant|10:15:26|11:59:08|
+|Noon|Venus|Servant|11:59:09|13:42:51|
 |Early afternoon|Mercury|Servant|13:42:52|15:26:34|
 |Mid-afternoon|Moon|Servant|15:26:35|17:10:17|
 |Late afternoon|Saturn|Servant|17:10:18|18:54:01|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°54'43.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'44.74" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°27'59.98" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|6°7'39.00" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|27°57'0.87" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|24°15'2.79" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|18°25'59.69" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|2°54'43.91" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'44.70" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|24°27'59.99" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|6°7'39.07" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|27°57'0.89" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|24°15'2.83" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|18°26'0.05" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°54'43.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'47.91" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|24°27'53.18" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|6°7'22.89" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|27°56'47.06" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|24°14'39.37" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|19°56'57.94" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|2°54'43.91" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'44.70" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|24°27'59.99" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|6°7'39.07" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|27°57'0.89" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|24°15'2.83" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|18°26'0.05" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Saturn|Sun|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Jupiter|Mercury|Mars|Moon|
+|☾ Moon|Mercury|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

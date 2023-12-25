@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°1'36.14" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'6.52" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°27'51.06" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°30'9.01" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°35'13.49" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°15'54.75" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°16'54.64" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|3°1'36.22" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'7.55" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°27'48.03" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°30'1.41" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°35'8.11" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°15'44.59" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°57'48.64" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°1'36.14" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'6.52" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°27'51.06" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°30'9.01" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°35'13.49" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°15'35.12" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°57'14.28" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|3°1'36.22" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'7.55" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°27'48.03" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°30'1.41" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°35'8.11" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°15'44.65" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°57'48.58" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Saturn|Sun|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: TGU, Tegousigalpa, Tegousigoualpa, Tegucigalpa, Tegucigalpo, Tegucigucigalpa, Tegusigal'pa, Tegusigalp, Tegusigalpa, Teguzigalpa, Tehgusigal'pa, Tenkousinkalpa, Tequsiqalpa, Teuctzincalpan, Tègucigalpa, de gu si jia ba, te gu xi jia er ba, tegushigarupa, tegusigalapa, tegusigalpa, tekucikalpa, tekusikalpa, tgwsygalpa, tgwsyglph, tyghwsyghalba, Τεγκουσιγκάλπα, Τεγουσιγάλπα, Тегусигалпа, Тегусигальпа, Тегусігальпа, Тэгусігальпа, Տեգուսիգալպա, טגוסיגלפה, טעגוסיגאלפע, تيغوسيغالبا, تگوسیگالپا, ٹیگوسیگلپا, तेगुसिगल्पा, তেগুসিগালপা, ਤੇਗੂਸੀਗਾਲਪਾ, டெகுசிகல்பா, ടെഗൂസിഗാൽപ, เตกูซิกัลปา, ཐེ་གུ་སི་གེ་པ།, ტეგუსიგალპა, ቴጉሲጋልፓ, テグシガルパ, 德古斯加巴, 特古西加爾巴, 테구시갈파

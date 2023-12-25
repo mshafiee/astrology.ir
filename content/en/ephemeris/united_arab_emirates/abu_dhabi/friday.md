@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'38.60" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'16.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°10'54.16" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°6'40.45" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°7'26.38" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°30'36.04" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°39'19.06" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|2°59'39.45" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'14.53" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°10'58.59" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°6'51.15" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°7'34.58" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°30'32.44" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°18'8.83" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'15.10" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°10'59.90" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°6'55.42" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°7'34.30" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°30'36.04" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°39'19.06" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°7'34.58" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°30'32.44" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°18'8.83" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: A-pu-that-pi, AEbu Saby, AUH, Aboe Dhabi, Abou Dabi, Abu Dabi, Abu Dabis, Abu Daby, Abu Daibi, Abu Dhabi, Abu Dhabi Island and Internal Islands City, Abu Dhabi emiraat, Abu Zabi, Abu Zaby, Abu Zabye, Abu Zabyo, Abu Ḍabi, Abu Ḑabi, Abu-Dabi, Abu-Dabi khot, Abu-Dabio, Abu-Dzabi, Abú Dabí, Abú Daibí, Abú Zabí, Abû Daby, Abū Dabī, Abū Z̧aby, Abū Z̧abye, Abū Z̧abyo, Abū Z̧abī, Ampou Ntampi, Ebu Dabi, Ebu Dhabi, a bu zha bi, abu dhabi, abu-dabi, abudabi, abudhabi, abw zby, abwzby, aputapi, jzyrt abwzby wjzr dakhlyt akhry, xa bud abi, Â-pu-tha̍t-pí, Äbu Saby, Əbu-Dabi, Άμπου Ντάμπι, Αμπου Νταμπι, Αμπού Ντάμπι, Абу Даби, Абу-Даби, Абу-Даби хот, Абу-Дабі, Әбу-Даби, Աբու Դաբի, אבו דאבי, أبوظبي, ئەبووزەبی, ابو ظبى, ابوظبی, ابوظہبی, جزيرة أبوظبي وجزر داخلية اخرى, अबु धाबी, अबू धाबी, আবুধাবি, ਅਬੂ ਧਾਬੀ, ଆବୁଧାବି, அபுதாபி, ಅಬು ಧಾಬಿ, അബുദാബി, අබුඩාබි, อาบูดาบี, ཨ་པོའུ་དྷ་པེ།, အဘူဒါဘီမြို့, აბუ-დაბი, አቡ ዳቢ, アブダビ, 阿布扎比, 아부다비

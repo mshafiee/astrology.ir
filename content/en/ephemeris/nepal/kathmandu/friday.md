@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°59'14.69" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'17.17" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°7'24.86" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°1'58.94" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°1'41.44" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°33'55.07" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|29°40'52.63" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|5°35'16.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°7'22.93" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°1'52.96" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°1'41.13" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°33'49.55" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°31'40.57" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Mars|Mars|Mercury|Sun|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'14.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'16.63" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°7'22.93" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°1'52.96" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°1'41.11" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°33'49.62" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°31'40.43" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|2°59'14.61" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'17.13" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°7'24.83" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°1'58.96" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°1'41.41" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°33'55.14" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°31'40.57" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Catmandu, Catmandum, KTM, Kantipur, Kantipura, Katemandu, Kathmandau, Kathmandou, Kathmandu, Katmando, Katmandoe, Katmandou, Katmandu, Katmanduo, Katmandó, Katmandú, Katmandû, Katmandū, Katmantou, Khatmandu, Káthmandu, Káthmándú, jia de man dou, kateumandu, kath manthu, kathamadaum, kathamadaum mahanagarapalika, kathamadu, kathamandu, kathmandu, katmandw, katmandww, katmantu, katomanzu, qtmndw, yem jilla, Κατμαντού, Катманду, Կատմանդու, קאטמאנדו, קטמנדו, كاتماندو, كاتماندۇ, کاتماندو, کاتماندوو, کھٹمنڈو, काठमांडू, काठमाडौं, काठमाडौं महानगरपालिका, काठमाण्डू, येँ जिल्ला, কাঠমাণ্ডু, কাঠমান্ডু, ਕਠਮੰਡੂ, કાઠમંડુ, କାଠମାଣ୍ଡୁ, காட்மாண்டு, కాఠ్మండు, ಕಠ್ಮಂಡು, കാഠ്മണ്ഡു, කත්මන්ඩු, กาฐมาณฑุ, ཀ་ཏ་མན་ཏ།, ཀ་ཏ་མན་ཏུ།, კატმანდუ, ካትማንዱ, カトマンズ, 加德滿都, 카트만두

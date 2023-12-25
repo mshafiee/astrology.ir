@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'18.12" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°5'34.14" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|6°59'26.71" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|28°58'40.92" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°35'39.79" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|29°23'46.68" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|28°58'38.92" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°35'32.89" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°10'8.61" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Mars|Mars|Mercury|Sun|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°59'1.93" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°35'18.17" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°5'34.17" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|6°59'26.68" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|28°58'39.85" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°35'40.48" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|29°6'6.67" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|25°5'31.52" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|6°59'18.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|28°58'38.92" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°35'32.89" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°10'8.61" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Saturn|Sun|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Kyatpyay, Kyetpyay, NYT, Naipidau, Nay Pyi Taw, Naypyidaw, Naypyitaw, Ne Pyi Daw, Pyinmana, naepido, nepido, 내피도, 네피도

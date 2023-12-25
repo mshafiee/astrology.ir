@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:19:13 |
 | Sunrise | 06:59:55 |
-| Dhuhr (Noon) | 11:33:39 |
-| Medium Coeli | 11:33:39 |
+| Dhuhr (Noon) | 11:33:40 |
+| Medium Coeli | 11:33:40 |
 | Sunset | 16:07:26 |
 | Maghrib | 16:31:35 |
 | Isha (Night) | 17:27:16 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:17:33 |
 | Sunrise | 06:59:55 |
-| Dhuhr (Noon) | 11:33:39 |
-| Medium Coeli | 11:33:39 |
+| Dhuhr (Noon) | 11:33:40 |
+| Medium Coeli | 11:33:40 |
 | Sunset | 16:07:26 |
 | Maghrib | 16:10:52 |
 | Isha (Night) | 17:49:48 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°35'35.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°39'45.06" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|21°35'8.33" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|2°8'45.63" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|23°13'14.97" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|28°39'24.68" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|28°39'8.09" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Retrograde|5°39'46.22" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|21°35'4.82" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|2°8'36.52" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|23°13'9.35" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|28°39'11.51" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|29°23'17.75" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
