@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'33.99" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'12.26" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°18'51.60" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°17'44.72" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°20'25.98" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°23'26.45" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°52'18.32" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'13.58" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°18'48.77" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°17'38.06" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°20'20.23" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°23'16.91" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°23'7.36" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|3°0'33.99" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°35'11.12" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°18'52.37" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°17'44.72" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°20'25.98" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°23'26.45" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°52'18.32" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°17'45.74" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°20'20.23" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°23'16.91" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°23'7.36" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Balenzia, Pa-lun-si-a, Pâ-lùn-sî-â, VLC, Valantsa, Valence, Valencia, Valencia - Valencia, Valencia - València, Valencie, Valencija, Valencio, Valenseje, Valensi, Valensia, Valensii, Valensij, Valensija, Valensiya, Valensyaa, Valensėjė, Valenthia, Valentia, Valentzia, Valenza, València, Valéncia, Valência, Vałénsia, Walencja, Walensiye, Walénsiye, ba len seiy, ba lun xi ya, ballensia, barenshia, blnsyt, hua lun xi ya, valainsi'a, valenciya, valensia, valensiya, valynsya, wa lun xi ya, walnsya, wlnsyh, wylnsya, Βαλένθια, Валенси, Валенсиа, Валенсий, Валенсия, Валенсија, Валенсія, Վալենսիա, וואלענציע, ולנסיה, بلنسية, والنسیا, ویلنسیا, ویلنسیہ, ڤالينسيا, ڤالێنسیا, वालेन्सिया, ਵਾਲੈਂਸੀਆ, வாலேன்சியா, บาเลนเซีย, ვალენსია, バレンシア, 巴倫西亞, 瓦伦西亚, 瓦倫西亞, 華倫西亞, 발렌시아

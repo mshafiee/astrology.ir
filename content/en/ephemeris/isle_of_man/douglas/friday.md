@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°0'50.24" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'10.19" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°21'13.23" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°20'58.85" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°24'20.55" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°21'23.45" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°50'47.48" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|3°0'50.32" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'10.23" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°21'13.26" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°20'58.82" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°24'20.58" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°21'23.39" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°52'20.60" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Daglas, Daglasa, Daglasas, Doolish, Douglas, Douglas pa Isle of Man, Douglas på Isle of Man, Douglas  Isle of Man, Dubh Lios, Duglas, Duqlas, Ntanklas, Port Douglas, dagalasa, daglasa, dagurasu, daklas, dao ge la si, deogeulleoseu, duglasi, dwghlas, dwglas, taklacu, Ντάγκλας, Даглас, Дуглас, Дъглас, דאגלס, دوغلاس, دوگلاس, ڈگلس, डग्लस, ਡਗਲਸ, டக்லசு, ดักลาส, დუგლასი, ダグラス, 道格拉斯, 더글러스

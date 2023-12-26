@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|2°56'52.13" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°35'30.51" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|24°46'42.56" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|6°33'26.46" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|28°27'42.43" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°54'28.20" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|23°51'0.47" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|6°33'26.41" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|28°27'42.92" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°54'28.39" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|23°52'39.33" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°56'52.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'30.47" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|24°46'42.53" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|6°33'26.44" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|28°27'42.89" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°54'28.46" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|23°52'39.19" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|2°56'52.13" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'30.51" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|24°46'42.56" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|6°33'26.41" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|28°27'42.92" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°54'28.39" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°15'22.38" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Venus|Saturn|Aries|Sun|Mars|
+|☾ Moon|Venus|Saturn|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

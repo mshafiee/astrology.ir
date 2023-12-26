@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'35.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'15.58" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°10'28.20" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°6'3.20" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°6'39.19" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°30'53.36" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°34'10.53" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|2°59'35.85" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'15.62" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°10'28.23" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°6'10.94" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°6'42.26" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°31'2.09" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°41'9.84" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'15.62" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°10'28.23" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°6'10.94" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°6'39.17" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°30'53.43" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°34'10.40" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°6'42.26" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°31'2.09" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°41'9.84" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Daskent, Daşkent, Daşkənd, Lithopolis, TAS, Tachkent, Tachkènt, Taixkent, Taschkent, Tashken, Tashkend, Tashkent, Tashkent osh, Tashkenti, Tasjkent, Taskende, Taskent, Taskenta, Taskentas, Taskento, Taszkent, Taxkent, Taŝkento, Taşkent, Taškent, Taškenta, Taškentas, Tașkent, Tochkent, Toshkand, Toshkent, Toshkent shahri, ta shen gan, tasakada, tasakanda, tasakhanda, tashknd, tashqnd, tashukento, taskanda, taskanr, taskantu, taskent, tasyukenteu, thach khen t, tshqnd, tsqnt, Τασκένδη, Ташкен, Ташкент, Ташкент ош, Тошканд, Տաշքենդ, טאשקענט, טשקנט, تاشقند, تاشكند, تاشكەنت, تاشکند, تاشکەند, طشقند, ताशकन्द, ताश्कंद, তাশখন্দ, ਤਾਸ਼ਕੰਦ, தாஷ்கந்து, తాష్కెంట్, ತಾಷ್ಕೆಂಟ್, താഷ്കന്റ്, ทาชเคนต์, ཐ་ཧྲི་ཀན།, ტაშკენტი, ታሽኬንት, タシュケント, 塔什干, 타슈켄트

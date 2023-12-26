@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°4'45.61" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°34'56.53" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°54'59.92" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|8°7'29.68" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|0°19'47.44" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°55'21.18" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|13°25'34.40" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|5°34'56.89" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°54'59.97" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|8°7'30.19" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|0°19'46.59" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°55'21.00" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|13°15'4.38" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Venus|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°4'45.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°34'57.29" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°54'59.63" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|8°7'29.62" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|0°19'45.30" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|22°55'19.63" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|13°11'58.80" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|5°34'56.89" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°54'59.97" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|8°7'30.19" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|0°19'46.59" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|22°55'21.00" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|13°15'4.38" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

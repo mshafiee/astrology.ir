@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:18:53 |
 | Isha (Night) | 18:09:25 |
 | Sharia Midnight | 23:19:03 |
-| Imum Coeli | 00:04:54 |
+| Imum Coeli | 00:04:53 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 17:02:48 |
 | Isha (Night) | 18:27:31 |
 | Sharia Midnight | 23:14:26 |
-| Imum Coeli | 00:04:54 |
+| Imum Coeli | 00:04:53 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}

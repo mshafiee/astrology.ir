@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'12.48" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'12.30" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°15'43.39" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°13'20.92" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|5°35'12.84" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°15'45.86" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°13'28.29" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°15'23.41" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°26'6.01" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°16'17.02" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|23°26'12.86" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°14'1.43" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Moon|Moon|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°0'11.42" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'12.30" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°15'43.39" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°13'20.92" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°15'22.76" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°26'6.01" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°16'17.02" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|3°0'12.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'12.84" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°15'45.86" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°13'28.29" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°15'23.41" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°26'12.86" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°14'1.43" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Adehsa, Ades, ODS, Odesa, Odess, Odessa, Odessa osh, Odessae, Odesse, Odessos, Odessus, Odessza, Odissos, Oděsa, Udessa, ao de sa, awdsa, awdysa, odesa, odessa, Ódessa, ʼwdysʼ, Οδησσός, Адэса, Одеса, Одесс, Одессæ, Одесса, Одесса ош, Одессе, Օդեսա, אדעס, אודיסא, אודסה, أوديسا, اودسا, اوديسا, اودیسا, ओदेसा, အိုဒက်ဆာမြို့, ოდესა, オデッサ, 敖德薩, 오데사

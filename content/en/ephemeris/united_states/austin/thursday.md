@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°1'52.09" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°1'52.17" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°35'5.69" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°30'8.54" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°33'17.76" |Sagittarius|NaAaem|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°1'52.17" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'5.65" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°30'2.33" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°33'2.41" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°38'48.26" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°13'39.64" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°23'16.10" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'5.69" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°30'8.54" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°33'17.76" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°38'58.99" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°13'59.83" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|6°2'5.21" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: AUS, Austin, Austino, Austinopolis, Aŭstino, Montopolis, Oscin, Ostin, Ostina, Ostinas, Ostins, Waterloo, ao si ting, asatina, astin, astina, astyn  tgzas, awstn, ke shi dian, oseutin, ostina, ostʼini, osutin, xxstin, Ώστιν, Остин, Остін, Осцін, Օստին, אוסטין, אסטין, آستین، تگزاس, آسٹن, آسٹن، ٹیکساس, أوستن, अस्टिन, अस्तिन, आस्टिन्, ऑस्टिन, অস্টিন, ਆਸਟਿਨ, ஆஸ்டின், ഓസ്റ്റിൻ, ออสติน, ოსტინი, ኦስቲን፣ ቴክሳስ, ᎠᏍᏘᏂ, オースティン, 奧斯汀, 柯士甸, 오스틴

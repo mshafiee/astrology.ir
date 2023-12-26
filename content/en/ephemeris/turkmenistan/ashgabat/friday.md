@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:55:11 |
 | Maghrib | 18:14:43 |
 | Isha (Night) | 19:09:39 |
-| Sharia Midnight | 00:25:54 |
+| Sharia Midnight | 00:25:53 |
 | Imum Coeli | 01:08:30 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'42.87" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°59'42.95" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°35'15.00" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°11'29.94" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°7'36.18" |Sagittarius|NaAaem|Mercury|

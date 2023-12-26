@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°50'18.52" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°36'23.05" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|23°48'48.55" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|5°13'28.06" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|26°52'43.62" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|25°3'28.45" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°37'40.84" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Retrograde|5°36'22.38" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°48'52.49" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|5°13'38.29" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|26°52'48.21" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|25°3'41.33" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|7°33'57.09" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Leo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Virgo|Sun|Sun|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°48'52.49" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|5°13'38.29" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|26°52'48.21" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|25°3'28.52" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°37'40.78" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|25°3'41.33" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°33'57.09" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Virgo|Sun|Sun|
 |☿ Mercury|Moon|Mars|Libra|Moon|Mercury|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}

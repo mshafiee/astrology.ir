@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:54:26 |
 | Medium Coeli | 12:54:26 |
 | Sunset | 18:59:20 |
-| Maghrib | 19:16:16 |
+| Maghrib | 19:16:15 |
 | Isha (Night) | 19:57:46 |
 | Sharia Midnight | 00:17:20 |
 | Imum Coeli | 00:54:40 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°8'13.09" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°34'50.68" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°24'29.33" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|8°48'3.24" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|1°8'12.05" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°37'34.67" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|22°3'24.59" |Cancer|Tarf|Moon|
+|♃ Jupiter|Retrograde|5°34'51.24" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|26°24'32.06" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|8°48'11.51" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|1°8'13.27" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°37'41.85" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|20°50'40.87" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Venus|Saturn|Pisces|Sun|Mars|
+|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°8'13.09" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°34'50.68" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|26°24'29.33" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|8°48'3.24" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|1°8'12.05" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|22°37'34.67" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|22°3'24.59" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Retrograde|5°34'51.24" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|26°24'32.06" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|8°48'11.51" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|1°8'13.27" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|22°37'41.85" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°50'40.87" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}

@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'14.05" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°12'42.30" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°9'17.02" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°10'22.87" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°29'1.35" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°35'40.84" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°10'22.39" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°29'4.20" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°1'46.62" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°59'51.21" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'13.47" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°12'41.25" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°9'13.45" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°10'22.87" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°29'1.35" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°35'40.84" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'14.05" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°12'42.30" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°9'17.02" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°10'22.39" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°29'4.20" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°1'46.62" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Djouba, Dschuba, Dzhuba, Goba, JUB, Juba, Uula, g'wbh, juba, jwba, Джуба, ג'ובה, جوبا, 주바

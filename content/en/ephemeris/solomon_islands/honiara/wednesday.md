@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:41:20 |
 | Maghrib | 18:42:23 |
 | Isha (Night) | 20:12:23 |
-| Sharia Midnight | 23:40:45 |
+| Sharia Midnight | 23:40:44 |
 | Imum Coeli | 00:21:07 |
 {{< /tab >}}
 
@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°52'53.45" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'59.62" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°52'53.53" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'59.03" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|24°11'42.06" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|5°45'3.30" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|27°30'18.69" |Libra|Akleel|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°52'53.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'58.99" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|24°11'47.00" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|5°45'16.73" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|27°30'24.18" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|24°34'18.53" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|13°49'31.85" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|2°52'53.53" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'59.62" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|24°11'42.06" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|5°45'3.30" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|27°30'18.69" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|24°34'2.10" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|15°18'4.06" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
+|☾ Moon|Mars|Mars|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}

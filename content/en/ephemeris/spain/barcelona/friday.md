@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'33.08" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'12.35" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°18'43.89" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°17'34.47" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°20'13.11" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°23'33.81" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°45'34.11" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'11.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°18'44.45" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°17'34.71" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°20'16.48" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°23'36.13" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°59'31.43" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'33.08" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'12.40" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°18'43.92" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°17'34.44" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°20'13.13" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°23'33.75" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°45'34.11" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'11.16" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°18'44.57" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°17'35.00" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°20'16.74" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°23'36.56" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°58'9.16" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BCN, Barcellona, Barcellonn-a, Barcelona, Barcelone, Barcelono, Barceluna, Barcelůna, Barcełona, Barcillona, Barcino, Barkelone, Barseloana, Barselon, Barselona, Barselonae, Barselono, Barseluna, Barseluona, Barselóna, Barslon-a, Barsélona, Bartzellona, Bartzelona, Barzelona, Barçellonn-a, Barċellona, Lungsod ng Barcelona, ba sa long na, ba sai luo na, baleusellona, balsaleana, bar se lon a, barasilona, barselona, barsilona, barslwn, barslwna, barsylwna, barsێlۆna, baruserona, brshlwnt, brshlwnہ, brzlwnh, la Ciudad Condal, parcelona, Βαρκελώνη, Барселон, Барселонæ, Барселона, Барселоно, Բարսելոնա, בארצעלאנע, ברצלונה, بارسلون, بارسلونا, بارسیلونا, بارسێلۆنا, برشلونة, برشلونہ, बार्सिलोना, बार्सेलोना, বার্সেলোনা, ਬਾਰਸੀਲੋਨਾ, பார்செலோனா, ബാഴ്സലോണ, บาร์เซโลนา, ບາກເຊໂລນ, བྷར་སེ་ལོ་ནཱ།, ဘာစီလိုနာမြို့, ბარსელონა, ባርሴሎና, バルセロナ, 巴塞罗那, 巴薩隆拿, 바르셀로나

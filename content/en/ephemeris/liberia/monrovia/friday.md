@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'27.87" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'13.81" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°17'56.24" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°16'26.66" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°18'53.97" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°24'6.46" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°56'10.17" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'11.26" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°18'0.01" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°16'34.79" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°19'3.70" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°24'19.88" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°30'40.30" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'11.26" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°18'0.01" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°16'34.79" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°19'3.70" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°24'19.88" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°56'10.17" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°19'1.53" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°24'16.46" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°40'40.77" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MLW, Manrovija, Monrobia, Monrofia, Monrovi, Monrovia, Monrovii, Monrovija, Monrovio, Monroviya, Monrowia, Monròvia, Monróvia, Monróvía, manarobhiya, manroweiy, manrwwya, meng luo wei ya, monarovi'a, monlobia, monrobia, monrovhiya, monrovia, monroviya, mwnrwbyh, mwnrwfya, mwnrwwya, Μονρόβια, Манровія, Монрови, Монровия, Монровија, Монровія, Մոնրովիա, מאנראוויע, מונרוביה, مانروویا, مونروفيا, مونروویا, مۆنرۆڤیا, मोन्रोव्हिया, মনরোভিয়া, ਮੋਨਰੋਵੀਆ, மொன்றோவியா, มันโรเวีย, མོང་རོ་ཝི་ཡ།, მონროვია, ሞንሮቪያ, モンロビア, 蒙罗维亚, 蒙羅維亞, 몬로비아

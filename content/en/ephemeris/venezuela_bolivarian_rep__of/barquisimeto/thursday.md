@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°1'19.29" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'7.60" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°25'25.60" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°26'48.71" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°31'14.83" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°17'56.33" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°35'26.91" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|3°1'19.38" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'7.65" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°25'25.62" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°26'48.68" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°31'14.86" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°17'56.27" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°35'26.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°1'19.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'7.60" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°25'25.60" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°26'48.71" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°31'14.83" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°17'56.33" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°35'26.91" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'7.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°25'25.62" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°26'48.68" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°31'14.86" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°17'56.27" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|4°35'26.98" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

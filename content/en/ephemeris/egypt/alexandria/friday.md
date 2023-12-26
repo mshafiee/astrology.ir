@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°0'3.49" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'13.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°14'28.28" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°11'42.29" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°13'16.20" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|3°0'3.51" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'13.32" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°14'28.29" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°11'42.34" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°13'16.12" |Libra|Akleel|Jupiter|
 |☿ Mercury|Retrograde|23°27'25.61" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°41'9.85" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°40'15.54" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'3.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'13.29" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°14'28.80" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°11'43.26" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°13'18.50" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°27'28.03" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°43'10.39" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'13.32" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°14'28.29" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°11'42.34" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°13'16.12" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°27'25.61" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°40'15.54" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: ALY, Al Iskandariyah, Al Iskandarīyah, Alegsandiri, Alegsàndiri, Alehandriya, Aleixandria, Aleixandría, Alejandria, Alejandría, Aleksandria, Aleksandrii, Aleksandrij, Aleksandrija, Aleksandrio, Aleksandriya, Aleksandrje, Aleksandryja, Aleksandryjo, Alesandria dEgito, Alessandria, Alessandria d'Egitto, Alessandria dEggittu, Alessandria e Naggitto, Alexandreia, Alexandria, Alexandria Magna, Alexandrie, Alexandrië, Alexandría, Alexàndria, Ałesandria dEgito, Cathair Alastair, El Iskandariya, El Iskandarīya, Iskandariah, Iskandariya, Iskandariyah, Iskandri, Iskenderiye, Iskindiriya, Iskindirîya, Lisandria dEgittu, Lisàndria dEgittu, Ol'oksandrija, Taskendrit, alaksantriya, alaskndryt, alegjandriya, alekajandriya, alekcantiriya, alekjhandriya, aleksandria, aleksandriya, allegsandeulia, arekusandoria, askndryh, elekjhandriya, sikadari'a, sikandariya, xa lek san de riy, ya li shan da gang, ya li shan zhuo, yەskەndەryە, İsgəndəriyyə, İskenderiye, Αλεξάνδρεια, Александрий, Александрия, Александрија, Александрыя, Александрія, Искандри, Искәндәриә, Ӧльӧксандрия, Ալեքսանդրիա, אלכסנדריה, אלעקסאנדריע, ئەسکەندەریە, اسكندريه, اسکندریه, اسکندریہ, الإسكندرية, ܐܠܟܣܢܕܪܝܐ, अलेक्झांड्रिया, सिकन्दरिया, আলেকজান্দ্রিয়া, আলেক্সান্ড্রিয়া, ਸਿਕੰਦਰੀਆ, એલેક્ઝાન્ડ્રિયા, அலெக்சாந்திரியா, అలెగ్జాండ్రియా, ಅಲೆಕ್ಸಾಂಡ್ರಿಯ, അലക്സാണ്ട്രിയ, อะเล็กซานเดรีย, ཡ་ལི་ཧྲན་ད, အလက်ဇန္ဒရီးယားမြို့, ალექსანდრია, እስክንድርያ, アレクサンドリア, 亚历山大港, 亞歷山卓, 亞歷山大港, 알렉산드리아

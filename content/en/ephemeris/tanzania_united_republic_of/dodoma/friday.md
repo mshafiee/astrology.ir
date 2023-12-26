@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'14.66" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°11'36.75" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°7'46.73" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°8'32.48" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°29'53.89" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°58'19.83" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°8'34.86" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°30'4.04" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°43'5.01" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|2°59'43.65" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°35'14.66" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°11'36.75" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°7'36.96" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°8'32.48" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°29'53.89" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°58'19.83" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°7'46.73" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°8'34.86" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°30'4.04" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°43'5.01" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: DOD, Dadoma, Dodom, Dodoma, Dodomao, Dódóma, Idodoma, Ntontoma, do do ma, dodoma, du du ma, duo duo ma, dwdwma, dwdwmh, totoma, Ντοντόμα, Дадома, Додома, Դոդոմա, דאדאמא, דודומה, دودوما, دۆدۆما, ڈوڈوما, डोडोमा, दोदोमा, ਦੋਦੋਮਾ, டொடோமா, โดโดมา, დოდომა, ዶዶማ, ドドマ, 多多马, 杜篤瑪, 도도마

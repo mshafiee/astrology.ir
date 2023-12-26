@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°17'20.52" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°15'39.32" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°17'58.78" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°24'48.65" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°36'58.09" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|23°24'50.98" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°32'48.35" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'23.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'12.27" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°17'19.87" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°15'37.93" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°17'57.06" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°24'48.65" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°36'58.09" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'11.86" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°17'20.52" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°15'39.32" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°17'58.78" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°24'50.98" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°32'48.35" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: TUN, Tinis, Tiwnis, Tuenis, Tuinis, Tunes, Tunes tamaneɣt, Tunez, Tunis, Tunis khot, Tunis shaary, Tunis-Ville, Tunisa, Tunisas, Tunisi, Tunisin Orn, Tunisz, Tunixi, Tuniz, Tunizo, Tunus, Tynida, Tùnis, Tùnisi, Túinis, Túnez, Túnis, Túnixi, Túniz, Tûnis, Tünis, chunisu, tu ni si, tu ni si shi, tunis, tunis's, tunisa, twiniseu, twns, twnys, twwns, tyunisa, Τύνιδα, Тунис, Тунис хот, Тунис шаары, Тунисин Орн, Туніс, Թունիս, תוניס, تونس, تونس شہر, توونس, تۇنىس شەھىرى, ٹیونس نگر, ܬܘܢܣ, ट्युनिस, ट्यूनिस, ਤੂਨਿਸ, தூனிஸ், ടൂണിസ്സ്, ตูนิส, ཊུ་ནིསི།, ტუნისი, ቱኒስ, チュニス, 突尼斯, 突尼斯市, 튀니스

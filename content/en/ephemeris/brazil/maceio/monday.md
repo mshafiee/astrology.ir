@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:43:21 |
-| Sunrise | 05:01:58 |
+| Sunrise | 05:01:57 |
 | Dhuhr (Noon) | 11:22:54 |
 | Medium Coeli | 11:22:54 |
 | Sunset | 17:43:50 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:41:02 |
-| Sunrise | 05:01:58 |
+| Sunrise | 05:01:57 |
 | Dhuhr (Noon) | 11:22:54 |
 | Medium Coeli | 11:22:54 |
 | Sunset | 17:43:50 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:41:52|Night duration: 11:18:39|
+|Duration of the day: 12:41:53|Night duration: 11:18:39|
 |Every hour of day duration: 01:03:29|Every hour of night duration: 00:56:33|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:01:58|06:05:26|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|06:05:27|07:08:55|Outer and inner journey|
-|3|Jupiter|Servant|07:08:56|08:12:25|Marriage connection is good|
-|4|Mars|Servant|08:12:26|09:15:54|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|09:15:55|10:19:23|Answering needs, attracting love and wealth|
-|6|Venus|Servant|10:19:24|11:22:53|Summoning the person of interest, love and dominance|
-|7|Mercury|Servant|11:22:54|12:26:22|Making promises|
-|8|Moon|Ruler|12:26:23|13:29:51|Reconciliation of two persons, attracting love|
-|9|Saturn|Servant|13:29:52|14:33:21|Attracting and repelling enemies and causing separation|
-|10|Jupiter|Servant|14:33:22|15:36:50|Good for any task|
+|1|Moon|Ruler|05:01:57|06:05:25|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|06:05:26|07:08:54|Outer and inner journey|
+|3|Jupiter|Servant|07:08:55|08:12:24|Marriage connection is good|
+|4|Mars|Servant|08:12:25|09:15:53|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|09:15:54|10:19:23|Answering needs, attracting love and wealth|
+|6|Venus|Servant|10:19:24|11:22:52|Summoning the person of interest, love and dominance|
+|7|Mercury|Servant|11:22:53|12:26:21|Making promises|
+|8|Moon|Ruler|12:26:22|13:29:51|Reconciliation of two persons, attracting love|
+|9|Saturn|Servant|13:29:52|14:33:20|Attracting and repelling enemies and causing separation|
+|10|Jupiter|Servant|14:33:21|15:36:50|Good for any task|
 |11|Mars|Servant|15:36:51|16:40:19|Creating enmity and negative energy|
 |12|Sun|Servant|16:40:20|17:43:49|Heart tenderness|
 
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°7'17.06" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|4°16'13.16" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|25°44'32.84" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|26°3'36.29" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°12'17.96" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Retrograde|26°3'35.64" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|25°14'43.43" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°45'39.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°37'12.23" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|23°7'16.83" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|4°16'12.51" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|25°44'33.08" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|26°3'35.71" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|25°14'43.46" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|5°37'12.41" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°7'17.06" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|4°16'13.16" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|25°44'32.84" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|26°3'36.29" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|25°12'17.96" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

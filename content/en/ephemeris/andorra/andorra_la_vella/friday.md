@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|7°17'51.53" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°20'36.59" |Libra|Akleel|Jupiter|
 |☿ Mercury|Retrograde|23°23'25.13" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°41'28.50" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|3°3'48.34" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'34.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'11.14" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°18'56.71" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°17'51.53" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°20'36.59" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°23'25.13" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°3'48.34" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'11.90" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°18'56.99" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°17'53.17" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°20'35.05" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°23'25.59" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°41'28.50" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: ALV, Ando-la-Vyey, Andora, Andora la Vela, Andora la Velja, Andora lja Vehl'ja, Andoro Malnova, Andorra, Andorra Tuan, Andorra a Vella, Andorra la Biella, Andorra la Vella, Andorra la Vielha, Andorra-a-Velha, Andorra-la-Vel'ja, Andorra-la-Vielye, Andorre-la-Vieille, Andò-la-Vyèy, Andòrra la Vièlha, an dao er cheng, andolalabeya, andwra la fyla, Ανδόρρα, Андора ла Веля, Андора ла Веља, Андора ля Вэлья, Андорра-ла-Велья, אנדורה לה וולה, أندورا لا فيلا, አንዶራ ላ ቬላ, アンドラ・ラ・ヴェリャ, 安道爾城, 안도라라베야

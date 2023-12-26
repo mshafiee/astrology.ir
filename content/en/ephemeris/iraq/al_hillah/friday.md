@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°59'51.77" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'13.62" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°12'45.70" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°9'18.96" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°10'30.08" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°28'54.96" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°44'48.13" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'14.22" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°12'46.61" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°9'22.12" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°10'29.37" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°28'57.30" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°13'34.65" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'51.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|2°59'51.77" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°35'13.62" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°12'45.70" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°9'18.96" |Capricorn|SaadAlDhabib|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Al Hilla, Al Hillah, Al Ḩillah, Al'-Khilla, Al-Hella, Hilah, Hilla, Hille, Hillé, alhlt, Аль-Хилла, الحلة

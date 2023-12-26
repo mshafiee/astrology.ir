@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°58'18.05" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|2°58'18.13" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°35'22.00" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|24°59'13.15" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|6°50'41.69" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|28°48'14.66" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°41'48.57" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|27°17'5.55" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°59'6.15" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|6°50'24.66" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|28°48'1.80" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°41'25.16" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|28°50'23.71" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|24°59'13.15" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|6°50'41.69" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|28°48'14.66" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°41'48.31" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|27°33'48.57" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|23°41'48.57" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|27°17'5.55" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°2'35.49" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°35'3.29" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°36'20.42" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°41'48.37" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°49'6.11" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°8'51.97" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|7°52'1.12" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|25°36'22.50" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°41'52.61" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°49'12.68" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°9'0.04" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|7°49'36.12" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|3°2'35.49" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°35'3.29" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°36'22.50" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°41'48.37" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°49'6.11" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°8'51.97" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°52'1.12" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|7°41'52.61" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°49'12.68" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°9'0.04" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°49'36.12" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Hie-ling-dong, Hiê-lìng-dóng, Ouellin'nkton, Ouellinkton, Te Whanga-nui-a-Tara, Ueligitone, Uelingtun, Velingtan, Velington, Velingtona, Velingtonas, Velingtono, Vellington, Vellingtonia, Vellinqton, WLG, Welinton, Welintòn, Wellington, Wellinton, Weolingtun, Weolingtūn, Whanga-nui-a-Tara, hui ling dun, oyelintana, raelintana, uelingtʼoni, u~erinton, vailigatana, velingatana, velingtana, velingtoni, velintan, vellingtan, wei ling dun, wellingtan, wellingteon, wlyngtwn, wylynghtwn, wylynjtwn, Ουέλλιγκτον, Ουέλλινγκτον, Велингтон, Веллингтон, Веллінгтон, Велінгтан, Уелингтън, Վելինգտոն, ולינגטון, װעלינגטאן, ولینگتون, ويلينجتون, ويلينغتون, ویلنگٹن, ۋېللىنگتون, वेलिंगटन, वेलिंग्टन, वेलिङ्गटन, ওয়েলিংটন, ৱেলিংটন, ਵੈਲਿੰਗਟਨ, વેલિંગ્ટન, வெலிங்டன், ವೆಲ್ಲಿಂಗ್ಟನ್, വെല്ലിംഗ്ടൺ, เวลลิงตัน, ཝེ་ལིང་ཐོན།, ဝယ်လင်တန်မြို့, ველინგთონი, უელინგტონი, ዌሊንግተን, ウェリントン, 威靈頓, 惠灵顿, 웰링턴
