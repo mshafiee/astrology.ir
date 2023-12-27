@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'8.41" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'12.71" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°15'11.47" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°12'42.61" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|5°35'12.10" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°15'11.21" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°12'41.28" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°14'27.17" |Libra|Akleel|Jupiter|
 |☿ Mercury|Retrograde|23°26'49.71" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°43'1.86" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°0'56.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'8.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'12.71" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°15'11.47" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°12'42.61" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°14'27.17" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°26'49.71" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°43'1.86" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'12.10" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°15'11.21" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°12'41.28" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°14'28.47" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°26'49.37" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°0'56.10" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LBV, Libarwil, Liberopolis, Librefille, Librehvil', Librevil, Librevil', Librevila, Librevilis, Libreville, Librevilo, Librvil, Libvil, Limprebil, Limprvil, Liuravila, lbrwl, lbrywyl, li be rx wil, li bo wei er, libaravila, libarevile, libeuleubil, librevhila, librevili, lipravil, lybrfyl, lybrwwyl, lybrwyl, riburuvu~iru, Λιμπρβίλ, Λιμπρεβίλ, Либрвил, Либревил, Либревиль, Лібревіль, Лібрэвіль, Լիբրևիլ, ליברוויל, ליברעוויל, لبرول, لبریویل, ليبرفيل, لیبرویل, لیبرێڤیل, लिबरेविले, लिब्रेव्हिल, ਲਿਬਰਵਿਲ, லிப்ரவில், ลีเบรอวิล, ལིབ་རེ་ཝིལ།, ლიბრევილი, ሊብረቪል, リーブルヴィル, 利伯維爾, 利伯维尔, 리브르빌

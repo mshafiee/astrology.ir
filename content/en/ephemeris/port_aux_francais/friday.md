@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°34'59.19" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°48'15.46" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°58'13.97" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|0°8'42.41" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|23°0'4.31" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°12'16.06" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|0°8'31.73" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°59'48.70" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°39'35.08" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰

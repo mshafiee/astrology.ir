@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°2'17.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'4.03" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°33'48.30" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°38'21.11" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°44'59.68" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°11'4.97" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°55'37.11" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'6.56" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°33'44.52" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°38'12.89" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°44'49.93" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°10'51.43" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°17'13.28" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: PPT, Pape'ete, Papeehte, Papeehteh, Papeete, Papeetė, Papeiti, Papete, Pape’ete, Papiete, Papiti, Vaiete, babyty, pa pe xe te, pa pi ti, papeete, papete, papiti, papyth, Παπεέτε, Папеете, Папете, Папеэте, Папеэтэ, Պապեետե, بابيتي, پاپیته, پاپیٹی, पापीती, ปาเปเอเต, პაპეეტე, パペーテ, 帕皮提, 파페에테

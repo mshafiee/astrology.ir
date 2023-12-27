@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'51.64" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'14.30" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°12'45.16" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°9'20.21" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°10'27.08" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°28'58.43" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°12'34.42" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|2°59'50.98" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'13.63" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°12'44.28" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°9'16.99" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°10'27.76" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°28'56.24" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°44'29.81" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°59'51.60" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'14.22" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°12'45.21" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°9'20.21" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°10'27.08" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°28'58.43" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°12'34.42" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'13.63" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°12'44.28" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°9'16.99" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°10'27.76" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°28'56.24" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°44'29.81" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Al Najaf al Ashraf, An Najaf, An Najaf al Ashraf, An-Nadzaf, An-Nadzhaf, An-Nadżaf, An-Najaf, Ehn-Nadzhaf, Meshed 'Ali, Meshed ’Ali, NJF, Nachaf, Nadjaf, Nadschaf, Nadzaf, Nadzafas, Nadzhaf, Nadžaf, Nadžafas, Nagafo, Najaf, Najaf - njf, Najaf - نجف, Natzaf, Nayaf, Naĝafo, Necef, Nedjef, Nedzsef, Neshed Ali, Nəcəf, alnjf, alnjf alashrf, na jie fu, najafa, najafu, najap, najapeu, najapi, ngp, njf, Νατζάφ, Ан-Наджаф, Наджаф, Наџаф, Эн-Наджаф, נגף, النجف, النجف الاشرف, نجف, नजफ़, நஜாப், നജഫ്‌, ნაჯაფი, ナジャフ, 納杰夫, 나자프

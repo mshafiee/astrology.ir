@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°10'6.51" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°34'50.72" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|26°40'34.29" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|9°10'14.95" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|1°34'31.74" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°29'58.72" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|25°15'50.67" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|26°40'31.75" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|9°10'7.69" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|1°34'29.81" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°29'51.94" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|26°12'16.98" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Moon|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
+|☾ Moon|Saturn|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Venus|Saturn|Taurus|Sun|Mars|
+|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°10'6.51" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°34'50.72" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|26°40'34.29" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|5°34'50.54" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|26°40'31.75" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|9°10'7.69" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|1°34'29.81" |Sagittarius|Shaulah|Mercury|
 |☿ Mercury|Retrograde|22°29'51.94" |Sagittarius|Baldah|Saturn|

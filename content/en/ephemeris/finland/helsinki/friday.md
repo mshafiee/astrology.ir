@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'34.73" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'11.13" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°18'59.06" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°17'54.40" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°20'40.59" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°23'22.00" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°9'44.09" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'11.90" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°18'59.54" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°17'56.60" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°20'39.20" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°23'23.05" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°43'7.57" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'34.73" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'11.51" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°18'58.10" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°17'52.05" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°20'38.78" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°23'18.77" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°21'50.39" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'11.90" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°18'59.54" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°17'56.60" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°20'39.20" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°23'23.05" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°43'7.57" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Elsin'ki, Elsinki, Elzinki, Gel'sinki, HEL, Heilsinci, Heilsincí, Hel'sinki, Helsenkis, Helsingfors, Helsingi, Helsingia, Helsinki, Helsinkis, Helsinkium, Helsinko, Helsinky, Helsinqui, Helsinquia, Helsset, Helsínquia, Helsînkî, Helsėnkis, Hèlsinki, Khel'sinki, Khel'sinki osh, Khelsinki, Khelzinki, Lungsod ng Helsinki, Stadi, Xelsinki, Xélsinki, elcinki, hailasiki, he er xin ji, helasinki, helsingki, helsinki, herushinki, hlsnky, hlsnqy, hlsynky, hlsynqy, hylsynky, Èlzinki, Ħelsinki, Ελσίνκι, Гельсінкі, Хелзинки, Хелсинки, Хельсинки, Хельсинки ош, Хельсінкі, Ҳелсинкӣ, Һel'sinki, Һельсинки, Հելսինկի, הלסינקי, העלסינקי, هلسنكي, هلسنڪي, هلسینکی, هيلسينكى, هیلسینکی, ھێلسینکی, ہلسنکی, ہیلسنکی, ܗܠܣܢܩܝ, हेलसिंकी, हेल्सिन्की, হেলসিঙ্কি, ਹੈਲਸਿੰਕੀ, எல்சிங்கி, ಹೆಲ್ಸಿಂಕಿ, ഹെൽസിങ്കി, เฮลซิงกิ, ཧེལ་སིན་ཀི།, ဟယ်လ်ဆင်ကီမြို့, ჰელსინკი, ሄልሲንኪ, Ḥélsinki, ヘルシンキ, 赫尔辛基, 赫爾辛基, 헬싱키

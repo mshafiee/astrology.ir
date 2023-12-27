@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°19'35.70" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°18'44.68" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°21'40.53" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°22'48.96" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°21'56.80" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|23°22'46.28" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°28'38.42" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'39.03" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°35'10.97" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°19'35.70" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°18'44.68" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°21'40.53" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°22'48.96" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°21'56.80" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|25°19'34.94" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°18'42.94" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°21'38.74" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°22'46.28" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|3°28'38.42" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: An Bhruiseil, An Bhruiséil, BRU, Breissel, Brisel, Brisele, Briuselis, Brjuksel, Brjusel', Brjussel', Brueksel, Bruessel, Bruesszel, Bruiseal, Bruksel, Bruksela, Brukseli, Brukselo, Brusehl', Brusel, Brusela, Bruselas, Bruseles, Bruselj, Bruselo, Brusel·les, Brussel, Brussele, Brussels, Brussel·les, Bruxel, Bruxelas, Bruxellae, Bruxelles, Brwsel, Bryssel, Bryusel, Bryxelles, Bréissel, Brüksel, Brüssel, Brüsszel, Citta di Bruxelles, Città di Bruxelles, City of Brussels, Kota Brusel, beulwisel, braselasa, braselsa, brassels, briuseli, brwksl, brysl, bu lu sai er, buryusseru, Βρυξέλλες, Брисел, Брусэль, Брюксел, Брюсель, Брюссель, Բրյուսել, בריסל, بروكسل, بروکسل, بريۇسسېل, ܒܪܘܟܣܠ, ब्रसेल्स, ব্রাসেলস, บรัสเซลส์, ბრიუსელი, ブリュッセル, 布魯塞爾, 布鲁塞尔, 브뤼셀
