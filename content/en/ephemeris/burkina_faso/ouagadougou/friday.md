@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'22.26" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'11.70" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°17'11.32" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°15'27.59" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°17'43.79" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°25'2.49" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°18'23.37" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'12.82" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°17'10.46" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°15'26.30" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°17'40.24" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°24'59.07" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°13'3.87" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'22.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'12.22" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°17'10.05" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°15'24.45" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°17'41.28" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°24'58.10" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°34'36.87" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'12.82" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°17'10.46" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°15'27.59" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°17'43.79" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°25'2.49" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°18'23.37" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Huagadugu, OUA, Ouagadouga, Ouagadougou, Ouankantounkou, Ougadougou, Owagadugu, Uagadougou, Uagadugu, Uagaduguo, Uagadugú, Uaqaduqu, Vagadugu, Waaduu, Wagadugu, Wàadúu, awagadwgw, uagadugu, vagadugu, vakatuku, wa jia du gu, wa ka du ku, wagado~ugu, wagadugu, wagadwgw, wagadwwgww, waghadwghw, Ουαγκαντουγκού, Ουαγκαντούγκου, Уагадугу, Ուագադուգու, ואגאדוגו, וואגאדוגו, آواگادوگو, اوآگادوگو, اوگاڈوگو, واغادوغو, واگادووگوو, واگادوگو, वागाडुगू, ਵਾਗਾਦੁਗੂ, வாகடூகு, วากาดูกู, ཨོ་འ་ག་དོའུ་གོའུ།, უაგადუგუ, ዋጋዱጉ, ワガドゥグー, 瓦加杜古, 와가두구

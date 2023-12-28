@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'42.38" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'14.92" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°11'30.75" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°7'32.01" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°8'27.95" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°29'50.92" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°14'43.22" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|2°59'43.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'14.80" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°11'34.95" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°7'43.65" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°8'31.82" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°30'3.66" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°50'0.21" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Al Manama, Al Manamah, Al Manāma, Al Manāmah, Al-Manama, Al-Manamah, Al-Manāmah, Maenamae, Manaama, Manam, Manama, Manamae, Manamah, Manameh, Manamo, Manáma, Manāma, Menama, Mename, Mänamä, WGF, aalmanamat, almnamh, almnamt, mai na ma, mai na mai, manama, mnamh, mnamہ, Μανάμα, Манамæ, Манама, Մանամա, מנאמה, المنامة, المنامه, اَلْمَنَامَة, منامه, منامہ, مەنامە, मनामा, মানামা, ਮਨਾਮਾ, ମାନାମା, மனாமா, മനാമ, มานามา, མ་ན་མ།, მანამა, ማናማ, マナーマ, 麥納瑪, 麦纳麦, 마나마

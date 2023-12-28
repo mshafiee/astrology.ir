@@ -1,6 +1,6 @@
 ---
-date: 2023-12-26T00:00:00+04:00
-lastmod: 2023-12-26T00:00:00+04:00
+date: 2024-01-02T00:00:00+04:00
+lastmod: 2024-01-02T00:00:00+04:00
 title: Victoria Tuesday
 slug: tuesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Tuesday, 26 Dec 2023
+description: 🗓 Tuesday, 02 Jan 2024
 
 toc: false
 ---
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
-|♌ Leo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
+|♍ Virgo|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
-|♍ Virgo|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub> |<sub> |<sub>☍ Opposition</sub>|
+|<sub>**♀ Venus**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub>△ Trine|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

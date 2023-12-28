@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°10'48.49" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°6'39.85" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°7'15.69" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°30'46.75" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°34'42.57" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|23°30'41.53" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°39'25.94" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'37.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'14.37" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°10'47.48" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°6'36.04" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°7'16.89" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°30'44.10" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°14'2.08" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|2°59'38.08" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'15.24" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°10'47.17" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°6'37.17" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°7'11.33" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°30'41.53" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°39'25.94" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투

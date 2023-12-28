@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°36'5.45" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|24°5'6.27" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|5°36'3.57" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|27°19'16.74" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|24°42'23.84" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|12°43'19.12" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°19'26.53" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|24°42'37.25" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°56'54.35" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Venus|Mars|Mercury|Sun|
 |☿ Mercury|Saturn|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Leo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°52'8.19" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°36'7.99" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|24°5'2.58" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|5°35'55.46" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|27°19'16.74" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|24°42'23.84" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|5°36'5.45" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|24°5'6.27" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|5°36'3.57" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|27°19'26.53" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|24°42'37.25" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|12°43'19.12" |Cancer|Nathrah|Mercury|
 
 

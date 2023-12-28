@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°16'25.79" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'1.53" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|27°33'36.40" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|10°23'2.30" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°1'31.70" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|22°13'39.91" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°37'24.37" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|5°35'0.13" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|27°33'42.45" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|10°23'17.76" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°1'40.87" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|22°13'57.43" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°36'9.03" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Mercury|Jupiter|Sun|
+|☾ Moon|Venus|Mercury|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Mars|Moon|Sagittarius|Moon|Mars|
 |☿ Mercury|Saturn|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
+|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°16'25.79" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'0.13" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|5°35'0.05" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|27°33'42.45" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|10°23'17.76" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|3°1'40.87" |Sagittarius|Shaulah|Mercury|

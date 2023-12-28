@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'14.27" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°12'23.15" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°8'50.43" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°9'52.43" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°29'21.57" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°9'4.22" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°9'50.93" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°29'20.96" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°58'47.93" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: ASM, Asmar, Asmara, Asmaro, Asmehra, Asmera, Aszmara, a si ma la, asamara, aseumala, asmara, asmera, asmrh, asmrt, asumara, yەsmەrە, Əsməra, Ασμάρα, Асмара, Асмэра, Асмєра, Ասմարա, אסמרה, أسمرة, ئەسمەرە, اسمارا, اسمره, अस्मारा, ਅਸਮਾਰਾ, அஸ்மாரா, അസ്മാറ, แอสมารา, ཨཱ་སི་མི་ར།, ასმერა, አስመራ, ኣስመራ, アスマラ, 阿斯馬拉, 아스마라
