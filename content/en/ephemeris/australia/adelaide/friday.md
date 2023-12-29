@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°3'10.78" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'1.27" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°41'26.44" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°48'51.53" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°57'31.36" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°5'8.03" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°9'34.10" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'3.66" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°41'21.39" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°48'39.53" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°57'20.73" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°4'50.74" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°58'25.75" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|3°3'10.78" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|5°35'1.27" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°41'26.44" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°48'51.53" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°57'31.36" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°5'8.03" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°9'34.10" |Leo|Zubrah|Saturn|
+|☉ Sun|Direct|7°48'39.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°57'20.73" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°4'50.74" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°58'25.75" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: ADL, Adehlaida, Adelaida, Adelaidae, Adelaide, Adelaidis, Adelaidė, Adelajda, Adelajdo, Adelaïda, Adelaïde, Adelejd, Adelàida, Adélaïde, Edelaid, Tarndanya, Tarndarnya, a de lai de, adelaida, aderedo, adilaid, adiled, adlayd, adylyd, aedeulleideu, atileyit, edile'ida, edileda, Αδελαΐδα, Аделаидæ, Аделаида, Аделаїда, Аделейд, Аделејд, Адэлаіда, Ադելաիդա, אדלייד, آدلاید, أديليد, ئادېلايدې, ایڈیلیڈ, एडिलेड, ॲdaleda, ॲडलेड, એડિલેઇડ, அடிலெயிட், అడిలైడ్, ಅಡಿಲೇಡ್, അഡിലെയ്‌ഡ്, แอดิเลด, အက်ဒလိတ်မြို့, ადელაიდა, アデレード, 阿德来得, 阿德莱德, 애들레이드

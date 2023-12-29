@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°3'53.34" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'1.40" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°47'28.28" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°57'3.58" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|0°7'23.91" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|23°0'17.70" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°58'32.76" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|3°3'53.63" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°34'58.55" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°47'31.87" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°57'10.78" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|0°7'34.07" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|23°0'30.61" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°55'17.29" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°3'53.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°34'59.10" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°47'34.28" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°57'17.96" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|0°7'34.74" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|23°0'17.70" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°58'32.76" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|5°34'58.55" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°47'31.87" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°57'10.78" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|0°7'34.07" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|23°0'30.61" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|11°55'17.29" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: SHA, San'nkae, Sanchajus, Sangaj, Sangay, Sanghaj, Sanghay, Sanhaja, Sanhajo, Sanxay, Schanghai, Shang-hai, Shang-hai-shih, Shangai, Shangaj, Shanghai, Shanghai - shang hai, Shanghai - 上海, Shankhaj, Sjanghae, Sjanghai, Sjanghæ, Szanghaj, Thuong Hai, Thượng Hải, Xangai, cankay, sangha'i, sanghae, sanghai, seiynghi, shang hai, shang hai shi, shanghay, shanghhay, shanhai, zhong guo shang hai, Ŝanhajo, Şangay, Şanghay, Şanxay, Šanchajus, Šangaj, Šanghaj, Šanhaja, Σανγκάη, Шангај, Шанхай, שאנגחאי, شانغهاي, شانگهای, شاڭخەي, شاڭخەي شەھىرى, সাংঘাই, சாங்காய், เซี่ยงไฮ้, შანჰაი, 上海, 上海市, 中国上海, 상하이, 상해

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°0'1.74" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'13.23" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°14'13.67" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°11'22.98" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°12'52.35" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°27'41.61" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°26'50.75" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|3°0'0.64" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|5°35'12.95" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°14'10.36" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°11'13.40" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°12'50.21" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°27'31.83" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°41'46.32" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Aquarius|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'1.74" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'14.13" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°14'13.05" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°11'22.11" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°12'49.55" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°27'39.05" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°21'43.23" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'12.95" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°14'10.36" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°11'13.40" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°12'50.21" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°27'31.83" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°41'46.32" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Mercury|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BZV, Braza, Brazavil, Brazavilis, Brazavilo, Brazzavil', Brazzaville, Maya-Maya, Mprazabil, N'Tamo, beulajabil, brazafyl, brazawyl, brzwwyl, bu la chai wei er, burazavu~iru, Μπραζαβίλ, Браззавиль, ברזוויל, برازافيل, برازاویل, ብራዛቪል, ブラザヴィル, 布拉柴维尔, 브라자빌

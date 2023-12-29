@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'7.86" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°25'3.29" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°26'17.72" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°30'38.21" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°18'14.42" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°31'42.66" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°30'38.19" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°18'14.41" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°31'33.94" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'7.86" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°25'3.29" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°26'17.72" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°30'38.21" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°18'14.42" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|4°31'42.66" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°30'38.19" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°18'2.65" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|5°16'4.47" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Goustavia, Gustaf, Gustavi, Gustavia, Gustavija, Gustavio, Gustávia, Guthavia, Qustaviya, guseutabia, gustavhiya, gusutabia, gwiseutabia, gwstawya, ju si ta wei ya, ku s ta wi ya, kucutaviya, Γουσταβία, Густави, Густавия, Густавија, Густавія, گوستاویا, گوسٹاویا, गुस्ताव्हिया, குசுதாவியா, กุสตาวียา, გუსტავია, グスタビア, 居斯塔维亚, 구스타비아, 귀스타비아

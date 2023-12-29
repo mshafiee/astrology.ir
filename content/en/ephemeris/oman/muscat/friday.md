@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°59'35.65" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'15.40" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°10'26.97" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°6'10.07" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°6'40.27" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°31'5.63" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°29'33.60" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'14.65" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°10'25.61" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°6'5.51" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°6'41.02" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°31'2.89" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°13'4.51" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°59'35.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'15.63" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°10'26.97" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°6'9.70" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°6'39.51" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°31'5.63" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|0°29'33.60" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'14.65" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°10'25.61" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°6'5.51" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°6'41.02" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°31'2.89" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°13'4.51" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MCT, Maeskat, Mascat, Mascate, Maskat, Maskata, Maskatas, Maskate, Maskato, Maskˌat, Masqat, Masqaţ, Masqaṭ, Masquat, Maszkat, Mouskat, Muscat, Muskat, Mäskat, Múskat, ma si ka te, ma si ke te, masakata, maskarr, maskat, maskata, masqata, masukatto, msqt, museukateu, Μουσκάτ, Маскат, Масқат, Мускат, Մասկատ, מסקט, مسقط, مسقط، عمان, مۇسكات, مەسقەت, मस्कत, मस्क़त, মাস্কাট, ਮਸਕਟ, ମସ୍କଟ, மஸ்கத், మస్కట్, മസ്കറ്റ്, มัสกัต, མི་སི་ཁ་ཁྲི།, მასკატი, መስከት, マスカット, 馬斯喀特, 马斯喀特, 무스카트

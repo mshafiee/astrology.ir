@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'10.88" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°19'22.76" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°18'27.55" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°21'19.35" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°23'2.83" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°9'25.94" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|29°21'15.25" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°22'59.29" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°58'31.35" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'37.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'10.88" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°19'22.76" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°18'27.55" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°21'19.35" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°23'2.83" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|3°9'25.94" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'12.24" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°19'21.90" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°18'26.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°21'15.25" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°22'59.29" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|2°58'31.35" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: La Villa y Corte de Madrid, Los Madriles, Lungsod ng Madrid, MAD, Ma-daik-li, Ma-tet-li, Madrid, Madrid osh, Madridas, Madride, Madridi, Madrido, Madrids, Madril, Madrit, Madrite, Madryd, Madryt, Madríd, Madrîd, Magerit, Maidrid, Mairil, Makelika, Matritum, Mâ-tet-lî, Mā-dáik-lī, ma de li, madarida, madeulideu, madorido, madorido shi, madri, madrid, madrida, madridi, madryd, matrit, mdryd, myadrida, mydrd, Μαδρίτη, Мaдрид, Мадрид, Мадрид ош, Мадрыд, Мадрід, Մադրիդ, מאדריד, מדריד, مادرىد, مادرید, مدريد, میدرد, مەدرید, ܡܕܪܝܕ, मद्रिद, मद्रिद्, माद्रिद, माद्री, म्याड्रिड, মাদ্রিদ, ਮਾਦਰੀਦ, ମାଡ୍ରିଦ, மத்ரித், ಮಡ್ರಿಡ್, മാഡ്രിഡ്, มาดริด, མ་ད་རིད།, မဒရစ်မြို့, მადრიდი, ማድሪድ, マドリード, マドリード市, 馬德里, 马德里, 마드리드

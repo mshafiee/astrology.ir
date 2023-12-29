@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°11'12.89" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|7°7'13.37" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°7'55.73" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°30'20.62" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°13'30.40" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|23°30'23.87" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|0°43'1.63" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|5°35'15.05" |Taurus|Thurayya|Mercury|
 |♂ Mars|Direct|25°11'12.89" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°7'13.37" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°7'55.55" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°30'20.62" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°13'30.40" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|29°7'55.73" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°30'23.87" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°43'1.63" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루

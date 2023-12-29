@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°2'42.16" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'3.76" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°37'13.98" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°42'56.82" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°50'38.83" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°7'59.73" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|9°34'10.75" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'2.59" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°37'20.11" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°43'12.92" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°50'47.20" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°8'18.90" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|7°53'19.55" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|25°37'20.11" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|7°43'12.92" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|29°50'47.20" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°7'59.73" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|9°34'10.75" |Leo|Zubrah|Saturn|
+|☿ Mercury|Retrograde|23°8'18.90" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°53'19.55" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}

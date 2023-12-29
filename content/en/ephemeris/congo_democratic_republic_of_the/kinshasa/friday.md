@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|3°0'1.69" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°35'13.23" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°14'13.24" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°11'22.38" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°12'51.64" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°27'42.00" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°26'43.68" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°11'21.52" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°12'48.84" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°27'39.44" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°21'35.85" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°0'1.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'13.23" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°14'13.24" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°11'22.38" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°12'52.80" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°27'42.07" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|1°38'55.65" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'14.13" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°14'12.62" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°11'21.52" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°12'48.84" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°27'39.44" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°21'35.85" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: FIH, Kincasa, Kinchasa, Kinchassa, Kinsas, Kinsasa, Kinsaso, Kinshasa, Kinshase, Kinsjasa, Kinszasa, Kinsásá, Kinxasa, Kinŝaso, Kinşasa, Kinšas, Kinšasa, Kînşasa, Leopoldstad, Leopoldville, Léopoldville, Quinxassa, jin sha sa, jin xia sha, kin cha sa, kinasasa, kinsaca, kinsasa, kinshasa, kinsyasa, knshasa, kynshasa, Κινσάσα, Киншаса, Киншасе, Кіншаса, Կինշասա, קינשאזע, קינשאסה, كينشاسا, کنشاسا, کنشاسہ, کینشاسا, किन्शासा, কিনশাসা, ਕਿਨਸ਼ਾਸਾ, கின்ஷாசா, കിൻഷസ, กินชาซา, ཀིན་ཤ་ས།, ကင်ရှာဆာမြို့, კინშასა, ኪንሻሳ, キンシャサ, 金夏沙, 金沙薩, 킨샤사

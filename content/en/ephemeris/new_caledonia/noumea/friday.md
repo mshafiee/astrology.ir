@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|3°2'53.31" |Aquarius|SaadAlSaud|Venus|
 |♃ Jupiter|Retrograde|5°35'2.04" |Aries|Sharatain|Mars|
 |♂ Mars|Direct|25°38'56.17" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°45'23.79" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°53'22.85" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°7'1.68" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°22'24.40" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|7°45'25.04" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°53'24.81" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°7'4.04" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°22'18.16" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°2'53.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'2.04" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°38'56.17" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°45'25.04" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°53'24.81" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°7'4.04" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|8°22'18.16" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|3°2'52.43" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|5°35'1.47" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°38'54.03" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°45'18.31" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°53'24.16" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°6'57.94" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|9°21'49.96" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}

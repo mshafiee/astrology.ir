@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°59'54.43" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'13.84" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°13'10.06" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°9'55.07" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°11'7.91" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°28'38.32" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|1°12'1.22" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'15.40" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°13'8.42" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°9'51.97" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°11'2.56" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°28'32.15" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|1°15'1.37" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°59'54.43" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|5°35'13.34" |Taurus|Thurayya|Mercury|
-|♂ Mars|Direct|25°13'7.58" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|7°9'47.70" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|29°11'7.14" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°28'31.37" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°13'21.63" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|5°35'13.84" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|25°13'8.42" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|7°9'51.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|29°11'2.56" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°28'32.15" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°15'1.37" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

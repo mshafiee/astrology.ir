@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°2'47.98" |Aquarius|SaadAlSaud|Venus|
-|♃ Jupiter|Retrograde|5°35'4.82" |Aries|Sharatain|Mars|
-|♂ Mars|Direct|25°38'5.47" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|7°44'10.99" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°51'58.72" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|23°7'23.66" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°47'2.06" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|5°35'2.24" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|25°38'10.29" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°44'22.08" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°52'9.52" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|23°7'40.30" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°6'31.48" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>✱ Sextile|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티
